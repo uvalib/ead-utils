@@ -32,9 +32,9 @@ public class TimingNodeVisitor implements EADNodeVisitor {
             double msPerNode = (double) totalTime / (double) i;
             int nodesRemaining = total - i;
             long msRemaining = Math.round((double) nodesRemaining * msPerNode);
-            System.out.println(component.getPid() + ", "  + i + " of " + total + " nodes processed in " + prettyPrintElapsedMS(duration) + ".  " + prettyPrintElapsedMS(msRemaining) + " remaining.");
+            System.out.println((component.getPid() == null ? component.getReferenceId() : component.getPid()) + ", "  + i + " of " + total + " nodes processed in " + prettyPrintElapsedMS(duration) + ".  " + prettyPrintElapsedMS(msRemaining) + " remaining.");
         } else {
-            System.out.println("Node " + i + " (" + component.getPid() + ") took " + prettyPrintElapsedMS(duration) + ".");
+            System.out.println("Node " + i + " (" + (component.getPid() == null ? component.getReferenceId() : component.getPid()) + ") took " + prettyPrintElapsedMS(duration) + ".");
         }
         last = System.currentTimeMillis();
         i ++;

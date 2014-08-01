@@ -4,6 +4,7 @@ import edu.virginia.lib.ead.EADIngester;
 import edu.virginia.lib.ead.EADNode;
 import edu.virginia.lib.ead.Fedora3DataStore;
 import edu.virginia.lib.ead.HoldingsInfo;
+import edu.virginia.lib.ead.ImageMapper;
 import edu.virginia.lib.ead.PidFilter;
 import edu.virginia.lib.indexing.SolrIndexer;
 
@@ -25,31 +26,6 @@ public class ReedIngester extends EADIngester {
 
         // TODO: update this method to suit your ingest needs...
         r.ingest(true);
-    }
-
-    private static void replaceBrokenPids(final ReedIngester r, final List<String> brokenPids, boolean reindex) throws Exception {
-        for (String brokenPid : brokenPids) {
-            r.dataStore.purge(brokenPid);
-        }
-        PidFilter filter = new PidFilter() {
-            @Override
-            public boolean includePid(String pid) {
-                return brokenPids.contains(pid);
-            }
-        };
-        if (!brokenPids.isEmpty()) {
-            r.ingest(false, filter);
-        }
-
-        if (reindex) {
-            reindex(r, true, filter);
-        }
-    }
-
-    private static void reindex(final ReedIngester r, boolean clearCache, PidFilter filter) throws Exception {
-        final SolrIndexer indexer = new SolrIndexer(((Fedora3DataStore) r.dataStore).getFedoraClient(),
-                getDefaultSolrUpdateUrl());
-        r.index(indexer, clearCache, filter);
     }
 
     public ReedIngester(Fedora3DataStore fedora3DataStore) throws Exception {
@@ -89,5 +65,11 @@ public class ReedIngester extends EADIngester {
                 return "MS-1";
             }
         }});
+    }
+
+    @Override
+    protected ImageMapper getImageMapper() throws Exception {
+        // no image mapping... yet.
+        return null;
     }
 }

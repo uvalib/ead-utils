@@ -4,6 +4,7 @@ import edu.virginia.lib.ead.DataStore;
 import edu.virginia.lib.ead.EADNode;
 import edu.virginia.lib.ead.EADNodeVisitor;
 import edu.virginia.lib.ead.HoldingsInfo;
+import edu.virginia.lib.ead.ImageMapper;
 import edu.virginia.lib.ead.PidFilter;
 import edu.virginia.lib.ead.ExternalPidResolver;
 
@@ -23,6 +24,8 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
 
     private List<HoldingsInfo> holdings;
 
+    private ImageMapper imageMapper;
+
     public FedoraSynchronizingNodeVisitor(DataStore ds, ExternalPidResolver pids, boolean dryRun) throws IOException {
         this.data = ds;
         this.pids = pids;
@@ -34,6 +37,9 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
         this.holdings = h;
     }
 
+    public void setImageMapper(ImageMapper m) {
+        this.imageMapper = m;
+    }
 
 
     public void setFilter(PidFilter f) {
@@ -54,9 +60,12 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
             // find or create a PID
             String pid = getPid(component);
             if (!dryRun) {
+                // update metadata
                 if (updatePid(pid)) {
                     data.addOrReplaceEADFragment(pid, component);
                 }
+
+                // update relationships
                 String previousPid = null;
                 for (String childId : component.getChildReferenceIds()) {
                     final String childPid = pids.getPidForNodeReferenceId(childId);
@@ -70,16 +79,43 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
                     }
                     previousPid = childPid;
                 }
-                for (HoldingsInfo h : this.holdings) {
-                    if (h.shouldBeLinkedToNode(component)) {
-                        if (updatePid(pid)) {
-                            data.setHoldingsRelationship(pid, getPid(h));
-                        }
-                    }
-                }
+
+                // add holdings if available
+                addHoldings(pid, component);
+
+                // add images if available
+                linkImages(pid, component);
             }
         } catch (Exception e) {
             throw new RuntimeException(e);
+        }
+    }
+
+    private void linkImages(String pid, EADNode component) throws Exception {
+        if (imageMapper == null) {
+            return;
+        }
+        final List<String> imagePids = imageMapper.getImagePids(component);
+        if (imagePids != null && !imagePids.isEmpty()) {
+            for (String imagePid : imagePids) {
+                if (updatePid(pid, imagePid)) {
+                    data.setHasImageRelationship(pid, imagePid);
+                }
+            }
+            final String exemplarPid = imageMapper.getExemplarPid(component);
+            if (updatePid(pid, exemplarPid)) {
+                data.setHasExemplarImageRelationship(pid, exemplarPid);
+            }
+        }
+    }
+
+    private void addHoldings(String pid, EADNode component) throws Exception {
+        for (HoldingsInfo h : this.holdings) {
+            if (h.shouldBeLinkedToNode(component)) {
+                if (updatePid(pid)) {
+                    data.setHoldingsRelationship(pid, getPid(h));
+                }
+            }
         }
     }
 

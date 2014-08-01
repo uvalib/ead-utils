@@ -24,6 +24,10 @@ public class Fedora3DataStore implements DataStore {
 
     private static final String FOLLOWS_PREDICATE = "http://fedora.lib.virginia.edu/relationships#follows";
 
+    private static final String HAS_EXEMPLAR_PREDICATE = "http://fedora.lib.virginia.edu/relationships#hasExemplar";
+
+    private static final String IS_DIGITAL_REPRESENTATION_OF_PREDICATE = "http://fedora.lib.virginia.edu/relationships#isDigitalRepresentationOf";
+
     private static final String IS_CONTAINED_WITHIN_PREDICATE = "http://fedora.lib.virginia.edu/relationships#isContainedWithin";
 
     private static final String IS_PART_OF_PREDICATE = "info:fedora/fedora-system:def/relations-external#isPartOf";
@@ -138,17 +142,27 @@ public class Fedora3DataStore implements DataStore {
 
     @Override
     public void setChildRelationship(String pid, String childPid) throws FedoraClientException {
-        FedoraClient.addRelationship(childPid).object("info:fedora/" + pid).predicate(IS_PART_OF_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(childPid).object("info:fedora/" + pid.toString()).predicate(IS_PART_OF_PREDICATE).execute(fc);
+    }
+
+    @Override
+    public void setHasImageRelationship(String pid, String imagePid) throws Exception {
+        FedoraClient.addRelationship(imagePid).object("info:fedora/" + pid.toString()).predicate(IS_DIGITAL_REPRESENTATION_OF_PREDICATE).execute(fc);
+    }
+
+    @Override
+    public void setHasExemplarImageRelationship(String pid, String exemplarPid) throws Exception {
+        FedoraClient.addRelationship(pid).object("info:fedora/" + exemplarPid.toString()).predicate(HAS_EXEMPLAR_PREDICATE).execute(fc);
     }
 
     @Override
     public void setSequenceRelationship(String previousPid, String pid) throws FedoraClientException {
-        FedoraClient.addRelationship(pid).object("info:fedora/" + previousPid).predicate(FOLLOWS_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(pid).object("info:fedora/" + previousPid.toString()).predicate(FOLLOWS_PREDICATE).execute(fc);
     }
 
     @Override
     public void setHoldingsRelationship(String componentPid, String holdingsPid) throws Exception {
-        FedoraClient.addRelationship(componentPid).object("info:fedora/" + holdingsPid).predicate(IS_CONTAINED_WITHIN_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(componentPid).object("info:fedora/" + holdingsPid.toString()).predicate(IS_CONTAINED_WITHIN_PREDICATE).execute(fc);
     }
 
     @Override

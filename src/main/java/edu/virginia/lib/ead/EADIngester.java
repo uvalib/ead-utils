@@ -53,6 +53,10 @@ public abstract class EADIngester {
         pids = new ExternalPidResolver(pidCacheFile);
     }
 
+    public DataStore getDataStore() {
+        return dataStore;
+    }
+
     private int countNodes() throws Exception {
         System.out.print("Counting nodes...");
         final XMLEADProcessor processor = new XMLEADProcessor();
@@ -71,6 +75,7 @@ public abstract class EADIngester {
         final FedoraSynchronizingNodeVisitor v = new FedoraSynchronizingNodeVisitor(dataStore, pids, dryRun);
         v.setFilter(filter);
         v.setHoldings(getHoldings());
+        v.setImageMapper(getImageMapper());
         p.addVisitor(v);
         p.processEADXML(getFindingAid());
         p.removeVisitor(v);
@@ -96,6 +101,8 @@ public abstract class EADIngester {
         return Collections.emptyList();
     }
 
+    protected abstract ImageMapper getImageMapper() throws Exception;
+
     /**
      * Gets the solr update url from the solr.properties file on the
      * class loader classpath.
@@ -104,6 +111,31 @@ public abstract class EADIngester {
         Properties p = new Properties();
         p.load(EADIngester.class.getClassLoader().getResourceAsStream("conf/solr.properties"));
         return p.getProperty("solr-update-url");
+    }
+
+    protected static void replaceBrokenPids(final EADIngester i, final List<String> brokenPids, boolean reindex) throws Exception {
+        for (String brokenPid : brokenPids) {
+            i.getDataStore().purge(brokenPid);
+        }
+        PidFilter filter = new PidFilter() {
+            @Override
+            public boolean includePid(String pid) {
+                return brokenPids.contains(pid);
+            }
+        };
+        if (!brokenPids.isEmpty()) {
+            i.ingest(false, filter);
+        }
+
+        if (reindex) {
+            reindex(i, true, filter);
+        }
+    }
+
+    protected static void reindex(final EADIngester i, boolean clearCache, PidFilter filter) throws Exception {
+        final SolrIndexer indexer = new SolrIndexer(((Fedora3DataStore) i.getDataStore()).getFedoraClient(),
+                getDefaultSolrUpdateUrl());
+        i.index(indexer, clearCache, filter);
     }
 
 }

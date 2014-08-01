@@ -29,6 +29,10 @@ public interface DataStore {
 
     public void setChildRelationship(String pid, String childPid) throws Exception;
 
+    public void setHasImageRelationship(String pid, String imagePid) throws Exception;
+
+    public void setHasExemplarImageRelationship(String pid, String exemplarPid) throws Exception;
+
     public void setSequenceRelationship(String previousPid, String childPid) throws Exception;
 
     public void setHoldingsRelationship(String componentPid, String holdingsPid) throws Exception;
