@@ -10,6 +10,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Properties;
@@ -51,6 +52,10 @@ public abstract class EADIngester {
         final File pidCacheFile
                 = new File( new File("pid-caches"), getFindingAidBriefName() + "-" + uri.getHost() + "-" + uri.getPort() + "-pid-cache.txt");
         pids = new ExternalPidResolver(pidCacheFile);
+    }
+
+    public List<String> getAllPids() {
+        return new ArrayList<String>(pids.getAllPids());
     }
 
     public DataStore getDataStore() {

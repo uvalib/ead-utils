@@ -26,6 +26,8 @@ public class Fedora3DataStore implements DataStore {
 
     private static final String HAS_EXEMPLAR_PREDICATE = "http://fedora.lib.virginia.edu/relationships#hasExemplar";
 
+    private static final String HAS_DIGITAL_REPRESENTATION_PREDICATE = "http://fedora.lib.virginia.edu/relationships#hasDigitalRepresentation";
+
     private static final String IS_DIGITAL_REPRESENTATION_OF_PREDICATE = "http://fedora.lib.virginia.edu/relationships#isDigitalRepresentationOf";
 
     private static final String IS_CONTAINED_WITHIN_PREDICATE = "http://fedora.lib.virginia.edu/relationships#isContainedWithin";
@@ -120,7 +122,7 @@ public class Fedora3DataStore implements DataStore {
         FedoraClient.addRelationship(id).object("info:fedora/" + EAD_FRAGMENT_CONTENT_MODEL_PID).predicate(HAS_MODEL_PREDICATE).execute(fc);
         if ("collection".equals(node.getLevel())) {
             FedoraClient.addRelationship(id).object("info:fedora/" + COLLECTION_CONTENT_MODEL_PID).predicate(HAS_MODEL_PREDICATE).execute(fc);
-        } else if ("item".equals(node.getLevel())) {
+        } else if ("item".equals(node.getLevel()) || "file".equals(node.getLevel())) {
             FedoraClient.addRelationship(id).object("info:fedora/" + ITEM_CONTENT_MODEL_PID).predicate(HAS_MODEL_PREDICATE).execute(fc);
         } else {
             FedoraClient.addRelationship(id).object("info:fedora/" + COMPONENT_CONTENT_MODEL_PID).predicate(HAS_MODEL_PREDICATE).execute(fc);
@@ -148,6 +150,7 @@ public class Fedora3DataStore implements DataStore {
     @Override
     public void setHasImageRelationship(String pid, String imagePid) throws Exception {
         FedoraClient.addRelationship(imagePid).object("info:fedora/" + pid.toString()).predicate(IS_DIGITAL_REPRESENTATION_OF_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(pid).object("info:fedora/" + imagePid.toString()).predicate(HAS_DIGITAL_REPRESENTATION_PREDICATE).execute(fc);
     }
 
     @Override

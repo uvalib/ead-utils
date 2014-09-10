@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -53,6 +54,10 @@ public class ExternalPidResolver {
     public void removePidForNode(EADNode node) throws IOException {
         map.remove(node.getReferenceId());
         writeCacheToDisk();
+    }
+
+    public Collection<String> getAllPids() {
+        return map.values();
     }
 
     private void writeCacheToDisk() throws IOException {
