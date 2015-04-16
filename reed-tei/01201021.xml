@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01201021">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Michael E. Connor to Henry Rose Carter, May 27, 1924</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Connor, Michael E.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01201021</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1924-05-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Carter, Henry Rose</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Pothier, Oliver L.</name>
+<name type="place">British Guiana</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>2 pp.</extent>
+<date value="1924-05-27">May 27, 1924</date>
+<idno rend="suppress">01201021</idno>
+<title>Letter from Michael E. Connor to Henry Rose Carter, May 27, 1924</title>
+</bibl>
+</head>
+<p>Connor reports on mosquito breeding and the need to introduce fish for mosquito control. He notes that there is public pressure on the government for mosquito reduction.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1924-05-27">
+<head>Letter from Michael E. Connor to Henry Rose Carter, May 27, 1924</head>
+<pb n="1" id="f01201021"/>
+<opener>
+<unclear><del>Book</del></unclear> I H. B. guiana<lb/>
+Stegomyia<lb/>
+Breeding<lb/>
+ADMINISTRATIVE STAFF<lb/>
+----<lb/>
+FREDERICK F. RUSSELL, M.D.<lb/>
+GENERAL DIRECTOR<lb/>
+JOHN A. FERRELL, M.D.<lb/>
+DIRECTOR FOR<lb/>
+THE UNITED STATES<lb/>
+VICTOR G. HEISER, M.D.<lb/>
+DIRECTOR FOR<lb/>
+THE EAST<lb/>
+H. H. HOWARD, M.D.<lb/>
+DIRECTOR FOR<lb/>
+THE WEST INDIES<lb/>
+MEMBERS<lb/>
+----<lb/>
+GEORGE E. VINCENT<lb/>
+CHAIRMAN<lb/>
+JOHN G. AGAR<lb/>
+WALLACE BUTTRICK<lb/>
+DAVID L. EDSALL<lb/>
+JOHN G. FITZ GERALD<lb/>
+SIMON FLEXNER<lb/>
+RAYMOND B. FOSDICK<lb/>
+EDWIN O. JORDAN<lb/>
+
+VERNON KELLOGG<lb/>
+T. MITCHELL PRUDDEN<lb/>
+JOHN D. ROCKEFELLER, JR.<lb/>
+WICKLIFFE ROSE<lb/>
+VICTOR C. VAUGHAN<lb/>
+WILLIAM H. WELCH<lb/>
+EDWIN R. EMBREE<lb/>
+SECRETARY<lb/>
+FLORENCE M. READ<lb/>
+ASSISTANT SECRETARY<lb/>
+INTERNATIONAL HEALTH BOARD<lb/>
+OF<lb/>
+THE ROCKEFELLER FOUNDATION<lb/>
+61 BROADWAY, NEW YORK<lb/>
+CABLE ADDRESS &ldquo;INTERCOM&rdquo;<lb/>
+<unclear>O</unclear>
+Book<lb/>
+Stegomyia<lb/>
+<dateline>
+Paramaribo, Surinam<lb/>
+Dutch Guiana.<lb/>
+<date value="1924-05-27">May 27, 1924.</date>
+</dateline>
+<salute>Dear Doctor Carter:</salute>
+</opener>
+<p>While in British Guiana I made it a special point<lb/>
+to look for Aedes Aegypti in mud puddles but in no instance did I<lb/>
+succeed in finding them. This confirms what Doctor Wise found some<lb/>
+years ago in the same Colony and more recently by Mr. Cleare, Government<lb/>
+Entomologist.</p>
+<p>There is no need for the stegomyia aegypti to seek<lb/>
+breeding in a mud puddle in British Guiana as receptacles holding clean<lb/>
+water are available every where even on the Sugar estates. With family of<lb/>
+means their water is stowed in large surface cisterns similar to those<lb/>
+in use at New Orleans. About 52% of the 300 hundred premises inspected<lb/>
+were infested with &lsquo;stegs&rsquo;.</p>
+<p>It seems strange, but never-the-less true, that the<lb/>
+value of fish have not been appreciated here by the medical authorities<lb/>
+and by failure here it follows that the public have not been <unclear>enligthened</unclear>.</p>
+<p>In the smaller towns I found several blacks using fish<lb/>
+in their water barrels not as a protection aginst &ldquo;wigglers&rdquo; but to de-<lb/>
+termine the suitability of the water for drinking purposes which is a<lb/>
+relic from Africa where one tribe tries to destroy the other by poisoning<lb/>
+the water supply and which they test by placing a fish in it, which if<lb/>
+it lives everything is o.k. otherwise not.</p>
+<p>The East Indian coolies were also using fish with the<lb/>
+thought of keeping all insects out and they were successful.</p>
+<p>There would no trouble to bring fish into general use<lb/>
+in this Colony if proper propaganda were made and as the varities of<lb/>
+fishes are<del>x</del>almost unlimited good results would sure to follow.</p>
+<p>We could not find any definite evidence of recent<lb/>
+yellow fever in the Colony but every<add>thing</add> indicates that the infection has been<lb/>
+present <del>a</del>t<del>a</del> later date than is officially reported (1909) It would not be-<lb/>
+come endemic as immigration into the Colony has practically ceased.</p>
+<pb n="2" id="f01201022"/>
+<p>-2-</p>
+<p>The Medical Service, the present one, has never seen a case of<lb/>
+Schistomiasis Mansoni but of course this does mean that it is not<lb/>
+present as the post-mortems are not carefully made due to the great<lb/>
+amount of work placed on each officer, for instance, at the time of<lb/>
+our visit the Bacteriologist and Pathologist was also Acting Quarantine<lb/>
+Officer (Boarding Vessels) also radiologist and attempting to conduct a<lb/>
+study of Filariasis which is very prevelent here and increasing at a<lb/>
+rather alarming rate.</p>
+<p>The cadavers are sent to the autposy room where a boy<del>s</del> opens them and<lb/>
+and lays out the organs on a table for the Doctor to view, these are<lb/>
+not generally opened therefore it is easy to see that bilharzia might<lb/>
+get by them.</p>
+<p>The hope for Georgetown from a mosquito standpoint lies in the fact<lb/>
+that there is a growing public opinion pressing the Government to under<lb/>
+take a general mosquito reduction and the alarming increase of filariasis<lb/>
+is interesting the planter in mosquito reduction. The <unclear>Government</unclear> has approv<lb/>
+ed a plan for a modern system of sewerage disposl which work is already<lb/>
+underway, also an elaborate scheme for surface drainage independent of the<lb/>
+present tidal drains.</p>
+<p>I think that as a result of our visit there will <del><unclear>fulls</unclear></del> develop an<lb/>
+interest in fish as larvae consumers and that the surface cisterns in<lb/>
+place <add>of</add> be<unclear>ing</unclear> covered, really partially covered, as hereto fore, will be fished<lb/>
+with good results.</p>
+<p>I will write you again from this Colony, so far Dengue is admitted and<lb/>
+also a confusion in the minds of some physicians as to whether some of<lb/>
+the so-called cases of dengue were not really <unclear>mild</unclear> yellow fever. <unclear>OI am</unclear><lb/>
+sorry that Doctor Flu is not here, his report of the 1908 and 09 cases<lb/>
+are intensely interesting but I wonder why he did not note Faget's sign.</p>
+<p>During 1923 and part 1924 several cases of Weil's disease were reported<lb/>
+in Paramaribo. Dr. Pothier hopes to get some of the survivors and try<lb/>
+the reaction, both organisms.</p>
+<p>With continued good wishes, I am</p>
+<closer>
+<salute>Most sincerely yours,</salute>
+<signed>M E Connor</signed>
+Please commend me to Miss Laura.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

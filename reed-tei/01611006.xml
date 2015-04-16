@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01611006">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to Joseph B. Brown, September 2, 1874</title>
+<title type="gmd">[electronic resource] </title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01611006</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1874-09-02</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Brown, Joseph B.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Brown, Joseph B.</name>
+<name type="person">Crane, C. H.</name>
+<name type="person">Hoff, A. H.</name>
+<name type="place">Brooklyn (New York, N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1874-09-02">September 2, 1874</date>
+<idno rend="suppress">01611006</idno>
+<title>Letter from Walter Reed to Joseph B. Brown, September 2, 1874</title>
+</bibl>
+</head>
+<p>Reed accepts an invitation to appear before the U.S. Surgeon's Examining Board, and explains that he would have responded sooner had he not contracted a fever. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1874-09-02">
+<head>Letter from Walter Reed to Joseph B. Brown, September 2, 1874</head>
+<pb n="1" id="f01611006"/>
+<p>MEDICAL OFFICERS</p>
+<p>Sta. Chq.<lb/>
+Walter Reed to<lb/>
+see S.G.O.<lb/>
+6475 P.</p>
+<p>PERSONAL REPORTS</p>
+<p>preceding Abstract is correct.</p>
+<p></p>
+<p>115 Lee Avenue<lb/>
+Brooklyn N.Y.<lb/>
+Sept. 2, 1874</p>
+<p><hi>Reed</hi> Walter</p>
+<p>Reports, and enquires<lb/>
+it what time to pre-<lb/>
+sent himself for<lb/>
+examination</p>
+<p>Notice mailed Sept. 2, 1874<lb/>
+Presence required Janry<lb/>
+18, 1875</p>
+<p>FILE, PERSONAL REPORTS<lb/>
+<unclear>USArmy</unclear></p>
+</div1>
+<div1 type="letter" n="1874-09-02">
+<head>Letter from Walter Reed to Joseph B. Brown, September 2, 1874</head>
+<pb n="2" id="f01611007"/>
+<opener>
+115 Lee Ave.<lb/>
+<dateline>
+Brooklyn,<lb/>
+<date value="1874-09-02">Sept<hi rend="superscript">r</hi> 2<hi rend="superscript">nd</hi>, 74,</date>
+</dateline><lb/>
+Surgeon Jos. B. Brown,<lb/>
+Pres. Examining Board U.S.A.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>On Monday<lb/>
+Aug. 31<hi rend="superscript">st</hi>, I received from<lb/>
+Asst. Surgeon General C. H. Crane<lb/>
+an invitation to appear before<lb/>
+the Army Examining Board for<lb/>
+Examination, and, also, was<lb/>
+requested to report the<lb/>
+same to you, by letter. I<lb/>
+would have reported<lb/>
+to you, without delay, had<lb/>
+I not been deterred from<lb/>
+so doing by an attack of<lb/>
+Intermittent fever, from<lb/>
+<pb n="3" id="f01611008"/>
+which I have not yet entirely<lb/>
+recovered.</p>
+<p>To-day, I am in <unclear>receipt</unclear><lb/>
+of a letter from the Recorder<lb/>
+of the Board, Dr. A. H. Hoff,<lb/>
+notifying me to appear be-<lb/>
+fore the Board for Exam-<lb/>
+ination on the 18<hi rend="superscript">th</hi> day of<lb/>
+January 1875. I shall, ac-<lb/>
+cordingly, hold myself in<lb/>
+readiness to appear at said<lb/>
+date.</p>
+<closer>
+<salute>I have the honor<lb/>
+to be,<lb/>
+Your obt. Servant,</salute>
+<signed>Walter Reed</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

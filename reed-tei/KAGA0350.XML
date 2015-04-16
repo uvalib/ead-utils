@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAGA0350">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report to the Provisional Governor, by Jefferson Randolph Kean, November 10, 1908</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGA0350</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc> 
+</fileDesc>
+<profileDesc>
+<creation><date>1908-11-10</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Provisional Governor</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Key West (Fla.)</name>
+<name type="place">Tampa (Fla.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cuba</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1908-11-10">November 10, 1908</date>
+<idno rend="suppress">KAGA0350</idno>
+<title>Report to the Provisional Governor, by Jefferson Randolph Kean, November 10, 1908</title>
+</bibl>
+</head>
+<p>Kean submits the report of the National Sanitary Department, and states that yellow fever is presently exterminated throughout Cuba. Kean, however, claims that the U.S. is too harsh with the quarantine regulations imposed upon Cuba. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1908-11-10">
+<head>Report to the Provisional Governor, by Jefferson Randolph Kean, November 10, 1908</head>
+<pb n="1" id="fKAGA0350"/>
+<p>APPENDIX VII.<lb/>
+-----<lb/>
+REPORT OF DEPARTMENT OF SANITATION.</p>
+<pb n="2" id="fKAGA0360"/>
+<p><hi rend="italic">Havana, November 10, 1908</hi>.</p>
+<p>THE PROVISIONAL GOVERNOR.</p>
+<p>The Palace.</p>
+<p>Sir:</p>
+<p>I have the honor to forward herewith the report of the Na-<lb/>
+tional Sanitary Department for the past year. This includes the<lb/>
+reports of the Chief Sanitary Officer, the Executive Officer of<lb/>
+the Department and the Local Sanitary Officer of the city of<lb/>
+Havana. It is with pleasure that I call your attention to the<lb/>
+general satisfaction given by the operations of the Nationalized<lb/>
+Sanitary Department which has extended its operations to 137<lb/>
+towns and cities in the island. It is also gratifying to note that<lb/>
+in the yellow fever season just passed, the Department has been<lb/>
+able to suppress with promptness and certainty all outbreaks of<lb/>
+the disease, and to secure, as I now believe to be certainly the<lb/>
+case, its final extinction throughout the territory of the repub-<lb/>
+lic. It is with regret that I must state that the great improve-<lb/>
+ment in Sanitary affairs in Cuba has not been followed by a cor-<lb/>
+responding mitigation of the quarantine restrictions imposed<lb/>
+upon the commerce of the island by the Public Health and<lb/>
+Marine Hospital Service of the United States, which has dealt<lb/>
+with Cuba with a severity which is not, in my opinion, in ac-<lb/>
+cordance with the terms of the Sanitary convention existing be-<lb/>
+tween the two countries, nor with the requirements of epidemio-<lb/>
+logical science. On April 6th of this year a quarantine &ldquo;on sus-<lb/>
+picion&rdquo; was imposed on the entire territory of Cuba, including<lb/>
+the Isle of Pines, but excepting the cities of Havana and Maria-<lb/>
+nao, although no case of yellow fever had appeared anywhere<lb/>
+in the island in seven weeks. This quarantine was maintained<lb/>
+against the provinces of Pinar del R&iacute;o, Havana, Matanzas and<lb/>
+the Isle of Pines for four months and against the Provinces of<lb/>
+<pb n="3" id="fKAGA0370"/>
+438<lb/>
+Santa Clara and Camag&uuml;ey for five months, although no case of<lb/>
+yellow fever appeared in any of these provinces during that time.<lb/>
+The utmost precaution which would seem to have been warranted<lb/>
+by the appearance of yellow fever in the Santiago-Daiquir&iacute; district<lb/>
+of the province of Oriente was a quarantine against that prov-<lb/>
+ince, while if limited to the municipal districts of Santiago and<lb/>
+Daiquir&iacute;, it would have met all requirements. Although the last<lb/>
+case of yellow fever in the province of Oriente was on August<lb/>
+27th, the quarantine against this province was maintained until<lb/>
+October 20th when the occurrence of cold weather in the south-<lb/>
+ern United States made the needlessness of its continuance ap-<lb/>
+parent to every one. Articles VII and VIII of the Sanitary Con-<lb/>
+vention concluded in Washington October 14th, 1905, are as<lb/>
+follows:</p>
+<p>&ldquo;ARTICLE VII. Information of a first case of plague, cholera<lb/>
+or yellow fever does not justify against a territorial area where<lb/>
+it may appear, the application of the measures prescribed in<lb/>
+Chapter II as hereinafter indicated.</p>
+<p>Upon the occurrence of several non-imported cases of plague,<lb/>
+or a non-imported case of yellow fever or when cases of cholera<lb/>
+form a focus, <hi rend="italic">the area is to be declared infected</hi>.&rdquo;</p>
+<p>&ldquo;ARTICLE VIII. To limit the measures to the affected regions<lb/>
+alone, governments should <hi rend="italic">only apply them to persons and arti-<lb/>
+cles proceeding from the contaminated or infected areas</hi>.</p>
+<p>By the word &ldquo;area&rdquo; is understood a well determined portion<lb/>
+of territory described in the information which accompanies or<lb/>
+follows notification, thus, a province, a state, a &ldquo;government,&rdquo; a<lb/>
+district, a department, a canton, an island, a commune, a city,<lb/>
+a quarter of a city, a village, a port, a &ldquo;polder,&rdquo; a hamlet, etc.,<lb/>
+whatever may be the extent and population of these portions of<lb/>
+territory.</p>
+<p>But this restriction, limited to the infected area, should<lb/>
+only be accepted upon the formal condition that the government<lb/>
+of the infected country shall take the necessary measures; 1, to<lb/>
+prevent, unless previously disinfected, the exportation of articles<lb/>
+named in 1 and 2 of Article XII, coming from the contaminated<lb/>
+area; and 2, measures to prevent the extension of the epidemic;<lb/>
+and provided further that there be no doubt that the sanitary<lb/>
+authorities of the infected country have faithfully complied with<lb/>
+Article 1 of the Convention.</p>
+<p>When an area is infected, no restrictive measure is to be<lb/>
+taken against departures from this area if these departures have<lb/>
+occurred five days, at least, before the beginning of the epidemic.&rdquo;</p>
+<pb n="4" id="fKAGA0380"/>
+<p>439</p>
+<p>There is no question as to the promptness and accuracy of<lb/>
+the reports of quarantinable diseases made by the National San-<lb/>
+itary Department of Cuba, and the energy and efficiency with<lb/>
+which preventive measures have been undertaken. Accordingly,<lb/>
+the United States was obligated by Article VIII to limit its<lb/>
+measures of defense, (quarantine, etc.) <hi rend="italic">to the areas reported by<lb/>
+the government of Cuba as infected</hi>. There has been no pretence<lb/>
+of making any such limitations, but on the contrary, the qua-<lb/>
+rantine against yellow fever has been extended to provinces and<lb/>
+great areas where yellow fever did not exist and had not exist-<lb/>
+ed for long periods of time, although the Cuban Government<lb/>
+has at no time during the past summer, reported an infection<lb/>
+greater in area than two adjoining municipalities. It is evident,<lb/>
+therefore, that the Sanitary Convention at Washington has been<lb/>
+violated by the quarantine service of the United States, both in<lb/>
+declaring a quarantine without waiting for the occurrence of a<lb/>
+non-imported case of yellow fever, and in not limiting the qua-<lb/>
+rantine to the area reported by the Cuban government as in-<lb/>
+fected. That this opinion is not confined to Cubans and persons<lb/>
+connected with the Cuban government, is shown in the annual<lb/>
+report of the General commanding the Army of Cuban Pacifica-<lb/>
+tion where he states his opinion based upon the reports of medi-<lb/>
+cal officers of the army and navy stationed throughout the is-<lb/>
+land, that the quarantine, except for the Daiquir&iacute;-Santiago zone,<lb/>
+was not only unnecessary, but a violation of the Sanitary Con-<lb/>
+vention existing between the United States and the Republic of<lb/>
+Cuba. The Chief Surgeon in his report says:</p>
+<p>&ldquo;In my opinion the maintenance of such quarantine against<lb/>
+the island at large, under existing conditions in Cuba is unscien-<lb/>
+tific and vexatious, and not in accordance with modern quaran-<lb/>
+tine practice and regulations as generally enforced.&rdquo;</p>
+<p>The excuse made for this action is understood to be that it<lb/>
+is necessary to protect the very infectible ports of Key West and<lb/>
+Tampa, between which and Havana exists much intercourse and<lb/>
+an extensive trade. It is believed, however, that it would be more<lb/>
+in accordance with American ideas to protect these towns by the<lb/>
+same measure of municipal cleanliness and mosquito prevention<lb/>
+which have made the Cuban cities untenable for yellow fever,<lb/>
+than to resort to quarantines which are so vaxatious and injuri-<lb/>
+<pb n="5" id="fKAGA0390"/>
+440<lb/>
+ous to trade. This matter has been discused at length because of<lb/>
+its great importance for Cuba, and in the hope that if the facts<lb/>
+were generally known, the Cuban republic might find it easier<lb/>
+to protect itself against a repetition of such injustice in the<lb/>
+future.</p>
+<p>Very respectfully,</p>
+<p>(signed) J. R. KEAN,<lb/>
+<hi rend="italic">Adviser to Sanitary Department</hi>.</p>
+<p>Enclosures:</p>
+<p>
+<list type="ordered">
+<item>1. Report of Chief Sanitary Officer, Dr. Carlos J. Finlay.</item>
+<item>2. " " Executive Officer, Nat'1. San. Dept. Dr. E. B.<lb/>
+Barnet.</item>
+<item>3. " " Local Sanitary Officer of Havana, Dr. J. A. L&oacute;-<lb/>
+pez del Valle.</item>
+<item>4. Seven photographs for illustrations.</item></list>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

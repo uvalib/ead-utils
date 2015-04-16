@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06504128">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Cornelia Knox Kean to Cesar Rodriguez Exposito, November 12, 1952 [Enclosed in 06504126]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Cornelia Knox</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06504128</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1952-11-12</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Rodriguez Exposito, Cesar</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Recio, Alberto</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1952-11-12">November 12, 1952</date>
+<idno rend="suppress">06504128</idno>
+<title>Letter from Cornelia Knox Kean to Cesar Rodriguez Exposito, November 12, 1952 [Enclosed in 06504126]</title>
+</bibl>
+</head>
+<p>Kean is unable to accept the invitation to attend the ceremonies honoring the heroes of the conquest of yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1952-11-12">
+<head>Letter from Cornelia Knox Kean to Cesar Rodriguez Exposito, November 12, 1952 [Enclosed in <xref id="t06504126">06504126</xref>]</head>
+<pb n="1" id="f06504128"/>
+<opener>
+<hi>Copy</hi><lb/>
+2804 N STREET, N. W.<lb/>
+GEORGETOWN<lb/>
+WASHINGTON 7, D. C.<lb/>
+<dateline>
+<date value="1952-11-12">12 November 1952</date>
+</dateline><lb/>
+<salute>My dear Sr. Exposito:</salute>
+</opener>
+<p>I am in receipt of your letter of<lb/>
+November 7<hi rend="superscript">th</hi> and wish to thank you and<lb/>
+Dr. Recio for your invitation to attend<lb/>
+the ceremonies on December 3<hi rend="superscript">rd</hi> honoring<lb/>
+the hero<del>s</del><add>ES</add> of the Conquest of Yellow Fever.</p>
+<p>With my thanks to you and to<lb/>
+Dr. Alberto Recio for your memory of<lb/>
+General Kean, and my regrets that I<lb/>
+will be unable to accept your<lb/>
+courteous invitation</p>
+<closer>
+<salute>Yours Sincerely</salute>
+<signed>Cornelia Kean</signed>
+(Mrs. J.R. Kean)<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

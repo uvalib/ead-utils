@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t02909001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from A.F.A. King to William N. Hill, October 9, 1907</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>King, A.F.A.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02909001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1907-10-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Hill, William N.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+
+<name type="person">Kelly, Howard A.</name>
+<name type="place">Maryland Club</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1907-10-09">October 9, 1907</date>
+<idno rend="suppress">02909001</idno>
+<title>Letter from A.F.A. King to William N. Hill, October 9, 1907</title>
+</bibl>
+</head>
+<p>King comments on the Maryland Club meeting and thanks Hill for some literature on drainage.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1907-10-09">
+<head>Letter from A.F.A. King to William N. Hill, October 9, 1907</head>
+<pb n="1" id="f02909001"/>
+<opener>
+<dateline>
+DR. A. F. A. KING,<lb/>
+1315 MASSACHUSETTS AVENUE N. W.<lb/>
+TELEPHONE, NORTH 470.<lb/>
+OFFICE HOURS:<lb/>
+9 TO 10 A. M.<lb/>
+4 TO 5 P. M.<lb/>
+WASHINGTON, D. C. <date value="1907-10-09">Oct 9 1907</date>
+</dateline>
+D<hi rend="superscript">r</hi> W<hi rend="superscript">m</hi>. N. Hill,<lb/>
+<salute>My Dear Doctor,</salute>
+</opener>
+<p>I have written D<hi rend="superscript">r</hi>.<lb/>
+Kelly that he ought to take the<lb/>
+Maryland Club or <hi>any other<lb/>
+kind</hi> of Club and beat me<lb/>
+blue for giving him so much<lb/>
+distress &amp; worry. I made the<lb/>
+same mistake as yourself and<lb/>
+am thoroughly ashamed of it.</p>
+<p>Well, I hope we shall do better<lb/>
+on the <hi>fourteenth</hi>, when I hope to<lb/>
+meet you again. Many thanks<lb/>
+for the literature on drainage &amp; c<lb/>
+which I shall read with interest</p>
+<closer>
+<salute>Very Truly Yours</salute>
+<signed><hi>A.F.A. King</hi></signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t02948001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Circular [in English and Spanish] from Carlos J. Finlay to the Local Sanitary Officers, July 22, 1908</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02948001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1908-07-22</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Thomason, H.D.</name>
+<name type="person">Fauntleroy, P.C.</name>
+<name type="person">Diez, Jose</name>
+<name type="person">Pons, Bartolome Vales</name>
+<name type="person">Cantelo, Juan Salgado</name>
+<name type="person">Vazquez, Andres Alvarez</name>
+<name type="person">Alvarez, Dositeo</name>
+<name type="person">Gomez, Jose</name>
+<name type="person">Randino, Ramon</name>
+<name type="person">Longarela, Juan</name>
+<name type="person">Camino, Miceno</name>
+<name type="person">Alvarez, Juan</name>
+<name type="person">Stone, Jaime</name>
+<name type="person">Fernandez, Jose</name>
+<name type="person">Villar, Jose</name>
+<name type="place">Habana, Cuba</name>
+<name type="place">Pinar del Rio, Cuba</name>
+<name type="place">Santiago, Cuba</name>
+<name type="place">Daiquiri, Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>9 pp.</extent>
+<date value="1908-07-22">July 22, 1908</date>
+<idno rend="suppress">02948001</idno>
+<title>Circular [in English and Spanish] from Carlos J. Finlay to the Local Sanitary Officers, July 22, 1908</title>
+</bibl>
+</head>
+<p>Finlay discusses recent cases of yellow fever, in Santiago and Daiquiri, in order to quell rumors of massive outbreaks.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1908-07-22">
+<head>Circular [in English and Spanish] from Carlos J. Finlay to the Local Sanitary Officers, July 22, 1908</head>
+<pb n="1" id="f02948001"/>
+<p>FROM GEN. J. R. KEAN<lb/>
+REPUBLIC OF CUBA<lb/>
+--------<lb/>
+UNDER THE PROVISIONAL ADMINISTRATION<lb/>
+OF THE UNITED STATES<lb/>
+-----<lb/>
+ADVISER TO THE SANITARY DEPARTMENT<lb/>
+OFFICE.<lb/>
+CIRCULAR N.<hi rend="superscript">o</hi> 50.<lb/>
+Havana, <date value="1908-07-22">July 22nd. 1908</date>
+To Local Sanitary Officers:<lb/>
+Sir:</p>
+<p>As many exaggerated and erroneous accounts<lb/>
+have been circulated about the occurrence of yellow<lb/>
+fever in Santiago and Daiquir&iacute;, it is thought that an<lb/>
+exact statement of the cases which have occurred<lb/>
+since the first of April, the beginning, of the present<lb/>
+epidemic year, will be of interest. No case of this<lb/>
+disease has occurred in Havana or in any of the six<lb/>
+provinces of the island except Oriente during that<lb/>
+time, the last occurrence, with the exceptions noted<lb/>
+below, having been the brief and promtly extinguished<lb/>
+out break among the American troops stationed in the<lb/>
+city of Santa Clara, of which the first case occurred on<lb/>
+February 9th and the last on February 18th. The<lb/>
+history of the outbreak in Oriente is as follows:</p>
+<p>On April 21st Fructuoso Valverde, a Spaniard,<lb/>
+was taken sick at Daiquir&iacute; and came on the 22nd<lb/>
+to Santiago and was admitted for treatment at the<lb/>
+hospital of the Colonia Espa&ntilde;ola, where he was dis-<lb/>
+covered by the sanitary authorities and the case put<lb/>
+under observation. This man had come from Dai-<lb/>
+quir&iacute; to Santiago on April 15th and had stayed two<lb/>
+days in a hotel within 200 meters of the spot where<lb/>
+the preceeding case of Feb. 11th occurred, returning<lb/>
+to Daiquir&iacute; on the 17th. His infection is therefore<lb/>
+credited to Santiago. The symptoms being mild, the<lb/>
+<pb n="2" id="f02948002"/>
+diagnosis was so much in doubt, that Dr. Juan Guite-<lb/>
+ras, president of the Board of Diagnosis of Contagious<lb/>
+Diseases, was sent to Santiago, and pronounced it<lb/>
+yellow fever on May last. Measures were promptly<lb/>
+taken to disinfect the buildings in which the patient<lb/>
+lived at Daiquir&iacute;, and the boat in which he had come<lb/>
+to Santiago, as well as all buildings entered by him<lb/>
+in Santiago after the beginning of his sickness. Sub-<lb/>
+sequent events, however, have demonstrated that owing<lb/>
+probably to the delay in arriving at a diagnosis, the<lb/>
+measures of fumigation taken at Daiquir&iacute; were not<lb/>
+successful in destroying all infected mosquitoes, and<lb/>
+the focus now existing at that place, as well as the<lb/>
+two subsequent cases ocurring in Santiago on May<lb/>
+13th and June 4th, must be ascribed to the failure<lb/>
+of the fumigation there and in Santiago.</p>
+<p>An elaborate system of medical inspections, to-<lb/>
+gether with an efficient organization for mosquito<lb/>
+work were instituted at Santiago, and as no case has<lb/>
+occurred in that city in more than <del>six</del><add>seven</add> weeks, it is<lb/>
+believed that the infection is extinguished there. Mos-<lb/>
+quito work was begun in Daiquir&iacute; and a medical ins-<lb/>
+pector sent there, but he abandoned his post after a<lb/>
+few days stay, and a second inspector sent to this<lb/>
+position remained less than a month. In order to<lb/>
+keep this point under observation, inspectors were sent<lb/>
+there at intervals, and in the case histories sent by<lb/>
+the Special Medical Inspector, Dr. Agostini, about the<lb/>
+20th of June to this office, a case was found which<lb/>
+excited the suspicion of the Chief Sanitary Officer.<lb/>
+A second inspection was then ordered, Dr. Cartaya,<lb/>
+the medical scout on duty in Santiago, being sent to<lb/>
+Daiquir&iacute; where he arrived on July 1st and found a<lb/>
+case of yellow fever, the diagnosis of which was con-<lb/>
+firmed by autopsy the next day. Ten other cases<lb/>
+have been confirmed, and it is probable from the in-<lb/>
+vestigations of Dr Ar&iacute;stides Agramonte who was<lb/>
+sent from Havana to make further investigations,<lb/>
+there have been several unrecognized cases antecedent<lb/>
+<pb n="3" id="f02948003"/>
+to it. Active measures of fumigation and mosquito<lb/>
+destruction were at once instituted upon the recogni-<lb/>
+tion of this focus, first under the supervision of Spe-<lb/>
+cial Commissioner, Captain H. D. Thomason, Medical<lb/>
+Corps, U. S. Army, and later under Major P. C.<lb/>
+Fauntleroy, Medical Corps U. S. Army, who has been<lb/>
+sent from this office to take charge at Daiquir&iacute; as<lb/>
+a Special Commissioner.</p>
+<p>Owing to the isolated position of the iron mines<lb/>
+at Daiquir&iacute; and the fact that the population is com-<lb/>
+posed almost entirely of employes of the Spanish<lb/>
+American Iron Company, while communication with<lb/>
+the outside world is limited to a few difficult trails<lb/>
+leading to Santiago, and by a boat belonging to the<lb/>
+company, the circunmstances seemed peculiarly favora-<lb/>
+ble for the application of a local quarantine by land<lb/>
+as well as sea. This was ordered by the National Sa-<lb/>
+nitary Board with the approval of the Provisional<lb/>
+Governor on July 7th, and it is believed to be entirely<lb/>
+efficient in securing the observation for the necessary<lb/>
+period of all non-inmunes leaving the infected focus.<lb/>
+At the same time a stop has been put to the admission<lb/>
+of no-inmunes to the infected locality. There is every<lb/>
+evidence that these steps will be promptly successful,<lb/>
+and it is hoped by the end of the current month that<lb/>
+the infection of yellow fever which lingers in only<lb/>
+one extremity of the republic, will be extinguished<lb/>
+throughout its territory.</p>
+<p>
+<list type="simple">
+<head><hi rend="italic">DATE OF LAST OCCURRENCE BY PROVINCES</hi></head>
+<item>In Pinar del R&iacute;o Province,. eight years ago;</item>
+<item>In Havana City, . . . . . . January 31, 1908;</item>
+<item>In Havana province, . . . . January 10, 1908;</item>
+<item>In Matanzas province, . . . December 24, 1907;</item>
+<item>In Santa Clara province, . . February 18, 1908;</item>
+<item>In Camaguey province, . . . November 12, 1907;</item>
+<item>In Oriente province, . . . . July 9, 1908;</item>
+</list></p>
+<p>
+<list type="simple">
+<head><hi rend="italic">LIST OF CASES IN ORIENTE</hi><lb/>
+(<hi rend="italic">Santiago Daiquir&iacute; focus</hi>)</head>
+<pb n="4" id="f02948004"/>
+<item>Fructuoso Valverde, Daiquir&iacute;, April 21,st<lb/>
+1908;<lb/>
+(probably infected in Santiago). Discharge.</item>
+<item>Jos&eacute; D&iacute;ez, Santiago, May 13st, 1908; Discharged.</item>
+<item>Bartolome Vales Pons, Santiago, June 4th, 1908;<lb/>
+Died.</item>
+<item>Juan Salgado Cantelo, Daiquir&iacute;, June 26th, 1908;<lb/>
+Died.</item>
+<item>Andr&eacute;s Alvarez V&aacute;zquez, Daiquir&iacute;, June 29th,<lb/>
+1908; Discharged.</item>
+<item>Dositeo Alvarez, Daiquir&iacute;, July 1st, 1908; Dis-<lb/>
+charged.</item>
+<item>Jos&eacute; G&oacute;mez, Daiquir&iacute;, July 4th, 1908; Discharged.</item>
+<item>Ram&oacute;n Randino, Daiquir&iacute;, July 5th, 1908; Dis-<lb/>
+charged.</item>
+<item>Juan Longarela, Daiquir&iacute;, July 5th, 1908; Dis-<lb/>
+charged.</item>
+<item>Miceno Camino, Daiquir&iacute;, July 6th, 1908; Dis-<lb/>
+charged.</item>
+<item>Juan Alvarez, Daiquir&iacute;, July 7th, 1908; Dis-<lb/>
+charged.</item>
+<item>Jaime Stone, Daiquir&iacute;, July 8th, 1908; Dis-<lb/>
+charged.</item>
+<item>Jos&eacute; Fern&aacute;ndez, Daiquir&iacute;, July 9th, 1908; Re-<lb/>
+maining.</item>
+<item>Jos&eacute; Villar, Daiquir&iacute;, July 9th; Remaining.</item>
+</list></p>
+<p><hi rend="italic">Carlos J. Finlay,<lb/>
+Chief Sanitary Officer.</hi><lb/>
+Approved:<lb/>
+J. R. Kean-<lb/>
+Adviser.</p>
+<pb n="5" id="f02948005"/>
+<p>REPUBLICA DE CUBA<lb/>
+Bajo la <unclear>Administraci&oacute;n</unclear> Provisional de los Estados Unidos<lb/>
+------<lb/>
+DEPARTAMENTO NACIONAL DE SANIDAD<lb/>
+JEFATURA<lb/>
+----<lb/>
+CIRCULAR N.<hi rend="superscript">o</hi> 50.<lb/>
+Habana, <date value="1908-07-22">22 de julio de 1908.</date>
+Al Jefe local de Sanidad de...................<lb/>
+Se&ntilde;or:</p>
+<p>Como quiera que han circulado noticias exagera-<lb/>
+das &oacute; err&oacute;neas con respecto &aacute; la aparici&oacute;n de la fiebre<lb/>
+amarilla en Santiago de Cuba y Daiquir&iacute;, esta Jefatu-<lb/>
+ra, ha considerado oportuno dar &aacute; conocer, por la pre-<lb/>
+sente, un exacto resumen de los casos ocurridos desde<lb/>
+el <unclear>1<hi rend="superscript">o</hi></unclear> de abril &uacute;ltimo en que conmenz&oacute; la epidemia.<lb/>
+Durante ese tiempo, ning&uacute;n caso de dicha enfermedad<lb/>
+se ha presentado en la Habana ni en ninguna de las<lb/>
+seis provincias de la Isla, &aacute; no ser la de Oriente, ha-<lb/>
+bi&eacute;ndose r&aacute;pidamente dominado las &uacute;ltimas manifes-<lb/>
+taciones de la misma, con las excepciones que abajo<lb/>
+se se&ntilde;alan, en el brote que tuvo lugar entre las tropas<lb/>
+americanas destacadas en la Ciudad de Santa Clara,<lb/>
+entre las cuales hizo su aparici&oacute;n el primer caso en<lb/>
+9 de Febrero y el &uacute;ltimo el 18 del mismo mes.</p>
+<p>La historia de los casos desarrollados en Oriente<lb/>
+es como sigue:</p>
+<p>El d&iacute;a 21 de abril, Fructuoso Valverde, espa&ntilde;ol,<lb/>
+cay&oacute; enfermo en Daiquir&iacute; y vino &aacute; Santiago el 22,<lb/>
+ingresando en el Sanatorio de la &ldquo;Colonia Espa&ntilde;ola,&rdquo;<lb/>
+donde fu&eacute; admitido ese mismo d&iacute;a y descubierto por<lb/>
+las autoridades sanitarias, siendo puesto en observa-<lb/>
+ci&oacute;n. Este individuo hab&iacute;a venido anteriormente de<lb/>
+Daiquir&iacute; &aacute; Santiago de Cuba en 15 de abril, permane-<lb/>
+ciendo durante dos d&iacute;as en un Hotel, distante unos 200<lb/>
+metros del sitio donde en 11 de febrero hab&iacute;a ocurrido<lb/>
+el caso precedente, y regres&oacute; &aacute; Daiquir&iacute; el 17. Por<lb/>
+<pb n="6" id="f02948006"/>
+consiguiente, la infecci&oacute;n de este sujeto tiene que ser<lb/>
+atribu&iacute;da &aacute; Santiago de Cuba. Los s&iacute;ntomas de me-<lb/>
+diana intensidad que ofreci&oacute; el caso, hicieron que el<lb/>
+diagn&oacute;stico fuese bastante dudoso, oblig&aacute;ndonos &aacute; que<lb/>
+el Dr. Juan Guiteras, Presidente de la Comisi&oacute;n de<lb/>
+Enfermedades Infecciosas, fuese &aacute; Santiago de Cuba<lb/>
+&aacute; examinar el caso, conceptu&aacute;ndolo &eacute;l como positivo<lb/>
+de fiebre amarilla en <unclear>1.<hi rend="superscript">o</hi></unclear> de mayo.</p>
+<p>Sin p&eacute;rdida de tiempo fueron puestos en pr&aacute;c-<lb/>
+tica las medidas sanitarias de desinfecci&oacute;n de los edi-<lb/>
+ficios donde el paciente se albergaba en Daiquir&iacute; y<lb/>
+tambi&eacute;n del vapor que le condujo &aacute; Santiago de Cuba<lb/>
+efectu&aacute;ndose as&iacute; mismo la fumigaci&oacute;n de las casas que<lb/>
+en aquella ciudad hab&iacute;a visitado el paciente, despu&eacute;s<lb/>
+de sentirse enfermo. Los subsecuentes acontecimien-<lb/>
+tos, sin embargo, vinieron &aacute; demostrar que probable<lb/>
+mente lo tard&iacute;o del diagn&oacute;stico fu&eacute; causa de que las fu-<lb/>
+migaciones hechas no alcanzasen el debido &eacute;xito para<lb/>
+destruir todos los mosquitos infectados y el foco ac-<lb/>
+tualmente existente en Daiquir&iacute;, debiendo as&iacute; mismo<lb/>
+sumarse los dos casos ocurridos en Santiago de Cuba,<lb/>
+en mayo 13 y en junio 4, como una prueba de la poca<lb/>
+eficiencia de las fumigaciones llevadas &aacute; cabo en esta<lb/>
+&uacute;ltima ciudad.</p>
+<p>Se instituy&oacute; enseguida en Santiago de Cuba un<lb/>
+plan bien meditado de inspecciones m&eacute;dicas, &aacute; la<lb/>
+par que por una organizaci&oacute;n met&oacute;dica y eficaz para<lb/>
+la destrucci&oacute;n del mosquito, merced &aacute; cuyas medidas<lb/>
+no ocurri&oacute; en esa ciudad ning&uacute;n otro caso en m&aacute;s<lb/>
+de seis semanas, siendo de creer que la infecci&oacute;n haya<lb/>
+quedado extinguida all&iacute;. Los trabajos en persecusi&oacute;n<lb/>
+del mosquito fueron igualmente iniciados en Daiquir&iacute;.<lb/>
+envi&aacute;ndose &aacute; este punto un Inspector M&eacute;dico, quien<lb/>
+hubo de retirarse &aacute; los pocos d&iacute;as de su permanencia<lb/>
+en aquel lugar, y otro segundo Inspector que lo subs-<lb/>
+tituy&oacute; tambi&eacute;n, dej&oacute; el puesto antes de transcurrir<lb/>
+un mes. Con el prop&oacute;sito de no abandonar la obser-<lb/>
+vaci&oacute;n de este lugar, de tiempo en tiempo han sido<lb/>
+enviados Inspectores M&eacute;dicos, y en las historias cl&iacute;-<lb/>
+<pb n="7" id="f02948007"/>
+nicas remitidas &aacute; este Departamento hacia el 20 de<lb/>
+junio por el Inspector M&eacute;dico Especial, Dr. Agostini,<lb/>
+uno de los casos hubo de suscitar sospechas al Jefe<lb/>
+de Sanidad Nacional. Otra inspecci&oacute;n fu&eacute; ordenada<lb/>
+al Dr. Cartaya, Inspector M&eacute;dico establecido en San-<lb/>
+tiago de Cuba, quien enviado &aacute; Daiquir&iacute;, lleg&oacute; &aacute; este<lb/>
+punto el <unclear>1.<hi rend="superscript">o</hi></unclear> de julio, encontrando un caso de fiebre<lb/>
+amarilla, cuyo diagn&oacute;stico se confirm&oacute; por la autop-<lb/>
+sia al siguiente d&iacute;a. Otros 10 casos han sido confirma-<lb/>
+dos, y seg&uacute;n las investigaciones realizadas posterior-<lb/>
+mente por el Dr. Ar&iacute;stides Agramonte, quien desde<lb/>
+la Habana fu&eacute; destinado exprofeso para ello, es muy<lb/>
+probable que hayan pasado inadvertidos algunos m&aacute;s.</p>
+<p>Se adoptaron eficaces medidas de fumigaci&oacute;n y<lb/>
+destrucci&oacute;n de mosquitos, desde el punto y hora<lb/>
+en que se reconoci&oacute; la existencia de ese foco; primero,<lb/>
+bajo la supervisi&oacute;n del Comisionado Especial, Capit&aacute;n<lb/>
+del Cuerpo M&eacute;dico del Ej&eacute;rcito de los Estados Unidos,<lb/>
+Dr. H. D. Thomason, y despu&eacute;s, bajo la direcci&oacute;n del<lb/>
+Comandante Dr. P. C. Fauntleroy, tambi&eacute;n del Cuer-<lb/>
+po M&eacute;dico del Ej&eacute;rcito Americano, quien fu&eacute; destinado<lb/>
+para ejercer en Daiquir&iacute; el cargo de Comisionado<lb/>
+Especial.</p>
+<p>Teniendo en cuenta la posici&oacute;n aislada que ocupan<lb/>
+las minas de Daiquir&iacute; y el hecho de que su poblaci&oacute;n<lb/>
+se compone casi exclusivamente de empleados de la<lb/>
+&ldquo;Spanish-American Iron Company,&rdquo; cuya comunica-<lb/>
+ci&oacute;n con el exterior por unos pocos caminos de dif&iacute;cil<lb/>
+tr&aacute;nsito que le unen &aacute; Santiago y por un vapor per-<lb/>
+teneciente &aacute; la Compa&ntilde;&iacute;a, parec&iacute;an circunstancias en<lb/>
+extremo favorables para la aplicaci&oacute;n de una cuaren-<lb/>
+tena local por mar y por tierra. Esto fu&eacute; lo que<lb/>
+orden&oacute; la Junta de Sanidad Nacional, con la apro-<lb/>
+baci&oacute;n del Gobernador Provisional (en 7 de julio,<lb/>
+habi&eacute;ndose considerado as&iacute; mismo como garant&iacute;a de<lb/>
+seguridad, la observaci&oacute;n de todos los no-inmunes que<lb/>
+salgan del foco de infecci&oacute;n, durante todo el tiempo<lb/>
+que sea menester. A la vez se ha dispuesto tambi&eacute;n<lb/>
+<pb n="8" id="f02948008"/>
+detener la admisi&oacute;n de los no-inmunes en la localidad<lb/>
+infectada.</p>
+<p>Abrigamos la confianza de que estas medidas<lb/>
+dar&aacute;n prontamente el deseado fruto, siendo de es-<lb/>
+perar que para fin del presente mes la infecci&oacute;n de<lb/>
+la fiebre amarilla, relegada hoy &aacute; un extremo de la<lb/>
+Rep&uacute;blica quede extinguida por completo de su te-<lb/>
+rritorio.</p>
+<p>
+<list type="simple">
+<head><hi rend="italic">FECHA DEL ULTIMO CASO POR PROVINCIAS</hi></head>
+<item>En Pinar del R&iacute;o (Provincia) Hace 8 a&ntilde;os.</item>
+<item>En Habana (Ciudad). . . . Enero 31, 1908.</item>
+<item>En Habana (Provincia). . . Enero 10, 1908:</item>
+<item>En Matanzas (Provincia). . Diciembre 24, 1907.</item>
+<item>En Santa Clara (Provincia). Febrero 18, 1908.</item>
+<item>En Camag&uuml;ey (Provincia). . Noviembre 12, 1907.</item>
+<item>En Oriente (Provincia). . . Julio 9, 1908.</item>
+</list></p>
+<p>
+<list type="simple">
+<head><hi rend="italic">RELACION DE CASOS EN ORIENTE</hi><lb/>
+(<hi rend="italic">Foco Santiago-Daiquir&iacute;</hi>)</head>
+<item>Fructuoso Valverde, Daiquir&iacute;, abril 21 de 1908,<lb/>
+(probablemente infectado en Santiago de Cuba) alta.</item>
+<item>Jos&eacute; D&iacute;ez, Santiago, Mayo 13 de 1908; alta.</item>
+<item>Bartolom&eacute; Vales Pons<unclear>,</unclear> Santiago, Junio 4, 1908;<lb/>
+fallecido.</item>
+<item>Juan Salgado Cantelo, Daiquir&iacute;, Junio 26, 1908;<lb/>
+fallecido.</item>
+<item>Andr&eacute;s Alvarez V&aacute;zquez, Daiquir&iacute;, Junio 29,<lb/>
+1908; alta.</item>
+<item>Dositeo Alvarez Prada, Daiquir&iacute;, Julio <unclear>1.<hi rend="superscript">o</hi></unclear>, 1908;<lb/>
+alta.</item>
+<item>Jos&eacute; G&oacute;mez G&oacute;mez, Daiquir&iacute;, Julio 4 1908; alta.</item>
+<item>Ram&oacute;n Randino Ledo, Daiquir&iacute;, Julio 5, 1908;<lb/>
+alta.</item>
+<item>Juan Longarela L&oacute;pez, Daiquir&iacute;, Julio 5, 1908;<lb/>
+alta.</item>
+<pb n="9" id="f02948009"/>
+<item>Miceno Camino, Daiquir&iacute;, Julio 6, 1908; alta.</item>
+<item>Juan Alvarez, Daiquir&iacute;, Julio 7, 1908; alta.</item>
+<item>Jaime Stone, Daiquir&iacute;, Julio 8, 1908; alta.</item>
+<item>Jos&eacute; Fern&aacute;ndez Alvarez, Daiquir&iacute;, Julio 9, 1908;<lb/>
+en tratamiento.</item>
+<item>Jos&eacute; Villar Mourillo, Daiquir&iacute;, Julio 9, 1908; en<lb/>
+tratamiento;</item>
+</list></p>
+<p>Quedo de Vd. muy atentamente.</p>
+<p><hi rend="italic">Carlos J. Finlay,</hi><lb/>
+Jefe de Sanidad.<lb/>
+Aprobado:<lb/>
+J. R. Kean<lb/>
+Consultor Sanitario</p>
+</div1>
+</body>
+</text>
+</TEI.2>

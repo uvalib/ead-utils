@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00163001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Medical Certification for Jesse W. Lazear, August 9, 1892</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00163001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1892-08-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Lazear, Jesse W.</name>
+<name type="place">College of Physicians and Surgeons (Columbia)</name>
+<name type="place">New York County [N.Y.?]</name>
+<name type="hospital">Bellevue Hospital</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1892-08-09">August 9, 1892</date>
+<idno rend="suppress">00163001</idno>
+<title>Medical Certification for Jesse W. Lazear, August 9, 1892</title>
+</bibl>
+</head>
+<p>Lazear has been entered in the Register of Physicians and Surgeons for New York County.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1892-08-09">
+<head>Medical Certification for Jesse W. Lazear, August 9, 1892</head>
+<pb n="1" id="f00163001"/>
+<opener>
+<dateline>
+County Clerk's Office, City and County of New York.<lb/>
+</dateline>
+</opener>
+<p>To whom it may Concern, Know ye, that on the <hi>9<hi rend="superscript">th</hi></hi> day of <hi>Aug-</hi> 1892</p>
+<p><hi>Jesse W. Lazear</hi>.</p>
+<p>having first subscribed and verified an affidavit in the form of Schedule C of Chapter 647 of the Laws of 1887,<lb/>
+made an entry in the Register of Physicians and Surgeons, kept in the office of the Clerk of New York County, of<lb/>
+which entry I certify the following to be a transcript:</p>
+<p>
+<table rows="5" cols="3">
+<row>
+<cell>NAME.</cell><cell>BIRTHPLACE.</cell><cell>RESIDENCE.</cell></row>
+<row>
+<cell>Jesse W. Lazear</cell><cell>Baltimore Md.<lb/>
+May 2/66.</cell><cell>Bellevue Hospital</cell></row>
+<row>
+<cell>Date, Source and Character of License or Diploma.</cell><cell>Indorsed by what Faculty.</cell><cell>REMARKS.</cell></row>
+<row>
+<cell>The Col. of Physicians<lb/>
+and Surgeons (Columbia)<lb/>
+June 8/92.</cell></row>
+</table></p>
+<p>In Witness Whereof, I have set my hand and official seal this <hi>9<hi rend="superscript">th</hi></hi><lb/>
+day of <hi>Aug. 1892</hi>.</p>
+<closer>
+<signed>W<hi rend="superscript">m</hi>JM<hi rend="superscript">c</hi>Kenna<lb/>
+Clerk of New York County</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

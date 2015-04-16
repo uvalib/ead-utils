@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t03201001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from John J. Moran to James E. Peabody, July 7, 1929</title>
+<title type="gmd">[electronic resource]</title>
+<author>Moran, John J.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03201001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1929-07-07</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Peabody, James E.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Lazear, Mabel H.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1929-07-07">July 7, 1929</date>
+<idno rend="suppress">03201001</idno>
+<title>Letter from John J. Moran to James E. Peabody, July 7, 1929</title>
+</bibl>
+</head>
+<p>Moran thanks Peabody for his efforts in campaigning for compensation for the volunteers. Moran is hesitant to grant Agramonte compensation since he is healthy and, because of being Cuban, was immune from all dangers. Also included is a brief history of Moran's involvement with the yellow fever experiments.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1929-07-07">
+<head>Letter from John J. Moran to James E. Peabody, July 7, 1929</head>
+<pb n="1" id="f03201006"/>
+<opener>
+<dateline>
+Sun Oil Company,<lb/>
+Ave. Washington Nos. 36-40,<lb/>
+Habana, Cuba,<lb/>
+<date value="1929-07-07">July 7, 1929.</date>
+</dateline><lb/>
+Prof. James E. Peabody,<lb/>
+The Morris High School,<lb/>
+New York City.<lb/>
+<salute>My dear Professor Peabody:</salute>
+</opener>
+<p>I did not reply immediately to your very kind letter dated Novem-<lb/>
+ber 12, 1928, because I thought perhaps you might drop me a line<lb/>
+after you had had an opportunity to check up on the material I<lb/>
+submitted to you with my letter dated October 29th. . . . . . .<lb/>
+General Kean was at the seat of activities, and I would graceful-<lb/>
+ly accede to his opinion and recollections of the incidents con-<lb/>
+nected with the series of experiments. On the other hand I am sure<lb/>
+Doctor Reed must have given Doctor Kelly all necessary information<lb/>
+for his book &ldquo;Walter Reed and Yellow Fever&rdquo;. I am quite sure Gen-<lb/>
+eral Kean's impartiality was evident throughout the many years<lb/>
+which have elapsed between the time of the experiments up to the<lb/>
+present day. Even the Surgeon General's office has had to depend<lb/>
+on General Kean's recollections of the various incidents connect-<lb/>
+ed with the experiments.</p>
+<p>While I have had no word from you since the date mentioned I know<lb/>
+you have been very busy in behalf of all of us, culminating in the<lb/>
+passage of the Act signed by the President on February 28th. We<lb/>
+are all under deep and lasting gratitude to you for your consis-<lb/>
+tent fathering of our cause. I am sure that the recognition sought<lb/>
+for us would have failed, as did previous efforts in the same di-<lb/>
+rection, had it not been for your untiring efforts. I am only<lb/>
+sorry that Congress did not see fit to make special and more ade-<lb/>
+quate provision for Mesdames Reed, Lazear and Carroll. I am of<lb/>
+the opinion that all the rest of us are most liberally rewarded<lb/>
+by the legislation enacted into law on February 28th.</p>
+<p>I sincerely trust that you will be good enough to consider your<lb/>
+self-imposed task unfinished until justice is done to the three<lb/>
+old ladies mentioned and would suggest that your efforts be con-<lb/>
+fined to the three. Any legislation having in view additional<lb/>
+emoluments for Dr. Agramonte would, I am quite sure, endanger<lb/>
+chances of adequate provision for Mesdames Reed, Carroll and La-<lb/>
+zear. Dr. Agramonte is still in good health and practicing his<lb/>
+profession and his case cannot be compared with those of the wi-<lb/>
+dows of Major Reed, Doctor Lazear and Doctor Carroll; besides he<lb/>
+is a Cuban and, as such, was immune to yellow fever.</p>
+<p>I shall be very grateful for a short letter from you and would like<lb/>
+to know whether or not your story of yellow Fever has yet seen the<lb/>
+light. If so, I should like very much and would gratefully ap-<lb/>
+preciate an autographed copy of same.</p>
+<p>With my apologies for the imposition on your time and good nature<lb/>
+which perusal of this letter involves, I remain</p>
+<closer>
+<salute>Very sincerely yours,</salute>
+<signed>JOHN J. MORAN</signed>
+</closer>
+</div1>
+<div1 type="document" n="1929-07-07">
+<head>Autobiographical sketch by John J. Moran, July 7, 1929</head>
+<pb n="2" id="f03201007"/>
+<p><hi>JOHN J. MORAN</hi>. Born in Ireland on March 15th, 1876. Came to the<lb/>
+United States at the tender age of nine. Raised in Ohio. Last<lb/>
+voting residence: New York City. Served in the American Army in<lb/>
+Cuba during the Spanish-American War and with the American Expe-<lb/>
+ditionary Forces in France during the World War. Has lived in<lb/>
+Latin-America since the Spanish-American War with exception of two<lb/>
+years at the University of Virginia and while in the military ser-<lb/>
+vice of the United States during the World War.</p>
+<p><hi>CONNECTION WITH YELLOW FEVER EXPERIMENTS</hi>: While I was on duty at<lb/>
+the headquarters of General Fitzhugh Lee, as a civilian clerk,<lb/>
+Doctor Walter Reed made it known that he was looking for volun-<lb/>
+teers for his experimental yellow fever camp, later known as Camp<lb/>
+Lazear. I was one of the first, if not the first, to be apprised<lb/>
+of the fact. My intimate friend, Charles Parker, told me that Dr.<lb/>
+Roger Post Ames had informed him to that effect. Parker, knowing<lb/>
+it was my intention to enter the University of Virginia the fol-<lb/>
+lowing year, suggested that the money reward of $500.00 could be<lb/>
+used by me to very good advantage in defraying my expenses during<lb/>
+my four-year course in Medicine at that institution. I told my<lb/>
+friend Parker that I would sleep over the proposition. Next morn-<lb/>
+ing I looked up Dr. <hi>Ames and together we called upon</hi> Doctor Reed<lb/>
+to whom I made known my intentions of going in for the tests.</p>
+<p>Doctor Reed then informed me that he was authorized to pay up to<lb/>
+$500.00 for volunteer subjects. I told him that I would undergo<lb/>
+the tests principally for medical science, for humanity and the<lb/>
+glory of it; that, much as I needed the reward to help pay my ex-<lb/>
+penses at the university next year and until graduation, I could<lb/>
+not place such a low valuation on my life and that should I suc-<lb/>
+cumb to the experiments I did not want posterity to read on my<lb/>
+tombstone &ldquo;Here lies a man who sold his life for $500.00&rdquo;. Doc-<lb/>
+tor Reed was profoundly moved. The oft-repeated, &ldquo;Gentlemen, I<lb/>
+salute you&rdquo;, was neither expressed nor acted. The moment was<lb/>
+tense and impressive but entirely lacking in the dramatic. Whe-<lb/>
+ther Dr. Howard A. Kelly (author of &ldquo;Walter Reed and Yellow Fe-<lb/>
+ver&rdquo;) injected that dramatic passage into the interview or whe-<lb/>
+ther Dr. Reed gave it to him when he was assembling the material<lb/>
+for his book I do not know. That night I informed Kissinger of<lb/>
+my resolution. He was interested and we talked the matter over<lb/>
+until well after midnight with the result that, next morning, he<lb/>
+volunteered for the experiments. So far as I knew at the time,<lb/>
+during the course of the experiments and after the series was over<lb/>
+with, Kissinger and myself were the original volunteers and the<lb/>
+only two stipulating that we should have no material reward.</p>
+<p>By the time Camp Lazear was ready for our occupancy there were<lb/>
+several candidates for the bedding and clothing tests, but for a<lb/>
+considerable time Kissinger and myself were the only candidates<lb/>
+for the mosquito route. Later on Spanish immigrants were contra-<lb/>
+cted for at $200.00 each. Doctor Reed offered us our choice of<lb/>
+physician and nurse, regardless of where they were stationed on<lb/>
+the Island. I expressed a preference for Doctor Ames and an army<lb/>
+<pb n="3" id="f03201008"/>
+2.<lb/>
+nurse by the name of Mrs. Gillen, both stationed at Columbia Bar-<lb/>
+racks (Havana). Our camp was established on a neighboring farm<lb/>
+of large acreage where we were strictly isolated and closely guar-<lb/>
+ded. Visitors to the camp were limited to those invited by Doc-<lb/>
+tor Reed and members of the Yellow Fever Commission. Camp life<lb/>
+got to be rather monotonous but I was usually busy attending to<lb/>
+correspondence, notes<del>t</del> and reports for Doctor Reed, my tent being<lb/>
+used by him as his office.</p>
+<p>The first attempt to inoculate me was made on November 26th, 1900,<lb/>
+and the second on November 29th, a lone mosquito in a test tube<lb/>
+being employed on each occasion and returned to captivity after<lb/>
+feeding on my blood. Results in both instances were NIL. Doctor<lb/>
+Reed then decided to &ldquo;save&rdquo; me for his master test in the &ldquo;infec-<lb/>
+ted Mosquito Building&rdquo;. Infected mosquitoes in sufficient number<lb/>
+were not available until December 21st, 1900, when fifteen of the<lb/>
+insects were freed in the building. These mosquitoes had bitten<lb/>
+severe cases of yellow fever from five to twenty-four days before.<lb/>
+Five minutes later, that is to say at 12:00 o'clock noon on Decem-<lb/>
+ber 21st, I offered a feast to the fifteen guests, which was<lb/>
+promptly partaken of by eight. With the aid of a hand mirror I<lb/>
+watched them gorge themselves. In the afternoon of the same day<lb/>
+and at the same hour of the following afternoon the remaining se-<lb/>
+ven had their fill. Doctor Reed told me that if this test should<lb/>
+prove successful the mosquito theory would be established in fool-<lb/>
+proof fashion and that the sceptics would not have a leg to stand<lb/>
+on. The sceptics were many in number and most of them prominent<lb/>
+in the medical profession.</p>
+<p>On December 25th, 1900, (Christmas morning) I awakened to the fact<lb/>
+that one of the fifteen insects had done its duty, and I knew that<lb/>
+I would be on my way to the yellow fever camp hospital before many<lb/>
+hours. Doctor Reed did not visit the experimental camp until af-<lb/>
+ternoon on Christmas day, and by the time he arrived my tempera-<lb/>
+ture, which I was taking and recording every hour, had risen to<lb/>
+over 103 degrees Fahrenheit. I was packed off in an ambulance<lb/>
+and by midnight my temperature rose to within a fraction of 105.<lb/>
+Dr. Reed and his associates pronounced my attack &ldquo;a very pretty<lb/>
+case&rdquo;. I had made up my mind in advance that I would take my med-<lb/>
+icine like a little man, and while the succeeding four or five<lb/>
+days were slightly painful and feverish I think I made but little<lb/>
+complaint. In ten days I was up and around and three days later<lb/>
+I took the blood test (from the veins of a &ldquo;very pretty case&rdquo; of<lb/>
+yellow fever) to see if I was immune. I was. It had no effect<lb/>
+on me.</p>
+<p>While undergoing treatment I met Doctor Gorgas for the first time.<lb/>
+He was a daily visitor at my bedside, keenly interested in my sym-<lb/>
+ptoms and asking many questions. The Reed and Carroll findings<lb/>
+being no longer a theory but a reality, Dr. Gorgas (then military<lb/>
+health officer of Havana) declared war on the mosquito and its<lb/>
+larvae. Of the entire corps of professional men present in Cuba<lb/>
+at the time of the experiments, including the members of the Yellow<lb/>
+<pb n="4" id="f03201009"/>
+3.<lb/>
+Fever Commission, Doctor Gorgas reaped more fame and glory from<lb/>
+the Reed and Carroll findings than any other man, although he was<lb/>
+merely an observer until the mosquito theory was established. He<lb/>
+attained to great honors and fame during his lifetime, and his<lb/>
+Government promoted him to the highest position within its gift<lb/>
+for men of his profession and career, viz: Surgeon General of the<lb/>
+Army, with rank of Major-General. All this he deserved for his<lb/>
+application of the Reed and Carroll findings, first in Cuba and<lb/>
+later on the Panama Canal, in both of which he conquered yellow<lb/>
+fever. For his services in Cuba he was promoted from Major to<lb/>
+Colonel in the Medical Corps of the Army and for his services on<lb/>
+the Panama Canal he was promoted from Colonel to Major-General.<lb/>
+Shortly before the entry of the United States in the World War he<lb/>
+was appointed Surgeon General of the Army.</p>
+<p>There are few who respect more than I do the memory and accompli-<lb/>
+shments of Doctor Gorgas, and if I mention his name in connection<lb/>
+with the experiments I do so for a reason. In contrast with the<lb/>
+honors accorded him during his own lifetime it is a sad commentary<lb/>
+on the Congress of Doctor Reed's day that prompt and suitable re-<lb/>
+cognition was not given him for his great and far-reaching servi-<lb/>
+ces to humanity and medical science and the same criticism applies<lb/>
+to successive Congresses for their failure to make adequate provi-<lb/>
+sion for his widow. The same is no less true with reference to<lb/>
+Mrs. Lazear, whose husband gave up his life -- a brilliant and<lb/>
+promising one in his profession -- for science and humanity. One<lb/>
+cannot help but wonder how much of an education Doctor Lazear's<lb/>
+orphaned children have been able to obtain on the small pension<lb/>
+which Congress voted for their mother and themselves.</p>
+<p>Following the death of Doctor Carroll his widow should have been<lb/>
+provided for in a commensurate manner, but here also Congress al-<lb/>
+lotted her a pension which was entirely inadequate. She and her<lb/>
+children deserved a liberal allowance for the prominent part Doc-<lb/>
+tor Carroll played in the discoveries of the Yellow Fever Commiss-<lb/>
+ion. As to the rest of us (the rank and file of those who submit-<lb/>
+ted themselves for the tests) I do not know that we are any poorer<lb/>
+or any richer in the world's goods than we might be had we never<lb/>
+taken them. Yellow fever does not usually leave any disagreeable<lb/>
+traces if one is lucky enough to survive the attack.</p>
+<p>Personally I have been a persistent and perennial candidate for<lb/>
+Congressional recognition of a non-material nature, preferably in<lb/>
+the form of a medal. One foreign government has decorated me for<lb/>
+my share in the experiments, but in twenty-eight years my own Gov-<lb/>
+ernment has failed to recognize me in any form. Having declined<lb/>
+material reward at the time I have never felt that it would be good<lb/>
+form to go back on my bargain. Time and again my friends have urg-<lb/>
+ed me to apply for an annuity or pension. I cannot see it from<lb/>
+their point of view. I have always felt that if I applied for an<lb/>
+annuity or allowance it would be equivalent to placing me in a<lb/>
+class with the man who invited the millionaire hunter to breakfast<lb/>
+and then asked him for a hundred thousand dollars to set him up<lb/>
+in business. I went in for the experiments unsolicited and volun-<lb/>
+tarily. If that was a noble and altruistic act I would rather<lb/>
+<pb n="5" id="f03201010"/>
+4.<lb/>
+have my fellow men express their opinion in the premises than<lb/>
+personally crow about it. I do not mind stating that I have<lb/>
+found a great deal of satisfaction in having volunteered for<lb/>
+the experiments. That satisfaction would immediately evapor-<lb/>
+ate, however, if I should ever sign my name to an application<lb/>
+for an annuity or pension.</p>
+<p>JOHN J. MORAN</p>
+</div1>
+</body>
+</text>
+</TEI.2>

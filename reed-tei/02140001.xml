@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02140001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders to Commanding Officers, October 15, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Michie, Robert E. Lee</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02140001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-10-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Commanding Officers</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Michie, Robert E. Lee</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="place">Quemados (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1900-10-15">October 15, 1900</date>
+<idno rend="suppress">02140001</idno>
+<title>Military Orders to Commanding Officers, October 15, 1900</title>
+</bibl>
+</head>
+<p>Circular Order #8 includes Kean's letter of October 13. Kean states in his communication that the mosquito is responsible for the transmission of malaria and filarial infections, and more than likely yellow fever. He recommends a course of action for all posts in the eradication of mosquitoes. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="military orders" n="1900-10-15">
+<head>Military Orders to Commanding Officers, October 15, 1900</head>
+<pb n="1" id="f02140001"/>
+<opener>
+Kean<lb/>
+CIRCULAR )<lb/>
+No. 8. )<lb/>
+HEADQUARTERS DEPT. OF WESTERN CUBA.<lb/>
+Quemados, October 15, 1900.<lb/>
+The following communication from the Chief Surgeon is published for the in-<lb/>
+formation and guidance of commanding officers in this Department. The neces-<lb/>
+sary action will be taken as recommended.<lb/>
+<lb/>
+CHIEF SURGEON'S OFFICE.<lb/>
+HEADQUARTERS DEPARTMENT OF WESTERN CUBA.<lb/>
+<dateline>
+Quemados, Cuba, <date value="1900-10-13">October 13, 1900.</date>
+</dateline><lb/>
+To the<lb/>
+Adjutant General<lb/>
+of the Department.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>I have the honor to invite your attention to the following facts and their<lb/>
+bearing on the health of the command:</p>
+<p>The role of the mosquito in the transmission of certain diseases is now<lb/>
+well established. The evidence is now perfect and conclusive that malaria,<lb/>
+as well as filarial infections, are carried by this insect, and there are rea-<lb/>
+sons to suspect that it may be connected with the transmission of yellow fever<lb/>
+also.</p>
+<p>Every consideration of prudence as well as comfort demands, therefore, the<lb/>
+protection from them of the commands at all posts. It is believed that this<lb/>
+can be done with a very slight expenditure of time and trouble by the enforce-<lb/>
+ment by post commanders of two precautions, namely:</p>
+<p>1. The enforcement of the use of mosquito bars in all barracks and espec-<lb/>
+ially in all hospitals.</p>
+<p>2. The destruction of the larvae or young mosquitoes, commonly known as<lb/>
+&ldquo;wiggletails&rdquo; or &ldquo;Wigglers&rdquo; by the use of petroleum on the water where they<lb/>
+breed.</p>
+<p>The mosquito does not fly far, and seeks shelter when the wind blows; so<lb/>
+it is usually the case that every community breeds its own supply of mosqui-<lb/>
+toes, in water barrels, fire buckets, or undrained puddles, post holes, etc.<lb/>
+An application of one ounce or kerosine to each fifteen square feet of water<lb/>
+once a month will destroy not only all the young but the adults who come to<lb/>
+lay their eggs. The water in any cistern or tank is not affected in the<lb/>
+least for drinking or washing purposes if only it is drawn from below and not<lb/>
+dipped out. For pools or puddles of a smoewhat permanent character draining<lb/>
+or filling up is the best remedy. It is recommended that the medical officer<lb/>
+who makes the sanitary inspections at each post be charged with the supervis-<lb/>
+ion of the details of these precautions.</p>
+<closer>
+<salute>Very respectfully,<lb/>
+Your obedient servant,</salute>
+<signed>J. R. Koan,</signed>
+Major and Surgeon, U.S.V.<lb/>
+Chief Surgeon.<lb/>
+BY COMMAND OF BRIGADIER GENERAL LEE:<lb/>
+R. E. L. Michie,<lb/>
+Assistant Adjutant General.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

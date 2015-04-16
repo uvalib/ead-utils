@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+
+<TEI.2 id="t01650001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Walter Reed to Emilie B. Lawrence, September 9, 1875</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Walter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01650001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1875-09-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Lawrence, Emilie B.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship">YES</term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>8 pp.</extent>
+<date value="1875-09-09">September 9, 1875</date>
+<idno rend="suppress">01650001</idno>
+<title>Letter from Walter Reed to Emilie B. Lawrence, September 9, 1875</title>
+</bibl>
+</head>
+<p>Reed reiterates his devotion to her. He describes a view of the planets by telescope.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1875-09-09">
+<head>Letter from Walter Reed to Emilie B. Lawrence, September 9, 1875</head>
+<pb n="1" id="f01650001"/>
+<opener>
+<dateline>
+Willets Point,<lb/>
+New York Harbor,<lb/>
+<date value="1875-09-09">Septr 9<hi rend="superscript">th</hi> 75.</date>
+</dateline>
+<salute>My own, precious darling;</salute>
+</opener>
+<p>From<lb/>
+early morning, I have been<lb/>
+much perplexed with think-<lb/>
+ing. Can you imagine the cause<lb/>
+of my perplexity? I'll tell<lb/>
+you. It is simply that I<lb/>
+don't know with what I<lb/>
+shall supply these pages<lb/>
+in order to make them in-<lb/>
+teresting. I <hi>haven't been<lb/>
+to the City</hi>, since I last wrote;<lb/>
+nor have I taken part<lb/>
+<pb n="2" id="f01650002"/>
+in any serenades or sailing<lb/>
+excursions, or been to see<lb/>
+any ladies, (I've had several op-<lb/>
+portunities, but didn't improve<lb/>
+them,) and hence these fruit-<lb/>
+ful topics of discourse are<lb/>
+wanting &amp; their loss is much<lb/>
+felt. To tell the truth, I have been<lb/>
+very lazy, during the past week-<lb/>
+I have read but little and have<lb/>
+not so much as looked into<lb/>
+my French Grammar, nor do<lb/>
+I intend to do so, until I<lb/>
+get another and better one.<lb/>
+It is disagreeable enough to<lb/>
+have <add>to</add> study French without<lb/>
+any drawbacks, and to pursue<lb/>
+the study, under disadvan-<lb/>
+tages, is simply intolerable.<lb/>
+Excuse my forcible expressions.<lb/>
+Having neither serenades <add>n</add>or<lb/>
+<pb n="3" id="f01650003"/>
+excursions to write about,<lb/>
+what shall I say? If I were<lb/>
+by your side, I would not be<lb/>
+at a loss, as I could ea-<lb/>
+sily say a thousand and one<lb/>
+foolish things (<hi>this you will<lb/>
+endorse, I'm sure</hi>) but the<del>n</del><lb/>
+same expressions, committed<lb/>
+to paper, would appear very<lb/>
+insipid. I could fill several<lb/>
+pages with telling the same<lb/>
+old story, but I'm afraid<lb/>
+you would grow weary with<lb/>
+listening. &ldquo;Surely,&rdquo; you would<lb/>
+exclaim, &ldquo;a woman doesn't<lb/>
+care to <hi>forever</hi> hear that<lb/>
+she is loved -- the song,<lb/>
+too often sung, loses its<lb/>
+enchantment.&rdquo; Now whether<lb/>
+this is true or not, I am<lb/>
+not quite sure, although<lb/>
+<pb n="4" id="f01650004"/>
+I am inclined to think that it<lb/>
+is true, to a certain extent, and<lb/>
+in certain cases. In others, I am<lb/>
+confident that it is not the<lb/>
+case. For instance, I don't be-<lb/>
+lieve that the charming Mur-<lb/>
+freesboro widow whom I saw<lb/>
+at <add>a</add> distance, &amp; to whom <hi>you<lb/>
+would not introduce me</hi>,<lb/>
+(your object I never could pene-<lb/>
+trate,) would ever<del>y</del> grow tired<lb/>
+of hearing the <hi>ancient</hi> &amp; <hi>much<lb/>
+counted</hi> Dr L.'s plaintive mur-<lb/>
+murings! On the contrary, I be-<lb/>
+lieve, that they would be &ldquo;as<lb/>
+welcome as the cry, that<lb/>
+told the Indian Isles were<lb/>
+nigh, to the world-seeking<lb/>
+Genoese; when the land-winds,<lb/>
+from woods of palm<del>s</del>, and orange<lb/>
+groves &amp; fields of balm,<lb/>
+blew o'er the Haytien seas-&rdquo;<lb/>
+<pb n="5" id="f01650005"/>
+Before it escapes my memory,<lb/>
+permit me to ask, how <del>do</del> <add>does</add> the<lb/>
+<hi>venerable</hi> Dr (I wouldn't dare<lb/>
+thus to allude to him did not<lb/>
+many miles intervene, &amp; then<lb/>
+he is <hi>so young</hi>,) progress in<lb/>
+the estimation of the fascina-<lb/>
+ting widow? Does she deign to<lb/>
+smile upon him, or is it<lb/>
+likely that he will take<lb/>
+cold &ldquo;while shivering in the<lb/>
+shade of beauty's frown&rdquo;?<lb/>
+Does the gay &amp; sportive<lb/>
+Mr Williams often cross<lb/>
+his orb? Or has he aban-<lb/>
+doned the field as lost? What<lb/>
+friendly feelings must ex-<lb/>
+ist between them! May the<lb/>
+bravest win, and long may<lb/>
+he live to bask in the sun-<lb/>
+light of her smiles! May the<lb/>
+words of the Poet, &ldquo;that man <del>I<lb/>
+say</del> who hath a tongue I say<lb/>
+<pb n="6" id="f01650006"/>
+is <hi>no man</hi>, if with that tongue<lb/>
+he cannot win <hi>a woman</hi>,<lb/>
+serve to uphold the drooping<lb/>
+spirits of him who meets<lb/>
+defeat! Thus do I leave them<lb/>
+in Fortune's care.</p>
+<p>On Tuesday night, last, I was<lb/>
+entertained with a view of<lb/>
+the Heavens, through the kind-<lb/>
+ness of Lieut. Rossell. Of course<lb/>
+I mean a<del>n</del> telescopic view-<lb/>
+We took a peep at Mars --<lb/>
+saw the beautiful rings<lb/>
+of Saturn -- &amp; watched the<lb/>
+movements of Luna as<lb/>
+she pursued her trackless<lb/>
+path through the immensity<lb/>
+of space. I was most anx-<lb/>
+ious to look at Jupiter,<lb/>
+but unfortunately, it was<lb/>
+too late at night to see him.<lb/>
+<pb n="7" id="f01650007"/>
+I felt sure that in looking <add>at</add><lb/>
+him, <del>tha</del> I should have the<lb/>
+exquisite pleasure of seeing<lb/>
+the reflection of your darling<lb/>
+face! and this would more<lb/>
+than repay my evening's toil.<lb/>
+Mind, or I will yet see you.<lb/>
+Would that I was in Mur-<lb/>
+freesboro, these charmings<lb/>
+evenings-! I have never seen<lb/>
+nights more beautiful-<lb/>
+Early in the evening I take<lb/>
+my chair out to the veranda<lb/>
+&amp; so charmed am I with the<lb/>
+silent beauty of the scene<lb/>
+without, that I often find<lb/>
+myself unconsciously watching<lb/>
+the Heavens till a late<lb/>
+hour. What an hour it<lb/>
+is for reflection! And Oh!<lb/>
+how my heart swells with<lb/>
+<pb n="8" id="f01650008"/>
+gratitude, when I think how<lb/>
+fortunate my lot has been!<lb/>
+Had I met with disappoint-<lb/>
+ment and defeat at every turn<lb/>
+in my life, still to have won<lb/>
+your love, my darling E., is<lb/>
+all that I can ask! For thou<lb/>
+art my own, sweet Emilie,-<lb/>
+&ldquo;with that name life's dearest<lb/>
+hopes and memories Come&rdquo;!<lb/>
+I trust that e're another moon<lb/>
+shall wax &amp; wane, that <del>we</del><add>I</add><lb/>
+may be permitted to gaze<lb/>
+upon the beauties of nature<lb/>
+in your society. At least, this<lb/>
+is my expectation- I am afraid<lb/>
+that if I postpone my visit<lb/>
+till later, that I will be ordered<lb/>
+away &amp; be deprived of all<lb/>
+chance of coming. But of this,<lb/>
+more at another time.</p>
+<closer>
+<salute>Believe<lb/>
+me, my darling, your fond &amp; devoted</salute>
+<signed>Walter</signed>.
+Excuse mistakes.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

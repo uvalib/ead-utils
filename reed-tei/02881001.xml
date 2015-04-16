@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02881001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Robert M. O'Reilly to S. C. Meade, March 13, 1907</title>
+<title type="gmd">[electronic resource]</title>
+<author>O'Reilly, Robert M.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02881001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1907-03-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Meade, S. C.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Meade, S. C.</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">New York (N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1907-03-13">March 13, 1907</date>
+<idno rend="suppress">02881001</idno>
+<title>Letter from Robert M. O'Reilly to S. C. Meade, March 13, 1907</title>
+</bibl>
+</head>
+<p>O'Reilly informs Meade that the Walter Reed Memorial Fund has increased Emilie Lawrence Reed's pension, that James Carroll has been promoted to Major, and that Mabel H. Lazear has been minimally compensated for her husband's work. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1907-03-13">
+<head>Letter from Robert M. O'Reilly to S. C. Meade, March 13, 1907</head>
+<pb n="1" id="f02881001"/>
+<opener>
+File<lb/>
+FROM THE NATIONAL ARCHIVES<lb/>
+m<lb/>
+OFFICE OF SURGEON GENERAL<lb/>
+MAR 13<lb/>
+71980<lb/>
+<unclear>3</unclear><lb/>
+1907<lb/>
+WAR DEPARTMENT<lb/>
+WAR DEPARTMENT,<lb/>
+OFFICE OF THE SURGEON GENERAL,<lb/>
+WASHINGTON.<lb/>
+<dateline><lb/>
+<date value="1907-03-13">March 13, 1907</date>
+</dateline><lb/>
+Mr. S. C. Meade,<lb/>
+Secretary, The Merchants' Association of New York,<lb/>
+62-72 Lafayette Street,<lb/>
+New York City, N.Y.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>In reply to your letter of the 11th instant, I have the<lb/>
+honor to enclose you herewith a memorandum prepared for the<lb/>
+President last Summer, which gives a history of the investiga-<lb/>
+tions in Cuba which resulted in the demonstration that yellow<lb/>
+fever is transmitted by a species of mosquito. Since the<lb/>
+preparation of this memorandum the Walter Reed Memorial Fund<lb/>
+has been raised to $25,000, and the interest on this money<lb/>
+will be paid to Mrs. Reed during her lifetime. This, with her<lb/>
+pension of $125 a month, makes her income something over $200<lb/>
+a month. I am not informed as to what means she has outside<lb/>
+of this income, but believe Major Reed left some small property<lb/>
+in life insurance.</p>
+<p>On December 5, 1906, the President sent a special message<lb/>
+to Congress asking that proper steps be taken to recognize the<lb/>
+great work done in Cuba by the Yellow Fever Commission, and in<lb/>
+compliance with his recommendation Congress passed a bill pro-<lb/>
+moting Frist Lieuteunant James Carroll, Assistant Surgeon, U.S.<lb/>
+Army to a Major, Surgeon, U.S.Army, for the part he took in<lb/>
+these experiments<unclear>.</unclear> Major Carroll is still Curator of the Army<lb/>
+Medical Museum in this city, and professor of Bacteriology in<lb/>
+<pb n="2" id="f02881002"/>
+Mr. S. C. Meade - - - 2<lb/>
+the Army Medical School.</p>
+<p>I have no information relative to the financial condition<lb/>
+of Mrs. Lazear, but the Government has only allowed her a pension<lb/>
+of $17 per month, and $2 additional for each of her two minor<lb/>
+children.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed><unclear>Robert M. O'Reilly</unclear></signed>
+Surgeon General, U.S. Army.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

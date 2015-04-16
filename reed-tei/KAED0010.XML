@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAED0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from John J. Moran to Jefferson Randolph Kean, August 28, 1939</title>
+<title type="gmd">[electronic resource]</title>
+<author>Moran, John J.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAED0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1939-08-28</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Furnas, Joseph C.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Peabody, James E.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Dominguez [Roldan], Francisco</name>
+<name type="person">Delgado, Claudio</name>
+<name type="place">Cuba</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1939-08-28">August 28, 1939</date>
+<idno rend="suppress">KAED0010</idno>
+<title>Letter from John J. Moran to Jefferson Randolph Kean, August 28, 1939</title>
+</bibl>
+</head>
+<p>Moran responds to Hench about the article in the Saturday Evening Post by Furnas. Moran makes numerous clarifications about the article and emphasizes the Reed - Finlay controversy. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1939-08-28">
+<head>Letter from John J. Moran to Jefferson Randolph Kean, August 28, 1939</head>
+<pb n="1" id="fKAED0010"/>
+<opener>
+<dateline>
+Havana, <date value="1939-08-28">Aug. 28, 1939.</date>
+</dateline><lb/>
+Gen. Jefferson R. Kean,<lb/>
+U. S. Army, Retired,<lb/>
+Washington, D. C.<lb/>
+<salute>Dear General Kean:</salute>
+</opener>
+<p><add>1.</add> My sincere thanks for your letter dated August 10th.<lb/>
+It is pleasant news to me that the article by Joseph C. Furnas in the<lb/>
+SATURDAY EVENING POST merits your approval, in general, and that you<lb/>
+find it interesting. I regret that I did not have an opportunity to<lb/>
+correct the errors made by Mr. Furnas. In addition to those mentioned<lb/>
+in your letter, there are a number of others. Where Mr. Furnas should<lb/>
+have named yourself and Major Stark, with Major Reed, as the VIRGINIA<lb/>
+graduates who led me to elect UVA for my couurse in Medicine, he used<lb/>
+Dr. Ames' name instead. At that time, I was on more intimate terms<lb/>
+with Major Stark than I could be with your good self or Major Reed.<lb/>
+I was Dr. Stark's assistant in the operating room and it was from him<lb/>
+I learned that Major Reed and yourself were graduates of UVA. I never<lb/>
+mentioned Dr. Ames to Mr. Furnas as remotely connected with the UVA.<lb/>
+Being from New Orleans, I always imagined that he was a graduate of<lb/>
+Tulane. In preparation for Mr. Furnas' article, I quoted verbatim<lb/>
+from letters you wrote to Prof. Peabody some years ago, very laudatory<lb/>
+of my humble self, when you thought he made little mention of me<lb/>
+while showering praise on Kissinger. Prof. Peabody sent me copies<lb/>
+of your letters in that connection, otherwise I might never have known<lb/>
+of your highly appreciated opinion of me and the part I played in the<lb/>
+yellow fever experiments. As to Mr. Furnas' allegation that Cuba was<lb/>
+free of yellow fever in 1901, when I left Havana, I think he just<lb/>
+imagined it. I told him that I left Cuba on the &ldquo;Morro Castle&rdquo;, in<lb/>
+February, 1901, with Major Reed and Kissinger as fellow passengers,<lb/>
+the former returning to Washington and the latter on furlough.</p>
+<p><add>2.</add> When you were fighting yellow fever in Havana in<lb/>
+1905-1906, I was fighting it with Gorgas in Panama. I wanted to<lb/>
+come here with you and wrote to you to that effect. I have never<lb/>
+forgotten your reply. It was to the effect that I &ldquo;would stand as<lb/>
+much chance as a cat in hell without claws&rdquo; here, what with the Cuban<lb/>
+politicians trying to place their friends in every worth-while job in<lb/>
+the Sanitary Department. Knowing that your advice to me to remain<lb/>
+where I was, was sound, I made no further effort.</p>
+<p><add>3.</add> On account of the Cubans, I am sorry Mr. Furnas did<lb/>
+not state that Dr. Finlay was born in Cuba, son of a Scotch father and<lb/>
+a French mother. Instead, he made him French-Scotch. So far as I<lb/>
+know, Dr. Finlay did not consider himself a Cuban at the time of the<lb/>
+experiments, anymore than the sons of many Americans resident in Cuba,<lb/>
+engaged in commercial activities, would be considered Cuban citizens<lb/>
+by their parents. By this, I do not mean to cast any reflection on<lb/>
+Cuban citizenship. Americans and Britishers rarely change their<lb/>
+allegiance, especially to become citizens of the Latin-American<lb/>
+republics. Also, Mr. Furnas might have referred to Dr. Agramonte's<lb/>
+immunity to yellow fever in a more happy manner than that employed by him.<lb/>
+You may recall that Dr. Agramonte considered his immunity very doubtful<lb/>
+in his &ldquo;Inside History of a Great Medical Discovery&rdquo;, published in the<lb/>
+SCIENTIFIC MONTHLY, in December, 1915, due to the fact that he was<lb/>
+<pb n="2" id="fKAED0020"/>
+<hi>Gen. Jefferson R. Kean</hi>.&nbsp; --- 2 --- &nbsp;<hi>Aug. 28, 1939</hi>.<lb/>
+raised and educated in the U. S., where he was taken by his widowed mother<lb/>
+in early childhood, returning to Cuba only some two or three years after<lb/>
+graduating in Medicine from the College of Physicians &amp; Surgeons, New York.</p>
+<p><add>4.</add> I believe I mentioned in one of my letters to you that<lb/>
+Dr. Philip S. Hench, of the Mayo Clinic, has been accumulating data on<lb/>
+&ldquo;The Conquest of Yellow Fever&rdquo; since 1937. His original object was to<lb/>
+publish in one of the accredited medical journals the stories of Kissinger<lb/>
+and Moran, on opposit<add>e</add> pages of the same issue. I wrote to him to the<lb/>
+effect that our two accounts of our experience would more than likely<lb/>
+lead to confusion; that the two stories would not dovetail and that one<lb/>
+of us would be contradicting the other, at the same time making it clear<lb/>
+to him that I did not consider myself any more infallible than Kissinger.<lb/>
+I suggested to him, instead, that it would be infinitely more important<lb/>
+to switch his activities to the accumulation of data as to the relative<lb/>
+shares of Reed and Finlay in what we have come to know as &ldquo;The Conquest<lb/>
+of Yellow Fever&rdquo;, in an endeavor, once and for all, to impartially set<lb/>
+forth the part played by each.</p>
+<p><add>5.</add> After the passage of forty years, practically, the Cubans<lb/>
+are claiming ALL for Finlay, whose glory, as they claim, has been stolen<lb/>
+by the Americans for Reed. The letter you wrote to me, about the time<lb/>
+the picture &ldquo;Yellow Jack&rdquo; was first shown in Cuba, with reference to this<lb/>
+controversy, and which you authorized me to show to anybody interested in<lb/>
+the matter, was read before the Rotary Club here, Dr. Francisco Dominguez<lb/>
+Roldan having been invited to the meeting, and published in &ldquo;EL MUNDO&rdquo; and<lb/>
+&ldquo;Diario de la Marina&rdquo; the following day. It only served to rile Dr.<lb/>
+Dominguez-Roldan, Finlay's self-appointed champion. Immediately after it<lb/>
+was read, he was called upon to give a little talk to the Rotarians. The<lb/>
+gist of his talk was that FINLAY, AND ONLY FINLAY was entitled to ALL THE<lb/>
+GLORY connected with the conquest of yellow fever; that every claim made<lb/>
+for Reed in marble, bronze, books and The Congressional Record rightfully<lb/>
+belonged to Finlay. On many occasions since, and at every opportunity,<lb/>
+Dr. Dominguez-Roldan charges the Americans with stealing Finlay's glory<lb/>
+for Reed. By this time, most all Cubans, and the medicos without exception,<lb/>
+think Finlay's champion is entirely right. He has won over to his way of<lb/>
+thinking the present generation of Cuban doctors to assure the continued<lb/>
+existence of &ldquo;The Finlay, and Only Finlay Club&rdquo;. They look on Agramonte<lb/>
+as a renegade for &ldquo;The Inside History of a Great Medical Discovery&rdquo;,<lb/>
+written 15 years after the Reed experiments. To a certain extent, they<lb/>
+had won Agramonte over by the beginning of 1928 when I arrived here from<lb/>
+Mexico. I am quite certain I wrote to you about Agramonte's change of<lb/>
+heart and opinion when I talked to him in 1928-29. He did not know that<lb/>
+I had read his article in the Scientific Monthly.</p>
+<p><add>6.</add> I have suggested to Dr. Hench on more than one occasion<lb/>
+that he write to you in connection with this matter, even suggesting that<lb/>
+you might collaborate with him in such a laudable effort, pointing out to<lb/>
+him that you were one of Major Reed's intimate friends and that your<lb/>
+opinion and knowledge would be sure to be impartial; that you were fam-<lb/>
+iliar with the work of Reed and Finlay, prior to, during and after the<lb/>
+experiments. He expects to come to Havana next March to continue his<lb/>
+investigations and expects from me such assistance as a layman in my<lb/>
+position could be qualified to give. I trust you will not take my in-<lb/>
+terest in this matter to be of the intrusive or meddling variety. I am<lb/>
+very much interested, before I pass on, in having the respective merits<lb/>
+<pb n="3" id="fKAED0030"/>
+<hi>Gen. Jefferson R. Kean</hi>.&nbsp;-- 3 --<hi>&nbsp;Aug. 28, 1939</hi>.<lb/>
+of Reed and Finlay recorded by an impartial and unprejudiced investigator,<lb/>
+if not in book form, then in an accredited medical journal. I do not think<lb/>
+that any of Reed's family, anymore than those who knew him and appreciated<lb/>
+him during his own lifetime, would wish to rob Finlay of his share of the<lb/>
+glory to which his memory is entitled, in order to glorify Reed. As stated<lb/>
+in your letter dated April 12, 1938, &ldquo;Ill informed people in the United<lb/>
+States may fail to mention Finlay and ill informed Cubans may fail to<lb/>
+mention Reed, but the fame of each is safe and secure, and I do not worry<lb/>
+over partisan statements&rdquo;. There is some excuse for the American attitude<lb/>
+with reference to Finlay, but there is very little excuse for the Cuban<lb/>
+attitude with refrence to Reed. The yellow fever epidemic was in Cuba<lb/>
+and Reed's work was done there. For Cubans to deliberately abstain from<lb/>
+even mentioning Reed when they glorify Finlay shows poor sportsmanship on<lb/>
+the part of the Cuban medical fraternity. Not only that, but their in-<lb/>
+direct reference to Reed when they mention &ldquo;La Comisi&oacute;n M&eacute;dica Americana&rdquo;<lb/>
+(The Reed &amp; Carroll Commission) is nothing more nor less than a villification<lb/>
+of his memory. The spirit of intolerance is so manifest to anyone with<lb/>
+even a superficial knowledge of the history of yellow fever as to leave the<lb/>
+unprejudiced observer dumbfounded to discover that the entire medical body<lb/>
+of any nation should be guilty of such narrowmindedness, acting in concert.<lb/>
+Recently, according to data published by Dr. Dominguez-Roldan, it has been<lb/>
+&ldquo;discovered&rdquo; that Dr. Finlay actually developed bonafide attacks of yellow<lb/>
+fever, through the mosquito route, with Spanish soldiers and a Spanish<lb/>
+priest as his human guinea pigs. The records of said experiments are said<lb/>
+to have been found in the archives of Dr. Finlay's friend and laboratory<lb/>
+assistant, Dr. Claudio Delgado. Why did not the Cuban medical profession<lb/>
+of Dr. Finlay's day and generation accept his theory and proofs, if they<lb/>
+were so conclusive ? The efforts of the Cuban medical profession to rob<lb/>
+Reed of any glory at all, giving Finlay ALL THE GLORY AND FAME, would<lb/>
+sound childish were it not for the unfortunate fact that its backers are<lb/>
+a scientific body. The Cuban contention will not be allowed to die out,<lb/>
+that you can take for granted. Until after Finlay's death, it was dormant.<lb/>
+Since his death, it has steadily gained impetus and with every passing year<lb/>
+the Cuban champions of Finlay get more and more violent and virulent in<lb/>
+their claims. You know, of course, that Reed's memory to me is something<lb/>
+sacred. I trust you will believe, however, that I am square enough to<lb/>
+give Finlay his due. My own small part in the experiments, let me repeat,<lb/>
+is not involved in any manner in the Reed-Finlay controversey. One thing<lb/>
+is certain and that is that those who know what Reed accomplished are rest-<lb/>
+ing on their oars while those who claim ALL FOR FINLAY are active and venom-<lb/>
+ous. The apparent apathy of the American medical profession in the Reed-<lb/>
+Finlay matter emphasizes the difference between Anglo-Saxons and Latins.<lb/>
+Americans do not so easily froth at the mouth over such matters. There is<lb/>
+always a limit to tolerance, however. To me that limit has been reached<lb/>
+in the Cuban claims for Finlay.</p>
+<p><add>7.</add> We spent a very quiet and physically profitable two weeks<lb/>
+in the Poconos. I gained ten pounds in weight, half of which I lost since<lb/>
+my return to Cuba. I always lose weight in the Summer. Have had no further<lb/>
+trouble with my duodenal ulcer and hope to have it pretty well cured by Xmas.</p>
+<p><add>8.</add> Mrs. Moran joins me in friendliest remembrances to Mrs.<lb/>
+Kean and your very good self. Please let me hear from you when you are in<lb/>
+the mood to write and please pardon me for &ldquo;wishing&rdquo; extra trouble on you<lb/>
+in connection with Dr. Hench and his plans.</p>
+<closer>
+<salute>SINCERELY,</salute>
+<signed>John J. Moran</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

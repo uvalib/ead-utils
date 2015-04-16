@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N2820001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, The New York Sun, September 1, 1905</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N2820001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1905-09-01</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="person">Manson, Patrick</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Maya, Thomas J.</name>
+<name type="place">South (U.S.)</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1905-09-01">September 1, 1905</date>
+<idno rend="suppress">N2820001</idno>
+<title>Newspaper clipping, The New York Sun, September 1, 1905</title>
+</bibl>
+</head>
+<p>Yellow fever infection</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1905-09-01">
+<head>Newspaper clipping, The New York Sun, September 1, 1905</head>
+<pb n="1" id="fN2820001"/>
+<opener>
+<dateline>
+New York Sun <date value="1905-09-01">Sept 1, 1905</date>
+</dateline>
+(From Gen Kean)<lb/>
+FROM GEN. J. R. KEAN<lb/>
+6<lb/>
+__________________________________________________<lb/>
+The Sun???<lb/>
+__________________________________________________<lb/>
+FRIDAY, SEPTEMBER 1, 1905.<lb/>
+__________________________________________________<lb/>
+</opener>
+<p>----------------</p>
+<p>YELLOW FEVER INFECTION.</p>
+<p>---------</p>
+<p>An Important Statement Made by High<lb/>
+Authority.</p>
+<p>TO THE EDITOR OF THE SUN--Sir: Your<lb/>
+paper of Aug. 29 contained two articles on<lb/>
+yellow fever which, being both well written<lb/>
+and plausible in statement, may not be with-<lb/>
+out influence.</p>
+<p>This is to be regretted, as being a muddy-<lb/>
+ing of the waters, at a time when the effort<lb/>
+to handle the difficult sanitary problem in<lb/>
+the South in a sane, sound and scientific<lb/>
+manner should have the support of a correctly<lb/>
+informed public opinion.</p>
+<p>The fact that yellow fever was transmitted<lb/>
+by a certain variety of mosquito and only<lb/>
+in that way was demonstrated fully, conclu-<lb/>
+sively and absolutely by the now famous<lb/>
+and classical experiments of Major Walter<lb/>
+Reed, Surgeon, United States Army, and his<lb/>
+coadjutors in Cuba in 1900. His work has<lb/>
+been thoroughly revised and tested since by<lb/>
+competent scientists, notably the yellow<lb/>
+fever expedition of the Pasteur Institute of<lb/>
+Paris and the yellow fever institute of the<lb/>
+Public Health and Marine Hospital Service<lb/>
+of this country, with the result that all his<lb/>
+conclusions have been confirmed; nor has<lb/>
+there been any substantial addition made to<lb/>
+them by subsequent investigators.</p>
+<p>In the first article by Dr. Thomas J. Mays<lb/>
+of Philadelphia the familiar &ldquo;not the only<lb/>
+way&rdquo; doctrine is supported by two instances,<lb/>
+both of which are perfectly explainable by<lb/>
+the mosquito theory, but which can with<lb/>
+difficulty be made to square with the theory<lb/>
+of conveyance of the disease by clothing,<lb/>
+which they were intended to support. If<lb/>
+Mr. B. took yellow fever on Sept. 15 the<lb/>
+mosquitoes which bit him in the three days<lb/>
+thereafter would have been &ldquo;ripe&rdquo; and cap-<lb/>
+able of conveying the infection by Oct. 1,<lb/>
+and adding five days for the usual period<lb/>
+of incubation, we should expect secondary<lb/>
+cases to begin to occur after Oct. 6. In fact,<lb/>
+three members of the family came down on<lb/>
+the 7th, 8th and 12th thereafter. But the<lb/>
+writer of the article prefers to trace this<lb/>
+secondary infection to a certain cashmere<lb/>
+shawl which had escaped burning after the<lb/>
+death of Mr. B. and was discovered and<lb/>
+destroyed on Oct. 5. And to the mere touch-<lb/>
+ing of this shawl (which there is no state-<lb/>
+ment that Mr. B. had worn) by Mrs. H. is<lb/>
+ascribed the transmission of the disease after<lb/>
+the most unusually short incubation period<lb/>
+of two days. Compare with this the utter<lb/>
+failure in the Reed experiments to convey the<lb/>
+fever by bedding in any case, though non-<lb/>
+immune Americans slept night after night<lb/>
+in bedding upon which yellow fever patients<lb/>
+had died and which was even soiled with the<lb/>
+black vomit and other discharges. &ldquo;It is<lb/>
+constantly observed,&rdquo; Reed used to say,<lb/>
+&ldquo;that in infected cities yellow fever stops<lb/>
+immediately on the occurrence of frost.&rdquo; Is<lb/>
+it conceivable that the occurrence of a tem-<lb/>
+perature of 32 degrees Fahrenheit out of doors<lb/>
+will instantly disinfect all the houses of a city!</p>
+<p>With regard to the other article, which<lb/>
+advances the theory that the daughters of<lb/>
+infected mosquitoes convey a mild infection,<lb/>
+it need only be said that while there is no<lb/>
+evidence in favor of this theory it is per-<lb/>
+sonally known to the writer that the experi-<lb/>
+ment was tried by Reed without the produc-<lb/>
+tion of any fever whatever.</p>
+<p>It is suggested that instead of manufac-<lb/>
+turing new theories or resurrecting buried<lb/>
+ones we take to heart the words of Sir Patrick<lb/>
+Manson, medical adviser of the British Colo-<lb/>
+nial Office, and the greatest living authority<lb/>
+on tropical diseases, spoken shortly after<lb/>
+the death of Walter Reed in the fall of 1902:<lb/>
+&ldquo;Dr. Walter Reed did a great and beneficent<lb/>
+work. We in England thoroughly appre-<lb/>
+ciate this and heartily sympathize with<lb/>
+America in the loss she and the world has<lb/>
+sustained by his premature death. The best<lb/>
+tribute we can pay to his memory is at once<lb/>
+to apply his discovery. Let us hope that<lb/>
+the good he has done will not be interred<lb/>
+with his bones, and that his countrymen and<lb/>
+the rest of us will take care to push forward<lb/>
+the great and beneficent measures his bril-<lb/>
+liant labors so clearly indicate.&rdquo;</p>
+<p>J. R. K.</p>
+<p>WASHINGTON, Aug. 30.<lb/>
+1905</p>
+<p>1905</p>
+<p>The New York Sun-<lb/>
+Sept. 1<hi rend="superscript">st</hi> 1905</p>
+</div1>
+</body>
+</text>
+</TEI.2>

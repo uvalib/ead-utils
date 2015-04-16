@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02008001"> 
+<teiHeader type="aacr2"> 
+<fileDesc> 
+<titleStmt> 
+<title type="245">Military Orders regarding spread of yellow fever, March 5, 1900</title> 
+<title type="gmd">[electronic resource]</title> 
+<author>Harbord, J. G.</author> 
+<respStmt> 
+<resp>Transcriptions and TEI markup</resp> 
+<name>Innodata Inc</name> 
+<resp>Images, project design, and management:</resp> 
+<name>Historical Collections &amp; Services<lb/> 
+Claude Moore Health Sciences Library<lb/> 
+University of Virginia Health System<lb/> 
+P.O. Box 800722<lb/> 
+Charlottesville, VA 22908-0722 
+</name> 
+<resp>TEI consultation:</resp> 
+<name>Electronic Text Center<lb/> 
+University of Virginia Library<lb/> 
+</name> 
+</respStmt> 
+</titleStmt> 
+<extent>ca. 15 kilobytes</extent> 
+<publicationStmt> 
+<publisher>Claude Moore Health Sciences Library of the 
+University of Virginia Health System</publisher> 
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace> 
+<idno>02008001</idno> 
+<availability> 
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p> 
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p> 
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt> 
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection 
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno> 
+</bibl> 
+</sourceDesc> 
+</fileDesc> 
+<profileDesc>
+<creation><date>1900-03-05</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc> 
+<change><date></date> 
+<respStmt><resp></resp> <name></name></respStmt> 
+<item></item></change> 
+</revisionDesc> 
+</teiHeader> 
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Santiago (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1900-03-05">March 5, 1900</date>
+<idno rend="suppress">02008001</idno>
+<title>Military Orders regarding spread of yellow fever, March 5, 1900</title>
+</bibl>
+</head>
+<p>This report guards against the introduction and spread of yellow fever. The symptoms of yellow fever are clearly outlined.</p>
+</div1>
+</front>
+<body>
+<div1 type="military orders" n="1900-03-05">
+<head>Military Orders regarding spread of yellow fever, March 5, 1900</head>
+<pb n="1" id="f02008001"/>
+<p>FROM GEN. J. R. KEAN</p>
+<p>YF</p>
+<p>CIRCULAR,<lb/>
+No. 2.<lb/>
+}</p>
+<p>HEADQUARTERS DEPARTMENT OF<lb/>
+SANTIAGO AND PUERTO PRINCIPE.</p>
+<p><hi rend="italic">Santiago, Cuba, March 5, 1900</hi>.</p>
+<p>[Prepared by the Chief Surgeon.]</p>
+<p>In order to guard against the introduction and spread<lb/>
+of yellow fever in this Department, commanding officers,<lb/>
+besides the provisions of Circular No. 22, of December 21,<lb/>
+1899, will, on April 1, 1900, or as soon thereafter as practi-<lb/>
+cable, carry out the following special instructions. For<lb/>
+this purpose they will direct their medical officers to seek<lb/>
+the co-operation of the officers of the Marine-Hospital Serv-<lb/>
+ice and avail themselves of such hospital accommodations<lb/>
+or disinfecting plants as may be offered by said service.</p>
+<p>1st. In all garrison towns and their seaports a census<lb/>
+will be made of all non-immune persons so that the extent<lb/>
+of susceptibility to infection may be known and adequate<lb/>
+preparations made. Such census will naturally include<lb/>
+all persons, not native, who have never had the disease.</p>
+<p>2nd. In seaboard towns especially, homeless and desti-<lb/>
+tute non-immunes (mostly loafers and tramps) are the<lb/>
+most dangerous element of the population and will, so far<lb/>
+as practicable, be removed to the country, isolated or<lb/>
+placed in confinement under medical supervision.</p>
+<p>3rd. If a suitable building is not available, a sufficient<lb/>
+number of tents will be pitched in an isolated spot and<lb/>
+made ready for the admission and treatment of yellow<lb/>
+fever cases. Near this hospital, but not connected with it,<lb/>
+should be another set of tents (detention camp) for the re-<lb/>
+ception of all suspicious cases or cases coming from an<lb/>
+infected locality.</p>
+<p>The tentage will be furnished by the Quartermaster's<lb/>
+Department, and the furniture, supplies and medicines, by<lb/>
+the Medical Department.</p>
+<p>4th. The necessary personnel will be selected and in<lb/>
+readiness. In the absence of an army medical officer, the<lb/>
+commanding officer will make an agreement with the<lb/>
+best civilian physician available, who will be prepared to<lb/>
+take charge of the yellow fever hospital on the day the first<lb/>
+case breaks out, his compensation to begin from that day,<lb/>
+in accordance with contract to be made with him by the<lb/>
+Chief Surgeon.</p>
+<p>One immune attendant will be engaged and placed in<lb/>
+charge as soon as the hospital is ready, at $30.00 per<lb/>
+month and a ration, his pay to begin at once. If cases of<lb/>
+yellow fever occur, the Chief Surgeon will authorize as<lb/>
+many nurses and attendants as may be necessary.</p>
+<p>5th. Upon completion of the preparations prescribed in<lb/>
+the above paragraphs, a report describing the names of<lb/>
+persons selected or engaged, and other action taken in<lb/>
+<pb n="2" id="f02008002"/>
+2<lb/>
+carrying out the provisions of this Circular will be for-<lb/>
+warded to these headquarters.</p>
+<p>6th. Civilians under treatment will be charged one dollar<lb/>
+($1.00) a day, or only 50 cents if employes of the Govern-<lb/>
+ment. If unable to pay, bills in duplicate may be sent to<lb/>
+the Chief Surgeon for settlement.</p>
+<p>Ice for the sick and lime for disinfection can be pur-<lb/>
+chased by medical officers as already provided by the Chief<lb/>
+Surgeon.</p>
+<p>7th. All buildings known to have been infected in pre-<lb/>
+vious years will be carefully inspected and, if deemed<lb/>
+necessary, subjected to a fresh disinfection.</p>
+<p>8th. Where no steam plant is available, disinfection of<lb/>
+bedding and clothing may be effected by a small portable<lb/>
+formaldehyde generator, or by thorough boiling in a mild<lb/>
+sublimate solution, followed by complete exposure to sun-<lb/>
+shine. A hand pump, to throw a stream of sublimate<lb/>
+solution against walls, floors, ceilings, etc., is always very<lb/>
+useful and will be supplied on application to the Chief<lb/>
+Surgeon.</p>
+<p>9th. All persons coming from infected localities will<lb/>
+be kept isolated for five days at the detention camp and<lb/>
+disinfected before being discharged.</p>
+<p>10th. Cases of fever in non-immunes should be carefully<lb/>
+watched and, as soon as they become suspicious, promptly<lb/>
+removed to the detention camp.</p>
+<p>All physicians will be ordered to report, within 24 hours,<lb/>
+any suspicious cases under their care to the medical<lb/>
+officer in charge.</p>
+<p>All cases of yellow fever will be promptly wired to the<lb/>
+Chief Surgeon.</p>
+<p>11th. According to general experience, the three most<lb/>
+important symptoms upon which a diagnosis of yellow<lb/>
+fever may be based, in the first stage, are:</p>
+<p><hi rend="italic">First</hi>--Injection and glistening of conjunctiv&aelig;, together<lb/>
+with general congestion of the skin.</p>
+<p><hi rend="italic">Second</hi>--Steadiness or falling of pulse with rising tem-<lb/>
+perature.</p>
+<p><hi rend="italic">Third</hi>--Albumen in urine.</p>
+<p>In order to appreciate properly the indications of pulse<lb/>
+and temperature, they should be recorded not less than<lb/>
+three times a day, upon the usual chart. Such a chart<lb/>
+should, by itself, by the end of the first week, clear all<lb/>
+doubts as to the nature of the fever.</p>
+<p>BY ORDER OF COLONEL WHITSIDE:</p>
+<p>J. G. HARBORD,<lb/>
+<hi rend="italic">1st Lieut. 10th U. S. Cavalry</hi>,<lb/>
+<hi rend="italic">A. A. D. C., A. A. A. G.</hi></p>
+<p><add>Rep Q 27 Apr. 1946</add></p>
+<p><add>Gen Kean says this was essentially what the cuban instructions<lb/>
+were on yf</add></p>
+<p><add>NP</add></p>
+</div1>
+</body>
+</text>
+</TEI.2>

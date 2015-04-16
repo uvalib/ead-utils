@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02513001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders for the Cuban People, July 9, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carpenter, Edward</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02513001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-07-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Cuban People</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Havard, Valery</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Harbord, J. G.</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>8 pp.</extent>
+<date value="1901-07-09">July 9, 1901</date>
+<idno rend="suppress">02513001</idno>
+<title>Military Orders for the Cuban People, July 9, 1901</title>
+</bibl>
+</head>
+<p>Circular #2, written in both English and Spanish, shows that the mosquito is responsible for the spread of disease, in particular yellow fever. The author outlines the necessary precautions that must be taken to prevent the spread of diseases by the mosquito. A summary of other Circulars regarding the spread of diseases is also included. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="military orders" n="1901-07-09">
+<head>Military Orders for the Cuban People, July 9, 1901</head>
+<pb n="1" id="f02513001"/>
+<p>File under &darr;<lb/>
+FROM THE NATIONAL ARCHIVES<lb/>
+The former Bureau of<lb/>
+Insular affairs<lb/>
+Records relating to YF</p>
+<p>CIRCULAR No. 2.</p>
+<p>HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+<hi rend="italic">Havana, July 9, 1901</hi>.</p>
+<p>By direction of the Military Governor, the follow-<lb/>
+ing circular is published for the information and guid-<lb/>
+ance of all concerned:</p>
+<p>The recent medical discoveries concerning, the<lb/>
+part played by mosquitoes in the propagation of cer-<lb/>
+tain diseases are of such vital importance to the com-<lb/>
+fort, health and prosperity of the people of Cuba that<lb/>
+the Military Governor deems it proper to call the<lb/>
+earnest attention not only of every one in authority<lb/>
+but of every patriotic citizen to this subject.</p>
+<p>It has been scientifically demonstrated that mala-<lb/>
+rial fever, yellow fever, filariasis and elephantiasis are<lb/>
+transmitted chiefly, if not exclusively, by mosquitoes.<lb/>
+The first two of these diseases, as is well known, are<lb/>
+but too prevalent in Cuba, the cause of many deaths;<lb/>
+thus the mortality from malarial fevers alone was<lb/>
+8220 in the city of Havana during the ten years from<lb/>
+1890 to 1899. Of yellow fever, the scourge which has<lb/>
+made Havana a byword of reproach in the civilized<lb/>
+world, of the thousands of lives for which it is respon-<lb/>
+sible, and the millions of dollars lost to Cuban com-<lb/>
+merce on account of it, nothing more need be said.<lb/>
+Filariasis and elephantiasis are not, fortunately, very<lb/>
+common in Cuba, but enough cases exist in all parts<lb/>
+of the island to make it possible and probable that if<lb/>
+precautions are neglected, infected foci will increase<lb/>
+in number and area.</p>
+<p>The above diseases, as already stated, are positive-<lb/>
+ly known to be communicated by mosquitoes which<lb/>
+act as intermediate agents, carrying the infection from<lb/>
+patients to healthy persons. That there are other<lb/>
+diseases thus communicated in tropical countries has<lb/>
+not been proven but is quite probable. It follows then<lb/>
+that the mosquito is one of the most dangerous enemies<lb/>
+we have to contend with and that intelligent self-pre-<lb/>
+servation requires that a relentless war should be wag-<lb/>
+ed against it by all means in our power. The sanitary<lb/>
+<pb n="2" id="f02513002"/>
+-- 2 --<lb/>
+authorities in the island, but especially in Havana,<lb/>
+have already taken energetic measures for the destruc-<lb/>
+tion of mosquitoes and with striking results, results<lb/>
+which amply justify not only the continuation but<lb/>
+extension of these measures. Thus, the yearly mor-<lb/>
+tality from malarial fevers which, as seen above, was<lb/>
+8220 during the decade ending with the year 1899, fell<lb/>
+to 344 in the year 1900, and has only been 75 during the<lb/>
+first six months of this year. The ratio of deaths from<lb/>
+yellow fever to the total non-immune population was<lb/>
+very much less in 1900 than ever before in the history<lb/>
+of Cuba, and during the first six months of this year,<lb/>
+only 17 deaths from that disease have occurred, all in<lb/>
+the months of January, February and March; none in<lb/>
+April, May and June. But the best efforts of the sa-<lb/>
+nitary authorities will only be partially successful and<lb/>
+cannot produce entirely satisfactory results without<lb/>
+the help and cordial cooperation of all persons interest-<lb/>
+ed in the well-being, prosperity and happiness of the<lb/>
+island.</p>
+<p>The means employed to prevent infection from<lb/>
+mosquitioes are naturally of two kinds: those aiming<lb/>
+at the destruction of these insects, and those having<lb/>
+for their object the protection of houses and inmates<lb/>
+against their bites by the use of wire screens and bars.<lb/>
+Mosquitoes do not travel far; they generally breed on<lb/>
+the premises which they infect and only fly to the im-<lb/>
+mediately surrounding houses. They lay their eggs in<lb/>
+pools, tanks, tubs, water-barrels, cesspols and sewers,<lb/>
+and within one to three days these eggs hatch into<lb/>
+larvae or wigglers which, within one to two weeks,<lb/>
+become full fledged mosquitoes; hence the necessity of<lb/>
+emptying and removing all useless receptacles in which<lb/>
+water may collect, to fill up holes and ditches and<lb/>
+to cover with board or wire-screen all needful tanks<lb/>
+and water-barrels. A thin film of petroleum poured<lb/>
+on the surface of the water will also prevent mosqui-<lb/>
+toes from laying eggs and destroy all larvae already<lb/>
+hatched. In this work, the Sanitary Department, if<lb/>
+called upon, will afford all necessary and reasonable<lb/>
+assistance.</p>
+<p>The use of wire screens on doors and windows<lb/>
+and of bars over beds, is particularly advised, espe-<lb/>
+cially in all public establishments such as hotels,<lb/>
+boarding-houses and other places where non-inmunes<lb/>
+<pb n="3" id="f02513003"/>
+-- 3 --<lb/>
+lodge. The public is becoming educated to the mos-<lb/>
+quito doctrine of the propagation of disease, and<lb/>
+travellers will naturally seek, and be advised to seek,<lb/>
+those hotels and boarding-houses which afford them<lb/>
+the best security against the danger of infection by<lb/>
+mosquitoes. It is therefore of the greatest importance<lb/>
+to all owners and managers of such public establish-<lb/>
+ments that they take all the measures recommended by<lb/>
+the Sanitary Department, not only for the public good<lb/>
+but in their own pecuniary interest. Any establish-<lb/>
+ment which, upon inspection, is found to have adopt-<lb/>
+ed these measures in a satisfactory manner, shall be<lb/>
+given a certificate by the Sanitary Department, stating<lb/>
+the fact and recommending it to all strangers and<lb/>
+non-acclimatized persons.</p>
+<p>It is confidently hoped that if the people, especial-<lb/>
+ly those citizens more immediately concerned, will<lb/>
+c&ouml;operate with the authorities, all infected mosquitoes<lb/>
+will be speedily destroyed, yellow fever stamped out<lb/>
+and the other diseases propagated by those insects<lb/>
+reduced to a harmless minimum if not completely<lb/>
+eliminated. This successful warfare against mos-<lb/>
+quitoes, together with the construction of a modern<lb/>
+sewerage system, are the two chief means whereby,<lb/>
+under a good government, thousands of lives are to be<lb/>
+saved, the race physically strengthened, and Havana<lb/>
+made the healthiest and most prosperous of all cities<lb/>
+within the tropics.</p>
+<p>EDWARD CARPENTER,<lb/>
+<hi rend="italic">1st. Lieut. Artillery Corps.<lb/>
+Acting Aide-de-Camp</hi>.</p>
+<pb n="4" id="f02513004"/>
+<p>(<hi rend="italic">Traduccion</hi>)</p>
+<p>CIRCULAR No. 2.</p>
+<p>CUARTEL GENERAL, DEPARTAMENTO DE CUBA,<lb/>
+<hi rend="italic">Habana, 9 de Julio de 1901</hi>.</p>
+<p>Por disposici&oacute;n del Gobernador Militar, se publi-<lb/>
+ca la siguiente circular para general conocimiento:</p>
+<p>De tal importancia son al bienestar, salud y pros-<lb/>
+peridad del pueblo de Cuba las &uacute;ltimas conquistas de<lb/>
+la ciencia m&eacute;dica, relativas al papel que el mosquito<lb/>
+desempe&ntilde;a en la propagaci&oacute;n de ciertas enfermedades,<lb/>
+que el Gobernador Militar de Cuba ha considerado de<lb/>
+gran oportunidad el recomendar la m&aacute;s celosa atenci&oacute;n<lb/>
+sobre este asunto, no s&oacute;lo &aacute; las autoridades sino que<lb/>
+tambi&eacute;n &aacute; todo ciudadano de civismo.</p>
+<p>La ciencia ha demostrado que las fiebres malaria<lb/>
+y amarilla, la filariasis y elefantiasis, si no exclusiva-<lb/>
+mente, son en gran parte trasmitidas por el mosquito.<lb/>
+Ya son casi end&eacute;micos en Cuba los dos primeros de<lb/>
+estos males, y, bien se sabe, causa de muchas muertes:<lb/>
+as&iacute; vemos que durante los diez a&ntilde;os transcurridos del<lb/>
+1890 al 99, la mortalidad, &aacute; causa de la malaria sola-<lb/>
+mente, fu&eacute; de 8220 en la ciudad de la Habana. Y<lb/>
+nada habremos de decir de la fiebre amarilla: azote<lb/>
+que hizo de la Habana el mote de reproche del mundo<lb/>
+civilizado, por los miles de v&iacute;ctimas que ha hecho y<lb/>
+por la p&eacute;rdida de millones de pesos que caus&oacute; al co-<lb/>
+mercio cubano. Afortunadamente la filariasis y<lb/>
+elefantiasis no son muy frecuentes en Cuba; aunque<lb/>
+existen bastantes casos en algunos puntos de la Isla,<lb/>
+que hacen posible y hasta probable que los focos in-<lb/>
+fecciosos aumenten en n&uacute;mero y se extiendan si des-<lb/>
+cuidamos las precauciones necesarias.</p>
+<p>Como ya hemos dicho, se sabe positivamente que<lb/>
+todas estas enfermedades se comunican por los mos-<lb/>
+quitos, que act&uacute;an de agentes intermediarios llevando<lb/>
+la infecci&oacute;n de indiv&iacute;duos enfermos &aacute; los sanos. Que<lb/>
+existen otras enfermedades tropicales que se trasmi-<lb/>
+ten de igual modo, no ha sido a&uacute;n demostrado; pero<lb/>
+es m&aacute;s que probable. Ahora bien, tenemos que el<lb/>
+<pb n="5" id="f02513005"/>
+-- 6 --<lb/>
+mosquito es uno de los m&aacute;s da&ntilde;inos enemigos que te-<lb/>
+nemos que combatir, y un buen sentido de propia con-<lb/>
+servaci&oacute;n nos exije hacerle guerra sin cuartel por to-<lb/>
+dos los medios &aacute; nuestro alcance. Las autoridades<lb/>
+sanitarias de la Isla, y de la Habana especialmente,<lb/>
+ya han venido tomando en&eacute;rgicas medidas para exter-<lb/>
+minar los mosquitos, y con brillantes resultados; re-<lb/>
+sultados que bien justifican no ya s&oacute;lo la continuaci&oacute;n<lb/>
+sino tambien la ampliaci&oacute;n de dichas medidas. Y ve-<lb/>
+mos pues que la mortalidad anual por fiebres malarias<lb/>
+que, como ya dijimos, fu&eacute; de 8220 en la d&eacute;cada que<lb/>
+expira en 1899, desciende &aacute; 344 en el a&ntilde;o de 1900, y<lb/>
+s&oacute;lo ha sido de 75 en el primer semestre del a&ntilde;o co-<lb/>
+rriente. Ya en 1900 la proporci&oacute;n entre fallecidos<lb/>
+de fiebre amarilla y el total de poblaci&oacute;n no inmune<lb/>
+hab&iacute;a sido much&iacute;simo menor de lo que jam&aacute;s hubiese<lb/>
+sido en Cuba; y en los primeros seis meses del corrien-<lb/>
+te a&ntilde;o solo 17 v&iacute;ctimas ha hecho esa enfermedad: to-<lb/>
+das durante los meses de Enero, Febrero y Marzo;<lb/>
+ninguna en Abril, ni en Mayo, ni en Junio. Mas los<lb/>
+mayores esfuerzos de las autoridades sanitarias s&oacute;lo<lb/>
+parcialmente lograr&aacute;n su objeto y jam&aacute;s alcanzar&aacute;n<lb/>
+satisfactorios resultados, sin el auxilio y cordial coo-<lb/>
+peraci&oacute;n de cuantos se interesen por el bienestar,<lb/>
+prosperidad y dicha de esta tierra.</p>
+<p>Son, pues, de dos clases los medios empleados<lb/>
+para evitar la infecci&oacute;n por el mosquito: Los que<lb/>
+tienden directamente &aacute; la destrucci&oacute;n del insecto; y<lb/>
+aquellos cuyo objeto es s&oacute;lo proteger las viviendas y<lb/>
+sus residentes por medio de la tela met&aacute;lica y el mos-<lb/>
+quitero. El mosquito no vuela &aacute; grandes distancias;<lb/>
+generalmente se procrea en los mismos lugares que<lb/>
+infecta y s&oacute;lo vuela &aacute; las casas inmediatas. Pone sus<lb/>
+huevos en charcas, tanques, tinas, cisternas, letrinas y<lb/>
+cloacas; de entre uno &aacute; tres d&iacute;as estos huevos se con-<lb/>
+vierten en larvas &oacute; gusarapos que, transcurridas una &oacute;<lb/>
+dos semanas, se convierten en mosquitos completa-<lb/>
+mente alados. De aqu&iacute; la necesidad de vaciar todas<lb/>
+las vasijas en que se deposite agua; de llenar todo<lb/>
+hoyo &oacute; agujero y cubrir con tapa &oacute; tela met&aacute;lica todos<lb/>
+los tanques y dep&oacute;sitos de agua aprovechable. Asi-<lb/>
+mismo vertiendo petr&oacute;leo l&iacute;quido de modo que una li-<lb/>
+gera capa cubra la superficie del agua se evitar&aacute; que<lb/>
+los mosquitos depositen sus huevos y se destruir&aacute;n<lb/>
+todas las larvas que se hayan desarrollado. En este<lb/>
+<pb n="6" id="f02513006"/>
+-- 7 --<lb/>
+trabajo el Departamento de Sanidad prestar&aacute; todo auxi-<lb/>
+lio que sea justo y necesario, siempre que se solicite.</p>
+<p>Especialmente se recomienda en uso de telas me-<lb/>
+t&aacute;licas en puertas y ventanas y el de mosquiteros en<lb/>
+las camas; sobre todo &aacute; los establecimientos p&uacute;blicos,<lb/>
+como hoteles, casas de vecindad y dem&aacute;s lugares don-<lb/>
+de se hospeden no inmunes. El p&uacute;blico ha venido<lb/>
+comprendiendo f&aacute;cilmente la teor&iacute;a de la propagaci&oacute;n<lb/>
+de enfermedades por medio del mosquito, y natural-<lb/>
+mente los viajeros buscar&aacute;n, y se les recomienda,<lb/>
+aquellos hoteles y casas que mejor los aseguren contra<lb/>
+el peligro de infecci&oacute;n por el mosquito. Por tanto, de<lb/>
+gran utilidad ser&aacute; &nbsp;&aacute; los due&ntilde;os y administradores de<lb/>
+dichos establecimientos p&uacute;blicos el observar todas las<lb/>
+medidas que el Departamento de Sanidad recomienda,<lb/>
+no s&oacute;lo en bien p&uacute;blico, sino que tambi&eacute;n en inter&eacute;s<lb/>
+de su propio peculio. Y el Departamento de Sanidad<lb/>
+expedir&aacute; un certificado &aacute; cualquier establecimiento<lb/>
+que, previa inspecci&oacute;n, haya observado estas medidas<lb/>
+de modo satisfactorio; certificado que declarar&aacute; ese<lb/>
+hecho y recomendar&aacute; el establecimiento &aacute; los extran-<lb/>
+jeros y dem&aacute;s personas no aclimatadas.</p>
+<p>Y con gran confianza esperamos que si el pueblo,<lb/>
+y especialmente aquellos individuos &aacute; quienes m&aacute;s di-<lb/>
+rectamente concierne, cooperan con las autoridades,<lb/>
+f&aacute;cilmente lograremos exterminar los mosquitos infec-<lb/>
+ciosos, extirparemos la fiebre amarilla, y, si no ilimina-<lb/>
+mos, al menos reduciremos &aacute; grado insignificante las<lb/>
+dem&aacute;s enfermedades que se propagan por medio de<lb/>
+dichos insectos. Esta feliz campa&ntilde;a contra el mosquito<lb/>
+secundada por la construcci&oacute;n de un moderno sistema<lb/>
+de alcantarillas, ser&aacute; el m&aacute;s poderoso medio de que<lb/>
+habremos de valernos para, bajo una buena adminis-<lb/>
+traci&oacute;n, salvar miles de vidas, robustecer f&iacute;sicamente<lb/>
+la raza y convertir la Habana en el m&aacute;s saludable y<lb/>
+pr&oacute;spero de los pueblos tropicales.</p>
+<p>EDWARD CARPENTER,<lb/>
+<hi rend="italic">1er. Tte. del Cuerpo de Artiller&iacute;a,<lb/>
+Ayudante de Campo Interino</hi>.</p>
+<pb n="7" id="f02513007"/>
+<p><unclear>Memorandum</unclear></p>
+<p>Circular No. 22, Department of Santiago &amp; Puerto<lb/>
+Principe, Dec. 21, 1899, publishes general rules for the man-<lb/>
+agement of yellow fever, providing that saloons, hotels, and<lb/>
+other public places shall be frequently inspected; that<lb/>
+non-immunes shall not enter towns infected without special<lb/>
+authority; that physicians and keepers of public places<lb/>
+shall promptly report suspicious cases; that patients shall<lb/>
+be removed to isolation hospitals, when practicable, and<lb/>
+other inmates of the infected house to undergo disinfec-<lb/>
+tion by taking sublimate bath, their clothing, etc., and the<lb/>
+house to be thoroughly disinfected; the latter to remain<lb/>
+vacant at least seven days after disinfection, etc., etc.</p>
+<p>Circular No. 2, same department, March 5, 1900, dir-<lb/>
+ects medical officers to seek the cooperation of the Marine<lb/>
+Hospital Service, and in garrison towns and seaports, to<lb/>
+take a census of non-immunes, removing the destitute to the<lb/>
+country, or isolating them; also provides for the establish-<lb/>
+ment of isolation hospitals; that buildings known to have<lb/>
+been infected in previous years shall be inspected, and if<lb/>
+necessary, disinfected; that persons coming from infected<lb/>
+localities shall be isolated for five days and then disin-<lb/>
+fected; and shows how the disease may be diagnosed, etc.</p>
+<p>Circular No. 2, Headquarters Department of Cuba,<lb/>
+dated April 27, 1901, after the discovery that yellow fever<lb/>
+is transmitted solely by the bite of infected mosquitos,<lb/>
+provides regulations for preventing the breeding of mosqui-<lb/>
+tos, and limits disinfection of rooms to fumigation for the<lb/>
+purpose of killing mosquitos; provides that suspect cases<lb/>
+and persons coming from infected localities shall be prompt-<lb/>
+ly isolated and protected from mosquitos, &amp;c.</p>
+<p>Circular No. 2, Department of Cuba, July 9, 1901,<lb/>
+calls attention of the public generally to above discovery,<lb/>
+and gives instructions for destroying mosquitos and for<lb/>
+protection against their bites, etc.</p>
+<p>Also Order No. 65, Department of Cuba, March 7, 1902,<lb/>
+shows that all persons coming from infected places are re-<lb/>
+quired to report to the Chief Sanitary Officer of Havana.</p>
+<p>Copies of all of above orders herewith. <unclear><add>(next 22)</add></unclear></p>
+<p>In this connection see also Part 2, Report of War<lb/>
+Department for 1900, being report of Military Governor of<lb/>
+Cuba, containing article by Maj. V. Harvard, Feb. 9, 1901, entitled<lb/>
+&ldquo;Sanitation and Yellow Fever in Havana&rdquo;, <unclear><add>and report of Chief Sanitary<lb/>
+Officer of Havana, p. 227,</add></unclear> and Vol. 1, Part 3,<lb/>
+Civil Report of Gen. Wood, Jan. 1st to May 20th, 1902, for report<lb/>
+of Chief Sanitary Officer of Havana, giving resume of sani-<lb/>
+tary work, etc., by his department since American occupation,<lb/>
+with particular reference to fighting yellow fever.</p>
+<p>G</p>
+<p>(over)</p>
+<pb n="8" id="f02513008"/>
+<p>Herewith also is Civil Order No. 159 organizing<lb/>
+the Superior Sanitary Board of the Island of Cuba, and giv-<lb/>
+ing regulations, etc.; and copy of an article by Maj. Harbord<lb/>
+entitled &ldquo;Fighting Yellow Fever in Cuba&rdquo;, showing methods<lb/>
+used and results attained, etc.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

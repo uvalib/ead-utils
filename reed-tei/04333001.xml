@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04333001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Frank Carey to Philip Showalter Hench, June 2, 1950</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Carey, Frank</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04333001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1950-06-02</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Hench, Philip Showalter</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="place">Shreveport (La.)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1950-06-02">June 2, 1950</date>
+<idno rend="suppress">04333001</idno>
+<title>Letter from Frank Carey to Philip Showalter Hench, June 2, 1950</title>
+</bibl>
+</head>
+<p>Carey requests Hench's permission to use an illustration in an article he is writing. He also requests a photograph of Camp Lazear Building No. 1 for the same article.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1950-06-02">
+<head>Letter from Frank Carey to Philip Showalter Hench, June 2, 1950</head>
+<pb n="1" id="f04333001"/>
+<opener>
+<dateline>
+THE ASSOCIATED PRESS<lb/>
+330 STAR BUILDING<lb/>
+WASHINGTON 4, D. C.<lb/>
+<date value="1950-06-02">JUNE 2, 1950</date>
+</dateline>
+DR. PHILIP HENCH,<lb/>
+MAYO CLINIC,<lb/>
+ROCHESTER, MINN.<lb/>
+<salute>DEAR DOCTOR HENCH:</salute>
+</opener>
+<p>IN CONNECTION WITH A PLANNED ARTICLE ON WALTER<lb/>
+REED AND YELLOW FEVER, WE'D APPRECIATE YOUR PERMISSION TO USE<lb/>
+ARTIST'S CONCEPTION OF YELLOW FEVER EPIDEMIC IN SHREVEPORT AS<lb/>
+USED IN THE REPRINT OF YOUR ADDRESS TO THE INTERNATIONAL CONGRESS<lb/>
+ON MALARIA.</p>
+<p>ALSO, COULD YOU SEND US A PRINT, OR PREFEREABLY,<lb/>
+THE NEGATIVE OF THE PHOTOGRAPH SHOWING YOU AND OTHERS STANDING<lb/>
+IN FRONT OF &ldquo;BUILDING NO. 1.&rdquo;</p>
+<p>THANKS FOR YOUR HELP ON THIS.</p>
+<closer>
+<salute>SINCERELY YOURS,</salute>
+<signed>FRANK CAREY,<lb/>
+SCIENCE REPORTER</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

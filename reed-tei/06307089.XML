@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06307089">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Albert E. Truby to Philip Showalter Hench, November 26, 1941</title>
+<title type="gmd">[electronic resource]</title>
+<author>Truby, Albert E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06307089</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1941-11-26</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Peterson, Matthew</name>
+<name type="person">Page, Frederick M.</name>
+<name type="person">Halstead, [s.n.]</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Havard, Valery</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">DeWitt, Calvin</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Matas, Rodolfo</name>
+<name type="person">De Poorter, [s.n.]</name>
+<name type="person">Stark, Mary</name>
+<name type="person">Hemmeter, John</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Neate, John S.</name>
+<name type="person">Brooke, R. H.</name>
+<name type="person">Baker, Chauncey B.</name>
+<name type="person">Cook, Claude M.</name>
+<name type="person">Carlisle, [s.n.]</name>
+<name type="person">Dominquez [Roldan], Francisco</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Wasdin, Eugene</name>
+<name type="person">Geddings, Henry Downes</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="place">San Francisco (Calif.)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Matanzas (Cuba)</name>
+<name type="place">New Orleans (La.)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Omaha (Neb.)</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>7 pp.</extent>
+<date value="1941-11-26">November 26, 1941</date>
+<idno rend="suppress">06307089</idno>
+<title>Letter from Albert E. Truby to Philip Showalter Hench, November 26, 1941</title>
+</bibl>
+</head>
+<p>Truby responds to Hench's suggested corrections and additions to Truby's manuscript. He provides additional details, clarifies several points, and refers Hench to others who might be able to provide further information.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1941-11-26">
+<head>Letter from Albert E. Truby to Philip Showalter Hench, November 26, 1941</head>
+<pb n="1" id="f06307089"/>
+<opener>
+145 Laurel Street, San Francisco, Calif.<lb/>
+<dateline><date value="1941-11-26">November 26, 1941</date>
+</dateline>
+<salute>Dear Dr. Hench:</salute>
+</opener>
+<p>Your Express package with various papers arrived on November 17th. Thank<lb/>
+you very much for your comments on the manuscript. They are most helpful<lb/>
+in bringing out points which an Army man would not realize might not be<lb/>
+fully understood by the average reader.</p>
+<p>The most of the items need no comment here as they are clear to me. I<lb/>
+mentioned the title I like in my last letter to you and am awaiting your<lb/>
+comments on that.</p>
+<p>Page <del>10</del><add>23</add>. Balascoaine Barracks were on or near a street of the same name.<lb/>
+I can't specify exactly.</p>
+<p>Page 41. None of our sick were treated in wooden buildings during 1899<lb/>
+except those in the Receiving Ward and Venereal Ward, until the new hos-<lb/>
+pital buildings (91-93) could be used late in 1899 or early 1900. All<lb/>
+typhoids and other cases, except as stated above, were treated under canvas<lb/>
+on the flat area between 108 to 91-93.</p>
+<p>Page 59. I did not know that Lambert and Moran had any trouble. I think<lb/>
+that they are both honest in their ideas about the past but both are mis-<lb/>
+taken about some things that I am sure of. Consequently, I have tried to<lb/>
+the best of my ability to quote them and all the others only when I feel<lb/>
+sure they have the right answer. Lambert does remember about the yellow<lb/>
+fever camp because that was his baliwick. Pinto has confirmed all of<lb/>
+Lambert's statements in the manuscript.</p>
+<p>Page 71. I can't explain how I managed to get this paragraph &ldquo;balled<lb/>
+up&rdquo;. In the preceeding paragraph, I stated that Agramonte went to Pinar<lb/>
+and did an autopsy on the 19th. All the correct data were in <hi>General<lb/>
+Lee's report</hi> which I have. Possibly I was dumb when I was writing it<lb/>
+and looked up the date in the Senate Document and that led me astray.<lb/>
+Of course I knew July 31st was wrong for Reed and I sailed on August 2nd.<lb/>
+Agramonte's statements were correct; he quoted from official reports.<lb/>
+<add>what is the ref to this report &cross;</add></p>
+<p>Page 83. When Pinto was here, he definitely fixed 116 as the hut where<lb/>
+Carroll was treated and 118 as Lazear's. I am satisfied that he is correct.</p>
+<p>Page 83. Lazear remained in 106.</p>
+<p>Page 85. My statement was qualified<add>:- &ldquo;</add>Insofar as I can remember, the body<lb/>
+of Dr. Lazear was the last&rdquo;- etc. I still think that we had no more yellow<lb/>
+fever cases at the <hi>Post</hi> or at <hi>Quemados</hi> after Lazear died. I said nothing<lb/>
+about cases from Havana. No doubt there were several from there, all of<lb/>
+them were of course interred in our cemetery. The Petersons, Page and<lb/>
+probably Halstead came from Havana where yellow fever was still raging.</p>
+<p>-1-</p>
+<pb n="2" id="f06307090"/>
+<p>Dr. Hench: &nbsp;&nbsp;&nbsp; 11-26-41</p>
+<p>Page 88 (This is the wrong page number). I rather think that <hi>Dr. Pinto's</hi><lb/>
+recollection about this matter is correct. I faintly remember that Ames<lb/>
+complained about both Carroll and Agramonte for not coming to see Lazear.<lb/>
+I feel, however, that neither Pinto nor I could consistently state that<lb/>
+Carroll did not see Lazear. Carroll was, I think, still convalescing in<lb/>
+116, only a few yards from 118, and may have seen Lazear. Under the cir-<lb/>
+cumstances, don't you think I had better leave it &ldquo;as is&rdquo;?</p>
+<p>show<lb/>
+Pinto</p>
+<p>Page 88. I am very glad you questioned this paragraph. Kean did not find<lb/>
+any fault with it in his comments on the manuscript. I thought I was quot-<lb/>
+ing him correctly. I will have to depend entirely on what he tells me<lb/>
+about this. I don't know where I got the date (September 25th) for I can't<lb/>
+confirm it. Lazear died at 8:45 P. M. September 25th. The cablegram report-<lb/>
+ing his death to the War Department probably got off from Quemados, Havana,<lb/>
+between 9:00 and 10:00 on the morning of the 26th. Therefore, if the trans-<lb/>
+port sailed at noon on the 26th, Reed would have left Washington before the<lb/>
+news reached General Sternberg. All I know about it personally is that<lb/>
+even though Reed had seen Kean and Havard at Matanzas, he knew very few<lb/>
+details when he reached us. That part is clear.</p>
+<p>Page 90. They are practically identical.</p>
+<p>Page 91. No. We said very little regarding Agramonte because of limited<lb/>
+time. He came about 10:00 A. M. and before noon, I took him to see General<lb/>
+DeWitt and he left shortly afterwards. I had time only to review with him<lb/>
+his statements which I had written up in my retained manuscript. He Okayed<lb/>
+them and by the time we had discussed our old friends generally, he had to<lb/>
+leave. Of course Pinto's tale about Dean refutes Agramonte's &ldquo;All else is<lb/>
+pure fancy&rdquo; story. Pinto has no reason to lie about his story and that story<lb/>
+has not changed since he told it to me in September 1900. You know that<lb/>
+my views about Agramonte are very well fixed, based on definite personal ob-<lb/>
+servations, so to you and others I would of course appear as too prejudiced<lb/>
+to qualify as a satisfactory investigator. Someone else <hi>must</hi> do it. Please<lb/>
+read your statements in your letter to me January 7th, 1941 and my reply<lb/>
+January 27th. I can find no errors in Agramonte's statements prior to<lb/>
+Carroll's death. Some of them, which you unearthed, should convince you<lb/>
+that his Dean story, written later (1915) in the Scientific Monthly, is very<lb/>
+strange. Therefore I am returning that paper to you without comment at<lb/>
+this time, so you can get Pinto's statements (and others including Dr.<lb/>
+Cooke) first. I was interested in your letter from New Orleans and your<lb/>
+interview with the venerable Matas. Sorry you did not let me know you were<lb/>
+going there for I would have suggested looking up Dr. De Poorter who came<lb/>
+from Louisiana. He may be living and perhaps would remember many of these<lb/>
+things. When you go to Washington, try to see Mrs. A. N. Stark who was<lb/>
+present when Lazear did his experiments in August and might have much<lb/>
+valuable information for you on this and everything else.<lb/>
+<add>What<lb/>
+tale<lb/>
+--------<lb/>
+See my copy<lb/>
+of Pinto's note<lb/>
+to Truby<lb/>
+(p 91 T's mss)<lb/>
+# 3 my mss<lb/>
+Show Pinto</add></p>
+<p>I wonder why you have never made any comment on my remarks in your Hammeter<lb/>
+book. I was perhaps too frank but it is the true picture as I saw it. I<lb/>
+hope you will not let my remarks stand alone. Please get some of the others<lb/>
+to add their views to Kean's and mine and then I would like to have you let<lb/>
+me see it again. While I would like my remarks to be considered confiden-<lb/>
+-2-<lb/>
+<pb n="3" id="f06307091"/>
+3<lb/>
+Dr. Hench: &nbsp;&nbsp;&nbsp; 11-26-41<lb/>
+tial, I don't mind letting you show them to Pinto, Cooke or Mrs. Stark.<lb/>
+They will promptly tell you if I am wrong in my estimate.</p>
+<p>I am not &ldquo;disregarding&rdquo; any versions nor anxious to perpetuate &ldquo;pure bunk&rdquo;<lb/>
+but am going to tell what I think is the correct version. It is up to<lb/>
+the historians to analyze all the versions with the incentive behind them<lb/>
+and then draw conclusions. If my views are worthless, it won't matter.<lb/>
+I am not vindictive but I do hate to see what I think are deliberate false-<lb/>
+hoods perpetuated without a thorough study by an impartial investigator.<lb/>
+I think you have the incentive and are best qualified to do the job. Of<lb/>
+course you know that General Kean thinks the whole controversy should be<lb/>
+ignored.</p>
+<p>Page 96. I am <hi>not</hi> inserting Pinto's statement regarding this.</p>
+<p>Page 98. I am <hi>not sure</hi> about it but I do know that I did not see Agramonte<lb/>
+from September 18th until several days after Reed returned on October 4th.<lb/>
+I don't think it would have been possible for him to have seen Lazear dur-<lb/>
+ing the latter's illness without my knowing it and I think that Ames com-<lb/>
+plained about that very thing. I did <hi>not</hi> see him at Lazear's funeral. All<lb/>
+of this can be inferred from my remarks in the manuscript. Knowing of past<lb/>
+events in Cuba, I expect that it would be easy to produce plenty of wit-<lb/>
+nesses to state that they were with Agramonte at the funeral. Perhaps they<lb/>
+were but it would be hard to convince me on that point.</p>
+<p>I see no reason why Carroll should have mentioned Agramonte's absence to<lb/>
+Mrs. Carroll unless he knew it was so. Agramonte must have been away some-<lb/>
+where; otherwise, if he was so important a member of the Board as he leads<lb/>
+one to think, would he not have taken over the work at the laboratory where<lb/>
+Steward Neate was left alone when Lazear became ill? Of course he would and<lb/>
+I would have known it for I was in command. <hi>I know</hi> that in all that time<lb/>
+Agramonte did not appear at the laboratory. I personally saw Neate and saw<lb/>
+that he was taking care of things in his usual efficient way. Of course<lb/>
+everything there was at a standstill with nothing but the cultures and mos-<lb/>
+quitoes to look after.</p>
+<p>I do not think that contract surgeons at that time made personal reports<lb/>
+but all changes in their status had to be indorsed on their contracts. It<lb/>
+is possible that this contract had to be surrendered at the expiration of<lb/>
+service and, if so, Agramonte's may be found in the Surgeon General's Office<lb/>
+or the Adjutant General's Office. I think that a leave of absence would<lb/>
+appear on the contract. It is very important to find it or at least have<lb/>
+a thorough search made of Agramonte's record in both places. Mr. Brook,<lb/>
+Chief Clerk in the Surgeon General's Office, should be able to help you if<lb/>
+he is still there.<lb/>
+<add>look up</add></p>
+<p>Page 99. If Carroll's statement to his wife regarding Agramonte's absence<lb/>
+was not true, you may be sure that Agramonte would have denied it. then and<lb/>
+there in most forcible terms. This alone makes me feel that Carroll was<lb/>
+right.</p>
+<p>-3-</p>
+<pb n="4" id="f06307092"/>
+<p>4<lb/>
+Dr. Hench: &nbsp;&nbsp;&nbsp; 11-26-41</p>
+<p>Page 101. I explained that in my <hi>comments</hi>.</p>
+<p>Page 103. I sent you the answer. <hi>DOUGHERTY</hi>.</p>
+<p>Page 105. I don't think so. He spoke at a local banquet. Is it impor-<lb/>
+tant to find out before I quote from Baker's article? He told me to use<lb/>
+it in any way I liked.</p>
+<p>Page 108. I selected Acting Steward Cook and the detachment of men to<lb/>
+work at the camp and made trips several afternoons with Reed, Ames and<lb/>
+others to see the work. I was there while buildings 1 and 2 were being<lb/>
+built and was inside of them on several occasions. When you need a<lb/>
+letter, you can have it.<lb/>
+<add>get</add></p>
+<p>Page <del>111</del><add>119</add>. Ames was already in charge before I left Columbia Barracks.<lb/>
+Why should you doubt the Board's statement which was written at the close<lb/>
+of the experiments? Moran was quarantined in a tent so that he might have<lb/>
+failed to see Ames. In the daytime when Reed was there, Ames might have<lb/>
+been away. It does not seem very important to me.</p>
+<p>Page 132. Reed mentions it on page 80, Senate Document in the two para-<lb/>
+graphs above Case 6. They had volunteers available at that time, I think,<lb/>
+but Reed wanted to use them - Moran, for instance - on another experiment.<lb/>
+Beside the reference I have given you, I think there is still another one<lb/>
+but I can't find it now. I will modify my statement so that it can't be<lb/>
+questioned.</p>
+<p>Page 133. Two non-immune <hi>volunteers</hi> stayed in the mosquito-free side of<lb/>
+the building. Reed, <hi>Ames</hi>, Carroll <del>and</del><add>saw</add> the mosquitoes bit<add>e</add> Moran on <del>each</del><add>one</add><lb/>
+occasion. There may have been a different group of spectators each time<lb/>
+but I dare say Reed was there every time. If Moran's statement regarding<lb/>
+Ames was true (page 119), why was Ames present? Reed depended on Ames<lb/>
+profesionally and you may be sure Ames was never away from that camp very<lb/>
+much.</p>
+<p>Page 140. Yes, definitely.</p>
+<p>Page 144. Yes. I shall, however, prepare a detailed statement for future<lb/>
+use in case it is needed. See previous remarks on this point.<lb/>
+<add>get</add></p>
+<p>Thanks for your suggestions regarding photographs. You will like some that<lb/>
+I have, nearly all taken by myself. I have not heard from Carlisle recently.</p>
+<p>Referring to the Sick and Wounded Reports. I think the Surgeon General's<lb/>
+Office can help you find them. Every month such report were made out in<lb/>
+longhand in duplicate on large sheets of paper about 14&times;18&Prime;. Each case was<lb/>
+ent<del>i</del><add>e</add>re<del><unclear>[unclear]</unclear></del><add>d</add> upon admission, giving name, organization, rank, diagnosis, compli-<lb/>
+cations, etc. One of these sheets was retained at the hospital and the<lb/>
+other one went to the Surgeon General's Office. Whether this sheet went<lb/>
+elsewhere or not, I do not know. Mr. Brook or his successor in the Surgeon<lb/>
+<add>get</add><lb/>
+-4-<lb/>
+<pb n="5" id="f06307093"/>
+5<lb/>
+Dr. Hench: &nbsp;&nbsp;&nbsp; 11-26-41<lb/>
+General's Office can tell you. General Kean may know as he told me he<lb/>
+once looked them up for some purpose. If found, they should be micro-<lb/>
+filmed for they contain most valuable information which is absolutely<lb/>
+correct.</p>
+<p>I have too much reading matter on hand to read Dominguez's book now but<lb/>
+would love to see it later.</p>
+<p>Yes. I know all about Lambert's attempts to get on the &ldquo;Roll of Honor&rdquo;.<lb/>
+That is quite natural but of course I don't agree with him. He is a<lb/>
+faithful, honest person and did splendid work without any idea of reward<lb/>
+at the time. He had a poor education and his letters are hard to follow,<lb/>
+but on some things I know he has stated facts. He is definitely confused<lb/>
+on a few things. His description of the yellow fever camp, before I<lb/>
+saw the maps you obtained from the War Department, was perfect in every<lb/>
+respect. Of all the enlisted men, Andrus gives the clearest and best<lb/>
+account of any. His memory is good and he writes extremely well. You<lb/>
+have never told me if he asked your permission to quote my account of<lb/>
+Lazear's death in your article last year at W &amp; J. I asked him to do so<lb/>
+way back in February or March. Although I have heard from him since then,<lb/>
+he has not mentioned hearing from you.</p>
+<p>Thanks for the copy of Carroll's letter to his wife. Is the magazine<lb/>
+&ldquo;Janus&rdquo; still in existence and is it O.K. for me to quote from Hammeter's<lb/>
+paper? <hi>Please advise me regarding this soon</hi> as I wish to complete that<lb/>
+chapter.</p>
+<p>Many thanks again for your interest and help.</p>
+<closer>
+<salute>Very sincerely,</salute>
+<signed>Albert E Truby</signed>
+ALBERT E. TRUBY<lb/>
+Your inclosures returned herewith:<lb/>
+1 - copy of letter to Miss Wood<lb/>
+2 - Scientific Monthly (1915)<lb/>
+3 - Agramonte's letter to Hammeter<lb/>
+4 - Three (3) maps of Columbis Barracks 1899<lb/>
+</closer>
+</div1>
+<div1 type="document" n="1941-11-26">
+
+<pb n="6" id="f06307094"/>
+<p>Truby comments</p>
+<p>Page Six.</p>
+<p>(32) Yes, I am positive. My statement could even be stronger.<lb/>
+The board had planned to start work on three things, viz:- Finish the<lb/>
+study of the Sana<del>v</del><add>r</add>elli organism, make a study of the intestinal flora,<lb/>
+and test the mosquito theory. Reed and Carroll had worked a long time<lb/>
+on the first and it was quite urgent for them to finish that first.<lb/>
+Reed placed Lazear in charge of the mosquito work, but you may be quite<lb/>
+sure that Reed <hi>was deeply interested</hi> and always had the case of the pris-<lb/>
+oner at Pinar del Rio in his mind. That was <hi>his own observation</hi>, and shows<lb/>
+how keen he was about &ldquo;the theory&rdquo;. Lazear's letter stating &ldquo;Reed was not<lb/>
+yet interested in the mosquito work&rdquo;, (quoting from you) must not be mis-<lb/>
+interpreted. Could it not mean that Reed was not yet ready to take up that<lb/>
+work because the other job had to be finished first? I think so. I think<lb/>
+Lazear was impatient that the other two did not join him in pressing the<lb/>
+mosquito theory to a rapid conclusion, (Lazear was undoubtedly optomistic<lb/>
+about it) and reasoned that if they obtained positive results with the mos-<lb/>
+quito the other theory (Sana<del>v</del><add>r</add>elli) could be scrapped then and there. Look-<lb/>
+ing at it with our present knowledge that would have been the thing to do.<lb/>
+It was not the logical thing for Reed then, for he was in the midst of the<lb/>
+long bacteriological study which was nearing conclusion, and in the midst<lb/>
+of his controversy with Wasdin and Geddings. As for the <hi>&ldquo;germ&rdquo;</hi> mentioned,<lb/>
+which Lazear was also trying to find, you must remember that they did not<lb/>
+know about a virus at that time. Lazear's work was not &ldquo;unknown&rdquo; to Reed.<lb/>
+Did he not provide Lazear with every facility, including the assistance of<lb/>
+his personally trained assistant, Steward John Neate? And do you think<lb/>
+Reed was the kind of <del>a</del> man who could work in the same small room with Lazear<lb/>
+for weeks and not know what Lazear was doing?<lb/>
+<add>See p. 162<lb/>
+Sen. Doc.</add></p>
+<p>Referring to Lazear's letter of September 8, 1900. Carroll was al-<lb/>
+ready absent, sick with yellow fever, and Reed was in the U.S., so Lazear<lb/>
+could not tell his confreres at the laboratory. I doubt if he told A<del><unclear>[unclear]</unclear></del><add>g</add>ramonte.<lb/>
+The doctors at the hospital knew that Carroll had been bitten by Lazear's<lb/>
+&ldquo;birds&rdquo; and they knew that he had yellow fever. They also knew about XY.<lb/>
+As I stated in the mms. Lazear did not give them many details, but wanted<lb/>
+to wait until Reed returned and let him, the president of the board, tell<lb/>
+what had happened. Lazear was not only loyal to his chief, but he also had<lb/>
+good common sense. There was a great responsibility resting on his<lb/>
+shoulders and naturally he cautioned his wife not to say anything.</p>
+<p>I shall always adhere to the statements I made in the mms.viz:-<lb/>
+&ldquo;He had grown to be more and more optomistic about getting results from<lb/>
+infected mosquitos&rdquo;. As stated above that statement could be stronger.</p>
+<p>Your inference is also wrong that I antedated myself in stating<lb/>
+that Wood had approved the Board's request to use Volunteers. Do you think<lb/>
+Reed or Lazear would have dared to take up the mosquito work and place in-<lb/>
+fected mosquitos on themselves or others without first obtaining the highest<lb/>
+military authority present in Cuba? Of course not. The thing that Wood<lb/>
+approved on October 12th, (Kean's diary) was permission to use <hi>Spanish<lb/>
+immigrants</hi>, if they gave their consent, and to pay them a <hi>gratuity</hi>. I have<lb/>
+never seen Kean's diary, but I am sure he will tell you that this was what<lb/>
+was intended, if the diary is not clear. Lazear failed to ask Pinto's<lb/>
+authority in XY's case, I think. I don't know that he notified the Post<lb/>
+Commander and asked his authority in the cases bitten during August, 1900,<lb/>
+listed in Table III, Preliminary Report. But I do know that General Wood<lb/>
+<add>question<lb/>
+in (Jan 7<lb/>
+1942)</add><lb/>
+<add>show<lb/>
+Pinto</add><lb/>
+<pb n="7" id="f06307095"/>
+Page Seven.<lb/>
+had approved of theirdoing it. Proper military procedure would also have<lb/>
+required Lazear to notify his Commanding Officer, Pinto, and the latter<lb/>
+should have then taken up the matter with the Post Commander. As this<lb/>
+was not done Reed listed Dean as XY in his Preliminary Report.</p>
+<p>(33) O. K.</p>
+<p>(34) I stated very definitely that they told me of Lazear's success<lb/>
+with infected mosquitos in the two cases (XY and Carroll) and that Lazear<lb/>
+was sick, presumably from the same cause. Perhaps I can amplify or get<lb/>
+additional information. I know of no official version regarding Dean's in-<lb/>
+occulation except that given in the Preliminary Report. A<del>z</del><add>g</add>ramonte's story<lb/>
+is not true as he himself stated in the quotations you published at W. &amp; J.<lb/>
+and as Lazear wrote to his wife on September 8th. Lazear was <add>&ldquo;</add>working <hi>en-<lb/>
+tirely alone</hi>.<add>&rdquo;</add> In my opinion it is necessary for someone, yourself preferably,<lb/>
+to get Dr. Pinto's version on this point and many others. I have never<lb/>
+heard from him since leaving Cuba, but saw him once for a few minutes, in<lb/>
+Omaha, about 1906. I haven't an idea what he will say. If he is still<lb/>
+active mentally and physically he should be able to shed much light on many<lb/>
+points. He possibly feels that General Kean and I kept him from getting on<lb/>
+the Roll of Honor and on that account I have not asked him any questions.<lb/>
+I fully intended to do so before publishing my story. He may have important<lb/>
+records and photos. I will bet my hat that, if you can get him to talk free-<lb/>
+ly, he will confirm everything I have said about A<del>z</del><add>g</add>ramonte, Dean and Lazear.<lb/>
+He lives in Omaha, Nebraska. I do not know his address, but he was for a<lb/>
+long time the City Health Officer and so is, no doubt, well known. His full<lb/>
+name is Alva S. Pinto.</p>
+<p>(35) I can not quote his exact words, but I can remember that he felt<lb/>
+and admitted that a mosquito might be responsible for his illness. He did<lb/>
+&check; &check; not tell <hi>me</hi> about having been bitten <hi>at Las Animas</hi>. Of course, he was not re-<lb/>
+ferring to the bite recorded in Table III, as that was on August 16, a month<lb/>
+before I saw him - (September 18th).</p>
+<p>(36) I can't remember. All I know about its disappearance, I g<del>e</del><add>o</add>t from<lb/>
+Generals Ireland or Kean. In effect, I was told that Carroll had the book<lb/>
+after Reed's death and that it &ldquo;disappeared mysteriously&rdquo;. Perhaps Kean<lb/>
+can tell you more.</p>
+<p>(37) O.K.</p>
+<p>(38) The cemetery was a small piece of land used by our troops for tem-<lb/>
+porary interment of <hi>all</hi> U. S. deceased military personnel. All bodies were<lb/>
+disinterred and shipped home in due time. I can see why that was the best<lb/>
+way to handle the situation, but <hi>do not know</hi> why the Government did it that<lb/>
+way. The cemetery is not there, but the land is and some day, God willing,<lb/>
+I will visit the place and try to &ldquo;put it on the map&rdquo;. Q.M. maps should show<lb/>
+it!</p>
+<p>(39) Nobody knows why Lazear did not promptly go on sick report. Poss-<lb/>
+ibly the initial symptoms were mild and he was doubtful of the diagnosis. He<lb/>
+was actually under observation by Ames when I reported for duty On Sept. 18th.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

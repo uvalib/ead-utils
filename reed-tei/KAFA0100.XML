@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAFA0100">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Congressional Bill #S. 2817, 71st Congress, 2d Session, December 13, 1929</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAFA0100</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1929-12-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Cook, Robert P.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Bullard, John R.</name>
+<name type="person">Covington, Albert W.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Hamann, Paul</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Olsen, William</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Sheppard, Morris</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Wainwright, Jonathan Mayhew</name>
+<name type="person">Jernegan, N. May</name>
+<name type="person">Gorgas, Marie D.</name>
+<name type="person">Roosevelt, Theodore</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1929-12-13">December 13, 1929</date>
+<idno rend="suppress">KAFA0100</idno>
+<title>Congressional Bill #S. 2817, 71st Congress, 2d Session, December 13, 1929</title>
+</bibl>
+</head>
+<p>This amendment proposes the inclusion of Roger Post Ames with those honored in H.R. 13060. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1929-12-13">
+<head>Congressional Bill #S. 2817, 71st Congress, 2d Session, December 13, 1929</head>
+<pb n="1" id="fKAFA0100"/>
+<p>OFFICE COPY</p>
+<p>71ST CONGRESS<lb/>
+2D SESSION<lb/>
+-----------------</p>
+<p>S. 2817<lb/>
+-----------------</p>
+<p>IN THE SENATE OF THE UNITED STATES<lb/>
+DECEMBER 13 (calendar day, DECEMBER 21), 1929</p>
+<p>Mr. SHEPPARD introduced the following bill; which was read twice and referred<lb/>
+to the Committee on Military Affairs<lb/>
+-------------------------------<lb/>
+&check;</p>
+<p>A BILL</p>
+<p>To amend an Act entitled &ldquo;An Act to recognize the high public<lb/>
+service rendered by Major Walter Reed and those associated<lb/>
+with him in the discovery of the cause and means of trans-<lb/>
+mission of yellow fever,&rdquo; approved February 28, 1929, by<lb/>
+including <hi>Roger P. Ames</hi> among those honored by said Act.</p>
+<p>1 <hi rend="italic">Be it enacted by the Senate and House of Representa-</hi><lb/>
+2 <hi rend="italic">tives of the United States of America in Congress assembled</hi>,<lb/>
+3 That the Act entitled &ldquo;An Act to recognize the high public<lb/>
+4 service rendered by Major Walter Reed and those associated<lb/>
+5 with him in the discovery of the cause and means of trans-<lb/>
+6 mission of yellow fever,&rdquo; approved February 28, 1929, be,<lb/>
+7 and the same is hereby, amended by inserting between the<lb/>
+8 names &ldquo;Aristides Agramonte&rdquo; and &ldquo;James A. Andrus&rdquo;<lb/>
+<pb n="2" id="fKAFA0110"/>
+2<lb/>
+1 the name &ldquo;Roger P. Ames,&rdquo; so that the Act as amended<lb/>
+2 will read as follows:</p>
+<p>3 &ldquo;That in special recognition of the high public service<lb/>
+4 rendered and disabilities contracted in the interest of human-<lb/>
+5 ity and science as voluntary subjects for the experimenta-<lb/>
+6 tions during the yellow-fever investigations in Cuba, the<lb/>
+7 Secretary of War be, and he is hereby, authorized and di-<lb/>
+8 rected to publish annually in the Army Register a roll of<lb/>
+9 honor on which shall be carried the following names: Walter<lb/>
+10 Reed, James Carroll, Jesse W. Lazear, Aristides Agramonte,<lb/>
+11 <hi>Roger P. Ames</hi>, James A. Andrus, John R. Bullard, A. W.<lb/>
+12 Covington, William H. Dean, Wallace W. Forbes, Levi E.<lb/>
+13 Folk, Paul Hamann, James F. Hanberry, Warren G. Jerne-<lb/>
+14 gan, John R. Kissinger, John J. Moran, William Olsen,<lb/>
+15 Charles G. Sonntag, Clyde L. West, Doctor R. P. Cooke,<lb/>
+16 Thomas M. England, James Hildebrand, and Edward<lb/>
+17 Weatherwalks, and to define in appropriate language the<lb/>
+18 part which each of these persons played in the experimenta-<lb/>
+19 tions during the yellow-fever investigations in Cuba; and in<lb/>
+20 further recognition of the high public service so rendered<lb/>
+21 by the persons hereinbefore named, the Secretary of the<lb/>
+22 Treasury is authoirzed and directed to cause to be struck for<lb/>
+23 each of said persons a gold medal with suitable emblems,<lb/>
+24 devices, and inscriptions, to be determined by the Secretary<lb/>
+25 of the Treasury, and to present the same to each of said<lb/>
+<pb n="3" id="fKAFA0120"/>
+3<lb/>
+1 persons as shall be living and posthumously to such repre-<lb/>
+2 sentatives of each of such persons as shall have died, as shall<lb/>
+3 be designated by the Secretary of the Treasury. For this<lb/>
+4 purpose there is hereby authorized to be appropriated the<lb/>
+5 sum of $5,000; and there is hereby authorized to be appro-<lb/>
+6 priated, out of any money in the Treasury not otherwise<lb/>
+7 appropriated, such amounts annually as may be necessary<lb/>
+8 in order to pay to the following-named persons during the<lb/>
+9 remainder of their natural lives the sum of $125 per month,<lb/>
+10 and such amount shall be in lieu of any and all pensions<lb/>
+11 authorized by law for the following-named persons: Private<lb/>
+12 Paul Hamann; Private John R. Kissinger; Private William<lb/>
+13 Olsen, Hospital Corps; Private Charles G. Sonntag, Hos-<lb/>
+14 pital Corps; Private Clyde L. West, Hospital Corps; Private<lb/>
+15 James Hildebrand, Hospital Corps, Private James A. Andrus,<lb/>
+16 Hospital Corps; Mr. John R. Bullard; Doctor Aristides<lb/>
+17 Agramonte; Private A. W. Covington, Twenty-third Bat-<lb/>
+18 tery, Coast Artillery Corps; Private Wallace W. Forbes,<lb/>
+19 Hospital Corps; Private Levi E. Folk, Hospital Corps;<lb/>
+20 Private James F. Hanberry, Hospital Corps; Doctor R. P.<lb/>
+21 Cooke; Private Thomas M. England; Mr. John J. Moran,<lb/>
+22 and the widow of Private Edward Weatherwalks.&rdquo;</p>
+</div1>
+<div1 type="document" n="1929-12-13">
+<head>Congressional Bill #S. 2817, December 13, 1929</head>
+<pb n="4" id="fKAFA0130"/>
+<p>71ST CONGRESS }<lb/>
+2D SESSION }</p>
+<p>S. 2817</p>
+<p>============================</p>
+<p>A BILL</p>
+<p>To amend an Act entitled &ldquo;An Act to recog-<lb/>
+nize the high public service rendered by<lb/>
+Major Walter Reed and those associated<lb/>
+with him in the discovery of the cause and<lb/>
+means of transmission of yellow fever,&rdquo; ap-<lb/>
+proved February 28, 1929, by including<lb/>
+Roger P. Ames among those honored by<lb/>
+said Act.</p>
+<p>==============================</p>
+<p>By Mr. SHEPPARD</p>
+<p>==============================</p>
+<p>DECEMBER 13 (calendar day, DECEMBER 21), 1929<lb/>
+Read twice and referred to the Committee on Military<lb/>
+Affairs</p>
+</div1>
+</body>
+</text>
+</TEI.2>

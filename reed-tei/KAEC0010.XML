@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAEC0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Angus McLean to Jefferson Randolph Kean, January 14, 1937</title>
+<title type="gmd">[electronic resource]</title>
+<author>McLean, Angus</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAEC0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo"> Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1937-01-14</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Kean, Cornelia Knox</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1937-01-14">January 14, 1937</date>
+<idno rend="suppress">KAEC0010</idno>
+<title>Letter from Angus McLean to Jefferson Randolph Kean, January 14, 1937</title>
+</bibl>
+</head>
+<p>McLean congratulates Kean for his Decoration from the Cuban Ambassador. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1937-01-14">
+<head>Letter from Angus McLean to Jefferson Randolph Kean, January 14, 1937</head>
+<pb n="1" id="fKAEC0010"/>
+<opener>
+VI<lb/>
+Board of Education<lb/>
+THE CITY OF DETROIT<lb/>
+DR. ANGUS MCLEAN, MEMBER<lb/>
+641 DAVID WHITNEY BUILDING<lb/>
+DETROIT, MICH.<lb/>
+<dateline>
+<date value="1937-01-14">January 14, 1937</date>
+</dateline><lb/>
+Brigadier General Jefferson R. Kean<lb/>
+United States Army, Retired<lb/>
+Washington, Michigan.<lb/>
+<salute>My dear General:</salute>
+</opener>
+<p>I read with great interest yesterday in The Military<lb/>
+Surgeon you had received a Decoration from the Republic of Cuba,<lb/>
+presented by the Cuban Ambassador.</p>
+<p>I extend my sincerest congratulations and am so very<lb/>
+glad that your good work of years ago had not been forgotten. These<lb/>
+recognitions come to the few and are appreciated by our friends. You<lb/>
+did an excellent work, received due recognition and we all very,<lb/>
+very proud of You.</p>
+<closer>
+<salute>Most sincerely yours,</salute>
+<signed>Angus McLean</signed>
+McL&sol;g<lb/>
+My regards to Brigadier- General Kean's Wife.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03601005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Philip Showalter Hench to the Librarian, City Library, Indianapolis, Indiana, August 26, 1940</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03601005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1940-08-26</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="place">Cuba</name>
+<name type="place">Indianapolis (Ind.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1940-08-26">August 26, 1940</date>
+<idno rend="suppress">03601005</idno>
+<title>Letter from Philip Showalter Hench to the Librarian, City Library, Indianapolis, Indiana, August 26, 1940</title>
+</bibl>
+</head>
+<p>Hench requests the Indianapolis newspaper reports about Reed's 1900 American Public Health Association paper.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1940-08-26">
+<head>Letter from Philip Showalter Hench to the Librarian, City Library, Indianapolis, Indiana, August 26, 1940</head>
+<pb n="1" id="f03601005"/>
+<opener>
+<dateline>
+<date value="1940-08-26">August 26, 1940</date>
+</dateline>
+Librarian<lb/>
+City Library<lb/>
+Indianapolis, Indiana<lb/>
+<salute>Madam:</salute>
+</opener>
+<p>In the latter part of October, 1900, Major Walter Reed,<lb/>
+the head of the U.S. Army Yellow Fever Board, went from Cuba to Indianapolis<lb/>
+to give his famous &ldquo;Preliminary Report&rdquo; before the meeting of the American<lb/>
+Public Health Association in Indianapolis. The dates of the meeting were<lb/>
+October 22 to 26-1900.</p>
+<p>I have been asked to read a paper on the conquest of yellow<lb/>
+fever, and to write up the story of this work. I would appreciate very greatly<lb/>
+if you could give me the following help. Could you look through the Indianapolis<lb/>
+newspapers of the dates mentioned above and tell me whether they carried any<lb/>
+reports of Walter Reed's paper, and what their reaction to it was. This was the<lb/>
+first announcement of the discovery of the cause of yellow fever. If there are<lb/>
+any reports of the paper, could you have them photostated for me? I should be<lb/>
+delighted to pay the cost.</p>
+<closer>
+<salute>Very sincerely yours,</salute>
+<signed>P. S. Hench, M. D.</signed>
+psh:ds<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01941002"> 
+<teiHeader type="aacr2"> 
+<fileDesc> 
+<titleStmt> 
+<title type="245">Report: Camp Columbia Fever Epidemic, by Najeeb M. Saleeby, December 15, 1899</title> 
+<title type="gmd">[electronic resource]</title> 
+<author>Saleeby, Najeeb M.</author> 
+<respStmt> 
+<resp>Transcriptions and TEI markup</resp> 
+<name>Innodata Inc</name> 
+<resp>Images, project design, and management:</resp> 
+<name>Historical Collections &amp; Services<lb/> 
+Claude Moore Health Sciences Library<lb/> 
+University of Virginia Health System<lb/> 
+P.O. Box 800722<lb/> 
+Charlottesville, VA 22908-0722 
+</name> 
+<resp>TEI consultation:</resp> 
+<name>Electronic Text Center<lb/> 
+University of Virginia Library<lb/> 
+</name> 
+</respStmt> 
+</titleStmt> 
+<extent>ca. 15 kilobytes</extent> 
+<publicationStmt> 
+<publisher>Claude Moore Health Sciences Library of the 
+University of Virginia Health System</publisher> 
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace> 
+<idno>01941002</idno> 
+<availability> 
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p> 
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p> 
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt> 
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection 
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno> 
+</bibl> 
+</sourceDesc> 
+</fileDesc> 
+<profileDesc>
+<creation><date>1899-12-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient"></term></keywords></textClass>
+</profileDesc>
+<revisionDesc> 
+<change><date></date> 
+<respStmt><resp></resp> <name></name></respStmt> 
+<item></item></change> 
+</revisionDesc> 
+</teiHeader> 
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>14 pp.</extent>
+<date value="1899-12-15">December 15, 1899</date>
+<idno rend="suppress">01941002</idno>
+<title>Report: Camp Columbia Fever Epidemic, by Najeeb M. Saleeby, December 15, 1899</title>
+</bibl>
+</head>
+<p>Saleeby describes in detail a fever epidemic at Columbia Barracks, Cuba. He asks for the Surgeon General's opinion on the diagnosis. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1899-12-15">
+<head>Report: Camp Columbia Fever Epidemic, by Najeeb M. Saleeby, December 15, 1899</head>
+<pb n="1" id="f01941002"/>
+<opener>
+<add>Saleeby<lb/>
+D. <xref id="t01941001">Saleeby</xref>'s
+1st report on Dengue fever<lb/></add>
+
+Columbia Barracks, Quemador, Cuba,<lb/>
+<dateline><date value="1899-12-15">December 15, 1899.</date><lb/>
+</dateline>
+The Surgeon General, U.S.A.<lb/>
+War Department,<lb/>
+Washington, D. C.<lb/>
+(Through Chief Surgeon, Dept. of Prov. of Havana &amp; Pinar del Rio)<lb/>
+<salute>SIR:-</salute>
+</opener>
+<p>I have the honor to submit the following report on the fever<lb/>
+epidemic we have experienced this fall at this Post.</p>
+<p>It is the honest statement of careful, clinical observations<lb/>
+prompted by interest and research. It might be considered incom-<lb/>
+plete in some particulars, but that was not due to lack of effort.<lb/>
+The lack of definition in the terminology of some of the tropical<lb/>
+fevers, our unacquaintance with the medical literature of the Is-<lb/>
+land, and lack of former experience with the climate and diseases<lb/>
+of Cuba, made the recognition of the fever hard, and its diagnosis<lb/>
+uncertain. I therefore beg to ask the Surgeon General's opinion<lb/>
+on the name of this disease:</p>
+<p>CAMP COLUMBIA FEVER EPIDEMIC.</p>
+<p><hi rend="underline">THE HISTORY</hi>: The fever epidemic that has invaded our Camp<lb/>
+this fall claims great interest. Its character, benign nature, and<lb/>
+the rapidity and manner of its extension invite considerable at-<lb/>
+tention. It made its appearance in the 8th Infantry Barracks where<lb/>
+I happened to be on the battlefield, and where it offered the best<lb/>
+chances for observation and study.</p>
+<p>I joined the 8th U. S. Infantry Regiment on the 7th of Sep-<lb/>
+tember, and was assigned to the 1st Battalion two days later. I<lb/>
+soon observed sporadic cases of a peculiar fever of short dura-<lb/>
+tion, which at first seemed to resemble some of the Aestive-Autumnal<lb/>
+types of Malaria, for which <add>we</add> were watching. The fever gradually<lb/>
+spread, more cases came in every day. A sudden increase of six<lb/>
+<pb n="2" id="f01941003"/>
+(2)<lb/>
+cases in Company &ldquo;D&rdquo; occurred on the 12th of September. This in-<lb/>
+crease was kept up. Company &ldquo;B&rdquo; soon followed, and its sick report<lb/>
+increased progressively and rapidly. Other companies presented<lb/>
+separate cases. After the middle of the month the fever seemed to<lb/>
+predominate to a very marked degree in Companies &ldquo;D&rdquo; and &ldquo;B&rdquo;, (see<lb/>
+the red underlined figures in diagram 3). The individual cases be-<lb/>
+came better developed, longer in duration, and more characteristic<lb/>
+in type. Malarial treatment had utterly failed to reduce the tem-<lb/>
+perature or check the progress of the fever.</p>
+<p>The strange nature of the fever, its localisation, and rapid<lb/>
+increase, so well marked, forcibly called attention to the sani-<lb/>
+tary condition of the camp. A hard search was made for the cause<lb/>
+of the fever. Drinking water, quarters, kitchens, sinks, and the<lb/>
+surrounding grounds were inspected repeatedly. The sanitary condi-<lb/>
+tion of the camp proved to be very satisfactory and no visible<lb/>
+cause could be ascertained.</p>
+<p>The fever increased uninterruptedly until the 21st of Septem-<lb/>
+ber. The 3rd Battalion having returned to the United States, another<lb/>
+arrangement of quarters was made as represented in diagram 2. This<lb/>
+change presented new conditions and another phase in the study of<lb/>
+the disease. Companies &ldquo;B&rdquo; and &ldquo;D&rdquo; that occupied the lowest two<lb/>
+buildings in the barracks, moved higher up, and were replaced by<lb/>
+Companies &ldquo;H&rdquo; and &ldquo;G&rdquo;, the main body of Company &ldquo;G&rdquo; occupying the<lb/>
+building next above that occupied by &ldquo;D&rdquo; before the change. The<lb/>
+daily sick report of Company &ldquo;D&rdquo; continued increasing until the 30th,<lb/>
+of September, when a marked decline started (see again the red un-<lb/>
+derlined figures of diagram 3); that of Company &ldquo;B&rdquo; increased prog-<lb/>
+ressively until the 26th, after which the increase was kept up <unclear>ata</unclear><lb/>
+diminished rate until October 2, then a marked decline began. On<lb/>
+the other hand, the second day Company &ldquo;G&rdquo; occupied its new quar-<lb/>
+ters, the fever started and was soon ablaze. On the eighth day after<lb/>
+the change its sick report had arisen from five to twenty six per<lb/>
+cent (see the black, thickly underlined figures of diagram 3).<lb/>
+Three days later the fever appeared in Company &ldquo;H&rdquo;, after three<lb/>
+<pb n="3" id="f01941004"/>
+(3)<lb/>
+days more it reached Company <unclear>&ldquo;F&rdquo;</unclear>, and Company &ldquo;E&rdquo; one day later.<lb/>
+On October 2, Company &ldquo;C&rdquo; caught the blaze also. The fever that<lb/>
+had nearly disappeared in Companies &ldquo;B&rdquo; and &ldquo;D&rdquo; was rekindled in<lb/>
+Company &ldquo;D&rdquo; on October the 8th, and in Company &ldquo;B&rdquo; on October 10th,<lb/>
+and reached Company &ldquo;A&rdquo; on the 12th. The whole regi<del>e</del>ment was then<lb/>
+as if aflame with the fever. The daily increase in the two battal-<lb/>
+ions reached thirty one on October 15, and the daily sick report<lb/>
+reached one hundred and fifty on October the 18th.</p>
+<p>No doubt separate cases of the fever existed in different<lb/>
+companies before the change of quarters was effected, chiefly in<lb/>
+Companies &ldquo;E&rdquo; and &ldquo;F&rdquo;. But the tidal wave of marked increase (il-<lb/>
+lustrated by the dotted lines in diagram 3) seemed to have started<lb/>
+from Company &ldquo;G&rdquo; on the 22nd of September. It struck Company &ldquo;H&rdquo; on<lb/>
+the 25th; Company &ldquo;F&rdquo; on the 28th; Company &ldquo;E&rdquo; on the 29th; Company<lb/>
+&ldquo;C&rdquo; on October 2; Company &ldquo;D&rdquo; on October 8; Company &ldquo;B&rdquo; on October<lb/>
+10; Company &ldquo;A&rdquo; on October 12, and reached the Band about sixteen<lb/>
+days later. The decline of the fever succeeded nearly in the same<lb/>
+order, except in Companies &ldquo;B&rdquo; and &ldquo;D&rdquo; where it raged for some<lb/>
+time before the change was made, there it quickly exhausted itself.</p>
+<p>No evidence could be more convincing than the above that the<lb/>
+infection arose from the ground-soil of the locality; and no de-<lb/>
+duction more true than that it spread by surface contiguity.</p>
+<p>The fever appeared in the Seventh Cavalry Barracks about the<lb/>
+10th of October, in the building nearest to the Infantry Barracks,<lb/>
+and marched down the line overtaking troop after troop in regular<lb/>
+succession. It may be in place to remark here that the distance that<lb/>
+exists between the Infantry Barracks and the Cavalry Barracks is<lb/>
+nearly equal to the distance between the buildings of Companies<lb/>
+&ldquo;H&rdquo; and &ldquo;A&rdquo; of the Infantry quarters. The daily sick report rose<lb/>
+from fifty two on October 10, to one hundred and eight on October<lb/>
+18. The greatest daily increase was twenty six on October 24. The<lb/>
+main wave of the fever reached the Artillery Barracks on October 23,<lb/>
+and attained its maximum about the 28th of the same month. The de-<lb/>
+cline of the epidemic was gradual everywhere and reached normal<lb/>
+<pb n="4" id="f01941005"/>
+(4)<lb/>
+lines in the first week of November in the Infantry Barracks, and<lb/>
+in the Second week, in the Cavalry and Artillery Barracks.</p>
+<p><hi rend="underline">OBSERVATION</hi>: The rainy season was unusually dry for Cuba this<lb/>
+year. A heavy rain, one of the heaviest for the season, occurred<lb/>
+in the early part of September. This was followed by several days<lb/>
+of sunny, warm weather. It was then, during the second week of<lb/>
+September that the outbreak of the epidemic occurred, and the first<lb/>
+cases of the fever were recognized. On five successive occasions<lb/>
+did I observe the fever abate and lesson during a storm and the ac-<lb/>
+companying cold weather, and again markedly increase on the ad-<lb/>
+vance of the succeeding warm weather.</p>
+<p>It was very evident to every observer in Camp that the &ldquo;tidal<lb/>
+fever wave&rdquo; started from a certain limited locality about the<lb/>
+situation of the twelfth building of the Infantry Barracks and ex-<lb/>
+tended from there in all directions. But here and there separate<lb/>
+cases were observed from the start outside the limits of that cir-<lb/>
+cumscribed locality. That was the determining factor in the pre-<lb/>
+ponderance of the infection in that locality. I do not know, but it<lb/>
+might be of interest to remark the following:</p>
+<p>The Columbia Barracks occupies the flat ridge of a minor<lb/>
+offshoot of the main <del>ridge</del><add>range</add> of the Marianao Hills. The ridge slopes<lb/>
+towards the west and south west. The Infantry Barracks is magnif-<lb/>
+iciently situated at the upper part of the ridge, and the slope<lb/>
+gradually declines towards the Cavalry Barracks, where it gets com-<lb/>
+paritively flat. The Artillery Barracks is close to and on the same<lb/>
+level with the Cavalry Barracks. The buildings run in succession<lb/>
+from east to west and face nearly north (see diagram 1). They are<lb/>
+all low and some of them are not elevated above the ground more<lb/>
+than two or three feet. The ground on which the 8th Infantry Bar-<lb/>
+racks is situated has a double slope to the south and to the west<lb/>
+(see diagram 2). The upper and the greater part slopes chiefly to-<lb/>
+wards the south. The surface rain water drains away from each<lb/>
+building and flows between the buildings towards the south. The lower<lb/>
+<pb n="5" id="f01941006"/>
+(5)<lb/>
+part of the barracks slopes towards the west, and the surface wa-<lb/>
+ter flows from one building towards the underneath and lower one.<lb/>
+It is nearly a dead level between the last building and the pavil-<lb/>
+lion and the drainage water has no outlet. The surface water at the<lb/>
+Cavalry Barracks drains towards the south.</p>
+<p>I observed cases of this fever as early as May and June. Doc-<lb/>
+tor Donald P. McCord, who was in charge of the receiving ward at<lb/>
+the Post Hospital at that time, called my attention to some fever<lb/>
+cases that seemed to him to run <add>a</add> peculiar and characteristic tem-<lb/>
+perature, and showed me their charts. The Fever Charts of the Post<lb/>
+Hospital showed a number of cases that occurred <unclear>in<del>t</del> the</unclear> 7th Cavalry<lb/>
+and 2nd Artillery camps during July, August and September. In my<lb/>
+opinion sporadic cases of this fever existed in camp during the lat-<lb/>
+ter part of spring and throughout all summer, but the nature of<lb/>
+the disease was not recognized until it assumed epidemic propor-<lb/>
+tions. During October and November I also observed and treated cases<lb/>
+of the same kind in Quemados, Puntes Grandes, and the City of Havana.<lb/>
+All my patients outside of Camp were Americans and new comers.</p>
+<p><hi rend="underline">THE DIAGRAMS</hi>: Diagrams Nos. 4 and 5 are characteristic and<lb/>
+interesting. The separate curves representing the increase of the<lb/>
+daily sick report in the separate divisions and organisations of<lb/>
+the Post are plain, but a few remarks might be in place. Those rep-<lb/>
+resenting the 2nd Battalion of Infantry and the Cavalry are the<lb/>
+most perfect types. That representing the total Infantry daily<lb/>
+sick report (diagram 1) presents two prominences separated by a gap.<lb/>
+The first prominence is rendered unduly high on account of the con-<lb/>
+tinued increase of the sick list in companies &ldquo;B&rdquo; and &ldquo;D&rdquo; after the<lb/>
+change of quarters occurred and the contemporaneous increase in the<lb/>
+2nd Battalion. This is distinctly shown in diagram 3. The gap is<lb/>
+brought out more in relief on account of the decline in the sick<lb/>
+list that occurred in the Companies &ldquo;B&rdquo; and &ldquo;D&rdquo; during the first<lb/>
+week of, October. The curves for the total Post report (diagram 5)<lb/>
+presents two prominences similar to and corresponding with those<lb/>
+<pb n="6" id="f01941007"/>
+(6)<lb/>
+mentioned above in the curve of the total Infantry report. The<lb/>
+gap is more marked here on account of the modification occasioned<lb/>
+by the distance that exists between the Infantry and the Cavalry<lb/>
+quarters. It is also significant to note that the maximum height<del>h</del><lb/>
+in the curves of the Cavalry, the 1st Battalion of Infantry, the<lb/>
+total Infantry and the total Post reports respectively, was reached<lb/>
+on the same day. A temporary increase in the 2nd Artillery re-<lb/>
+ports during the second week of October corresponding to a similar<lb/>
+increase in both Cavalry and 1st Battalion of Infantry reports might<lb/>
+indicate a temporay and general rise in the fever all through the<lb/>
+camp.</p>
+<p>THE DISEASE.</p>
+<p><hi rend="underline">DEFINITION</hi>: It is an acute, benign, infectious, disease char-<lb/>
+acterized by a febrile paroxysm of few days duration, severe head-<lb/>
+ache and muscular pains.</p>
+<p><hi rend="underline">Actiology</hi> the infection lies in the locality and seems to<lb/>
+arise from the ground-soil. It spreads by surface contiguity and<lb/>
+does not show any evidence of contagion. The probability that cases<lb/>
+observed in spring and summer are identical with this disease, together<lb/>
+with the fact that its epidemic proportions were restricted to our<lb/>
+<unclear>camps</unclear> strongly suggests <del>that</del> the <del>epe</del><add>en</add>demic nature of the disease.<lb/>
+This is further confirmed by the statement of several native doc-<lb/>
+tors that cases of this character exist all the year around in Cuba<lb/>
+and among the natives.</p>
+<p>Officers and men were attacked indiscriminately.<unclear>.</unclear> I could not<lb/>
+get any sure evidence that specific gravity had an effect on the<lb/>
+distribution of the disease. Neither age <add>n</add>or condition offered any<lb/>
+protection. Some of the men attacked were in the Santiago campaign<lb/>
+of last year, some had been on the Island for more than ten months,<lb/>
+others eight, six, five, or three months. Quite a number of those<lb/>
+who arrived wi<del>y</del><add>t</add>hin the last month did not get it.</p>
+<p>Many of the relapses occurred so late that it <unclear>seem<del>ed</del><add>s</add></unclear> more<lb/>
+proper to regard them <del>as</del> separate attacks. Besides the twelve re-<lb/>
+<pb n="7" id="f01941008"/>
+(7)<lb/>
+lapses represented in the accompanying charts I could add about<lb/>
+eight that occurred in November. A certain amount of moisture and<lb/>
+heat seems to be necessary for the development of the disease,<lb/>
+storm and cold weather check<del>s</del> its progress. Two patients were at-<lb/>
+tacked with it during the second stage of syphilis, another patient<lb/>
+contracted it while ill with sciatica, another while convalescing<lb/>
+from typhoid fever.</p>
+<p>On account of the co-existence of malarial fever, blood exam-<lb/>
+ination was resorted to for differential diagnosis, chiefly before<lb/>
+the disease was well recognized. My examinations were made at dif-<lb/>
+ferent hours of the day and on different and sometimes successive<lb/>
+days of the disease. I <unclear>invariably</unclear> failed to find any blood para-<lb/>
+sites. In the few cases that presented <unclear>haematozea</unclear> in the blood,<lb/>
+both the clinical history and the course of the fever differed com-<lb/>
+pletely from the disease under consideration.</p>
+<p><hi rend="underline">GENERAL DESCRIPTION</hi>: The disease is ushered in by the same<lb/>
+variety of initial symptoms as the other specific fevers. But two<lb/>
+modes of onset seemed to distinctly prevail and very eminently rep-<lb/>
+resent the manner of the declaration of the disease. In the first<lb/>
+class <add>of</add> cases the attack sets in with headache and a slight rise of<lb/>
+temperature. These gradually and progressively increase in <unclear>the <add>in</add>ten-</unclear><lb/>
+sity. The headache becomes very severe and frontal and is soon<lb/>
+followed by intense general muscular pains, which chiefly locate<lb/>
+in the back, loins, and lower extremities. They are rheumatic and<lb/>
+grippe like <unclear><del>and</del></unclear> in character and are very distressing. As the tem-<lb/>
+perature rises slight chills or chilly feelings are felt at inter-<lb/>
+vals and alternate with feverishness. If the temperature rise rap-<lb/>
+idly a severe chill may occur. The fever continues to increase with<lb/>
+or without a slight interruption, and generally attains its max-<lb/>
+imum height<del>h</del> on the second day. The temperature then ranges from<lb/>
+102&deg; F. to 104&deg; F. and the pulse from 80 to 104, Febrile and full.<lb/>
+The headache and the muscular pains already intense, becomes ex-<lb/>
+cessive. The patient is completely prostrated in a severe case.<lb/>
+Delirium may occur. With the headache there is <del>a</del> dizziness, insom-<lb/>
+<pb n="8" id="f01941009"/>
+(8)<lb/>
+nia, and restlessness. The eyes are congested and ache, the face is<lb/>
+flushed. There is complete anorexia and nausea, and sometimes vom-<lb/>
+iting. The bowels are sometimes normal but often present diar-<lb/>
+rhoea or constipation. Diarrhoea is more general than constipa-<lb/>
+tion, and soreness of the abdomen is not uncommon. The condition<lb/>
+of things may be maintained during the third, and less frequently<lb/>
+the fourth day of the disease; but generally the fever begins to<lb/>
+decline after the second day and reaches normal between the fourth<lb/>
+and seventh day. With the decline of the fever all the other symp-<lb/>
+toms abate. The nausea and vomiting are the first to cease. The<lb/>
+headache holds closer relation to the temperature than the muscu-<lb/>
+lar pains, and generally lasts a day or two after the termination<lb/>
+of the fever, while the muscular soreness continues longer. During<lb/>
+convalescence bowel disturbances are not rare.</p>
+<p>In a minority of the cases the maximum temperature is attained<lb/>
+on the first, the decline begins on the second, and the fever may<lb/>
+terminate as early as the third day. In another minority, consist-<lb/>
+ing of about one third of all the cases, a second rise of the fever<lb/>
+follows after a brief intermission of less than one day. With this<lb/>
+secondary rise the same symptoms occur, but they are <unclear>shorter</unclear> in<lb/>
+duration and milder in character than during the first paroxysm.<lb/>
+The occurrence of the second paroxysm does not necessarily indi-<lb/>
+cate a severe attack.</p>
+<p>In the second class of cases the onset is very sudden and<lb/>
+violent. The attack starts directly with a severe chill which is<lb/>
+immediately followed by excessive headache and very intense muscu-<lb/>
+lar pains. The maximum temperature is generally attained on the<lb/>
+first day. There is immediate prostration and severe gastric distur-<lb/>
+bance.</p>
+<p><hi rend="underline">THE TEMPERATURE VARIATIONS</hi>: The temperature chart represents<lb/>
+either one paroxysm of fever or two paroxysms separated by a brief<lb/>
+intermission. About two thirds of the cases present one paroxysm<lb/>
+only. These prevail during the first period of the epidemic and<lb/>
+at every outbreak. The first paroxysm indicates a <unclear>con-</unclear><lb/>
+<unclear>tinuous run</unclear><lb/>
+<pb n="9" id="f01941010"/>
+(9)<lb/>
+of fever for from three days to seven days. It is made up of two<lb/>
+parts, a rapid rise representing the stage of development, and a<lb/>
+slow gradual decline. In case the maximum temperature is reached<lb/>
+on the third or fourth day, or the height of the fever be maintained<lb/>
+more than one day, the stage of <unclear>fastigium</unclear> would then be represented<lb/>
+by an intermediate oscil<del>i</del>ating curve.</p>
+<p>The rise is completed either on the first or the second day.<lb/>
+In the first case it is a straight <del>mere</del><add>near</add>ly vertical line, and in<lb/>
+the second <add>it</add> is marked by a slight interruption after the first day.<lb/>
+The remission after the second day is generally marked. The decline<lb/>
+is nearly always by lysis. It is either a regular step-ladder like<lb/>
+fall or <add>a</add> more or less gradual descent. To linger at one hundred<lb/>
+degrees for one day or so is not an uncommon irregularity. Another<lb/>
+rare interruption is caused by a secondary rise of the tempera-<lb/>
+ture on the fourth or fifth day. This may reach the level of the<lb/>
+former rise and then end by crisis, or fall short of that and then<lb/>
+descend a steeper incline than it would have done otherwise.</p>
+<p>In sixty three out of one hundred and fifty nine cases rep-<lb/>
+resented by the charts, the fever returned after a short inter-<lb/>
+mission and exhibited a second paroxysm. The intermission is gen-<lb/>
+erally less than one day and seldom exceeds this limit. The tem-<lb/>
+perature then may remain at normal or descend one degree or more<lb/>
+below that, chiefly when the administration of quinine is free and<lb/>
+prolonged. The second paroxysm might be of a remittent or continued<lb/>
+type and resemble the first, or it might be intermittent and vari-<lb/>
+able. The temperature rises to 100&deg; and 101&deg;, and its duration varies<lb/>
+from one to four days. Diagram seven represents data produced by<lb/>
+the analysis of one hundred and fifty nine cases and supplies all<lb/>
+the particular details of the course of the fever.</p>
+<p>SPECIAL SYMPTOMS.</p>
+<p><hi rend="underline">THE ONSET</hi>: The period of incubation seems to last from two to<lb/>
+eleven days, during which the patient feels well. The attack,<lb/>
+comes on, as a rule abruptly, but may be preceded by lassitude,<lb/>
+<pb n="10" id="f01941011"/>
+(10)<lb/>
+loss of appetite, and headache. It appeared at times as if fatigue<del>d</del><lb/>
+exposure, or error in diet, were causes in ushering it in, but re-<lb/>
+peated observation dis<del>ap</del>proved that, it sets in unexpectedly and<lb/>
+suddenly, whether the men <del>or</del><add>are</add> on duty, at rest, or asleep. The onset<lb/>
+occurs at any time of the day, but most often between two and six<lb/>
+p.m. On this account and because the first symptoms are not very<lb/>
+severe, the majority of the patients appear at sick call in the<lb/>
+morning of the second day of the disease. In the first and larger<lb/>
+<unclear>cases</unclear> of cases the first initial symptoms are headache, feverish-<lb/>
+ness, and general aches. These are often overlooked by the patient<lb/>
+until chilliness or a slight chill occurs. a severe chill is not the<lb/>
+rule in this class of cases. In the second class, the onset was<lb/>
+declared by more or less severe chill, followed quickly by intense<lb/>
+aches and rapid rise<del>s</del> of temperature, accompanied with marked gas-<lb/>
+tric disturbances. In some cases the chill comes on as early as<lb/>
+three a.m. but it generally occurs in the afternoon and evening.<lb/>
+In <del>x</del>one instance represented by case three, diagram 6, the onset<lb/>
+was announced by an <unclear>epilepti-</unclear>form paroxysm preceding the chill,<lb/>
+the temperature taken at the end of the paroxysm was normal.</p>
+<p><hi rend="underline">HEADACHE</hi>: The headache is the first and most constant and dis-<lb/>
+tressing symptom. It might be diffuse<del>d</del> at the start, but soon con-<lb/>
+centrates in the frontal and circumorbital regions. Occasionally<lb/>
+it is occipital or temporal. It is aggravated by motion and is al-<lb/>
+leviated by a raised position of the head.</p>
+<p><hi rend="underline">OTHER NERVOUS SYMPTOMS</hi>: With the high fever there is generally<lb/>
+marked prostration and muscular tremors in the face and limbs. Con-<lb/>
+siderable dizziness, insomnia, and restlessness generally exist.</p>
+<p><hi rend="underline">THE EYE</hi>: The Ocular conjunctivae were <unclear>conj<del><add>e</add></del>ested</unclear>, suffused and<lb/>
+red. Sub-conjunctival <unclear>ecchymoses</unclear> were common. The eyes felt sore,<lb/>
+the soreness seemed to be in the muscular apparatus and was in-<lb/>
+creased by pressure and movement.</p>
+<p><hi rend="underline">THE FACE</hi>: The face looked flush<add>ed</add>, and often times bloated. The<lb/>
+flush sometimes am<del>l</del><add>o</add>unted to an erythema and extended down <del>to</del> the<lb/>
+neck to the upper part of the chest. <unclear>The</unclear></p>
+<pb n="11" id="f01941012"/>
+<p>(11)</p>
+<p><hi rend="underline">THE RESPIRATORY SYSTEM</hi>: The lungs were invariabl<del>e</del><add>y</add> free from any af-<lb/>
+fection. A slight cough and nasal catarrh occurred at times.</p>
+<p><hi rend="underline">THE DIGESTIVE SYSTEM</hi>: The tongue presented two forms. The<lb/>
+first form predominated in September and the first week of Oc-<lb/>
+tober, the second prevailed later. In the first form it looked<lb/>
+small and triangular. A thin white coat covered the dorsum, while<lb/>
+the edges remained free and red. In the second form the tongue was<lb/>
+large, thick and swollen or flat and flabby, with a thin fur on<lb/>
+its dorsum. The tongue kept always moist and very seldom got brown<lb/>
+or thickly coated.</p>
+<p>In a few rare cases I observed a moderate <unclear>acne<add>i</add>rform </unclear> eruption<lb/>
+on the palate. In about six per cent of the cases, there were sore<lb/>
+throat, which did not seem to hold any relation to the eruption<lb/>
+on the palate. In one or two cases the submaxillary lymph glands<lb/>
+were enlarged.</p>
+<p>The stomach presented no lesion beyond a certain amount of<lb/>
+functional disturbance. Anerexia was complete and nausea very com-<lb/>
+mon. Vomiting occurred in a minority of the cases. It was usually<lb/>
+excited by the rise of the fever and stopped with <unclear><add>its</add> the</unclear> decline. A<lb/>
+mild form of <unclear>diarrhoea</unclear> occurred often, especially during the latter<lb/>
+period of the epidemic. Looseness of the bowels was always easily<lb/>
+provoked. Some cases were accompanied with constipation from the<lb/>
+start. In an attempt to ascertain the condition of the spleen I<lb/>
+discovered abdominal tenderness in a large number of the cases.<lb/>
+This was different from the soreness of the abdominal wall and seemed<lb/>
+to be located in the colon. It existed on both sides and in the<lb/>
+epigastrium, but oftener in the right <unclear>illic</unclear>-lumbar region. The ten-<lb/>
+dency to a complicat<del>ed</del><add>ing</add> catarrhl colitis was very noticeable in No-<lb/>
+vember, this fact and the co-existence of sporadic cases of typhoid<lb/>
+fever put us on our guard and made us suspect the latter disease<lb/>
+in the cases where the course of the fever was prolonged beyond<lb/>
+the ordinary. But cases of intestinal catarrh without any fever<lb/>
+seemed to still prevail in camp though every trace of the epidemic<lb/>
+has nearly disappeared. How much of this catarrhal complication<lb/>
+<pb n="12" id="f01941013"/>
+(12)<lb/>
+was therefore due to the disease and how much to other causes was<lb/>
+not always easy to decide. But that the disease caused a certain<lb/>
+amount of intestinal catarrh is born out by strong evidence.</p>
+<p>No change could be observed in the <hi rend="underline">spleen</hi> and <hi rend="underline">liver</hi>.</p>
+<p><hi rend="underline">THE KIDNEYS</hi>: The kidneys were not affected. Seven patients<lb/>
+had difficulty in urination, diminished and highly colored urine,<lb/>
+but no albumen was found. My cases were not examined systematically<lb/>
+and on successive days, but there was no albumen in any of the<lb/>
+cases examined that I know of.</p>
+<p><hi rend="underline">THE PULSE</hi>: The character of the pulse was not very distinct-<lb/>
+ive but the tendency was to slowness. During the rise of the fever<lb/>
+it was rapid and full and of low tension. When the temperature reache<del>c</del><add>d</add><lb/>
+103&deg; F. it was generally about 94, and varied from 100 to 108 as<lb/>
+the temperature rose to 104&deg; F. It got slower as the fever declined<lb/>
+and very commonly reached sixty during the intermission, and even<lb/>
+fifty four at times when the temperature descended below normal,<lb/>
+I have seen it as low as forty four. It in generally slower after<lb/>
+big doses of quinine.</p>
+<p><hi rend="underline">THE MUSCLES</hi>: The whole body feels sore during the height<del>h</del> of<lb/>
+the fever. Muscular aches were common in the neck, chest and abdom-<lb/>
+inal walls, and in the upper extremities: but the most severe and<lb/>
+constant were located in the loins, back and lower extremities.<lb/>
+They begin early in the course of the disease and are the last to<lb/>
+disappear, sometimes hanging on for several days after convalescence<lb/>
+begins. Next to the headache they are the most distressing symptoms<lb/>
+complained of. In severe cases they are intense and grippe-like in<lb/>
+character, the patients describe them as being &ldquo;in the bone&rdquo;. In<lb/>
+the milder forms they are more rheumatic like. The sensation is<lb/>
+that of soreness and numbness combined. The legs are weak and the<lb/>
+neck is sometimes stiff. The severe pains are aggravated by movement,<lb/>
+and the milder ones are cased for a moment by a change of position.</p>
+<p>The <hi rend="underline">articulations</hi> were not affected in any noticeable way at<lb/>
+all.</p>
+<pb n="13" id="f01941014"/>
+<p>13</p>
+<p><hi rend="underline">THE SKIN</hi>: The skin is generally hot and dry. A herpetie erup-<lb/>
+tion was occasionally seen on the lips about the termination of the<lb/>
+fever. In less then seven per. cent. of my cases an erythematous or<lb/>
+urticarial eruption appeared on the neck, chest, and abdomen. It<lb/>
+broke out on the second or third day of the disease and disap-<lb/>
+peared in less than two days. The erythema was either <unclear>punctate</unclear> or<lb/>
+macular, sometimes diffuse. In three cases it was acneiform. No<lb/>
+general distinctive eruption and no desquamation appeared at any<lb/>
+time. In some cases there was considerable itching of the skin,<lb/>
+lasting from two to four days, during convalescence; this was neither<lb/>
+preceded or accompanied by an eruption.</p>
+<p><hi rend="underline">PROGNOSIS</hi>: In mild cases, some of the patients kept up and<lb/>
+did not take to bed, and resumed their duties three days after the<lb/>
+fever ended. Convalescence is rapid as a rule; complications are<lb/>
+very rare; no death occurred.</p>
+<p><hi rend="underline">DIAGNOSIS</hi>: This disease stimulates remittent malaria and den-<lb/>
+gue. The former was presumed at the first outbreak. But the nature<lb/>
+of the disease developed quickly and the difference was soon realised.<lb/>
+Quinine utterly failed, except in increasing the distress of the<lb/>
+patients, and no <unclear>haematosa</unclear> were found in the blood. The similarity<lb/>
+to dengue is greater on account of the severity and nature of the<lb/>
+pains, but against that I urge the following facts. The infection<lb/>
+seemed to distinctly arise from the ground-soil of a certain lo-<lb/>
+cality and spread out by contiguity. The epidemic did not spread as<lb/>
+such outside the limits of our camp, though the disease evidently<lb/>
+existed in the vicinity and in Havana. No epidemic of dengue exists<lb/>
+at the present time in this province. The disease was pre-eminently<lb/>
+a fever of one paroxysm; and in case there were two paroxysms the<lb/>
+second followed immediately after a real intermission of less than<lb/>
+one day's duration. The disease did not affect the joints at all, and<lb/>
+was not accompanied by any distinctive general eruption. The erup-<lb/>
+tions observed simulate the primary eruption of dengue and only<lb/>
+occurred in about seven per. cent. of my cases. The second dis-<lb/>
+<pb n="14" id="f01941015"/>
+(14)<lb/>
+tinctive general eruption of dengue was never seen as far as I know.<lb/>
+Not convinced, however, that the disease is either dengue or yel-<lb/>
+low fever, I adopted for the time being, the term &ldquo;Simple<del>d</del> continued<lb/>
+Fever&rdquo;, in recognition of its well defined type.</p>
+<p>Lately, I interviewed some of the eminent physicians of Havana<lb/>
+on this subject. They all remarked the close similarity the charts<lb/>
+present to yellow fever, but on account of the absence of albumen<lb/>
+in the urine and jaundice, and on account of the benignity of the<lb/>
+epidemic, they pronounced them different and seaparate. Some called<lb/>
+this fever the &ldquo;Acclimation Fever of Cuba&rdquo; and claimed that it<lb/>
+gives immunity from yellow fever. Others called it &ldquo;Fievre In-<lb/>
+flammatoir&rdquo; and claim that the chief difference between this and yel-<lb/>
+low fever is the absence of albumin in the urine. Other indefinite<lb/>
+terms like &ldquo;Infectious Fever&rdquo; and &ldquo;Gastric Fever&rdquo; were suggested.<lb/>
+Doctor Tomas V. Coronado, who is a very reliable authority on the<lb/>
+fevers of Cuba, tells me that what some callinflammatory fever is<lb/>
+really yellow fever. He holds that dengue might occur in an epidemic<lb/>
+form without eruption, but that it does not exist at the present<lb/>
+time in Cuba. He also affirms that the character of this epidemic<lb/>
+and the manner of its extension strongly contraindicate<del>s</del> dengue,<lb/>
+and tends to ally it with yellow fever.</p>
+<p>Lacking the confirmatory evidences on the question, I remain<lb/>
+undecided as to the real diagnosis. But in considering the views<lb/>
+and different statements of the native physicians on yellow fever<lb/>
+and other unclassified diseases they describe, I simply remark that<lb/>
+either there exists in Cuba an endemic disease that holds a close<lb/>
+similarity to yellow fever and which has not yet been recognized and<lb/>
+differentiated, or that a benign form of yellow fever might exist.</p>
+<p><hi rend="underline">TREATMENT</hi>: The disease being benign, the treatment is chiefly<lb/>
+symptomatic, and is directed mainly to relieve the pain and reduce<lb/>
+the temperature, and is not entitled to any special consideration.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>Signed Najieb M. Saleeby</signed>
+Acting Assistant Surgeon, U. S. A.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

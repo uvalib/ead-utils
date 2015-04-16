@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Victor C. Vaughan and Walter Reed to the Surgeon General, March 21, 1899</title>
+<title type="gmd">[electronic resource]</title>
+<author>Vaughan, Victor C.</author>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1899-03-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Smith, Frederick P.</name>
+<name type="place">Washington Barracks (Washington, D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>8 pp.</extent>
+<date value="1899-03-21">March 21, 1899</date>
+<idno rend="suppress">KAMD0010</idno>
+<title>Letter from Victor C. Vaughan and Walter Reed to the Surgeon General, March 21, 1899</title>
+</bibl>
+</head>
+<p>Vaughan and Reed submit a report about their examination of three crematories at Washington Barracks. They ascertain that none of the models submitted by inventors meet all the conditions required by the Army. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1899-03-21">
+<head>Letter from Victor C. Vaughan and Walter Reed to the Surgeon General, March 21, 1899</head>
+<pb n="1" id="fKAMD0010"/>
+<opener>
+<del>Chief Surgeon's Office.</del><lb/>
+<del>HEADQUARTERS SEVENTH ARMY CORPS.</del> <add>Camp Crematories</add><lb/>
+<dateline>
+Washington, D. C., <date value="1899-03-21">March 21, 1899.</date>
+</dateline><lb/>
+To the Surgeon General,<lb/>
+U. S. Army,<lb/>
+Washington, D. C.<lb/>
+<salute>General:</salute>
+</opener>
+<p>The Board of Medical Officers convened per S.O., 194, Par.<lb/>
+40, C.S., Adjutant General's Office, August 18, 1898, had the honor<lb/>
+under date of Dec. 22, 1898, and in compliance with S.O., No. 264,<lb/>
+Par. 67, C.S. Adjutant General's Office, November 8, 1898, of submit-<lb/>
+ting a report relating to the disposal of excreta in military camps,<lb/>
+together with plans and drawings of the apparatus recommended by<lb/>
+the Board. In that report we stated &ldquo;that methods of incineration<lb/>
+of feces have been and are being investigated, but our practical<lb/>
+examination has not been sufficiently extensive to warrant us in<lb/>
+recommending any of them.&rdquo;</p>
+<p>Since the date of that report we have been able to examine<lb/>
+the practical operation of three crematories which, with the permis-<lb/>
+sion of the Honorable Secretary of War, have been erected for trial<lb/>
+at Washington Barracks, this city. We desire now to report upon<lb/>
+these.</p>
+<p>No. 1. The Combined Camp Crematory for excreta and garbage, designed<lb/>
+and submitted by Frederick P. Smith, C.E.</p>
+<p>The accompanying circular hereto appended and marked &ldquo;A&rdquo;, gives<lb/>
+such a complete description and plan of this Crematory, that we need<lb/>
+add but little thereto. Briefly speaking, it consists of a series<lb/>
+of hoppers arranged in a circle about a central furnace. The urine<lb/>
+<pb n="2" id="fKAMD0020"/>
+2<lb/>
+Chief Surgeon's Office.<lb/>
+HEADQUARTERS SEVENTH ARMY CORPS.<lb/>
+and fecal matter are received upon flat excreta plates, so in-<lb/>
+clined that the fluid parts flow towards the central fire and<lb/>
+are subjected to a constant drying. The solid part of the excreta<lb/>
+is from time to time pushed toward the edge of the fire and when<lb/>
+dried, can at any time, be raked on to the grate and burned.</p>
+<p>A large evaporating pan is placed above the fire for the<lb/>
+reception of fluid and solid garbage. When dried sufficiently, the<lb/>
+pan is overturned by means of a lever and the garbage burned.<lb/>
+Sufficient draft and ventilation are secured by means of a pipe,<lb/>
+3 feet in diameter, which rises to a height of about 40 feet.<lb/>
+This Crematory has accomplished, during a trial lasting about<lb/>
+four weeks, all that its inventor has claimed for it, in the matter<lb/>
+of the dessication and subsequent destruction by fire of both ex-<lb/>
+creta and garbage. The closet has been found to be well ventilated<lb/>
+and free of odor whenever inspected by Members of the Board. A mod-<lb/>
+erate fire was sufficient for this purpose. This Crematory appears<lb/>
+to possess durability and is certainly adaptable to any form of<lb/>
+fuel that may be at hand in camp. An advantage possessed by it is<lb/>
+the possibility of applying the flame immediately beneath the ex-<lb/>
+creta plates, in order, if necessary, to hasten the drying and ster-<lb/>
+ilization of the excreta, as well as adjacent parts of the appar-<lb/>
+atus. The fact that, owing to its peculiar construction, the central<lb/>
+fire while drying out the excrement and garbage, does not increase<lb/>
+the temperature of the closet, must be considered as another advant-<lb/>
+age especially in hot climates.</p>
+<p>We are not prepared to express the opinion that this<lb/>
+Crematory will entirely prevent the dissemination of the germs of<lb/>
+<pb n="3" id="fKAMD0030"/>
+3<lb/>
+Chief Surgeon's Office.<lb/>
+HEADQUARTERS SEVENTH ARMY CORPS.<lb/>
+typhoid fever by means of flies. Owing to the season of the year,<lb/>
+we have not been able to test the ability of this apparatus to des-<lb/>
+troy all flies entering through the hoppers. We doubt whether<lb/>
+the downward current of air will be sufficient to prevent their<lb/>
+egress, nor are we convinced that they would be destroyed by heat,<lb/>
+if drawn in the oposite direction, for the reason that there appears<lb/>
+to be an upward current of air which is not drawn in immediate<lb/>
+contact with the fire.</p>
+<p>While this Crematory is transportable, in the sense that it<lb/>
+consits of a number of pieces of cast-iron joined together by<lb/>
+bolts, and which can be taken apart by ten men in the space of about<lb/>
+five or six hours, and re-erected in about the same time, the fact<lb/>
+must be borne in mind that the weight of an eight hopper apparatus<lb/>
+suitable for a single company is not less than 5200 lbs., and that a<lb/>
+fourteen hopper Crematory for two companies would weigh about 7000<lb/>
+lbs.</p>
+<p>In other words, the portability of this apparatus is only<lb/>
+such as would permit of its erection in more or less permanent camps.</p>
+<p>No. 2. A Crematory for excreta submitted by the Albany Sanitation<lb/>
+Co., of Albany, N.Y. As erected by Mr. Thos. Hyde, representing the<lb/>
+Company, this Crematory consists of a furnace and 7 closets. Each<lb/>
+closet section is a cylindrical tube, of &frac14; inch cast-iron, 20 inches<lb/>
+in diameter and weighing 150 lbs. Rising from each section is a<lb/>
+cast-iron hopper, provided with suitable seat and cover. The separate<lb/>
+closet sections are provided with flanges by means of which the<lb/>
+several sections are securely bolted together, thus forming a contin-<lb/>
+nous iron tube, connected at one end with the furnace. Excreta are<lb/>
+<pb n="4" id="fKAMD0040"/>
+4<lb/>
+Chief Surgeon's Office.<lb/>
+HEADQUARTERS SEVENTH ARMY CORPS.<lb/>
+received into this hollow iron tube.</p>
+<p>A galvanized iron pipe, 14 inches in diameter, is pro-<lb/>
+vided for the purpose of bringing a current of warm air from the<lb/>
+furnace and thence conducting it to the distal end of the excreta<lb/>
+tube, from which point it is continually drawn over the surface of<lb/>
+the excreta. This serves both for the purpose of drying the ex-<lb/>
+creta and for the ventilation of the closet.</p>
+<p>A urinal is provided, from which the urine is conducted by<lb/>
+means of a 3 inch iron pipe to a pit beneath the furnace, where it<lb/>
+is subjected to constant evaporation. The furnace is furnished with<lb/>
+a smoke stack 16 inches in diameter, rising to a height of about 35<lb/>
+feet. Either wood or coal can be used as fuel. When it becomes<lb/>
+necessary to destroy the accumulation of excreta, pieces of wood or<lb/>
+other combustible material are thrown into the excreta tube and a<lb/>
+fire kindled. The debris remaining after the process of incinera-<lb/>
+tion can be removed by means of a clean-out door placed at the further<lb/>
+end of the tube. This door was not provided in the apparatus sub-<lb/>
+mitted for our inspection; nor was any provision made for the burn-<lb/>
+ing of garbage as shown in the accompanying drawings, which are<lb/>
+hereto appended and marked &ldquo;Fig. No. 1&rdquo; and &ldquo;Fig. No. 2&rdquo;</p>
+<p>During the time of our trial, lasting about three weeks,<lb/>
+this Crematory has accomplished in the matter of good ventilation<lb/>
+and freedom from odors all that was claimed, in this regard, by the<lb/>
+Albany Sanitation Company. It has failed to cause a constant cur-<lb/>
+rant of warm air to pass through the excreta tube and over the<lb/>
+excreta, and hence has not accomplished the drying of the excreta<lb/>
+preparatory to incineration as claimed by the in<del>f</del><add>v</add>entors. Practically,<lb/>
+<pb n="5" id="fKAMD0050"/>
+5<lb/>
+Chief Surgeon's Office.<lb/>
+HEADQUARTERS SEVENTH ARMY CORPS.<lb/>
+the deposit or excreta remains in a moist condition and requires<lb/>
+a hot fire for its destruction. The fact that the fire must be ap-<lb/>
+plied to the upper surface of the excreta, not only renders it more<lb/>
+difficult to accomplish its destruction, but prolongs the time re-<lb/>
+quired for its complete incineration.</p>
+<p>The remarks made concerning the transportability of the<lb/>
+Smith Crematory will apply equally to this aparatus. While its<lb/>
+weight is estimated to be about 3,000 lbs., the separate closet<lb/>
+sections weigh 150 lbs. and are somewhat unwieldly for the purpose of<lb/>
+handling. The inventors claim, however, that this weight can be much<lb/>
+reduced.</p>
+<p>In making a comparison of the foregoing Crematories, we<lb/>
+are of the opinion that as submitted to us for trial, the Smith Cre-<lb/>
+matory possesses certain advantages over that of the Albany Sani-<lb/>
+tation Company. These may be stated as follows.</p>
+<p>1st: The constant dessication of both solid and fluid excre-<lb/>
+ta, by the direct radiation of heat from the central fire.</p>
+<p>2nd: The simultaneous destruction of garbage.</p>
+<p>3rd: The possibility of applying flame immediately beneath<lb/>
+the excreta plates, for the purpose of sterilizing all parts of the<lb/>
+apparatus.</p>
+<p>4th: The fact that the furnace fire does not cause any<lb/>
+increased temperature of the closet room.</p>
+<p><hi>No. 3</hi>: A Crematory for excreta or garbage submitted by the<lb/>
+International Household Garbage and Excrement Crematory Company, of<lb/>
+Buffalo, N.Y.</p>
+<p>This consists of a steel jacket lined with asbestos within<lb/>
+<pb n="6" id="fKAMD0060"/>
+6<lb/>
+Chief Surgeon's Office.<lb/>
+HEADQUARTERS SEVENTH ARMY CORPS.<lb/>
+and provided with a sheet iron covering without. The top and bot-<lb/>
+tom of this <del>k</del><add>j</add>acket consist of cast-iron. The excreta are received<lb/>
+into a cast-iron pot, having a capacity of 7 gallons, and which<lb/>
+revolves on a horizontal axle. A suitable grate, with ash-pit,<lb/>
+is provided beneath the pot. An opening of proper dimensions, with<lb/>
+seat and cover, is provided for in the cast-iron top of the jacket.<lb/>
+Ventilation is brought about by means of a 6 inch stove-pipe flue<lb/>
+rising to a height of 12 feet. The Crematory is fully described<lb/>
+and explained in the pamphlet of the Company, which is hereto append-<lb/>
+ed and marked <hi>&ldquo;B&rdquo;</hi>.</p>
+<p>When desired to destroy the contents of the pot, the<lb/>
+wooden seat and cover are removed, the opening closed with a gal-<lb/>
+vanized iron cover provided for that purpose, and a fire started<lb/>
+on the grate below.</p>
+<p>In a trial of this Crematory, extending over about one<lb/>
+week, we find that the ventilation is not such as to remove all<lb/>
+offensive odors, when the cover is lifted. This could hardly be<lb/>
+expected. We find that it requires the action of a hot fire for<lb/>
+about two hours, in order to thoroughly reduce the excreta to ashes.<lb/>
+This time can be reduced somewhat by dumping the excreta, as soon<lb/>
+as dried, on the fire beneath. Practically, three hours are required<lb/>
+for the incineration and subsequent cooling of the Crematory.</p>
+<p>During the process of incineration, pungent and disagreeable<lb/>
+odors are perceived. This is more perceptible than with the other<lb/>
+Crematories and is probably due to the lesser height at which these<lb/>
+disagreeable odors are liberated into the surrounding air.</p>
+<p>This Crematory has the advantage of being transportable<lb/>
+<pb n="7" id="fKAMD0070"/>
+7<lb/>
+Chief Surgeon's Office.<lb/>
+HEADQUARTERS SEVENTH ARMY CORPS.<lb/>
+and ready for use at all times. It does not require to be taken<lb/>
+apart for purposes of transportation, but can be crated and shipped<lb/>
+entire. Its weight is about 330 lbs. When, however, the combined<lb/>
+weight of the number required for a single company, estimated at<lb/>
+eight (8), is taken into consideration, it will be seen that it hardly<lb/>
+falls short of the weight of the other Crematories. If used<lb/>
+for the destruction of garbage, two additional crematories would be<lb/>
+required for each company.</p>
+<p>We are of the opinion that during hot weather, this cre-<lb/>
+matory, owing to imperfect ventilation, would be quite offensive.<lb/>
+The quantity of fuel required for incineration must be considered<lb/>
+as an additional and marked disadvantage.</p>
+<p>Letters submitted by the inventors setting forth the cost,<lb/>
+weight, &amp;c., of these several crematories, are hereto appended and<lb/>
+marked &ldquo;C&rdquo;, &ldquo;D&rdquo; and &ldquo;E&rdquo;.</p>
+<p>In submitting this report the Board desire to invite at-<lb/>
+tention to the fact that Crematories Nos. 1 and 2, aside from being<lb/>
+heavy and not readily transportable, require a certain amount of<lb/>
+skilled labor for their erection. Although 10 men working under<lb/>
+the supervision of the inventor can put together one of them in<lb/>
+about five hours, it does not follow that the same number of sold-<lb/>
+iers could accomplish the same result in the same time. Again, this<lb/>
+system, like all others submitted, demands constant and intelligent<lb/>
+attention in order to accomplish the proper operation of any one of<lb/>
+them.</p>
+<p>In the opinion of the Board, none of those mentioned above<lb/>
+meet all of the conditions of troops in the field, as well or as<lb/>
+<pb n="8" id="fKAMD0080"/>
+8<lb/>
+Chief Surgeon's Office.<lb/>
+HEADQUARTERS SEVENTH ARMY CORPS.<lb/>
+economically as the apparatus recommended by this Board in its re-<lb/>
+port of December 28, 1898. We believe that the apparatus therein<lb/>
+described is much easier of construction, far more readily trans-<lb/>
+portable and capable of effecting the same results in an equally<lb/>
+satisfactory manner as to the disposal of excreta. For large hospitals<lb/>
+or permanent camps, the Smith Crematory, if intelligently managed,<lb/>
+will suffice for the destruction of both excreta and garbage and for<lb/>
+such purposes we believe that it may be recommended.</p>
+<closer>
+<signed>(Signed) Walker Reed,</signed>
+Major &amp; Surgeon, U. S. A.<lb/>
+<signed>(Signed) Victor C. Vaughan,</signed>
+Major &amp; Division Surgeon,<lb/>
+U. S. V.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

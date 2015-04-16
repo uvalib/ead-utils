@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0312009">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Obituary of Henry Rose Carter, by B. J. Lloyd, [1925] [Enclosed in C0312008]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Lloyd, B. J.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0312009</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1925-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Carter, Laura Armistead</name>
+<name type="person">Carter, Mary Clayborne</name>
+<name type="person">Hill, Essie</name>
+<name type="person">Minor, John</name>
+<name type="person">Carter, Jr., Henry Rose</name>
+<name type="person">Carter, Edward Champe</name>
+<name type="person">Carter, Charles Harrison</name>
+<name type="person">Redd, Nancy Carter</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Washington, George</name>
+<name type="person">Jackson, Thomas Jonathan</name>
+<name type="person">Lee, Robert E.</name>
+<name type="person">Jefferson, Thomas</name>
+<name type="person">Madison, James</name>
+<name type="person">Monroe, James</name>
+<name type="person">Wythe, George</name>
+<name type="person">Roane, Spencer</name>
+<name type="person">Marshall, John</name>
+<name type="person">Durham, Herbert E.</name>
+<name type="person">Kitisato, [s.n.]</name>
+<name type="person">Cumming, Hugh S.</name>
+<name type="person">Cumming, Mrs.</name>
+<name type="person">Claibourne, W. Sterling</name>
+<name type="person">Frost, Wade Hampton</name>
+<name type="place">Virginia</name>
+<name type="place">Birmingham (Ala.)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Ashland (Va.)</name>
+<name type="place">Portland (Ore.)</name>
+<name type="place">Clifton Plantation (Caroline County, Va.)</name>
+<name type="place">Cuba</name>
+<name type="place">Orwood (Miss.)</name>
+<name type="place">Taylor (Miss.)</name>
+<name type="place">MacHenry (Miss.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Sewannee (Tenn.)</name>
+<name type="place">University of Maryland, College Park</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>6 pp.</extent>
+<date value="1925-00-00">[1925]</date>
+<idno rend="suppress">C0312009</idno>
+<title>Obituary of Henry Rose Carter, by B. J. Lloyd, [1925] [Enclosed in C0312008]</title>
+</bibl>
+</head>
+<p>Carter's obituary describes his many accomplishments, lists his publications, and compares Carter, Reed, and Gorgas, to famous soldiers, jurists, and statesmen of Virginia.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1925-00-00">
+<head>Obituary of Henry Rose Carter, by B. J. Lloyd, [1925] [Enclosed in <xref id="C0312008">C0312008</xref>]</head>
+<pb n="1" id="fC0312009"/>
+<p>If lent please return to<lb/>
+L.A. Carter<lb/>
+<unclear>The</unclear> Westmoreland,<lb/>
+Washington, D. C.</p>
+<p>Bolivar J Lloyd M. D.<lb/>
+Asst Surgeon General<lb/>
+U.S. Public Health Service</p>
+<p>Assistant Surgeon General Henry R. Carter died at 4:18 this<lb/>
+morning at the Westmoreland Apartments of this city after a some-<lb/>
+what prolonged illness of general failure of vital powers. There<lb/>
+were with Dr. Carter at the time of his death, his daughter Laura<lb/>
+Armistead Carter, his sister Miss Mary Clayborne Carter of North<lb/>
+River Plantation, Virginia, Assistant Surgeon General B. J. Lloyd<lb/>
+of the U. S. Public Health Service and Mrs. Essie Hill, the nurse<lb/>
+who has been with him throughout his last illness. Dr. John Minor<lb/>
+his physician arrived a few minutes after Dr. Carter had passed<lb/>
+away.</p>
+<p>Dr. Carter is survived by two sons, Dr. Henry R. Carter, Jr.,<lb/>
+a prominent physician of Birmingham, Ala., Mr. Edward Champ Carter<lb/>
+of Baltimore, Md., a brother, Mr. Charles Harrison Carter of Port-<lb/>
+land, Oregon, a sister Mrs. Nancy Carter Redd of Ashland, Va., in<lb/>
+addition to his daughter Miss Laura and his sister Miss Mary C. Car-<lb/>
+ter previously mentioned.</p>
+<p>The name of Dr. Henry Rose Carter is one of the most illustri-<lb/>
+ous in that comparatively small group of <add>the</add> world's great medical and<lb/>
+sanitary specialists. He was one of the very few men who have dem-<lb/>
+onstrated entirely new principles and applied them in the product-<lb/>
+ion of practical results.</p>
+<p>Dr. Carter was born in Clifton Plantation, Carolina County, Vir-<lb/>
+ginia, August 25, 1852. He was commissioned in the U. S. Marine Hos-<lb/>
+pital Service, now the Public Health Service on May 5, 1879. He served</p>
+<pb n="2" id="fC0312010"/>
+<p>- 2 -</p>
+<p>as Chief Quarantine Officer of the Island of Cuba from Jan. 1899 un-<lb/>
+til August 1900 and as Chief Quarantine Officer of the Isthmian Canal<lb/>
+Commission from May 1904 until February 1905 when he became Director<lb/>
+of Hospitals of the Isthmian Canal Commission, serving in this capaci-<lb/>
+ty from March 1905 until September 1909. He served at different times<lb/>
+as Sanitary Supervisor to the Peruvian Government and as a member of<lb/>
+the Yellow Fever Council of the International Health Board of the Rock-<lb/>
+ef<unclear><del>f</del><add>e</add></unclear>ller Foundation up until the time of his death.</p>
+<p>Among the most notable of his sanitary and scientific achieve-<lb/>
+ments may be mentioned, - the determination of the period of extrinsic<lb/>
+incubation of yellow fever, a foundation on which the brilliant work of<lb/>
+Walter Reed and his commission rested and for which Dr. Carter was nom-<lb/>
+inated for the Nobel prize by the distinguished English physician and<lb/>
+sanitarian, Major <add>Sir</add> Ronald Ross.</p>
+<p>He was the founder of the present maritime quarantine system of<lb/>
+the United States. Dr. Carter served in and dominated many outbreaks<lb/>
+of yellow fever epidemics in the Southern States, including that of<lb/>
+MacHenry, Mississippi, the first outbreak of this disease which was<lb/>
+controlled during the summer months; inaugurated the quarantine systems<lb/>
+of Cuba and the Canal ports.</p>
+<p>He enunciated the principles relating to the bearing of the im-<lb/>
+pounding of great bodies of waters on the production of malaria, a mat-<lb/>
+ter in which the economic future of many parts of our Southern States<lb/>
+is bound up.</p>
+<pb n="3" id="fC0312011"/>
+<p>- 3 -</p>
+<p>He inaugurated control measures for malaria in the extra can-<lb/>
+tonment areas of army camps in malarial regions during the world<lb/>
+war. He was a member of many scientific bodies relating to medi-<lb/>
+cine and hygiene, both American and foreign. He formulated the<lb/>
+doctrine of the control of the yellow fever bearing mosquito as the<lb/>
+sole method necessary for the elimination of endemic centers of this<lb/>
+disease.</p>
+<p>He was intimately associated with Gorgas and Reed throughout<lb/>
+the greater parts of their careers, particularly in the work, study,<lb/>
+and control of yellow fever. It is doubtful if modern science re-<lb/>
+cords a like example of men of kindred sympathies and almost common<lb/>
+birth whose labors in the same field of endeavor yielded such notable<lb/>
+results.</p>
+<p>Carter and Reed were native Virginians. Gorgas passed the form-<lb/>
+ative years of his life in the State of Virginia and while he never<lb/>
+knew Dr. Carter until their manhood, they cooperated with splendid<lb/>
+comradeship in the study and conquest of yellow fever, the scourge<lb/>
+of the tropics, which formerly so often invaded our own country. It<lb/>
+is well known that the greatest engineering feat of the ages,- the<lb/>
+completion of the Panama Canal could not have been accomplished with-<lb/>
+out the work of these men.</p>
+<p>The Commonwealth of Virginia that boasts great soldiers like<lb/>
+Washington, Jackson, Lee; jurists like Wythe, Marshall and Roane and<lb/>
+<pb n="4" id="fC0312012"/>
+- 4 -<lb/>
+great statesmen like Jefferson, Madison and Monroe, rejoices that<lb/>
+she has a claim on three of the greatest benefactors of our day,<lb/>
+Carter, Reed and Gorgas.</p>
+<p>Among the numerous writings which Dr. Carter has contributed<lb/>
+to scientific medicine during a long and useful career may be men-<lb/>
+tioned the following:</p>
+<p>
+<list type="ordered">
+<item>1. Note on the Interval between Infecting and Secondary<lb/>
+Cases of Yellow Fever from the Records of the Yellow Fever at Or-<lb/>
+wood and Taylor, Miss., in 1898.</item>
+<item>2. Period of Incubation of Yellow Fever in Man. (Planned<lb/>
+with (1) and (3) and written about the same time -- the trilogy<lb/>
+forming a complete work). Pub. in Medical Record, Feb. or March<lb/>
+190. Original manuscripts deposited in Army Medical Museum as<lb/>
+permanent record.</item>
+<item>3. A note on the Spread of Yellow Fever in Houses. Extrin-<lb/>
+sic Incubation. Medical Record, June 15, 1901.</item>
+<item>4. Some Characteristics of Stegomyia Fasciata Which Affect<lb/>
+its Conveyance of Yellow Fever. Medical Record, May 14, 1904.</item>
+<item>5. Notes on the Sanitation of Yellow Fever and Malaria from<lb/>
+Isthmian Experience. (Pan American Scientific Congress, Santiago<lb/>
+de Chile, 1908. Med. Record, July, 10, 09).</item>
+<item>6. Immunity to Yellow Fever. (Pan American Scientific Con-<lb/>
+gress 1915. Pub. Annals of Tropical Medicine and Parasitology,<lb/>
+Liverpool School of Tropical Medicine, April 1916).</item>
+<item>7. Spontaneous Disappearance of Yellow Fever by Failure of<lb/>
+the Human Host. (Read before the Society of Tropical Medicine &amp;<lb/>
+Hygiene, (London) June 1917).</item>
+<item>8. Mechanism of the Spontaneous Elimination of Yellow Fever<lb/>
+from Endemic Centers. Journal of Tropical Medicine and Parasitol-<lb/>
+ogy, March 1920. Liverpool School of Tropical Medicine.</item>
+</list>
+</p>
+<p>General Gorgas said of Dr. Carter, that, &ldquo;he was one of the<lb/>
+great pioneers in malaria and yellow fever work.&rdquo; Walter Reed, in<lb/>
+<pb n="5" id="fC0312013"/>
+- 5 -<lb/>
+a personal letter said, &ldquo;Dr. Carter's work in Mississippi did more<lb/>
+to impress me with the importance of an intermediate host in yellow<lb/>
+fever than everything else put together.&rdquo;</p>
+<p>Dr. Carter was graduated in medicine from the University of<lb/>
+Maryland and entered the Marine Hospital Service, May 5, 1879. In<lb/>
+the fall of the same year, he saw his first case of yellow fever. In<lb/>
+1890, Dr. Carter had proposed the disinfection of vessels from Cuban<lb/>
+and Mexi can ports at the port of departure, so that the time en route<lb/>
+to the port of entry after such disinfection could count as a part of<lb/>
+the &ldquo;quarantine period&rdquo; for yellow fever, and by so much, lessen the<lb/>
+time of the detention in quarantine. How this method has been de-<lb/>
+veloped to its present status is a matter of history and its saving<lb/>
+to commerce is incalculable.</p>
+<p>Reed and his co-workers in their memorable report on the &ldquo;Trans-<lb/>
+mission of Yellow Fever&rdquo;, made the following statement: &ldquo;we were much<lb/>
+impressed by the valuable observations made in Orwood and Taylor during<lb/>
+the year 1898 by Surgeon Henry R. Carter. We observed that the members<lb/>
+of the Y<del>w</del><add>e</add>llow Fever Commission of the Liverpool School of Tropical Medi-<lb/>
+cine, Doctors Durham and Meyers, to whom we had the pleasure of submit-<lb/>
+ting Dr. Carter's observations, have been equally impressed by their<lb/>
+importance.&rdquo; Other observations made by us confirmed Dr. Carter's con-<lb/>
+clusions, thus pointing, as it seemed to us to the presence of an in-<lb/>
+termediate host such as the mosquito, as being the probable vector of<lb/>
+the causative agent of yellow fever.</p>
+<pb n="6" id="fC0312014"/>
+<p>- 6 -</p>
+<p>Kitisato, the famous Japanese scientist of his work in simplify-<lb/>
+ing quarantine says, &ldquo;It is at once scientific and practical, rep-<lb/>
+resenting the only advance in maritime quarantine since the time of<lb/>
+the Venetians.&rdquo;</p>
+<p>For many months, prior to his death, although long since retired<lb/>
+and feeble in body, but vigorous in mind, Dr. Carter has worked on an<lb/>
+unusually complete history of yellow fever, a work <del>in</del> which has taken<lb/>
+him into many fields of literature and history in many languages, and<lb/>
+even in many dialects. His one hope was to live until this great work<lb/>
+should be completed. Three days before he was stricken with what<lb/>
+proved to be his last illness, he had so far completed this work that<lb/>
+it can be easily finished by others, and this task will be undertaken<lb/>
+by <add>Dr. Wade Hampton Frost and by</add> his daughter, Miss Laura, who has served with him and aided him in<lb/>
+this last great research.</p>
+<p>Surgeon General and Mrs. Cumming and members of the corps of<lb/>
+the Public Health Service stationed in Washington have been in con-<lb/>
+stant touch with him during his last illness.</p>
+<p>The funeral services will take place at 10:00 Wednesday morning.<lb/>
+These will be first at the Westmoreland, and later at St. Margaret's<lb/>
+Church. Archdeacon Sterling Claiborne of Sewanee, Tennessee and Rev.<lb/>
+Dr. Smith of St. Margaret's Church will conduct the funeral services.</p>
+<p>Relatives, friends and officers of the Service will accompany<lb/>
+the body on the noon train, Wednesday, to Ashland, Virginia, its final<lb/>
+resting place, beside his wife, who died a number of years ago.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

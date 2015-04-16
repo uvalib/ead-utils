@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0323019">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Henry Hanson to Laura Armistead Carter, August 20, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hanson, Henry</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0323019</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-08-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Laura Armistead</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Frost, Wade Hampton</name>
+<name type="person">Boyce, Rupert William</name>
+<name type="place">Marianna (Fla.)</name>
+<name type="place">Miami (Fla.)</name>
+<name type="place">Peru</name>
+<name type="place">Colombia</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Lagos (Nigeria)</name>
+<name type="place">Sioux City (Iowa)</name>
+<name type="place">Brazil</name>
+<name type="place">Florida</name>
+<name type="place">Barranquilla (Colombia)</name>
+<name type="place">Pensacola (Fla.)</name>
+<name type="place">Singapore</name>
+<name type="hospital">Ancon Hospital (Peru)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1928-08-20">August 20, 1928</date>
+<idno rend="suppress">C0323019</idno>
+<title>Letter from Henry Hanson to Laura Armistead Carter, August 20, 1928</title>
+</bibl>
+</head>
+<p>Hanson attempts to answer Carter's questions about various medical references and describes his work in Florida on malaria outbreaks.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1928-08-20">
+<head>Letter from Henry Hanson to Laura Armistead Carter, August 20, 1928</head>
+<pb n="1" id="fC0323019"/>
+<opener>
+IN GOD WE TRUST.<lb/>
+Bureau of Communicable Diseases<lb/>
+DR. F. A. BRINK, DIRECTOR<lb/>
+FLORIDA<lb/>
+STATE BOARD OF HEALTH<lb/>
+B. L. Arms, M. D., State Health Officer<lb/>
+Executive Office, Jacksonville<lb/>
+THE BOARD<lb/>
+-----<lb/>
+HON. CHAS. H. MANN, PRESIDENT<lb/>
+JACKSONVILLE<lb/>
+H. MASON SMITH, M. D.<lb/>
+TAMPA<lb/>
+WM. D. NOBLES, M. D.<lb/>
+PENSACOLA<lb/>
+<dateline>
+Marianna, Fla.<lb/>
+<date value="1928-08-20">August 20, 1928.</date>
+</dateline><lb/>
+<salute>My dear Laura:</salute>
+</opener>
+<p>Your letter of July 28, <hi>1928</hi>, (better underscore the year)<lb/>
+reached me a short time ago, in fact several days, but I was so d---- hot<lb/>
+that I could not think clearly enough to write intelligently to a<lb/>
+celebrity like you.</p>
+<p>You seem to have almost run through the catalogue of ills,<lb/>
+and I hope that you have had enough of flu and things for a while. I too<lb/>
+have experimented a little in that line since I last saw you,-had an<lb/>
+attack of four lobe pneumonia in Miami last March, so you see I am no<lb/>
+&ldquo;piker&rdquo; when it comes to having things.</p>
+<p>I dont know that I can give you very much help about the<lb/>
+quotations or references for the book. Most of the references were from<lb/>
+personal communications, letters which I wrote your father from Peru and<lb/>
+Colombia. I went over some of these with Frost last fall when I was in<lb/>
+Baltimore one day.</p>
+<p>Your, " P.8.Hanson Henry (1921) a personal letter.</p>
+<p>" P. 10 " " (1922) Re lower limit of<lb/>
+aegypti feeding, was observed in<lb/>
+Pacasmayo by Dr. Ricardo Mendosa, when<lb/>
+he was bitten by an aegypti, the ther-<lb/>
+mometer registering 17C. This too if I<lb/>
+remember correctly was a personal communication. I have none of<lb/>
+my papers with me, and can not say whether this was mentioned <del>o</del><add>i</add>n<lb/>
+the general report, written at the close of the campaign.</p>
+<p>" P.29. " The reference to aegypti found at<lb/>
+<unclear>?&sol;</unclear> Ica, is from the report made by L.H. Dunn and Dr. Caballero when I<lb/>
+sent them for a survey of the coast of Peru, south of Lima, from<lb/>
+Lima to Arequ<del>p</del><add>i</add>pa.</p>
+<p>I am not certain about Sir Rupert Boyce reference, but<lb/>
+have an idea I saw something to that effect in the report of the<lb/>
+Previous Yellow Fever Commission, the one composed largely of British,<lb/>
+my recollection is that I saw it in the first volume. There is a<lb/>
+copy of this in the Lagos Office.</p>
+<p>I can not tell you which of the Pasteur Commission<lb/>
+reports, cites a case of the transmission of infection to progeny,<lb/>
+except that it is from the work of the Commission in Brazil. All<lb/>
+notes of this kind are with my library at home. Some of them reached<lb/>
+Sioux City after I came on to Florida.</p>
+<p>I gave a talk before the Medical Society at Ancon<lb/>
+Hospital in 1921, which was reported and published in the proceedings<lb/>
+of the Canal Zone Medical Society about the end of 1921 or the first<lb/>
+part of 1922.</p>
+<pb n="2" id="fC0323020"/>
+<p>I cant give you any information about Goe<del>d</del><add>l</add>di's statement (1903<del>1</del><add>)</add><lb/>
+regarding the breeding of <hi>Stegomyia</hi> in gutters (street gutters).<lb/>
+We found them in gutters In Barranquilla, but I felt that it was more<lb/>
+a case of their having <del><unclear>been</unclear></del> come there by accident, such as the<lb/>
+emptying of a barrel of water in which there were larvae, and they<lb/>
+naturally continued their development. We had a similar instance in<lb/>
+Bucaramanga, close to a house where breeding was found.</p>
+<p>I am sorry that I am so disappointing in the help you<lb/>
+hoped I might be able to render.</p>
+<p>Since the first of the year I have been working in the<lb/>
+capacity of Field Medical Officer, in the Bureau of Communicable<lb/>
+Diseases, State Board of Health of Florida, and have found it both<lb/>
+instructive and interesting, if not highly remunerative. It has about<lb/>
+paid expenses which was as much as I expected when I came down. There<lb/>
+are some pretty good malaria problems to work on among the backwoods<lb/>
+people here in West Florida. Malaria is one of the big factors in the<lb/>
+ill health and poverty of most of the country people in this part of<lb/>
+the state.</p>
+<p>How long I shal continue here in this work I dont know. The<lb/>
+Surgeon General (U.S.P.H.S.) has suggested a possibility o<unclear>f</unclear> going to<lb/>
+Singapore, but that is rather uncertain so far.</p>
+<p>With all good wishes, and high regards to Frost when you<lb/>
+see him, I am</p>
+<closer>
+<salute>Very sincerely yours,</salute>
+<signed>Henry Hanson</signed>
+Official address,<lb/>
+State Board of Health,<lb/>
+Pensacola, Fla.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

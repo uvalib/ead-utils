@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0323045">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Frederick L. Hoffman to Laura Armistead Carter, December 14, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hoffman, Frederick L.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0323045</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-12-14</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Laura Armistead</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Fowler, J. K.</name>
+<name type="place">Newark (N.J.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">West Africa</name>
+<name type="place">Liverpool School of Tropical Medicine (Liverpool, England)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1928-12-14">December 14, 1928</date>
+<idno rend="suppress">C0323045</idno>
+<title>Letter from Frederick L. Hoffman to Laura Armistead Carter, December 14, 1928</title>
+</bibl>
+</head>
+<p>Hoffman describes his efforts to track down an Investigation Report of the Yellow Fever Commission at Carter's request.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1928-12-14">
+<head>Letter from Frederick L. Hoffman to Laura Armistead Carter, December 14, 1928</head>
+<pb n="1" id="fC0323045"/>
+<opener>
+FREDERICK L. HOFFMAN<lb/>
+CONSULTING STATISTICIAN<lb/>
+THE PRUDENTIAL INSURANCE COMPANY<lb/>
+OF AMERICA<lb/>
+EDWARD D. DUFFIELD, PRESIDENT<lb/>
+HOME OFFICE, NEWARK, NEW JERSEY<lb/>
+<dateline>
+<date value="1928-12-14">December 14, 1928</date>
+</dateline><lb/>
+Miss Laura A. Carter,<lb/>
+2122 California Street, N.W.,<lb/>
+Washington, D.C.<lb/>
+<salute>Dear Miss Carter:</salute>
+</opener>
+<p>We are in receipt of your letter of November 26,<lb/>
+inquiring about a supposedly missing volume of the Reports on the<lb/>
+Investigation of Non-Malaria Fevers in West Africa, published under<lb/>
+the direction of the Yellow Fever Commission, under the chairmanship<lb/>
+of J.K. Fowler.</p>
+<p>I was in Washington myself the other day and looked<lb/>
+through the Prudential section at the Surgeon-General's Library, but<lb/>
+was not able to find this third Investigation Report you speak of.<lb/>
+There is however, a third Report in the set that is called &ldquo;The Third<lb/>
+Report of the Yellow Fever Commission. I have therefore written<lb/>
+direct to the Liverpool School of Tropical Medicine, as you will see<lb/>
+from the enclosed carbon <xref id="C0323037">copy</xref>. As soon as we hear from them, we shall<lb/>
+be pleased to get in touch with you again.</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>F.L. Hoffman</signed>
+F.L.HOFFMAN<lb/>
+Consulting Statistician<lb/>
+H:S.<lb/>
+<unclear>[unclear]</unclear><lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

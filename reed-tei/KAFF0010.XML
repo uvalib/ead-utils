@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAFF0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Carlos J. Finlay to Jefferson Randolph Kean, February 6, 1909</title>
+<title type="gmd">[electronic resource]</title>
+<author>Finlay, Carlos J.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAFF0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc> 
+</fileDesc>
+<profileDesc>
+<creation><date>1909-02-06</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Delgado, Claudio</name>
+<name type="person">Lebredo, Mario G.</name>
+<name type="person">Barnet, E. B.</name>
+<name type="person">Lopez del Valle, Jose A.</name>
+<name type="person">Rensoli, Dr.</name>
+<name type="person">Zayas, Alfredo</name>
+<name type="person">Rensoli, Dr.</name>
+<name type="person">Davis, Harry A.</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1909-02-06">February 6, 1909</date>
+<idno rend="suppress">KAFF0010</idno>
+<title>Letter from Carlos J. Finlay to Jefferson Randolph Kean, February 6, 1909</title>
+</bibl>
+</head>
+<p>Finlay informs Kean that nothing has turned up to lessen the belief that Cuba is free of yellow fever, and reports of personnel changes in Cuba's Sanitary Department. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1909-02-06">
+<head>Letter from Carlos J. Finlay to Jefferson Randolph Kean, February 6, 1909</head>
+<pb n="1" id="fKAFF0010"/>
+<opener>
+80<lb/>
+Dr Charlos J. Finlay.<lb/>
+(Cuba's grand old man)<lb/>
+<dateline>
+Havana, <date value="1909-02-06">February 6 1909</date>
+</dateline><lb/>
+Lieut. Colonel J.K. Kean U.S.A. M.c.<lb/>
+Surgeon-General's Office<lb/>
+Washington, D.C.<lb/>
+<salute>My dear Colonel</salute>
+</opener>
+<p>Please to excuse my writing in type for fear of<lb/>
+taxing too much your ingenuity in deciphering my scrawl and to<lb/>
+accept my apologies for not having gone on board to take leave of<lb/>
+Mrs. Kean and yourself the day of your departure<add>,</add> as I had intended,<lb/>
+owing to an indisposition of no consequence but which kept me sub-<lb/>
+sequently two days at home.</p>
+<p>I hope you had a pleasant trip and are now once more comfort-<lb/>
+ably settled in your home.</p>
+<p>You will be glad to know that nothing has turned up to lessen<lb/>
+our belief that we are really free from yellow-fever. Two cases report<lb/>
+ed as suspects in Santiago de Cuba have proved negative, and Doctor<lb/>
+Guiteras <add>intends</add> to send Dr. Agramonte and Lebredo to Oriente for a little<lb/>
+while to look carefully into the situation in that part of the Island.<lb/>
+The Sanitary Department has been much less subjected to wholesale<lb/>
+renewal of the personnel than other Departments, but the few that<lb/>
+have been changed are of vast importance. I refer to Barnet and Lopez<lb/>
+del Valle. The former has been given a position as Special Inspector<lb/>
+in the Secretary's Office while Lopez del Valle has changed places<lb/>
+with Dr. Rensoli as Chief of the Tuberculosis Dyspensary. Othe<add>r</add> changes<lb/>
+had been spoken of but somehow or other they have not been carried <lb/>
+into effect.</p>
+<pb n="2" id="fKAFF0020"/>
+<p>2</p>
+<p>The inaugural session of the Junta Nacional de Sanidad y Beneficen<lb/>
+cia was held February 3d. I need not give you the names of the 13<lb/>
+active members of which it is composed as I suppose you already know<lb/>
+them, and the list has been published in most of our local papers. At<lb/>
+the second meeting, the following day, I was pleased tp observe that<lb/>
+in the course of the debate Dr. Alfredo Zayas supported with warmth<lb/>
+and free from any partisanship certain remarks made by Dr. Casuso in<lb/>
+opposition to the views maintained by the Secretary of the Departmt.</p>
+<p>Feb. 7th. - I am informed that Dr. Claudio Delgado has been request-<lb/>
+ed to present his resignation, but has refused to do so stating that<lb/>
+he prefers to await his formal dismissal from the Service.</p>
+<p>I have not seen Dr. Guiteras these last few days but I fear that<lb/>
+if he is to be deprived of valuable employees at the caprice of poli-<lb/>
+ticians he will find his position anything but a bed of roses, and<lb/>
+I cannot but congratulate myself for being out of the business, even<lb/>
+if I have to put up with certain privations which I knew were to be<lb/>
+<unclear>expected</unclear>. He will, I am sure, miss very much the valuable help that<lb/>
+Dr. Barnet would have given him, and although Dr. Rensoli is undoubted-<lb/>
+ly clever and bright he lacks the personal knowledge which Dr. Lopez<lb/>
+del Valle possesses of every nook and corner of the district of Havana<lb/>
+and his long experience in the Sanitary Department, having held res-<lb/>
+ponsible positions in it since Major Davis' time (1899).</p>
+<p>Please to present my kindest regards to Mrs, Kean and believe<lb/>
+me, my dear Colonel,</p>
+<closer>
+<salute>Yours very sincerely</salute>
+<signed>Carlos J. Finlay</signed>
+Amistad n&deg; 94 (Altos)<lb/>
+Habana.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

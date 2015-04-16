@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0328017">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Laura Armistead Carter to Wade Hampton Frost, May 2, 1930</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Laura Armistead</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0328017</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1930-05-02</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Frost, Wade Hampton</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Russell, Frederick F.</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Johns Hopkins School of Hygiene and Public Health, (Baltimore, Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1930-05-02">May 2, 1930</date>
+<idno rend="suppress">C0328017</idno>
+<title>Letter from Laura Armistead Carter to Wade Hampton Frost, May 2, 1930</title>
+</bibl>
+</head>
+<p>Carter wonders where to send the bills for maps prepared for the History of Yellow Fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1930-05-02">
+<head>Letter from Laura Armistead Carter to Wade Hampton Frost, May 2, 1930</head>
+<pb n="1" id="fC0328017"/>
+<opener>
+Frost<lb/>
+<hi>re</hi><lb/>
+Book, <unclear>Misel</unclear>. maps.<lb/>
+<dateline>
+The Westmoreland,<lb/>
+2122 California St., N. W.,<lb/>
+Washington, D. C.<lb/>
+<date value="1930-05-02">May 2, 1930.</date>
+</dateline><lb/>
+Dr. Wade H. Frost,<lb/>
+School of Hygiene and Public Health,<lb/>
+615 North Wolfe Street,<lb/>
+Baltimore, Maryland.<lb/>
+<salute>Dear Jack:</salute>
+</opener>
+<p>To whom should bills be sent for (a) final work on our <add>two</add> partia<del>m</del><add>l</add>ly<lb/>
+drawn maps and (b) for the third map, which you decided ought to be<lb/>
+drawn to illustrate the expeditions of Ojeda, Nicuesa et al? To yourself, I<lb/>
+imagine. This because Dr. Russell stated, in a letter of December 11&sol;29,<lb/>
+that he was writing to you with regard to funds for the book, as there was<lb/>
+no budget item for it for 1930 and that &ldquo;with this knowledge Dr. Frost<lb/>
+can arrange his work to fit our accounting system.&rdquo;</p>
+<p>The maps have not yet been inked in, although the additional<lb/>
+names suggested by yourslef and Dr. Ramsey have been added in pencil for the<lb/>
+first two and the third map is now ready for a final checking and inking<lb/>
+in.</p>
+<p>I assume, from a statement of your<add>s</add> last December, that you do not<lb/>
+care to see these maps again before they are inked in. If I am in error,<lb/>
+please advise me.</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>Laura A. Carter</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01623001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Walter Reed to Emilie B. Lawrence, May 17, 1875</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Walter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01623001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1875-05-17</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Lawrence, Emilie B.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship">YES</term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Lawrence, Emilie Blackwell</name>
+<name type="place">Boykins [s.l.]</name>
+<name type="place">Murfreesboro (N.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>2 pp.</extent>
+<date value="1875-05-17">May 17, 1875</date>
+<idno rend="suppress">01623001</idno>
+<title>Letter from Walter Reed to Emilie B. Lawrence, May 17, 1875</title>
+</bibl>
+</head>
+<p>Reed writes that he has been delayed in Boykins on his way back to New York.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1875-05-17">
+<head>Letter from Walter Reed to Emilie B. Lawrence, May 17, 1875</head>
+<pb n="1" id="f01623001"/>
+<opener>
+<dateline>
+Boykins Depot 1st<lb/>
+<date value="1875-05-17">May 17<hi rend="superscript">th</hi> 1875.</date>
+</dateline>
+<salute>My darling Emilie,</salute>
+</opener>
+<p>It is stranger than<lb/>
+fiction, but nevertheless it is most<lb/>
+true. Here am I at Boykins and, what<lb/>
+is of far greater import, I am likely<lb/>
+to remain all the day. There was an ex-<lb/>
+cursion train, to-day, instead of the reg-<lb/>
+ular accommodation train, &amp; that jolly<lb/>
+train passed here at 9.38 A.M.; thus leaving<lb/>
+me in all my glory &amp; <hi>alone</hi>- Ah! that<lb/>
+is the <hi>sad</hi> part of it- If you were only<lb/>
+here, I could stay forever. I have<lb/>
+a great notion to return to M. &amp; remain<lb/>
+till, to-morrow; but no! 'twould only end<lb/>
+in another farewell &amp; Heaven knows<lb/>
+it grieves me to say goodbye to you.</p>
+<p>I have half an idea to go straight<lb/>
+on to my sister's, as I have twice dis-<lb/>
+appointed my brother. I could return<lb/>
+&amp; spend the early part of June<lb/>
+with him.</p>
+<p>Would write more, but Mr<lb/>
+Myrick's boy can't wait any longer.<lb/>
+<pb n="2" id="f01623002"/>
+Excuse the paper, but so anxious<lb/>
+was I to send you a greeting, that<lb/>
+I should have written on a<lb/>
+dry leaf rather than have missed<lb/>
+the opportunity.</p>
+<closer>
+<salute>I remain,<lb/>
+Affectionately &amp; devotedly,<lb/>
+yours,</salute>
+<signed>Walter R.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

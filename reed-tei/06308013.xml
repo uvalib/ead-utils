@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t06308013">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Plan of Camp Columbia by Philip S. Hench, [194-]</title>
+<title type="gmd">[electronic resource] </title>
+<author></author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>P6308011</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>194*-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Camp Columbia, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="194*-00-00">[194-]</date>
+<idno rend="suppress">06308013</idno>
+<title>Plan of Camp Columbia by Philip S. Hench, [194-]</title>
+</bibl>
+</head>
+<p></p>
+</div1>
+</front>
+<body>
+<div1 type="map" n="1">
+<head>Plan of Camp Columbia by Philip S. Hench, [194-]</head>
+<pb n="1" id="f06308013"/>
+<p>Black objects in 1899 map</p>
+<p>Ink  "  "  Mar 1901  "</p>
+<p>Red  "  "  1902  "</p>
+<p><hi rend="underline">Black</hi> are Truby's identifications</p>
+<p>119 Kitchen (gone in 1907)</p>
+<p>117, 115, 113</p>
+<p>112 Morgue</p>
+<p>99 Office</p>
+<p>98 Steward</p>
+<p>Lab Present in 1899 apparently removed in 1900-1901 when 3rd ward built.</p>
+<p>96, 97 Commissary</p>
+<p>93, 92, 143, 91, 90 Wards</p>
+<p>89 Surgery</p>
+<p>120 Kitchen gone in 1907</p>
+<p>118, 116, 114</p>
+<p>111 ?</p>
+<p>101 ?</p>
+<p>100 Mess Hall</p>
+<p>102, 103 Quarters</p>
+<p>105 Dispensary</p>
+<p>104 Nurses' Quarters</p>
+<p>110 ?</p>
+<p>108 Officers' Quarters</p>
+<p>106 ?</p>
+<p>107 CO Quarters (Stark)</p>
+<p>109 New CO quarters<lb/>
+built 1901 (prior to March)</p>
+</div1>
+</body>
+</text>
+</TEI.2>

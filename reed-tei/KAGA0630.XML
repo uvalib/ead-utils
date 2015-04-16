@@ -1,0 +1,661 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY fKaga0760 SYSTEM "fKaga0760.jpg" NDATA jpg>]>
+<TEI.2 id="KAGA0630">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report of Local Sanitary Officer of Havana, by Jose A. Lopez del Valle, October 31, 1908</title>
+<title type="gmd">[electronic resource]</title>
+<author>Lopez del Valle, Jose A.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGA0630</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo"> Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1908-10-31</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Barnet, E. B.</name>
+<name type="person">Pena, Jose M.</name>
+<name type="person">Delgado, Claudio</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cuba</name>
+<name type="place">Mexico</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>14 pp.</extent>
+<date value="1908-10-31">October 31, 1908</date>
+<idno rend="suppress">KAGA0630</idno>
+<title>Report of Local Sanitary Officer of Havana, by Jose A. Lopez del Valle, October 31, 1908</title>
+</bibl>
+</head>
+<p>Lopez del Valle describes the methods used to combat yellow fever, typhoid fever, diphtheria, tuberculosis, and other infectious diseases in Havana. The methods of covering all water deposits that might breed mosquito larvae are thoroughly discussed. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1908-10-31">
+<head>Report of Local Sanitary Officer of Havana, by Jose A. Lopez del Valle, October 31, 1908</head>
+<pb n="1" id="fKAGA0630"/>
+<p>REPORT<lb/>
+of Local Sanitary Officer of Havana.</p>
+<p><hi rend="italic">Havana, October 31, 1908</hi>.</p>
+<p>TO THE CHIEF OF THE NATIONAL SANITARY DEPARTMENT.</p>
+<p>Sir:</p>
+<p>In accordance with your direction, I have the honor to sub-<lb/>
+mit for your consideration, the statement of the work accomp-<lb/>
+lished by the Local Sanitary Department under my charge, dur-<lb/>
+ing the periods from July 1st, 1907 to June, 1908, and from July<lb/>
+1st, to October 30th, 1908.</p>
+<p>I should, before doing anything else, point out that the<lb/>
+flattering expectations we had of the benefits that would accrue<lb/>
+to the cause of public health in Cuba by the nationalization of<lb/>
+the Sanitary Service have been realized, and as was foreseen,<lb/>
+are now manifested by the excellent state of public health and<lb/>
+the widespread improvement in organization and efficiency of<lb/>
+the various local Sanitary Services, and especially to be noted<lb/>
+is the decline in the mortality in Havana, and the complete erad-<lb/>
+ication of those infectious diseases that previously scourged us.</p>
+<p>In the year since the last report, four cases of yellow fever<lb/>
+have appeared in Havana, of which one occurred in December,<lb/>
+two in January and one which is discussed more fully below, in<lb/>
+September just passed. Each of these points of infection has<lb/>
+been promptly suppressed without the production of secondary<lb/>
+cases. In virtue of the efficient and energetic work, we have or-<lb/>
+ganized in accordance with the instructions of the Adviser to<lb/>
+the National Sanitary Department and the office of the Nation-<lb/>
+al Department, against the uncovered water deposits, with the<lb/>
+object of preventing the breeding of mosquitos, we have a com-<lb/>
+plete control of the diseases which are transmitted by them.<lb/>
+<pb n="2" id="fKAGA0640"/>
+466<lb/>
+Among these cases of yellow fever which have been recorded in<lb/>
+Havana during the past year, and which merit special mention<lb/>
+because of the lessons to be derived from them, is the one that<lb/>
+occurred in September, being the last case that has occurred.<lb/>
+The patient lived until the last stages of the disease, in the com-<lb/>
+mercial district of the city, where there are many non-immunes<lb/>
+to yellow fever, and the great majority of the population is for-<lb/>
+eign. This patient was discovered after he had passed the infect-<lb/>
+ious period of the disease, having been all the time running at<lb/>
+will in the plazas and streets near the wharf. That is to say, it<lb/>
+was an ambulatory case of yellow fever in the beginning, a most<lb/>
+dangerous period of the disease from a sanitary point of view.<lb/>
+If the city had not been, as fortunately it was, protected from<lb/>
+mosquitoes, that one case alone might have been enough to orig-<lb/>
+inate an epidemic focus of yellow fever. But owing, as we said,<lb/>
+to the work that has brought about the extinction of the mos-<lb/>
+quitoes, and above all, the genus stegomyia, we were protected<lb/>
+from this case originating a yellow fever epidemic, just as if it<lb/>
+had been isolated.</p>
+<p>There have arrived in Havana since July 1, 1907 to the date<lb/>
+of this report, two cases of yellow fever from Mexican ports.<lb/>
+These patients, promptly discovered by the port doctors, were<lb/>
+immediately sent to Las Animas Hospital where they were pro-<lb/>
+tected from the bites of mosquitoes. No secondary cases occurred.<lb/>
+We have taken care to promptly advise all the doctors prac-<lb/>
+ticing in the capital, of the occurrence of yellow fever, and re-<lb/>
+minded them that it is necessary to notify the Local Sanitary<lb/>
+Officer of all suspicious or confirmed cases of the infection.<lb/>
+Those fevers in non-immunes which present the slightest sus-<lb/>
+picion of yellow fever are submitted for consideration and study,<lb/>
+to the Commission of Infectious Diseases, which determine<lb/>
+whether it is or is not a case of yellow fever. The medicinal in-<lb/>
+spections of the sanatoriums are made minutely and carefully.<lb/>
+By this inspection we receive early and certain knowledge of<lb/>
+all cases of fever in non-immunes. As is seen, although attending<lb/>
+especially to the extinction of mosquitoes, we have not neglected<lb/>
+to employ all existing medical and sanitary services for the com-<lb/>
+plete extinction of yellow fever.</p>
+<p>One of the most interesting points in respect to the protec-<lb/>
+tion of Havana against yellow fever infection, was to prevent<lb/>
+the capital from being infected by means of ambulatory and<lb/>
+very benign cases coming from infected places in the interior of<lb/>
+<pb n="3" id="fKAGA0650"/>
+467<lb/>
+the republic. And this danger has been avoided in virtue of<lb/>
+measures taken by the Sanitary Adviser and by the national of-<lb/>
+fice, appointing a special commission of yellow fever experts in<lb/>
+the localities supposed to be infected with yellow fever, in the<lb/>
+interior towns, and by the general improvement of the sanitary<lb/>
+services throughout the republic, obtained by the nationalization<lb/>
+of the Sanitary Services. Thanks to this measure, it has been<lb/>
+possible to organize throughout the island a uniform and well<lb/>
+directed service against mosquitoes. Havana is defended from<lb/>
+the infection of yellow fever that might come from foreign ports,<lb/>
+by virtue of the prudent measures taken by the National Sani-<lb/>
+tary Board as regards quarantines, and the efficiency maintained<lb/>
+by the maritime Sanitary Service of the republic, and is pro-<lb/>
+tected against towns that may be infected in their own territory<lb/>
+by the general measures taken. We have well organized mosquito<lb/>
+services in Havana, and carefully inspected and well covered<lb/>
+water deposits in order to prevent the existence of mosquitoes,<lb/>
+and we are prepared at Las Animas Hospital to isolate those at-<lb/>
+tacked by the infection that may arrive from the foreigner or<lb/>
+occur in our republic. We count on the great assistance of<lb/>
+the private hospitals for the isolation of the members who may<lb/>
+demand such prudent sanitary measures, and depend on the<lb/>
+good will and altruism of the medical profession to inform us of<lb/>
+every case that gives rise to the remotest suspicion of yellow<lb/>
+fever infection. We are able to be sure, with such valued aides,<lb/>
+that no epidemic focus of yellow fever can occur in Havana, and<lb/>
+that sporadic cases which occur will be securely isolated and the<lb/>
+infection strangled where it arises. We are able to say without<lb/>
+fear of exaggeration, that paludism has been eradicated from<lb/>
+the capital. In the twenty-eight deaths from this disease in Hav-<lb/>
+ana since July 1st, 1907 to September 30th, 1908, it has been<lb/>
+found that all those attacked have been infected in the country.</p>
+<p>During the period of time covered by this report, there has<lb/>
+not been found in the houses of Havana any larvae of anopheles<lb/>
+mosquitoes. Only in the outlying barrios, and above all, in those<lb/>
+adjoining the municipalities of Marianao and Guanabacoa, is it<lb/>
+possible to find this class of larvae in the waste lands and in the<lb/>
+large swamps. All cases of paludism are isolated from the bites<lb/>
+of mosquitoes and the houses occupied by the cases are fumi-<lb/>
+gated.</p>
+<p>From typhoid fever there have occurred since July 1, 1907<lb/>
+to September 30, 1908, 111 deaths. Of these, twenty-six cases<lb/>
+<pb n="4" id="fKAGA0660"/>
+468<lb/>
+proved to be from interior towns of the republic, and two from<lb/>
+foreign ports. When cases of typhoid fever present themselves,<lb/>
+we take care to send to the laboratory of the National Sanitary<lb/>
+Board samples of the water used in the house where the patient<lb/>
+lives, properly isolating those attacked and practicing partial<lb/>
+fumigation in the house during the infection, and also to scru-<lb/>
+pulously disinfect the sanitary appliances. To put an end at<lb/>
+once to the spread of the infection, the general disinfection of<lb/>
+the house is finally made. There have been three principal foci<lb/>
+of typhoid fever in Havana. The first and most important was<lb/>
+a factory located in Puentes Grandes; the second, a factory sit-<lb/>
+uated on the Calzada de la Infanta, and the third, another<lb/>
+factory to be found in the barrio of Pilar. From the investiga-<lb/>
+tions and studies made in this office, the conclusion has been<lb/>
+reached that the cause of the existence of typhoid fever in these<lb/>
+places arose from the fact that numerous employees of the fac-<lb/>
+tories where those attacked worked and lived, had the custom of<lb/>
+bathing in the ditches which traversed these localities. In fact,<lb/>
+the first factory was found located on the Almendares, the sec-<lb/>
+ond by the side of a small ditch that crosed the Calzada de la<lb/>
+Infanta, and the third by the side of the Arroyo del Matadero.<lb/>
+This office gave strict and definite orders prohibiting the work-<lb/>
+men to bathe in the ditches mentioned, and those that received<lb/>
+the discharge of many sanitary appliances, they should consider<lb/>
+as infected with typhoid fever. In order to make this prohibition<lb/>
+effective, sanitary lectures were given to the factory employees<lb/>
+informing them of the causes of tyhhoid fever and its means of<lb/>
+propagation, making them to see the danger to their health in<lb/>
+continuing the practice of bathing in these places. A fence was<lb/>
+also put up, and the part of the ditch that ran through the<lb/>
+factory was covered and the police enjoined to keep an active<lb/>
+watch in order to prevent the public from bathing in such places.<lb/>
+Besides these general measures, other special ones were taken in<lb/>
+each case, as isolation of the sick and repeated disinfection of<lb/>
+the infected places. The result obtained could not be more sa-<lb/>
+tisfactory. These foci have been extinguished completely and<lb/>
+absolutely in two cases. In the factory situated in Puentes Gran-<lb/>
+des such a decisive result has not as yet been obtained, by virtue<lb/>
+of the fact that many of the workmen live in the Barrio Ceiba,<lb/>
+belonging to the municipality of Marianao, where they do not<lb/>
+have the Vento water in their houses, and for this reason are<lb/>
+obliged to use water from wells and creeks. In order to obtain<lb/>
+<pb n="5" id="fKAGA0670"/>
+469<lb/>
+the best result, we have closed up some of these infected dwel-<lb/>
+lings and others in distant barrios of the capital. Frequent ana-<lb/>
+lyses of the Albear aqueduct water have been made, taking it<lb/>
+not only from the Palatino reservoir, but also from houses in<lb/>
+Havana, and in order to cover the question involved completely,<lb/>
+samples have been taken from infected houses in the capital. In<lb/>
+no case has it been found that the waters are infected by the<lb/>
+bacilus of typhoid fever.</p>
+<p>Diphtheria has occasioned during the time covered by this<lb/>
+report thirty-nine deaths. The mortality from diphtheria has<lb/>
+declined noticeably. In the first six months of 1907 there occurred<lb/>
+in Havana four hundred and eighty-seven cases of this in-<lb/>
+fection. In the second six months of that year commenced the<lb/>
+decline of attacks of diphtheria. In that period two hundred and<lb/>
+forty-three invasions were registered. In the first six months of<lb/>
+this year there have not occurred more than one hundred and<lb/>
+fifty-seven cases, thus showing an encouraging improvement in<lb/>
+this infection. We continue to supply abundantly gratuitously<lb/>
+to all that ask for it, at any time of the day or night, the diph-<lb/>
+theria anti-toxine, and recommend its use, not only as a cure,<lb/>
+but also as a preventative.</p>
+<p>Of the eruptive diseases, scarlet fever and measles have<lb/>
+given the largest number of cases. The mortality from these in-<lb/>
+fections during this year has been reduced very much, as only<lb/>
+nineteen deaths from measles and six deaths from Scarlet Fever<lb/>
+have been recorded since July 1, 1907 to September 30th,<lb/>
+1908. We have taken pains to isolate at Las Animas Hospital<lb/>
+all cases of scarlet fever that occurred in tenement houses, pub-<lb/>
+lic offices and in other places where was danger of contagion<lb/>
+and not the proper means of isolating the cases.</p>
+<p>We have had no cases of smallpox originating in Havana.<lb/>
+The vaccination service has been carefully attended to. There<lb/>
+have been 7427 vaccinations performed by the medical inspect-<lb/>
+ors during the time covered by this report. The barrios of Hav-<lb/>
+ana in which we have paid the most attention to vaccination,<lb/>
+are Casa Blanca and Regla, which being located on the sides of<lb/>
+the bay, are most liable to be infected from patients coming<lb/>
+from a foreign port.</p>
+<p>Tuberculosis has occasioned since July 1, 1907 to September<lb/>
+30, 1908, 1457 deaths, a figure really appalling, and demonstrat-<lb/>
+ing with all the eloquence of numbers the graveness of the tu-<lb/>
+<pb n="6" id="fKAGA0680"/>
+470<lb/>
+berculosis problem in Cuba. The National Sanitary Department<lb/>
+has used all the appropriate means to combat this infection. The<lb/>
+dispensary has been running regularly, having been recently<lb/>
+moved to a more appropriate place, and its sphere of action ex-<lb/>
+tended and given the appropriate and necessary organization,<lb/>
+larger functions and greater resources. The sanatorium &ldquo;La<lb/>
+Esperanza&rdquo;, belonging to the National Sanitary Department,<lb/>
+is performing its important service, receiving those attacked<lb/>
+with tuberculosis and found to be appropriate cases for isola-<lb/>
+tion there. The special medical inspection of shops, factories and<lb/>
+tenement houses in order to increase the medical knowledge of<lb/>
+the apprentices and all those desiring to engage in the per-<lb/>
+formance of the industries and those that aspire to become mas-<lb/>
+ters, have been performed in the most efficacious and conscien-<lb/>
+tious manner by this office. We have attended equally, by means<lb/>
+of notices and sanitary lectures given in the factories and shops,<lb/>
+to the spread of sanitary knowledge and the increase of public<lb/>
+spirit, requesting the public to contribute as far as in its power,<lb/>
+to assist in the work of combatting tuberculosis. Tuberculosis is,<lb/>
+besides being a grave sanitary problem, a serious social problem<lb/>
+that requires for its solution the assistance of all classes. The<lb/>
+government has, as it should, lent its powerful aid. But in or-<lb/>
+der to obtain the desired end in the anti-tuberculosis campaign,<lb/>
+it is necessary that all classes of society co-operate. Especially<lb/>
+should the educated public recognize the necessity of taking an<lb/>
+active part in this crusade, giving their generous and decided<lb/>
+aid in combatting the common enemy. The strongest basis upon<lb/>
+which to rest the anti-tuberculosis campaign is without doubt<lb/>
+the sanitary education of those attacked, the improvement in<lb/>
+the dwellings occupied by the poor, and the enaction of laws<lb/>
+that will aid the unfortunate to free themselves from their in-<lb/>
+firmity. The collection of statistics on tuberculosis, above all,<lb/>
+the number of cases existing, would be very useful in causing<lb/>
+the public to see the gravity and importance of the tuberculosis<lb/>
+problem, now that the death statistics do not appear to be suf-<lb/>
+ficient to make it appreciate the seriousness of this problem.</p>
+<p>Enteritis in the young, as well as the other gastro-intestinal<lb/>
+infection in children, have occurred less frecuently, owing to<lb/>
+the campaign inaugurated against milk adulteration. The ente-<lb/>
+ritis of infancy during the third quarter of 1907 caused 174<lb/>
+deaths, reaching the lowest point in its decline during the fourth<lb/>
+quarter, when there were only eighty-six deaths, and this low<lb/>
+<pb n="7" id="fKAGA0690"/>
+471<lb/>
+mortality has remained during the present year. Of all the sa-<lb/>
+nitary works accomplished, none have given so decisive results<lb/>
+as the analysis of milk. Since the first of November, 1907, we<lb/>
+have performed a great work in the analysis of milk. From the<lb/>
+date of the installation of the service, to the present, we have<lb/>
+every day been more convinced of its usefulness by the good re-<lb/>
+sults obtained. In the first period of the organization of the ser-<lb/>
+vice of inspection and examination of milk, the proportion of<lb/>
+bad milk reached thirty per cent, but in the past month we have<lb/>
+found only 1.57 per cent of the milk bad. The infantile mortal-<lb/>
+ity also has been noticeably reduced, being a result obtained by<lb/>
+the installation of this service, thus aiding greatly the cause of<lb/>
+public health.</p>
+<p>Another of the new services recently installed is that of<lb/>
+the medical inspection of the people at the lodging houses and<lb/>
+sleeping houses, who come from the country. We require the<lb/>
+owners of these establishments to give us on a special printed<lb/>
+form, a daily account of all individuals who are guests of the<lb/>
+same. The printed forms which are filled out for us at these<lb/>
+places, are prepared in duplicate and give the name of each<lb/>
+lodger, especially the nationality and place from which he comes,<lb/>
+when he entered the establishment, and the point to which he<lb/>
+goes when he leaves. By this means, it is easy to observe those<lb/>
+arriving in Havana from infected zones, and to discover in the<lb/>
+beginning whatever sickness may occur in the above mentioned<lb/>
+establishments. The work rendered by all the sections of this of-<lb/>
+fice during the period covered by this report, has been great and<lb/>
+meritorious, and it is a pleasure and a duty to state that it is<lb/>
+due to the employees of the various sections. Every one of the<lb/>
+employees from the highest to the lowest, has done everything<lb/>
+in his power to exceed the requirements and to perform his duty<lb/>
+with the greatest enthusiasm. The section of District Inspect-<lb/>
+ors, to whom is confided a troublesome and delicate work, has<lb/>
+distinguished itself by its efficiency and activity.</p>
+<p>From November 1st, 1907 to June 30th, 1908, there has<lb/>
+been made by this section 383,137 inspections and petrolization<lb/>
+of houses, and 832 special re-inspections and verifications, and<lb/>
+from July 1st, to Oct. 30th, 1908 there has been made 199,537<lb/>
+inspections and petrolization of houses, 416 inspections because<lb/>
+of complaints and 250 special inspections. This section, charged<lb/>
+with the regular and continous house inspections of Havana, has<lb/>
+instructed the District Inspectors to pay especial attention to<lb/>
+<pb n="8" id="fKAGA0700"/>
+472<lb/>
+water deposits, general cleanliness of the houses, and careful pe-<lb/>
+trolization and sanitary appliances of dwellings, as well as any<lb/>
+other interior places that might become breeding places for mos-<lb/>
+quitoes. The service we have organized for the collection and<lb/>
+classification of larvae found in the houses, is giving us not only<lb/>
+excellent results, but is a profitable souree of useful lessons. On<lb/>
+collecting the larvae in a house, a note is made in a register of<lb/>
+the house inspected, and the name of the inhabitant and the<lb/>
+genus of the larvae. On a map of the city is noted, by<lb/>
+different colored pins the different kinds of larvae found in<lb/>
+the several zones of Havana. The register of the houses of Ha-<lb/>
+vana in which larvae are found, has also the names of the tenants.<lb/>
+This information enables us to detect the recurrence of this fault.<lb/>
+The first time larvae are found in a house, the inhabitent is notified<lb/>
+by latter that if found a second time, he will be fined. Thanks<lb/>
+to be data given in the register, we are able to detect a second<lb/>
+offense, even if the inhabitant changes his dwelling place.<lb/>
+Besides, we make a report of the name of the inspector who finds<lb/>
+the larvae, which serves to stimulate him to do his utmost. This<lb/>
+destruction of the mosquito in the larvae state is extremely valu-<lb/>
+able, as it prevents the formation of the insect and frees us from<lb/>
+the diseases which it transmits.</p>
+<p>
+<table rows="11" cols="5">
+<row><cell>MONTH.</cell><cell>Number of House<lb/>Inspections</cell><cell>Number of<lb/>deposits of Water</cell><cell>Stegomia larvae.</cell><cell>Larvae of various<lb/>species of culex.</cell></row>
+<row><cell>------------</cell><cell>----------</cell><cell>----------</cell><cell>----------</cell><cell>----------</cell></row>
+<row><cell>April. . . . .</cell><cell>39,598</cell><cell>77</cell><cell>35</cell><cell>42</cell></row>
+<row><cell>May. . . . .</cell><cell>48,351</cell><cell>112</cell><cell>49</cell><cell>63</cell></row>
+<row><cell>June. . . . .</cell><cell>47,132</cell><cell>137</cell><cell>49</cell><cell>88</cell></row>
+<row><cell>July. . . . .</cell><cell>53,331</cell><cell>146</cell><cell>64</cell><cell>82</cell></row>
+<row><cell>August. . . .</cell><cell>46,337</cell><cell>119</cell><cell>81</cell><cell>38</cell></row>
+<row><cell>September. .</cell><cell>48,358</cell><cell>196</cell><cell>116</cell><cell>81</cell></row>
+<row><cell>October. . . .</cell><cell>51,381</cell><cell>278</cell><cell>176</cell><cell>102</cell></row>
+<row><cell></cell><cell>----------</cell><cell>----------</cell><cell>----------</cell><cell>----------</cell>
+</row>
+<row><cell></cell><cell>334,488</cell><cell>1065</cell><cell>569</cell><cell>496</cell></row>
+</table>
+</p>
+<p>The increase in stegomyiae is to be noted during the last<lb/>
+months, and according to our way of thinking, is to be expected<lb/>
+during the rainy periods during which persistent heavy show-<lb/>
+ers fall in Havana, when accidental water deposits form in the<lb/>
+patios, lots and flat roofs. In the immense majority of cases the<lb/>
+larvae have been found in box drains, barrels and other small<lb/>
+water deposits found in the interior of houses, and in objects<lb/>
+not made or intended to contain water, but which in an unfore-<lb/>
+<pb n="9" id="fKAGA0710"/>
+473<lb/>
+seen manner catch the rain. In reality there are no tanks in Hav-<lb/>
+ana that are not mosquito proof. One can be assured that all the<lb/>
+tanks, cisterns, water barrels, etc. have mosquito proof covers.<lb/>
+We have installed a very useful and practical service, viz: When<lb/>
+larvae are found in a water deposit that ought to have a mos-<lb/>
+quito proof cover, we send a carpenter and mechanic from this<lb/>
+office and they, with material obtained from the National San-<lb/>
+itary Department, cover the water deposit and charge the cost<lb/>
+to the owner at invoice price. Thanks to this service, the de-<lb/>
+posits requiring it, are covered the same day that they are dis-<lb/>
+covered. By much night work the inspectors make the special<lb/>
+inspection of caf&eacute;s, restaurants, lodging houses, etc. to ascertain<lb/>
+if they comply with the requirements of the Sanitary Ordinances<lb/>
+166 and 168 that require these places to keep the water closets,<lb/>
+etc., clean, well lighted and provided with special paper. Satur-<lb/>
+days are set aside for the re-inspections and special visits to the<lb/>
+hotels and lodging houses, to carefully petrolize the sanitary ap-<lb/>
+pliances to prevent mosquitoes breeding in these establishments.</p>
+<p>The section of Medical Inspectors which is charged among<lb/>
+other important duties, with the inspection, isolation and ob-<lb/>
+servation of those with transmisable diseases, the analysis of milk,<lb/>
+vaccine service and the inspection of food stuffs, also the in-<lb/>
+spection of schools and colleges, has performed, during the pe-<lb/>
+riod of its existence, the following work:</p>
+<p>From November 1st, 1907 to June 30th, 1908, 2723 special<lb/>
+inspections of the sick, 15,722 inspections of food stuffs, 13,117<lb/>
+analyses of milk and 26,583 general inspections, including vac-<lb/>
+cinating, inspection of non-immunes, inspection of children in<lb/>
+the schools, etc., and from July 1st, to October 30th, 1908 the<lb/>
+section has made 140 inspections of the sick, 9,946 inspections<lb/>
+of food stuffs, 9,550 analyses of milk and 12,976 vaccinations,<lb/>
+inspection of non-immunes, schools and licenses for factories,<lb/>
+shops, etc. The division of outside work which has charge of two<lb/>
+important services,--that of mosquitoes and that of disinfection,<lb/>
+--has rendered these services out of hours, without extra pay,<lb/>
+gladly and freely. The work performed by the mosquito service<lb/>
+from November 1st, 1907 to June 30th, 1908, is as follows:</p>
+<p>Destruction of 107,761 cans and other small water deposits<lb/>
+found in vacant lots and public lands, petrolization, sweeping<lb/>
+and cleaning 72,224 pools of water, rock quarries, ditches, ex-<lb/>
+cavations, pits, small lakes, fountains, wells and other places<lb/>
+<pb n="10" id="fKAGA0720"/>
+474<lb/>
+where stagnant water existed; and 189,105 meters of ditches<lb/>
+made, cleaned and graded. From July 1st. until October 25, 1908<lb/>
+this service performed the following work: Destruction and pe-<lb/>
+trolization of 549,345 cans and other receptacles, petrolization<lb/>
+of 95,659 tanks, quarries, ditches, etc., 70,814 meters of ditches<lb/>
+made and cleaned, and 166 vacant lots cleaned and cleared. By<lb/>
+the disinfection section there have been fumigated from Novem-<lb/>
+ber 1st, to June 30th, 1908, 1,032 houses with 10,453 rooms,<lb/>
+1,826 houses have been disinfected for special distinct diseases.<lb/>
+The service has cleaned 162 tenement houses, taking away 300<lb/>
+cart loads of trash; it has disinfected 1,584 pieces of clothing<lb/>
+and destroyed 2,947 pieces. From July 1st, to October 25th, 1908<lb/>
+there have been disinfected by this service, 855 houses with<lb/>
+1,623 rooms; it has fumigated 448 houses with 8,603 rooms; it<lb/>
+has cleaned 147 tenement houses with 2,952 rooms, taking away<lb/>
+from the interior of these houses 208 cart loads of trash. By the<lb/>
+disinfection plant, 2,052 pieces of clothings have been disinfect-<lb/>
+ed by steam, and 2,478 pieces destroyed by fire. It has disinfect-<lb/>
+ed 30 houses from which there have been funerals, and 493<lb/>
+hearses which have carried those who had died from transmiss-<lb/>
+able diseases.</p>
+<p>The section of sanitary engineering from November 1st,<lb/>
+1907 to June 30th, 1908, has transmitted 1,998 orders relative<lb/>
+to sanitary installations in the houses in Havana, and made<lb/>
+3,667 technical inspections, recommended the installation of san-<lb/>
+itary appliances in 1,455 houses, besides performing 1,350 items<lb/>
+relative to sanitary engineering. From July 1st, to October<lb/>
+30th, 1908, this section performed the following work: Transmit-<lb/>
+ted orders for 1,802 installations, 2,550 technical inspections, re-<lb/>
+commended the installation of 673 sanitary appliances in Hav-<lb/>
+ana, and 681 items relative to sanitary installations. By the sec-<lb/>
+tion of orders there have been dictated since November 1st. 1907<lb/>
+to June 30th, 1908, 27,905 orders for sanitary work in houses in<lb/>
+the capital. It has issued 157 orders for closing houses and pub-<lb/>
+lic establishments and transmitted 65,181 orders relative to all<lb/>
+sanitary ordinances. By this section, from July 1st, to October<lb/>
+1908 there has been performed the following: 11,388 orders<lb/>
+sent to house owners to perform certain sanitary work, 75 clos-<lb/>
+ing orders, 22,148 order relative to sanitary work.</p>
+<p>The sub-section of fines, organized in accordance with De-<lb/>
+cree 894, works, thanks to that Decree, in a harmonious and reg-<lb/>
+ular manner, giving practical and efficacious results. From<lb/>
+<pb n="11" id="fKAGA0730"/>
+475<lb/>
+November 1, 1907 to June 30, 1908, it has transmitted 6,17 or-<lb/>
+ders for fines, collected 533 fines, and in addition, performed<lb/>
+3,484 items such as giving warnings relative to fines, notices to<lb/>
+those fined, etc. From July 1st, to October 30th, 1908 the orders<lb/>
+for fines have amounted to 1,096, and there have been collected<lb/>
+698 fines and 4,513 notices to interested parties, court warn-<lb/>
+ings, etc.</p>
+<p>The sub-section of records of Havana has transmitted since<lb/>
+November 1st, 1907 to June 30th, 1908, 19,845 orders, classified<lb/>
+and filed 121,116 documents, given to the different sections of<lb/>
+this office 24,377 items of documentary information, and 174,727<lb/>
+items of a general nature. This sub-section has been in charge<lb/>
+of the registry of mosquito larvae.</p>
+<p>The sub-section of statistics of Havana has carefully pre-<lb/>
+pared the sanitary and demographic information of this office,<lb/>
+publishing it in the most attractive form. Besides the statistics<lb/>
+of deaths, births, still-births and marriages, this section has at-<lb/>
+tended to the registration of professions and to the special sec-<lb/>
+tion of yellow fever throughout the republic. From July 1, 1907<lb/>
+to June 30, 1908 and from July 1st, to September 30th, 1908,<lb/>
+the deaths in the City of Havana amounted to 7,593, during<lb/>
+the first period, 6,089, and during the months of July, August<lb/>
+and September, 1504.</p>
+<p>Among the transmissable diseases that have caused the<lb/>
+greatest number of deaths in the city from July 1, 1907 to Sep-<lb/>
+tember 30th, 1908, is tuberculosis, amounting to 1,457. Typhoid<lb/>
+fever during the same period occasioned eleven deaths, diph-<lb/>
+theria occasioned thirty-nine, and la grippe 381 deaths, cancer<lb/>
+during the same period occasioned 362 deaths, diseases of the<lb/>
+nervous system occasioned 696 deaths, those of the respiratory<lb/>
+apparatus 629, those of the circulatory apparatus 1,410, and<lb/>
+those of the digestive apparatus 1,388.</p>
+<p>Since July 1st, 1907 to September 30th, 1908 the births<lb/>
+amounted to 9,264, giving a balance in favor of the population<lb/>
+of 1,671. The marriages performed during the same time amount-<lb/>
+ed to 2,377. From July 1st, 1907 to September 30th, 1908, there<lb/>
+have been registered in the sub-section, 66 physicians and sur-<lb/>
+geons, 16 pharmacists, three dental surgeons, 34 midwives and<lb/>
+three veterinarians. It has legalized during this time 2,090 pro-<lb/>
+fessional signatures. In the &ldquo;Las Animas&rdquo; Hospital, where the<lb/>
+valuable public service of isolating cases of transmissable dis-<lb/>
+eases is performed, there have been treated from November 1st,<lb/>
+<pb n="12" id="fKAGA0740"/>
+476<lb/>
+1907 to June 30th, 1908, 156 sick; of these, 151 were cured and<lb/>
+five died. From July 1st, to October 23rd, 1908 there have been<lb/>
+treated 189 sick; of these, 184 were cured and five died. This<lb/>
+hospital has also rendered the valuable service of transporting<lb/>
+those with transmissable diseases, by means of its ambulance,<lb/>
+from the houses to the hospitals, and from the houses to itself,<lb/>
+or to another dwelling that was more hygienic. During the first<lb/>
+period 130 sick were removed, and during the second, 133 with<lb/>
+transmissable diseases.</p>
+<p>This office has tried to despatch with the greatest ceelrity,<lb/>
+the business with which it is charged, and to attend to the pub-<lb/>
+lic demands, deciding with justice and equity all complaints<lb/>
+and objections that have come before it. In the application of<lb/>
+the Sanitary Ordinances we have tried to proceed with the great-<lb/>
+est tact and discretion, in order not to incur by harshness the<lb/>
+public ill-will, or by showing weakness, destroy our prestige, to<lb/>
+the prejudice of the public health.</p>
+<p>At this point it is fitting that I express my gratitude to<lb/>
+Major J. R. Kean, Adviser to the National Sanitary Depart-<lb/>
+ment, and to Dr. E. B. Barnet, Chief of Office of the National<lb/>
+Sanitary Department, for their advice and teachings that have<lb/>
+been so useful and necessary for the proper discharge of my<lb/>
+duty.</p>
+<p>On reading the foregoing data relative to the work performed<lb/>
+by the different divisions and sections of this office, I can<lb/>
+appreciate the great amount of work done by each one of the<lb/>
+organizations. The quality of the labor speaks for itself in the<lb/>
+results obtained from the performance of the sanitary measures<lb/>
+with which this office is charged. It is certain to me that the<lb/>
+employees of this office are, to our good fortune and advantage,<lb/>
+imbued with the high mission of returning to their country, as<lb/>
+far as each can in his own sphere of action, the benefits that<lb/>
+follow good work. And the thought that should tend to raise<lb/>
+the esprit du corps and encourage the sanitary employees to<lb/>
+the highest discharge of their duties, is the satisfaction, intimate-<lb/>
+ly felt by every man, in knowing that by his efforts he is<lb/>
+contributing to the welfare of humanity. I would greatly desire<lb/>
+to mention in this report the names of every one of the employ-<lb/>
+ees of this office, since all have by their activity and good will<lb/>
+deserved to be publicly commended, but as it is impossible to<lb/>
+give such an extensive list, permit me to mention the Chiefs of<lb/>
+the Division of Sections, Dres. Gabriel Custodio, Manuel Mart&iacute;-<lb/>
+<pb n="13" id="fKAGA0750"/>
+477<lb/>
+nez Avalos, Ernesto de Arag&oacute;n, Juan B. Fuentes, Pablo J. Bar-<lb/>
+net and Messrs. Cristino F. Cowan, Gonzalo Iriarte, Jes&uacute;s Par-<lb/>
+di&ntilde;as and Alfredo Silveira, and these special inspectors, Drs.<lb/>
+Pe&ntilde;a, Delgado, Torralbas, Mendieta, Villuendas, Rodr&iacute;guez Alon-<lb/>
+so and Messrs. Saez Ya&ntilde;ez, also the officers that have distin-<lb/>
+guished themselves in the performance of their duties, Drs. Juan<lb/>
+M. Un&aacute;nue and Antonio Cueto and Messrs. Jos&eacute; G. Larrinaga,<lb/>
+Vespasiano Garz&oacute;n, Ignacio V&aacute;zquez, Rafael de Albear, Domin-<lb/>
+go Juncadella, Juan Lozada and Miguel Angel Tariche; these<lb/>
+are worthy of this testimonial of gratitude for the decided and<lb/>
+efficient cooperation that they have done in fulfillment of their<lb/>
+duties to this office.</p>
+<p>I remain, yours very respectfully,</p>
+<p>(Signed) DR. J. A. L&Oacute;PEZ DEL VALLE,<lb/>
+<hi rend="italic">Jefe Local de Sanidad de la Habana</hi>.</p>
+<pb n="14" id="fKAGA0760"/>
+<p><figure entity="fKAGA0760"></figure> Hospital at Cienfuegos.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

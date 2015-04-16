@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+
+<TEI.2 id="t01651001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Walter Reed to Emilie B. Lawrence, September 20, [1875?]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Walter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01651001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1875-09-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Lawrence, Emilie B.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship">YES</term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Lawrence, Emilie B.</name>
+<name type="person">Lassiter, Walter, Mr.</name>
+<name type="person">Byrne, Dr.</name>
+<name type="person">Heger, Dr.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>10 pp.</extent>
+<date value="1875-09-20">September 20, [1875?]</date>
+<idno rend="suppress">01651001</idno>
+<title>Letter from Walter Reed to Emilie B. Lawrence, September 20, [1875?]</title>
+</bibl>
+</head>
+<p>Reed teases Emilie Lawrence about writing.  He reiterates his devotion to her, and makes plans to visit her.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1875-09-20">
+<head>Letter from Walter Reed to Emilie B. Lawrence, September 20, [1875?]</head>
+<pb n="1" id="f01651001"/>
+<opener>
+<dateline>
+Willet's Point,<lb/>
+New York Harbor,<lb/>
+<date value="0000-09-20">September 20<hi rend="superscript">th</hi></date>
+</dateline>
+<salute>My darling, little Angel;</salute>
+</opener>
+<p>Again<lb/>
+am I the happy recipient of<lb/>
+a dear <hi>little</hi> letter from<lb/>
+your sweet self- I was<lb/>
+very much interested with<lb/>
+its news, (any event hap-<lb/>
+pening at Murfreesboro<lb/>
+is always doubly dear<lb/>
+to me,) and when I reached<lb/>
+its last sentence, I could<lb/>
+but smile- Perhaps, I should<lb/>
+have cried. And you should<lb/>
+<pb n="2" id="f01651002"/>
+be pleased to see me in<lb/>
+Murfreesboro, because you<lb/>
+are &ldquo;tired of writing letters&rdquo;?<lb/>
+<hi>You</hi> tired of writing, my dar-<lb/>
+ling? And so soon? And<lb/>
+<hi>all</hi> the Murfreesboro news<lb/>
+right at your pen's point?<lb/>
+Well a day! Then what shall<lb/>
+I, poor mortal, say? Just<lb/>
+think what your feelings<lb/>
+would be, if you had to write<lb/>
+twice the number that you now<lb/>
+write! Only <hi>one</hi> letter a<lb/>
+week! why I would toss that<lb/>
+off in the twinkling of an<lb/>
+eye, &amp; never feel the labor-<lb/>
+I have just been retrospec-<lb/>
+ting a little, since your letter<lb/>
+came, and I find that, since<lb/>
+my departure from Murfrees-<lb/>
+boro, I have written you<lb/>
+<pb n="3" id="f01651003"/>
+<hi>twenty-two</hi> letters (this one<lb/>
+included.) Now, at least,<lb/>
+eighteen of these have av-<lb/>
+eraged eight pages each, and<lb/>
+the remainder, at least, 4 pages;<lb/>
+making a <hi>grand</hi> total of<lb/>
+one hundred &amp; sixty (160) pa-<lb/>
+ges of, <hi>love</hi>, <hi>pure</hi> &amp; <hi>sub-<lb/>
+lime</hi>! The very thought of it<lb/>
+well-nigh overpowers me!<lb/>
+Was ever fond youth more<lb/>
+attentive? Could maiden<lb/>
+require more? Indeed, I<lb/>
+think that I may indulge<lb/>
+in a little flattery, and<lb/>
+call myself a <hi>model swain</hi>!<lb/>
+'Tis true that the said pages<lb/>
+contain nothing peculiarly<lb/>
+erudite, but still they were<lb/>
+the best the writer could<lb/>
+evolve <del>from</del> <add>out of</add> his concious-<lb/>
+<pb n="4" id="f01651004"/>
+ness, and they bore a more<lb/>
+creditable stamp than that<lb/>
+of <hi>erudition</hi>- to wit; that<lb/>
+of <hi>honesty</hi>. In fact, my dar-<lb/>
+ling little Emilie, I never<lb/>
+thought of making any dis-<lb/>
+play, but simply <add>tried</add> to convey<lb/>
+to you my thoughts in lan-<lb/>
+guage plain &amp; unembel-<lb/>
+ished- For I well knew that<lb/>
+you were not going to crit-<lb/>
+icise me. But I'll admit that<lb/>
+I possess one great advan-<lb/>
+tage over you -- pardon my<lb/>
+audacity of speech- It is<lb/>
+this -- whenever I am lack-<lb/>
+ing <hi>news</hi> to write, I just<lb/>
+throw in a little <hi>love</hi>, which<lb/>
+answers every purpose- Now<lb/>
+<hi>you</hi> can't do this! Why, you<lb/>
+shudder at the very idea<lb/>
+of it! Well, never mind- If<lb/>
+I have this advantage, you<lb/>
+<pb n="5" id="f01651005"/>
+regain it as soon as I am<lb/>
+with you, for it then be-<lb/>
+comes your turn to level<lb/>
+those dear little &ldquo;orbs&rdquo;<lb/>
+on me, &amp; oh! what sad<lb/>
+havoc thou makest with<lb/>
+my heart! A <hi>million</hi>, to-<lb/>
+night, for <hi>just one</hi> glance!<lb/>
+Now I know that your<lb/>
+perceptive faculties are<lb/>
+very acute, &amp; lest you may<lb/>
+miscontrue my words, I de-<lb/>
+sire to say, <hi>most emphat-<lb/>
+ically</hi>, that I do not indulge<lb/>
+in sentiment simply be-<lb/>
+cause I have nothing else<lb/>
+to write- Ah! no! it is my<lb/>
+heart that bids me do it-<lb/>
+It is the fountain over-<lb/>
+flowing, that cannot be<lb/>
+restrained! And <add>if</add> I <add>had</add> the<lb/>
+most exciting events to nar-<lb/>
+rate, I would toss them<lb/>
+<pb n="6" id="f01651006"/>
+aside, to tell you that <hi>I<lb/>
+love you</hi>. I sometimes won-<lb/>
+der, if it can be, that you<lb/>
+have grown weary of that<lb/>
+expression! Oh! I trust<lb/>
+not! How dearly I love<lb/>
+to write it! Yes! were this<lb/>
+continent one sheet of pa-<lb/>
+per, I could cover every inch<lb/>
+of it with those three words,<lb/>
+&ldquo;<hi>I love you</hi>&rdquo;! And yet, say<lb/>
+you, I may forget it all, and<lb/>
+find another? well, if this<lb/>
+be so, then we had better<lb/>
+give up life as a bitter<lb/>
+mockery &amp; say that its swee-<lb/>
+test &ldquo;fruits will turn to<lb/>
+ashes on our lips&rdquo;! If this<lb/>
+be so, I pronounce my whole<lb/>
+existence <del>as</del> a delusion &amp;<lb/>
+a sham! Emilie, darling,<lb/>
+<pb n="7" id="f01651007"/>
+do you know that I often<lb/>
+wonder what kind of mor-<lb/>
+tal you imagine me to be?<lb/>
+Even in your last letter, you<lb/>
+hinted at the changeable-<lb/>
+ness of men- You seem to<lb/>
+think that the experience of<lb/>
+the world tends to show that<lb/>
+they are only winning wom-<lb/>
+an's love, that they may, the<lb/>
+next moment, trample it un-<lb/>
+der foot- Admit, that this<lb/>
+is the rule; are there no hon-<lb/>
+est exceptions? Are all false?<lb/>
+With all my heart, &amp; in the<lb/>
+name of true manhood, (for<lb/>
+there <hi>is such a thing</hi>) I re-<lb/>
+pel the assertion that all<lb/>
+are false! It is only a<lb/>
+few dishonest ones who<lb/>
+bring discredit on all-<lb/>
+<pb n="8" id="f01651008"/>
+Oh! my darling, <hi>must I tell<lb/>
+you</hi>, that I have wept <hi>bit-<lb/>
+ter tears</hi> over your words!<lb/>
+Once or twice I have well-nigh<lb/>
+despaired of ever convin-<lb/>
+cing you of my sincerity<lb/>
+&amp; have been on the verge of<lb/>
+abandoning my life as<lb/>
+an utter failure! But then<lb/>
+better, nobler thoughts<lb/>
+have gained the ascendan-<lb/>
+cy, &amp; I have said; &ldquo;by Heaven's<lb/>
+help, I will struggle against<lb/>
+the tide; perhaps, she may<lb/>
+yet, learn <del>than</del> <add>to</add> believe me-<lb/>
+the sky is very dark, but oh!<lb/>
+is not my love sufficient<lb/>
+to sustain my resolutions till<lb/>
+the dawn appears? Yes, if<lb/>
+I can, some day, call her, <hi>mine<lb/>
+own</hi>, it will more than repay<lb/>
+me, for anything that I can now endure&rdquo;.<lb/>
+<pb n="9" id="f01651009"/>
+The announcement of Mr<lb/>
+Walter Lassiter's marriage<lb/>
+was a genuine astonish-<lb/>
+ment to me. And yet, when<lb/>
+I came to consider, I saw<lb/>
+nothing to be surprised at-<lb/>
+&ldquo;They loved&rdquo; -- That explains<lb/>
+it all- 'Tis <hi>you</hi>, my little &ldquo;B.&rdquo;,<lb/>
+that ought to be astonished.<lb/>
+One of these days there will<lb/>
+<add>be</add> another &ldquo;Walter&rdquo; married --<lb/>
+Modesty forbids me <add>to</add> tell<del>ing</del><lb/>
+to <hi>whom</hi>- One year from<lb/>
+this time, I trust that happy<lb/>
+event will occur- I am<lb/>
+coming on very soon to<lb/>
+make all necessary ar-<lb/>
+rangements- By the way,<lb/>
+I cannot say exactly when<lb/>
+I shall appear in Mur-<lb/>
+freesboro- Dr Byrne has<lb/>
+been ordered to Texas<lb/>
+<pb n="10" id="f01651010"/>
+and will leave for that des-<lb/>
+tination, next Thursday or<lb/>
+Friday. Dr Heger, who has<lb/>
+been ordered from St. Paul<lb/>
+Minnesota to this Post, has<lb/>
+not yet arrived- He will<lb/>
+probably report here by<lb/>
+Octr 1<hi rend="superscript">st</hi> or soon thereafter.<lb/>
+If so, I shall start about<lb/>
+Monday, the 11<hi rend="superscript">th</hi> of Octr- of<lb/>
+course, I can't state posi-<lb/>
+tively just when I shall<lb/>
+come, but I do not think that<lb/>
+many weeks will elapse be-<lb/>
+fore I shall have the fe-<lb/>
+licity of shaking your<lb/>
+dear little hand-</p>
+<p>Till that time, believe<lb/>
+me, as ever,</p>
+<closer>
+<salute>Your fond &amp; devoted</salute>
+<signed>Walter</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

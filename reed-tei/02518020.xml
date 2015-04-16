@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02518020">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from Valery Havard to the Adjutant General, August 12, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Havard, Valery</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02518020</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-08-12</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Scott, Hugh L.</name>
+<name type="person">Caldas, Philippi</name>
+<name type="person">Bellingaghi, Angel</name>
+<name type="place">Havana (Cuba)</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1901-08-12">August 12, 1901</date>
+<idno rend="suppress">02518020</idno>
+<title>Report from Valery Havard to the Adjutant General, August 12, 1901</title>
+</bibl>
+</head>
+<p>Havard reports on the claims of Caldas and Bellingaghi that they discovered a preventative and curative serum for yellow fever. Havard is skeptical because Caldas does not provide any information regarding his process of isolation and culture. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1901-08-12">
+<head>Report from Valery Havard to the Adjutant General, August 12, 1901</head>
+<pb n="1" id="f02518020"/>
+<opener>
+File under Caldas &amp; Bellingaghi<lb/>
+L.S. 221. S.<lb/>
+HEADQUARTERS<lb/>
+DEPARTMENT OF CUBA<lb/>
+OFFICE OF CHIEF SURGEON,<lb/>
+HAVANA.<lb/>
+<dateline>
+<date value="1901-08-12">August 12th., 1901.</date>
+</dateline><lb/>
+The Adjutant General,<lb/>
+Department of Cuba,<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>I have the honor to report that the medical commission<lb/>
+detailed by Circular Letter No. 59 Headquarters Department of<lb/>
+Cuba, 1901, met at four o'clock p.m. August 5, 1901, at Las Animas<lb/>
+Hospital, and proceeded to examine into the alleged discoveries,<lb/>
+propositions and claims of Drs. Caldas and Bellinzaghi. These<lb/>
+gentlemen, being both present, submitted papers and testimonials<lb/>
+establishing their professional standing as physicians and<lb/>
+bacteriologists. Dr. Caldas then stated that he had discovered<lb/>
+the causative microbe of yellow fever and prepared therefrom<lb/>
+preventive and curative serums. For special reasons, Dr. Caldas<lb/>
+is not willing at this time to exhibit his microbe and dis-<lb/>
+close his process of isolation and culture, but desires to<lb/>
+demonstrate the efficacy of his preventive serum, and in that<lb/>
+indirect way prove that his microbe is really the cause of<lb/>
+yellow fever. These gentlemen then submitted the following<lb/>
+proposition to the board: That they be allowed to inoculate<lb/>
+a certain number of volunteer non-immunes with their preven-<lb/>
+tive serum, and then that these non-immunes be infected with<lb/>
+the yellow fever germ, either by mosquitoe bites or direct<lb/>
+blood injections. They contend that all non-immunes thus<lb/>
+inoculated, or vaccinated, cannot contract yellow fever and will<lb/>
+remain completely immunized for at least several years.</p>
+<p>After careful consideration of the subject the board care<lb/>
+<pb n="2" id="f02518021"/>
+2<lb/>
+to the conclusion that, on account of the refusal of Dr Caldas<lb/>
+to demonstrate his microbe, and thus put his claim upon an<lb/>
+entirely scientific basis, it is unable to recommend an active<lb/>
+participation and cooperation in the testing of Dr Caldas'<lb/>
+preventive serum. The board however sees no objection to fur<lb/>
+-nish him and his colleague the opportunity and every reason-<lb/>
+able facility to carry on their experiments, to supervise them<lb/>
+and then officially report upon them. For this purpose, the<lb/>
+board respectfully recommends that a sum, not to exceed $400.,<lb/>
+be authorized to be expended if, in its opinion, the interest<lb/>
+of science and of this island appear to justify such expendi-<lb/>
+ture.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>V. Havard</signed>
+Major Surg. U.S.A.<lb/>
+Chief Surgeon<lb/>
+<pb n="3" id="f02518022"/>
+<seg>No.<lb/>
+3467<lb/>
+<lb/>
+CIVIL DIVISION<lb/>
+DEPARTMENT OF CUBA<lb/>
+Rec'd 8-13 1901.<lb/>
+<lb/>
+Headquarters Department of Cuba,<lb/>
+Received AUG 13 1901<lb/>
+<lb/>
+<hi>T</hi>
+Havana, Cuba,<lb/>
+August 12th, 1901.<lb/>
+<lb/>
+The Chief Surgeon,<lb/>
+Department of Cuba.<lb/>
+<lb/>
+HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+OFFICE OF THE CHIEF SURGEON.<lb/>
+<lb/>
+K<lb/>
+<hi>RECEIVED BACK. AUG 17 1901 1843</hi><lb/>
+<lb/>
+States the medical commission<lb/>
+appointed to examine into the<lb/>
+claims of Drs. Caldas and Bell-<lb/>
+inzaghi has met and considered<lb/>
+the papers, etc. submitted by<lb/>
+the two gentlemen. As Dr. Cal-<lb/>
+das refuses at this time to ex-<lb/>
+hibit his microbe, etc., the<lb/>
+board is unable to recommend ac-<lb/>
+tive cooperation, but does rec-<lb/>
+ommend an appn. of $400.00 to be<lb/>
+expended by the Board if it sees<lb/>
+any utility therein.<lb/>
+<lb/>
+<unclear>OK</unclear><lb/>
+<unclear>2 div.</unclear><lb/>
+&check;<lb/>
+3467<lb/>
+<lb/>
+M-H<lb/>
+<lb/>
+1st Endorsement.<lb/>
+HEADQUARTERS DEPARTMENT OF CUBA.<lb/>
+Havana, August 15, 1901.<lb/>
+<lb/>
+Respectfully returned to the<lb/>
+Chief Surgeon, Department of<lb/>
+Cuba, approved as recommended<lb/>
+by him.<lb/>
+<lb/>
+By direction of the<lb/>
+Military Governor:<lb/>
+<unclear>H. L.</unclear> Scott<lb/>
+Adjutant General.<lb/>
+<unclear>2b.</unclear><lb/>
+--------------------<lb/>
+<lb/>
+2nd Endorsement.<lb/>
+HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+Office of the Chief Surgeon,<lb/>
+Havana, September 6, 1901.<lb/>
+<lb/>
+Respectfully returned to the<lb/>
+ADJUTANT GENERAL of the Department,<lb/>
+with the information that the medical<lb/>
+commission detailed by Circular Letter<lb/>
+No. 59, these Headquarters, 1901, has con-<lb/>
+cluded its work, and expended none of<lb/>
+the money ($400.00) authoriged by 1st<lb/>
+Endorsement.<lb/>
+<lb/>
+Headquarters Department of Cuba,<lb/>
+<unclear>Rec'd SEP 7 1901</unclear><lb/>
+V. Havard<lb/>
+Major, Surgeon, U.S. Army,<lb/>
+Chief Surgeon.<lb/>
+<unclear>1.2</unclear><lb/>
+k.</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

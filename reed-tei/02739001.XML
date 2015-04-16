@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02739001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Article: Report of the Surgeon General to the Secretary of War, by Robert M. O'Reilly, June 30, 1904</title>
+<title type="gmd">[electronic resource]</title>
+<author>O'Reilly, Robert M.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02739001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1904-06-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Secretary of War</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Carroll, James</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Texas</name>
+<name type="place">Mexico</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>8 pp.</extent>
+<date value="1904-06-30">June 30, 1904</date>
+<idno rend="suppress">02739001</idno>
+<title>Article: Report of the Surgeon General to the Secretary of War, by Robert M. O'Reilly, June 30, 1904</title>
+</bibl>
+</head>
+<p>O'Reilly reports on the cases of yellow fever in the Army, and is concerned about the transmission of the disease from Mexico into Texas.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1904-06-30">
+<head>Article: Report of the Surgeon General to the Secretary of War, by Robert M. O'Reilly, June 30, 1904</head>
+<pb n="1" id="f02739001"/>
+<p>Hon. ELIHU ROOT,<lb/>
+<hi rend="italic">Secretary of War</hi>.</p>
+<p>R. M. O'REILLY,<lb/>
+<hi rend="italic">Surgeon-General, U. S. Army</hi>.</p>
+<p>REPORT<lb/>
+OF THE<lb/>
+SURGEON-GENERAL OF THE ARMY<lb/>
+TO THE<lb/>
+SECRETARY OF WAR<lb/>
+FOR THE<lb/>
+FISCAL YEAR ENDING JUNE 30, 1904.</p>
+<p><unclear>-----[unclear]-----</unclear></p>
+<p>WASHINGTON:<lb/>
+GOVERNMENT PRINTING OFFICE.<lb/>
+1904.</p>
+<pb n="2" id="f02739002"/>
+<p>60<lb/>
+REPORT OF THE SURGEON-GENERAL OF THE ARMY.</p>
+<p>among the 42,264 troops stationed in the United States, which gave<lb/>
+an admission rate of 0.26 per thousand of mean strength.</p>
+<p>MEASLES.</p>
+<p>A large decrease in measles in the Army over the previous year was<lb/>
+reported in 1903, the cases being equivalent to 6.79 patients in every<lb/>
+thousand of mean strength. White troops had 455 cases with an<lb/>
+admission rate of 7.63; colored 1 case with rate of 0.31, and Filipinos 3<lb/>
+cases with admission rate of 0.63 per thousand. In Cuba and Porto<lb/>
+Rico 1 case with admission rate of 0.64 was reported. Pacific Islands<lb/>
+and China had 40 cases, equivalent to a rate of 1.68 and in the United<lb/>
+States there occurred 418 cases, giving a rate of 9.89 per thousand of<lb/>
+mean strength. No death or discharge resulted from measles in the<lb/>
+Army during the calendar year 1903.</p>
+<p>MUMPS.</p>
+<p>This disease furnished 492 admissions to sick report, equivalent to<lb/>
+7.27 cases per thousand of strength, a considerable decrease over the<lb/>
+preceding year. No fatality or discharge for disability resulted.<lb/>
+The admission rate in the United States was 9.49 per thousand, while<lb/>
+for the previous year a rate of 17.26 was recorded. The decrease in<lb/>
+the rate of admission in the Pacific Islands and China over last year<lb/>
+was marked, being only 3.32 per thousand of strength, while from<lb/>
+Cuba and Porto Rico a total of 12 cases was reported.</p>
+<p>SMALLPOX.</p>
+<p>In the Army as a whole 39 cases and 3 deaths were reported, with<lb/>
+rates of 0.58 and 0.04, respectively, per thousand of strength. Twenty-<lb/>
+seven cases, equivalent to 1.13, and 3 deaths, equivalent to 0.13 per<lb/>
+thousand, occurred in the Pacific Islands and China, while for troops<lb/>
+serving in the United States an admission rate of 0.28 per thousand of<lb/>
+mean strength was recorded. The mortality from this disease con-<lb/>
+tinues to decrease, the death rate for the previous year being 0.17 per<lb/>
+thousand of strength. No case of smallpox was reported from either<lb/>
+Cuba or Porto Rico.</p>
+<p>INFLUENZA.</p>
+<p>Of this disease 2,330 cases were reported from the Army, equiva-<lb/>
+lent to 34.45 cases per thousand of strength, which shows a decided<lb/>
+increase over last year, when the admission rate was but 12.97 per<lb/>
+thousand. Of the total number of cases 2,192 occurred in the United<lb/>
+States, equal to a rate of 51.86 per thousand; 104, equivalent to a rate<lb/>
+of 66.62, in Cuba and Porto Rico, and 34 cases, with a rate of 1.43 per<lb/>
+thousand, occurred in the Pacific Islands and China.</p>
+<p>DENGUE.</p>
+<p>Dengue gave quite a large admission rate in the Pacific Islands and<lb/>
+China, where 2,450 cases were admitted to sick report, equivalent to a<lb/>
+rate of 102.86 per thousand. No fatality was reported from this large<lb/>
+number of cases. The rates of admission reported for the troops serv-<lb/>
+ing in the United States and Cuba and Porto Rico were 0.21 and 2.56,<lb/>
+respectively.</p>
+<pb n="3" id="f02739003"/>
+<p>REPORT OF THE SURGEON-GENERAL OF THE ARMY.<lb/>
+61</p>
+<p>YELLOW FEVER.</p>
+<p>Yellow fever appeared in two posts during the year 1903, though not<lb/>
+a single death was due to this disease. The total number of cases was<lb/>
+but 6, of which 5 occurred at Fort McIntosh, Tex., and 1 at Fort Sam<lb/>
+Houston, Tex.</p>
+<p>The original source of the infection of Texas was from the Mexican<lb/>
+Gulf coast. Monterey, Mexico, suffered from an extensive epidemic<lb/>
+of the disease, and was apparently responsible for the contamination<lb/>
+of Laredo through the agency of persons sick with yellow fever who<lb/>
+infected the numerous normal stegomyia existing at that town and in<lb/>
+its vicinity. The exact date when the disease invaded Texas is<lb/>
+unknown, though there is reliable evidence to show the existence of a<lb/>
+short active fever at both Nuevo Laredo, Mexico, and Laredo, Tex.,<lb/>
+as early as May 13, 1903, attacks of which conferred immunity against<lb/>
+yellow fever later in the year. Incidentally it is interesting to note<lb/>
+that those persons who had suffered from the so-called dengue fever<lb/>
+at Laredo within the past nineteen years were also exempt from yellow<lb/>
+fever during its epidemic prevalence.</p>
+<p>On the approach of summer a sanitary circular, Circular No. 9,<lb/>
+Headquarters Department of Texas, calling attention to the various<lb/>
+diseases conveyed by flies and mosquitoes, with the methods for their<lb/>
+prevention, was issued by department headquarters on recommenda-<lb/>
+tion of the chief surgeon. In August rumors of yellow fever in<lb/>
+Mexico became so insistent that further action for the protection of<lb/>
+the border posts seemed necessary to Maj. Charles F. Mason, surgeon,<lb/>
+U. S. Army, acting chief surgeon Department of Texas, and the<lb/>
+following circulars were issued on his recommendation:</p>
+<p>CIRCULAR }<lb/>
+No. 15. }</p>
+<p>HEADQUARTERS DEPARTMENT OF TEXAS,<lb/>
+<hi rend="italic">San Antonio, Tex., August 17, 1903</hi>.</p>
+<p>The following communication is published for the information of this command,<lb/>
+and post commanders are directed to carry out in detail the recommendations con-<lb/>
+tained therein.</p>
+<p>By command of Brigadier-General Grant:</p>
+<p>S. W. TAYLOR,<lb/>
+<hi rend="italic">Lieutenant-Colonel, Artillery Corps, Acting Adjutant-General</hi>.</p>
+<p>HEADQUARTERS DEPARTMENT OF TEXAS,<lb/>
+CHIEF SURGEON'S OFFICE,<lb/>
+<hi rend="italic">San Antonio, Tex., August 15, 1903</hi>.</p>
+<p>SIR: In view of the appearance of yellow fever at various towns in Mexico, and the<lb/>
+possibility of its spread across the border into Texas, I have the honor to recommend<lb/>
+that the attention of post commanders be called to the importance of giving their<lb/>
+personal attention to the carrying out in detail of the recommendations now and<lb/>
+heretofore made with a view to the suppression of insect-borne diseases.</p>
+<p>Conclusive evidence has shown that yellow fever is always and only conveyed by<lb/>
+the bite of a particular mosquito (<hi rend="italic">Stegomyia fasciata</hi>), and that measures of preven-<lb/>
+tion should be directed to the destruction of mosquitoes, and to the prevention of<lb/>
+infection of the mosquitoes by protecting yellow-fever cases from access by them. It<lb/>
+must be remembered that the mosquito is not dangerous until she has herself been<lb/>
+infected by sucking the blood of a yellow-fever patient. The danger lies in the early<lb/>
+unrecognized cases which infect the mosquitoes in their vicinity.</p>
+<p>As most of our posts are near communities over which we have no control, our<lb/>
+only protection is vigilance and an incessant warfare against mosquitoes. Attention<lb/>
+in this connection is invited to letter from this office, dated April 9, 1903, and pub-<lb/>
+lished in Circular No. 9, from your-office, dated April 13, 1903.</p>
+<pb n="4" id="f02739004"/>
+<p>62<lb/>
+REPORT OF THE SURGEON-GENERAL OF THE ARMY.</p>
+<p>I recommend that the work of screening all barracks and quarters, manholes,<lb/>
+ventilator openings, barrels, etc., containing standing water, be pushed vigorously,<lb/>
+and post commanders be required to report progress and completion of the work,<lb/>
+and whether it has been done in such a manner as to be thoroughly effective.</p>
+<p>That all occupants of quarters and all organization commanders be held strictly<lb/>
+accountable for the proper use of screens and for the protection of all standing water<lb/>
+on their premises.</p>
+<p>That the police officers of each post be held personally responsible for the proper<lb/>
+draining, filling, or protection by oiling of all accumulation of water outside of<lb/>
+premises, for the removal of all possible receptacles, such as old cans, crockery, etc.,<lb/>
+and the proper condition of surface drainage, etc.</p>
+<p>That the senior medical officer at each post keep himself in touch with the local<lb/>
+health authorities, keep himself posted as to the prevailing diseases in his locality,<lb/>
+and endeavor to secure cooperation in carrying out these measures in adjacent civil<lb/>
+communities.</p>
+<p>Should yellow fever develop in the adjacent communities, soldiers and their<lb/>
+families and officers' servants should not be allowed to visit the towns, nor should<lb/>
+officers and their families be allowed to do so except on business. Ordinary busi-<lb/>
+ness communication may go on, but no visitors should be received in any occupied<lb/>
+houses.</p>
+<p>Two mosquito-proof rooms with wire-gauze ceiling, seven feet from the floor,<lb/>
+should be prepared at or near the hospital, the one for the reception of suspicious<lb/>
+cases and the other for the treatment of yellow-fever cases.</p>
+<p>Very respectfully,</p>
+<p>CHAS. F. MASON,<lb/>
+<hi rend="italic">Major, Surgeon, U. S. Army, Acting Chief Surgeon</hi>.</p>
+<p>The ADJUTANT-GENERAL, DEPARTMENT OF TEXAS.</p>
+<p>CIRCULAR }<lb/>
+No. 17. }</p>
+<p>HEADQUARTERS DEPARTMENT OF TEXAS,<lb/>
+<hi rend="italic">San Antonio, Tex., September 4, 1903</hi>.</p>
+<p>The following communication is published for the information of this command.<lb/>
+Surgeons of posts are directed to carry out in detail the recommendations contained<lb/>
+therein.</p>
+<p>By command of Brigadier-General Grant:</p>
+<p>S. W. TAYLOR,<lb/>
+<hi rend="italic">Lieutenant-Colonel, Artillery Corps, Adjutant-General</hi>.</p>
+<p>HEADQUARTERS DEPARTMENT OF TEXAS,<lb/>
+CHIEF SURGEON'S OFFICE,<lb/>
+<hi rend="italic">San Antonio, Tex., September 3, 1903</hi>.</p>
+<p>SIR: In view of the possibility of yellow fever crossing the border from Mexico, I<lb/>
+have the honor to recommend that surgeons be directed to exercise vigilance in<lb/>
+protecting their commands from infection, and to be prepared to stamp it out<lb/>
+promptly should it occur.</p>
+<p>All suspicious cases of fever should be confined in the &ldquo;suspicion ward,&rdquo; their<lb/>
+pulse and temperature taken every four hours, and urine examined twice daily.</p>
+<p>Should an undoubted case occur the patient should be removed to the &ldquo;yellow-<lb/>
+fever ward,&rdquo; the house occupied by him emptied and every room in it carefully fumi-<lb/>
+gated, after closing it tight and pasting up all cracks and openings. Adjoining houses<lb/>
+on both sides are then fumigated in the same way.</p>
+<p>To kill the infected mosquitoes by fumigation, sulphur, 4 pounds per 1,000 cubic feet<lb/>
+of air space, or pyrethrum, 1 pound per 1,000 cubic feet, should be burned; as some<lb/>
+mosquitoes will recover after the use of pyrethrum, the room should be opened after<lb/>
+three hours and the stupefied insects swept up and burned.</p>
+<p>Surgeons who have not a sufficient supply of sulphur on hand should make imme-<lb/>
+diate requisition for it.</p>
+<p>Should wire screens not be provided in time, mosquito netting should be used in<lb/>
+screening.</p>
+<p>Attention of surgeons should be invited to paragraph 166, Manual for the Medical<lb/>
+Department, 1902; to Circulars 9 and 15, current series, Headquarters Department<lb/>
+of Texas; to &ldquo;Mosquito work in Havana&rdquo; (Gorgas), Medical Record, July 19, 1902,<lb/>
+and to Circular No. 5, 1901, headquarters Department of Cuba, as published in<lb/>
+Report of the Surgeon-General of the Army, 1901.</p>
+<pb n="5" id="f02739005"/>
+<p>REPORT OF THE SURGEON-GENERAL OF THE ARMY.<lb/>
+63</p>
+<p>The report called for in paragraph 166, Manual for the Medical Department, should<lb/>
+be made by telegram.</p>
+<p>Very respectfully,</p>
+<p>CHAS. F. MASON,<lb/>
+<hi rend="italic">Major, Surgeon, U. S. Army., Acting Chief Surgeon</hi>.</p>
+<p>The ADJUTANT-GENERAL, DEPARTMENT OF TEXAS.</p>
+<p>On September 15, in response to a telegram from the surgeon at<lb/>
+Fort McIntosh informing department headquarters of the presence of<lb/>
+yellow fever at Nuevo Laredo, Mexico, just across the Rio Grande<lb/>
+from that post, Major Mason visited Laredo and satisfied himself of<lb/>
+the existence of yellow fever in Nuevo Laredo, although the presence<lb/>
+of the disease was denied by the Mexican authorities, who called the<lb/>
+prevailing fever dengue. At that time, according to the local health<lb/>
+authorities, neither yellow fever nor dengue existed in Laredo, Tex.,<lb/>
+though it is now known that they were mistaken in regard to the<lb/>
+former disease.</p>
+<p>Upon the discovery of yellow fever at Nuevo Laredo, Fort McIntosh<lb/>
+was at once quarantined against both Laredos, as directed in Circulars<lb/>
+15 and 17, Headquarters Department of Texas. On September 25<lb/>
+yellow fever was officially reported at Laredo, Tex. The following<lb/>
+tables give the yellow-fever cases and a record of the temperature at<lb/>
+Laredo from that date to November 30, 1903, when the epidemic was<lb/>
+considered closed:</p>
+<p><hi rend="italic">Numerical report of yellow-fever cases and a record of the temperature at Laredo, Tex.,<lb/>
+from September 25 to November 30, 1903</hi>.</p>
+<p>
+<table rows="9" cols="6">
+<row>
+<cell rows="1-3"></cell><cell rows="1-3">Yellow-<lb/>fever<lb/>cases.</cell><cell rows="1-3">Deaths.</cell><cell rows="1-3">Foci.</cell><cell cols="5-6">Record of temperature.</cell>
+</row>
+<row>
+<cell>-----</cell><cell>-----</cell>
+</row>
+<row>
+<cell>Mean max-<lb/>imum.</cell><cell>Mean mini-<lb/>mum.</cell>
+</row>
+<row>
+<cell>----------------------------------------</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell>
+</row>
+<row>
+<cell>September ......................................</cell><cell>32</cell><cell>1</cell><cell>26</cell><cell>80.6</cell><cell>70</cell>
+</row>
+<row>
+<cell>October ........................................</cell><cell>571</cell><cell>51</cell><cell>491</cell><cell>85.9</cell><cell>59</cell>
+</row>
+<row>
+<cell>November ......................................</cell><cell>448</cell><cell>51</cell><cell>404</cell><cell>76</cell><cell>50.2</cell>
+</row>
+<row>
+<cell></cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell>
+</row>
+<row>
+<cell>Total .....................................</cell><cell>1,051</cell><cell>103</cell><cell>921</cell><cell>80.8</cell><cell>59.6</cell>
+</row>
+</table>
+</p>
+<p>
+<table rows="6" cols="4">
+<row><cell></cell><cell>Cases.</cell><cell>Deaths.</cell><cell>Per cent.</cell></row>
+<row><cell>--------------------------------------------------</cell><cell>------</cell><cell>--------</cell><cell>------</cell></row>
+<row><cell>American ................................................................</cell><cell>359</cell><cell>8</cell><cell>2.22</cell></row>
+<row><cell>Mexican .................................................................</cell><cell>692</cell><cell>95</cell><cell>13.72</cell></row>
+<row><cell></cell><cell>-----</cell><cell>-----</cell><cell>-----</cell></row>
+<row><cell>Both nationalities ......................................</cell><cell>1,051</cell><cell>103</cell><cell>9.8</cell></row>
+</table>
+</p>
+<p>In December, 1903, 26 more cases occurred, with 4 deaths, thus mak-<lb/>
+ing the total number of cases for the year 1,077, of which 107 were<lb/>
+fatal. One nonfatal case was also reported on January 2, 1904.</p>
+<p>The methods adopted to prevent the spread of the disease in Laredo<lb/>
+were based on those so successfully executed in Havana by Col.<lb/>
+William C. Gorgas, assistant surgeon-general, U. S. Army. This was<lb/>
+done under the direction of the Public Health and Marine-Hospital<lb/>
+Service, which cooperated with the State health officer. Dr. George R.<lb/>
+Taber. By the former mosquito nets were furnished and houses<lb/>
+screened, houses were fumigated with sulphur for the destruction of<lb/>
+mosquitoes, water containers were carefully inspected for the exist-<lb/>
+ence of larvae and were oiled with crude petroleum, and all houses and<lb/>
+premises were thoroughly inspected. The latter compelled the inhab-<lb/>
+itants to strictly observe all of the sanitary rules concerning the<lb/>
+destruction of mosquitoes and their larvae and the early report of all<lb/>
+<pb n="6" id="f02739006"/>
+64<lb/>
+REPORT OF THE SURGEON-GENERAL OF THE ARMY.<lb/>
+fever cases by the physicians in attendance. No hospital was estab-<lb/>
+lished by either State or Federal authority, and as the city of Laredo<lb/>
+had but two free beds in a hospital, with very few exceptions all<lb/>
+cases were treated in private residences. Under these conditions and<lb/>
+because of the superstition and ignorance of the Mexican population<lb/>
+much difficulty was encountered in preventing the spread of the<lb/>
+disease.</p>
+<p>During the epidemic at Laredo Dr. R. P. Ames, contract surgeon,<lb/>
+U. S. Army, was in direct charge of the sanitation of Fort McIntosh,<lb/>
+and is entitled to much credit for his careful management of the situa-<lb/>
+tion in a manner which not only protected the post but at the same<lb/>
+time interfered to the least possible limit with the routine of its<lb/>
+garrison.</p>
+<p>In the latter connection it should be mentioned that soldiers and<lb/>
+others were by no means absolutely debarred from visiting Laredo,<lb/>
+but went into its worst infected district, both by day and night, so long<lb/>
+as they wore head nets, gauntlets, and leggings to protect them from<lb/>
+the bites of mosquitoes. On account of the nearness of the town to<lb/>
+the post, the same equipment was provided for sentries while walking<lb/>
+post.</p>
+<p>During the epidemic a detention camp was established at Fort<lb/>
+McIntosh, from which fifty discharged soldiers, after inspection by the<lb/>
+local health officer, were allowed to depart for their homes.</p>
+<p>The date on which the first person was attacked by yellow fever in<lb/>
+San Antonio can not be determined. Major Mason reports that he<lb/>
+was unable to satisfy himself of the actual existence of the disease in<lb/>
+that city until the 20th of October, on which date department head-<lb/>
+quarters and Fort Sam Houston were quarantined in accordance with<lb/>
+his recommendation.</p>
+<p>This quarantine, which was an absolute one, was maintained until<lb/>
+November 19. There then having been no case reported for ten days<lb/>
+and the weather being very cold, ice forming for two successive nights,<lb/>
+the quarantine was raised from 6 a. m. to 6 p. m. daily, on the promise<lb/>
+of the physicians of the advisory committee that the Havana method<lb/>
+would be followed.</p>
+<p>The measures taken for the protection of troops in the Department<lb/>
+of Texas have been based entirely upon the mosquito law of trans-<lb/>
+mission, and have been eminently successful. The posts of Forts Sam<lb/>
+Houston and McIntosh are situated within the corporate limits of San<lb/>
+Antonio and Laredo, respectively, and are surrounded on four sides by<lb/>
+those cities. At Fort Sam Houston, notwithstanding the numerous<lb/>
+cases of yellow fever in San Antonio, but one case of this disease was<lb/>
+contracted, this being before the quarantine, the patient having taken<lb/>
+to his bed the day following. In Laredo, with its 1,078 cases, there<lb/>
+were but five cases in the post, and in each instance the soldier had<lb/>
+visited an infected house without the head net, gauntlets, and leggings<lb/>
+prescribed by order. No secondary cases developed in either post.</p>
+<p>On the termination of the Texas epidemic the acting chief surgeon of<lb/>
+that department submitted a report from which the following extract<lb/>
+is taken:</p>
+<p>The posts in the department are practically safe until next spring, when danger is<lb/>
+to be apprehended from recurrence at Laredo and San Antonio, and from new invasion<lb/>
+at Forts Brown, Ringgold, and Eagle Pass. Mexico is undoubtedly widely infected,<lb/>
+and, as far as can be learned, proper methods are not being taken to control the dis-<lb/>
+ease there.</p>
+<pb n="7" id="f02739007"/>
+<p>REPORT OF THE SURGEON-GENERAL OF THE ARMY.<lb/>
+65</p>
+<p>New railroads, which are expected to be completed into Brownsville, Tex., early<lb/>
+next spring, will place Forts Brown and Ringgold in direct railroad communication<lb/>
+with Tampico and Linares, both badly infected points in Mexico. The situation<lb/>
+would seem to demand that steps be taken for an international arrangement to pro-<lb/>
+tect this country now seriously threatened from Mexico.</p>
+<p>All the posts in this department have been thoroughly screened, and at each one<lb/>
+an active campaign has been instituted to leave no place where it would be possible<lb/>
+for mosquitoes to breed.</p>
+<p>In March, 1904, in order that a timely and united effort might be<lb/>
+made for the destruction of mosquitoes at all Texas posts, an additional<lb/>
+circular was published as follows:</p>
+<p>CIRCULAR. ]</p>
+<p>HEADQUARTERS DEPARTMENT OF TEXAS,<lb/>
+<hi rend="italic">San Antonio, Tex., March 24, 1904</hi>.</p>
+<p>Upon recommendation of the chief surgeon of the department, the following is<lb/>
+published for the information and guidance of all concerned:</p>
+<p>Each householder, organization commander, and responsible officer will be held<lb/>
+strictly accountable for any mosquito-breeding places found on the premises under<lb/>
+his charge and for any violation of these rules.</p>
+<p>Yellow fever and malarial fever are conveyed always and only by the bite of the<lb/>
+mosquito. The mosquitoes found about a house are pretty sure to have been bred on<lb/>
+the premises.</p>
+<p>Mosquitoes breed only in standing water, the smallest collection being sufficient<lb/>
+for the purpose. The eggs, laid on the surface of the water, hatch out the larvae or<lb/>
+&ldquo;wigglers&rdquo; in about twenty-four hours, and these develop into pupae in five or six<lb/>
+days, and in a day or two more into the full-fledged mosquito, the entire process from<lb/>
+egg to mosquito requiring only a week or ten days.</p>
+<p>The wigglers come to the surface of the water to breathe every few minutes, but<lb/>
+if the surface of the water is covered with a film of petroleum, they are unable to<lb/>
+breathe through it, and are killed, hence the following rules:</p>
+<p>1. Examine every part of your premises for standing water at least twice a week,<lb/>
+and get rid of it as far as possible. Pay especial attention to leaking hydrants, ice-<lb/>
+box overflows, watering troughs, fire buckets, old barrels, cellars, unused water-<lb/>
+closets, or anything capable of holding water.</p>
+<p>2. Empty and dry in the sun, at least twice a week, all water receptacles which<lb/>
+are indispensable, or pour upon the surface of the water petroleum or kerosene, two<lb/>
+tablespoonfuls to each 15 square feet of surface.</p>
+<p>3. Report, at least twice a week, to the police officer or a medical officer, any stag-<lb/>
+nant water on your premises or in your neighborhood, which you can not remedy<lb/>
+yourself, until the nuisance is abated.</p>
+<p>4. Sleep under a mosquito net, whether day or night, and remember that a net with<lb/>
+holes or one improperly tucked in is worse than none at all.</p>
+<p>5. Mosquitoes, which otherwise might be blown away by the winds, are sheltered<lb/>
+by vines, long grass, and weeds, which should be dispensed with.</p>
+<p>6. Read over these rules at least twice a week and see if you have neglected some-<lb/>
+thing that should have been done.</p>
+<p>By order of Colonel Hughes:</p>
+<p>WALTER L. FINLEY,<lb/>
+<hi rend="italic">Major, Assistant Adjutant-General, Adjutant-General</hi>.</p>
+<p>Returning to discuss the 5 cases of yellow fever which were treated<lb/>
+at Fort McIntosh, a brief history of each is here given:</p>
+<p><hi rend="italic">Yellow fever cases among soldiers, riolators of standing quarantine rules</hi>.</p>
+<p>
+<table rows="7" cols="9">
+<row><cell>Name.</cell><cell>Rank.</cell><cell>Com-<lb/>pany.</cell><cell>Regiment.</cell><cell>Age.</cell><cell>Nativ-<lb/>ity.</cell><cell>Date of<lb/>attack.</cell><cell>Diagnosis.</cell><cell>Jaundice.</cell></row>
+<row><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell></row>
+<row><cell>T. O'C....</cell><cell>Private....</cell><cell>F.....</cell><cell>Twenty-sixth..</cell><cell>23</cell><cell>Pa....</cell><cell>1903.<lb/>Oct. 27</cell><cell>Yellow fever.</cell><cell>Intense,<lb/>deep.</cell></row>
+<row><cell>O. A. O...</cell><cell>Artifieer...</cell><cell>E.....</cell><cell>.....do..........</cell><cell>26</cell><cell>Minn.</cell><cell>....do...</cell><cell>.....do..........</cell><cell>No jaundice.</cell></row>
+<row><cell>J. H. P...</cell><cell>Private....</cell><cell>E.....</cell><cell>.....do..........</cell><cell>23</cell><cell>Ill....</cell><cell>Nov. 3</cell><cell>.....do..........</cell><cell>do.</cell></row>
+<row><cell>D. L. D...</cell><cell>....do.....</cell><cell>F.....</cell><cell>.....do..........</cell><cell>30</cell><cell>Mass..</cell><cell>Nov. 9</cell><cell>.....do..........</cell><cell>Moderate.</cell></row>
+<row><cell>J. H. O'B.</cell><cell>....do.....</cell><cell>F.....</cell><cell>.....do..........</cell><cell>28</cell><cell>Conn.</cell><cell>.....do...</cell><cell>.....do..........</cell><cell>No jaundice.</cell></row>
+</table>
+</p>
+<p>6363--04-----5</p>
+<pb n="8" id="f02739008"/>
+<p>REPORT OF THE SURGEON-GENERAL OF THE ARMY.<lb/>
+67</p>
+<p>2. This organism appears to be not a protozoan parasite, but a yeast fungus. In<lb/>
+its fusiform stage, the only form in which it was constantly present, it shows the<lb/>
+characteristic budding, staining affinities, and vacuolation or spore formation of a<lb/>
+blastomycete, and it is found with considerable regularity in both male and female<lb/>
+mosquitoes that have purposely been fed on over-ripe banana to which a pure cul-<lb/>
+ture of a wild yeast had been added in the laboratory.</p>
+<p>3. The organism has not hitherto been found in repeated examinations of mos-<lb/>
+quitoes of the genus <hi rend="italic">Stegomyia</hi> that have bitten yellow-fever patients in the early<lb/>
+stages of the disease, when such insects had been fed only on blood, dry sugar, and<lb/>
+water. This statement applies also to mosquitoes that are known to have reproduced<lb/>
+the disease in human beings.</p>
+<p>Doctor Carroll's findings have received general credence from the<lb/>
+scientific world, and while very few now doubt that the mosquito is the<lb/>
+sole agent in the transmission of yellow fever, the parasitic cause of<lb/>
+this disease is still unknown.</p>
+<p>DIPHTHERIA.</p>
+<p>Twenty-six cases, equal to an admission rate of 0.38 per thousand,<lb/>
+with no death or discharge, were recorded during this year. All cases<lb/>
+of this disease occurred among the white troops serving in the United<lb/>
+States.</p>
+<p>MALARIAL FEVERS.</p>
+<p>In the Army as a whole during the last year 13,608 cases, equivalent<lb/>
+to a rate of 201.18 per thousand, were reported, with 5 discharges and<lb/>
+34 deaths, equal to 0.07 and 0.50 per thousand of strength respectively,<lb/>
+which compares favorably with the prevalence of malarial fevers in<lb/>
+1902, when 21,996, or 272.30 cases per thousand, were admitted to sick<lb/>
+report, with a death rate of 0.45 per thousand of strength.</p>
+<p>The following shows the character of these diseases:</p>
+<p>Intermittents: 11,230 cases, equivalent to 166.02 per thousand men,<lb/>
+with no death and no discharge for disability.</p>
+<p>Remittents or continued: 2,066 cases, equal to 30.54 per thousand<lb/>
+of strength, with 4 deaths, and no discharge for disability.</p>
+<p>Pernicious fevers: 41 cases, equivalent to 0.61 per thousand of<lb/>
+strength, with 28 deaths and no discharge.</p>
+<p>Malarial cachexia: 271 cases, equal to 4.01 per thousand men, with<lb/>
+5 discharges and 2 deaths.</p>
+<p>The following table shows the ratios of admission per thousand<lb/>
+strength for malarial disease in the different countries:</p>
+<p>
+<table rows="8" cols="10">
+<row><cell rows="1-3"></cell><cell cols="2-4">Pacific Islands and<lb/>China.</cell><cell cols="5-7">Cuba and Porto Rico.</cell><cell cols="8-10">United States.</cell></row>
+<row><cell cols="2-4">---------------</cell><cell cols="5-7">---------------</cell><cell cols="8-10">---------------</cell></row>
+<row><cell>Admis-<lb/>sions.</cell><cell>Dis-<lb/>charges.</cell><cell>Deaths.</cell><cell>Admis-<lb/>sions.</cell><cell>Dis-<lb/>charges.</cell><cell>Deaths.</cell><cell>Admis-<lb/>sions.</cell><cell>Dis-<lb/>charges.</cell><cell>Deaths.</cell></row>
+<row><cell>---------------</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell></row>
+<row><cell>Intermittents............</cell><cell>377.61</cell><cell>.........</cell><cell>.........</cell><cell>60.86</cell><cell>.........</cell><cell>.........</cell><cell>50.66</cell><cell>.........</cell><cell>.........</cell></row>
+<row><cell>Remittents or continued.</cell><cell>72.17</cell><cell>.........</cell><cell>0.17</cell><cell>10.89</cell><cell>.........</cell><cell>.........</cell><cell>7.81</cell><cell>.........</cell><cell>.........</cell></row>
+<row><cell>Pernicious...............</cell><cell>1.55</cell><cell>.........</cell><cell>1.09</cell><cell>.64</cell><cell>.........</cell><cell>.........</cell><cell>.07</cell><cell>.........</cell><cell>0.05</cell></row>
+<row><cell>Cachexia................</cell><cell>7.26</cell><cell>.........</cell><cell>.08</cell><cell>.64</cell><cell>.........</cell><cell>.........</cell><cell>2.30</cell><cell>0.12</cell><cell>.........</cell></row>
+</table>
+</p>
+<p>Based on our knowledge of the means by which these diseases are<lb/>
+propagated by infected mosquitoes, practical application of the method<lb/>
+of prevention of malarial diseases has been continued at the different<lb/>
+posts during the past calendar year. Mosquito bars are in general use,</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06310159">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Essay: Introduction to Albert E. Truby's Memoir, by Jefferson Randolph Kean, September 15, 1942 [Enclosed in 06310156]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06310159</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1942-09-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient"></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Carroll, James</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1942-09-15">September 15, 1942</date>
+<idno rend="suppress">06310159</idno>
+<title>Essay: Introduction to Albert E. Truby's Memoir, by Jefferson Randolph Kean, September 15, 1942 [Enclosed in 06310156]</title>
+</bibl>
+</head>
+<p>Kean introduces Truby's Memoir on the yellow fever experiments, providing background information on the experiments themselves, as well as background on the author.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1942-09-15">
+<head>Essay: Introduction to Albert E. Truby's Memoir, by Jefferson Randolph Kean, September 15, 1942 [Enclosed in <xref id="t06310156">06310156</xref>]</head>
+<pb n="1" id="f06310159"/>
+<p>Sept. 15<hi rend="superscript">th</hi><lb/>
+-----<lb/>
+1942</p>
+<p>INTRODUCTION. To Gen. Truby's Memoir.</p>
+<p>Yellow fever, which is now believed to have come to us from Africa<lb/>
+with the Slave trade, has been always a thing of mystery, tragedy and<lb/>
+dread. The whimsical way in which it spread gave rise constantly to new<lb/>
+theories as to its cause and prevention, each of which was soon upset by<lb/>
+other observations. The theory of its transmission by a variety of<lb/>
+mosquito was published in 1881 by Dr. Carlos J. Finlay of Havana but made<lb/>
+no converts in nineteen years although stoutly maintained by him in many<lb/>
+publications both in Spanish and English. True to the record of yellow<lb/>
+fever for the unusual, his theory after so many years of incredulity, upon<lb/>
+its verification by the Reed Board, was accepted by all the world. The<lb/>
+brilliant clarity of Reed's carefully controlled experiments, made on human<lb/>
+subjects who volunteered from a love for humanity and also probably from<lb/>
+a spirit of adventure; the tragic death of Lazear; the prompt acceptance<lb/>
+of the Finlay theory after its demonstration by the Reed Board, all con-<lb/>
+stitute a dramatic episode without precedent in medical history. It has<lb/>
+so intrigued the popular imagination that doctors, teachers, playwrights,<lb/>
+newspapermen, magazine writers and artists have kept alive interest during<lb/>
+more than forty years. Many errors, misunderstandings, and partisan<lb/>
+statements have become current during that time, some of which have shown<lb/>
+great tenacity of life. Several years ago, by a fortunate incident, a<lb/>
+born researcher, Dr. Philip L. Hench of the Mayo Clinic, became interested,<lb/>
+first in the work of Dr. Jesse W. Lazear as a member of the Yellow Fever<lb/>
+Board and finally in the whole episode and all the individuals concerned<lb/>
+therewith. Captivated by the moving features of this historic work,<lb/>
+1.<lb/>
+<pb n="2" id="f06310160"/>
+Dr. Hench, though a very busy man as an author, editor and member of the<lb/>
+clinic, has done a vast amount of research work which has taken him twice<lb/>
+to Cuba, many times to Washington and to every part of the country where<lb/>
+he could interview a survivor of the brave men who volunteered for the<lb/>
+famous experiments. His objective is to clear up all doubtful or disputed<lb/>
+points, to evaluate, as far as possible, the part played by each of the<lb/>
+chief actors and to make an authentic and factual history of the great<lb/>
+demonstration. His tireless pursuit of details has had a stimulating<lb/>
+influence on all who met him and underwent his categorical inquisitions.<lb/>
+The author of this Memoir and the writer of the Introduction have had to<lb/>
+study many old papers and to furnish up old memories of our service in<lb/>
+Cuba in 1900 at his requests.</p>
+<p>Brigadier General Albert E. Truby, U.S.A., our author, when he<lb/>
+retired for age in 1935, had completed 37 years of active service in Cuba,<lb/>
+the Philippines, Panama, and the four quarters of the United States.<lb/>
+This is not the place, nor have we the space to mention the various<lb/>
+interesting duties of his long and most creditable career. It may fairly<lb/>
+be said, however, that he had performed efficiently the duties of each<lb/>
+grade from Lieutenant to Brigadier General before the promotion to such<lb/>
+grade came to him. General Truby was assembling his data and putting on<lb/>
+paper his reminiscences before the added stimulus of Dr. Hench's<lb/>
+researches came to him. The end result has been this Memoir which has<lb/>
+delighted those who have had the privilege of reading it in manuscript.<lb/>
+The charming story of his experience before the Army Medical Examining<lb/>
+2.<lb/>
+<pb n="3" id="f06310161"/>
+Board of 1898 is especially pleasing to the old timers of the Medical<lb/>
+Corps who are proudly reminiscent of surviving this ordeal, which<lb/>
+served a good purpose on its day, but has been now fortunately replaced<lb/>
+by a better and less painful method of selection.</p>
+<p>It was fortunate that when Reed and Carroll landed in Cuba in<lb/>
+June, 1900, and came to live at the Post Hospital of Columbia Barracks,<lb/>
+Reed should find Lieutenant Truby, for whom he had a high regard, on<lb/>
+duty there as Executive Officer and at times in charge of the hospital.<lb/>
+He saw Truby constantly at the Medical Officers' Mess and was able to<lb/>
+make use of his knowledge in many ways and especially because of Truby's<lb/>
+acquaintance with the characters and qualifications of the enlisted men<lb/>
+of the Hospital Corps who later were to furnish his most valuable<lb/>
+volunteers for the famous experiments. As Columbia Barracks was under<lb/>
+rigid military quarantine against yellow fever and its Commanding Officer<lb/>
+was known to be a parlous person, the members of the Board were wisely<lb/>
+reticent as to their work and Lieutenant Truby had more intimate<lb/>
+knowledge of what was being done than anyone else in Cuba. So closely<lb/>
+was he in touch with their work that Reed desired to take him as a member<lb/>
+of the Board in Lazear's place, but this was not done because Truby was<lb/>
+suddenly sent to the South Coast where conditions had arisen which called<lb/>
+for the qualities of efficiency and good judgment that his superiors knew<lb/>
+him to possess. Therefore this memoir is a precious source of inside<lb/>
+information and rarely do we find a story of personal experience told so<lb/>
+modestly and with such intrinsic charm.</p>
+<p>JEFFERSON RANDOLPH KEAN.<lb/>
+3.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

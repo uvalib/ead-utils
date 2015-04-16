@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02076001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from Alexander N. Stark to the Surgeon General, July 31, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Stark, Alexander N.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02076001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-07-31</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Gillen, Ella M.</name>
+<name type="person">Ledlie, Kate S. M.</name>
+<name type="person">Cook, Ella</name>
+<name type="person">Gillette, Alice M.</name>
+<name type="person">Colby, [s.n.]</name>
+<name type="person">Fanning, [s.n.]</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Havard, Valery</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1900-07-31">July 31, 1900</date>
+<idno rend="suppress">02076001</idno>
+<title>Report from Alexander N. Stark to the Surgeon General, July 31, 1900</title>
+</bibl>
+</head>
+<p>Stark takes over duties as Chief Sanitary Officer after Kean is taken ill by yellow fever. Stark describes his preventative measures against the spreading of the disease. He commends numerous individuals for their help in the epidemic. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1900-07-31">
+<head>Report from Alexander N. Stark to the Surgeon General, July 31, 1900</head>
+<pb n="1" id="f02076001"/>
+<opener>
+Starks second report on the YF epidemic in<lb/>
+Quemados - summer 1900<lb/>
+Jul 31, 1900<lb/>
+See Havards<lb/>
+report<lb/>
+POST HOSPITAL<lb/>
+COLUMBIA BARRACKS, CUBA.<lb/>
+To be considered. In connection with Stark Report June to July<lb/>
+<dateline>
+<date value="1900-07-31">July 31st, 1900.</date>
+</dateline><lb/>
+To the Surgeon General,<lb/>
+U.S. Army,<lb/>
+(Through Chief Surgeon of the Division)<lb/>
+<salute>Sir:-</salute>
+</opener>
+<p>I have the honor to submit the following supplement to the<lb/>
+Report on Yellow Fever at Quemados, Cuba, and Columbia Barracks, rend-<lb/>
+ered June 15th, 1900.</p>
+<p>A few days after submitting the report referred to above,<lb/>
+Major J. R. Kean, U.S.V., Chief Surgeon of the Department, fell a<lb/>
+victim to the disease in the execution of his duty as Chief Sanitary<lb/>
+Officer of the Municipality, and the duties of his office devolved<lb/>
+upon me in addition to my own.</p>
+<p>Plans had already been made by Major Kean to move the non-<lb/>
+immune element from the zone of infection, but his illness prevent-<lb/>
+ed him from perfecting his plans.</p>
+<p>The municipality being under military law, and General Lee<lb/>
+having placed the control of the epidemic in my hands, with authority<lb/>
+to do as was deemed best, the problem presented none of the difficult-<lb/>
+ies that confront a board of health in the United States.</p>
+<p>A camp had been prepared at a distance of two miles from<lb/>
+Quemados and to this camp were moved all non-immunes, irrespective<lb/>
+of age, sex, or nationality.</p>
+<p>Saloons, houses of prostitution, and all resorts where one<lb/>
+could contract the disease, were closed, and the town ceased to be<lb/>
+an attraction for soldiers and civilian employes.</p>
+<p>The Provost Guard that had patrolled the town was withdrawn<lb/>
+<pb n="2" id="f02076002"/>
+2<lb/>
+and the Rural Guard was placed on duty with orders to arrest all<lb/>
+soldiers and civilian employes found within the town.</p>
+<p>Orders had already been issued by the Post Commander<lb/>
+to all within the post prohibiting any communication with the<lb/>
+town, but as is the case with all such orders the soldiers managed<lb/>
+to evade the chain of sentries until the Rural Guard was placed in<lb/>
+control.</p>
+<p>The saloonkeepers and others in the non-immune camp did all<lb/>
+in their power to render the quarantine ineffective, but soon gave<lb/>
+in, and in a short time the epidemic was over.</p>
+<p>Cases continued to occur now and again in the post among<lb/>
+the soldiers and civilian employes, but investigation in every in-<lb/>
+stance disclosed the fact that the victim had eluded the guard<lb/>
+and passed a night in Havana or in Quemados.</p>
+<p>In each case the barrack was disinfected, and no case<lb/>
+originated within the post.</p>
+<p>It was found that without the assistance of the men it was<lb/>
+futile to attempt to control the restless spirits in such a large<lb/>
+community, and the experiment of drenching the clothing and beds of<lb/>
+all in the barrack during the routine of disinfection was tried with<lb/>
+the object of rendering all uncomfortable for the night and thereby<lb/>
+causing resentment against any culprit who brought the calamity<lb/>
+upon them. The result of this experiment exceeded my most sanguine<lb/>
+hopes, and it is rare that any soldier has the fortitude to brave<lb/>
+a hundred angry men for the sake of a visit to town.</p>
+<p>The majority of all cases have been civilians and as the<lb/>
+work demanding their presence approaches its termination this un-<lb/>
+desirable and dangerous element will be eliminated soon.</p>
+<pb n="3" id="f02076003"/>
+<p>3</p>
+<p>The non-immunes will not be allowed to re-occupy their<lb/>
+houses till November 15th, and the saloons and other resorts will<lb/>
+be closed indefinitely probably.</p>
+<p>In my first report the origin of the epidemic was attrib-<lb/>
+uted to a latent infection requiring only suitable conditions,<lb/>
+and the fact that the disease has appeared in nearly all localities<lb/>
+in the Island at the same time has strengthened my belief.</p>
+<p>The inmates of clean and filthy houses have been attack-<lb/>
+ed impartially.</p>
+<p>A large combined steam and formaline disinfector has been<lb/>
+added to our equipment, and in addition to affording a greater<lb/>
+sense of security, has saved much property that otherwise would<lb/>
+have been burned.</p>
+<p>In Quemados and Columbia Barracks there have been forty-<lb/>
+one cases up to date with twelve deaths.</p>
+<p>Everyone in authority has done all in their power toward<lb/>
+the suppression of the epidemic.</p>
+<p>I cannot too strongly commend to your consideration<lb/>
+Acting Assistant Surgeon Ames, who cared for the patients, Acting<lb/>
+Assistant Surgeon Lazear, who made the microscopical and chemical<lb/>
+tests, Acting Assistant Surgeon Pinto, who promptly recognized the<lb/>
+cases in the Receiving Ward, Privates Colby, Fanning, Folk and Lambert<lb/>
+Hospital Corps, U.S.A., who nursed the cases, and Contract Nurses,<lb/>
+Ella M. Gillen, Kate S.M. Ledlie, Ella Cook and Alice M. Gillette.</p>
+<p>It is a source of great gratification that no one connect-<lb/>
+ed with the hospital hesitated at any duty required or showed the<lb/>
+slightest fear in the presence of the dread disease.</p>
+<closer>
+<salute>Respectfully,</salute>
+<signed>A. N. Stark.</signed>
+Capt. &amp; Asst. Surg. U.S.A.,<lb/>
+Surgeon.<lb/>
+</closer>
+</div1>
+<div1 type="document" n="1900-07-31">
+<head>Handwritten note by Philip Showalter Hench, [n.d.]</head>
+<pb n="4" id="f02076005"/>
+<p>note that he doesnt mention the<lb/>
+presence of the YF Board<lb/>
+or mention the mosquito theory</p>
+</div1>
+<div1 type="document" n="1900-07-31">
+<head>Report from Alexander N. Stark to the Surgeon General, July 31, 1900</head>
+<pb n="5" id="f02076004"/>
+<p>Post Hospital, Columbia Brks., Cuba,</p>
+<p>July 31, 1900.</p>
+<p>40988<unclear><hi rend="superscript">2</hi></unclear></p>
+<p>Chief Surgeon's Office.<lb/>
+Hdqrs. Dept of West<lb/>
+Cuba<lb/>
+Quemados, Cuba.</p>
+<p>Military File,</p>
+<p>Rec'd<lb/>
+AUG 13 1900<lb/>
+No. 717.</p>
+<p>Capt. A. N. STARK, Asst. Surg., U.S.A.</p>
+<p>SURGEON.</p>
+<p>Submit supplement to his Special<lb/>
+Report on Yellow Fever, rendered June<lb/>
+15, 1900.</p>
+<p>MS NO 4874</p>
+<p>RECEIVED BACK<lb/>
+<unclear>77</unclear><lb/>
+AUG 18, 1900</p>
+<p>Chief Surgeon's Office, Div. of Cuba.</p>
+<p>HEADQUARTERS DIVISION OF CUBA.<lb/>
+OFFICE OF CHIEF SURGEON.<lb/>
+AUG 14 1900<lb/>
+2687<lb/>
+<lb/></p>
+<p>1st Endorsement.</p>
+<p>CHIEF SURGEON'S OFFICE,<lb/>
+HEADQUARTERS DEPT. OF WESTERN CUBA,<lb/>
+Quemados, Cuba, August 18th, 1900.</p>
+<p>---------o---------</p>
+<p>Respectfully forwarded to the Surgeon<lb/>
+General U.S. Army, through the Chief Surg-<lb/>
+eon, Division of Cuba.</p>
+<p>As this report was submitted in<lb/>
+triplicate, one copy has been extracted<lb/>
+and filed in this office.</p>
+<p>A.N. Stark.<lb/>
+Captain &amp; Asst. Surgeon, U.S. Army,<lb/>
+Acting Chief Surgeon.</p>
+<p><lb/></p>
+<p>L.R.2687.T.</p>
+<p>2nd. Endorsement.</p>
+<p>HEADQUARTERS DIVISION OF CUBA:<lb/>
+Office of the Chief Surgeon,<lb/>
+Havana, Cuba, Aug. 18th. 1900.</p>
+<p>--------T---------</p>
+<p>Respectfully forwarded to the<lb/>
+Surgeon General, U.S.A.</p>
+<p>V Havard<lb/>
+Major and Surgeon, U.S.A.<lb/>
+Chief Surgeon.</p>
+<p>********************************</p>
+<p>MS NO 4874</p>
+</div1>
+</body>
+</text>
+</TEI.2>

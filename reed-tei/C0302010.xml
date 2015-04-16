@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Henry Rose Carter to Kenneth F. Maxcy, August 30, 1923</title>
+<title type="gmd">[electronic resource] </title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-08-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Maxcy, Kenneth F.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="person">Ross, Ronald</name>
+<name type="person">Cacinim, [s.n.]</name>
+<name type="person">Sella, [s.n.]</name>
+<name type="person">Bass, C. C.</name>
+<name type="person">Taylor, Dr.</name>
+<name type="person">McDonald, Angus</name>
+<name type="person">Von Ezdorf, Rudolph H.</name>
+<name type="person">Mayne, Bruce</name>
+<name type="person">Pearl, [s.n.]</name>
+<name type="person">Fricks, Lunsford D.</name>
+<name type="person">Carter, Laura Armistead</name>
+<name type="person">Swellengrebel, [s.n.]</name>
+<name type="person">Schuffner, [s.n.]</name>
+<name type="person">Veldee, M. V.</name>
+<name type="place">Badin (N.C.)</name>
+<name type="place">Montgomery (Ala.)</name>
+<name type="place">India</name>
+<name type="place">Yazoo (Miss.)</name>
+<name type="place">Scott (Miss.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">England</name>
+<name type="place">Louisiana</name>
+<name type="place">Mississippi</name>
+<name type="place">Batavia</name>
+<name type="place">Missouri</name>
+<name type="place">Arkansas</name>
+<name type="hospital">Badin Hospital, Badin (N.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1923-08-30">August 30, 1923</date>
+<idno rend="suppress">C0302010</idno>
+<title>Letter from Henry Rose Carter to Kenneth F. Maxcy, August 30, 1923</title>
+</bibl>
+</head>
+<p>Carter responds to questions from Maxcy regarding the blood index of malaria and problems with blood examination tests based on data from various scientists addressing these issues.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-08-30">
+<head>Letter from Henry Rose Carter to Kanneth F. Maxcy, August 30, 1923</head>
+<pb n="1" id="fC0302010"/>
+<opener>
+(Copy)<lb/>
+PERSONAL<lb/>
+&sol;L C<lb/>
+<dateline>
+Badin Hospital,<lb/>
+Badin, N.C.<lb/>
+<date value="1923-08-30">August 30, 1923.</date>
+</dateline><lb/>
+Dr Kenneth F. Maxcy,<lb/>
+U.S. Public Health Service,<lb/>
+Care of State Health Officer,<lb/>
+Montgomery, Ala.<lb/>
+<salute>Dear Doctor Maxcy:</salute>
+</opener>
+<p>About the problem in relation to the blood index<lb/>
+of malaria about which you asked, I had purposed to wait until I<lb/>
+got back home, where I have access to notes etc., but as I am still<lb/>
+in bed I will outline it to you as well as I can without notes<lb/>
+and send you a supplementary letter when I get to Washington,<lb/>
+which I think will be shortly.</p>
+<p>The problem was:</p>
+<p>(1) To determine what proportion of infections would<lb/>
+be missed by a blood examination (thick film) by a careful and<lb/>
+trained man on a single examination.</p>
+<p>(2) What proportion of cases found positive by such<lb/>
+examination in the late fall would be found negative (presumably,<lb/>
+but not necessarily, cured spontaneously) in the spring or<lb/>
+summer under the ordinary conditions of life in the country on<lb/>
+plantations in the south. The &ldquo;ordinary conditions of life&rdquo;<lb/>
+do not imply the exclusion of quinine or its efficient use --<lb/>
+simply people living as they habitually live during the fall,<lb/>
+winter and spring.</p>
+<p>Let me take the second problem first:</p>
+<p>The desirability of its solution -- or rather the<lb/>
+solution of the inverse problem: the proportion of relapses<lb/>
+(parasitic or symptomatic) is stressed by Ross in his &ldquo;Prevention of<lb/>
+Malaria&rdquo;.</p>
+<p>A good deal of work on it has been done by the Italians,-<lb/>
+especially by Cacini and by Sella. Ross himself gives data on<lb/>
+this problem from India and Bass has data on it in his work on the<lb/>
+Yazoo, where, however -- judging partly by the statistics of Taylor<lb/>
+in Arkansas and my own single observation at Wilson, - his proportion<lb/>
+of relapses is too high. My recollection is that he found from a<lb/>
+little over 50% to about 69% relapses among the people who had<lb/>
+malaria in 1918: but you have access to his papers.</p>
+<pb n="2" id="fC0302011"/>
+<p>-2-<lb/>
+This problem was taken up tentatively by us in 1914.<lb/>
+It was planned to take a careful blood index of a badly infected<lb/>
+community <hi rend="underline">after</hi> the date at which infection could be contracted,<lb/>
+taking the names of all persons. To take the same index by the<lb/>
+same man -- or one equally careful and skillful -- in the early<lb/>
+Spring <hi rend="underline">before</hi> malaria could be contracted. A comparison of these<lb/>
+would give us data upon the subject. For instance, if 20% of all<lb/>
+those that were positive in the fall showed negative in the spring<lb/>
+and continued to show negative until well into the malaria season,<lb/>
+it would be evidence -- although not quite proof -- that that<lb/>
+proportion, under the conditions that existed, had freed themselves<lb/>
+from infection. I say &ldquo;not quite proof&rdquo; because for proof<lb/>
+these people should be kept not exposed to malaria infection and<lb/>
+watched a long time. On the other hand, if 20% of those found<lb/>
+negative in the fall were found positive in the early spring before<lb/>
+it was possible to contract malaria, it would be proof (not merely<lb/>
+evidence) that 20% at least of infections had been missed on our<lb/>
+suppossedly careful examination. I say &ldquo;at least&rdquo; because it is<lb/>
+obvious that if a careful examination in the late fall missed<lb/>
+finding some infections a similar careful examination in the early<lb/>
+spring might do the same and 20% would not represent all the<lb/>
+infections beyond those found in the fall that existed. This<lb/>
+difficulty could be met, however, by keeping our men who were<lb/>
+negative in the fall out of contact with infected Anopheles<lb/>
+for a considerable time until we could be certain by further<lb/>
+examinations that no parasites could be found in their blood.</p>
+<p>For the early spring chances of exposure to infected Anopheles<lb/>
+we must take into consideration the hibernated females which --<lb/>
+in any district we have examined in the United States -- are indeed<lb/>
+come through the winter uninfected, but which, if they enter houses,<lb/>
+(as quads do) can readily become infected from carriers, in whom,<lb/>
+of course, the parasite does winter and, it being warm in the house,<lb/>
+at the end of 20 or 30 days infect other men.</p>
+<p>This matter has never been worked out in America but frankly<lb/>
+I am inclined to think that a considerable number of the early<lb/>
+spring cases are infections by these hibernated females becoming<lb/>
+thus infected in houses and staying in houses or maybe warm stables<lb/>
+long enough to become <hi rend="underline">infective</hi>. This, of course, could happen before<lb/>
+the flight of the earliest spring brood who have no houses to warm up in.</p>
+<p>Angus MacDonald has laid some stress on this in the early spring<lb/>
+post-bellum malaria in England.</p>
+<p>Dr. von Ezdorf took a blood index (thick film) at Scott, Miss.<lb/>
+in the fall of 1915. At my instance, Mayne took a similar index<lb/>
+there in February 1915 in conjunction with his great work on the<lb/>
+hibernation of the parasite in the mosquito. As I remember the<lb/>
+figures ----(my memory is quite reliable, but I will send the exact<lb/>
+data when I get home) --- von Ezdorf out of 1666 people found a<lb/>
+positive blood index of 41.11%. Mayne on 1164 specimens found an<lb/>
+index of 39.9% (or 39.5%). Both were careful men: both used the<lb/>
+same method in getting the specimens and in examining them: both<lb/>
+took a sufficient number of specimens to eliminate accidental errors<lb/>
+of observation: both found approximately the same proportion of<lb/>
+<pb n="3" id="fC0302012"/>
+-3-<lb/>
+of positives. If then there was no chance of new infections<lb/>
+in the interval between these indices one must take one horn or<lb/>
+the other of this dilemma.</p>
+<p>(a) either <unclear>the</unclear> men that were positive in the fall were<lb/>
+positive in the spring and those that were negative in the fall<lb/>
+were negative in the spring or</p>
+<p>(b) that equal numbers changed from negative to positive<lb/>
+and from positive to negative.</p>
+<p>In only a small number -- 103 is my recollection --<lb/>
+were specimens taken from the same men whose names were recorded<lb/>
+by von Ezdorf as positive --- he kept no record of his negative<lb/>
+cases. Of these 103, 55, as I remember, Mayne found negative<lb/>
+(53%). Now 103 is not enough to make a percentage on, but<lb/>
+if this proportion held true of other positives turning to<lb/>
+negatives we will have to accept (b) as our explanation of the<lb/>
+result of these observations.</p>
+<p>Mayne's index was certainly made before the spring<lb/>
+flight of Anopheles. His own dissections of wild Anopheles satisfy<lb/>
+me that it was made before the hibernated ones became infective.<lb/>
+I am not, however, certain that von Ezdorf's index was taken after<lb/>
+all reasonable probability of infection was passed. (I will send<lb/>
+you the dates when I get home).</p>
+<p>I made several attempts with Mayne at the rural units<lb/>
+of the penitentiaries of Louisiana and Mississippi to repeat this<lb/>
+experiment, recording the names, and had the dates which would<lb/>
+be beyond dispute, yet the positive data was so small that, while<lb/>
+I have it, it is not enough to draw conclusions from.</p>
+<p>I did send to the Central Office, however, -- in 1917<lb/>
+as I recollect -- a rather long-winded equation by which --<lb/>
+(admitting certain postulates, which I confess are only approximately<lb/>
+correct) -- one can, from a few satisfactory observations of this<lb/>
+kind, determine the proportions of infections that are missed at a<lb/>
+careful examination by the method used and therefore the factor<lb/>
+by which this positive finding must be multiplied to get approximately<lb/>
+a true infection rate from such a blood index. It is rather an<lb/>
+intricate equation, but not especially so. Certainly not any more<lb/>
+so than the one Ross gives for the increase and diminution of<lb/>
+malaria with the increase and diminution of the number of Anopheles<lb/>
+present. At any rate, it is not in the same class with Pearl's<lb/>
+(Lottka's) transcendental equation developing Ross', which while I could<lb/>
+followI I would never reccomend to any friend as light reading.</p>
+<p>I think I have a copy of it at home. Whether it is<lb/>
+worth undertaking, even incidentally, any observation of this sort,<lb/>
+naturally the central Office must be the judge. It is at least<lb/>
+a question and depends upon what other work you are doing, but it<lb/>
+<hi rend="underline">is</hi> connate to the work that you and others have been doing the last<lb/>
+two seasons in the malaria index and is the problem you referred to.</p>
+<pb n="4" id="fC0302013"/>
+<p>-4-<lb/>
+I will ask you then to please send this letter to<lb/>
+Dr. Fricks. I would send a copy, as is my usual custom,<lb/>
+but the typewriter (the machine,-not Laura) is old and out of<lb/>
+order and refuses to copy. Indeed, I expect you will find<lb/>
+some script in this letter.</p>
+<closer>
+<salute>Very truly your friend,</salute>
+<signed>H.R. Carter</signed>
+<seg>
+P.S. I have 2 records about the Scott observations - in a<lb/>
+note book - but I will go back to the original sources<lb/>
+and send them to you when I get back to Washington.<lb/>
+Also will give you the title and Journal containing a<lb/>
+beautiful article on the relation of the blood index to<lb/>
+the splenic index in Batavia, by, as I recollect, the two<lb/>
+Swellengrebles ans Sch&uuml;ffne<unclear>r</unclear>,-which you can get from the<lb/>
+Bureau. This in re Veldee's recent paper of splenic index<lb/>
+in Missouri.<lb/>
+H.R.C.<lb/>
+</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

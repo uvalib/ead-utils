@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAGA0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Appendix G, Report of Department of Sanitation, by Jefferson Randolph Kean, [December 1907]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGA0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo"> Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1907-12-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cienfuegos (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>7 pp.</extent>
+<date value="1907-12-00">December 1907</date>
+<idno rend="suppress">KAGA0010</idno>
+<title>Report: Appendix G, Report of Department of Sanitation, by Jefferson Randolph Kean, [December 1907]</title>
+</bibl>
+</head>
+<p>Kean discusses the present sanitary conditions in Cuba. He states that there has been a breakdown in sanitary procedures since the American withdrawal and recommends that local sanitation boards be abolished in favor of a National Sanitary Board. Kean writes that yellow fever is moving out to rural areas, instead of concentrating in urban centers. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1907-12-00">
+<head>Report: Appendix G, Report of Department of Sanitation, by Jefferson Randolph Kean, [December 1907]</head>
+<pb n="1" id="fKAGA0010"/>
+<p>Republic of Cuba.<lb/>
+Report of the Provisional Governor.<lb/>
+Charles E. Magoon.<lb/>
+Oct. 13<hi rend="superscript">th</hi> 1906 to Dec 1<hi rend="superscript">st</hi> 1907</p>
+<p>APPENDIX &ldquo;G&rdquo;</p>
+<p>-----</p>
+<p>REPORT OF DEPARTMENT OF SANITATION</p>
+<p>By J. R. Kean<lb/>
+Sanitary Advisor.</p>
+<pb n="2" id="fKAGA0020"/>
+<p>455</p>
+<p>TO THE PROVISIONAL GOVERNOR,<lb/>
+The Palace.</p>
+<p>SIR:</p>
+<p>I have the honor to forward herewith the report of the<lb/>
+Chief Sanitary Officer of the Republic of Cuba, which gives a<lb/>
+history of the work of the Department during the past year and,<lb/>
+as an introduction thereto, a brief statement of its organization<lb/>
+and operations antecedent to the date of Intervention. Attach-<lb/>
+ed to his report is that of the Executive Officer, showing the in-<lb/>
+ternal organization of the central Office and the despatch of<lb/>
+business of its numerous divisions.</p>
+<p>There can be do doubt that the delay in organizing the Na-<lb/>
+tional Sanitary Service after the establishment of the Cuban Re-<lb/>
+public as well as the loss of the sanitary chiefs by the withdrawal<lb/>
+on May 20, 1902, of the American officers who had been engag-<lb/>
+ed in that work, made an unfortunate relapse in sanitary work<lb/>
+throughout the Island, but less in Havana than elsewhere, and<lb/>
+that the former standards were never entirely regained. This is<lb/>
+well shown by the reports which were called for from all local<lb/>
+health officers a year ago. All of them told the same story of<lb/>
+inadequate appropriations and gross sanitary neglects. A con-<lb/>
+siderable number contained the statement that all sanitary ser-<lb/>
+vices in the municipality were at an end. But the essential de-<lb/>
+fect of sanitary administration was more deeply fixed, and was<lb/>
+a part of the failure of the scheme of autonomous municipal<lb/>
+government which had been adopted for Cuba.</p>
+<p>It is not proposed to discuss the reasons for this failure fur-<lb/>
+ther than to say that it was to a considerable extent financial and<lb/>
+due to a defective scheme of taxation. Thus the sanitary ser-<lb/>
+vices of the smaller towns were both ill-supported and ill-admi-<lb/>
+nistered. That of the City of Havana was supported from the<lb/>
+National Treasury with lavish liberality and was very efficient.</p>
+<p>The Cuban Government had also contributed to the sanit-<lb/>
+ary expenses of fourteen (14) other cities, in the Budget of the<lb/>
+<pb n="3" id="fKAGA0030"/>
+456<lb/>
+Fiscal Year 1906-7, the sum of $652,000. An additional item<lb/>
+of $200,000.00 appears in the appropriation for the office of the<lb/>
+Secretar&iacute;a de Gobernaci&oacute;n, which was to be expended for the<lb/>
+sanitation of cities at the discretion of the Executive. The Cu-<lb/>
+ban Congress also made appropriations for a number of very im-<lb/>
+portant sanitary undertakings, such as aqueducts and other<lb/>
+works of a sanitary nature. It is evident therefore that the im-<lb/>
+portant sanitary work of the Island was supported by the Na-<lb/>
+tional Treasury rather than by the municipal governments as<lb/>
+was the intention of the law. The entire failure of the latter in<lb/>
+this respect was well recognized in Cuba, and several laws were<lb/>
+proposed in the Cuban Congress looking to the nationalization<lb/>
+of the municipal sanitary services. One measure at least con-<lb/>
+templated the establishment of a secretaryship of Public Health<lb/>
+which would include also the Department of Beneficencia, which,<lb/>
+like the Department of Sanitation, was governed by a Superior<lb/>
+Board and was intended to be autonomous, but which had suf-<lb/>
+fered incorporation into the Secretar&iacute;a of Gobernaci&oacute;n. This<lb/>
+complete inclusion exposed both Departments alike to injurious<lb/>
+bureaucratic and political influences, from which they were in-<lb/>
+tended by their form of government to be protected.</p>
+<p>Public opinion in Cuba was therefore ripe for the assump-<lb/>
+tion by the State of the entire control in matters of municipal<lb/>
+sanitation, which was effected by Decree No. 894, signed Au-<lb/>
+gust 26th, of this year. The principal objects accomplished by<lb/>
+this law are:</p>
+<p>
+<list type="ordered">
+<item>1. The abolition of the Municipal Boards of Health and<lb/>
+the transfer of all powers previously vested in them to national<lb/>
+officials, the Local Sanitary Officers who are appointed by the<lb/>
+highest Executive Authority.</item>
+<item>2. The assumption by the State of the cost of all municipal<lb/>
+sanitary works and services, with the proviso that the municipal<lb/>
+governments shall refund to the State in consideration thereof,<lb/>
+one tenth (1&sol;10) of their total incomes for each year.</item>
+<item>3. An increase in the powers of the Chief Sanitary Offi-<lb/>
+cer, who is made in fact the administrative authority of the De-<lb/>
+partment. The Superior Sanitary Board is at the same time re-<lb/>
+duced in number and authority, a majority of its members being<lb/>
+members ex-officio of the National Sanitary Board. The role of<lb/>
+the new National Sanitary Board will be rather advisory than<lb/>
+administrative.</item>
+</list>
+</p>
+<p>The yellow fever situation has been so fully discussed in<lb/>
+<pb n="4" id="fKAGA0040"/>
+457<lb/>
+the report of the Chief Sanitary Officer, that only a little addi-<lb/>
+tional comment is necessary. From Appendix I, it will be ob-<lb/>
+served that the short but sharp little epidemic of the last three<lb/>
+months of 1905 was limited to Havana. In the fall of 1906 it<lb/>
+again invaded Havana, having obtained an earlier start, but was<lb/>
+brought under control somewhat earlier. It also began to invade<lb/>
+the rural municipalities.</p>
+<p>The feature of this year's invasion is, the perfect control of<lb/>
+the disease in Havana although frequently introduced. For<lb/>
+cogent reasons, no effort has been made to prevent the import-<lb/>
+ation of cases from other foci in the Island, and reliance has been<lb/>
+placed upon the prompt recognition and report of the cases with<lb/>
+local fumigations, and particularly upon continuous and<lb/>
+thorough mosquito work which has kept the city so free from<lb/>
+stegomyia mosquitos that the disease is not able to spread. A<lb/>
+sharp epidemic at Cienfuegos, of which the first recognized<lb/>
+cases occurred early in August, was handled with such vigor<lb/>
+and success that six weeks after the organization of the cam-<lb/>
+paign aginst it, the city was clear of cases, and only two ad-<lb/>
+ditional cases originating in Cienfuegos have occurred since the<lb/>
+end of September.</p>
+<p>Conquered in the centres of population, the disease has<lb/>
+adopted revolutionary tactics and taken to the woods, and this<lb/>
+extension to the small towns, villages and plantations brings up<lb/>
+new and troublesome problems.</p>
+<p>It is certain that the work against yellow fever in Cuba is<lb/>
+equally thorough in detail and on a wider scale than that con-<lb/>
+ducted in Havana and the other more important cities in 1901.<lb/>
+Why is it not followed by the same prompt success and why did<lb/>
+yellow fever at that time not hang on in the rural districts? The<lb/>
+disease having been so long endemic in Cuba, the native Cuban<lb/>
+population was then truly an immune one and yellow fever rare-<lb/>
+ly prevailed in the interior, but lay in wait in the sea ports for<lb/>
+the non-immune immigrants, who were as a rule not long in<lb/>
+receiving either immunity or death. But since 1900 this process<lb/>
+has been checked and the non-immune population of Cuba has<lb/>
+increased with great rapidity. The number of immigrants, chiefly<lb/>
+Spanish, has averaged nearly 30,000 a year; in the last two years<lb/>
+amounted to 88,000, and the white native population is also in-<lb/>
+creasing with great rapidity. <del>Accepting</del><add>If we accept</add> the doctrine of Guite-<lb/>
+ras that the white Cuban child is born non-immune (<del>and the</del><lb/>
+<pb n="5" id="fKAGA0050"/>
+458<lb/>
+<del>evidence in its favor is steadily accumulating</del>) this still greater<lb/>
+source of supply of non-immunes must be added.</p>
+<p>The number of non-immunes has already become sufficient<lb/>
+to support a yellow fever epidemic in almost any town or large<lb/>
+plantation in the Island, and the increase of the facilities for<lb/>
+communication by rail and by the construction of good public<lb/>
+roads, together with the migratory habits of the Spanish labor-<lb/>
+ers, furnish a ready means for the distribution of the infection,<lb/>
+which means existed to a far less degree six years ago. The sani-<lb/>
+tary forces have pursued the enemy into the country, and<lb/>
+wherever a case of yellow fever has been recognized, expert diag-<lb/>
+nosticians and brigades of men trained in the technique of fu-<lb/>
+migation and mosquito work have been sent from Havana to<lb/>
+conduct operations against the enemy. These methods have kept<lb/>
+the infection from assuming great proportions, but have so far<lb/>
+failed to extinguish it. The reasons for this failure are two: the<lb/>
+first is the lack of agencies for the discovery and reporting of<lb/>
+cases outside of the large cities; the second, the lack of trained<lb/>
+men to carry out carefully conscientiously and thoroughly the<lb/>
+work of mosquito prevention.</p>
+<p>Nothing is more difficult than the recognition of mild cases<lb/>
+of yellow fever. Cases constantly occur in patients coming into<lb/>
+the Hospitals of this city, which puzzle the Board of Diagnosis<lb/>
+of Contagious Diseases, probably the most distinguished body<lb/>
+of experts in the knowledge of this disease in the world. Also,<lb/>
+it must be borne in mind that the majority of cases, and probab-<lb/>
+ly in Cuban children a very large majority, are mild, and so,<lb/>
+difficult or impossible of diagnosis with the help of all the re-<lb/>
+sources of medical science. But in the rural municipalities lit-<lb/>
+tle attention is paid to attacks of fever which are mild or of<lb/>
+short duration, and the physicians are not accustomed to employ<lb/>
+the diagnostic aids of urin analysis and blood examinations, and<lb/>
+usually have not the apparatus and technical training for so do-<lb/>
+ing. Therefore, only the minority of grave or fatal cases are<lb/>
+recognized and reported, and the infection spreads, unchecked<lb/>
+by preventive measures until a death gives the alarm. So un-<lb/>
+accustomed are the majority of Cuban physicians to consider<lb/>
+any Cuban non-immune, that even when the fact is admitted in<lb/>
+theory it is rarely acted on in practice and cases of grave illness<lb/>
+and even death from this disease are not infrequently diagnosed<lb/>
+in this Office only by the light of subsequent cases.</p>
+<p>While <hi>this Office</hi> can send trained parties to direct works of<lb/>
+San Dept. could<lb/>
+<pb n="6" id="fKAGA0060"/>
+459<lb/>
+fumigation in recognized foci, the fundamental protective work<lb/>
+of mosquito prevention require<del>s</del><add>d</add> permanent garrisons of trained<lb/>
+men in every town and village, and even in the great sugar and<lb/>
+tobacco plantations.</p>
+<p>Such a plan of campaign can be conducted where the area<lb/>
+is small and the pecuniary resources practically unlimited, as in<lb/>
+the strip 10 miles wide and 50 miles long which constitutes the<lb/>
+Canal Zone at Panam&aacute;, but it is of course out of the question<lb/>
+for the 44,000 square miles of Cuban territory, and far beyond<lb/>
+the resources of the Cuban Treasury, for which, besides, this<lb/>
+sanitary war is a matter quite secondary in importance to the<lb/>
+administrative works of government.</p>
+<p>It is believed however to be not beyond the limits of reason-<lb/>
+able expenditure to carry on a vigorous mosquito war for the<lb/>
+next six months in every city, town, village and plantation in<lb/>
+which the disease has appeared this year, and this the new na-<lb/>
+tional sanitary organization now being put into effect will give<lb/>
+the machinery for conducting. The smaller towns will be taught<lb/>
+the technical detail of mosquito, work by frequent visits of in-<lb/>
+spection, and this will be aided by the more efficient conduct of<lb/>
+the sanitary services of street-cleaning, removal of garbage etc.,<lb/>
+which are to be expected under the new organization. This will<lb/>
+require operations in 29 distinct localities.</p>
+<p>The importance of the yellow fever campaign has not been<lb/>
+allowed to entirely overshadow other sanitary work, of which<lb/>
+the prevention of tuberculosis in the larger cities and specially<lb/>
+in Havana, is most important. This disease constitutes for the<lb/>
+Cuban population the most formidable of all infectious diseases<lb/>
+and causes more fatalities than all the other infectious diseases<lb/>
+combined. Its alarming prevalence must be ascribed mainly to<lb/>
+the excessive over-crowding which exists among the poorer<lb/>
+classes in the cities, which evil is aggravated by their tradition-<lb/>
+al fear of the night air, causing them to cut off ventilation as<lb/>
+far as possible in the rooms where they sleep. The remedy for<lb/>
+these conditions is to be found in the construction of sanitary<lb/>
+dwellings at low rents, together with the social and sanitary<lb/>
+education of the people. The latter is now being undertaken in<lb/>
+connection with the Dispensary for tuberculosis maintained by<lb/>
+the Department in this city, which has been entirely reorganiz-<lb/>
+ed during the past year; by requiring the physicians connected<lb/>
+with it to make domiciliary visits to all patients at their homes<lb/>
+and instruct them in the methods of preventing infection, and<lb/>
+<pb n="7" id="fKAGA0070"/>
+460<lb/>
+in the importance of abundant fresh air and cleanliness. A San-<lb/>
+atorium for incipient cases has also been established in a good,<lb/>
+elevated location, not far from this city.</p>
+<p>Bovine tuberculosis is, fortunately, quite rare in Cuba, and<lb/>
+on this account, and also because of the practically universal cus-<lb/>
+tom of boiling the milk in order to preserve it, milk can, contra-<lb/>
+ry to the popular belief, be practically excluded as a source of<lb/>
+tubercular infection.</p>
+<p>It is thought to be unnecessary to invite the attention of the<lb/>
+Provisional Governor to the importance of obtaining as rapid-<lb/>
+ly as possible a water supply and sewer systems for the Cuban<lb/>
+cities, as he has already demonstrated his interest in sanitary<lb/>
+works of this character. I cannot refrain however from adding<lb/>
+my recommendation to that of Dr. Finlay, for the execution of<lb/>
+the plan adopted and contracted for six years ago for the sewer-<lb/>
+ing of Havana, and that more recently adopted for securing the<lb/>
+imperatively needed water supply and sewer system for Cien-<lb/>
+fuegos. Whether existing contracts are in all respects desirable<lb/>
+and advantageous to the public is not a matter for the determin-<lb/>
+ation of the sanitary authorities; but as to the necessity for the<lb/>
+proposed works, there can be no question.</p>
+<p>Very respectfully,</p>
+<p>J. R. KEAN,<lb/>
+<hi rend="italic">Adviser to Sanitary Department</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

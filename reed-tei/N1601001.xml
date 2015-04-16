@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="N1601001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Newspaper clipping, New-York Herald, June 21, 1806</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N1601001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1806-06-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Smith, Thorowgood</name>
+<name type="person">Giraud, John J.</name>
+<name type="place">Baltimore (Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1806-06-21">June 21, 1806</date>
+<idno rend="suppress">N1601001</idno>
+<title>Newspaper clipping, New-York Herald, June 21, 1806</title>
+</bibl>
+</head>
+<p>On The Yellow Malignant Fever</p>
+</div1>
+</front>
+<body>
+<div1 type="newspaper clipping" n="1806-06-21">
+<head>Newspaper clipping, New-York Herald, June 21, 1806</head>
+<pb n="1" id="fN1601001"/>
+<p><hi rend="italic">Highly interesting to the American Public</hi>.</p>
+<p>ON THE YELLOW MALIGNANT<lb/>
+FEVER.</p>
+<p>Humanity being the first virtue of a physi-<lb/>
+cian worthy of a profession so distinguished,<lb/>
+and the desire of preserving the existence of<lb/>
+his fellow-citizens, the principal inducement<lb/>
+to all his researches; it is with the most heart<lb/>
+felt satisfaction I announce to the public the<lb/>
+discovery of a specific remedy for the yellow<lb/>
+fever, that terrible scourge, which for several<lb/>
+years past (beginning in 1793) has rendered<lb/>
+the most flourishing cities of this fortunate<lb/>
+portion of the globe the seat of desolation.</p>
+<p>The remedy sovereign, as it certainly is, is<lb/>
+produced from a mild substance long since<lb/>
+used in medicine in certain particular cases,<lb/>
+but whose anti pestilential qualities have nev-<lb/>
+er been thoroughly investigated until the hap-<lb/>
+py moment, when I turned my thoughts to its<lb/>
+analogy with an alkalescent, and turgid bile,<lb/>
+which always exists in the commencement of<lb/>
+the yellow fever.</p>
+<p>Its properties which are opening, dissolvent,<lb/>
+alkaline and sudorific, always cause it to neu-<lb/>
+tralize the poisonous quality of the bile and ne-<lb/>
+ver fail to bring on a salutary crisis. Long ex-<lb/>
+perience, and success multiplied and attested<lb/>
+by certificates, authentic and irrevocable, pa-<lb/>
+tients escaped from the danger of the disease<lb/>
+by means of the remedy we announce, place<lb/>
+its efficacy as a healing medicine, beyond the<lb/>
+possibility of doubt. The simplicity of this<lb/>
+remedy, of which the basis is nothing else than<lb/>
+<hi rend="italic">Castile Soap</hi>, may perhaps furnish a pretext<lb/>
+to doubt and disapprove, to such as imagine,<lb/>
+that only pharmaceutic monsters are capable<lb/>
+of triumphing over a disease dangerous in its<lb/>
+results and its contagion. But I appeal to en-<lb/>
+lightened physicians, who profess clinical and<lb/>
+experimental medicine, whether they fre-<lb/>
+quently do not owe their most brilliant success<lb/>
+to means often simple in the extreme.</p>
+<p>The harmony of nature is simple in its pro-<lb/>
+gress, however complicated and beautiful it<lb/>
+may be; each plant has its specific virtue,<lb/>
+and so also for each distemder there exists<lb/>
+the means of curing it.</p>
+<p>At the period when the small pox first ap-<lb/>
+peared, all the efforts of the greatest Physi-<lb/>
+cians, and their most complicated prescrip-<lb/>
+tions failed of success against that terrible<lb/>
+scourge: it was the hand of time pointed out<lb/>
+the simple and fortunate method of subduing<lb/>
+it; and it was time which afterwards, at two<lb/>
+distant periods, produced Lady Montague,<lb/>
+and the celebrated Jenner, who have given to<lb/>
+that disease the deathblow.</p>
+<p>Were not intermittent fevers, and the sy-<lb/>
+philitic disorder for a long time the reproach<lb/>
+of the greatest practitioners, and the rock on<lb/>
+which they split? Nevertheless, each of those<lb/>
+disorders has now its specific. The Peruvi-<lb/>
+<unclear>an Bark</unclear> that simple <unclear>Bark [unclear]<lb/>
+[unclear]</unclear> vegetation, infallibly destroys the one,<lb/>
+and Mercury, that Camelion, a fluid, a metal,<lb/>
+properly administered and carefully prepared,<lb/>
+annihilates the other.</p>
+<p>The remedy of which we speak, in all fam-<lb/>
+ilies is in daily use, and appears to have been,<lb/>
+by Providence, scattered with profusion not<lb/>
+only as a cure for the yellow fever, but also<lb/>
+as the means of preservation from it.</p>
+<p>The author of this interesting discovery,<lb/>
+thoroughly persuaded of its efficacy in a state<lb/>
+of sickness, by the favorable results that he<lb/>
+<unclear>h</unclear>as uniformly obtained from it, believes also<lb/>
+<unclear>t</unclear>hat this means employed in the predisposition<lb/>
+<unclear>t</unclear>o sickness can preserve as well from the evil<lb/>
+<unclear>a</unclear>s from the danger of it.</p>
+<p>He even believes this remedy, well applied,<lb/>
+might have a happy effect against the plague.</p>
+<p>The better to make known to the public<lb/>
+both the predisposition and the disorder, he<lb/>
+will in the first place lay down the indications<lb/>
+of the former, and the symptoms of the latter,<lb/>
+and will then add some details on the curing<lb/>
+effects of this remedy. This he believes the<lb/>
+<unclear>mo</unclear>re necessary, since, for want of informa-<lb/>
+tion, and because a professional character is<lb/>
+not called in time, and the use of the preser-<lb/>
+ving remedy is delayed, the majority of pa-<lb/>
+tients labouring under the disorder fall vic-<lb/>
+tims to it without a possibility of being suc-<lb/>
+coured.</p>
+<p>First, the predisposition to the yellow fever;<lb/>
+the patient generally complains of a slight in-<lb/>
+disposition, such as is usual before the attack<lb/>
+of common fevers, a general uneasiness, low-<lb/>
+ness of spirits, debility, drowsiness, w<unclear>ea</unclear>riness,<lb/>
+followed by pains in the reins, in the thighs,<lb/>
+knees, and slight shiverings, which proceed<lb/>
+from the lower extremities to the reins, with<lb/>
+the quickness of lightning, a difficult and long<lb/>
+respiration, the saliva and mucus of the nose,<lb/>
+thin, rare and hot, singing in the ears, a hea-<lb/>
+viness in the eyes, an involuntary melancholy,<lb/>
+a want of appetite and a foul mouth. All these<lb/>
+signs, or many of them, exist for a greater or<lb/>
+less time before the development of the fe-<lb/>
+ver according to the constitution, the state of<lb/>
+<unclear>t</unclear>he atmosphere, or of the contagion; for I<lb/>
+have witnessed patients die in time of great<lb/>
+infection before experiencing the febrile crisis;<lb/>
+<unclear>[unclear]</unclear> instance, a patient who consulted me about<lb/>
+<unclear>[unclear]</unclear> indisposition characterized by some predis<lb/>
+<unclear>ing</unclear> signs, died at the door at the moment I<lb/>
+was feeling his pulse, which was by no means<lb/>
+<unclear>f</unclear>everish.</p>
+<p>Second, the real symptoms of the state of<lb/>
+<unclear>s</unclear>ickness, according to the observations of the<lb/>
+<unclear>a</unclear>uthor and acknowledged by the best practi-<lb/>
+<unclear>t</unclear>ioners, are in most instances, but not invaria-<lb/>
+<unclear>b</unclear>ly, a chilly fit; in a short time violent pains<lb/>
+<unclear>s</unclear>ome on in the fore part of the head, in the<lb/>
+<unclear>e</unclear>yes, loins, hips and thighs. The face becomes<lb/>
+<unclear>f</unclear>lushed, the eyes of a fiery red, and intolerant<lb/>
+<unclear>of</unclear> light, with a stinging or burning heat in the<lb/>
+<unclear>t</unclear>in; the pulse is full, quick and hard, the<lb/>
+<unclear>r</unclear>espiration deep and difficult; the tongue is<lb/>
+covered with a whitish fur, and moist; the<lb/>
+<unclear>t</unclear>hirst is sometimes excessive, at others mode-<lb/>
+<unclear>r</unclear>ate; the stomach is distended, and irritable<lb/>
+with pain and burning heat, accompanied by<lb/>
+excessive sickness; it is often troubled by vi-<lb/>
+olent retching, with a vomiting of mucus or<lb/>
+<unclear>h</unclear>eir drink mixed with an acrid greenish mat-<lb/>
+<unclear>t</unclear>er corroding the <unclear>fauces</unclear>; the bowels are cos-<lb/>
+<unclear>t</unclear>ive; the patient feels great restlessness and<lb/>
+<unclear>d</unclear>espondency, moaning and tossing about the<lb/>
+<unclear>b</unclear>ed as if to find some relief from a change of<lb/>
+posture; hemorhage at the nose, a difficulty<lb/>
+and sometimes a stoppage of urine, &amp;c. &amp;c.</p>
+<p>The specific remedy opportunely administer-<lb/>
+ed operates in the following manner: In the<lb/>
+first place; the pains decrease; the muscu<unclear>-</unclear><lb/>
+lar agitation becomes calm; the urine <unclear>re</unclear>gains<lb/>
+its course; the fever abates; the skin <unclear>bec</unclear>omes<lb/>
+moist; the respiration free; the thir<unclear>st de</unclear>min-<lb/>
+ished; the irritation of the stomach <unclear>di</unclear>sap-<lb/>
+pears, and the vomiting ceases; the dryness<lb/>
+of the throat is no longer felt, and from the<lb/>
+sixth to the seventh day, either a favourable<lb/>
+crisis by means of a sweat or stool, and a bili-<lb/>
+ous vomit destroys the fever; the 8th day the<lb/>
+sickness is terminated, and 3 or 4 days of con-<lb/>
+valescence restore to the patient his accustom-<lb/>
+ed calm. If the disease should happen not to<lb/>
+follow these periods marked by experience, in<lb/>
+such case it ought no longer to be classed with<lb/>
+the real yellow fever, but would belong to the<lb/>
+class of putrid and malignant bilious fevers, of<lb/>
+which the symptoms would be nearly destroy-<lb/>
+ed, but which would render necessary the use<lb/>
+of frebrifuges, in order to complete the effect<lb/>
+of this remedy.</p>
+<p>This remedy is also eminently adapted to<lb/>
+bilious colics; obstructing affections on the li-<lb/>
+ver; the jaundice; obstructed perspiration,<lb/>
+and in a word, to all cases where the acrid<lb/>
+bile or inverted secretions menace life, a dan-<lb/>
+ger unfortunately too frequent, in consequence<lb/>
+of the inconstancy of the climate we live in.</p>
+<p>On the advantages of so important a disco-<lb/>
+very I shall forbear to dilate. It is so much<lb/>
+the more precious, as, according to the opin-<lb/>
+ion of our most learned physicians, we must<lb/>
+now consider the yellow fever as an endemic.</p>
+<p>The author the better to convince <unclear>h</unclear>is fel-<lb/>
+low citizens, will add to a memoir which he<lb/>
+proposes to have printed, on the method of<lb/>
+treatment, by which he has obtained such sig-<lb/>
+nal success, the various cures he has opera-<lb/>
+ted by this means in divers epidemics, and du-<lb/>
+ring the space of five years since he has com<unclear>-</unclear><lb/>
+menced using it. He thought this lapse of<lb/>
+time necessary to consolidate his observations<lb/>
+on the poisonous ferment of the disorder, and<lb/>
+the victorious effect of his remedy.</p>
+<p>All those persons whom a well grounded<lb/>
+confidence shall induce to adopt the use of it,<lb/>
+will doubtless become strenuous advocates of<lb/>
+its infallbility, and as well the unfortunate as<lb/>
+the rich, will find at their hands the same<lb/>
+succour, and the same assistance.</p>
+<p>Hereinafter are mentioned more than a hun-<lb/>
+dred certificates, which establish the period of<lb/>
+the discovery.</p>
+<p>We, the subscribers, residents of the city of<lb/>
+Baltimore, do hereby certify, that Doctor<lb/>
+John J. Giraue, attended us during the pre-<lb/>
+valence of the yellow fever, which raged in<lb/>
+this city in the year 1800, when laboring<lb/>
+under that disorder, and cured us of it by<lb/>
+his judicious and salutary treatment, and to<lb/>
+testify our persuasion of the truth and effica-<lb/>
+cy of <unclear>his</unclear> mode of treatment we have [unclear]<lb/>
+to given our signatures,</p>
+<p>[Here follows the names of about 100 per-<lb/>
+sons, residents of the city of Baltimore.</p>
+<p>STATE OF MARYLAND,</p>
+<p><hi rend="italic">City of Baltimore, to wit</hi>.</p>
+<p>Be it remembered, that on this twenty sixth<lb/>
+of March in the year of our Lord eighteen<lb/>
+hundred and six, personally appeared before<lb/>
+me the subscriber, Mayor of the city of Balti-<lb/>
+more, John J. Giraud Physician of the city<lb/>
+aforesaid, a citizen of the United States, who<lb/>
+being sworn on the Holy Evangelists of Almi-<lb/>
+ghty God, deposeth and saith, that in the year<lb/>
+1800, during the prevalence af the yellow ma-<lb/>
+lignant fever in the said city of Baltimore, he<lb/>
+did make the discovery of a medicine, which<lb/>
+he is thoroughly persuaded is a certain and<lb/>
+specific remedy for the cure, and prevention<lb/>
+of that disease; during the period of five years<lb/>
+past, he has always administered it to such<lb/>
+patients laboring under the above mentioned<lb/>
+disease, as were committed to his care, and<lb/>
+by means of it has effected their cure, gener-<lb/>
+ally in the course of eight days, by using the<lb/>
+remedy in the commencement of the disorder,<lb/>
+and before the application of any other; that<lb/>
+from the happy and uniform effects, which<lb/>
+have constantly attended it, he verily belives<lb/>
+it to be a certain and specific remedy for the<lb/>
+said disease, and that it will stand the test of<lb/>
+time and experience: And moreover that he<lb/>
+the deponent is ready at all times to submit it<lb/>
+to such trial and proof as may be required to<lb/>
+establish its efficacy.</p>
+<p>In testimony whereof I have hereunto<lb/>
+subscribed my name, and caused the<lb/>
+corporate seal of the said city to be<lb/>
+affixed, on the day and year first above<lb/>
+written.</p>
+<p><hi rend="italic">(Seal.')</hi> THOROWGOOD SMITH,<lb/>
+<hi rend="italic">Mayor of the city of Baltimore</hi>.</p>
+<p>* The editors of the newspapers throgh<lb/>
+out the U. S. are requested to copy the for-<lb/>
+going.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

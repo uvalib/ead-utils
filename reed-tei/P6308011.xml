@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY P6308011 SYSTEM "P6308011.jpg" NDATA jpg>
+<!ENTITY P6308012 SYSTEM "P6308012.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="P6308011">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Model of Camp Columbia with accompanying notes by Albert E. Truby, [January 14, 1941]</title>
+<title type="gmd">[electronic resource] </title>
+<author></author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>P6308011</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1941-01-14</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph">YES</term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Camp Columbia, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Photograph</abbr>
+<extent>2 pp.</extent>
+<date value="1941-01-14">January 14, 1941</date>
+<idno rend="suppress">P6308011</idno>
+<title>Model of Camp Columbia with accompanying notes by Albert E. Truby, January 14, 1941</title>
+</bibl>
+</head>
+<p></p>
+</div1>
+</front>
+<body>
+<div1 type="photo" n="1">
+<head>Model of Camp Columbia with accompanying notes by Albert E. Truby, January 14, 1941</head>
+<p><figure entity="P6308011"></figure></p>
+<p><del>Two</del> About 500 yds.<lb/>
+beyond the morgue, and<lb/>
+West of La Playa roadway,<lb/>
+was the Post Cemetery. Later<lb/>
+all bodies were removed and<lb/>
+shipped to the U. S.</p>
+<p>Road to Main Post</p>
+<p>A deep valley between Wards and<lb/>
+the road leading to the post.</p>
+<p>RR Track to La Playa</p>
+<p>MORGUE<lb/>
+25</p>
+<p>Road to LA Playa</p>
+<p>kitchen<lb/>
+Mess<lb/>
+(Patients)</p>
+<p>Nurses qrs.</p>
+<p>Road to Main Post.</p>
+<p>To Gen Lee St.</p>
+<p>To Q.M. dump<lb/>
+and WareHouses</p>
+<p>To Quemados.</p>
+<p><figure entity="P6308012"></figure></p>
+<p>
+<list type="simple">
+<item>1. Bachelor Med Officers Quarters<lb/>
+with Mess &amp; Bath house</item>
+<item>2. C. O.'s quarters (Stark) Porch<lb/>
+around Entire building was<lb/>
+not there in 1900.</item>
+<item>3. Lazear's quarters. Porch Enlarged<lb/>
+after 1900-</item>
+<item>4. New C. O.'s quarters built in<lb/>
+1901.</item>
+<item>5. Barracks for Enlisted men.</item>
+<item>6. Mess &amp; bath house " "}These should be nearer to wards at X</item>
+<item>7. Original Receiving Ward</item>
+<item>8. Nurses <add>female</add> quarters</item>
+<item>9. Venereal Ward.</item>
+<item>10. Old operating room. It became<lb/>
+Reed's laboratory in 1900-</item>
+<item>11. Operating pavilion (absent in Model)</item>
+<item>12. Three long ward buildings</item>
+<item>13. Original office of the hospital (1899)?</item>
+<item>14. N C O. quarters &amp; night men?<lb/>
+were storehouses for Med. Supplies in 1899</item>
+<item>15. Disinfecting plant</item>
+<item>16. was probably built in 1906 no</item>
+<item>17. Ames' office (tents)</item>
+<item>18. 2 bed ward for yellow<lb/>
+fever cases.</item>
+<item>19. 5 bed ward for y. f. cases</item>
+<item>20 } Toilets (tents)</item>
+<item>21 }</item>
+<item>22 5 bed ward.</item>
+<item>23 2 " "</item>
+<item>24 Storage? (tent)</item>
+<item>25 Hospital autopsy room<lb/>
+and morgue</item>
+</list></p>
+<p>--------------------------------</p>
+<p>The model must have been<lb/>
+made when our troops were<lb/>
+there in 1906 - 08. The y f.<lb/>
+buildings are too far west of R R.<lb/>
+and the two rows are too far apart</p>
+<p>AET</p>
+<p>1/14/41</p>
+<p>Remarks:-</p>
+<p>The model as it is assembled at Carlisle<lb/>
+Bks. is very inaccurate. The buildings<lb/>
+are well done and those that were there<lb/>
+in my time are readily recognizable.<lb/>
+They are, however all crowded together,<lb/>
+when in reality the distances were<lb/>
+great. For example the distance from<lb/>
+the Med. officers quarters (1) to wards<lb/>
+was about 240 ft. and from the <hi>flag pole</hi><lb/>
+to <hi>Reed's lab. was about 180</hi> ft. yds? I know<lb/>
+this because Reed asked me to have the<lb/>
+distance measured and he reported the<lb/>
+distance in describing Carroll's walk to the<lb/>
+Lab. <del>when</del> to examine his (Carroll's) blood<lb/>
+on Aug 31, 1900. (See Preliminary Report.)</p>
+<p>As the buildings are arranged on<lb/>
+this sheet, I think you will find that<lb/>
+all the old timers will agree that it<lb/>
+is fairly good, if not almost accurate.<lb/>
+Of course, I realize that, the sections<lb/>
+of the model could not possibly be<lb/>
+arranged to fit the <add>rectangular</add> case you described<lb/>
+and at the same time be accurate.<lb/>
+It is possible that Sr. Perez <del>arranged</del><lb/>
+Expected that the parts of the model<lb/>
+would be set up correctly in the U. S. and<lb/>
+that someone assembled them in<lb/>
+the U. S. from written instructions, but<lb/>
+without any conception of the<lb/>
+general plan of the grounds.</p>
+<p>You will find that the arrangement<lb/>
+heron corresponds very well with<lb/>
+the plan of the grounds I sent you.<lb/>
+Several of the old men have set me<lb/>
+straight on the location of the barracks<lb/>
+and the old small box building, used<lb/>
+in 1900 by Ames to treat the cases from<lb/>
+Camp Lazear. Earlier Ames had<lb/>
+preferred framed tents to the shacks.</p>
+<p>I am trying to find out if Lazear died<lb/>
+in one of the 4 buildings or <add>in</add> a tent. I can't<lb/>
+remember- I know the man who assisted in his case when sick, Hope I can locate him.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

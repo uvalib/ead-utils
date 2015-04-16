@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t06269008">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Jefferson Randolph Kean to Henry P. Birmingham, January 30, 1925</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Kean, Jefferson Randolph</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06269008</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1925-01-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Birmingham, Henry P.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Gorgas, Marie D.</name>
+<name type="person">Hendrick, Burton J.</name>
+<name type="person">Ireland, Meritte W.</name>
+<name type="person">Scott, Gen. [Winfield?]</name>
+<name type="place">South America</name>
+<name type="place">Germany</name>
+<name type="publication">Marie D. Gorgas and Burton J. Hendrick, William Crawford Gorgas, His Life and Work (1925)</name>
+<name type="publication">Military Surgeon</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1925-01-30">January 30, 1925</date>
+<idno rend="suppress">06269008</idno>
+<title>Letter from Jefferson Randolph Kean to Henry P. Birmingham, January 30, 1925</title>
+</bibl>
+</head>
+<p>Kean offers his opinion on the accuracy of the Gorgas biography. He requests Birmingham's recollection of Gorgas' decision to retire.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1925-01-30">
+<head>Letter from Jefferson Randolph Kean to Henry P. Birmingham, January 30, 1925</head>
+<pb n="1" id="f06269008"/>
+<opener>
+<dateline>
+<date value="1925-01-30">January 30, 1925.</date>
+</dateline>
+Col. H. P. Birmingham, USA, Ret.,<lb/>
+U.S. Soldiers Home,<lb/>
+Washington, D.C.<lb/>
+<salute>My dear Birmingham:</salute>
+</opener>
+<p>My mind has been taken back a good deal in the<lb/>
+last week to the old times by reading the biography of<lb/>
+General Gorgas by Mrs. Gorgas and Mr. Hendrick, and the<lb/>
+preparing of a review of it for The Military Surgeon.<lb/>
+The book is very entertainingly written but belongs more<lb/>
+to romance than to history. I was checking up some of<lb/>
+the facts this morning with General Ireland and we both<lb/>
+got to wondering when it was after General Gorgas' return<lb/>
+from South America and just before our declaration of war<lb/>
+with Germany that he spoke to the Secretary about his de-<lb/>
+sire to retire. Also why did he not do so? Was it<lb/>
+General Scott's opposition or our rupture of diplomatic<lb/>
+relations with Germany that prevented? Any statement<lb/>
+that you can give me with regard to this matter which is<lb/>
+now of some historical importance, will be much apprecia-<lb/>
+ted.</p>
+<p>With all good wishes,</p>
+<closer>
+<salute>Sincerely your friend,</salute>
+<signed>J. R. KEAN<lb/>
+Colonel, U.S. Army, Retired<lb/>
+Secretary-Treasurer</signed>
+JRK/W<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02160001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Report of Committee on the Etiology of Yellow Fever, by Henry B. Horlbeck, October 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Horlbeck, Henry B.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02160001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-10-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">American Public Health Association</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Lutz, Adolphe</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="place">Cuba</name>
+<name type="place">Mexico</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Colombia</name>
+<name type="place">Brazil</name>
+<name type="place">Turin (Italy)</name>
+<name type="place">Charleston (S.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>6 pp.</extent>
+<date value="1900-10-00">October 1900</date>
+<idno rend="suppress">02160001</idno>
+<title>Report: Report of Committee on the Etiology of Yellow Fever, by Henry B. Horlbeck, October 1900</title>
+</bibl>
+</head>
+<p>Horlbeck concludes in this report to the American Public Health Association that the bacillus icteroides, discovered by Sanarelli, is the cause of yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-10-00">
+<head>Report: Report of Committee on the Etiology of Yellow Fever, by Henry B. Horlbeck, October 1900</head>
+<pb n="1" id="f02160001"/>
+<p>Proc Am P H Assoc 28th meeting<lb/>
+Oct 1900 &check;</p>
+<p>&check; REPORT OF COMMITTEE ON THE ETIOLOGY OF<lb/>
+YELLOW FEVER.</p>
+<p>BY DR. HENRY B. HORLBECK, CHAIRMAN,<lb/>
+HEALTH OFFICER, CHARLESTON, SOUTH CAROLINA.</p>
+<p>TO THE PRESIDENT AND MEMBERS OF THE <hi>AMERICAN PUBLIC<lb/>
+HEALTH ASSOCIATION--GENTLEMEN</hi>: The Committee of the Ameri-<lb/>
+can Public Health Association, to whom has been entrusted the sub-<lb/>
+ject of the Etiology of Yellow Fever, beg to make their report, as<lb/>
+follows:</p>
+<p>Our report presented at the last meeting of your body at Minne-<lb/>
+apolis gave you a resum&eacute; of the investigations of several bacteriolo-<lb/>
+gists as to the status of the bacillus icteroides as presented to the<lb/>
+scientific world by Prof. Guiseppe Sanarelli--as the cause of yellow<lb/>
+fever.</p>
+<p>There have been no other claimants that we are cognizant with<lb/>
+during the year 1900, as to the discovery of the specific cause of<lb/>
+yellow fever.</p>
+<p>It will be, therefore, our effort to present to you the result of the<lb/>
+labors of those bacteriologists who have, during the past twelve<lb/>
+months, been devoting themselves to the study of Prof. Sanarelli's<lb/>
+bacillus. The controversy as to whether this bacillus is the true<lb/>
+cause of yellow fever continues to engage the attention of an ex-<lb/>
+tended circle who are taking the deepest interest in these investiga-<lb/>
+tions. This is a subject of vast importance to many millions of peo-<lb/>
+ple who inhabit and live in tropical and semi-tropical regions where<lb/>
+the possibilities of harm to human life from this cause is ever present.<lb/>
+It is, therefore, surely a matter that will always command the pro-<lb/>
+found attention of the many health officials whose responsibilities<lb/>
+require their constant and undivided attention in taking the necessary<lb/>
+precautions to protect the communities whose health interests are<lb/>
+under their direct care and constant supervision.</p>
+<p>During our heated spells of the midsummer months the boundaries<lb/>
+of the possibilities of the prevalence of the scourge known as yellow<lb/>
+fever are greatly extended, and for a limited period the greatest<lb/>
+vigilance is expected and exacted in our more northerly ports--as is<lb/>
+surely the case in our southern ports for a much longer time: to<lb/>
+keep watch and ward to prevent the sickness and desolation that<lb/>
+attends the presence of and the prevalence of typhus icteroides.<lb/>
+Moreover sections where this plague has never appeared are deeply<lb/>
+28<lb/>
+<pb n="2" id="f02160002"/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+29<lb/>
+concerned in their commercial relations with those places that may be<lb/>
+suffering; so we may well realize a common, widespread and absorb-<lb/>
+ing interest in the development of the knowledge of the causation of<lb/>
+a disease that affects the health and well being of so extended a terri-<lb/>
+tory; inhabited by so many millions of human beings.</p>
+<p>Tens of thousands of inhabitants in many lands in different conti-<lb/>
+nents have fallen victims to yellow fever, and we are still in ignorance<lb/>
+of the causes of the disease. Constant and laborious have been the<lb/>
+efforts made to unravel the labyrinth, but so far the secret seems<lb/>
+still securely locked up, and it is still one of the mysteries of our pro-<lb/>
+fession that baffles the most painstaking and zealous investigators.</p>
+<p>This Association stands on the record as having made the greatest<lb/>
+efforts to induce a permanent organization to be established in a<lb/>
+yellow fever port or centre for the purpose of continuous investiga-<lb/>
+tion. An organization of competent bacteriologists fully equipped<lb/>
+to do work in this cause and to work until the mysteries of the eti-<lb/>
+ology of yellow fever have been solved.</p>
+<p>Our Congress has paid but scant attention to our recommenda-<lb/>
+tions and requests, and our immense interests of life and commercial<lb/>
+prosperity are now, as they have been in the past, and non-inter-<lb/>
+course and detention is exacted, hampering the vast requirements of<lb/>
+modern progress.</p>
+<p>The United States have been greatly favored during the year 1900.<lb/>
+We have only the reports of a very few cases to note--the disease<lb/>
+ceasing with those cases.</p>
+<p>Yellow fever has been prevalent to a considerable extent in the<lb/>
+Island of Cuba, especially in the city of Havana. Yellow fever has<lb/>
+also prevailed to a limited extent on the coast of Mexico--also in<lb/>
+Columbia and Brazil. I note 623 deaths at Sorocaba, in Brazil; also<lb/>
+95 deaths at Santos, and 55 deaths at Rio Janerio. The disease has<lb/>
+not visited our shores and we have been greatly blessed.</p>
+<p>The investigations as to the etiology of yellow fever are of a deep<lb/>
+and abiding interest, on account of the distinguished character of the<lb/>
+bacteriologists who have been pursuing the subject, and on account<lb/>
+of the directly different results obtained.</p>
+<p>As our report presented to you last year showed the most marked<lb/>
+differences in deductions from investigations made, so in this past<lb/>
+year there is a direct difference of opinion as to the Sanarelli bacillus<lb/>
+in its relation to yellow fever.</p>
+<p>I am indebted to our distinguished ex-President, Surgeon-General<lb/>
+G. M. Sternberg, for the literature of several investigations and re-<lb/>
+searches, as to the etiology of yellow fever. The limits of this paper<lb/>
+<pb n="3" id="f02160003"/>
+30<lb/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+will forbid our presenting in extenso all of the published matter in<lb/>
+reference to this all absorbing subject:</p>
+<p>&ldquo;SAN PAULO, January 12, 1900.</p>
+<p>&ldquo;<hi rend="italic">Professor Perroncito, President of the Royal Academy of Medicine, of<lb/>
+Turin</hi>:</p>
+<p>In response to your request I send you a resum&eacute; of the researches<lb/>
+made by my institute in 1898, which has just been printed. You<lb/>
+will see that, in perfect accord with all unprejudiced observers, I<lb/>
+consider that the serum of Sanarelli has not shown any favorable<lb/>
+effect upon the sick who have been treated by this method. It is,<lb/>
+besides, well known that its preventive action has completely failed<lb/>
+in many cases in which the experiment has been made. I will say<lb/>
+further that in our experiments made with the bacillus isolated at<lb/>
+San Carlos, and recognized by Sanarelli as genuine, the serum has<lb/>
+not succeeded in protecting the animals experimented upon against<lb/>
+the effects of inoculation. When the cultures of San Carlos are<lb/>
+tried with the serum of Sanarelli they are agglutinated in the pro-<lb/>
+portion of one to 4000 and even more. The bacillus does not develop<lb/>
+in the pure serum but mixed with one or two parts of bouillon it<lb/>
+no longer prevents abundant development--only the bacillus grows<lb/>
+agglutinated at the bottom of the tube, producing long chains very<lb/>
+similar to those of the bacillus of Yersin. You can easily repeat<lb/>
+this experiment, which was made by one of my assistants.</p>
+<p>It results from all this, as I have already stated to a representative<lb/>
+of the company manufacturing the serum, that this serum has neither<lb/>
+bactericidal nor antitoxic power for the bacillus used in producing<lb/>
+it, and that its employment should not be recommended.</p>
+<p>As regards the etiological role of the bacillus which was discovered<lb/>
+and very well studied by Professor Sanarelli, it seems to me that<lb/>
+it is not entirely beyond doubt. Many epidemiological facts accord<lb/>
+very badly with the bacillary theory. The bacillus has never been<lb/>
+found in an evident manner in the fresh tissues of sixty yellow fever<lb/>
+cadavers which I have examined with the best staining methods.<lb/>
+The blood, which is always sterile in the first part of the malady,<lb/>
+rarely gives a frank agglutination. The bacillus cannot be found<lb/>
+by known methods of research in more than half the cases. When<lb/>
+it is present it is only obtained in rare colonies, the disease being<lb/>
+characterized by the facility with which the organism is invaded by<lb/>
+microbes which have nothing to do with the malady. It is possible<lb/>
+that the presence of Sanarelli's bacillus is simply due to a secondary<lb/>
+infection, which varies in frequency according to the season and lo-<lb/>
+cality at which the observation is made.</p>
+<p>I have seen in the literature references to observers who found the<lb/>
+bacillus in all cases, and who believe they are able to make the<lb/>
+diagnosis by the agglutinating action of the blood. But I am abso-<lb/>
+lutely certain that their reports are the result of confusion and gross<lb/>
+errors. If we admitted that the bacillus of Sanarelli is the cause of<lb/>
+yellow fever there remains still much obscurity upon the transmis-<lb/>
+sion and mechanism of the malady; and certainly therapeutics has<lb/>
+<pb n="4" id="f02160004"/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+31<lb/>
+as yet gained nothing from this discovery. The prevention of the<lb/>
+disease continues to be one of the most difficult tasks.</p>
+<p>As corresponding member of the Academy of Medicine of Turin, I<lb/>
+feel myself obliged to make these declarations, as I have already<lb/>
+done in my capacity as Director of the Bacteriological Institute,<lb/>
+where the study of yellow fever has been carried on with much care<lb/>
+during long years. Personally, I have seen more than 500 cases and<lb/>
+about 100 autopsies, so that I am quite familiar with the malady.<lb/>
+I have also visited twenty independent epidemic centres of the dis-<lb/>
+ease. If I have not published more upon this question it is because<lb/>
+in my opinion it is still so far from being elucidated that it cannot<lb/>
+be profitably discussed.</p>
+<p>I terminate my letter with best wishes for the Academy and its<lb/>
+members.</p>
+<p>Very truly yours,<lb/>
+(Signed) DR. ADOLPHE LUTZ.&rdquo;</p>
+<p>Dr. Sternberg, in an article published in The Medical News, De-<lb/>
+cember 9, 1899, says, after reviewing his expressed views as to the<lb/>
+Sanarelli bacillus:</p>
+<p>&ldquo;For the present I see no good reason for changing the opinion<lb/>
+expressed at the conclusion of my previous communication, viz., that<lb/>
+the etiological relation of Sanarelli's bacillus has not yet been estab-<lb/>
+lished.&rdquo;</p>
+<p>Dr. Sternberg also calls attention to the following:</p>
+<p>&ldquo;Agramonte reports that he has isolated the Sanarelli bacillus<lb/>
+from three cadavers in which death was not due to yellow fever.&rdquo;</p>
+<p>Dr. Sternberg also, in his article, quotes the conclusions of Drs.<lb/>
+Reed and Carroll, as follows:</p>
+<p>&ldquo;The conclusions of Reed and Carroll are stated as follows:</p>
+<p>1. Bacillus X (Sternberg) belongs to the colon group.</p>
+<p>2. Bacillus icteroides (Sanarelli) is a member of the hog-cholera<lb/>
+group.</p>
+<p>3. The various channels of infection, the duration of the disease<lb/>
+and the gross and microscopical lesions in mice, guinea-pigs and<lb/>
+rabbits are the same for the bacillus icteroides and the hog-cholera<lb/>
+bacillus.</p>
+<p>4. The clinical symptoms and the lesions seen in dogs inoculated<lb/>
+intravenously with bacillus icteroides, are reproduced in these ani-<lb/>
+mals by infection with the hog-cholera bacillus.</p>
+<p>5. Bacillus icteroides when fed to the domestic pig causes fatal<lb/>
+infection accompanied by diphtheritic, necrotic and ulcerative lesions<lb/>
+in the digestive tract, such as are seen in hogs when infected with<lb/>
+the hog-cholera bacillus.</p>
+<p>6. This disease may be acquired by exposing swine in pens already<lb/>
+infected with bacillus icteroides, or by feeding them with the viscera<lb/>
+of infected pigs.</p>
+<pb n="5" id="f02160005"/>
+<p>32<lb/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.</p>
+<p>7. Guinea-pigs may be immunized with sterilized cultures of bacil-<lb/>
+lus icteroides against a fatal dose of the hog-cholera bacillus, and<lb/>
+vice versa.</p>
+<p>8. Rabbits may be rendered immune by gradually increasing doses<lb/>
+of a living culture of bacillus icteroides of weak virulence against a<lb/>
+fatal dose of a virulent culture of the hog-cholera bacillus.</p>
+<p>9. The sera of animals immunized with bacillus icteroides and the<lb/>
+hog-cholera bacillus, show a marked reciprocal agglutinative reac-<lb/>
+tion.</p>
+<p>10. While the blood of yellow fever practically does not exercise<lb/>
+an agglutinative reaction upon bacillus icteroides, the blood of hog-<lb/>
+cholera agglutinates this bacillus in a more marked degree, thus<lb/>
+pointing, we think, to the closer etiological relationship of this bacil-<lb/>
+lus to hog-cholera than to yellow fever.&rdquo;</p>
+<p>In an able and interesting article in the Medical News, February<lb/>
+10-17, Dr. Aristides Agramonte, Acting Assistant Surgeon, U. S.<lb/>
+A., gives a report of bacteriological investigations upon yellow<lb/>
+fever, with the following conclusions:</p>
+<p>&ldquo;1. The specific pathogenic micro-organism of yellow fever is as<lb/>
+yet an unknown entity in spite of the work reported by various ob-<lb/>
+servers; apparently, new methods of cultivation must be initiated or<lb/>
+new culture media devised in future research.</p>
+<p>2. The bacillus icteroides of Sanarelli, lately (1897), asserted to<lb/>
+be the causative agent of yellow fever, is no more concerned in the<lb/>
+production of this disease than the common colon bacilli which are<lb/>
+constantly found in the blood and viscera of individuals suffering or<lb/>
+dead from yellow fever.</p>
+<p>3. When approved bacteriological methods are employed, the<lb/>
+bacillus of Sanarelli does not, as a rule, appear in cultures from the<lb/>
+blood of yellow fever patients.</p>
+<p>4. Bacillus icteroides may be and has been found present in the<lb/>
+tissues of cadavers dead from other diseases, neither allied nor simi-<lb/>
+lar to yellow fever.</p>
+<p>5. The bacillus of Sanarelli, when subjected to agglutination tests,<lb/>
+is not affected by the serum of yellow fever patients or convalescents.</p>
+<p>6. The serum of convalescent yellow fever cases affords absolutely<lb/>
+no protection against infection by the bacillus of Sanarelli.</p>
+<p>7. None of the organisms thus far isolated from yellow fever cases<lb/>
+can be considered as the pathogenic agent of the disease.</p>
+<p>8. Experimental evidence has demonstrated that the serum of in-<lb/>
+dividuals convalescing from yellow fever, or who lately suffered an<lb/>
+attack of this disease, will very materially and favorably affect those<lb/>
+actually under the influence of the infection if injected under the skin,<lb/>
+<pb n="6" id="f02160006"/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+33<lb/>
+on or before the fourth day after the invasion; but that it requires<lb/>
+further study to determine the protective power of different sera and<lb/>
+the dosage.</p>
+<p>9. From the experimental evidence above referred to, we are led<lb/>
+to believe that the subcutaneous injection of convalescents' serum will<lb/>
+convey immunity to individuals whom we to-day consider as sus-<lb/>
+ceptible to the disease.&rdquo;</p>
+<p>From the Public Health Reports of the United States Marine<lb/>
+Hospital Service, September 7, 1900, we take the following conclu-<lb/>
+sions from an article by Proust and Wurtz read before the Interna-<lb/>
+tional Congress of Hygiene and Demography translated by M. J.<lb/>
+Rosenau, Passed Assistant Surgeon, U. S. M. H. S.</p>
+<p>CONCLUSIONS.</p>
+<p>&ldquo;I. The bacillus icteroides, discovered by Sanarelli, seems to us to<lb/>
+be the specific agent of yellow fever.</p>
+<p>That micro-organism injected into certain animals, especially dogs,<lb/>
+reproduces symptoms and lesions strikingly analogous to those ob-<lb/>
+served in man.</p>
+<p>The toxin of this bacillus produces in animals the same effect as<lb/>
+the microbe. The injection of this toxin into five individuals repro-<lb/>
+duced in man typical yellow fever, accompanied by its symptoms and<lb/>
+anatomical lesions.</p>
+<p>The serum of individuals attacked with yellow fever agglutinates<lb/>
+cultures of the bacillus icteroides.</p>
+<p>II. The bacillus has a prolonged vitality both in air and water<lb/>
+(fresh and sea). It is certain that it is the same in the soil. Moulds<lb/>
+favor its development. These facts confirm conditions that have<lb/>
+been known a long time. They explain the reawakening of yellow<lb/>
+fever a long time after the extinction of an epidemic, and the lon-<lb/>
+gevity of the disease aboard vessels in bad hygienic conditions.</p>
+<p>No new prophylactic measures have come out in this knowledge<lb/>
+of the etiology of the disease. As formerly, the prevention of yellow<lb/>
+fever consists in applying the measures of isolation and of disinfec-<lb/>
+tion, and of improving the hygienic conditions.&rdquo;</p>
+<p>We have, as above, brought to your attention and consideration<lb/>
+the findings and publications of these distinguished bacteriologists<lb/>
+as to the specific cause of yellow fever.</p>
+<p>They are very important contributions, however widely divergent,<lb/>
+and while the matter of the etiology of yellow fever is far from being<lb/>
+conclusively decided, these researches all of them furnish matters of<lb/>
+information which will be guiding stars in future investigations.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

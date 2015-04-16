@@ -1,0 +1,672 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03101002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Original Contributions to the Science of Medicine by Medical Officers of the Army. Walter Reed and Yellow Fever, by Joseph F. Siler, [1926]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03101002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1926-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Nott, Josiah C.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Gorgas, William</name>
+<name type="person">Crawford, Welch</name>
+<name type="person">William, Henry</name>
+<name type="place">Southern United States</name>
+<name type="place">Philadelphia (Pa.)</name>
+<name type="place">Memphis (Tenn.)</name>
+<name type="place">New Orleans (La.)</name>
+<name type="place">United States</name>
+<name type="place">Texas</name>
+<name type="place">Louisiana</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>16 pp.</extent>
+<date value="1926-00-00">[1926]</date>
+<idno rend="suppress">03101002</idno>
+<title>Original Contributions to the Science of Medicine by Medical Officers of the Army. Walter Reed and Yellow Fever, by Joseph F. Siler, [1926]</title>
+</bibl>
+</head>
+<p>Siler's manuscript describes 19<hi rend="superscript">th</hi> century yellow fever epidemics in the United States, theories of yellow fever transmission, and the contribution of Reed in proving mosquito transmission.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1926-00-00">
+<head>Original Contributions to the Science of Medicine by Medical Officers of the Army. Walter Reed and Yellow Fever, by Joseph F. Siler, [1926]</head>
+<pb n="1" id="f03101002"/>
+<p>SECTION I</p>
+<p>ORIGINAL CONTRIBUTIONS TO THE SCIENCE OF MEDICINE<lb/>
+BY MEDICAL OFFICERS OF THE ARMY</p>
+<p>----</p>
+<p>No. 2</p>
+<p><hi>Walter Reed and Yellow Fever</hi></p>
+<p>To the vast majority of the human race living today, including<lb/>
+the inhabitants of the Western Hemisphere, the term &ldquo;yellow fever&rdquo;<lb/>
+means little more than a name. That mention of this disease no longer<lb/>
+brings to the mind's eye a picture of chaos and terror has resulted<lb/>
+from the researches of a commission of medical officers of our own<lb/>
+Army, headed by Major Walter Reed.</p>
+<p>Advances in all lines of human endeavor have been so marvelous<lb/>
+during the past 50 years that we are prone to accept them as a matter<lb/>
+of course and to forget that the comforts and blessings that we now en-<lb/>
+joy are the result of painstaking effort and sacrifice on the part of<lb/>
+individuals or groups of individuals who preceded us. That credit may<lb/>
+be given where credit is due and that we may duly appreciate the bene-<lb/>
+fits we now enjoy, it is well for us, from time to time, to take stock<lb/>
+of the contributions to our well-being made by our predecessors.</p>
+<p>It is especially fitting that we recognize and duly appreciate<lb/>
+the debt of gratitude we owe Walter Reed and his co-workers, Carroll,<lb/>
+Lazear, and Agramonte. During the 19th and preceding century, a mere<lb/>
+whisper of the occurrence of yellow fever in a community was synonymous<lb/>
+with a state of panic, chaos, and fright beyond compare.</p>
+<pb n="2" id="f03101003"/>
+<p>That we may have some conception of what yellow fever meant to<lb/>
+the inhabitants of the Western Hemisphere for the two hundred years prior<lb/>
+to 1900, let us, for a moment, turn back the pages of history. The earli-<lb/>
+est authentic records indicate that in the 16th and 17th centuries epi-<lb/>
+demics of yellow fever were of common occurrence in Central America and<lb/>
+the islands of the Carribean Sea. In the island of St. Lucia, for example,<lb/>
+in 1664, 1400 of a garrison of 1500 soldiers died of yellow fever, and<lb/>
+again in 1665, 200 of a total military force of 500 succumbed to the dis-<lb/>
+ease. The first epidemics to occur in our own country were those reported<lb/>
+in New York, Boston, and Philadelphia between the years <unclear>1668 and 1695</unclear>.<lb/>
+Between 1800 and 1900 the United States was invaded by yellow fever ap-<lb/>
+proximately 100 times.</p>
+<p>During the 19th century, the most devastating of the epidemics oc-<lb/>
+curred in our Southern states, and it may conservatively be estimated<lb/>
+that during this 100-year period approximately 500,000 people had yellow<lb/>
+fever and 100,000 (20 per cent) died. New Orleans bore the <unclear>brunt</unclear>, with<lb/>
+about 41,000 deaths; four epidemics in Nemphis <unclear>claimed</unclear> approximately 8,000<lb/>
+victims; Charleston, S. C., lost 4500 of its citizens as a result of two<lb/>
+visitations, and 2000 people died in <unclear>Norfolk</unclear>, Va., during the course of an<lb/>
+epidemic in <unclear>1865</unclear>. (1)</p>
+<p>The <unclear>more</unclear> recital of figures gives but little insight into what an<lb/>
+epidemic of yellow fever actually meant to our ancestors, and of this we<lb/>
+must have some conception if we are to evaluate properly the benefits con-<lb/>
+ferred on mankind by the researches of Walter Reed and his associates.</p>
+<p>(1) Walter Reed and Yellow Fever, H. A. Kelly)</p>
+<p>2.</p>
+<pb n="3" id="f03101004"/>
+<p>The testimony of eyewitnesses will best serve to acquaint one<lb/>
+with what actually occurred during an epidemic, and the following ex-<lb/>
+amples are drawn from descriptions of epidemics in Philadelphia, Pa.,<lb/>
+and Memphis, Tenn.</p>
+<p>Mr. Mathew Carey, of Philadelphia, a member of the &ldquo;Committee for<lb/>
+Relieving the Sick and Distressed&rdquo; during the Philadelphia epidemic of<lb/>
+1793, published a very vivid account of that epidemic, from which the fol-<lb/>
+lowing paragraphs are quoted:</p>
+<p>"The consternation of the people of Philadelphia at this per-<lb/>
+iod was carried beyond all bounds. Dismay and affright were visi-<lb/>
+ble in the countenance of almost every person. Of those who re-<lb/>
+mained many shut themselves in their houses and were afraid to<lb/>
+walk the streets * * * * *</p>
+<p>"The corpses of the most respectable citizens, even those who<lb/>
+did not die of the epidemic, were carried to the grave on the<lb/>
+shafts of a chair (<unclear>chaise</unclear>), the horse driven by a negro, unattended<lb/>
+by a friend or relative, and without any sort of ceremony. People<lb/>
+hastily shifted their course at the sight of a <unclear>hearse</unclear> coming towards<lb/>
+them. Many never walked on the footpath, but went into the middle<lb/>
+of the streets, to avoid being infected in passing by houses wherein<lb/>
+people had died. Acquaintances and friends avoided each other in<lb/>
+the streets and only signified their regard by a cold nod. The old<lb/>
+custom of shaking hands fell into such disuse that many shrunk back<lb/>
+with affright at even the offer of the hand. A person with a crape,<lb/>
+or any appearance of mourning, was shunned like a viper. And many<lb/>
+valued themselves highly on the skill and address with which they<lb/>
+got to the windward of every person they met. Indeed, it is not<lb/>
+probable that London, at the last stage of the plague, exhibited<lb/>
+stronger marks of terror than were to be seen in Philadelphia from<lb/>
+the 24th or 25th of August till pretty late in September.</p>
+<p>&ldquo;While affairs were in this deplorable state, and the people<lb/>
+at the lowest ebb of despair, we cannot be astonished at the fright-<lb/>
+ful scenes that were enacted, which seemed to indicate a total dis-<lb/>
+solution of the bonds of society in the nearest and dearest connec-<lb/>
+tions. Who, without horror, can reflect on a husband deserting his<lb/>
+wife, united to him, perhaps, for twenty years, in the last agony--<lb/>
+a wife unfeelingly abandoning her husband on his death-bed--parents<lb/>
+forsaking their only children without remorse--children ungratefully<lb/>
+flying from their parents and resigning them to chance, without an<lb/>
+inquiry after their health or safety * * * &rdquo;</p>
+<p>3.</p>
+<pb n="4" id="f03101005"/>
+<p>At the time of this epidemic (1793) the population of Philadelphia<lb/>
+was 40,000, and 10 per cent (4,000) of the inhabitants died of yellow<lb/>
+fever in one and one-half months (August 1 to September <unclear>15</unclear>).</p>
+<p>In 1878, Hemphis and its vicinity was visited by an <unclear>appelling</unclear> epi-<lb/>
+demic of yellow fever, which Mr. J. M. Keating, of that city, has de-<lb/>
+scribed in a most graphic manner. The following paragraphs are taken<lb/>
+from his description:</p>
+<p>"Men, women, and children poured out of the city by every pos-<lb/>
+sible avenue of escape . . . . Out by the country roads to the<lb/>
+little hamlets and plantations, where many of them were welcome<lb/>
+guests in happier days; out by every possible conveyance--by<lb/>
+hacks, by carriages, buggies, waggons, furniture vans, and street-<lb/>
+drays; away by <unclear>bateaux</unclear>, by anything that could float on the river;<lb/>
+and by railroads, the trains on which, especially on the Louisville<lb/>
+road, were so packed as to make the trip to that city, or to<lb/>
+Cincinnati, a positive torture to many delicate women every mile<lb/>
+of the way. The aisles of the cars were filled and the platforms<lb/>
+packed. In vain the railroad officials plead, in vain they in-<lb/>
+creased the accommodations. The stream of passengers seemed to<lb/>
+be endless and they were as <unclear>mad</unclear> as they were many. The ordinary<lb/>
+courtesies of life were ignored, politeness gave way to selfish-<lb/>
+ness, and the desire for personal safety broke through all social<lb/>
+amenities. . . . To the cities of the far North and the far West<lb/>
+they fled, too many of them to die on the way like dogs, neglected<lb/>
+and shunned, as if cursed of God; or, to reach the wished-for goal,<lb/>
+only to die, a plague to all about, carrying dismay to those who<lb/>
+even then were busying themselves for the relief of the stricken<lb/>
+cities of the South. In less than ten days, by the 24th of August,<lb/>
+twenty-five thousand people had left the city and in two weeks after<lb/>
+five thousand others were in camp, leaving a little less than twenty<lb/>
+thousand to face consequences they could not escape. . . .</p>
+<p>"By the last week in August the panic was over in the city. All<lb/>
+had fled who could, and all were in camp who would go. There were<lb/>
+then, it was estimated, about three thousand cases of fever. . . . an<lb/>
+<unclear>appelling</unclear> gloom <unclear>hang</unclear> over the doomed city. At night it was silent<lb/>
+as the grave, by day it seemed desolate as the desert. There were<lb/>
+hours, especially at night, when the solemn oppression of universal<lb/>
+death bore upon the human mind, as if the day of judgment was about<lb/>
+to dawn. Not a sound was to be heard; the silence was painfully pro-<lb/>
+found. Death prevailed <unclear>everywhere</unclear>. Trade and traffic were suspended.<lb/>
+The energies of all who remained were engaged in the struggle with<lb/>
+death. The poor were reduced to beggary, and even the rich gladly<lb/>
+4.<lb/>
+<pb n="5" id="f03101006"/>
+accepted alms. . . Even the animals felt the oppression and fled<lb/>
+from the city. Rats, cats, or dogs were not to be seen. Death<lb/>
+was everywhere triumphant. White women were seldom to be met with,<lb/>
+children never. The voice of prayer was lifted up only at the<lb/>
+bed of pain or death, or in some home circle where anguish was su-<lb/>
+preme and death threatened, as in a few cases he accomplished, total<lb/>
+annihilation. Tears for one loved one were choked by the feeling<lb/>
+of uncertainty provoked by the sad condition of another. In one<lb/>
+case a family of four was found dead in one room, the bodies par-<lb/>
+tially decomposed. There were no public evidences of sorrow. The<lb/>
+wife was borne to the tomb while the husband was unconscious of his<lb/>
+loss, and whole families were swept away in such quick succession<lb/>
+that not one had knowledge of the other's departure. <unclear>Death</unclear> dealt<lb/>
+kindly by these. . . . Neither cleanliness nor right living were<lb/>
+a shield to stay the hand of the destroyer. He invaded the homes<lb/>
+of the most chaste and the den of the vilest. He took innocence<lb/>
+and infamy at the same moment and spread terror everywhere. Where<lb/>
+sorrow was so general there could be no parade of it. There were<lb/>
+no funerals and but little demand for funeral services. The luxuries<lb/>
+of woe were dispensed with. In most cases the driver of the hearse<lb/>
+and an assistant <unclear>composed the</unclear> funeral party. Not infrequently many<lb/>
+bodies were left in the cemetery unburied for a night, so hard<lb/>
+pressed were the managers for labour, and so numerous were the de-<lb/>
+mands upon what they had. . . . The churches were <unclear>closed</unclear>. The con-<lb/>
+gregations dispersed. The members were far apart. Some were safe,<lb/>
+many were dead. Only a few survived, and these were manifesting<lb/>
+their faith by works. The police were cut down from <unclear>forty-one</unclear> to<lb/>
+seven. Their ranks were recruited and again were thinned. They<lb/>
+were a second and a third time filled up, and yet death was relent-<lb/>
+less. He was jealous of all sway but his own.</p>
+<p>* * * * * *</p>
+<p>&ldquo;Petty thieving prevailed as an epidemic. This was princi-<lb/>
+pally confined to food and clothing, and wood or coal, or both.<lb/>
+A few who came to nurse died, leaving full trunks of silverware,<lb/>
+bijouterie, bric-a-<unclear>brac</unclear>, and clothes, to prove how industriously<lb/>
+they could ply two trades and make one cover up and supply the de-<lb/>
+ficiencies of the other.* * *&rdquo;</p>
+<p>It is not to be inferred from the descriptions just quoted that<lb/>
+selfishness and thoughtlessness of others was universal. This was far<lb/>
+from being the case, as is so well brought out by both Mr. Carey and<lb/>
+Mr. Keating. Both writers cite instances of heroism, devotion to duty,<lb/>
+service to humanity, charity, and generosity that are incomparable.</p>
+<p>5.</p>
+<pb n="6" id="f03101007"/>
+<p>The actions and reactions of the human mind to the unknown and<lb/>
+mysterious are shown in clear relief in the descriptions of these two<lb/>
+epidemics, and when it is remembered that an identical state of mind<lb/>
+existed during all epidemics occurring in our country prior to 1900, one<lb/>
+can more thoroughly appreciate what an epidemic of yellow fever meant<lb/>
+to human beings exposed to it, prior to the discovery of the proper<lb/>
+methods for its control.</p>
+<p>Throughout the 19th century, even to its end, the appearance of<lb/>
+yellow fever in a community in our country was accompanied by chaos and<lb/>
+panic, as is evidenced in the following statement made by Reed and Carroll.(1)</p>
+<p>&ldquo;The interval between 1793 and 1888 is almost 100 years, but<lb/>
+upon the appearance of yellow fever we observe no difference of<lb/>
+behavior on the part of the inhabitants of Jackson, Miss., in 1888,<lb/>
+from that shown by the citizens of Philadelphia in 1793, except<lb/>
+that the terror of the former was greater and their flight from<lb/>
+their homes more precipitate than in the case of the latter.&rdquo;</p>
+<p>The investigations of Reed and his co-workers converted a death-<lb/>
+dealing disease, the method of transmission of which was mysterious and<lb/>
+unknown, into one that could be dealt with in the open with the certainty<lb/>
+that it could be <unclear>stumped</unclear> out.</p>
+<p>Shortly after the method of transmission of yellow fever was an-<lb/>
+nounced to the world, opportunity was afforded, through an epidemic in<lb/>
+New Orleans, to give the knowledge thus gained practical application.<lb/>
+The remarkable alteration in the state of mind of the public is graphical-<lb/>
+ly portrayed by Dr. Kelly and Sir Rupert Boyce. (2)</p>
+<p>(1) Prevention of Yellow Fever, Reed and Carroll, Sen. Doc. 822,<lb/>
+61st Cong., 3d Session, 1901, Chap. 6.</p>
+<p>(2) 1906, Walter Reed and Yellow Fever, by H. A. Kelly, pp. 193-195.</p>
+<p>6.</p>
+<pb n="7" id="f03101008"/>
+<p>"A strong proof of the assurance of safety afforded by the<lb/>
+present methods of fighting yellow fever and of the confidence<lb/>
+arising from them is shown by the cheerful spirit with which<lb/>
+the citizens of New Orleans encountered the epidemic of <unclear>1905</unclear>,<lb/>
+and the light-heartedness which pervaded the town, in marked<lb/>
+contrast to the gloom that, in former times, always hung like<lb/>
+a <unclear>pall over such scenes</unclear>. Mr. Rupert Boyce, Dean of the Liver-<lb/>
+pool School of Tropical Diseases, who was sent to New Orleans<lb/>
+by that association as <unclear>envoy</unclear> charged to investigate yellow fever,<lb/>
+has described this state of things most graphically in the<lb/>
+Southern Magazine for October, <unclear>1905</unclear>.</p>
+<p>'In one respect New Orleans has set an example to all the<lb/>
+world in the fight against yellow fever. Coming, as I did, a<lb/>
+stranger, but a stranger who has seen many campaigns against<lb/>
+similar diseases, the first impression that struck me was the<lb/>
+complete organization of the citizens, and the rational and<lb/>
+reasonable way in which the fight has been conducted by them.<lb/>
+When I alighted from the car the first thing that greeted my<lb/>
+eyes was a placard--of which tens of thousands have been dis-<lb/>
+tributed--bearing the words:</p>
+<p>Wear a Smile on Your Face<lb/>
+and a<lb/>
+Flower in Your Buttonhole.</p>
+<p>'Everywhere I went I saw these. The force with which such<lb/>
+evidences of the light-hearted spirit in which the citizens<lb/>
+of New Orleans sallied forth to win this fight strikes one who<lb/>
+has been a witness to the profound gloom, distress, and was<lb/>
+that cloud every other epidemic city cannot be estimated.</p>
+<p>'That is the spirit which has led to victory. That is the<lb/>
+light heart and gay song which nerves the warrior to invinci-<lb/>
+bility. To go at the enemy laughing, and to fight with a<lb/>
+jest, means always to overcome with a glorious victory.</p>
+<p>'When I came, in the first part of September, I found the<lb/>
+whole country <unclear>organized</unclear>. The municipality was <unclear>organised</unclear> by<lb/>
+wards; the medical profession was <unclear>organized</unclear> by flying squadrons;<lb/>
+the State was <unclear>organized</unclear> by parishes. With a tangible enemy in<lb/>
+view, the army of <unclear>defence</unclear> could begin to fight rationally and<lb/>
+scientifically. Every individual citizen of every city and town,<lb/>
+but especially of New Orleans, had taken to himself new heart<lb/>
+of grace, because he knew what he had to fight.</p>
+<p>'To me, coming as I did from many campaigns against tropical<lb/>
+diseases in many an odd <unclear>corner</unclear> of the world, this <unclear>ogganization</unclear><lb/>
+appealed more strongly than I can say. An example to the world<lb/>
+has been set, an example to every city in the <unclear>civilised</unclear> world<lb/>
+which shall henceforth be attacked by similar diseases.</p>
+<p>&lsquo;And the work of the Marine Hospital Service struck the heart<lb/>
+of the beholder with joy. Cleanly, swiftly, scientifically, the<lb/>
+7.<lb/>
+<pb n="8" id="f03101009"/>
+olive-green uniforms darted hither and thither, into <unclear>dens</unclear> of<lb/>
+filth and obscurity, opening up every corner to the bright<lb/>
+light of science, working heroically, and withal so swiftly<lb/>
+that it was like watching a huge machine, well oiled and <unclear>ef-<lb/>
+ficacious</unclear>, performing a marvellous task with perfect show of<lb/>
+ease.&rsquo;"</p>
+<p>So far we have considered yellow fever with respect to its in-<lb/>
+fluence on the minds of members of the human race exposed to it. It<lb/>
+will be well for us also to review briefly the effects of epidemic on<lb/>
+the public welfare. It is <unclear>recokoned</unclear> that the human lives lost in the<lb/>
+United States from yellow fever during the 19th century was approximate-<lb/>
+ly 100,000 and this death rate, fearful though it be, represents only<lb/>
+in part the hardships and distress occasioned by epidemics. The financial<lb/>
+loss was both direct and indirect and fell, without discrimination, on<lb/>
+the individual, the community, and on commercial interests. Business<lb/>
+was disrupted, transportation interrupted and quarantine regulations were<lb/>
+exacting, with all the pecuniary losses that such chaotic conditions en-<lb/>
+tail. The epidemic of 1878 was perhaps one of the most widespread in-<lb/>
+vasions of the United States by yellow fever, beginning with New Orleans<lb/>
+as the primary focus, extending as far north as Missouri, involving 132<lb/>
+towns and cities in eight states, and claiming approximately 75,000 vic-<lb/>
+tims, of whom about 16,000 died. It is conservatively estimated that<lb/>
+this one epidemic cost the United States $100,000,000, and the pecuniary<lb/>
+loss to New Orleans alone exceeded $10,000,000. In 1897, an epidemic in<lb/>
+Texas and Louisiana resulted in a loss exceeding a million dollars to the<lb/>
+Southern Pacific Railway Company, on its lines operating in those states.<lb/>
+The enforcement of the complicated quarantine regulations in vogue during<lb/>
+8.<lb/>
+<pb n="9" id="f03101010"/>
+the 19th century--wholesale disinfection of houses, premises, baggage,<lb/>
+freight, mail steamships, etc.; formation of detention camps and deten-<lb/>
+tion of passengers traveling by railway, steamship, and otherwise; regu-<lb/>
+lation of traffic, and other restrictive measures of like nature, inter-<lb/>
+fered with business relations of one kind or another and entailed finan-<lb/>
+cial losses, the magnitude of which is impossible of estimation. It was<lb/>
+possible to eliminate most of the measures of this nature when the mecha-<lb/>
+nism of transmission of the disease became known.</p>
+<p>The occurrence of epidemics of yellow fever are contingent on the<lb/>
+concurrent presence of three factors, namely, cases of yellow fever, ade-<lb/>
+quate numbers of mosquitoes (<hi>Aedes <unclear>egypti</unclear></hi>), and susceptible individuals.<lb/>
+Appreciation of this fact will permit one to visualize what might have<lb/>
+happened at any time in this age of rapid transportation did we not know<lb/>
+how to prevent the introduction and spread of yellow fever. The mosquitoes<lb/>
+are present in abundance, the entire population is susceptible, and the<lb/>
+introduction of the third factor, a case of yellow fever, would initiate<lb/>
+a conflagration the horror and extent of which would be beyond human con-<lb/>
+ception. As a matter of fact, a very striking object lesson of what could<lb/>
+occur can be cited. There is another disease, dengue fever, which from<lb/>
+time to time has invaded some of our Gulf states, notably Texas and<lb/>
+Louisiana. During recent years it has been demonstrated that this disease<lb/>
+is transmitted by the yellow fever mosquito (<hi>Aedes Egypti)</hi>) and an Army<lb/>
+Research Board, working in Manila, P. I., during the past year has shown<lb/>
+that dengue is transmitted in exactly the same manner as is yellow fever.<lb/>
+In 1922, dengue appeared in Texas, with incredible rapidity swept across<lb/>
+the Southern states from Texas to Georgia, and attacked not less than two<lb/>
+9.<lb/>
+<pb n="10" id="f03101011"/>
+millions of people. The rapidity of its spread was undoubtedly due<lb/>
+to the numerous improvements in transportation facilities during the<lb/>
+past 10 years. Fortunately, dengue causes temporary disability only and<lb/>
+does not result in death. To visualize &ldquo;what might have been&rdquo;, it is<lb/>
+only necessary to substitute the dreadful name yellow fever for dengue.<lb/>
+More than 2,000,000 individuals would have been attacked and approximate-<lb/>
+ly 400,000 would have died, chaos would have reigned, and the pecuniary<lb/>
+loss would have been of such magnitude as to stagger the imagination.<lb/>
+The work of the Army board in Cuba made such a calamity impossible. To<lb/>
+say that the work of this board has resulted in a saving to our Government<lb/>
+and its people of many times the amount of money <unclear>reqired</unclear> to operate the<lb/>
+Medical Department of the Army from its inception to the present day, is<lb/>
+expressing the matter conservatively.</p>
+<p>Having gained some conception of what epidemics of yellow fever ac-<lb/>
+tually meant to our people during the 19th century, it remains for us to<lb/>
+take into consideration the facts established by Reed and his co-workers<lb/>
+that have resulted in the banishment of this disease from the North American<lb/>
+continent, and doubtless, within a short period of time, will eliminate<lb/>
+it from its few remaining haunts throughout the world.</p>
+<p>Prior to the epidemic occurring in Philadelphia in 1793, apparently<lb/>
+no theories with respect to its origin and mode of transmission had been<lb/>
+evolved, and its occurrence was accepted, without question, as being a<lb/>
+visitation of God. Its appearance in Philadelphia caused much specula-<lb/>
+tion on the part of the medical profession of that day, and two hypotheses<lb/>
+arose. One group hold that the disease was imported and therefore trans-<lb/>
+10.<lb/>
+<pb n="11" id="f03101012"/>
+missible from person to person, while the other adhered to the view<lb/>
+that it originated locally and resulted, under appropriate conditions,<lb/>
+from a combination of filth, heat, and moisture (spontaneous genera-<lb/>
+tion). Toward the end of the 19th century it was held, generally, that<lb/>
+yellow fever was a transmissible disease caused by a specific living<lb/>
+germ. The method of transmission from person to person was an unsolved<lb/>
+mystery, but it was generally believed that the germ could be transported<lb/>
+from place to place by persons, in baggage, etc., hence the elaborate<lb/>
+quarantine regulations. In the last decade of the century, two or three<lb/>
+investigators reported that they had found the specific germ, but their<lb/>
+claims <unclear>wore</unclear> disproved. About the middle of the 19th century (1848),<lb/>
+Doctor Mott, of Mobile, suggested that yellow fever and malaria <unclear>night</unclear><lb/>
+be transmitted by insects. Nothing, however, of a definite nature with re-<lb/>
+spect to the role possibly played by mosquitoes in the dissemination of<lb/>
+yellow fever appears in medical literature until 1881, when Dr. Carlos Finlay,<lb/>
+of Havana, Cuba, announced and defended the theory that mosquitoes were<lb/>
+the transmitting agents. He continued to hold this view and suggested<lb/>
+further that a particular species of mosquito, now known as the <hi>Aedes egypti</hi>,<lb/>
+was responsible. Finlay was never able to demonstrate the truth of his<lb/>
+theory, but this species of mosquito was the one finally <unclear>incriminated</unclear> by<lb/>
+the Reed commission, and Walter Reed's decision to use it in the initial<lb/>
+experiment made by the commission was based on information given him by<lb/>
+Doctor Finlay.</p>
+<p>Two other facts that had been established late in the 19th century<lb/>
+influenced Reed in his decision to attempt transmission by mosquitoes.<lb/>
+11.<lb/>
+<pb n="12" id="f03101013"/>
+The first of these was the fact that when groups of people or bodies of<lb/>
+troops were moved out of infected areas ordinarily no further cases of<lb/>
+yellow fever would occur in the groups so transferred. This suggested<lb/>
+that the germs of the disease were not carried along by the individuals<lb/>
+themselves. The second observation, made by Doctor Carter of the U. S.<lb/>
+Public Health Service, was that if an individual came down with yellow<lb/>
+fever in a house in a previously uninfected locality, no secondary cases<lb/>
+of the disease arose in the same house until a period of two to three<lb/>
+weeks had elapsed. This suggested that it was necessary for the yellow<lb/>
+fever virus to develop or mature for about two weeks before it could pro-<lb/>
+duce the disease in other individuals, and indicated definitely the prob-<lb/>
+ability that an insect was its intermediary host.</p>
+<p>When our military forces occupied Cuba during the Spanish-American<lb/>
+War, yellow fever immediately appeared, and between July, 1898, and<lb/>
+December, 1900, 1576 cases occurred and 231 deaths resulted.</p>
+<p>The War Department, on the recommendation of Surgeon General<lb/>
+Sternberg, who had done much pioneer research work on yellow fever, de-<lb/>
+cided to dispatch a commission of Army medical officers to Cuba to investi-<lb/>
+gate yellow fever and other prevailing tropical diseases. The commission<lb/>
+was headed by Major Walter Reed, the other members being Acting Assistant<lb/>
+Surgeons James Carroll, <unclear>Jezse</unclear> W. <unclear>Lazear</unclear>, and A. Agramonte. The commission<lb/>
+arrived in Cuba in June, 1900. They very quickly convinced themselves<lb/>
+that the living organism causing yellow fever had not been discovered,<lb/>
+as had been alleged by some investigators. They then turned their atten-<lb/>
+tion to the production of the disease experimentally in human volunteers<lb/>
+through the bites of mosquitoes. Within a few months their efforts were<lb/>
+12.<lb/>
+<pb n="13" id="f03101014"/>
+crowned with success. It is not within the scope of this note to enter<lb/>
+into any of the details of their investigations. They have been made of<lb/>
+record by Dr. Howard Kelly, of Baltimore, in his volume &ldquo;Walter Reed and<lb/>
+Yellow Fever&rdquo; and in a Senate document (no. <unclear>522</unclear>, 61st Congress, 3d Session).<lb/>
+Expressed briefly, it was found that the mosquito responsible for the dis-<lb/>
+semination of yellow fever was the female of the species <hi><unclear>Aedes egypti</unclear></hi>, then<lb/>
+known as <hi>Stegomyia fasciata</hi><unclear>;</unclear> that to become infected the mosquito must<lb/>
+take blood from the individual with yellow fever during the first three<lb/>
+days of his illness; that the mosquito is incapable of transmitting yellow<lb/>
+fever for a period of approximately 12 days subsequent to biting a patient<lb/>
+in the infectious stage of the disease; that once a mosquito becomes cap-<lb/>
+able of transmitting yellow fever by its bites it retains that capacity<lb/>
+for long periods of time (<unclear>55</unclear> days or more); that the incubation period<lb/>
+of the disease does not <unclear>exceed</unclear> six days; and that the germ, whatever it<lb/>
+may be, is extremely minute in size and passes through porcelain filters<lb/>
+that hold back the bacteria that ordinarily cause disease.</p>
+<p>Reed's previous training, logical habits of thought and attention<lb/>
+to detail fitted him peculiarly well for the position of directing head<lb/>
+of the commission, and the series of experiments were so brilliantly con-<lb/>
+ceived, so comprehensive, so simple, and so well executed that the facts<lb/>
+reported by the commission were immediately accepted by scientific author-<lb/>
+ities throughout the world. The practical lesson to be drawn from the<lb/>
+facts demonstrated were well expressed by the commission in the following<lb/>
+language<unclear>;</unclear> &ldquo;The spread of yellow fever can be most effectually controlled<lb/>
+by measures directed to the destruction of mosquitoes and the protection<lb/>
+of the sick against the bites of these insects.&rdquo;</p>
+<p>13.</p>
+<pb n="14" id="f03101015"/>
+<p>It was practicable, immediately, to subject these conclusions to<lb/>
+practical test. In the city of Havana, Cuba, yellow fever had prevailed<lb/>
+every year for at least the preceding 140 years and was present at the<lb/>
+time the commission's report was made. General Leonard Wood was military<lb/>
+governor of Cuba at that time, Col. Jefferson Kean was sanitary adviser<lb/>
+to the Military Governor, and Major (later Major-General) Gorgas was health<lb/>
+officer of Havana. The splendid results obtained in the campaign against<lb/>
+yellow fever in Havana are known to the world. Within a period of <unclear>90</unclear> days,<lb/>
+Havana was released from the grip of this dread disease. Its last appear-<lb/>
+ance in the United States was in 1906, when New Orleans was invaded. This<lb/>
+epidemic also was brought to an <unclear>end</unclear> by an active, well <unclear>organized</unclear> anti-<lb/>
+mosquito campaign.</p>
+<p>Since <unclear>1905</unclear>, yellow fever has been rapidly vanishing from the Western<lb/>
+Hemisphere, and is now confined to a few of its ancient strongholds in<lb/>
+Central America, occasionally appearing in nearby localities. The Interna-<lb/>
+tional Health Board, one of the Rockefeller foundations, is devoting much<lb/>
+attention to the eradication of the disease in its for <unclear>remaining foci</unclear> of<lb/>
+<unclear>endemicity</unclear> throughout the world, and it may safely be predicted that in<lb/>
+the near future this dread disease will become a more memory to mankind.</p>
+<p>The very high regard in which Major Reed was held may be gauged<lb/>
+by the following sentiments of respect expressed by friends, acquaintances,<lb/>
+and scientists at the time of his death. Brigadier-General <unclear>McCaw</unclear> pays him<lb/>
+this tribute of praise:</p>
+<p>"It is given to but few scientific men to lay bare a secret<lb/>
+of nature materially affecting the prosperity of nations, and<lb/>
+the lives, fortunes, and happiness of thousands. <unclear>Fewer</unclear> still<lb/>
+succeed in so quickly convincing brother scientists and men in<lb/>
+authority of the truth of their discoveries that their own eyes<lb/>
+behold the glorious result of their labor.</p>
+<p>* * * * * *</p>
+<p>14.</p>
+<pb n="15" id="f03101016"/>
+<p>&ldquo;*******To the end of his life it was noticeable that even<lb/>
+when he had long given up the practice of medicine for the work<lb/>
+of the laboratory he was nevertheless <unclear>unexcelled</unclear> at the bedside<lb/>
+for rapid, unerring diagnosis and sound judgment in treatment.<lb/>
+So also were the series of experiments which robbed yellow fever<lb/>
+of its terrors especially remarkable for simplicity, accuracy,<lb/>
+and completeness, or they never would have so quickly convinced<lb/>
+the world of their truth. Too much reverence for accepted teach-<lb/>
+ings, and too little experience in grappling with difficulties<lb/>
+unassisted, and they might never have been conceived or carried<lb/>
+out.&rdquo;</p>
+<p>Major-General Leonard Wood, Military Governor of Cuba at the time the ex-<lb/>
+periments were carried out, expresses his esteem in the following words:</p>
+<p>"I know of no other man on this side of the world who has done<lb/>
+so much for humanity as Dr. Reed. His discovery results in the<lb/>
+saving of more lives annually than were lost in the Cuban war, and<lb/>
+saves the commercial interests of the world a greater financial<lb/>
+loss each year than the cost of the Cuban war. He came to Cuba<lb/>
+at a time when one-third of the officers of my staff died of yel-<lb/>
+low fever, and we were discouraged at the failure of our efforts<lb/>
+to control the disease.</p>
+<p>&ldquo;In the months when the disease was ordinarily worst the dis-<lb/>
+ease was checked and driven from Habana. That was the first time<lb/>
+in nearly 200 years that the city had been rid of it. The value of<lb/>
+his discovery can not be appreciated by persons who are not familiar<lb/>
+with the conditions of tropical countries. Hereafter it will never<lb/>
+be possible for yellow fever to gain such headway that quarantine<lb/>
+will exist from the mouth of the Potomac to the mouth of the Rio<lb/>
+Grande. Future generations will appreciate fully the value of Dr.<lb/>
+Reed's services. His was the originating, directing, and control-<lb/>
+ling mind in this work, and the others were assistants only.&rdquo;</p>
+<p>Dr. William Welch, of Baltimore, Major Reed's teacher in bacteriology<lb/>
+and his intimate friend and confidant, said of him:</p>
+<p>&ldquo;Dr. Reed's researches in yellow fever are by far the most<lb/>
+important contributions to science which have ever come from<lb/>
+any Army surgeon. In my judgment they are the most valuable<lb/>
+contributions to medicine and public hygiene which have ever<lb/>
+been made in this country with the exception of the discovery<lb/>
+of anaesthesia. They have led and will lead to the saving of<lb/>
+thousands of lives. I am in a position to know that the credit<lb/>
+for the original ideas embodied in this work belongs wholly to<lb/>
+Maj. Reed.&rdquo;</p>
+<p>15.</p>
+<pb n="16" id="f03101017"/>
+<p>Dr. Howard Kelly, of Baltimore, <unclear>accords</unclear> Reed the following tribute of<lb/>
+of respect:</p>
+<p>&ldquo;******The inspiration of Reed's life lies to me in the fact<lb/>
+that, though a man of war, he ravaged no distant lands, he de-<lb/>
+stroyed no tens of thousands to make his reputation, but by<lb/>
+quiet methods, when there was no strife, he saved countless<lb/>
+lives and swept away a hideous plague, which from time <unclear>immemorial</unclear><lb/>
+had periodically visited our shores, devastated our fair land,<lb/>
+and too often snatched from the years of peace and plenty all<lb/>
+their blessings.&rdquo;</p>
+<p>Major Reed died on November 23, 1902, of complications result-<lb/>
+ing from appendicitis. His remains were <unclear>interred</unclear> at Arlington, over-<lb/>
+looking the city of Washington, and the granite block over his grave<lb/>
+bears the strikingly appropriate inscription:</p>
+<p>&ldquo;He gave to man control over that dreadful scourge, Yellow Fever.&rdquo;</p>
+<p>In memory of the man and in commemoration of his great contribu-<lb/>
+tion to the world, the Army has named its most important general hospital--<lb/>
+&ldquo;Walter Reed&rdquo;.</p>
+<p>16.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

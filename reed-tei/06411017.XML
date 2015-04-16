@@ -1,0 +1,1444 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY t06411029 SYSTEM "06411029.jpg" NDATA jpg>
+<!ENTITY t06411029 SYSTEM "06411029.jpg" NDATA jpg>
+<!ENTITY t06411032 SYSTEM "06411032.jpg" NDATA jpg>]>
+<TEI.2 id="t06411017">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Questionnaire: Miscellaneous Questions for General Truby (December 1946), by Philip Showalter Hench, December 1946</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hench, Philip Showalter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06411017</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1946-12-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Truby, Albert E. </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Howard, L. O.</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Lampson, Robin</name>
+<name type="person">Agramonte, Aristides </name>
+<name type="person">Saleeby, Najeeb M.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="person">Lazear, William Houston</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Briggs, Margaret Lazear</name>
+<name type="person">Angles, Eduardo</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Russell, Frederick F.</name>
+<name type="person">Turner, Thomas</name>
+<name type="person">Thayer, William S.</name>
+<name type="person">Perez, Yldefonso</name>
+<name type="person">Hepburn, C. B.</name>
+<name type="person">Graham, [s.n.]</name>
+<name type="person">Cartwright, George</name>
+<name type="person">White, Charles S.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">de Long, Charley L.</name>
+<name type="person">Amador, R. A.</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Cuba</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>26 pp.</extent>
+<date value="1946-12-00">December 1946</date>
+<idno rend="suppress">06411017</idno>
+<title>Questionnaire: Miscellaneous Questions for General Truby (December 1946), by Philip Showalter Hench, December 1946</title>
+</bibl>
+</head>
+<p>Hench provides an outline of miscellaneous questions for Truby about the yellow fever investigation. Responses by both Truby and Hench are included for some of the questions.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1946-12-00">
+<head>Questionnaire: Miscellaneous Questions for General Truby (December 1946), by Philip Showalter Hench, December 1946</head>
+<pb n="1" id="f06411017"/>
+<p>Please <hi>return</hi></p>
+<p>1</p>
+<p><hi>MISCELLANEOUS QUESTIONS</hi> FOR GENERAL TRUBY (DECEMBER, 1946)</p>
+<p>1.--Have you ever seen <add>Sen. Doc p 24 &amp; Sternberg Biog only</add> the <hi>written</hi> instructions <add> Ive just found them. Very General!</add> from Sternberg to Reed in connection<lb/>
+with the formation of the yellow fever board? I have spent days trying to find<lb/>
+them in the National Archives and elsewhere. Indeed, I began to wonder if they<lb/>
+ever existed except by mention in General Sternberg's biography; pp. 277-278.<lb/>
+However, some written instructions were undoubtedly given. Reed himself says so<lb/>
+in the very first paragraph of his Preliminary note (see Sen. Doc. 61, p. 56). Also<lb/>
+on p. 24 (Sen. Doc. 61) are quoted the same instructions cited in Sterngerg's<lb/>
+biography (This chapter was written by General Kean for Surg. Gen. Torney in 1910;<lb/>
+Sternberg's remarks were written in 1915--see p. 273 of his biography).</p>
+<p>Later there was some controversy as to just how much these written in-<lb/>
+structions from Sternberg influenced and directed Reed's work with mosquitoes. Reed<lb/>
+was annoyed that Sternberg was being credited with giving him (Reed) detailed in-<lb/>
+structions. He told Kean of his annoyance (you have seen Kean's remarks on this,<lb/>
+told to me several times). Reed was also annoyed by Howard's misunderstanding of<lb/>
+the situation (see <hi>enclosed Howard's correction of 1930</hi>). <add>(next page)</add></p>
+<p>Studying the matter closely I conclude that Sternberg did give Reed<lb/>
+written instructions including <hi>very general</hi> instructions regarding yellow fever,<lb/>
+but they were not nearly as detailed as Agramonte later let on they were or as<lb/>
+Sternberg later inferred they were. The statements of Agramonte and of Sternberg<lb/>
+are distinctly misleading:</p>
+<p>Agramonte wrote (1915-p. 216, Scientific Monthly): &ldquo;With a feeling akin<lb/>
+to reverence we heard the instructions which Major Reed had brought from the<lb/>
+Surgeon General; they comprised the investigation also of malaria, leprosy, and<lb/>
+unclassified febrile conditions, and were given with such detail and precision as<lb/>
+only a man of General Sternberg's experience and knowledge in such matters could<lb/>
+have prepared.&rdquo; <add>More of Agramonte &ldquo;Bunk&rdquo; See Sternberg Biog p <hi>217</hi> (note)<lb/>
+on &ldquo;Verbal Instructions&rdquo;<lb/>
+I</add></p>
+<p>Mrs. Sternberg (p. 215, Sternberg biography) quoted these remarks of<lb/>
+Agramonte for purposes stated at the bottom of page 213 and top of page 214.</p>
+<p>Sternberg is not without blame; he distinctly &ldquo;overstepped the mark&rdquo;<lb/>
+in his 1915 paper (quoted in Sternberg's biography on pp. 273-279). He allowed<lb/>
+the listeners (and the later readers of the biography) to <hi>infer</hi> that he had given<lb/>
+Reed certain precise instructions (regarding the transmission of yellow fever)<lb/>
+<hi>before</hi> the Board was formed. In his 1915 paper he just quoted his written in-<lb/>
+structions to Reed (see pp. 277-278, Sternberg biography) and then <hi>with no<lb/>
+interruption</hi> he added that he &ldquo;<hi>talked freely</hi>&rdquo; to Reed about &ldquo;the most promising lines<lb/>
+of investigation relating to the etiology of yellow fever.&rdquo;<lb/>
+<add>II</add></p>
+<p>Still without interruption or dating the event, he stated (p. 278) &ldquo;I<lb/>
+urged that efforts should be made to ascertain definitely whether the disease can<lb/>
+be communicated from man to man by blood inoculations.&rdquo;</p>
+<p>This annoys me because what Sternberg (and his wife) <hi>failed</hi> to state was<lb/>
+that these free conversations about promising leads and Sternberg's suggestions<lb/>
+about blood inoculations undoubtedly did <hi>not</hi> take place in May, 1900 (as the reader<lb/>
+is led to infer) but occurred <hi>much later</hi>, apparently not until <hi>after</hi> Reed had<lb/>
+<add><hi>Hard to read</hi>. Strains my eyes. I'm fussy<lb/>
+but don't let that worry you &amp; I have bucked<lb/>
+about that kind of type &amp; lack of ink for years.<lb/>
+So this is a habit.<lb/>
+AET</add></p>
+<pb n="2" id="f06411018"/>
+<p>EXCERPT<lb/>
+from<lb/>
+A HISTORY OF APPLIED ENTOMOLOGY<lb/>
+by<lb/>
+L. O. Howard<lb/>
+<add>1930</add></p>
+<p>&ldquo; In the spring of 1901, following, a year of much activity in working, writing, and<lb/>
+lecturing on the subject, I prepared the volume entitled &ldquo;Mosquitoes: How They Live;<lb/>
+How They Carry Disease; How They Are Classified; How They may be Destroyed.&rdquo; The<lb/>
+volume was promptly published by McClure, Phillips &amp; Co. of New York, and was widely<lb/>
+read. Surgeon General Sternberg had a large number of copies bought for the use of<lb/>
+the Army surgeons, and there seems no doubt that it was published at a psychological<lb/>
+moment. Just before this book was published the Century Magazine published as article<lb/>
+of mine entitled &ldquo;Malaria and Certain Mosquitoes&rdquo; (April 1901).</p>
+<p>There was one rather unfortunate episode connected with the publication of the<lb/>
+book. It had not been out two days before I was told by a friend that Dr. Walter<lb/>
+Reed's friends felt hurt by the way I had told the yellow-fever story. I had often<lb/>
+talked with General Sternberg during the progress of the work of the Yellow Fever<lb/>
+Commission in Habana. In fact, we met almost daily at the Cosmos Club, and he told me<lb/>
+of his latest news from Reed or I told him of some letter that I had received from him.<lb/>
+I thought that I was familiar with the situation, and stated in the book that the<lb/>
+Commission had been appointed by General Sternberg and <hi>instructed by him to investigate</hi><lb/>
+the <hi>disease from the mosquito standpoint</hi>.</p>
+<p>It seems that this was not the case. <hi>Their instructions were general</hi> and <hi>not specific</hi>.<lb/>
+The mosquito investigation was undertaken on Reed's sole initiative. As a matter of fact,<lb/>
+before going to Cuba for their work, Reed and <del>Lazear</del> spent some time in my office studying<lb/>
+mosquitoes in order that they might more easily identify the old &ldquo;Culex fasciatus&rdquo; with<lb/>
+which Carlos Finlay of Habana had done his earlier work; and during their investigations<lb/>
+Reed frequently wrote me and sent me mosquitoes for examination.</p>
+<p>When I learned that my phraseology had been criticised, I at once called on Reed and<lb/>
+found him in an office in the Army Medical Museum. He was rather solemn, though perfectly<lb/>
+courteous and friendly, and when I had made my explanation he said &ldquo;That is how I thought<lb/>
+it happened, but as a matter to fact <hi>I went into this line of work without instuctions</hi>.&rdquo;<lb/>
+And he went on to tell me that he had been doing some work at Johns Hopkins University<lb/>
+and had often talked with W. S. Thayer who had visited Italy and studied the Anopheles-<lb/>
+malaria work there and had therefore become anxious to do experimental work with yellow<lb/>
+fever and mosquitoes.</p>
+<p>I did the best I could under the circumstances, and wrote an article which was pub-<lb/>
+lished in the American monthly Review of Reviews for August, 1901, and which was entitled<lb/>
+&ldquo;Mosquitoes as Transmitters of Disease&rdquo;. In this article <hi>I omitted all reference to<lb/>
+instructions from the Surgeon General's Office</hi> and gave to Major Read the whole credit<lb/>
+for the inauguration of the work. I followed this with another article &ldquo;Yellow Fever <lb/>
+and Mosquitoes&rdquo;, in the Century Magazine for October, 1903.&rdquo;----p. 409-470</p>
+<p>&ldquo; Years later I became well acquainted with Walter Reed, James Carroll, and Jesse W.<lb/>
+<unclear>[unclear]</unclear> Lazear. They came to the entomological offices in the Department of Agriculture<lb/>
+to study mosquitoes before they went to Cuba where their <unclear>[unclear]</unclear> discoveries were<lb/>
+made. During the progress of the Cuban work Walter Reed wrote me frequently for information<lb/>
+about mosquito questions&rdquo;----p. 401</p>
+<p>(I think that Dr. Howard is certainly in error here when he says that <del>Reed and</del> Lazear<lb/>
+visited him before they went to Cuba. Lazear went to Cuba in February 1900 and already knew<lb/>
+a lot about mosquitoes. Reed and Carroll may well have visited Howard (p. 431) See my<lb/>
+photostat copies of the Howard-Reed-Carroll correspondence. Reed and Carroll were in <lb/>
+Washington in May 1900 and then Reed and Carroll went to Cuba together. Lazear had already<lb/>
+been there three months--P.S. Hench, M.D.)<lb/>
+<add>I think this is splendid<lb/>
+AET</add></p>
+<pb n="3" id="f06411019"/>
+<p>Truby's remarks on your questionnaire re miscellaneous questions (Dec. 1946).</p>
+<p><add>I</add><lb/>
+Agramonte's statement in the Scientific Monthly must help to confirm<lb/>
+in your mind my statements about his writings after Carroll's death (1908).<lb/>
+As you know, I have labelled such remarks as <hi>Bunk</hi> in my Sen. Doc. and elsewhere.<lb/>
+Also compare Agramonte's statement about &ldquo;Verbal instructions&rdquo; from one of<lb/>
+Reed's letters. (See Sternberg Biography, P. 217 - note)
+</p>
+<p><add>II.</add><lb/>
+I think your conclusions are absolutely correct. Of course, I had seen<lb/>
+everything about this matter in the Sternberg Biography and the note, Pg. 24,<lb/>
+in the Sen. Doc., but I do not remember seeing the actual written instructions.<lb/>
+The very general instructions in the Sen. Doc. make it clear that the Surgeon<lb/>
+General gave Reed full authority to follow his own plans, but to &ldquo;give special<lb/>
+attention to questions relating to the etiology and prevention of yellow fever.&rdquo;<lb/>
+As previously stated, I never questioned Sternberg's statements re this, even as<lb/>
+late as when I wrote my book, and was astounded when you pointed out these facts in<lb/>
+your recent questionnaire to Kean (1946). See my book, pg. 89. I will have to revise<lb/>
+that when and if the book is reprinted.
+</p>
+<p>NOTE: My short notes in ink on the margin <add>of the questionnaire</add> supplement my general remarks.</p>
+<pb n="4" id="f06411020"/>
+<p>2<lb/>
+finished writing the Preliminary Report, in other words, at least not until Reed's<lb/>
+visit to Washington in mid-October, 1900. (The Preliminary note was read in<lb/>
+Indianapolis about October 28, 1900).</p>
+<p>Despite Sternberg's inference that his (undated) suggestion to Reed<lb/>
+regarding blood inoculations was made early in the game (he allows us to believe<lb/>
+such a suggestion might have been given to Reed about May 23, 1900) we know almost<lb/>
+exactly the date when Sternberg <hi>did</hi> make that suggestion. See Reed's letter of<lb/>
+December 14, 1900 to Sternberg (p. 223, the biography)--last paragraph of the letter<lb/>
+where Reed wrote: &ldquo;In view of the results, I would like to know whether you con-<lb/>
+sider it necessary that we should try blood injections <hi>as you suggested when I<lb/>
+last saw you</hi>.&rdquo; Reed had last <hi>seen</hi> Sternberg in mid-October when he left Cuba<lb/>
+(October 14), arrived about October 20 in the U. S., presumably went first to<lb/>
+Washington for a day or so, then on to Indianapolis to give the Preliminary Report<lb/>
+about October 23, then presumably back to Washington the last week in October<lb/>
+before returning to Cuba early in November, 1900.<lb/>
+<add>O.K.</add></p>
+<p>In other words, Sternberg didn't give Reed the suggestion about blood<lb/>
+inoculations until he <hi>saw</hi> Reed during the last two weeks in October.<lb/>
+<add>I concur</add></p>
+<p><add>II</add><lb/>
+From all this I must conclude that (1) Sternberg's instructions to Reed<lb/>
+in May, 1900 were quite <hi>general</hi> but did include instructions to study yellow fever<lb/>
+in particular; (2) after the preliminary successes of Lazear in August and <hi>after</hi><lb/>
+Reed had written in Cuba the Preliminary note, then and not until then did Sternberg<lb/>
+begin to make certain specific suggestions as to things Reed might do in his con-<lb/>
+tinuing work on the mosquito theory; (3) I believe it was not until December 26,<lb/>
+1900 (case of Alvarez) that Reed actually acted on Sternberg's suggestion regarding<lb/>
+blood inoculations and actually injected Alvarez with &ldquo;infected blood.&rdquo; (See<lb/>
+Sen. Doc. 61, pages 82 and Table 1, p. 104).<lb/>
+<add>yes<lb/>
+PSH<lb/>
+yes<lb/>
+yes<lb/>
+O.K.</add></p>
+<p>2.--Do you agree with my conclusions? <add>Yes, see typed remarks. </add>Please state your opinion of all this.
+</p>
+<p>&check;3.--General Truby, when I wr<del>o</del><add>i</add>te my book I will want to quote rather extensively <lb/>
+from your book and use your book as an outstanding authoritative source. In all<lb/>
+likelihood my book will not appear for some time yet and should not interfere with<lb/>
+the publication and sale of any second edition that might be planned for 1950<lb/>
+(50th Anniversary). Later the appearance of my book might be supposed to interfere<lb/>
+with the sale of yours and on the face of things your publisher might not be<lb/>
+too willing to let me use generously quotations from your book, unless I had a<lb/>
+letter from you encouraging him to let me do so. Isn't it equally possible that<lb/>
+if my book is read it might encourage (not slow up) the sale of your book? I<lb/>
+believe so because when certain readers get interested in a subject they like to<lb/>
+read other aspects of the same subject. For example the assassination of Lincoln<lb/>
+provoked the writing of many books; one seems to lead to another and this flow has<lb/>
+led many readers and collectors to try to collect <hi>all</hi> such books.<lb/>
+<add><hi>Done</hi><lb/>
+AET</add></p>
+<p>&check;In any event, would you be willing to write two letters <hi>now</hi>, not to be<lb/>
+used until you or Mrs. Truby <hi>later</hi> permit: one letter to me saying you are willing<lb/>
+for me to quote generously from your book and (2) a letter (enclosed to me)<lb/>
+addressed to Hoeber encouraging him to be generous with my requests. As I have<lb/>
+said, I will not use either letter until <hi>later</hi> when you or Mrs. Truby permit. But<lb/>
+I would very much like to have these letters written now.<lb/>
+<add><hi>Done</hi><lb/>
+AET</add></p>
+<pb n="5" id="f06411021"/>
+<p><add>III</add><lb/>
+<hi>Number of Huts</hi>
+</p>
+<p>The maps of March, 1899 and 1901, together with the Perez model are<lb/>
+more reliable than Lambert. I have not had an interview with him and he gave me<lb/>
+most of the data for my book in letters which I thought you had. I cannot find<lb/>
+them here. When I gave you his letters I think I also gave you letters from<lb/>
+General Kean and Andrus. Won't you look them all up and see if any of Lambert's<lb/>
+are among them. I will look here too. Lambert, Pinto and I all agreed on what<lb/>
+is written in my book. That was in 194<del>2</del><add>1</add>, I think. When Pinto wrote his notes,<lb/>
+which are pasted in the copy of the manuscript which you have, he had the manu-<lb/>
+script and a map of the hospital. His notes were written <hi>at his home</hi> where he<lb/>
+must have had access to any notes or papers on Cuba in his possession. I doubt<lb/>
+if he had any, however. When he was here in San Francisco, I showed him the<lb/>
+finished manuscript and we talked of the huts as noted in my book. Why he changed<lb/>
+his story I can't imagine.<lb/>
+<add>Second <hi>Edition</hi><lb/>
+(3<hi rend="superscript">d</hi> Edition)</add></p>
+<p>Lambert's attitude I <hi>can</hi> understand because he is now trying to discredit<lb/>
+me since I did not recommend Ames and himself for the Medal of Honor. Lambert<lb/>
+wrote me after he had read my book and was bitter about my remarks on pg. 191 and<lb/>
+192 on this matter. I cut him off short with a letter after my illness, stating<lb/>
+that I could not agree with him and was not able physically to discuss the matter<lb/>
+further. I have not heard from him since.</p>
+<p><add>*</add> In my book pg. 51, the key to the buildings shows 119 and 120 as<lb/>
+Kitchens, 117 and 118 as 5-bed huts, 115 and 116 as 2-bed huts, and 113 and<lb/>
+114 as storage and Ame<del>'s</del><add>s'</add> office. Of course, the buildings were used for<lb/>
+various purposes at different times even though they were all called wards.<lb/>
+The duty personnel, both male and female, had to be sheltered and then they<lb/>
+had to store things and cook. But, generally speaking, the southern row of<lb/>
+wards was used for the sick and the northern for duty personnel. As a rule<lb/>
+116 and 118 took care of most of the sick. There were probably never more than<lb/>
+three or four patients <add>my sick patients</add> there at any one time I am quite sure. That can be<lb/>
+checked up.</p>
+<p><add>IV</add><lb/>
+The photo of the small hut is a <hi>lucky find</hi> and is the <hi>real thing</hi>.<lb/>
+It also refutes Lambert about windows. The hospital buildings in the Perez<lb/>
+model, as I have often told you, were excellent reproductions as to size,<lb/>
+shape and outside details. It was very badly set up on the base-board.<lb/>
+I conceived the idea of having the buildings set up on similar terrain and<lb/>
+photographed. But at Carlisle, they were busy getting ready for war at the<lb/>
+time and the ground selected was not well chosen and the photographic result<lb/>
+a failure as the ground looks flat. The contours should have been greatly<lb/>
+exagerated to show up properly in a photo. The approximate distance between<lb/>
+buildings was, however, quite accurate.
+</p>
+<p><add>* See p. 55 <del>&ldquo;Miscellaneous questions&rdquo;</del> re size<lb/>
+of huts.</add></p>
+<pb n="6" id="f06411022"/>
+<p>3</p>
+<p>4.--THE YELLOW FEVER HUTS: Except to perfectionists like you and me it is of no<lb/>
+real consequence whether there were four or eight such huts and who was taken care<lb/>
+of in which hut, especially as all the huts are gone, but I wish I could straighten<lb/>
+out this matter. <add>It can't be done<lb/>
+See also page 8-14</add></p>
+<p><add>III.</add><lb/>
+NUMBER OF HUTS: Lambert insists that in 1900 there were only four such huts<lb/>
+(presumably 113-116 which he called 1-2-3-4. His number 1 was 114, 2-113, 3-115,<lb/>
+4-116. Later, about November, 1900, a little toilet building was erected just<lb/>
+&ldquo;west&rdquo; and on a line midway between the huts. The <hi>Survey Map of 1898</hi> which shows<lb/>
+where they <hi>planned</hi> to put certain things (but didn't do it just that way) shows<lb/>
+no huts, of course. The &ldquo;<hi>7th U. S. Army Corps Map of March, 1899</hi>&rdquo; (showing the<lb/>
+Second Division Hospital where the Post Hospital was later situated) shows no<lb/>
+huts but has an enclosure across the La Playa R. R. track labeled &ldquo;Contagious<lb/>
+Wards--2nd Division Hospital.&rdquo;<lb/>
+<add>
+enclosed<lb/>
+enclosed</add></p>
+<p>My other 1899 map shows eight little buildings but it is quite likely<lb/>
+that only four were wards (<hi>see enclosure</hi>). The western two small ones are labelled<lb/>
+kitchens; the middle four are definitely wards (these are probably the same as<lb/>
+115-118 in the April, 1902 map) and the eastern two small ones (113-114?) may <hi>not</hi><lb/>
+have been wards. <add>They were too small to properly take care of one patient<lb/>
+This is a perpect map - Really wonderful-</add></p>
+<p>The <hi>&ldquo;1899 map checked by survey of March, 1901&rdquo;</hi> (<hi>enclosed</hi>) shows the<lb/>
+same eight little buildings; and these same eight (size, shape, and position)<lb/>
+are in our April, 1902 map (your book). The Yldefonso <hi>Perez model of &ldquo;Columbia</hi><lb/>
+Barracks 1900-1901&rdquo; shows eight buildings. The one placed in position of 113<lb/>
+has its own out-house attached. Those in positions 119 and 120 are small (too<lb/>
+large to be toilets? Too small to be wards? Possibly <hi>&ldquo;kitchens&rdquo;?</hi>)<add>Yes</add> In the <lb/>
+<hi>June, 1907 map</hi> there are only five little buildings and comparing the maps I would<lb/>
+conclude that they were 114-115-116-117-118 of the April, 1902 map and that<lb/>
+buildings 113-119-120 had disappeared. However it should he noted that the &ldquo;western&rdquo;<lb/>
+two huts in the 1907 map are <hi>not</hi> shaped (on the map at least) quite like 117-118<lb/>
+of the 1902 map; the former are a little narrower and longer. Of course this could<lb/>
+have been an insignificant error by a draftsman.<lb/>
+<add>Possibly for the woman nurses<lb/>
+4 photo<lb/>
+enclosed<lb/>
+enclosed</add></p>
+<p><add>IV</add><lb/>In Mrs. Walter <hi>Reed's scrapbook</hi> I found the only <hi>extant photo of these</hi><lb/>
+small huts. From this photo it is impossible to tell how many huts there were.<lb/>
+In the foreground is a large hut, in the center another one of the same size or<lb/>
+just a little smaller. In the distant background under a tree is a small hut.<lb/>
+When I first saw it I assumed the photo was taken from near the railroad track<lb/>
+with the photographer's back to the main camp and that he only included one row<lb/>
+or part of one row. Because I can't see the second row in the background I assumed<lb/>
+that these were probably buildings 115-117-119 (three of the four north row huts).<lb/>
+I assumed that the entrances would naturally face the railroad track and the main<lb/>
+camp.<lb/>
+<add>
+enclosed<lb/>
+<hi>wonderful</hi></add></p>
+<p>Lambert (whose eyesight is quite poor) could not recognize this scrapbook<lb/>
+photo. At first this disappointed me greatly, but if one uses an enlarging glass<lb/>
+and compares this with the Perez model the two are identical in construction:<lb/>
+covered entrances, two front windows, slant of roof, small superstructure on roof<lb/>
+top, two windows on the sides of the largest buildings. Hence, I must believe<lb/>
+that the <hi>scrapbook photo is correct</hi>. <add>OK</add> But note that the Perez model (as set up<lb/>
+in the Carlisle photos) shows the entrances to the huts placed on the &ldquo;<hi>west</hi>&rdquo; end<lb/>
+(away from camp). I wonder why? If they were on the west <hi>then the photographer<lb/>
+of the scrap-book photo was facing east, i.e. toward the railroad cut and the main </hi><lb/>
+camp. If so, the huts portrayed are probably 118 (right foreground), 116 (center)<lb/>
+<add>
+O.K.<lb/>
+O.K.<lb/>
+To give more privacy from the large no. of men camped east of the RR, I think.</add></p>
+<pb n="7" id="f06411023"/>
+<p><add>IV</add><lb/>
+I think you have guessed right and that the large hut<lb/>
+at the right is 118 (Lazear's). The smaller one 116 (Carroll's), the one by the<lb/>
+tree 114 (Ame<del>'</del>s<add>'</add> office), while the dark object is probably the <hi>ambulance</hi>, which<lb/>
+always had to park there. This I also <hi>know</hi>, for before we had a bridge over<lb/>
+the railroad cut we used the ambulance. It was easy to go to the railroad<lb/>
+junction at Quemados and then pass down the west side of the railroad cut<lb/>
+on the camp level. I went that way myself on horseback and in the ambulance.<lb/>
+The tree is probably the same one you saw in 1940 but I don't remember it.
+</p>
+<p><add>IV contd.</add><lb/>
+We had no Officer's Ward in 1900. Building No. 93 was finished after<lb/>
+I left in November, 1900, and it <hi>did</hi> have a place for officers. In my time,<lb/>
+most sick officers were treated in their quarters where they had better<lb/>
+accommodations than the hospital afforded. Dr. Saleeby took care of them and<lb/>
+when necessary we aided him with nurses. Of course it is perfectly absurd to<lb/>
+say that Carroll and Lazear were treated in the Officer's Ward <del>o</del><add>i</add>n the main<lb/>
+hospital. Why did we have an isolation camp? Yellow Fever cases had to be<lb/>
+isolated by orders from the top. And besides, if I, the hospital C. O. then,<lb/>
+had permitted Lazear to stay in the Post Hospital, I would have been dismissed<lb/>
+from the service very promptly. Is Lambert crazy or just plain malicious?
+</p>
+<p><add>V</add><lb/>
+Read what I said about Rasmussen and Lambert in my book, pg. 109.<lb/>
+Lambert gave me this information. Rasmussen was a very intelligent and<lb/>
+reliable enlisted man. I remember him very well and when I was Chief Surgeon<lb/>
+in the <hi>Philippines</hi>, he was a Master Sgt. and on duty in charge of the work in<lb/>
+my office. We frequently talked of Camp Columbia and <del>the</del><add>his</add> work there and so<lb/>
+I was not surprised when Lambert spoke of him.<lb/>
+<add>
+(1924&sol;1926)</add></p>
+<p>Lambert positively gave me the information that Ames relieved him<lb/>
+from duty at the yellow fever camp and put him in charge of the disinfecting<lb/>
+plant, after instruction in the work at Havana. He did not return to duty <add>at the Camp</add> until<lb/>
+after Lazear's death when they <del><unclear>[unclear]</unclear> of</del><add>had little use for</add> Mrs. Warner. He had a room in the<lb/>
+plant all the time he was working for Ames<del>.</del><add>and staid there when<lb/>
+he could.</add></p>
+<p>When women came to the camp from Quemados with yellow fever, Ames had<lb/>
+to get a female nurse. Mrs. Warner, an immune, came from Havana and one or two<lb/>
+other women who were immunes helped her. Our regular nurses were <hi>not</hi> immunes.<lb/>
+Rasmussen, was on duty at the camp with them according to Lambert. I tried to<lb/>
+get in touch with Rasmussen and wrote to Lull in the S.G.O. who informed me<lb/>
+that he had died.</p>
+<p><add>Two of our non-immune nurses were on the Edmunds case<lb/>
+&amp; I think both developed YF. After that Mrs Warner came from Havana.</add></p>
+<p>Among other things, Lambert told me that one night when Carroll was<lb/>
+wild (delerious) Mrs. Warner sent someone over to his room in the disinfecting<lb/>
+plant (building 111, pg. 51, my book) and asked him to come over and help them.<lb/>
+He did so and said they had a hard time controlling Carroll. Please notice the<lb/>
+reference to pg. 51 where it states &ldquo;Lambert's quarters.&rdquo; Rasmussen was not<lb/>
+available that night, probably on pass.</p>
+<p>It must be since 1943 (when I became ill) that Lambert changed his mind<lb/>
+about the place where Carroll and Lazear were treated. He has figured me <add>&ldquo;</add>down<lb/>
+and out<add>&rdquo;</add> and could therefore discredit my statements for his own purposes. I<lb/>
+feel sure he is doing this willfully and maliciously. I expect General Kean<lb/>
+knows that he, Lazear and Carroll were all sick at the yellow fever camp.<lb/>
+Pinto knew it too, no matter how mixed up he was on the particular huts.</p>
+<p><add>I am sure Kean will conclude that I am<lb/>
+right in this opinion. Lambert has<lb/>
+bothered Kean very much on the same<lb/>
+subject for years. (Roll of Honor)</add></p>
+<pb n="8" id="f06411024"/>
+<p>4<lb/>
+and 114 in the background under the tree. If so, I wonder if this tree is the<lb/>
+one which was later marked by the sign and fence (tree still there in 1940). If<lb/>
+so, what is the dark object in the distance, just to the left of tree? <add>ambulance</add> Too<lb/>
+near to be building 105? <add>Yes.</add>
+</p>
+<p>Now back to the Perez model. As I said the building placed in 113<lb/>
+position has its own little out-house. At first I thought that the building used<lb/>
+by Ames (to sleep in occasionally) (presumably 114) would have had its own toilet<lb/>
+more likely than building 113 for <hi>bed</hi> patients. However, on second thought it is<lb/>
+probably more likely that 113 (for patients who were soon ambulatory) would have<lb/>
+a toilet than 114 only occasionally used by Ames. What do you think?<lb/>
+<add>for the women I think<lb/>
+We had regular Commodes in the Med. Dept. which could be used in the wards.</add></p>
+<p>Lambert's description of the windows in the huts does <hi>not</hi> agree with<lb/>
+the scrap-book photo or the Perez model. According to Lambert there were no<lb/>
+windows in 113 or 114. (The Perez model shows windows). Lambert <unclear>says</unclear> there was<lb/>
+<hi>a window on one side</hi> of 115 and 116. The Perez models show one window on each<lb/>
+side of 115 and 116 and two windows on each side of 117 and 118. (The side<lb/>
+windows in the scrap-book photo don't show clearly but the wall is big enough to<lb/>
+have allowed for two windows.) <add>Lambert's statements discredited by the photo.</add></p>
+<p>Also as Lambert remembered them, his &ldquo;four huts&rdquo; <hi>faced each other; i.e.</hi><lb/>
+the doors of two huts (113-114) were on the west side, those of 115-116 were on<lb/>
+the east side. The scrapbook photo contradicts this. <add>Of course,<lb/>
+Why?<lb/>
+The Sanitary report discredits all this too.</add></p>
+<p>For these additional reasons I believe that <hi>Lambert's memory regarding</hi><lb/>
+the construction of the little huts (number, arrangement of windows and doors)<lb/>
+is <hi>not quite accurate</hi> although I would be inclined to accept his memory of who<lb/>
+was in which buildings rather than Pinto since Pinto's statements to you disagreed<lb/>
+with those he made to me.<lb/>
+<add>Strictly bad at least</add></p>
+<p>From the above I must also conclude that despite Lambert's statement<lb/>
+that in 1900 there were only four buildings, actually there were <hi>eight</hi> (in the<lb/>
+1899 map) although at least two, perhaps four, were not considered &ldquo;wards.&rdquo; Could<lb/>
+the discrepancy in Lambert's story be due to the fact that he meant there were<lb/>
+only &ldquo;four wards&rdquo; (although there were eight huts)? I'm not sure; he was pretty<lb/>
+positive that there were only four <hi>buildings</hi>. (I'll write him again).<add>Why waste time?<lb/>
+See p. 4</add></p>
+<p><add>V</add><lb/>
+5.--PATIENTS IN THE HUTS: In considering Lambert's data on the number of huts and<lb/>
+who was cared for in each one it is difficult to refute his data for as he says<lb/>
+&ldquo;Shouldn't I know? Didn't I work there and live there day and night for several<lb/>
+months?&rdquo; Because of this it is hard for me to accept without due reflection<lb/>
+Pinto's statements to you where they conflict with Lambert. (However it appears<lb/>
+that Lambert's memory is in error on the number of <hi>buildings</hi> (but probably not<lb/>
+on the number of <hi>wards</hi>) and if so, his memory may also be in error on what patients<lb/>
+were cared for where. <add>I think so. I no longer credit his statements.<lb/>
+They agreed once.<lb/>
+See p 8-114</add></p>
+<p>Lambert insists that Carroll and Lazear <hi>were not cared for in the huts</hi><lb/>
+but in the &ldquo;officers' ward&rdquo; in the hospital <del>(and Mrs. Warner's newspaper clipping<lb/>
+agrees as to Lazear</del>. You and Pinto insist they were cared for in the huts. It<lb/>
+is hard to understand why Lambert shouldn't remember them if they were there while<lb/>
+he was. There are only four possibilities; either he was (1) too busy with other<lb/>
+cases to which he was assigned to know they were there (hard to believe), or<lb/>
+(2) away temporarily on leave (he says not), (3) mistaken now in his memory, or<lb/>
+(4) Pinto's note to you was in error.<lb/>
+<add>He knows better<lb/>
+No</add></p>
+<p><add>In <add>June or</add> July <del>or Aug</del> women sick with YF were admitted to<lb/>
+the huts and then female nursing was demanded.<lb/>
+It was soon after that that Ames sent Lambert away for<lb/>
+instruction in disinfection work. See p 81 my book.</add></p>
+<pb n="9" id="f06411025"/>
+<p><add>V cont.</add><lb/>Lambert had no leave (see typed remarks elsewhere.) Andrus was at the<lb/>
+camp with yellow fever late in January 1901. See my book pg. 174. Pinto left<lb/>
+Cuba <hi>November 10, 1900</hi>, shortly before I left for Cienfuegos. I think Pinto's<lb/>
+letters to me may confirm this. I have told this to Lambert in letters several<lb/>
+times. He is therefore again trying to discredit my statements. The facts can<lb/>
+be obtained from the War Department.<lb/>
+<add>I think <hi>Amador</hi> was the doctor</add></p>
+<p>I will search for Lambert's letters. I suggest that if you do not<lb/>
+have them that you read the letters from Andrus. He obtained for me many<lb/>
+details from Lambert re the yellow fever camp before I started to write to<lb/>
+the latter. You might find something re the huts and Lambert's work in them.<lb/>
+You have all of my letters from Pinto and Andrus, I think. The letters from<lb/>
+Andrus <unclear>a</unclear>re full of information which I found most reliable. Don't you agree?<lb/>
+If you have not read them, please do so. Andrus was honest and had nothing to<lb/>
+gain by giving false information. He thought that Lambert should have been on<lb/>
+the Roll of Honor. But I doubt if he knew of the requirements specified by the<lb/>
+War Department.</p>
+<pb n="10" id="f06411026"/>
+<p>My own conclusion would be that Carroll and Lazear <hi>were</hi> in the huts;<lb/>
+why would they have been given more consideration (i.e. kept in the &ldquo; <hi>officers'</hi><lb/>
+ward&rdquo;--you didn't actually have an officers' ward did you?) than Major Kean who<lb/>
+was presumably in one of the huts. (Actually General Kean doesn't recall where<lb/>
+he was cared for but thinks it may have been in one of the huts). And if it was<lb/>
+the policy <hi>not</hi> to care for <hi>anyone</hi> with Y. F. in the main hospital (<hi>as it apparently<lb/>
+was</hi>) I can't understand why Carroll and Lazear should <hi>not</hi> have been cared for in<lb/>
+the huts. <add>You may be sure that this is a<hi>falsehood</hi> about C. &amp; Lazear.<lb/>
+Could not have been done<lb/>
+Yes</add></p>
+<p>Let me now compare Lambert's statements to me (<hi>1942</hi> and 1946) with the<lb/>
+data in your book (pages 55, 80, 110). See Table enclosed. You will see that<lb/>
+Lambert's statements of 1942 coincide entirely with those he made to me in 1946,<lb/>
+both times from memory, without notes or maps (except that he placed Moran in<lb/>
+hut #115 in our interview of May, 1942 but I have Moran placed in #114 (pencilled<lb/>
+on my 1902 map when I visited Lambert). This discrepancy regarding Moran may<lb/>
+have been my fault. <add>most of my data from Lambert were, I think<lb/>
+rec'd. long before 1942, and they did not agree with his statements to you.</add></p>
+<p><add>VI</add><lb/>
+Actually I don't believe you rely (in your book) on your own memory; you<lb/>
+quote Pinto as authority for placing Carroll in #116 and Kean and Lazear in #118<lb/>
+(as per Pinto's letters and notes). If this is so it would seem to resolve itself<lb/>
+into a difference of opinion between Lambert and Pinto (nobody else seems to re-<lb/>
+member, including you) as to where the various patients were cared for (excluding<lb/>
+for the moment Carroll and Lazear). Assuming that each (Lambert and Pinto) are<lb/>
+certain of his memory, a neutral observer would conclude that Lambert <hi>should</hi> recall<lb/>
+where they all were, he who spent days and nights there, rather than Doctor Pinto<lb/>
+who visited the huts briefly, probably for less than 30 minutes each visit.
+</p>
+<p>Actually I don't believe Pinto was entirely <hi>certain of his facts; at</hi><lb/>
+least on this point he told me things not in accord with what he told you. In<lb/>
+my interview with him in Omaha <hi>March 22, 1943</hi> he stated three times (we had the<lb/>
+maps) that Lazear and Carroll were cared for in building #113 (also Kean). Having<lb/>
+told me this twice I later asked him &ldquo;I believe you told General Truby that<lb/>
+Carroll was in the first hut south of Ames' quarters and that Lazear was not put<lb/>
+in those quarters but the next one to it&rdquo;--Doctor Pinto's answer: &ldquo;If I said<lb/>
+that I was wrong. Lazear and Carroll were both sick in building #113 on your<lb/>
+1902 map, north of Ames' quarters, not building #114.&rdquo; (p. 15, our interview).<lb/>
+<add>no not in '43<lb/>
+What caused Pinto's death?</add></p>
+<p>On p. 5 (interview) he stated &ldquo;These little buildings are shown on your<lb/>
+1902 map. No. 114 was Ames' office; Carroll was put in 113.&rdquo; On p. 7 Pinto<lb/>
+states &ldquo;Building 114 was used by Doctor Ames as his office and sleeping quarters<lb/>
+when patients were very sick. <hi>There were no patients in 114</hi>. In 113 were Kean,<lb/>
+Lazear, Carroll, and Cartwright.&rdquo; On p. 8 Pinto states &ldquo;Lazear was already very,<lb/>
+sick; he was removed to #113.&rdquo;<lb/>
+<add>no absurd.</add></p>
+<p>Certainly on March 22, 1943 with my map to look at Doctor Pinto was<lb/>
+definite enough. His one letter to you however used vague phraseology and his<lb/>
+comments on your manuscript (pasted in) don't agree with his interview with me.</p>
+<p>Lambert insists he was at the huts <hi>continually</hi> from <hi>August</hi>, 1900 to<lb/>
+March, 1901. He was in quarantine and only &ldquo;broke quarantine&rdquo; twice: once to go<lb/>
+<add>Should be Oct.<lb/>
+not true.</add></p>
+<p><add>He was not in the YF Camp until after Lazear's death.</add></p>
+<pb n="11" id="f06411027"/>
+<p><add>VI</add><lb/>
+In my book I do not think that I made any statement re the huts based<lb/>
+on my own memory but I did not include any statements of Lambert's either<lb/>
+which I considered wrong. All of Pinto's statements <hi>about the huts</hi> were<lb/>
+included unchanged, I think, as you can see from his written notes. I myself<lb/>
+had very positive ideas about the general situation at the yellow fever camp.<lb/>
+For instance, I knew that the small huts 113 and 114 were never used for the<lb/>
+sick while I was there. It is perfectly ridiculous to suppose that Kean,<lb/>
+Carroll, or Lazear would have been placed in such a tiny hut when fine,<lb/>
+roomy, large ones were available. Huts 113 and 114 were probably not more<lb/>
+than 6 or 8 &times; 9 feet. They were evidently built for one person, probably a<lb/>
+non-commissioned officer in charge of the row of huts. The other huts were<lb/>
+about the dimensions given in my book. Think how hard it would have been to<lb/>
+care for a seriously ill, constantly wretching patient, in that small space.<lb/>
+Sometimes two nurses would have to be there too. Someone all the time. Then,<lb/>
+too, I have in the back of my head the idea that we never used the northern<lb/>
+row for patients. The duty personnel used those huts and one building may<lb/>
+have been used for convalescent patients. By keeping patients in certain<lb/>
+buildings permanently, they did not have to be disinfected constantly as they<lb/>
+would have if Lambert's program had been followed. Besides, all this, Ames<lb/>
+wanted to be near his patients. Hence, as I feel sure Ames stayed in 114, the<lb/>
+next two (large huts) 116 and 118 were in almost constant use. Ames would<lb/>
+never walk a step if an ambulance was available. Even when the bridge was<lb/>
+there he usually went to the yellow fever camp in one and it was habitually<lb/>
+parked where the &ldquo;dark object&rdquo; appears in the photo. So, when I saw that<lb/>
+picture, the idea came to me at once, <hi>that is Ames' ambulance</hi>. The longer I<lb/>
+think about it the more convinced I am that it is the ambulance. It is the<lb/>
+right size and in the right place.
+</p>
+<p>From all this there is not the slightest doubt that Kean, Carroll, Lazear<lb/>
+and Cartwright were all in the southern row but I can't specify which hut the<lb/>
+different ones were in. In the case of Carroll and Lazear, no doctor in his<lb/>
+right mind would have placed them both at the same time in the same room.<lb/>
+So I think Pinto's mind was working OK on that point and I had the same opinion<lb/>
+before I heard his views. There was always plenty of room, especially if<lb/>
+convalescents were removed to other huts.</p>
+<p>The camp had other duty personnel besides the three immune women and<lb/>
+Lambert. Rasmussen was there, also a cook and other general helpers (as needed)<lb/>
+who probably had no contact with the sick. All lived and messed there. After<lb/>
+Lazear's death the camp was very inactive until patients came from Camp Lazear.<lb/>
+<del><unclear>[unclear]</unclear></del></p>
+<p>When Kissinger came, Ames put Lambert in charge of the nursing at Camp<lb/>
+Lazear and the women probably helped. Ames, I think did not have much confidence<lb/>
+in Mrs. Warner and her helpers after Lazear's case. I believe that they helped<lb/>
+in the Andrus' case.</p>
+<p>The yellow fever camp was always independent of the main hospital and had<lb/>
+its own equipment and supplies. Yellow fever was still considered a contagious<lb/>
+disease and we carried out all precautions under orders, of course. The<lb/>
+main kitchen may have sent cooked food, under certain precatuions, at times for<lb/>
+the duty personnel.</p>
+<pb n="12" id="f06411028"/>
+<p>- 2 -</p>
+<p>Lambert never mentions any help except the three women. So I am glad<lb/>
+your questions have brought out my views on this. He lived in the disinfecting<lb/>
+plant most of the time but <hi>messed at the camp</hi>. None of the duty personnel could<lb/>
+eat at the main hospital ness and they could not mix with the men in the main<lb/>
+hospital. The disinfecting plant and yellow fever camp were both under Ames.</p>
+<p>From these general remarks I hope to convince you that I knew in 1900 and<lb/>
+still know the general set up at the camp. I don't pretend to know many of the<lb/>
+details. But when others make statements that seem absurd to me I can form a<lb/>
+fairly accurate idea about them. When I had the opinion of two or more of our<lb/>
+old men I had to use my general information to arrive at conclusions. Sometimes<lb/>
+it may have been a bad guess, of course. You will notice that in my book in<lb/>
+one case, at least, I even cut out a portion of one of Pinto's statements because<lb/>
+I questioned it.</p>
+<p>Carroll was still at the camp when I arrived at Camp Columbia, September 18,<lb/>
+and I think he was still there when Reed returned on October 4. &ldquo;In the back<lb/>
+of my head&rdquo; there is something that makes me think that I saw Reed and Ames drive<lb/>
+away in an ambulance to visit Carroll within a short time after Reed arrived.<lb/>
+Therefore, in my opinion, Carroll could only have seen Lazear at the yellow fever<lb/>
+camp if he was able to walk from hut 116 to 118. Sometimes I have even doubted<lb/>
+that he ever saw Lazear during his illness. Agramonte claimed that too, and<lb/>
+you gave me the reason why he did not. You will find by the records, if you<lb/>
+can find them, that Carroll was on sick report quite a long time for a yellow<lb/>
+fever case. When Ames finally let him come back to his room in the bachelor<lb/>
+building, he moped around there for several days while he was still marked quarters.<lb/>
+He finally complained to Reed because Ames would not mark him duty. Reed talked<lb/>
+to both Ames and me about it and it was concluded to mark him duty to satisfy him.<lb/>
+He was in no condition to do any real work in the laboratory and Reed had to<lb/>
+send him home to the U.S.</p>
+<p>I have been quite upset by the developments in this hut question. There is<lb/>
+something wrong with someone. I took Lambert's word for what he wrote me and<lb/>
+Andrus back in 1938 and 1940 and did not differ with him much. In 1942 something<lb/>
+went wrong. Lambert began to change his earlier statements and those you have<lb/>
+quoted in your questionnaire are still worse. This is what I think may have been<lb/>
+the reason. My manuscript was finished December 7, 1941, just as I heard the<lb/>
+radio tell of the Jap attack. Soon thereafter, I sent a copy of the manuscript<lb/>
+to F. F. Russell and that copy soon went to Andrus. One went to you later.<lb/>
+Lambert did not see a copy for he was so insistent on being recommended for the<lb/>
+Roll of Honor that I kept him in ignorance of what I would say on that point.<lb/>
+So, I imagine, that Andrus, quite naturally, told him my remarks re the Roll of<lb/>
+Honor for Ames and himself.</p>
+<p>Well, I have had my say. Now you can do a bit of guessing. Some of the<lb/>
+facts can't be determined, of course, but you have unearthed many important ones.<lb/>
+Keep it up. And generally those I have seen, substantiate my story. The little<lb/>
+photo of the huts and and the sanitary report of March 31, 1899 are new and very<lb/>
+gratifying. Pinto told me the story re smallpox huts. See pg. 5h, my book.</p>
+<pb n="13" id="f06411029"/>
+<p><figure entity="t06411029"></figure> Dr Lazear<lb/>
+Mrs. "-<lb/>
+Carrie-<lb/>
+Havana <del>1899</del><add>1900</add><lb/>
+<hi>AET</hi><lb/>
+These 2 photos were undoubtedly taken the same time<lb/>
+not in 1899 (Lazear wasnt in Cuba till Feb 1900)<lb/>
+note Lazear, his wife &amp; your sister have the same clothes<lb/>
+on in both photos</p>
+<p>These photo['s were taken the same]<lb/>
+day by me. [The date 1899 of course]<lb/>
+wrong as the [Lazears &amp; my sister were not]<lb/>
+in Cuba until [the spring of 1900. The upper]<lb/>
+one is I think [where we landed at Casa Blanca]<lb/>
+and went up [to Caba&ntilde;a Fortress <add>or Morrow first I think</add> from there.]<lb/>
+the lower [photo is in the Moat at Caba&ntilde;a]<lb/>
+Reed was <hi>not</hi> [with us]</p>
+<p><figure entity="t06411029"></figure> I think Reed is #5 (or # 4?) no<lb/>
+I think they were taken in Havana Mar <hi>30</hi>, 1900</p>
+<p>Reed had no doubt visited Morra &amp; Caba&ntilde;e<lb/>
+when his son was stationed over there. Ask W.L. Reed.</p>
+<pb n="14" id="f06411030"/>
+<p>6</p>
+<p>fetch Ames to see Andrus, and once Ames took him in an ambulance to Camp<lb/>
+Lazear but wouldn't let him out of the ambulance. Lambert mentioned no<lb/>
+leaves during that time (could he have had one and forgotten it? I doubt<lb/>
+it. Where would he take a leave in Cuba?). Incidentally, in our interview<lb/>
+of January 22, 1942 Lambert remarked &ldquo;<hi>Doctor Pinto was supposed to be caring</hi><lb/>
+for Andrus <add>Impossible See V.</add> but Doctor Pinto was afraid of yellow fever and only went into<lb/>
+the yellow fever buildings about three times&rdquo; (meaning, presumably, while<lb/>
+Andrus was ill).</p>
+<p>Please comment on all this. You told me last July, 1946 that if<lb/>
+I would review Lambert's letters to you written before your book was published<lb/>
+I would see that he had since changed his statements. Actually I find nothing<lb/>
+thereon in your letters from Lambert. There are only two from him (enclosed)<lb/>
+among the data you gave me; I have hunted through all your data two or three<lb/>
+times. Do you have at home more letters from him or did you get the data<lb/>
+from him by word of mouth; did you call on him in Chicago?</p>
+<p>In conclusion Lambert's remarks to me have been essentially con-<lb/>
+sistent; Pinto's remarks to me have not agreed with Lambert's. Pinto's<lb/>
+remarks to me (and he o.k.'ed a typed copy) were definite but not consistent<lb/>
+with those to you. <add>See additional pages (8-14) re this controversy</add></p>
+<p>6.--Did you actually have an &ldquo;officers' ward&rdquo; in the main wards of the<lb/>
+hospital or merely a few private rooms for officers or very sick enlisted men?<lb/>
+<add>See IV</add></p>
+<p>7.--Have you been able to get the old photos which Major Gilhus had (inside<lb/>
+of surgical ward; military funeral with band; the Lazear tree, etc.).<lb/>
+I'm anxious to see them.<lb/>
+<add>not yet</add></p>
+<p>8.--I am returning your photo identified as &ldquo;moat in Cabana Fortress Cuba<lb/>
+<hi>1899</hi>.&rdquo; In blue ink you later inserted <hi>March</hi> and some additional names.<lb/>
+The identification is certainly erroneous in part. If Lazear is in the<lb/>
+photo it could <hi>not</hi> have been taken in 1899. <hi>Was it taken in March, 1900</hi>? <add>yes</add><lb/>
+If so is it possible that figure 4 or 5 (one of the men with a derby<lb/>
+hat--unusual for Cuba?) was actually Doctor Reed? You recall Blossom<lb/>
+and General Reed gave me a photo of Major Reed on shipboard &ldquo;bound for<lb/>
+Cuba.&rdquo; He had on a derby hat. I also have a group photo at Camp Lazear<lb/>
+with Reed in a derby (Cooke, Kissinger, and others are in it; also some<lb/>
+boys; you've seen it).
+</p>
+<p>The reason I wonder if Reed is in this photo is that I have a letter<lb/>
+of Lazear to his mother dated from Columbia Barracks March 31, 1900 which<lb/>
+reads: &ldquo;I have been busy all this week but Doctor Reed leaves today<lb/>
+(electrozone trip--P. S. H.). <hi>We</hi> visited Morro Castle and Cabanas yes-<lb/>
+terday. I was much surprised at the size of Cabanas----In the moat is<lb/>
+a place where they shot prisoners-----&rdquo;</p>
+<p><add>&ldquo;We&rdquo; <unclear>was</unclear> not <add>intended to</add> include Reed I am sure.<lb/>
+Have written names<lb/>
+on back of photo</add></p>
+<p>From this (his &ldquo;surprise,&rdquo; etc.) I infer that it was Lazear's <hi>first</hi> <add>yes</add><lb/>
+visit there. If this was on March 30, 1900 and it was Lazear's first<lb/>
+visit there and <hi>Reed was along</hi>, <add>no</add> and if your picture was taken in March, <add>yes</add><lb/>
+1900 and includes Lazear it <hi>must</hi> have been taken on the visit with Reed.<lb/>
+Hence I suspect Reed is figure 4 or 5 as you hardly would have omitted, <add>no</add><lb/>
+him if he was in the party, unless he was hanging back with you.<lb/>
+<add>The &ldquo;We&rdquo; meant<lb/>
+Mrs L &amp; Dr. L</add></p>
+<p>Reed was not with us- as Lambert says: <unclear>[unclear]</unclear><lb/>
+&larr; &ldquo;<hi>wasn't I there</hi>&rdquo;? But Lambert had an <hi>objective</hi><lb/>
+in mind- I have none.</p>
+<pb n="15" id="f06411031"/>
+<p>- 3 -</p>
+<p><add>*</add> Pinto, too, was sore for some reason or other. One reason, I think, was<lb/>
+that he saw the large picture of Corwell's here in my &ldquo;work shop&rdquo;, and he<lb/>
+thought Stark should have been in my place, I gathered. I think he thought<lb/>
+that he too should have been in it. Anyway, I never heard from him after that<lb/>
+visit although I wrote him and sent him an inscribed copy of my book.</p>
+<p><add>See p 13 A.</add><lb/> If you analyze this paragraph you will find that the maximum number in the<lb/>
+hospital at one time was 5: Carroll, DeLong, McKenna, Turner, XY. They could<lb/>
+all have been cared for in hut 118, but probably were placed in the two huts,<lb/>
+116 and 118.
+</p>
+<p>After September 16, there were only 4 - Carroll, Cartwright, Lazear and a<lb/>
+convalescent, DeLong. Not a big nursing load with plenty of help to do the other<lb/>
+ghings necessary in the camp. I know Lambert said he was away from sometime in<lb/>
+August until after Lazear was admitted to the hospital. He told me so and I am<lb/>
+quite sure Ames sent him to Military Hospital No. 1 or to the Quarantine Station<lb/>
+in Havana, for instruction in running our disinfecting plant. During this time,<lb/>
+he may have slept in his room at the plant.</p>
+<p><add><hi>P. 14 B</hi></add><lb/>The four buildings in the smallpox row were separated from the yellow fever<lb/>
+row by about 200 feet, I think. You can get it nearer right from the scale on<lb/>
+your large map. The 2nd Division Hospital was right on the job and prepared for<lb/>
+the expected cases of yellow fever. But I believe they had none. In the meantime,<lb/>
+they did have some cases of smallpox and so put up the 2nd row of huts, each row<lb/>
+with its own kitchen. The buildings in each row were not, I think, as far apart<lb/>
+as the two rows were from each other. Your discovery of this sanitary report with<lb/>
+dates is important.
+</p>
+<p><add>* I don't want you to think that I meant<lb/>
+to imply that Pinto was deliberately trying<lb/>
+to discredit me. <unclear><del>as</del></unclear> I do feel that Lambert <del>is,</del><lb/>
+<unclear><del>was,</del></unclear> has been trying to do that not only re<lb/>
+the huts but some other things you mentioned<lb/>
+to me here. I don't remember what they were.</add></p>
+<pb n="16" id="f06411032"/>
+<p><figure entity="t06411032"></figure> My Qrs. at La Punta - <del><unclear>1899 1900</unclear></del><add>1899 is correct</add></p>
+<p>See p 29-30 my book. She storm in<lb/>
+Jan 1899 washed away our tents and we moved<lb/>
+into the former quarters of Spanish Officers. I will<lb/>
+mark my room on the Havana map.</p>
+<p>The European bentwood chairs were in most Cuban<lb/>
+homes. 4 of them, usually are facing each other,<lb/>
+and near the window with its iron gratings &amp; curtains.<lb/>
+The picture was taken in the spring of 99. I<lb/>
+have no record of the date</p>
+<pb n="17" id="f06411033"/>
+<p>9.--Where and when was the photo of you in a rocker taken?<lb/>
+<add>You say La Punta 1899<lb/>
+But werent you living<lb/>
+in a tent at<lb/>
+La Punta<lb/>
+Fig 5<lb/>
+p 20<lb/>
+your<lb/> 
+work<lb/>
+&larr;</add></p>
+<p>10.--On Page 19 of Lambert's 1946 interview with me he spoke of Doctor Ames<lb/>
+thus: &ldquo;Major Ames was annoyed. He was at that time a major and<lb/>
+commanding officer.&rdquo; I sent a copy of this interview to you and to<lb/>
+General Kean. The latter wrote me &ldquo;He (Ames) was never a commissioned<lb/>
+officer.&rdquo;</p>
+<p>In a recent letter to Lambert (which I will send you) I copied<lb/>
+that one sentence on my own (not Kean's) authority (I didn't want to<lb/>
+have it appear that General Kean was arguing with Lambert). However,<lb/>
+I now find Lambert was right and General Kean (and I) were wrong.<lb/>
+Among the data you loaned me I find a copy of Ames' military record from<lb/>
+the S. G. O. It says &ldquo;His (Ames') contract was annulled on his acceptance<lb/>
+on April 26, 1901 of an appointment as captain and assistant surgeon of<lb/>
+<hi>volunteers</hi>----He was appointed major and surgeon of Volunteers January<lb/>
+6, 1902 and was ordered to Manila-----&rdquo;. <add>OK. but I doubt if<lb/>
+he went to Manila. If so he did not stay long.</add></p>
+<p>General Kean obviously meant Ames had <hi>no regular army commission</hi> <del> yes</del><lb/>
+but just as obviously Lambert was right in saying Ames was a &ldquo;major&rdquo;<lb/>
+and he may well have been a C. O. somewhere in Manilla. I must write<lb/>
+Lambert and correct my misstatement to him regarding Ames.</p>
+<p>Also this record indicates probably why Ames was transferred from<lb/>
+Columbia Barracks to Pirotechnia, not as punishment (as Lambert thought)<lb/>
+but because, being commissioned, he was given a more responsible (and<lb/>
+more &ldquo;military&rdquo;) assignment. I will write Lambert to explain this also<lb/>
+to him.</p>
+<p><add>I do not know but think you <del><unclear>[unclear]</unclear></del> are<lb/>
+right. Besides yf Epidemics were<lb/>
+over at Columbia Bks and Ames<lb/>
+was not needed there and I think<lb/>
+<hi>not wanted</hi>.</add></p>
+<p><add>No doubt the S.G.O. gave the<lb/>
+promotion to Ames as a just reward<lb/>
+for his work with the yf Board. Reed<lb/>
+may have recommended it.</add></p>
+<pb n="18" id="f06411034"/>
+<p><add>#11</add> WHERE PATIENTS WITH YELLOW FEVER CARED FOR</p>
+<p><hi>Reed et al</hi> (<hi>Preliminary Note--October, 1900</hi>)</p>
+<p>
+<list type="simple">
+<item>Carroll &ldquo;removed to the Y. F. wards&rdquo; (Sen. Doc. p63) <add>O.K.</add></item>
+<item>Dean &ldquo;removed to the Y. F. wards&rdquo; (Sen. Doc. P66)</item>
+<item>Lazear--(not stated) <add>p 69 Sen Doc</add></item>
+</list>
+</p>
+<p><hi>Carroll</hi> (<hi>Y. F. lecture, 1905</hi>)</p>
+<p>&ldquo;I was carried to the isolation camp&rdquo; (Sen. Doc. p210) <add>OK.</add></p>
+<p><hi>Lena Warner's notes to Kelly</hi> (<hi>Dec. 10, 1904</hi>: See also Kelly's book 1906 p 228).</p>
+<p>&ldquo;In September I nursed Doctor Carroll&rdquo; (at Columbia Barracks Detentions <add>OK</add><lb/>
+Camp). Doctor Lazear &ldquo;brought on a litter to our camp&rdquo;; she nursed<lb/>
+him.</p>
+<p><hi>Doctor Angles to General Kean</hi> (<hi>letter of February 19, 1941</hi>).</p>
+<p><add>see property<lb/>
+map<lb/>
+enclosed</add></p>
+<p>&ldquo;In the Alturas Farm of <hi>Father Zamora</hi>&rdquo; <add>OK</add> in the back of Columbia Hospital<lb/>
+past the street car line of Marianao you set up a camp with small<lb/>
+houses for the yellow fever cases. I saw you here in this camp with<lb/>
+Doctor Carroll, Doctor Lazear, and the Soldier Dean of the Seventh<lb/>
+Cavalry and since Lazear died in this camp--------&rdquo;<lb/>
+<add>OK</add></p>
+<p><hi>Lambert's interview with me January 22, 1942</hi></p>
+<p>
+<list type="simple">
+<item>He was in charge of Y. F. huts, as nurse, from <del>August</del>, 1900--March <add>no</add><lb/>
+2, 1901. <add>Oct to Mch.</add></item>
+<item>In #116--Andrus only one ever cared for here. <add>Bunk</add></item>
+</list>
+</p>
+<p><hi>Lambert's interview with me May 22, 1942</hi></p>
+<p>
+<list type="simple">
+<item>In #1-(114)--Kean and<lb/>
+Graham and wife<lb/>
+Captain Hepburn (same time)<lb/>
+Kissinger (see p 3b)<lb/>
+Mrs. Hunt or Blunt (see p 1b)<lb/>
+Moran (named on map)</item>
+<item>In #-(115)--Riley and Colby at same time<lb/>
+Moran and 2 Spaniards at<lb/>
+Folk and Forbes at same time (p3a)<lb/>
+same time (p 3b).</item>
+<item>In #2-(113)--Ames<lb/>
+Mrs. Hunt or Blunt (see p 3b)</item>
+<item>#4--(116)-Andrus the only one (p 3b)</item>
+<item>Lazear--Lambert &ldquo;doesn't know where he was.&rdquo; (p 3b) <add>of course not. He<lb/>
+was away.</add></item>
+<item>#1 (114)--used for awhile as storehouse. Ames kept here a few papers <add>,</add><lb/>
+<add>a bed,</add> and a little pocket surgical kit; never a real &ldquo;office&rdquo; (p6). <add>aet</add></item>
+<item>#117-118-119-120-&ldquo;not present in 1900&rdquo;. <add>Bunk</add></item>
+</list>
+</p>
+<p><hi>Lambert's interview with me June 21, 1946</hi>.</p>
+<p>
+<list type="simple">
+<item>In #1 (114)--Graham and wife (p 2 and 6). <add>not room enough in<lb/>
+that small house for 2 sick peoples, especially yf cases</add></item>
+<pb n="19" id="f06411035"/>
+<item><add>In #1(114) {</add> Kean and Hepburn (p 2 and 6).<lb/>
+<add>{</add> Kissinger (p 6)<lb/>
+<add>{</add> None later</item>
+<item>In #2 (113)--Mrs. Hunt (p 7)<lb/>
+Ames (p 13)</item>
+<item>In #3 (115)--Practically all the rest (p 7)<lb/>
+Ames (p 13)</item>
+<item>In #4 (116)--Only Andrus as patient (p 7)<lb/>
+2 nurses lived here for 2&frac12; months until moved to #114<lb/>
+when Andrus admitted as patient to #116--(p 8)</item>
+<item>&ldquo;<hi>Lazear</hi> and <hi>Carroll</hi> taken care of in officers' ward, main hospital&rdquo;--p8 <add>no</add></item>
+<item>&ldquo;<hi>Kean</hi> cared for in one of the little buildings&rdquo;--p20 <add>I think not</add></item>
+</list>
+</p>
+<p><hi>Lambert's interview with me June 21, 1946</hi></p>
+<p><add>Recapitulation</add></p>
+<p>
+<list type="simple">
+<item><add>{</add> #114 (Lambert's #1)--used first--p 2</item>
+<item><add>{</add> #113-115 and 116--full of cobwebs, not yet cleaned up--p 2</item>
+<item><add>{</add> #114--not used for patients after Kissinger; thereafter used for boxes<lb/>
+of linen etc.--p 6</item>
+<item><add>{</add> #113 (Lambert's #2)--used only by Mrs. Hunt and later Ames; roof<lb/>
+leaked; it was abandoned--p 7</item>
+<item><add>{</add> #116 (Lambert's #4)--only used by Andrus</item>
+</list>
+</p>
+<p>(If #114, Lambert's #1, was used up to the time of Kissinger, <hi>Lazear was</hi> <add><hi>positively no</hi></add><lb/>
+<hi>probably cared for</hi> in #114, assuming the other huts were not yet cleaned up. P. S. H.)</p>
+<p><hi>Lambert's corrected version to me January 9, 194 with drawing</hi>.</p>
+<p>
+<list type="simple">
+<item>In #1 (114)--<add>{</add> Graham and wife<lb/>
+<add>{</add> Kean<lb/>
+<add>{</add> Hepburn<lb/>
+<add>{</add> Kissinger</item>
+<item>In #2 (113)--Mrs. Hunt or Blunt<lb/>
+Ames</item>
+<item>In #3 (115)--All those not mentioned</item>
+<item>In #4 (116)--Only Andrus</item>
+</list>
+</p>
+<p><hi>Lambert's letters to Truby</hi>.</p>
+<p>
+<list type="simple">
+<item>February 16, <unclear><hi>?</hi></unclear> regarding Carroll: &ldquo;If anyone should ask me to make<lb/>
+a guess I would say Carroll was sick in his own quarters. <hi>I only<lb/>
+helped on his case one night</hi>.&rdquo; <add>See my remarks elsewhere</add></item>
+<pb n="20" id="f06411036"/>
+<item>April 17, <unclear><hi>?</hi></unclear>: Ames in #2 (113)<lb/>
+Andrus in #4 (116) <add>I think so</add><lb/>
+Folk and Forbes in #3 (115) <add>no</add><lb/>
+Eissinger in #1 (114) <add>no</add></item>
+<item><hi>Undated list</hi> of answers: <add>(to Truby)</add><lb/>
+Two nurses lived awhile in #3 (115), <add>probably right</add> moved to #1 (114) when <add>? too small</add><lb/>
+Andrus came <add>into #3 (115)</add><lb/>
+Folk and Forbes in #4 (116) <add>probably</add><lb/>
+Ames in #2 (113) <add>no</add></item>
+<item>January 18, 1946:<lb/>
+Ames in #2 (113)<lb/>
+Folk and Forbes in #3 (115) <unclear><del>yes.</del></unclear><lb/>
+Andrus in #4 (116)</item>
+</list>
+</p>
+<p><hi>Pinto to Truby</hi>--notes stuck in manuscript <add>p 83</add></p>
+<p>&ldquo;Carroll was in the first hut south of Ames' quarters. Lazear was<lb/>
+not put in those quarters but the next one to it&rdquo;--mss. p 83<lb/>
+<add>In my<lb/>
+opinion<lb/>
+this is<lb/>
+nearer<lb/>
+right<lb/>
+than any<lb/>
+other <del><unclear>[unclear]</unclear></del><lb/>
+guess.<lb/>
+aet</add></p>
+<p><hi>Pinto to Truby</hi>--letter of October 20, 1941</p>
+<p>&ldquo;I think you are right in regard to the huts occupied by the different<lb/>
+men. Carroll was in 116 and Lazear 118. Lazear occupied the same<lb/>
+but after Kean's sickness and dismissal from the hospital.&rdquo;</p>
+<p><hi>Pinto to Hench</hi>--Interview of March 22, 1943</p>
+<p>
+<list type="simple">
+<item>#114--Ames' office-p 5 and 7 <add>OK</add></item>
+<item>#113--Carroll--p 5 <add>no.</add><lb/>
+&ldquo;Kean, <hi>Lazear, Carroll</hi> and the quartermaster who died were all<lb/>
+here&rdquo;--p 7 <add>Ridiculous on the face of it.</add></item>
+<item>#115-120--&ldquo;I don't exactly remember these but in these buildings were<lb/>
+put the sick enlisted men&rdquo;--p 7</item>
+</list>
+</p>
+<p>Pinto corrected his note stuck in Truby's mss. p 83: &ldquo;If I said that<lb/>
+I was wrong. Lazear and Carroll were both sick in building 113 on your 1901 map,<lb/>
+north of Ames' quarters, not building 114&rdquo;--p 14-15</p>
+<p><hi>Truby's book</hi></p>
+<p>
+<list type="simple">
+<item>#118--Kean (quoting Pinto)--p 80</item>
+<item>#116--Carroll (quoting Pinto)--p 110</item>
+<item>#118--Lazear (quoting Pinto)--p 110</item>
+<item>#114--Ames' office--p 55</item>
+</list>
+</p>
+<p>I don't think you<lb/>
+can improve on this<lb/>
+It is only a guess, of course,<lb/>
+but why use small (tiny) shacks<lb/>
+when larger<lb/>
+ones are<lb/>
+available</p>
+<p><hi>Mrs. Warner's interview April, 1946 with Mattie Rogers</hi> (<hi>for Doctor Brumby</hi>).</p>
+<p>
+<list type="simple">
+<item>&ldquo;Lazear and Carroll <hi>carried</hi> to the officers' ward a <hi>few yards</hi> from<lb/>
+the Columbia Barracks' Hospital.&rdquo;</item>
+<item>&ldquo;Major Kean was cared for in a Havana hospital, attended by a practical<add>Bunk</add><lb/>
+nurse, Miss Ledley.&rdquo; (Kean denies this--P. S. H.).</item>
+</list>
+</p>
+<pb n="21" id="f06411037"/>
+<p>11</p>
+<p><hi>Summary of Lambert's different versions to me and to you (Truby)</hi><lb/>
+<list type="ordered">
+<item>Graham: 114-114-114-114</item>
+<item>Mrs. Graham: 114-114-114-114</item>
+<item>Kean: 114-114-114-114</item>
+<item>Hepburn: 114-114-114-114</item>
+<item>Mrs. Hunt or Blunt: 114-113-113-113-113</item>
+<item>Ames: 113-113-115-113-113-113-113-113</item>
+<item>Andrus: 116-116-116-116-116-116-116</item>
+<item>Kissinger: 114-114-114-114-114</item>
+<item>&ldquo;all the rest&rdquo;--115-115-115</item>
+<item>Folk: 115-115-116-115</item>
+<item>Forbes: 115-115-116-115</item>
+<item>Moran: 115</item>
+<item>Ames &ldquo;office&rdquo; for awhile--114</item>
+<item>2 nurses lived awhile--116-115<lb/>
+moved to--114-114</item>
+</list>
+</p>
+<p><add>I dont believe any of<lb/>
+this for 113 &amp; 114 were<lb/>
+tiny, probably not more<lb/>
+than 8 &times; 9 or 10. <del>See p. 55</del><lb/>
+<del>my book</del> perhaps only 6 &times; 9.</add></p>
+<p><add>I have a distinct feeling<lb/>
+that 116 &amp; 118 were the ones used<lb/>
+most often and that the ones<lb/>
+on the <hi>north</hi> row were rarely<lb/>
+used for patients, Too far from<lb/>
+Ames for one reason and<lb/>
+also they did not have to be disinfected if<lb/>
+not used for yf cases<lb/>
+probably.<lb/>
+no, too small for two</add></p>
+<p><hi>Pinto's versions to you and me</hi><lb/>
+<list type="ordered">
+<item>Carroll: 116-113-113 <add>no</add></item>
+<item>Lazear: 118-113-113 <add>no</add></item>
+<item>Kean: 118-113 <add>no</add></item>
+<item>Hepburn (&ldquo;quartermaster&rdquo;): 113 <add>no</add></item>
+<item>Ames' &ldquo;office&rdquo;: 114 <add>yes</add></item>
+</list>
+</p>
+<p><hi>My own conclusions as to where patients were cared for</hi><lb/>
+<list type="ordered">
+<item>1. Packmaster Graham--114 <add>no for reason given - Too small</add></item>
+<item>2. Mrs. Graham--114 out before Kean arrived</item>
+<item>3. Kean--114 (June 21-30) <add>no</add></item>
+<item>4. Hepburn--114 (June 25-30); same room, same time as Kean <add>no</add></item>
+<item>5. Mrs. Hunt or Blunt, wife of Cavalry Captain; admitted as Y. F.<lb/>
+suspect for 3-4 days shortly after Kean and Hepburn. Put in 113<lb/>
+probably because 114 occupied.</item>
+<item>6. Carroll--114 (August 31-September 12; &ldquo;to duty September 13&rdquo;). <add>no</add></item>
+<item>7. Dean--113 or 114 (September 7-15). Would he have been cared for<lb/>
+<add>no</add><lb/>
+<pb n="22" id="f06411038"/>
+12<lb/>
+<add>no</add><lb/>
+in same hut as an &ldquo;officer&rdquo;--(Carroll)? Presumably 114 was<lb/>
+used first, as 113-115-116 were &ldquo;full of cobwebs&rdquo; for awhile and<lb/>
+cleaned up later. Number 113 was used for awhile until the roof<lb/>
+started to leak (after Ames--February 5, 1901). Since Carroll<lb/>
+was still presumably in %114 Dean was probably put in %113.<lb/>
+<add>Can't you get Carroll's Sick record? Date to Qrs, and date to duty.<lb/>
+I think not</add></item>
+<item>8. Lazear--114 (September 18-25) <hi>Carroll had left the hut hospital</hi><lb/>
+five days before Lazear admitted; he was presumably convalescing<add>, no</add><lb/>
+in quarters. (Carroll wrote that he saw Lazear during his<lb/>
+illness but Pinto told you and me both that Carroll <hi>never</hi> saw<lb/>
+Lazear in the Y. F. hospital. Therefore if Carroll saw Lazear<lb/>
+at all it was on or about September 17-18 while Lazear was be-<lb/>
+coming ill and still in his quarters (if Pinto is correct). But<lb/>
+see Kelly p 267--Carroll says he saw him &ldquo;on the third or fourth<lb/>
+day of his illness&rdquo; (September 21?).<lb/>
+<add>See my remarks in questions re my book</add><lb/>
+<add>What do you think Carroll was<lb/>
+still in the yf Camp when I arrived on Sept 18 and I think<lb/>
+was still there when<lb/>
+Reed arrived.</add></item>
+<item>9. Kissinger--114 (December 9-23) <add>no</add></item>
+<item>10. Moran--115 (December 25-January 7) I suspect this change was<lb/>
+made because once the flow of experimental cases began (and not<lb/>
+until then) Ames decided to make 114 a little &ldquo;office&rdquo; (cot and<lb/>
+small medical kit); also 114 partly used to store linens. Henc<del>a</del><add>e</add><lb/>
+Moran put in 115.</item>
+<item>11. Folk--115 (January 24-February 3)</item>
+<item>12. Forbes--115 (January 24-February 4)</item>
+<item>13. Ames--113 (January 28-February 5) Ames put in 113 because 115<lb/>
+still occupied by Folk and Forbes (enlisted men)</item>
+<item>14. Andrus--116 (January 28-February 22) Andrus probably put in<lb/>
+separate building because he was very sick, also 115 was full<lb/>
+(never had more than 2 in a room even though 3 beds, so Lambert<lb/>
+said), and 113 used by &ldquo;officer.&rdquo; Therefore Andrus had to be<lb/>
+put in another building beside 113 or 115.</item>
+<item>15. &ldquo;all the rest&rdquo;--115 (one or two at a time).</item>
+</list>
+</p>
+<p>Ames' &ldquo;office&rdquo;--114 (probably not until after Kissinger left it and<lb/>
+it was seen that a flow of experimental cases would necessitate a place for Ames.</p>
+<p>You will see that my deductive reasoning has forced me to believe most<lb/>
+of what Lambert has said and to discount Pinto's contradictions. Over a period<lb/>
+of seven years Lambert has <hi>told you and me</hi> <add> no, not me</add> the locations as he remembered them<lb/>
+and contradicted himself very rarely. One or two of his &ldquo;contradictions&rdquo; (to<lb/>
+me) may well have been due to error on the part of the young stenographer (not<lb/>
+my regular one) who came in to help me when he visited me June 21, 194<del>4</del><add>6</add>. His<lb/>
+one or two contradictions to you were made chiefly in the one list of answers<lb/>
+he sent you. Whenever he has had a map available and been under my direct<lb/>
+questioning his answers have been precise and compared with his own drawings. I<lb/>
+think part of Lambert's apparent confusion arises because he must translate each<lb/>
+time his hut numbers (1-2-3-4-) into the map numbers (113-114-etc.).
+</p>
+<pb n="23" id="f06411039"/>
+<p><add>13</add><lb/>
+<add>He had a map. <del>yes he did.</del> One <add>(p. 51 my book)</add> went with my mms.</add></p>
+<p>13</p>
+<p>I think Pinto's contradictions arose because at one time he didn't<lb/>
+have a map, another time (with me) he did; also he was there <hi>much</hi> less than<lb/>
+Lambert.</p>
+<p>I cannot reconcile Lambert's memory of only four huts (8 in the 1899-<lb/>
+1902 maps) unless (1) he means there were only 4 <hi>wards</hi> and ignores 4 other little<lb/>
+buildings already there or (2) there <hi>were</hi> only 4 there until after Lambert was<lb/>
+transferred (March, 1901), the maps merely indicating what was <hi>planned</hi> and later<lb/>
+in 1901 actually built as shown in the Yldefonso model. I'd like to compromise<lb/>
+by believing there were 4 wards and 4 other buildings not ever used by Lambert<lb/>
+(but there in 1900). Could 117-120 have been built in 1899 and disappeared before<lb/>
+Ames worked there, but carried over anyhow on the 1900 map and model? Doesn't<lb/>
+sound convincing. Could the buildings in Mrs. Reed's scrapbook photo have been<lb/>
+built after Lambert left? <add>no there were 8-(4 in each row.</add></p>
+<p>The dates I've placed after the patients' names are from (1) the<lb/>
+actual fever charts which I have or (2) Ames' own list of yellow fever admissions<lb/>
+to the hospital (63 cases in all) written in his handwriting on four large<lb/>
+hospital admission sheets. Occasionally the fever chart was begun a day or even<lb/>
+two before the formal date of hospital admission. Sometimes these early fever<lb/>
+records were probably begun in the officers' quarters or at Camp Lazear in the<lb/>
+experimental cases a day or so before the patient was listed as admitted to<lb/>
+the yellow fever hospital.</p>
+<p>Lambert is obviously and definitely <hi>in error</hi> <add> deliberate, I think</add> as to where Carroll,<lb/>
+Lazear, and Dean were cared for. It specifically states in the Senate Document<lb/>
+and on Ames' list of admissions that they were admitted to the Post Hospital<lb/>
+Yellow Fever wards (as was Kean, Mrs. Warner to the contrary). <hi>Lambert must<lb/>
+have been doing other work elsewhere temporarily between August 31 and September <add>yes</add><lb/>
+25</hi> (when Carroll, Dean, and Lazear were sick) or else too busy at the yellow<lb/>
+fever huts to recall these three whom he obviously did not attend. I think the<lb/>
+latter is correct; he was too busy. <add>no see my remarks elsewhere</add>
+</p>
+<p><add>A.</add> During the dates while Carroll, Dean, and Lazear were in the Y. F.<lb/>
+huts several others were admitted to the huts--De Long, September 2-17;<lb/>
+McKenna, September 3-23; Turner, September 3-15; Cartwright, September 16-23;<lb/>
+Wardell, October 20-29. In all likelihood Lambert was very busy with these<lb/>
+cases and couldn't possibly have also cared for Carroll, or Lazear, or given<lb/>
+them the care the C. O. demanded for his two colleagues. I will ask Lambert<lb/>
+if he recalls caring for the men I've just listed. He probably did; he says<lb/>
+he was there continuously from about June, 1900 to March, 1901.</p>
+<p>These various patients (sick while Carroll and Lazear were ill) were<lb/>
+probably cared for in #115 except Cartwright (officer) whom also Lambert doesn't<lb/>
+recall attending. Cartwright got ill just two days before Lazear, was very<lb/>
+ill, and died two days before Lazear died. Hence things were very busy at the<lb/>
+yellow fever huts with <hi>two dying &ldquo;officers&rdquo;</hi> and other sick enlisted men. They<lb/>
+would have <hi>had</hi> to have other nurses help Lambert out. Lambert admits that<lb/>
+female nurses cared for the officers (Peterson, Cartwright, Edmunds, Carroll,<lb/>
+Lazear) sometimes at Las Animas or in the Camp Columbia Y. F. huts; verified<lb/>
+by Mrs. Warner--See <add>K</add>elly p 228.</p>
+<p><add>Two dying officers but <del>not</del> probably<lb/>
+no one else. <hi>Very</hi> sick yf patients rarely<lb/>
+staid more than a week - died or got well<lb/>
+so the wards were rarely taxed.</add></p>
+<pb n="24" id="f06411040"/>
+<p>14</p>
+<p>The Senate Document (pp 63-66) states that Carroll and Dean were<lb/>
+&ldquo;removed to the yellow fever wards&rdquo; and Carroll says (Sen. Doc. p 210) he was<lb/>
+&ldquo;carried to the isolation camp&rdquo;. Mrs. Warner (Kelly p 228) said Lazear was<lb/>
+&ldquo;brought on a litter to our camp.&rdquo; Doctor Angles also saw Carroll, Dean,<lb/>
+Lazear, and Kean &ldquo;in the small houses across the railroad track.&rdquo; (his letter<lb/>
+to Kean). Therefore I simply cannot accept Lambert's recollection that Carroll<lb/>
+and Lazear were cared for in the &ldquo;officers' wards of the main hospital&rdquo;; on<lb/>
+this point he is definitely in error.<lb/>
+<add>all o.k.</add></p>
+<p>I wonder why the two most westerly little buildings (of the eight in<lb/>
+the one of my 1899 maps) were labelled kitchens. Why two <hi>kitchens</hi> for four or<lb/>
+six other little buildings? How much cooking was done for the yellow fever<lb/>
+patients in 1900-1901? I realize they were practically starved. Was any<lb/>
+food prepared for them? They must have been fed <hi>something</hi> when they were obviously<lb/>
+out of danger but not yet released from the huts or sent back to quarters or<lb/>
+to duty. Where was their food prepared? Did Lambert prepare it? Where did he<lb/>
+eat himself? (I'll ask him).<lb/>
+<add>One for yf<lb/>
+" " Smallpox.<lb/>
+no-<lb/>
+Hosp. Corps men assisted in work at the camp incl.<lb/>
+cooking.</add></p>
+<p>Later--I've just found in the Medical History of Columbia Barracks<lb/>
+Post Hospital (my microfilm) the following pertinent entry:</p>
+<p>Subject: Monthly Sanitary Report for <hi>March 31, 1899</hi> (Camp Columbia<lb/>
+2nd D<del>e</del><add>i</add>vision Hospital 7 A. C.<lb/>
+<add>Important</add></p>
+<p><add>B.</add> Buildings completed 15: i.e. 1 <hi>surgical building</hi><lb/>
+1 commissary building<lb/>
+1 diet kitchen<lb/>
+4 buildings used for <hi>wards</hi><lb/>
+4 buildings in <hi>yellow fever</hi> district<lb/>
+4 buildings in <hi>small pox</hi> district<lb/>
+<add>&ldquo;Surgery&rdquo;-Later Reed's lab.<lb/>
+Wooden Shacks in the picture of <unclear>Gilhus</unclear><lb/>
+<hi>Very</hi> <del>impro</del> <hi>important</hi><lb/>
+a real fin<unclear>d</unclear> - 1<lb/>
+Cooking - <hi>Kitchen</hi>)</add></p>
+<p>Buildings under construction:<lb/>
+1 mess house for hospital corps<lb/>
+1 stone (stove?) house</p>
+<p>Signed M. C. Brown, Maj.<lb/>
+<add>Maj Ira C. Brown.</add></p>
+<p>&check; How do you interpret this? Obviously there were four little yellow<lb/>
+fever buildings. Were the four buildings in the <add>&ldquo;</add>small pox district<add>&rdquo;</add> immediately<lb/>
+adjacent to the four yellow fever buildings, making a total of eight as the 1899<lb/>
+map shows? Or were the four small pox buildings sufficiently distant from<lb/>
+the yellow fever buildings to have given Lambert the recollection that they were<lb/>
+not together?<lb/>
+<add>The two rows were widely separated as<lb/>
+shown by the maps.</add></p>
+<p>12. See question #6 of General Kean's interview. Where was General<lb/>
+Lee's Road? Please mark it on one of the maps I've sent--or describe it.<lb/>
+<add>Road from Camp Columbia to Vedado I think.</add></p>
+<p>13. I hope you got my recent letter or material--the snapshots I<lb/>
+took of the Walter Reed Memorial Board, the outline I made of Lazear's life<lb/>
+and family (did I send you this? I meant to. <del>I enclose a copy--please return</del>),<lb/>
+the snapshots of the apartment on 19th Street near Q where Reed and Kean lived,<lb/>
+the photos of Washington Barracks Hospital--do you recall about where Reed's<lb/>
+room might have been?<lb/>
+<add>I just<lb/> 
+received<lb/>
+your<lb/> 
+letter<lb/>
+today<lb/>
+1&sol;17&sol;47</add></p>
+<p>Incidentally I recently learned that <hi>the young physician who </hi> at the<lb/>
+request of Doctor Borden gave the anesthetic to Reed was none other than<lb/>
+<add>wonderful. He will recognize the photo<lb/>
+in my book p.195 where Reed was<lb/>
+operated upon &amp; also some of the personnel</add></p>
+<pb n="25" id="f06411041"/>
+<p>15</p>
+<p>Doctor Charles Stanley White, long a prominent Washington surgeon who is my<lb/>
+wife's cousin! His wife was Mr. Kahler's first cousin.</p>
+<p>14. I wonder if you and the Lampson's have connected yet. They are<lb/>
+nice folks.<lb/>
+<add>no</add></p>
+<p>15. I just found the un-mailed letter of September 19, 1946 with the<lb/>
+snapshots of the Lazears. Don't know why it wasn't mailed. They were so inter-<lb/>
+ested in all I told. Houston gave me his fathers small hand microscope. He<lb/>
+told me he had seen in the attic of his mother's house several years ago a<lb/>
+large regular microscope, supposedly his fathers. It has disappeared. Perhaps<lb/>
+his mother gave it to a local hospital. The list of Lazear's effects as made<lb/>
+out at his death lists &ldquo;one microscope.&rdquo; Do you recall whether Lazear had with<lb/>
+him in Cuba a small hand microscope, a large one, or both? Isn't it probable<lb/>
+that if he had a large one it would have been left in his lab., whereas his<lb/>
+small hand microscope he might have kept in his quarters and is the one Houston<lb/>
+gave me and the one listed?<lb/>
+<add>I do not remember</add></p>
+<p>16. Your book, inscribed to Mrs. Lazear, was on the book shelf. She<lb/>
+had never showed it to Houston or wife, or to Mr. Briggs (Santa Barbara),<lb/>
+Peggy Lazear's father-in-law who is much interested in the yellow fever story.<lb/>
+They knew nothing about it. I hunted for it and showed it to Houston and wife<lb/>
+who were very anxious to read it. I sent my last extra copy to Mr. Briggs, Sr.<lb/>
+for him to read and give to Peggy with my compliments. Mr. Briggs acknowledged<lb/>
+it enthusiastically. If Peggy got it, I've had no answer.</p>
+<p>17. The Building #1 miraculously survived the tornado of 1944 also!<lb/>
+I've just finished a seven page report on my memorial project, which report I<lb/>
+gave to the Walter Reed Memorial Board. I'll send you a copy. I hope to go<lb/>
+to Cuba this summer--mey take my whole family along. They can loaf while I<lb/>
+work with Moran (Just had a fine letter from him today).</p>
+<p>18. Do you know where I can buy from 6-10 more of your books? I<lb/>
+do want to give some more away. Hoeber hasn't a single one. I may have to try<lb/>
+to find second-hand copies!<lb/>
+<add>no</add></p>
+<p>19. When it is recopied with corrections I will send you a copy of<lb/>
+my December interviews with General Reed and Blossom. Very amusing in spots.</p>
+<p>20. In your letter to me, August 20, 1946 you wrote &ldquo;I will soon get<lb/>
+to work on a short story for you re Stark.&rdquo; Please <hi>dictate</hi> it, don't write it.<lb/>
+Hire a stenographer as long as you like at my expense. I think Miss Whelan<lb/>
+(Dr. Dwight Wilbur's Secretary) would help or would know of some one who might<lb/>
+wish to make extra money. I insist that you do this.</p>
+<p>21. I'm not sure whether I even gave you one of those photos of Reed,<lb/>
+Cooke, Kissinger, and others at Camp Lazear (Reed with his white pants and derby<lb/>
+hat!). Here is one to keep.</p>
+<p>22. I've really done an awful lot on the yellow fever story the past<lb/>
+month--such an amazing M<del>e</del><add>a</add>ss of wonderful data. At last it is really beginning<lb/>
+to fall together.--still some important missing data but getting well along.<lb/>
+<pb n="26" id="f06411042"/>
+16<lb/>
+I've done a grand job of re-arranging and re-filing my data. I got rubber<lb/>
+stamps (24 of them) indicating where I got the major items. Every single item<lb/>
+you've ever given me is now stamped on its back with the note &ldquo;From General<lb/>
+Albert E. Truby.&rdquo; Those who come after will know exactly where everything came<lb/>
+from. Occasionally I misplace (or mis-file) something. I never lose anything.<lb/>
+Everything is now in special order.</p>
+<p><add>FROM GEN. ALBERT E. TRUBY.</add></p>
+<p>23. Did I tell you Kissinger died July 14, 1946 in Dunedin, Florida.<lb/>
+<add>yes</add></p>
+<p>24. I'm concentrating on the Carter and L. O. Howard parts now, but<lb/>
+still on the trail of Carroll. That is a tough one. Admiral Stitt is helping<lb/>
+me on the Carter trail and I visited the Howards again this summer, plus corres-<lb/>
+pondence sine.<lb/>
+<add>Did you ever get any of Reed's letters to Dr Welch?<lb/>
+The Welch library should produce much info. of value</add></p>
+<p>25. I am grateful that you gave me General Lee's annual report for<lb/>
+August 23, 1900. I have found much in it. Incidentally in studying the<lb/>
+rosters of officers I find under &ldquo;Remarks&rdquo; the designation <hi>A. W. L.</hi> after sever-<lb/>
+al names: e.g. &ldquo;Troop D, Capt. H. J. Slocum, A. W. L.&rdquo; What does <hi>A. W. L.</hi><lb/>
+mean? It certainly doesn't mean &ldquo;<hi>absent without leave.&rdquo;</hi><lb/>
+<add>Absent <hi>with</hi> leave<lb/>
+<hi>A. W. O. L. Absent without leave</hi></add></p>
+<p><add>I am sorry this is so messy. I started this<lb/>
+one first and had no system. The other ones<lb/>
+will be better</add></p>
+<p><add>AET.</add></p>
+</div1>
+</body>
+</text>
+</TEI.2>

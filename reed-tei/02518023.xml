@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02518023">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter [in Spanish] from Philippe Caldas to Valery Havard, August 29, 1901 [Enclosed in 02520001]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Caldas, Philippe</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02518023</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-08-29</date></creation>
+<langUsage><language id="spa">Spanish</language></langUsage>
+<textClass><keywords><term type="recipient">Havard, Valery</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1901-08-29">August 29, 1901</date>
+<idno rend="suppress">02518023</idno>
+<title>Letter [in Spanish] from Philippe Caldas to Valery Havard, August 29, 1901 [Enclosed in 02520001]</title>
+</bibl>
+</head>
+<p>Caldas, in defense of his vaccine, outlines reasons for his diagnosis of septic fever rather than yellow fever for the volunteers who became sick after being infected with yellow fever. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1901-08-29">
+<head>Letter [in Spanish] from Philippe Caldas to Valery Havard, August 29, 1901 [Enclosed in <xref id="t02520001">02520001</xref>]</head>
+<pb n="1" id="f02518023"/>
+<opener>
+File under Caldas<lb/>
+FROM THE NATIONAL ARCHIVES<lb/>
+&ldquo;<hi>A</hi>&rdquo;<lb/>
+Se&ntilde;or Dr. W. Havard<lb/>
+Surgeon General of Army (U. S.)<lb/>
+<unclear>[unclear]</unclear><lb/>
+</opener>
+<p>Habiendome V<hi rend="superscript"><hi rend="underline">d</hi></hi> expresado el deseo<lb/>
+de que yo le diera, por escrito, las<lb/>
+razones porque afirmaba que el<lb/>
+individuo Paulino Alonso, picado<lb/>
+por dos mosquitos infeccionados y<lb/>
+que habian provocado la muerte<lb/>
+de Miss Maas, est&aacute; sufriendo<lb/>
+de una infeccion pudrida y no<lb/>
+de fiebre amarilla,--expondr&eacute;<lb/>
+las razones que me obligan &aacute;<lb/>
+emitir esa diagnosis.</p>
+<p>En general, la invasion de la fiebre<lb/>
+amarilla se manifiesta despues<lb/>
+de un periodo <unclear>prodrucido</unclear> de<lb/>
+desarreglos gastro-intestinales.<lb/>
+En plena salud aparente, el indivi=<lb/>
+duo es acometido por calofrios<lb/>
+repetidos, acompa&ntilde;ados de fiebre<lb/>
+violenta, 39&deg; &aacute; 40&deg;, sobreviniendo,<lb/>
+muchas veces, en el fin de algu=<lb/>
+nas horas, grandes sudores.</p>
+<p>La hyperthermia es acompa&ntilde;ada<lb/>
+de cefalalgia intensa en la<lb/>
+region frontal supra-orbitaria<lb/>
+y-unas veces, temporal; dolor<lb/>
+intra-orbitaria, cansancio<lb/>
+general y dolores musculares,<lb/>
+especialmente en los miembros<lb/>
+inferiores; nauseas y algunas<lb/>
+<pb n="2" id="f02518024"/>
+veces vomitos muco-biliosos<lb/>
+y una raquialgia lumbar extre=<lb/>
+mamente intensa, &oacute;  <hi>coup-de-<lb/>
+barre</hi> de los medicos franceses.</p>
+<p>Entre pocas horas, el estado del<lb/>
+enfermo se encuentra revestido de<lb/>
+una notable gravedad, acusando<lb/>
+calofrios que se repiten con inter=<lb/>
+valos irregulares.</p>
+<p>Una insomnia pertinaz afli=<lb/>
+ge al enfermo desde el primer<lb/>
+dia de la infeccion; dolores epi-<lb/>
+gastricos, acompa&ntilde;ados por<lb/>
+nauseas y muchas veces por<lb/>
+vomitos muco-biliosos; lengua<lb/>
+con espera causada de saburra<lb/>
+amarilla, presentando los<lb/>
+bordes rojos; gengivas tu-<lb/>
+mefactas, velo del paladar<lb/>
+y faringe hiperemiados, siendo<lb/>
+muy frecuentes, en este periodo,<lb/>
+las epistaxis.</p>
+<p>Ninguno de esos sintomas<lb/>
+present&oacute; el enfermo, salvo<lb/>
+la elevacion thermica<lb/>
+no precudida por calofrios<lb/>
+y con las extra&ntilde;as bajas de<lb/>
+temperatura de los dos dias<lb/>
+anteriores: baja thermica que<lb/>
+unica y solamente se d&aacute; en<lb/>
+las infecciones pudridas,<lb/>
+como las producidas por<lb/>
+una picada anatomica.</p>
+<p>Ningun medico que tengo<lb/>
+<pb n="3" id="f02518025"/>
+practica de la fiebre amarilla,<lb/>
+podr&aacute; diagnosticar tal enfer=<lb/>
+medad, faltando todos esos sinto=<lb/>
+mas; por lo contrario afirmar&aacute;<lb/>
+que se trata de una infeccion<lb/>
+septica.</p>
+<p>Toda clase de hemorragias<lb/>
+posteriores que aparezcan y<lb/>
+la presencia de albumina en<lb/>
+las <unclear>urines</unclear>, no destruyen mi<lb/>
+diagnosis; pues es sabido que<lb/>
+las ptomainas de las substancias<lb/>
+pudridas, produciendo una parali-<lb/>
+sis vaso-motora,-provocan<lb/>
+esta serie de sintomas.</p>
+<p>Que los mosquitos puedan tran=<lb/>
+smitir la fiebre amarilla, nadie<lb/>
+lo niega; no por haber chupado sangre<lb/>
+de amarillentos, de adonde solo pueden<lb/>
+<unclear>tirar</unclear> substancias septicas, m&aacute;s por<lb/>
+haber estado en un ambiente contami=<lb/>
+nado por las deyecciones y vomitos<lb/>
+de los amarillentos.</p>
+<p>Estas son las observaciones que tengo<lb/>
+el honor de llevar a su conocimiento.<lb/>
+Saludandole muy distinguidamente,<lb/>
+me es grato suscribirme:</p>
+<p>De V<hi rend="superscript"><hi rend="underline">d</hi></hi></p>
+<p>Havana, 29 Agosto de 1901.</p>
+<closer>su <unclear><hi>afino</hi> y <hi>afino</hi></unclear><lb/>
+<signed>Dr. Philippe Caldas</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

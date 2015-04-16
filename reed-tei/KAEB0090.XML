@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAEB0090">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to Jefferson Randolph Kean, November 11, 1896</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAEB0090</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1896-11-11</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Kean, Louise Young</name>
+<name type="person">Kean, Martha</name>
+<name type="person">Bache, [s.n.]</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="place">Key West (Fla.)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>8 pp.</extent>
+<date value="1896-11-11">November 11, 1896</date>
+<idno rend="suppress">KAEB0090</idno>
+<title>Letter from Walter Reed to Jefferson Randolph Kean, November 11, 1896</title>
+</bibl>
+</head>
+<p>Reed comments on an earlier letter from Kean, briefly mentions his present occupation supervising a laboratory, and encourages Kean to write to him again soon. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1896-11-11">
+<head>Letter from Walter Reed to Jefferson Randolph Kean, November 11, 1896</head>
+<pb n="1" id="fKAEB0090"/>
+<opener>
+P.S. Please don't<lb/>
+let much time<lb/>
+intervene before<lb/>
+writing me another<lb/>
+of your charming<lb/>
+letters - W.R.<lb/>
+If I could<lb/>
+write so Enter-<lb/>
+tainingly I would<lb/>
+write to some<lb/>
+friend every<lb/>
+day of my life.<lb/>
+W.R.<lb/>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<dateline>
+<date value="1896-11-11">Nov. 11, 1896.</date>
+</dateline><lb/>
+<salute>My dear Dr Kean:</salute>
+</opener>
+<p>If any one<lb/>
+had foretold that I would<lb/>
+so utterly neglect my much<lb/>
+esteemed friend, the Key West-<lb/>
+ian Post Surgeon, I would<lb/>
+have said indignantly, &ldquo;man,<lb/>
+thou liest&rdquo;! And yet! and<lb/>
+yet! how frail is poor<lb/>
+human nature! and how<lb/>
+evanescent are &ldquo;good intentions&rdquo;!<lb/>
+Certainly, I have contributed<lb/>
+my share to Hell's side-walks;<lb/>
+if there be sidewalks there.<lb/>
+<pb n="2" id="fKAEB0100"/>
+Your charming letter, my dear<lb/>
+Doctor, of September 26<hi rend="superscript">th</hi>, now<lb/>
+lies open before me and silently<lb/>
+accuses me of my neglect and<lb/>
+general good-for-nothingness.<lb/>
+How much I enjoyed that letter,<lb/>
+I cannot <del>tell</del> begin to tell<lb/>
+you. To learn that you were<lb/>
+financially &ldquo;busted&rdquo; was<lb/>
+simply a giddy delight! for<lb/>
+I am always in that condition,<lb/>
+and &ldquo;misery does so&rdquo; &amp;c<lb/>
+I knew that you could not be<lb/>
+with us, this winter, delving<lb/>
+away at things bacterial;<lb/>
+otherwise, I should have <add>been</add> dis-<lb/>
+tressed beyond degree to hear<lb/>
+that you were not in a<lb/>
+<pb n="3" id="fKAEB0110"/> 
+16 to 1 condition! you probably<lb/>
+voted for the wrong man!<lb/>
+However, your poverty, though<lb/>
+very pleasing, did not give<lb/>
+me that excess of delight<lb/>
+which followed the knowledge<lb/>
+that I had sown a little<lb/>
+seed <del>that</del><add>which</add> had &ldquo;fallen in good<lb/>
+ground&rdquo;! I think Mrs. Kean's<lb/>
+expression to Martha that &ldquo;her<lb/>
+feelings were sticking out<lb/>
+on all sides like pseudo=<lb/>
+pods&rdquo;, has given me more<lb/>
+real happiness and general<lb/>
+comfort than anything that<lb/>
+has happened during the last<lb/>
+twenty years! Although pseu=<lb/>
+dopods are not pointed, the ex=<lb/>
+pression was so much to the point<lb/>
+<pb n="4" id="fKAEB0120"/> 
+and so picturesque and<lb/>
+so illustrative of the general<lb/>
+tendency on the part of your<lb/>
+dear lady to blend the scientific<lb/>
+with the every day affairs of<lb/>
+life, that the mind feels buoy=<lb/>
+-ed up and more hopeful<lb/>
+of the ultimate conversion<lb/>
+of the world to science!<lb/>
+Not that Martha, the dear<lb/>
+little creature, was really<lb/>
+irritable - that would be<lb/>
+impossible, unless she inherits<lb/>
+a slight tendency in that di=<lb/>
+rection from some great,<lb/>
+great grandfather! In all<lb/>
+probability, a mosquito was<lb/>
+secretedly knawing at her<lb/>
+vitals and this was only a<lb/>
+<pb n="5" id="fKAEB0130"/> 
+2)<lb/>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+slight reflex response to<lb/>
+some hidden irritation!<lb/>
+I did not endorse at all<lb/>
+what you said about D<hi rend="sup">r</hi><lb/>
+<unclear>Cleau Dommini's</unclear> introduction<lb/>
+to the fruit of Heaven! I don't<lb/>
+see that he has done such<lb/>
+great things as to be entitled<lb/>
+to this ecstatic bliss! No,<lb/>
+honestly, I'd see him <unclear>d-d</unclear><lb/>
+before he or any body else<lb/>
+should even as much as<lb/>
+look upon that joy-compelling<lb/>
+food, if <hi>I were King</hi>!!</p>
+<p>However, you know my<lb/>
+<pb n="6" id="fKAEB0140"/>
+sentiments, <add>on this subject</add>, and that I would ex=<lb/>
+clude from that excess of pun-<lb/>
+ishment, above mentioned, my<lb/>
+particular friends at Key West!<lb/>
+The S. G. did say that the change<lb/>
+in your station would be<lb/>
+made &ldquo;in the spring&rdquo;- Perhaps<lb/>
+he meant during the Key West-<lb/>
+ian spring, which <add>I</add> suppose<lb/>
+begins in January. I doubt<lb/>
+not that you will arrive at<lb/>
+the &ldquo;Hub&rdquo;, at just about the<lb/>
+season when the buds are<lb/>
+enlarging and the little birds<lb/>
+are beginning to call each other<lb/>
+from the half-verdant tree-tops.<lb/>
+And with the accumulated<lb/>
+gold of some half year in<lb/>
+<pb n="7" id="fKAEB0150"/>
+your breeches pocket, what<lb/>
+a &ldquo;galorious&rdquo; <add> time</add> you and your<lb/>
+charming lady will have! I<lb/>
+really envy you!</p>
+<p>your friend, Col.<lb/>
+Bache, was President of our<lb/>
+Board. I gave him your mes-<lb/>
+sage which he was very glad<lb/>
+to receive - evidently remembers<lb/>
+you very kindly - Indeed, he paid<lb/>
+you some compliments which<lb/>
+I shall withhold - He is a very<lb/>
+agreeable gentleman and im=<lb/>
+pressed us all favorably - I am<lb/>
+so sorry, my dear Doctor, that I can=<lb/>
+not send you the questions to which<lb/>
+you refer. The law requires that<lb/>
+they shall all be destroyed in the<lb/>
+presence of the Board - very silly<lb/>
+requirement, but true. I will<lb/>
+<pb n="8" id="fKAEB0160"/>
+only say that they embraced all<lb/>
+that is contained in the Practice<lb/>
+of Med.&amp; Surgery &amp; Hygiane, both<lb/>
+ancient and modern! During all<lb/>
+of October we struggled with the help-<lb/>
+less candidates who presented<lb/>
+themselves, and at last called out<lb/>
+eight. The wretches! I hear them<lb/>
+this very minute, as they rattle<lb/>
+the plates &amp; test-tubes across<lb/>
+the Hall, in frantic efforts to<lb/>
+isolate the wily bacillus in<lb/>
+pure culture! They will yet<lb/>
+be the death of me! With these in<lb/>
+the mornings and <unclear>Fitz.</unclear> Carter &amp; Arthur<lb/>
+in the afternoons, my hands are<lb/>
+full. Do you wonder that I neglect<lb/>
+my best friends? Mrs. Reed joins me<lb/>
+in kindest regards to Mr. Kean &amp; your-<lb/>
+self - for myself, I don't send &ldquo;regards&rdquo;<lb/>
+but my best love to both of you, not<lb/>
+forgetting dear little Martha. Please write<lb/>
+again.</p>
+<closer>
+<salute>Your sincere friend,</salute>
+<signed>Walter Reed.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

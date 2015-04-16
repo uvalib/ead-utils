@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04714001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report [in Spanish]: Fue Finlay Y No Beauperthuy Quien Descubrio El Mosquito Como Agente De Transmision De La Fiebre Amarilla, by Cesar Rodriguez Exposito, June 19, 1954 (See English translation)</title>
+<title type="gmd">[electronic resource]</title>
+<author>Rodriguez Exposito, Cesar</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04714001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1954-06-19</date></creation>
+<langUsage><language id="spa">Spanish</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Bolivar, Simon</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Romaguera, Oscar H.</name>
+<name type="person">Beauperthuy, Louis-Daniel</name>
+<name type="person">Trigo, Manuel Noriega</name>
+<name type="person">Kilbourne, F. S.</name>
+<name type="person">Smith, Theobald</name>
+<name type="person">Grassi, Giovanni Battista</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Mason, Charles F.</name>
+<name type="person">Nott, Josiah C.</name>
+<name type="person">King, A. F. A.</name>
+<name type="person">Tro, Rodolfo</name>
+<name type="person">Arraiz, Rafael Angel</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Espin, Jose M.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Delgado, Claudio</name>
+<name type="place">Venezuela</name>
+<name type="place">Maracaibo (Venezuela)</name>
+<name type="place">Cumana (Venezuela)</name>
+<name type="place">Rome (Italy)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1954-06-19">June 19, 1954</date>
+<idno rend="suppress">04714001</idno>
+<title>Report [in Spanish]: Fue Finlay Y No Beauperthuy Quien Descubrio El Mosquito Como Agente De Transmision De La Fiebre Amarilla, by Cesar Rodriguez Exposito, June 19, 1954 (See English translation)</title>
+</bibl>
+</head>
+<p>Rodriguez condemns a proposed presentation that claims Beauperthuy, not Finlay, first suggested the mosquito transmitted yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1954-06-19">
+<head>Report [in Spanish]: Fue Finlay Y No Beauperthuy Quien Descubrio El Mosquito Como Agente De Transmision De La Fiebre Amarilla, by Cesar Rodriguez Exposito, June 19, 1954 (See <xref id="t04714007">English translation</xref>)</head>
+<pb n="1" id="f04714001"/>
+<p><hi>FUE FINLAY Y NO BEAUPERTHUY QUIEN DESCUBRIO EL<lb/>
+MOSQUITO COMO AGENTE DE TRANSMISION DE LA FIEBRE<lb/>
+AMARILLA</hi>.</p>
+<p>El triste sino de Carlos J. Finlay es que aun en pleno a&ntilde;o de<lb/>
+1954 se discuta su obra, se le nieguen las primicias de sus investi-<lb/>
+gaciones cient&iacute;ficas sobre el descubrimiento del mosquito como agen-<lb/>
+te de trasmisi&oacute;n de la fiebre amarilla.-Y ahora, no son los nortea-<lb/>
+mericanos los que reclaman la gloria para el Dr. Walter Reed, ni la<lb/>
+Comisi&oacute;n M&eacute;dico Americana que comprob&oacute; el descubrimiento finlaista,<lb/>
+son los propios hispanoamericanos, los hijos de un pa&iacute;s de la Am&eacute;ri-<lb/>
+ca Espa&ntilde;ola, de un coterr&aacute;neo del gran Razzetti, de la patria de Si-<lb/>
+m&oacute;n Bolivar.... de nuestra hermana Venezuela.-</p>
+<p>El se&ntilde;or Oscar H. Romaguera, miembro distinguido a la Legi&oacute;n Fin<lb/>
+laista, me escribe desde Miami, remiti&eacute;ndome un recorte del periodi-<lb/>
+co &ldquo;Panorama&rdquo; de Maracaibo, Venezuela, donde a grandes titulares di-<lb/>
+ce asi: &ldquo;Fu&eacute; Beauperthuy y no Carlos Finlay qui&eacute;n descubri&oacute; el virus<lb/>
+de la fiebre amarilla&rdquo;; en el subtitulo: &ldquo;Asi lo establece un tra-<lb/>
+bajo hist&oacute;rico del Dr. Manuel Noriega Trigo&rdquo;.-En otro titulo dice:<lb/>
+&ldquo;Un brillante trabajo de investigaci&oacute;n hist&oacute;rico-m&eacute;dica y que ser&aacute;<lb/>
+presentado--el pr&oacute;ximo septiembre--ante el Congreso Internacional<lb/>
+de Historia de la Medicina que se celebrar&aacute; en Roma, acaba de con-<lb/>
+cluir el Dr. Manuel Noriega Trigo, Catedr&aacute;tico de la Materia en la<lb/>
+Universidad del Zulia&rdquo;.-</p>
+<p>El texto de la nota periodistica que lleva estos pomposos y a-<lb/>
+larmantes titulos dice: &ldquo;En dicho trabajo, de acuerdo la informa-<lb/>
+ci&oacute;n esclusiva obtenida ayer, se establece que el descubrimiento del<lb/>
+virus que ocasiona la fiebre amarilla fu&eacute; el m&eacute;dico franco-venezola-<lb/>
+no Louis Daniel Beauperthuy y no Carlos Finlay, a qui&eacute;n se ven&iacute;a a-<lb/>
+tribuyendo hasta el presente.-Revel&oacute; la fuente informativa que el<lb/>
+trabajo del Dr. Manuel Noriega Trigo ser&aacute; le&iacute;do en el homenaje que<lb/>
+la Sociedad M&eacute;dico Quirurgica del Zulia, conjuntamente con la Uni-<lb/>
+versidad, se propone realizar en honor de Beauperthuy con motivo de<lb/>
+cumplirse en este a&ntilde;o el primer centenario de haber sido establecido<lb/>
+en Cuman&aacute; los Estudios M&eacute;dicos, de los cuales el homenajeado fu&eacute; fun-<lb/>
+dador&rdquo;.-</p>
+<p>&ldquo;Con relaci&oacute;n al citado trabajo-ponencia--agrega el periodico<lb/>
+&ldquo;Panorama&rdquo;--, d&iacute;jose igualmente que este fu&eacute; logrado luego de una<lb/>
+prolongada acuciosa labor de b&uacute;squeda informativa de una vasta serie<lb/>
+de documentos que le fueron suministrado al Dr. Noriega por los des-<lb/>
+cendientes de Beauperthuy.-Y tambi&eacute;n--se agreg&oacute;--en la Gaceta de Cu-<lb/>
+man&aacute;, ciudad donde el ilustre cient&iacute;fico ejerci&oacute; su profesi&oacute;n m&eacute;dica<lb/>
+hasta morir&rdquo;.-</p>
+<p>En otro parrafo dice: &ldquo;Entre otras de las investigaciones cum-<lb/>
+plidas por el Dr. Noriega se cita la relativa a las causas verdade-<lb/>
+ras que provocaron la muerte del descubridor del virus que provoca<lb/>
+el llamado &ldquo;v&oacute;mito-negro&rdquo;.-Seg&uacute;n el ilustre catedr&aacute;tico, el Dr. Beau-<lb/>
+perthuy falleci&oacute; victima de una apoplej&iacute;a y no de lepra, como asien-<lb/>
+tan otros historiadores&rdquo;.-</p>
+<p>Hoy por la amabilidad del Sr. Oscar H. Romaguera, Editor Lati-<lb/>
+no Americano de Medical Pharmaceutical Information Bureau, de Miami,<lb/>
+y por la informaci&oacute;n periodistica de &ldquo;Panorama&rdquo; de Maracaibo, Vene-<lb/>
+zuela, y por el trabajo del Dr. Noriega, nos enteramos, que se pre-<lb/>
+tende llevar esta tesis al XIV Congreso Internacional de Historia de<lb/>
+la Medicina en Roma, donde nosotros, que hemos sido invitado para<lb/>
+participar en las sesiones de ese Congreso, inscribimos un trabajo<lb/>
+que lleva por titulo: &ldquo;Finlay en la Historia de la Medicina&rdquo;, que<lb/>
+tiene dos capitulos fundamentales &ldquo;Finlay-Beauperthuy&rdquo; y &ldquo;Finlay-<lb/>
+Reed&rdquo;, para dejar aclarado de una manera definitiva la posici&oacute;n de<lb/>
+Finlay ante la Historia Universal de la Medicina, reafirmando los a-<lb/>
+cuerdos del propio Congreso Internacional celebrado en Madrid, y que<lb/>
+queden desvirtuadas de una vez y para siempre, la eterna duda, la cons<lb/>
+tante negaci&oacute;n finlaista y el confusionismo que han creado m&eacute;dicos,<lb/>
+<pb n="2" id="f04714002"/>
+- 2 -<lb/>
+escritores e historiadores, que sin base alguna niegan la obra de<lb/>
+Finlay.-</p>
+<p>En el XIV Congreso Internacional de Historia de la Medicina se<lb/>
+plantear&aacute; el debate.-Esperemos las pruebas que aportar&aacute; el Dr. Ma-<lb/>
+nuel Noriega para justificar su tesis.-</p>
+<p>Pero antes, queremos aclarar a la opini&oacute;n p&uacute;blica no de Cuba,<lb/>
+donde se sabe qui&eacute;n es Finlay y cual es su obra, sino de Venezuela,<lb/>
+y especialmente a los lectores de &ldquo;Panorama&rdquo; de Maracaibo, algunos<lb/>
+conceptos sobre la tesis equivocada del Dr. Noriega, que por los da-<lb/>
+tos que apunta la informaci&oacute;n periodistica, son harto conocidos en<lb/>
+Cuba, pu&eacute;s no son documentos nuevos, sino que ya se han comentado<lb/>
+desde hace algunos a&ntilde;os, por ejemplo en Abril de 1910 por el Dr. Juan<lb/>
+Guiteras, y en Julio de 1910, por el Dr. Jos&eacute; M. Esp&iacute;n, en 1937 por<lb/>
+el Dr. Francisco Dominguez Rold&aacute;n en su obra &ldquo;Carlos J. Finlay: Su<lb/>
+Centenario, Su descubrimiento y el estado actual de su doctrina&rdquo;,<lb/>
+que obtuvo el Premio &ldquo;Vernois&rdquo; de la Academia de Medicina de Paris,<lb/>
+y por otros muchos autores a trav&eacute;s de todos estos a&ntilde;os.-</p>
+<p>Pero, fundamentalmente, hemos de aclararle al autor de la nota<lb/>
+period&iacute;stica de &ldquo;Panorama&rdquo; de Maracaibo, que Finlay nunca fu&eacute; el des-<lb/>
+cubridor del virus de la fiebre amarilla, porque este a&uacute;n se encuen-<lb/>
+tra en el mayor de los misterios.-Lo que Finlay descubri&oacute; fu&eacute; el mos-<lb/>
+quito como agente de transmisi&oacute;n de la fiebre amarilla, se&ntilde;alando la<lb/>
+clasificaci&oacute;n del insecto, y que no es precisamente el que apunta<lb/>
+Beauperthuy, en sus trabajos, ni tienen nada que ver con los experi-<lb/>
+mentos finlaistas, que veinte a&ntilde;os despu&eacute;s de exponerlos, fu&eacute; cuando<lb/>
+lograron su comprobaci&oacute;n, y la consiguiente erradicaci&oacute;n de las epi-<lb/>
+demias que tanta mortandad ocasionaban, no s&oacute;lo en Cuba, sino tambi&eacute;n<lb/>
+en Venezuela y en toda la Am&eacute;rica.-</p>
+<p>Antes de todo esto, antes de la comprobaci&oacute;n oficial por la Co-<lb/>
+misi&oacute;n M&eacute;dica Americana del descubrimiento de Finlay, la fiebre ama-<lb/>
+rilla era incontenible, habiendo hecho miles de v&iacute;ctimas, logr&aacute;ndo-<lb/>
+se el &eacute;xito en la extinci&oacute;n del mal, cuando se aplic&oacute; el descubrimien-<lb/>
+to de Finlay, cuando el Mayor Gorgas orden&oacute; seguir sus consejos en la<lb/>
+campa&ntilde;a antimosquito.......Igual exito obtuvo Gorgas en el Canal de<lb/>
+Panam&aacute;, gracias al descubrimiento del sabio cubano.-</p>
+<p>Para refutar los conceptos emitidos sobre Finlay y Beauperthuy,<lb/>
+es mejor oir las palabras del gran Juan Guiteras, que dijo: &ldquo;Por mi<lb/>
+parte no vacilo en declarar que los fundadores de la doctrina sobre<lb/>
+la cual descansan los grandes triunfos en la Medicina Tropical, son<lb/>
+el Dr. Mason y el Dr. Finlay, declaraci&oacute;n que no disminuye en un &aacute;pi-<lb/>
+ce el m&eacute;rito igual de los grandes experimentadores que le siguieron:<lb/>
+Smith y Kilbourne, Ross, Grassi, la Comisi&oacute;n del Ej&eacute;rcito Americano<lb/>
+y otros investigadores y descubridores originales.-Anteriormente a<lb/>
+estos no existe absolutamente nada.-No hay diferencia alguna entre<lb/>
+las creencias populares de los negros de Africa y los campesinos ita-<lb/>
+lianos de que las fiebres eran producidas por picadas de mosquitos,<lb/>
+y los escritos de Nott, Beauperthuy y King.-El que siga estos autores<lb/>
+cronol&oacute;gicamente puede imaginarse por el aspecto cient&iacute;fico de sus<lb/>
+publicaciones, que est&aacute; siguiendo el proceso de evoluci&oacute;n de una gran<lb/>
+doctrina; pero pronto se encuentra que est&aacute; encerrado en un circulo<lb/>
+vicioso que lo vuelve a traer a los negros de Africa y a nada pr&aacute;cti-<lb/>
+co.-Aparece por un momento como si el Dr. Beauperthuy se saliese del<lb/>
+c&iacute;rculo y presentase entre sus numerosas y raras fantasias, un hecho,<lb/>
+cuando habla del mosquito &ldquo;apattes ray&eacute;es de blanc, el zancudo bobo.&rdquo;<lb/>
+Esta menci&oacute;n, frecuentemente repetida y sacada de la frase original<lb/>
+en que est&aacute; colocada, ha servido como prueba de que el Dr. Beauper-<lb/>
+thuy hab&iacute;a se&ntilde;alado con exactitud el verdadero trasmisor de la fiebre<lb/>
+amarilla, el &ldquo;Stegomya Calopus&rdquo; caracterizado por anillos blancos en<lb/>
+las seis patas.-Pero esto no es verdad.-En primer lugar, el Dr. Beau-<lb/>
+perthuy no habla de la transmisi&oacute;n de la fiebre amarilla de un indi-<lb/>
+viduo a otro per el mosquito, sino de la producci&oacute;n de la fiebre ama-<lb/>
+rilla y de numerosas enfermedades de substancias p&uacute;tridas, especial-<lb/>
+mente en los p&aacute;ntanos.-En segundo lugar el &ldquo;Zancudo bobo&rdquo; no es el<lb/>
+<pb n="3" id="f04714003"/>
+- 3 -<lb/>
+&ldquo;Stegomya&rdquo;.-Esto en vez de ser bobo es uno de los m&aacute;s activo y vivo<lb/>
+de nuestros mosquitos.-El nombre de &ldquo;mosquito bobo&rdquo; corresponde al<lb/>
+&ldquo;Culex sollicitans&rdquo;, mosquito de patas rayadas que se cria a las o-<lb/>
+rillas del mar en aguas saladas y salobres, que invade en enormes<lb/>
+nubes las habitaciones humanas y que pod&iacute;a caber muy bi&eacute;n dentro de<lb/>
+la teoria de Beauperthuy con respecto al origen de la fiebre amari-<lb/>
+lla en los p&aacute;ntanos y sus plantas en proceso de descomposici&oacute;n.-Se<lb/>
+lo llama &ldquo;bobo&rdquo; por ser el m&aacute;s torpe de nuestros mosquitos, siendo<lb/>
+muy facil su destrucci&oacute;n, cuando est&aacute; en el acto de picar, por la<lb/>
+aplicaci&oacute;n lenta y suave de la mano.-Para matar el &ldquo;Stegomya&rdquo; o el<lb/>
+&ldquo;pipiens&rdquo; es necesario dar un golpe r&aacute;pido.-La interpretaci&oacute;n torci-<lb/>
+da que se d&aacute; a las palabras de Beauperthuy consiste en ignorar que<lb/>
+el mencionado autor se&ntilde;ala el mosquito &ldquo;zancudo&rdquo; precisamente para<lb/>
+decir que no es el causante de las fiebros: &ldquo;Elle est la plus com-<lb/>
+mune et sa piq&uuml;re est inoffensive comparativament a celle des autre<lb/>
+especes&rdquo;.-</p>
+<p>El Dr. Jo&sacute;e M. Espin, en 1910, hablando de Beauperthuy, dice<lb/>
+que sus trabajos vinieron a conocerse por el Dr. Aristides Agramon-<lb/>
+te, miembro de la Comisi&oacute;n M&eacute;dico Americana, cubano de nacimiento,<lb/>
+que inclusive mantuvo dentro del seno de la propia Comisi&oacute;n, ideas<lb/>
+contrarias al descubrimiento de Finlay, hasta que en 1900 se hizo<lb/>
+la comprobaci&oacute;n.-Y s&iacute; sab&iacute;a que era el mosquito por los trabajos de<lb/>
+Beauperthuy, c&oacute;mo no los aplic&oacute; en los trabajos de investigaci&oacute;n que<lb/>
+realizaban antes de la comprobaci&oacute;n del descubrimiento de Finlay, en<lb/>
+el que no creian?.-</p>
+<p>Y por &uacute;ltimo quiero recoger la opini&oacute;n del Dr. Rodolfo Tro,<lb/>
+distinguido m&eacute;dico y acucioso investigador hist&oacute;rico de positivo va-<lb/>
+ler, qui&eacute;n dice: &ldquo;El franc&eacute;s Beauperthuy imaginaba algo que traje-<lb/>
+se la fiebre de los p&aacute;ntanos y de las materias en descomposici&oacute;n; el<lb/>
+cubano Finlay veia la transmisi&oacute;n de hombre a hombre: he ahi la di-<lb/>
+ferencia fundamental, aquello como dice Guiteras, era una quimera,<lb/>
+esto, lo de Finlay, es la verdad&rdquo;.-</p>
+<p>Como se ve por todo lo expuesto, no tiene base alguna la infor-<lb/>
+maci&oacute;n period&iacute;stica, anunciando el trabajo hist&oacute;rico del doctor No-<lb/>
+riega Trigo acerca de la prioridad de Beauperthuy sobre Finlay.-Es<lb/>
+verdaderamente lastimoso que nosotros mismos, los latinoamericanos<lb/>
+nos encarguemos de tratar de destruir glorias solidamente asentadas<lb/>
+como la de Carlos J. Finlay, que tanto bi&eacute;n hizo a la Humanidad y<lb/>
+especialmente a Nuestra Am&eacute;rica.-Construyamos, no nos dediquemos a<lb/>
+pretender destruir nuestros s&oacute;lidos valores cient&iacute;ficos.-Los
+nortea-<lb/>
+mericanos quieren quitarle la gloria a Finlay para Reed, ahora los<lb/>
+venezolanos la reclaman para Beauperthuy....</p>
+<p>Y que iron&iacute;a, un profesor universitario de Venezuela, el Dr. Ma-<lb/>
+nuel Noriega Trigo, es qui&eacute;n se anuncian presentar&aacute; en el Congreso<lb/>
+Internacional de Historia de la Medicina de Roma, la tesis en favor<lb/>
+de la prioridad de Beauperthuy, sobre Finlay en el descubrimiento del<lb/>
+mosquito como agente de transmisi&oacute;n de la fiebre amarilla, y otro ve-<lb/>
+nezolano ilustre, el Dr. Rafael Angel Arraiz, delegado de la Rep&uacute;bli<lb/>
+ca de Venezuela ante la VI Conferencia Internacional Panamericana,<lb/>
+celebrada en La Habana, fu&eacute; en nombre de su pa&iacute;s, qui&eacute;n propuso an-<lb/>
+te aquella reuni&oacute;n continental el homenaje de reconocimiento a la me-<lb/>
+moria de Carlos J. Finlay, que fu&eacute; aprobada por unanimidad.-En aque-<lb/>
+lla ocasi&oacute;n, el Dr. Arraiz, en su discurso dijo: &ldquo;El recuerdo de Fin<lb/>
+lay y las excelencias de su obra humanitaria son atributos de honor<lb/>
+no s&oacute;lo para Cuba, su patria afortunada, sino tambi&eacute;n patrimonio de<lb/>
+toda la comunidad Panamericana&rdquo;.-</p>
+<p>Y dijo despu&eacute;s que su pa&iacute;s fu&eacute; el primero en beneficiarse de las<lb/>
+consecuencias del descubrimiento del sabio Finlay y que las medidas<lb/>
+de previsi&oacute;n del cient&iacute;fico cubano, arrebat&oacute; millares de hermanos del<lb/>
+sepulcro al erradicarse el mal del suelo venezolano.-</p>
+<p>&ldquo;La Conferencia--dijo categ&oacute;ricamente-- me har&aacute; el honor de per-<lb/>
+mitirme que al proclamar el reconocimiento venezolano para el sabio,<lb/>
+<pb n="4" id="f04714004"/>
+- 4 -<lb/>
+que fu&eacute; tambi&eacute;n ap&oacute;stol, considere la contribuci&oacute;n de Finlay en la<lb/>
+lucha contra el azote ya vencido, desdo una altura general; esto es,<lb/>
+que lo considere como un eslab&oacute;n m&aacute;s de esa larga cadena de coopera-<lb/>
+ci&oacute;n panamericana, cuyo primer golpe lo di&oacute; Sim&oacute;n Bolivar al fundir<lb/>
+en su yunque de heroismo los cinco primeros eslabones de esa cadena<lb/>
+y que fueron cinco naciones libres&rdquo;.-</p>
+<p>Por tanto hemos de afirmar rotundamente que fu&eacute; Carlos J. Fin-<lb/>
+lay qui&eacute;n descubrio el mosquito como agente de trasmisi&oacute;n de la fie-<lb/>
+bre amarilla, sin m&aacute;s colaboraci&oacute;n que la del m&eacute;dico espa&ntilde;ol Dr. Clau-<lb/>
+dio Delgado, y que este descubrimiento expuesto en el a&ntilde;o de 1881,<lb/>
+fu&eacute; comprobado oficialmente en 1900 por la Comisi&oacute;n M&eacute;dico Militar<lb/>
+de los Estados Unidos, que presidia el Dr. Walter Reed.-</p>
+<p>La Habana, 19 de Junio de 1954.-</p>
+<p><unclear>[unclear]</unclear></p>
+<p>C&eacute;sar Rodr&iacute;guez Exp&oacute;sito.<lb/>
+HISTORIADOR DE SALUBRIDAD.-</p>
+<p>--REPUBLICA DE CUBA--MINISTERIO DE SALUBRIDAD Y A. SOCIAL<lb/>
+HISTORIADOR DE SALUBRIDAD</p>
+</div1>
+</body>
+</text>
+</TEI.2>

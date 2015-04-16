@@ -1,0 +1,785 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02154001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: The Etiology of Yellow Fever -- A Preliminary Note, by Walter Reed, James Carroll, Aristides Agramonte, and Jesse W. Lazear, October 23, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02154001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-10-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Howard, L. O.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Durham, Herbert E</name>
+<name type="person">Myers, Walter</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Cuba</name>
+<name type="place">Indianapolis (Ind.)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>17 pp.</extent>
+<date value="1900-10-23">October 23, 1900</date>
+<idno rend="suppress">02154001</idno>
+<title>Report: The Etiology of Yellow Fever -- A Preliminary Note, by Walter Reed, James Carroll, Aristides Agramonte, and Jesse W. Lazear, October 23, 1900</title>
+</bibl>
+</head>
+<p>Reed presents this report on yellow fever to the American Public Health Association.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-10-23">
+<head>Report: The Etiology of Yellow Fever -- A Preliminary Note, by Walter Reed, James Carroll, Aristides Agramonte, and Jesse W. Lazear, October 23, 1900</head>
+<pb n="1" id="f02154001"/>
+<p>Proc 28 annual meeting<lb/>
+Am Public Health Assoc<lb/>
+given at Indianapolis Oct 23, 1900<lb/>
+about 3:30 pm &check;</p>
+<p>THE ETIOLOGY OF YELLOW FEVER.--A PRELIMINARY<lb/>
+NOTE.</p>
+<p>BY WALTER REED, M. D., SURGEON, U. S. A.;<lb/>
+JAMES CARROLL, M. D.; A. AGRAMONTE, M. D., AND &check;<lb/>
+JESSE W: LAZEAR, M. D.,<hi rend="superscript">1</hi><lb/>
+ACTING ASSISTANT SURGEON, U. S. A.</p>
+<p>The writers, constituting a board of medical officers convened &ldquo;for<lb/>
+the purpose of pursuing scientific investigations with reference to the<lb/>
+acute infectious diseases prevalent on the Island of Cuba,&rdquo; arrived<lb/>
+at our station, Columbia Barracks, Quemados, Cuba, on June 25th<lb/>
+of the present year, and proceeded, under written instructions from<lb/>
+the Surgeon General of the Army, to &ldquo;give special attention to ques-<lb/>
+tions relating to the etiology and prevention of yellow fever.&rdquo;</p>
+<p>Two of its members (Agramonte and Lazear) were stationed on<lb/>
+the Island of Cuba, the former in Havana, and the latter at Columbia<lb/>
+Barracks, and were already pursuing investigations relating to the<lb/>
+etiology of this disease.</p>
+<p>Fortunately for the purposes of this board, an epidemic of yellow<lb/>
+fever was prevailing in the adjacent town of Quemados, Cuba, at the<lb/>
+time of our arrival; thus furnishing us an opportunity for clinical ob-<lb/>
+servations and for bacteriological and pathological work. The re-<lb/>
+sults already obtained, we believe, warrant the publication at this<lb/>
+time, of a preliminary note. A more detailed account of our obser-<lb/>
+vations will be submitted to Surgeon General Sternberg in a future<lb/>
+report.</p>
+<p>The first part of this preliminary note will deal with the results of<lb/>
+blood cultures during life and of cultures taken from yellow fever<lb/>
+cadavers; reserving for the second part a consideration of the mos-<lb/>
+quito as instrumental in the propagation of yellow fever; with obser-<lb/>
+vations based on the biting of non-immune human beings by mos-<lb/>
+quitoes which had fed on patients sick with yellow fever, at various<lb/>
+intervals prior to the biting.</p>
+<p>In prosecuting the first part of our work, we isolated a variety of<lb/>
+bacteria, but of these we do not propose to speak at present. It will<lb/>
+<hi rend="superscript">1</hi> Died of yellow fever at Columbia Barracks, Cuba, Sept. 25, 1900.<lb/>
+37<lb/>
+<pb n="2" id="f02154002"/>
+38 <hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+suffice for our purpose if we state the results as regards the finding of<lb/>
+<hi rend="italic">bacillus icteroides</hi>, leaving the mention of other bacteria to our de-<lb/>
+tailed report.</p>
+<p>The cases studied during the Quemados epidemic had been diag-<lb/>
+nosed by a board of physicians, selected largely by reason of their<lb/>
+familiarity with yellow fever. This board consisted of Doctors<lb/>
+Nicola Silverio, Manuel Herera, Eduardo Angles and Acting Assist-<lb/>
+ant Surgeons Roger P. Ames and Jesse W. Lazear, U. S. Army.</p>
+<p>Those studied in Havana were patients in Las Animas Hospital<lb/>
+and had been diagnosed as such by a board of distinguished practi-<lb/>
+tioners of that city.</p>
+<p>An examination of Table I will show the character of the attacks.</p>
+<p>The milder cases studied, few in number, were attended by jaundice<lb/>
+and albumen in the urine.</p>
+<p>I.</p>
+<p><hi rend="italic">Bacillus Icteroides</hi> (<hi rend="italic">Sanarelli</hi>) <hi rend="italic">as the Cause of Yellow Fever</hi>.</p>
+<p>The claim of Sanarelli for the specific character of B. icteroides as<lb/>
+the causative agent in yellow fever, has excited such wide attention,<lb/>
+since the publication of his observations, that it seemed to us of the<lb/>
+first importance to give our undivided attention to the isolation of<lb/>
+this micro-organism from the blood of those sick with yellow fever<lb/>
+and from the blood and organs of yellow fever cadavers.</p>
+<p>(A) <hi rend="italic">Cultures Taken from the Blood During Life</hi>.</p>
+<p>The method followed was that ordinarily used in an attempt to<lb/>
+isolate bacteria from the circulating blood; viz., from a vein at the<lb/>
+bend of the elbow, a sufficient quantity of blood was taken with an<lb/>
+hypodermic syringe, made sterile by boiling, and after careful cleans-<lb/>
+ing of the skin with soap and water, followed by equal parts of abso-<lb/>
+lute alcohol and ether, and 1-2000 bichloride solution.</p>
+<p>Exceptionally, the blood withdrawn was plated on agar, but as a<lb/>
+rule, it was immediately transferred to sterile bouillon tubes (10 c.<lb/>
+cm.) in quantities of 0.5 c. cm. to each of several tubes. These were<lb/>
+then incubated at 35&deg; to 37&deg; C. for a period of one week. They were<lb/>
+examined daily and if growth was observed, plates in agar or gela-<lb/>
+tine, or both, were made and the colonies carefully studied by trans-<lb/>
+ference to ordinary laboratory media.</p>
+<p>Eighteen cases have thus been carefully studied; of these, eleven<lb/>
+were designated as &ldquo;severe&rdquo; cases of yellow fever with four deaths;<lb/>
+three as &ldquo;well-marked&rdquo; cases with no deaths, and four as &ldquo;mild&rdquo; cases<lb/>
+with no deaths.</p>
+<p>From these eighteen cases, blood cultures were made, as shown in<lb/>
+the following table:</p>
+<pb n="3" id="f02154003"/>
+<p><hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>. 39</p>
+<p>TABLE I.</p>
+<p>BLOOD CULTURES DURING LIFE.</p>
+<p>
+<table rows="23" cols="5">
+<row><cell>Day of<lb/>Disease.</cell><cell>Character of<lb/>Attack.</cell><cell>No. of<lb/>Cultures.</cell><cell>No. of Bouillon Tubes<lb/>Inoculated.</cell><cell>B. Icteroides.</cell></row>
+<row><cell>-----</cell><cell>-------</cell><cell>-----</cell><cell>----------</cell><cell>-----</cell></row>
+<row><cell>1st.</cell><cell>Severe.</cell><cell>3</cell><cell>4 (3 agar plates.)</cell><cell>Negative.</cell></row>
+<row><cell>"</cell><cell>Well-marked.</cell><cell>1</cell><cell>4</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Mild.</cell><cell>1</cell><cell>3</cell><cell>"</cell></row>
+<row><cell>2nd.</cell><cell>Severe.</cell><cell>6</cell><cell>18</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Well-marked.</cell><cell>1</cell><cell>2</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Mild.</cell><cell>1</cell><cell>3 (6 agar plates.)</cell><cell>"</cell></row>
+<row><cell>3rd.</cell><cell>Severe.</cell><cell>7</cell><cell>18 (6 agar plates.)</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Mild.</cell><cell>2</cell><cell>4</cell><cell>"</cell></row>
+<row><cell>4th.</cell><cell>Severe.</cell><cell>5</cell><cell>14</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Well-marked.</cell><cell>2</cell><cell>6</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Mild.</cell><cell>1</cell><cell>1</cell><cell>"</cell></row>
+<row><cell>5th.</cell><cell>Severe.</cell><cell>5</cell><cell>12 (3 agar plates).</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Well-marked.</cell><cell>1</cell><cell>3</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Mild.</cell><cell>1</cell><cell>1</cell><cell>"</cell></row>
+<row><cell>6th.</cell><cell>Severe.</cell><cell>4</cell><cell>6</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Well-marked.</cell><cell>1</cell><cell>2</cell><cell>"</cell></row>
+<row><cell>7th.</cell><cell>Severe.</cell><cell>1</cell><cell>2</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Well-marked.</cell><cell>1</cell><cell>2</cell><cell>"</cell></row>
+<row><cell>8th.</cell><cell>Severe.</cell><cell>2</cell><cell>6</cell><cell>"</cell></row>
+<row><cell>"</cell><cell>Well-marked.</cell><cell>1</cell><cell>2</cell><cell>"</cell></row>
+<row><cell>9th.</cell><cell>Severe.</cell><cell>1</cell><cell>2</cell><cell>"</cell></row>
+</table>
+</p>
+<p>
+<table rows="3" cols="2">
+<row><cell>Number of cultures..........................................</cell><cell>48</cell></row>
+<row><cell>" " bouillon tubes inoculated........................</cell><cell>115</cell></row>
+<row><cell>" " agar plates .....................................</cell><cell>15</cell></row>
+</table>
+</p>
+<p>It will be seen that of 48 separate cultures made from the blood on<lb/>
+various days of the disease and representing 115 bouillon inocula-<lb/>
+tions and 18 agar plates, we failed to find bacillus icteroides in any<lb/>
+of our tubes or plates.</p>
+<p>The results of cultures taken in 18<hi rend="superscript">1</hi> cases of unmistakable yellow<lb/>
+fever, on various days of the disease and in some cases on every day<lb/>
+from the onset to death or recovery, would seem to exclude the<lb/>
+presence of bacillus icteroides in the blood of these cases during life.</p>
+<p>It will, therefore, be seen that while Wasdin and Geddings taking<lb/>
+cultures from the ear-lobe (Report on the Cause of Yellow Fever,<lb/>
+1899), record that &ldquo;in the blood of yellow fever cases extracted dur-<lb/>
+ing life bacillus icteroides has been found in thirteen of the fourteen<lb/>
+cases, with one negative,&rdquo; (92.85 per cent.) we, by withdrawing blood<lb/>
+from the veins of 18 patients, have to record 100 per cent. of failures.</p>
+<p><hi rend="superscript">1</hi> Cultures from the blood during life had been taken by Dr. Lazear in three other cases<lb/>
+of yellow fever, but owing to the death of our colleague, the necessary data as to the day of<lb/>
+the disease on which cultures had been taken cannot be ascertained.</p>
+<p>These cultures were negative as regards the finding of Sanarelli's bacillus.</p>
+<pb n="4" id="f02154004"/>
+<p>40 <hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.</p>
+<p>We have already stated that we will reserve for a later report a de-<lb/>
+scription of the bacteria isolated from the blood in these cases. We<lb/>
+now remark that but few organisms were obtained and that, as a rule,<lb/>
+our blood cultures gave no growth whatever.</p>
+<p>(B) <hi rend="italic">Cultures from Yellow Fever Cadavers</hi>.</p>
+<p>We tried to obtain autopsies very soon after death and sometimes<lb/>
+succeeded in doing so. Tubes containing about 10 c. cm. of flesh-<lb/>
+peptone bouillon were generally used for the first inoculation direct<lb/>
+from the blood and organs. As soon as the laboratory was reached,<lb/>
+agar plates were made from these inoculated bouillon tubes, the<lb/>
+former as well as the latter being then incubated at 35&deg;-37&deg; C. In<lb/>
+nearly every case gelatine plates were, also, made from the recently<lb/>
+inoculated bouillon tubes and kept at a temperature of 19&deg;-20&deg; C.</p>
+<p>If colonies were found in the agar or gelatine plates, on the fol-<lb/>
+lowing days, the corresponding bouillon tubes were, also, plated on<lb/>
+agar and gelatine. The bacteria thus found in our plates were care-<lb/>
+fully isolated and studied upon the usual nutritive media, so as to<lb/>
+enable us to identify them, if possible. We will here content ourselves<lb/>
+with giving the results as regards the presence of B. icteroides only.</p>
+<p>TABLE II.</p>
+<p>
+<table rows="13" cols="5">
+<row><cell>No. of<lb/>Case.</cell><cell>Day of<lb/>Disease.</cell><cell>Time of<lb/>Autopay.</cell><cell>Source of Culture.</cell><cell>B. Icter-<lb/>oides.</cell></row>
+<row><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>----------</cell><cell>-----</cell></row>
+<row><cell>1</cell><cell>7th.</cell><cell>2 hours after<lb/>death.</cell><cell>Blood, liver, spleen, kidney.</cell><cell>Neg'tive</cell></row>
+<row><cell>2</cell><cell>6th.</cell><cell>13 hours after<lb/>death.</cell><cell>Blood, liver, spleen, kidney.</cell><cell>"</cell></row>
+<row><cell>3</cell><cell>4th.</cell><cell>8 hours after<lb/>death.</cell><cell>Blood, liver, spleen, kidney.</cell><cell>"</cell></row>
+<row><cell>4</cell><cell>8th.</cell><cell>4 hours after<lb/>death.</cell><cell>Abdominal cavity, blood, liver,<lb/>spleen, kidney, bile, duodenum.</cell><cell>"</cell></row>
+<row><cell>5</cell><cell>4th.</cell><cell>4 hours after<lb/>death.</cell><cell>Blood, liver, spleen, kidney, bile,<lb/>duodenum.</cell><cell>"</cell></row>
+<row><cell>6</cell><cell>6th.</cell><cell>61&sol;2 hours<lb/>after death.</cell><cell>Abdominal cavity, blood, peri-<lb/>cardial fluid, lung, spleen, kid-<lb/>ney, liver, bile, duodenum.</cell><cell>"</cell></row>
+<row><cell>7</cell><cell>6th.</cell><cell>50 minutes<lb/>after death.</cell><cell>Blood, lung, liver, spleen, kid-<lb/>ney, bile, jejunum.</cell><cell>"</cell></row>
+<row><cell>8</cell><cell>6th.</cell><cell>1&sol;2-hour after<lb/>death.</cell><cell>Blood, lung, liver, spleen, kidney,<lb/>urine, small intestine.</cell><cell>"</cell></row>
+<row><cell>9</cell><cell>4th.</cell><cell>2 hours after<lb/>death.</cell><cell>Liver, spleen, small intestine.</cell><cell>"</cell></row>
+<row><cell>10</cell><cell>5th.</cell><cell>7 hours after<lb/>death.</cell><cell>Liver, kidney, spleen, small in-<lb/>tenstine.</cell><cell>"</cell></row>
+<row><cell>11</cell><cell>3rd.</cell><cell>1&sol;2-hour after<lb/>death.</cell><cell>Liver, kidney, spleen.</cell><cell>"</cell></row>
+</table>
+</p>
+<p>Our failure to isolate B. icteroides in these eleven autopsies of<lb/>
+yellow fever patients was a result which we had not anticipated. One<lb/>
+<pb n="5" id="f02154005"/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>. 41<lb/>
+of us (Agramonte) who, at Santiago, Cuba, during the epidemic of<lb/>
+1898, succeeded in finding B. icteroides in 33 per cent. of his autop-<lb/>
+sies, has been much surprised at the absence of this bacillus in cul-<lb/>
+tures from cadavers sectioned in Havana, during the present year.<lb/>
+In two of the eleven cases we had reason to believe that from the<lb/>
+character of colonies seen in gelatine plates, we would be able to<lb/>
+isolate B. icteroides. These colonies, however, when transferred to<lb/>
+other media and carefully studied, did not prove to be this bacillus.<lb/>
+We wonder whether other observers have occasionally relied upon<lb/>
+the appearance of colonies in gelatine plates, without further study.<lb/>
+We only mention this as a possible explanation of the large percent-<lb/>
+age of positive results recorded by some observers.</p>
+<p>Portier, of New Orleans, La., only succeeded, however, in isolating<lb/>
+B. icteroides in three out of fifty-one autopsies (Journal of American<lb/>
+Medical Association, April 16, 1896).</p>
+<p>Lutz (Revista D'Igiene e Sanita Publica, XI, No. 13, July, 1900,<lb/>
+pp. 474-475), says as the result of his extensive observations on yel-<lb/>
+low fever that bacillus icteroides cannot be found by present labora-<lb/>
+tory methods in more than half of the cases of yellow fever, and that<lb/>
+when present, the colonies are few in number.</p>
+<p>It is possible that our future autopsies may give more favorable<lb/>
+results as regards B. icteroides.</p>
+<p>II.</p>
+<p><hi rend="italic">The Mosquito as the Host of the Parasite of Yellow Fever</hi>.</p>
+<p>Having failed to isolate B. icteroides either from the blood during<lb/>
+life or from the blood and organs of cadavers, two courses of pro-<lb/>
+cedure in our further investigations appeared to be deserving of atten-<lb/>
+tion, viz., first, a careful study of the intestinal flora in yellow fever<lb/>
+in comparison with the bacteria that we might isolate from the intes-<lb/>
+tinal canal of healthy individuals, in this vicinity, or of those sick with<lb/>
+other diseases; or, secondly, to give our attention to the theory of the<lb/>
+propagation of yellow fever by means of the mosquito,--a theory<lb/>
+first advanced and ingeniously discussed by Dr. Carlos J. Finlay, of<lb/>
+Havana, in 1881, (Anales de la Real Academia, Vol. 18, 1881, pp.<lb/>
+147-169).</p>
+<p>We were influenced to take up the second line of investigation by<lb/>
+reason of the well known facts connected with the epidemiology of<lb/>
+this disease and, of course, by the brilliant work of Ross and the<lb/>
+Italian observers in connection with the theory of the propagation of<lb/>
+malaria by the mosquito.</p>
+<p>We were, also, much impressed by the valuable observations made<lb/>
+at Orwood and Taylor, Miss., during the year 1898, by Surgeon<lb/>
+<pb n="6" id="f02154006"/>
+42 <hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+Henry R. Carter, U. S. Marine Hospital Service. A note on the in-<lb/>
+terval between infecting and secondary cases of yellow fever, etc.<lb/>
+(Reprint from New Orleans Medical Journal, May, 1900). We do not<lb/>
+believe that sufficient importance has been accorded these painstak-<lb/>
+ing and valuable data. We observe that the members of the yellow<lb/>
+fever commission of the Liverpool School of Tropical Medicine, Drs.<lb/>
+Durham and Meyers, to whom we had the pleasure of submitting<lb/>
+Carter's observations, have been equally impressed by their impor-<lb/>
+tance (British Medical Journal, September 8, 1900, pp. 656-7).</p>
+<p>The circumstances under which Carter worked were favorable for<lb/>
+recording with considerable accuracy the interval between the time<lb/>
+of arrival of infecting cases in isolated farm-houses and the occur-<lb/>
+rence of secondary cases in these houses. According to Carter &ldquo;the<lb/>
+period from the first (infecting) case to the first group of cases in-<lb/>
+fected, at these houses, is generally from two to three weeks.&rdquo;</p>
+<p>The houses having now become infected, susceptible individuals<lb/>
+thereafter visiting the houses for a few hours, fall sick with the dis-<lb/>
+ease in the usual period of incubation one to seven days.</p>
+<p>Other observations made by us since our arrival confirmed Carter's<lb/>
+conclusions, thus pointing as it seemed to us to the presence of an<lb/>
+intermediate host, such as the mosquito, which having taken the<lb/>
+parasite into its stomach, soon after the entrance of the patient into<lb/>
+the non-infected house, was able after a certain interval to reconvey<lb/>
+the infecting agent to other individuals, thereby converting a non-<lb/>
+infected house into an &ldquo;infected&rdquo; house. This interval would appear<lb/>
+to be from nine to sixteen days (allowing for the period of incuba-<lb/>
+tion), which agrees fairly closely with the time required for the pass-<lb/>
+age of the malarial parasite from the stomach of the mosquito to its<lb/>
+salivary glands.</p>
+<p>In view of the foregoing observations we concluded to test the<lb/>
+theory of Finlay on human beings. According to this author's ob-<lb/>
+servation of numerous inoculations in 90 individuals, the application<lb/>
+of one or two contaminated mosquitoes is not dangerous, but fol-<lb/>
+lowed in about 18 per cent. by an attack of what he considers to be<lb/>
+very benign yellow fever at the most.</p>
+<p>We here desire to express our sincere thanks to Dr. Finlay, who<lb/>
+accorded us a most courteous interview and has gladly placed at our<lb/>
+disposal his several publications relating to yellow fever, during the<lb/>
+past nineteen years; and also for ova of the species of mosquito with<lb/>
+which he had made his several inoculations. An important observa-<lb/>
+<pb n="7" id="f02154007"/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>. 43<lb/>
+tion to be here recorded is that, according to Finlay's statement, 30<lb/>
+days prior to our visit, these ova had been deposited by a female just<lb/>
+at the edge of the water in a small basin, whose contents had been<lb/>
+allowed to slightly evaporate; so that these ova were at the time of<lb/>
+our visit entirely above contact with the water. Notwithstanding this<lb/>
+long interval after deposition, they were promptly converted into the<lb/>
+larval stage, after a short period, by raising the level of the water in<lb/>
+the basin.</p>
+<p>With the mosquitoes thus obtained we have been able to conduct<lb/>
+our experiments. Specimens of this mosquito forwarded to Mr. L.<lb/>
+O. Howard, Entomologist, Department of Agriculture, Washington,<lb/>
+D. C., were kindly identified as <hi rend="italic">Culex fasciatus</hi> Fabr.</p>
+<p>In this Preliminary Note we have not space to refer, at length, to<lb/>
+the various interesting and valuable contributions made by Finlay to<lb/>
+the mosquito theory for the propagation of yellow fever. In addi-<lb/>
+tion to the paper already quoted, his most valuable contributions to<lb/>
+this important theory are to be found in the articles designated as<lb/>
+follows: Estadistica de las Inoculaciones con mosquitos contami-<lb/>
+nados, etc. Reprint, Havana, 1891: Fiebre Amarilla, Estudio Clin-<lb/>
+ico Patologico y Etiologico. Reprint, Havana, 1895: and Yellow<lb/>
+fever immunity,--Modes of Propagation: Mosquito theory, 8th<lb/>
+Congress of International Hygiene and Demography, Budapest,<lb/>
+1894.</p>
+<p>His present views on this subject may be stated in his own lan-<lb/>
+guage: &ldquo;First, reproduction of the disease, in a mild form, within<lb/>
+five to twenty-five days after having applied contaminated mosqui-<lb/>
+toes to susceptible subjects. Second, partial or complete immunity<lb/>
+against yellow fever obtained when even no pathogenous manifesta-<lb/>
+tion had followed those inoculations.&rdquo; (Medical Record, Vol. 55,<lb/>
+No. 21, May 27, 1899.)</p>
+<p>Without reviewing the cases regarded as mild forms by the author<lb/>
+of this theory, we believe that he has not, as yet, succeeded in repro-<lb/>
+ducing a well marked attack of yellow fever, within the usual period<lb/>
+of incubation of the disease, attended by albumen and jaundice, and<lb/>
+in which all other sources of infection could be excluded.</p>
+<p>The experiments made by us on eleven non-immune individuals<lb/>
+are embraced in the following table which should be carefully<lb/>
+studied.</p>
+<p>The mosquito used in all cases was <hi rend="italic">Culex fasciatus</hi> Fabr.:</p>
+<pb n="8" id="f02154008"/>
+<p>44 <hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.</p>
+<p>TABLE III.</p>
+<p>INOCULATION OF NON-IMMUNE INDIVIDUALS THROUGH THE BITE OF MOSQUITOES (C. FASCIATED).</p>
+<p>
+<table rows="28" cols="10">
+<row><cell>No. of<lb/>Case.</cell><cell>Age.</cell><cell>Nativity.</cell><cell>Date of<lb/>Inoculation.</cell><cell>Character of<lb/>attack and No. of<lb/>patients bitten.</cell><cell>Day of Disease.</cell><cell>Time of between in-<lb/>fection of mosquito<lb/>and inoculation.</cell><cell>No. of<lb/>Mosqui-<lb/>toes.</cell><cell>Result.</cell><cell>Remarks.</cell></row>
+<row><cell>---</cell><cell>---</cell><cell>-----</cell><cell>-------</cell><cell>-------</cell><cell>-------</cell><cell>-------</cell><cell>---</cell><cell>-----</cell><cell>-----</cell></row>
+<row><cell>1</cell><cell></cell><cell>U. S.</cell><cell>August 11th.</cell><cell>Mild........1</cell><cell>7th.</cell><cell>5 days.</cell><cell>One.</cell><cell>Negative.</cell><cell></cell></row>
+<row><cell>2</cell><cell></cell><cell>U. S.</cell><cell>" 11th.</cell><cell>Very mild..1</cell><cell>5th.</cell><cell>5 "</cell><cell>"</cell><cell>"</cell><cell></cell></row>
+<row><cell>3</cell><cell>24</cell><cell>U. S.</cell><cell>" 12th.</cell><cell>" ..1</cell><cell>5th.</cell><cell>6 "</cell><cell>"</cell><cell>"</cell><cell></cell></row>
+<row><cell>4</cell><cell>20</cell><cell>U. S.</cell><cell>" 12th.</cell><cell>" ..1</cell><cell>5th.</cell><cell>6 "</cell><cell>"</cell><cell>"</cell><cell></cell></row>
+<row><cell>5</cell><cell>24</cell><cell>U. S.</cell><cell>" 14th.</cell><cell>" ..1</cell><cell>5th.</cell><cell>8 "</cell><cell>"</cell><cell>"</cell><cell></cell></row>
+<row><cell>6</cell><cell>34</cell><cell>U. S.</cell><cell>" 16th.</cell><cell>" ..1</cell><cell>5th.</cell><cell>10 "</cell><cell>"</cell><cell>"</cell><cell></cell></row>
+<row><cell>7</cell><cell>22</cell><cell>U. S.</cell><cell>" 18th.</cell><cell>Severe......1</cell><cell>2nd.</cell><cell>3 "</cell><cell>"</cell><cell>"</cell><cell></cell></row>
+<row><cell>8</cell><cell>20</cell><cell>U. S.</cell><cell>" 19th.</cell><cell>Very mild..1</cell><cell>5th.</cell><cell>13 "</cell><cell rows="10-11">}Two.</cell><cell>"</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Severe......1</cell><cell>1st.</cell><cell>3 "</cell><cell></cell><cell></cell></row>
+<row><cell>9</cell><cell>28</cell><cell>U. S.</cell><cell>" 25th.</cell><cell>Fatal . .....1</cell><cell>2nd.</cell><cell>6 "</cell><cell rows="12-14">}One.</cell><cell></cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Mild........1</cell><cell>1st.</cell><cell>4 "</cell><cell>"</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Severe......1</cell><cell>2nd.</cell><cell>2 "</cell><cell></cell><cell></cell></row>
+<row><cell>10</cell><cell>46</cell><cell>England.</cell><cell>" 27th.</cell><cell>" ......1</cell><cell>2nd.</cell><cell>12 "</cell><cell rows="15-18">}One.</cell><cell rows="15-18">Positive.</cell><cell rows="15-18">Severe at-<lb/>tack of yel-<lb/>low fever.</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Mild........1</cell><cell>1st.</cell><cell>6 "</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Severe......1</cell><cell>2nd.</cell><cell>4 "</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Mild........1</cell><cell>2nd.</cell><cell>2 "</cell></row>
+<row><cell>11</cell><cell>24</cell><cell>U. S.</cell><cell>" 31st.</cell><cell>Fatal.......1</cell><cell>2nd.</cell><cell>12 "</cell><cell rows="19-21">One.</cell><cell rows="19-28">Positive.</cell><cell rows="19-28">Well<lb/>marked at-<lb/>tack of yel-<lb/>low fever.</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Mild........2</cell><cell>2nd.</cell><cell>4 and 10 days.</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Severe......2</cell><cell>2nd and 9th.</cell><cell>2 and 8 "</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>" ......3</cell><cell>1st, 2nd, and 2nd.</cell><cell>2, 8 and 16 "</cell><cell rows="22-23">}One.</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Mild........2</cell><cell>1st and 2nd.</cell><cell>6 and 10 "</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Fatal.......1</cell><cell>2nd.</cell><cell>12 "</cell><cell rows="24-26">}One.</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Severe......1</cell><cell>1st.</cell><cell>2 "</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Mild........3</cell><cell>1st, 2nd and 2nd.</cell><cell>4, 6 and 10 "</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Severe......3</cell><cell>All on 1st.</cell><cell>2, 4 and 8 "</cell><cell rows="27-28">}One.</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Mild........1</cell><cell>2nd.</cell><cell>6 "</cell></row>
+</table>
+</p>
+<pb n="9" id="f02154009"/>
+<p><hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>. 45</p>
+<p>It will be seen that we record nine negative and two positive re-<lb/>
+sults. It is, we think, important to observe that of the nine failures<lb/>
+to infect, the time elapsing between the biting of the mosquito and<lb/>
+the inoculation of the healthy subject varied in 7 cases from 2 to 8<lb/>
+days (Nos. 1, 2, 3, 4, 5, 7, and 9) and in the remaining two from 10 to<lb/>
+13 days (Nos. 6 and 8).</p>
+<p>Five individuals out of the nine who failed to show any result<lb/>
+(Nos. 2, 3, 4, 5 and 6) were inoculated by mosquitoes that had bitten<lb/>
+very mild cases of yellow fever on the fifth day of the disease, and<lb/>
+one individual by a mosquito that had bitten a mild case of yellow<lb/>
+fever on the seventh day of the disease. (This latter patient was<lb/>
+discharged from hospital three days later.) To this fact may pos-<lb/>
+sibly be attributed the negative results. Of the remaining three<lb/>
+negative cases (Nos. 7, 8 and 9), and which had been inoculated by<lb/>
+mosquitoes that had bitten severe cases of the disease, the interval<lb/>
+between the bite and the inoculation varied from 2 to 6 days.</p>
+<p>In the two cases (Nos. 6 and 8) where the interval was respectively<lb/>
+10 and 13 days, the inoculations had been made with mosquitoes that<lb/>
+had bitten very mild cases of yellow fever on the fifth day of the<lb/>
+attack. No. 8 was also bitten by a mosquito which had been infected<lb/>
+by a severe case of yellow fever 3 days before.</p>
+<p>We refrain from commenting further at this time upon the nine<lb/>
+negative cases, preferring to record the results obtained rather than<lb/>
+to indulge in speculation.</p>
+<p>Of the two cases which we have recorded as positive in Table III,<lb/>
+we now propose to speak at greater length.</p>
+<p><hi rend="italic">Case 10</hi>. Dr. James Carroll, Acting Assistant Surgeon, U. S. Army, a<lb/>
+member of this board, was bitten at 2 p.m., August 27, 1900, by <hi rend="italic">Culex fasciatus</hi>.<lb/>
+This particular mosquito had bitten a <hi rend="italic">severe</hi> case of yellow fever on the<lb/>
+<hi rend="italic">second</hi> day of the disease <hi rend="italic">12 days</hi> before; a <hi rend="italic">mild</hi> case of yellow fever, on the<lb/>
+<hi rend="italic">first</hi> day of the attack, <hi rend="italic">6 days</hi> preceding; a <hi rend="italic">severe</hi> case of yellow fever, on the<lb/>
+<hi rend="italic">second</hi> day of the attack, <hi rend="italic">4 days</hi> before, a <hi rend="italic">mild</hi> case of yellow fever, on the<lb/>
+<hi rend="italic">second</hi> day of attack, <hi rend="italic">2 days</hi> before inoculation.</p>
+<p>Dr. Carroll remained well until the afternoon of the 29th, when he states<lb/>
+that he felt tired and for this reason, when on a visit to Las Animas Hospital,<lb/>
+the same afternoon (29th), sometime between 4 and 6 p. m., after visiting a<lb/>
+few patients, he left the wards and waited outside on the porch, while his<lb/>
+companions remained in the wards.</p>
+<p><hi rend="italic">August 30th</hi>. During the afternoon, although not feeling well, Dr. C. visited<lb/>
+La Playa, distant about one and a half miles from Columbia Barracks, and<lb/>
+took a sea-bath.</p>
+<p><hi rend="italic">August 31st</hi>, A. M. Dr. C. realized that he was sick and that he had fever,<lb/>
+although he refrained from taking his temperature, but did visit the labora-<lb/>
+tory, distant about one hundred and forty yards, for the purpose of examining<lb/>
+his blood for the malarial parasite. The examination was negative. During<lb/>
+the afternoon he was compelled to take to his bed. At 7 p. m. temperature<lb/>
+<pb n="10" id="f02154010"/>
+46 <hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+was 102&deg; F. No headache nor backache; only a sense of great lassitude.<lb/>
+Eyes injected and face suffused.</p>
+<p><hi rend="italic">September 1st</hi>, 7 A. M. T. 102&deg; F. Blood again carefully examined by Dr.<lb/>
+Lazear with negative result. 11 a. m., T. 102&deg;.</p>
+<p>The case having been diagnosed as one of yellow fever, Dr. C. was at noon<lb/>
+removed to the yellow fever wards.</p>
+<p>9 p. m., T. 102.8&deg;, pulse 90, 12 o'clock, midnight, T. 103.4&deg;, pulse 84.</p>
+<p><hi rend="italic">September 2d</hi>, 3 A. M. T. 103.6, pulse 80. A trace of <hi rend="italic">albumen</hi> was now<lb/>
+found in the urine. The subsequent history of the case was one of severe<lb/>
+yellow fever. <hi rend="italic">Jaundice</hi> appeared on September 3d.</p>
+<p>The accompanying chart No. 1 contains all of the necessary data.</p>
+<p>The question of diagnosis having been clearly and easily estab-<lb/>
+lished, it now becomes important to follow Dr. C.'s movements for a<lb/>
+period of ten days preceding the mosquito inoculation, and during<lb/>
+the period elapsing from the bite of the insect until the commence-<lb/>
+ment of the attack.</p>
+<p>On August 21st, 22d and 23d, Dr. C. was at Columbia Barracks,<lb/>
+outside of the epidemic zone. On August 24th he visited the au-<lb/>
+topsy-room of Military Hospital No. 1, which is situated on Principe<lb/>
+hill overlooking the city of Havana. He was present in this autopsy-<lb/>
+room while an autopsy was made by Dr. Agramonte on a case of<lb/>
+pernicious malarial fever. Dr. C. only took cultures from the blood<lb/>
+and organs as the section proceeded. He was there about half an<lb/>
+hour and then returned to Columbia Barracks. Subsequent micro-<lb/>
+scopic study of sections of the liver and spleen showed that the case<lb/>
+autopsied on the 29th was really a case of pernicious malarial fever.</p>
+<p>It should be stated that although cases of yellow fever are not<lb/>
+admitted to Military Hospital No. 1, an English sea-captain had been<lb/>
+admitted to its wards a few days before, whose case developed into<lb/>
+one of yellow fever with fatal result, and the body had been autop-<lb/>
+sied by Dr. Agramonte in this dead-room on the day preceding Dr.<lb/>
+C.'s visit to it.</p>
+<p>According to Dr. C. the room was, by no means, in a cleanly con-<lb/>
+dition. As Dr. C.'s visit to this room was made on August 24th,<lb/>
+and as he began to complain on August 29th, about the average<lb/>
+period of incubation of yellow fever, there is a possible chance for<lb/>
+infection in this way. We must call attention, however, to the fact<lb/>
+that Dr. Agramonte, whenever he performs an autopsy in this room.<lb/>
+is always attended by a young soldier of the Hospital Corps, U. S.<lb/>
+Army, who is detailed for that purpose, and whose duty it is to assist<lb/>
+and to afterwards tend to the cleaning of the autopsy table. This<lb/>
+soldier, a non-immune American, was present when Dr. Carroll was<lb/>
+there and remained afterwards to attend to his duties. He has not<lb/>
+contracted yellow fever by his duties in this room, from time to time.<lb/>
+<pb n="11" id="f02154011"/>
+<hi rend="italic">Case I., yellow fever following, within the usual<lb/>
+period of incubation, the bite of an infected<lb/>
+mosquito, (Culex fasciatus)</hi><lb/>
+<pb n="12" id="f02154012"/>
+48 <hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+Our own experience would seem to accord with that of others, viz.,<lb/>
+that attendance upon autopsies and the handling of portions of<lb/>
+organs of yellow fever cases removed to the laboratory is unattended<lb/>
+with danger. Certainly the three non-immune members of this<lb/>
+board, up to the time of these mosquito inoculations, had during the<lb/>
+past three months come in close contact with the dead bodies and<lb/>
+organs of yellow fever cases, freely handling and examining these<lb/>
+organs, including the small intestine, even kept at thermostat tem-<lb/>
+perature for 24 hours, without contracting the disease. We have, of<lb/>
+course, never neglected to cleanse our hands with disinfectants.</p>
+<p>Dr. C., upon his visit to the before-mentioned dead-room, only<lb/>
+used the platinum loop for taking cultures and did not come in con-<lb/>
+tact with the autopsy table.</p>
+<p>The only other opportunity for infection in his case would appear<lb/>
+to have been during his visit to Las Animas Hospital, situated in the<lb/>
+suburbs of Havana, as here yellow fever patients are admitted in<lb/>
+large numbers. We have already pointed out that Dr. C. was com-<lb/>
+plaining of lassitude at the hour of his visit, which was about fifty<lb/>
+hours after his inoculation with the contaminated mosquito. We<lb/>
+have also called attention to the fact that he remained, for the greater<lb/>
+part of his visit outside of the hospital, on the piazza. This would<lb/>
+appear to cast doubt upon his visit to Las Animas as the source of his<lb/>
+infection.</p>
+<p>We do not wish to be understood as unnecessarily seeking to lay<lb/>
+too much emphasis upon the exclusion in this case of other sources<lb/>
+of infection than the mosquito, as we fully appreciate that Dr. C. had<lb/>
+been, on two occasions, within the epidemic zone during the week<lb/>
+preceding his attack of yellow fever. His movements on these occa-<lb/>
+sions we have already given.</p>
+<p>We will again refer to Dr. C.'s case, after we have given the history<lb/>
+of Case No. 11, which we have designated as our second positive<lb/>
+result.</p>
+<p><hi rend="italic">Case II</hi>. X. Y., white, American, a resident of the military reservation of<lb/>
+Columbia Barracks, was bitten during the forenoon of the 31st day of August,<lb/>
+1900, by the <hi rend="italic">same mosquito</hi> that had bitten Case 10 (Dr. C.) four days before,<lb/>
+and which in the meanwhile had bitten a <hi rend="italic">mild</hi> case of yellow fever (first day)<lb/>
+<hi rend="italic">two</hi> days before being applied to X. Y.</p>
+<p>X. Y. was, also, bitten by a second mosquito that had been applied to a <lb/>
+fatal case of yellow fever (second day) 12 days before, and to two mild<lb/>
+cases (second day) 4 and 10 days previously; also, by a third mosquito that<lb/>
+had bitten a fatal case of yellow fever (second day) 12 days before; a severe<lb/>
+case (first day) 2 days before and three mild cases (first, second and third<lb/>
+day) 4, 6 and 10 days before finally by a fourth mosquito that had bitten three<lb/>
+severe cases of yellow fever (all on the first day) 2, 4 and 8 days previously,<lb/>
+and one mild case (second day) 6 days before. (Vid. Table III.)</p>
+<pb n="13" id="f02154013"/>
+<p><hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>. 49</p>
+<p>It will thus be seen that X. Y. was bitten by <hi rend="italic">four</hi> mosquitoes, <hi rend="italic">two</hi> of which<lb/>
+had bitten <hi rend="italic">severe</hi> (<hi rend="italic">fatal</hi>) cases of yellow fever <hi rend="italic">12 days previously</hi>; one of which<lb/>
+had bitten a <hi rend="italic">severe</hi> case (<hi rend="italic">second day</hi>) <hi rend="italic">16 days</hi> before and one which had bitten<lb/>
+a <hi rend="italic">severe</hi> case (first day) <hi rend="italic">8 days</hi> before.</p>
+<p><hi rend="italic">September 25th</hi>, X. Y. began to experience a sense of dizziness and disin-<lb/>
+clination to work. This was just five days from the time of the mosquito<lb/>
+inoculation.</p>
+<p>Twenty-four hours later, still dizzy and light-headed in attempting to move<lb/>
+about. During the afternoon (sixth day after inoculation), chilly sensations,<lb/>
+followed by fever and restlesness during the night.</p>
+<p>On the following day (seventh day after inoculation), 8 a. m., T. 102.8&deg;<lb/>
+F., eyes slightly injected, face suffused. Patient removed to the yellow fever<lb/>
+wards; 9 a. m., T. 103&deg; F., pulse 66. A trace of <hi rend="italic">albumen</hi> was found in the urine<lb/>
+during the afternoon (third day of the attack). This increased during the<lb/>
+following days. Conjunctiv&aelig; slightly <hi rend="italic">jaundiced</hi> on the fourth day of disease,<lb/>
+which was more distinct and could be plainly seen on anterior aspect of<lb/>
+chest on the fifth and following day. <hi rend="italic">Bleeding</hi> from the gums was noticed on<lb/>
+the third and subsequent days after admission. Repeated examinations of<lb/>
+the blood failed to show any malarial parasites.</p>
+<p>The course of the fever, the appearance of albumen in the urine,<lb/>
+with jaundice and hemorrhage from the gums, together with the slow<lb/>
+pulse, all pointed distinctly to the diagnosis of yellow fever. His<lb/>
+attending physician, Dr. Roger P. Ames, U. S. A., an expert in the<lb/>
+diagnosis and treatment of this disease, did not hesitate to diagnose<lb/>
+X. Y.'s attack as one of &ldquo;well pronounced yellow fever.&rdquo; Dr. A.<lb/>
+was not cognizant of the method of inoculation in this case. (Vide,<lb/>
+Chart II.)</p>
+<p>The diagnosis, therefore, not being in doubt, we must follow this<lb/>
+patient's movements during the ten days preceding the bite of the<lb/>
+mosquitoes and from this time until five days later, when the attack<lb/>
+began. It so happens that we can follow X. Y.'s movements for a<lb/>
+much longer period. Fifty-seven days prior to his inoculation, he<lb/>
+spent a day and night in the city of Havana. Sixteen days before<lb/>
+the inoculation, he rode on horseback with six other non-immunes a<lb/>
+distance of about one and a half miles towards the seashore and re-<lb/>
+turned to his dwelling, without in the meantime dismounting from<lb/>
+his horse. From this time until his complete convalescence was<lb/>
+established, he had remained within the immediate vicinity of his<lb/>
+home. So that it may be positively stated that X. Y. had not ab-<lb/>
+sented himself from the Military Reservation of Columbia Barracks<lb/>
+during a period of fifty-seven days prior to his inoculation (with the<lb/>
+exception above stated), nor between the date of his inoculation and<lb/>
+the establishment of convalescence.</p>
+<p>Let us now inquire whether the military reservation of Columbia<lb/>
+Barracks is outside of the epidemic zone of yellow fever. To this<lb/>
+we answer that since the commencement of the present epidemic<lb/>
+<pb n="14" id="f02154014"/>
+<hi rend="italic">Chart II. yellow fever following, within the usual<lb/>
+period of incubation, the bite of an infected<lb/>
+mosquito, (Culex fasciatus)</hi><lb/>
+<pb n="15" id="f02154015"/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>. 51<lb/>
+of yellow fever in Havana, dating from May, 1900, the average<lb/>
+monthly population of this Station, including civilian employes, has<lb/>
+been 1400, nearly all of whom are young non-immunes.</p>
+<p>There have occurred amongst this non-immune population from<lb/>
+May 1 to October 13, 1900, sixteen cases of yellow fever, all of which<lb/>
+have been easily and readily traced to a visit to within the boundaries<lb/>
+of the epidemic zone, except Cases 10 and 11 of Table III, and one<lb/>
+other case of which we shall presently speak. These cases have been<lb/>
+distributed as follows:</p>
+<p>
+<table rows="17" cols="2">
+<row><cell>May 24th......................................</cell><cell>1</cell></row>
+<row><cell>June 10th......................................</cell><cell>1</cell></row>
+<row><cell>" 17th......................................</cell><cell>1</cell></row>
+<row><cell>" 19th......................................</cell><cell>2</cell></row>
+<row><cell>" 21st......................................</cell><cell>1</cell></row>
+<row><cell>" 29th......................................</cell><cell>1</cell></row>
+<row><cell>July 9th......................................</cell><cell>1</cell></row>
+<row><cell>" 26th......................................</cell><cell>1</cell></row>
+<row><cell>" 29th......................................</cell><cell>1</cell></row>
+<row><cell>August 11th......................................</cell><cell>1</cell></row>
+<row><cell>" 12th......................................</cell><cell>1</cell></row>
+<row><cell>" 16th......................................</cell><cell>1</cell></row>
+<row><cell>" 31st......................................</cell><cell>1</cell></row>
+<row><cell>Sept'r 7th......................................</cell><cell>1</cell></row>
+<row><cell>" 19th......................................</cell><cell>1</cell></row>
+<row><cell></cell><cell>---</cell></row>
+<row><cell>Total......................</cell><cell>16 cases.</cell></row>
+</table>
+</p>
+<p>Ten of these cases have occurred amongst an average monthly<lb/>
+military population of 1295 men, and six cases in an average civilian<lb/>
+population of 105.</p>
+<p>Whenever these cases have occurred, as soon as the patient has<lb/>
+been removed to hospital most careful measures of disinfection have<lb/>
+been immediately carried out by a trained sanitary squad, under the<lb/>
+personal supervision of a medical officer. These have consisted of<lb/>
+destruction by fire of mattresses, the disinfection of bedding and<lb/>
+clothing with 1 to 500 bichloride solution, and the application of the<lb/>
+same solution freely to the ceiling, walls and floors by means of a<lb/>
+force pump.</p>
+<p>We repeat that no case has ever been connected with a preceding<lb/>
+case, but that the source of infection has been readily shown to have<lb/>
+occurred during the individual's visit to Havana, 6 miles distant, or<lb/>
+to some other nearer Cuban settlement.</p>
+<p>We now invite attention to the fact that from August 17th to Oc-<lb/>
+tober 13th, a period of fifty-seven days, only three cases of yellow<lb/>
+fever have occurred amongst this population of 1400 non-immune<lb/>
+<pb n="16" id="f02154016"/>
+52 <hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>.<lb/>
+Americans, and we consider it very important to note that <hi rend="italic">two of<lb/>
+these had been bitten, within five days of the commencement of their at-<lb/>
+tacks, by contaminated mosquitoes</hi>.</p>
+<p>Taken in connection with Case 11, in which we have been unable<lb/>
+to find any other source of infection than the bite of an infected mos-<lb/>
+quito, five days preceding the attack, the case of Dr. C. (Case 10,<lb/>
+Table III) becomes strongly confirmatory of the same origin.</p>
+<p>We will now briefly give the history of the third case of yellow<lb/>
+fever that has occurred at Columbia Barracks during the period<lb/>
+August 17 to October 13, 1900.</p>
+<p>In the light of Cases 10 and 11, we consider this case of sufficient<lb/>
+importance to be here included, especially as it is one that might be<lb/>
+possibly designated as a case of accidental infection by a mosquito.</p>
+<p><hi rend="italic">Case</hi>. Dr. Jesse W. Lazear, Acting Assistant Surgeon, U. S. Army, a<lb/>
+member of this board, was bitten on August 16, 1900, (Case 6, Table III),<lb/>
+by a mosquito (<hi rend="italic">Culex fasciatus</hi>) which ten days previously had been contami-<lb/>
+nated by biting a very mild case of yellow fever (fifth day). No appreciable<lb/>
+disturbance of health followed this inoculation.</p>
+<p><hi rend="italic">September 13, 1900</hi>, (<hi rend="italic">forenoon</hi>), Dr. Lazear, while on a visit to Las Animas<lb/>
+Hospital and while collecting blood from yellow fever patients for study, was<lb/>
+bitten by a Culex mosquito (species undetermined). As Dr. L. had been<lb/>
+previously bitten by a contaminated insect without after-effects, he deliber-<lb/>
+ately allowed this particular mosquito, which had settled on the back of his<lb/>
+hand, to remain until it had satisfied its hunger.</p>
+<p>On the evening of September 18th, 5 days after the bite, Dr. L. complained<lb/>
+of feeling &ldquo;out of sorts,&rdquo; and had a chill at 8 p. m.</p>
+<p><hi rend="italic">September 19th</hi>, 12 o'clock noon, T. 102.4&deg;, pulse 112. Eyes injected, face<lb/>
+suffused; 3 p. m., T. 103.4&deg;, pulse 104; 6 p. m., T. 103.8&deg;, pulse 106. <hi rend="italic">Albumen</hi><lb/>
+appeared in the urine. <hi rend="italic">Jaundice</hi> appeared on the third day. The subsequent<lb/>
+history of this case was one of progressive and fatal yellow fever, the death of<lb/>
+our much lamented colleague having occurred on the evening of September<lb/>
+25, 1900.</p>
+<p>As Dr. L. was bitten by a mosquito while present in the wards of a<lb/>
+yellow fever hospital, one must, at least, admit the possibility of this<lb/>
+insect's contamination by a previous bite of a yellow fever patient.<lb/>
+This case of accidental infection therefore cannot fail to be of in-<lb/>
+terest, taken in connection with Cases 10 and 11.</p>
+<p>For ourselves, we have been profoundly impressed with the mode<lb/>
+of infection and with the results that followed the bite of the mos-<lb/>
+quito in these three cases. Our results would appear to throw new<lb/>
+light on Carter's observations in Mississippi, as to the period re-<lb/>
+quired between the introduction of the first (infecting) case and the<lb/>
+occurrence of secondary cases of yellow fever.</p>
+<p>Since we here, for the first time, record a case in which a typical<lb/>
+attack of yellow fever has followed the bite of an infected mosquito,<lb/>
+<pb n="17" id="f02154017"/>
+<hi rend="italic">THE ETIOLOGY OF YELLOW FEVER</hi>. 53<lb/>
+within the usual period of incubation of the disease, and in which<lb/>
+other sources of infection can be excluded, we feel confident that the<lb/>
+publication of these observations must excite renewed interest in the<lb/>
+mosquito-theory of the propagation of yellow fever, as first proposed<lb/>
+by Finlay.</p>
+<p>From our study thus far of yellow fever, we draw the following<lb/>
+conclusions:</p>
+<p>1. <hi rend="italic">Bacillus icteroides (Sanarelli) stands in no causative relation to yel-<lb/>
+low fever, but, when present, should be considered as a secondary invader<lb/>
+in this disease</hi>.</p>
+<p>2. <hi rend="italic">The mosquito serves as the intermediate host for the parasite of yel-<lb/>
+low fever</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

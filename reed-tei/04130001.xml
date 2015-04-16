@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04130001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Translation [from Spanish] and transcription of an article from Diario de la Marina, April 19, 1947</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04130001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1947-04-19</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Cabrera family</name>
+<name type="person">Nogueira, Pedro</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="hospital">Mayo Clinic, Rochester (Minn.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1947-04-19">April 19, 1947</date>
+<idno rend="suppress">04130001</idno>
+<title>Translation [from Spanish] and transcription of an article from Diario de la Marina, April 19, 1947</title>
+</bibl>
+</head>
+<p>This Cuban newspaper article describes the visit of Cuban officials and Moran to the Camp Lazear site. Building No. 1 has been named a national monument.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1947-04-19">
+<head>Translation [from Spanish] and transcription of an article from Diario de la Marina, April 19, 1947</head>
+<pb n="1" id="f04130001"/>
+<opener>
+Diario de la<lb/>
+Marina<lb/>
+<dateline>
+<date value="1947-04-19">Apr 19, 1947</date>
+</dateline>
+</opener>
+<p><hi>THE SHACK WHERE DOCTOR FINLAY WORKED WAS</hi> VISITED BY THE<lb/>
+MINISTER OF HEALTH AND OTHER HEALTH OFFICIALS<lb/>
+$10,000 WAS DONATED</p>
+<p>As the DIARIO DE LA MARINA informed, the Minister of Health,<lb/>
+Doctor Jose R. Andreu, the Director of Health, Doctor Pedro Nogueira,<lb/>
+Professor Rodolfo Perez de los Reyes, and Mr. John J. Moran, the only<lb/>
+survivor of the American Commission which proved Finlay's theory about<lb/>
+a transmission of yellow fever from man to man by a mosquito, visited<lb/>
+this morning the shack in Quemados de Marianao. This shack was de-<lb/>
+clared by the group of ministers as a National monument--also the house<lb/>
+and the farm--called San Jose--where Doctor Carlos J. Finlay with the<lb/>
+cooperation of members of the Jesuits made the first experiments in<lb/>
+his great discovery.</p>
+<p><hi>The Cabrera family</hi> lives in this farm now and they were very<lb/>
+kind to the visitors, allowing them to examine the places where the<lb/>
+Jesuits made the experiments knowing that many priests offered their<lb/>
+free help to Doctor Finlay and offered themselves as human guinea pigs<lb/>
+for the good of humanity. Doctor Andreu said that a <unclear>commenorative</unclear><lb/>
+plaque would be placed here.</p>
+<p>Mr. Moran showed in this shack deteriorated by weather and<lb/>
+the years the sites where Doctor Finlay and the American Commission,<lb/>
+presided by Doctor Reed who informed Major Gorgas, used to work about<lb/>
+yellow fever being endemic in Cuba for more than 200 years.</p>
+<p>Doctor Perez de los Reyes informed that the Mayo Clinic was<lb/>
+donating the amount of $10,000 for the reconstruction and conserva-<lb/>
+tion of this shack where the American Commission, presided by Doctor<lb/>
+Reed and helped by Doctor Finlay, worked.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

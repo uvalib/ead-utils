@@ -1,0 +1,992 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06412001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Questionnaire: Truby's Answers to Questionnaire re. His Book--February, 1947, by Albert E. Truby, February 1947</title>
+<title type="gmd">[electronic resource]</title>
+<author>Truby, Albert E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06412001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1947-02-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Ludlow, William</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Wasdin, Eugene</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Agramonte, Aristides </name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Echeverria, Rafael T.</name>
+<name type="person">Lewis, Nellie</name>
+<name type="person">Gillen, Ella M.</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Havard, Valery</name>
+<name type="person">Neate, John S.</name>
+<name type="person">Baldwin, T. A.</name>
+<name type="person">Brown, Ira C.</name>
+<name type="person">Edmunds, Major</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Carroll, George</name>
+<name type="person">Borden, William C.</name>
+<name type="person">Black, William M.</name>
+<name type="person">McCord, Lottie</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Geddings, Henry Downes</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Cabana Barracks (Cuba)</name>
+<name type="place">Cabana Fortress (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>20 pp.</extent>
+<date value="1947-02-00">February, 1947</date>
+<idno rend="suppress">06412001</idno>
+<title>Questionnaire: Truby's Answers to Questionnaire re. His Book--February, 1947, by Albert E. Truby, February 1947</title>
+</bibl>
+</head>
+<p>Truby answers all of Hench's questions regarding Truby's &ldquo;Memoir of Walter Reed.&rdquo;</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1947-02-00">
+<head>Questionnaire: Truby's Answers to Questionnaire re. His Book - February, 1947, by Albert E. Truby, February 1947</head>
+<pb n="1" id="f06412001"/>
+<p><hi>TRUBY'S ANSWERS TO QUESTIONNAIRE<lb/>
+RE HIS BOOK - FEBRUARY, 1947</hi></p>
+<pb n="2" id="f06412002"/>
+<p>1</p>
+<p>Truby's Answers to Questionnaire re His <hi>Book</hi> - December 1946</p>
+<p>P 5. Will answer that later.</p>
+<p>P 8. Height about 5 ft. 10 in. or more. Weight 140 - 150. Light complexion.<lb/>
+He was always courteous but aloof, serious and dignified with strangers;<lb/>
+extremely agreeable to friends and relatives, quite sentimental too, I<lb/>
+think. He was always most friendly and kind to me.</p>
+<p>P 9. Yes, definitely. He asked me in June 189<del>7</del><add>8</add> during my examination about the<lb/>
+etiology of <del>yellow fever</del><add>malaria</add>; and when I told him about Ross' discoveries,<lb/>
+he was evidently pleased and went on to the next question before I was<lb/>
+through with the answer. I have always remembered this because I felt so<lb/>
+elated at the pure luck of having seen Ross' article which had been<lb/>
+published only a short time before. <add>Besides he taught all this<lb/>
+in the Army Med. School and other schools in Washington.</add></p>
+<p>Of course he was interested in yellow fever because he was working on the<lb/>
+Sanarelli theory in 1897 and probably had read extensively on yellow fever.<lb/>
+When he first heard of Finlay's theory I don't know. <add>Surely by 1899.</add></p>
+<p>P 11. Regular Medical Corps consisted of 192 officers, no nurses, no dentists,<lb/>
+no veterinary officers. See my book P 59.</p>
+<p>Information re Volunteers and Contract Surgeons can be obtained from<lb/>
+the Surgeon General. His annual reports would give those figures.<lb/>
+Volunteer organizations had their quota of Volunteer Medical Officers<lb/>
+and the War Department also had authority to commission a large number<lb/>
+of &ldquo;Major and Brigade Surgeons&rdquo; to use where needed, especially in the<lb/>
+P. I. There were hundreds of contract surgeons. They could be used<lb/>
+wherever needed. For example, the 2nd Div. Hospital of General Lee's<lb/>
+command had both regular Army Medical Officers, Volunteers, and Contract<lb/>
+Surgeons. (Pinto and Repetti, for example. P 48, my book.)</p>
+<p>P 12. Volunteers were kept a few years until the Philippine insurrection<lb/>
+was suppressed. I don't think Volunteers were kept in service long<lb/>
+after that. Contract Surgeons were used in Indian War days and that<lb/>
+system was used until World War I at least, perhaps longer.</p>
+<p>P 17. No. It is referred to in the paragraph beginning at the bottom of<lb/>
+P. 217, my book. It was quite general, I think, and covered such<lb/>
+things as food and drink (boiled water) and information re yellow<lb/>
+fever, malaria and other diseases. It should be found in General<lb/>
+Brooke's Annual Report. Or, in Gen. Ludlow's reports. They should<lb/>
+be available in Washington. I think the first one I had was pro-<lb/>
+bably prepared by the Chief Surgeon at Huntsville, Alabama.</p>
+<p>P. 20 The camp's (<hi>8th Infantry</hi>) location can be seen on your big map of<lb/>
+2nd Division's camp sites. Also note Division Headquarters nearby<lb/>
+as noted in my book, P 21. I did not get to the <hi>western end</hi> of<lb/>
+Camp Columbia when I was in camp with the 8th Infantry. So, of<lb/>
+course, I don't know about the huts but the <hi>sanitary report of</hi><lb/>
+<add>(1898)</add><lb/>
+<pb n="3" id="f06412003"/>
+-2-<lb/>
+<hi>Major Brown</hi> settles that question quite definitely. It is<lb/>
+ridiculous to think they were there before the 2nd Division's<lb/>
+arrival. <add>They were American built. See photo.</add></p>
+<p>P.26 The troops in other departments were not a part of my story<lb/>
+and I thought it would be better to leave them out.</p>
+<p>P 27. General Gorgas was at first Chief Surgeon of the Department<lb/>
+of the City of Havana under General Ludlow. But Ludlow took<lb/>
+away sanitary control from Gorgas and placed it under his<lb/>
+Engineer Officer. This officer, Col. Black, had a Medical<lb/>
+Officer, a Maj. Davis of the Volunteers to advise him and<lb/>
+they made a mess of the job. I think Black was only a<lb/>
+<hi>major</hi> at that time. Kean would know. Later Gorgas became<lb/>
+Chief Sanitary Officer of Havana and the City Department<lb/>
+was taken over by General Lee. See P 21, 78, and 97, my<lb/>
+book.</p>
+<p>P 27. I can't add to that and what I said on P 74 and 75. I don't<lb/>
+think that there was any scandal<add>,</add> but the electrozone idea was<lb/>
+called by some as &ldquo;Black's folly&rdquo;. Black was a very efficient<lb/>
+officer and a great friend of Gen. Kean's. He and I were<lb/>
+great friends too and both served later at Governor's Island,<lb/>
+N. Y.</p>
+<p>P. 28 It was a large building along the water front near La Punta.<lb/>
+See your big <hi>map of Havana</hi>. <del>I think</del> <del>i</del><add>I</add>t was <del>either</del> Artillery<lb/>
+<del>or Engineer</del> Headquarters, of the Spanish Army. The 8th<lb/>
+Infantry had troops in it. I think that Maj. Black made his<lb/>
+electrozone there or nearby.</p>
+<p>P 28 &amp;</p>
+<p><add>*</add> 30. At La Punta. See your map of Havana. The very long building<lb/>
+labelled <hi>Engineers</hi> contained officers quarters facing the<lb/>
+street. Behind that was long barrack building. There was<lb/>
+quite a little area between the barracks and the old star-<lb/>
+shaped fort. <add>My room was in the Eastern End of the Engr. Bldg.</add></p>
+<p>P 31. The dungeon was in the stone fort. At La Punta. We also<lb/>
+had a guard house in the stone fort, very much like the one at<lb/>
+Pinar del Rio. Gen. Sternberg came to inspect us in the<lb/>
+spring of 1899 and found fault with the &ldquo;dark and damp<lb/>
+guard house.&rdquo;</p>
+<p>P 31. No, I haven't the circular. I think I obtained that extract<lb/>
+from one of the annual reports. If I can find it I will send<lb/>
+it to you.</p>
+<p>* I think you have a film or two taken on top<lb/>
+of the old fort showing me beside the big guns-<lb/>
+also one showing two other officer &amp; myself watching<lb/>
+the storm.</p>
+<pb n="4" id="f06412004"/>
+<p>- 3 -</p>
+<p>P 34. Maj. Echevrria was a Cuban doctor who seemed to be well<lb/>
+thought of by Gorgas who used him for important yellow<lb/>
+fever work. During the Quemados epidemic he was sent to<lb/>
+Kean's Department for duty, see P 34 and 84, my book. I<lb/>
+thought him one of the best of the Cuban doctors. He was<lb/>
+quiet, unassuming and courteous. I saw but little of<lb/>
+him, however. I think you will find that he was with our<lb/>
+troops in Cuba during the fight for Santiago. <add>See Vaughan's memoirs</add></p>
+<p>P 35. Ames had a commission in the Volunteers after he left<lb/>
+Columbia Barracks. I think that was done by the War Dept.<lb/>
+because of his fine work in treating yellow fever cases.<lb/>
+<add>Reed &amp; Kean may have recommended Ames for promotion.</add></p>
+<p>P 36. Finlay came to La Punta frequently as stated in my book.<lb/>
+While he talked of his theory to me and gave me one of<lb/>
+his articles on the subject (in English) I would not have<lb/>
+called it &ldquo;missionary work.&rdquo; He was thoroughly convinced<lb/>
+of his ideas and no doubt talked about his theory freely.</p>
+<p>P 27. I, <hi>no</hi> doubt <del>,</del> did<add>,</add> especially with Dr. Due&ntilde;as. P 34, my book.<lb/>
+Due&ntilde;os was sent to La Punta for duty with me. He was made<lb/>
+a Contract Surgeon but I soon asked for his relief as he<lb/>
+was little help because he could not speak English. I<lb/>
+don't know that I ever really discussed the theory with<lb/>
+Gorgas or Kean but no doubt that subject frequently came<lb/>
+up. I know that Reed and I did talk about it during his<lb/>
+visit in March and April 1900. I have a suspicion that I<lb/>
+gave Reed Finlay's reprint when he came to see me about<lb/>
+Patrick Smith's case in May 1899, or when he was at<lb/>
+Columbia Barracks in March 1900, for it was not in my<lb/>
+Cuban box of papers when I began my story. I am sure that<lb/>
+I showed it to him at least and that probably was at<lb/>
+La Punta in 1899 as Finlay had given it to me shortly<lb/>
+before and it made an impression on me. I would not have<lb/>
+thrown it away. I can't tell you of any reaction of Reed's,<lb/>
+or the others, to Finlay's theory, but because of the dis-<lb/>
+coveries of Ross,<add>*</add> it was definitely a possibility and I<lb/>
+think Reed was impressed that way. Besides, if yellow fever<lb/>
+was mosquito borne, Reed no doubt felt that he could prove<lb/>
+it and wanted to make the effort at least when he had the chance<lb/>
+to do so. I don't know when Reed first met Finlay but<lb/>
+probably during one of his early visits (1899) to Gorgas<lb/>
+in Havana.<lb/>
+<add>I have looked everywhere for it.</add></p>
+<p>P. 40 &amp; In March and April, 1900.</p>
+<p>41.</p>
+<p><add>* (and Carter's observations too)</add></p>
+<pb n="5" id="f06412005"/>
+<p>- 4 -</p>
+<p>P 42. Caba&ntilde;a barracks in the <hi>Caba&ntilde;a fort</hi>. Morro was also a fort, much<lb/>
+smaller than Cabana, with very little or no barrack space.</p>
+<p>P 44. Our destination, <hi>Columbia Barracks</hi>.</p>
+<p>P 44. Of course. The whole 7th Army Corps was camped there. See your<lb/>
+maps with the location of all the various elements of a (14,000)<lb/>
+big Army Corps. Even the 8th Infantry is shown on the first<lb/>
+map, date not given but probably December 1898. The 8th<lb/>
+Infantry no<del>w</del><add>t</add> shown on the March 1899 map as <add>we</add> were then in<lb/>
+Havana.</p>
+<p>P 45. Baldwin was not liked as Kean says. I did not consider him a<lb/>
+keen<add>,</add> active C. O. He always treated me kindly and he and his<lb/>
+staff were on good relations with the medical officers at the<lb/>
+Post Hospital. They rarely interferred with or criticised us.</p>
+<p>P 46. Yes. Post Surgeon was the term usually employeed at that time.</p>
+<p>P 47. Usually the same officer, but when there <del>was</del><add>is</add> much work for the<lb/>
+C. O.<add>,</add> as at large posts, he can <hi>detail</hi> an officer as &ldquo;Detatch-<lb/>
+ment Commander&rdquo;.</p>
+<p>P 47. In the Main Post (Columbia Barracks). I think he lived in<lb/>
+one of the bachelor buildings of the 8th Infantry and also<lb/>
+had a little dispensary at Post Headquarters.</p>
+<p>P 48. Pinto was a Volunteer officer in a Nebraska regiment, when that<lb/>
+outfit was mustered out of the service. <del>I think</del> <del>t</del><add>T</add>hey made him<lb/>
+a Contract Surgeon and assigned him to duty with the 2nd Division<lb/>
+Hospital. When that outfit went to the States, Pinto was kept<lb/>
+at Columbia Barracks Hospital.</p>
+<p>P 48. They were <hi>galvanized iron troughs for latrines</hi>. <hi>Read about them</hi><lb/>
+(<hi>important</hi> for they were proposed by Reed) in any old Hygiene like<lb/>
+Munson's or Havard's. These troughs were at first pumped out<lb/>
+into a large tank wagon. Later they were connected with the<lb/>
+sewer. This did away with Dr. Porter's &ldquo;Heavy Artillery&rdquo; P 48.</p>
+<p>P 49. They were graduate nurses from the U.S. but all were non-immune<add>s</add><lb/>
+in my time. Two contracted yellow fever on the Edmund<del> s</del><add>s</add> case<lb/>
+and one died.</p>
+<p>P 49. Mrs. Warner, was I think, a trained nurse and an immune. I don't<lb/>
+know about Miss Lewis; &ldquo;Lottie&rdquo; and Mrs. Gillem were immune but<lb/>
+not nurses, I think. They were sent out from Havana to help out<lb/>
+in the Quemados epidemic. Most of this information came from<lb/>
+Lambert.</p>
+<pb n="6" id="f06412006"/>
+<p>- 5 -</p>
+<p>P 50. Yes, but they built a few <hi>very poor</hi>, long shacks for wards and<lb/>
+the &ldquo;Surgery&rdquo; and 106 Lazear's house which was probably built<lb/>
+for Maj. Brown. See Figure 19, my book, p. 87. I think that<lb/>
+under the Lazear tree and west of it, the Lazear house can be<lb/>
+faintly seen. Look at your large picture and tell me what<lb/>
+you think.</p>
+<p>Fig. 10</p>
+<p>&amp; P 51. I accepted Lambert's statement that they were two-bed huts.<lb/>
+Of course they were large enough for 3 beds. See photo from<lb/>
+Mrs. Reed. I now think that they were <hi>10 x 12</hi> ft. <add>See remarks also where<lb/>
+especially p. 55 below.</add></p>
+<p>Fig. 10 The bed rooms were all on the <hi>south</hi> side.</p>
+<p>P. 52 The south end of 91.</p>
+<p>P. 52 There was nothing at La Playa but fishing shacks. Nipa houses<lb/>
+mostly. It had a nice sand beach and was a good place to swim.<lb/>
+The railroad was operating two trains each way - morning and<lb/>
+afternoon. Trains passed under our bridge over the RR cut.<lb/>
+No night trains.</p>
+<p>P. 53 Our tent wards were preferable for the typhoid cases to the<lb/>
+very crude shacks. See low mortality rate, p. 54 and else-<lb/>
+where. Where? In the flat area north of building 108 as<lb/>
+stated on P. 54.</p>
+<p>P. 54 90 to 97 in the fall of 1899 and were first occupied early in<lb/>
+1900 (see P. 54)</p>
+<p>108 built about July 1899, I think<lb/>
+106 " by Maj. Brown 1889<lb/>
+109 " " Stark 1901<lb/>
+80 " " Brown March 1889</p>
+<p>All the rest were converted old shacks left by the 2nd Div.<lb/>
+Hospital and moved where we wanted to use them. One became a<lb/>
+receiving ward, other for storage of medical supplies and for<lb/>
+quarters for enlisted men.</p>
+<p>P. 54 That evidently is a typographical error and should be 113-120.<lb/>
+Lambert is wrong as shown my Maj. Brown's sanitary report<lb/>
+for March 1889.</p>
+<p>P. 55 I have answered the most of this in the &ldquo;miscellaneous questions&rdquo;.<lb/>
+However, I now discover a very important mistake in my book.<lb/>
+Lambert gave me the data re the size of the huts and I feel<lb/>
+sure I accepted his figures. You quote him here as saying that<lb/>
+113 and 114 were 7 x 9 ft. I think that is probably about<lb/>
+right, so disregard my figures elsewhere re this. But now<lb/>
+I can see that my figures in the book about the size of 115<lb/>
+and 116 must be wrong because they could not accommodate two<lb/>
+or three yellow fever cases. By looking at that photo of the<lb/>
+huts it is evident, I think, that 118 and 116 are both the<lb/>
+<pb n="7" id="f06412007"/>
+- 6 -<lb/>
+same width but that 118 is longer. So I think therefore that<lb/>
+115 and 116 were about 10 x 12 Ft. Don't you agree? Lambert<lb/>
+can't argue against such evidence as is contained in that<lb/>
+wonderful photo of the huts. Right here let me say that I<lb/>
+shall not discuss any of these things with Lambert. You will<lb/>
+have to do that if you so desire.</p>
+<p>P. 59 Yes.</p>
+<p>P. 60 No. There were troops all over the Island: Santiago, Puerto Principe,<lb/>
+Cienfuegos, Matanzas, Havana and Pinar del Rio. I think you could<lb/>
+get it from Gen. Wood's report<del><unclear>l</unclear></del><add>s</add>.</p>
+<p>P. 60 Either in<add>,</add> or right near the Secundo Cabo.</p>
+<p>P. 61 See P. 97 my book.</p>
+<p>P. 64 Col. C. F. Humphrey.</p>
+<p>P. 69 I think he was still in command of the S. S. Terry and had to<lb/>
+remain there until the ship was decommissioned. <add>He was also at Military<lb/>
+Hospital no. I for a time.</add></p>
+<p>P. 70 Building 106. Lazear's house.</p>
+<p>P. 73 From Gen. Lee's report. Yellow fever epidemics were generally<lb/>
+expected by all the doctors because there were so few cases in<lb/>
+1898-99 and the non-immune population had greatly increased. <add>See also S.D.<lb/>
+P. 91</add></p>
+<p>P. 73 He did bacteriological work for Reed and no doubt examined blood<lb/>
+for anything <del>like</del><add>resembling</add> the parasites of malaria. I don't think he<lb/>
+did any active work on mosquitoes until after the Yellow Fever<lb/>
+Board was organized. I can't amplify.</p>
+<p>P. 73 Yes.</p>
+<p>P. 73 See #8 &ldquo;misc. questions&rdquo;. Reed was <hi>not</hi> with us and I think you<lb/>
+did not interpret Lazear's letter right. &ldquo;<hi>We</hi>&rdquo; meant Mrs. Lazear<lb/>
+and Dr. Lazear.</p>
+<p>P. 75 No scandal. See P. 27.</p>
+<p>P. 74 Yes. Never more; usually on<del>e</del><add>ly</add> one, due to the shortage of regular<lb/>
+Medical Officers.</p>
+<p>P. 75 No. See question P. 27.</p>
+<p>P. 75 Yes from the moment he saw Lazear's work and his laboratory at<lb/>
+our hospital. I can't conceive of using that word &ldquo;<hi>convert</hi>&rdquo;,<lb/>
+for scientists are never converted without <hi>proof</hi>. He may have<lb/>
+said, Major Reed (not Dr. Reed) also believes that the mosquito<lb/>
+theory <hi>may prove</hi> to be right. I don't believe either one of<lb/>
+<pb n="8" id="f06412008"/>
+- 7 -<lb/>
+them could have said anything more positive about the theory<lb/>
+than that. I therefore don't think you can say that they<lb/>
+tentatively accepted it until Lazear got results. Then<lb/>
+Lazear <hi>knew</hi>, and not before. Both were guessing before that<lb/>
+because of mosquito borne malaria and <hi>Carter's splendid<lb/>
+observations</hi>. I feel sure Reed knew about the latter long<lb/>
+before Lazear did for Carter and Reed were friends. I also<lb/>
+think that Reed was interested in the Finlay theory before<lb/>
+Lazear ever heard about it and I think, too, that he was just<lb/>
+as anxious to get to work on the mosquito theory as Lazear<lb/>
+was. However, Reed felt that he <hi>must finish</hi> the bacteriology<lb/>
+test first, as that was nearly done and that work was then in<lb/>
+progress. See Reed's remarks in the Sen. Doc. Frankly, I<lb/>
+can't believe Mrs. Lazear's story quotes Lazear correctly.<lb/>
+<add>See also S. D.<lb/>
+P. 94</add></p>
+<p>P. 76 In the army at that time, it was customary for officers to call<lb/>
+on newcomers or visitors. Reed had many friends in the Corps<lb/>
+and in the whole army. They promptly came to call. Kean for<lb/>
+instance was probably there promptly and may have brought some<lb/>
+of the Cuban doctors from Quemados. Gorgas probably came with<lb/>
+his friends. I can't give any details or name individuals but I know<lb/>
+that we had many visitors while Reed was there. They came to<lb/>
+see him.</p>
+<p>P. 76 He saw its possibilities, probably better than anyone in Cuba, not<lb/>
+excepting Lazear. I don't think anyone knew just what he thought<lb/>
+but notice how promptly he patched together the few details he<lb/>
+could find after Lazear died and expressed his convictions so<lb/>
+quickly about the theory in the Preliminary Report. He did not<lb/>
+go off half cocked. He was then &ldquo;converted&rdquo; to the theory and<lb/>
+reported it as a <hi>fact</hi>. Dr. Finlay <hi>may have come out to call on</hi><lb/>
+Reed with Gorgas or others but I do not know, I don't know of<lb/>
+any conferences Reed may have had. I don't <add>now</add> remember <del>my</del><add>any</add> visit<lb/>
+from Finlay while I was at Columbia Barracks. I don't know if Reed<lb/>
+visited Finlay prior to June 1900 but he certainly had met Finlay<lb/>
+in Havana long before that.<lb/>
+<add>Probably<lb/>
+did.</add></p>
+<p>P. 77 I never knew anything about the two mysteries. I knew the Chief<lb/>
+Clerk, Mr. Jones, and did not like him. He ran all the details of<lb/>
+the office and had more power than he should have had. I disliked<lb/>
+him because he came to Ft. Myer one day and the next day I<lb/>
+received orders to go to Huntsville. When Gen. O'Reilly became<lb/>
+the Surgeon General, Ireland, Kean and others soon took important<lb/>
+matters out of Mr. Jones' hands. Ask Ireland or Kean. I don't<lb/>
+know who J.W.P. could have been. <add>Jones was efficient however.</add></p>
+<pb n="9" id="f06412009"/>
+<p>- 8 -</p>
+<p>P. 78 Not a higher position but a very much more important one in<lb/>
+such a yellow fever center as Havana. As General Ludlow had<lb/>
+robbed Gorgas of the sanitary work connected with the position<lb/>
+of Chief Surgeon of Havana, I think General Wood naturally<lb/>
+gave Gorgas back the sanitary job as the work he was best<lb/>
+fitted for. I think everyone looked at it as a great compli-<lb/>
+ment of Gorgas. The results, too, showed that no matter how<lb/>
+brilliant engineers may be they have their place and it is not<lb/>
+as general sanitary experts. I don't know when Gorgas &ldquo;scoured&rdquo;<lb/>
+Havana but he took the job February 15, 1900 and promptly<lb/>
+organized a very efficient sanitary department. Mosquito work<lb/>
+was not started until after Reed's work was published. Sometime<lb/>
+in March 1901, his mosquito campaign was started. See last<lb/>
+paragraph on P 185.</p>
+<p>P. 79 This information was obtained from Kean's report in General<lb/>
+Lee's annual report which you have. The three soldiers may<lb/>
+have been on duty at Lee's Headquarters or may have been<lb/>
+&ldquo;strikers&rdquo;. The civilians were probably from Lee's Head-<lb/>
+quarters and some married civilian employees from the Post.<lb/>
+There were no married quarters for them so they lived in<lb/>
+Quemados.</p>
+<p>P. 79 The huts were first used by Stark in the Quemados epidemic,<lb/>
+probably in June 1900. I left there May 15 for Quanajay and<lb/>
+the huts were not then in use and never had been in my time.</p>
+<p>P. 79 In the vicinity of Lee's Headquarters and at various homes of<lb/>
+officers where they did odd jobs. I can't give details, of<lb/>
+course.</p>
+<p>P. 79 Yes, officers and their families. The Edmunds family for<lb/>
+instance. Also army civilian personnel and their families.<lb/>
+The soldiers went to the yellow fever camp when they contracted<lb/>
+yellow fever. So did some of the civilians, including women.<lb/>
+<add>all from<lb/>
+the Army</add></p>
+<p>P. 79 I don't know the names of those who died. See Lee's report.<lb/>
+The nurse belonged to Columbia Barracks.</p>
+<p>P. 80 No truth in his statement. See my answers in the &ldquo;misc. questions.&rdquo;</p>
+<p>P. 82 I never met a single supporter of Finlay's theory among Cuban<lb/>
+doctors, but I can't recall any specific conversation with any of<lb/>
+them. See what Reed says in his letter to me (Fig. 26) and my<lb/>
+remarks in the last paragraph, P. 160.</p>
+<p>P. 83 Civil Order No. 5 was issued May 31, 1900. At least 3 weeks before<lb/>
+the Reed Board organized. It was probably Kean's order so you<lb/>
+should ask him. I think, however, that it was simply to get<lb/>
+<pb n="10" id="f06412010"/>
+- 9 -<lb/>
+early and reliable information in yellow fever cases so that<lb/>
+they could be promptly isolated and treated. It had no rela-<lb/>
+tionship to the yellow fever Board but of course it proved to<lb/>
+be most helpful to it.</p>
+<p>P. 84 The municipal government.</p>
+<p>P. 84 I know nothing about those fees.</p>
+<p>P. 85 There was no panic, and nothing like it. Of course everyone<lb/>
+was anxious and worried as no one knew where the disease<lb/>
+would strike next.</p>
+<p>P. 86 I was at <unclear>Q</unclear>uanajay at that time and do not know. The contract<lb/>
+surgeons frequently had to double up for short periods. See<lb/>
+Figure 23, p. 131, my book. The arrangement of Reed's quarters<lb/>
+is shown and the footnote shows where the various doctors were<lb/>
+quartered.</p>
+<p>P, 8<del>7</del><add>8</add> I can't agree with you on this at all. It was essential for<lb/>
+him to finish his work on Sanarelli's organism to answer Wasdin<lb/>
+and Geddings<add>,</add> whose work in Havana was finished<add>,</add> and they had<lb/>
+found the organism in 13 out of 14 cases studied in Havana.<lb/>
+Reed came to Cuba with the intention to also <unclear>[unclear]</unclear> study early<lb/>
+cases of yellow fever so as to meet their findings. Here was<lb/>
+his chance to do this as the epidemic at Quemados furnished<lb/>
+plenty of cases for obtaining blood in early yellow fever.<lb/>
+Even if he had considered the mosquito theory a sure thing<lb/>
+at that time, which of course no one including Lazear did,<lb/>
+Reed could not afford to take a chance and drop his very fine<lb/>
+and almost completed work on Sanaralli's theory in order to<lb/>
+take up such a different line of work as Finlay's theory.<lb/>
+No scientist would do such a think. i.e. leave a thing so<lb/>
+important, half done. Reed and the others knew that Wasdin<lb/>
+and Geedings were wrong, as stated above, but their recent<lb/>
+work in Havana had to be checked mated.</p>
+<p>See my book, p. 38, 39 and 40, also P. 86 and 87. If you put<lb/>
+yourself in Reed's place, after reading what he says there<lb/>
+(Baltimore address) I am sure you would have done just as<lb/>
+Reed did. No conclusions re Reed's opinion of the mosquito theory<lb/>
+can justly be formed because he insisted upon finishing this very<lb/>
+important work before attacking a <hi>theory. Lazear knew</hi> that the<lb/>
+Sanarelli theory was &ldquo;bunk&rdquo;, of course. <hi>Reed knew</hi> it too, but<lb/>
+felt that he must examine the blood of fresh yellow fever cases.<lb/>
+As I have stated before Reed was no doubt as excited about the<lb/>
+prospects of getting positive results with mosquitoes as Lazear<lb/>
+was, but the latter was no doubt <hi>impatient</hi> at doing work that<lb/>
+he knew would show what he, Reed, Carroll and Agramonte already<lb/>
+knew, i.e. that the Sanarelli organism was not the cause of<lb/>
+yellow fever. Reed may have become impatient with Lazear, too,</p>
+<pb n="11" id="f06412011"/>
+<p>- 10 -</p>
+<p>for his attitude. However, as Reed was the Chairman of the<lb/>
+Board it was his duty to plan and direct the work. It was<lb/>
+necessary also to <hi>make arrangements with the Governor before</hi><add>* see below.</add><lb/>
+the mosquito tests on humans could be made. In other words,<lb/>
+Reed was not ready to test Finlay's theory. All this may have<lb/>
+discouraged Lazear and this no doubt was reflected in his<lb/>
+letters to his wife.
+</p>
+<p>I wish you would see if Kean and Ireland don't agree with my<lb/>
+views, just to get this straight. I don't think Reed was<lb/>
+&ldquo;studying malaria&rdquo;. If malaria was reported at Cienfuegos and<lb/>
+if there were any deaths, the Chief Surgeon would promptly<lb/>
+send someone to investigate just as was done in the malaria<lb/>
+report at Pinar. So it was probably a question of yellow<lb/>
+fever and not malaria. You know the Contract Surgeon at<lb/>
+Cienfuegos was not considered reliable. I am only trying to<lb/>
+tell you what I think is right for I am in no way interested<lb/>
+in this matter except to give you my sincere views.</p>
+<p>P. 88 The chances are he sailed on the Sedgwick and that his baggage<lb/>
+went astray, but I do not know of course.</p>
+<p>P. 89 I don't think so, but I don't know.</p>
+<p>P. 89 My remarks on question P. 88 above and elsewhere in this paper<lb/>
+cover this. I would like to see <hi>the extracts from Lazear's letters</hi> &cross;<lb/>
+re this. I doubt if they could convince me, as my background re<lb/>
+the general situation and my knowledge of the two men is pretty<lb/>
+good, I think. P. 103 indicates the &ldquo;deep interest&rdquo; of Lazear, and<lb/>
+Reed was &ldquo;more and more optimistic&rdquo; too. I think that this is all<lb/>
+that you can say with any justice to either one of them.</p>
+<p>P. 91 I don't know. See my remarks elsewhere. <add>also S.D.P. 94, p 107</add></p>
+<p>P. 92 See my book, <hi>2nd printing</hi>, page 94, <hi>note</hi>. I can't add to that and<lb/>
+other references to Neate in my book (see index). I don't know about<lb/>
+survivors. <add>The 2<hi rend="superscript">d</hi> printing of my book has a grey cover instead of maroon.</add></p>
+<p>P. 92 Yes, he was a Hospital Steward (now called Master Sergeant) and<lb/>
+was in Reed's Washington <hi>laboratory</hi> for years. <add>(Army Med. School Laboratory.)</add></p>
+<p>P. 93 This could only have happened in the main laboratory at Columbia<lb/>
+Barracks. As the one at Camp Lazear was small and most carefully<lb/>
+guarded you may be sure.</p>
+<p>P. 94 Neate was the only one I heard about. Of course Reed could not<lb/>
+draw conclusions on such meager &ldquo;controls&rdquo;. His conclusions on<lb/>
+P. 87 and P. 118 show how careful he was in his work.</p>
+<p><add>* I think Reed had already had Wood's consent to take<lb/>
+up Finlay's theory and use volunteers, but before<lb/>
+actually using &ldquo;guinea pigs&rdquo; more definite<lb/>
+arrangements were necessary incl. instructions to Baldwin</add></p>
+<pb n="12" id="f06412012"/>
+<p>- 11 -</p>
+<p>P. 95 His visit to Pinar no doubt made him more optimistic re the<lb/>
+theory. He <hi>had</hi> decided to study Finlay's theory long before<lb/>
+that and of course depended upon real proof before &ldquo;<hi>accepting</hi>&rdquo;<lb/>
+this or any other theory. I <hi>don't agree</hi> with your inference.</p>
+<p>P. 96 I first heard this story at West Point, I think from Stark<lb/>
+himself. While writing my book, Col. Rogers in the S.G. O.<lb/>
+wrote me <hi>Mrs. Stark's version</hi> which I quoted in the book.<lb/>
+I don't believe in the &ldquo;Carroll specimen&rdquo; story at all.</p>
+<p>P. 100 This grand celebration with alcohol was settled by General<lb/>
+Wood and nothing was ever published about it, so I don't want<lb/>
+to say more than I have already said in the book. It was<lb/>
+disgraceful conduct for officers.</p>
+<p>P 101 My date must be right for I had it in my records which you saw<lb/>
+in 1943. <add>Have since found Q.M. report showing <hi>Aug 2 is correct</hi>.</add></p>
+<p>P 104 I quoted Andrus on that I think and do not know why immunes were<lb/>
+not used to keep the insects alive. <add>Have since found reason<lb/>
+on bottom of p. 101 S.D.</add></p>
+<p>P 104 Kean's story is all that I know that is factual. However, the<lb/>
+Board's visit to Finaly in June or early July showed that Reed was<lb/>
+anticipating work on the mosquito theory. So I feel that Reed<lb/>
+must have had a talk with <hi>both</hi> Sternber<del>d</del><add>g</add> and Wood<add>,</add> for he would never<lb/>
+have attempted to infect a human being with yellow fever on his<lb/>
+own responsibility. I may have had more definite information re<lb/>
+this in 1900 but I can't recall anything now. Sternberg naturally<lb/>
+would approve but he had no authority in such matters. The<lb/>
+Governor General did have much authority and he stretched it to<lb/>
+the limit at his own risk. <hi>He won</hi>! A glorious triumph for a Soldier<lb/>
+Doctor! Give him full credit.</p>
+<p>P 106 I had orders to report to the <del>m</del><add>M</add>ilitary Governor for duty and<lb/>
+naturally reported to Col. Havard, his Chief Surgeon. As our<lb/>
+ship entered the harbor late, after office hours, we anchored<lb/>
+and everyone, including myself, <add>were</add> advised to remain aboard until<lb/>
+next morning, September 18.</p>
+<p>P 108 About 6 as a rule. We had one large, long table which would<lb/>
+usually accommodate us all. In case of extra guests we also had<lb/>
+a small table for 4 which could be used. When Reed was there,<lb/>
+I insisted that he sit at the head of the table. I was at his<lb/>
+right. <add>The table would accommodate 8.</add></p>
+<p>P 109 This was all told to me while I ate my lunch and can't specify.<lb/>
+Lazear was a determined man and did what he pleased. He would<lb/>
+not permit Pinto and the others to meddle with him I am sure.</p>
+<p>P 109 I don't know.</p>
+<pb n="13" id="f06412013"/>
+<p>- 12 -</p> 
+<p>P 109 This is Lambert's own statement to me. See &ldquo;miscellaneous questions.&rdquo;<lb/>
+Lazear's illness: When I first saw him on September 18, he was<lb/>
+undressed and in bed. He no doubt had previously continued to<lb/>
+work in his laboratory. I positively wrote to Mrs. Lazear but<lb/>
+I think I mailed it to her Baltimore address. I cannot amplify.<lb/>
+<add>No evidence of work in his quarters.</add></p>
+<p>P 110 It was my responsibility as C. O. I can't remember about Kean's<lb/>
+cablegram from the Surgeon General but no doubt Kean promptly<lb/>
+instructed me accordingly. I think that Ames and I probably<lb/>
+gathered the papers and valuables and that I took care of them.<lb/>
+I also took personal charge of the collection and shipment of<lb/>
+his personal effects. The cablegram is important as confirming<lb/>
+what I said about collecting the papers. I remembered that we<lb/>
+did that and I gave them to Reed but I can give no other details.<lb/>
+Carroll was in no condition to have charge of anything and I expect<lb/>
+Kean told me to keep them. <add>See <del>note</del><add>my remarks</add> in <hi>questionaire</hi> p. 7, (re cablegram)</add></p>
+<p>P 110 Ames no doubt was with Lazear most of the afternoon. At dinner<lb/>
+time we all discussed the case and shortly after that Pinto and<lb/>
+I went with Ames to see Lazear as stated in the book. Ames<lb/>
+handled the case. He may have had some suggestions from Gorgas.</p>
+<p>I was at my quarters when Lazear died and was promptly notified<lb/>
+by Ames. We had been expecting the end for several hours. I<lb/>
+promptly notified Kean by <hi>going to his quarters</hi> or by phone. I<lb/>
+don't know which<add>,</add> but think the former.</p>
+<p>Ames and his helpers (probably one was Mrs. Warner) were constantly<lb/>
+with Lazear the last few hours.</p>
+<p>To the other questions I con't give any positive answers except that<lb/>
+we <hi>did not</hi> embalm the dead in Cuba then. Lazear's body was not<lb/>
+embalmed and did not lie in state. The body was placed in a<lb/>
+casket in the morgue as was customary. Just before the funeral it<lb/>
+was placed on an Artillery Cais<del>cion</del><add>son,</add> the casket covered with a flag.<lb/>
+The funeral procession then started.</p>
+<p>P 110 I am confident that Carroll was still at the yellow fever camp<lb/>
+when Lazear was a patient there. Carroll was a nervous as well<lb/>
+as a physical wreck and mentally far from normal. (I can't tell<lb/>
+you what diagnosis a psychiatrist would have made of his condition.)<lb/>
+Ames may have taken him to the convalescent hut at the yellow<lb/>
+fever camp and marked him quarters. Later he was allowed to come<lb/>
+to his room - still marked quarters. See my remarks elsewhere.<lb/>
+If Carroll saw Lazear at all it must have been at the yellow fever<lb/>
+camp. Carroll's family never came to Cuba.</p>
+<pb n="14" id="f06412014"/>
+<p>- 13 -</p>
+<p>P 111. Col. Baldwin was always agreeable to me as stated elsewhere.<lb/>
+The conversation was a repetition of my talk with the Adjutant.<lb/>
+I wanted the deceased Medical Department personnel to have the<lb/>
+same military funerals as were provided for commissioned officers<lb/>
+even though Contract Surgeons were not commissioned.</p>
+<p>P 112. See answer to P. 110 above. The flag was brought back to the<lb/>
+hospital. See P. 112 my book.</p>
+<p>P 112. Chaplain S. H. Bell. He was a Captain. I don't know definitely.</p>
+<p>P. 112 Perhaps only one, but possibly two.</p>
+<p>P. 112 The caisson and flag, band to play a funeral march, rifle salute,<lb/>
+taps. I don't think there were any flowers at any of our funerals<lb/>
+there at that time. The Presbyterian service was probably used.<lb/>
+Chaplains probably <del><unclear>had</unclear></del><add>used</add> such services too.</p>
+<p>P. 113 Of course I knew the probable cause of Lazear's illness and also<lb/>
+about Carroll and XY. At headquarters nothing was asked about<lb/>
+these cases of yellow fever and they certainly knew nothing of<lb/>
+Lazear's mosquito experiments. Of course, I did not enlighten<lb/>
+them as I knew how careful Lazear had been to keep the matter<lb/>
+secret. I had no instructions from Kean or anyone else re this<lb/>
+as my visit to the Post Headquarters was made on the spur of the<lb/>
+moment to obtain a proper burial service <hi>that afternoon</hi>. I was<lb/>
+not worried, I am sure. Of course, Baldwin and everyone else<lb/>
+found out when the Preliminary Report was published but by that<lb/>
+time I think General Wood had told Baldwin what he wanted re the<lb/>
+mosquito work. I never heard criticism from any officer, but I<lb/>
+believe XY's Troop Commander did start something, but it got<lb/>
+nowhere.</p>
+<p>P. 113 The anxiety was mostly expressed, I think, in the general dis-<lb/>
+cussion of such a scourge as yellow fever and the dread of new<lb/>
+outbreaks. But, as heretofore stated, there was nothing like a<lb/>
+panic.</p>
+<p>P. 114 I don't remember ever to have heard of this story by Lambert. I<lb/>
+know nothing about it. If Lazear's story that he was bitten at<lb/>
+L<unclear>a</unclear>s Animas Hospital on September 13 is correct then Lambert's is<lb/>
+not correct anyway for the incubation period would have been<lb/>
+<hi>5 days</hi>. See P. 68-69 Sen. Doc. Why give an uneducated layman<lb/>
+any serious consideration regarding such ideas?</p>
+<p>P. 115 I think Kean's ideas re this are all taken from his diary and are<lb/>
+factual. I don't think Havard would go to the ship unless he had<lb/>
+business there.</p>
+<pb n="15" id="f06412015"/>
+<p>- 14 -</p>
+<p>P. 115 I can't add to my statements in the book. Neate knew everything<lb/>
+that went on in the laboratory where he had full charge of the<lb/>
+mosquitoes. I think he knew about Carroll and XY but probably<lb/>
+not about Lazear himself.</p>
+<p>P. 116 I still believe that Lazear himself had written Reed the whole<lb/>
+thing about Carroll and XY as soon as he was sure of his results.<lb/>
+The date of his letters to Mrs. Lazear stating that he did not<lb/>
+tell Reed, would be important. Look that up and tell me for I<lb/>
+am interested to know. As far as the Officers at the hospital<lb/>
+are concerned we know that Pinto had been bitten by a test tube<lb/>
+mosquito on the porch of the Officer's quarters. You may be<lb/>
+sure that every Doctor there knew about that. Carroll's bite<lb/>
+was also well advertized among them, I expect. Ames in his<lb/>
+work of taking histories and caring for Carroll and XY also, no<lb/>
+doubt, knew very much about Lazear's work <del>when</del><add>before</add> I arrived. What<lb/>
+they told me is fully stated in the book, P. 108. Lazear gave<lb/>
+out very little information but essential things did leak out as<lb/>
+stated above. This is one reason why Kean knew nothing<add>,</add> but the<lb/>
+doctors at the hospital knew much. All this is interesting and<lb/>
+important. Another reason for Lazear's secrecy is that Reed may<lb/>
+not have given him authority to go ahead with the mosquito work<unclear>.</unclear><lb/>
+This is a possibility that I have thought of often but did not<lb/>
+feel justified in mentioning as it is just a surmise. Certainly<lb/>
+authority to do that work at the Post had not yet been obtained.<lb/>
+Anyway, I believe that Lazear was definitely worried.</p>
+<p>P. 116 I think I accepted the statement re Lazear's work with mosquitoes<lb/>
+from P. 25, Sen. Doc.</p>
+<p>P. 117 There was no evidence of anything like work on <hi>notes</hi> at his quarters.<lb/>
+The notebook was one of those records that had entries from day<lb/>
+to day and not an elaborate thing as Mrs. Warner inferred. Then,<lb/>
+too, how would Mrs. Warner know what Lazear did in his quarters?<lb/>
+Mrs. Warner's other statement in Kelly's book is &ldquo;bunk&rdquo;, too, as<lb/>
+Kean will tell you. So don't credit her statements then, or since,<lb/>
+too highly.</p>
+<p>P. 117 Andrus and the rest of the Hospital Corps detatchment left for<lb/>
+Columbia Barracks very shortly after the troops left on August 2,<lb/>
+1900. I think I have the exact date somewhere but can't find it<lb/>
+right now. By the way, I have found the official sailing date<lb/>
+(in a QM report) of the <hi>Rawlins<add>,</add> August 2, 1900</hi>.</p>
+<p>P. 120 I have never seen an interview by Dean. He might <hi>not</hi> have<lb/>
+considered his other bites important. If he had been asked that<lb/>
+question his answer would have been of real value, other<del>e</del><add>w</add>ise no.</p>
+<pb n="16" id="f06412016"/>
+<p>- 15 -</p>
+<p>P. 121 <hi>Troop B</hi>, 7th U.S. Cavalry, in the main Post. The 8th Infantry<lb/>
+occupied the 13 long barrack buildings in the east end of the post,<lb/>
+the Cavalry and Field Artillery the 11 long buildings in the west<lb/>
+end. <hi>Troop B was in the second building on the east end</hi> of the<lb/>
+Cavalry row.</p>
+<p>P. 122 Pinto had no business there and no doubt felt as I did, that Reed<lb/>
+would prefer to talk to Dean alone. I left as soon as I was sure<lb/>
+that Reed did not need me any more. Reed did not dismiss either<lb/>
+of us.</p>
+<p>P. 122 See above.<lb/>
+I have a picture in my mind of the appearance of the entries in<lb/>
+the notebook especially the entries which were incomplete. However,<lb/>
+I cannot give details. I will know the entries if I ever see them.<lb/>
+<hi>Reed himself</hi> started the insurance story. As I have previously<lb/>
+suggested, I think Reed thought of this when he wondered what<lb/>
+would happen to any insurance which he or other volunteers had in<lb/>
+case of death. Of course Reed did not know if Lazear had insurance<lb/>
+or not. What difference does that make.</p>
+<p>P. 130 See answer to P. 110 above. Also see my book P. 125. Not bed-<lb/>
+ridden. Kept at yellow fever camp until Ames felt it was safe to<lb/>
+let him stay in his own room.</p>
+<p>P. 134 Yes, I think Geo. Carroll has many important papers, even my<lb/>
+Finlay article and many letters. Perhaps a whole file.</p>
+<p>P. 135 The Crook arrived in Havana from New York on October 29 at 6 A.M.<lb/>
+(From official QM report). This information was not available to<lb/>
+me when I wrote my book. I therefore gave the approximate date<lb/>
+of Reed's return.</p>
+<p>P. 135 We therefore saw General Wood on the &ldquo;day after Reed's return<lb/>
+(Oct. 30). See my book, P. 136.</p>
+<p>P. 137 Correct. See P. 138 my book.</p>
+<p>P. 140 They were undoubtedly built by Capt. Goodale, the Columbia Barracks<lb/>
+Quartermaster. The Chief QM gave him the necessary funds and it was<lb/>
+built by his carpenters aided by Cuban labor. This is all from<lb/>
+<hi>memory</hi>, but it must be right, for that is the way things were done<lb/>
+the<del>re</del><add>n</add> Just where you can find any records re this I can't say.</p>
+<p>P. 141 There was no pine lumber except from the U.S.</p>
+<p>P. 144. I can't remember - probably De Poorter and Ames.</p>
+<p>P. 144 The QM office and warehouse (on RR tracks) and the QM dump are<lb/>
+plainly marked on that map. They are about 1 inch from the<lb/>
+bottom and 1 inch from the right side of the map.</p>
+<pb n="17" id="f06412017"/>
+<p>- 1<del>4</del><add>6</add> -</p>
+<p>P. 145 No. I don't recall any such story. This is plain &ldquo;bunk&rdquo;.<lb/>
+Finlay's mosquitoes developed rapidly and I saw then on my<lb/>
+visit when they were thriving (July 20). See my book P. 90.</p>
+<p>P. 146 I haven't the dates but Pinto went mostly for the trip and<lb/>
+probably was back in two weeks. The <hi>October 10th date</hi>, when<lb/>
+Pinto left Cuba for good, is correct.</p>
+<p>P. 147 Moran is wrong. I did not get anything from Kissinger to help<lb/>
+me fix my memory re the statements on P. 147. That was such<lb/>
+a sudden surprise to all of us that it made <del>a</del><add>such a</add> real impression<lb/>
+on me that it can't be shaken. Don't you think that Reed's<lb/>
+statement (P. 98 Sen. Doc.) about &ldquo;The Ohio soldier who<lb/>
+<hi>volunteered</hi>&rdquo; etc. would have specified Moran and not<lb/>
+Kissinger if Moran had actually volunteered first? I have<lb/>
+nothing but respect for Moran and the way he did volunteer<lb/>
+and his fine record since 1900. Possibly he actually thought<lb/>
+he saw Reed first, but how could he be sure Kissinger did not<lb/>
+get there first? I thought Moran used to claim that he and<lb/>
+Kissinger saw Reed together, now you say he volunteered first.</p>
+<p>P. 148 There are many things that can happen which can't be explained<lb/>
+and this is one of them. <hi>Later</hi>, see also P. 102, Sen. Doc.</p>
+<p>P. 148 No comment.</p>
+<p>P. 148 Reed did not want to ask a soldier to risk his life. He never<lb/>
+did like the idea of jeopardizing human lives in such experi-<lb/>
+ments but when General Wood approved it and aided Reed in<lb/>
+getting Spanish immigrants to volunteer he thought they had a<lb/>
+fairly satisfactory solution to the problem. Reed soon found<lb/>
+that the Spaniards were not too satisfactory. So when Kissinger<lb/>
+volunteered, Reed felt more hopeful. His attitude soon became<lb/>
+known and Moran and others volunteered. No one, in my opinion,<lb/>
+asked our enlisted men to take the test. The gratuity may have<lb/>
+appealed to many. Does Moran say that Reed asked him to<lb/>
+volunteer?</p>
+<p>P. 151) This is too personal as you know and I think it is best to leave</p>
+<p>P. 152) it out. It can do no good but many would question it and there-</p>
+<p>P. 152) fore put me in a bad light. I did not want to write my story in<lb/>
+the form I did, but how else could an unknown author, on such a<lb/>
+controversial subject claim to know anything about it? At least<lb/>
+the readers found out that I was there and saw things and had<lb/>
+records to prove the most of them. I am satisfied &ldquo;as is&rdquo;.</p>
+<p>P. 152 He was a real wreck such as you often see after a serious ill-<lb/>
+ness. Besides he was mentally upset if not actually deranged.<lb/>
+<pb n="18" id="f06412018"/>
+- <del>15</del><add>17</add> -<lb/>
+The trip to his laboratory was more than he could stand and<lb/>
+the ambulance helped him frequently.</p>
+<p>P. 153 I am sure the Spanish Consulate would have records of that.<lb/>
+They might even tell you where the immigrants were camped when<lb/>
+first coming to Cuba. I think they were camped near Regla,<lb/>
+probably <hi>Triscornia</hi>. Not Caba&ntilde;a.</p>
+<p>P. 154 Moran may be right. I can't tell from anything I have or from<lb/>
+memory. There was a lot of conflicting opinion on No. 14. I<lb/>
+think that Mrs. Jernegan or her son are living in Virginia.<lb/>
+You might be able to find out where they are by writing to<lb/>
+Dr. Hugh H. Trout, Jefferson Hospital, Roanoke, Va. He wrote<lb/>
+me (1944) a nice letter re my book and said they had Mrs.<lb/>
+Jernegan and her son in the hospital several times.</p>
+<p>P. 154 See &ldquo;Roll of Honor&rdquo; in the Annual Army Register.</p>
+<p>P. 155 I have no record of the date. Stark while oneleave tried to be<lb/>
+ordered to China as I had done earlier. He failed for the same<lb/>
+reason that I did and was sent back to Cuba.</p>
+<p>P. 157 The adult female stegomya. See S. D., P. 136. Not the eggs.<lb/>
+I don't think that I sent him any eggs.</p>
+<p>P. 161 Sen. Doc. P. 80.</p>
+<p>P. 161 I think I quoted Reed. Probably from the S. D., but I can't<lb/>
+find it now. Why don't you make an index of the S. D? You<lb/>
+have <hi>lots of time</hi>!!</p>
+<p>P. 166 Certainly not. I do think that Reed felt that blood injections<lb/>
+might produce more severe attacks. He positively did not like<lb/>
+to give the blood injections. This can, I think, be inferred<lb/>
+from his letters to the Surgeon General.</p>
+<p>P. 173 Andrus. See my book, P. 174 to 177, also Sen. Doc. P. 82.</p>
+<p>P. 174 According to Andrus, <hi>who knew</hi>, it was Thomas M. England.<lb/>
+England simply decided he did not want to take the risk, I<lb/>
+suppose. England was a high class soldier and later on had<lb/>
+a splendid record. Became an officer. Therefore, I did not<lb/>
+feel like mentioning his name in my book. Refusing to take<lb/>
+a test that he <hi>knew</hi> might end fatally does not, I think, reflect<lb/>
+on him seriously. He gave me much help in identifying the men<lb/>
+in the picture, P. 154.</p>
+<p>P. 177 I never knew.</p>
+<pb n="19" id="f06412019"/>
+<p>- 1<unclear><add>8</add></unclear> -</p>
+<p>P. 179 Goldberger is entered in the 2nd printing of my book. Ravanel<lb/>
+called my attention to the error. By the way, the 2nd printing<lb/>
+of the book has several important additions including a list<lb/>
+of illustrations which were omitted by mistake by the publisher.<lb/>
+You should use that instead of the first printing. Am glad to<lb/>
+have the reference, viz. yellow fever Institute Bulletin # 16,<lb/>
+July 1907, P. 5.</p>
+<p>P. 181 No.</p>
+<p>P. 185 &amp;</p>
+<p>P. 185 I don't know. Kean may know.</p>
+<p>P. 191 I am no authority, so can't comment except to say that it worked<lb/>
+for Ames.</p>
+<p>P. 196 He was just one of those fine Chinamen with <add>a</add> good head. A wonderful<lb/>
+cook. He probably came from China to Cuba with the hope of getting<lb/>
+into the U.S. eventually. He was not enlisted. We hired him by<lb/>
+the month.</p>
+<p>P. 198 Yes, Mrs. Warner. Pure &ldquo;bunk&rdquo; as Kean will tell you.</p>
+<p>P. 198 There could be no &ldquo;monkey business&rdquo; when Reed was around,<lb/>
+especially if it was disrespectful, boistrous or vulgar.<lb/>
+He was a trained disciplinarian and could rebuke an offender<lb/>
+in a very quiet but forceful way. Reed demanded respect and<lb/>
+had no trouble in getting it.</p>
+<p>P. 198 I referred there to his work at Camp Lazear; work which was<lb/>
+evidently free and open to anyone in the medical profession.<lb/>
+It was different in August and September when Lazear did<lb/>
+mosquito work <hi>on the Post</hi> and without the CO's permission.<lb/>
+Reed, as you know, did no work with infected mosquitoes <hi>on the<lb/>
+Post</hi>. The C.O. knew what Reed was doing too. Lazear was the<lb/>
+one who did not talk about his mosquito work and that was the<lb/>
+only <hi>secret</hi> of the Board's work from its inception until the<lb/>
+end.</p>
+<p>I don't know that anyone spoke of keeping &ldquo;mum&rdquo; unless it was<lb/>
+Lazear. I never have heard that before, I think.</p>
+<p>P. 201 I suppose a couple of hundred but that is just a guess. When<lb/>
+you return my reprint, can you give me an extra copy of the <unclear>1&cross;</unclear><lb/>
+photostat? I will appreciate it.</p>
+<p>P. 207 Dr. H. M. James was a Contract Surgeon. He had been stationed<lb/>
+at Rowell Barracks for a long time when I joined there and<lb/>
+relieved him as Post Surgeon in November 1900. Havard and Kean,<lb/>
+and therefore Reed who heard about him from the first two, had<lb/>
+no confidence in him. I can't imagine where Lambert knew<lb/>
+James unless it was in 1902 or later when James left Cienfuegos.</p>
+<pb n="20" id="f06412020"/>
+<p>- <del><unclear>18</unclear></del><add>19</add> -</p>
+<p>P. 102 Maj. Borden wanted to <add>be able to</add> talk to a doctor by <add>`</add>phone late at<lb/>
+night and also wanted a doctor to call him at any time if<lb/>
+anything ought to be brought to his attention. Borden was<lb/>
+badly worried about the case and, as there were several<lb/>
+young medical officers there to help, he adopted this plan<lb/>
+to get the best possible information. There were nurses<lb/>
+enough, too, and one was constantly on duty in the room.</p>
+<p>I was not on duty with Reed the last night, but probably the 2nd<lb/>
+or 3rd night after the operation when Reed felt that he should<lb/>
+be improving. Instead of feeling better he was really worse<lb/>
+and realized that fact. When I first appeared at his bedside<lb/>
+he was surprised. &ldquo;Why, Truby, where did you come from?&rdquo; I<lb/>
+explained briefly. Later that evening he said &ldquo;Truby, things<lb/>
+are not going right with me. I should feel better now, but I<lb/>
+seem to be more miserable than ever.&rdquo; <hi>That is the gist of our</hi><add>*</add><lb/>
+conversation. He was very anxious, much worried and greatly<lb/>
+depressed. Major Borden <add>`</add>phone<add>d</add> me in the early eve<del>in</del><add>ni</add>ng and<lb/>
+again about midnight.</p>
+<p>P. 221 Not only a hunch, but I think Reed felt that way from the<lb/>
+unexplained <del>ne</del><add>en</add>tries in the notebook. Besides Lazear was so<lb/>
+intense about getting action that I think he actually wanted<lb/>
+to be the very <hi>first</hi> case. Of course this last statement is<lb/>
+only surmise. But it would be just like Lazear.</p>
+<p>P. 223 Because Lee was in <hi>command</hi> of the Department of <hi>Western Cuba.</hi><lb/>
+Wood commanded the whole of Cuba.</p>
+<p><add>* The quotations are not exact of course but<lb/>
+that is as near as I can remember his<lb/>
+remarks to me. I have no record of this.<lb/>
+I knew what was going on the last<lb/>
+night but I don't think that I was officially<lb/>
+on duty in the room.<lb/>
+<hi>AET</hi></add></p>
+</div1>
+</body>
+</text>
+</TEI.2>

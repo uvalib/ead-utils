@@ -1,0 +1,1103 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04715001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Interview with Paul L. Tate by Philip Showalter Hench, June 21, 1954</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hench, Philip Showalter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04715001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1954-06-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Tate, Paul L.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">de Neidman, W. F.</name>
+<name type="person">Lovejoy, Dr.</name>
+<name type="person">Amador, R. A.</name>
+<name type="person">Godfrey, Guy Charles Moore</name>
+<name type="person">Dextor, [s.n.]</name>
+<name type="person">Lawrence, [s.n.]</name>
+<name type="person">Lind, [s.n.]</name>
+<name type="person">Minor, [s.n.]</name>
+<name type="person">Johnson, [s.n.]</name>
+<name type="person">Smithson, [s.n.]</name>
+<name type="person">McVeigh, [s.n.]</name>
+<name type="person">Fitzgerald, Arnold</name>
+<name type="person">Williams, Major</name>
+<name type="person">Donaldson, Dr.</name>
+<name type="person">Newlove, Dr.</name>
+<name type="person">Persenol, Dr.</name>
+<name type="person">Amador, R. A.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Morris, John S.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Haskins, Arthur</name>
+<name type="person">Schie, Private</name>
+<name type="person">Olsen, William</name>
+<name type="person">Haroldson, [s.n.]</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Arnold, [s.n.]</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">De Larue, [s.n.]</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="place">Berkeley (Calif.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Fredericksburg (Va.)</name>
+<name type="place">Fort Bayard (N.M.)</name>
+<name type="place">Camp Alger (Va.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Richmond (Va.)</name>
+<name type="place">Augusta (Ga.)</name>
+<name type="place">Pinar del Rio Barracks (Cuba) </name>
+<name type="place">Guanajay (Cuba)</name>
+<name type="place">Reading (Pa.)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>24 pp.</extent>
+<date value="1954-06-21">June 21, 1954</date>
+<idno rend="suppress">04715001</idno>
+<title>Interview with Paul L. Tate by Philip Showalter Hench, June 21, 1954</title>
+</bibl>
+</head>
+<p>Tate responds to a series of questions from Hench concerning his recollections about Camp Columbia and the yellow fever experiments.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1954-06-21">
+<head>Interview with Paul L. Tate by Philip Showalter Hench, June 21, 1954</head>
+<pb n="1" id="f04715001"/>
+<p>Interview - Dr. Philip S. Hench with Mr. Paul L. Tate,<lb/>
+June 21, 1954, in San Francisco, California.</p>
+<p>(The questions by Dr. Hench are numbered, but there are<lb/>
+sub-questions which are not numbered)</p>
+<p>
+<list type="ordered">
+<item>1. What is your name and address?<lb/>
+<list type="ordered">
+<item>a. Paul Lambert Tate, 1530 Tyler Street, Berkeley.</item>
+</list></item>
+<item>2. Where were you born, and when?<lb/>
+<list type="ordered">
+<item>a. May 4, 1871 in Washington, D. C.</item>
+</list></item>
+<item>3. What was your occupation before you went to war? You were<lb/>
+a reporter, weren't you?<lb/>
+<list type="ordered">
+<item>a. I was a reporter on the WASHINGTON STAR -- for five<lb/>
+years.</item>
+</list></item>
+<item>What else did you do before you went in the Army?<lb/>
+<list type="ordered">
+<item>a. Well before I went to work on the STAR I worked a<lb/>
+short time in the Railway and Mail Service. I was working<lb/>
+on the STAR when the war broke out.</item>
+</list></item>
+<item>4. <add>a</add> You enlisted in what outfit?<lb/>
+<list type="ordered">
+<item>a. I enlisted first in the 3rd Virginia Volunteers --<lb/>
+an infantry outfit.</item>
+</list></item>
+<item>When did you enlist? And where?<lb/>
+<list type="ordered">
+<item>a. June 6, 1898.</item>
+</list></item>
+<item>In Washington<add>?</add><lb/>
+<list type="ordered">
+<item>a. No. Fredericksburg, Virginia. I had to go down there.<lb/>
+You see I belonged to the District of Columbia National Guard<lb/>
+and they got away before I could get back in them. So in Virginia<lb/>
+1.<lb/>
+<pb n="2" id="f04715002"/>
+-- the old 3rd Virginia was a famous regiment and I thought<lb/>
+sure they'd be sent to the front, so I went down to Fredericks-<lb/>
+burg and enlisted in that--the 3rd Virginai Infantry<lb/>
+(Mr. Tate added the following in concise form: Enlisted<lb/>
+3rd Va. Infty. June 6, 1898; discharged Nov. 6, 1898;<lb/>
+Enlisted Hospital Corps <hi>Nov. 21, 1898</hi>; discharged<lb/>
+at Ft. Bayard, N Mex. Nov 28, 1904--2 terms,<lb/>
+6 years, 5 months continuous service.)</item>
+</list></item>
+<item><add>4 b</add> Where did you have your training?<lb/>
+<list type="ordered">
+<item>a. At Camp Alger, Virginia.</item>
+</list></item>
+<item>5. <add>5</add> When did you go over to Cuba?<lb/>
+<list type="ordered">
+<item>a. I got there -- to Havanna, Dec. 9, 1898 and we went to<lb/>
+Pinar del Rio the same night on the train.</item>
+</list></item>
+<item>What did you do then?<lb/>
+<list type="ordered">
+<item>a. Well, we set up camp that night on arrival.</item>
+</list></item>
+<item>You were in the Infantry then?<lb/>
+<list type="ordered">
+<item>a. No, no, I was in the Hospital Corps I didn't go with the<lb/>
+3rd Virginia Infantry. I got discharged from that Nov. 6, 1898<lb/>
+because they didn't go to the front. I was discharged in<lb/>
+Richmond, Virginia. The war wasn't really over yet, so I heard<lb/>
+they had an ambulance corps at Augusta, Georgia and I went down<lb/>
+there and enlisted in the ambulance corps. It turned out to<lb/>
+be a hospital corps.</item>
+</list></item>
+<item>When was that?<lb/>
+<list type="ordered">
+<item>a. That was <hi>Nov. 30, 1898</hi>.</item>
+</list></item>
+<item>You went over with the hospital corps?<lb/>
+<list type="ordered">
+<item>a. Yes.</item>
+</list></item>
+<item>What outfit? Did they call it the Hospital Corps?<lb/>
+<list type="ordered">
+<item>a. Well, it was commanded by a volunteer, Major De Neidman.<lb/>
+2.</item>
+</list></item>
+<pb n="3" id="f04715003"/>
+<item>Was it just a Hospital Corps?<lb/>
+<list type="ordered">
+<item>a. No, ... there were some troops over there, but I don't<lb/>
+remember who they were. They were a miscellaneous outfit.</item>
+</list></item>
+<item>How many in your outfit?<lb/>
+<list type="ordered">
+<item>a. Well, it was a pretty big outfit. I think there was<lb/>
+about 53, all told.</item>
+</list></item>
+<item>All enlisted men?<lb/>
+<list type="ordered">
+<item>a. No. There was about 53 enlisted men and they had at that<lb/>
+time five doctors and five full stewards and four acting<lb/>
+stewards.</item>
+</list></item>
+<item>Who were the doctors -- remember?<lb/>
+<list type="ordered">
+<item>a. Dr. Lovejoy was one. I was trying to think of the major's<lb/>
+name that commanded it, but I can't think of it.<lb/>
+(Mr. Tate has added the following memorandum: I now have the<lb/>
+names of some of the doctors at Hospital at Pinar del Rio.<lb/>
+Most of these were with us when we encamped there, but most of<lb/>
+of them were detached before the arrival of Capt. Godfrey, so<lb/>
+it won't be of much benefit to you, but I list them:<lb/>
+<list type="simple">
+<item>Major De Neidman (of Volunteers) C.O.</item>
+<item>Major Williams</item>
+<item>Lt. Donaldson</item>
+<item>Lt. Newlove</item>
+<item>Lt. Personol*</item>
+<item>Lt. Cooke (came later)</item>
+<item>Lt. Amador</item>
+<item>Capt. Godfrey<lb/>
+(None of these were Reg. Army except Godfrey)<lb/>
+The Stewards were:<lb/>
+Dextor, Lawrence, Lind, (Head, Non-Com.) Minor &amp; Johnson.<lb/>
+Acting Stewards: Smithson, McVeigh, Arnold Fitzgerald.<lb/>
+(continuing from the interview)</item>
+</list></item>
+</list></item>
+<item>Any officer who was later connected with yellow fever -- <add>?</add><lb/>
+<list type="ordered">
+<item>a. No. They were just temporary -- a lot of volunteers there<lb/>
+and they all left later on.</item>
+</list></item>
+<item>6.<add>#6</add> Now, you're at Pinar del Rio -- you arrived there when?<lb/>
+*different spelling, later<lb/>
+3.<lb/>
+<pb n="4" id="f04715004"/>
+<list type="ordered">
+<item>a. Sept. 9th. -- No, not Sept. 9th, arrived Dec. 9th.</item>
+</list></item>
+<item>What did you do there -- you were a clerk in the Hospital Corps?<lb/>
+<list type="ordered">
+<item>a. Yes. But I wasn't a clerk then. I was just an ordinary<lb/>
+man in the Hospital Corps. I never did any nursing, or<lb/>
+anything like that. I had no special duties, there are lots<lb/>
+of things to be done around a camp. I remember once I worked<lb/>
+in the Cook House, not as a cook, just a helper. I wasn't a<lb/>
+nurse, so I never had anything to do with that.</item>
+</list></item>
+<item>You lived in tents?<lb/>
+<list type="ordered">
+<item>a. Yes, in tents.<lb/>
+(identification of a photograph of the<lb/>
+tent hospital)</item>
+</list></item>
+<item>When did you become a clerk with Capt. Godfrey?<lb/>
+<list type="ordered">
+<item>a. I can't remember but after that we built a hospital,<lb/>
+a big hospital, and Capt. Godfrey came there and took command<lb/>
+of us. It seems to me that was the latter part of 1899 -- I<lb/>
+think it was sometime in the fall.</item>
+</list></item>
+<item>7. <add>#7</add> How many soldiers, roughly, were there <del>?</del><add>in Pinar del Rio?</add><lb/>
+<list type="ordered">
+<item>a. I don't know. There were a lot of them. I don't know<lb/>
+whether it was all of the 1st Infantry. There must have been<lb/>
+about 1000. 700 of the 1st Infantry. We had to chase bandits<lb/>
+over the mountains so they brought Mountain Batteries and pack<lb/>
+mules from the United States. Most of the time there were<lb/>
+between two and three thousand soldiers.</item>
+</list></item>
+<item>Were they in tents always?<lb/>
+<list type="ordered">
+<item>a. All tents.</item>
+</list></item>
+<item>What was the size of the town? (Pinar del Rio)<lb/>
+<list type="ordered">
+<item>a. I'd say -- I'd guess between five and ten thousand.<lb/>
+4.<lb/>
+<pb n="5" id="f04715005"/>
+(Note: Dr. Hench was told in Pinar by a man who lived there,<lb/>
+that there were about 12,000 in 1900)</item>
+</list></item>
+<item>I am interested now in the epidemic. Can you tell me when you<lb/>
+first saw Dr. Cooke?<lb/>
+<list type="ordered">
+<item>a. Dr. Cooke was a doctor in the 1st Inf. -- he wasn't<lb/>
+connected with the hospital.</item>
+</list></item>
+<item>When did he come?<lb/>
+<list type="ordered">
+<item>a. I don't know -- I can't remember. I know he was with<lb/>
+the 1st Inf. and then he came over and was attached to the<lb/>
+hospital and then the next time I saw him, he was in<lb/>
+Columbia Barracks.</item>
+</list></item>
+<item>So you don't remember anything about Dr. Cooke? In Pinar del Rio?<lb/>
+<list type="ordered">
+<item>a. No.</item>
+</list></item>
+<item>8. <add>#8</add> Tell us about the epidemic of yellow fever that began in the<lb/>
+spring of 1900. According to my notes Dr. Gen. Truby P 94 &check;<lb/>
+said it began about April 20th and was still going the middle<lb/>
+of July. <add>July 16, 1900</add><lb/>
+<list type="ordered">
+<item>a. There was a peculiar situation. All of a sudden there<lb/>
+were a lot of extra deaths. They weren't diagnosed yellow<lb/>
+fever. A lot of us knew it was yellow fever ......</item>
+</list></item>
+<item>Now, wait a minute, why do you say you knew it was yellow fever?<lb/>
+<list type="ordered">
+<item>a. Because we were in town so much and there they made<lb/>
+no secret of it. When they had a case of yellow fever,<lb/>
+some new Spaniard had moved in there and had yellow fever.</item>
+</list></item>
+<item>Did you speak Spanish?<lb/>
+<list type="ordered">
+<item>a. I knew enough to get along.<lb/>
+5.</item>
+</list></item>
+<pb n="6" id="f04715006"/>
+<item>So, in town you heard of yellow fever -- it's called &lsquo;vomito negro&rsquo;?<lb/>
+<list type="ordered">
+<item>a. I was around town and in the bars, and I knew enough<lb/>
+Spanish to understand people and I heard them speaking about<lb/>
+people in town, Spanish immigrants, who had vomito negro;<lb/>
+and so I knew there was yellow fever in town.</item>
+</list></item>
+<item>Do you remember when it was?<lb/>
+<list type="ordered">
+<item>a. That's too long ago -- I don't remember -- sometime in<lb/>
+the summer, I imagine.</item>
+</list></item>
+<item>Then you say, suddenly a lot of soldiers began to get sick, and<lb/>
+they came to the hospital, and it was called malaria?<lb/>
+<list type="ordered">
+<item>a. They called it &lsquo;pernicious&rsquo; malaria.</item>
+</list></item>
+<item>But you knew, and you think many of the enlisted men were certain<lb/>
+it was yellow fever?<lb/>
+<list type="ordered">
+<item>a. Yes.</item>
+</list></item>
+<item>Were you upset by it?<lb/>
+<list type="ordered">
+<item>a. No. Well, some of them were, because fellows who were<lb/>
+new down there were awful scared of yellow fever. I know<lb/>
+I was when I first went there, but after a while I got<lb/>
+used to it, and didn't bother any more about it. The<lb/>
+reason I know it was in town was this: When we found out<lb/>
+it was yellow fever, they put a quarentine on between the<lb/>
+town and the camp. I heard fellows talking in the hospital,<lb/>
+saying what's the use of a quarantine -- we've got yellow<lb/>
+fever, they've got yellow fever in Pinar del Rio ----<lb/>
+6.</item>
+</list></item>
+<pb n="7" id="f04715007"/>
+<item>In other words, the quarantine was to protect the camp, not the<lb/>
+city -- the quarantine meant that the soldiers could not go<lb/>
+to the town because of the yellow fever?<lb/>
+<list type="ordered">
+<item>a. Yes.</item>
+</list></item>
+<item>Now, do you remember when it was that they found there was<lb/>
+yellow fever there? Was that after Dr. Agramonte came, or<lb/>
+before?<lb/>
+<list type="ordered">
+<item>a. We knew before....a lot of men......</item>
+</list></item>
+<item>When did they quarantine --- when was the quarantine put on?<lb/>
+After Agramonte came?<lb/>
+<list type="ordered">
+<item>a. After Agramonte came.</item>
+</list></item>
+<item>The point is this --- after Agramonte came there, finally the<lb/>
+doctors learned that it was yellow fever. And then there was<lb/>
+a quarantine put on against the town?<lb/>
+<list type="ordered">
+<item>a. Yes, Sir.</item>
+</list></item>
+<item>To keep the soldiers from going down town to Pinar del Rio? But<lb/>
+the soldiers laughed about this because they knew there was as<lb/>
+much yellow fever in the camp as there was down town -- right?<lb/>
+<list type="ordered">
+<item>a. There wasn't so much down town because the Cubans<lb/>
+didn't get it -- when the Spaniards came in, they got it.</item>
+</list></item>
+<item>Now, even before that, the soldiers in the hospital .....<lb/>
+<list type="ordered">
+<item>a. Knew all about it. They were sure it was yellow fever.</item>
+</list></item>
+<item>Did you discuss that with the doctors -- did you ask the doctors<lb/>
+whether this was yellow fever?<lb/>
+7.<lb/>
+<pb n="8" id="f04715008"/>
+<list type="ordered">
+<item>a. No, -- oh, no, we wouldn't ask the doctors that.</item>
+</list></item>
+<item>You wouldn't have had the nerve to do that?<lb/>
+<list type="ordered">
+<item>a. No.</item>
+</list></item>
+<item>And you attended many post mortems, did you?<lb/>
+<list type="ordered">
+<item>a. Oh, yes.</item>
+</list></item>
+<item>Was that before Agramonte came?<lb/>
+<list type="ordered">
+<item>a. Before Agramonte came.</item>
+</list></item>
+<item>And they were done by Capt. Godfrey?<lb/>
+<list type="ordered">
+<item>a. Yes.</item>
+</list></item>
+<item>Now, about these post mortems -- did you know it was yellow<lb/>
+fever?<lb/>
+<list type="ordered">
+<item>a. I didn't know anything about it then.</item>
+</list></item>
+<item>When you knew there was yellow fever there, by that time you<lb/>
+weren't scared by it? Why was that?<lb/>
+<list type="ordered">
+<item>a. Oh, I don't know. There's so much of it, you just<lb/>
+get used to it. There's so much disease there in Pinar<lb/>
+del Rio, as long as you stay well for a long time you male?<lb/>
+never bothered anything about it. None of the nurses female?<lb/>
+ever got it.</item>
+</list></item>
+<item>Was there any panic among the troops?<lb/>
+<list type="ordered">
+<item>a. I don't know -- I couldn't tell you that</item>
+</list></item>
+<item>Was there any panic among the Cubans themselves?<lb/>
+<list type="ordered">
+<item>a. No.<lb/>
+8.</item>
+</list></item>
+<pb n="9" id="f04715009"/>
+<item>Was there any panic among the hospital corps personnel?<lb/>
+<list type="ordered">
+<item>a. I don't remember. I don't think so.</item>
+</list></item>
+<item>Was there any concern -- were they worried?<lb/>
+<list type="ordered">
+<item>a. No -- I don't think so. I'll give you one illustration<lb/>
+as to why I don't think so. Shortly before they had yellow<lb/>
+fever, they wanted to get three volunteers to go to Guanajay<lb/>
+where they had a lot of yellow fever. The first sergeant<lb/>
+came out and had us in line and he said they had yellow<lb/>
+fever at Guanajay and he said he would never send a nurse<lb/>
+there unless there were volunteers to nurse yellow fever.<lb/>
+They wanted three nurses to volunteer. He turned his eyes<lb/>
+left for a second, and while he did so, every man in the<lb/>
+outfit stepped forward and he was one of those tough guys,<lb/>
+and he looked around and said, &ldquo;Well, you all want to be<lb/>
+heroes, eh! Darned good thing, because I wouldn't trust<lb/>
+some of you to nurse a cat, now I can pick three good<lb/>
+nurses&rdquo; .... I stepped forward too, and I had no idea of<lb/>
+nursing yellow fever, but I knew they wouldn't take me<lb/>
+anyhow.</item>
+</list></item>
+<item>You don't remember who they chose?<lb/>
+<list type="ordered">
+<item>a. No.</item>
+</list></item>
+<item>9. <add>#9</add> Now, Dr. Agramonte--he came on July 19th--tell us about that.<lb/>
+<list type="ordered">
+<item>a. I remember him because he went through the ward with<lb/>
+Capt. Godfrey and I went along with them to take any<lb/>
+notes Capt. Godfrey wanted to make. It's the only ...<lb/>
+it was the first time I had seen Agramonte. And I<lb/>
+9.<lb/>
+<pb n="10" id="f04715010"/>
+noticed the funny way he looked at some of those patients.<lb/>
+He knew they had yellow fever, and then he would glance<lb/>
+at Capt. Godfrey and he had such a funny quizzical look<lb/>
+on his face -- wondering how he could miss that -- how<lb/>
+he could call it anything but yellow fever -- that was<lb/>
+the impression I got.</item>
+</list></item>
+<item>Capt. Godfrey was still calling it malaria -- and you knew that<lb/>
+it was yellow fever ---<lb/>
+<list type="ordered">
+<item>a. Well, I wasn't certain. I had a good idea that a lot<lb/>
+of it was yellow fever. I wouldn't know that all of it was.</item>
+<item>Now, did all of the personnel in the hospital have the same<lb/>
+notion? Did they think it was possibly yellow fever?</item>
+<item>a. I couldn't tell you that.</item>
+</list></item>
+<item>But you did?<lb/>
+<list type="ordered">
+<item>a. I knew it, and a lot of others did. You know you<lb/>
+associate with a certain number and you know what they<lb/>
+think, but there are others that you are not around and<lb/>
+you don't know what they think.</item>
+</list></item>
+<item>But you suspected some of it was yellow fever, and so you knew<lb/>
+what Capt. Agramonte meant by the funny look on his face?<lb/>
+<list type="ordered">
+<item>a. Yes, sure I could see that he was surprised that<lb/>
+Capt. Godfrey didn't see that it was yellow fever.</item>
+</list></item>
+<item>Do you know anything about conversation between Agramonte and Godfrey?<lb/>
+<list type="ordered">
+<item>a. No. I remember nothing they said.<lb/>
+10.<lb/>
+<pb n="11" id="f04715011"/>
+Identification of photographs:<lb/>
+Can you locate on the map where the hospital was? --- Mr. Tate<lb/>
+says that the tent hospital was rather far behind, over half a<lb/>
+mile behind and to the left of the cuartel. The wooden hospital<lb/>
+was nearer the cuartel and on the right of the tent hospital.<lb/>
+---------<lb/>
+Discussion of John Morris. Mr. Tate thinks he lives (if still<lb/>
+alive) at 230-1&sol;2 Cedar Street, Reading, Pa. He (Morris) enlisted<lb/>
+in the Hospital Corps. He worked down at Camp Lazear. Mr. Tate<lb/>
+thought that would show in the general orders which he handled.<lb/>
+-----------</item>
+</list></item>
+<item>Now, can you tell us anything more about Dr. Agramonte?<lb/>
+<list type="ordered">
+<item>a. No, nothing more about Agramonte.</item>
+</list></item>
+<item>Was there any comment among the soldiers or the doctors about<lb/>
+what he told them, that it was yellow fever?<lb/>
+<list type="ordered">
+<item>a. I don't remember.</item>
+</list></item>
+<item>How soon did Capt. Godfrey give indication that he knew now that<lb/>
+it was yellow fever -- right away -- the next day?<lb/>
+<list type="ordered">
+<item>a. Right away. He put on a quarantine.</item>
+</list></item>
+<item>When?<lb/>
+<list type="ordered">
+<item>a. Right after Agramonte left -- the next day.</item>
+</list></item>
+<item>That's when they put a quarantine against the whole camp?<lb/>
+<list type="ordered">
+<item>a. Yes. We had a quarantine on the hospital that we weren't<lb/>
+to go to town or go out of there anywhere. So, of course, he<lb/>
+knew it was yellow fever then.</item>
+</list></item>
+<item>The whole camp was quarantined?<lb/>
+<list type="ordered">
+<item>a. Oh, yes.<lb/>
+11.</item>
+</list></item>
+<pb n="12" id="f04715012"/>
+<item>And you think that was the next day?<lb/>
+<list type="ordered">
+<item>a. Yes.</item>
+</list></item>
+<item><add>#10</add> Now, do you remember that two or three days later on July 21st<lb/>
+Reed and Lazear came down? <add>No. PSH</add><lb/>
+<list type="ordered">
+<item>a. I don't remember anything except I know it must have<lb/>
+been two or three days after that Reed was there. He was<lb/>
+in Godfrey's office -- I didn't see Lazear though.</item>
+</list></item>
+<item>Do you remember anyone else with Reed?<lb/>
+<list type="ordered">
+<item>a. No.<lb/>
+(Dr. Hench relating to Mr. Tate the incident of the letter which<lb/>
+indicated that Lazear was there also) <add>Error - Lazear went alone<lb/>
+the week of July 30 as per<lb/>
+his letter of Aug 5<lb/>
+&amp; of Jul 29<lb/>
+<unclear>to</unclear> his mother (see my copies of her letters)</add><lb/>
+(Mr. Tate) I was interested in people coming down because<lb/>
+I would take the telephone messages and then all of them<lb/>
+went to Godfrey's office and I was always in Godfrey's office;<lb/>
+I know Agramonte was in there and I know Reed came, and<lb/>
+Lazear may have, too -- I wouldn't swear -- it's a long<lb/>
+time ago.</item>
+</list></item>
+<item>Did Reed make rounds with Godfrey?<lb/>
+<list type="ordered">
+<item>a. Yes. He went through the whole place.</item>
+</list></item>
+<item>Did you go along?<lb/>
+<list type="ordered">
+<item>a. Yes.</item>
+</list></item>
+<item>Now, why did you go with them?<lb/>
+<list type="ordered">
+<item>a. I went with Godfrey so I could take notes of anything<lb/>
+Godfrey wanted to tell me.</item>
+</list></item>
+<item>And you made rounds with Reed and Godfrey?<lb/>
+<list type="ordered">
+<item>a. Yes.<lb/>
+12.</item>
+</list></item>
+<pb n="13" id="f04715013"/>
+<item>Was there anyone else with you?<lb/>
+<list type="ordered">
+<item>a. I don't remember that there was.</item>
+</list></item>
+<item>But you wouldn't say there wasn't?<lb/>
+<list type="ordered">
+<item>a. I wouldn't say there wasn't -- there's a possibility ....</item>
+</list></item>
+<item>You went with Reed and Godfrey and took notes or did any little<lb/>
+errands they wanted?<lb/>
+<list type="ordered">
+<item>a. Yes.</item>
+</list></item>
+<item>Do you remember any of the conversation -- do you remember what<lb/>
+Reed said to Godfrey?<lb/>
+<list type="ordered">
+<item>a. No. Only one thing I do have a kind of dim remembrance<lb/>
+of -- Agramonte went through every ward and was quite a long<lb/>
+while going around. He inspected every patient and I remember<lb/>
+going around with Reed it was more of a fast walk. He didn't<lb/>
+pay so much attention to everyone of them.</item>
+</list></item>
+<item>Now, did Dr. Reed go over in the post morten room at all?<lb/>
+<list type="ordered">
+<item>a. I don't know.</item>
+</list></item>
+<item>Do you remember anything more about the visit of Dr. Reed?<lb/>
+<list type="ordered">
+<item>a. No, that's all I remember.</item>
+</list></item>
+<item>As far as you know, he was there only one day?<lb/>
+<list type="ordered">
+<item>a. Yes.</item>
+</list></item>
+<item>You didn't hear of any angry remarks?<lb/>
+<list type="ordered">
+<item>a. No.</item>
+</list></item>
+<item>Did <add>any</add> other clerk make rounds?<lb/>
+<list type="ordered">
+<item>a. There were no other clerks.</item>
+</list></item>
+<item>11. When did you become clerk?<lb/>
+<list type="ordered">
+<item>a. I couldn't tell you exactly. I wasn't clerk until the built<lb/>
+the big hospital --- I think I was working in the pharmacy<lb/>
+and Godfrey picked me for his clerk, wanted me to do<lb/>
+13.<lb/>
+<pb n="14" id="f04715014"/>
+some clerical work for him.</item>
+</list></item>
+<item>Was that in the spring of 1900?<lb/>
+<list type="ordered">
+<item>a. I don't remember --- it was shortly after that hospital<lb/>
+was built -- very shortly.</item>
+</list></item>
+<item>How long were you clerk -- how many months?<lb/>
+<list type="ordered">
+<item>a. Well, I was clerk all the way through until I was<lb/>
+transferred -- it was from the time they built that new<lb/>
+hospital, but, of course, I don't know exactly when that<lb/>
+was built.</item>
+</list></item>
+<item><add>#11</add> Now, we're back to question 11. What were the attitudes<lb/>
+of the doctors and the nurses, the soldiers and the Hospital<lb/>
+Corps men when they learned that it was yellow fever?<lb/>
+<list type="ordered">
+<item>a. I don't think there was any particular notice taken of it.<lb/>
+I don't think anybody paid much attention -- they just knew it<lb/>
+was yellow fever, and that's all. They had so many diseases<lb/>
+there that they didn't bother whether it was yellow fever or ...<lb/>
+they had smallpox there, and many tropical diseases.</item>
+</list></item>
+<item>Were there many soldiers that died of yellow fever there?<lb/>
+<list type="ordered">
+<item>a. Yes, there were quite a few.</item>
+</list></item>
+<item>What do you mean by quite a few?<lb/>
+<list type="ordered">
+<item>a. I couldn't tell you. It kept us busy getting wooden<lb/>
+coffins -- the dead house was just piled up.</item>
+</list></item>
+<item>What do you mean, they kept you busy getting coffins?<lb/>
+<list type="ordered">
+<item>a. Wooden boxes.</item>
+</list></item>
+<item>You had to go down where? The quartermasters, and bring them up<lb/>
+to the hospital?<lb/>
+<list type="ordered">
+<item>a. I suppose so.<lb/>
+14.</item>
+</list></item>
+<pb n="15" id="f04715015"/>
+<item>You had to do some of that?<lb/>
+<list type="ordered">
+<item>a. No, I didn't have to -- I saw them there. The reason<lb/>
+that's called to my attention, one morning I went down<lb/>
+and passed by the dead house early and there was a doctor<lb/>
+there, he had a long black beard -- I forget his name<lb/>
+(added by Mr. Tate -- his name was Persenol)* and he had<lb/>
+been working all night, and he looked tired out, and he was<lb/>
+sitting there. He said something to me about -- he put his<lb/>
+hands back on those coffins -- and said it was such a shame<lb/>
+that those men had to die. And I got an idea that the<lb/>
+doctor thought that this was yellow fever and if they had<lb/>
+treated them for yellow fever they might not have died.</item>
+</list></item>
+<item>Now, was there any criticism among the hospital corps, among your-<lb/>
+selves, of Dr. Godfrey or the other doctors there?<lb/>
+<list type="ordered">
+<item>a. No. I didn't ever hear any.</item>
+</list></item>
+<item>The men didn't say, for instance -- &ldquo;if they had only had some<lb/>
+intelligent doctors&rdquo; ...<lb/>
+<list type="ordered">
+<item>a. No. In the Army at that time, you took everything as<lb/>
+it came. There wasn't any criticism.</item>
+</list></item>
+<item>Did you every hear any criticism of Dr. Godfrey later?<lb/>
+<list type="ordered">
+<item>a. No.</item>
+</list></item>
+<item>When you went over to Camp Columbia, did you ever hear any<lb/>
+criticism?<lb/>
+<list type="ordered">
+<item>a. No, I never heard anything there.</item>
+</list></item>
+<item>12 <add>#12</add> This question is regarding the identification of various photographs.<lb/>
+<hi>Photo No. 1</hi>. Parque Central - Pinar del Rio. No comment.<lb/>
+15.<lb/>
+*This name is spelled differently on a previous page and I do not<lb/>
+know which is correct, so merely call attention to the difference. C.B.<lb/>
+<pb n="16" id="f04715016"/>
+<hi>Photo No. 2</hi> - Camp, 1st Inf. Does it mean anything to you? No.<lb/>
+Comment re No. 2: Mr. Tate thinks that on the right is west<lb/>
+and that the tent hospital was across the road behind the<lb/>
+photographer.<lb/>
+<hi>Photo No. 3</hi> - This is the hospital where they had the yellow fever<lb/>
+patients?<lb/>
+<list type="ordered">
+<item>a. That's the one I don't remember. They evidently moved them<lb/>
+after Reed was down there, but I don't remember.</item>
+</list></item>
+<item>(Photo No. 3 is the hospital for yellow fever victims and Mr. Tate be-<lb/>
+lieves, or assumes that this was erected after Walter Reed and the<lb/>
+others identified the illness as yellow fever, and they moved them out<lb/>
+of the wooden hospital into the tents.)<lb/>
+You don't remember where this was?<lb/>
+Photo #4 was the old Quartel or garrison. Who lived in here?<lb/>
+<list type="ordered">
+<item>a. the 1st Inf......This was occupied by Spanish troops and<lb/>
+they moved out and we finally got it cleaned up and the 1st Inf.<lb/>
+moved in.</item>
+</list></item>
+<item>When was it occupied by Spanish troops?<lb/>
+<list type="ordered">
+<item>a. It was occupied up to shortly before we got there. And<lb/>
+when we reached Havanna, the Spanish troops were still there, you<lb/>
+know. They had moved out of this and gone down to Havanna. So this<lb/>
+wasn't occupied at that time.</item>
+</list></item>
+<item>When you got there, there were no Spanish troops?<lb/>
+<list type="ordered">
+<item>a. That's right, they were all gone.</item>
+</list></item>
+<item>So in 1897 this was occupied by Spanish troops?<lb/>
+<list type="ordered">
+<item>a. Yes.<lb/>
+16.</item>
+</list></item>
+<pb n="17" id="f04715017"/>
+<item>When did the 1st Inf. move in?<lb/>
+<list type="ordered">
+<item>a. Somewhere around the time that the hospital was built.</item>
+</list></item>
+<item>You didn't live there?<lb/>
+<list type="ordered">
+<item>a. No, I never lived there. They wanted to get the troops out<lb/>
+of the field before the winter rains came.</item>
+</list></item>
+<item><hi>Photo 5</hi> - Quartel, Doherty wagon marked with Red Cross standing in front.<lb/>
+<add>#13</add> (Mr. Tate) The infantry had Doherty wagons, but not marked with<lb/>
+Red Cross, those were ambulances. There was a wall, but the<lb/>
+windows were boarded up. Three downstairs windows where the<lb/>
+Doherty wagon is, between three arched entrances on the left and two<lb/>
+&check; large doors on the left. These three windows were in the <del>Quartel</del><add>Carcel</add>. The<lb/>
+one just behind and to the left of the Doherty wagon, with the bars<lb/>
+(otherwise unprotected) was in the sentry room.<lb/>
+(Mr. Tate replying to a question about distance as indicated<lb/>
+in the photo): It was about 20 feet from the outer wall to<lb/>
+the inner or courtyard wall. The two windows behind the wagon<lb/>
+were the two outer windows of the <del>Quartel</del><add>Carcel</add>. The windows were<lb/>
+boarded up and inside there was a board partition between the<lb/>
+prisoners and the two windows right behind the wagon, to stop<lb/>
+people passing anything in to them such as liquor or knives.<lb/>
+There were Army cots in there. The number of cots varied depend-<lb/>
+ing on the number of prisoners. There was room for 15 to 20<lb/>
+prisoners. They slept here, but during the day, they were worked.<lb/>
+The door to the right of the wagon was the door to a corridor.<lb/>
+(So far as Mr. Tate knows, this door did not lead directly to the<lb/>
+prisoners' room, he always entered through the middle of the<lb/>
+three arched gates.) Upstairs were officers' quarters, offices,<lb/>
+court martial hearing rooms. The first floor was<lb/>
+occupied by some of the infantry ...........<lb/>
+17.</item>
+<pb n="18" id="f04715018"/>
+<item><hi>Photo 6</hi><lb/>
+Inner court, view of the quadrangle. Mr. Tate says we are<lb/>
+looking at the back end. He remembers the water tank in the<lb/>
+rear of the quartel.</item>
+<item><hi>Photo 7</hi><lb/>
+Behind the quartel and perhaps shows infantry quarters.</item>
+<item><hi>Photo 8</hi><lb/>
+Mr. Tate has no recollection of this one -- nothing to do<lb/>
+with yellow fever story.</item>
+<item><hi>Photo 9</hi><lb/>
+No recollection.</item>
+<item>13 Discussion of the words quartel and carcel (carcel is same as<lb/>
+guard house -- the carcel was in the quartel.<lb/>
+What was the usual cause of imprisonment:<lb/>
+<list type="ordered">
+<item>a. Absent without leave, drinking, fighting.</item>
+</list></item>
+<item>What was the usual length of imprisonment:<lb/>
+<list type="ordered">
+<item>a. It all depended on the officer who heard the case.<lb/>
+Summary court martial usually meant 30 days and 30 dollars.<lb/>
+General court martial was much more serious.</item>
+</list></item>
+<item>14 <add>14)</add> What did you hear about the incident of the prisoner who got sick<lb/>
+with yellow fever?<lb/>
+Mr. Tate replied that he has no recollection about Private<lb/>
+Haskins who died, or Private Schie. Both of these men got<lb/>
+yellow fever while they were in the guardhouse. Haskins died<lb/>
+on the 15th of July, 1900 and Schie survived. Mr. Tate recalls<lb/>
+nothing about these individual cases but report No. 40988<lb/>
+is in his handwriting.<lb/>
+18.</item>
+<pb n="19" id="f04715019"/>
+<item>15 <add>15)</add> You told me there were five other men with you at Pinar del Rio who<lb/>
+went with you from there to Camp Columbia. Who were they?<lb/>
+<list type="ordered">
+<item>a. Private Williamson,<lb/>
+William Olsen (17)<lb/>
+<add>The numbers refer to those in the photo<lb/>
+<unclear>p</unclear> of Gen. Truby's book.</add><lb/>
+John Morris (15)<lb/>
+Haroldson (26)<lb/>
+(Jernegan not in picture referred to)<lb/>
+Acting Hospital Steward Arnold (9)<lb/>
+(Five, for sure, probably Jernegan)<lb/>
+(The above served with Mr. Tate in the hospital, went to Pinar<lb/>
+del Rio with him and from there to Columbia Barracks.</item>
+</list></item>
+<item>16 When did you go from Pinar del Rio to Columbia?<lb/>
+<list type="ordered">
+<item>a. I arrived Sept 9, 1900 at Columbia Barracks. Went by train.<lb/>
+We left in the morning and arrived that night.</item>
+</list></item>
+<item>Why did you go there?<lb/>
+<list type="ordered">
+<item>a. The reason we were up there in the first place, after the<lb/>
+war there were a lot of bandits in the mountains, on the other<lb/>
+side, and they would come up these mountain trails and attack<lb/>
+the interior and then go back. The Spanish soldiers could<lb/>
+never get them because they couldn't get over those trails and<lb/>
+we couldn't get them either until we sent to the United States<lb/>
+and got mountain batteries and pack trains and pack mules and<lb/>
+went out after them. Then I suppose we wiped all of them out,<lb/>
+and with this yellow fever business there was no use in having<lb/>
+an army there.</item>
+</list></item>
+<item>Did the whole hospital break up then?<lb/>
+<list type="ordered">
+<item>a. Yes, it all broke up.</item>
+</list></item>
+<item>The whole hospital unit broke up the day you left?<lb/>
+<list type="ordered">
+<item>a. I don't know if it was the same day.<lb/>
+19.</item>
+</list></item>
+<pb n="20" id="f04715020"/>
+<item>17 Where did you live at Camp Columbia?<lb/>
+<list type="ordered">
+<item>a. I lived in a barracks. In one of the two hospital barracks<lb/>
+(#102, Truby (51) which was connected to No. 103 by a board<lb/>
+walk with railing and steps from the board walk down to the<lb/>
+ground.</item>
+</list></item>
+<item>How many in a room?<lb/>
+<list type="ordered">
+<item>a. I don't remember. Probably 20.</item>
+</list></item>
+<item>18 What were your duties at Camp Columbia?<lb/>
+<list type="ordered">
+<item>a. I was a hospital clerk.</item>
+</list></item>
+<item>For whom?<lb/>
+<list type="ordered">
+<item>a. For the commanding officer.</item>
+</list></item>
+<item>When did you leave Columbia Camp?<lb/>
+<list type="ordered">
+<item>a. August 11, 1901.</item>
+</list></item>
+<item>You were clerk for the commanding officer all the time?<lb/>
+<list type="ordered">
+<item>a. (I don't have that answer but believe it was &lsquo;yes&rsquo;)</item>
+</list></item>
+<item>Who was the commanding officer?<lb/>
+<list type="ordered">
+<item>a. I am talking about when I first got there -- Stark had<lb/>
+gone and Pinto was commanding officer, then Lt. Truby taking<lb/>
+Stark's place and then when Stark came back......Wait a<lb/>
+minute, there was somebody after Stark because Stark had<lb/>
+a nervous breakdown and left -- and that was shortly before<lb/>
+I left, there was someone else in charge for a month or so,<lb/>
+I don't know who it was, maybe Major Kean. Major Kean was at<lb/>
+the hospital but what he did I don't remember because he was<lb/>
+chief surgeon of that department; I think, he ran the hospital<lb/>
+for a while.<lb/>
+20.</item>
+</list></item>
+<pb n="21" id="f04715021"/>
+<item>Can you give me anything about the personality of Jernegan or Olsen,<lb/>
+or any of those people?<lb/>
+<list type="ordered">
+<item>a. Olsen was a very placid disposition, good-natured,<lb/>
+competent, and a fine soldier.<lb/>
+Morris was a short, fat man, of a very jolly disposition.<lb/>
+His funny stories of his imaginary adventures were a source<lb/>
+of entertainment to us all. He was always ready for any duty,<lb/>
+and though he did a lot of affected growling, performed all<lb/>
+his duties well.<lb/>
+Harroldson* was a handsome young fellow. Mostly performed<lb/>
+nursing duties, and was pleasant and popular.<lb/>
+Williamson was a quiet young man. Never took part in any<lb/>
+of soldier's vices, such as drinking, gambling, etc. He studied<lb/>
+Spanish under an old Castillian in Pinar del Rio who was a<lb/>
+Yale graduate. He was respected and liked by all.<lb/>
+I don't remember much about De Larue.<lb/>
+It was rumored that <hi>Acting Steward Arnold had been a doctor</hi>,<lb/>
+but had to give up practice for some reason, and had entered the<lb/>
+Hospital Corps. He was a fine gentleman and one of the best-<lb/>
+liked non-coms.</item>
+</list></item>
+<item>How often were you at Camp Lazear?<lb/>
+<list type="ordered">
+<item>a. I was only there one time.</item>
+</list></item>
+<item>Why were you there?<lb/>
+<list type="ordered">
+<item>a. I used to make sick call at the 7th Cavalry with the<lb/>
+doctor every morning and one morning he said he had to go<lb/>
+down to Camp Lazear.</item>
+</list></item>
+<item>What doctor?<lb/>
+<list type="ordered">
+<item>a. Dr. Amador. On this particular morning he said he had<lb/>
+* I think this is spelled<lb/>
+differently previously in text.<lb/>
+21.<lb/>
+<pb n="22" id="f04715022"/>
+to go to Camp Lazear so we drove down in the ambulance and<lb/>
+stopped at the big oak tree outside the place (Dr. Hench:<lb/>
+&ldquo;Here's the oak tree,&rdquo;...to which Mr. Tate replied &ldquo;yes&rdquo;.)<lb/>
+He got off and went into one of these tents and he came out<lb/>
+again after about five minutes and got in the wagon and<lb/>
+that was the only time I was there. It was strictly<lb/>
+quarantined.</item>
+</list></item>
+<item>Do you remember anything about it?<lb/>
+<list type="ordered">
+<item>a. No, just a lot of tents. I didn't even get out of the<lb/>
+wagon. I presume he told me -- he was very talktative -- but<lb/>
+I have forgotten. I think he went to see Dr. Ames about<lb/>
+something.</item>
+</list></item>
+<item>Did you ever have any dealings with the Los Animas Hospital?<lb/>
+<list type="ordered">
+<item>a. No.</item>
+</list></item>
+<item>Did you know anything about the yellow fever hospital across the<lb/>
+railroad track from the post hospital?<lb/>
+<list type="ordered">
+<item>a. I saw it.</item>
+</list></item>
+<item>Did you go there often?<lb/>
+<list type="ordered">
+<item>a. No. One time I took a walk a way out around these buildings.<lb/>
+You know there's an argument as to whether there were three huts there,<lb/>
+whether there were six, there, or whether there were four or eight?</item>
+<item>a. Yes. I have heard that argument. Of course, Lambert was<lb/>
+there longer than anybody else and Lambert swears it was four.<lb/>
+Let me tell you, there's a map made by the Quartermaster's<lb/>
+Department and that's made by surveyors and I've looked at that<lb/>
+22.<lb/>
+<pb n="23" id="f04715023"/>
+map and I know all of this hospital -- every building in it --<lb/>
+and they were all according to size and shape and distances<lb/>
+apart. Why would those surveyors get all of this exactly<lb/>
+accurate and go over there and put in eight buildings if they<lb/>
+weren't there? I don't believe it -- I think there were eight<lb/>
+buildings there. Lambert was a good fellow and he wouldn't<lb/>
+tell a lie, but was, I think, honestly mistaken. When I got<lb/>
+there, there were no tents, there were little buildings, but<lb/>
+I don't remember how many .... I examined that map with a<lb/>
+magnifying glass...it's an official map and absolutely correct.</item>
+</list></item>
+<item>Why should these surveyors be so accurate about everything else and<lb/>
+put in some little yellow fever huts that were never there? On the<lb/>
+1902 map there are eight little huts. Mr. Tate says those must have<lb/>
+been there in 1900 and 1901 because there was no reason after 1901 to<lb/>
+build any more.<lb/>
+You remember that little bridge? On the model here, it is here over<lb/>
+the railroad tracks, but Lambert thinks it was over here. The<lb/>
+hospital is over here (Mr. Tate, &ldquo;yes&rdquo;) and this is the railroad track<lb/>
+and here is the laundry or something, and the model shows the bridge<lb/>
+in between -- not centered -- but in between. Lambert thinks it was<lb/>
+over here. Do you remember? Where did the bridge cross the railroad<lb/>
+tracks?<lb/>
+<list type="ordered">
+<item>a. I'm just trying to remember it. I couldn't say.</item>
+<item>Where did the bridge cross the railroad tracks in relation to the<lb/>
+two rows of yellow fever huts? According to the Perez model, the<lb/>
+bridge crossed the railroad tracks between (though not evenly between)<lb/>
+23.<lb/>
+<pb n="24" id="f04715024"/>
+the two rows of buildings. According to Lambert it crossed to one<lb/>
+side of all of the buildings.</item>
+<item>a. I don't know. (I've got an idea, but I wouldn't say it.)<lb/>
+You can't identify any of these buildings of your own knowledge?</item>
+<item>a. No.</item>
+</list></item>
+<item>Can you identify any of the yellow fever huts of your own knowledge<lb/>
+as to who lived in them, how many rooms?<lb/>
+<list type="ordered">
+<item>a. No.</item>
+</list></item>
+</list>
+</p>
+<p># # # # # #<lb/>
+24.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

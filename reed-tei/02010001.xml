@@ -1,0 +1,913 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02010001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from Walter Reed to the Surgeon General,  April 20, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02010001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-04-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Black, William M.</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>24 pp.</extent>
+<date value="1900-04-20">April 20, 1900</date>
+<idno rend="suppress">02010001</idno>
+<title>Report from Walter Reed to the Surgeon General, April 20, 1900</title>
+</bibl>
+</head>
+<p>Reed reports about his investigation of electrozone in Havana, Cuba. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-04-20">
+<head>Report from Walter Reed to the Surgeon General, April 20, 1900</head>
+<pb n="1" id="f02010001"/>
+<p>No. 2538</p>
+<p><unclear>[unclear]</unclear>DIVISION<lb/>
+DIVISION OF CUBA.</p>
+<p>Rec'd.<lb/>
+5&sol;1</p>
+<p>HEADQUARTERS DIVISION OF CUBA.<lb/>
+HAVANA, April 25, 1900.</p>
+<p>Wrapper</p>
+<p>Walter Read, Major,<lb/>
+Surgeon, U. S. A.</p>
+<p>Enclosing report under date<lb/>
+of April 20th, upon his in-<lb/>
+vestigation into the use of<lb/>
+Electrozone in the City of<lb/>
+Havana.</p>
+<p>OK<lb/>
+Enclosures.</p>
+<p><unclear>[unclear]</unclear> ENDORSEMENT</p>
+<p>HEADQUARTERS DIVISION OF CUBA.<lb/>
+HAVANA,</p>
+<pb n="2" id="f02010002"/>
+<p>See summary, last page<lb/>
+<hi>AET</hi></p>
+</div1>
+<div1 type="letter" n="1900-04-20">
+<head>Report from Walter Reed to the Surgeon General, April 20, 1900</head>
+<pb n="3" id="f02010003"/>
+<opener>
+FROM THE NATIONAL ARCHIVES<lb/>
+<add>-File under Reed-<lb/>
+Electrozone</add><lb/>
+L<lb/>
+<dateline>
+Washington, D. C.<lb/>
+<date value="1900-04-20">April 20, 1900.</date>
+</dateline><lb/>
+To the Surgeon General, U. S. Army,<lb/>
+Washington, D. C.<lb/>
+(Thro' Hdqrs. Div. of Cuba.)<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>In compliance with Par. 15 and 16, Special Orders No. 51, Ad-<lb/>
+jutant General's Office, March 2, 1900, I have the honor to submit<lb/>
+the following report embodying my investigation concerning the prac-<lb/>
+tical use of Electrozone in the City of Havana, together with the<lb/>
+results of tests made to determine the germicidal value of this<lb/>
+fluid.</p>
+<p>The plant established in Havana by the Chief Engineer of that<lb/>
+Department was put into practical operation during the month of July<lb/>
+1899. The method used for the electrolysis of sea water is that<lb/>
+known as the Woolf system, and may be briefly described as con-<lb/>
+sisting of eight (8) circular, open, wooden vats arranged in pairs<lb/>
+and each capable of holding 1000 gallons of sea water. For each<lb/>
+of the vats there are provided 52 positive and 53 negative elec-<lb/>
+trodes; the former consisting of an alloy of platinum and iridium<lb/>
+and the latter of zinc. As stated, these circular vats are con-<lb/>
+nected in pairs and both receive, at all times when in operation,<lb/>
+the same strength of electric current. For the four pairs of<lb/>
+vats, therefore, four dynamos are provided.</p>
+<p>These vats having been filled at 7 A.M. with sea water, a cur-<lb/>
+rent having a strength normally of 3000 amperes, with a voltage of<lb/>
+12-13, is passed through the water for the space of 2 1&sol;2 hours.<lb/>
+<pb n="4" id="f02010004"/>
+2<lb/>
+At the end of this time, 200 gallons (20%) are drawn from each vat<lb/>
+and passed into two open wooden receiving tanks which stand on the<lb/>
+street below. 200 gallons of sea water are then pumped into each<lb/>
+vat to supply the place of that removed, and, at the expiration of<lb/>
+30 minutes, 200 gallons are again passed from each vat into the re-<lb/>
+ceiving tank. This is repeated throughout the day's run.</p>
+<p>It is stated that by this procedure there is produced and main-<lb/>
+tained an average strength of 100 grains of available chlorine to<lb/>
+the gallon (0.16%) which would appear to be the strength desired.</p>
+<p>The plant is, at present, at work <add>during</add> eight hours of the day, turn-<lb/>
+ing out, as stated by the Asst. Supt. 24,000 gallons of Electrozone<lb/>
+having a strength of 80-100 grains of available chlorine per gal-<lb/>
+lon. The capacity of the plant, if run during the 24 hours, is<lb/>
+said to be 100,000 gallons, of the strength above indicated.</p>
+<p>From the receiving tanks, each of a capacity of 5000 gallons,<lb/>
+the disinfectant is drawn off into closed distributing carts at all<lb/>
+hours of the day and night, and carried to various parts of the<lb/>
+city for sewage, street and household disinfection. I was inform-<lb/>
+ed by Col. Black, Chief Engineer, that at present about 12,000 gal-<lb/>
+lons are used daily for sewer disinfection and about 8,000 gallons<lb/>
+for street sprinkling, those streets being selected for daily sprink-<lb/>
+ling which are located in the old part of the city, where yellow<lb/>
+fever has been more prevalent during past years.</p>
+<p>For the purposes of sewer disinfection, certain water-tight<lb/>
+receptacles, having a capacity of several hundred gallons, are pro-<lb/>
+vided in connection with the sewers and from these by means of a <unclear>1&sol;2</unclear><lb/>
+inch opening a small stream of Electrozone is allowed to flow into<lb/>
+<pb n="5" id="f02010005"/>
+3<lb/>
+the sewer. By this method, disagreeable odors have been entirely<lb/>
+abated and a certain degree of disinfection supposedly obtained.</p>
+<p>As regards household disinfection, I was informed by Major W.<lb/>
+C. Gorgas, Chief Sanitary Officer, that about 4000 gallons of Elec-<lb/>
+trozone were being daily used for the purpose only of cleaning and<lb/>
+disinfecting the floors of such houses as were selected for disin-<lb/>
+fection, bichloride of mercury solution being relied upon for the<lb/>
+disinfection of walls, etc. It will thus be seen that Electrozone<lb/>
+is being put to practical use in the city of Havana for three pur-<lb/>
+poses, viz: street sprinkling, sewer disinfection and the disinfec-<lb/>
+tion of floors.</p>
+<p>After a consideration of the germicidal value of this fluid,<lb/>
+I will again refer to its use for these several purposes.</p>
+<p>I will here state that, at the time of my first visit to the<lb/>
+plant, (3 P.M. March 11th) I was impressed with the fact that al-<lb/>
+though a certain standard of strength as regards available chlorine<lb/>
+was supposed to be obtained, this was not arrived at in actual prac-<lb/>
+tice. At my request, the Asst. Supt. kindly tested, by the arse-<lb/>
+nious acid test, the fluid contained in two vats; with the result<lb/>
+that while one gave .319% of available chlorine, the other contain-<lb/>
+ed only .073%. A test of the fluid contained in the two distrib-<lb/>
+uting tanks gave for No. 1, .071% of available chlorine, while that<lb/>
+contained in tank No. 2 gave .060%. A second test of the fluid<lb/>
+contained in tank No. 1, made a half hour later, gave ?142% of a-<lb/>
+vailable chlorine.</p>
+<p>The varying strength of Electrozone, as regards its available<lb/>
+chlorine, will be best shown by the results of the tests that were<lb/>
+<pb n="6" id="f02010006"/>
+4<lb/>
+made, from time to time, with the fluid contained in the distrib-<lb/>
+uting tanks.</p>
+<p><hi>TABLE I</hi>.</p>
+<p>
+<table rows="11" cols="3">
+<row><cell>Date.</cell><cell>Tank No. 1, per cent<lb/>of available chlorine</cell><cell>Tank No. 2, per cent<lb/>of available chlorine</cell></row>
+<row><cell cols="1-3">--------------------------------------------------------------</cell></row>
+<row><cell>Mch. 11, 3 P.M.</cell><cell>.071</cell><cell>.060</cell></row>
+<row><cell>" " 3:30 "</cell><cell>.142</cell><cell>----</cell></row>
+<row><cell>" 13, 3:30 "</cell><cell>.102</cell><cell>.095</cell></row>
+<row><cell>" 14, 2:30 "</cell><cell>.142</cell><cell>.110</cell></row>
+<row><cell>" 15, 2 P.M.</cell><cell>.106</cell><cell>.094</cell></row>
+<row><cell>" 19, 11 A.M.</cell><cell>.021</cell><cell>.049</cell></row>
+<row><cell>" 20, 8:50 P.</cell><cell>.056</cell><cell>.052</cell></row>
+<row><cell>" 20, 10 A.M.</cell><cell>.071</cell><cell>.070</cell></row>
+<row><cell>" 20, 4:30 P.</cell><cell>.070</cell><cell>.070</cell></row>
+</table>
+</p>
+<p>Thus in observations extending over a period of ten days, the<lb/>
+amount of available chlorine varied from .142% to .021%, or from<lb/>
+82.9 grains to 12.2 g. per gallon. The arsenious acid method was<lb/>
+used in determining the available chlorine.</p>
+<p>As it will be later shown that the disinfectant value of Elec-<lb/>
+trozone depends upon the amount of its available chlorine and that<lb/>
+the latter is rapidly lost from the solution, it can be inferred<lb/>
+that the fluid in actual daily use must have varied markedly in<lb/>
+its disinfectant quality.</p>
+<p>Through the courtesy of Col. Black I was enabled on March 20th<lb/>
+to make a practical test as to the amount of available chlorine<lb/>
+which could be produced by the electrolysis of sea water under the<lb/>
+Woolf system, and on March 27th to test the capacity of the entire<lb/>
+plant during a three hours' run.</p>
+<p>For the first test, one vat only was selected for observation,<lb/>
+although, of course, the same strength of chlorine was probably<lb/>
+produced in its companion vat, but sufficient time could not be<lb/>
+<pb n="7" id="f02010007"/>
+5<lb/>
+given to the estimation of the strength of both vats. The condi-<lb/>
+tions were favorable to the best results, as the electrodes had<lb/>
+been thoroughly cleansed and were in good working order. The re-<lb/>
+sult of this trial is given in the following table:</p>
+<p><hi>TABLE II</hi>.</p>
+<p>
+<table rows="18" cols="4">
+<row><cell>Time.</cell><cell>Percantage of<lb/>available chlorine.</cell><cell>Grains of chlorine<lb/>per gallons.</cell><cell>Strength of<lb/>current.</cell></row>
+<row><cell cols="1-4">-----------------------------------------------------------------------------</cell></row>
+<row><cell>1&sol;2 hr.</cell><cell>.046</cell><cell>26.87</cell><cell></cell></row>
+<row><cell>1 "</cell><cell>.078</cell><cell>45.56</cell><cell></cell></row>
+<row><cell>1 1&sol;2"</cell><cell>.106</cell><cell>61.92</cell><cell></cell></row>
+<row><cell>2 "</cell><cell>.129</cell><cell>75.36</cell><cell></cell></row>
+<row><cell>2 1&sol;2"</cell><cell>.156</cell><cell>91.13</cell><cell rows="7-12">3000-3500 Ampers,<lb/>Voltage 12-14,<lb/>acting upoon 1000<lb/>gallons of sea<lb/>water during the<lb/>period of 8 hours.</cell></row>
+<row><cell>3 "</cell><cell>.191</cell><cell>111.58</cell></row>
+<row><cell>3 1&sol;2"</cell><cell>.213</cell><cell>124.43</cell></row>
+<row><cell>4 "</cell><cell>.248</cell><cell>144.88</cell></row>
+<row><cell>4 1&sol;2"</cell><cell>.277</cell><cell>161.82</cell></row>
+<row><cell>5 "</cell><cell>.323</cell><cell>188.69</cell></row>
+<row><cell>5 1&sol;2"</cell><cell>.351</cell><cell>205.05</cell></row>
+<row><cell>6 "</cell><cell>.379</cell><cell>221.41</cell></row>
+<row><cell>6 1&sol;2</cell><cell>.418</cell><cell>244.19</cell></row>
+<row><cell>7 "</cell><cell>.433</cell><cell>252.95</cell></row>
+<row><cell>7 1&sol;2"</cell><cell>.443</cell><cell>258.80</cell></row>
+<row><cell>8 "</cell><cell>.454</cell><cell>265.22</cell></row>
+</table>
+</p>
+<p>It was observed that during this trial the strength of current<lb/>
+supplied to the three remaining pairs of vats varied from 500 to<lb/>
+1800 amperes. A test of the fluid in two of these made at 3 P.M.<lb/>
+gave only .070% of chlorine. This fluid was being passed into the<lb/>
+distributing tanks for general distribution.</p>
+<p>The result of the three hours trial of the entire system of<lb/>
+vats is given in the following table:</p>
+<pb n="8" id="f02010009"/>
+<p>6</p>
+<p><hi>TABLE III</hi>.</p>
+<p>
+<table rows="28" cols="5">
+<row><cell>Sets.</cell><cell>Times.</cell><cell>Per ct. of avail-<lb/>able chlorine.</cell><cell>Grains of chlo-<lb/>rine per gallon.</cell><cell>Strength of<lb/>current::</cell></row>
+<row><cell cols="1-5">----------------------------------------------------------------------------</cell></row>
+<row><cell rows="3-7">No. 1</cell><cell>1&sol;2 hr.</cell><cell>0.024</cell><cell>14.02</cell><cell>At 1 hr. 1900</cell></row>
+<row><cell>1 hr.</cell><cell>0.056</cell><cell>32.71</cell><cell>A. 13 V., At 1</cell></row>
+<row><cell>1 1&sol;2"</cell><cell>0.081</cell><cell>47.32</cell><cell>1&sol;2, 2300 A.</cell></row>
+<row><cell>2 hr.</cell><cell>0.095</cell><cell>55.49</cell><cell>13.5 V., At 2</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>2500 A., 13 V.</cell></row>
+<row><cell cols="1-5">----------------------------------------------------------------------------</cell></row>
+<row><cell rows="9-14">No. 2</cell><cell>1&sol;2 hr.</cell><cell>0.053</cell><cell>30.96</cell><cell>At 1 hr. 2500</cell></row>
+<row><cell>1 hr.</cell><cell>0.067</cell><cell>39.14</cell><cell>A., V. 12.</cell></row>
+<row><cell>1 1&sol;2"</cell><cell>0.078</cell><cell>45.56</cell><cell>At 2 hr. 2950</cell></row>
+<row><cell>2 hr.</cell><cell>0.110</cell><cell>64.26</cell><cell>A., 12.5 V.</cell></row>
+<row><cell>2 1&sol;2"</cell><cell>0.142</cell><cell>82.95</cell><cell>At 3 hr.2800</cell></row>
+<row><cell>3 hr.</cell><cell>0.152</cell><cell>88.79</cell><cell>A., 12.3 V.</cell></row>
+<row><cell cols="1-5">----------------------------------------------------------------------------</cell></row>
+<row><cell rows="16-21">No. 3</cell><cell>1&sol;2 hr.</cell><cell>0.031</cell><cell>18.11</cell><cell>At 2 1&sol;/2 hr.</cell></row>
+<row><cell>1 hr.</cell><cell>0.067</cell><cell>39.14</cell><cell>2400 A., 13 v</cell></row>
+<row><cell>1 1&sol;2"</cell><cell>0.088</cell><cell>51.40</cell><cell>At 3 hours,</cell></row>
+<row><cell>2 hr.</cell><cell>0.106</cell><cell>61.92</cell><cell>2300 Ampers,</cell></row>
+<row><cell>2 1&sol;2"</cell><cell>0.131</cell><cell>76.53</cell><cell>12.75 Volts.</cell></row>
+<row><cell>3 hr.</cell><cell>0.177</cell><cell>103.40</cell></row>
+<row><cell cols="1-5">----------------------------------------------------------------------------</cell></row>
+<row><cell rows="23-28">No. 4</cell><cell>1&sol;2 hr.</cell><cell>0.042</cell><cell>24.53</cell><cell>At 2 hrs. 3400</cell></row>
+<row><cell>1 hr.</cell><cell>0.074</cell><cell>43.23</cell><cell>A., 14.2 V.</cell></row>
+<row><cell>2 hr.</cell><cell>0.124</cell><cell>72.44</cell><cell>At 2 1&sol;2 hr.</cell></row>
+<row><cell>1 1&sol;2"</cell><cell>0.099</cell><cell>57.83</cell><cell>2300 Ampers,</cell></row>
+<row><cell>2 1&sol;2"</cell><cell>0.152</cell><cell>88.79</cell><cell>12.5 Volts.</cell></row>
+<row><cell>3 hr.</cell><cell>0.188</cell><cell>109.82</cell><cell>3,2250A, 125V.</cell></row>
+</table>
+</p>
+<p>During this trial a heavy rain storm was prevailing, which in-<lb/>
+terfered with the filling of two of the vats, and hence the test<lb/>
+with these covered a two hours' run only. A small amount of rain<lb/>
+water entered the several vats, but not enough, it is believed, to<lb/>
+warrant any alteration of figures. On the contrary, the result<lb/>
+obtained in set No. 4 was higher than it would otherwise have been<lb/>
+owing to a, leakage of about 200 gallons that occurred during the<lb/>
+test. So that the results obtained in Sets Nos. 2 and 3 may be<lb/>
+taken to fairly represent the capacity of the entire plant during a<lb/>
+three hours' run under the most favorable conditions of preparation<lb/>
+<pb n="9" id="f02010010"/>
+7<lb/>
+therefor. It will be seen that the avilable chlorine obtained<lb/>
+amounted to .150% and .170% respectively; in other words, that 8000<lb/>
+gallons of Electrozone having a chlorine strength of .160% and 93.47<lb/>
+grains per gallon, can be manufactured every three hours, or a pos-<lb/>
+sible 24,000 gallons in a nine hours' run.</p>
+<p>This result cannot be obtained, however, in the regular course<lb/>
+of daily work, since much time must be given especially to cleaning<lb/>
+electrodes ; so that practically 2 vats are thrown out of use every<lb/>
+fifth day. I believe that it would be more correct to say that the<lb/>
+plant can produce during a nine hours' run, 24,000 gallons of Elec-<lb/>
+trozone having a strength of .150% or 87.63 grs. of chloride per gl.</p>
+<p>I was informed by one of the gentlemen on duty in the Chief<lb/>
+Engineer's office, who was present during the test, that theoreti-<lb/>
+cally, a current of 3000 amperes should produce 20 grs. of chlorine<lb/>
+per gallon per ampere <unclear><del>per</del></unclear> hour. A calculation made at the end of<lb/>
+the 3 hours' run showed, however, that only 12 grs. of available<lb/>
+chlorine had been obtained per ampere hour.</p>
+<p>THE GERMICIDAL VALUE OF ELECTROZONE.</p>
+<p>Electrolysed sea water or Electrozone is a clear liquid having<lb/>
+a decided odor of chlorine. Its sp. gr. appears to be the same as<lb/>
+that of the sea water from which it is made, viz: 1027. It bleach-<lb/>
+es both blue and red litmus paper. This effect is brought about<lb/>
+more slowly by solutions containing .050% of available chlorine, but<lb/>
+takes place at once by solutions having a chlorine strength of .100%<lb/>
+to .250%. Its reaction appears to be neutral. Repeated transfers<lb/>
+of small quantities of this fluid to nutritive media showed that it<lb/>
+was sterile. In order to ascertain how long the current must flow<lb/>
+<pb n="10" id="f02010011"/>
+8<lb/>
+to bring about the destruction of the bacteria present in sea water,<lb/>
+plates on agar were made from the sea water with which the vats<lb/>
+were filled at intervals of 5 minutes for the first hour and then<lb/>
+at 10 minute intervals during the second hour. The strength of<lb/>
+current at the beginning of the observation was 500 A. with 11.5 V.<lb/>
+After 5 minutes it had reached a strength of 2500 A., 11.5 V. and<lb/>
+after 7 minutes 3000 A., 13.5 V. This strength was thereafter con-<lb/>
+tinued during the experiment. The material for plating was taken<lb/>
+midway between the electrodes and the edge of the vat and at a depth<lb/>
+of about 10 inches. The result obtained is given below:</p>
+<p><hi>TABLE IV</hi>.</p>
+<p>
+<table rows="17" cols="2">
+<row><cell>No. of Bacteria in specimen of sea water-</cell><cell> 832 per cc.</cell></row>
+<row><cell>After 5 minutes of electrolysis-</cell><cell>504 " "</cell></row>
+<row><cell>" 10 " "</cell><cell>244 " "</cell></row>
+<row><cell>" 15 " "</cell><cell>338 " "</cell></row>
+<row><cell>" 20 "" "</cell><cell>156 " "</cell></row>
+<row><cell>" 25 " "</cell><cell>260 " "</cell></row>
+<row><cell>" 30 " "</cell><cell>54 " "</cell></row>
+<row><cell>" 35 " "</cell><cell>26 " "</cell></row>
+<row><cell>" 40 " "</cell><cell>104 " "</cell></row>
+<row><cell>" 45 " "</cell><cell>none:</cell></row>
+<row><cell>" 50 " "</cell><cell>26 " "</cell></row>
+<row><cell>" <del>55</del> " "</cell><cell>26 " "</cell></row>
+<row><cell>" 60 " "</cell><cell>none.</cell></row>
+<row><cell>70 " " "</cell><cell>none.</cell></row>
+<row><cell>85 " " "</cell><cell>none.</cell></row>
+<row><cell>100 " " "</cell><cell>none.</cell></row>
+<row><cell>120 " " "</cell><cell>none.</cell></row>
+</table>
+</p>
+<p>It would appear therefore that all the bacteria present are<lb/>
+destroyed by electrolysis at the end of about one hour. As the<lb/>
+number of bacteria per cc. of Havana Harbor water was less than had<lb/>
+been anticipated, a second observation was made after the lapse of<lb/>
+one week. This test gave 2158 colonies to the cc. of sea water,<lb/>
+or an average of 1495 colonies for the two trials.</p>
+<pb n="11" id="f02010012"/>
+<p>9</p>
+<p>For the purpose of determining the germicidal value of Electro-<lb/>
+zone, equal parts of this fluid and of bouillon cultures of server-<lb/>
+al micro organisims, grown in the thermostat, were mixed, and trans-<lb/>
+fers made to sterile bouillon tubes after intervals varying from 1<lb/>
+minute to 1 hour. The latter tubes were kept at thermostat tem-<lb/>
+perature from 10 days to 2 weeks, and the results carefully noted.</p>
+<p><hi>TABLE V</hi>.</p>
+<p>ELECTROZONE CONTAINING .050% OF AVAILABLE CHLORINE.</p>
+<p>(2921 grains per gallon.)</p>
+<p>
+<table rows="7" cols="19">
+<row><cell>Cultures.</cell><cell cols="2-19">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-19">-------------------------------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell><cell></cell></row>
+<row><cell></cell><cell cols="2-19">-------------------------------------------------------------------</cell></row>
+<row><cell>Staphylococcus<lb/>Pyog. aureus.</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell></cell></row>
+<row><cell>Bacillus Typh.</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>B. Col. Com.</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell></row>
+</table>
+</p>
+<p>Subsequent observations showed that this strength of Electro-<lb/>
+zone did not destroy staphylococcus aureus after 18 hours exposure.</p>
+<p><hi>TABLE VI</hi>.</p>
+<p>ELECTOROZONE CONTAINING .100% OF AVAILABLE CHLORIDE.</p>
+<p>)58.42 grs. per gallon.)</p>
+<p>
+<table rows="8" cols="17">
+<row><cell>Cultures.</cell><cell cols="2-16">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-17">-------------------------------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell></row>
+<row><cell></cell><cell cols="2-17">-------------------------------------------------------------------------</cell></row>
+<row><cell>S. pyog. aureus.</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell></row>
+<row><cell>Typhoid bacil.</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell></row>
+<row><cell>Colon bacil.</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>--</cell><cell></cell></row>
+<row><cell>Bac. Icteroides</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+</table>
+</p>
+<pb n="12" id="f02010013"/>
+<p>10</p>
+<p><hi>TABLE VII</hi>.</p>
+<p>ELECTOROZONE CONTAINING 150% OF AVAILABLE CHLORINE.</p>
+<p>(88 grs. per gallon.)</p>
+<p>
+<table rows="10" cols="17">
+<row><cell>Cultures.</cell><cell cols="2-17">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-17">-------------------------------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell></row>
+<row><cell></cell><cell cols="2-17">----------------------------------------------------------</cell></row>
+<row><cell>S. pyog. aureus.</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>x</cell></row>
+<row><cell>Typhoid Bac.</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>--</cell><cell></cell></row>
+<row><cell>Colon Bacil.</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Bac. Icteriodes</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>--</cell><cell></cell></row>
+<row><cell>Bac. Prodigio.</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell></row>
+<row><cell>Anthrax spores</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>--</cell><cell>--</cell><cell>--</cell><cell>--</cell><cell>--</cell></row>
+</table>
+</p>
+<p><hi>TABLE VIII</hi>.</p>
+<p>ELECTROZONE CONTAINING .250% OF AVAILABLE CHLORINE.</p>
+<p><unclear>(</unclear>146 grs. per gallon.)</p>
+<p>
+<table rows="9" cols="19">
+<row><cell>Culture.</cell><cell cols="2-19">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-17">-------------------------------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell></cell><cell cols="2-19">-------------------------------------------------------------</cell></row>
+<row><cell>S. pyog. aureus.</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Typoid Bac.</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Colon Bac.</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Bac. Icteriodes</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Anthrax spores</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+</table>
+</p>
+<p>The foregoing observations embraced in tables V to VIII, dem-<lb/>
+onstrate that while solutions containing .050% and .100% of availa-<lb/>
+ble chlorine possess to a certain extent germicidal qualities, these<lb/>
+<pb n="13" id="f02010014"/>
+11<lb/>
+solutions cannot be considered as efficient disinfectants. In or-<lb/>
+der to bring about the more prompt destruction of the test bacte-<lb/>
+ria, solutions containing .150% to .250% of available chlorine must<lb/>
+be used. It must also be borne in mind that Electrozone is a very<lb/>
+unstable preparation, and that it rapidly loses its chlorine con-<lb/>
+tent, upon which its germicidal value would appear to depann.<lb/>
+This is shown in the following table:</p>
+<p><hi>TABLE IX</hi>.</p>
+<p>
+<table rows="6" cols="4">
+<row><cell>Date</cell><cell>% of available<lb/>chlorine.</cell><cell>Date.</cell><cell>% of available<lb/>chlorine</cell></row>
+<row><cell cols="1-4">-------------------------------------------------------------</cell></row>
+<row><cell>Mch. 14, 3:30 P.</cell><cell>.150</cell><cell>Mch. 15, 10 A. M.</cell><cell>.095</cell></row>
+<row><cell>Mch. 18, 4 P.M.</cell><cell>.410</cell><cell>Mch. 19, 10 A.M.</cell><cell>.280</cell></row>
+<row><cell>Mch. 20, 6 P.M.</cell><cell>.454</cell><cell>Mch. 21, 10 A.M.</cell><cell>.374</cell></row>
+<row><cell>Mch. 22, 10 A.M.</cell><cell>.259</cell><cell>Mch. 22, 1:30 P.</cell><cell>.216</cell></row>
+</table>
+</p>
+<p>In the first two observations, the sample of Electrozone was<lb/>
+contained in dark colored bottles, tightly closed with a cork stop-<lb/>
+per; in the 3d it was contained in a Squibbs chloroform bottle with<lb/>
+ground glass stopper and kept in an ice box until re-examined; while<lb/>
+in the 4th observation the fluid was purposely left in an open veal.</p>
+<p>To what the instability of this preparation is due, even when<lb/>
+kept tightly stoppered in vessels, I am unable to state. It may<lb/>
+be attributed either to further oxidation of organic matter present<lb/>
+in the solution, or more probably to recomposition of the chemical<lb/>
+constituents. At any rate, this unstableness of Electrozone is<lb/>
+fully appreciated by the officer in charge of the plant, and hence<lb/>
+an effort is made to use the fluid as soon after its manufacture as<lb/>
+possible. Since, however, it is manufactured in open vats and<lb/>
+<pb n="14" id="f02010015"/>
+12<lb/>
+stored in open tanks, it cannot fail to continually lose its chlo-<lb/>
+rine strength, and hence to reach its destination with lessened<lb/>
+germicidal value.</p>
+<p>By reverting now to table I, it will be seen that the strong-<lb/>
+est preparation of Electrozone found in the distributing tanks dur-<lb/>
+ing a period of 10 days contained .142% of available chlorine, a<lb/>
+percentage which was to some extent lessened before its application<lb/>
+as a disinfectant. I have already shown that a less chlorine con-<lb/>
+tent than .150% cannot be relied upon for prompt disinfection. A<lb/>
+solution containing .250% of available chlorine is to be desired.<lb/>
+Even a solution of this strength would, after 3 to 6 hours, fall<lb/>
+approximately to one containing .200% of chlorine. It follows<lb/>
+that the Electrozone heretofore used in Havana has not possessed<lb/>
+sufficient chlorine strength to have rendered it an efficient and<lb/>
+reliable disinfectant for practical work.</p>
+<p>In order to further test the disinfectant value of Electrozone,<lb/>
+the following experiments were made:</p>
+<p><hi>Experiment I</hi>. Equal parts of Electrozone (.130% chlorine)<lb/>
+and a thin watery sewage containing more than 5,000,000 bacteria to<lb/>
+each cc. were mixed. An agar plate made with one loop of the mix-<lb/>
+ture gave after 1 minute 25 colonies, after 5 minutes 10 colonies,<lb/>
+and after 1 hour 4 colonies. A bouillon transfer made after 24<lb/>
+hours gave a growth of non-spore-bearing bacilli.</p>
+<p><hi>Experiment II</hi>. Equal parts of electrozone )?250% chlorine(<lb/>
+and thin sewage were mixed, with the following results: Plate after<lb/>
+1&sol;2 minute, 8 colonies. Plate after 2 minutes, 2 colonies. Plate<lb/>
+after 30 minutes, 16 colonies. Bouillon transfer after 24 hours<lb/>
+gave a growth of non-spore bearing bacilli.</p>
+<pb n="15" id="f02010016"/>
+<p>13</p>
+<p>The foregoing experiments show that while these examples of<lb/>
+Electrozone, when mixed in equal parts, did not completely steril-<lb/>
+ize the sewage, the number of bacteria were promptly and markedly<lb/>
+reduced.</p>
+<p><hi>Experiment III</hi>. Electrozone (.150%) chlorine) was mixed with<lb/>
+a sample stool in the proportion of 1 part to 1; 2 parts to 1; 3<lb/>
+parts to 1 and 4 parts to 1 of the stool. The latter was made by<lb/>
+adding 10 grams of solid feces to 30 cc. of urine and the two thor-<lb/>
+oughly mixed with a glass rod. Some escape of fine gas bubbles<lb/>
+to the surface of the liquid was observed. Plates made after 2,<lb/>
+6 and 24 hours gave numbrous colonies of the colon bacillus in all<lb/>
+of the mixtures.</p>
+<p><hi>Experiment IV</hi>. To a sample stool consisting of 10 grams of<lb/>
+feces and 40 cc. of urine, well stirred, were added 150 cc. of Elec-<lb/>
+trozone containing .280% of available chlorine. There was prompt<lb/>
+evolution of numerous fine gas bubbles which collected as a layer<lb/>
+at the surface with temporary bleaching of the amber color of the<lb/>
+mixture. A test for the available chlorine in the latter after<lb/>
+three hours gave .035%. Plates made after 3, 12 and 24 hours gave<lb/>
+numerous colonies.</p>
+<p><hi>Experiment V</hi>. Semi-solid feces 10 grams, urine 20 cc. and<lb/>
+Electrozone (.370% chlorine) 300 cc., or in the proportion of 10<lb/>
+pints of this stronger Electrozone to 1 pint of stool, were mixed.</p>
+<p>Bouillon transfers made after 5 minutes, 6 hours and 24 hours gave<lb/>
+a good growth. Agar plates made after 16 and 24 hours gave numer-<lb/>
+ous colonies of non-spore-bearing bacilli.</p>
+<pb n="16" id="f02010017"/>
+<p>14</p>
+<p>The foregoing experiments would indicate that where there is<lb/>
+much organic matter present, and especially in the form of parti-<lb/>
+cles of moderate size, the chlorine content of Electrozone (.370%<lb/>
+chlorine) is entirely exhausted prior to the complete disinfection<lb/>
+of the mixture.</p>
+<p>Where, however, this stronger Electrozone is brought in con-<lb/>
+tact with thoroughly decomposed fecal matter, the disinfection may<lb/>
+be complete after a comparatively short interval, as shown in the<lb/>
+following experiments:</p>
+<p><hi>Experiment VI</hi>. To a thoroughly decomposed sewage (20,000,000<lb/>
+of bacteria to the cc.) consisting of fecal matter 1 part and urine<lb/>
+30 pts. was added varying proportions of electrozone (?250% chlo-<lb/>
+rine) from 1 to 1 to 6 to 1 of sewage. The solution made with 1<lb/>
+pt. of sewage to 5 and 6 parts of Electrozone were rapidly bleached<lb/>
+with much frothing. Transfers made to sterile bouillon after two<lb/>
+hours interval gave no growth in any of the mixtures.</p>
+<p><hi>Experiment VII</hi>. To 1 part of fluid sterile feces, with which<lb/>
+a bouillon culture of the typhoid bacillus had afterwards been mix-<lb/>
+ed, was added 4 parts of Electrozone (.250% chlorine.) Plates made<lb/>
+after 10, 20, 30 and 60 minutes showed no colonies. In other words<lb/>
+in order that these stronger solutions of Electrozone may bring a-<lb/>
+bout the complete disinfection of sewage the organic matter must be<lb/>
+in a state of extremely fine suspension, which we do not ordinarily<lb/>
+find in the practical disinfection of sewage or stools. In all of<lb/>
+the foregoing experiments, although disinfection was not accomplish-<lb/>
+ed in the majority, the obnoxious odors of all were promptly sup-<lb/>
+pressed by the addition of Electrozone.</p>
+<pb n="17" id="f02010018"/>
+<p>15</p>
+<p>Returning now to the practical use of Electrozone in the City<lb/>
+of Havana, I may say that the small quantity allowed to enter the<lb/>
+sewers could only act as a deodorizer, and in no sense of the word<lb/>
+as a disinfectant. Could the several sewers of the city be filled<lb/>
+with this solution and kept full for the period of 24 hours, com-<lb/>
+plete disinfection would hardly be accomplished. It is idle then<lb/>
+to speak of this agent as a disinfectant for the sewage of the city.</p>
+<p>As a surface disinfectant for walls and floors, the stronger<lb/>
+solution (.250% to .450% chlorine) will undoubtedly be found effec-<lb/>
+tive, but not the weaker solutions heretofore used. For covering<lb/>
+the surface of material recently removed from sewers, before it can<lb/>
+be carted away, it will acomplish good by surface disinfection and<lb/>
+the removal of foul odors.</p>
+<p>As regards the matter of street disinfection by sprinkling, it<lb/>
+must be remembered that under Col. Black's supervision the streets<lb/>
+of Havana, as far as I was able to judge, are kept in a remarkably<lb/>
+clean condition and quite free of all surface refuse. Under these<lb/>
+circumstances, far more efficient disinfection is effected by direct<lb/>
+sunlight than could be expected from the use of any disinfectant<lb/>
+solution. Hence I can but think that the sprinkling of streets<lb/>
+with Electrozone is entirely superfluous, except for the purpose<lb/>
+of allaying dust.</p>
+<p>It only remains to compare the disinfectant qualities of Elec-<lb/>
+trozone with solutions of other hypochlorites, such as those of so-<lb/>
+dium and calcium containing the same equivalent of available chlrn.</p>
+<p>Since my return from Havana, I have been engaged in this com-<lb/>
+parison, making use of the same method for determining the availa-<lb/>
+<pb n="18" id="f02010019"/>
+16<lb/>
+ble chlorine present. The results obtained are recorded below:</p>
+<p><hi>TABLE X</hi>.</p>
+<p>SOLUTION OF SODIUM HYPOCHLORITE .100% OF AVAILABLE CHLORINE.</p>
+<p>
+<table rows="8" cols="16">
+<row><cell>Cultures.</cell><cell cols="2-16">Time of exposure in minutes.</cell></row>
+<row><cell cols="1-16">----------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell></row>
+<row><cell></cell><cell cols="2-16">----------------------------------------------------</cell></row>
+<row><cell>S. pyogenes aureus</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Typhoid bacillus</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Colon bacillus</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Bacillus Isteroid.</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+</table>
+</p>
+<p><hi>TABLE XI</hi>.</p>
+<p>SOLUTION OF SODIUM HYPOCHLORITE, .150% OF AVAILABLE CHLORINE.</p>
+<p>
+<table rows="10" cols="16">
+<row><cell>Culture.</cell><cell cols="2-16">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-16">------------------------------------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell></row>
+<row><cell></cell><cell cols="2-16">------------------------------------------------------</cell></row>
+<row><cell>S. pyogenes aureus</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Typhoid bacillus</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Colon bacillus</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Bacillus Icteroid.</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Anthrax spore</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+</table>
+</p>
+<pb n="19" id="f02010020"/>
+<p>17</p>
+<p><hi>TABLE XII</hi>.</p>
+<p>SOLUTION OF SODIUM HYPOCHLORITE, .250% OF AVAILABLE CHLORINE.</p>
+<p>
+<table rows="9" cols="10">
+<row><cell>Culture.</cell><cell cols="2-10">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-10">-----------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell></row>
+<row><cell></cell><cell cols="2-10">-------------------------------------</cell></row>
+<row><cell>S. pyog. aureus</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Typhoid bacil.</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Colon bacillus</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>B. Icteroides</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Anthrax spore</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+</table>
+</p>
+<p><hi>TABLE XIII</hi>.</p>
+<p>SOLUTION OF CHLORIDE OF LIME, 0.100% OF AVAILABLE CHLORINE.</p>
+<p>
+<table rows="8" cols="18">
+<row><cell>Culture.</cell><cell cols="2-18">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-18">-------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell></row>
+<row><cell></cell><cell cols="2-18">------------------------------------------------------</cell></row>
+<row><cell><unclear>S&sol;pyog.</unclear> aureus</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Typhoid bacil.</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell></row>
+<row><cell>Colon bacillus</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell></row>
+<row><cell>B. Icteroides</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell></cell></row>
+</table>
+</p>
+<p><hi>TABLE XIV</hi>.</p>
+<p>SOLUTION OF CHLORINE OF LIME, .150% OF AVAILABLE CHLORINE.</p>
+<p>
+<table rows="8" cols="16">
+<row><cell>Culture.</cell><cell cols="2-16">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-16">--------------------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell></row>
+<row><cell></cell><cell cols="2-16">---------------------------------------------------</cell></row>
+<row><cell>S. pyog. aureus</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Typhoid bacil.</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Colon bacillus</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>B. Icteroides</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+</table>
+</p>
+<pb n="20" id="f02010021"/>
+<p>18</p>
+<p><hi>TABLE XV</hi>.</p>
+<p>SOLUTION OF CHLORINE OF LIME, <unclear>.250%</unclear> OF AVAILABLE CHLORINE.</p>
+<p>
+<table rows="9" cols="10">
+<row><cell>Cultures.</cell><cell>Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-10">-----------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell></row>
+<row><cell></cell><cell cols="2-10">--------------------------------------------------</cell></row>
+<row><cell>S. pyogenes aureus</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Typhoid bacillus</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Colon bacillus</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Bac. Icteroides</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Anthrax spores</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>xx</cell></row>
+</table>
+</p>
+<p>An examination of the foregoing observations (Tables X-XV)<lb/>
+will serve to show that while the solutions of sodium hypochlorite<lb/>
+(Labbaraque's solution) of equal chlorine percentage, were just as-<lb/>
+effective in germicidal action as Electrozone, the solutions of<lb/>
+chlorinated lime were much less efficient in their disinfecting<lb/>
+qualities; a solution containing 0.250% of available chlorine re-<lb/>
+quiring not less than 10 minutes to destroy staphylococcus pyogenes<lb/>
+aureus and 35 minutes to kill anthrax spores.</p>
+<p>In seeking an explanation in this marked difference in action<lb/>
+between solutions of electrolysed sea water and those of bleaching<lb/>
+powder, I think that we must take into consideration the difference<lb/>
+in the comparative bleaching action of these two solutions. Elec-<lb/>
+trozone bleaches instantly; solutions of chlorinated lime, on the<lb/>
+contrary, bleach slowly. In other words, the chlorine content of<lb/>
+Electrozone would seem to exist as a very unstable hypochlorite, or<lb/>
+as free chlorine, which would account not only for its prompt bleach-<lb/>
+ing action, but also for the instability of this fluid. On the<lb/>
+other hand, calcium hypochlorite is a more stable compound and gives<lb/>
+<pb n="21" id="f02010022"/>
+19<lb/>
+off its chlorine slowly.</p>
+<p>If, however, to the solutions of chlorinated lime there is add-<lb/>
+ed a small quantity of an acid, such as dilute hydrochloric acid,<lb/>
+so as to set free its chlorine and bring the latter into solution,<lb/>
+while still preserving the alkilinity of the fluid, then we find<lb/>
+that its bleaching effect is just as prompt as solutions of Elec-<lb/>
+<unclear>trozone</unclear>. Not only this, but its germicidal action is just as ef-<lb/>
+fective as Electrozone having the same chlorine content.</p>
+<p>The following tables will serve to confirm this statement:</p>
+<p><hi>TABLE XVI</hi>.</p>
+<p>SOLUTION OF CHLORINATED LIME CONTAINING <unclear>.</unclear>100% OF AVAILABLE CHLN.<lb/>
+AS FREE CHLORINE.</p>
+<p>
+<table rows="8" cols="17">
+<row><cell>Cultures.</cell><cell cols="2-17">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-17">----------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell><cell>35</cell><cell>40</cell><cell>45</cell><cell>50</cell><cell>55</cell><cell>60</cell></row>
+<row><cell></cell><cell cols="2-17">---------------------------------------------------------</cell></row>
+<row><cell>S. pyogenes aureus</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell></row>
+<row><cell>Typhoid bacillus</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell></row>
+<row><cell>Colon bacillus</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell></row>
+<row><cell>Bac. Icteroides</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+</table>
+</p>
+<p><hi>TABLE XVII</hi>.</p>
+<p>SOLUTION OF CHLORINATED LIME CONTAINING 0.150% OF AVAILABLE CHLO-<lb/>
+RINE AS FREE CHLORINE.</p>
+<p>
+<table rows="8" cols="10">
+<row><cell>Cultures.</cell><cell cols="2-10">Time of exposures, in minutes.</cell></row>
+<row><cell cols="1-10">-------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell></row>
+<row><cell></cell><cell cols="2-10">--------------------------------------</cell></row>
+<row><cell>S. pyogenes aureus</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Typhoid bacillus</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Colon bacillus</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Bac. Icteroides</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+</table>
+</p>
+<pb n="22" id="f02010023"/>
+<p>20</p>
+<p><hi>TABLE XVIII</hi>.</p>
+<p>SOLUTION OF CHLORINATED LIME CONTAINING 0.250% OF AVAILABLE CHLO-<lb/>
+RINE AS FREE CHLORINE.</p>
+<p>
+<table rows="7" cols="8">
+<row><cell>Cultures.</cell><cell cols="2-8">Time of exposure, in minutes.</cell></row>
+<row><cell cols="1-8">---------------------------------------------------</cell></row>
+<row><cell></cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>7</cell><cell>10</cell><cell>15</cell></row>
+<row><cell></cell><cell cols="2-8">---------------------------------------</cell></row>
+<row><cell>S. pyogenes aureus</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Bac. Icteroides</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row>
+<row><cell>Anthrax spores</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell></cell></row>
+</table>
+</p>
+<p>It will be seen therefore that chloride of lime to which hy-<lb/>
+drochloric acid has been added, in the proportion of 40 parts by<lb/>
+weight of the acid to 100 parts of lime, has been rendered by the<lb/>
+liberation of its chlorine, as effective in disinfectant qualities<lb/>
+as Electrozone. As care was taken to preserve the alkalinity of<lb/>
+the solution, its germicidal action could not be attributed in any<lb/>
+way to free hydrochloric acid, but only to the chlorine remaining<lb/>
+in solution as free chlorine.</p>
+<p>Since chloride of lime and hydrochloric acid are agents that<lb/>
+can be readily <unclear>procuried</unclear> in large quantities and easily stored for<lb/>
+use, it does not seem inappropriate to compare the cost of this<lb/>
+disinfectant with the cost of Electrozone. The latter preparation,<lb/>
+I was informed by Col. Black, was manufactured at a cost of <unclear>1 2<del>1</del>10</unclear><lb/>
+mills per gallon; and that to manufacture an electrozone of 0.250%<lb/>
+chlorine strength would cost about 2.6 - 2.8 mills per gallon.<lb/>
+It must be remembered that in making this estimate no account has<lb/>
+been taken of the original cost of the plant, amounting to $75,000,<lb/>
+nor of the interest on this sum ($4,500 per annum), nor of<lb/>
+<pb n="23" id="f02010024"/>
+21<lb/>
+the depreciation of the depreciation of the Plant, generally com-<lb/>
+puted at 10% per annum. Only the actual daily operating expenses<lb/>
+<unclear>)</unclear>$37.00 per day) have been considered.</p>
+<p>It is believed that the following calculations will closely<lb/>
+approximate the relative cost of chlorinated lime and Electrozone<lb/>
+as disinfectants:</p>
+<p>To</p>
+<p>
+<table rows="2" cols="2">
+<row><cell>1 lb. of chloride of lime (7000 grains)</cell><cell>3 cts.</cell></row>
+<row><cell>1 lb. of hydrochloric acid</cell><cell>3 1&sol;2 cts.</cell></row>
+</table>
+</p>
+<p>7000 grains of chloride of lime containing 35%, or 2450 grains of<lb/>
+available chlorine, would make 16.78 gallons of a disinfectant,<lb/>
+having a strength of 0.250% or 146 grains of chloride per gallon.<lb/>
+Deducting 1.78 gallons as loss of chlorine in making the prepara-<lb/>
+tions, we have:</p>
+<p>To</p>
+<p>
+<table rows="4" cols="2">
+<row><cell>15 gallons of disinfectant, 1 lb. of lime</cell><cell>3 cts.</cell></row>
+<row><cell>15 " " " 1&sol;2 lb. hyd. acid</cell><cell>1.75 cts.</cell></row>
+<row><cell></cell><cell>--------</cell></row>
+<row><cell>total</cell><cell>4.75 cts.</cell></row>
+</table>
+</p>
+<p>or at a cost of 3.17 mills per gallon, or for 24,000 gallons a cost<lb/>
+of $76.08 per diem.</p>
+<p>Since July 1, 1899, to March 31, 1900- 234 working days- the<lb/>
+total expenditure would have been $17,802.00 for sufficient chlo-<lb/>
+ride of lime and hydrochloric acid to have supplied a disinfectant<lb/>
+having 146 grains of available chlorine per gallon.</p>
+<p>On the other hand, we have the following:</p>
+<p>
+<table rows="5" cols="2">
+<row><cell>Plant</cell><cell>$75,000</cell></row>
+<row><cell>Int. at 6% for 9 mos.</cell><cell>3,375</cell></row>
+<row><cell>Daily expenses, $37 for<lb/>234 working days</cell><cell>8,658</cell></row>
+<row><cell></cell><cell>-----------</cell></row>
+<row><cell>Total</cell><cell>$87,033.00</cell></row>
+</table>
+</p>
+<p>as the cost of<lb/>
+<pb n="24" id="f02010025"/>
+22<lb/>
+supplying daily for 234 working days 24,000 gallons of Electrozone,<lb/>
+having no particular standard of strength as regards available<lb/>
+chlorine, but certainly of a less strength (see table I) than .150%.</p>
+<p>It seems fair to conclude therefore, that had the ganitary, au-<lb/>
+thorities of Havana resprted to chloride of lime as the disinfect-<lb/>
+ant, instead of Electrozone, the work of disinfection would have<lb/>
+been more thoroughly carried out and the Insular funds would have<lb/>
+been richer by sixty nine thousand, two hundred and thirty one dol-<lb/>
+lars ($69,231)</p>
+<p>In carrying out the experimental part of this report, I desire<lb/>
+to state that I have received valuable aid from Acting Assistant<lb/>
+Surgeons A. Agramonte, Jesse Lazaer, and James Carroll, U. S. Army.</p>
+<closer>
+<signed>SgdL WALTER REED,</signed>
+Major &amp; Surgeon,<lb/>
+U. S. Army.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

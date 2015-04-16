@@ -1,0 +1,1134 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04802001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Manuscript: The Conquest of Yellow Fever -- An Illustrated Talk, by Philip Showalter Hench, [January 31, 1955]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hench, Philip Showalter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04802001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1955-01-31</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Delgado, Claudio</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Edmunds, Major</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Haskins, Arthur</name>
+<name type="person">Godfrey, Guy Charles Moore</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Tate, Paul L.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Pogolotti, Luis B.</name>
+<name type="person">Nogueira, Pedro</name>
+<name type="place">Cuba</name>
+<name type="place">Marianao (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="hospital">Las Animas Hospital (Havana)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>31 pp.</extent>
+<date value="1955-01-31">January 31, 1955</date>
+<idno rend="suppress">04802001</idno>
+<title>Manuscript: The Conquest of Yellow Fever -- An Illustrated Talk, by Philip Showalter Hench, [January 31, 1955]</title>
+</bibl>
+</head>
+<p>Hench gives a history of yellow fever and the investigation done by Finlay.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1955-01-31">
+<head>Manuscript: The Conquest of Yellow Fever -- An Illustrated Talk, by Philip Showalter Hench, [January 31, 1955]</head>
+<pb n="1" id="f04802001"/>
+<p><hi>THE CONQUEST OF YELLOW FEVER - AN ILLUSTRATED TALK</hi>*</p>
+<p>Philip S. Hench, M.D.<lb/>
+Mayo Clinic, Rochester, Minn.</p>
+<p>X Sunning herself on the 23rd parallel the Island of Cuba looks most at-<lb/>
+tractive to the tourist. If you arrive by the over-night boat from Miami...</p>
+<p>X ...your first close-ups in the early morning sunshine are, on your left, Morro<lb/>
+Castle...</p>
+<p>X ...and on your right, two old buildings: The City Hall (here) which was formerly<lb/>
+the palace of the Spanish and American Governors, and <hi>this</hi> old <unclear>Fuerza</unclear> (now the City<lb/>
+Library) from which DeSoto set sail in <hi>1541</hi> to explore the Mississippi River.</p>
+<p>X Farther along in the harbor, when your boat is just off this pier (where was<lb/>
+the old Machina Wharf) you are over the spot where the U. S. Battleship MAINE blew<lb/>
+up and sank in 1898.</p>
+<p>X On shore you stay at the Hotel Nacional, if you can afford it.</p>
+<p>X From your window you have some lovely, but expensive, views:...</p>
+<p>X ...on your right the Malecon Drive,...</p>
+<p>X ...in front, the Maine Memorial,...</p>
+<p>X ...and on the left, this drive which leads past the new American Embassy (here) and on<lb/>
+out through the suburbs of Vedado and Buena Vista to the famous bathing beach, LaPlaya<lb/>
+at Quemados de Marianao.</p>
+<p>X Later the tourist goes downtown to visit the Capitol, and the Parque Centrale<lb/>
+(down the street here).</p>
+<p>X After shopping (here) in Central Park, he walks along the Prado (here)...</p>
+<p>X ...a lovely cool promenade which ends at the harbor.</p>
+<p>X Worn out by these strenuous exertions, he returns to this lovely pool at<lb/>
+the Hotel Nacional where he can either swim...</p>
+<p>X ...or relax and talk with cheerful companions, like Tom Spies (here)...</p>
+<p>X ...or just relax, if you know what I mean!</p>
+<p>X A drive into the country...</p>
+<p>X ...and then the tourist takes the night-boat back home, with his memories of jai alai,<lb/>
+<del>and</del> Cuban rum <add>and rumba,</add> and his post-cards and snap-shots like mine.</p>
+<p>-------------------------------------------------------------------</p>
+<p><hi rend="superscript">*</hi> Version for AOA Banquet-Talk, Baylor University, Houston, Texas, January 31, 1955.</p>
+<pb n="2" id="f04802002"/>
+<p>AOA - 2 -</p>
+<p>X But with little or no <add>extra</add> effort, an informed physician can see <hi>much</hi> more as<lb/>
+he passes the heights of Cabanas, an old house on the Prado, the City Hall and Plaza<lb/>
+des Armas, an old theatre and the <del>Western Union</del><add>Press Wireless</add> office in Central Park, and especially<lb/>
+the historic <add>two</add> miles which <unclear>start<del>s</del></unclear> at LaPlaya and the Yacht Club, <unclear>by-pass<del>es</del></unclear> the Army air-<lb/>
+field, <add>traverse the grounds of the Cuban Army Hospital</add> and then <unclear>turn<del>s</del></unclear> left along General Lee and Royal Streets to the Finca San Jose<lb/>
+in Quemados. For these and nearby places were the locale for one of the most exciting<lb/>
+medical adventures of all time.</p>
+<p>X It reached its climax in this tumble-down forgotten little shack which I<lb/>
+began to hunt for in 1940.</p>
+<p>X Later the Cuban Government designated it a &ldquo;National monument&rdquo; and restored<lb/>
+it as the center of its own little park. Finally, on December 3, 1952, they officially<lb/>
+named it after an American physician and dedicated it as a memorial to him and to 24<lb/>
+others to whom we all owe our eternal thanks, for they were the conquerors of yellow<lb/>
+fever.</p>
+<p><hi>Our</hi> thanks? Perhaps one of you students is thinking: &ldquo;He means, of course,<lb/>
+my grandfather's thanks, not mine. Yellow fever, what is that old curiosity to <hi>me?</hi>&rdquo;<lb/>
+Perhaps some illustrations from magazines read by our parents and grandparents, will<lb/>
+show what it meant to them and what it would <del>have</del> mean to us had it not been for<lb/>
+these men.</p>
+<p>X Year after year, for at least 300 - 400 years, &ldquo;yellow jack&rdquo; invaded wide<lb/>
+regions of the earth, spreading north and south, east and west, from its lair in<lb/>
+the tropics. From the West Indies, which were continually affected, the plague<lb/>
+travelled periodically and seasonally, first knocking at the doors of America's<lb/>
+great ports such as New Orleans, Charleston, Norfolk, Philadelphia, Boston and New York.</p>
+<p>X But no walls were high enough, no doors thick enough to bar it, and up and<lb/>
+down the villages and cities of the south, (including such Texas cities as <hi>Galveston</hi><lb/>
+and <hi>Laredo</hi>) rode &ldquo;the Saffron horror,&rdquo; spreading fear and death.</p>
+<p>X From these doomed cities the panic-stricken people fled by any available<lb/>
+means. Some tried to escape by railroad, but often only the immune were allowed to<lb/>
+disentrain.</p>
+<p>X When the trains stopped running, the refugees set out on foot.</p>
+<pb n="3" id="f04802003"/>
+<p>AOA - 3 -</p>
+<p>X But many were turned back by fearful neighbors armed with rifles.</p>
+<p>X For those unable to escape but unwilling to remain in their plague-ridden<lb/>
+homes only one recourse remained, mass migration into camps on high ground outside<lb/>
+the city limits. Here mysteriously they usually found safety.</p>
+<p>X To such camps were carted the aged and the infirm, and as horses and wagons<lb/>
+negotiated the narrow streets, acrid smoke rose from cans of tar set on fire &ldquo;to<lb/>
+purify the death-laden air.&rdquo; And like a grim salute to the dead that were, and to those<lb/>
+that were to be, cannon boomed as helpless, ignorant, foolish man tried to stir up the<lb/>
+stagnant air in a vain attempt to dissipate the mysterious poison.</p>
+<p>X But before they could escape, hundreds of thousands developed the disease and,<lb/>
+depending on its varying severity, from 20 to 85% died. Some had the cold comfort of<lb/>
+dying at home surrounded by their sorrowing families.</p>
+<p>X But many, stricken suddenly, fell in the streets or parks, and were shunned<lb/>
+by frightened passers-by. Here two of them, denied a Samaritan's mercy, have crawled<lb/>
+into abandoned cellars to die alone in the dark.</p>
+<p>X Coffins, whether fancy or plain, sold at a premium and were quickly carried<lb/>
+to cemeteries by hearse, wagon or hand.</p>
+<p>X Undertakers and grave-diggers became totally inadequate; and soon many of<lb/>
+them, responding to their own gnawing anxieties, fled for their lives. Without<lb/>
+their services, this mother and child were carried away by their only survivors -<lb/>
+a lonely husband and his dog.</p>
+<p>X In this awful manner, great cities like Philadelphia, New Orleans and<lb/>
+<hi>Galveston</hi> (Texas) were attacked again and again, to be abandoned by the quick,<lb/>
+and left to the dead and the dying. Even great avenues, like Canal Street in New<lb/>
+Orleans, were hushed. Overhead, the smoke from tar and cannon formed an ominous shroud.<lb/>
+Thus it was for centuries, during which yellow fever kept the initiative, grimly<lb/>
+shuffled its cards and dealt to man its four characteristic &ldquo;suits&rdquo; - flight, fear,<lb/>
+sickness or death.</p>
+<p>X Let's pick up the story 75 years ago when this terrible pestilence was still<lb/>
+spreading to the U.S. each year from Cuba at an annual cost of millions of dollars and<lb/>
+thousands of American lives. In 1879 an American medical commission went to Havana;<lb/>
+<pb n="4" id="f04802004"/>
+AOA - 4 -<lb/>
+later its comprehensive and scholarly report contained &ldquo;everything&rdquo; about yellow fever<lb/>
+except its cause. In terms of immediate value this Chaille report was useless, but in-<lb/>
+directly it was beyond all price. No matter that it altered not one whit the thinking<lb/>
+of the American or Cuban medical professions; no matter that it failed to influence<lb/>
+notably a single public health official or quarantine-officer. The report <hi>did</hi> change<lb/>
+the thinking of one man, a 46 year-old Cuban physician whose house we passed on the Prado.</p>
+<p>X He was Dr. Carlos Finlay and he lived here at #52 (now #<hi>156</hi>) Prado. A<lb/>
+bronze tablet near the front door will identify it for you.</p>
+<p>X Dr. Finlay was so impressed by the Commission's opinion that &ldquo;the poison of<lb/>
+yellow fever&rdquo; must come from a living organism of unknown nature and source, that he<lb/>
+abandoned his own 21 year-old theory which had related yellow fever to an alkaline<lb/>
+atmosphere.</p>
+<p>X Then, by an epoch-making cerebration which he modestly spoke of as &ldquo;simple<lb/>
+reasoning,&rdquo; he by-passed thousands of germs and insects, and announced his opinion<lb/>
+that a particular mosquito was the carrier of yellow fever. Mind you, this was in<lb/>
+1881, <hi>14</hi> years before later scientists <del>connected</del><add>(Ross et al) proved the connection of</add> mosquitos with malaria.</p>
+<p>X That year he began to inoculate volunteers with mosquitos which had been<lb/>
+allowed to bite yellow-fever patients. The earliest volunteers were Spanish soldiers<lb/>
+at Cabanas barracks (here). Expecting to get the disease sooner or later, they hoped<lb/>
+that Doctor Finlay could control his inoculations so as to produce an attack which<lb/>
+though mild, would confer life-long immunity.</p>
+<p>X Crossing the narrow harbor (here) they had to walk up the Prado only three<lb/>
+or four blocks to Finlay's office.</p>
+<p>X For the next few volunteers he went farther afield, and for a special<lb/>
+reason. <del>In 1879</del> The American Commission <add>of 1879</add> had sought to find out where, in or near<lb/>
+Havana, there was the <hi>most</hi> and the <hi>least</hi> yellow fever. Soon they were directed to<lb/>
+suburban Marianao which to them was &ldquo;the cleanest, most attractive and beautiful town<lb/>
+in Cuba.&rdquo; Here, about 6 miles from downtown Havana, they learned an interesting thing:<lb/>
+Although yellow fever was common in Marianao and Quemados one place here was prac-<lb/>
+tically immune, the Finca San Jose, an estate owned for 200 years by the distinguished<lb/>
+<pb n="5" id="f04802005"/>
+AOA - 5 -<lb/>
+Pedroso family who in recent years (1872 - 1883) had rented it to the Jesuit priests<lb/>
+for a rest-home. So long as the Jesuits remained at the finca, none developed yellow<lb/>
+fever.</p>
+<p>Four years later, in 1883, when Finlay wanted more volunteers, the Jesuits<lb/>
+were still enjoying the mysterious immunity of the Finca San Jose. What better place<lb/>
+to demonstrate the malevolence of his mosquitos than here where for 11 years there had<lb/>
+been no yellow fever. So out to Quemados he went that summer, and inoculated 5<lb/>
+volunteers here in the Quinta San Jose.</p>
+<p>X Following such inoculations some of his volunteers got sick, but most of<lb/>
+them remained well. Despite this he kept on. But after 13 years he became somewhat<lb/>
+discouraged. Of 90 inoculations only 18% could be recorded as &ldquo;positive.&rdquo; After<lb/>
+writing 44 papers on his mosquito work, he had only one (professional) convert - his<lb/>
+assistant, Dr. Claudio Delgado.</p>
+<p>And so in 1894 he admitted his inability to induce mild, controlled yellow<lb/>
+fever with any regularity, and acknowledged the impracticability of this method of<lb/>
+&ldquo;controlling&rdquo; the disease. He now proposed to control it by preventing contacts be-<lb/>
+tween mosquitos and patients or non-immunes. But these proposals were ignored also,<lb/>
+not only then, but even later after Europeans had found that mosquitos caused malaria.</p>
+<p>Why was his work so universally ignored? His son Dr. Charles Finlay, has<lb/>
+given us the best explanation. First, he was too far ahead of his time; second, the<lb/>
+purpose of his inoculations was &ldquo;not demonstrative,&rdquo; but primarily therapeutic.</p>
+<p>Therefore Finlay regarded as sufficient the relative, rather than the<lb/>
+absolute, isolation of his volunteers before and after inoculation. But because<lb/>
+they were <hi>not</hi> strictly quarantined, the few who got sick were believed by others<lb/>
+to have developed their illness naturally, not experimentally.</p>
+<p>We can imagine the mingled feelings of frustration and annoyance, of<lb/>
+regret and disappointment which this gentle, scholarly physician must have ex-<lb/>
+perienced during those 19 years between 1881 and 1900. In his own heart and mind <hi>he<lb/>
+knew</hi> how yellow fever developed and spread. Though he couldn't convince others, <hi>he<lb/>
+knew</hi> what was sickening or killing uncounted thousands year after year, not only in<lb/>
+Cuba but around the world. Not only that, he was sure he knew how to <hi>control</hi> this<lb/>
+<pb n="6" id="f04802006"/>
+AOA - 6 -<lb/>
+miserable thing. Despite this, his medical compatriots not only ignored him, they<lb/>
+considered him a bit &ldquo;crazy.&rdquo;</p>
+<p>Then suddenly the Cuba which was blind to the makings of a profound, home-<lb/>
+grown, scientific revolution became <del>acutely</del><add>very</add> preoccupied with a military revolution.<lb/>
+But in terms of human welfare a successful outcome of the latter was, even to Cuba, of<lb/>
+lesser consequence than that of the former.</p>
+<p>X Down went the battleship <hi>MAINE</hi>, and the protracted Spanish-Cuban war became<lb/>
+a lively Spanish-American War which meant different things to different people.</p>
+<p>X For one thing, it meant once more the presence in Cuba of thousands of non-<lb/>
+immune soldiers. Time and again invading armies had been defeated, not so much by<lb/>
+Cuba's dark-skinned soldiers as by its skin-darkening plague, &ldquo;yellow jack.&rdquo; Though<lb/>
+the Americans were liberators, not invaders, Cuba's secret-weapon treated all non-<lb/>
+immunes alike, whether friend or foe.</p>
+<p>X And so, at the close of the Spanish-American war, although thousands of our returning<lb/>
+soldiers were received like conquering heroes, others came home less gloriously. Some<lb/>
+were in hospital ships, soldiers weakened by fever.</p>
+<p>X Some were in coffins, killed by an enemy more powerful than any Spaniard.</p>
+<p>X Day after day strong young Americans had become hot with fever and wracked<lb/>
+with pain. Then they turned yellow, developed &ldquo;black vomit&rdquo; and died - as many as<lb/>
+200 a day.</p>
+<p>X In 1900 General Leonard Wood, then Governor of Cuba, was in command of all<lb/>
+American soldiers still there. Many of them were quarantined in Havana proper.</p>
+<p>X But most of them were at Camp Columbia in suburban Quemados de Marianao.</p>
+<p>X What is now Havana's City Hall was General Wood's old headquarters. Many<lb/>
+of his staff lived in an adjacent building, just across the Plaza de<unclear><del>s</del></unclear> Armas (on rt.).</p>
+<p>X Here yellow fever struck with special fury, as if to show its contempt for<lb/>
+<del><unclear>autho</unclear></del> authority, even that of a physician-general.</p>
+<p>X Members of Wood's staff climbed these stairs to their rooms (in what is now<lb/>
+the Supreme Court Building).</p>
+<p>X Then, one after another, they were carried out, many of them to die.</p>
+<pb n="7" id="f04802007"/>
+<p>AOA - 7 -</p>
+<p>X In his headquarters 6 miles away, at Quemados, General Lee and his chief<lb/>
+medical officer, Major Kean, worried over the safety of the troops at nearby Columbia<lb/>
+Barracks.</p>
+<p>X This snapshot, taken by Dr. Lazear, shows Lee's headquarters on Calzada Real<lb/>
+(Royal Street) in 1900.</p>
+<p>X And this is how it looks now (a cheap restaurant and gasoline station! Sic<lb/>
+transit gloria mundi).</p>
+<p>X General Lee and Major Kean didn't have long to wait, for on May <hi>19</hi> yellow<lb/>
+fever struck down a Sergeant King living here at #20 (now 404) General Lee Street,<lb/>
+just off the post; then his wife and 3 members of another family in the same house.</p>
+<p>X Then instead of affecting such contacts as King's neighbors next door (as<lb/>
+one would expect a germ-disease to do) it went around this corner (where General Lee<lb/>
+and Royal Streets meet)...</p>
+<p>X ...to strike down <add>two soldiers</add> <del>a stranger</del> at #102 Calzada Real (still the same number).</p>
+<p>X At his quarters at Columbia Barracks Post-Hospital half a mile away was<lb/>
+Jesse W. Lazear, a young army contract-surgeon, <add>(salary - $150.00 per month)</add> a studious graduate of Johns Hopkins<lb/>
+and Columbia.</p>
+<p>X Having worked with malarial mosquitos as a resident at Bellevue Hospital,<lb/>
+New York, he was receptive to Finlay's notions about mosquitos and yellow fever.<lb/>
+So he went to Sgt. King's room on May 23 and captured 6 mosquitos but couldn't find<lb/>
+therein any &ldquo;yellow fever parasites&rdquo; (as his lab notes indicate). To his credit, it<lb/>
+should be noted that Lazear was entertaining and pursuing this idea on his own initiative <lb/>
+in far-away Cuba on May 23, the day <hi>before</hi> the Army's Yellow Fever Board was appointed<lb/>
+in Washington and <hi>a month before</hi> the Board's first meeting in Cuba.</p>
+<p>X On May 24, Surgeon General Sternberg in Washington appointed &ldquo;a Board of<lb/>
+Officers&rdquo; - the Army's &ldquo;Yellow Fever Board&rdquo; of four men. Major Walter Reed, and Dr.<lb/>
+James Carroll (contract-surgeon) in Washington were ordered to Cuba at once, to join<lb/>
+Dr. Aristides Agramonte (then in the U. S. Army's lab at Military Hospital #1,<lb/>
+Havana) and Dr. Lazear (in the lab at Columbia Barracks, Post Hospital, Quemados). But<lb/>
+their departure was delayed a month.</p>
+<pb n="8" id="f04802008"/>
+<p>AOA - 8 -</p>
+<p>X Down in Quemados, Major Kean (General Lee's Chief Surgeon) began to list<lb/>
+in his diary the names of soldiers and civilians, of fellow-officers and their wives,<lb/>
+all living in the neighboring streets of Quemados and all victims of yellow fever.<lb/>
+Matters became so serious that General Lee ordered all those (even physicians) not<lb/>
+immediately in charge of the sick to stay away from the rooms of those afflicted.</p>
+<p>X Thus Major Kean (quartered at #<hi>16 <add>now ?</add></hi>, General Lee Street) could not visit<lb/>
+his friends and neighbor, Major Edmunds, who lay sick unto death at #<hi>27</hi> (now #303) just<lb/>
+across the street. As Edmunds worsened, Kean's loyalty to his dying friend overcame<lb/>
+his sense of obedience, and so near the last dawn that Edmunds was to see, Kean rose<lb/>
+about 4 a.m. and crossed the street to this little house. Here on the porch outside<lb/>
+this window and technically &ldquo;not in the patient's room,&rdquo; he spent a last few minutes.<lb/>
+But for this gesture he was to pay a high price. During his short visit he was bitten<lb/>
+by mosquitos from the sickroom but thought little of it. A few days later, on June 21,<lb/>
+Major Kean suddenly developed yellow fever. As if to ridicule the ignorance of Medicine<lb/>
+and the puny efforts of the Army Medical Corps the disease was now striking down the<lb/>
+physicians themselves.</p>
+<p>X On that same day (June 21) Reed and Carroll sailed from Washington. In<lb/>
+Havana four days later, they reported for duty, first at Wood's headquarters downtown,<lb/>
+next to Lee's headquarters in Quemados.</p>
+<p>X Then Reed was taken immediately to see his old friend, Major Kean, now<lb/>
+being cared for in one of the Post Hospital's isolated, little yellow fever huts. This<lb/>
+was the first case of yellow fever Reed ever saw.</p>
+<p>X Later that day (June 25) the 4 Board members had their first meeting...</p>
+<p>X ...on the veranda of the medical officers' quarters (here). Major Reed acquainted<lb/>
+his colleagues with the Surgeon General's verbal instructions and written orders.</p>
+<p>Then the four young physicians discussed the main theories on the cause of<lb/>
+yellow fever, and the possible or relative merits of each. The two most pertinent<lb/>
+<pb n="9" id="f04802009"/>
+AOA - 9 -<lb/>
+ones concerned Sanarelli's so-called &ldquo;yellow fever germ&rdquo; and Finlay's so-called<lb/>
+&ldquo;yellow fever mosquito.&rdquo; Doubtless each board-member had his chance to comment, and<lb/>
+Lazear may well have revealed a preferential interest in Finlay's ideas, recalling<lb/>
+&ldquo;those mosquitos in Sergeant King's quarters...&rdquo;</p>
+<p>But Reed, the Army's senior investigator, had a chairman's right to decide<lb/>
+which theory should get the first or major attention. The Board should view the<lb/>
+over-all problem with objectivity and impartiality; preconceived notions or premature<lb/>
+favoritism toward one or another concept might hamper their work and get it off on<lb/>
+the wrong track. Certainly, as opportunity allowed, they would explore as many<lb/>
+aspects of the problem as possible and, it might be hoped, whatever new ideas they might<lb/>
+themselves develop.</p>
+<p>Although it lacked general acceptance and was far from proved, the bacterial<lb/>
+theory of yellow fever was currently the most popular. But its proponents could not<lb/>
+agree as to what germ was the cause: Sternberg himself had incriminated one bacillus,<lb/>
+Sanarelli blamed another. The influential U. S. Marine and Public Health Service had<lb/>
+officially backed Sanarelli's claims. Three of the Board's own members (Reed and<lb/>
+Carroll in Washington; Agramonte independently in Cuba) has previously investigated<lb/>
+these claims. Although their results had been negative (supporting neither Sternberg<lb/>
+nor Sanarelli) they had thereby developed special competence and knowledge of the<lb/>
+bacteriology of yellow fever.&rdquo; The subject, though controversial, had aroused great<lb/>
+interest. The epidemic developing around them gave the Board a golden opportunity<lb/>
+to study it intensively, and perhaps to settle the bacterial theory one way or the<lb/>
+other, once and for all.</p>
+<p>And so it was given priority. Carroll and Agramonte were to apply their<lb/>
+skills in bacteriology and pathology, to a study of the fluids, excreta and tissues<lb/>
+of the sick and the dead. Lazear was to help them in any way he could, but his main<lb/>
+assignment was to lay the groundwork for whatever studies of mosquitos the Board might<lb/>
+make later, for he was the only member proficient in that work. To this end he began<lb/>
+to assemble the apparatus and information necessary to hatch the larvae, and to breed<lb/>
+and infect mosquitos.</p>
+<pb n="10" id="f04802010"/>
+<p>AOA - 10 -</p>
+<p>During July many s mears and cultures were made on yellow fever victims,<lb/>
+but no special germ was found and the Board was getting nowhere.</p>
+<p>X In camp at Pinar del Rio, <hi>110</hi> miles west of Havana, were about <hi>900</hi><lb/>
+American Soldiers. The war was over; they were restless, and at loose ends. They<lb/>
+wanted to go somewhere, anywhere, but preferably home. Under such conditions soldiers<lb/>
+are likely to get into mischief. So the guard house had its full quota of occupants,<lb/>
+most of whom were confined for minor offenses. In a 1st floor prison-room (just<lb/>
+behind the ambulance, here) were nine of them. One was a 22-year old lad from Michigan,<lb/>
+temporarily listed not as Private Arthur Haskins but as &ldquo;General Prisoner Haskins.&rdquo;<lb/>
+While imprisoned here, he became feverish on July 12, and was removed to the Post<lb/>
+Hospital nearby, (Pinar del Rio). Physicians on duty there included Captain Godfrey,<lb/>
+a regular medical officer, and a young Virginian, Dr. Robert Cooke, a brand new<lb/>
+contract-surgeon whose concern of the moment was an understandable but uncomfortable<lb/>
+ignorance of <hi>military</hi> medicine. As far as Arthur Haskins was concerned this didn't<lb/>
+matter, really, for he was beyond help, and in 6 days it was all over for him. When,<lb/>
+in due time, his coffin arrived home (and let us hope it was flag-draped) his friends<lb/>
+and family undoubtedly did their loyal-best to &ldquo;do right&rdquo; by Arthur for, after all,<lb/>
+<hi>any</hi> home-coming soldier should be treated as a hero, sort of. &ldquo;He died in Cuba:<lb/>
+&lsquo;pernicious malaria&rsquo; they called it;&rdquo; this much the family could say without em-<lb/>
+barrassment. But what more could they say of their Boy? When just 21, he had en-<lb/>
+listed &ldquo;for adventure,&rdquo; but he reached Cuba too late; 10 months of undramatic<lb/>
+&ldquo;soldiering&rdquo; climaxed by a little mischief, the guard-house, then death.</p>
+<p>Thus ended his undistinguished civilian and military careers. But &ldquo;the<lb/>
+third career of Arthur Haskins&rdquo; helped to change the course of history. I refer to<lb/>
+his short medical career as a patient for 6 fateful days, a career of which his<lb/>
+relatives may never have heard, even to this day, for until tonight his name has never<lb/>
+been revealed, so far as I can find.</p>
+<p>X During those July days Captain Stark at Lee's Headquarters in Quemados was<lb/>
+&check; having his special troubles. In the temporary absence of Major Kean who was on <unclear><del>fur-</del></unclear><lb/>
+&check; leave recovering from his yellow fever, Stark was the acting Chief Surgeon of the De-<lb/>
+<pb n="11" id="f04802011"/>
+AOA - 11 -<lb/>
+partment of Havana Province and Pinar del Rio. The yellow fever in downtown Havana<lb/>
+was still spreading; that was the concern of Gorgas (Chief Surgeon of the Department of<lb/>
+the <hi>City</hi> of Havana). But the yellow fever at Camp Columbia, that was part of Stark's<lb/>
+business, as were Godfrey's reports of malarial soldiers at Pinar.</p>
+<p>The rules and regulations, the quarantines, disinfections and uncertainties<lb/>
+engendered by yellow fever posed many problems, but, thank goodness, the proper con-<lb/>
+trols were being enforced in Havana and Quemados. Godfrey was luckier - only malaria<lb/>
+to deal with; some fatal cases to be sure, &ldquo;pernicious malaria&rdquo;, but still malaria.<lb/>
+Fortunately they <hi>knew</hi> something about <hi>its</hi> cause and how to manage it.</p>
+<p>Stark ticked them off: <add>In Havana,</add> yellow fever; <add>in Quemados-</add> yellow fever; <add>in Pinar -</add> malar..., he corrected<lb/>
+himself,... pernicious malaria. And then a sudden frightening thought: Was Godfrey<lb/>
+right, or was it yellow fever in Havana, yellow fever in Quemados and <hi>yellow fever</hi><lb/>
+in Pinar - unsuspected and <del><unclear>[unclear]</unclear></del> therefore unquarantined and uncontrolled!</p>
+<p>&ldquo;July 17 - To Dr. Aristides Agramonte&rdquo; (skilled in the clinical pathology<lb/>
+of yellow fever) ...&ldquo;You will proceed at once to Pinar del Rio to investigate cases<lb/>
+of &lsquo;pernicious malaria&rsquo;&rdquo;: signed, Scott, Acting Adjutant General.</p>
+<p>X <del><unclear>[unclear]</unclear></del> <add>The next</add> day Agramonte made rounds in the wards at Pinar. As Captain<lb/>
+Godfrey showed him case after case of &ldquo;malaria&rdquo; Agramonte's lips tightened and his<lb/>
+face became grim. But he kept his growing suspicions to himself and guarded his<lb/>
+tongue. No use to embarrass Godfrey, the hospital's medical chief, in front of the<lb/>
+soldier attending him - Hospital Steward Tate. But when he and Godfrey were alone<lb/>
+Agramonte said: Let's see your &lsquo;posts&rsquo;. When was the last case &lsquo;postedrsquo;? <del><unclear>[unclar]</unclear></del> <add>You're going</add><lb/>
+<del><unclear>[unclear]</unclear></del><add>to do one this morning? Let me see it with you.</add></p>
+<p>Soon he was reading: &ldquo;Private Arthur Haskins (general prisoner), aged 22;<lb/>
+onset of illness - July 12 in guard-house; died July 18; post-mortem - July 19; cause<lb/>
+of death - pernicious malaria.&rdquo; Malaria? <hi>Not</hi> to Agramonte: not with those symptoms<lb/>
+and signs - fever, albuminuria and jaundice - then that &ldquo;post&rdquo;. Finally it had to be<lb/>
+said: Good heavens, man, don't you know yellow fever when you see it?</p>
+<p>A quick telegram to Stark; a prompt reply and that very night Agramonte<lb/>
+not Godfrey, was in (temporary) charge at Pinar. And Reed would leave Quemados to<lb/>
+<pb n="12" id="f04802012"/>
+AOA - 12 -<lb/>
+join him at Pinar as soon as possible. Two days later (July 21) the unhappy Godfrey<lb/>
+was grilled again, this time by Reed, and when the latter's conclusions confirmed<lb/>
+those of Agramonte, it looked as if &ldquo;yellow jack&rdquo; had done it again. Of course the<lb/>
+hospital records could be corrected. But the dead were dead, and the cause of it<lb/>
+was not to be found either in records or bodies.</p>
+<p>X Reed to Agramonte and Godfrey: - Let's get down to cases. We know how<lb/>
+Haskins <hi>died</hi>, but how did he get sick? And why? Let's take a look.</p>
+<p>Reed to Haskins' former cell-mates, the 8 surviving prisoners still in the<lb/>
+guard-house: - Before Haskins took sick in here, did he have any visitors, any food<lb/>
+or gifts from outside? No? Well, before he reported sick last week, Thursday, did<lb/>
+he seem alright? How about his appetite; did he eat his rations? Same as yours<lb/>
+I suppose? Which cot was his, this one or that - nearer the window?</p>
+<p>The prisoners and guards could and did answer questions like that but not<lb/>
+the main one Reed came to ask: &ldquo;<hi>Why</hi> did Haskins get sick?&rdquo;</p>
+<p>If one has no answers, all you have left is the question, and all you can<lb/>
+do with it is to keep on asking it of yourself, over and over again. But Reed's<lb/>
+question, formulated in Godfrey's hospital-office, underwent a subtle transformation<lb/>
+when repeated in the atmosphere of the prison-cell where the final tragedy of Haskins<lb/>
+began. In Godfrey's office Reed's query was: &ldquo;<hi>Why</hi> did he get sick,&rdquo; but here in the<lb/>
+cell, as Reed stood by Haskins' empty cot it was: &ldquo;Why did <hi>he</hi> get sick?...and why<lb/>
+not the others?&rdquo;</p>
+<p>The startling proposition: a soldier here in this prison cell gets yellow<lb/>
+fever and dies. But others, these eight, eat the same food, drink the same water,<lb/>
+breathe the same air, share the same cell, and stay well. Where's the difference!<lb/>
+His bed, - any connection with that window? Could something have gotten in, <hi>flown</hi> in<lb/>
+perhaps, between the bars of that &ldquo;open&rdquo; window, landed on Haskins and then gone<lb/>
+away without touching these others? ....Could Finlay be right after all!</p>
+<p>With such sobering, but exciting, thoughts Reed and Agramonte returned to<lb/>
+Havana. But Reed was not done with the <del><unclear>[unclear]</unclear></del> <add>Pinar business</add>, and <add>during the week of</add> <del><unclear>[unclear]</unclear></del> July <hi>30</hi> he sent<lb/>
+<pb n="13" id="f04802013"/>
+AOA - 13 -<lb/>
+Lazear there <add>on a 3 day visit</add> to size things up for himself.</p>
+<p>X August 1st was a Wednesday: 38 days after their first session the 4 Board<lb/>
+members met again on the porch outside Reed's room at the Post Hospital's B.O.Q.<lb/>
+Things were different. Two weeks ago their work had added up to &ldquo;zero.&rdquo; But now<lb/>
+things were different somehow. They had found no yellow fever germ <add>or</add> parasite. The<lb/>
+sick rooms, laboratories and dead-rooms had yielded nothing tangible, either in<lb/>
+Havana, Quemados or Pinar. The 19-year old Finlay theory, tagged and tarnished by<lb/>
+a thousand rejections, was, on this first day of August, exactly the same as it had<lb/>
+been a mere 2 weeks ago. Or was it? Finlay hadn't changed it, but...had Prisoner<lb/>
+Haskins &ldquo;changed&rdquo; it, or rather his empty cot near that &ldquo;open&rdquo; window?</p>
+<p>Lazear &ldquo;thinking out loud&rdquo; in front of the Board: - In view of the Pinar<lb/>
+data, perhaps the following fits in, too. The Quemados epidemic here started on<lb/>
+May <hi>19</hi> with King <add>at</add> 20 General Lee Street. He knew, and must have at least chatted<lb/>
+with, the folks living next door on either side; in other words, they were fairly<lb/>
+close contacts, but stayed well. <hi>16</hi> days after King, the next <add>place affected</add> <del><unclear>[unclear]</unclear></del> was that <del><unclear>[unclear]</unclear></del><lb/>
+______at 102 Real. But that house is some distance around the corner, and, measured<lb/>
+in terms of the side-walk distance, it's fairly separate from 20 Lee. Now so far as<lb/>
+we can find out, King had no contact with anyone at 102 Real, and, in fact he didn't<lb/>
+even know <hi>them</hi>. But the <hi>back-yards</hi> of 20 Lee and 102 Real are a lot closer<lb/>
+than their fronts. If Finlay's right, one of his culexes may have simply hopped<lb/>
+fences, from <del><unclear>[unclear]</unclear></del> <add>20 Lee Street</add> to <hi>120 Real</hi> by the <hi>back</hi> way. Now, in retrospect, this seems to<lb/>
+make some sense, doesn't it?</p>
+<p>It did, and so the Boarded decided (August 1) to give now their major<lb/>
+effort to the mosquito, rather than to the bacterial, theory. But this involved a<lb/>
+momentous and heroic decision because no animal was known then to be susceptible<lb/>
+to yellow fever. Human volunteers were required, and, unwilling to ask others to<lb/>
+do what they themselves would not do, the Board members agreed to be among the first<lb/>
+to be inoculated.</p>
+<p>X Lazear (with Reed?) went at once to confer with Dr. Finlay who had moved<lb/>
+from the Prado to #110 (now 460) Aguacate Street.</p>
+<pb n="14" id="f04802014"/>
+<p>AOA - 14 -</p>
+<p>X You can imagine how thrilled Finlay must have been at this turn of events<lb/>
+and at this evidence of the Board's serious interest. He graciously gave all the<lb/>
+help he could, including some mosquito-eggs of the suspected species which he had<lb/>
+growing in a small white porcelain shaving bowl.</p>
+<p>X Unfortunately, just at this point, when things were &ldquo;looking up,&rdquo; Reed was<lb/>
+recalled to Washington to finish an important Army report (that of the Typhoid Fever<lb/>
+Board of which Reed had been a member and the final preparation of which was being<lb/>
+prevented by the sudden death of Dr. Shakespeare). After Reed left Havana (August 2)<lb/>
+for Washington, Carroll and Agramonte continued respectively their bacteriologic and<lb/>
+pathologic studies; summaries and unfinished business had to be cared for.</p>
+<p>Heretofore Lazear's role, and his opportunities to contribute to the Board's<lb/>
+problem, had been minor. But now the responsibility for the new phase of the Board's<lb/>
+work (although not for the over-all direction of the Board) was his and his alone.<lb/>
+Circumstances responsible for this situation were Reed's absence, Lazear's superior<lb/>
+knowledge of mosquito work (and his greater susceptibility to Finlay's theory), and<lb/>
+the complete preoccupation of Carroll and Agramonte with their own assignments for<lb/>
+which they, in turn, had special fitness.</p>
+<p>Lazear began to hatch Finlay's larvae and raise the resultant mosquitos in<lb/>
+this little laboratory at the Post Hospital. Then he tried to infect them by allowing<lb/>
+them to bite yellow fever patients at downtown Las Animas Hospital, Havana's hospital<lb/>
+for contagious diseases. Between August 11 and 25, Lazear made nine inoculations on<lb/>
+American soldiers, including one on himself (the 6th inoculation, done August 16) but<lb/>
+nothing happened.</p>
+<p>X Doubtful, and discouraged by these unsuccessful attempts, Carroll then ac-<lb/>
+cepted his turn and was inoculated by Lazear early in the afternoon of August 27.</p>
+<p>X Feeling out of sorts 3 days later (August 30), Carroll went sea-bathing at<lb/>
+nearby LaPlaya (which was much more primitive then than now). Early the next morning<lb/>
+he was definitely hot and sick but didn't take his temperature. Having now lost faith<lb/>
+in Finlay's theory, and discounting entirely the possibility that Lazear's one mosquito<lb/>
+inoculation might be producing results, Carroll thought he was developing malaria but<lb/>
+examined his own blood in vain (9 a.m., August 31).</p>
+<pb n="15" id="f04802015"/>
+<p>AOA - 15 -</p>
+<p>X But Lazear, having examined Carroll, was sure that something was up and<lb/>
+that their first positive case was at hand. So, two hours later, at 11 A.M., he<lb/>
+inoculated (without the knowledge of anyone else) a scoffing volunteer soldier who<lb/>
+&ldquo;wasn't afraid of any little old gnat.&rdquo; He was Private Dean (later designated as<lb/>
+&ldquo;Case XY&rdquo;) who for some days had been a patient in one of the Post Hospital's wards<lb/>
+because of an acute disease which eager young soldiers everywhere seem to run into!<lb/>
+When yellow fever hit him six days later he became a very surprised, but willing,<lb/>
+hero. To round out his story, years later a memorial bridge in Grand Rapids was<lb/>
+dedicated to him as &ldquo;the first from the ranks to volunteer for experimental yellow<lb/>
+fever&rdquo;! And in 1929 his widow received a special Congressional Medal, belatedly<lb/>
+awarded him. (Obviously there's more than one way for a soldier to become a &ldquo;hero.&rdquo;<lb/>
+Smiles aside, his case proved to be crucial; being at the right place at the right<lb/>
+time, he was permitted by fate to make his unique contribution. Meanwhile Carroll<lb/>
+developed a severe and almost fatal attack from which he began to convalesce by Septem-<lb/>
+ber 11 but he was not fully recovered till November.</p>
+<p>X Having accomplished two very successful inoculations, Lazear wrote his wife<lb/>
+(September 8): &ldquo;I rather think I am on the track of the real germ. But nothing<lb/>
+must be said as yet, not even a hint. I have not mentioned it to a soul.&rdquo;</p>
+<p>He was on the &ldquo;right track&rdquo; alright, but for him it was to be a short,<lb/>
+rough track and a one-way journey. A few days later (about Sunday, September 16) he<lb/>
+began to feel &ldquo;sickish,&rdquo; and on that and the next day he skipped some meals but kept<lb/>
+quietly at work. But by Tuesday morning (the 18th) he could conceal his illness no<lb/>
+longer and he stayed in bed. His medical colleagues (Drs. Ames, Pinto and Truby) saw<lb/>
+him frequently during the next 24 hours and then removed him carefully (at 10 A.M.,<lb/>
+September 19) to one of the little yellow fever huts. From the first he was very ill,<lb/>
+and a week later he died, at 8:45 P.M., Tuesday, September 25.</p>
+<p>X The night of his death his wife Mabel was in far-away Massachusetts with<lb/>
+their <del><unclear>[unclear]</unclear></del> <add>17 months</add>-old boy, Houston, and a brand-new <add>4 weeks old</add> baby girl (Peggy, born <hi>August 24</hi>),<lb/>
+whom Dr. Lazear was never to see. Since receiving his letter of September 8, Mrs.<lb/>
+Lazear had heard nothing from Cuba; hence she didn't even know he was sick. Early on<lb/>
+<pb n="16" id="f04802016"/>
+AOA - 16 -<lb/>
+the morning of Wednesday, September 26, the doorbell rang at 27 Atlantic Avenue,<lb/>
+Beverly, Massachusetts. Mrs. Lazear went to the door, closely followed by &ldquo;Gertrude,&rdquo;<lb/>
+the colored maid and nurse-girl who had accompanied her to Cuba and back that spring.<lb/>
+The presence of a Western Union boy was unexpected and disturbing, but after a moment's<lb/>
+hesitation, Mrs. Lazear reached for the telegram. Just then &ldquo;Gertrude,&rdquo; who regarded<lb/>
+all such with foreboding, grabbed it, crying out in alarm: &ldquo;Don't you open it, Miz<lb/>
+L'zear. Let me he'p you.&rdquo;</p>
+<p>And help was sorely needed, for the wire, dated from Quemados the night<lb/>
+before (September 25) and forwarded from Washington that morning (September 26) read<lb/>
+thus: &ldquo;Mrs. Lazear, Atlantic Avenue, Beverly, Mass...Dr. Lazear died at 8 this<lb/>
+evening...Kean.&rdquo; (Source of my information - Mrs. Jesse W. Lazear herself when I<lb/>
+visited her at her home in Santa Barbara, California, in <del><unclear>1945 [unclear]</unclear></del> <add>April 1943, 3 years</add> before<lb/>
+her death. I have the original telegram and its envelope - P.S.H.). No warning, no<lb/>
+details of the illness, no information as to a funeral; not even the smallest crumb<lb/>
+of comfort for the shocked woman. To her despairing &ldquo;How&rdquo; and &ldquo;Why!&rdquo; she was to get<lb/>
+no satisfying answer then or soon. Before that year's end she got <hi>an</hi> answer. But, as<lb/>
+in a Greek tragedy, the confusing uncertainties and delays which deprived her of <hi>the</hi><lb/>
+answer in 1900 set in motion forces which, though they were fundamentally innocuous<lb/>
+and even &ldquo;protective,&rdquo; kept it from her until almost 45 years later, <add>when I was able to give her information of which she had never
+heard.</add></p>
+<p>X A few hours after the cablegram was delivered in Beverly, Dr. Lazear was<lb/>
+buried in Quemados. His <add>humble</add> professional position, unadorned uniform and quasi-military<lb/>
+title entitled him to nothing but common courtesy from &ldquo;the regulars.&rdquo; Of the latter,<lb/>
+those who knew the least about this pleasant but quiet young doctor frankly recommended<lb/>
+that his disposal be quick, quiet and private. But the Medical Corps regulars on hand,<lb/>
+even though <del><unclear>[unclear]</unclear></del> they had nothing<lb/>
+very tangible to go on , sensed instinctively that this young man and this young death<lb/>
+were something special. If so, the funeral should be &ldquo;special&rdquo; too, even though<lb/>
+there seemed, at the time, to be nothing at all special about what killed him.</p>
+<p>&ldquo;Unexpected difficulties&rdquo; arose: no chaplain, coffin-flag or band were<lb/>
+available, and the lame reasons offered by &ldquo;Camp Headquarters&rdquo; for these sudden<lb/>
+<pb n="17" id="f04802017"/>
+AOA - 17 -<lb/>
+deficits made the hospital's young C.O. (Lt. Truby) not mad, but a little sick inside.<lb/>
+This foreign emotion must have given to the lieutenant's voice a subtle bite and a<lb/>
+quiet authority, for thereafter &ldquo;the colonel&rdquo;, and the other superiors he had to deal<lb/>
+with that day, chose to consent &ldquo;graciously&rdquo; to his requests.</p>
+<p>X That afternoon non-medical regulars from Camp Columbia and the ranking<lb/>
+medical officers from Departmental Headquarters joined the entire personnel of the<lb/>
+Post Hospital - officers, enlisted men and nurses all being dressed in white. Together<lb/>
+they buried the young physician who was &ldquo;entitled to but few military honors.&rdquo; They<lb/>
+draped a new flag on his coffin, and they got him the Camp's band, all of it, and a<lb/>
+Presbyterian minister from Havana. What with this and that he ended up with &ldquo;full<lb/>
+military honors.&rdquo; Then, before re-burial in Baltimore, he lay for some months in<lb/>
+the Post's little military cemetery which the Army had <del><unclear>[unclear]</unclear></del> <add>bought</add> from <del><unclear>[unclear]</unclear></del> Senor <hi>Ramon Gonzalez</hi><lb/>
+Socorro<lb/>
+for <del><unclear>[unclear]</unclear></del> <add>$300.00</add>. It was no out-of-the-way place either; indeed the LaPlaya railroad<lb/>
+cars passed right by it regularly, carrying merry-makers to the beach less than a<lb/>
+mile away. They were luckier than he, for if &ldquo;science&rdquo; got busy, perhaps they could<lb/>
+swim many a day and not get yellow fever.</p>
+<p>X Reed hurried back to Havana on the Army transport CROOK. He was greatly<lb/>
+depressed by Lazear's death about which he'd received, while in Washington, very<lb/>
+fragmentary and unsatisfactory information. Therefore when, on October 3, the CROOK<lb/>
+landed at Matanzas the day before it was to reach Havana he was glad indeed to see<lb/>
+Kean come aboard to <del><unclear>[unclear]</unclear></del> to answer some of the anxious questions<lb/>
+Reed had piled up, and to give him more details of the illness of Carroll and Dean,<lb/>
+and of the experiments and death of Lazear.</p>
+<p>X Just <hi>what</hi> had happened anyway? Did something go wrong? Carroll didn't<lb/>
+stick to the agreement regarding &ldquo;relative quaranting,&rdquo; did he? And what about that<lb/>
+private who got yellow fever right in the hospital? Had he too been allowed to roam<lb/>
+around? But first of all, what about Lazear; where did <hi>his</hi> infection come from;<lb/>
+Truby saved Lazear's notes - do they show anything? Was he <hi>really</hi> bitten at Las<lb/>
+Animas; would a careful fellow like Lazear let a fool thing like that happen and then,<lb/>
+to make matters worse, not even catch or identify the critter that bit him? Hard to<lb/>
+<pb n="18" id="f04802018"/>
+AOA - 18 -<lb/>
+believe! Or do his notes tell us something? Come on, Kean, I'm almost &ldquo;sick&rdquo; for<lb/>
+not knowing.</p>
+<p>The questions literally poured forth, one tripping on the heels of the<lb/>
+other.</p>
+<p>X During that night, as the transport made for Havana, Reed puzzled over the<lb/>
+one version of Lazear's illness - the Las Animas version - actually a disappointing,<lb/>
+senseless account. But next day in the privacy of the B.O.Q. at the Post Hospital<lb/>
+he heard, from Truby in particular, a far different story; what there was of it made sense;<lb/>
+it really did! If only there were more details, more complete notes! Truby, let me<lb/>
+have that note-book of Lazear, and see that I get the 11 cases too, from his first<lb/>
+negative case on through that soldier, Private... er... Dean, that's it. Hurry them<lb/>
+along, will you, doctor, and thanks a lot!</p>
+<p>In brief, the first account follows: During the first 4 days of Lazear's<lb/>
+illness he was curiously reticent. Indeed on that first Sunday and Monday he'd<lb/>
+tried to conceal it. On Tuestay when he couldn't hide it longer and had to give in,<lb/>
+and even on Wednesday after he's been transferred to the yellow fever huts he<lb/>
+professed to have no idea how he'd contracted his disease; and he was questioned<lb/>
+many times.</p>
+<p>By the 5th day he was obviously in bad shape and he knew it too. Before<lb/>
+that he was uncomfortable of course, quite so, but calm and expecting to improve soon,<lb/>
+like Carroll and Dean did. But on Thursday, the 20th, he must have asked himself<lb/>
+some long thoughts, not panicky but some anxiety became obvious. That's when Gorgas,<lb/>
+and Carroll too (still none too well) stopped to see him briefly. When they asked if<lb/>
+he had any idea where he might have picked up his disease he remembered for the first<lb/>
+time an incident that had happened a whole week previously, that is on Thursday,<lb/>
+September 13.</p>
+<p>Three or four days before his first symptoms, he went to Las Animas Hospital<lb/>
+to infect some mosquitos. While feeding them on yellow fever patients in this room, a<lb/>
+stray mosquito lit on his hand.</p>
+<p>X <add>Presumably</add> both his hands were occupied; with his right hand he was coaxing a mosquito<lb/>
+<pb n="19" id="f04802019"/>
+<hi><del>Insert on</del><add>Type as</add>Card <del>19</del><add>18b</add></hi> (it replace last &para; card 18)</p>
+<p>This fearful disease <add><del>It would knock first at the doors of</del><add>Which came yearly to</add> our great ports - New Orleans, Charleston,<lb/>
+Philadelphia, New York and Boston,</add> had its pre-historic <del>birth</del><add>origin</add> in the West Indies <del>and<lb/>
+along the Mexican and Central American coasts of the Gulf of Mexico. But for un-<lb/>
+counted years its terrors were localized, spreading no farther than Yucatan and<lb/>
+Panama. But a</del> <add>A</add>bout 1494 <add>&amp; later</add> <del>this Pandora's box was opened by</del> Columbus and <del>these who</del><add>his success on</add><lb/>
+<del>followed after, and they</del> unwittingly carried <del>it far and wide</del> <add>across <unclear>oceans</unclear> to far countries</add>. During the next four<lb/>
+centuries <add>the almost yearly epidemics spread</add> &ldquo;yellow jack&rdquo; <del>roamed uncontrolled, spreading</del> north and south, east and west<lb/>
+from its lair in the tropics. <del>From the West Indies which were continually affected,<lb/>
+the plague spread across oceans to far countries until it had extended its deadly in-<lb/>
+fluence over a sizable portion of the earth. Through a series of almost yearly epi-<lb/>
+demics</del> <add>until</add> it <del>came to</del> rule<add>d</add> over a diamond-shaped area which stretched - on the north from<lb/>
+Quebec in Canada and Wales in England, to Montevideo, Uruguay on <add>the</add> south, from San Francisco<lb/>
+on the west to Italy on the east.</p>
+<p>Thus the Empire of Yellow Fever <del>was, at its high-water mark</del><add>became</add>, 9,000 miles<lb/>
+wide and 5,600 miles broad, an area far greater than that conquered by the Holy Romans.<lb/>
+In retrospect this <del>extensive subjugation (conquest) was</del> <add>is</add> all the more remarkable be-<lb/>
+cause the agent chiefly responsible was a tiny gnat so feeble that it lived<add>,</add> <del>for an</del><lb/>
+<add>on it</add> average<add>,</add> <del>of</del> only a few <del>(2 to 10)</del> weeks, so lazy <del>and sedentery</del> that it rarely travelled <add>more than a few <del><unclear>[unclear]</unclear></del> feet</add><lb/>
+on its own power (i.e. without wind-currents) <del>more than a few <del><unclear>[unclear]</unclear></del> feet</del>, so domestic<lb/>
+that the deadly but <del>i</del> unadventurous female rarely left its chosen premises if water<lb/>
+and human blood were at hand, so agreeable that it &ldquo;asked&rdquo; of its human associates<lb/>
+only a drop or two of blood <del>ana</del>, two or three times a week. <del>Indeed it commonly lived<lb/>
+and died in the place where it was born.</del></p>
+<p><del>Despite this</del> <add>Neverthless</add>, its virulent poison (<del>as in the manner</del> <add>like that</add> of today's Communist<add>s)</add><lb/>
+<del>variety) was passed beyond far boundaries by the <unclear>[unclear]</unclear></del> <add>affected many countries <unclear>infatuated</unclear> of the</add> <del>i</del>migrations of<lb/>
+harmless-looking but dangerous human accomplices.</p>
+<p>Between <add>1668 and</add> 1900 <del>and the year 1668 (when yellow fever first appeared in the<lb/>
+U.S. proper)</del> it invaded our country 142 times. <del>During the last <hi>half</hi> of that period<lb/>
+it affected at least 500,000 Americans of whom at least 100,000 died (Sen. Doc. p. 132).</del><lb/>
+<del><del>It would knock first at the doors of</del> <add>Which came yearly to</add> our great ports - New Orleans, Charleston,<lb/>
+Philadelphia, New York and Boston,</del></p>
+<pb n="20" id="f04802020"/>
+<p>AOA - 19 -<lb/>
+in a test tube to light on the patient's skin. Thus he could not, or at least did <lb/>
+not, chase off or kill the stray one before it bit him.</p>
+<p>X But from 2 or 3 unpublished records written by Agramonte and from cryptic<lb/>
+notes found in Lazear's pocket and examined by only 2 men (Reed and Truby) after<lb/>
+Lazear's death we now know that he died of what was almost certainly secret, self-<lb/>
+induced yellow fever.</p>
+<p>X Lazear's precious notes included the timing of the successful and unsuccess-<lb/>
+ful inoculations. Studying these carefully Reed discovered the secret which had died<lb/>
+on Lazear's lips, <add>and thus <hi>re</hi>-discovered the cause of yellow fever.</add> To become infected a mosquito must bite a yellow fever patient within<lb/>
+the first 3 days (not later). Even so, it is harmless until the virus has &ldquo;ripened&rdquo;<lb/>
+within the mosquito for at least 12 days. This previously undiscovered &ldquo;formula&rdquo;<lb/>
+explained the failures of Finlay and the first ones of Lazear.</p>
+<p>X Working feverishly during the 10 days between October 4 and 13, Reed wrote<lb/>
+up the Board's &ldquo;Preliminary Report&rdquo; describing carefully the 9 failures, the positive<lb/>
+cases of Carroll and Dean and as much of Lazear's case as possible. Then after returning<lb/>
+to confer with the Surgeon General in Washington, he went to Indianapolis where, on<lb/>
+October 23, in this building (The German House - still there)...</p>
+<p>X ... and in this room he made the Board's first report to the American Public Health<lb/>
+Association.</p>
+<p>Although the paper was praised by some, it was received with indifference<lb/>
+by many because these first American volunteers (like these of Finlay) had not been<lb/>
+really quarantined.</p>
+<p>X This November 1st WASHINGTON POST editorial ridiculed the work thus: &ldquo;Of<lb/>
+all the silly rigamarole about yellow fever...etc...the silliest (concerns) the mos-<lb/>
+quito hypothesis. The mystery remains, regardless of this Board of Army medical men<lb/>
+whoever they may be. There is absolutely nothing...etc.&rdquo;</p>
+<p>X Back in Havana Reed and Kean went to Wood's office (<hi>here</hi> in the City Hall).<lb/>
+X As they climbed these stairs Reed wondered if Wood would grant a strange request.<lb/>
+X But in this room General Wood gave official support and money to continue the experi-<lb/>
+ments (note the checkered floor).</p>
+<pb n="21" id="f04802021"/>
+<p>AOA - 20 -</p>
+<p>X This is how the room looks now as refurnished, etc.</p>
+<p>X An experimental station named Camp Lazear was set up on an isolated spot in<lb/>
+Quemados and strict quarantine was maintained. Some tents and two special buildings<lb/>
+were erected.</p>
+<p>X The latter were called Building 1 and 2.</p>
+<p>Reed and Ames and others called for volunteers; Reed would give $200 to any who developed<lb/>
+experimental yellow fever.</p>
+<p>X The first to come forth were John Moran, recently a hospital steward, now a<lb/>
+civilian clerk...</p>
+<p>X ...and a young soldier, Kissinger and both volunteered simply from a sense of duty<lb/>
+and without regard for the reward.</p>
+<p>X Then other hospital corpsmen volunteered (for pay), also Dr. Cooke (here).</p>
+<p>X While Agramonte was ripening his mosquitos, Reed began a special experiment<lb/>
+in Building 1. Here Dr. Cooke and others slept in sheets and clothing terribly soiled<lb/>
+by yellow fever patients. The stench was awful but no yellow fever developed because<lb/>
+there were no mosquitos.</p>
+<p>X In his tent Kissinger had infected, ripened mosquitos put on his arm.</p>
+<p>X A few days later he developed the first completely controlled case of experimental<lb/>
+yellow fever in history. Other cases followed quickly, and within a month of the<lb/>
+opening of Camp Lazear those concerned knew that the problem of yellow fever was<lb/>
+nearing solution.</p>
+<p>X And so a pre-Christmas dinner was held (December 22) in Delmonico's restaurant<lb/>
+(now the 2nd floor, above Press Wireless Office) in Central Parque. Finlay was the<lb/>
+chief guest of honor.</p>
+<p>X But most of the world still disbelieved as shown by another nasty editorial<lb/>
+in the WASHINGTON POST of that same day, December 22. This one was headlined, &ldquo;Still<lb/>
+fumbling with yellow fever.&rdquo;</p>
+<p>X On that afternoon Moran had entered Building No. 2 which was divided by<lb/>
+a wire screen as drawn by Reed in a letter to his wife.</p>
+<p>X On a cot in one side of this room Moran exposed himself to the bites of 15 infected<lb/>
+<pb n="22" id="f04802022"/>
+AOA - 21 -<lb/>
+mosquitos. Other volunteers were on the other side where there were no mosquitos.<lb/>
+They remained well but...</p>
+<p>X Moran took sick on Christmas Day; his yellow fever was a wonderful present to Reed,<lb/>
+Finlay et al. A week later Reed, in a mood of exaltation and humble gratitude to God<lb/>
+wrote his family his famous New Year's Eve letter (read if time).</p>
+<p>During the next month yellow fever was produced at will in several other<lb/>
+volunteers, all of whom were cared for by Dr. Ames, not at Camp Lazear but in the<lb/>
+yellow fever huts of the Post Hospital. Though many were dangerously ill, most for-<lb/>
+tunately, all survived.</p>
+<p>X When Reed gave his next report, it was before the Pan-American Congress in<lb/>
+Havana on February 6, 1901, in either <hi>this</hi><add>(Tacon Theater)</add> or this building<add>(Marti Theater)</add> (The Congress used both<lb/>
+buildings, and I've never found out where Reed appeared), (probably the Marti Theater).</p>
+<p>X Within only 8 months they had solved the main riddle of yellow fever and on<lb/>
+March 1, Camp Lazear was closed. (Recently General Truby carefully summarized the<lb/>
+total cost of the Camp Lazear venture. It was $6,507.73, one of the most rewarding<lb/>
+expenditures for research in all history.) Within three months, Gorgas freed Havana,<lb/>
+and later Panama was made safe for the commerce of the world.</p>
+<p>X The legend is that when Moran and Kissinger volunteered Reed said, &ldquo;Gentlemen,<lb/>
+I salute you.&rdquo; Actually this never happened. But for over 50 years the world has<lb/>
+been saluting all these men.</p>
+<p>X In time each received a Congressional Medal and a life-pension.</p>
+<p>X This great medical center bears the name of Walter Reed.</p>
+<p>X Finlay, Reed and Gorgas have been honored thus (in stamps).</p>
+<p>X This painting of &ldquo;The Conquerors of Yellow Fever&rdquo; is widely known. (Un-<lb/>
+fortunately two days after this photograph was taken at the unveiling, Kissinger had<lb/>
+a stroke from which he never recovered.)</p>
+<p>X Unfortunately, nationalism has spoiled matters some. And as U.S. honors to<lb/>
+Finlay have been rare, so in Cuba Reed was long ignored. This memorial to Finlay is<lb/>
+in Havana.</p>
+<p>X This one in Quemados.</p>
+<pb n="23" id="f04802023"/>
+<p>AOA - 22 -</p>
+<p>X In Finlay Park, Havana, Finlay shares honors...</p>
+<p>X ...with Guiteras, Gorgas, Delgado and Lazear but there is none for Reed.</p>
+<p>X And what became of their battlefield, Camp Lazear, Perhaps this, the last<lb/>
+part of my story will interest or amuse you. In the spring of 1940 Mrs. Hench and I<lb/>
+vacationed in Havana. I wanted to meet Johnny Moran (who had been there for years,<lb/>
+and, if possible, to see the remains of Camp Lazear. This seemed like a prescription<lb/>
+for a simple, restful vacation. But complications developed.</p>
+<p>In Havana, Mr. Moran drove me from the Nacional Hotel out to suburban Quemados<lb/>
+de Marianao and the site of old Camp Columbia, now an important Cuban Army post. Its<lb/>
+hospital and related buildings are on the very site of old Columbia Barracks Post<lb/>
+Hospital.</p>
+<p>X The B.O.Q. of 1900 was <hi>here</hi>, the wards <hi>here</hi>; Lazear's cottage <hi>here</hi>; the<lb/>
+first mosquito lab of Lazear &amp; Reed <hi>here</hi>. <hi>This</hi> camp-street continues as General Lee<lb/>
+Street, and Quemados proper is 7 or 8 blocks to the left. Going &ldquo;west&rdquo; on Santa Rosa<lb/>
+Street (the camp's &ldquo;southern&rdquo; boundary) we found, just west of these hospital grounds,<lb/>
+the single track LaPlaya railroad (later electrified). Where it crossed Santa Rosa<lb/>
+Street was the little way-station <hi>here</hi> (at the Camp's southwest corner). Turning right<lb/>
+at this point Johnny and I walked &ldquo;north&rdquo; over open grassy lots which formed the left<lb/>
+(&ldquo;western&rdquo;) border of the narrow railroad out. About 375 feet from the little Carnino<lb/>
+way-station we came to a tree, fence and sign (<hi>here</hi>).</p>
+<p>X <hi>Here</hi> we are just outside the &ldquo;southwest&rdquo;corner of the hospital grounds, at<lb/>
+the Carnino way-station (torn down since 1940). <hi>This</hi> is the one-track LaPlaya railroad<lb/>
+which runs through a cut <hi>here</hi> and ends at the LaPlaya Beach and Yacht Club a mile &ldquo;north.&rdquo;<lb/>
+It was to <hi>this tree</hi> that Johnny took me.</p>
+<p>X Within a small square formed by a low ornamental wooden fence was the tree<lb/>
+and a sign which read: &ldquo;On this spot was...Campamento Lazear...&rdquo; etc.</p>
+<p>X While photographing this historic spot memorialized so simply by the Cuban<lb/>
+Government I became vaguely uneasy. We were quite close to the old 1900 (Columbia<lb/>
+Barracks) Post-Hospital grounds, indeed just across the railroad from it. Hadn't<lb/>
+Reed written somewhere that Camp Lazear was about a mile from it? And that railroad<lb/>
+<pb n="24" id="f04802024"/>
+AOA - 23 -<lb/>
+track (right here): what was it doing beside &ldquo;Camp Lazear&rdquo;? Of course, it could<lb/>
+have been laid any time after 1901 but it looked mighty old to me, older than 40 years.</p>
+<p>&ldquo;Mr. Moran, does this place look right to you?&rdquo; I asked. &ldquo;I can't say,&rdquo; he<lb/>
+replied, &ldquo;Although I came back to Havana in 1928, I never tried to find the old Camp<lb/>
+until you wrote. When I asked local authorities a few days ago, they brought me here.<lb/>
+Otherwise I haven't seen Camp Lazear since Christmas Day, 1900.&rdquo;</p>
+<p>Well, it doesn't look right to me. Isn't it too close to the old Post<lb/>
+Hospital? Wasn't Camp Lazear &ldquo;a secluded spot about a mile from Columbia Barracks?&rdquo;<lb/>
+And what about this railroad track and cut? (Later measured as being 70 feet &ldquo;east&rdquo;<lb/>
+of the tree). Where does it go? From Quemados to the LaPlaya Beach? How could Reed<lb/>
+carry out semi-secret experiments on &ldquo;strictly quarantined soldiers&rdquo; this close to a busy<lb/>
+railroad? (Assuming, for the moment, this track was here in 1900 - 1901, and wasn't<lb/>
+laid since then.)</p>
+<p>Johnny had no answers and didn't argue but I sensed that he was beginning to<lb/>
+wonder whether his informants had misled him. Just then a Cuban boy came up. The<lb/>
+empty lots around us were &ldquo;for sale&rdquo; by his boss, a local real-estate man. We arranged<lb/>
+to meet him here next day. Please remember that in 1940 I knew hardly a fraction of<lb/>
+1% of the story I've just told you, and so, yellow fever huts, LaPlaya railroad tracks,<lb/>
+Calzada Real, General Lee Street, etc., etc., meant nothing to me.</p>
+<p>X In my hotel room that night I read carefully some reprints which (for-<lb/>
+tunately) I'd brought from home, without really knowing why! Among the scientific<lb/>
+papers of Reed, Carroll and Agramonte I found several brief descriptions of Camp<lb/>
+Lazear - its tents, buildings and land and its approximate distance from the Post-<lb/>
+Hospital, but not a single mention of its precise location. But in a popular article<lb/>
+written by Agramonte in December 1915 (Sc. Mo.) I found this clue: &ldquo;...a secluded<lb/>
+spot...a short distance from the main road (in Quemados, of course)...on the San<lb/>
+Jose farm...of Dr. Ignacio Rojas...which we named Camp Lazear.&rdquo; <hi>Here</hi> was the place!<lb/>
+On the other hand, <hi>where</hi> was it!</p>
+<p>X Next day at the &ldquo;Campamento Lazear&rdquo; sign we met the real-estate man. &ldquo;Mr.<lb/>
+Pogolotti, we're looking for old Camp Lazear; for various reasons I think this sign<lb/>
+<pb n="25" id="f04802025"/>
+AOA - 24 -<lb/>
+errs. Can you help us in any way?&rdquo; He answered: &ldquo;But it was here; why do you think<lb/>
+otherwise?&rdquo; Withholding explanations, I asked him about the previous ownerships of<lb/>
+this land. He and his brother had owned it so long, before that Father Zamora, before<lb/>
+him So and so, earlier still So and so - &ldquo;That was about 100 years ago,&rdquo; he concluded.</p>
+<p>Then I asked the crucial question: &ldquo;But when did Dr. Rojas own it? You<lb/>
+failed to mention his name.&rdquo; While Moran and I watched him sharply, Pogolotti announced<lb/>
+in an authoritative tone: &ldquo;Dr. Rojas? He <hi>never</hi> owned <hi>this</hi> place!&rdquo; &ldquo;Then it's not<lb/>
+Camp Lazear,&rdquo; I said. Why not?&rdquo; he asked. &ldquo;What makes you say that? The Government<lb/>
+has evidence identifying this as Camp Lazear; they have an old photo of this very tree<lb/>
+and beside it one of the little wooden houses built by the Americans. The house blew<lb/>
+down, but this tree still marks the place. Besides that, for 30 - 35 years to my<lb/>
+personal knowledge, this has been pointed out by the local people here as the place<lb/>
+where American soldiers had their experimental yellow fever in 1900.&rdquo;</p>
+<p>&ldquo;I don't care,&rdquo; said I. &ldquo;If Dr. Rojas never owned it, this is not Camp<lb/>
+Lazear and anyhow it doesn't fit the descriptions.&rdquo; Then telling him of Agramonte's<lb/>
+remarks about the Rojas San Jose Farm, I begged him to help us find it. His parting<lb/>
+remark encouraged me: &ldquo;That name - the San Jose farm - Rojas farm - it sounds vaguely<lb/>
+familiar but I can't place it now.&rdquo;</p>
+<p>X Next day after visits to many people and places Mr. Moran and I found this<lb/>
+photo in one of the offices of the Health Department. In 1926 a historically-minded<lb/>
+interne at the new Columbia Military Hospital (Cuban) was told by folks in the neighbor-<lb/>
+hood that the little house facing the adjacent LaPlaya railroad track was all that<lb/>
+remained of Camp Lazear. He photographed it and in time a copy reached the histori-<lb/>
+cally-minded Minister of Sanitation, (later of Defense) Dr. Ramos who &ldquo;checked&rdquo; the<lb/>
+local tradition, then had the government erect the modest little fence and sign, to be<lb/>
+replaced later by a suitable permanent memorial. The little wooden house, presumably<lb/>
+one of Reed's experimental mosquito buildings, blew down in the 1926 hurricane, but the<lb/>
+localizing tree remained.</p>
+<pb n="26" id="f04802026"/>
+<p>AOA - 25 -</p>
+<p>With compass, surveyor's tape and a copy of this photo we returned to the<lb/>
+fenced-in tree at &ldquo;Campamento Lazear.&rdquo; The root's junctions and hollows, the leanings,<lb/>
+curvatures and bifurcations of branches showed us it <hi>was</hi> the tree of the 1926 photo.<lb/>
+Using it carefully as a point of reference for our compass, we confirmed the interne's<lb/>
+assertion that the now-missing hut had, in 1926, &ldquo;faced&rdquo; the LaPlaya track. But that<lb/>
+meant it faced <hi>east</hi>, whereas the two Camp Lazear Buildings, squarely opposite each<lb/>
+other, had faced precisely north and south.</p>
+<p>Another point: excluding this porch which could have been added later,<lb/>
+this building's contour differs from those of Reed.</p>
+<p>X And finally, between Reed's Buildings 1 and 2 was &ldquo;a little valley&rdquo; but no<lb/>
+railroad track, at least in 1900 - 1901.</p>
+<p>Next, maps we obtained from the chief engineer of the railroad indicated<lb/>
+that this LaPlaya railroad spur had been laid in 1865 and <hi>not</hi> sometime <hi>after</hi> 1900 as<lb/>
+one Cabinet minister tried to suggest.</p>
+<p>After these 2 or 3 days of detective work Johnny and I could at least say:<lb/>
+&ldquo;Well, <hi>this</hi> &lsquo;Campamento Lazear&rsquo; is NOT Camp Lazear!&rdquo; We knew where we were <hi>not</hi>, but<lb/>
+<hi>not</hi> where Camp Lazear <hi>was</hi>, if you follow me.</p>
+<p>X The next day I shall never forget. Pogolotti had remembered where the San<lb/>
+Jose farm was. Would we like to see it? Out to Quemados we <add>hurried</add><del><unclear>[unclear]</unclear></del> to meet him. He<lb/>
+took us along its main street, Calzada Real, a few blocks beyond (i.e. &ldquo;east&rdquo; of) its<lb/>
+junction with General Lee Street, and there was this old entrance marked &ldquo;San Jose.&rdquo;<lb/>
+Was this place the one visited by the 1879 American Commission and the one where, in<lb/>
+1883, Finlay inoculated five volunteers - was this very same place the location of<lb/>
+Reed's Camp Lazear also? (After extensive investigation, I must conclude that Reed's<lb/>
+choice of the Finca San Jose was purely coincidental.)</p>
+<p>X Behind the wall was this lovely old home - the Finca San Jose at last!<lb/>
+Were we about to find Camp Lazear? The Rojas family still owned the Finca and we were<lb/>
+graciously met by the widow, daughter and niece of Dr. Rojas. After the amenities,<lb/>
+came my anxious inquiry: &ldquo;Madam Rojas, we are looking for Camp Lazear where in 1900<lb/>
+Major Reed, an American army doctor and his colleagues produced yellow fever on soldier-<lb/>
+volunteers. Can you tell us anything? Was that done here?&rdquo;</p>
+<pb n="27" id="f04802027"/>
+<p>AOA - 26 -</p>
+<p>There was a long pause while our hostesses conferred in machine-gun Spanish.<lb/>
+Then this answer by the daughter: &ldquo;Camp Lazear? Mayor Reed?...Mother knows nothing<lb/>
+of them. She never heard those names before; nor have any of us...&rdquo;</p>
+<p>My heart sank; in despair I looked at Johnny. Ignoring me, he began to ques-<lb/>
+tion them politely in his &ldquo;Spanish with an Irish-American accent.&rdquo; In a minute or so<lb/>
+all faces but mine were smiling. &ldquo;Ah, yes, Dr. Hench. We do not know those names<lb/>
+you used, but Mother remembers very well the American soldiers who used the finca in<lb/>
+1900 and made fiebre amarilla...&rdquo;</p>
+<p>X &ldquo;The tents and little wooden buildings were over there,&rdquo; said Madam Rojas<lb/>
+who told us many details, drove us around...</p>
+<p>X ...and, using old maps, indicated the camp site in relation to parts of the farm which,<lb/>
+from time to time, had been sold and built upon. <hi>Here</hi> were the boundaries of the finca<lb/>
+in 1900; this is the quinta of 1940; the old camp-site <hi>here</hi> was still empty.</p>
+<p>&ldquo;And the two little buildings of Reed, are they still here?&rdquo; Her answer<lb/>
+was so disappointing: &ldquo;As I recall it, the Americans tore them down when they removed<lb/>
+their tents and left.&rdquo;</p>
+<p>X Moran and I explored the place thoroughly. An ugly encroaching quarry<lb/>
+surrounded the remains of Camp Lazear on 2 sides. This old shack, a center part with<lb/>
+2 additions in front and one at the back, intrigued us, but bore no resemblance to<lb/>
+the old Army photos and so we did not look inside. But since it was the only old<lb/>
+thing around, I took many photos.</p>
+<p>X So far so good. But what had taken place at what we now spoke of as &ldquo;the<lb/>
+false Campamento Lazear,&rdquo; and why the curious local tradition of American soldiers and<lb/>
+yellow fever here? I left Cuba without an answer. (Oh, yes, after ten days of these<lb/>
+explorings I found my patient wife waiting for me at the hotel! She was rested, if I<lb/>
+was not.)</p>
+<p>But my answer came from 3 discoveries back in the States. This newspaper<lb/>
+photo from Mrs. Walter Reed's scrapbook identified &ldquo;the yellow fever wards&rdquo; of Columbia<lb/>
+Post Hospital as little wooden huts.</p>
+<p>X A 1900 model of the Post Hospital (located at Carlisle Barracks) shows the<lb/>
+<pb n="28" id="f04802028"/>
+AOA - 27 -<lb/>
+wards, B.O.Q., Lazear's cottage, Reed's lab, etc., and beyond a railroad cut 6 little<lb/>
+wooden shacks! And an old Army map which General Ireland took me to Washington Barracks<lb/>
+to find, had a numbered key to all the Post-Hospital buildings.: The <del><unclear>[unclear]</unclear></del> little huts<lb/>
+across the LaPlaya railroad from the main hospital were the &ldquo;yellow fever wards,&rdquo;<lb/>
+their little &ldquo;yellow fever hospital&rdquo; where all the experimental cases had been cared<lb/>
+for and where, above all, the martyr Lazear died. Pogolotti's quoted definition of<lb/>
+&ldquo;the place where American soldiers <hi>had</hi> their experimental yellow fever in 1900&rdquo; was<lb/>
+linguistically and clinically correct, but etiologically incorrect, since the volunteers<lb/>
+<hi>got</hi> their yellow fever at Camp Lazear and only thereafter were moved to, and cared for<lb/>
+at, the &ldquo;false Campamento Lazear.&rdquo; But thanks to a mistaken identify, this historic<lb/>
+place was preserved for awhile. The &ldquo;LaPlaya spur&rdquo; here became something of a<lb/>
+boundary for Lazear for he died just to one side of it and was buried on its other side.<lb/>
+So, in a special sense, this <hi>too</hi> is <add>a sort of</add> Camp Lazear - Lazear's field.</p>
+<p>X In the fall of 1940 Madam Rojas found her husband's old diaries. Entries<lb/>
+between November 15, 1900 and October 10, 1901, spoke of &ldquo;Surgeon Mr. Reed,&rdquo; Major Kean,<lb/>
+and the rentals for &ldquo;Camp Lezar,&rdquo; <add>later &ldquo;Camp Lazear&rdquo;</add> (&ldquo;$20.00 American gold&rdquo; per month). Of special interest<lb/>
+was the last entry according to which Reed's &ldquo;two wooden houses&rdquo; were not torn down<lb/>
+(as Mrs. Rojas had thought) but were left behind.</p>
+<p>X I soon returned to Cuba. Despite the confusing lean-tos built after 1901,<lb/>
+this was Building No. 1. One had just been removed. Reed's papers had described care-<lb/>
+fully its 8 unique characteristics. This building had them all. As required, it faced<lb/>
+exactly south, and measured 20 &times; 14 feet.</p>
+<p>X We found the &ldquo;double thickness walls&rdquo; and the &ldquo;tongued and grooved boards&rdquo;</p>
+<p>X Also the sliding panels, <add>and</add> the outside shutters...</p>
+<p>X ...the unique ceiling, flattened below the top...</p>
+<p>X and the hole for the stove pipe.</p>
+<p>X Here you see the latter, and the flattened ceiling in color.</p>
+<p>X Long before Building No. 2 blew down in the cycl<del>c</del><add>o</add>ne of 1926, its rotting<lb/>
+wooden floor had been replaced by a concrete one. It was where Dr. Nogueira stands.<lb/>
+Reed described it as 80 yards south of Building No. 1.</p>
+<pb n="29" id="f04802029"/>
+<p>AOA - 28 -</p>
+<p>X At the precise spot we found broken pieces of the concrete flooring, enough<lb/>
+to prevent the growing of corn, as you see in my photo.</p>
+<p>X This 1900 Army photo shows, to the right of Building No. 2, an unidentified<lb/>
+ruins with bushes.</p>
+<p>X We found the ruins smaller, the bushes somewhat larger.</p>
+<p>X So my loyal wife rejoiced with me over the lost which was found.</p>
+<p>X To re-orient you by this modern map: <hi>Here</hi> was the Post-Hospital....<lb/>
+and Camp Columbia. Just across the LaPlaya railroad were the yellow fever huts, later<lb/>
+erroneously called &ldquo;Campamento Lazear.&rdquo; But the camp-remains are actually <hi>here</hi>, behind<lb/>
+the finca San Jose.</p>
+<p>X An air-view of the same: Camp Lazear and the quarries; where the tents<lb/>
+were; the Finca; Camp Columbia; hospital; LaPlaya.</p>
+<p>X Accepting our data, the Cuban Government let the misnamed site, that of the<lb/>
+yellow fever huts, deteriorate and the markers to disappear. Too bad for here all<lb/>
+volunteers were sick, and here Lazear died.</p>
+<p>X It is now this small field, with the track and hospital behind.</p>
+<p>X Looking toward LaPlaya, Lazear died <hi>here</hi> (&ldquo;west&rdquo; side of track) and was buried<lb/>
+<hi>here</hi> - down beyond that tree on the &ldquo;east&rdquo; side of this railroad track.</p>
+<p>X For 12 years (1941-1951) I urged Cuban officials to preserve Camp Lazear;<lb/>
+named a &ldquo;national monument&rdquo; in 1947, a $25,000 <add>appropriation</add> for it &lsquo;disappeared!&rsquo; Nothing else was<lb/>
+done and Building 1 continued to deteriorate. Finally in 1951 (thanks to Dr. Nogueira<del>)</del><lb/>
+and others) a new $10,000 appropriation was put to work. (Newspaper headlines show gross<lb/>
+errors.)</p>
+<p>X As an aftermath of my snooping, I flew to Havana two years ago, a<lb/>
+guest of the Cuban Government, to help dedicate Camp Lazear Memorial Park. Invited<lb/>
+also were the families of Reed, Lazear, etc.</p>
+<p>X The Committee of Patrons showed me the restoration of Building No. 1 the day<lb/>
+before the dedication.</p>
+<p>X An entrance with two screen doors was like the original.</p>
+<p>X Here is a small esplanade and a memorial wall.</p>
+<p>X At the dedication were the U. S. Ambassador and other diplomats, cabinet members,<lb/>
+General Wood's daughter, etc.</p>
+<pb n="30" id="f04802030"/>
+<p>AOA - 29 -</p>
+<p>X Also Delgado's son and widow and Finlay's son.</p>
+<p>X To the music of a school band with a pint-sized drum-major...</p>
+<p>X ...the Cuban flag was raised.</p>
+<p>X Bronze tablets and profiles were unveiled, Lazear's by the Mayor of Marianao (with<lb/>
+the Secretary of Health).</p>
+<p>X That of Dr. Agramonte was unveiled by his daughter.</p>
+<p>X Tablets bore the names of all volunteers and a few others involved, including Dr.<lb/>
+Ames, Nurse Gust Lambert and General Truby.</p>
+<p>X Various medical Schools and foundations placed beautiful wreaths.</p>
+<p>X Here are the profiles of Reed, Delgado and Finlay.</p>
+<p>X For the <hi>first time</hi> since 1900 Walter Reed's name was honored publicly in Cuba, here<lb/>
+by Dr. Saladrigas, Minister of Health.</p>
+<p>X And as I, speaking for American medicine, proudly described the work of Reed and<lb/>
+his associates...</p>
+<p>X ...I was equally proud to honor this great Cuban physician, Finlay, who started it<lb/>
+all. As our Cuban friends have known too little about Reed, Lazear, et al, so we<lb/>
+have neglected Finlay and Delgado.</p>
+<p>X During Doctor Nogueira's &ldquo;Finlay Oration&rdquo; at the Academy of Sciences that<lb/>
+night, the workers of 1900 received full credit and to the few American survivors<lb/>
+were given Cuba's highest decoration for scientific achievement - the Finlay decoration.</p>
+<p>X Next day the charming ladies of the Finca San Jose...</p>
+<p>X ...decorated their lovely home and patio with masses of flowers.</p>
+<p>X In this setting a beautiful soiree was held...</p>
+<p>X ... and representatives of government and the professions welcomed the American visitors.</p>
+<p>X Then President Batista had a dinner honoring the American conquerors of yellow fever.</p>
+<p>X It was a small, very friendly affair.</p>
+<p>X During the evening the President gave Cuba's highest decoration to the daughter of<lb/>
+Leonard Wood who governed Cuba so well and whom all Cubans revere.</p>
+<p>X One who deserved great honor was gone. Johnny moran died <del><unclear>[unclear]</unclear></del><add>two years</add> before.<lb/>
+(Sept. 1950)</p>
+<pb n="31" id="f04802031"/>
+<p>AOA - 30 -</p>
+<p>X On another visit to Cuba a year ago, I found these <add>little animals</add><del><unclear>chamelons</unclear></del> sleeping in<lb/>
+the sun, on a tablet at Camp Lazear. I took it as a symbol: we Americans must not<lb/>
+&ldquo;fall asleep&rdquo; with respect to this place.</p>
+<p>X So far the entire memorial there represents Cuban effort. Dr. Nogueira<lb/>
+and others should not be expected to do it all, and there is unfinished business.</p>
+<p>X On this small parcel of land in front of Building 1 were Building 2 and the<lb/>
+tents of Camp Lazear. It should be bought and preserved (also the place where<lb/>
+Lazear died).</p>
+<p>X During every month of delay, these enlarging quarries, constantly worked<lb/>
+by a private concern, will come nearer to destroy the unpurchased (and so far un-<lb/>
+touched) 2&sol;3 of Camp Lazear.</p>
+<p>X Of the 25 men whose hopes were fulfilled here, 3 were Cuban, 4 Spaniards,<lb/>
+one English, one Irish and 16 American. They included the humble and the privileged,<lb/>
+civilians and soldiers, professionals and volunteers, Catholics, Protestants and<lb/>
+Jews. And here where a Cuban flag will fly forever in their honor, they provided a<lb/>
+supreme demonstration of the potential brotherhood of man.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

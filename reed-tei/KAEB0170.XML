@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAEB0170">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to Jefferson Randolph Kean, May 10, 1898</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAEB0170</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo"> Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1898-05-10</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Bache, [s.n.]</name>
+<name type="person">Kean, Martha</name>
+<name type="person">Hoff, Dr.</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1898-05-10">May 10, 1898</date>
+<idno rend="suppress">KAEB0170</idno>
+<title>Letter from Walter Reed to Jefferson Randolph Kean, May 10, 1898</title>
+</bibl>
+</head>
+<p>Reed explains his tardiness in replying to Kean's letter, recounts having asked the Surgeon General, unsuccessfully, for a transfer, and suggests several alternatives for dealing with frustration. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1898-05-10">
+<head>Letter from Walter Reed to Jefferson Randolph Kean, May 10, 1898</head>
+<pb n="1" id="fKAEB0170"/>
+<opener>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<dateline>
+<date value="1898-05-10">May 10, 1898.</date>
+</dateline><lb/>
+<salute>My Dear Doctor Kean;</salute>
+</opener>
+<p>I know<lb/>
+that you think, or should<lb/>
+think, that I have treated<lb/>
+you shabbily, but, my dear,<lb/>
+good Doctor, if you had<lb/>
+had as many irons in the<lb/>
+fire &amp; as many young doc=<lb/>
+tors hanging to your coat-<lb/>
+tails, as <hi>I</hi> have had, you<lb/>
+would have been obliged<lb/>
+to first extricate your<lb/>
+<pb n="2" id="fKAEB0180"/>
+said garments from<del>s</del><lb/>
+the aforesaid clutches, be=<lb/>
+fore doing anything else!<lb/>
+I have interviewed the S.G.<lb/>
+&amp; so has D<hi>r</hi> Bache, but ,alas!<lb/>
+I fear that circumstances<lb/>
+of station and duty have put<lb/>
+you &amp; myself in about the<lb/>
+same predicament! In other<lb/>
+words, my dear fellow, <hi><del><unclear>if</unclear></del><add>we</add></hi><lb/>
+are not &ldquo;in it&rdquo;! When,<lb/>
+more than four weeks<lb/>
+ago, I requested the Gen-<lb/>
+eral to approve my<lb/>
+assignment to Sampson's<lb/>
+squadron (for I didn't see<lb/>
+<pb n="3" id="fKAEB0190"/>
+any fun ahead for a &ldquo;land-<lb/>
+lubber,&rdquo;) he <hi>positively refused</hi>.<lb/>
+When I then asked to be sent<lb/>
+to my dear old land of good<lb/>
+friends &amp; <hi>mangoes</hi>, he said<lb/>
+&ldquo;<hi>Nay</hi>&rdquo; with equal emphasis!<lb/>
+When I spoke of <hi>your</hi> case,<lb/>
+he said, &ldquo;Well, <hi>somebody</hi> must<lb/>
+be near Bosting, and I<lb/>
+don't see why D<hi>r</hi> Kean<unclear>,</unclear><lb/>
+won't do as well as any<lb/>
+body else&rdquo;! There you have<lb/>
+it in a nutshell! Stay<lb/>
+in the land of wooden<lb/>
+Haws, my dear Doctor! &lsquo;Tis<lb/>
+true they are not very<lb/>
+toothsome, but nevertheless<lb/>
+<hi>stay</hi>!!&rsquo; My only consolation<lb/>
+<pb n="4" id="fKAEB0200"/>
+is to get outside of 2<lb/>
+<unclear>ozy</unclear> of Tarantula extract<lb/>
+every 15 minutes and then<lb/>
+<hi>cuss</hi> the murderous<lb/>
+Spaniards! Why don't<lb/>
+you have them make you<lb/>
+Chief Surgeon of the<lb/>
+<unclear>Nutmeg</unclear> troops, with the<lb/>
+rank of Lieutenant Col.?<lb/>
+I see that Pope, Hoff, <unclear>Mans</unclear><lb/>
+&amp; several other medicos have<lb/>
+had that honor thrust upon<lb/>
+them - Will you &ldquo;take some-<lb/>
+thing&rdquo; with me? My kindest<lb/>
+regards to your good lady<lb/>
+&amp; a kiss for dear little Martha.</p>
+<closer>
+<salute>Sincerely, your friend,</salute>
+<signed>Walter Reed.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

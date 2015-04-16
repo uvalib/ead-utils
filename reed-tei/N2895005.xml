@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N2895005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Proclamation [in Spanish] from the Alcaldia Municipal de Cienfuegos, Cuba, August 12, 1907</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N2895005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1907-08-12</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1907-08-12">August 12, 1907</date>
+<idno rend="suppress">N2895005</idno>
+<title>Proclamation [in Spanish] from the Alcaldia Municipal de Cienfuegos, Cuba, August 12, 1907</title>
+</bibl>
+</head>
+<p>The mayor of Cienfuegos announces, in light of an outbreak of yellow fever, that all water containers must be brought up to code within 48 hours.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1907-08-12">
+<head>Proclamation [in Spanish] from the Alcaldia Municipal de Cienfuegos, Cuba, August 12, 1907</head>
+<pb n="1" id="fN2895005"/>
+<p>ALCALDIA MUNICIPAL<lb/>
+DE<lb/>
+CIENFUEGOS</p>
+<p>__________________________________________________</p>
+<p>En vista de los casos de Fiebre Amarilla presentados en esta<lb/>
+Ciudad; considerando que es deber ineludible la cooperaci&oacute;n y<lb/>
+buena voluntad de los due&ntilde;os &eacute; inquilinos al buen servicio sanita-<lb/>
+rio; oido el parecer del Jefe Local de Sanidad y del Comisionado<lb/>
+especial de la Junta Superior de Sanidad, he tenido &aacute; bien dictar<lb/>
+el siguiente</p>
+<p>BANDO</p>
+<p>Los pozos, aljibes, tanques, tinajones, &uacute; otros dep&oacute;sitos de<lb/>
+agua estar&aacute;n constantemente cubiertos con tapas &oacute; tela met&aacute;lica<lb/>
+inaccesible &aacute; los mosquitos, para impedir en ellos la presencia de<lb/>
+larvas (gusarapos), de conformidad con lo dispuesto en el art&iacute;culo<lb/>
+215 de las Ordenanzas Sanitaria.</p>
+<p>Se concede un plazo de 48 horas para dar cumplimiento &aacute; lo<lb/>
+prevenido anteriormente.</p>
+<p>Si transcurrido dicho plazo, los agentes encargados de hacer<lb/>
+cumplir las Ordenanzas Sanitarias, encuentran larvas (gusarapos),<lb/>
+&oacute; dep&oacute;sitos de agua sin cubrir &aacute; prueba de mosquitos, ser&aacute; comu-<lb/>
+nicada inmediatamente la infracci&oacute;n al Juzgado Correccional, sin<lb/>
+perjuicio de la orden que se dirija al interesado para que corrija<lb/>
+inmediatamente el mal denunciado.</p>
+<p>Ciertos recept&aacute;culos como jarros, cubos, palanganas, bateas,<lb/>
+latas, dep&oacute;sitos de lavabos, etc; no ser&aacute; obligatorio cubrirlos; pero,<lb/>
+cuando en los mismos se encuentren larvas (gusarapos) los due&ntilde;os<lb/>
+ser&aacute;n acusados por esa infracci&oacute;n en el Juzgado Correccional, de<lb/>
+conformidad con lo dispuesto en el art&iacute;culo 617 de las Ordenanzas<lb/>
+Sanitarias.</p>
+<p>Cienfuegos Agosto 12 de 1907.</p>
+<closer>
+<signed>EL ALCALDE MUNICIPAL<lb/>
+DR. DOMINGO URQUIOLA</signed>
+_________________________<lb/>
+Imprenta EL ECO DE LAS VILLAS D'Clouet 14.--Cienfuegos<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

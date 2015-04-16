@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02035001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from Valery Havard to the Adjutant General, June 18, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Havard, Valery</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02035001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-06-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Adjutant General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Sherwood, Charles E.</name>
+<name type="person">Balentine, James W.</name>
+<name type="person">King, Mrs. Henry S.</name>
+<name type="person">Teeter, E. A.</name>
+<name type="person">Edmunds, Major</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1900-06-18">June 18, 1900</date>
+<idno rend="suppress">02035001</idno>
+<title>Report from Valery Havard to the Adjutant General, June 18, 1900</title>
+</bibl>
+</head>
+<p>Havard details the outbreak of yellow fever in Quemados, Cuba in May 1900. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1900-06-18">
+<head>Report from Valery Havard to the Adjutant General, June 18, 1900</head>
+<pb n="1" id="f02035001"/>
+<opener>
+Havard's report on YF epidemic in Quemados<lb/>
+up to June 18, 1900 MAP<lb/>
+See Starks 2 reports<lb/>
+<hi>Copy</hi><lb/>
+L.S.233.<lb/>
+HEADQUARTERS<lb/>
+DIVISION OF CUBA<lb/>
+OFFICE OF L.S.233.<lb/>
+HAVANA.<lb/>
+<dateline>
+<date value="1900-06-18">June 18th. 1900.</date>
+</dateline><lb/>
+To the Adjutant General,<lb/>
+Division of Cuba,<lb/>
+<salute>Sir:-</salute>
+</opener>
+<p>I have the honor to state that, in accordance<lb/>
+<unclear>from whom ?</unclear> <hi rend="underline">with instructions received on the 15th.</hi> inst., I went on the same<lb/>
+day to Quemados to examine into all the facts and circumstances<lb/>
+connected with the outbreak of yellow fever at that place, and<lb/>
+to submit the following report:</p>
+<p>So far as known to the Medical Department, there were no<lb/>
+cases of yellow fever at Quemados in 1899, and after the many<lb/>
+sanitary improvements made in that town it was confidently ex-<lb/>
+pected that none would occur this year. There were many cases<lb/>
+of an infectious fever among the troops at Columbia Barracks,<lb/>
+last fall, but they have been identified as Dengue fever. <add>see Saleeby file</add></p>
+<p>From the mode of origination of the cases in the present<lb/>
+outbreak, and the absence of any history of recent introduction<lb/>
+of infection, it is fair to assume that the yellow fever at<lb/>
+Quemados is attributable to the presence of old germs existing<lb/>
+in the occupied buildings. Why such germs should suddenly be-<lb/>
+come active after such a long period of quiescence, is still an<lb/>
+unanswerable question, and one about which it would now be profit<lb/>
+less to speculate.</p>
+<p>The first case (Mrs. King) began on May 16th., but it was<lb/>
+mind, no physician was called in and it passed unrecognized.<lb/>
+<pb n="2" id="f02035002"/>
+L.S.233. (2)<lb/>
+Her husband (King, Quartermaster's employe) was taken sick on<lb/>
+the 19th., seen by a Cuban physician on the 21st. and by Major<lb/>
+Kean on the 22nd., first date on which the existence of yellow<lb/>
+fever was recognized. It was then that the illness of Mrs. King<lb/>
+was inquired into and found to be yellow fever.</p>
+<p>Three more cases (Signal Serg't. Sherwood, child and wife)<lb/>
+occurred in the same house (20, General Lee Street), on the 23rd.<lb/>
+30th. and June 3rd. respectively.</p>
+<p>On May 30th. Private Valentine, Co. &ldquo;D&rdquo; 8th. Cavalry, was taken<lb/>
+sick in his quarters (Columbia Barracks) and admitted to hosp-<lb/>
+ital on the 31st.</p>
+<p>The next three cases (Private Teeter, Hospital Corps, Qmr's.<lb/> 
+Serg't. Reilly and Shenk, Qmr's. employe) occurred in a house near-<lb/>
+ly adjoining the first<add>,</add> (102, Real Calzada), on June 3rd., 6th. and<lb/>
+8th. respectively. All subsequent cases occurred <unclear>on</unclear> General Lee<lb/>
+Street, with the exception of one Qmr's. employe who apparently<lb/>
+contracted the disease at the Headquarters Corral. It is thus<lb/> 
+seen, as the accompanying sketch indicates, that the foci of con-<lb/>
+tagion are limited to a well defined district.</p>
+<p>The total number of cases, to date, is 19, namely 13 civil-<lb/>
+ians (all Americans), l U.S.A. officer and 5 enlisted men. The<lb/>
+officer (Major Edmunds), a man of excellent habits, lives in one<lb/>
+of the cleanest and best ventilated houses in town, and in which<lb/>
+Major Kean <add>and family</add> lived last summer with impunity. He very likely caug-<lb/>
+ht the disease from the house; this opinion is strengthened by<lb/>
+the fact that he and his wife contracted it almost simultaneous-<lb/>
+ly, and that so far as known, they did not visit any infected<lb/>
+place or person.</p>
+<pb n="3" id="f02035003"/>
+<p>L.S.233.<lb/>
+(3)</p>
+<p>The mode of infection of the 5 enlisted men, so far as as-<lb/>
+certainable, is as follows:-</p>
+<p>1. Serg't. Sherwood, Signal Serg't., from his residence (General<lb/>
+Lee Street)</p>
+<p>2. Private Teeter, Hospital Corps, from his residence (Real <add>Calzada</add> St.)</p>
+<p>3. Serg't. Reilly, Qmr's. Serg't. from his residence (Real St.)</p>
+<p>4. Private Valentine, Co. &ldquo;D&rdquo;, 8th. Inft'y., unknown: he claims to<lb/>
+have slept every night in his quarters. Close watch of every<lb/>
+other man of his Co. has failed to discover another case.</p>
+<p>5. Corp. Walker, Troop &ldquo;H&rdquo;, 7th. Cavalry, <hi rend="underline">from house in town (Gener-<lb/>
+al Lee Street) where he kept a mistress</hi>.</p>
+<p>The mortality thus far has only been 3, namely Signal Serg't<lb/>
+Sherwood and 2 civilians, <del>thus</del> indicating a rather mild type of<lb/>
+infection.</p>
+<p>There is no sign or indication that any part of Columbia<lb/>
+Barracks is or has been infected.</p>
+<p><hi rend="underline">The post isolation hospital is situated across the rail-<lb/>
+road track at a safe distance from the Barracks and is well<lb/>
+equipped and furnished</hi>.</p>
+<p>I find that all necessary measures of isolation and dis-<lb/>
+infection have been thoughtfully planned and diligently carried<lb/>
+out by the Chief Surgeon, Major Kean.</p>
+<p>A strict quarantine is maintained by Columbia Barracks<lb/>
+against Quemados. Of course it is of the utmost importance that<lb/>
+as little intercourse as possible should exist between the two<lb/>
+places and that no officer or enlisted man be allowed to enter<lb/>
+Quemados except on strictly official business and by special<lb/>
+orders.</p>
+<pb n="4" id="f02035004"/> 
+<p>L.S.233. (4)</p>
+<p>A measure <hi rend="underline">immediately required</hi> is the establishment of a<lb/>
+<hi rend="underline">detention camp</hi> where all non-immunes are to be at once removed<lb/>
+when exposed, or when suspected to have been exposed, to infect-<lb/>
+ion. I am informed by Chief Surgeon Kean that steps are being<lb/>
+taken to that end and I recommend that there be no delay about<lb/>
+it.</p>
+<p>The question of vacating the barracks and removing the<lb/>
+troops to a camp, naturally suggests itself. I do not believe<lb/>
+that <add>such</add> a serious and radical measure is necessary at present, and<lb/>
+trust it will never be; but as it might become necessary, it is<lb/>
+advisable that a suitable camp be selected now and that all the<lb/>
+required canvas be made available.</p>
+<p>All necessary arrangements have been made to vacate any<lb/>
+individual set of quarters showing signs of infection, that is<lb/>
+in which a case of yellow fever originates.</p>
+<p>In conclusion, I wish to say that the medical personnel,<lb/>
+under the direction of Major Kean, is unusually able and effic-<lb/>
+ient and that every medical officer may be relied upon to do<lb/>
+his duty.</p>
+<closer>
+<salute>Very respectfully yours,</salute>
+<signed>(Signed) V Havard</signed>
+Major and Surgeon, U.S.A.<lb/>
+Chief Surgeon.<lb/>
+******************************************************************<lb/>
+Copy respectfully <hi rend="underline">furnished the Surgeon General U.S.A.</hi> for his<lb/>
+<hi rend="underline">information</hi>.<lb/>
+V. Havard<lb/>
+Major and Surgeon U.S.A.<lb/>
+Chief Surgeon.<lb/>
+Had the SG asked for it?<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

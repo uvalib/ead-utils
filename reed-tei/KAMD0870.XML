@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0870">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Aristides Agramonte to Jefferson Randolph Kean, October 13, 1927</title>
+<title type="gmd">[electronic resource]</title>
+<author>Agramonte, Aristides</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0870</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1927-10-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Sellard, Dr.</name>
+<name type="person">Theiler, [s.n.]</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1927-10-13">October 13, 1927</date>
+<idno rend="suppress">KAMD0870</idno>
+<title>Letter from Aristides Agramonte to Jefferson Randolph Kean, October 13, 1927</title>
+</bibl>
+</head>
+<p>Agramonte confidentially tells Kean of his and Noguchi's scientific disagreements. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1927-10-13">
+<head>Letter from Aristides Agramonte to Jefferson Randolph Kean, October 13, 1927</head>
+<pb n="1" id="fKAMD0870"/>
+<opener>
+TC-4336<lb/>
+II<lb/>
+DR. ARISTIDES AGRAMONTE<lb/>
+CALLE K, ENTRE 15 Y 17<lb/>
+VEDADO, HABANA<lb/>
+<dateline>
+<date value="1927-10-13">October 13th, 1927</date>
+</dateline><lb/>
+Col. J. R. Kean, Ret.<lb/>
+Army Medical Museum,<lb/>
+Washington, D. C.<lb/>
+<salute>My dear Col. Kean:</salute>
+</opener>
+<p>It pleased me very much to receive your let-<lb/>
+ter of the 5th inst. I am sorry that I failed to send you a copy of<lb/>
+my little pamphlet at the time I wrote it; no one, I am sure, <unclear>was</unclear> more<lb/>
+entitled to rec<add>e</add>ive it, and so I am enclosing one now, with due apolo-<lb/>
+gies.</p>
+<p>There can be no objection on my part, to your republishing it in<lb/>
+&ldquo;The Military Surgeon&rdquo;, as you suggest: although the story is old, the<lb/>
+results of the work there narrated were of such incalculable value,<lb/>
+that a repetition of its history will only serve to enhance it.</p>
+<p>The telegrams received at the time from Capt. Stark, as menti<del></del><add>on-</add><lb/>
+ed in my article, are signed &ldquo;Chief Surgeon&rdquo; and I did not know that<lb/>
+he was taking your place temporarily; you may, of course, state this<lb/>
+in a foot-note, if you come to publish it.</p>
+<p>I am also sending you a paper that I wrote many years before Nogu-<lb/>
+chi found the Leptospira, &ldquo;Yellow Fever a Strictly Human Disease&rdquo;:<lb/>
+also a copy of another paper, read in the presence of Noguchi, in<lb/>
+Jamaica, on account of which we <hi>locked horns</hi>, of course. Upon the oc-<lb/>
+casion, Noguchi said he would provide me with cultures of his Lepto-<lb/>
+spira so that I could do human-mosquito experiments, which I thought<lb/>
+were absolutely necessary before he could claim specificity for L. ic-<lb/>
+teroides, but he failed to keep his word and subsequently has treated<lb/>
+me with the utmost disdain. Sellards has already followed my suggest-<lb/>
+ion and the application of mosquitoes, 10, 20 and 30 days after being<lb/>
+fed with leptospira blood, failed to produce human yellow fever, (or<lb/>
+any other pathologic condition). These experiments have not been pub-<lb/>
+lished yet, I therefore do not wish to refer to them in print; I only<lb/>
+know about them through Sellards' and Theiler's kindness in letting<lb/>
+me see their protocols when I was in Boston last August. I will thank<lb/>
+you to keep this confidential, also.</p>
+<closer>
+<salute>With my best wishes, I remain,<lb/>
+Very cordially,</salute>
+<signed>Agramonte</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

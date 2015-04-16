@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04704021">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Pedro Nogueira to J. F. Siler, February 24, 1954</title>
+<title type="gmd">[electronic resource]</title>
+<author>Nogueira, Pedro</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04704021</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1954-02-24</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Siler, J. F.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+<name type="person">Briggs, Margaret Lazear</name>
+<name type="person">Carroll, James</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Lazear, William Houston</name>
+<name type="person">Cooke, Mrs. Robert P.</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Marianao (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1954-02-24">February 24, 1954</date>
+<idno rend="suppress">04704021</idno>
+<title>Letter from Pedro Nogueira to J. F. Siler, February 24, 1954</title>
+</bibl>
+</head>
+<p>Nogueira thanks Siler for the check to cover the costs of the Finlay Medals. He mentions Cooke's widow will also be a recipient.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1954-02-24">
+<head>Letter from Pedro Nogueira to J. F. Siler, February 24, 1954</head>
+<pb n="1" id="f04704021"/>
+<opener>
+COPY<lb/>
+DR. PEDRO NOGUEIRA<lb/>
+Medico Cirujano<lb/>
+Marti 219, Marianao<lb/>
+CUBA<lb/>
+<dateline>
+Marianao <date value="1954-02-24">February 24, 1954</date>
+</dateline><lb/>
+Joseph F. Siler, Col (MC), USA, Rtd<lb/>
+President, Board of Managers, Walter<lb/>
+Reed Memorial Association<lb/>
+Room 807, 1835 Eye St., N.W.<lb/>
+Washington 6, D. C., USA<lb/>
+<salute>Dear Dr. Siler:</salute>
+</opener>
+<p>I received your kind letter dated 10 actual month, as well as Check number<lb/>
+250075 for amount $245.00, to cover expense on nedals Finlay Order (for) the following<lb/>
+persons:</p>
+<p>Mayor Walter Reed; Brigadier General Albert Truby; Mrs. Blossom Reed; Mr. Houston<lb/>
+Lazear; Mrs. W. D. Laxear Briggs; Mayor James Carroll and Mr. James Handberry.</p>
+<p>Meantime thanking you, for your words that you dedicated to me in your letter<lb/>
+relationed with the Lazear Camp, which you can be sure owing principally to the<lb/>
+eagerness of Dr. Philip Hench, whom we have only helped.</p>
+<p>I am writing today Dr. Hench advising him, that the widow of Dr. Robert Cooke<lb/>
+will receive the medal too; which for some involuntary cause forgot to communicate<lb/>
+you. However, I jave ordered to make her medal too, why I think that it will be<lb/>
+arranged by us in some way.</p>
+<p>Please accept my sincere expression for your great help, so those persons could<lb/>
+receive these medals, and their diplomas, which mailing them I will inform you about<lb/>
+that opportunity.</p>
+<closer>
+<salute>Affectionally,</salute>
+<signed>s&sol; D. Pedro Nogueira</signed>
+Dr. Pedro Nogueira<lb/>
+<seg>P.D. I inform you that the exactly price for each medals is only $34.00, and for<lb/>
+that I have now $7.00 that we can using to pay in part the medal for Mrs. Cook;<lb/>
+in other words we needs only $27.00 to pay it.<lb/>
+Please excuse my English but Dr. Hench know that is poor.<lb/>
+Dr. Pedro Nogueira<lb/>
+Dr. Pedro Nogueira<lb/>
+Marti 219- Quemados<lb/>
+Marianao, Cuba</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

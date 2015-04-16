@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0127015">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Henry Rose Carter to Laura Armistead Carter, August 15, 1911</title>
+<title type="gmd">[electronic resource] </title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0127015</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1911-08-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Laura Armistead</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Thayer, William S.</name>
+<name type="person">Kerrs, [s.n.]</name>
+<name type="person">[s.n.], Ed</name>
+<name type="person">Kean, Dora</name>
+<name type="person">Stand, Winifred Sackoille</name>
+<name type="person">Kinyoun, Joseph J.</name>
+<name type="person">Anderson, [s.n.]</name>
+<name type="person">White, [s.n.]</name>
+<name type="person">Glennan, A. H.</name>
+<name type="person">[s.n.], Ethel</name>
+<name type="person">Straub, [s.n.]</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Carter, Edward Champe</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Louisville (Ky.)</name>
+<name type="place">Panama</name>
+<name type="place">Portsmouth (Va.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="hospital">John Hopkins Hospital</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>8 pp.</extent>
+<date value="1911-08-15">August 15, 1911</date>
+<idno rend="suppress">C0127015</idno>
+<title>Letter from Henry Rose Carter to Laura Armistead Carter, August 15, 1911</title>
+</bibl>
+</head>
+<p>Carter writes about Laura Armistead Carter's sickness and gives her a detailed prescription. He also describes his flower gardens.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1911-08-15">
+<head>Letter from Henry Rose Carter to Laura Armistead Carter, August 15, 1911</head>
+<pb n="1" id="fC0127015"/>
+<opener>
+The Kerrs nice but stiff live in the same house (Marine Hosp'l<lb/>
+with Anderson. I wrote him not them<lb/>
+Louisville Ky<lb/>
+<dateline>
+<date value="1911-08-15">Aug 15 11</date>
+</dateline><lb/>
+<salute>Dear Laura:</salute>
+</opener>
+<p>I write by this mail to the clerk<lb/>
+at J.H. Hospital to find if Thayer is<lb/>
+in Baltimore &amp; if not. I think it improb-<lb/>
+able that he is when he will proba-<lb/>
+bly resume his service there. You go<lb/>
+on about your business unless you be-<lb/>
+come so that <add>you think</add> it is advisable to <del>act at</del><lb/>
+<del>in</del> go in hospital without delay, &amp; <del>you</del> <add>I</add><lb/>
+will make all arrangements neces-<lb/>
+sary, in case it seems best for you<lb/>
+to <del>go</del> enter hospital. I wish you could<lb/>
+have had-say-2 months longer inter-<lb/>
+val between your school &amp; your trip<lb/>
+so that you could have gone to bed here on careful<lb/>
+make up the requisite messages from me to Norfolk &amp; Portsmouth<lb/>
+friends <unclear>pafer</unclear> is lacking not such <unclear>minds</unclear></p>
+<pb n="2" id="fC0127016"/>
+<p>2</p>
+<p>careful, <unclear>generous</unclear> diet &amp; seen what the<lb/>
+out come would have been. However<lb/>
+if, as seems <add>not im</add>probable, you enter hos'l<lb/>
+before you return I will go on &amp;<lb/>
+go with you. You <hi rend="underline">can</hi> get <hi rend="underline">well</hi> not<lb/>
+only <hi rend="underline">better</hi>, &amp; it is well worth while<lb/>
+that you do so. Whether medical treatment<lb/>
+will be sufficient. I think so - or not<lb/>
+we can well leave to your physician.<lb/>
+<hi rend="underline">B</hi>ut in any case you ought to be <hi rend="underline">well</hi>,<lb/>
+Ed. had an attack yesterday like<lb/>
+the one he had when miss <unclear>Marris</unclear><lb/>
+was here &amp; had to leave school &amp; <del>will</del> <add>is</add> not<lb/>
+3<lb/>
+<del>is</del><del>be</del> able to go today<lb/>
+still he <hi rend="underline">had</hi> this<lb/>
+disability. I satis-<lb/>
+fied myself of<lb/>
+that, &amp; was not<lb/>
+<hi rend="underline">h</hi>umbugging<lb/>
+I <hi rend="underline">think</hi> he is on the<lb/>
+verge of getting<lb/>
+through. This will<lb/>
+interfere with it<lb/>
+of course. He reads<lb/>
+to me every even-<lb/>
+ing &amp; reads I think<lb/>
+well, at any rate<lb/>
+he reads every <unclear><del>evening</del> <add>evening</add></unclear></p>
+<p>PUBLIC HEALTH AND MARINE-HOSPITAL SERVICE,<lb/>
+OFFICE OF MEDICAL OFFICER IN COMMAND.</p>
+<p>, 190</p>
+<p>Surgeon.</p>
+<p>SUBJECT:</p>
+<p>No. of Inclosures,</p>
+<pb n="3" id="fC0127017"/>
+<p>4</p>
+<p>Hope Helen will not North River, but fear she <add>will</add><lb/></p>
+<p>I am under the weather since Saturday<lb/>
+morning, not sick, but with a surgical<lb/>
+trouble, which I brought from Panama. It got<lb/>
+worse suddenly &amp; I had a small operation done<lb/>
+Saturday morning-<unclear>Coco&auml;ine</unclear>-&amp; am pretty<lb/>
+well out of the woods now. Made sick call<lb/>
+this morning. But I will not be entirely<lb/>
+to my self<add>for</add>-say-for 7 or 10 days. It is a<lb/>
+nuisance about not being able to attend<lb/>
+to my flowers. I mind that most. The Roses<lb/>
+<hi rend="underline">ought</hi> to have stopped blooming-but they<lb/>
+have not. I got about 40 this morning<lb/>
+&amp; same beautiful ones are Lyons &amp; a num-<lb/>
+ber of Pres. Carnot 's, Killarney's &amp; Detroits.<lb/>
+The Gladioli too are the best of any<lb/>
+<hi rend="underline">I</hi> have ever seen: simply wonderful,<lb/>
+about <del>3</del> <add>4</add> fold handsome than last year.</p>
+<p>Some <unclear>purble</unclear>-a rich blue purple-&amp; thence<lb/>
+<pb n="4" id="fC0127018"/>
+shades of lavinder Cream. White<lb/>
+&amp; Red &amp; every blend &amp; mixture conceiv-<lb/>
+able &amp; all the same soft, vivid colors that<lb/>
+<hi rend="underline">w</hi>e had last year &amp; much larger.</p>
+<p>Oh. I will send you the Geographic Mag-<lb/>
+azine. Containing Dora Kean's Alpine<lb/>
+climbing, Photographs excellent. Also<lb/>
+get a copy of the American Magazine<lb/>
+for July (I think that is it) for an account<lb/>
+of Miss Winifred Sackoille <unclear>Stand</unclear>. I<lb/>
+have not read it, but if 1&sol;2 what the <del>ex-</del><lb/>
+critic is Military Surgeons say- she is<lb/>
+a &ldquo;WONDER.&rdquo; <hi rend="underline">all</hi> capitals:</p>
+<p>my trouble last<lb/>
+prevented me<lb/>
+eating any grapes<lb/>
+<unclear>Concads-</unclear> which<lb/>
+are ripe</p>
+<p>Did the service<lb/>
+people act white?<lb/>
+Most of them like<lb/>
+me &amp; I feel sure<lb/>
+that same of them<lb/>
+called but who<lb/>
+<del>whether</del> was in town<lb/>
+&amp; whose wife was in<lb/>
+town I did not know</p>
+<p>PUBLIC HEALTH AND MARINE-HOSPITAL SERVICE,<lb/>
+OFFICE OF MEDICAL OFFICER IN COMMAND.</p>
+<p>, 190</p>
+<p>Surgeon.</p>
+<p>SUBJECT:</p>
+<p>No. of Inclosures,</p>
+<pb n="5" id="fC0127019"/>
+<p>Form 1765.<lb/>
+<unclear>H.R. Carter</unclear><lb/>
+TREASURY DEPARTMENT.<lb/>
+Aug <del>3</del> 5&sol;11</p>
+<p>Dear L.</p>
+<p>I enclose your Rxs. The mixing the <unclear>Sodu</unclear><lb/>
+Bicarb &amp; the chloroform as you do it can-<lb/>
+<hi rend="underline">n</hi>ot possibly have any effect</p>
+<p>The <del>cii</del> acid mixt. is only 2&sol;3 as strong<lb/>
+as the one you had-as I recollect it. Of<lb/>
+the other, as I recollect, you took a full tea-<lb/>
+spoonful only in emergencies-which was<lb/>
+15 drops a teaspoonful of this is <hi rend="underline">10</hi> drops.<lb/>
+Regulate your-dose then by what you<lb/>
+need <hi rend="underline">20</hi> drops is not an excessive dose<lb/>
+&amp; the acid can do <hi rend="underline">no</hi> harm except to your<lb/>
+<hi rend="underline">teeth</hi>: Note that a <hi rend="underline">tea</hi> spoonful is <del>4 cub-</del><lb/>
+<del>ic</del> <hi rend="underline">4</hi>. Cubic centimeters-in this bottle<lb/>
+not <unclear>5</unclear> as in the last as I wrote this <hi rend="underline">Rx</hi> in <del>a-</del><lb/>
+English measures: Hence <hi rend="underline">5</hi> C.C. of it is<lb/>
+<pb n="6" id="fC0127020"/>
+10+<unclear>10&sol;4</unclear> = <hi rend="underline">12&frac12; drops</hi>: Regulate your dose to 50 as<lb/>
+to get <hi rend="underline">about</hi> <hi rend="underline">10</hi>. to if needed <hi rend="underline">15</hi> drops or <hi rend="underline">20</hi><lb/>
+<hi rend="underline">at</hi> a dose.</p>
+<p><del>I would take</del> As long as you have acid stomach<lb/>
+or fermentation of (apparently) bacterial <del>or yeast</del><lb/>
+(or yeasty)origin <add>in the morning before breakfast</add> I would take the spirits of<lb/>
+chloroform in doses of 20 to 30 drops &amp; re-<lb/>
+peat, if necessary to 2 or even 4 doses: <hi rend="underline">not</hi><lb/>
+using too much water for this. That is you don't<lb/>
+want to dilute it any more than enough to<lb/>
+not burn your mouth or throat. It is a good<lb/>
+germicide &amp; a slight stimulant. My recollection is<lb/>
+that 12 drops of it contains 1 minim of chloroform<lb/>
+so <hi rend="underline">36</hi> would be only 3 minim = 3 <hi rend="underline">water</hi> drops in size.<lb/>
+I find see Dispensatory it is <hi rend="underline">6%</hi> chloroform. So <hi rend="underline">30 drops</hi><lb/>
+contains <del>1.8</del> 1 8&sol;10 drops = 9&sol;10 of a minim chloroform. You can<lb/>
+<hi rend="underline">t</hi>ake <del>4</del> 2 to 3. C. Centimeters without any damage<lb/>
+If the <del>morning</del> fermentation or an empty stomach</p>
+<pb n="7" id="fC0127021"/>
+<p>Form 1765.</p>
+<p>TREASURY DEPARTMENT.</p>
+<p>doesn't stop get a little fine carbolic acid<lb/>
+half an ounce or <hi rend="underline">one drachum </hi>is enough, &amp; take<lb/>
+about <add>3 to</add> 5 drops in about 10 C.C. of water instead of<lb/>
+the chloroform. I would give much if you were<lb/>
+entirely well. Yet I am reasonably sure that<lb/>
+<hi rend="underline">you</hi> can be made so</p>
+<p>I think Ned is telling the truth<lb/>
+am sorry you won't see the Whitings &amp; am<lb/>
+sorry Mrs. Leys could not have you. Too<lb/>
+<hi rend="underline">c</hi>rowded I judge.</p>
+<p>I wrote yesterday, to Kinyoun: Anderson &amp; White<lb/>
+that you would be in Washington. Am not sure<lb/>
+White is there &amp; am afraid that the wives<lb/>
+of the others may be out of towns also wrote to<lb/>
+Glennan-telling him. I was entirely willing to<lb/>
+go to H. or - anywhere else the Bureau thought neces-<lb/>
+sary but whether I &ldquo;wished for this detail&rdquo; <unclear>getting</unclear><lb/>
+his letter <del>deform</del> I could not say until I know<lb/>
+<pb n="8" id="fC0127022"/>
+more about it. Then gave him some<lb/>
+general advice. I am in no <unclear>way</unclear> 1-<lb/>
+verse to remaining here. I would have<lb/>
+<hi rend="underline">one</hi> more year of flowers &amp; then I could<lb/>
+forego them for a long while. It is like<lb/>
+having ones &ldquo;fling&rdquo;.</p>
+<p>You will be in Portsmouth before Tumb-<lb/>
+sey returns I fear as I presume you will not<lb/>
+stay long in Washington. You ought to tell<lb/>
+Ethel that you know Straub &amp; if she told<lb/>
+him you were there it would be all right.<lb/>
+He is rather a big man-<del>he</del> in his corps now<lb/>
+The representative of the Med. corps as the<lb/>
+general staff. He is an able man too.<lb/>
+Although he &amp; Dr. Gorgas never got along.<lb/>
+Hasta la Vista carissima. Don't take up your<lb/>
+time with long letters &amp; sent a letter or postal to<lb/>
+<unclear>Miss Fox</unclear> who Ned says is <hi rend="underline">mad</hi> because Mrs. M. has heard<lb/>
+from you &amp; not she herself.</p>
+<closer>
+<signed>H. R. Carter</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

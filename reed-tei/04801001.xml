@@ -1,0 +1,650 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04801001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Speech: X Marks the Spot, by [Philip Showalter Hench], January 20, 1955</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04801001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1955-01-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Beaumont, William</name>
+<name type="person">St. Martin, Alexis</name>
+<name type="person">Cavell, Edith</name>
+<name type="person">Osler, William</name>
+<name type="person">Watson, John</name>
+<name type="person">Holmes, Sherlock</name>
+<name type="person">Moriarty, Professor</name>
+<name type="person">Napoleon</name>
+<name type="person">Pasteur, Louis</name>
+<name type="person">Dumas, Alexandre</name>
+<name type="person">Verdi, Giuseppe</name>
+<name type="person">Plessis, Alphonsine</name>
+<name type="person">Spies, Tom D.</name>
+<name type="person">Chaille, Stanford L.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Delgado, Claudio</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="person">Rojas, Maria Teresa</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Nogueira, Pedro</name>
+<name type="place">Michilimacinac Island (Mi.)</name>
+<name type="place">Brussels (Belgium)</name>
+<name type="place">London (England)</name>
+<name type="place">Meiringen (Switzerland)</name>
+<name type="place">Rosenlaui (Switzerland)</name>
+<name type="place">Paris (France)</name>
+<name type="place">Pasteur Institute, Paris (France)</name>
+<name type="place">Montmartre Cemetery, Paris (France)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Hotel Nacional, Havana (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">The Prado, Havana (Cuba)</name>
+<name type="place">Columbia Barracks, Havana (Cuba)</name>
+<name type="place">Quemados de Marianao (Cuba)</name>
+<name type="place">Camp Columbia, Havana (Cuba)</name>
+<name type="hospital">Columbia Barracks Post Hospital, Havana (Cuba)</name>
+<name type="hospital">Mayo Clinic, Rochester (Minn.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>16 pp.</extent>
+<date value="1955-01-20">January 20, 1955</date>
+<idno rend="suppress">04801001</idno>
+<title>Speech: X Marks the Spot, by [Philip Showalter Hench], January 20, 1955</title>
+</bibl>
+</head>
+<p>[Hench] discusses his experiences in visiting sites where outstanding medical developments took place or where famous individuals lived or are buried. He includes an account of the yellow fever experiments. The speech was given at the New Fellows Banquet at the Mayo Foundation House.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1955-01-20">
+<head>Speech: X Marks the Spot, by [Philip Showalter Hench], January 20, 1955</head>
+<pb n="1" id="f04801001"/>
+<p><hi>&ldquo;X&rdquo; MARKS THE SPOT</hi>*</p>
+<p>After-Dinner Talk; New Fellows Banquet<lb/>
+Mayo Foundation House, January 20, 1955</p>
+<p>Man is a forward-moving creature with a backward-looking mind.<lb/>
+For inspiration to solve the problems of today he often turns to dramatic<lb/>
+events of the past. Thus he may search the face of the earth until that<lb/>
+exciting moment when he can stop, and with the thrill of rediscovery, ex-<lb/>
+claim: &ldquo;This is the place. This is the very spot. Here is where it happened.&rdquo;</p>
+<p>On my wanderings I have always enjoyed trying to find the exact<lb/>
+locations where some outstanding medical development took place. Some such<lb/>
+are far from the main path; others are just around a nearby, but forgotten,<lb/>
+corner. Sometimes a modest memorial identifies the place. But more often,<lb/>
+not even an &ldquo;X&rdquo; on a local map marks the spot.</p>
+<p>X In the time (30 min.) allowed me, let me take you to a few of these<lb/>
+places. The island of Michilimacinac is a lovely vacation spot. Mackinac,<lb/>
+as we know it, is famous for its &ldquo;hotel with the longest porch in the world.&rdquo;<lb/>
+X ...and for its old fort built in 1780.<lb/>
+X From the fort we can see the town below, and the house where, in 1822, a<lb/>
+young 19 year-old French Canadian was accidentally shot in the stomach.<lb/>
+X It happened in the cellar of this house.<lb/>
+X Within minutes, he was being cared for by a 36-year old Army doctor, the post<lb/>
+surgeon, who moved the wounded man to this little one-story hospital at the<lb/>
+fort. Here the army physician, Dr. William Beaumont, took care of the &ldquo;alto-<lb/>
+gether helpless&rdquo; Alexis St. Martin for a year.</p>
+<p>X When the county would no longer be financially responsible for the<lb/>
+invalid, (whom they named &ldquo;a common pauper&rdquo;) Dr. Beaumont, a family man with<lb/>
+a salary of only $40 a month, took him into his own family-quarters and cared<lb/>
+for him for 2 more years, solely as a patient, and not as a subject for ex-<lb/>
+perimentation, for this idea did not strike Beaumont until later, after the<lb/>
+failure of all his attempts to close the wound, which had left an opening into the<lb/>
+stomach.</p>
+<pb n="2" id="f04801002"/>
+<p>- 2 -</p>
+<p>X Far from any medical center, Beaumont began to make scientific history. He<lb/>
+had practically nothing to use except two things, but both of them were rare and in-<lb/>
+valuable - a human stomach with a hole in it, and the one fine instrument at his com-<lb/>
+mand - his own clear, imaginative brain.</p>
+<p>X His observations on the physiology of the human stomach made him &ldquo;the<lb/>
+pioneering American physiologist.&rdquo; After 75 years of neglect, this birthplace of<lb/>
+American physiology was finally memorialized in 1900.</p>
+<p>* * * * *</p>
+<p>X If you've been to Brussels, Belgium, you have admired this magnificent old<lb/>
+square...<lb/>
+X and seen this whimsical figure of the Manekin-pis.<lb/>
+X But have you visited the shooting gallery of the Belgian Army on the outskirts of<lb/>
+town?</p>
+<p>X Let's walk to the targets in the rear. During an October night 39 years ago,<lb/>
+<add>German soldiers lined up where my friend is standing.</add> ago, <unclear>A<del>A</del></unclear> frail 50-year old woman was led out. Facing the soldiers. she stood erect on<lb/>
+the precise spot from which I took this photograph a few weeks ago.</p>
+<p>X In the darkness, at 2 a.m., the German soldiers fired one volley, and here<lb/>
+an English nurse who had been working in a hospital run by Dr. Depage, the father of<lb/>
+a Mayo Foundation Fellow, fell dead. She was Nurse Cavell who, a few hours earlier,<lb/>
+had told a prison chaplain: &ldquo;Patriotism is not enough.&rdquo; Her executioners put her<lb/>
+body in the high field in the background (here), and there it lay for 4 years. Then<lb/>
+lovingly the Belgians and British gathered her up to be honored amongst the kings<lb/>
+and nobles of Empire in Westminster Abbey, before they laid her to rest in Norwich<lb/>
+Cathedral.</p>
+<p>X Here just off Trafalgar Square in London is her monument, with an inscrip-<lb/>
+tion of majestic simplicity: &ldquo;Edith Cavell - Brussels - Dawn - Oct. 15, 1915.&rdquo;</p>
+<p>* * * * *</p>
+<p>X Now that we're in London, let's take a short train ride. We are in Oxford<lb/>
+and the bicycles suggest that a busy university session is on.</p>
+<pb n="3" id="f04801003"/>
+<p>- 3 -</p>
+<p>X Let us hunt up #13 Norham Gardens, a lovely old house even on a rainy day.<lb/>
+When I was there, it was a glorified rooming house for young ladies. Outside the house<lb/>
+there is no mark of distinction, but the young ladies fortunate enough to live there,<lb/>
+feel the presence of its former master, the Professor of Medicine who lived here from<lb/>
+1907 until his death in 1919.</p>
+<p>X A warm, lived-in house, autumn leaves and the plucky remains of an English<lb/>
+garden; for 12 years the international mecca of physicians, medical students and es-<lb/>
+pecially young medical officers during World War I. For here they experienced the<lb/>
+glowing hospitality of their incomparable hosts, Sir William and Lady Osler.</p>
+<p>* * * * *</p>
+<p>X One of our Foundation Fellows calls this lovely place home - The Lake of Thun,<lb/>
+near Interlaken, Switzerland.<lb/>
+X After watching several suns rise and set on the Jungfrau...<lb/>
+X ...while resting a few days at Wengen last year.....<lb/>
+X....I drove Mrs. Hench along the length of Brienersee and down the valley of the Aare<lb/>
+River...<lb/>
+X ...to this little Swiss town of Meiringen. I wanted to explore the place where a de-<lb/>
+plorable accident occurred 64 years ago, one that caused dismay and sorrow throughout<lb/>
+the civilized world (and I use advisedly the term &ldquo;civilized world&rdquo;). On the after-<lb/>
+noon of May 4, 1891, two men left the Englischer Hof at Meiringen and set out on a<lb/>
+short walking tour. One was a <add>39 year old</add> London physician, a graduate of <add>London University and of</add> St. Bart's; his companion,, a<lb/>
+<add>37 year old alumnus of Oxford was, among <add>other</add> things, a first-class chemist and</add>
+<del><unclear></unclear></del> something of a<del>n</del> <del><unclear></unclear></del> genius.</p>
+<p>X They passed the base of Hasleberg (on the left) and crossed over the narrow<lb/>
+Aare River to the little village of Willigen, at the foot of the mountain on the right.</p>
+<p>X Then they started to climb leisurely to this summit, planning to pause on<lb/>
+the way, to view the top of the waterfall you see here.</p>
+<p>X We are now about halfway up this winding road which leads from Willigen<lb/>
+below us, to the hamlet of Rosenlaui from which height there are magnificent vistas.</p>
+<p>X I found, as I followed their footsteps, that the slope of the road was<lb/>
+deceptive, the grade being steeper than it looked.</p>
+<pb n="4" id="f04801004"/>
+<p>- 4 -</p>
+<p>X Therefore I suspect that they welcomed, as I did, a chance to interrupt<lb/>
+their upward climb when they reached this by-path, a small detour which took them,<lb/>
+after about 1/2 mile or so, to the top of the falls we saw previously from below.</p>
+<p>X But before it reaches the brink of the main falls, the path, sloping down<lb/>
+through a rocky and heavily wooded region, brings one to this charming little cascade,<lb/>
+a tiny oasis of sparkling sunlight amidst the dark forest. It occurred to me that,<lb/>
+just as the water, falling gently here, is unaware of the awesome drop just ahead of<lb/>
+it, the two vacationing Britishers on passing this peaceful spot never dreamed that<lb/>
+brutal, tragic death was only minutes away.</p>
+<p>X Almost immediately beyond this cascade the earth drops suddenly away and<lb/>
+the water, which even in summer is cold from the melting snow, plunges into this<lb/>
+tremendous abyss from which the spray rolls up like the smoke from a burning house.</p>
+<p>X It is indeed a fearsome place, a precarious spot where I was glad for my<lb/>
+borrowed alpen-stock.</p>
+<p>X The shaft into which the water hurls itself is, as you can see, an immense<lb/>
+<unclear>chasm</unclear>, lined by glistening, coal-black rock, and narrowing into a creaming, boiling<lb/>
+pit of incalculable depth, which brims over and shoots the stream onward over its<lb/>
+jagged lip. In 1891, as now, the path had been cut half-way round the fall to afford<lb/>
+a complete view.</p>
+<p>Just as the two men rested for the view, a young Swiss boy came running,<lb/>
+short-of-breath, with a message from the Meiringen innkeeper imploring the physician<lb/>
+to return at once to care for an emergency, an English guest with a severe hemorrhage.<lb/>
+Reluctantly he agreed to do so, promising to join his companion that evening to spend<lb/>
+the night at Rosenlaui.</p>
+<p>But the distinguished chemist never reached Rosenlaui and when the physician<lb/>
+and police-experts returned to the falls they found the unmistakable footprints of<lb/>
+the British scientist and those of a stranger, also signs of a desperate struggle on<lb/>
+the slippery edge of the narrow, spray-drenched path and finally one or two personal<lb/>
+belongings - that was all!</p>
+<pb n="5" id="f04801005"/>
+<p>- 5 -</p>
+<p>X According to a short account in a Geneva newspaper, the bodies of the two<lb/>
+victims of this mysterious encounter must have plunged deep into this foaming water,<lb/>
+only part of which falls over the rim, for the rest of it drains off, so I was told<lb/>
+by a local resident, through <add>a</add> rock-bound subterranean <unclear>passage<del>s</del>which</unclear> emerges far down<lb/>
+the slope. At any rate, the bodies were never found.</p>
+<p>X If their frightened eyes were open as they fell through space, this is what<lb/>
+they saw in their last moments of agony: the town of Willigen in the foreground,<lb/>
+Meiringen beyond and the narrow river Aare between.</p>
+<p>Because of what this unique figure meant to the world, his involvement in<lb/>
+this tragic and mysterious affair stunned his generation.</p>
+<p>X Three years later in London, England, there was a singular epilogue to<lb/>
+this tragedy. In the year 1894 the physician was approached at night by a white-<lb/>
+haired old man who had information concerning his friend's fate. The old man lived<lb/>
+in one of the houses in this photo which I took a few weeks ago. This is a York street<lb/>
+corner. To clear up matters, the latter took the physician on <unclear>tous</unclear> walk from<lb/>
+Cavendish Square through alleys and back streets to Manchester Street and Blandford<lb/>
+Street, through a network of mews and stables until they came to this narrow street...<lb/>
+X and turned here into York Mews (now renamed - David Mews).<lb/>
+X In those days this was a deserted yard entered by a wooden gate.<lb/>
+X The puzzled physician followed, as his nocturnal companion used a key to enter the<lb/>
+rear of this house. It was empty and pitch dark. They felt their way along the cor-<lb/>
+ridor to the front room, and through a dirty window (which was here), looked out into<lb/>
+this street. What happened then sounds almost like a detective story; as the two<lb/>
+men waited in absolute silence, a 3rd man sneaked in with a powerful, noiseless<lb/>
+air-gun. He aimed it at the figure of a man by a second floor window of the house<lb/>
+across the street, then fired. His immediate capture gave the British police the<lb/>
+solution of the 4-year old mystery of <unclear>Reichenbach</unclear> Falls in Switzerland.</p>
+<p>And it will I hope, <del><unclear></unclear></del><add>satisfy your curiosity too.</add> For in 1896 this<lb/>
+building was a small deserted rooming place named Camden House.<lb/>
+<pb n="6" id="f04801006"/>
+- 6 -<lb/>
+X The shot broke one of these 2nd floor windows across the street from &ldquo;The Empty<lb/>
+House.&rdquo; The present street number of the latter is <hi>#118</hi> and this is now #111. But<lb/>
+in 1896 it was 22IB Baker Street, London. The assailant in the Empty House that night<lb/>
+was Colonel Sebastian Moran; the assailant who lost his life at the Reichenbach Falls<lb/>
+had been a brilliant professor of mathematics at one of Britain's smaller universities<lb/>
+until, through some diabolical heredity, he became &ldquo;the Napoleon of Crime,&rdquo; &ldquo;the most<lb/>
+dangerous and capable criminal in Europe.&rdquo; The British physician was named Watson -<lb/>
+a Dr. John Watson who later described the almost-miraculous way in which his travelling<lb/>
+companion <add>and room-mate</add> had, at the last second, saved himself from death. <del><unclear></unclear></del><add>For the room-mate,</add><lb/>
+a distinguished <add>detective as well as a</add> chemist, <unclear><del>he</del></unclear> was skilled at Japanese &ldquo;baritsu&rdquo;; otherwise Sherlock<lb/>
+Holmes would certainly have plunged to death with Professor Moriarty.</p>
+<p>X And now a forlorn post-script. This, the home of the greatest genius that<lb/>
+England ever produced, was destroyed during the last war. And it was the <hi>only</hi> building<lb/>
+in the whole block which <hi>was</hi> destroyed. Surely the bomb which ruined it, came <hi>not</hi><lb/>
+from the enemy in the sky, but from a sneaky agent under foot who was, no doubt, some<lb/>
+perverted, paranoid surviving member of the Moriarty<del>y</del>gang.</p>
+<p>X Last September's London paper illustrated clearly how much they <add>still</add> need Holmes;<lb/>
+he would quickly solve these outrageous &ldquo;Jack, the Ripper cases.&rdquo;</p>
+<p>X Now the only inhabitant of 22IB Baker Street is this black cat. But if the<lb/>
+owners would only restore his old home, I think the government might persuade Holmes<lb/>
+to abandon his bees and his books and return from the South Downs, to act as a Senior<lb/>
+Consultant to Scotland Yard. In this case once more he would be looking out these 2nd<lb/>
+floor windows into foggy Baker Street below. Then all would be well!</p>
+<p>* * * *</p>
+<p>After this illuminating, instructive and important digression, let me return<lb/>
+to the verities.</p>
+<p>x When this now-beloved structure was finished 65 years ago (1889) some eminent<lb/>
+Parisians spoke of it as &ldquo;useless and monstrous,&rdquo; a loathesome tin contraption. But<lb/>
+none could disparage the views from its top.</p>
+<pb n="7" id="f04801007"/>
+<p>- 7 -</p>
+<p>X Here is &ldquo;la Rive gauche&rdquo; - the left bank of song and story. On this side<lb/>
+are two remarkable shrines - comparable yet very dissimilar. At each one in solemn<lb/>
+splendor lies the body of a &ldquo;conqueror&rdquo; whose name is known to all men.</p>
+<p>X At one tomb is constant hustle and bustle: outside are taxi drivers and<lb/>
+souvenir post cards; inside are guards and throngs of visitors who, according to a<lb/>
+popular legend, are forced by cynical architectural planning to &ldquo;bow their heads&rdquo; before<lb/>
+the arrogant dead.</p>
+<p>X Immense and massive is the black marble sarcophagus which swallows up the<lb/>
+frail little Corsican, as if to protect him from his perennial public. Nearby are<lb/>
+carved the names of 12 battles won.</p>
+<p>Also nearby are the tombs of two favored military friends: they would be<lb/>
+little visited except for their satellite-distinction here.</p>
+<p>X There <hi>are</hi> bright pages in the record: Napoleonic law, Napoleonic justice,<lb/>
+even a short Napoleonic peace. But rightly or wrongly he is better known (to me, at<lb/>
+least) as a conqueror of the lands of others, a conqueror of other men. If his death-<lb/>
+house contains a private chapel or symbols of the cross, I missed them. If this<lb/>
+splendiferous rotunda invites grateful prayers of thanks for the dead, I did not<lb/>
+sense it.</p>
+<p>X In a quieter street not far away, is the other shrine, but a completely<lb/>
+different atmosphere prevails. There are no crowds and few if any visitors on an<lb/>
+ordinary day. No &ldquo;X&rdquo; marks this spot; no sign reads: &ldquo;This way to the tomb.&rdquo;</p>
+<p>X But a concierge will take you to a side door of the main building and<lb/>
+reverently open the crypt.</p>
+<p>X Walk in and you find yourself, not held at awesome distance from this<lb/>
+tomb, but allowed to go close, as to the grave of a friend.</p>
+<p>Here too the tomb is of marble, but it seems to <add>be</add> soft and colorful, dividing<lb/>
+but not separating the thankful living from the honored dead. As at the other tomb,<lb/>
+here too around the walls are inscribed the names of <del><unclear>battles</unclear></del><add>victories</add> won, but these <del><unclear></unclear></del><add>were</add> battles<lb/>
+in which everybody won, and which will never have to be fought again: battles against<lb/>
+<pb n="8" id="f04801008"/>
+- 8 -<lb/>
+false theories, bacteria, anthrax, <del><unclear></unclear></del><add>rabies</add> and other diseases. Without fear, stand<lb/>
+close to the tomb of Louis Pasteur who discovered and conquered in the &ldquo;world of the<lb/>
+infinitely small.&rdquo; Think on this thing, and the room breathes, not of death but of<lb/>
+life and health for us and those who come after.</p>
+<p>X Like Napoleon, Pasteur has two worthy comrades lying nearby. A few feet<lb/>
+away, from him, before a small altar, lies Madam Pasteur. And just outside, among<lb/>
+these flowers, lies his eminent disciple, Dr. Emile Roux.</p>
+<p>X Nearby is the famous statue of Jupille, the second young French boy with<lb/>
+rabies whose life was saved by Pasteur.</p>
+<p>X Leaving the Pasteur Institute, we pause before the figure of him whom<lb/>
+Osler and others called &ldquo;the most perfect man who has ever entered the Kingdom of<lb/>
+Science.&rdquo;</p>
+<p>* * * * *</p>
+<p>X Before we leave Paris let's cross the Seine to find a different kind of<lb/>
+shrine, an artistic one which I shall call &ldquo;para-medical.&rdquo; It is not far from Sacre<lb/>
+Coeur which you see on the horizon.</p>
+<p>X &ldquo;Everyone&rdquo; visits Montmartre with its steep little streets, picturesque<lb/>
+passages and &ldquo;art colonies.&rdquo;</p>
+<p>X Nearby is the Place du Tertre (the place of the small hill, or mound),<lb/>
+beloved of tourists and artists, a scene painted more often than almost any other<lb/>
+in Paris.</p>
+<p>X From Montmartre most taxis, returning to downtown Paris, take one by way<lb/>
+of the bridge which carries the rushing traffic of the Rue Caulaincourt over the eastern<lb/>
+corner of the old Montmartre Cemetery. Let's dismiss our taxi on the lower end of the<lb/>
+bridge just above the last &ldquo;avenue&rdquo; in the cemetery below us, for the particular grave<lb/>
+we are seeking is here. Inside the cemetery-entrance we immediately turn to the left,<lb/>
+down the first passage.</p>
+<p>Although we are now only a few yards from the noisy traffic above us, sud-<lb/>
+denly all is very still and we have the whole place to ourselves, for this cemetery<lb/>
+is too old for it to &ldquo;know&rdquo; anybody<unclear><del>"</del></unclear> alive today.</p>
+<pb n="9" id="f04801009"/>
+<p>- 9 -</p>
+<p>X Only 125 steps away we find the place we are looking for. No special &ldquo;X&rdquo;<lb/>
+marks this spot. The young woman who rests here is remembered in song and story every<lb/>
+year all over the world. (Indeed on this New Year's night, January 1, 1955, the ABC<lb/>
+devoted three hours to broadcast it again.) You and I have, more than once, shed an<lb/>
+artistic tear to her memory. Nevertheless hers is a pitiful, crowded privacy in this<lb/>
+real estate of the dead.</p>
+<p>The name carved on each side of her tomb may stir no memories or give you no<lb/>
+sense of recognition. But under another name she will be remembered for many a century.<lb/>
+Although she died 107 years ago, the urn on top has not been too long empty of flowers<lb/>
+and on the sides, lovers have pencilled hearts with their initials inside.</p>
+<p>The young <add>tuberculous</add> girl who has been the object of this unusual devotion lived only<lb/>
+23 years, the first 20 of them as an obscure peasant in Nouant. The last three years<lb/>
+she lived in Paris and she must have really been &ldquo;something,&rdquo; for during that short<lb/>
+time her charm, wit, regal manner and delicate beauty brought to her feet the kind of<lb/>
+Paris she craved. In life loved by many, indeed too many, at the end of it she died<lb/>
+almost alone, ravaged by consumption.</p>
+<p>X A colorful porcelain pillow carries the word &ldquo;Regrets.&rdquo;</p>
+<p>X Of the 4 other floral decorations, 3 are artificial and the only real one<lb/>
+(here) is fading away. Strangely symbolic, for so it was with her loves - 3 &ldquo;artificial&rdquo;<lb/>
+and one legalized one which soon died. She was the love of a French count <del><unclear>who</unclear></del><add>whom</add> <add>she</add> married<lb/>
+and left, <del><unclear>inner,</unclear></del> and of (at least) 3 great men - Dumas the elder, Dumas the younger, and<lb/>
+Franz Liszt. Another genius immortalized her in music which has been proudly sung by<lb/>
+the greatest prima donnas, including one soprano who was so well-nourished and fat that<lb/>
+her incongruous operatic-death from TB made the audience howl.</p>
+<p>X For the sake of glamor this Normandy peasant girl called herself Marie<lb/>
+Alphonsine du Plessis, a name which didn't survive long enough to be carved on her<lb/>
+tomb; and no wonder, for death has a habit of stripping us of our embellishments (at<lb/>
+least for awhile).</p>
+<p>But her other names have been carved on the pages of dramatic and musical<lb/>
+history, for she was Dumas' Marguerite Gautier, Camille or the Lady of the Camelias,<lb/>
+and Guiseppe Verdis' Violetta Valery or the &ldquo;Lost One.&rdquo; Her delicate tuberculous<lb/>
+<pb n="10" id="f04801010"/>
+- 10 -<lb/>
+coughing, if not always musical, has been heard round the world. So much for the<lb/>
+case history of La Traviata.</p>
+<p>* * * * *</p>
+<p>X Sunning herself on the 23rd parallel, Cuba looks most attractive to the<lb/>
+American tourist. His first close-ups include photogenic Morro Castle on the left...<lb/>
+X ...and the City Hall on the right.<lb/>
+X If he can afford it, he stays at the Hotel Nacional...<lb/>
+X ...and from his window he has this beautiful (but expensive) view of the Malecon drive.<lb/>
+X Later he shops in the Parque Central, then walks along the Prado (here)...<lb/>
+X ...a lovely, marble-paved promenade under cooling trees.<lb/>
+X Worn out by such exertions he returns to the Hotel Nacional's pool where he can<lb/>
+either swim...<lb/>
+X ...or relax with Dr. Tom Spies as a delightful companion...<lb/>
+X ...or just relax! (What am I saying!) (Photo of Donna Osterberg)</p>
+<p>X Then a night-boat takes the usual tourist back home, with his memories of<lb/>
+Sloppy Joe's, Cuban rum and jai alai, and his photos of Central Park, the Prado,<lb/>
+Plaza des Armas, the Casino, Yacht Club and La Playa.</p>
+<p>But an informed physician can see much more, for these and nearby places<lb/>
+were the locale for one of the most exciting medical adventures of all time.</p>
+<p>X It reached its climax in this tumble-down, forgotten little shack which I<lb/>
+helped to find in 1939.</p>
+<p>X Later, because of its historic importance, the Cuban Government declared it<lb/>
+to be a &ldquo;national monument,&rdquo; restored it and created a little park around it. Finally<lb/>
+on December 3, 1952, they raised over it the Cuban flag and dedicated it as a memorial<lb/>
+to the conquerors of yellow fever.</p>
+<p>X Let's begin the story 75 years ago when this terrible disease annually spread<lb/>
+like a plague from Cuba to the U.S. at a cost of millions of dollars and thousands of<lb/>
+lives each year. In 1879 an American commission went to Havana; later its report con-<lb/>
+tained everything about yellow fever, everything, that is except its cause. In terms<lb/>
+<pb n="11" id="f04801011"/>
+- 11 -<lb/>
+of immediate value the Chaille report was quite useless, but indirectly it was price-<lb/>
+less for it disturbed the thinking of a distinguished Cuban physician living here at<lb/>
+#<hi>52</hi> on the Prado.</p>
+<p>X Abandoning his own 21 year-old theory, Dr. Carlos Finlay accepted the<lb/>
+American Commission's opinion that &ldquo;the poison of yellow fever was a living organism&rdquo;<lb/>
+of unknown nature and source. Then, by an epoch-making cerebration which he modestly<lb/>
+spoke of as &ldquo;simple reasoning&rdquo; he excluded thousands of germs and insects, and in 1881<lb/>
+announced his opinion that a culex mosquito was the carrier of yellow fever. To prove<lb/>
+it he inoculated over 100 <add>unquarantined</add> volunteers, but the few who got sick were believed by others<lb/>
+to have developed their disease naturally, not experimentally. And so, after 19 years<lb/>
+of work and <hi>59</hi> papers thereon, he had only one convert, his assistant, Delgado.</p>
+<p>X In 1900 General Leonard Wood was Governor of Cuba and in command of the thousands<lb/>
+of American soldiers there. His old headquarters is now the City Hall. When the<lb/>
+epidemic of yellow fever developed that spring many of his staff who lived in this<lb/>
+building just across the Plaza des Armas (The Segundo Cabo, now the Supreme Court<lb/>
+Building) took sick and died.</p>
+<p>X About 6 miles away in his headquarters at suburban Quemados de Marianao.<lb/>
+General Lee and his medical officers worried over the safety of the American troops<lb/>
+most of whom were stationed at nearby Columbia Barracks.</p>
+<p>X They didn't have long to wait, for in May yellow fever killed a soldier<lb/>
+living here at 102 Calzada Real (still same number), then struck at this house around<lb/>
+the corner, at 20 <add>(now 404)</add> Gen. Lee Street.</p>
+<p>X At the Post Hospital was Jesse W. Lazear, a young Army contract-doctor.<lb/>
+Having studied malaria, he respected Finlay's notions about mosquitos and yellow fever.<lb/>
+So he captured some mosquitos in one of these houses and sought vainly for a parasite.</p>
+<p>X As the epidemic spread the Surgeon General appointed an Army Yellow Fever<lb/>
+Board: Reed and Carroll from Washington joined Agramonte and Lazear at the Post Hos-<lb/>
+pital in Quemados, which was, in 1900, exactly here, where now stands the Cuban Army<lb/>
+hospital at what is still called Camp Columbia, only a mile from the bathing<lb/>
+beach, LaPlaya.</p>
+<pb n="12" id="f04801012"/>
+<p>- 12 -</p>
+<p>X Unable to isolate a yellow fever germ they turned to Finlay's old theory,<lb/>
+and got some mosquito larvae from Dr. Finlay who by then had moved from the Prado to<lb/>
+this place <add>at 110 (now 460) Aguacate Street.</add><del><unclear></unclear></del></p>
+<p>X While Reed was temporarily recalled to Washington, Lazear at Camp Columbia<lb/>
+made nine unsuccessful, then suddenly two successful inoculations. A few days later<lb/>
+Lazear himself developed severe yellow fever and died of what we now know was almost<lb/>
+certainly secret, self-induced yellow fever. They buried him near here, in a little<lb/>
+temporary army cemetery near the post hospital.</p>
+<p>X Returned to Havana, Reed studied Lazear's notes on the timing of the suc-<lb/>
+cessful and unsuccessful inoculations and discovered why the experiments of Finlay and<lb/>
+the first ones of Lazear had been negative or inconclusive. But the Board's first re-<lb/>
+port was received with indifference or ridicule because these first American volunteers<lb/>
+were not under strict quarantine.</p>
+<p>X So Reed visited General Wood in this room in the present City Hall...<lb/>
+X ...and got permission to establish in Quemados an experimental station named &ldquo;Camp<lb/>
+Lazear.&rdquo;</p>
+<p>X In Quemados, on Calzada Real was (and still is) the Finca San Jose, a small<lb/>
+estate and farm owned by a Cuban, Dr. Rojas.</p>
+<p>X Behind this lovely old house <add>where his daughter now lives</add> was an open field which suited Major Reed's<lb/>
+purposes.</p>
+<p>X Seven tents and two special buildings were set up <add>under strict quarantine.</add> In Building #1 (and<lb/>
+this is the way it looked when we found it in 1940) brave volunteers slept on sheets<lb/>
+and pillows and in clothing terribly soiled by yellow fever patients. But none de-<lb/>
+veloped yellow fever because there were no mosquitos. Here are the tongued and grooved<lb/>
+boards, the flattened ceiling and the stove-pipe hole so carefully described by Reed,<lb/>
+features quite unknown to Cuban construction.</p>
+<p>X Eighty yards in front of Building #1 was Building #2 where my friend<lb/>
+Doctor Nogueira stands. It blew down in 1926<unclear>.</unclear> <add>but Johnny Moran and I found fragments of its flooring.</add> In it Johnny Moran (O'Hara" in &ldquo;Yellow<lb/>
+Jack,&rdquo; the TV play of ten days ago) was exposed to infected mosquitos and promptly<lb/>
+developed yellow fever.</p>
+<pb n="13" id="f04801013"/>
+<p>- 13 -</p>
+<p>Other experiments here clinched matters, gave to Reed and his associates<lb/>
+enough proof, and laid the foundation for the elimination of yellow fever from most<lb/>
+of the world.</p>
+<p>X As an aftermath of my snooping, I flew to Havana two years ago, a guest of<lb/>
+the Cuban Government to help dedicate &ldquo;The Camp Lazear Memorial Park.&rdquo; Invited also<lb/>
+were the families of Reed, Lazear and all others who had helped.</p>
+<p>X Present were the diplomatic corps, cabinet members and many others and<lb/>
+among them the families of Finlay and Delgado.</p>
+<p>X Bronze tablets and profiles were unveiled and decorated with flowers.<lb/>
+X That of Dr. Agramonte was unveiled by his daughter.</p>
+<p>X Of the 25 principal men whose hopes were fulfilled at Camp Lazear 3 were<lb/>
+Cubans, 4 were Spaniards, one was English, one Irish and 16 American. They included<lb/>
+the humble and the privileged, civilians and soldiers, professionals and volunteers,<lb/>
+Catholics, Protestants and Jews. And here where the Cuban flag now flies in their<lb/>
+honor, they afforded a supreme demonstration of the potential brotherhood of man.</p>
+<p>* * * * *</p>
+<p>Now we have visited briefly several unusual places. Does any common de-<lb/>
+nominator link the U. S. Army surgeon at out-of-the-way <unclear>Mackinac</unclear> Island in <hi>1822</hi><lb/>
+with those <add>at</add> even farther-away Quemados Cuba in 1900, the English nurse who died before<lb/>
+the firing squad in Brussels and the Professor of Medicine who lived and died at<lb/>
+Oxford or the bacteriologist <del><unclear></unclear></del> of France. Their common<lb/>
+motive was, I think, an instinctive urge for humanitarian service which most of them<lb/>
+rendered by advancing medical knowledge.</p>
+<p>X That was surely one of the dominant forces which motived the two men whose<lb/>
+honored family name we share, for the public calls us &ldquo;Mayo men.&rdquo; Whether we are<lb/>
+staff men or Foundation fellows, the right to bear that proud name carries with it<lb/>
+obligations which we must never forget. If we, fellows and staff, have exceptional<lb/>
+privileges, we have special responsibilities also, namely - to practice the art and<lb/>
+science of medicine with special industry, and, if possible, with special skill.</p>
+<pb n="14" id="f04801014"/>
+<p>- 14 -</p>
+<p>You new fellows have become an important part of the Mayo Foundation.<lb/>
+Indeed you are now those for whom the Foundation was created. As such, you are a very<lb/>
+important part of the Mayo Clinic, for largely through you, its new generation, will<lb/>
+the Clinic achieve its second purpose - the continuing advancement of medical science.<lb/>
+Consequently you of the Foundation and the members of the staff have mutual responsi-<lb/>
+bilities.</p>
+<p>First, each owes the other loyal cooperation. Give to your teachers here,<lb/>
+to every one of them, that respect which all earnest teachers and scholars deserve.<lb/>
+If possible, give to your seniors here, not just your respect, but your affectionate<lb/>
+regard. He will treasure that &ldquo;something extra&rdquo; and will respond to it.</p>
+<p>But (and this is most important) even while you give him personally your<lb/>
+loyalty and respect, <hi>never</hi> give him your complete trust. That is, you must <hi>not</hi> give<lb/>
+to his <hi>ideas</hi> your unquestioning allegiance. For if you do, you will defeat one of<lb/>
+the main purposes of every medical school, hospital and clinic, and the chief ob-<lb/>
+jective of the Mayo Foundation - namely, your chance to extend knowledge. If you<lb/>
+accept all his ideas and beliefs without question or constructive criticism, whether<lb/>
+spoken or not, you will reject the glowing philosophy of all science, that the truth<lb/>
+of today is only the half-truth of tomorrow.</p>
+<p>Unlike the custom of old Europe, <hi>here</hi> we do <hi>not</hi> listen to the voice of<lb/>
+authority, at least not reverently. Listen closely to the voices of experience and<lb/>
+wisdom but not to the voice of mere authority which is always a stifling force.</p>
+<p>If you listen to the voices of wisdom whether it be that of your elders or<lb/>
+preferably, that of your own growing <del><unclear></unclear></del><add>knowledge</add>, you may experience one of the<lb/>
+greatest thrills of life, the birth of a new idea, the conception of a new truth.</p>
+<p>But it isn't enough simply to entertain a new idea. You must nourish and<lb/>
+strengthen it, for at first a new truth is always a precious, fragile thing, often<lb/>
+no more than a passing notion which can easily be killed by the slightest neglect or<lb/>
+ridicule. Dream about it, think about it till it eats your guts out. Then <hi>do</hi> some-<lb/>
+thing about it to develop and refine it. But when you start <hi>doing</hi>, you will start<lb/>
+<pb n="15" id="f04801015"/>
+- 15 -<lb/>
+<hi>suffering</hi>, for like that of a new human, the delivery of a new truth into the world<lb/>
+is a painful thing. Many times you will become discouraged. But you must never quit.</p>
+<p>Some time ago I was reading one of Arthur Bryant's fine pieces in the London<lb/>
+Illustrated News. Discussing Churchill, he wrote what that immortal Englishman told<lb/>
+the boys of Harrow some years ago (1942). To these young men he said: &ldquo;Never give in,<lb/>
+<hi>never</hi>, <hi>never</hi>, <hi>never</hi>, <hi>never</hi>, in nothing great or small, large or petty - never give in<lb/>
+except to convictions of honor and good sense...&rdquo; (London <unclear>I11</unclear>. News, Oct. 4, 1952). Re-<lb/>
+member that, gentlemen, as you struggle and sweat to discover the secrets of nature,<lb/>
+and to make them plain to others which is<unclear>,</unclear> often harder to do than the first. Truth <hi>is</hi><lb/>
+hard to find. She is an elusive, fickle mistress. But she <hi>is</hi> forever waiting for you<lb/>
+around the next corner.</p>
+<p>And if by time and testing, you find that you have discovered a new truth,<lb/>
+be its humble host; meet it with humility as becomes the inquiring physician who<lb/>
+realizes that any single truth, no matter how impressive or useful it may be, is only<lb/>
+an infinitesimal fragment of what is the whole truth and nothing but the truth as<lb/>
+known to the Great Physician. If you so respond, then you are on your way, for your<lb/>
+humility will dim the glare of the new, bright truth so that you can see beyond it,<lb/>
+to the next one which is always there.</p>
+<p>Now what is the fundamental purpose of all such laboring, of all our planning<lb/>
+and lecturing and demonstrating and sharing and remembering? The heart of the matter<lb/>
+is not just the stimulated mind (for this could produce mere cerebral self-satisfaction<lb/>
+or even academic snobbery). The end of it is not even the new and stimulating truth,<lb/>
+but the <hi>serviceable application</hi> of the truth. To be useful, medical truth must be<lb/>
+put to work; it must serve. A scientific truth does not, by definition, become a fact<lb/>
+(a noun derived from the verb, facere - &ldquo;to do&rdquo;) until it is made to operate.</p>
+<p>X In the last analysis that can happen only in some such place and manner as<lb/>
+this, when and wherever the informed, dedicated physician and a single patient who<lb/>
+needs him, actually meet (photo of &ldquo;The Doctor&rdquo; painted by Sir Luke Fildes).</p>
+<pb n="16" id="f04801016"/>
+<p>- 16 -</p>
+<p>This is the place, <add>a</add> <del><unclear>the</unclear></del> sick room of whatever kind it may be, where the<lb/>
+truthful dreaming of the theorist, the demonstrations of the experimentalist, the<lb/>
+magic of the chemist, the guidance of the laboratory and the wisdom of the prac-<lb/>
+titioner finally come together for their critical testing. Only in the sick room can<lb/>
+these separate forces demonstrate their basic truthfulness and ultimate usefulness;<lb/>
+only here can they unite to fulfill their proper destiny which is to relieve suffering<lb/>
+and thus implement the will and mercy of Divine Providence.</p>
+<p>Alone here in such a room, the physician must practice both his art and his<lb/>
+science. And if his prescription is fashioned well by head and heart, he too will re-<lb/>
+ceive satisfaction <del><unclear></unclear></del><add>from</add> services rendered.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

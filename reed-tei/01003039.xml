@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01003039">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from George Parker to Henry Rose Carter, November 25, 1922</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Parker, George</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01003039</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1922-11-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Carter, Henry Rose</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Mississippi</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1922-11-25">November 25, 1922</date>
+<idno rend="suppress">01003039</idno>
+<title>Letter from George Parker to Henry Rose Carter, November 25, 1922</title>
+</bibl>
+</head>
+<p>Parker requests Carter's opinion on his formula for the economic loss caused by malaria in Mississippi.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1922-11-25">
+<head>Letter from George Parker to Henry Rose Carter, November 25, 1922</head>
+<pb n="1" id="f01003039"/>
+<opener>
+<unclear>Sarpullido-/giba abolladunce,</unclear><lb/>
+coscova <unclear>comba,</unclear><lb/>
+barriga<lb/>
+N. M. C<lb/>
+Parker,<lb/>
+W. W. HALL, M.D., PRES. SHELBY, MISS.<lb/>
+J. H. McNEILL, M.D., OLIVE, <unclear>BARRACK</unclear> MISS.<lb/>
+<unclear>D.</unclear> LAMPTON CRAWFORD, M.D., <unclear>TYLERTOWN</unclear> MISS.<lb/>
+T. F. ELMIN, M.D., <unclear>JUFELD</unclear>, MISS.<lb/>
+H. F. GARRISON, M.D., CLINTON, MISS.<lb/>
+L. L. McDOUGAL, M.D., <unclear>BOONVILLE,</unclear> MISS.<lb/>
+T. W. REAGAN, M.D., <unclear>UNION</unclear> MISS.<lb/>
+C. D. MITCHELL, M.D., <unclear>JACKSON,</unclear> MISS.<lb/>
+I. L. PARSONS, M.D., <unclear>BA MISS.</unclear><lb/>
+E. M. GAVIN, M.D., <unclear>OVE</unclear> MISS.<lb/>
+W. H. WATSON, M.D., <unclear>BARANGA MISS.</unclear><lb/>
+<unclear>J. H. WINOHAM,</unclear> M.D., <unclear>E.C.</unclear>, MISS.<lb/>
+<unclear>MISSISSIPPI STATE BOARD OF REALTY</unclear><lb/>
+Mississippi State Board of Health<lb/>
+W. S. LEATHERS, M.D., EXECUTIVE OFFICER<lb/>
+JACKSON, MISS.<lb/>
+BUREAU OF SANITARY ENGINEERING<lb/>
+-----<lb/>
+H. A. KROEZE, C. E.<lb/>
+State Sanitary Engineer<lb/>
+<dateline>
+P. O. Box 257,<lb/>
+Yazoo City, Miss.,<lb/>
+<date value="1922-11-25">November 25, 1922.</date>
+</dateline>
+Dr. H. R. Carter,<lb/>
+Asst. Surgeon General, USPHS,<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Doctor Carter:</salute>
+</opener>
+<p>I am working up data relative to the economic and commercial<lb/>
+bearing malaria has in Mississippi. With the information available it is rather<lb/>
+difficult to arrive at some satisfactory conclusions. In computing the economic<lb/>
+loss per acre of improved farm land I have worked out the following, and if con-<lb/>
+venient to you may I ask your opinion regarding it:</p>
+<p><unclear>(<hi>CASES MALARIA</hi> PER CENT MALARIA) AVERAGE VALUE PER = ECONOMIC LOSS PER<lb/>
+(POPULATION x IN RURAL DISTRICT) ACRE IMPROVED FARM LAND = ACRE or LABOR IN- = x<lb/>
+VESTMENT PER ACRE<lb/>
+LOST</unclear></p>
+<p><unclear>( X x PER CENT OF REASON-)<lb/>
+ABLE PROFIT) plus X = GROSS ECONOMIC LOSS PER ACRE. Therefore:-</unclear></p>
+<p><unclear>(130,156/1,789,182 x .72) (35.27) = X = percent<lb/>
+value<lb/>
+(7.27x .75) 35.27 = $1.92 Economic loss per acre<lb/>
+or labor investment<lb/>
+per acre lost.</unclear></p>
+<p>(1.92 x .20) plus 1.92 = $2.30 Gross economic loss per acre improved farm land.</p>
+<p>Computing the annual cost per acre of improved farm land based on the number<lb/>
+of malaria cases times $25.00 gives $0.35.</p>
+<p>While in Chattanooga I met Dr. Hansen who was in Panama and later in Peru.<lb/>
+I would like to keep in touch with him, and will appreciate it if you will let me<lb/>
+know his initials and general address.</p>
+<p>Thank you most kindly for your consideration of this matter, and with kindest<lb/>
+regards.</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>George Parker</signed>.
+Answered - <unclear><hi>again Dec 17</hi>.</unclear><lb/>
+Novem 30/22<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

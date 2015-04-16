@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06413053">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to Philip Showalter Hench, May 21, 1947</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06413053</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1947-05-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Dominguez [Roldan], Francisco</name>
+<name type="person">Nogueira, Pedro</name>
+<name type="person">Kean, Cornelia Knox</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Manson, Patrick</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Johns Hopkins University</name>
+<name type="place">Paris (France)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>9 pp.</extent>
+<date value="1947-05-21">May 21, 1947</date>
+<idno rend="suppress">06413053</idno>
+<title>Letter from Jefferson Randolph Kean to Philip Showalter Hench, May 21, 1947</title>
+</bibl>
+</head>
+<p>Moran wants Kean to explain to Nogueira that there shouldn't be any hostility between Cuba and the U.S. caused by distinguishing between Finlay &ldquo;discovering&rdquo; the mosquito theory and Reed &ldquo;demonstrating&rdquo; the theory. Kean also mentions his letter to Moran about Guiteras' speech given in Havana in 1900, which gives a proper analogy for the Finlay--Reed discovery.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1947-05-21">
+<head>Letter from Jefferson Randolph Kean to Philip Showalter Hench, May 21, 1947</head>
+<pb n="1" id="f06413053"/>
+<opener>
+To Col. P. S. Hench<lb/>
+Mayo Clinic<lb/>
+Rochester Minn.<lb/>
+2804 N STREET, N. W.<lb/>
+WASHINGTON 7, D. C.<lb/>
+<dateline>
+<date value="1947-05-21">21 May '47</date>
+</dateline>
+<salute>My dear Colonel</salute>
+</opener>
+<p>You must think that I am like<lb/>
+the gophers which hibernate for the<lb/>
+winter and do not wake up until<lb/>
+hot s<del>a</del><add>u</add>mmer comes. Well it looks<lb/>
+like that with me. I had a lunch engage<lb/>
+ment with my cousin Prof(Ex). Julian<lb/>
+Coolidge of Harvard, Master of Sowell House<lb/>
+on April 1<hi rend="superscript">st</hi>. I had a heart attack at<lb/>
+lunch. I got home &amp; tumbled <add>into bed</add>. <unclear>It</unclear> wasn't so<lb/>
+very bad, but the doctor was much exer-<lb/>
+cised over it and not only kept me in<lb/>
+bed for several days, but confined me<lb/>
+to the second floor where is my bedroom<lb/>
+&amp; the bathroom. He did not wish me<lb/>
+to come down stairs and be climbing<lb/>
+<pb n="2" id="f06413054"/>
+AC<lb/>
+K<lb/>
+2<lb/>
+the long flight of stairs after breakfast<lb/>
+for the call of nature. As regards<lb/>
+urination I have long had a blue bottle<lb/>
+with a large mouth, which I can use<lb/>
+in my study, and empty in the kitchen<lb/>
+sink next door. Well I felt quite helpless<lb/>
+up there, with all my books and papers<lb/>
+and letters down on the first floor.<lb/>
+So my correspondence was a perfect<lb/>
+mess when last Tuesday the doctor<lb/>
+said that my heart was about as<lb/>
+it was before and if I would be pru-<lb/>
+dent he would discharge me as a<lb/>
+patient. But he appointed Cornelia to<lb/>
+be my Gromyko with a veto power.<lb/>
+So I am not yet a free man. You<lb/>
+see that an old retired lame duck<lb/>
+<pb n="3" id="f06413055"/>
+3<lb/>
+like me has to do just one thing; to earn<lb/>
+his &frac34; pay (no allowances, so it is really &frac12; pay<lb/>
+like the English Army) and that one thing<lb/>
+is to keep alive. So when my friends say<lb/>
+&ldquo;Well good-by old man take good care<lb/>
+of yourself&rdquo; I reply &ldquo;That is my only<lb/>
+job in life - to live, and draw my pay,<lb/>
+and distribute it to my dependents&rdquo;.<lb/>
+Well I am now cleaning my desk and<lb/>
+answering letters, and I cannot dash<lb/>
+off letters as you can. If I turn my<lb/>
+pen loose no one would ever read it<lb/>
+and I would leave out words and<lb/>
+misspell others, and my friends who<lb/>
+are accustomed to typed letters would<lb/>
+not bother to read them. So I write<lb/>
+slowly and try to make my letters<lb/>
+legible. Now see here are three pages and<lb/>
+<pb n="4" id="f06413056"/>
+AC<lb/>
+K<lb/>
+(4)<lb/>
+all about myself!</p>
+<p>I was immensely interested in your fine<lb/>
+letter to Moran and to hear that he<lb/>
+has written, or is writing, his autobiogra-<lb/>
+phy. What you say about it is very<lb/>
+clever and, I doubt not, very true that<lb/>
+it will not conflict with yours. NONE<lb/>
+will conflict with your <hi>Magnum Opus</hi><lb/>
+and I am so pleased to have you<lb/>
+speak of it as if you had put pen to<lb/>
+paper on it. <hi>C'est la premiere pas qui<lb/>
+coute</hi> - &ldquo;Well begun is half done&rdquo;.<lb/>
+If I can hold the printed volume of it<lb/>
+in my hand, I will be willing to say<lb/>
+&ldquo;Now Lord let thy servant depart in peace&rdquo;.<lb/>
+I had a nice note from Moran, being a<lb/>
+letter of introduction of Dr. Pedro Nagu-<lb/>
+-era, who brought it with him from Cuba.<lb/>
+He had the Pan American where I think<lb/>
+he was staying call me up to make an<lb/>
+<pb n="5" id="f06413057"/>
+5<lb/>
+2804 N STREET, N. W.<lb/>
+WASHINGTON 7, D. C.<lb/>
+an appointment, but Mrs. Kean who<lb/>
+answered the phone replied that I<lb/>
+was sick and not able to see him.<lb/>
+So he mailed the letter to me, with a<lb/>
+polite letter of regret. I have not writ-<lb/>
+ten to Moran but will try to do so<lb/>
+today. Moran wanted me to explain to<lb/>
+him that I saw no reason for dispute<lb/>
+between Cubans and US. Citizens as to<lb/>
+the respective credit of Finlay and<lb/>
+Reed: that I always spoke of Finlay as<lb/>
+the <hi>Discoverer</hi> of mosquito transmission<lb/>
+of Yellow Fever and Reed as the <hi>Demon-<lb/>
+strator</hi>, who with his laboratory training at<lb/>
+Johns Hopkins and his superior facilities<lb/>
+was able to make Finlays' discovery at<lb/>
+<pb n="6" id="f06413058"/>
+AC<lb/>
+K<lb/>
+6<lb/>
+(April 12, 1939. was the date of my letter)<lb/>
+once accepted by the medical profession.</p>
+<p>I wrote Moran once my account of the<lb/>
+dinner given by the doctors of Havana<lb/>
+to celebrate the triumphant demonstra-<lb/>
+tion by Reed of Finlay's theory and<lb/>
+the beautiful speech of Dr. Juan Gui-<lb/>
+teras in which he compared Finlay's<lb/>
+work to that of Manson with reference<lb/>
+to the transmission of malaria and<lb/>
+that of Reed to Ross's demonstration<lb/>
+of the malarial agent in the anopheles mos-<lb/>
+quito. This dinner was given on Dec. 22<lb/>
+1900. Dr Finlay and Major Reed seemed<lb/>
+quite satisfied with the point of view<lb/>
+of Dr. Guiteras who made the principal<lb/>
+address and was as I recollect the &lsquo;Master<lb/>
+of the Feast&rsquo;. What was my amazement<lb/>
+when I read in the biography of Dr Finlay<lb/>
+<pb n="7" id="f06413059"/>
+7<lb/>
+2804 N STREET, N. W.<lb/>
+WASHINGTON 7, D. C.<lb/>
+written in French by Dr. Francisco Dominiguez<lb/>
+and printed in Paris, a quite full<lb/>
+account of this dinner in which he says<lb/>
+that <hi>he</hi> Dr. Dominguez got up the dinner<lb/>
+at the request of the Military Governor, Gen.<lb/>
+Leonard Wood! It is amusing that he does<lb/>
+not mention Dr Guiteras's speech or my<lb/>
+being there, altho. I was at that time the acting<lb/>
+Chief Surgeon of Cuba and, as I recollect it,<lb/>
+sat by Dr. Finlay. Also I do not recollect<lb/>
+Dr Dominguez' being there. I think Moran<lb/>
+wanted me to tell this story of my recollect<lb/>
+of the dinner to Dr. Pedro Nogueira and<lb/>
+I would have liked to do so. But Moran<lb/>
+has my letter written April 12, 1939 that<lb/>
+he can show Dr. Noguera if he wants to.<lb/>
+But it reads like a different dinner from<lb/>
+that which Dr Dominguez describes, and<lb/>
+<pb n="8" id="f06413060"/>
+8<lb/>
+he would probably believe the fluent<lb/>
+convincing French of Dr. Dominguez who<lb/>
+was a member of the French Academy of<lb/>
+Medicine. He almost convinced me that I<lb/>
+had a pipe dream. He sent me his<lb/>
+book in 1941 two years after I wrote to Moran<lb/>
+I think you told me that you had the book,<lb/>
+perhaps I gave it to you as I do not<lb/>
+find it here in my den. I hope I did-<lb/>
+Dr. D. is now dead, as are all the men<lb/>
+who I recollect as being at that dinner:<lb/>
+Reed &amp; his two assistants Finlay, Guetiras, Gorgas<lb/>
+Gen. Wood and Dominguez whom I did not<lb/>
+recall. Well this is a long letter and<lb/>
+I must stop and get busy. Mrs Kean is<lb/>
+sick in bed &amp; the Dr. thinks it is nerves &amp;<lb/>
+worry and she must have a rest and stop<lb/>
+worrying. If I had only a few drops<lb/>
+<pb n="9" id="f06413061"/>
+9<lb/>
+of 'that nepenthes which the wife of Thone<lb/>
+in Egypt gave to Jove-born Helena&rdquo;<lb/>
+but I fear it is not known to modern<lb/>
+medicine. To go back to our question<lb/>
+I fear our American medical writers are<lb/>
+not free from blame. I have a book<lb/>
+on Practice of Medicine by John H. Musser<lb/>
+Professor of Internal Medicine at Tulane<lb/>
+Univ in New Orleans <add>which</add> gives 36 lines to<lb/>
+the History of Yellow Fever and <hi>does not men-<lb/>
+tion Finlay</hi>, altho he mentions every one<lb/>
+else. His book was printed in 1932 by Lea<lb/>
+&amp; Febiger, Phila. My guess would be that he is<lb/>
+a son of the Phila. Musser of a former generation</p>
+<closer>
+<salute>With cordial regards yours</salute>
+<signed>J.R. Kean</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

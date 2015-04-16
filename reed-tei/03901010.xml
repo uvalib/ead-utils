@@ -1,0 +1,1889 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03901010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report to Dr. Ramos on the True Location of Camp Lazear, by Philip Showalter Hench, March 4, 1941</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Hench, Philip Showalter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03901010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1941-03-04</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Ramos, Domingo F.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Hutchison, Ralph Cooper</name>
+<name type="person">Pogolotti, Luis</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Benigno, Antonio</name>
+<name type="person">Presedo, Becente</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Fernandez, [s.n.]</name>
+<name type="person">Olsen, William</name>
+<name type="person">Martinez, [s.n.]</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Alvare, Ignacio</name>
+<name type="person">Ramos, Domingo F.</name>
+<name type="person">Recio, Alberto</name>
+<name type="person">Leon, Estela Agramonte Rodriguez</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="person">Rojas, Maria Teresa Loma viuda de</name>
+<name type="person">Zunzunegui, Julian</name>
+<name type="person">Zunzunegui, Demetrio</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Sosa, Antonio</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Ames, Roger Post</name>
+<name type="place">Washington and Jefferson College, Washington (Pa.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">San Jose farm, (Cuba)</name>
+<name type="hospital">Las Animas Hospital, Havana (Cuba)</name>
+<name type="hospital">Military Hospital # 1 (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>70 pp.</extent>
+<date value="1941-03-04">March 4, 1941</date>
+<idno rend="suppress">03901010</idno>
+<title>Report to Dr. Ramos on the True Location of Camp Lazear, by Philip Showalter Hench, March 4, 1941</title>
+</bibl>
+</head>
+<p>Hench's report concerning the true site of Camp Lazear includes a synopsis of the yellow fever experiments, maps, photographs, quotations from Senate documents, and supporting letters from Kean, Cooke and Truby.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1941-03-04">
+<head>Report to Dr. Ramos on the True Location of Camp Lazear, by Philip Showalter Hench, March 4, 1941</head>
+<pb n="1" id="f03901010"/>
+<p>2.</p>
+<p><hi>Background notes: brief outline of the work of the United States Army Yellow Fever Board</hi></p>
+<p>To appreciate the significance of Camp Lazear and what was done there it is<lb/>
+necessary to review briefly the work of the United States Army Yellow Fever Board.<lb/>
+The following data were obtained from the medical papers of the board as originally<lb/>
+published in various medical journals and as compiled by the United States Senate<lb/>
+in their Volume 61, Document 822 - &ldquo;Yellow Fever: A Compilation of Various Publica-<lb/>
+tions; Results of the Work of Major Walter Reed, Medical Corps, United States Army,<lb/>
+and the Yellow Fever Commission,&rdquo; printed in 1911 in Washington at the Government<lb/>
+Printing Office. This compilation was carefully prepared under the supervision of<lb/>
+Major (<unclear>now</unclear> Brigadier General) Jefferson R. Kean who, as chief surgeon of the Depart-<lb/>
+ment of Havana 1899-1901, was closely connected with Walter Reed and his colleagues.<lb/>
+This document is considered the official record of the Yellow Fever Board.</p>
+<p>
+<list type="simple">
+<head><hi>Synopsis</hi></head>
+<item>1900, May 24 - Special Yellow Fever Board appointed by Surgeon General Stern-<lb/>
+berg (special order 122, Adjutant General's office). The board<lb/>
+consisted of Walter Reed, James Carroll, Aristides Agramonte<lb/>
+and Jesse W. Lazear.</item>
+<item>June 25 - Board's first meeting, Columbia Barracks, Quemados.</item>
+<item>July - Failure to recover Sanarelli's bacillus from the bodies of 11<lb/>
+fatal cases and from blood in 18 cases of yellow fever.</item>
+<item>Aug. 1 - Board decided to investigate the mosquito theory of Finlay.</item>
+<item>Aug. 4 - Reed, under orders from Washington, left Havana to go to<lb/>
+Washington to complete a report of an investigation on typhoid<lb/>
+fever.</item>
+<item>Aug. 6 - Lazear began feeding mosquitos on yellow fever patients at Las<lb/>
+Animas Hospital.</item>
+<item>Aug. 11 - Lazear inoculated 2 unidentified American soldiers with infected<lb/>
+(but &ldquo;unripe&rdquo;) mosquitos; results negative.</item>
+<item>Aug. 12 - Two more unidentified American soldiers inoculated; no results.</item>
+<item>Aug. 14 - Another soldier inoculated; no results.</item>
+<item>Aug. 16 - Lazear inoculated himself; no results.</item>
+<item>Aug. 18 - Another soldier inoculated; no results.</item>
+<item>Aug. 19 - " " " " "</item>
+<item>Aug. 25 - " " " " "</item>
+<item>Aug. 27 - Carroll inoculated.</item>
+<item>Aug. 31 - Carroll frankly ill of yellow fever.</item>
+<item>Aug. 31 - Lazear inoculated Private Dean (Case &ldquo;XY&rdquo;)</item>
+<item>Sept. 1 - Carroll removed to the &ldquo;yellow fever wards&rdquo; (Senate Doc. p. 63)<lb/>
+or &ldquo;yellow fever camp.&rdquo; (Carroll in New York Med. J. and Phila-<lb/>
+delphia Med. J. Consolidated - LXXIX, p. 244, Feb. 6, 1904)</item>
+<item>Sept. 6 - Dean frankly ill of yellow fever; taken to &ldquo;yellow fever wards&rdquo;<lb/>
+(Senate Document, p. 66)</item>
+<item>Sept. 13- Lazear bitten by mosquito at Las Animas Hospital (according to<lb/>
+official version).</item>
+<item>Sept. 18- Lazear developed frank yellow fever.</item>
+<item>Sept. 25- Lazear died.</item>
+<item>Oct. 4 - Reed arrived in Cuba, returning from Washington (date given me<lb/>
+by Gen Kean). Up to this time the members of the board had<lb/>
+done their work chiefly at the Post Hospital of Camp Columbia<lb/>
+where the inoculations were made, at Las Animas Hospital where<lb/>
+the mosquitos were infected by applying them to cases of yellow<lb/>
+fever, and to a lesser extent at Military Hospital #1 (formerly<lb/>
+Hospital Alfonso XIII) where was Agramonte's laboratory. <hi>Camp<lb/>
+Lazear was not yet in existence.</hi></item>
+<pb n="2" id="f03901011"/>
+<item>3.</item>
+<item>Oct. 12 - Majors Reed and Kean visited Gen. Wood; Reed obtained permission<lb/>
+to call for volunteers for experimental yellow fever, the volun-<lb/>
+teers to be given a monetary reward and the experiments to be<lb/>
+carried out in a properly isolated and specially erected experi-<lb/>
+mental station. (See article by Kean in The Military Surgeon,<lb/>
+March 1928, page 300).</item>
+<item>Oct. 13 - Reed left for the U. S. to read the board's paper &ldquo;The Etiology<lb/>
+of Yellow Fever - A Preliminary Note&rdquo; at the meeting of the Amer-<lb/>
+ican Public Health Assoc., Indianapolis, Oct. 23. Reed returned<lb/>
+at once to Cuba.</item>
+<item><p>Nov. 20 - Camp Lazear established and ready for occupancy. See &ldquo;The Etiology<lb/>
+of Yellow Fever - an Additional Note&rdquo; by Reed, Carroll and Agra-<lb/>
+monte in Senate Document, page 70-89; Journal American Medical<lb/>
+Assoc. 36:431-440; Feb. 16, 1901; and Proceedings of the Pan-<lb/>
+American Medical Congress of Havana, Feb. 4-7, 1901.</p>
+<p>In this paper it is stated, &ldquo;In order to exercise perfect<lb/>
+control over the movements of those individuals who were to be<lb/>
+subjected to experimentation, and to avoid any other possible<lb/>
+source of infection, a location was selected in an open and un-<lb/>
+cultivated field about 1 mile from the town of Quemados, Cuba.<lb/>
+Here an experimental station was established under the complete<lb/>
+control of the senior member of the board. <hi>This station was<lb/>
+named Camp Lazear, in honor of our late colleague..</hi>....&rdquo;<lb/>
+Camp Lazear was established November 20, 1900 and from this date<lb/>
+was strictly quarantined, no one being permitted to leave or<lb/>
+enter camp except the three immune members of the detachment and<lb/>
+the members of the board."</p></item>
+<item>Nov. 20 - (10:30 A.M.) Kissinger inoculated; no results.</item>
+<item>Nov. 23 - Kissinger again inoculated; no results.</item>
+<item>Nov. 26 - Moran, Benigno and Presedo inoculated, no results.</item>
+<item>Nov. 29 - Moran, Benigno and Presedo again inoculated, no results.</item>
+<item>Nov. 30 - &ldquo;Building #1&rdquo; (Infected clothing and bedding building) ready for<lb/>
+use, entered and occupied until Dec. 19 by Dr. Cooke and by<lb/>
+Privates Folk and Jernegan.</item>
+<item>Dec. 2 - Presedo and Benigno inoculated for the third time; no results.</item>
+<item>Dec. 5 - Kissinger inoculated for the third time; developed yellow fever<lb/>
+about midnight, December 8, when he was &ldquo;removed to the yellow<lb/>
+fever wards&rdquo; (see Senate Document, p. 74, case 1).</item>
+<item>Dec. 8 - Fernandez inoculated, developed yellow fever Dec. 13 and &ldquo;removed<lb/>
+to the yellow fever wards&rdquo; (See Senate Document p. 74, case 3)</item>
+<item>Dec. 9 - Benigno inoculated for the fourth time, developed yellow fever Dec. 12</item>
+<item>Dec. 11 - Presedo " " " " " " " " Dec. 15</item>
+<item><p>Dec. 21 - Building #1 occupied by Hanberry and Weatherwalk between Dec. 21,<lb/>
+1900 and Jan. 10, 1901.</p>
+<p>Building #2 (Infected Mosquito Bldg.) ready for occupancy.<lb/>
+Entered by Moran who was exposed to mosquitos twice on this day.</p></item>
+<item>Dec. 22 - Moran again bitten by infected mosquitos in Building #2. That<lb/>
+night banquet in Havana to honor Dr. Finlay (see Kelly's book<lb/>
+&ldquo;Walter Reed and Yellow Fever&rdquo; 1906, page 154).</item>
+<item>Dec. 25 - Moran developed yellow fever and &ldquo;removed to the yellow fever<lb/>
+wards&rdquo; (see Senate Document p. 86, case 7).</item>
+<pb n="3" id="f03901012"/>
+<item>4.</item>
+<item>1901, Jan. 3 - Martinez developed yellow fever (inoculated Dec. 30)</item>
+<item>Jan. 8 - Jernegan " " " (inoculated with infected blood<lb/>
+Jan. 4)</item>
+<item>Jan. 11 - Olson " " " (inoculated with blood, Jan. 8)<lb/>
+Building #1 entered by Hildebrand and England and occupied by<lb/>
+them until Jan. 31.</item>
+<item>Jan. 23 - Folk developed yellow fever (bitten Jan. 19)</item>
+<item>Jan. 24 - Forbes " " " (inoculated with blood Jan. 22)</item>
+<item>Jan. 28 - Andrus developed yellow fever</item>
+<item>Feb. 3 - West " " "</item>
+<item>Feb. 6 - Reed read the Board's second paper &ldquo;The Etiology of Yellow Fever -<lb/>
+An Additional Note&rdquo; at the Third Pan-American Medical Congress,<lb/>
+Havana (see Senate Document p. 70-89; also Journal American Med.<lb/>
+Assoc. 36:431-440; 1901)</item>
+<item>Feb. 9 - Hanberry developed yellow fever.</item>
+<item>Feb. 10 - Sontag " " "</item>
+<item>Feb. 18 or 19 - Reed, Kissinger and Moran left Havana on &ldquo;Morro Castle&rdquo;</item>
+<item>March 1 - Camp Lazear disbanded (see Senate Document p. 166)</item>
+<item>April 24- Reed read his paper &ldquo;The Propagation of Yellow Fever - observations<lb/>
+based on recent researches&rdquo; before the 103 annual meeting of the<lb/>
+Medical and Chirurgical Faculty of the State of Maryland, held<lb/>
+in Baltimore (same paper read May 29, 1901 before the Medical<lb/>
+Society of the District of Columbia, Washington).<lb/>
+- - - - - - - - - - - - - - - - - - - -</item>
+<item>Aug. 11 - Carroll returned to Havana to do work, partly in collaboration<lb/>
+with Drs. Guiteras and Gorgas, partly independently.</item>
+<item>Feb. 1901 - Dec. 1901 - Guiteras and Gorgas at Las Animas Hospital confirmed<lb/>
+the theory of Finlay and the work of the U. S. Army Board.</item>
+</list></p>
+<pb n="4" id="f03901013"/>
+<p>5.</p>
+<p><hi>The Site of Camp Lazear</hi></p>
+<p>__ <hi>Official Descriptions of Camp Lazear:</hi></p>
+<p>The actual site of Camp Lazear is not precisely mentioned in any of the<lb/>
+medical reports of the Board nor in the official compilation of these papers<lb/>
+with additional notes thereon as given in the United States Senate Document<lb/>
+#822. But in the papers of the Board (and in the Senate Document) are given numerous<lb/>
+comments on the character and general location of the camp. A synopsis of these<lb/>
+comments (as given in the Senate Document) follows (<del>italics</del><add>underscoring</add> mine):</p>
+<p>Senate Document, page 10: &ldquo;A camp was especially constructed for the experi-<lb/>
+ments about 4 miles from Habana, christened Camp Lazear in honor of the dead<lb/>
+comrade. The inmates of the camp were put into most <hi>rigid quarantine</hi>......&rdquo;<lb/>
+(Paper by Major McCaw, U. S. Army) see Photos 1a, 1b, 2, 3, 4, 5, 6.</p>
+<p>Senate Document, page 70: &ldquo;In order to exercise perfect control over the<lb/>
+movements of those individuals who were to be subjected to experimentation, and to<lb/>
+avoid any other possible source of infection, a location was selected in <hi>an open<lb/>
+and uncultivated field about 1 mile from the town of Quemados, Cuba.</hi> Here an<lb/>
+experimental sanitary station was established under the complete control of the<lb/>
+senior member of this board. This station was named Camp Lazear in honor of our<lb/>
+late colleague, Dr. Jesse W. Lazear......The site selected was very well drained,<lb/>
+freely exposed to sunlight and winds, and, from every point of view, satisfactory<lb/>
+for the purposes intended.........(page 71) For the quarantining of [the] detach-<lb/>
+ment and of such nonimmune individuals as should be received for experimentation,<lb/>
+hospital tents properly floored, were provided. These were placed at a distance of<lb/>
+about 20 feet from each other, and were numbered 1 to 7 respectively. Camp Lazear<lb/>
+was established November 20, 1900 and from this date was <hi>strictly quarantined</hi>, no<lb/>
+one being permitted to leave or enter camp except the three immune members of the<lb/>
+detachment and the members of the board. Supplies were drawn chiefly from Columbia<lb/>
+Barracks, and for this purpose a conveyance under the control of an immune acting<lb/>
+hospital steward, and having an immune driver, was used.&rdquo; (Paper of Reed, Carroll<lb/>
+and Agramonte: &ldquo;The Etiology of Yellow Fever - An Additional Note;&rdquo; Read at the<lb/>
+Third Pan American Medical Congress, Havana, Feb. 6, 1901; printed in the Proceedings<lb/>
+of this Congress; also in the Philadelphia Medical Journal, Oct. 27, 1900.)</p>
+<p>Senate Document, page 83 (same paper): &ldquo;To determine therefore whether clothing<lb/>
+and bedding, which have been contaminated by contact with yellow fever patients<lb/>
+and their discharges, can convey this disease is a matter of the utmost importance.....<lb/>
+We have considered it advisable to test, by actual experiment on nonimmune human<lb/>
+beings, the theory of the conveyance of yellow fever by fomites......For this purpose<lb/>
+there was erected at Camp Lazear a small frame house consisting of one room 14 by 20<lb/>
+feet, and known as &lsquo;Building No. 1&rsquo; or the &lsquo;Infected Clothing and Bedding Building&rsquo;.<lb/>
+The cubic capacity of this house was 2,800 feet. It was tightly ceiled within with<lb/>
+&lsquo;<hi>tongue and grooved&rsquo; boards,</hi> and was well <unclear>battened</unclear> on the outside. <hi>It faced the<lb/>
+south</hi> and was provided with two small windows, each 26 by 34 inches in size. These<lb/>
+windows were both placed on the <hi>south side</hi> of the building......Entrance was effected<lb/>
+through a small vestibule, 3 by 5 feet, also placed on the <hi>southern side of the house</hi><lb/>
+(This description is repeated on pp. 166-167 of the Sen. Doc. and in Journal of<lb/>
+Hygiene (Cambridge) 2:101-119; April 1, 1902 in Reed's paper &ldquo;Recent Researches<lb/>
+Concerning the Etiology, Propagation, and Prevention of Yellow Fever, by the United<lb/>
+States Army Commission.&rdquo;) see photos 5 and 6.</p>
+<p>Sen. Doc. page 85 (same article) &ldquo;The question here naturally arises: How<lb/>
+does a house become infected with yellow fever? This we have attempted to solve by<lb/>
+the erection at Camp Lazear of a second house, known as &lsquo;Building No. 2,&rsquo; or the<lb/>
+<pb n="5" id="f03901014"/>
+6.<lb/>
+&lsquo;Infected Mosquito Building&rsquo;. This was <hi>in all respects similar</hi> to &lsquo;Building No. 1&rsquo;<lb/>
+<hi>except</hi> that the door and windows were placed on opposite sides of the building so as<lb/>
+to give through and through ventilation. It was divided, also, by a wire-screen<lb/>
+partition, extending from floor to ceiling, into two rooms, 12 by 14 feet and 8 by<lb/>
+14 feet, respectively........On December 21, 1900 at 11:45 A.M. there were set free in<lb/>
+the large room of this building 15 mosquitos, etc. etc. (discussion of experiment<lb/>
+on Moran). See photos 7 and 8.</p>
+<p>Sen. Doc. p. 97 (paper by Walter Reed: &ldquo;The Propagation of Yellow Fever -<lb/>
+observations based on recent researches&rdquo;; published in the Medical Record 60:201-209;<lb/>
+Aug. 10, 1901). &ldquo;My own experience on the island of Cuba had already taught me that<lb/>
+yellow fever could be easily kept out of a military garrison, although prevailing<lb/>
+in epidemic form in a town less than 1 mile distant. For this reason it was <hi>not<lb/>
+considered advisable to establish our experimental sanitary station at a greater<lb/>
+distance than 1 mile from Quemados, Cuba.</hi> Thus Camp Lazear could easily be reached<lb/>
+by the members of the board and was conveniently located as regards its base of<lb/>
+supplies. The occurrences at the camp fully justified this decision. <hi>Placed in an<lb/>
+open field</hi>, which was fairly swept at all times by the prevalent winds, and having a<lb/>
+military garrison each of whose members had been personally selected by reason of<lb/>
+former good conduct and interest in the work to be here undertaken, no difficulty<lb/>
+whatever was experienced in maintaining <hi>the strictest quarantine against the outside.</hi><lb/>
+.......In addition to the seven tents provided for the quartering of the detachment,<lb/>
+<hi>two frame buildings</hi>, each 14 by 20 feet in size, were constructed....... <hi>These houses<lb/>
+were placed on opposite sides of a small valley, about 80 yards apart,</hi> and each 75<lb/>
+yards distant from the camp proper.&rdquo; See photos 1 and 5.</p>
+<p>Sen. Doc. p. 210 (From paper by James Carroll: &ldquo;Yellow Fever: a Popular<lb/>
+lecture&rdquo;; published in American Medicine 9:907-915, June 3, 1905) &ldquo;......an isolation<lb/>
+camp, called after our deceased comrade &lsquo;Camp Lazear&rsquo; was established <hi>in a secluded<lb/>
+spot about a mile from Columbia Barracks and apart from any habitation</hi>.....a <hi>strict<lb/>
+quarantine</hi> was maintained.......The camp consisted of seven large hospital tents,<lb/>
+separated by a wide interval and pitched in the arc of a circle......a new, tightly<lb/>
+ceiled frame building was constructed 20 feet by 14 feet......The lumber used in the<lb/>
+building was <hi>tongued and grooved:</hi> the walls were <unclear>battened</unclear> on the outside and lined<lb/>
+with white cotton cloth within. The walls and floor were double, and all crevices<lb/>
+were stopped; <hi>the ceiling was covered with cloth, and made so low that mosquitos<lb/>
+resting upon it could be captured with ease.</hi> Across the middle of this room there was<lb/>
+built a wire-screen partition, extending from floor to ceiling and dividing it into<lb/>
+two compartments, each with a separate entrance. (Obviously this was Building #2,<lb/>
+the Infected Mosquito Building).....page 211. &ldquo;Another building had been constructed<lb/>
+<hi>similar to the above</hi> but provided with only a single vestibuled entrance....(Here<lb/>
+follows a description of Building #1, the Infected Clothing Building).</p>
+<p>Sen. Doc. p. 241 (paper by Col. W. C. Gorgas: &ldquo;A Few General Directions with<lb/>
+Regard to destroying Mosquitos, particularly the Yellow Fever <unclear>Mosquitos</unclear>&rdquo; printed<lb/>
+1904 by the Government Printing Office, Washington). &ldquo;The army board......therefore<lb/>
+took a piece of <hi>unoccupied ground</hi> about 6 miles from Habana and built there a camp.&rdquo;</p>
+<p>Paper by Agramonte (Military Surgeon, Nov. 1930, p. 562): &ldquo;In the meantime<lb/>
+Carroll took a short vacation to fully recover from his attack and during his absence<lb/>
+and Major Reed's a proper site was selected, near Havana, in which to install the<lb/>
+necessary camp wherein to carry out confirmative experiments. Upon their return we<lb/>
+established Camp Lazear, so named in honor of the memory of our late companion....<lb/>
+Picture to yourself <hi>a bit of clearing, about two acres in extent, surrounded by wild</hi><lb/>
+<pb n="6" id="f03901015"/>
+7.<lb/>
+<hi>country, at sufficient distance from the highway to discourage social intercourse.</hi><lb/>
+containing seven army tents and two small frame buildings, each with a capacity of<lb/>
+2,800 cubic feet.&rdquo; (That would make the buildings measure 14 x 20 x 10 feet.)</p>
+<p><hi>The Site Now Marked as &ldquo;Camp Lazear&rdquo;</hi></p>
+<p>In April, 1940 Mr. John J. Moran, the aforementioned volunteer who developed<lb/>
+experimental yellow fever at Camp Lazear Dec. 25, 1900, took me to visit the supposed<lb/>
+site of Camp Lazear. Until a few days before, he had not seen the camp for 40 years<lb/>
+despite the fact that he had been living in Cuba again since 1928. The place now<lb/>
+(erroneously) known as Camp Lazear is just across the La Playa railroad tracks<lb/>
+(the single tracks of the Ferrocarril a la Playa) from the Ciudad Militar Columbia<lb/>
+(the Military City on the site of old Camp Columbia); i.e. it is just west (by south)<lb/>
+of the present Hospital Militar de Columbia. This land just west (by south) of the<lb/>
+Military City is part of what is now the Reparto Padre Zamora. Section (or block)<lb/>
+37 of this Reparto Padre Zamora (see map) is bounded by the La Playa railroad track<lb/>
+on the east (or rather east by north), by Asuncion Street on the south (south by<lb/>
+east), by Rene Berndes Street (formerly San Carlos Street) on the west (west by<lb/>
+south) and by Arredondo Street on the north (north by west). These streets are un-<lb/>
+paved and not yet marked with signs. Lot <unclear>#11</unclear>, a small portion of block (section)<lb/>
+37, has been purchased by the Cuban government and set aside to memorialize Camp<lb/>
+Lazear. On this plot of ground is a flamboyant tree surrounded by a low black and<lb/>
+white wooden fence. Within the enclosure there is a sign which faces the railroad<lb/>
+track and on which is the following inscription (photo # 11):</p>
+<p>See maps 9 and 10</p>
+<p>11</p>
+<p>En este lugar estuvo el campamento &ldquo;Lazear&rdquo;<lb/>
+donde se realizaron <unclear>las</unclear> experiencias de la comision<lb/>
+Americana que <unclear>comparabo</unclear> el <unclear>descubrimiento</unclear> de Finlay<lb/>
+sobre la trasmision de la fiebre amarilla<lb/>
+por una especio de mosquito</p>
+<p>-----------------</p>
+<p>La comision Americana estuvo constituida por Walter<lb/>
+Reed, James Carroll, Aristides Agramonte y Jess Lazear</p>
+<p>-----------------</p>
+<p>Servicio <unclear>teonico</unclear> de salubridad de Cuba<lb/>
+consejo corporativo de educacion sanidad y beneficencia.</p>
+<p><hi>Translation</hi></p>
+<p>On this site was Camp Lazear where were<lb/>
+realized the experiences of the American Commission<lb/>
+that proved the discovery of Finlay<lb/>
+concerning the transmission of yellow fever<lb/>
+by a species of mosquito</p>
+<p>-----------------</p>
+<p>The American commission consisted of Walter<lb/>
+Reed, James Carroll, Aristides Agramonte and Jess<lb/>
+Lazear It should be <unclear>Jesse</unclear> Lazear.</p>
+<p>-----------------</p>
+<p>Technical Service of Public Health of Cuba<lb/>
+Corporative Council of Education, Sanitation and Welfare.</p>
+<p>As I viewed this spot I found it difficult to reconstruct it in terms of<lb/>
+the official descriptions of Camp Lazear (noted previously herein). Several ob-<lb/>
+jections came to mind at once.</p>
+<pb n="7" id="f03901016"/>
+<p>8.</p>
+<p>(1) This site was too close to the old Camp Columbia; certainly it was not<lb/>
+a mile from the old Camp Columbia unless one referred to the most eastern entrance<lb/>
+of the old Camp Columbia (Carroll had stated that Camp Lazear was &ldquo;in a secluded<lb/>
+spot about a mile from Columbia Barracks and apart from any habitation.&rdquo;)</p>
+<p>(2) The railroad track, which was only 65 feet from the tree and sign, looked<lb/>
+quite old. Surely there would have been no railroad track so near Camp Lazear, &ldquo;a<lb/>
+secluded spot apart from any habitation&rdquo;, a spot suitable to the &ldquo;strictest quarantine,&rdquo;<lb/>
+a &ldquo;bit of a clearing surrounded by wild country at sufficient distance from a highway<lb/>
+to discourage social intercourse.&rdquo; Certainly no location contiguous to a railroad<lb/>
+track with its trainloads of curious passers-by, would have been chosen by Reed<lb/>
+for the place to do experiments demanding &ldquo;strictest quarantine&rdquo; with a certain<lb/>
+amount of secrecy.</p>
+<p>Convinced that an error in the location of Camp Lazear had been made I dis-<lb/>
+cussed the matter with Mr. Moran who agreed, stating that the location as marked<lb/>
+&ldquo;didn't look right&rdquo; according to his own recollections of the place. Mr. Royal<lb/>
+S. Webster, Divisional Engineer of the Ferrocarriles Unidos de la Habana y <unclear>Almacones</unclear><lb/>
+de Regla, Limitida, assured us that the La Playa railroad track had been laid in<lb/>
+1884 and has not been altered since. He gave us maps showing when these and adjacent<lb/>
+tracks were laid. Fortunately for convenience in comparing conditions as of 1900<lb/>
+with those of 1940, these tracks form a sort of triangle with lines extending out<lb/>
+from each point of the triangle (see <del>diagram and</del> maps 9 &amp; 10). The base of<lb/>
+the triangle is formed by the railroad track running from Havana to Quemados and<lb/>
+Marianao and was built in 1863. The left (west) side of the triangle is the La<lb/>
+Playa railroad track (connecting Quemados and La Playa) built in <unclear>1884</unclear>. The right<lb/>
+(east) side of the triangle constitutes a track built in 1898 by <del>Col.</del><unclear><add>Maj</add></unclear> C. C. Fitzgerald<lb/>
+to connect the La Playa track with the Quartermaster's Stores (<unclear>Almacones</unclear>) used by<lb/>
+the Army of Occupation of the First Cuban Intervention (<del>Col</del><add>Maj</add>. Fitzgerald still lives<lb/>
+in Havana). See photostat copy of letter from <unclear>Mn</unclear> Webster. # 13</p>
+<p><hi>How the Present (False) Site of Camp Lazear was Determined</hi></p>
+<p>Dr. Domingo Ramos told us that the supposed site of Camp Lazear had been<lb/>
+located by means of a photograph of a flamboyant tree and a small wooden building<lb/>
+(presumably Reed's mosquito building) under the tree, which photograph had pre-<lb/>
+sumably been identified by Dr. Agramonte. The photograph had been taken by Dr.<lb/>
+Ignacio Alvare (9 No. 304, Vedado) and presented to Dr. Recio who had in turn presented<lb/>
+it to Dr. Ramos. The photograph (original and copies) are preserved in the files of<lb/>
+the Dept. of Sanitation, and Dr. Ramos kindly gave me copies. On the back of the<lb/>
+original photo was the following inscription:</p>
+<p>"Dedico esta postal a mi ilustre profesor Dr. Recio,<lb/>
+tratando con <unclear>elle</unclear> de difundir y honrar la memoria<lb/>
+de uno de los sabios mas <unclear>grandes</unclear> de nuestra<lb/>
+querida Patria, Dr. Finlay</p>
+<p>See photo 14</p>
+<p>Julio 31, 1926</p>
+<p><unclear>Attmte</unclear><lb/>
+I. Alvare</p>
+<p>Translation: &ldquo;Dedicated to my illustrious professor Dr. Recio, trying with<lb/>
+this to spread and honor the memory of one of the great investigators of our be-<lb/>
+loved country, Dr. Finlay.&rdquo;</p>
+<p>July 31, 1926</p>
+<p>Yours truly,<lb/>
+I. Alvare</p>
+<pb n="8" id="f03901017"/>
+<p>9.</p>
+<p>Beneath this dedication is written in pencil in Dr. Recio's handwriting<lb/>
+(he told me so himself) the following: &ldquo;Lo que queda del Campamento &lsquo;Lazear&rsquo;&rdquo;<lb/>
+(&ldquo;All that remains of Camp Lazear&rdquo;).</p>
+<p>This photo seems to have been the sole basis upon which the (erroneous)<lb/>
+identification of Camp Lazear was made. Therefore I have corresponded with Drs.<lb/>
+Alvare and Recio to learn how it was taken and identified. I have the following<lb/>
+letters: See photostats 15 and 16.</p>
+<p><hi>From Dr. Alvare</hi> (July 18, 1940): &ldquo;I was interning in the Military Hospital<lb/>
+in the years 1923 to 1926, and in this last year I took the photograph of which you<lb/>
+know. That location was pointed at by the people as the place where Camp Lazear<lb/>
+was built and that this little house was what remained of it; this was vox populi,<lb/>
+without my having any personal proof of it. It occurred to me to take the photograph<lb/>
+as historical data and present a copy of it to Dr. Recio who was one of my favorite<lb/>
+teachers.</p>
+<p>&ldquo;The looks of the little house was rather shabby but it must be remembered that<lb/>
+much had gone by between its construction and 1926, and also that people from the<lb/>
+lower classes had been using it and had failed to make the necessary repairs. In<lb/>
+regard to the tree, I don't know whether it is still in evidence, but I must point<lb/>
+out the fact that I took that photograph <unclear>in</unclear> May, 1926 and in October of the same<lb/>
+year, a cyclone went through that region and probably the house and the tree dis-<lb/>
+appeared. This is all I have to inform you.&rdquo;</p>
+<p><hi>From Dr. Recio</hi> (June 13, 1940): &ldquo;Referring to the photograph of the supposed<lb/>
+remainings of Camp Lazear I may inform you as follows: In May 1926 when Dr.<lb/>
+Ignacio Alvare was intern at the Columbia Military Hospital which is located near the<lb/>
+site where the photograph was taken, he was told by neighbors that the small house<lb/>
+was what remained of Camp Lazear. As he knew the interest I had for everything re-<lb/>
+lated to the 1900 yellow fever experiments he took a picture of the small building<lb/>
+and gave me a copy. A few days later I showed it to Dr. Aristides Agramonte who<lb/>
+said, &ldquo;I would not recognize it were it not for the tree,&rdquo; without any other ex-<lb/>
+planation. Dr. Alvare further tells me that the 1926 hurricane tore the house<lb/>
+down, that is shortly after the picture was taken.&rdquo;</p>
+<p>(Please note that Dr. Recio misunderstood Dr. Alvare who said that the<lb/>
+hurricane <hi>may have</hi> torn the house down.)</p>
+<p><hi>Objections to the Above-mentioned Identification</hi></p>
+<p>I showed the Alvare-Recio photograph to Dr. Agramonte's daughter (Senora<lb/>
+Estela Rodriguez-Leon, 15 Street No. 311, Vedado) who showed me many albums filled<lb/>
+with photographs taken by her father in various parts of the world. We found some<lb/>
+old photographs of Camp Lazear (very similar to those from the U.S. Army Medical<lb/>
+Museum; see photos 2 &amp; 4) but we found nothing remotely resembling the Alvare-Recio<lb/>
+photograph. Miss Agramonte said she had never seen a copy of this photograph. Had<lb/>
+Dr. Agramonte been interested in the photograph he surely would have obtained one<lb/>
+as he was always vitally interested in anything pertaining to the work done at Camp<lb/>
+Lazear. As Miss Agramonte has since said, &ldquo;It seems odd that I have found no copy<lb/>
+of so memorable a picture among my father's papers. Amateur photography was one of<lb/>
+his pet hobbies. He owned and drove two cars at the time [the photo was taken].<lb/>
+Wouldn't his keen sense of investigation have taken him immediately and easily to<lb/>
+the appointed site to get some pictures of his own in corroboration of Recio's<lb/>
+discovery? More so, seeing that &lsquo;the tree was the only thing recognizable&rsquo; in<lb/>
+Recio's picture.&rdquo; (letter of Oct. 10, 1940)</p>
+<pb n="9" id="f03901018"/>
+<p>10.</p>
+<p>It must be noted that although Dr. Agramonte apparently thought he recognized<lb/>
+the tree, <hi>he did not identify the building</hi>. It is difficult to understand Dr.<lb/>
+Agramonte's remark as <hi>there was no tree immediately adjacent to either one of the<lb/>
+two small wooden buildings at Camp Lazear</hi> (see photo 5 from files of the U.S.<lb/>
+Army Medical Museum). Therefore (a) if the tree is over 40 years old the building<lb/>
+is neither building number 1 or 2, or (b) if the tree is less than 40 years old it<lb/>
+was not at Camp Lazear when the work was done and neither the tree nor the house are<lb/>
+of any certain historical significance<unclear><add>.</add></unclear> <del>(since Dr. Agramonte did not recognize the<lb/>
+house).</del></p>
+<p>The tree in the Alvare-Recio photograph is undoubtedly the one now surrounded<lb/>
+by the memorial fence and marked by the sign (the building is no longer there).<lb/>
+Allowing for changes due to the lapse of 14 years since the Alvare-Recio photo was<lb/>
+taken (1926) it is obviously the same tree. From the arrangements of its branches<lb/>
+and especially from the arrangement of its base and roots which spread out in an<lb/>
+individualistic manner with three <del>hollows</del><add>roots</add> visible <unclear><add>and a hollow between 1 &amp; 2</add></unclear> (compare Alvare-Recio photo with<lb/>
+my photo #17) I am sure that one can identify the tree in the Alvare-Recio photo<lb/>
+as that now on the supposed site of Camp Lazear. Using the old photo and estimating<lb/>
+from the roots and branches of the tree where the old building in the Alvare-Recio<lb/>
+photo must have been we determined that the building must have faced squarely the<lb/>
+railroad track 65-75 feet away. In other words <hi>it faced almost east</hi> (east by a<lb/>
+little north). Therefore the building in the Alvare-Recio photo could be neither one<lb/>
+of the two buildings at Camp Lazear since Reed specifically and repeatedly stated<lb/>
+(see comments on page 5) that Building No. 1, the &ldquo;Infected Clothing Building&rdquo;<lb/>
+<hi>faced the south:</hi> also the windows were both on the south side; entrance was effected<lb/>
+through a vestibule &ldquo;also placed on the southern side.&rdquo; Building #2, the &ldquo;Infected<lb/>
+Mosquito Building&rdquo; was placed &ldquo;opposite&rdquo; and about 80 yards away (see Reed, Medical<lb/>
+Record, 60:201-209; 1901). The U. S. Army photographs of these two buildings show<lb/>
+them to be facing each other with a small depression of land (the small &ldquo;valley&rdquo; which<lb/>
+Reed spoke of). Quite clearly the Infected Clothing Building (No. 1) faced south,<lb/>
+and 80 yards away facing it (i.e. facing north) was the Infected Mosquito Building.<lb/>
+Since the building in the Alvare photo must have faced east it was neither Building<lb/>
+#1 or 2.</p>
+<p>Another point: The shape of the Alvare building is not like that of either<lb/>
+Building #1 or 2 (compare photos 5, 6, 7, 8, 14). Its contour is quite different but most<lb/>
+important perhaps the angle of the roof of Buildings 1 and 2 seems to be more acute<lb/>
+than that of the &ldquo;Alvare building&rdquo;. It has been suggested that the occupants of<lb/>
+this building may have altered it considerably between 1900 and 1926. But it was<lb/>
+hardly more than a shack, as Dr. Alvare said, lived in by poor people. Such people<lb/>
+might well have altered it in minor ways (a new window here, an addition there)<lb/>
+but they would hardly have had the money or inclination to change <add>the location of</add> the door or face<lb/>
+of the building or to make such notable alterations as changing the whole angle of<lb/>
+the roof.</p>
+<p>Now if one were still to insist that the &ldquo;Alvare house&rdquo; were one of the two<lb/>
+buildings at Camp Lazear, since it faced the railroad track 75 feet away and since<lb/>
+the Buildings 1 and 2 faced each other 80 yards apart, the other building would have<lb/>
+had to be on the other side of this railroad track (built 1884); that is a railroad<lb/>
+track would have separated the U. S. Army Board's two buildings at Camp Lazear--<lb/>
+a wholly untenable idea. The photos and descriptions of Camp Lazear indicate that<lb/>
+no railroad track was near the camp.</p>
+<pb n="10" id="f03901019"/>
+<p>11.</p>
+<p><hi>Ownership of property where the supposed &ldquo;Camp Lazear&rdquo; now is.</hi> Mr. Moran and<lb/>
+I <unclear>got</unclear> in touch with Mr. Luis Pogolotti (Cuba 104, Havana), engineer and real estate<lb/>
+operator who had previously owned the land now marked as Camp Lazear and who still<lb/>
+owned the land adjacent to it. He knew precisely the data on the previous owner-<lb/>
+ship of the land. Mr. Pogolotti had inherited the property from his brother and<lb/>
+former real-estate partner who died in March 1923. His brother, Dino Pogolotti had<lb/>
+purchased it from the Dominican order in Aug. 1914 by document executed before Dr.<lb/>
+<unclear>Ra&uacute;l Galletti</unclear>, notary, the document being made in the name of <unclear>Compa&ntilde;ia</unclear> Marianao,<lb/>
+S. A. (synonymous with Dino Pogolotti), a corporation wholly owned by Pogolotti. This<lb/>
+property was sold by Lazaro Chavez and Agustin Fernandez, owners of record of the<lb/>
+tract, to Nicolasa del Valle and Mariana <add>Zamora</add>, sisters, who executed a joint will and<lb/>
+testament leaving the property (use only) to Father Joseph Zamora, their brother,<lb/>
+with provision that, upon his <unclear>demise</unclear>, the property should go to the Dominican order,<lb/>
+to which Father Zamora pertained. Said testament was made in 1813. In 1841 the<lb/>
+Catholic church made an agreement with the Spanish Government, through intervention<lb/>
+of the Vatican, to pass on to it (the Spanish Government) all church property. In<lb/>
+1902 the military Government of Cuba restored all such properties to the Catholic<lb/>
+church in Cuba and the competent church authorities, in turn, restored the property<lb/>
+under <unclear>refernce</unclear> to the Dominican order, which in 1914 sold the entire tract to Dino<lb/>
+Pogolotti and/or &ldquo;Cia. Marianao, S. A.&rdquo; Having had considerable litigation with the<lb/>
+government over the exact boundaries of his property, Mr. Pogolotti had maps and re-<lb/>
+cords of deed pertaining to this property going back to 1858. These he kindly gave us.</p>
+<p>I asked Mr. Pogolotti if the property (where is now situated the supposed<lb/>
+&ldquo;Camp Lazear&rdquo;) had ever been owned by the Rojas family within the last 40 or 50 years.<lb/>
+When he insisted that it had not (having given us the above records) I was certain<lb/>
+that this place had never been Camp Lazear for reasons to be noted below.</p>
+<p><hi>The San Jose Farm of Dr. Ignacio Rojas</hi></p>
+<p>As noted previously the precise location of Camp Lazear was not given in any<lb/>
+of the official or medical writings of the U. S. Army Board. But I recalled reading<lb/>
+a popular article published by Dr. Agramonte in the Scientific Monthly for Dec. 1915<lb/>
+where the following was written on page 230 (see photostat 18): &ldquo;We immediately set<lb/>
+about choosing a location for our camp. I had already looked over the ground, preferr-<lb/>
+ing the proximity of Camp Columbia, from where supplies could be easily obtained and<lb/>
+because the Military Hospital there could be used for treating the cases that we intended<lb/>
+to produce; I was therefore favorably impressed with the seclusion offered by a spot<lb/>
+situated a short distance from the main road, on a farm, named San Jose, belonging to<lb/>
+my friend, Dr. Ignacio Rojas, of Havana. Major Reed decided upon this place after look-<lb/>
+ing at many others in the neighborhood, so that on the twentieth of November we inaugurated<lb/>
+our camp, which we named Camp Lazear, in honor to the memory of our dead colleague.&rdquo;</p>
+<p>Later I found among Dr. Agramonte's papers (shown me by Miss Agramonte) a carbon<lb/>
+copy of a letter written Feb. 2, 1913 by Dr. Agramonte to Dr. J. C. Hemmeter, Baltimore,<lb/>
+Md. Speaking of the establishment of Camp Lazear Agramonte wrote: &ldquo;The camp was already<lb/>
+established when Carroll returned from the United States after his convalescence, upon<lb/>
+ground selected by Major Reed and myself in a farm belonging to my friend, Dr. Ignacio<lb/>
+Rojas.&rdquo;</p>
+<p>When I informed Mr. Pogolotti of these statements he stated that he knew where the<lb/>
+San Jose Farm was as he and his brother had once bought part of it from the Rojas<lb/>
+family and he thought Senora Rojas was still living. Permit me to summarize information<lb/>
+obtained after several visits to the San Jose Farm, and after conversations and letters<lb/>
+with Senora Rojas, the widow of Dr. Rojas, and her relatives, including Senora Dolores<lb/>
+Morales, niece of Dr. Rojas. See photos 19 and 20.</p>
+<p>Senora Rojas and her relatives had not fully appreciated the historical signifi-<lb/>
+cance of the occurrences which took place on their farm 1900-1901. They knew nothing<lb/>
+of the false &ldquo;Camp Lazear&rdquo;, had never heard any part of their farm so named<lb/>
+<pb n="11" id="f03901020"/>
+12.<lb/>
+and had never seen Dr. Agramonte's popular article citing their farm. But both<lb/>
+Senora Rojas and Senora Morales recalled many incidents which occurred &ldquo;when the<lb/>
+American soldiers carried on experiments with mosquitos here in 1900.&rdquo; In 1900<lb/>
+Senora Rojas was living with her husband constantly at the farm, she was 30 years<lb/>
+old in 1900; Senora Morales was then 18 years old. Both recalled seeing the tents from<lb/>
+their balcony window. Senora Rojas said, &ldquo;I remember they brought some Spaniards out<lb/>
+there and paid them well for doing nothing but <add>to</add> gather up stones. I don't think these<lb/>
+Spaniards knew quite what they were really there for at first. Then when they got well<lb/>
+acquainted with the Americans they were given a chance to earn more money by being<lb/>
+experimented on.&rdquo; [Agramonte, in his Scientific Monthly article, page 234, mentioned<lb/>
+that also: &ldquo;Once brought in, they [the Spaniards] were bountifully fed, housed under<lb/>
+tents, slept under mosquito-bars, and their only work was to pick up loose stones<lb/>
+from the grounds, during eight hours of the day with plenty of rest between.&rdquo; Senora<lb/>
+Rojas had never seen this article nor had I shown it to her.]</p>
+<p>Among other statements Senora Rojas said, &ldquo;Several young Americans were<lb/>
+bitten by mosquitos. At one time they brought a lot of old towels, sheets and clothes<lb/>
+from Camp Columbia to use for the yellow fever experiments. I remember seeing the<lb/>
+wagons bringing this material and my husband heard what was in them.&rdquo;</p>
+<p>Senora Rojas gave us maps of the Rojas (San Jose) Farm to show the changes<lb/>
+which have occurred. These maps 1857, 1907, and 1918 (see photos). Some of the<lb/>
+property has been retained as a winter home (farm) for Senora Rojas; some of it has<lb/>
+been sold and built upon. The eastern portion has been used as a quarry. With the<lb/>
+U. S. Army photos in hand Senora Moran, Pogolotti and I examined the entire area<lb/>
+formerly occupied as the San Jose Farm. Senoras Rojas and Morales pointed out the<lb/>
+general spot where the tents and buildings had been; this is now the unoccupied ground<lb/>
+at the northeastern end of Calle Luis Valdes Carrero. Senoras Rojas and Morales<lb/>
+remembered this so well because after the camp was disbanded the wooden floors of the<lb/>
+tents had been left and the Rojas family had often used these tent floors for picnics.<lb/>
+It was their first recollection that Buildings No. 1 and 2 had been torn down by the<lb/>
+U. S. Army soldiers.</p>
+<p>21<lb/>
+22<lb/>
+23<lb/>
+24</p>
+<p>Senors Moran, Pogolotti and I explored the ground thoroughly on several occa-<lb/>
+sions examining adjacent buildings, trees, etc. to see if any resembled <unclear>those</unclear> in the<lb/>
+U.S. Army photos of Camp Lazear. We noted one shack (<del>see</del> photo <unclear><add>36</add></unclear>) on the open ground <unclear>(36</unclear><lb/>
+which slopes down from higher ground west of Calle Luis Valdes Carrero and ends in a<lb/>
+rugged valley on the eastern boundary of the farm. In this shack had lived Mr.<lb/>
+Zunzunegui who with his father had worked for Dr. Rojas. Mr. Zunzunegui insisted that<lb/>
+the shack had been used for the yellow fever experiments but at that time we did not<lb/>
+take his story seriously.</p>
+<p>At my request the Rojas family searched their family records and in<lb/>
+October discovered the day book of Dr. Rojas, a diary or note book wherein Dr. Rojas<lb/>
+had noted some of his financial transactions. The entries in this day book indicate<lb/>
+beyond all doubt that Camp Lazear was situated on the San Jose Farm. I enclose<lb/>
+photostats of the pertinent entries. The entry of Nov. 15, 1900 indicates that on<lb/>
+that date the erection of Camp Lazear was begun, 5 days before it was taken over for<lb/>
+use (Nov. 20 according to the official records). (photos 25-33)</p>
+<p>I have since discussed our localization of Camp Lazear with Major (now<lb/>
+General) J. R. Kean, 2804 N. Street N. W., Washington, D. C., and with Lieutenant<lb/>
+(now General) Albert E. Truby, 145 Laurel St., San Francisco. Major Kean was<lb/>
+<pb n="12" id="f03901021"/>
+13.<lb/>
+Disbursing Officer for Walter Reed (see Kean's paper in Military Surgeon, March,<lb/>
+<unclear>1929</unclear>, page 301) and paid the rentals on the Camp Lazear site to its owner, Dr.<lb/>
+Rojas, who shared the rent with his tenant, Don Antonio <unclear>Sosa</unclear>. Lieutenant Truby was,<lb/>
+for a time in 1900, commanding officer of the Post Barracks Hospital at Camp<lb/>
+Columbia. They both have stated to me emphatically that Camp Lazear was <hi>not</hi> across<lb/>
+the La Playa Railroad track from Camp Columbia. General Kean distinctly recalls that<lb/>
+Camp Lazear was <hi>off the Calzada Real to the left as one traveled from Havana to<lb/>
+Quemados</hi> (and not to the right toward Camp Columbia). The section of the San Jose<lb/>
+Farm used as Camp Lazear fits entirely the description of the camp site as given on<lb/>
+pages 5 and 6 of this report: &ldquo;<unclear>as</unclear> open, uncultivated field,&rdquo; &ldquo;a bit of clearing<lb/>
+about 2 acres in extent, surrounded by wild country, at sufficient distance from the<lb/>
+highway to discourage social intercourse,&rdquo; and above all, &ldquo;a secluded spot about 1<lb/>
+mile from Columbia Barracks and apart from any habitation.&rdquo; The spot we have identified<lb/>
+is just about 1<unclear>1/4</unclear> mile from Camp Columbia according to the scale of the 1937 military<lb/>
+map of Marianao and Quemados.</p>
+<p><hi>What Happened to the Buildings and Tents when Camp Lazear was Disbanded</hi></p>
+<p>According to the quotations of Reed and his colleagues which I have cited<lb/>
+on pages 5 and 6 the original structures at Camp Lazear were 7 tents; later the two<lb/>
+small wooden buildings were built. But the United States Army photographs of Camp<lb/>
+Lazear (taken apparently in 1901) show, in addition to <unclear>these</unclear> 7 tents and two wooden<lb/>
+buildings, 5 other tents; one of these was apparently used for the dining tent, 3 tents<lb/>
+were far the guards, and one tent was beside the Infected Clothing building in which the<lb/>
+occupants of the latter building stayed during the day. There are also in the back-<lb/>
+ground three fairly large (and so far unidentified) wooden buildings which may have<lb/>
+been erected to house supplies, etc. See photos 1a &amp; 1b, also photo 34.</p>
+<p>Walter Reed stated that &ldquo;this experimental station was continuously<lb/>
+occupied until March 1, 1901&rdquo; (see U.S. Senate Document page <unclear>166</unclear>; also Journal of<lb/>
+Hygiene, Vol. 2, p. <unclear>108</unclear>, April 1902). We can of course assume that the tents were<lb/>
+thereafter removed, and it seems reasonable to accept the statements of Senoras Rojas<lb/>
+and Morales that they recall using the wooden flooring of the tent-sites for picnics.<lb/>
+But what happened to the two small <hi>specially constructed</hi> buildings?</p>
+<p>On Jan. 1, 1901 Walter Reed wrote a letter to General George M. Sternberg,<lb/>
+Surgeon General of the United States Army. This letter is published on pages 224 and<lb/>
+225 of the book &ldquo;George M. Sternberg - A Biography&rdquo; written by his widow, Mrs. Sternberg,<lb/>
+and published in 1920 by the American Medical Association. At the end of this letter<lb/>
+(see photostatic copy) Walter Reed wrote, &ldquo;We shall make but few more experiments.....<lb/>
+I will therefore thank you very much if you will have the necessary order issued<lb/>
+relieving us from duty at this post and authorizing our return to our proper station<lb/>
+so that we can start back immediately after the adjournment of the Pan-American<lb/>
+Congress Feb. 4-7, 1901. <hi>I will request General Wood to retain the buildings at our<lb/>
+camp site, so that if necessary, we could resume our observations when the epidemic<lb/>
+year begins again.</hi>&rdquo; See photostat 35. a &amp; b</p>
+<p>This statement explains why rentals were still being paid for Camp Lazear<lb/>
+several months after the camp was disbanded. According to the entries in Dr. Rojas'<lb/>
+day book for April 22, June 11, and Sept. 29, 1901 rentals were still being paid as<lb/>
+<pb n="13" id="f03901022"/>
+14.<lb/>
+Reed thought they might use the camp for further experiments, and so continued to<lb/>
+have rent paid thereon. But when, by their experiments at Las Animas Hospital during<lb/>
+the summer of 1901, Drs. Guiteras and Gorgas promptly confirmed the work of the Army<lb/>
+Board, obviously Reed decided no further experiments at Camp Lazear were necessary and<lb/>
+so the rentals were stopped. Then, according to the entry of Oct. 10, 1901 in Dr.<lb/>
+Rojas' book, &ldquo;<hi>they [the Americans] left the farm, leaving the two wooden houses which<lb/>
+they built to carry out experiments on yellow fever and mosquitoes.</hi>&rdquo;</p>
+<p>In what manner these two small wooden buildings (the Infected Clothing<lb/>
+Building or Building No. 2) were used between Oct. 1901 and March 1907 I have not<lb/>
+yet found out. for certain.</p>
+<p>When Mr. Moran and I visited the San Jose Farm in April, 1940 we noted a<lb/>
+small wooden shack which, as I have stated on page 12, was supposedly used in the<lb/>
+yellow fever experiments according to Mr. Julian Zunzunegui whom we happened to meet<lb/>
+on the premises. Mr. Zunzunegui told us he had lived there for over 30 years as a<lb/>
+boy and man, working with his father and later operating the contiguous <unclear>limekilns</unclear> and<lb/>
+lime stone quarry. It was his understanding that in this shack men had been exposed<lb/>
+to mosquito bites and had received $2.00 for each mosquito bite. Mr. Moran and I<lb/>
+casually examined the building on the outside but at that time we had no idea that<lb/>
+either Building No. 1 or 2 could have survived, and the present shape of the building<lb/>
+did not resemble that of either of Reed's buildings. Therefore we dismissed Mr.<lb/>
+Zunzunegui's statements as probably erroneous local tradition. But when we later<lb/>
+discovered the entries in Dr. Rojas' book (and the Reed letter to Sternberg) indicat-<lb/>
+ing that the two buildings had been left standing we re-opened our investigation of<lb/>
+Mr. Zunzunegui's statements. I enclose a photostatic copy of a certified statement<lb/>
+by Mr. Zunzunegui. (I understand that a contract between Dr. Rojas and others dated<lb/>
+earlier than 1900 does not mention the presence or use of any &ldquo;two small buildings&rdquo;<lb/>
+but that the contract of 1907 between Dr. Rojas and Zunzunegui's father does mention<lb/>
+them. I shall try to obtain copies thereof.) These findings, supported by the<lb/>
+statement of Mr. Zunzunegui and by data to be noted hereafter, would seem to identify<lb/>
+certainly the remaining shack as the remnants of Building No. 1.</p>
+<p>See photos 36, 37, 38</p>
+<p>Between the time of my visit to this spot in April, 1940 and Mr. Moran's<lb/>
+re-investigation of this small building in Oct. 1940 one of the additions which the<lb/>
+Zunzunegui family had erected was torn down, but fortunately the original central<lb/>
+part, that is, the remains of Building No. 1, was not disturbed (compare U.S. Army<lb/>
+photo #5 and our photos #36 and 37.</p>
+<p><hi>Identifying Marks of the Remains of Building No. 1</hi></p>
+<p>Let me summarize the points which make us feel sure that this shack is<lb/>
+truly the remains of the U. S. Army Board's Building No. 1.</p>
+<p>
+<list type="ordered">
+<item>(1) We know from the Reed letter to Sternberg and from the Oct. 10, 1901<lb/>
+entry in the Rojas book that Buildings Nos. 1 and 2 were not torn down in 1901 but<lb/>
+were left on the farm.</item>
+<item>(2) Senora Rojas states her belief that the two buildings remained for<lb/>
+years until one was destroyed by the cyclone of 1926 as Mr. Zunzunegui has stated.</item>
+<item>(3) <hi>This building faces the proper direction.</hi> Major Reed repeatedly said<lb/>
+that Building No. 1 faced the south. This building faces almost due south (south<lb/>
+by slightly west) with two windows and a door on this south side (as Reed noted).<lb/>
+But the small window on the left of the door (as one looks at it from outside) has<lb/>
+been enlarged into a full length Spanish type of barred window.</item>
+<pb n="14" id="f03901023"/>
+<item>15.</item>
+<item>(4) <hi>It is the proper size.</hi> Building No. 1 was 14 x 20 feet. This one<lb/>
+is essentially 14 x 20 feet. As a matter of fact it isn't quite evenly erected being<lb/>
+14 feet wide on the east, 14 feet 4 1/2 inches wide on the west, 20 feet 4 1/2 inches long on<lb/>
+the front (south) side, 19 feet 3 inches long on the inside. These slight aborrations<lb/>
+undoubtedly occurred because it was erected, not by skilled carpenters, but by soldiers<lb/>
+(army privates). Furthermore Reed's building was &ldquo;battened on the outside&rdquo; which might<lb/>
+further account for these insignificant differences in measurements. (These measurements<lb/>
+were made by <unclear>Messrs</unclear>. Pogolotti and Moran).</item>
+<item>(5) <hi>It is of the proper construction.</hi> Building No. 1 was &ldquo;battened on the<lb/>
+outside&rdquo; and made of &ldquo;tongued and grooved boards&rdquo; inside. Our building possesses a<lb/>
+double board wall with tongued and grooved board on the inside and weather boarding on<lb/>
+the outside. Senor Zunzunegui told Mr. Moran that the pine lumber of 30 or 40 years ago<lb/>
+had a life twice as long as the pine lumber of today, the latter having very little<lb/>
+resin or turpentine in it whereas the former resisted exposure to the elements, without<lb/>
+rapid deterioration.</item>
+<item>(6) <hi>The ceiling is unique.</hi> Carroll described the ceiling of Building No. 2<lb/>
+as follows (see page 6): &ldquo;<hi>The ceiling</hi> was covered with cloth and <hi>made so low that<lb/>
+mosquitos resting upon it could be captured with case.</hi>&rdquo; One of the curious features<lb/>
+about our building is that the ceiling does not follow the inverted V of the roof but<lb/>
+is constructed so that there is a hollow triangular space between it and the roof.<lb/>
+(See diagrams #39). It seems obvious therefore that the low ceiling of Building<lb/>
+No. 1 was similar to that of Building No. 2 because the statements of Reed and Carroll<lb/>
+(see page 6) distinctly indicated that the general form of the two buildings was &ldquo;in<lb/>
+all respects similar.&rdquo;</item>
+<item>(7) <hi>It possesses an old unused stove pipe hole.</hi> Reed described the presence<lb/>
+of a stove in Building No. 1 to insure a tropical temperature. &ldquo;By means of a <hi>suitable<lb/>
+heating apparatus</hi> the temperature was raised from 92&deg; to 95&deg;F.&rdquo; (see Senate Doc. page<lb/>
+83, also page 167). Carroll wrote that Building No. 1 &ldquo;contained <hi>a coal-oil stove</hi>, by<lb/>
+means of which the temperature was kept above 90&deg; during the day.&rdquo; (see Senate Document<lb/>
+page 211; also American Medicine, Vol. IX, pp. 907-915, June 3, 1905). In Agramonte's<lb/>
+article in the Scientific Monthly, Dec. 1915 on page 230 is a diagram of the inside of<lb/>
+Building No. 1. It shows a stove located in the <hi>right hand corner</hi> as one enters the<lb/>
+door. In our building there is a stove pipe hole in the <hi>left hand</hi> (not the right hand)<lb/>
+corner as one enters the building. Mr. Zunzunegui told Mr. Moran that this hole in the<lb/>
+ceiling had been there as long as he remembered, that he had never seen a stove in that<lb/>
+building during his father's lifetime or since, and that the hole had been made before<lb/>
+his father took over the house (see also Zunzunegui's statement). I have not been able<lb/>
+to learn whether Dr. Agramonte in 1915 copied his diagram of Building No. 1 from one<lb/>
+made in 1900 or whether he drew it from memory. To try to explain the difference of<lb/>
+opinion as to the correct location of the stove I wrote Dr. Robert P. Cooke (now living<lb/>
+at Richmond, Va.) who was one of the first volunteers who slept in this infected clothing<lb/>
+building for twenty-one nights. I asked him to describe the interior of this building<lb/>
+as he remembered it. I did <hi>not</hi> tell him the location of the hole as we found it. Under<lb/>
+date of Oct. 17, 1940 Dr. Cooke wrote me: &ldquo;The location of the stove I think was on the<lb/>
+left as you enter. I slept on the <unclear>cot</unclear> to the right of the door.&rdquo; In view of Dr. Cooke's<lb/>
+letter and the presence of the round hole in the roof on the left side as one enters<lb/>
+our building it is apparent that Agramonte's drawing of the inside of Building No. 1 was<lb/>
+in error in the location of the stove (a very easy mistake to make) although essentially<lb/>
+correct in all other details. The idea that Dr. Agramonte was in error as to the location<lb/>
+of the stove pipe is also supported by a study of the U. S. Army photo #1a &amp; 1b which<lb/>
+shows the east end of Building No. 1: if the stovepipe or chimney had existed at the<lb/>
+right (the east end) it would show up in the picture; having been in the left corner<lb/>
+(west end) of the room it is not visible in this photo.</item>
+<pb n="15" id="f03901024"/>
+<item>#16.</item>
+<item>(8) <hi>It is the correct distance from what appears to be the remains of<lb/>
+the floor of the Infected Mosquito Building (No. 2).</hi> Reed wrote, &ldquo;These houses were<lb/>
+placed on opposite sides of a small valley <hi>about 80 yards</hi> apart.&rdquo; (see page 6)<lb/>
+In front of our building there is a rather small and narrow depression in the earth,<lb/>
+a little gully, a very small &ldquo;valley&rdquo; which depression runs almost due east and west<lb/>
+sloping down toward the east. The U. S. Army photographs show no real valley between<lb/>
+Buildings 1 and 2, but do show a narrow depression running down from west to east.<lb/>
+This is all quite consistent with the land as we found it. Please see photograph #40<lb/>
+which shows our building in the background. Mr. Moran is standing on the spot which<lb/>
+Mr. Zunzunegui pointed out as the former site of Building No. 2 (and is pointing to<lb/>
+the ruins of a small reservoir or spring and a limekiln the ruins of which, with its<lb/>
+surrounding vegetation, quite resembles the ruins seen on the right in the U. S. Army<lb/>
+photograph herein numbered #5). Mr. Zunzunegui told Mr. Moran that the site on<lb/>
+which our building (No. 1) was, is dry, standing on limestone formation, but the site<lb/>
+upon which Building No. 2 was erected was extremely damp. The floor of the latter<lb/>
+building began to rot and Mr. Zunzunegui's father had it replaced by a concrete<lb/>
+floor. After the building was blown over by the tornado (1926) it remained a wreck<lb/>
+for some time until it was torn down and used for kindling wood about 1927. But slabs<lb/>
+of the concrete floor can still be seen in the tilled field shown in our photo #40<lb/>
+<hi>The distance between these concrete slabs (<unclear>remnants</unclear> of the site of Building No. 2)<lb/>
+and our building (#1) is 246 feet<unclear>,</unclear> i.e. 82 yards: Reed said it was &ldquo;about 80 yards&rdquo;</hi>.</item>
+</list></p>
+<p><hi>Changes made in Building No. 1 since 1900</hi></p>
+<p>The double vestibule guarding the original entrance (see photos 1 and 5<lb/>
+has been removed and a porch added with a wide door replacing the entrance formerly<lb/>
+approached through the vestibule. The original one room was converted into 2 rooms<lb/>
+by a partition erected by Mr. Zunzunegui's father who later built a one room addition<lb/>
+on the east side of the original building. The floor of this addition is lower than<lb/>
+that of the original shack but the new room communicates with the room against which<lb/>
+it was built. A kitchen with a concrete floor was built against the rear wall and<lb/>
+extended the length of the original building (see photos #36 and 37) and Zunzunegui's<lb/>
+statement). Most of the flooring of the original building still exists but some<lb/>
+deteriorated boards have, from time to time, been replaced by new or used boards.<lb/>
+The original small window on the left (west) side of the front of the original house<lb/>
+has been enlarged and extends down to the floor and is iron-barred; this has been<lb/>
+shuttered by a door which opens inward.</p>
+<p>In 1900 there were no trees immediately adjacent to either Building No. 1 or<lb/>
+2. There are now several trees adjacent to our building, a couple of them almost<lb/>
+contiguous thereto. Senor Zunzunegui informs us that these trees were all planted<lb/>
+there by his father to shade the building (wherein they lived).</p>
+<p><hi>Identity and significance of the site now erroneously marked as<lb/>
+Camp Lazear, the site across the La Playa Railroad Track from the Military<lb/>
+Hospital</hi></p>
+<p>As soon as a diagnosis of experimental yellow fever was definitely made<lb/>
+on any volunteer at Camp Lazear he was at once removed, bed and baggage, to the<lb/>
+&ldquo;yellow fever wards&rdquo; at Camp Columbia. This information I obtained from Gen. Truby and<lb/>
+it is amply confirmed by statements in the paper by Reed, Carroll and Agramonte, &ldquo;The<lb/>
+Etiology of Yellow Fever - An Additional Note&rdquo; (see Journal of the American Medical<lb/>
+<pb n="16" id="f03901025"/>
+#17.<lb/>
+Association, Vol. 36, pp. 431-440, Feb. 16, 1901; also Senate Document chapter 3).<lb/>
+On page 74 of the Senate Document, case 1 concerns Kissinger who on December 9 at<lb/>
+3 A.M. developed fever, headache, etc. at Camp Lazear. &ldquo;<hi>He was then removed to the<lb/>
+yellow fever wards.&rdquo;</hi> On the same page, case 3 concerns Fernandez who developed yellow<lb/>
+fever on December 14 and &ldquo;<hi>was removed to the yellow fever wards.&rdquo;</hi> On page 86 (Senate<lb/>
+Document) case 7 concerns Moran who developed yellow fever at Camp Lazear on December 25:<lb/>
+&ldquo;<hi>he was then removed to the yellow fever wards.</hi>&rdquo; These patients were removed from Camp<lb/>
+Lazear at once in order that the camp might be kept free from other sources of infection<lb/>
+(infected patients) than the specially infected mosquitoes.</p>
+<p>The exact location of the &ldquo;yellow fever wards&rdquo; at Camp Columbia is not given<lb/>
+in the official papers of the board. But Gen. Truby, who was in 1900 commanding officer<lb/>
+of the Post Hospital at Columbia Barracks, informs me that they were set somewhat apart<lb/>
+from the rest of the camp for the sake of safety, and were &ldquo;just across the La Playa<lb/>
+Railroad track from the main grounds of the Post Hospital.&rdquo; On this site there had been<lb/>
+erected tents at one time, several small wooden buildings at another time, in which<lb/>
+soldiers with spontaneous yellow fever had been cared for by Dr. Ames and his associates.<lb/>
+This was prior to the yellow fever experiments. These tents or small buildings were<lb/>
+variously called &ldquo;the yellow fever tents,&rdquo; &ldquo;the yellow fever wards&rdquo; and the &ldquo;yellow fever<lb/>
+hospital&rdquo; at Camp Columbia. Later when Carroll and Dean developed experimental yellow<lb/>
+fever they too were cared for here. Dr. Lazear also died here either in a tent or a<lb/>
+small building (this point has not yet been determined).</p>
+<p>date?</p>
+<p>Of this spot General Kean has written Mr. Moran as follows: &ldquo;I remember it<lb/>
+well for it is where I was treated when I had yellow fever in June, 1900 and Major Reed<lb/>
+came to see me there. It is an appropriate place for a monument to Lazear, because he<lb/>
+died there, but it certainly is not the location of the experimental camp where the<lb/>
+Finlay theory was demonstrated to be true by the Reed commission, and which was named<lb/>
+after Lazear but had no other association with him. That camp was on the Rojas farm,<lb/>
+a mile to the east of there.&rdquo;</p>
+<p>I have obtained from the offices of the Chief of Engineers, U. S. Army, War<lb/>
+Department, Washington, D. C., governmental maps of Camp Columbia drawn in April, 1902<lb/>
+and in June, 1907. These maps show the exact location of the various existing buildings<lb/>
+of the Post Hospital, each building being numbered. Keys to the numbering of the buildings<lb/>
+were obtained. The maps show that very few changes occurred in these buildings between<lb/>
+1902 and 1907. Gen. Truby has reviewed these maps for me and aided in the identification<lb/>
+of the various buildings in the 1902 map and indicated how they were used in 1900 and 1901.<lb/>
+Just northeast of the old La Playa wagon road (Camino de la Playa) are the main buildings<lb/>
+of the old Post Hospital--the wards, officers' quarters, Reed's laboratory, Lazear's<lb/>
+house, etc. On these premises the Hospital Militar now stands. Between the old La<lb/>
+Playa road and the Marianao-La Plaza railroad track were three small buildings one of<lb/>
+which was the disinfecting plant and one of which was the hospital autopsy room and<lb/>
+morgue.</p>
+<p>See maps 41 - 44</p>
+<p>Both maps show that the camp grounds in 1902 extended a little ways <hi>across<lb/>
+the La Playa railroad track.</hi> The 1902 map shows the location of 8 small wooden buildings<lb/>
+on this site which must be approximately or exactly that now marked erroneously as the<lb/>
+&ldquo;Campamento Lazear&rdquo;. These eight little buildings are identified by Gen. Truby as<lb/>
+Dr. Ames' office, two 2 bed wards and two 5 bed wards for yellow fever cases, toilets<lb/>
+and storage room. The key to the 1902 map <del>identifies them as --- ??</del><add>has not been found <unclear>altho</unclear> the key to the 1907 map is available</add></p>
+<p><unclear>Man Dept</unclear> cant find the key to the 1902 <unclear>map<lb/>
+altho they (Engineer office) sent me the key to<lb/>
+the 1907 map</unclear></p>
+<pb n="17" id="f03901026"/>
+<p>18.</p>
+<p>I learned from the U. S. Army Medical Museum in Washington that there was<lb/>
+a model of Columbia Post Hospital buildings, etc., built in 1900-1901 in Havana by<lb/>
+Yldefonso Perez. This model is now at the Medical Field Service School, Carlisle<lb/>
+Barracks, Carlisle, Pa. I obtained photographs of this model from Colonel John M.<lb/>
+<unclear>Willie</unclear>, Acting Commandant at Carlisle (see photos <add>45-48</add>). Aside from the fact that in the<lb/>
+model the buildings are all rather crowded together the general arrangement of the<lb/>
+buildings resembles very well the arrangement as given in the 1902 map. Especially<lb/>
+do the little buildings just southeast of the La Playa Railroad track agree in relative<lb/>
+size and location with those in the 1902 map. The figures of the main wards and of the<lb/>
+officers' quarters in the model resemble very well the <unclear>U. S. government photographs of</unclear><lb/>
+these same buildings (see photos 45 - 50 inclusive)</p>
+<p>These maps and this model permit us to identify the erroneously marked site<lb/>
+of &ldquo;Campamento Lazear&rdquo; as the site where the yellow fever hospital of Camp Columbia was<lb/>
+situated in 1900-1901. Without a doubt it was here that Lazear died and it was to this<lb/>
+site that the cases of experimental yellow fever were brought from Camp Lazear on the<lb/>
+San Jose Farm about one mile away. It is <hi>most fortunate</hi> therefore that <unclear>Drs.</unclear> Alvare and<lb/>
+Recio became attracted to this site and it was a happy mistake that lead to the<lb/>
+preservation of this historical spot.</p>
+<p>The error is quite understandable. Undoubtedly those who lived nearby<lb/>
+heard that soldiers with experimental yellow fever were being cared for in these tents<lb/>
+and small buildings. These folks were of course probably ignorant of the fact that the<lb/>
+sick soldiers had gotten ill <hi>elsewhere</hi> (at the true Camp Lazear). Local tradition<lb/>
+therefore erroneously designated this spot as the site where the cases of yellow fever<lb/>
+<hi>developed</hi>, rather than the site where they were <hi>cared for</hi>. Whether the tree and the<lb/>
+small wooden building in the Alvare-Recio photograph were actually there in 1900-1901<lb/>
+is relatively unimportant; the house is gone; a tree expert might tell us the approximate<lb/>
+age of the flamboyant tree still present, <unclear>i.e.</unclear> whether it is 40 years of age.</p>
+<p><hi>Suggestions for Memorializing<lb/>
+(1) Camp Lazear on the San Jose Farm and (2) the site by the La Playa<lb/>
+Railroad where Dr. Lazear died.</hi></p>
+<p>Drs. Alvare and Recio deserve our sincere thanks for their historical<lb/>
+interest in the site now preserved. This site deserves proper memorializing although<lb/>
+it should certainly not be improperly labeled &ldquo;Camp Lazear.&rdquo; I should like to present<lb/>
+to you, Dr. Ramos, and to your associates suggestions as to the memorializing of<lb/>
+Camp Lazear and the restoration and preservation of Building No. 1. Perhaps it may be<lb/>
+more suitable to have Camp Lazear adequately marked with stone markers and bronze signs,<lb/>
+but to have the remains of Building No. 1 carefully removed to the spot where Dr. Lazear<lb/>
+died and there protected in a covering building, to be built in connection with the<lb/>
+plans you already have under way to erect here a &ldquo;yellow fever memorial&rdquo; or &ldquo;Institute<lb/>
+Lazear&rdquo;. I should like to participate in this movement and if I may have an appointment<lb/>
+to meet you in Havana sometime early in April I will gladly give <add>my</add> suggestions and fit<lb/>
+them in with your plans.</p>
+<p>I will be indeed pleased and honored to be allowed to <unclear>co&ouml;perate</unclear> in this<lb/>
+movement to honor the memory of Dr. Finlay and of the U. S. Army Yellow Fever Board<lb/>
+and their brave volunteers. I am sure the American medical profession will be glad to<lb/>
+join with their Cuban colleagues in properly marking the sites where the final conquest<lb/>
+of yellow fever occurred.</p>
+<p>Sincerely yours,<lb/>
+Dr. Philip S. Hench<lb/>
+Mayo Clinic<lb/>
+Rochester, Minnesota</p>
+<pb n="18" id="f03901027"/>
+<p>19.</p>
+<p><hi>Addendum.</hi> If you wish to reproduce this report in this form please<lb/>
+feel free to do so. But I should like to publish a synopsis of it, with Messrs.<lb/>
+Moran and Pogolotti as co-authors, in some American medical historical journal and<lb/>
+also in a Cuban medical journal. I hope this is agreeable to all concerned as I<lb/>
+believe the data contained herein will be of considerable interest to <add>many</add> physicians.<lb/>
+<del>everywhere.</del></p>
+<p>Philip S. Hench</p>
+<pb n="19" id="f03901028"/>
+<p>
+<list type="ordered">
+<head><hi>ILLUSTRATIONS TO ACCOMPANY REPORT TO DR. RAMOS</hi></head>
+<item>1a Camp Lazear - Large photo from U. S. Army Medical Museum, negative #40731.</item>
+<item>1b " " - Small photo of above, copied from Surgeon General's Report 1901.</item>
+<item>2. " " - The &ldquo;seven tents&rdquo; plus a mess tent on the right. Photo taken 1901<lb/>
+by Dr. Agramonte and given me by his daughter.</item>
+<item>3. Camp Lazear - Photo from the book &ldquo;Walter Reed and Yellow Fever&rdquo; by Dr. Howard<lb/>
+A Kelly. 1906. See page 134.</item>
+<item>4. Camp Lazear - Photo taken by Dr. Agramonte, 1901. In this photo the two distant<lb/>
+large trees seen in the center of photos 1a and 1b are superimposed.</item>
+<item>5. Camp Lazear. Infected Bedding Bldg. (#1) in the background; Infected Mosquito<lb/>
+Bldg. (#2) in the foreground. Copied from Surgeon General's Report 1901.</item>
+<item>6. Camp Lazear. This was copied from Kelly's book p. 146 but is wrongly labeled. It<lb/>
+is the Infected Mosquito Bldg. (#2) with the backroom (later added) in which<lb/>
+the mosquitoes were kept. It is <hi>not</hi> the Infected Clothing Bldg. as one can see<lb/>
+by comparing photographs 5 and 6 with photos 7 and 8 - of Agramonte's drawings<lb/>
+of the plans of these two buildings.</item>
+<item>7. Plan of Infected Clothing Building (#1). From article by Agramonte in Scientific<lb/>
+American, Dec. 1915. The stove is here placed in the right corner; actually<lb/>
+it was in the left corner.</item>
+<item>8. Plan of Infected Mosquito Bldg. (#2). From Agramonte's article in Scientific<lb/>
+American, Dec. 1915. Compare this plan with the contour of the building in<lb/>
+photo 6.</item>
+<item>9. Portion of 1938 Military Map of the City of Havana and environs. This portion<lb/>
+shows the Ciudad Militar and Hospital Militar with the adjacent La Playa rail-<lb/>
+road track. In the right central portion can be seen the present development<lb/>
+of the old San Jose Farm and (as marked) the site of the remains of Camp Lazear.</item>
+<item>10. Reparto Padre Zamora, showing the real estate development now on the former site<lb/>
+of the &ldquo;yellow fever wards&rdquo; of Camp Columbia. This is where the &ldquo;Campamento<lb/>
+Lazear&rdquo; is now erroneously marked.</item>
+<item>11. False site of &ldquo;Campamento Lazear&rdquo;; memorial sign, fence, flamboyant tree and Mr. Moran</item>
+<item>12. Same as photo 11 looking across the La Playa Railroad Track (see electric wires)<lb/>
+toward the Hospital Militar.</item>
+<item>13. Diagram of the La Playa and adjacent railroad tracks as drawn from old maps ob-<lb/>
+tained from Mr. Royal Webster, Divisional Engineer of the Havana and Associated<lb/>
+Railroads.</item>
+<item>14. Alvare-Recio photograph, taken 1926, supposedly of one of the building of Camp<lb/>
+Lazear. Note the tree roots marked 1-2-3 with the hollow in the tree between<lb/>
+roots 2 and 3. Compare these with photo 17.</item>
+<item>15. Letter from Dr. Alvare to P.S. Hench, July 18, 1940.</item>
+<item>16. Letter from Dr. Recio to P.S. Hench, June 7, 1940</item>
+<item>17. Mr. Moran beside the flamboyant tree (1940) identified as that in the 1926 Alvare-<lb/>
+Recio photograph. Again note the tree roots marked 1-2-3 with the hollow (now<lb/>
+a little smaller) between roots 2 and 3. Because of the sign I could not obtain<lb/>
+a photograph of these roots from exactly the same angle as that in the Alvare-Recio<lb/>
+photo (#14). Root #1 in the Alvare-Recio photo is now (14 years later) partially<lb/>
+covered with earth. But comparing these roots and tree hollow with the configura-<lb/>
+tion of the branches it is certain that the tree is the same.</item>
+<item>18. Photostat of Dr. Agramonte's statement (Scientific Monthly, Dec. 1915, page 230)<lb/>
+locating Camp Lazear on the San Jose Farm of Dr. Ignacio Rojas.</item>
+<item>19. The old Rojas home on the San Jose farm.</item>
+<item>20. Senora Rojas, widow of Dr. Ignacio Rojas, with members of her family (also Senors.<lb/>
+Moran and Pogolotti).</item>
+<item>21. 1857 map of the San Jose Farm.</item>
+<item>22. 1907 " " " " " "</item>
+<item>23. 1912-1918 " " " " "</item>
+<item>24. Senora Rojas on the upper verandah pointing out to Mr. Moran the former site of<lb/>
+Camp Lazear.</item>
+<pb n="20" id="f03901029"/>
+<item>- 2 -</item>
+<item>25. English translation of certain entries (Nov. 15, 1900 - Oct. 10, 1901) in the<lb/>
+journal of Dr. Rojas with certified signed statement as to their authenticity<lb/>
+by Senora Rojas.</item>
+<item>26-33. Photostat copies of 8 pages from the journal of Dr. Rojas.</item>
+<item>34. Camp Lazear; a composite drawing showing the various tents, buildings and trees<lb/>
+shown in photos 1 to 6 inclusive. If the building in the Alvare-Recio photograph<lb/>
+had really been either Building #1 or 2 the La Playa railroad track would have<lb/>
+run right between Buildings 1 and 2 (but of course no such track appears in any<lb/>
+of the photos 1 to 6 taken in 1900-1901.</item>
+<item>35. Photostat of a letter from Walter Reed to Surgeon General Sternberg, dated Jan. 1,<lb/>
+1901, indicating Reed's determination to preserve (temporarily) the specially<lb/>
+constructed buildings at Camp Lazear.</item>
+<item>36. Remains of the Infected Clothing Building, Number One (with additions) on the San<lb/>
+Jose Farm. Photo shows Mr. Moran and Dr. Hench, April, 1940.</item>
+<item>37. Photo taken of same building, Oct. 1940. Note that the lean-to seen on the left<lb/>
+in photo 36 had been removed between April and Oct. 1940.</item>
+<item>38. Certified statement of Senor Julian Zunzunegui (Lopez) regarding the habitation of<lb/>
+Building Number One by his father and himself from 1907 till just recently; also<lb/>
+statement regarding the destruction of Building Number 2 by the cyclone of 1926.<lb/>
+Statement dated, Oct. 18, 1940.</item>
+<item>39. Diagrams of the shape and size of Building Number 1 as of the present (Oct. 1940),<lb/>
+made by Mr. Pogolotti.</item>
+<item>40. Photo shows Building #1 in the background, Mr. Moran standing on the remains of the<lb/>
+former floor of Building #2 and pointing to some adjacent unidentified ruins.<lb/>
+Compare this photo with photo #5.</item>
+<item>41. U.S. Army map (1902) of Columbia Barracks.</item>
+<item>42. Enlarged portion of same <add>(1902)</add> map showing the Post Hospital and related structures. Key<lb/>
+to the numbered structures. Note the structures to the left of the &ldquo;Marianao<lb/>
+R. R.&rdquo;</item>
+<item>43. U. S. Army map (190<del>6</del><add>7</add>) of Camp Columbia.</item>
+<item>44. Enlarged portion of same map, showing the Post Hospital, adjacent La Playa-Marianao<lb/>
+railroad track and small buildings to the left of this track.</item>
+<item>45. Model of Post Hospital made in Havana, 1900-1901 by Yldefonso Perez, now at the<lb/>
+Medical Field Service School, Carlisle Barracks, Carlisle, Pa. View looking<lb/>
+&ldquo;north&rdquo; (i.e. north by west). Although the buildings in the right section are<lb/>
+too crowded together, they and those on the left (west) of the railroad track<lb/>
+(the La Playa track) can be readily identified on the maps (#41-44).</item>
+<item>46. Same model; view looking &ldquo;west&rdquo; (i.e. west by slightly south).</item>
+<item>47. " " " " &ldquo;south&rdquo; (i.e. south by slightly east).</item>
+<item><p>48. " " " " &ldquo;east&rdquo; (i.e. east by slightly north).</p>
+<p>The bridge over the railroad track leads to the spot which is probably very close<lb/>
+to that now erroneously marked &ldquo;Campamento Lazear.&rdquo;</p></item>
+<item>49. Medical officer's quarters, Columbia Barracks, Post Hospital. Walter Reed and<lb/>
+associates lived in the building on the left center with the 5 small stairs.<lb/>
+The representations of these two buildings in the model are readily recognized<lb/>
+in the right front corner of photo 45.</item>
+<item>50. Wards and operating room, Columbia Barracks, Post Hospital. These are seen in the<lb/>
+model, right background of photo 45, and are seen from the side in the model,<lb/>
+right side of photo 46. Photos 49 and 50 were published in the Annual Report<lb/>
+(1901) of the Commanding General, U. S. Adjutant General's office, Division of<lb/>
+Cuba (in the Report of Major Valery <del>Howard</del><add>HAVARD</add> to the Surgeon General, July 22, 1901.)</item>
+</list></p>
+<pb n="21" id="f03901030"/>
+<p>&nbsp;</p>
+<pb n="22" id="f03901031"/>
+<p>IF PUBLISHED PLEASE USE CREDIT LINE</p>
+<p>&ldquo;U.S. ARMY MEDICAL MUSEUM NEG. NO.______&rdquo; 40731<lb/>
+------<lb/>
+ACC. NO.______</p>
+<pb n="23" id="f03901032"/>
+<p>&nbsp;</p>
+<p>1<hi>b</hi>. Camp Lazear. Small photo of 1a, copied from Surgeon<lb/>
+General's Report, 1901.</p>
+<p>&nbsp;</p>
+<p>2. Camp Lazear - The &ldquo;seven tents&rdquo; plus a mess tent on the<lb/>
+right. Photo taken 1901 by Dr. Agramonte and given me<lb/>
+by his daughter.</p>
+<pb n="24" id="f03901033"/>
+<p>&nbsp;</p>
+<p>3. Camp Lazear - Photo from the book &ldquo;Walter<lb/>
+Reed and Yellow Fever&rdquo; by Dr. Howard A.<lb/>
+Kelly, 1906. See page 134.</p>
+<p>4. Camp Lazear - Photo taken by Dr. Agramonte, 1901. In<lb/>
+this photo the two distant large trees seen in the<lb/>
+<hi>center</hi> of photos 1a and 1b are superimposed.</p>
+<pb n="25" id="f03901034"/>
+<p>&nbsp;</p>
+<p>5. Camp Lazear - Infected Bedding Bldg. (#1) in the background;<lb/>
+Mosquito Bldg. (#2) in the foreground. Copied from Surgeon<lb/>
+General's Report, 1901.</p>
+<p>6. Camp Lazear - This was copied from Kelly's book, p. 146 but<lb/>
+is wrongly labeled. It is the Infected Mosquito Bldg. (#2)<lb/>
+with the backroom (later added) in which the mosquitoes were kept.<lb/>
+It is <hi>not</hi> the Infected Bedding Bldg. as one can see by comparing<lb/>
+photographs 5 and 6 with photos 7 and 8 - of Agramonte's drawings<lb/>
+of the plans of these two buildings.</p>
+<pb n="26" id="f03901035"/>
+<p>See Photostat #18a</p>
+<p>7. Plan of Infected Clothing Building (#1). From<lb/>
+article by Agramonte in Scientific American,<lb/>
+Dec. 1915. The stove is here placed in the right<lb/>
+corner; actually it was in the left corner.</p>
+<p>8. Plan of Infected Mosquito Bldg. (#2). From<lb/>
+Agramonte's article in Scientific American,<lb/>
+Dec. 1915. Compare this plan with the contour<lb/>
+of the building in photo 6.</p>
+<pb n="27" id="f03901036"/>
+<p>9. Portion of 1938 Military Map of the City of Havana and environs. This portion shows the<lb/>
+Ciudad Militar and Hospital Militar with adjacent La Playa railroad track. In rt. center can<lb/>
+be seen present development of old San Jose farm and site of the remains of Camp Lazear.</p>
+<pb n="28" id="f03901037"/>
+<p>10. Reparto Padre Zamora, showing the real estate development now on the former<lb/>
+site of the &ldquo;yellow fever wards&rdquo; of Camp Columbia. This is where the &ldquo;Campa-<lb/>
+mento Lazear&rdquo; is now erroneously marked.</p>
+<pb n="29" id="f03901038"/>
+<p>11. False site of &ldquo;Campamento Lazear&rdquo;; memorial sign, fence, flamboyant tree<lb/>
+and Mr. Moran</p>
+<p>12. Same as photo 11 looking across the La Playa Railroad<lb/>
+Track (see electric wires) toward the Hospital Militar.<lb/>
+Photograph looking in the opposite direction from #11.</p>
+<pb n="30" id="f03901039"/>
+<p>ROYAL S. WEBSTER<lb/>
+[unclear text]<lb/>
+HABANA, CUBA<lb/>
+Havana, Cuba, <date value="1941-03-12">March 12th, 1941</date>
+Dr. Philip S Hench,<lb/>
+Rochester, Minnesota.-<lb/>
+Dear Dr. Hench:-</p>
+<p>In answering your questions regarding the ages of<lb/>
+(1) the Havana-Marianao railroad, (2) the branch from the Quema-<lb/>
+dos to La Playa and (3) the small railroad spur which forms the<lb/>
+right side of a small triangle (see below) I have sent you va-<lb/>
+rious maps from this office, maps drawn between 1880 and 1906.<lb/>
+Let me summarize them simply by drawing a free hand diagram of<lb/>
+the railroad tracks concerned and indicate when each was laid<lb/>
+down.-</p>
+<p>Sincerely yours,<lb/>
+<unclear></unclear><lb/>
+Divisional Engineer.-<lb/>
+RSW/RA.</p>
+<pb n="31" id="f03901040"/>
+<p>14. Alvare-Recio photograph, taken 1926, supposedly of one of the buildings of<lb/>
+Camp Lazear. Note the tree roots marked 1-2-3 with the hollow in the tree<lb/>
+between roots 2 and 3. Compare those with photo 17.</p>
+<pb n="32" id="f03901041"/>
+<p>DR. IGNACIO ALVARE<lb/>
+<unclear>9</unclear> No. 304<lb/>
+VEDADO, HABANA<lb/>
+RECEIVED<lb/>
+IN CORRESPONDENCE DIVISION<lb/>
+JUL 26 1940<lb/>
+REFERRED TO_____________<lb/>
+________________________<lb/>
+ANSWERED________________<lb/>
+Vedado, <date value="1940-07-18">Julio 18 de 1940.</date>
+DR. P. S. HENCH.<lb/>
+Rochester, Minnesota.<lb/>
+Mi <unclear>estinado</unclear> Doctor:</p>
+<p>Recib&iacute; su atenta carta de fecha 24 de Junio y le<lb/>
+ruego <unclear>me</unclear> perdone la demora en contestarle pero ha <unclear>sido</unclear><lb/>
+debido a que me encontraba enfermo y hoy muy gustoso pa-<lb/>
+so a darle contestaci&oacute;n.</p>
+<p>Referente al asunto que me trata en su carta de-<lb/>
+bo de informarle que yo hac&iacute;a mi internado en el Hospi-<lb/>
+tal Militar en el trienio de 1923 a 1926 y en &eacute;ste &uacute;lti-<lb/>
+mo a&ntilde;o tom&eacute; la fotograf&iacute;a que Vd. conoce. En aquel sitio<lb/>
+era se&ntilde;alado por todas las personas como el lugar don-<lb/>
+de se hab&iacute;a construido el campamento Lazear y que aquella<lb/>
+casita eran restos del campamento, &eacute;sto lo se&ntilde;alaba la<lb/>
+voz de la calle y sin tener yo mas constancia del asun-<lb/>
+to, entonces como un dato hist&oacute;rico me pareci&oacute; bien to-<lb/>
+mar la fotograf&iacute;a y regalarle un ejemplar al Dr. Recio<lb/>
+que fu&eacute; uno de mis predilectos profesores.</p>
+<p>Desde luego el aspecto de la casita me parec&iacute;a un<lb/>
+poco pobre pero hab&iacute;a que tener en cuenta el tiempo trans-<lb/>
+currido desde su construcci&oacute;n al a&ntilde;o 1926 y sobre todo<lb/>
+que era tomada por gentes del pueblo para vivienda sin<lb/>
+hacerles reparaciones y adem&aacute;s nuevas cosas que pod&iacute;an<lb/>
+transformar su construcci&oacute;n primitiva, en cuanto al &aacute;rbol<lb/>
+no s&eacute; si en la actualidad existe pero debo de se&ntilde;alarle<lb/>
+que yo tom&eacute; esa fotograf&iacute;a en Mayo de 1926 y en Octubre<lb/>
+de ese propio a&ntilde;o un cicl&oacute;n azot&oacute; toda &eacute;sta regi&oacute;n y de-<lb/>
+be haber desaparecido el &aacute;rbol y la casa.</p>
+<p>Es &eacute;sto cuanto tengo que informarle y muy gustoso<lb/>
+le doy contestaci&oacute;n a su escrito.</p>
+<p>Atentamente <unclear>de Vd.</unclear><lb/>
+Dr. Ignacio Alvare.</p>
+<pb n="33" id="f03901042"/>
+<p>LABORATORIO CLINICO<lb/>
+DEL<lb/>
+DR. ALBERTO RECIO<lb/>
+AVE. DE LA INDEPENDENCIA Y MONTORO<lb/>
+TELEFONO U-<unclear>2859</unclear><lb/>
+HABANA<lb/>
+----<lb/>
+<date value="1940-06-07">June 7, 1940</date>
+Received: June 13, 1940.<lb/>
+Dr. P. S. Hench<lb/>
+102-110 Second Ave. S.W.<lb/>
+Rochester, Minn.<lb/>
+My dear Doctor Hench:</p>
+<p>I am sorry to have delayed so much answering your let-<lb/>
+ter of April 30 but I have just come back from Washington<lb/>
+where I attended the Pan American Scientific meeting.</p>
+<p>Referring to the photograph of the supposed remainings<lb/>
+of Camp Lazear, I may inform as follows:</p>
+<p>In 1926 when Dr. Ignacio Alvar&eacute; was intern at the Col-<lb/>
+umbia Military Hospital which is located near the site where<lb/>
+the photograph was taken, he was told by the neighbors that<lb/>
+the small house was what remained of Camp Lazear. As he knew<lb/>
+the interest I had for everything related to the 1900 yellow<lb/>
+fever experiments he took a picture of the small building<lb/>
+and gave me a copy. A few days later I showed it to Dr. Ar&iacute;s-<lb/>
+tides Agramonte who said: &ldquo;I would not recognize it, were<lb/>
+it not for the tree&rdquo;, without any other explanation.</p>
+<p>Dr. Alvar&eacute; further tells me that the 1926 hurricane<lb/>
+tore the house down, that is shortly after the picture was<lb/>
+taken.</p>
+<p>Dr. Ignacio Alvar&eacute;'s address is: Calle 9, 304<lb/>
+(Vedado), Havana, and I am certain he will be glad to let<lb/>
+you know all he knows in connection with this matter.</p>
+<p>Very sincerely yours<lb/>
+Dr. Alberto Recio</p>
+<pb n="34" id="f03901043"/>
+<p>17. Mr. Moran beside the flamboyant tree (1940) identified as that in<lb/>
+the 1926 Alvare-Recio photograph. Again note the tree roots marked<lb/>
+1-2-3 with the hollow (now a little smaller) between roots 2 and 3.<lb/>
+Because of the sign I could not obtain a photograph of these roots<lb/>
+from exactly the same angle as that in the Alvare-Recio photo (#14).<lb/>
+Root #1 in the Alvare-Recio photo is now (14 years later) partially<lb/>
+covered with earth. But comparing these roots and tree hollow with<lb/>
+the configuration of the branches it is certain that the tree is the<lb/>
+same.</p>
+<pb n="35" id="f03901044"/>
+<p>18a. Photostat of Dr. Agramonte's statement (Scientific Monthly, Dec. 1915,<lb/>
+page 230) locating Camp Lazear on the San Jose Farm of Dr. Ignacio Rojas.</p>
+<pb n="36" id="f03901045"/>
+<p>18b. Photostat of Dr. Agramonte's statement (Scientific Monthly, Dec. 1915,<lb/>
+page 231) locating Camp Lazear on the San Jose Farm of Dr. Ignacio Rojas.</p>
+<pb n="37" id="f03901046"/>
+<p>19. The old Rojas home on the San Jose farm.</p>
+<p>20. Senora Rojas, widow of Dr. Ignacio Rojas, with members<lb/>
+of her family (also Senors Moran and Pogolotti).</p>
+<pb n="38" id="f03901047"/>
+<p>21. 1857 map of the San Jose Farm.</p>
+<pb n="39" id="f03901048"/>
+<p>22. 1907 map of the San Jose Farm.</p>
+<pb n="40" id="f03901049"/>
+<p>23. 1912-1918 map of the San Jose Farm.</p>
+<pb n="41" id="f03901050"/>
+<p>24. Senora Rojas on the upper verendah pointing out to Mr. Moran the<lb/>
+former site of Camp Lazear.</p>
+<pb n="42" id="f03901051"/>
+<p><hi>ENTRIES COPIED FROM Dr. IGNACIO ROJAS' JOURNAL OR DAY<lb/>
+BOOK, WRITTEN BY HIMSELF. TRANSLATION<lb/>
+FROM SPANISH TO ENGLISH MADE<lb/>
+BY JOHN J. MORAN.</hi></p>
+<p><hi>Nov. 15, 1900:</hi> Today, for the third time, the Military Health Officers<lb/>
+of the American Army entered the San Jos&eacute; farm, by agreement with the lessee,<lb/>
+Don Antonio Sosa, and through mediation of Dr. Echevarria. (Page 75).</p>
+<p><hi>January 2, 1901:</hi> Collected the check sent by the Major Surgeon of<lb/>
+U. S. V., Mr. <hi>Reed</hi>, value $20.00, covering the first month's rent on the<lb/>
+land of the San Jos&eacute; farm occupied by the yellow fever experimental commission,<lb/>
+one-half of which was delivered to Don Antonio Sosa, lessee of the farm. (P. 84)</p>
+<p><hi>January 19, 1901:</hi> Paid by Major J. R. Kean, U. S. V. $20.00 American<lb/>
+gold, amount of the 2nd month's rent on the land of the San Jos&eacute; farm<lb/>
+occupied for yellow fever experimentation, for December 10, 1900, to Jan-<lb/>
+uary 9, 1901. (Page 87)</p>
+<p><hi>February 25, 1901:</hi> Check sent for FORTY DOLLARS American gold by Major<lb/>
+J. R. Kean, U. S. V., Disbursing Officer, Columbia <hi>Barraks</hi>, amount of two<lb/>
+months' rent on land of the San Jos&eacute; farm, in Marianao, for yellow fever<lb/>
+experimentation, from January 10th to March 9th, at the rate of $20.00<lb/>
+American gold per month. One-half for Sosa. (Page 91)</p>
+<p><hi>April 22, 1901:</hi> Major J. R. Kean, Surgeon, U. S. Army, Disbursing<lb/>
+Officer, today sent the vouchers for signature in payment of the rent on<lb/>
+Camp <hi>Lezar</hi>, from March 9th to May 10th, in the San Jos&eacute; farm, Marianao. (P. 99)</p>
+<p><hi>June 11, 1901:</hi> Collected from Major J. R. Kean, Surgeon, U. S. Army,<lb/>
+Disbursing Officer, the amount of rent on land of Camp <hi>Lezar</hi> on the San Jos&eacute;<lb/>
+farm, corresponding to the time from May 9th to July 10th of this year. $40.<lb/>
+American gold or $44.00 Spanish gold. (Page 100).</p>
+<p><hi>September 29, 1901:</hi> Today were returned, signed, to Major J. R. Kean,<lb/>
+Surgeon, U. S. A., Disbursing Officer, corresponding to the rent for two<lb/>
+months of the land occupied by Camp Lazear, Experimental Sanitary Camp, on<lb/>
+the San Jos&eacute; farm and which became due on August 10th and September 9th.<lb/>
+At the rate of $20.00 American gold, per month, the amount is $40.00 gold.<lb/>
+(Page 116).</p>
+<p><hi>October 10, 1901:</hi> Today was received the last check of $20.00, amount<lb/>
+of the rent for Camp Lazear, on the San Jos&eacute; Farm, which became due on the<lb/>
+9th, <hi>and they left the farm; leaving (delivering) the two wooden houses<lb/>
+which they built to carry out experiments on yellow fever and mosquitoes.</hi><lb/>
+-- $22.00. (Page 117)</p>
+<p>I CERTIFY that the foregoing entries, translated from the Spanish<lb/>
+originals into English, have been read to me and that I find them to conform<lb/>
+in tenor to the original entries as made by my deceased spouse, Doctor Ignacio<lb/>
+Rojas, in his own handwriting:</p>
+<p>Maria Teresa Loma, Viuda de Rojas.<lb/>
+(Maria Teresa Loma, Widow of Dr. Rojas)</p>
+<p>HABANA, CUBA, October 19, 1940.</p>
+<p>The ORIGINAL for Dr. Philip S. Hench, MAYO CLINIC, Rochester, Minn., U. S. A.<lb/>
+ONE COPY EACH FOR SE&Ntilde;ORA ROJAS AND SR. MORAN.</p>
+<pb n="43" id="f03901052"/>
+<p>75</p>
+<p>Novbre 15 <unclear>de 1900</unclear></p>
+<p>Hoy tomo el <unclear>pin</unclear> principal<lb/>
+de la casa <unclear>Olrapin me el so</unclear><lb/>
+Dr Anto Wagner <unclear>Laffette.<lb/>
+for neeres. a rajor</unclear> de <unclear>diez<lb/>
+centeves f o'rean $52 000</unclear><lb/>
+espan&ntilde;ol <unclear>cade con nues.</unclear></p>
+<p>Es <unclear>su fradon el so</unclear> Dr<lb/>
+Miguel N. Garcia <unclear>vecins</unclear><lb/>
+de O'Relly <unclear>no 102______</unclear></p>
+<p><del>Hoy <unclear>prago</unclear> Dr Ramon Fer<lb/>
+nandez. <unclear>Collago</unclear> el <unclear>importe</unclear><lb/>
+del alguiler de la <unclear>case Bure-<lb/>
+tillo</unclear> B. <unclear>correspondiente</unclear> y<lb/>
+<unclear>veraido es 30 de Septembre -----<lb/>
+l 102-000 -----</unclear></del></p>
+<p><unclear>l 102.00</unclear></p>
+<p><unclear>Hoy verehen</unclear> &aacute; <unclear>entrar por 3 <hi rend="superscript">c</hi><lb/>
+vey loy Tres</unclear> de <unclear>Sanided</unclear> Mr.<lb/>
+<unclear>Litran</unclear> del ejercito <unclear>America<lb/>
+no e le fira Sr Jare<lb/>
+de accendo co el Sr Aver<lb/>
+datani</unclear> Dr <unclear>Aut</unclear> Jose<lb/>
+y <unclear>por mediccior</unclear> del Dr</p>
+<p><unclear>Echevarie -----</unclear></p>
+<p><unclear>17 Novbre<lb/>
+Key</unclear></p>
+<pb n="44" id="f03901053"/>
+<p>84</p>
+<p><unclear>O'sa de $497.00 ono</unclear><lb/>
+a <unclear>arenta</unclear> de <unclear>espenses.</unclear><lb/>
+Es de <unclear>advertini,</unclear> gue <unclear>amyal</unclear><lb/>
+dice a <unclear>arento</unclear> de <unclear>espensas<lb/>
+estras guedan saldados<lb/>
+hastri la fedra con $208</unclear>.</p>
+<p><unclear>Josi es ave han guededo<lb/>
+en su poder $289.00 ovo.</unclear><lb/>
+para atender a las <unclear>prosenias</unclear><lb/>
+espensas gue re <unclear>originen ----</unclear></p>
+<p>----- 2 -----</p>
+<p><unclear>Cohado el chek que renim<lb/>
+tis</unclear> el Major Surgeon de <unclear>U. S. V.</unclear><lb/>
+Mr Read <unclear>valor de $20. pertame<lb/>
+ciente al poriver nos destranto</unclear><lb/>
+del <unclear>torreno gue es la finca Sn<lb/>
+Jos&eacute; ocupa la converion de<lb/>
+experimentesior sobre le fie<lb/>
+bre unmarilly. Importe</unclear> gue<lb/>
+<unclear>de formintad se entrego al<lb/>
+Sr Dr Anto Sosa, arrendalasi</unclear><lb/>
+de <unclear>lay cit terrerros.</unclear></p>
+<pb n="45" id="f03901054"/>
+<p>87</p>
+<p><unclear>Eno</unclear> 15 1901</p>
+<p><unclear>Hoy tormo Dr <del>Elodse</del>)</unclear> Servacio<lb/>
+<del><unclear></unclear></del> <unclear>lo acesore</unclear> E.) Alonso y<lb/>
+de le <unclear>casa Bernap 26) Suay --</unclear><lb/>
+en <unclear>$21.20 el nees.</unclear></p>
+<p>Dio <unclear>an fondo a gasa utea<lb/>
+acho centerres --</unclear></p>
+<p><unclear>Eno</unclear> 19.</p>
+<p>Pag&oacute; Dr <unclear>Anito Wagner</unclear><lb/>
+Laffitte <unclear>$53.00, algueder</unclear><lb/>
+vercido el 15 de <unclear>Enero 1901 de<lb/>
+le pe&ntilde;ol</unclear> de le <unclear>casa Olvafris<lb/>
+no l. -----</unclear></p>
+<p><unclear>$53.00</unclear></p>
+<p><unclear>Eno 19-----</unclear></p>
+<p>Pago <unclear>$93.50 le<lb/>
+Logio Nabassiri alguidar<lb/>
+del 4 pies delecas.<lb/>
+Bernge 26 venaide er</unclear><lb/>
+15 de <unclear>Eno</unclear> 1901.</p>
+<p><unclear>$93.50</unclear></p>
+<p><unclear>Eno</unclear> 19. 1901</p>
+<p>Pago el Major J. R. Kean<lb/>
+Surgeon U. <unclear>S V $20.00</unclear><lb/>
+American <unclear>importe del 2<hi rend="superscript">0</hi> meas</unclear><lb/>
+de <unclear>arrondamiento</unclear> del terreno<lb/>
+gue <unclear>ocupo e l. fevica Sn Jose por<lb/>
+expermentacion Folre armaulle<lb/>
+corcepre dido</unclear> del 10 de <unclear>Dhe</unclear> de 1900<lb/>
+al 9 de <unclear>Eno</unclear> de 1901. <unclear>---</unclear></p>
+<pb n="46" id="f03901055"/>
+<p>91</p>
+<p>Febre 22 1901</p>
+<p><unclear>Pago Dr Gerrario Morres<lb/>
+Laurey, el alguidor vercido<lb/>
+a 15 de Feb. de le Accd E.<lb/>
+de Berroy 36. N. E.<lb/>
+Accesioni quesuitomede<lb/>
+premeria a nombre sec<lb/>
+Dr Eladir Acosti</unclear></p>
+<p><unclear>$21.20</unclear></p>
+<p>25</p>
+<p><unclear>Pago Dr Gore Mah el<lb/>
+alquiler vencide er 21 de<lb/>
+Dhe de 1900 de la caso<lb/>
+Ciesogo no 12</unclear></p>
+<p><unclear>21.20</unclear></p>
+<p>25</p>
+<p><unclear>Enviado Chek valorde</unclear><lb/>
+cuarenta pesos <unclear>ono Ame<lb/>
+recano por</unclear> el Major<lb/>
+J. R. Kean. Surgeon U S. V.<lb/>
+Disbursing Officer Columbia<lb/>
+Barracks. <unclear>importe de dos<lb/>
+meres de renba del teneses<lb/>
+gue tienen pam experamen<lb/>
+tacion de L fielre amanillo e de<lb/>
+finico Sn Jos&eacute; en Marianas<lb/>
+comprendida</unclear> desde Enero<lb/>
+10 al 9 de Mayo a <unclear>rayon</unclear><lb/>
+de <unclear>$20 one Americano al<lb/>
+nies.</unclear></p>
+<p><unclear>$40.00</unclear></p>
+<p><unclear>Mitid for Sosa. ---</unclear></p>
+<pb n="47" id="f03901056"/>
+<p>99</p>
+<p>22</p>
+<p>El Major J. R. Kean Surgeon<lb/>
+W. S. Army Disbursing Officer<lb/>
+<unclear>remetes loy los Voucher preen<lb/>
+firmar puno</unclear> el <unclear>pogo</unclear> de le<lb/>
+<unclear>renta</unclear> del Campo de Lezar<lb/>
+<unclear>compendido</unclear> del 9 de Mayo<lb/>
+al 10 de Mayo. <unclear>en le funico<lb/>
+Sn Jos&eacute; Marianao--</unclear></p>
+<p>Pago le <unclear>Logio Hanan</unclear><lb/>
+Havana Lodge<lb/>
+el <unclear>alguiler vercido</unclear><lb/>
+el die 15 del <unclear>4 peso que<lb/>
+ocupa es le cas</unclear> calle<lb/>
+de <unclear>Bermage no 26 $93.50</unclear></p>
+<p>22.</p>
+<p><unclear>Dr Lauream Camp Bieto paged<lb/>
+algundo</unclear> de <unclear>le can Macio co<lb/>
+Guamabacco</unclear> del <unclear>mes de<lb/>
+Marso 30--</unclear></p>
+<p><unclear>37.20</unclear></p>
+<p><unclear>Y Dr Cresercio Burja Varalle<lb/>
+$2 plaba de le caso Marso 41<lb/>
+de 20 dias vercido e 30 de<lb/>
+Mayo 1901.</unclear></p>
+<p><unclear></unclear></p>
+<pb n="48" id="f03901057"/>
+<p>100</p>
+<p>Junio 11 1901</p>
+<p><unclear>Coluies al</unclear> Major J. R. Kean<lb/>
+Surgeon W. S. Army. Disbursing<lb/>
+Officer el importe del<lb/>
+<unclear>avendarmiento</unclear> de <unclear>les terre<lb/>
+noy</unclear> del Campo de <unclear>Lezar<lb/>
+es le finco Sn Jos&eacute; comper<lb/>
+diente</unclear> al tiempo <unclear>compuer<lb/>
+dido desde</unclear> el 9 de Mayo<lb/>
+al 10 de <unclear>Julio de este<lb/>
+a&ntilde;o. $40 000 American<lb/>
+osecia ornesfant</unclear></p>
+<p><unclear>$44.00</unclear></p>
+<pb n="49" id="f03901058"/>
+<p>116</p>
+<p><unclear>Septembre de 1901</unclear></p>
+<p><unclear>219</unclear></p>
+<p><unclear>Hoy</unclear> se le <unclear>desolveson finuero<lb/>
+dos los Vouchers</unclear> al Major<lb/>
+J. R Kean Surgeon <unclear>U S. A</unclear> Dis-<lb/>
+bursing Officer gue <unclear>comprer<lb/>
+den los dos meres</unclear> de <unclear>arena<lb/>
+damiento</unclear> del terreno <unclear>dueprado<lb/>
+pos</unclear> el Camp Lazear. Experimen<lb/>
+tal <unclear>Sanitary Camp</unclear> en la finca<lb/>
+<unclear>Sn</unclear> Jos&eacute; y <unclear>gue vencies. In Agos-<lb/>
+to</unclear> 10 y <unclear>Septembre</unclear> 9.</p>
+<p><unclear>A sagon</unclear> de <unclear>$20,000 Americano<lb/>
+al mes - Jose $40,00-000-</unclear></p>
+<p>---- 30 ----</p>
+<p>Colrado a <unclear>les Sres<lb/>
+Suares</unclear> y Hermano<lb/>
+el importe <unclear>de</unclear> le<lb/>
+<unclear>renta</unclear> de le <unclear>Hacienda<lb/>
+Nuestra Sra</unclear> del Rosario<lb/>
+<unclear>conespondiente</unclear> al<lb/>
+cuarto <unclear>ane</unclear> del con<lb/>
+<unclear>trabo,</unclear> vencido el <unclear>dis</unclear><lb/>
+31 de Julio de 1901<lb/>
+<unclear>seismil peros en<lb/>
+oro esprarol</unclear><lb/>
+Este <unclear>playo lo colvi<lb/>
+el Dr Du</unclear> Claudio G.<lb/>
+de Mendoza <unclear>pran</unclear> apli<lb/>
+carlo al pago del cre-<lb/>
+dito del <unclear>Sn Du Mastri<lb/>
+Pedroso --------------</unclear></p>
+<p><unclear>$6000.00</unclear></p>
+<pb n="50" id="f03901059"/>
+<p>11</p>
+<p>Octubre de 1901</p>
+<p>10</p>
+<p><unclear>Hoy se recilio el ultrano chek</unclear><lb/>
+de <unclear>#20 importe del correndamento</unclear><lb/>
+del Campo de Lazear <unclear>en le Fencio</unclear><lb/>
+Sn Jos&eacute; gue <unclear>vencio</unclear> el du 9 y<lb/>
+<unclear>dejanore el tererrano; emphageno nolo<lb/>
+las dos casas</unclear> de <unclear>Medoro que pricies<lb/>
+ron por realizar las espeneraceris<lb/>
+solre le Juilre amarillo y las</unclear><lb/>
+mosquitos.</p>
+<p><unclear>$22.00</unclear></p>
+<p>16</p>
+<p>Colrado &aacute; <unclear>Dr Anto Sosa</unclear> el<lb/>
+<unclear>arrendamiento</unclear> de le <unclear>Finice<lb/>
+Sn Jos&eacute;; semestre vencido</unclear><lb/>
+el <unclear>dio 30 de Sep -- gueven<lb/>
+ceva el dio 31</unclear> de Mayo de 1902<lb/>
+<unclear>por</unclear> gue el <unclear>pago</unclear> es <unclear>adelantado.</unclear><lb/>
+a <unclear>rayor</unclear> de <unclear>$250 oro al<lb/>
+semestre.</unclear> Dio <unclear>es plaba<lb/>
+trescienbos veintisiete peros<lb/>
+$327.00</unclear></p>
+<p><unclear>1<hi rend="superscript">0</hi>-------</unclear></p>
+<p>Pagado en 1<hi rend="superscript">0</hi> de <unclear>Agosto</unclear><lb/>
+de <unclear>este a&ntilde;o</unclear> al Sr Dr<lb/>
+Martin Pedroso <unclear><hi>seil<lb/>
+mil</hi> peros ovo a averido<lb/>
+de su credito, recilie<lb/>
+ando el importe el D<hi rend="superscript">r</hi><lb/>
+Caludio G. de Mendez $6000.00</unclear></p>
+<pb n="51" id="f03901060"/>
+<p>34. Camp Lazear - a composite drawing showing the various tents, buildings and<lb/>
+trees shown in photos 1 and 6 inclusive. If the building in the Alvare-<lb/>
+Recio photograph had really been either Building #1 or #2 the La Playa<lb/>
+railroad track would have run right between Buildings #1 and #2 (but of course<lb/>
+no such track appears in any of the photos 1 to 6 taken in 1900-1901.)</p>
+<p>Redraw<lb/>
+Bldg #1 <unclear>Short fan #2 more exact</unclear></p>
+<pb n="52" id="f03901061"/>
+<p>35a. Page 224 in Biography of General Sternberg.</p>
+<pb n="53" id="f03901062"/>
+<p>35b. Photostat of a letter from Walter Reed to Surgeon General Sternberg,<lb/>
+dated Jan. 1, 1901, indicating Reed's determination to preserve (tem-<lb/>
+porarily) the specially constructed buildings at Camp Lazear.</p>
+<pb n="54" id="f03901063"/>
+<p>Vista <unclear>Adres</unclear> del Hospital Militar &ldquo;Dr. Aristides Agramonte&rdquo; y de la Clinica &ldquo;Cuatro de Septiember&rdquo;</p>
+<p><unclear>with<lb/>
+letter</unclear></p>
+<p><unclear>C9000 y41</unclear></p>
+<p><unclear>sold</unclear></p>
+<pb n="55" id="f03901064"/>
+<p>Capit&aacute;n.</p>
+<p>BERNARDO CARDELLE<lb/>
+Y PENICHET.</p>
+<p>Sub - Director del Hospital<lb/>
+Militar &ldquo;Dr. <unclear>Ar&iacute;stides</unclear> Agra-<lb/>
+monte&rdquo;, y Jefe del Servicio<lb/>
+de Pediatria de la Clinica<lb/>
+&ldquo;Cuatro de Septiembre&rdquo;.</p>
+<p>Primer Teniente.</p>
+<p>NARCISO ABELARDO<lb/>
+GOMEZ Y PEREZ, M. M.</p>
+<p>Secretario del Hospital Mili-<lb/>
+tar &ldquo;Dr. Aristides<lb/>
+Agramonte&rdquo;</p>
+<pb n="56" id="f03901065"/>
+<p>36. Remains of the Infected Clothing Building, (#1) (with additions) on the<lb/>
+San Jose Farm. Photo shows Mr. Moran and Dr. Hench, April, 1940.</p>
+<p>37. Photo taken of same building, Oct. 1940. Note that the loan-to seen<lb/>
+on the left in photo 36 had been removed between April and Oct. 1940.</p>
+<pb n="57" id="f03901066"/>
+<p>Havana, Cuba, <date value="1940-10-18">Oct. 18, 1940.</date>
+Dr. Philip S. Hench,<lb/>
+Mayo Clinic,<lb/>
+Rochester, Minn.<lb/>
+c/o Mr. John J. Moran.<lb/>
+Dear Sir:-</p>
+<p>Agreeable to your request, transmitted to me through Mr.<lb/>
+Moran, in connection with a wooden building on the &ldquo;Finca San Jos&eacute;&rdquo;,<lb/>
+Marianao, formerly the property of Dr. Ignacio Rojas and his family,<lb/>
+I wish to make the following statements:</p>
+<p>In March, 1907, my father leased the limekilns and lime-<lb/>
+stone quarry from Dr. Ignacio Rojas. Close by were two small build-<lb/>
+ings (wooden), the use and occupancy of which were included in the<lb/>
+lease. My father took up residence in one of the two buildings and<lb/>
+had a partition built in it, converting it into two rooms. Later on,<lb/>
+he built another small room against one end of it and a kitchen<lb/>
+against the rear of the building, running its entire length, a fraction<lb/>
+over six (6) meters. I lived in this house continuously from March<lb/>
+1907 until 1936. I got married in 1920, my wife and myself continuing<lb/>
+to live in the building referred to. My father died in 1935. All<lb/>
+three of my children were born in this building, which Mr. Moran calls<lb/>
+&ldquo;Building No. 1&rdquo;, presumably having known of the building when it was<lb/>
+constructed in 1900, when I was only seven years old. This building<lb/>
+is an unusual one for Cuba, in more than one particular. <hi>First</hi>: The<lb/>
+double board wall, with tongued and grooved lumber on the inside and<lb/>
+weather boarding on the outside. <hi>Second</hi>: The ceiling, which does not<lb/>
+extend all the way up, whereas, in the customary Cuban construction, it<lb/>
+would run all the way up, although, more than likely, it might not have<lb/>
+any ceiling at all. <hi>Third</hi>: It has a stovepipe hole in one corner,<lb/>
+rarely, if ever, to be found in wooden buildings in Cuba. Since I<lb/>
+first lived in the house, I have never seen a stove there, as we do<lb/>
+not use stoves for heating in Cuba, due to the fact that we rarely, if<lb/>
+ever, have cold weather. What Mr. Moran refers to as &ldquo;Building No.<lb/>
+2&rdquo; was partly toppled over during the 1926 cyclone and torn down about<lb/>
+a year later. I pointed out to Mr. Moran where it stood. The one in<lb/>
+which I lived, we had to reinforce and it managed to withstand the<lb/>
+effects of the cyclone. I do not know who lived in either of the<lb/>
+two buildings between October, 1901 and March, 1907.</p>
+<p>Yours very sincerely,<lb/>
+Julian Zunzunegui Lopez</p>
+<p>I CERTIFY that this letter was<lb/>
+read by me to Sr. Zunzunegui,<lb/>
+translated into Spanish, before<lb/>
+he signed it:<lb/>
+Federico Oliveros.</p>
+<pb n="58" id="f03901067"/>
+<pb n="59" id="f03901068"/>
+<p>40. Photo shows Building No. 1 in the background, Mr. Moran standing on the<lb/>
+remains of the former floor of Building No. 2 and pointing to some<lb/>
+adjacent unidentified ruins.</p>
+<pb n="60" id="f03901069"/>
+<p>41. U. S. Army map (1902) of Columbia Barracks.</p>
+<pb n="61" id="f03901070"/>
+<p>42. Enlarged portion of same (1902) map showing the Post Hospital and related<lb/>
+structures. Note the structures to the left of the &ldquo;Marianao R.R.&rdquo;</p>
+<pb n="62" id="f03901071"/>
+<p>43. U. S. Army map (1907) of Camp Columbia.</p>
+<pb n="63" id="f03901072"/>
+<p>44. Enlarged portion of same map, showing the Post Hospital, adjacent La<lb/>
+Playa-Marianao railroad tract and small buildings to the left of this<lb/>
+track.</p>
+<pb n="64" id="f03901073"/>
+<p>45. Model of Post Hospital made in Havana, 1900-1901 by Yldefonso Perez, now at<lb/>
+the Medical Field Service School, Carlisle Barracks, Carlisle, Pa. View<lb/>
+looking &ldquo;north&rdquo; (i.e. north by west). Although the buildings in the right<lb/>
+section are too crowded together, they and those on the left (west) of the<lb/>
+railroad track (the La Playa track) can be readily identified on the<lb/>
+maps (#41-44).</p>
+<p>46. Same model; view looking &ldquo;west&rdquo; (i.e. west by slightly south).</p>
+<pb n="65" id="f03901074"/>
+<p>47. Same model; view looking &ldquo;south&rdquo; (i.e. south by slightly east).</p>
+<p>48. Same model; view looking &ldquo;east&rdquo; (i.e. east by slightly north).<lb/>
+The bridge over the railroad track leads to the spot which is<lb/>
+probably very close to that now erroneously marked &ldquo;Campamento Lazear.&rdquo;</p>
+<pb n="66" id="f03901075"/>
+<p>49. Medical officer's quarters, Columbia Barracks, Post Hospital. Walter Reed<lb/>
+and associates lived in the building on the left center with the 5 small<lb/>
+stairs. The representations of these two buildings in the model are readily<lb/>
+recognized in the right front corner of photo 45.</p>
+<p>50. Wards and operating room, Columbia Barracks, Post Hospital. These are seen<lb/>
+in the model, right background of photo 45, and are seen from the side in<lb/>
+the model, right side of photo 46. Photos 49 and 50 were published in the<lb/>
+Annual Report (1901) of the Commanding General, U.S. Adjutant General's office,<lb/>
+Division of Cuba (in the Report of Major Valery Havard to the Surgeon General,<lb/>
+July 22, 1901).</p>
+<pb n="67" id="f03901076"/>
+<p>COPY<lb/>
+<date value ="1941-03-06">March 6, 1941</date>
+His Excellency Dr. Domingo Ramos<lb/>
+Minister of National Defense, Republic of Cuba<lb/>
+My dear Doctor Ramos:</p>
+<p>My service in Cuba under General Leonard Wood as Supretendente de<lb/>
+Beneficencia and again under Governor Magoon as Adviser of the Sanitary Dept.<lb/>
+and my personal friendship for both Dr. Carlos Finlay and Dr. Walter Reed<lb/>
+have caused me to take great interest in the research being made by Dr.<lb/>
+Philip S. Hench of the Mayo Clinic, Rochester, Minn. into the yellow fever<lb/>
+episode in Cuba at the beginning of this century. It is remarkable that<lb/>
+a physician of his high professional standing and his preoccupations as a<lb/>
+medical author should, in a perfectly disinterested way, devote so much<lb/>
+time and labor and pecuniary expense into the investigation of the details<lb/>
+of the experiments of the Reed Commission in their famous demonstration of<lb/>
+the scientific accuracy of Dr. Finlay's wonderful discovery of the trans-<lb/>
+mission of yellow fever by the mosquito (Aedes Egypti) I visited Camp Lazear<lb/>
+on the San Jos&eacute; finca cast of the Calzada Real with Major Reed, and I made<lb/>
+the payments, from Insular Funds, of the rent for the land occupied by the<lb/>
+camp, to Senor Ignacio Rojas, as shown by records of which Dr. Hench has<lb/>
+photostat copies. I am also familiar with the location southwest of the<lb/>
+Military Hospital where was located in 1900-1901 the small buildings for<lb/>
+the treatment of yellow fever and other infectious diseases, and which was<lb/>
+across the railroad to La Playa de Marianao from the Hospital. I was myself<lb/>
+a yellow fever patient in one of the huts there in June 1900, being at that<lb/>
+time the Chief Surgeon on the Staff of General Fitzhugh Lee, Commanding at<lb/>
+that time the Military Department of Western Cuba. In this place also Dr. Jesse<lb/>
+Lazear died of yellow fever in September, 1900. I am gratified to hear that<lb/>
+the Cuban Government has purchased this small area and will preserve it as<lb/>
+a memorial to him.</p>
+<p>So I am able of my own knowledge, Senor Dr. Ramos, to assure you of<lb/>
+the correctness of the facts claimed and established in this matter by Dr.<lb/>
+Hench and I hope that you will give him your approval and aid in the laudable<lb/>
+aims which he has in view.</p>
+<p>I am with much respect,</p>
+<p>Sincerely yours,<lb/>
+Jefferson R. Kean</p>
+<pb n="68" id="f03901077"/>
+<p>145 Laurel Street<lb/>
+San Francisco, California<lb/>
+<date value="1941-03-06">March 6, 1941</date>
+His Excellency,<lb/>
+Dr. Domingo Ramos,<lb/>
+Minister of National Defense,<lb/>
+Government of Cuba.<lb/>
+(Through Dr. P. S. Hench).<lb/>
+Your Excellency:</p>
+<p>I have carefully reviewed the documentary summary<lb/>
+prepared by Dr. Philip S. Hench regarding the historical sites of<lb/>
+&ldquo;Camp Lazear&rdquo; and the Columbia Barracks Yellow Fever Hospital (1900).<lb/>
+As I was on duty at the Columbia Barracks Hospital from August 17,<lb/>
+1899 until November 30, 1900 (with the exception of a short period<lb/>
+in the Summer of 1900), I am thoroughly familiar with the location<lb/>
+of these sites and with what transpired there while the Reed Board<lb/>
+was conducting its yellow fever experiments.</p>
+<p>I made several trips to Camp Lazear with Major Reed<lb/>
+while the camp was being constructed and am thoroughly familiar with<lb/>
+its location on the &ldquo;San Jose Farm&rdquo; owned at the time by Se&ntilde;or Rojas.<lb/>
+Dr. Hench has positively located it and, from his description of the<lb/>
+old building occupied by Se&ntilde;or Zunzunegui, I feel quite certain that<lb/>
+he has definitely located the &ldquo;Infected Clothing Building&rdquo; used in<lb/>
+the yellow fever experiments in 1900.</p>
+<p>Major Reed occupied the two rooms adjacent to mine<lb/>
+in the doctors' quarters at the hospital and, as I was the Commanding<lb/>
+Officer of the hospital (during September, October and November 1900),<lb/>
+I was called upon by Major Reed for much assistance in the way of<lb/>
+personnel, medical supplies and equipment for Camp Lazear.</p>
+<p>Dr. Roger Post Ames was serving directly under me<lb/>
+at that time and had charge of our yellow fever wards near the <del><unclear></unclear></del><unclear>South-</unclear><lb/>
+western borders of the hospital grounds.</p>
+<p>The deep cut of the La Playa railroad, running in a<lb/>
+Northwesterly direction through the hospital grounds, made the far<lb/>
+side of this excavation an excellent place for isolating and treating<lb/>
+yellow fever cases. It was used for that purpose during all the time<lb/>
+I was there. Dr. Hench has very exactly shown this location on the<lb/>
+maps and in other data he has presented. Major J. R. Kean, Dr.<lb/>
+Carroll and many others were treated there. Dr. Jesse W. Lazear<lb/>
+died there.</p>
+<p>Above correction<lb/>
+made by Gen Truby<lb/>
+in his letter.</p>
+<pb n="69" id="f03901078"/>
+<p>2.<lb/>
+<date value="1941-03-06">3/6/41</date>
+His Excellency Dr Domingo Ramos.</p>
+<p>It gives me much pleasure therefore to give you,<lb/>
+for the information of the Cuban Government, the facts regarding<lb/>
+this matter. I am also pleased to help Dr. Hench in his worthy<lb/>
+efforts to assist you in establishing a fitting memorial to the<lb/>
+great men whose discoveries did so much for Cuba and the rest of<lb/>
+the world. If I can be of further assistance in any way, I am<lb/>
+at your service.</p>
+<p>Very respectfully,<lb/>
+ALBERT E. TRUBY<lb/>
+Brigadier General, U. S. Army (Medical Corps)<lb/>
+Retired</p>
+<p>AET:OH</p>
+<pb n="70" id="f03901079"/>
+<p>COMMONWEALTH OF VIRGINIA<lb/>
+STATE DEPARTMENT OF HEALTH<lb/>
+LEXINGTON-ROCKBRIDGE HEALTH DEPARTMENT<lb/>
+LEXINGTON, VIRGINIA<lb/>
+<date value="1941-03-18">March 18th, 1941</date>
+To His Excellency Dr. Domingo Romos<lb/>
+Minister of National Defense<lb/>
+Government of Cuba<lb/>
+Havana, Cuba<lb/>
+Thru.-Dr. Philip S. Hench</p>
+<p>After a careful perusal of the Documentary summary<lb/>
+prepared by Dr. Philip S. Hench in regard to the historical<lb/>
+sites of Camp Lazear and the Yellow Fever hospital. I am<lb/>
+convinced that the facts are essentially correct and that<lb/>
+arguments worked out in support of these facts are most con-<lb/>
+clusive. At the time of these experiments I was serving at<lb/>
+Columbia Barracks as Acting Asst. Surgeon, U.S. Army and was<lb/>
+permitted to take a small part in bringing out the facts<lb/>
+relating to the non infectiousness of fomites.</p>
+<p>The probability that the site will be preserved as a<lb/>
+fitting memorial to the conquest of yellow fever by Finlay,<lb/>
+and by Reed and his colleagues, who are among the world's<lb/>
+greatest benefactors, will I am sure, be a source of real<lb/>
+satisfaction and a sympathetic bond of union between our<lb/>
+governments.</p>
+<p>Very respectfully,<lb/>
+Robert P. Cooke</p>
+</div1>
+</body>
+</text>
+</TEI.2>

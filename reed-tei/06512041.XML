@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06512041">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Memoir: L. S. Reed, by T. McN. Simpson, [n.d.]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Simpson, T. McN.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06512041</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>0000-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion">YES</term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Thomas Walk</name>
+<name type="person">Reed, Pharaba W.</name>
+<name type="person">Keesee, Gervas M.</name>
+<name type="person">Crowder, Thomas A.</name>
+<name type="person">Reed, Mary</name>
+<name type="person">Blincoe, Laura Reed</name>
+<name type="person">Reed, James C.</name>
+<name type="person">Reed, Christopher</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Reed, Annie</name>
+<name type="person">Cannon, James, Jr.</name>
+<name type="person">Reed, Lemuel S.</name>
+<name type="person">Gayle, R.F.</name>
+<name type="person">Compton, R.A.</name>
+<name type="person">Grant, W.E.</name>
+<name type="place">Durant's Neck (Perquimans County, N.C.)</name>
+<name type="place">Farmville (Va.)</name>
+<name type="place">Currituck Mission (N.C.)</name>
+<name type="place">Gloucester County (Va.)</name>
+<name type="place">Princess Anne County (Va.)</name>
+<name type="place">Nottoway County (Va.)</name>
+<name type="place">Gates (N.C.)</name>
+<name type="place">Murfreesboro (N.C.)</name>
+<name type="place">Prince Edward County (Va.)</name>
+<name type="place">Bedford County (Va.)</name>
+<name type="place">Brunswick County (Va.)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Norfolk (Va.)</name>
+<name type="place">Amherst (Va.)</name>
+<name type="place">Henrico County (Va.)</name>
+<name type="place">Cumberland County (Va.)</name>
+<name type="place">Charlottesville (Va.)</name>
+<name type="place">Danville (Va.)</name>
+<name type="place">Petersburg (Va.)</name>
+<name type="place">Harrisonburg (Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="0000-00-00"></date>
+<idno rend="suppress">06512041</idno>
+<title>Memoir: L. S. Reed, by T. McN. Simpson, [n.d.]</title>
+</bibl>
+</head>
+<p>Simpson summarizes the life of Lemuel S. Reed, as he knew him through religious work, and gives an account of his death and funeral. Simpson conducted the funeral service.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="0000-00-00">
+<head>Memoir: L. S. Reed, by T. McN. Simpson, [n.d.]</head>
+<pb n="1" id="f06512041"/>
+<p>from Mr R M White<lb/>
+Washington St Meth Ch<lb/>
+Petersburg, Va</p>
+<p><hi>MEMOIR</hi></p>
+<p>REV. L. S. REED<lb/>
+by<lb/>
+T. McN. Simpson</p>
+<p>Rev. Lemuel Sutton Reed was one of North Carolina's sterling sons,<lb/>
+and one of nature's noblemen. To me, he was a father in Israel, and a<lb/>
+friend indeed. Upon his knees, in the little country school of their<lb/>
+neighborhood, my mother learned her A B C's; and upon his counsel and<lb/>
+support, I took my first steps in the itinerant ministry. He presided<lb/>
+at the Quarterly Conference that licensed me to preach, and recommended<lb/>
+me to the Annual Conference; he gave me work on his district, encour-<lb/>
+aged my discontinuance to pursue a course at Randolph-Macon College,<lb/>
+received me again into his district, and continued to the hour of his<lb/>
+death my faithful friend and affectionate adviser. Upon his newly<lb/>
+made grave I would place today the sweetest flower in the garden of<lb/>
+my heart; and to his memory, I would give the tenderest tribute of<lb/>
+my love.</p>
+<p>Brother Reed was born in Durant's Neck, Perquimans County, N.C.,<lb/>
+May 5th, 1819, and died in Farmville, Prince Edward Co. Va. December 18th,<lb/>
+1897. Between those dates, embracing nearly four-score years, he<lb/>
+fought the good fight of faith, and he kept the faith. His early years<lb/>
+were largely spent in school work, first as a pupil, then as a teacher;<lb/>
+but his advantages were limited to the facilities of his own and an<lb/>
+adjoining county, and he never had the privilege of a college course.<lb/>
+He was, however, a thoughtful observer and a careful student of men<lb/>
+and books; and being naturally well endowed, mentally, morally and<lb/>
+physically, he acquired a competent furnishing, and he showed himself<lb/>
+a workman that needed not to be ashamed. Having been religiously<lb/>
+trained by his parents, Thomas Walke and Elizabeth Reed, he publicly<lb/>
+professed saving faith in Christ August 13, 1838, at Oak Grove Church,<lb/>
+in his native county, under the ministry of the Rev. Gervas M. Keesee,<lb/>
+and joined the Methodist Episcopal Church. On Oct. 16, 1846, under a<lb/>
+conviction of a divine call to the work, he applied for and obtained<lb/>
+license to preach from the Quarterly Conference of the Pasquotank<lb/>
+Cirvuit, to which he had moved after his marriage in 1839; and in<lb/>
+Nov. 1848, at the session of his Annual Conference in Elizabeth City, N.C.,<lb/>
+he applied for admission on trial, into the traveling connection; but<lb/>
+being pale and thin from recent sickness, and being opposed by a lead-<lb/>
+ing member on the ground that he would soon be in his grave, and his<lb/>
+dependent family a care upon the Church, he was rejected. Disappointed,<lb/>
+but not disheartened, he accepted his defeat as a providential indication<lb/>
+that his call was simply to the local ranks, and he set himself anew to<lb/>
+the tasks of the school room. His Presiding Elder, however, Rev. Thos.<lb/>
+A Crowder, dissatisfied with the unfavorable action of the Conference,<lb/>
+advised a renewal of his application; and being improved in health, he<lb/>
+stoos again at the door of his Conference in Nov. 1849, at Petersburg, Va.<lb/>
+was admitted without a dissenting vote. His former opponent giving him<lb/>
+his support, and continuing ever his steadfast friend. In 1851 he was<lb/>
+ordained a deacon by Bishop Andrew, and in 1853, an elder by Bishop Paine.<lb/>
+Through fifty-one years he bore the title and adorned the office of a<lb/>
+Methodist preacher; and for more than forty of these he went in and out<lb/>
+among us an active, effective itinerant, observing the injunction:<lb/>
+Watch thou in all things; endure afflictions; do the work of an evan-<lb/>
+gelist; make full proof of thy ministry. &ldquo;Every part of our territory has<lb/>
+praise for him in its gates; and every kind of our regular work -<lb/>
+missions, circuits, districts - bear witness to his faithful, practical<lb/>
+hand.</p>
+<pb n="2" id="f06512042"/>
+<p>- 2 -</p>
+<p>Currituck Mission, Gloucester, Princess Anne, Gates, N.C. Murfrees-<lb/>
+boro, N.C., Prince Edward (twice), Bedford, Nottoway, Brunswick, East<lb/>
+Rockingham of the Baltimore Conference - where he spent the year 1870<lb/>
+to be near an aged relative - Amherst, Henrico, and Cumberland Circuits,<lb/>
+and Charlottesville, Murfreesboro, Norfolk, Danville Farmville and<lb/>
+Petersburg Districts were the fields of his labors, the scenes of his<lb/>
+toils and triumphs. Three times he was elected by his brethren as a<lb/>
+delegate, and once as an alternate, to the General Conference of his<lb/>
+Church, and he represented them through the sessions of 1866, 1874,<lb/>
+and 1878, and during a part of the session of 1886, when Dr. Bennett<lb/>
+became too feeble to attend. He was married twice - first to<lb/>
+Miss Pharaba White, of Pasquotank Co. N.C., Feb. - 1839, then on<lb/>
+Dec. 11, 1866 to Mrs. Mary C. Kyle, of Harrisonburg, Va., who survives<lb/>
+him. Both were helpmeets indeed, and blessed the hearts and brightened<lb/>
+the home to which they gave themselves. Six children live and &ldquo;rise<lb/>
+up to call him blessed&rdquo; - Mrs. J. W. Blincoe, Ashland, Va., Rev. J. C.<lb/>
+Reed, Virginia Conference, Judge Christopher Reed, St. Louis, Mo.,<lb/>
+Mt. Thomas Reed, Kansas, Dr. Walter Reed, Georgetown, D.C., and<lb/>
+Mrs. D. T. Elam, Farmville, Va. (the only child by his second marriage,<lb/>
+and the one at whose home he breathed his last. The domestic relations<lb/>
+of Bro. Reed were most charmingly tender and sweet. He was revered as<lb/>
+the worthy head of his family, and enjoyed as the cordial companion of<lb/>
+its members. His children were the pride and joy of his heart, and he<lb/>
+was their friend and associate. Few men have succeeded better in com-<lb/>
+manding their households after them, and few have left more creditable<lb/>
+representatives of their names. His home was ever the sphere of<lb/>
+bright and happy fellowship, and the scene of generous and unaffected<lb/>
+hospitality. His door never closed against &ldquo;an angel unawares&rdquo;, and his<lb/>
+beds and his board were never more enjoyed than when shared by his<lb/>
+friends. His conversation was free and easy and instructive. He never<lb/>
+lowered the standard of true ministerial dignity; yet he never re-<lb/>
+dtrained nor repressed &ldquo;the feast of reason and flow of soul.&rdquo;<lb/>
+&ldquo;His speech was always with grace, seasoned with salt.&rdquo; In the councils<lb/>
+of his church and the advisory boards of his community he was esteemed<lb/>
+for his strong common sense, and for his fine practical wisdom. He was<lb/>
+gifted with unusual powers of penetration and discrimination, and his<lb/>
+knowledge of men and measures was exceedingly accurate. Bishops availed<lb/>
+themselves of his counsels and young men sought and followed his advice.</p>
+<p>In manner Bro. Reed was frank, candid, transparent. You knew where<lb/>
+he stood on all important questions, and which side he espoused in all<lb/>
+serious controversies. He made no concealments, practiced no diplomacy,<lb/>
+but exercised himself to have a conscience void of offense. His convic-<lb/>
+tions were always positive and his methods straightforward; but his<lb/>
+spirit was kind and considerate. He was a scion of English stock, and<lb/>
+his build and his bearing were those of the sturdy Briton.</p>
+<p>In the pulpit he was grave, deliberate and impressive. His sermons<lb/>
+gave evidence of patient study and careful preparation. He avoided all<lb/>
+ostentation and devoted himself to a plain exposition of the Word, and a<lb/>
+practical application of the truth. souls were nourished by his ministry,<lb/>
+consciences were quickened, sinners were saved and saints built up in<lb/>
+their most holy faith.</p>
+<p>At the session of his Conference in Danville, Va., November 1893,<lb/>
+he felt that perhaps the time had come for him to lay down the work of<lb/>
+a regular itinerant preacher, and to seek the relation of a superannuate.<lb/>
+But he was reluctant to give up his &ldquo;loved employ,&rdquo; and enter a relation<lb/>
+in which he had been restless in 1891; after consultation, however,<lb/>
+with his son in the conference, he asked to be retired, and he never<lb/>
+<pb n="3" id="f06512043"/>
+- 3 -<lb/>
+had the privilege of assembling again with the brethren that he had<lb/>
+loved so long and served with so faithfully. His Conference was to him<lb/>
+as the apple of his eye. As the time for its annual session drew near,<lb/>
+he would catch the spirit of its sacred reunions, as the war-horse sniffs<lb/>
+the battle afar off, and he would plan and prepare to attend, with the<lb/>
+enthusiasm of a school boy anticipating a return to his home. It was<lb/>
+positively pathetic at times to see his strong, hopeful spirit attempt<lb/>
+to assert itself over his weak and diseased body, and determine to drag<lb/>
+its weary weight, at any cost, to the place of his brethren's assembling.<lb/>
+But, as the date arrived, and he saw and felt that he could not go, he<lb/>
+would meekly and uncomplainingly submit, and say: &ldquo;Tell the brethren I<lb/>
+would be with them if I could. My heart is with them, but I am too<lb/>
+feeble to leave home.&rdquo; As the last session of our Conference approached,<lb/>
+he charged me with a message of love to the brethren, and said: &ldquo;You can<lb/>
+say that though I am a great sufferer, I am happy in the love of God, and<lb/>
+in the sense of his favor.&rdquo; Often, as his paroxysms of pain would subside,<lb/>
+he would quote: &ldquo;I reckon that the sufferings of this present time are not<lb/>
+worthy to be compared with the glory that shall be revealed in us;&rdquo; and he<lb/>
+would rest in hope. The walk that he had through the valley of the<lb/>
+shadow of death was a long and weary one. Shortly after his superannuation<lb/>
+he began to break down in health, showing signs of a serious heart dis-<lb/>
+turbance. But his robust frame and vigorous constitution enabled him to<lb/>
+keep at bay the last enemy through many months, and to take some part in<lb/>
+the Church services at which he worshiped. He was the steadfast friend<lb/>
+and hearty supporter of the pastor, and he never allowed his seat in the<lb/>
+sanctuary to be vacant if he was able to fill it. <unclear>Frewuently</unclear>, in feeble-<lb/>
+ness extreme, he was at the place of prayer, and his means were as gen-<lb/>
+erously offered as himself for the kingdom and the glory of Christ.<lb/>
+A more liberal, regular and conscientious contributor to the Church, we<lb/>
+had not among us, and no more fair, and just and high-toned man. He was<lb/>
+the very soul of honor, and his name was a synonym for integrity and<lb/>
+uprightness, fair dealing and manly bearing. His word was as good as<lb/>
+his bond. Soon after the close of our last Conference session, he began<lb/>
+to decline very rapidly - more rapidly than some of us knew; but he was<lb/>
+not unaware of his progress, and he carefully set his house in order,<lb/>
+giving direction concerning the smallest details of his affairs; then<lb/>
+calmly and confidently awaited the issue, knowing that his calling and<lb/>
+election had been made sure, and &ldquo;that if our earthly house of this<lb/>
+tabernacle were dissolved, we have a building od God, an house not made<lb/>
+with hands, eternal in the heavens.&rdquo; On Friday, the day before his de-<lb/>
+parture, he asked two or three times if he were not dying; being assured<lb/>
+that he was not, he said the end was not far off; and on Saturday morn-<lb/>
+ing, Dec. 18, 1897, as the morning light was breaking, and the dawn of a<lb/>
+new day was driving back the darkness of the night, his released spirit<lb/>
+caught the wings of the morning of eternal day, and his shadowed eyes<lb/>
+opened to the beauties and glories of a never darkening world. All his<lb/>
+children, except those in distant states, and all the members of his<lb/>
+household, and his pastor, were with him as he desired that they should be,<lb/>
+when he left the circle of earthly friends and loved ones, to join the<lb/>
+company of those who had gone before. On Monday afternoon, Dec. 20, 1897,<lb/>
+at the Methodist Church in Farmville, Va. the solemn service for the dead<lb/>
+was conducted by the writer, assisted by Revs. Jas. Cannon, Jr., R.F. Gayle,<lb/>
+R. A. Compton and W. E. Grant. Each of whom paid touching tribute to his<lb/>
+memory and all that was mortal of Rev. L. S. Reed was laid to rest in the<lb/>
+quiet cemetery of the town.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

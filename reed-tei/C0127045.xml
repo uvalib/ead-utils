@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0127045">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Edward Champe Carter to Laura Armistead Carter, August 30, 1911 [Enclosed in C0127043]</title>
+<title type="gmd">[electronic resource] </title>
+<author>Carter, Edward Champe</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0127045</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1911-08-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Laura Armistead</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Miller, [s.n.]</name>
+<name type="person">Liberartz, [s.n.]</name>
+<name type="person">Fox, [s.n.]</name>
+<name type="person">Mayor, [s.n.]</name>
+<name type="place">Louisville (Ky.)</name>
+<name type="hospital">N. J. Marine Hospital</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1911-08-30">August 30, 1911</date>
+<idno rend="suppress">C0127045</idno>
+<title>Letter from Edward Champe Carter to Laura Armistead Carter, August 30, 1911 [Enclosed in C0127043]</title>
+</bibl>
+</head>
+<p>Carter expresses his relief upon graduation and receiving letters of recommendation.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1911-08-30">
+<head>Letter from Edward Champe Carter to Laura Armistead Carter, August 30, 1911 [Enclosed in <xref id="C0127043">C0127043</xref>]</head>
+<pb n="1" id="fC0127045"/>
+<opener>
+<dateline>
+N. J. Marine Hospital,<lb/>
+Louisville, Ky. <date value="1911-08-30">Aug. 30, 1911.</date><lb/>
+Wednesday.<lb/>
+</dateline><lb/>
+<salute>My Dear &ldquo;Babbie&rdquo;</salute>
+</opener>
+<p>I am through! Today<lb/>
+I got my &ldquo;certificate of graduation to<lb/>
+be exact, and besides that there<lb/>
+dandy letters of recommendation,<lb/>
+from Mr. Miller, Mr. Liberartz<lb/>
+and Miss Fox. Mr. Mayor will<lb/>
+give me his tomorrow. I will keep<lb/>
+on at the school to the end of the<lb/>
+week, I am paid up thru Jan, and<lb/>
+will then stop and help to pack.</p>
+<p>You see I will stay at N.R.<lb/>
+for a month or six weeks and then<lb/>
+if Dad can get me a &ldquo;job&rdquo; in <unclear>Humer-</unclear><lb/>
+<unclear>enler,</unclear> I will join you folks - and he<lb/>
+thinks he can. all <unclear>used</unclear> love.</p>
+<closer>
+<salute>Affectionately Your Brother,</salute>
+<signed><hi rend="underline">Edward Champe Carter</hi></signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

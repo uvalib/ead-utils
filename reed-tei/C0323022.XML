@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0323022">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Joseph A. LePrince to Laura Armistead Carter, August 27, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>LePrince, Joseph A.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0323022</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-08-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Laura Armistead</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Orenstein, A. J.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Taylor, Dr.</name>
+<name type="person">Barber, M. A.</name>
+<name type="person">Ferguson, [s.n.]</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Memphis (Tenn.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Las Cruces (N.M.)</name>
+<name type="place">Carbondale (Ill.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1928-08-27">August 27, 1928</date>
+<idno rend="suppress">C0323022</idno>
+<title>Letter from Joseph A. LePrince to Laura Armistead Carter, August 27, 1928</title>
+</bibl>
+</head>
+<p>LePrince responds to Carter's request for verification of various references.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1928-08-27">
+<head>Letter from Joseph A. LePrince to Laura Armistead Carter, August 27, 1928</head>
+<pb n="1" id="fC0323022"/>
+<opener>
+Book,<lb/>
+Bib.<lb/>
+LePrince<lb/>
+OFFICE OF<lb/>
+MALARIA INVESTIGATIONS<lb/>
+ROOM 118, COURTHOUSE<lb/>
+TREASURY DEPARTMENT<lb/>
+UNITED STATES<lb/>
+PUBLIC HEALTH SERVICE<lb/>
+MEMPHIS, TENN.<lb/>
+<dateline>
+<date value="1928-08-27">August 27, 1928.</date>
+</dateline><lb/>
+Miss Laura Carter,<lb/>
+The Westmoreland,<lb/>
+2122 California Street, N. W.,<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Miss Carter:</salute>
+</opener>
+<p>I have just received your<lb/>
+letter of enquiry and wish I could be of more use<lb/>
+to you but I have very little knowledge of the infor-<lb/>
+mation requested.</p>
+<p>With regard to larvae of Aedes<lb/>
+aegypti in street gutters you will find the following<lb/>
+in &ldquo;Mosquito Control in Panama,&rdquo; by J. A. LePrince and<lb/>
+A. J. Orenstein, G. P. Putnams Sons, New York, 1916.</p>
+<p>Page 55. &ldquo;If containers are upset or their contents<lb/>
+enter into a pond or ditch, the larvae of<lb/>
+Aedes calopus will develop to maturity<unclear><del>.</del><add>;</add>&rdquo; <add>O.K</add></unclear></p>
+<p>And on Page 240. &ldquo;As a matter of fact, we occasionally<lb/>
+<del>found</del><add>&ldquo;find&rdquo;</add> a few larvae in streams and ditches, <add>O.K</add><lb/>
+but it was not known at that time that they<lb/>
+had been washed out of containers.&rdquo;<lb/>
+<unclear><add>book says:- tho &ldquo;found&rdquo; is better L.A.C.</add></unclear></p>
+<p>With regard to Dr. Finlay's<lb/>
+data and that of Taylor, possibly Dr. Aristides Agramonte,<lb/>
+142-148 Calle K, Vedado, Havana, Cuba, may be able to<lb/>
+give you the data you wish.</p>
+<p>Dr. M. A. Barber's present<lb/>
+address is % Dr. C. W. Gerber, Las Cruces, New Mexico.</p>
+<p>I am sorry I can not tell you<lb/>
+where the report of the breeding of Aedes aegypti in<lb/>
+winter was published, but it took place at Carbondale,<lb/>
+Illinois, at the hotel opposite the Illinois Central Rail-<lb/>
+way Depot and Mr. Ferguson, State Sanitary Engineer of<lb/>
+<pb n="2" id="fC0323023"/>
+-2-<lb/>
+Illinois was the person bitten. It was about 1922. I<lb/>
+was with him at the time and I got the second one that<lb/>
+went for him.</p>
+<p>With regard to Sir. Rubert W.<lb/>
+Boyce, in his book &ldquo;Yellow Fever and Its Prevention&rdquo;<lb/>
+published by E. P. Dutton and Company, New York, 1911, <unclear><add>&check;?&sol;&sol;G</add></unclear><lb/>
+on Page 275 it is stated with regard to stegomyia:<lb/>
+&ldquo;When once the mosquito is infected, all evidence points<lb/>
+to the fact that it retains the infection for a long<lb/>
+period; three months have been noted, but it is quite<lb/>
+possible that the infection lasts as long as the life<lb/>
+of the mosquito, etc.&rdquo;</p>
+<p>I can not state that the above<lb/>
+extracts are those which are specifically referred to,<lb/>
+but they are pretty close.</p>
+<p>It may be that I referred to<lb/>
+the Havana work in some discussions at the Southern<lb/>
+Medical Association, but I do not remember.</p>
+<closer>
+<salute>With best wishes,<lb/>
+Sincerely yours,</salute>
+<signed>J. A. LePrince</signed>
+J. A. LePrince.<lb/>
+LeP:LC<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

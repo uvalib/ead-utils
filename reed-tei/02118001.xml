@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02118001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Article: Liverpool School of Tropical Medicine: Yellow Fever Expedition, by Herbert E. Durham and Walter Myers, September 8, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Durham, Herbert E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02118001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-09-08</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Durham, Herbert E.</name>
+<name type="person">Myers, Walter</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1900-09-08">September 8, 1900</date>
+<idno rend="suppress">02118001</idno>
+<title>Article: Liverpool School of Tropical Medicine: Yellow Fever Expedition, by Herbert E. Durham and Walter Myers, September 8, 1900</title>
+</bibl>
+</head>
+<p>Durham and Myers discuss the investigation of yellow fever by the American commission in Cuba and the perplexing nature of the disease.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-09-08">
+<head>Article: Liverpool School of Tropical Medicine: Yellow Fever Expedition, by Herbert E. Durham and Walter Myers, September 8, 1900</head>
+<pb n="1" id="f02118001"/>
+<p>656<lb/>
+THE BRITISH]<lb/>
+MEDICAL JOURNAL]</p>
+<p>LIVERPOOL YELLOW FEVER EXPEDITION.</p>
+<p><unclear>Bran</unclear></p>
+<p>[SEPT. 8, 1900.</p>
+<p>LIVERPOOL SCHOOL OF TROPICAL MEDICINE:<lb/>
+YELLOW FEVER EXPEDITION.</p>
+<p>SOME PRELIMINARY NOTES<lb/>
+BY<lb/>
+HERBERT E. DURHAM and WALTER MYERS,<lb/>
+F.R.C.S. M.B., B.C. Camb.</p>
+<p>----</p>
+<p>NOTWITHSTANDING the acumen and the number of those who<lb/>
+have attacked the question of the prevalence of yellow<lb/>
+fever, much mystery and uncertainty still enshroud the<lb/>
+epidemiology of the disease. The etiology, also, is not yet<lb/>
+determined with certainty; the claim of Sanarelli that his so-<lb/>
+called &ldquo;bacillus icteroides&rdquo; is the true cause of yellow fever<lb/>
+has not found favour with several workers who have made<lb/>
+search in this direction. By the kind invitation of<lb/>
+Dr. Sternberg, Surgeon-General of the U.S. Army, we had the<lb/>
+opportunity of conferring with the commission (Drs. Reed,<lb/>
+Carroll and Lazear) appointed by him to study the question in<lb/>
+Cuba. We may here express our gratitude to these gentlemen<lb/>
+for the most kind and courteous reception that they extended<lb/>
+towards us, as well as to Major Gorgas (U.S. Army), the head<lb/>
+of the bureau of inspection of infectious diseases in the city of<lb/>
+Havana. We also had the pleasure and advantage of<lb/>
+meeting Dr. Carter (of the U.S. Maine Hospital Service).<lb/>
+Dr. Guiteras (now Professor in the Havana School of<lb/>
+Tropical Diseases), Dr. Finlay, and Drs. Bango and Martinez<lb/>
+(practitioners in the city.)</p>
+<p>Amongst the many conflicting opinions and statements<lb/>
+concerning the disease it appears certain that neither the<lb/>
+handling of or contact with yellow fever patients nor the per-<lb/>
+formance of necropsies is capable <hi rend="italic">per se</hi> of conveying the disease<lb/>
+to non-immunes. It also appears probable that general ship's<lb/>
+cargoes and the fomites of patients are also not directly<lb/>
+infective; here, however, the evidence is not conclusive, and<lb/>
+the present quarantine regulations require disinfection of all<lb/>
+clothes and personal effects before they may be introduced<lb/>
+into the United States.</p>
+<p>It seems to be fairly definitely established that a yellow-<lb/>
+fever patient may become a danger by &ldquo;infecting the house&rdquo;<lb/>
+in which he is placed. Given that a house is &ldquo;infected,&rdquo; a<lb/>
+visit by a non-immune person entails considerable risk of<lb/>
+contracting the malady. It is alleged by some that visits<lb/>
+made at night are more dangerous than those made during<lb/>
+the daytime; but here the evidence is not very clear, and is<lb/>
+more of the nature of an opinion. The nature of the essen-<lb/>
+tial factor present in an &ldquo;infected house&rdquo; is as yet mys-<lb/>
+terious. One house after another in a street may become<lb/>
+&ldquo;infected&rdquo; without any apparent intercommunication of the<lb/>
+inmates; the infection may skip over one or more houses and<lb/>
+reappear at some distance. There are those who are bold<lb/>
+enough to predict in a village that such and such a house will<lb/>
+yield one or more cases of the fever on or about a certain day;<lb/>
+and naturally they claim to be true prophets.</p>
+<p>Of the interesting and important facts which have been<lb/>
+ascertained, those elucidated by Dr. Carter in his study of<lb/>
+outbreaks at Orwood and Taylor (Miss) in 1898 are second to<lb/>
+none.<hi rend="superscript">1</hi> The conditions were such that the intervals between<lb/>
+the introduction of &ldquo;infecting&rdquo; cases and the onset of<lb/>
+secondary cases could be followed with accuracy. Dr. Carter<lb/>
+finds that an interval of about fourteen to twenty-one days<lb/>
+obtains before the first secondary cases occur. The house is<lb/>
+then in an &ldquo;infected&rdquo; condition, and exposure for a few<lb/>
+hours (for example, in one case four hours and a half) can lead<lb/>
+to infection, with the incubation interval up to the normal<lb/>
+four or five days. This was exemplified to us by the history of<lb/>
+a case at Quemados, for which we are indebted to Dr. Reed.<lb/>
+In a house which had been occupied by non-immune officers<lb/>
+all last year, two cases of yellow fever occurred this summer; one<lb/>
+of these was unfortunately fatal. However, a male and<lb/>
+a female nurse who had been occupied in tending the<lb/>
+patients did not acquire the disease until about a fortnight<lb/>
+after the death occurred. Other sources of infection could be<lb/>
+excluded in these cases. No further cases occurred, as the<lb/>
+house was cleared and liberally treated with perchloride.<lb/>
+The slight epidemic, however, spread to other houses down<lb/>
+the street, although they were detached and surrounded by a<lb/>
+small amount of garden space.</p>
+<p>This curious and somewhat prolonged interval is suggestive<lb/>
+of a development of the infecting factor in or about some<lb/>
+agent or matter in the domicile. What may be the nature of<lb/>
+this supposed agent is not yet demonstrated, but the sugges-<lb/>
+tion propounded by Dr. C. Finlay, of Havana, some twenty<lb/>
+years ago, that the disease was spread by means of mosquitos<lb/>
+hardly appears so fanciful in the light of recent discoveries in<lb/>
+ague convection as appeared in the days when the idea was<lb/>
+first broached. Dr. Finlay's hypothesis is able to account for<lb/>
+several curious points which obtain with yellow fever. Thus<lb/>
+the limitation of the disease to the &ldquo;yellow fever zone,&rdquo; where<lb/>
+frost is unknown, the coincidence of yellow fever and rainy<lb/>
+seasons, the cessation of the disease when the temperature<lb/>
+falls below a certain point, and its non-recrudescence in an<lb/>
+infected locality after a frost, are all compatible with an<lb/>
+agency, such as a gnat, which becomes too sluggish to bite, or<lb/>
+indeed which dies out in unfavourable climatic conditions.<lb/>
+Such a theory also explains the curious spread of the disease<lb/>
+from house to house, which has already been referred to.<lb/>
+Another point is that the sanitary condition of a house may<lb/>
+be good, and yet it may be severely &ldquo;infected.&rdquo; An example<lb/>
+of this was shown by the case of one of the leading hotels in<lb/>
+Havana, of good sanitary repute, but the source of many<lb/>
+fever cases this summer. The above sketch will suffice<lb/>
+to show that some means of transmission by the aid of an<lb/>
+intermediate host--a town-loving host for this town-loving<lb/>
+disease--is to some extent more plausible than might be<lb/>
+anticipated. Whether that hypothetical host is of the nature<lb/>
+of a gnat remains unknown.</p>
+<p>It is commonly stated that one attack of the fever confers a<lb/>
+long and lasting immunity against further attacks. The com-<lb/>
+pleteness of this immunity, however, is called in question by<lb/>
+the cases which we had the opportunity of seeing. Thus out<lb/>
+of the two or three dozen cases we saw, no fewer than four<lb/>
+were reputed to have had previous attacks; the previous<lb/>
+attacks were not believed in as genuine yellow fever by those<lb/>
+physicians who accept a rigid immunity as the fact. A few<lb/>
+words may be said of one of these cases as illustrative <unclear>of</unclear><lb/>
+several points.</p>
+<p>A lady had an attack of yellow fever in New Orleans, at the age of 19. <unclear>in</unclear><lb/>
+1866; her account of the symptoms she experienced, and the fact that <unclear>his</unclear><lb/>
+sister had a &ldquo;typical&rdquo; attack at the same time tend to the conclusion<lb/>
+that the illness was indeed yellow fever. Last year she was occupied <unclear>a</unclear><lb/>
+an &ldquo;immune&rdquo; in nursing yellow fever cases in Cuba during July and<lb/>
+August, and then remained in the outskirts of Havana (Cerro) for <unclear>the</unclear><lb/>
+winter and spring. This summer she went to live in an insanitary <unclear>house</unclear><lb/>
+close to the hotel we have already alluded to as an infected house<lb/>
+situated in an &ldquo;infected&rdquo; neighbourhood. She soon contracted an <unclear>illue</unclear><lb/>
+of the nature of which there could be no doubt--a severe and <unclear>prolonge</unclear><lb/>
+attack of yellow fever.</p>
+<p>But our knowledge of infectious diseases all goes to <unclear>show</unclear><lb/>
+that a complete and absolute immunity is never acquired <unclear>be</unclear><lb/>
+a single attack, though second attacks are usually of a <unclear>com</unclear><lb/>
+paratively mild, or at any rate recoverable, type.</p>
+<p>The coloured people and natives are also supposed to <unclear>escape</unclear><lb/>
+the disease, but we are informed that this is a statement<lb/>
+which is not true, although so frequently repeated in <unclear>text</unclear><lb/>
+books. We were lucky enough to see one negro during <unclear>the</unclear><lb/>
+course of a typical attack. The Cubans and the <unclear>Cuban</unclear><lb/>
+doctors are in the habit of asserting that the Cuban <unclear>system</unclear><lb/>
+is not capable of having yellow fever. It appears, however<lb/>
+that they are not unknown to suffer from a disease <unclear>call</unclear><lb/>
+&ldquo;borras.&rdquo; Clinically &ldquo;borras&rdquo; is like yellow fever--some-<lb/>
+times with black vomit and death with suppression of <unclear>urin</unclear><lb/>
+pathologically the lesions of yellow fever are said to be <unclear>prese</unclear><lb/>
+in fatal cases. The Cubans also suffer and die from <unclear>&ldquo;p</unclear><lb/>
+nicious malarial fever,&rdquo; the symptomatology and <unclear>pathological</unclear><lb/>
+anatomy of which are very suggestive of yellow fever. <unclear>[unclear]</unclear><lb/>
+were informed that the Cuban children frequently suffer from<lb/>
+mild attacks of fever, which our informants believe are <unclear>rea</unclear><lb/>
+mild attacks of yellow fever, and which give a <unclear>comparat</unclear><lb/>
+immunity in after-life.</p>
+<p>It has already been mentioned that a sojourn of a <unclear>non-immu</unclear><lb/>
+<pb n="2" id="f02118002"/>
+SEPT. 8, 1900.]<lb/>
+AMPUTATION AT HIP-JOINT FOR GUNSHOT.<lb/>
+[THE BRITISH<lb/>
+MEDICAL JOURNAL<lb/>
+657<lb/>
+for some hours in an infected house is very liable to lead to<lb/>
+an attack; and that this is supposed to be especially the case<lb/>
+at night. Since many of the cases we saw were soldiers, their<lb/>
+movements could be traced to some extent, and in more than<lb/>
+one instance there was evidence of a single exposure after<lb/>
+breaking bounds for a single night. Similar experiences are<lb/>
+told of ship's crews under similar circumstances; another<lb/>
+example is to be found in the case of ICO American military<lb/>
+prisoners who were confined in a barrack in which there had<lb/>
+been several hundred deaths through yellow fever during the<lb/>
+previous year of Spanish occupation; none of these prisoners<lb/>
+acquired the disease, but some 25 of their custodians fell ill or<lb/>
+died of the fever.</p>
+<p>Through the courtesy of Major Gorgas we were enabled to<lb/>
+see the distribution of the fatal cases of yellow fever in the<lb/>
+city for the past ten years. In these it was rather striking<lb/>
+that the more disreputable quarters of the town were free from<lb/>
+deaths from this cause. Immigrant women are few, and pre-<lb/>
+sumably the inhabitants are all &ldquo;immunes;&rdquo; still it is not<lb/>
+improbable that the infective agent is harboured amongst<lb/>
+them.</p>
+<p>These few notes on some epidemiological points are sub-<lb/>
+mitted in the hope that they may be of some interest to stu-<lb/>
+dents of the perplexing questions and of the unravelled<lb/>
+natural history of yellow fever.</p>
+<p>REFERENCE.<lb/>
+<hi rend="superscript">1</hi><hi rend="italic">New Orlcans Medical and Surgical Journal</hi>, May, 1900.</p>
+<p>==========</p>
+</div1>
+</body>
+</text>
+</TEI.2>

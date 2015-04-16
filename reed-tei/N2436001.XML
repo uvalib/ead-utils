@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY N2436001 SYSTEM "N2436001.jpg" NDATA jpg>]>
+<TEI.2 id="N2436001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Newspaper clipping, La Discusion, February 8, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N2436001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-02-08</date></creation>
+<langUsage><language id="spa">Spanish</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1901-02-08">February 8, 1901</date>
+<idno rend="suppress">N2436001</idno>
+<title>Newspaper clipping, La Discusion, February 8, 1901</title>
+</bibl>
+</head>
+<p>Vivimos de Milagro; La Habana-Intervenida-en 1901</p>
+</div1>
+</front>
+<body>
+<div1 type="newspaper clipping" n="1901-02-08">
+<head>Newspaper clipping, La Discusion, February 8, 1901</head>
+<pb n="1" id="fN2436001"/>
+<p>Feb 8, 1901</p>
+<p>LA DISCUSION</p>
+<p>DIARIO CUBANO PARA EL PUEBLO CUBANO</p>
+<p>============================================================</p>
+<p>HABANA, VlERNES 8 DE FEBRERO DE 1901.--OCHO PAGINAS.--TIRADA ANTERIOR: 19,707 ejemplares</p>
+<p>============================================================</p>
+<p>VIVIMOS DE MILAGRO<lb/>
+LA HABANA-INTERVENIDA-EN 1901</p>
+<p><figure entity="N2436001"></figure> Cat&aacute;strofe.</p>
+<p>-----</p>
+<p><unclear>Inflamaci&oacute;n</unclear> de vapores de nafta.</p>
+<p>-----</p>
+<p>(Por el cable.)</p>
+<p>SAN PETERSBURGO, FEBRERO 7.--<lb/>
+Baku, Transcaucasia, en la cos-<lb/>
+<unclear>ta</unclear> occidental del mar Caspio, ha<lb/>
+<unclear>arrido</unclear> una inmensa conflagra-<lb/>
+<unclear>[unclear]</unclear><lb/>
+Aquel que se siente enfermo,<lb/>
+piensa enseguida en el muermo.</p>
+<p>-----</p>
+<p>Es muy vulgar y sencilla.<lb/>
+aqu&iacute; la fiebre amarilla.</p>
+<p>-----</p>
+<p>Contra el perro guarda encierro,<lb/>
+pues &ldquo;te tiran con el perro.&rdquo;</p>
+<p>-----</p>
+<p>Y t&aacute;pate la nariz<lb/>
+por la noche y por el d&iacute;a,<lb/>
+pues las obras del tranv&iacute;a<lb/>
+pueden hacerte infeliz.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

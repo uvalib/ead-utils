@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY t06242036 SYSTEM "t06242036.jpg" NDATA jpg>]>
+<TEI.2 id="t06242020">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Lecture: Sanitation Work in Cuba, by Jefferson Randolph Kean, May 23, 1912</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06242020</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1912-05-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Wood, Leonard</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Glennan, A. H.</name>
+<name type="person">Taft, William H.</name>
+<name type="person">Estrada Palma, Tomas</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">LePrince, Joseph A.</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">New Orleans (La.)</name>
+<name type="place">Cienfuegos (Cuba)</name>
+<name type="place">Santiago (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>17 pp.</extent>
+<date value="1912-05-23">May 23, 1912</date>
+<idno rend="suppress">06242020</idno>
+<title>Lecture: Sanitation Work in Cuba, by Jefferson Randolph Kean, May 23, 1912</title>
+</bibl>
+</head>
+<p>Kean discusses the sanitation efforts used to prevent yellow fever in Cuba from 1906 to 1909. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1912-05-23">
+<head>Lecture: Sanitation Work in Cuba, by Jefferson Randolph Kean, May 23, 1912</head>
+<pb n="1" id="f06242020"/>
+<p>Keans lecture at Army Med. School<lb/>
+May 23, 1912<lb/>
+Sanitation in Cuba.</p>
+<p>1</p>
+<p>SECOND INTERVENTION IN CUBA OCT. 1, 1906 to Jan. 29, 1909:</p>
+<p>As has been mentioned in speaking of the sanitary work of the 1st<lb/>
+Intervention, it was performed by a number of independent sanitary workers<lb/>
+acting under the different local military authorities but without the<lb/>
+assistance and unity of effort which would have been afforded by a central<lb/>
+sanitary organization. This work, although without uniformity of method<lb/>
+or coherence of organization, was so well done that it was apparently<lb/>
+not reali<unclear>[unclear]</unclear>ntil the end of the American Military Government of Inter-<lb/>
+vention was in sight and the date of May 20, 1902, had been fixed for<lb/>
+the establishment of the Cuban Republic that a sanitary department would be<lb/>
+necessary for the Cuban Government in order to maintain good health con-<lb/>
+ditions and carry out its obligations as regards sanitation which were<lb/>
+imposed upon <add>it by</add> the United States in the Platt amendment to the Cuban con-<lb/>
+stitution. Accordingly, General Wood, as well as I recall, early in<lb/>
+May, organized a Commission which was instructed to draw up a sanitary<lb/>
+law organizing a national department of health and describing its powers.<lb/>
+This commission was composed of Col. Gorgas and myself, both of us being<lb/>
+then Majors; Dr. A. H. Glennan of the Marine Hospital Service, and</p>
+<p>The sanitary law prepared by this commission was published as Orders No.<lb/>
+159, Hdqrs. Dept. of Cuba, Havana, May 17, 1902, three days before the<lb/>
+withdrawal of the American Government and the establishment of the Cuban<lb/>
+Republic. It provided for a superior sanitary board composed of five<lb/>
+active members and six honorary members, which latter were the chief<lb/>
+of the Marine Hospital Service of the Island, a member of the Academy of<lb/>
+Sciences of Havana, a member of the faculty of the University of Havana,<lb/>
+president of the tuberculosis league, a member of the board of education,<lb/>
+and a legally qualified lawyer. The honorary members of the board were<lb/>
+<pb n="2" id="f06242021"/>
+- 2 -<lb/>
+2<lb/>
+not entitle to vote. The president and executive officer of the board<lb/>
+was the chief sanitary officer of the Island. This board had general su-<lb/>
+pervision of all health matters throughout the island and was charged with<lb/>
+making sanitary investigations, the publication of useful information on<lb/>
+sanitary subjects, the enforcement of sanitary laws including laws regulat-<lb/>
+ing the practice of the medical profession, pharmacy, dentistry, midwifery,<lb/>
+embalming and laws regulating prostitution, and for the control of offen-<lb/>
+sive and dangerous trades. It had also supervision of all local boards of<lb/>
+health and a general supervisory authority known in the Spanish law as<lb/>
+&ldquo;alta inspeccion&rdquo; over all eleemosynary institutions, prisons, hospitals,<lb/>
+and other public institutions. It was charged with the collection of vital<lb/>
+statistics, the control of epidemic diseases, of interior quarantine regu-<lb/>
+lations, the establishment and administration of biological, chemical and<lb/>
+bacteriological laboratories, and the enforcement of vaccination.</p>
+<p>I urged strongly the importance of making sanitation a separate depart-<lb/>
+ment with representation in the cabinet, but Ceneral Wood was averse to an<lb/>
+enlargement of the cabinet, and it was made a subordinate bureau under the<lb/>
+Secretaryship of Gubernacion, in which my former department of Beneficencia<lb/>
+or Charities was another bureau. Another point which I urged was the logi-<lb/>
+cal appropriateness and administrative advantage of having marine quaran-<lb/>
+tine placed under the Sanitary Department, but the Marine Hospital Service<lb/>
+of the United States was opposed to this and its representative on the board<lb/>
+Dr. Glennan, successfully opposed it, and it was left under the Treasury, as<lb/>
+in the United States. <hi>Cuba was destined to pay dearly for this in 1905 when<lb/>
+by lack of co-ordination between these two lines of sanitary defence yellow<lb/>
+fever was re-introduced into Havana from New Orleans</hi>.</p>
+<p>It took nearly two years for this organization to become effective and<lb/>
+to prepare its sanitary code, which was a very elaborate one, based on Euro-<lb/>
+pean models and quite unsuited to small towns and rural communities. The<lb/>
+<pb n="3" id="f06242022"/>
+- 3 -<lb/>
+3<lb/>
+small towns suffered much more from sanitary neglects than did Havana be-<lb/>
+cause for the latter money was furnished by the national government, while<lb/>
+local boards of health in the small towns had to depend upon the entirely<lb/>
+inadequate appropriations of town councils and were submissive to political<lb/>
+and personal influences of every kind. Thus the extensive powers given by<lb/>
+the decree of General Wood to the national board existed without the neces-<lb/>
+sary machinery by which these powers could be administered, operating as<lb/>
+the board was compelled to do through the local boards of health, over<lb/>
+whose personnel and finances the central authority had but nominal control.</p>
+<p>The Cuban territory is divided into municipalities, each of which<lb/>
+embraces a certain geographical area, both urban and rural. Each of these<lb/>
+municipalities is governed by a town council or Ayuntamiento and for each<lb/>
+of these municipalities was provided a local sanitary board of three mem-<lb/>
+bers. These local boards were governed by general sanitary regulations<lb/>
+adopted by the superior sanitary board and had general supervision of all<lb/>
+health matters of the municipality. The funds needed for the sanitary<lb/>
+services of the cities and of the other sanitary activities of the local<lb/>
+boards were to be provided by appropriations by the municipalities, ex-<lb/>
+cept in the case of Havana where the national government supported the<lb/>
+local sanitary establishment which was immediately under the chief sani-<lb/>
+tary officer. The Ayuntamientos, much like the majority of town councils<lb/>
+in the United States, had other objects upon which to spend their money<lb/>
+in which they took much greater interest than in sanitary matters and<lb/>
+therefore the sanitary activities in the Cuban cities other than Havana<lb/>
+practically ceased after General Wood's departure from the Island, except<lb/>
+in the capital and except for the stimulus of occasional appropriations<lb/>
+from the national government for sanitary work in the other larger towns<lb/>
+when conditions became very bad or yellow fever made its appearance. The<lb/>
+national board, however, accomplished much excellent work under the presi-<lb/>
+<pb n="4" id="f06242023"/>
+- 4 -<lb/>
+4<lb/>
+dency of Estrada Palma, although after the manner of all boards it was a<lb/>
+defective administrative agency.</p>
+<p>A successful insurrection in August, 1906, compelled Estrada Palma<lb/>
+to call on the United States to intervene in accordance with our treaty<lb/>
+right and the Secretary of War, Mr. Taft, landed and assumed the reins of<lb/>
+government Sept. 20, 1906. He cabled for me to report to him at once and<lb/>
+placed me in <hi>general supervisory charge of the sanitary department</hi>. Being<lb/>
+mindful of the importance of a right start I said &ldquo;Shall I report to you<lb/>
+direct, Mr. Secretary&rdquo;, and as he hesitated I added &ldquo;in the former inter-<lb/>
+<hi>vention <del>I</del><add>Gorgas</add> reported directly to General Wood&rdquo;</hi>. He said the precious &ldquo;Yes&rdquo;<lb/>
+which established the independence of sanitation for the time being and I<lb/>
+took my way to the <hi>familiar old Maestranza de Artilleria, where both Gorgas</hi><lb/>
+and <hi>I had had our offices in the first intervention</hi>. There I found the<lb/>
+Chief Sanitary Officer, my old and dear friend <hi>Dr. Carlos Finley</hi>, the ori-<lb/>
+ginal champion of the mosquito theory<add>,</add> to whom I imparted my commission and<lb/>
+handed the Secretary's brief note. <hi>After greeting me with that exquisite</hi><lb/>
+courtesy which is one of the strongest characteristics of this fine old<lb/>
+man he asked me what were my powers. I told him that I conceived them to<lb/>
+be those <hi>of a cabinet secretary</hi>. Then he asked what would be my title. -<lb/>
+There I was stumped and I asked him for a suggestion. - &ldquo;I am directed by<lb/>
+the Secretary&rdquo;, said he, &ldquo;to follow your advice in all things so how would<lb/>
+<hi>the title of Adviser do</hi>.&rdquo; This seemed fitting and not only did I keep it<lb/>
+during the entire intervention but all the other Army officers and civilians<lb/>
+who were placed at the head of the other departments of the governments were<lb/>
+also given the title of Adviser instead of that of Secretary.</p>
+<p>I found Gorgas' organization in the City of Havana largely intact,<lb/>
+but it had evidently lost its discipline in the four years of immunity from<lb/>
+yellow fever, and although yellow fever had for the last year been present,<lb/>
+in the island, it had been unable to regain its discipline and effectiveness.</p>
+<pb n="5" id="f06242024"/>
+<p>- 5 -<lb/>
+5</p>
+<p>3 Proceeding Screening<lb/>
+Killing infected mosquito.<lb/>
+mosquito <unclear>prevention</unclear></p>
+<p><del>There were 20 sanitary inspectors whose work was reinforced by a hord of un-<lb/>
+instructed and ignorant laborers who wandered about the city with oil cans<lb/>
+pouring petroleum into every rat hole and puddle.</del></p>
+<p>The chief confidence of Drs. Finlay and <del>Gorgas</del><add>Guiteras</add> was placed in the divi-<lb/>
+sion of disinfection where there was a large and well-trained force of men<lb/>
+conducting fumigations. The operation of this brigade I made little change<lb/>
+in, although in my opinion the importance of their work was entirely secon-<lb/>
+dary to mosquito prevention. The division of sanitary inspection, La Prince's<lb/>
+old organization, which did the house inspections for mosquito larvae, I found<lb/>
+much disorganized and its shortcomings, which had quite escaped the notice<lb/>
+of the sanitary authorities of Havana, were directly responsible for the<lb/>
+infection being able to take root again. To it, therefore, I gave my close<lb/>
+and unremitting attention. <add>There were 20 sanitary inspectors whose work was reinforced by a hord of un-<lb/>
+instructed and ignorant laborers who wandered about the city with oil cans<lb/>
+pouring petroleum into every rat hole and puddle.</add> The number of district inspectors was promptly<lb/>
+increased to 42, one for every sanitary district into which I divided the<lb/>
+city, while there were a number of auxillary inspectors who could be thrown<lb/>
+into districts which required special attention. Each district inspector<lb/>
+was informed that he would be held to strict accountability for the condi-<lb/>
+tion of his district and this responsibility was emphasized by the summary<lb/>
+dismissal of those who were found negligent. The inspectors were given<lb/>
+credentials and a neat uniform which enabled the house-holders to distin-<lb/>
+guish them from irresponsible persons and which also enabled the super-<lb/>
+vising inspectors whom I placed over groups of districts to readily observe<lb/>
+those who showed a disposition to sit in the cafes rather than search for<lb/>
+stegomyia larvae.</p>
+<p>By the next spring the mosquito work was well in hand in the city, the<lb/>
+stegomyias were very scarce, and cases only appeared sporadically at<lb/>
+<pb n="6" id="f06242025"/>
+6<lb/>
+<del>15.</del><lb/>
+<del>-4</del><lb/>
+sufficient intervals to furnish an excuse for maintaining quarantines on<lb/>
+the part of the United States. The disease was continually reintroduced into<lb/>
+Havana from the country districts, but I made no effort to prevent this be-<lb/>
+cause the coming of patients to the great public hospitals of the city where<lb/>
+they were kept in screened rooms often gave me the first intimation of the<lb/>
+development of the new foci in the country and small towns. I was perfectly<lb/>
+confident of my ability to prevent an epidemic in Havana, although it was full<lb/>
+of non-immunes</p>
+<p>Another peculiarity of this invasion or yellow fever, for it was<lb/>
+never generally epidemic, was the small number of cases that occurred<lb/>
+and the remarkable way in which they were spread over the period of<lb/>
+three years and three months between the appearance of the disease in<lb/>
+Havana in October, 1905, and the final occurrence of the last cases in<lb/>
+the province of Oriente in the neighborhood of Santiago in the fall of<lb/>
+1908. The entire number of cases during all this time was only 359.<lb/>
+This number is made up of a number of scattered cases throughout the<lb/>
+island, together with several small localized epidemics such as that in<lb/>
+Havana in November and December, 1905, that in the towns in the south-<lb/>
+east part of the Province of Havana in 1906, an outbreak in Cienfuegos<lb/>
+in the summer of 1907, and one in the iron mines of Darquiri in 1909.<lb/>
+Contrast this with the disease in Havana in 1900, when there were 1240<lb/>
+cases and 305 deaths. The efforts of the sanitary department invar-<lb/>
+iably brought each outbreak to a close with the exception of an occasional<lb/>
+sporadic case as soon as a local organization could be effected and the<lb/>
+number of mosquitoes reduced to a point which Gorgas called &ldquo;the yellow<lb/>
+fever point.&rdquo; Now please observe that as soon as the mosquito reduc-<lb/>
+tion reached this point in Havana in 1901 yellow fever disappeared not<lb/>
+only from Havana but from all of Cuba, whereas no such good fortune at-<lb/>
+tended the mosquito work in Havana in 1907.</p>
+<pb n="7" id="f06242026"/>
+<p>7</p>
+<p><unclear>&check; u 4&frac12;</unclear></p>
+<p>The disease spread, however, during the year to every province in the<lb/>
+island with the exception of the most western, but was promptly stamped out in<lb/>
+the larger cities with the exception of Cienfuegos where a sharp epidemic oc-<lb/>
+curred in the fall of 1907, and Santiago where the infection smouldered until<lb/>
+the spring of 1908. Conquared in the centers of population, the disease<lb/>
+adopted the tactics of the revolutionists and took to the woods and this ex-<lb/>
+tension to the <del>woods</del><add>villages</add> and plantations broughtup new and troublesome problems<lb/>
+which were not known to the first Intervention.</p>
+<p>It was certain that the work against yellow fever in Cuba was equally<lb/>
+thorough in detail and on a wider scale than that conducted in Havana and the<lb/>
+other more important cities in 1901. Why was it not followed by the same<lb/>
+prompt success? <add>in 1907</add> and why did not yellow fever at that time hang on in<lb/>
+the rural districts? The disease having been so long endemic in Cuba<lb/>
+the native Cuban population was then truely an immune one, and yellow<lb/>
+fever rarely prevailed in Cuba, but lay in wait in the sea ports for the<lb/>
+none- immune immigrants who were as a rule not long in finding either<lb/>
+immunity or death. But since 1900 this process had been checked, and<lb/>
+the non-immune population of Cuba had increased with great rapidity. <hi>The<lb/>
+number of immigrants, chiefly Spania<add>r</add>ds, had averaged nearly 30,000</hi> a year<lb/>
+and in the last two years amount<add>ed</add> to 88,000. The native white population<lb/>
+<pb n="8" id="f06242027"/>
+8<lb/>
+<add>had also increased with great rapidity &amp; if we accept the theory of Guiteras that<lb/>
+the white Cuban Child is born non-immune, this still greater source of supply of<lb/>
+non-immunes must be added - amounting to 7800 annually for Habana and<lb/>
+66,500 for the Island</add>.</p>
+<p><unclear>G</unclear></p>
+<p>Here I might allude to the well <hi>known theory of Guiteras as</hi> to<lb/>
+the immunity of Cuban children which <hi>is now generally accepted</hi>, although<lb/>
+when it was first announced it was much disputed by Cuban physicians.<lb/>
+It is simply that immunity to yellow fever is acquired by Cuban children<lb/>
+in the same way that immunity to other diseases is acquired by most people<lb/>
+to the ordinary childrens diseases, viz: by an attack in infancy, this<lb/>
+attack being usually mild and not recognized as yellow fever but being<lb/>
+disguised under such diagnoses as dengue, malaria, or calentura.<lb/>
+Even the severe attacks marked by jaundice, black vomit, and even death,<lb/>
+were not formerly diagnosed as yellow fever by Cuban physicians so con-<lb/>
+vinced were they that by some heaven bestowed gift the Cuban children<lb/>
+were immune to it and so such cases were habitually diagnosed as feibre<lb/>
+de borras. The only difficulty in the way of acceptance of this theory,<lb/>
+and it always appeared to me a very real one, is the fact that this would<lb/>
+have required an enormous number of cases every year to keep up the<lb/>
+immunity of the Cuban people. In commenting upon an outbreak of 400<lb/>
+cases of fever which occurred in October at Columbia Barracks and which<lb/>
+the medical officer, Dr. <add>Saleeby?</add> Salene, who made a report of the epidemic, was<lb/>
+inclined to consider yellow fever, I made the following remarks:-</p>
+<p>Saleeby</p>
+<p>&ldquo;The short mild continued fever of about a week's duration<lb/>
+with a descending temperature curve from the first or second day, is<lb/>
+an old acquintance. Whether this is an acclimatizing, i.e., a very<lb/>
+mild sporadic form of yellow fever, is an interesting and important<lb/>
+subject for investigation. Dr. H.R.Carter, Marine-Hospital Service,<lb/>
+recently in conversation advanced the following facts, which are sug-<lb/>
+gestive in this connection: All quarantine authorities agree that ten<lb/>
+years' residence in Havana entitles a man to be considered immune; that<lb/>
+is, that in that time he will certainly have had yellow fever or an<lb/>
+immunizing fever. The Spanish immigration -nonmilitary - for years past<lb/>
+has been on an average 15,000 a year. Of these, by a moderate estimate,<lb/>
+5,000 make their home in Havana. Approximately 5,000 children are born<lb/>
+in Havana each year. Supposing that half of these die before they<lb/>
+reach the age of 10, we have 2,500 a year to acquire immunity in the same<lb/>
+way that the Spaniards do. Thus we should have 7,500 cases a year of<lb/>
+immunizing (yellow) fever. The average annual civilian death rate in<lb/>
+Havana from yellow fever is 210, which, with a death rate of, say,<lb/>
+30 per cent, would give 700 cases of clinically recognized yellow fever<lb/>
+a year. Thus we would have left 6,800 persons a year who acquire<lb/>
+<pb n="9" id="f06242028"/>
+9<lb/>
+<del>-2-</del><lb/>
+immunity through fevers not to be recognized as yellow fever in the<lb/>
+home of that disease.&rdquo;</p>
+<p>In the five years between the two outbreaks some 350,000 children<lb/>
+had been born in Cuba and about 38,000 in Havana, and as this<lb/>
+element would then constitute probably the largest non-immune element<lb/>
+in the Island, it should have furnished most of the cases of yellow<lb/>
+fever, but on the contrary I do not recall more than three cases in<lb/>
+children during the second intervention. This is a phenomenon for<lb/>
+which I have no explanation which it is at all satisfactory and when I<lb/>
+was <hi>asked if I accepted Guiteras' theory I would say that I believed<lb/>
+it on Monday, Wednesday and Friday, but rejected it on Tuesday, Thurs-<lb/>
+day and Saturday</hi>. Sundays I <unclear>deliused</unclear> to think of it.</p>
+<pb n="10" id="f06242029"/>
+<p><del>16</del><lb/>
+<unclear>[unclear]</unclear><lb/>
+10</p>
+<p><del>had also increased with great rapidity and if we accept the doctrine of<lb/>
+Guiteras that the white Cuban child is born non-immune, this still greater<lb/>
+source of supply of non-immunes must be added. The birth rate of Cuba being<lb/>
+66,500, would <unclear>and</unclear> that many non-immune children to the population.</del></p>
+<p>The number of non-immunes had already become sufficient to support a<lb/>
+yellow fever epidemic in alsmot any town or large plantation in the island,<lb/>
+and the increase of the facilities for communication by rail and by the con-<lb/>
+struction of good public roads, together with the migratory habits of the<lb/>
+Spanish laborers furnish a ready means for the distribution of the infection,<lb/>
+which means existed to a far less degree in 1901. The sanitary forces had<lb/>
+to pursue the enemy into the country and whereever a case of yellow fever was<lb/>
+recognized, expert diagnostitions and brigades of men trained in the technique<lb/>
+of fumigation and mosquito work were went from Havana to conduct operations<lb/>
+against the enemy. These methods kept the infection from assuming great pre0<lb/>
+portions but failed promptly to extinguish it <add>in 1907</add>. The reasons for this failure<lb/>
+were two, the first was the lack of agencies for the discovering and reporting<lb/>
+of cases outside of the large cities, the second, the lack of trained men to<lb/>
+carry out carefully, conscientiously and thoroughly, the work of mosquito pre-<lb/>
+vention. <del>No this</del><add>in the small times</add></p>
+<p>Nothing is more difficult than the recognition of mild cases of yellow<lb/>
+fever. Cases constantly occurred in Havana which puzzled the board of diagnosis,<lb/>
+probably the most expert body in the knowledge of this disease in the world.<lb/>
+Also it must be borne in mind that a large proportion of cases and, probably in<lb/>
+Cuban children a very large majority, are mild, and so difficult or impossible<lb/>
+of diagnosis with the help of all the resources of medical art. In the rural<lb/>
+municipalities little attention was paid to mild attacks of fever and the<lb/>
+physicians were not accustomed to employ the diagnostic aids of urinalisis and<lb/>
+blood examination, and had neither the apparatus nor the technical training for<lb/>
+so doing. Therefore, only the minority of grave or fatal cases were necognized<lb/>
+<pb n="11" id="f06242030"/>
+17&sol;<lb/>
+<del>-6-</del><lb/>
+11<lb/>
+and reported, and the infection spread unchecked by preventive measures until<lb/>
+a death gave the alarm. While the sanitary department could send trained<lb/>
+parties to direct works of fumigation in recognized foci, the fundamental<lb/>
+work of mosquito prevention required permanent garrisons of trained men in<lb/>
+every town and village and even in the great sugar and tobaco plantations.</p>
+<p>Such a plan of campaign can be conducted where the area is small<lb/>
+and the pecuniary resources practically unlimited as in the strip ten miles<lb/>
+wide and fifty miles long which constitutes the canal zone at Panama, but<lb/>
+it was of course out of the question to conduct such intensive methods<lb/>
+over the 44 000 square miles of Cuban territory, and was far beyond the<lb/>
+resources of the Cuban Treasury. I <del>have</del> had, therefore, to limit my<lb/>
+campaign of mosquito prevention to municipalities where yellow fever had<lb/>
+appeared until a new and more prefect and centralized sanitary organization<lb/>
+gave <del>me</del> the central department immediate control over all the sanitary agen-<lb/>
+cies of the Island. <add>This reorganization will be described later.</add><lb/>
+<add>c&rang; Here might be mentioned a controversy with the <unclear>Quarantine authorities</unclear> of U.S.</add></p>
+<p>This was affected by the complete reorganization of the sanitary de-<lb/>
+partment from top to bottom, which was affected by Governor Magoon's decree<lb/>
+#894, signed August 26, 1907. The objects accomplished by this decree were:</p>
+<p>1 - The abolition of the local and municipal boards of health and<lb/>
+the transfer of all powers previously vested in them to national officials<lb/>
+called local sanitary officers who are appointed by the President.</p>
+<p>2 - The assumption by the state of the cost of all municipal works<lb/>
+and service such as street cleaning, the removal of garbage, the suppression<lb/>
+of nuisances, and the prevention of epidemics. To relieve in some measure<lb/>
+the burden upon the national treasury it is required that the municipal<lb/>
+government should refund to the state one-tenth of their total incomes for<lb/>
+each year in part payment for these sanitary services.</p>
+<p>3 - The supreme administrative authority in the sanitary department<lb/>
+<add>a&rang; See Doc. &ldquo;Quarantine against yellow fever in Cuba&rdquo; p. 20 et seq.</add><lb/>
+<pb n="12" id="f06242031"/>
+<del>18.<lb/>
+-7-</del><lb/>
+12<lb/>
+was transferred from the national board of health where it formerly was vested<lb/>
+to the chief sanitary officer who was made in fact the administrative authority<lb/>
+of the sanitary department. The national board of health was retained in<lb/>
+an advisory capacity.</p>
+<p>By another decree the <add>Marine</add> quarantine service which constitutes the first<lb/>
+line of national defense against epidemics was made an intergral part of the<lb/>
+sanitary department, <del>a step which</del><add>as</add> I had strongly urged <del>in his law of</del> May,<lb/>
+1902. &check;Finally the organization of the sanitary department was perfected<lb/>
+and completed by joining to it the department of charities which has charge<lb/>
+in Cuba of all the numerous public hospitals, the care of the insane, the<lb/>
+responsibility for all dependent children and those who have been convicted<lb/>
+of crime and <del>of all</del> in general of all elemosinary and charitable institu-<lb/>
+tions and funds. This department called now &ldquo;The Direction of Beneficencia&rdquo;<lb/>
+is joined with the Direction of Sanitation to make the Department of Sanita-<lb/>
+tion and Charities, under a Secretary who is a Cabinet Officer.</p>
+<p>Cases of Yellow Fever in Havana-<lb/>
+See Chart-</p>
+<pb n="13" id="f06242032"/>
+<p><del>8&rang;</del><lb/>
+13</p>
+<p>The complete Department of Sanitation and Charities as shown by<lb/>
+the diagram consists of the Direction of Sanitation<lb/>
+Direction of Charities<lb/>
+Board of Sanitation and Charities.</p>
+<p>The Direccion of Sanitation is under a chief executive officer<lb/>
+called the Director, which position is now filled by the well known<lb/>
+yellow fever specialist, Dr. Juan Guiteras. It is divided into the<lb/>
+following bureaus:-</p>
+<p>(1) The Central Bureau, which has supervision over the sanitary<lb/>
+services of all municipalities in the Republic, except Havana; of the<lb/>
+various laboratories, bacteriological, chemical and bromological; of<lb/>
+the hospitals for contagious diseases; of the sanitoria and dispensaries<lb/>
+for tuberculosis; the vaccine stations, and the expert personnel of the<lb/>
+Department.</p>
+<p>(2) Bureau of Sanitary Services of Havana. This bureau con-<lb/>
+tains complete the old sanitary organization of Gorgas with some addi-<lb/>
+tions and its sphere of activity is limited as indicated by its name to<lb/>
+the municipality of Havana, embracing a population of some 400,000 persons.</p>
+<p>(3) General Affairs and Quarantine: This bureau has charge of<lb/>
+regulations for the practice of the professions of medicine, veterinary<lb/>
+medicine, pharmacy, dental surgery, obstetrics, embalming, undertakers,<lb/>
+and the control of dangerous and noxious industries. One division of it<lb/>
+also has charge of the marine quarantine service.</p>
+<p>(4) Special Hygiene: This bureau has charge of matters connected<lb/>
+with the control and regulation of prostitution and the prevention of<lb/>
+venereal diseases in the cities of the Republic. This service of special<lb/>
+hygiene as it is called is entirely self-supporting, receiving no appro-<lb/>
+priation from the State, it is supported by fees which are required of<lb/>
+prostitutes for the weekly physical examinations and by fines and taxes<lb/>
+<pb n="14" id="f06242033"/>
+<del>-2-</del><lb/>
+14<lb/>
+which are levied upon houses of prostitution or assignation. It<lb/>
+supports lock-hospitals for the confinement and treatment of diseased<lb/>
+public women and in Havana at least it supports free dispensaries where<lb/>
+men may receive free treatment, day and night, for venereal diseases.</p>
+<p>(5) Statistics and Correspondence. The duties of this bureau<lb/>
+are suggested by its name. It is charged among other things with the<lb/>
+collection and publication of the vital statistics of the Republic.</p>
+<p>(6) Personnel, Property and Accounts. The functions of this<lb/>
+bureau are indicated by its name, it being charged with the details of<lb/>
+all the functions of the internal administration of the Department.</p>
+<p>The Direccion of Charities is under a Director who is a superior<lb/>
+chief of administration in the official hierarchy of Cuba and it is<lb/>
+the Department of which I had charge during the last year of the 1st<lb/>
+Intervention and upon which I am glad to believe that I left a certain<lb/>
+impress in bringing it in line with the modern ideas of scientific<lb/>
+charitable organization. It is divided into four bureaus:-</p>
+<p>(1) Administration and Inspection: Charged with all matters<lb/>
+relating to the administrative and legal affairs of charitable institu-<lb/>
+tions. It has also charge of the correspondence of the Direccion.</p>
+<p>(2) Hospitals and asylums. This bureau has charge of matters<lb/>
+of a technical character pertaining to the hospitals, asylums, charitable<lb/>
+institutions and schools for nurses.</p>
+<p>(3) The Bureau of Minors is charged with the care and correction<lb/>
+of destitute and delinquent children. It secures the adoption of<lb/>
+orphans by private families and looks after their interests as long as<lb/>
+they are minors.</p>
+<p>(4) Personnel, Property and Accounts. Its functions are similar<lb/>
+to those of the like bureau in the Direccion of Sanitation.</p>
+<pb n="15" id="f06242034"/>
+<p><del>-3-</del><lb/>
+15</p>
+<p>The National Board of Sanitation and Charities is organized as<lb/>
+follows:</p>
+<p>Director of Sanitation<lb/>
+Director of Charities<lb/>
+Chief of the Quarantine Service<lb/>
+President of the Board of Infectious Diseases.<lb/>
+Dean of the Faculty of Medicine and Pharmacy of the University of Havana<lb/>
+President of the League against Tuberculosis<lb/>
+President of the Economic Society of Friends of the Country<lb/>
+Local Chief of Sanitation of Havana<lb/>
+President of the Special Hygiene Commission; and</p>
+<p>Four additional members to be appointed freely by the President of<lb/>
+the Republic, one of them to be a lawyer qualified to practice in the<lb/>
+Republic, and another, a civil engineer.</p>
+<p>The President of the Board shall be the Director of Sanitation,<lb/>
+and the Director of Charities shall be Vice-President, and in the absence<lb/>
+of both, the oldest member. The Chief Clerk of the Direccion of San-<lb/>
+itation shall act as Secretary, in accordance with the provisions of<lb/>
+article 298 of this law.</p>
+<pb n="16" id="f06242035"/>
+<p><del>9</del><lb/>
+16</p>
+<p>These changes and additions were all codified and published at the<lb/>
+end of the second intervention as chapter 8 of title 3 of the organic<lb/>
+law of the Executive Power, the organic act which states and defines the<lb/>
+authority of all the different branches of the government. <unclear>[unclear]</unclear> Thus Cuba<lb/>
+has obtained a goal in the matter of public health organization which<lb/>
+we in the United States are still struggling for and which the American<lb/>
+Public Health Medical Association, the Committee of One Hundred, and iin<lb/>
+general all medical and socialogical associations are now <unclear>demanding</unclear> of<lb/>
+Congress.<lb/>
+<add><unclear>explain<lb/>
+diagram</unclear></add></p>
+<p>This legislation has already had its influence upon sanitary<lb/>
+organization elsewhere. The essential feature of the substitution of<lb/>
+sanitary officers for local sanitary boards has been adopted for the<lb/>
+Sanitary Department of the Philippines and the entire law with but few<lb/>
+changes has been recently enacted as the new sanitary law of Porto Rico.<lb/>
+Within the last week I have been called upon to furnish a copy to the<lb/>
+President, Board of Health of the State of Louisiana to be used as a model<lb/>
+in the revision of their sanitary law.</p>
+<p>J. R. Kean<lb/>
+Lecture at Army Med. School May 23<lb/>
+1912.</p>
+<pb n="17" id="f06242036"/><lb/>
+<p><figure entity="t06242036"></figure> Yellow Fever in Havana<lb/>
+by months. See chart in Guiteras<lb/>
+article in Boletin <unclear>form</unclear> 1. no 1. April 1909.<lb/>
+<hi>Bound</hi> copy</p>
+</div1>
+</body>
+</text>
+</TEI.2>

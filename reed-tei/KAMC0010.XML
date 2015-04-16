@@ -1,0 +1,792 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMC0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Speech: Walter Reed, A World Hero, by [Jefferson Randolph Kean], October 15, 1927</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMC0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1927-10-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Reed, Lemuel S.</name>
+<name type="person">Reed, Pharaba W.</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Welch, William H.</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Vaughan, Victor C.</name>
+<name type="person">Shakespeare, Edward O.</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Benigno, Antonio</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Manson, Patrick</name>
+<name type="person">King, A. F. A.</name>
+<name type="person">Howard, L. O.</name>
+<name type="person">Lee, Robert E.</name>
+<name type="place">Key West (Fla.)</name>
+<name type="place">Jacksonville (Fla.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Belroi (Va.)</name>
+<name type="place">Gloucester (Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>26 pp.</extent>
+<date value="1927-10-15">October 15, 1927</date>
+<idno rend="suppress">KAMC0010</idno>
+<title>Speech: Walter Reed, A World Hero, by [Jefferson Randolph Kean], October 15, 1927</title>
+</bibl>
+</head>
+<p>[Kean's] speech, delivered at Belroi, praises the achievements of Reed and the Reed Commission. [Kean] also discusses the sanitary efforts achieved by Gorgas in eradicating yellow fever. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1927-10-15">
+<head>Speech: Walter Reed, A World Hero, by [Jefferson Randolph Kean], October 15, 1927</head>
+<pb n="1" id="fKAMC0010"/>
+<p>Delivered at Belroi, Oct. 15&sol;1927</p>
+<p>WALTER REED, A WORLD HERO.</p>
+<p>In the lives of great men two places<lb/>
+have in all ages and among all peoples had a pecu-<lb/>
+liar interest and sacred quality - that where he<lb/>
+is born and that where when life is ended his re-<lb/>
+mains are laid to rest in the last sleep. It was<lb/>
+my sad duty on a November day in 1902 to select<lb/>
+the spot where Walter Reed should rest on a beauti-<lb/>
+ful hillside in Virginia, overlooking the Potomac<lb/>
+and the Capitol<add>,</add> in that silent city where the sol-<lb/>
+dier dead of the Republic sleep in their thousands<lb/>
+in the consecrated fields that once belonged to<lb/>
+our great Captain, Robert Lee. I feel it there-<lb/>
+fore a great privilege and honor to be present also<lb/>
+at this spot where Walter Reed was born.</p>
+<p>Sir William Osler said in one of his<lb/>
+addresses:</p>
+<p>&ldquo;Of the altruistic instincts, <hi>veneration</hi><lb/>
+is not the most highly developed at the<lb/>
+present day; but I hold strongly with the<lb/>
+statement that it is the sign of a dry age<lb/>
+<pb n="2" id="fKAMC0020"/>
+- 2 -<lb/>
+when the great men of the past are<lb/>
+held in light esteem&rdquo;.</p>
+<p>It is my hope and my belief that Virginia may<lb/>
+never be dry in that sense.</p>
+<p>The Romans meant by the word <hi>pietas</hi><lb/>
+which is our word piety, dutifulness and it had<lb/>
+reference not only to their attitude to their<lb/>
+parents but to the spirits or genii of their<lb/>
+dead and to the cult of the quaint little gods<lb/>
+the Lares and Penates who pr<del>es</del><add>ov</add>ided over the<lb/>
+family hea<del>l</del><add>r</add>th and the domestic affairs. Their<lb/>
+cult consisted in offerings of flowers or dain-<lb/>
+ties from the table, and it <del>h</del><add>w</add>as survived the<lb/>
+ages in the offerings of flowers which we lay<lb/>
+upon the graves of those we love. <del>We have too<lb/>
+still etc.</del></p>
+<p>It is to this Roman belief that he was<lb/>
+always the object of observation and solicitude<lb/>
+by spiritual beings which he had been taught to<lb/>
+venerate that gave to the Roman character, in<lb/>
+the opinion of Pater, its steadiness and regard<lb/>
+for duty and dignity in all the affairs of life.<lb/>
+I like to believe that we Virginians are in this<lb/>
+<pb n="3" id="fKAMC0030"/>
+- 3 -<lb/>
+sense a pious people, that we hold in high es-<lb/>
+teem the great men of the past, that in our<lb/>
+lives we are not unmindful of them, and that we<lb/>
+would like so to live as not to shame them.<lb/>
+This is a cult which brings the great men of the<lb/>
+past into our lives, and will perpetuate their<lb/>
+virtues and reproduce their qualities. It is such<lb/>
+a feeling I am sure which has crowded the fair<lb/>
+Capitol of this State with the statues of soldiers<lb/>
+and statesmen, ha<del>x</del><add>s</add> made shrines at Mount Vernon<lb/>
+and Monticello, and has impelled your State Medi-<lb/>
+cal Society to purchase this humble dwelling, and<lb/>
+to dedicate it to the memory of the great man and<lb/>
+choice spirit which here first saw the light of<lb/>
+day.</p>
+<p>Walter Reed was born in this spot Sept.<lb/>
+13, 1851, the 5th and youngest child of Lemuel<lb/>
+Su<add>t</add>ton Reed and Pharaba White, his first wife.<lb/>
+Lemuel Reed, though he spent his adult life in<lb/>
+Virginia as a minister of the Gospel, was a North<lb/>
+Carolinian by birth and it was to the old North<lb/>
+State that his now famous son went at the age of<lb/>
+25 to wed his chosen wife Emilie Lawrence - the<lb/>
+<pb n="4" id="fKAMC0040"/>
+- 4 -<lb/>
+gracious lady whom we have with us here today.</p>
+<p>Of the 26 years of his army life, much<lb/>
+of interest might be told did time permit, his<lb/>
+varied experiences in his stations in the then far<lb/>
+distant Arizona, in Nebraska, Alabama, Dakota and<lb/>
+posts farther east. It was not until 1893, that<lb/>
+he became Professor of bacteriology and clinical<lb/>
+microscopy in the then newly organized Army Medical<lb/>
+School and was able to devote himself to the special<lb/>
+branch of medical science in which he attained en-<lb/>
+during fame. But for this he had a year of prepara-<lb/>
+tion in 1890 when he was stationed in Baltimore and<lb/>
+had the rare good fortune to study under that great<lb/>
+scientist and grand old man, Dr. William H. Welch,<lb/>
+now the Nestor of Medical Science in America. Never<lb/>
+was opportunity more eagerly seized or more profi-<lb/>
+tably pursued. Then was made the liaison between<lb/>
+master and pupil which profoundly influenced and<lb/>
+guided the 12 brief years of life which the fates<lb/>
+<add>then</add> allotted to Reed. I cannot now undertake the narra-<lb/>
+tive of even these few years. We have for the<lb/>
+story of his life Howard Kelly's admirable biogra-<lb/>
+<pb n="5" id="fKAMC0050"/>
+- 5 -<lb/>
+[p]hy and many shorter sketches with some of which<lb/>
+[e]ach of you is doubtless familiar. I will there-<lb/>
+[f]ore if you will permit me depart somewhat from<lb/>
+[t]he text which has been assigned me and give you<lb/>
+[s]ome personal reminiscences of the man as I knew<lb/>
+<add>h</add>im and of his work in Cuba as it came under my<lb/>
+<add>o</add>bservation. He had been my predecessor at Fort<lb/>
+<add>R</add>obinson in the uttermost parts of Nebraska and I<lb/>
+<add>h</add>ad heard much of his professional skill and his<lb/>
+<add>d</add>evotion to his patients not only those in the<lb/>
+<add>g</add>arrison but the poor pioneers who gained a miserable<lb/>
+<add>e</add>xistence by the cultivation of those arid plains.</p>
+<p>My first acquaintance with Walter Reed<lb/>
+came in July 1896 when he came to my station Key<lb/>
+West, Fla., attracted by an epidemic of small-pox<lb/>
+which they afflicted the town. He wished to study<lb/>
+a curious ameboid body which he had observed in the<lb/>
+blood of children and of the Rhoesus monkey after<lb/>
+vaccination, in the hope that it might be the much<lb/>
+sought cause of small-pox. In the mornings we went<lb/>
+to the small-pox hospital to take blood from the<lb/>
+victims of that loathsome disease; the afternoons<lb/>
+he spent bent over his microscope and the evenings<lb/>
+<pb n="6" id="fKAMC0060"/>
+- 6 -<lb/>
+were passed on the broad verandah looking out over<lb/>
+the tranquil bay or at the strange stars in the<lb/>
+Southern sky while he told with whimsical humor,<lb/>
+tales of his life in the West. Except for a few<lb/>
+days that I was his guest in Washington, I did not<lb/>
+see him again for two years when came the Spanish<lb/>
+War, and the fever camps of the South. A Board<lb/>
+was ordered with Major Reed at the head and Majors<lb/>
+Victor C. Vaughan and Edward O. Shakespeare, both<lb/>
+distinguished in the Medical Profession, to study<lb/>
+these fevers. They went from camp to camp, ob-<lb/>
+served, studied, and advised. They showed how the<lb/>
+diagnosis could be made between the milder typhoids<lb/>
+and malarial fever for which the former were so<lb/>
+commonly mistaken. Thus I saw Reed again when<lb/>
+the Board came to General Fitzhugh Lee's Camp of<lb/>
+the 7th Army Corps at Jacksonville where the most<lb/>
+important hospital happened to be in my charge.<lb/>
+The work lasted over a year and their famous re-<lb/>
+port, which shed a flood of light on the whole<lb/>
+subject of the mode of spread of typhoid fever in<lb/>
+camps, had not been completed when Reed was order-<lb/>
+ed to Cuba in 1900. His first visit to Havana<lb/>
+<pb n="7" id="fKAMC0070"/>
+- 7 -<lb/>
+was in March when he came to investigate the use<lb/>
+by the Engineers of a disinfectant called Electro-<lb/>
+zone made by a patented process out of sea water.<lb/>
+It was fondly hoped by many that the free use of<lb/>
+this fluid on the streets of the city might banish<lb/>
+diseases as well as smells and even disinfect the<lb/>
+sewers and cesspools. As may be imagined this<lb/>
+foolish and expensive proceedure received small<lb/>
+support from Reed and was promptly abandoned. The<lb/>
+Yellow Fever Board or Commission as it is <add>usually</add> called<lb/>
+was created by War Dept. Order May 24, 1900 and<lb/>
+was composed of Major Walter Reed and three Acting<lb/>
+Assistant Surgeons, James Carroll, Aristides<lb/>
+Agramonte and Jesse W. Lazear. The two latter<lb/>
+were already on duty in Cuba when Reed arrived<lb/>
+there on June 25th. A severe epidemic was in<lb/>
+progress in Havana and at the neighboring town of<lb/>
+Marianao, where General Fitzhugh Lee had his Head-<lb/>
+quarters. He was in command of the two provinces<lb/>
+of Havana and Pinar del Rio which include the<lb/>
+western end of the Island, <add>&amp; the <unclear>Province of  Materus</unclear></add> but the city of Havana<lb/>
+was excepted from his command and was under another<lb/>
+General. Major Gorgas was the health officer of<lb/>
+<pb n="8" id="fKAMC0080"/>
+- 8 -<lb/>
+the city, and I was the Chief Surgeon of General<lb/>
+Lee's command, and had sanitary control of the<lb/>
+outside country. I had been taken with yellow<lb/>
+fever on June 21st and was ill when Reed landed<lb/>
+on the morning of the 25th and he hastened to visit<lb/>
+me in the hospital at Camp Columbia. It pleases<lb/>
+me to think that in my person he saw the first case<lb/>
+of the dread disease with which his fame will be<lb/>
+forever associated. The Board were given quarters<lb/>
+and laboratory space in a barrack-like wooden build<lb/>
+ing belonging to the hospital and some half mile<lb/>
+from General Lee's Headquarters.</p>
+<p>The other members of the Commission were<lb/>
+capable and well trained scientists.</p>
+<p>James Carroll had risen from the ranks<lb/>
+in the Army and by hard work and Reed's encourage-<lb/>
+ment and assistance obtained his medical <del>d</del><add>e</add>ducation.<lb/>
+He had been for several years Reed's laboratory<lb/>
+assistant.</p>
+<p>Aristides Agramonte was born in Cuba dur-<lb/>
+ing the ten years' war in which his father, a Cuban<lb/>
+officer was killed in battle by the Spaniards.<lb/>
+His family had refugeed in the United States and<lb/>
+<pb n="9" id="fKAMC0090"/>
+- 9 -<lb/>
+he had been educated in New York. He had gradua-<lb/>
+ted from the College of Physicians &amp; Surgeons of<lb/>
+New York in 1892 and at this time was in charge of<lb/>
+the laboratory of the Division of Cuba in Havana.<lb/>
+He is the only surviving member of the Commission<lb/>
+and has for many years been a distinguished Prof-<lb/>
+essor in the School of Medicine of the University<lb/>
+of Havana. He has never received from the Govern-<lb/>
+ment of the United States any honor or material re-<lb/>
+ward for his share in the work of the Commission.</p>
+<p>Dr. Jesse W. Lazear, the fourth member of<lb/>
+the Commission, was a graduate of Johns Hopkins.<lb/>
+He then studied medicine at Columbia and was a<lb/>
+classmate of Agramonte's at the College of Physi-<lb/>
+cians &amp; Surgeons. After graduation he studied in<lb/>
+Europe, part of the time at the Pasteur Institute.<lb/>
+When he came to Cuba he was bacterio<del>o</del><add>l</add>ogist to the<lb/>
+Medical Staff at Johns Hopkins Hospital and was<lb/>
+assistant in clinical microscopy in the University.<lb/>
+He had spent much time in the study of malaria and<lb/>
+was expert in work with mosquitoes.</p>
+<p>It seems to me that the time has come<lb/>
+and is long overdue when our government should show<lb/>
+<pb n="10" id="fKAMC0100"/>
+- 10 -<lb/>
+its gratitude for the noble and beneficent work of<lb/>
+these four men by an adequate and fitting provision<lb/>
+for the families of those who died, and by suitable<lb/>
+honors and material rewards for the one who sur-<lb/>
+vives.</p>
+<p>The first work of the Board was to study<lb/>
+the bacillus icteroides which had been announced<lb/>
+three years before by Sanavelli to be the cause of<lb/>
+yellow fever. His claims were generally accepted<lb/>
+and had been corroborated by two investigators <add>Wasdin &amp; Geddings</add> of<lb/>
+the Public Health Service of the United States who<lb/>
+had been at work in Havana since the American occu-<lb/>
+pation of the city. Their claims had been disputed<lb/>
+however by the findings of Agramonte, and the Reed<lb/>
+Board was instructed to decide the matter. And<lb/>
+they did decide it, in a report so clear, thorough<lb/>
+and conclusive that, though hotly contested by<lb/>
+both Wa<del>d</del><add>s</add>din and Sana<unclear><del>v</del><add>r</add></unclear>elli at the time, their con-<lb/>
+clusions have ever since stood unshaken.</p>
+<p>It was then decided on August 1st to<lb/>
+study the theory that yellow fever was conveyed<lb/>
+by the mosquito. This theory had been advanced<lb/>
+by several observers in preceeding years, but its<lb/>
+<pb n="11" id="fKAMC0110"/>
+- 11 -<lb/>
+chief and at that time only proponent was Dr.<lb/>
+Carlos Finley in Havana. He had written a paper<add>,</add><lb/>
+20 years before<add>,</add> advancing this theory and giving<lb/>
+good epidemiological evidence in support of it.<lb/>
+He had even fixed on the variety of mosquito<lb/>
+which was the criminal, and had made many efforts<lb/>
+to transmit the disease by their agency. He<lb/>
+claimed some successes but these results seemed<lb/>
+to be doubtful. The reasons for his failures for<lb/>
+we know now that they were all failures were the<lb/>
+same that defeated all the first efforts of Reed's<lb/>
+Board in the first weeks of their work.</p>
+<p>Yellow fever has always been the most<lb/>
+elusive and puzzling of diseases and had defeated<lb/>
+the attempts of a multitude of able investigators<lb/>
+to find out its secrets. A study of Lazear's<lb/>
+wonderfully detailed and accurate notes including<lb/>
+the individual history of each of his mosquitoes<lb/>
+uncovered two traps:</p>
+<p>The first is that the yellow fever pa-<lb/>
+tient ceases to have the infective agent in his<lb/>
+blood after the 3rd day of the disease and cannot<lb/>
+<pb n="12" id="fKAMC0120"/>
+- 12 -<lb/>
+infect mosquitoes after that time.</p>
+<p>The second trap is that after the<lb/>
+mosquito has bitten a case of yellow fever even<lb/>
+in the first three days she is quite harmless<lb/>
+for a period of incubation of 12 to 14 days<unclear>,</unclear> after<lb/>
+which she becomes able to infect.</p>
+<p>Now it happens that in most cases <del>of</del><lb/>
+yellow fever in the first three days is much like<lb/>
+malaria and other fevers, and it is only about<lb/>
+the third day that the patient begins to take on<lb/>
+the characteristic yellow tinge and the diagnosis<lb/>
+becomes certain. So it was quite natural that<lb/>
+the experimenter would take his mosquito to a<lb/>
+well marked yellow fever case <add>more than 3 days old</add> and she would fail<lb/>
+to become infected when she bit. This was trap<lb/>
+No. 1 and if by good luck the experimenter es-<lb/>
+caped it and hit on a patient in the first three<lb/>
+days, what would he do next? Naturally he would<lb/>
+take the mosquito to the volunteer who agreed to<lb/>
+be bitten, with as little loss of time as possi-<lb/>
+ble<add>,</add> for captive mosquitoes in jars or test tubes<lb/>
+are delicate creatures and apt to die, or to be<lb/>
+<pb n="13" id="fKAMC0130"/>
+- 13 -<lb/>
+eaten by ants or escape. So those who missed<lb/>
+trap No. 1 were caught by trap No. 2 and as we<lb/>
+have said none of Dr. Finlay's experiments got<lb/>
+by both of them, nor did our Board's at first.</p>
+<p>Finlay's theory was as Gorgas once said<lb/>
+to me &ldquo;a wonderful instance of <hi>scientific clair-<lb/>
+voyance&rdquo;</hi>.</p>
+<p>Reed was called back to the United<lb/>
+States during the first week in August on account<lb/>
+of the death of Dr. Shakespeare, to put in order<lb/>
+the manuscripts of the Typhoid Fever Board and the<lb/>
+experiments began in his absence.</p>
+<p>They fed the mosquitoes every few days<lb/>
+by letting them bite the arm of a member of the<lb/>
+Board or a volunteer and these were not difficult<lb/>
+to find among the young doctors and orderlies at<lb/>
+the post hospital. On August 27th Lazear took<lb/>
+his mosquitoes to Las Animas Hospital to be fed<lb/>
+but one of them refused to bit<add>e.</add> It happened that<lb/>
+this insect had bitten a man in the 2nd day of<lb/>
+fever twelve days before and was thus past both<lb/>
+traps and was what we came to call &ldquo;loaded&rdquo;, but<lb/>
+this fact was not then appreciated. As the<lb/>
+<pb n="14" id="fKAMC0140"/>
+- 14 -<lb/>
+insect appeared to be weak and liable to die<lb/>
+Carroll offered to feed it on his arm and did so.<lb/>
+On the 30th Carroll felt badly and had a chill.<lb/>
+He was thought to have malaria and no one thought<lb/>
+of yellow fever until the sy<del>i</del><add>m</add>ptoms of that disease<lb/>
+were apparent. Carroll thought so little of the<lb/>
+mosquito bite and was so far from regarding it<lb/>
+as a scientific experiment that he went into the<lb/>
+infected zone and even into the post mortem room<lb/>
+where Agramonte was conducting an autopsy on a<lb/>
+yellow fever case. This greatly vexed Reed when<lb/>
+he returned and heard of it<add>,</add> as it vitiated to a<lb/>
+large extent the value of the case as an experi-<lb/>
+ment. When Carroll's diagnosis became clear,<lb/>
+Lazear and Agramonte were greatly troubled, but<lb/>
+determined to verify the virulence of this mos-<lb/>
+quito by putting her on the first volunteer who<lb/>
+presented himself. A young soldier of the 7th<lb/>
+Cavalry, Private Wm. H. Dean <del>came by the labora-<lb/>
+tory soon after they had agreed to do this (Aug.<lb/>
+31st) and</del> readily agreed to feed the mosquitoes.<lb/>
+He became sick 5 days later and as he had been<lb/>
+<pb n="15" id="fKAMC0150"/>
+- 15 -<lb/>
+in the quarantined camp all the time and so could<lb/>
+not have acquired yellow fever in any other way<lb/>
+the demonstration of mosquito conveyance was per-<lb/>
+fect. A little later Lazear was bitten while<lb/>
+feeding his mosquitoes in a yellow fever ward by<lb/>
+a mosquito not of his flock, and died Sept. 25th<lb/>
+after a few days's suffering of yellow fever in<lb/>
+its most malignant form. His case as a demonstra-<lb/>
+tion was of even less value than Carroll's as he<lb/>
+had been in frequent contact with cases of yellow<lb/>
+fever. Such <del>was</del><add>were</add> the conditions when Reed returned<lb/>
+from the United States a few days after Lazear's<lb/>
+death. The three cases, especially that of Dean<add>,</add><lb/>
+convinced him and he determined to hasten back to<lb/>
+the United States to report these cases to the<lb/>
+American Public Health Association and also to<lb/>
+consult the Surgeon General and his wise mentor<lb/>
+Dr. Welch as to the next steps to be taken, for<lb/>
+it was evident that this small and imperfectly<lb/>
+controlled series of cases <del>were</del><add>was</add> not sufficient<lb/>
+to convince the medical profession and the gener-<lb/>
+al public. I had at that time returned from a<lb/>
+short sick leave in the States and was Chief<lb/>
+<pb n="16" id="fKAMC0160"/>
+- 16 -<lb/>
+Surgeon at General Fitzhugh Lee's Headquarters,<lb/>
+and when Reed mentioned to me on October 11th his<lb/>
+intention to go to Havana next day to get General<lb/>
+Wood's permission to go to the United States, I<lb/>
+offered to get transportation and take him down.<lb/>
+Accordingly through the courtesy of the Adjutant<lb/>
+General, Major Michie, I got permission to use<lb/>
+General Lee's fine horses and carriage and so we<lb/>
+drove down in great style. When we were on the<lb/>
+road I asked him if he knew why I was going. When<lb/>
+he said no, I said it was to persuade him to ask<lb/>
+General Wood for a considerable sum of money to<lb/>
+pay the expenses of a series of experiments and<lb/>
+give liberal bonuses to Spanish immigrants, who<lb/>
+I was sure could be induced in that way to volun-<lb/>
+teer, especially as they came to Cuba with always<lb/>
+the probability of having to undergo an attack.<lb/>
+He did not commit himself as to what he would do,<lb/>
+and I awaited the interview with keen interest.<lb/>
+General Wood received us graciously as he knew<lb/>
+us both well and had taken a course of study under<lb/>
+Reed. They stood facing each other in the embras-<lb/>
+ure of a window of the Palace looking out on the<lb/>
+<pb n="17" id="fKAMC0170"/>
+- 17 -<lb/>
+Plaza de las Ar<add>m</add>as and to me, a silent observer,<lb/>
+it was a most dramatic scene with all the setting<lb/>
+of a great historic moment. Looking out between<lb/>
+them I could see Morro Castle and the blue waters<lb/>
+of the harbor and on our left the ancient fort La<lb/>
+Fuerz<del>s</del><add>a</add> built by the gallant de Soto before he<lb/>
+sailed northward to find his grave in the turbid<lb/>
+current of the Mississippi. The two men offered<lb/>
+a singular contrast in their appearance. General<lb/>
+Wood massive, leonine, impassive; Reed, slender,<lb/>
+alert, with mobile features and sparkling blue<lb/>
+eyes as he told the story of the three cases and<lb/>
+summed up the evidence. Then after a moment's<lb/>
+pause, he said very earnestly, &ldquo;General Wood will<lb/>
+you give me $10,000 to continue and complete these<lb/>
+experiments&rdquo;? General Wood's reply came almost<lb/>
+without hesitation - &ldquo;I have this morning signed<lb/>
+a warrant for that amount to aid the police in<lb/>
+the capture of criminals, and surely this work<lb/>
+is of more importance to Cuba than the catching<lb/>
+of a few thieves. I will give you $10,000 and if<lb/>
+that proves insufficient I will give you $10,000<lb/>
+more&rdquo;. We said good day to the Military Govern-<lb/>
+<pb n="18" id="fKAMC0180"/>
+- 18 -<lb/>
+or and with joyous hearts betook ourselves to the<lb/>
+Paris restaurant where we celebrated this with<lb/>
+a good luncheon and I pledged his success and<lb/>
+future fame in a bottle of Rioja Clarete.</p>
+<p>Next day Reed sailed for New York and read<lb/>
+his paper before the American Public Health Asso-<lb/>
+ciation on October 24th. There he encountered<lb/>
+Wasdin full of his new demonstration that B.<lb/>
+Sana<del>v</del><add>r</add>elli was <hi>it</hi> and that it was transmitted<lb/>
+through the respiratory channel like measles or<lb/>
+grippe. The clash was sharp, bitter and personal<lb/>
+on Wasdin's part, courteous and impersonal on<lb/>
+Reed's, but conclusive that the organism which<lb/>
+had led Wasdin and the rest of the world astray<lb/>
+was common in the tropics and was simply acci-<lb/>
+dentally present on or in the bodies of some<lb/>
+cases, and it was in fact a member of the hog<lb/>
+cholera group of bacteria. Reed did not linger<lb/>
+to enjoy his victory and <del>four</del><add>ten</add> days later he was<lb/>
+back in Cuba eager to take up the work with all<lb/>
+the facilities which General Wood's financial<lb/>
+and moral support placed in his hands.</p>
+<p>When Reed applied for the money Genl.<lb/>
+<pb n="19" id="fKAMC0190"/>
+- 19 -<lb/>
+Wood told him that he would place it for dis-<lb/>
+bursement in Kean's hands as he was an officer<lb/>
+permanently on duty there and Reed would be sav-<lb/>
+ed the worry of it. So this was done and I<lb/>
+acquired in a subordinate and business way a<lb/>
+connection with this famous Board.</p>
+<p>The building of his experimental<lb/>
+station, Camp Lazear, where the tests should<lb/>
+be made was at once begun and Spanish immi-<lb/>
+grants were readily found who for a handsome<lb/>
+sum were willing to be bitten by the &ldquo;little<lb/>
+flies&rdquo; and if they were taken sick to be nur-<lb/>
+sed by the Se&ntilde;oritas Americanas as they call-<lb/>
+ed the nurses. A most dramatic episode of<lb/>
+this period was the volunteering of Moran and<lb/>
+Kissinger to be the first victims of experi-<lb/>
+mentation, Kissinger was in fact the first<lb/>
+case, a noble offer which has been often and<lb/>
+fully told. These were followed by other<lb/>
+American soldiers from the Hospital Corps so<lb/>
+that between the Americans and the Spaniards,<lb/>
+the supply of subjects for experiment was<lb/>
+ample. The Spaniards furnished Reed much<lb/>
+<pb n="20" id="fKAMC0200"/>
+- 20 -<lb/>
+amusement especially a jolly young Spaniard<lb/>
+named Antonio Benigno but whom Reed called<lb/>
+<del>b</del><add>V</add>oniato which means sweet potatoes, on account<lb/>
+of his fondness for that vegetable. His con-<lb/>
+tract with Reed in Spanish hangs on the walls<lb/>
+of my office. He was first to recover and when<lb/>
+I took his reward to him I got it in $20 gold<lb/>
+pieces. The poor Spaniard had never seen such<lb/>
+great coins or so much money and his joy was<lb/>
+that of a child with a new toy.</p>
+<p>The revolting test of the infected<lb/>
+clothing and bedding by Dr. Robert P. Cook (a<lb/>
+Virginian by the way) and his 6 privates of the<lb/>
+Hospital Corps who slept in them by twos for<lb/>
+60 successive nights was another heroid episode.<lb/>
+All this makes it a wonderful and thrilling<lb/>
+story which is well told in Kelly's admirable<lb/>
+work.</p>
+<p>Suffice it to say that his demonstra-<lb/>
+tions carried conviction with them to the physi-<lb/>
+cians of Havana, who had remained incredulous<lb/>
+during the 20 years that Dr. Carlos Finlay had<lb/>
+been laboring to convince them with arguments<lb/>
+<pb n="21" id="fKAMC0210"/>
+- 21 -<lb/>
+and experiments of this very thing. So then<lb/>
+they bethought themselves of this dear old man<lb/>
+who was at the head of the Yellow Fever Board<lb/>
+and sixty doctors of Havana gave him a dinner<lb/>
+to celebrate the verification of the Finlay<lb/>
+theory.</p>
+<p>Dr. Juan Guiteras who died this year<lb/>
+in Havana presided, and as I recollet the Mili-<lb/>
+tary Governor sat on one side of him and Dr.<lb/>
+Finlay on the other. Reed, Carroll and Agramon-<lb/>
+te were th<del>os</del><add>er</add>e, and Gorgas and I and perhaps<lb/>
+other medical officers. Guiteras with his musi-<lb/>
+cal voice and admirable diction undertook to<lb/>
+divide the honors between Finlay and Reed. He<lb/>
+compared this work to the demonstration that<lb/>
+the anopheles mosquito carried malaria which had<lb/>
+been published by Ross two years before. Finlay<lb/>
+was like Patrick Manson who propounded the theory<lb/>
+and Reed was like Ross who demonstrated it so<lb/>
+that it was accepted by the scientific world. We<lb/>
+all agreed that the simile was a good one and the<lb/>
+division of credit just. But as the years have<lb/>
+passed and the fame of Walter Reed has spread to<lb/>
+<pb n="22" id="fKAMC0220"/>
+- 22 -<lb/>
+all corners of the world our Cuban friends have<lb/>
+come to feel that Finlay has not had his share.<lb/>
+They do not realize that it is to the demonstra-<lb/>
+tor and not to the theorist that the world of<lb/>
+science gives the highest place. About the time<lb/>
+that Dr. Finlay made the first announcement of<lb/>
+his theory, a distinguished physician of Washing-<lb/>
+ton, Dr. A. F. A. King, read a remarkable paper<lb/>
+before the Philosophical Society which was after-<lb/>
+wards published in the Popular Science Monthly<lb/>
+entitled &ldquo;Insects and Disease, Mosquitoes and<lb/>
+Malaria&rdquo; in which he pronounced his theory that<lb/>
+malaria was carried by mosquitoes and gave 19 good<lb/>
+epidemiological reasons in support of his theory.<lb/>
+But it remained a barren theory although it had<lb/>
+later the powerful support of the Father of Trop-<lb/>
+ical Medicine, Patrick Manson, until Ross furnish-<lb/>
+ed the demonstration. Although Dr. King was loved<lb/>
+and admired in Washington as was Finlay in Havana,<lb/>
+no one that I have heard has raised the cry that he<lb/>
+has been robbed of the fame and credit that is due<lb/>
+him, as the Cubans have recently done in <add>an</add> official<lb/>
+publication in the case of Dr. Finlay. Goldberger<lb/>
+<pb n="23" id="fKAMC0230"/>
+- 23 -<lb/>
+of the Public Health Service has stated the case in<lb/>
+one pithy sentence - &ldquo;Reed has converted a discred-<lb/>
+ited theory into an established doctrine&rdquo;.</p>
+<p>My remarks have already taken too much<lb/>
+time for me to make even a brief estimate of the<lb/>
+value of Reed's work, or of the vast sum of human<lb/>
+suffering and loss of life from this terrible plague<lb/>
+which he made it possible to bring to an end. Prof.<lb/>
+Welch said of it in a letter to the Secretary of<lb/>
+War:</p>
+<p>&ldquo;Dr. Reed's researches in yellow fever<lb/>
+are by far the most important contributions<lb/>
+to science which have ever come from an Army<lb/>
+surgeon. In my judgment, they are the most<lb/>
+valuable contributions to medicine and public<lb/>
+hygiene which have ever been made in this<lb/>
+country with the exception of the discovery<lb/>
+of anaesthesia. They have led and will lead<lb/>
+to the saving of untold thousands of lives.<lb/>
+I am in a position to know that the credit<lb/>
+for the original ideas embodied in this work<lb/>
+belong wholly to Major Reed. Such work, if<lb/>
+<pb n="24" id="fKAMC0240"/>
+- 24 -<lb/>
+done in Europe, would receive substantial<lb/>
+recognition from the Government.</p>
+<p>General Wood whose recent death we still<lb/>
+mourn said:</p>
+<p>&ldquo;I know of no man on this side of the<lb/>
+world who has done so much for humanity as<lb/>
+Dr. Reed. His discovery results in the sav-<lb/>
+ing of more lives annually than were lost in<lb/>
+the Cuban War, and saves the commercial in-<lb/>
+terests of the world from a greater financial<lb/>
+loss each year than the cost of the Cuban<lb/>
+War. Hereafter it will never be possible for<lb/>
+yellow fever to gain such headway that quaran-<lb/>
+tine will exist from the mouth of the Potomac<lb/>
+to the mouth of the Rio Grande. Future gen-<lb/>
+erations will appreciate fully the value of<lb/>
+Dr. Reed's services. His was the originat-<lb/>
+ing, directing and controlling mind in this<lb/>
+work and the others were assistants only&rdquo;.</p>
+<p>It was stated in a recent biography of<lb/>
+General Gorgas that Reed when his demonstration was<lb/>
+complete did not know what to do with it, that he<lb/>
+did not see how mosquitoes could be successfully<lb/>
+<pb n="25" id="fKAMC0250"/>
+- 25 -<lb/>
+fought and his attitude in the first months of 1901<lb/>
+was one of pessimism and depression.</p>
+<p>Nothing could be further from the truth.<lb/>
+His letter to Dr. L. O. Howard, Chief of the Bureau<lb/>
+of Entomology at Washington, on January 13, 1901,<lb/>
+rings with joyful anticipation and in it he says<lb/>
+&ldquo;with Howard and kerosine we will soon knock out old<lb/>
+<hi>culex fasciatus&rdquo;</hi> (the name applied at that time to<lb/>
+the yellow fever bearing mosquito).</p>
+<p>In the paper which he read to the Pan<lb/>
+American Congress held in Habana on Feb. 4th, <add>1901</add> the<lb/>
+10th conclusion is:</p>
+<p>&ldquo;The spread of yellow fever can<lb/>
+be most effectually controlled by<lb/>
+measures directed to the destruction<lb/>
+of mosquitoes and the protection of<lb/>
+the sick against the bites of these<lb/>
+insects&rdquo;.</p>
+<p>This was written at a time when Gorgas according to<lb/>
+his own statement still was in doubt whether this<lb/>
+was the only way <hi>or even the common way</hi> in which<lb/>
+yellow fever was spread.</p>
+<p>Such claims grievously misrepresent Gorgas.</p>
+<pb n="26" id="fKAMC0260"/>
+<p>- 26 -</p>
+<p>Between Reed and Gorgas I am glad to say<lb/>
+there was never any rivalry or any feeling but the<lb/>
+most cordial friendship and confidence. Their re-<lb/>
+lation as they saw it was well expressed in a letter<lb/>
+from Gorgas to Reed dated from Havana, August 26th,<lb/>
+1901 in which he said:</p>
+<p>&ldquo;I am very happy to shine in the more<lb/>
+humble role of being the first to put your<lb/>
+discovery to extensive practical application&rdquo;.</p>
+<p>The fame of Gorgas is secure in the performance of<lb/>
+the greatest feat of Sanitary administration that<lb/>
+the world has seen. That of Reed is admirably<lb/>
+stated in the citation of President Eliot which is<lb/>
+the epitaph on Reed's tomb -</p>
+<p>&ldquo;He gave to man control of that dreadful<lb/>
+scourge yellow Fever&rdquo;.</p>
+<p>We here today may make for Walter Reed<lb/>
+the proud boast of the Roman poet:</p>
+<p>Exegi monumentum aere perennius.</p>
+<p>He has indeed built a monument more last-<lb/>
+ing than bronze, and loftier than the pyramids of<lb/>
+kings, which neither storms, nor winds, nor the im-<lb/>
+measurable flight of time can destroy.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

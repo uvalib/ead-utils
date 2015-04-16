@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N1105002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, [19--]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N1105002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Newspaper">YES</term>
+<name type="person">Byrd, J.L.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Cristobol, Panama Canal Zone</name>
+<name type="place">Colon, Panama Canal Zone</name>
+<name type="place">Manzanillo Island, Panama Canal Zone</name>
+<name type="hospital">Ancon Hospital, Panama Canal Zone</name>
+<name type="hospital">Colon Hospital (Panama Canal Zone)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<idno rend="suppress">N1105002</idno>
+<title>Newspaper clipping, [19--]</title>
+</bibl>
+</head>
+<p>Explains Flying Resistance of Mosquitoes</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Newspaper clipping, [19--]</head>
+<pb n="1" id="fN1105002"/>
+<p>EXPLAINS FLYING<lb/>
+RESISTANCE OF<lb/>
+MOSQUITOES</p>
+<p>Malaria Mosquito Will Fly Against<lb/>
+8-Mile Breeze For Distance of<lb/>
+Two Miles and Across Mile of<lb/>
+Open Water, Dr. Byrd Claims</p>
+<p>------</p>
+<p>That the malaria mosquito or<lb/>
+Anopheles will fly against an eight-<lb/>
+mile breeze for a distance of two<lb/>
+miles across a mile of open water,<lb/>
+is the conclusion reached by Dr.<lb/>
+J. L. Byrd, Health Officer of Cris-<lb/>
+tobal - Colon, after extensive flight<lb/>
+observations at Manzanillo Island.<lb/>
+Data from a paper ready by Dr. Byrd<lb/>
+before the 198 meeting of the Med-<lb/>
+ical Association of the Canal Zone<lb/>
+at the Ancon Hospital May 18, on<lb/>
+the anti-malarial campaign at<lb/>
+Cristobal-Colon, was obtained Sat-<lb/>
+urday at Balboa Heights.</p>
+<p>Dr. Byrd pointed out that Cris-<lb/>
+tobal-Colon once known as one of<lb/>
+the most unhealthy seaports in the<lb/>
+world, is situated on Manzanillo<lb/>
+Island, near the Atlantic entrance<lb/>
+to the Panama Canal.</p>
+<p>Once a Tidal Swamp</p>
+<p>The Island was once a tidal<lb/>
+swamp but has been largely filled.<lb/>
+In 1905 General Gorgas and his<lb/>
+co-workers eradicated yellow fever<lb/>
+from this area and by 1917 the<lb/>
+anti-malaria works had been extend<lb/>
+ed to about half a mile from the<lb/>
+inhabited section. This belt was<lb/>
+thoroughly sanitated, all vegetation<lb/>
+being kept closely trimmed, the<lb/>
+swampy areas were either filled or<lb/>
+drained and the drains oiled at re-<lb/>
+gular intervals of seven days. This<lb/>
+eliminated anopheles breeding from<lb/>
+Manzanillo Island and the adjoin-<lb/>
+ing part of Mount Hope District.<lb/>
+Nevertehless, malaria continued.</p>
+<p>On investigation it was found<lb/>
+that countless numbers of anophe-<lb/>
+lines were being bred in the ex-<lb/>
+tensive swamps which surround the<lb/>
+city on three sides and during 1917.<lb/>
+<hi>1918 and 1919 appeared in such</hi><lb/>
+quantities on the screens at Colon<lb/>
+Hospital and the Washington Hotel<lb/>
+at the beginning of the rainy sea-<lb/>
+son and for the following three<lb/>
+months that it was necessary to<lb/>
+detail a laborer to kill them with lar-<lb/>
+vacide applied with a knapsack<lb/>
+spray.</p>
+<p>These mosquitoes came from the<lb/>
+swamps two miles distant across<lb/>
+Manzanillo Bay, a mile of open<lb/>
+water. Flight observations clearly<lb/>
+indicate that they would fly against<lb/>
+an eight mile breeze for a distance<lb/>
+of two miles. The drainage of these<lb/>
+swamps by sea-level canals in 1920-<lb/>
+21 did away with this annual vis-<lb/>
+itation of anophelines. Very little<lb/>
+oil was used in controlling mos-<lb/>
+quito breeding in the swamps in<lb/>
+question. Trochas (paths) six feet<lb/>
+wide were cut through the swamp<lb/>
+at intervals of 50 yards and- sea<lb/>
+level drains about eight inches wide<lb/>
+dug along their center. The drains<lb/>
+were kept free of vegetation. This<lb/>
+method was not expensive and has<lb/>
+proven very effective, malaria be-<lb/>
+ing successfully controlled and prac-<lb/>
+tically eradicated from Cristobal-<lb/>
+Colon.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

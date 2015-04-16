@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02401034">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Samuel W. Smith to Elihu Root, October 25, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Smith, Samuel W.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02401034</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-10-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Root, Elihu</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Vaughan, Victor C.</name>
+<name type="person">Reed, Walter</name>
+<name type="place">Pontiac (Mich.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1901-10-25">October 25, 1901</date>
+<idno rend="suppress">02401034</idno>
+<title>Letter from Samuel W. Smith to Elihu Root, October 25, 1901</title>
+</bibl>
+</head>
+<p>Smith requests, on Victor C. Vaughan's behalf, that Root detail Walter Reed to attend a medical conference at Ann Arbor, Michigan in order to present a paper on his work with yellow fever. He encloses a copy of Victor C. Vaughan's letter of October 21, 1901. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1901-10-25">
+<head>Letter from Samuel W. Smith to Elihu Root, October 25, 1901</head>
+<pb n="1" id="f02401034"/>
+<opener>
+<unclear>[unclear]</unclear> 2959 <unclear>[unclear]</unclear><lb/>
+<unclear>OFFICE OF ADJUTANT GENERAL</unclear><lb/>
+OCT 29<lb/>
+404591<lb/>
+1901<lb/>
+WAR DEPARTMENT.<lb/>
+--------<lb/>
+B<lb/>
+Pontiac, Mich.<lb/>
+Oct. 25, 1901.<lb/>
+Case of<lb/>
+Walter Reed<lb/>
+Maj. Surg. U.S.A.<lb/>
+Detail at Health Confer-<lb/>
+ence, Ann Arbor, 22. &amp; 22<lb/>
+Nov. 1901. K<lb/>
+<unclear>[unclear] SURGEON GENERAL,</unclear><lb/>
+NOV 1<lb/>
+19928<lb/>
+1901<lb/>
+WAR DEPARTMENT.<lb/>
+Requested by Hon. S. W.<lb/>
+Smith and Prof. V.C. Vaugh-<lb/>
+an Mich. Univ'y.<lb/>
+Reed from Sec'y's office.<lb/>
+1 Encls - A. G. O.<lb/>
+<unclear>[unclear]</unclear><lb/>
+Recorded, A. G. O. Oct. 29,<lb/>
+1901.<lb/>
+<pb n="2" id="f02401035"/>
+House of Representatives,<lb/>
+Washington, D.C.,<lb/>
+<dateline>
+Pontiac, Mich. <date value="1901-10-25">Oct. 25, 1901.</date>
+</dateline><lb/>
+RECEIVED<lb/>
+OCT 28 1901<lb/>
+OFFICE<lb/>
+Secretary of War.<lb/>
+Hon. Elihu Root,<lb/>
+Washington, D.C.<lb/>
+<salute>Dear Sir:-</salute>
+</opener>
+<p>I enclose a letter from V. C. Vaughan from the University of<lb/>
+Michigan. I should be pleased if his request might be granted.</p>
+<closer>
+<salute>Truly yours,</salute>
+<signed>S. W. Smith.</signed>
+</closer>
+</div1>
+<div1 type="letter" n="1901-10-25">
+<head>Letter from Victor C. Vaughn to Samuel W. Smith, October 21, 1901</head>
+<pb n="3" id="f02401036"/>
+<opener>
+UNIVERSITY OF MICHIGAN.<lb/>
+----------<lb/>
+DEPARTMENT OF MEDICINE<lb/>
+AND SURGERY,<lb/>
+<dateline>
+Ann Arbor, <date value="1901-10-21">October 21, 1901.</date> 190<lb/>
+</dateline><lb/>
+Honorable Samuel W. Smith,<lb/>
+Pontiac, Michigan.<lb/>
+<salute>Dear Sir:--</salute>
+</opener>
+<p>On the 21st and 22d of November next, the health<lb/>
+officers of the state of Michigan are to hold a conference at<lb/>
+Ann Arbor. We are exceedingly anxious that Major Walter Reed,<lb/>
+U. S. A., be present with us at that time and give us a paper<lb/>
+embodying his researches on yellow fever. I write to you to<lb/>
+request that you ask the Secretary of War or the Surgeon General<lb/>
+of the Army, or both, to detail Dr. Reed to attend this con-<lb/>
+ference. I may say that Dr. Reed will be pleased to come, should<lb/>
+he receive such a detail. Thanking you in advance, I have the<lb/>
+honor to be,</p>
+<closer>
+<salute>Yours most respectfully,</salute>
+<signed>V. C. Vaughan</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

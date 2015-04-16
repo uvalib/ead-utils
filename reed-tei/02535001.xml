@@ -1,0 +1,2333 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02535001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Public Health Papers and Reports, volume XXVII, presented at the Twenty-Ninth Annual Meeting of the American Public Health Association, Buffalo, N.Y., September 16-20, 1901 [selected pages]</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02535001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-09-16</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Lee, Benjamin</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Doty, Alvah H.</name>
+<name type="person">Bell, Agrippa Nelson</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Wasdin, Eugene</name>
+<name type="person">Formento, Felix</name>
+<name type="place">Buffalo (N.Y.)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>51 pp.</extent>
+<date value="1901-09-16">September 16-20, 1901</date>
+<idno rend="suppress">02535001</idno>
+<title>Public Health Papers and Reports, volume XXVII, presented at the Twenty-Ninth Annual Meeting of the American Public Health Association, Buffalo, N.Y., September 16-20, 1901 [selected pages]</title>
+</bibl>
+</head>
+<p>Proceedings of the 29<hi rend="superscript">th</hi> American Health Conference include the &ldquo;President's Address&rdquo; by Benjamin Lee, &ldquo;The Results of Yellow Fever....&rdquo; by William Crawford Gorgas, &ldquo;Practical Discussion of Yellow Fever&rdquo; by Alvah H. Doty, &ldquo;Fomites and Yellow Fever&rdquo; by A. N. Bell, and the &ldquo;Official Report of the Proceedings....&rdquo;. </p>
+</div1>
+<div1 type="book">
+<p></p>
+</div1>
+<pb n="i" id="f02535001"/>
+<titlePage> 
+<docTitle> 
+<titlePart>PUBLIC HEALTH<lb/>
+PAPERS AND REPORTS<lb/>
+VOLUME XXVII<lb/>
+PRESENTED AT THE TWENTY-NINTH ANNUAL MEETING OF THE<lb/>
+American Public Health Association<lb/>
+BUFFALO, N. Y.<lb/>
+LIBRARY<lb/>
+Indexed<lb/>
+S. G. O.</titlePart> 
+</docTitle>
+<docDate>SEPTEMBER 16, 17, 18, 19 AND 20.<lb/>
+1901<lb/>
+----------<lb/>
+LIBRARY<lb/>
+SURGEON GENERAL'S OFFICE<lb/>
+FEB. <unclear>21. 1902</unclear><lb/>
+181688.</docDate>
+<docImprint>COLUMBUS, OHIO:<lb/>
+THE BERLIN PRINTING COMPANY.<lb/>
+1902.<lb/>
+</docImprint>
+<pb n="ii" id="f02535002"/>
+<byline>Copyright, 1901,<lb/>
+BY <docAuthor>DR. CHARLES O. PROBST</docAuthor>, SECRETARY AMERICAN PUBLIC HEALTH ASSOCIATION,<lb/>
+Columbus, Ohio.<lb/>
+All Rights Reserved.</byline>
+</titlePage>
+<div1 type="contents">
+<pb n="iii" id="f02535003"/>
+<list>
+<head>TABLE OF CONTENTS.<lb/>
+----------</head>
+<item>PAGE</item>
+<item>PRESIDENT'S ADDRESS. By BENJAMIN LEE, M. D........................<ref target="f02535001">1</ref></item>
+<item>ADDRESS OF WELCOME. By ANSLEY WILCOX...........................<ref target="f02535139">14</ref></item>
+<item>RESPONSE OF THE PRESIDENT TO THE ADDRESS OF WELCOME. By BEN-<lb/>
+JAMIN LEE, M. D...................................................<ref target="f02535142">17</ref></item>
+<item>ON THE PROGRESS OF PUBLIC HEALTH ORGANIZATIONS IN THE UNITED<lb/>
+STATES. By STEPHEN SMITH, M. D.................................<ref target="f02535144">19</ref></item>
+<item>REPORT OF COMMITTEE ON TRANSPORTATION OF DISEASED TISSUE BY<lb/>
+MAIL. By F. F. WESBROOK, M. D., Chairman......................<ref target="f02535152">27</ref></item>
+<item>REPORT OF THE COMMITTEE ON NATIONAL-LEPER HOMES. By HENRY M.<lb/>
+BRACKEN, M. D., Chairman.........................................<ref target="f02535352">34</ref></item>
+<item>THE BRITISH CONGRESS ON TUBERCULOSIS, JULY 22-27, 1901. By F.<lb/>
+MONTIZAMBERT, M. D..............................................<ref target="f02535353">35</ref></item>
+<item>REPORT OF COMMITTEE ON ANIMAL DISEASES AND ANIMAL FOOD. By<lb/>
+D. E. SALMON, D. V. M., Chairman.................................<ref target="f02535363">45</ref></item>
+<item>SUMMARY OF A PAPER GIVING SOME FACTS WHICH TEND TO SHOW THAT<lb/>
+BOVINE TUBERCULOSIS CAN BE THE SOURCE OF THE SAME DISEASE<lb/>
+IN MAN. By J&Eacute;SUS CHICO, M. D...................................78</item>
+<item>TUBERCULOSIS: HEREDITY. By FELIX FORMENTO, M. D.................81</item>
+<item>SUMMARY OF A PAPER ON SANATORIA FOR CONSUMPTIVES. By A. CAR-<lb/>
+RIEDO, M. D........................................................85</item>
+<item>REPORT OF COMMITTEE ON TEACHING OF HYGIENE AND GRANTING OF<lb/>
+DIPLOMA OF DOCTOR OF PUBLIC HEALTH. By W. T. SEDGWICK,<lb/>
+Chairman........................................................87</item>
+<item>INSTRUCTION IN HYGIENE FOR ARCHITECTS AND ENGINEERS. By W. T.<lb/>
+SEDGWICK ........................................................92</item>
+<item>UNIVERSITY TEACHING IN HYGIENE. By A. C. ABBOTT, M. D............94</item>
+<item>TYPHOID FEVER DEATH RATES IN AMERICAN CITIES. By GEORGE W.<lb/>
+FULLER, Chairman................................................100</item>
+<item>THE LEGAL ASPECTS OF WATER POLLUTION. By J. L. LEAL, M. D......103</item>
+<item>THE PREVENTION OF YELLOW FEVER. By WALTER REED, M. D., AND<lb/>
+JAMES CARROLL, M. D..............................................113<lb/>
+iii<lb/>
+<pb n="iv" id="f02535004"/>
+iv<lb/>
+<hi rend="italic">TABLE OF CONTENTS</hi>.</item>
+<item>PAGE</item>
+<item>THE RESULTS OF YELLOW FEVER SANITATION IN HAVANA, CUBA, FOR THE<lb/>
+YEAR 1901 UP TO SEPTEMBER 1ST, CARRIED ON UPON THE BASIS THAT<lb/>
+THE STEGOMYIA MOSQUITO IS THE SOLE MEANS OF ITS TRANSMIS-<lb/>
+SION. By W. C. GORGAS, M. D....................................130</item>
+<item>PRACTICAL DISCUSSION OF YELLOW FEVER. By ALVAH. H. DOTY, M. D..134</item>
+<item>FOMITES AND YELLOW FEVER. By A. N. BELL, M. D...................144</item>
+<item>TENTH REPORT ON YELLOW FEVER IN MEXICO. By EDUARDO LIC&Eacute;AGA,<lb/>
+M. D.............................................................152</item>
+<item>A BRIEF STATEMENT OF THE SANITARY WORK SO FAR ACCOMPLISHED IN<lb/>
+THE PHILIPPINE ISLANDS, AND OF THE PRESENT SHAPE OF THEIR SANI-<lb/>
+TARY ADMINISTRATION. By CHARLES R. GREENLEAF, M. D.........157</item>
+<item>SANITATION IN PORTO RICO. By WILLIAM F. SMITH, M. D..............166</item>
+<item>VACCINAL IMMUNIZATION FROM THE HEALTH OFFICER'S STANDPOINT.<lb/>
+By PETER H. BRYCE, M. D.........................................175</item>
+<item>REMARKS INTENDED TO SHOW THE INNOCUOUS CHARACTER OF HUMANIZED<lb/>
+VACCINE AS A PREVENTATIVE OF SMALLPOX. By FRANCISCO DE<lb/>
+BERNALDEZ, M. D..................................................182</item>
+<item>REPORT OF THE COMMITTEE ON DISPOSAL OF REFUSE MATERIALS. By<lb/>
+RUDOLPH HERING, Chairman.......................................184</item>
+<item>REFUSE DISPOSAL IN BOSTON. By HIBBERT WINSLOW HILL, M. D......186</item>
+<item>REFUSE DISPOSAL IN THE DISTRICT OF COLUMBIA. By WILLIAM C.<lb/>
+WOODWARD, M. D..................................................194</item>
+<item>THE BACTERIAL PURIFICATION OF WATER BY FREEZING. By H. W.<lb/>
+CLARK...........................................................204</item>
+<item>REPORT OF THE COMMITTEE ON THE RELATION OF FORESTRY TO THE<lb/>
+PUBLIC HEALTH. By PROF. WILLIAM H. BREWER, Chairman........209</item>
+<item>CIRCULAR OF THE AMERICAN PUBLIC HEALTH ASSOCIATION ISSUED BY THE<lb/>
+COMMITTEE ON CAR SANITATION. By PROF. S. H. WOODBRIDGE,<lb/>
+Chairman.........................................................224</item>
+<item>REPORT OF THE COMMITTEE ON CAUSE, PREVENTION AND DURATION OF<lb/>
+INFECTIOUS DISEASES. By A. WALTER SUITER, M. D., Chairman....227</item>
+<item>PRESENT STATUS OF DIPHTHERIA. By WILLIAM C. WOODWARD, M. D....238</item>
+<item>TYPHOID FEVER. By FRANK W. WRIGHT, M. D.........................241</item>
+<item>REPORT OF COMMITTEE ON DISINFECTANTS AND DISINFECTION. By<lb/>
+HIBBERT WINSLOW HILL, M. D., Acting Chairman..................244</item>
+<item>REPORT OF SUB-COMMITTEE ON STANDARD CULTURES AND THE METHOD<lb/>
+OF USING THEM. By E. H. WILSON, M. D., Chairman...............247</item>
+<item>OBSERVATIONS ON THE PRACTICE OF DISINFECTION IN THE FEDERAL DIS-<lb/>
+TRICT OF MEXICO. By FERNANDO LOPEZ, M. D.....................253<lb/>
+<pb n="v" id="f02535005"/>
+<hi rend="italic">TABLE OF CONTENTS</hi>.<lb/>
+v</item>
+<item>PAGE</item>
+<item>REPORT OF THE COMMITTEE ON PUBLIC HEALTH LEGISLATION. By U. O.<lb/>
+B. WINGATE, M. D., Chairman......................................256</item>
+<item>REPORT OF COMMITTEE ON SCHOOL HYGIENE. By HENRY MITCHELL,<lb/>
+M. D., Chairman....................................................260</item>
+<item>NOTES ON THE NECESSITY OF ATTENDING TO THE HYGIENE OF THE MOUTH<lb/>
+AMONGST THE PUPILS OF SCHOOLS. By JUAN BRE&Ntilde;A, M. D..........286</item>
+<item>THE INFLUENCE OF SCHOOL LIFE OVER HEALTH. By FRANK W. WRIGHT,<lb/>
+M. D.............................................................297</item>
+<item>A SUMM&Aacute;RY OF A PAPER ON THE ADVISABILITY OF ENTRUSTING TO PHY-<lb/>
+SICIANS AND NOT TO TEACHERS, THE MEDICAL SUPERVISION OF PUPILS.<lb/>
+By IGNACIO GUZMAN, M. D..........................................304</item>
+<item>REPORT OF THE COMMITTEE ON DEMOGRAPHY AND STATISTICS IN THEIR<lb/>
+SANITARY RELATION. By JOHN S. FULTON, M. D., Chairman........305</item>
+<item>SOME OF THE CAUSES OF INFANT MORTALITY IN NURSERIES AND ASYLUMS,<lb/>
+AND THEIR PREVENTION. By ELIAS H. BARTLEY, M. D..............306</item>
+<item>SUMMARY OF A PAPER ON CREMATION IN RELATION TO SANITARY LEGIS-<lb/>
+LATION. By LUIS G. ESPINOZA, M. D...............................314</item>
+<item>SOME RESULTS OF THE ARMY CANTEEN OR POST EXCHANGE FROM THE<lb/>
+STANDPOINT OF DISCIPLINE AND HYGIENE. By EDWARD L. MUNSON,<lb/>
+M. D.............................................................315</item>
+<item>ANTI-RABIC DEPARTMENT OF THE SUPREME BOARD OF HEALTH OF MEXICO.<lb/>
+By EDUARDO LIC&Eacute;AGA, M. D........................................318</item>
+<item>OFFICIAL REPORT OF THE PROCEEDINGS OF THE TWENTY-NINTH ANNUAL<lb/>
+MEETING.........................................................319</item>
+<item>PROCEEDINGS OF THE SECTION OF BACTERIOLOGY AND CHEMISTRY.........377</item>
+<item>REPORT OF COMMITTEE ON STANDARD METHODS OF WATER ANALYSIS.<lb/>
+By GEORGE W. FULLER, Chairman..................................377</item>
+<item>STUDIES OF MEDIA FOR THE QUANTITATIVE ESTIMATION OF BACTERIA<lb/>
+IN WATER AND SEWAGE. By STEPHEN DEM. GAGE AND EARLE B.<lb/>
+PHELPS...........................................................392</item>
+<item>IS THE COLON BACILLUS A NORMAL INHABITANT OF THE INTESTINES OF<lb/>
+FISHES? By JOHN A. AMYOT, M. B.................................400</item>
+<item>SOME COMMON BACTERIA IN AMERICAN STREAMS, INCLUDING SOME NEW<lb/>
+SPECIES ISOLATED AT NEW ORLEANS, LOUISIANA. By ROBERT SPURR<lb/>
+WESTON AND ARTHUR I. KENDALL...................................402</item>
+<item>ABSTRACT OF &ldquo;REMARKS REGARDING THE INVESTIGATION OF BACILLUS<lb/>
+COLI IN WATER.&rdquo; By GONZALES FABELA............................408</item>
+<item>THE SIGNIFICANCE OF THE PRESENCE AND AMOUNT OF CARBON DI-OXIDE<lb/>
+IN POTABLE WATERS. By ELLEN H. RICHARDS......................411<lb/>
+<pb n="vi" id="f02535006"/>
+vi<lb/>
+<hi rend="italic">TABLE OF CONTENTS</hi>.</item>
+<item>PAGE</item>
+<item>REFINED AND IMPROVED ANTITOXIN PREPARATIONS. By JOSEPH McFAR-<lb/>
+LAND, M. D........................................................414</item>
+<item>ANTITOXINS AND AGGLUTININS. By THORVALD MADSEN.................417</item>
+<item>SOME WORK ON A CURATIVE SERUM FOR TYPHOID FEVER. By WILLIAM<lb/>
+ROYAL STOKES, M. D., AND JOHN S. FULTON, M. D..................423</item>
+<item>ABSTRACT OF A PAPER ENTITLED &ldquo;DEMONSTRATION OF THE EXISTENCE OF<lb/>
+TYPHOID FEVER IN THE CITY OF MEXICO BY THE WIDAL METHOD.&rdquo;<lb/>
+By ANGEL GAVI&Ntilde;O, M. D...........................................437</item>
+<item>METHODS OF DIAGNOSIS IN GLANDERS. By HIBBERT WINSLOW HILL,<lb/>
+M. D., AND ALEXANDER BURR, D. V. M.............................439</item>
+<item>THE VIABILITY OF THE PLAGUE BACILLUS IN ITS RELATIONS TO THE<lb/>
+PUBLIC HEALTH. By M. J. ROSENAU, M. D.........................448</item>
+<item>CULTIVATION OF THE BACILLUS INFLUENZA. By ADOLPH GEHRMANN.<lb/>
+M. D................................................................458</item>
+<item>THE BACTERIAL CONTAMINATION OF CITY MILK--IS IT HARMFUL?<lb/>
+SHOULD IT BE CONTROLLED BY HEALTH AUTHORITIES? By WILLIAM<lb/>
+HALLOCK PARK, M. D..............................................461</item>
+<item>THE NON-NITRIFICATION OF SEPTIC SEWAGE IN CONTACT FILTERS. By<lb/>
+H. W. CLARK.......................................................464</item>
+<item>SOME POINTS IN THE LIFE HISTORY AND IN THE DECOMPOSITION OF BLUE-<lb/>
+GREEN ALGAE AS ILLUSTRATED BY OSCILLARIA PROLIFICA (WITH<lb/>
+SAMPLES). By ELLEN H. RICHARDS................................467</item>
+<item>HYDROCYANIC-ACID GAS IN PUBLIC HEALTH WORK. By JOHN S. FULTON,<lb/>
+M. D., AND WILLIAM R. STOKES, M. D.............................469</item>
+<item>AIR TESTING FOR ENGINEERS. By ELLEN H. RICHARDS.................477</item>
+<item>AN ENGINEER'S KIT FOR WATER INSPECTION. By ELLEN H. RICHARDS..478</item>
+<item>CONSTITUTION........................................................i</item>
+<item>BY-LAWS OF THE EXECUTIVE COMMITTEE................................v</item>
+<item>OFFICERS AND COMMITTEES.............................................viii</item>
+<item>REVISED LIST OF MEMBERS.............................................xvi</item>
+<item>MEMBERS ELECTED AT BUFFALO MEETING...............................xxv</item>
+<item>LIST OF MEMBERS BY GEOGRAPHICAL DISTRIBUTION....................."xxvii</item>
+<item>SANITARY AUTHORITIES AND ASSOCIATIONS.............................."xxxv</item>
+<item>INDEX..............................................................."xliii</item>
+</list>
+</div1>
+</front>
+<body>
+<div1 type="chapter" n="1">
+<head>PRESIDENT'S ADDRESS.</head>
+<pb n="1" id="f02535007"/>
+<byline>BY <docAuthor>BENJAMIN LEE, M. D.,</docAuthor>
+SECRETARY STATE BOARD OF HEALTH, PHILADELPHIA, PENNSYLVANIA.</byline>
+<p>Proc Am Pub H. A<lb/>
+29th meeting Sept 1901</p>
+<p>MR. CHAIRMAN AND MEMBERS OF THE AMERICAN PUBLIC HEALTH<lb/>
+ASSOCIATION, LADIES AND GENTLEMEN--Bear with me a moment, I<lb/>
+pray you, if I supplement the few hurried words in which at the close of<lb/>
+our last session I tried to thank you for the distinguished honor con-<lb/>
+ferred both upon my State and myself in my election to the responsible<lb/>
+position of president of this eminent and learned body, by a farther ex-<lb/>
+pression of my appreciation of the distinction of the compliment thus<lb/>
+implied, and of the high value which I place upon the office.</p>
+<p>One who has devoted the best years of his life to the study and prac-<lb/>
+tice of Preventive Medicine, and who thoroughly believes that next to<lb/>
+the ministry of religion the ministry of health constitutes the noblest<lb/>
+calling in which man can engage, may be pardoned if he expresses the<lb/>
+sentiment that, having thus received the verdict of approval from his<lb/>
+long valued friends and deeply respected peers, the summit of his ambi-<lb/>
+tion has been attained, and earth has no richer prize to offer him. It<lb/>
+has been claimed by others, that this Association constitutes the most<lb/>
+important permanently organized body of sanitarians in the world.<lb/>
+And when we remember that both the practical and the scientific sides<lb/>
+of sanitary work have here their due representation, and that here, year<lb/>
+after year, the devoted subjects of his gracious majesty, King Edward<lb/>
+VII, rub shoulders with the patriotic representatives of his Excellency,<lb/>
+President Diaz, while both give the glad hand to the citizens of the Re-<lb/>
+public which is ever eager to welcome them on their noble mission of<lb/>
+good will to men; when it is considered that we have assurances that it<lb/>
+may be our privilege to greet on this occasion, delegates from the far-<lb/>
+distant Philippines, from storied Honolulu, from the Isles of the Antilles<lb/>
+and from the immense domains of Central and South America, this cer-<lb/>
+tainly will not be the time nor shall I be the individual to dispute the<lb/>
+claim. What this Association has accomplished for the United States,<lb/>
+and in this connection, I beg leave on behalf of the members from this<lb/>
+country to acknowledge in the fullest and heartiest manner, the assist-<lb/>
+ance which we have derived from the sagacious and fraternal counsels<lb/>
+of our good neighbors, to the north and south of us,--what this Asso-<lb/>
+ciation, I say, and the faithful workers both in the field of science and of<lb/>
+administration who compose it, have accomplished for the United States,<lb/>
+let the astounding results of the last census as recently furnished by the<lb/>
+<pb n="2" id="f02535008"/>
+2<lb/>
+<hi rend="italic">PRESIDENT'S ADDRESS</hi>.<lb/>
+Chief of the Vital Statistics Division, bear witness. Four years added<lb/>
+to the average duration of human life in the brief period of ten years.<lb/>
+In the aggregate, more than two hundred million years of life. The<lb/>
+mind staggers under such figures. Well may we thank God and take<lb/>
+courage.</p>
+<p>Before proceeding to the discussion of the topic to which I shall<lb/>
+briefly call your attention, this evening, it is fitting that reference<lb/>
+should be made to those of our members who have passed from the<lb/>
+sphere of their earthly labors since we last met together. Con-<lb/>
+spicuous among them rises before your mind's eye, as I speak, the alert<lb/>
+form and genial countenance of Henry B. Horlbeck, late Health Offi-<lb/>
+cer of the city of Charleston, and one of your former presidents.<lb/>
+This is not the place for his biography, nor am I competent to write<lb/>
+his eulogy. It were well that one of his familiar friends should place<lb/>
+the Association under obligation by preparing a sketch of his active<lb/>
+life and his striking characteristics, for permanent record in our<lb/>
+Transactions. But you all knew him, for he never failed to meet us<lb/>
+year after year, and to bring to our discussions material of fresh and<lb/>
+lively interest. His devotion to the study of the etiology of yellow<lb/>
+fever, which he made the subject of his able presidential address at<lb/>
+the meeting at Philadelphia, was unceasing and profound, and it must<lb/>
+have been a matter of congratulation to him that it was permitted be-<lb/>
+fore his end to see a ray of light thrown upon a subject which he had<lb/>
+so long striven in vain to illuminate. His successful career as a<lb/>
+health officer, is sufficiently attested by the long period during which<lb/>
+he administered that office. &ldquo;<hi rend="italic">Justum ac tenacem propositi virum</hi>&rdquo;<lb/>
+&ldquo;An honest man and one tenacious of his opinions,&rdquo; may fairly be<lb/>
+predicated of him. To say that we shall sadly miss him both in the<lb/>
+arena of debate of which he was a master, and in the social gathering<lb/>
+of which he was an ornament, is but coldly to express the esteem in<lb/>
+which he was held.</p>
+<p>It is not inappropriate, I trust, to mention in this connection the<lb/>
+passing of one, who though not a fellow member, was devoted to the<lb/>
+study of the same pursuits as ourselves, and who laid down his life a<lb/>
+willing victim on the altar of sanitary science, in the effort, perhaps<lb/>
+successful, to solve the very problem to which our friend Horlbeck<lb/>
+had so long sought a solution. I refer to Acting Assistant Surgeon,<lb/>
+Dr. Jesse W. Lazear, of the United States Army, whose death oc-<lb/>
+curred in the city of Havana, just previous to our last meeting, as the<lb/>
+result of the bite of a mosquito, infected by the blood of yellow fever<lb/>
+patients in the Las Animas Hospital, while engaged in collecting<lb/>
+blood from such patients for purposes of investigation and study. If<lb/>
+Cuba does not belong to the list of those republics which are pro-<lb/>
+<pb n="3" id="f02535009"/>
+<hi rend="italic">PRESIDENT'S ADDRESS</hi>.<lb/>
+3<lb/>
+verbially ungrateful, she should show her appreciation of three of<lb/>
+those concerned in her sanitary regeneration by erecting a monument<lb/>
+to the joint memory of Colonel George A. Waring, Surgeon Jesse W.<lb/>
+Lazear, and Brigadier-General William Ludlow. This last-named<lb/>
+hero fully earned the honors that were showered upon him both in<lb/>
+peace and war. He it was who initiated the sanitary work in the city<lb/>
+of Havana, so successfully carried on later by General Wood. As<lb/>
+Chief of the Water Department of the city of Philadelphia, he labored<lb/>
+zealously, and with much success, to improve the water supply and<lb/>
+restore the dilapidated works of that city. He was unable, however,<lb/>
+to endure the interference of political leaders, who sought to control<lb/>
+him for their own selfish ends, and this rendered his permanent<lb/>
+occupancy of the position impossible. His whole career was one of<lb/>
+honest and intelligent performance of duty.</p>
+<p>Another whom we shall not again greet is Dr. J. H. Linsley, of<lb/>
+Vermont, well known for his work in bacteriology.</p>
+<p>The names also of Frank Paddock, Pittsfield, Mass.; Erastus J.<lb/>
+Buck, Plattville, Wis.; Edward A. Guilbert, Dubuque, Io.; Allen A.<lb/>
+Rawson, Coring, Io.; Katherine Miller, Lincoln, Ill.; must be men-<lb/>
+tioned with respectful regret.</p>
+<p>An appropriate theme for the presidential address of the first year<lb/>
+of the New Century, before this august body would naturally be a<lb/>
+retrospect of the advances made in the science and art of public<lb/>
+hygiene or, to speak more correctly, in those arts and sciences which<lb/>
+public hygiene is builded on, during the century just closed. Un-<lb/>
+fortunately for me, however, but fortunately for the Association, my<lb/>
+predecessor in office made so careful a study of this subject and pre-<lb/>
+sented the results of his labors in so forceful, scholarly and exhaustive<lb/>
+a shape in his own address a year ago, as to make it most unwise for<lb/>
+me to follow him upon the same lines. The situation is a little like<lb/>
+that described by the sailing-master of the late lamented Queen Vic-<lb/>
+toria, of blessed and revered memory, who, when inquired of by Her<lb/>
+Majesty, to whom he had announced that the yacht America had won<lb/>
+the international race: &ldquo;Which yacht is second?&rdquo; sententiously re-<lb/>
+plied &ldquo;Your Majesty, there is no second.&rdquo;</p>
+<p>This particular point of time cannot be allowed to pass, however,<lb/>
+without recognition. I hazard nothing in claiming that we stand not<lb/>
+only on the threshold of a new century, but at the beginning of a new<lb/>
+epoch in the history of sanitation. The past century has been one of<lb/>
+preparation. We who have been permitted to live through many of<lb/>
+its years have &ldquo;seen wondrous things whereof we are glad,&rdquo; advances<lb/>
+in chemistry, physiology, pathology and biology, the discovery of new<lb/>
+laws of nature and the development of new sciences such as sociology,<lb/>
+<pb n="112" id="f02535118"/>
+112<lb/>
+<hi rend="italic">THE LEGAL ASPECTS OF WATER POLLUTION</hi>.<lb/>
+gable. It does not naturally flow to the stream. It is gathered by<lb/>
+the city in sewers from numerous buildings, cesspools, culverts and<lb/>
+drains, over a large area of land, and by uniform artifically constructed<lb/>
+grades is gravitated to and discharged into river. It is vastly more<lb/>
+than the mere natural drainage of riparian owners. I cannot con-<lb/>
+ceive of any tenable ground upon which such drainage can be classed<lb/>
+as either a natural or a reasonable use of the river. It is not to be as-<lb/>
+sumed that the statutes authorizing city to construct sewers mean to<lb/>
+authorize a nuisance. The authority conferred is limited to mere con-<lb/>
+struction of the sewers in accordance with the maps. It does not<lb/>
+license either public or private nuisances through pollution of the<lb/>
+waters of the river. As to private rights, I need only say that they<lb/>
+have constitutional protection against any such legislative enactment.<lb/>
+In England where the power of Parliament is omnipotent in matters of<lb/>
+this kind, both as to public and private rights, it is well settled that<lb/>
+legislative authority to merely drain into a stream does not authorize<lb/>
+the contamination of the water. Legislative license to create a public<lb/>
+nuisance of the kind considered must be given in express terms or by<lb/>
+absolutely necessary implication. That the city has any right to pol-<lb/>
+lute the waters of the river by the discharge of its sewage into them, is<lb/>
+clearly an untenable proposition. Chancellor's opinion, Simmons et<lb/>
+al. v. City of Paterson, N. J.</p>
+<p>From the above the attitude of the courts at the present toward the<lb/>
+pollution of water clearly appears. This attitude, which is of com-<lb/>
+paratively recent origin, seems not so much a stricter enforcement of<lb/>
+the principles of common law, as a better understanding on the part<lb/>
+of the courts of the principles of sanitary science. The common law<lb/>
+always existed and was always enforced according to the lights of the<lb/>
+courts, but the trouble was that those lights were not bright enough to<lb/>
+illumine the subject. The brighter rays of modern scientific sanita-<lb/>
+tion, however, have dispelled the gloom of ignorance and have pictured<lb/>
+the subject in its true aspect, its importance and its necessities to the<lb/>
+minds of those whose province it is to place it upon its proper legal<lb/>
+footing. That this is one of the most important results obtained by<lb/>
+sanitary science cannot be disputed.</p>
+</div1>
+<div1 type="chapter" n="2">
+<head>THE RESULTS OF YELLOW FEVER SANITATION IN<lb/>
+HAVANA, CUBA, FOR THE YEAR 1901 UP TO SEPTEM-<lb/>
+BER 1ST, CARRIED ON UPON THE BASIS THAT THE<lb/>
+STEGOMYIA MOSQUITO IS THE SOLE MEANS OF ITS<lb/>
+TRANSMISSION.</head>
+<pb n="130" id="f02535136"/>
+<byline>BY <docAuthor>W. C. GORGAS</docAuthor>, M. D.,<lb/>
+MAJOR AND SURGEON U. S. ARMY, CHIEF SANITARY OFFICER, HAVANA, CUBA.</byline>
+<p>Proc Am Pub Health Assoc - 29 meet<lb/>
+Buffalo Sept 1901</p>
+<p>&check;</p>
+<p>The results announced by the Yellow Fever Commission, of which<lb/>
+Major Walter Reed was President, and which met in Havana in the<lb/>
+fall of 1900, were accepted as conclusive by the Sanitary Department<lb/>
+of that city. After a series of experiments, the Board succeeded in<lb/>
+demonstrating that the mosquito is the medium for the transmission of<lb/>
+yellow fever, and upon this fact has been based all our methods of sani-<lb/>
+tation, since February of this year, when the conclusions of the Board<lb/>
+were made known.</p>
+<p>Accepting these as facts, it is evident that two elements are necessary<lb/>
+for the transmission of yellow fever, viz.: First, a non-immune per-<lb/>
+son who is capable of having the disease; second, infected mosquitoes,<lb/>
+by which the disease may be transmitted to the non-immune.</p>
+<p>In Havana, the problem of the person capable of having the disease<lb/>
+is quite different from the problem which presents itself in the United<lb/>
+States. In the United States practically the entire population is sus-<lb/>
+ceptible to yellow fever, while in Havana we have about 230,000 per-<lb/>
+sons who are not subject to the disease, and only about 30,000 who are.<lb/>
+If we could take these 30,000 away from Havana, and prevent non-<lb/>
+immunes going in, the problem would at once be solved and yellow<lb/>
+fever be eradicated from the city. But it is, of course, impracticable to<lb/>
+move out and care for so large a number of people; and to prevent the<lb/>
+coming into the city of non-immunes would too seriously interefere<lb/>
+with the commerce of the city.</p>
+<p>A close supervision is, however, exercised over the large number of<lb/>
+immigrants who arrive at this port. They are all taken to the immi-<lb/>
+gration station and those intending to settle in the country are sent<lb/>
+directly to their destinations without coming into Havana. Those<lb/>
+coming into the city have to be vouched for by some reliable person,<lb/>
+known to the immigration authorities, so that they can be followed up<lb/>
+in case of need. They are required to matriculate at one of the hospi-<lb/>
+tals for two months, with the expectation that, as their fees at these<lb/>
+hospitals are paid, they will go there at once in case of sickness.</p>
+<p>130</p>
+<pb n="131" id="f02535137"/>
+<p><hi rend="italic">RESULTS OF YELLOW FEVER SANITATION</hi>.<lb/>
+131</p>
+<p>In the smaller towns, the deportation of the non-immunes is the<lb/>
+method principally relied upon for the stamping out of yellow fever.<lb/>
+It has been entirely successful and satisfactory in the past.</p>
+<p>Where the non-immunes amount to only a few hundred, as at San-<lb/>
+tiago in 1899, and at Quemados in 1900, a camp is established at some<lb/>
+convenient and healthy point, and all the non-immune population<lb/>
+moved to this camp. In the two instances cited, the epidemic was at<lb/>
+once cut short in midsummer by this measure.</p>
+<p>Instances of epidemics in military garrisons being stopped in this<lb/>
+way are very numerous. It has been resorted to many times in the<lb/>
+army during the past twenty years, and in Cuba wherever it was evi-<lb/>
+dent that a garrison had become infected.</p>
+<p>But even with non-immunes in a community, to have yellow fever<lb/>
+there must be present infected mosquitoes, and infected mosquitoes<lb/>
+presuppose the previous existence of mosquitoes in the locality. It is<lb/>
+obvious that if we can exterminate all mosquitoes we will be as free<lb/>
+from yellow fever as if we had no non-immunes present. So, early in<lb/>
+the season, we directed our energies towards the destruction of the<lb/>
+mosquito.</p>
+<p>For this purpose, a division of forty men has been organized; the<lb/>
+city divided up into districts, and a foreman and two laborers desig-<lb/>
+nated for work in each district. They make daily house-to-house in-<lb/>
+spections, visiting each house in the district once in three weeks. Each<lb/>
+laborer is supplied with oil, and a half pint is poured into each &ldquo;pozo<lb/>
+negro&rdquo;; these connect with the cesspools with which all houses in<lb/>
+Havana are provided, in the absence of any general sewer system; and<lb/>
+this oil spreads over the surface of the cesspool and kills the larv&aelig;,<lb/>
+which breed there in large numbers. Oil is also poured onto the sur-<lb/>
+face of any water to which mosquitoes have access. About 2,000<lb/>
+gallons of oil a month are used in this part of the work.</p>
+<p>It was found that nearly every house was provided with some recep-<lb/>
+tacle for rain water for washing purposes,--chiefly water-barrels,--<lb/>
+and the fresh standing water was the best possible breeding place for<lb/>
+the <hi rend="italic">Stegomyia</hi>--the yellow fever mosquito.</p>
+<p>The mayor then issued an order that all barrels containing standing<lb/>
+water should be made mosquito-proof; where this order is not com-<lb/>
+plied with, the inspectors are instructed to break the barrel. This has<lb/>
+had an excellent effect, and the order is now complied with in nearly<lb/>
+all cases.</p>
+<p>A second division, composed of fifty men, was organized, who are at<lb/>
+work cleaning out the ditches, drains and streams around the city,<lb/>
+draining low places wherever stagnant water is breeding mosquitoes;<lb/>
+<pb n="132" id="f02535138"/>
+132<lb/>
+<hi rend="italic">RESULTS OF YELLOW FEVER SANITATION</hi>.<lb/>
+and if drainage is impracticable, keeping the surface of the water well<lb/>
+oiled.</p>
+<p>The results have been very satisfactory, considering the short time<lb/>
+during which this work has been in progress. But it is quite certain<lb/>
+that our efforts could not entirely destroy mosquitoes in Havana; the<lb/>
+best that can be done is to reduce the number.</p>
+<p>The next logical step was to prevent the mosquito from becoming<lb/>
+infected; and the first move in this direction was to make it impossible<lb/>
+for the mosquito to bite any one suffering from yellow fever in Havana.<lb/>
+With this object in view, as soon as a suspicious case of fever is re-<lb/>
+ported to this office, the apartments of the patient are at once screened<lb/>
+with wire screen doors and windows, which this department keeps on<lb/>
+hand for the purpose, and which render the patient absolutely mosquito-<lb/>
+proof. A guard is placed to see that the wire doors are kept closed<lb/>
+and that no one goes in except certain immunes designated. The hos-<lb/>
+pitals, also, are required to have their yellow fever wards made mos-<lb/>
+quito-proof, and the patient kept under mosquito bars. Circulars<lb/>
+recommending the use of mosquito bars have been very generally dis-<lb/>
+tributed in the city, and the object explained.</p>
+<p>Since, in these suspected cases, it is possible that mosquitoes may<lb/>
+have become infected before the patient is screened, the disinfecting<lb/>
+squad carefully goes over every room in the house; they are sealed, the<lb/>
+cracks pasted and pyrethrum powder burned at the rate of a pound to<lb/>
+1,000 cubic feet of air space. As pyrethrum powder, even in this<lb/>
+quantity, frequently fails to kill all the mosquitoes, many being found<lb/>
+on the floor stupefied, when the rooms are opened, at the end of three<lb/>
+hours, those on the floor are killed, swept up and destroyed. The two<lb/>
+or three adjoining houses are gone over in the same way,--to be certain<lb/>
+that all infected mosquitoes in the neighborhood are killed.</p>
+<p>Pyrethrum powder is used because it is not disagreeable and does<lb/>
+not injure any fabric. Where nothing could be injured, sulphur is<lb/>
+used, as it is more certain in its effects.</p>
+<p>To prevent yellow fever from being introduced from outside the<lb/>
+island, the Marine Hospital Service carefully supervises all arrivals<lb/>
+from points from which infection might come.</p>
+<p>To protect the city from interior towns, inspectors are placed on all<lb/>
+roads entering the city, who take the names of non-immunes coming<lb/>
+in, and the address of the house at which they will stop. These are<lb/>
+reported to the Sanitary Department and an inspector is sent on the<lb/>
+third and sixth days to see if they continue in good health. At the<lb/>
+same time, blanks are left with them, and they are requested to send a<lb/>
+report on these blanks to the Sanitary Department, in case they become<lb/>
+sick. At the end of six days this supervision ends.</p>
+<pb n="133" id="f02535139"/>
+<p><hi rend="italic">RESULTS OF YELLOW FEVER SANITATION</hi>.<lb/>
+133</p>
+<p>We began the year with the usual amount of yellow fever in the<lb/>
+city; in January there were twenty-five cases and seven deaths, and for<lb/>
+February up to the 16th, four cases and three deaths. On February<lb/>
+16th, the present method of disinfection was adopted; after that time,<lb/>
+we had cases on the 22d, 23d and 27th of February, and on the 2d and<lb/>
+8th of March. In all these cases the above described method of screen-<lb/>
+ing and disinfection was strictly carried out, and no more cases occurred<lb/>
+until April 21st and 22d, when two developed. Again we were free<lb/>
+from fever until May 6th and 7th, when four cases occurred.</p>
+<p>From that time until July 1st, the city was entirely free of fever.<lb/>
+During July, we had four cases, occurring on the 1st, 20th, 21st and<lb/>
+24th, with one death, and in August eight cases; one case taken sick<lb/>
+July 27th and died August 5th, the others taken sick August 10th, 16th,<lb/>
+20th, 21st, 24th (two), and the 25th; with two deaths.</p>
+<p>Taking the yellow fever year as beginning April 1st and comparing<lb/>
+the record of this year with that of preceding years since 1889, we find:</p>
+<p>DEATHS OF YELLOW FEVER IN THE MONTHS OF APRIL, MAY,<lb/>
+JUNE, JULY AND AUGUST.</p>
+<p>
+<table rows="8" cols="13">
+<row><cell>Months.</cell><cell>1890</cell><cell>1891</cell><cell>1892</cell><cell>1893</cell><cell>1894</cell><cell>1895</cell><cell>1896</cell><cell>1897</cell><cell>1898</cell><cell>1899</cell><cell>1900</cell><cell>1901</cell></row>
+<row><cell>April ..............</cell><cell>13</cell><cell>5</cell><cell>8</cell><cell>8</cell><cell>4</cell><cell>6</cell><cell>14</cell><cell>71</cell><cell>1</cell><cell>2</cell><cell>0</cell><cell>0</cell></row>
+<row><cell>May ..............</cell><cell>23</cell><cell>7</cell><cell>7</cell><cell>23</cell><cell>16</cell><cell>10</cell><cell>27</cell><cell>88</cell><cell>4</cell><cell>0</cell><cell>2</cell><cell>0</cell></row>
+<row><cell>June ..............</cell><cell>38</cell><cell>41</cell><cell>13</cell><cell>69</cell><cell>31</cell><cell>16</cell><cell>46</cell><cell>174</cell><cell>3</cell><cell>1</cell><cell>8</cell><cell>0</cell></row>
+<row><cell>July ..............</cell><cell>67</cell><cell>66</cell><cell>27</cell><cell>118</cell><cell>77</cell><cell>88</cell><cell>116</cell><cell>168</cell><cell>16</cell><cell>2</cell><cell>30</cell><cell>1</cell></row>
+<row><cell>August ...........</cell><cell>60</cell><cell>66</cell><cell>67</cell><cell>100</cell><cell>73</cell><cell>120</cell><cell>262</cell><cell>102</cell><cell>16</cell><cell>13</cell><cell>49</cell><cell>2</cell></row>
+<row><cell></cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell><cell>-----</cell></row>
+<row><cell>Total ...........</cell><cell>201</cell><cell>185</cell><cell>122</cell><cell>318</cell><cell>201</cell><cell>240</cell><cell>465</cell><cell>603</cell><cell>40</cell><cell>18</cell><cell>89</cell><cell>3</cell></row>
+</table>
+</p>
+<p>The conditions in Havana this year as regards non-immunes were<lb/>
+more unfavorable than at any previous time,--there being probably<lb/>
+more present than in any of the years with which comparison is made.<lb/>
+Infection was also present, as evidenced by the continued appearance<lb/>
+of new cases of fever.</p>
+<p>As I have stated above, these are the two requisites for the trans-<lb/>
+mission of yellow fever, and yet the records show a condition as regards<lb/>
+yellow fever never before seen in Havana.</p>
+<p>As killing off infected mosquitoes is the only thing done now which<lb/>
+was not done during previous years, and the other conditions being<lb/>
+practically similar, I think we may fairly infer that we owe our present<lb/>
+immunity to the destruction of the mosquito, both before and after<lb/>
+infection.</p>
+<p>We have a well-equipped hospital, to which all yellow fever patients<lb/>
+may go, if they desire it. Dr. John W. Ross, of the U. S. Navy, is in<lb/>
+immediate charge, with a corps of American trained nurses under him,<lb/>
+and the patient receives the same care that any New York hospital<lb/>
+would afford.</p>
+</div1>
+<div1 type="chapter" n="3">
+<head>PRACTICAL DISCUSSION OF YELLOW FEVER.</head>
+<pb n="134" id="f02535140"/>
+<byline>BY <docAuthor>DR. ALVAH H. DOTY</docAuthor>,<lb/>
+HEALTH OFFICER PORT OF NEW YORK.</byline>
+<p>Proc Am Pub H Assoc - 29th meet<lb/>
+Buffalo Sept 1901</p>
+<p>&check;</p>
+<p>The stimulus which has been given to the study of infectious diseases<lb/>
+from a scientific and practical standpoint, and which during the past<lb/>
+fifteen or twenty years has furnished us with much definite and reliable<lb/>
+information on this subject, has now, through the experiments of Dr.<lb/>
+Walter Reed and his colleagues, presented indisputable evidence as to<lb/>
+at least one of the means by which yellow fever is transmitted. It is in<lb/>
+connection with this that I desire to present the practical side of the<lb/>
+subject in order that it may be viewed from all points and that it may<lb/>
+aid us in arriving at some definite conclusion regarding the treatment<lb/>
+of yellow fever and of vessels and persons arriving from ports infected<lb/>
+with this disease.</p>
+<p>The history of yellow fever in the United States and elsewhere has<lb/>
+shown that it is usually confined to geographical limits, and that sec-<lb/>
+tions beyond these are as a rule free from the disease, although it has<lb/>
+occasionally appeared outside of the yellow fever zone. For instance,<lb/>
+between the years 1798 and 1805, many cases of yellow fever occurred<lb/>
+in New York, first appearing at the lower end of the city in the vicinity<lb/>
+<unclear>of</unclear> Peck Slip. Medical history indicates that the disease had shown<lb/>
+itself here before that time, but it was not until the period I refer to<lb/>
+that it was fully recognized and studied. I have been fortunate<lb/>
+enough to secure a copy of the official medical statements relative to<lb/>
+these outbreaks, and the opinions which are expressed are in such<lb/>
+harmony with the conclusion of modern sanitarians that I submit the<lb/>
+following extracts:</p>
+<p>Dr. James Hardie, who in 1822 published an official account of<lb/>
+these outbreaks, says in reference to cases of yellow fever at Bellevue<lb/>
+Hospital in 1798:</p>
+<p>&ldquo;There is one thing very remarkable, with respect to the attendants<lb/>
+of this hospital, which ought not to be omitted. Their situation, to<lb/>
+most people, must have, no doubt, appeared peculiarly dangerous, as<lb/>
+they were literally surrounded by pestilence. It so happened, how-<lb/>
+ever, that neither physicians, nurses, nor washerwomen caught the<lb/>
+infection. The boatmen, too, belonging to the Health Office, who<lb/>
+enter the hospital at all times, and were not only engaged in bringing<lb/>
+the sick from the city and shipping, but, likewise, in removing them<lb/>
+134<lb/>
+<pb n="135" id="f02535141"/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+135<lb/>
+from place to place, enjoyed a uniform state of good health; and of<lb/>
+those persons who accompanied their friends and relations, stayed<lb/>
+with them, and nursed them, there is not a single instance of an indi-<lb/>
+vidual being infected. In short, Dr. Douglas, one of the assistant<lb/>
+physicians, was the only person, residing there, who was seized with<lb/>
+fever; but he had been in the habit of occasionally visiting his friends<lb/>
+in the city and three days previous to his being taken ill had slept in a<lb/>
+house the vicinity of which was highly infected, and it is more than<lb/>
+probable that his sickness was occasioned by that cause.&rdquo;</p>
+<p>The following extract is taken from the official report of the resi-<lb/>
+dent physician at the Marine Hospital on Staten Island regarding the<lb/>
+outbreak of yellow fever in 1799:</p>
+<p>&ldquo;During the months of July, August, and October (1799), there<lb/>
+were in all about two hundred and fifty (250) persons sick of yellow<lb/>
+fever in the Marine Hospital, a great part of whom were from the<lb/>
+shipping; the rest from the city. At that time, there were of physi-<lb/>
+cians, nurses, washerwomen, boatmen, and my family, composed of<lb/>
+myself, my wife, and three children, thirty-seven (37) persons, not one<lb/>
+of whom, although daily and hourly amongst the sick, experienced<lb/>
+the least indisposition.&rdquo;</p>
+<p>From the official communication addressed to Governor Lewis,<lb/>
+January 12, 1806, by Dr. Edward Miller, resident physician of Bellevue<lb/>
+Hospital, I quote the following:</p>
+<p>&ldquo;No communication of the disease was ever observed in yellow-<lb/>
+fever hospitals, situated at a distance from the cities to which they<lb/>
+belong. No exception to this has ever occurred in any of the numer-<lb/>
+ous seasons of this pestilence, at our hospital, at Bellevue, the Marine<lb/>
+Hospital on Staten Island, that of Philadelphia, or any other in the<lb/>
+United States, provided the malignant air of the city had been avoided.<lb/>
+The force of this fact seems never to have been duly considered or<lb/>
+appreciated. The numerous retinue of medical attendants, nurses,<lb/>
+washerwomen, servants, etc., which belong to our hospitals, must be<lb/>
+known to everybody. How greatly they are exposed to contagion,<lb/>
+if it could be supposed to exist in this case, is equally known. The<lb/>
+most malignant cases of the disease are constantly found in these<lb/>
+institutions. The exposure of physicians and their assistants is well<lb/>
+understood. The duty of the nurses leads to an incessant and unre-<lb/>
+served intercourse with the sick; they sleep and pass the greater part<lb/>
+of their time in the apartments of the sick, the dying, and the dead.</p>
+<p>&ldquo;The nurses at Bellevue Hospital became so entirely free from all<lb/>
+apprehensions of the contagiousness of this disease that they often<lb/>
+slept on the same bed with the sick, and it happened more than once,<lb/>
+in the course of the season, that a nurse, overcome with fatigue and<lb/>
+want of sleep, threw<unclear>.</unclear> herself in the night, for a little repose, on the<lb/>
+<pb n="136" id="f02535142"/>
+136<lb/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+bed of a dying patient and continued there asleep until the patient was<lb/>
+dead, and it became necessary to remove the corpse.&rdquo;</p>
+<p>The official reports from which I have just quoted contain many<lb/>
+statements similar to the above.</p>
+<p>Fifty years after these statements were made, a most notable con-<lb/>
+gregation of sanitarians took place in New York City (1859) under<lb/>
+the name of the Third National Convention. After a most careful<lb/>
+and exhaustive discussion of yellow fever, the following resolution<lb/>
+was passed by a vote of eighty-five yeas to six nays:</p>
+<p>&ldquo;<hi rend="italic">Resolved</hi>, That in the absence of any evidence establishing the con-<lb/>
+clusion that yellow fever has ever been conveyed by one person to<lb/>
+another, it is the opinion of this convention that the personal quaran-<lb/>
+tine of cases of yellow fever may be safely abolished provided that<lb/>
+fomites of every kind be rigidly restricted.&rdquo;</p>
+<p>To what I have presented above, I shall add my personal experience<lb/>
+with this disease, and with persons and vessels arriving from yellow-<lb/>
+fever-infected ports. This experience, which covers a number of<lb/>
+years, is in full accord with the previous records of the New York<lb/>
+Quarantine Station. Its special importance lies in the fact that prob-<lb/>
+ably more than one-half of all foreign vessels coming to the United<lb/>
+States reach the port of New York, which is in daily communication<lb/>
+with yellow-fever ports.</p>
+<p>For the purpose of better studying the statistics which I am about to<lb/>
+present, it will be necessary to divide the vessels arriving at New York<lb/>
+from yellow fever ports into two classes: (1) Those which are a<lb/>
+week or less in transit, such as vessels from Cuban, Mexican, and<lb/>
+Central American ports, and (2) vessels coming from ports far away,<lb/>
+as Santos and Rio Janeiro (Brazil), which are three weeks or longer in<lb/>
+passage. In the first class are found the greater number of vessels,<lb/>
+and those with which we come in daily contact. These include both<lb/>
+passenger and freight boats. The vessels from Havana, the most<lb/>
+numerous, and on which we have heretofore found a large percentage<lb/>
+of the yellow fever reaching this port, are from three to five days in<lb/>
+transit. While at Havana they do not, as a rule, approach the docks,<lb/>
+but discharge and receive their passengers and cargoes in the open bay.<lb/>
+A still further restriction has been made. I have recommended that<lb/>
+the crews of these vessels be detained on board and not allowed to go<lb/>
+ashore. Some of the fast mail steamship lines carrying passengers<lb/>
+have made this a rule of the company, and have required its strict<lb/>
+enforcement. Vessels from Mexican and Central American ports,<lb/>
+which are included in the first class, are about one week in transit to<lb/>
+New York.</p>
+<p>The yellow fever patients removed from these vessels have in every<lb/>
+instance been taken sick within five days from the time of departure<lb/>
+<pb n="137" id="f02535143"/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+137<lb/>
+from the infected port; a large percentage of them showed the first<lb/>
+symptoms of the disease during the first forty-eight hours, and some<lb/>
+have stated that they were not feeling well at the time of embarkation.<lb/>
+As a rule, these cases were found among the second cabin or steerage<lb/>
+passengers, and although there was free exposure, in no instance has a<lb/>
+secondary case ever occurred. I want to emphasize my statement<lb/>
+regarding the exposure, as in the cases referred to it was practically<lb/>
+unlimited. Sometimes the disease was not recognized, and the patient<lb/>
+remained in the same apartment with others during the entire voyage;<lb/>
+at other times, although the patient may have been removed to other<lb/>
+quarters, passengers or members of the crew were detailed to care for<lb/>
+him, as these vessels do not, as a rule, carry surgeons. The exposure<lb/>
+was not only to the patient, but to his clothing, bedding, and dis-<lb/>
+charges also. In instances where a member of the ship's crew con-<lb/>
+tracted yellow fever, it was found that the patient had been on shore,<lb/>
+but in no case, so far as I know, has the disease ever occurred among<lb/>
+crews which have been kept on board vessels anchored in the bay of<lb/>
+Havana. I have no reason to believe that members of the crews of<lb/>
+Colon vessels are kept on board during the time that they are in that<lb/>
+port. However, I am aware of no case which has occurred among<lb/>
+them. This is easily explained by the fact that Colon, in recent years,<lb/>
+has been free from yellow fever, and cases of this disease which vessels<lb/>
+from Colon bring to the United States are from Panama, about thirty-<lb/>
+five miles distant on the opposite side of the Isthmus.</p>
+<p>Vessels coming from Rio Janeiro and Santos may be taken as ex-<lb/>
+amples of the second class, which are long in transit. These ports are<lb/>
+notorious for the prevalence of yellow fever, the bills of health having<lb/>
+frequently shown the existence of four hundred to five hundred cases at<lb/>
+one time. Some of the vessels from these ports carry passengers and<lb/>
+have medical officers--the majority, however, do not. It is not uncom-<lb/>
+mon for the captain or surgeon to report that while at Santos or Rio<lb/>
+Janeiro, or within two or three days after leaving, a passenger or mem-<lb/>
+ber of the crew became sick with symptoms clearly indicating yellow<lb/>
+fever, and either died and was buried in port or at sea, or recovered.<lb/>
+Their report also shows that in no instance were these followed by<lb/>
+secondary cases after the boat had been five days at sea, although there<lb/>
+was full exposure and no disinfection. But in no instance has a case of<lb/>
+yellow fever been found on a vessel reaching here from these ports.<lb/>
+This can easily be accounted for, as all who had yellow fever on these<lb/>
+vessels were taken sick at Santos or Rio Janeiro, or within three or four<lb/>
+days from departure, and either died or recovered long before the ves-<lb/>
+sel reached this port, the voyage being about twenty-one days. Whereas,<lb/>
+cases occurring on vessels of the first class reach here during the active<lb/>
+<pb n="138" id="f02535144"/>
+138<lb/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+stages of the disease, neither have secondary cases ever occurred<lb/>
+among those connected with the Swinburne Island Hospital in New<lb/>
+York Bay, to which place all persons suffering with yellow fever are<lb/>
+transferred from incoming vessels.</p>
+<p>A careful analysis of these statistics clearly show that secondary<lb/>
+cases have not occurred as the result of exposure to those who have<lb/>
+contracted yellow fever in the infected area or to their clothing, bed-<lb/>
+ding, etc., and that where persons have reached New York and are well<lb/>
+after having been five (5) days or more from the port of departure,<lb/>
+they have not afterwards developed the disease. Inasmuch as passen-<lb/>
+gers and crews arriving on incoming vessels which have yellow fever on<lb/>
+board are not detained at this station if they are well and have been five<lb/>
+days from a yellow fever-infected area, it is naturally asked, how can<lb/>
+I be certain that mild cases at least may not develop after they have<lb/>
+left my jurisdiction? My answer is this: First--If secondary cases<lb/>
+occurred as the result of personal contagion, or exposure to clothing,<lb/>
+bedding, etc., there would be many of them, as there is full exposure--<lb/>
+furthermore cases occurring as the result of this exposure would not all<lb/>
+be mild, and some would surely present themselves in a typical and<lb/>
+fatal type. If this occurred in New York City, or elsewhere, it would<lb/>
+be known and the disease traced to its origin. Second--Those who<lb/>
+are removed at this port sick with yellow fever are as a rule second-<lb/>
+class or steerage passengers, and their apartments are on the same deck<lb/>
+and in constant communication with the crew of the vessel and entirely<lb/>
+separate from the cabin passengers who are on the deck above. There-<lb/>
+fore the exposure is largely confined to the crew, who are frequently<lb/>
+detailed to look after the sick and therefore are in close contact with<lb/>
+the patient--moreover members of the crew are often detailed to look<lb/>
+after those sick with the disease, and in this way freely handle the<lb/>
+clothing, bedding, etc. The crews of the vessels upon which the cases<lb/>
+are usually found are as a rule permanently employed by the companies,<lb/>
+and although they visit their home while the vessel is in this port, they<lb/>
+return again to the ship before sailing. If they were confined to their<lb/>
+homes with yellow fever, or any disease resembling it, or were taken<lb/>
+sick in transit to Havana, it would sooner or later be brought to my<lb/>
+attention. Third--We have the experience of sanitarians during many<lb/>
+years <hi>past</hi> to show that yellow fever is not transmitted by personal con-<lb/>
+tagion, or by exposure to the clothing, bedding, etc., of those sick with<lb/>
+this disease.</p>
+<p>When we study the practical experience which I have just presented<lb/>
+and which comes to us from different periods during the past century,<lb/>
+we can reach but one conclusion, <hi rend="italic">i. e.</hi>, that yellow fever is not con-<lb/>
+tracted by personal contagion. This, however, is not by any means all<lb/>
+<pb n="139" id="f02535145"/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+139<lb/>
+that it shows, as the same evidence just as clearly proves that the cloth-<lb/>
+ing, bedding, discharges, etc., are not media of infection. If those who<lb/>
+are in constant attendance upon persons suffering from yellow fever,<lb/>
+and are in close and prolonged contact with their clothing, bedding,<lb/>
+discharges, etc., at all times and under all conditions are not infected<lb/>
+through the medium of this material, when does it transmit infection?<lb/>
+In order to make these views acceptable from a practical standpoint it<lb/>
+has been necessary to show in what way, other than through the affected<lb/>
+person, or his clothing, bedding, etc., yellow fever is transmitted. It<lb/>
+would seem that the experiments of Dr. Reed have furnished this in-<lb/>
+formation, inasmuch as the result of his work conclusively shows that<lb/>
+the disease is transmitted by the mosquito and not by clothing, bedding,<lb/>
+etc. This is in exact accord with our practical experience.</p>
+<p>To those who have had but little practical experience in this matter,<lb/>
+or those who live within the yellow fever zone, where extreme measures<lb/>
+have been regarded as necessary to prevent the appearance or exten-<lb/>
+sion of yellow fever, this view carries with it such a complete and<lb/>
+abrupt change in the treatment of yellow fever, as well as persons and<lb/>
+vessels arriving from yellow fever ports, that it can hardly receive un-<lb/>
+biased consideration.</p>
+<p>The opposing views regarding the means by which yellow fever is<lb/>
+transmitted may briefly be summed up as follows: On the one hand,<lb/>
+we have conclusive evidence, as the result of practical experience and<lb/>
+scientific investigation, that yellow fever is not contracted by personal<lb/>
+contagion, or by the clothing, bedding, discharges, etc., of persons<lb/>
+suffering with this disease; furthermore, there is positive proof that<lb/>
+yellow fever is transmitted through the medium of the mosquito. On<lb/>
+the other hand, those who hold that the disease is transmitted either by<lb/>
+personal contagion, or by the clothing, bedding, etc., of the sick, have<lb/>
+had but little to support their theory aside from the fact that the true<lb/>
+cause of infection was unknown. The result of the Havana experi-<lb/>
+ments leaves practically no further justification for this belief.</p>
+<p>I am well aware that from time to time evidence has been presented,<lb/>
+which is intended to conclusively show that yellow fever is contracted<lb/>
+by personal contagion, or through the medium of clothing, bedding,<lb/>
+etc. In considering this, we must bear in mind that heretofore we have<lb/>
+had no positive evidence as to the means by which yellow fever is<lb/>
+propagated, and all have been free to form their own ideas regarding<lb/>
+this subject, and very naturally persons, or clothing, bedding, etc., have<lb/>
+been accepted as the medium of infection. However, I believe that it<lb/>
+is pertinent to ask if, in the instances just referred to, the presence of<lb/>
+the infected mosquito would not afford a full explanation for the<lb/>
+appearance of the disease. Furthermore, do we not fully appreciate<lb/>
+<pb n="140" id="f02535146"/>
+140<lb/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+the danger from mild or unrecognized cases as the cause of outbreaks<lb/>
+not only of yellow fever, but also other infectious diseases, nor is it<lb/>
+fully understood how frequently such mild cases occur. Again we do<lb/>
+not consider the errors in diagnosis which may occur, even on the part<lb/>
+of the best diagnosticians. Unconsciously, we are very apt, after hav-<lb/>
+ing accepted a theory, to entertain only such evidence as tends to<lb/>
+strengthen our belief in that direction. How can we reasonably en-<lb/>
+tertain a statement that yellow fever follows the exposure to some<lb/>
+garment, or other material, when we have such indisputable evidence as<lb/>
+I have presented to show that the disease is neither contracted by per-<lb/>
+sonal contagion or clothing, bedding, etc. The hospital reports of 1798<lb/>
+to 1805, to which I have referred, are invaluable, as at that time disin-<lb/>
+fection was not understood, and there is not the slightest evidence that<lb/>
+any protection was afforded in this manner. Furthermore, I am unable<lb/>
+to find any reliable or conclusive evidence to show that in the outbreaks<lb/>
+of yellow fever, which from time to time have occurred in the South,<lb/>
+disinfection has been of any value in abating the disease. In connec-<lb/>
+tion with this, I will call attention to the fact that, in the experiments<lb/>
+made by Dr. Reed, non-immunes were placed in prolonged contact with<lb/>
+the bedding, clothing, etc., of those sick with yellow fever without the<lb/>
+slightest evidence of infection; and is it not significant that those living<lb/>
+within the yellow fever zone have learned to look forward to the appear-<lb/>
+ance of frost, which terminates the activity of the mosquito, as the only<lb/>
+prompt and sure means of ridding a community of yellow fever?</p>
+<p>If we accept a sanitary science, we must abide by its teachings, and<lb/>
+I know of no better time than the present to look this matter fairly and<lb/>
+squarely in the face, and make such changes in our sanitary regulations<lb/>
+as are necessary to conform to our present knowledge of yellow fever.<lb/>
+What I am now advocating I put into practical operation five years ago,<lb/>
+at the port of New York, as, after a careful consideration of the subject,<lb/>
+I was convinced that yellow fever is contracted neither by personal<lb/>
+contagion, nor the clothing, bedding, etc., of those suffering with this<lb/>
+disease. Since the above time, many vessels have arrived here with<lb/>
+persons sick with yellow fever, and with the bodies of those who have<lb/>
+died of the disease during the voyage, but in no instance have those on<lb/>
+board been detained if five days had elapsed since the departure of the<lb/>
+vessel from the infected port, although there may have been free expo-<lb/>
+sure to the patient, his clothing, bedding, etc.; however, no secondary<lb/>
+cases have ever occurred. It is true that, after the removal of the<lb/>
+patient, disinfection is performed in compliance with the existing quar-<lb/>
+antine regulations, but this treatment on the arrival of the vessel can in<lb/>
+no way affect those who had been in close contact with the patient while<lb/>
+en route. I believe the value of Dr. Reed's experiments lies largely in<lb/>
+<pb n="141" id="f02535147"/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+141<lb/>
+the fact that they indicate a line of procedure in the treatment of yellow<lb/>
+fever which, if promptly and properly carried out, limits at once the<lb/>
+extension of the disease. I refer to the use of netting, and other means,<lb/>
+to guard against the mosquito. Commerce has patiently suffered the<lb/>
+enforcement of regulations which, in the present light of our knowledge,<lb/>
+are uncalled for, and it is but just that we should give this subject<lb/>
+prompt consideration.</p>
+<p>There are some details regarding the relation between the mosquito<lb/>
+and yellow fever which are yet to be made clear; for instance, why do<lb/>
+not infected mosquitoes reach vessels lying in Havana harbor, not far<lb/>
+from the shore, or vessels which lie at the dock at Santos, and other<lb/>
+infected ports, and at some subsequent time, or at different periods,<lb/>
+transmit the disease to those on board, or at the point of destination?<lb/>
+Yellow fever does sometimes occur among the crew of vessels docked<lb/>
+at yellow fever ports, but this is easily explained by the fact that the<lb/>
+crews are allowed to enter the town. In explanation of this it may be<lb/>
+said that all who have studied the habits of the mosquito fully agree<lb/>
+that it prefers to remain in the immediate vicinity of its breeding or<lb/>
+abiding place; this is also borne out by the fact that we do not see sec-<lb/>
+ondary cases of yellow fever on shipboard, provided the vessel has left<lb/>
+the infected port, and there is but little reliable evidence that infected<lb/>
+mosquitoes are transmitted to foreign shores. It is not impossible for<lb/>
+this to take place, and instances have been reported where secondary<lb/>
+cases have occurred after leaving port. How many of these statements<lb/>
+are authentic, I do not know, but of this I am sure, that it occurs only<lb/>
+in rare instances, and we are surely not justified in making our rules<lb/>
+conform to these possible exceptions. Suppose that it should be<lb/>
+deemed necessary to take action against this possible danger, what can<lb/>
+be done that is reasonable? We cannot assume that the mosquito is<lb/>
+confined to any special part of the ship; it may be in the forecastle,<lb/>
+saloon, engine room, or the hold of the vessel. Therefore, if we are<lb/>
+consistent in carrying out such extreme measures, we cannot stop short<lb/>
+of fumigating, or in some other manner treating every part of the ship.<lb/>
+To those who are familiar with this work, I need say nothing; to those<lb/>
+who have never undertaken it I say that such treatment is the most<lb/>
+formidable and expensive that a quarantine officer is called upon to<lb/>
+perform, besides the long delay to the vessel. Moreover, I do not<lb/>
+believe that such action is justifiable unless there is satisfactory evi-<lb/>
+dence that infected mosquitoes are on board, as would be indicated by<lb/>
+the appearance of secondary cases of yellow fever after a departure of<lb/>
+five days from an infected port.</p>
+<p>Another question may here be presented for consideration, and it is<lb/>
+this: Does five days represent the maximum period of incubation of<lb/>
+<pb n="142" id="f02535148"/>
+142<lb/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+yellow fever, or may the disease develop after a longer period of time?<lb/>
+I am aware that instances have been cited where the disease has ocurred<lb/>
+after a period of incubation of six or seven days, or even longer, but<lb/>
+none have come under my notice. I believe the early symptoms gen-<lb/>
+erally present themselves on the third or fourth day. There is no<lb/>
+doubt that errors are often made in computing the period of incubation,<lb/>
+as persons may be passing through the early stage without any well-<lb/>
+marked evidence of it. This I have detected a number of times by the<lb/>
+use of the clinical thermometer. A reference to the opinion of many<lb/>
+careful investigators, among whom we find Dr. George M. Sternberg,<lb/>
+will show that it is the general opinion that five days is the maximum<lb/>
+period of incubation. I believe this is sensible and safe, and that regu-<lb/>
+lations should be made accordingly, notwithstanding the fact that evi-<lb/>
+dence has been presented which tends to show that it occasionally covers<lb/>
+a longer period.</p>
+<p>If we believe that yellow fever is not transmitted by personal conta-<lb/>
+gion or clothing, bedding, etc., of those sick with this disease, and that<lb/>
+the medium of infection is the mosquito, we must admit that disinfection<lb/>
+offers but little protection. No other view is reasonable or logical.<lb/>
+Our efforts, therefore, should be turned toward the detection of cases of<lb/>
+yellow fever and their treatment according to our present knowledge<lb/>
+of the disease. There is no doubt that many outbreaks of yellow fever<lb/>
+have been caused by the presence of mild or unrecognized cases where<lb/>
+the infection was attributed to clothing, etc. For this reason special<lb/>
+effort should be made to detect this type of the disease, which can be<lb/>
+done only by a careful and thorough inspection. Moreover, each com-<lb/>
+munity, particularly in the yellow fever belt, should be supplied with<lb/>
+an apartment or hospital for the special care of yellow fever, where<lb/>
+the most approved methods of protection against the mosquito are in<lb/>
+operation. Furthermore, health officials should be familiar with the<lb/>
+different variety of mosquitoes, and should, from time to time, make<lb/>
+investigations to ascertain, if possible, the presence of the insects which<lb/>
+transmit infectious material. I cannot agree with those who hold that<lb/>
+a bad sanitary condition does not constitute an important factor in the<lb/>
+propagation of either yellow fever or malaria. I am satisfied that it<lb/>
+does, inasmuch as filth and bad drainage furnish the breeding places<lb/>
+for the mosquito.</p>
+<p>In accordance with the above views, the treatment of incoming ves-<lb/>
+sels from ports infected with this disease becomes very simple: if they<lb/>
+are five days or more in transit, and all on board are found to be well<lb/>
+after a careful inspection and the use of the clinical thermometer, the<lb/>
+vessel, its passengers, and crew shall be released without further deten-<lb/>
+tion or treatment. If the vessel has been less than five days in transit,<lb/>
+<pb n="143" id="f02535149"/>
+<hi rend="italic">PRACTICAL DISCUSSION OF YELLOW FEVER</hi>.<lb/>
+143<lb/>
+all on board who cannot present satisfactory evidence of immunity<lb/>
+should be removed and held for observation until the completion of a<lb/>
+period of five days from the time of departure from the infected port,<lb/>
+and then released only after a careful inspection.</p>
+<p>When yellow fever is found on incoming vessels, the procedure<lb/>
+should differ only so far as it concerns the removal of the patient to a<lb/>
+properly constructed hospital or apartment for treatment.</p>
+<p>Dr. Reed's experiments have not conclusively shown that there may<lb/>
+not be some other means than the mosquito by which yellow fever is<lb/>
+transmitted. But when these experiments are considered in connection<lb/>
+with the results of our practical experience it is clearly evident that this<lb/>
+disease is not contracted by personal contagion or through the medium<lb/>
+of clothing, bedding, cargoes of vessels, etc. Therefore, I believe we<lb/>
+are justified in changing our quarantine regulations to conform to these<lb/>
+views and that such a proceeding is safe and reasonable, particularly as<lb/>
+we now have at hand a method which, if properly and scientifically<lb/>
+carried out, can be depended upon to limit the extension of yellow fever.<lb/>
+If the future shows that there are other means of infection it will then<lb/>
+be time enough to add whatever restrictions are necessary for the pro-<lb/>
+tection of the public health.</p>
+<p>I am convinced that in following this line of action we are not only<lb/>
+offering full protection to the public, but are extending to commerce<lb/>
+a relief from unnecessary and unreasonable regulations.</p>
+</div1>
+<div1 type="chapter" n="4">
+<head>FOMITES AND YELLOW FEVER.</head>
+<pb n="144" id="f02535150"/>
+<byline>BY <docAuthor>A. N. BELL</docAuthor>, M. D., BROOKLYN, N. Y.</byline>
+<p>Proc Am Pub H. Assoc. 29th meet<lb/>
+Buffalo Sept 1901</p>
+<p>&check;</p>
+<p>The purpose of this note is to invite attention to some personal obser-<lb/>
+vations and verified knowledge of the agency of fomites in the propa-<lb/>
+gation of yellow fever, overlooked or ignored by expert bacteriologists<lb/>
+in recent researches and reports.<hi rend="superscript">1</hi></p>
+<p>Assuming that every member of this Association is familiar with the<lb/>
+substance of the investigation and reports here referred to, demon-<lb/>
+strating the agency of a certain species of mosquito, as an intermediate<lb/>
+host in the transmission of yellow fever, reference will be made to such<lb/>
+portions of them only as appear to be in conflict with, or deficient in the<lb/>
+recognition of, fomites as the hitherto accepted cause of many out-<lb/>
+breaks of yellow fever, inexplicable by the alleged exclusive agency of<lb/>
+mosquitoes.</p>
+<p>I do not question the accuracy of the researches demonstrating the<lb/>
+agency of the mosquito as an intermediate host and agent in the trans-<lb/>
+mission of the infection, but I deny the sufficiency of this agency to<lb/>
+account for the supersusceptibility to, and the retention of, yellow fever<lb/>
+infection by unclean localities under climatic conditions favorable to the<lb/>
+propagation of the disease; houses and ships in which yellow fever has<lb/>
+prevailed and that have not been thereafter cleansed and aerated; cer-<lb/>
+tain kinds of ballast and merchandise, taken from infected localities, or<lb/>
+infected vessels, or from localities where and when yellow fever pre-<lb/>
+vails; personal clothing and books that have been long exposed in<lb/>
+infected vessels or houses and packed therein without previous disinfec-<lb/>
+tion. Verifiable cases and even outbreaks of epidemics have occurred<lb/>
+in connection with such conditions when no mosquitoes have been in<lb/>
+evidence, nor any precursory <hi rend="italic">case of yellow fever</hi>--necessary according<lb/>
+to the showing of the experts--whose infected blood must be sucked<lb/>
+and transmitted as a condition of the propagation of the disease.</p>
+<p>Concisely summed up and endorsed by Dr. Sternberg:</p>
+<p>&ldquo;The inference drawn by Dr. Reed and his associates, from the ex-<lb/>
+periments thus far made, was that yellow fever may be transmitted by<lb/>
+<hi rend="superscript">1</hi> The Etiology of Yellow Fever. <hi rend="italic">Yellow Fever produced by the bite of Culex fasciatus</hi>. By<lb/>
+Major Walter Reed, Surgeon, U. S. Army; Dr. James Carroll, Contract Surgeon, U. S. A.;<lb/>
+Dr. Agramonte, Contract Surgeon, U. S. A., and Dr. Jesse W. Lazear, Contract Surgeon,<lb/>
+U. S. A. Read at the Pan-American Medical Congress, Havana, February, 1901. (Journal<lb/>
+American Medical Association.) Sanitation and Yellow Fever in Havana. Report of Major<lb/>
+V. Havard, Surgeon, U. S. Army, Chief Surgeon, Havana, February 8, 1901 (Sanitarian, July<lb/>
+and August, 1901). The Transmission of Yellow Fever by Mosquitoes. By George M.<lb/>
+Sternberg, Surgeon-General, U. S. Army (The Popular Science Monthly, July, 1901.)<lb/>
+The Propagation of Yellow Fever; Observations Based on Recent Researches. By Walter<lb/>
+Reed, M. D., Surgeon, U. S. Army (Medical Record, August 10, 1901).</p>
+<p>144</p>
+<pb n="145" id="f02535151"/>
+<p><hi rend="italic">FOMITES AND YELLOW FEVER</hi>.<lb/>
+145</p>
+<p>mosquitoes of the genus <hi rend="italic">Culex</hi>, but that in order to convey the infection<lb/>
+to a non-immune individual the insect must be kept for twelve days or<lb/>
+longer after it has filled itself with blood from a yellow fever patient in<lb/>
+the earlier stages of the disease. In other words, that a certain period<lb/>
+of incubation is required in the body of the insect before the germ<lb/>
+reaches its salivary glands, and consequently before it is able to inocu-<lb/>
+late an individual with the germs of yellow fever. This inference,<lb/>
+based upon experimental data, received support from other observa-<lb/>
+tions, and which have been repeatedly made with reference to the intro-<lb/>
+duction and spread of yellow fever in localities favorable to its propaga-<lb/>
+tion. When a case is imported to one of our Southern seaport cities,<lb/>
+from Havana, Veracruz or some other endemic focus of the disease, an<lb/>
+interval of two weeks or more occurs before secondary cases are devel-<lb/>
+oped as a result of such importation. In the light of our present knowl-<lb/>
+edge this is readily understood. A certain number of mosquitoes hav-<lb/>
+ing filled themselves with blood from this first case, after an interval of<lb/>
+twelve days or more bite non-immune individuals living in the vicinity,<lb/>
+and these individuals, after a brief period of incubation, fall sick with<lb/>
+the disease; being bitten by other mosquitoes they serve to transmit the<lb/>
+disease through the &lsquo;intermediate host&rsquo; to still others. Thus the epi-<lb/>
+demic extends, at first slowly, as from house to house, then more rap-<lb/>
+idly, as by geometrical progress.&rdquo;</p>
+<p>But whence and how the first case, whose blood is necessary for the<lb/>
+mosquito before it can become intermediary--how did he become in-<lb/>
+fected? True, part of the title of the Army Board report is, &ldquo;Yellow<lb/>
+Fever <hi rend="italic">Produced</hi> by the Bite of <hi rend="italic">Culex Fasciatus</hi>.&rdquo; But evidence is<lb/>
+wanting to show it. It is transmitted, but <hi rend="italic">not</hi> produced.</p>
+<p>Nevertheless, the board concludes:</p>
+<p>&ldquo;Yellow fever is not conveyed by fomites, and hence disinfection of<lb/>
+articles of clothing, bedding or merchandise, supposedly contaminated<lb/>
+by contact with those sick with this disease, is unnecessary.</p>
+<p>&ldquo;A house may be said to be infected with yellow fever only when<lb/>
+there are present within its walls contaminated mosquitoes capable of<lb/>
+carrying the parasites of the disease.&rdquo;</p>
+<p>And to these conclusions, Major Havard adds:</p>
+<p>&ldquo;Disinfection becomes completely useless, since there are no infectious<lb/>
+germs to destroy. In a house where a case of yellow fever has been<lb/>
+under treatment, the problem is how to reach the mosquitoes which have<lb/>
+become infected by biting the patient and are still lurking in the vicinity.<lb/>
+* * * Since we may assume in practice that the infectious germs<lb/>
+do not exist outside of a man or mosquito, the disinfection of trunks<lb/>
+and baggage on account of yellow fever is no longer justifiable; all that<lb/>
+is required will be the examination of non-immunes within the five days<lb/>
+<pb n="146" id="f02535152"/>
+146<lb/>
+<hi rend="italic">FOMITES AND YELLOW FEVER</hi>.<lb/>
+immediately following their last exposure to infection, the danger of<lb/>
+transmission being from their own persons and in no wise from their<lb/>
+clothing or baggage. Ships, like houses, are liable to harbor infected<lb/>
+mosquitoes and will continue to require fumigation.&rdquo;</p>
+<p>Moreover, he refers to the non-contagiousness of the disease as a <lb/>
+&ldquo;<hi rend="italic">discovery</hi> by Major Reed and his associates, conclusively proved by<lb/>
+direct experiment that recently soiled linen, bedding and effects of all<lb/>
+kinds are powerless to convey the disease. This discovery,&rdquo; he says,<lb/>
+&ldquo;must bring about a revolution in our methods of disinfection and<lb/>
+quarantine in yellow fever.&rdquo;</p>
+<p>This knowledge of the non-contagiousness of yellow fever has been<lb/>
+acted upon for more than half of the past century by physicians of actual<lb/>
+experience in connection with yellow fever everywhere. The &ldquo;direct<lb/>
+experiment&rdquo; of collecting a quantity of recently soiled linen and bedding<lb/>
+by yellow fever patients and sleeping in them, was but a feeble imita-<lb/>
+tion of what one of the surgeons of the French frigate <hi rend="italic">Gomer</hi> did in the<lb/>
+naval hospital at Pensacola in 1838. For besides the bed and clothing<lb/>
+in which he slept, and from which the dead body of a yellow fever<lb/>
+patient had just been taken, the ward was full of cases of yellow fever.<lb/>
+This he did in order to show the comrades of the sick, required to nurse<lb/>
+them, that there was no danger in their so doing. The incident was<lb/>
+described to me by the late Dr. Isaac Hulse, U. S. Navy, who was sur-<lb/>
+geon of the hospital at the time. My own personal experience with<lb/>
+yellow fever at the outset was scarcely less explicit, besides its subse-<lb/>
+quent relation to fomites--an infected ship.</p>
+<p>Fifty-four years ago, being an assistant surgeon in the Navy, during<lb/>
+the war with Mexico, I was ordered to a hospital on Salmadina Island,<lb/>
+in the vicinity of Veracruz, constructed of rough pine boards, where, in<lb/>
+a &ldquo;ward&rdquo; about twenty feet square, I had for room-mates for a period<lb/>
+of six weeks from two to six patients with yellow fever. We took our<lb/>
+meals in the same room. In an adjoining room, about thrice as large,<lb/>
+with an open doorway communicating, without a door, I had under my<lb/>
+care for the same length of time from ten to forty cases--there was a<lb/>
+daily increase in the number; and, during the last two weeks of the<lb/>
+period, about forty more in a tent twenty feet distant, who were cared<lb/>
+for during the day time by two visiting surgeons attached to vessels<lb/>
+anchored near by. My health was excellent during the period, but at<lb/>
+the end of it I was transferred to the infected frigate <hi rend="italic">Mississippi</hi>, on<lb/>
+board which ship most of the cases orginated, in charge of as many of<lb/>
+the sick as, in my judgment, could be safely taken on board--there were<lb/>
+127--under orders to proceed to Pensacola and transfer them to the<lb/>
+naval hospital at that place.</p>
+<pb n="147" id="f02535153"/>
+<p><hi rend="italic">FOMITES AND YELLOW FEVER</hi>.<lb/>
+147</p>
+<p>My fourth night on board the <hi rend="italic">Mississippi</hi> was a restless one, with<lb/>
+symptoms of yellow fever. Within the forty-eight hours before and<lb/>
+subsequent to my attack twelve other new cases had developed--all of<lb/>
+them of new-comers to the ship, some from the hospital attendants,<lb/>
+and the others transferred from vessels of the squadron.</p>
+<p>There were mosquitoes in the hospital during the whole period of my<lb/>
+service there; they were also present in all the vessels of the squadron.<lb/>
+But, admitting their agency in the transmission of the disease, the <hi rend="italic">Culex</hi><lb/>
+seems to have been almost exclusively confined to the <hi rend="italic">Mississippi</hi>, where<lb/>
+most of the cases occurred.</p>
+<p>In the afternoon of the day following my attack in the night, the ship<lb/>
+having arrived at Pensacola, all the sick, myself included, were trans-<lb/>
+ferred to the naval hospital. Six weeks thereafter I returned to duty<lb/>
+on board the same ship, she having been meanwhile &ldquo;broken out&rdquo; and<lb/>
+limed. If mosquitoes were still present they were not in such evidence<lb/>
+as to attract attention. Three weeks later, October 17th, she again put<lb/>
+to sea for Veracruz. On the fourth day out a case of yellow fever occur-<lb/>
+red on board, in a non-immune received on the day of her departure<lb/>
+from Pensacola. She arrived at Veracruz October 22d, at the begin-<lb/>
+ning of the first norther of the season--ever welcome as frost in New<lb/>
+Orleans as an estop to yellow fever. Up to this time the fever had been<lb/>
+increasingly prevalent in the city and squadron. The norther continued<lb/>
+about a week with comfortably cool but rainy weather. Almost imme-<lb/>
+diately following there was notable abatement of the fever on shore and<lb/>
+in the squadron generally. But not so on board the <hi rend="italic">Mississippi</hi> to non-<lb/>
+immune new-comers; one rarely escaped an attack within five days.<lb/>
+And so she continued to the end of her service in the Gulf, went North,<lb/>
+and was subjected to a freezing temperature; explicable, perhaps, by<lb/>
+the possible continued presence of <hi rend="italic">Culex fasciatus</hi>.</p>
+<p>But hardly so in the case of the U. S. Frigate <hi rend="italic">Susquehanna</hi>. This<lb/>
+ship, after more than two years' service in the Mediterranean, October,<lb/>
+1857, was ordered from Spezzia to San Juan de Nicaragua, where she<lb/>
+arrived early in December; having touched by the way at Genoa,<lb/>
+Madeira and Key West. She remained at San Juan until the first of<lb/>
+the following April, having had during the whole period of time she<lb/>
+lay there a constantly increasing sick list of a &ldquo;precursory&rdquo; fever. At<lb/>
+first intermittent, then remittent, but all recovered until March 20th,<lb/>
+when a case became malignant with symptoms of yellow fever, and<lb/>
+died; other cases followed. The ship put to sea April 1st, and on the<lb/>
+5th arrived at Port Royal, Jamaica, with one hundred and six officers<lb/>
+and men down with yellow fever.</p>
+<pb n="148" id="f02535154"/>
+<p>148<lb/>
+<hi rend="italic">FOMITES AND YELLOW FEVER</hi>.</p>
+<p>Most of these were sent to the hospital, and on the third day after-<lb/>
+ward she sailed for New York, where she arrived April 15th, with<lb/>
+fifty-one cases on the sick list.</p>
+<p>The remarkable feature in this instance is, that at San Juan, where<lb/>
+the yellow fever first appeared on board the <hi rend="italic">Susquehanna</hi>, there was<lb/>
+no yellow fever, and the disease had never been known to occur there.<lb/>
+As before stated, she had been more than two years in service on the<lb/>
+Mediterranean, but with no extraordinary sickness on board. She<lb/>
+had had yellow fever on board during service in the Gulf Squadron<lb/>
+the summer before she was ordered to the Mediterranean, nearly three<lb/>
+years before, and was supposed to have been thoroughly cleansed<lb/>
+before she was ordered to the Mediterranean station. But, as the<lb/>
+sequel shows, she still retained the germs of the disease (or mosqui-<lb/>
+toes?) until she returned to the conditions of the yellow fever habitat<lb/>
+at the Port of San Juan.</p>
+<p>It is conceivable that the advocates of the exclusive instrumentality<lb/>
+of the mosquito in her case may contend that she might have shipped<lb/>
+the <hi rend="italic">Culex</hi> when she touched at Key West. But there was no yellow<lb/>
+fever there at the time, and no case intervened between that time and<lb/>
+the first unequivocal case on board the <hi rend="italic">Susquehanna</hi>, March 20th,<lb/>
+after several weeks' prevalence of a <hi rend="italic">precursory</hi> fever--a not very un-<lb/>
+usual feature of yellow fever observed on other occasions; and promi-<lb/>
+nently so at the first outbreak of the disease in Rio and Callao.</p>
+<p>In 1849-52 the harbor of Rio was more or less crowded with vessels<lb/>
+from American ports, most of them destined for the Pacific, on ac-<lb/>
+count of the California &ldquo;gold fever.&rdquo; How many of them infected<lb/>
+with yellow fever, contracted while in service as storeships or other-<lb/>
+wise in the Gulf during the Mexican War, two or three years previous,<lb/>
+when yellow fever was exceptionally prevalent there, arrived at Rio<lb/>
+or touched at other Brazilian ports where yellow fever for the first<lb/>
+time appeared is problematical, but that some were is beyond ques-<lb/>
+tion. My interest in the subject on the first occurrence of yellow<lb/>
+fever in Callao led me to make some inquiry.</p>
+<p>I ascertained that about the middle of the year 1851 the steamer<lb/>
+<hi rend="italic">New World</hi>, after having lost more than half her crew by yellow fever<lb/>
+in Rio, on her way to California, touched at Callao. The steamer<lb/>
+<hi rend="italic">Pinto</hi> also, during the same season, lost several of her crew there,<lb/>
+proceeding to the Pacific and arriving at Callao in April, 1852. Soon<lb/>
+after her arrival a mild form of a peculiar fever broke out in Callao<lb/>
+and Lima, which the natives called &ldquo;pelusa,&rdquo; similar to the precursory<lb/>
+fever which prevailed in Rio in 1849; it was called &ldquo;polka.&rdquo; In both<lb/>
+instances the disease speedily developed yellow fever. And consid-<lb/>
+ering the voyages, so inconsistent with the continued presence of<lb/>
+<pb n="149" id="f02535155"/>
+<hi rend="italic">FOMITES AND YELLOW FEVER</hi>.<lb/>
+149<lb/>
+mosquitoes on board ship, it is hardly conceivable that they had any-<lb/>
+thing to do with either its introduction or transmission.</p>
+<p>The persistence of yellow fever-infection under conditions com-<lb/>
+monly fatal to mosquitoes is particularly well shown in the history of<lb/>
+the U. S. Steamer <hi rend="italic">Plymouth</hi>. She first became infected at St. Thomas<lb/>
+in the summer of 1878. In November following she was sent to<lb/>
+Portsmouth, N. H., and about a month afterward to Boston, where<lb/>
+she remained four months. Meanwhile everything was removed<lb/>
+from the ship; the crew were transferred, and she was fully exposed to<lb/>
+intense cold for a month--for ten days of that time in dry-dock, with<lb/>
+a temperature at times below zero. The water in the tanks was<lb/>
+frozen, as it was in basins put in the store rooms of the ship, and for<lb/>
+several days after the fires were rekindled on board the cold continued<lb/>
+so intense that the water froze in the bilges at night. One hundred<lb/>
+pounds of sulphur was burned below decks, the fumigation extending<lb/>
+over two days; the berth deck, holds and store-rooms were thoroughly<lb/>
+whitewashed with a mixture of lime and chloride of lime. March 15,<lb/>
+1879, she left Boston for a cruise in the West Indies. On the night<lb/>
+of the 19th, in a severe gale of wind, the hatches had to be battened<lb/>
+down and the berth deck became very damp and stuffy. On the<lb/>
+morning of the 22d (she had not touched at any port) Richard Saun-<lb/>
+ders, machinist, was sick, but did not report until afternoon, when he<lb/>
+had violent headache and fever. During the night of the 22d, Peter<lb/>
+Eagan, boatswain's mate, was taken suddenly and violently sick with<lb/>
+the same symptoms. On the 23d, at sea, latitude N. 27.48, longitude<lb/>
+W. 57.59, the surgeon (Woolverton) reported both cases yellow fever,<lb/>
+and recommended that the ship proceed no further on that cruise.<lb/>
+The first case recovered; the second died on the third day of illness.<lb/>
+The ship's course was changed to northward, and she arrived at<lb/>
+Portsmouth, N. H., April 7th. No new cases appeared after she<lb/>
+turned.</p>
+<p>&ldquo;I am convinced,&rdquo; said the surgeon, in his report, &ldquo;that the fever<lb/>
+infection is confined to the hull of the ship, and especially to the un-<lb/>
+sound wood about the berth deck; and that while the <hi rend="italic">Plymouth</hi> is a<lb/>
+safe and healthy ship in a temperate climate, she cannot, for the pres-<lb/>
+ent, be sent into a tropical climate without the certainty of an out-<lb/>
+break of yellow fever occurring on board; and that no precautionary<lb/>
+measures whatever could avail to avert such a result.&rdquo;</p>
+<p>Soon after her return to Portsmouth, April 17th, she was surveyed<lb/>
+by a board of medical officers, who reported that:</p>
+<p>&ldquo;After careful consideration of all the facts, we have arrived at the<lb/>
+conclusion that the infecting virus which gave rise to the last out-<lb/>
+<pb n="150" id="f02535156"/>
+150<lb/>
+<hi rend="italic">FOMITES AND YELLOW FEVER</hi>.<lb/>
+break of fever must have been preserved in the rotten wood of the<lb/>
+berth deck, or in the bedding or clothing of the crew.&rdquo;</p>
+<p><hi rend="italic">Of Ballast</hi>.--July 12-18, 1878, yellow fever broke out on board the<lb/>
+U. S. ship <hi rend="italic">Vermont</hi>, at the Brooklyn Navy Yard, of which there were<lb/>
+eight cases, with three deaths. According to the investigation and<lb/>
+report of a board of medical officers of the Navy, &ldquo;the disease seems<lb/>
+to have originated from the ballast of the bark <hi rend="italic">Juanita Clar</hi>, which left<lb/>
+Havana May 1st. This ballast, quarry clippings and sand was de-<lb/>
+posited on the dock on either side of the <hi rend="italic">Vermont</hi>, and about one hun-<lb/>
+dred yards distant from her.&rdquo; On this report the ballast was promptly<lb/>
+disinfected and covered over with fresh earth, after which there was<lb/>
+not another case.</p>
+<p><hi rend="italic">Of Personal Effects</hi>.--During my service as medical superintendent<lb/>
+of the floating hospital in the Lower Bay of New York, in September,<lb/>
+1862, I was sent for by one of my colleagues of the Brooklyn hospital<lb/>
+for consultation in a suspected case. I there found an unequivocal<lb/>
+case of yellow fever, who died the third day thereafter. She was the<lb/>
+widow of a seaman who had died in New Orleans two or three months<lb/>
+before, whose clothing she had received and washed four days before<lb/>
+she was taken sick.--Incidentally, it may here be remarked, this was<lb/>
+when General Butler was in command at New Orleans, when, it has<lb/>
+been frequently alleged, there was no yellow fever at that place. On<lb/>
+the contrary, though there was no commerce with Havana or other<lb/>
+yellow fever ports during General Butler's administration in New<lb/>
+Orleans, &ldquo;there were two reported deaths by yellow fever in the civil<lb/>
+population, and about one hundred cases in the river fleet.&rdquo;--Prof.<lb/>
+Stanford L. Chaill&eacute;, M. D. (<hi rend="italic">Sanitarian</hi>, August number, 1882).</p>
+<p>Not long after the case in Brooklyn, I met and had occasion to<lb/>
+relate it to the late Dr. William Johnson, Surgeon U. S. Navy. He<lb/>
+expressed no surprise, but related a still more strongly illustrative<lb/>
+case of himself.</p>
+<p>On the termination of a cruise on the west coast of Africa, some<lb/>
+years before, when yellow fever occurred on board the ship to which<lb/>
+he was attached, he packed his books in a barrel and so left them for<lb/>
+about three months after they had been received and his arrival home.<lb/>
+He then proceeded to unpack them, and three or four days thereafter<lb/>
+he was taken with yellow fever and came near dying.</p>
+<p>I have no need to be told that this recital is an epitome of ancient<lb/>
+history. It would be easy to extend it and quote reports of outbreaks<lb/>
+in the Gulf States in recent years, with which contemporary observers<lb/>
+are familiar; but I do not deem it necessary. Such occurrences have<lb/>
+been the foundation of our most intelligent quarantine practice, both<lb/>
+<pb n="151" id="f02535157"/>
+<hi rend="italic">FOMITES AND YELLOW FEVER</hi>.<lb/>
+151<lb/>
+State and National, during recent years, and with such results as, in<lb/>
+my judgment, justify their continuance.</p>
+<p>Moreover, with regard to the relation of unclean localities, as well<lb/>
+as foul ships, I think the remarks of John Simon, in his report to the<lb/>
+commissioners of sewers of London, in 1854, with reference to cholera,<lb/>
+are even more pertinent to yellow fever, and no less suitable today<lb/>
+than they were fifty years ago:</p>
+<p>&ldquo;The specific migrating power, whatever its nature, has the faculty<lb/>
+of infecting districts in a manner detrimental to life <hi rend="italic">only when their<lb/>
+atmosphere is fraught with certain products susceptible, under its influence,<lb/>
+of undergoing poisonous transformation</hi>. * * * Through the un-<lb/>
+polluted atmosphere of cleanly districts it migrates silently, without a<lb/>
+blow; that which it can kindle into poison lies not there. To the foul,<lb/>
+damp breath of low-lying cities it comes like a spark to powder. Here<lb/>
+is contained that which it can quickly make destructive--soaked into<lb/>
+soil, stagnant in water, griming the pavement, tainting the air--the<lb/>
+slow rottenness of unremoved excrement to which the first contact of<lb/>
+this foreign ferment brings the occasion to changing into new and<lb/>
+more deadly combinations.&rdquo;</p>
+</div1>
+<div1 type="chapter" n="5">
+<head>OFFICIAL REPORT OF THE PROCEEDINGS OF THE<lb/>
+TWENTY-NINTH ANNUAL MEETING OF THE AMER-<lb/>
+ICAN PUBLIC HEALTH ASSOCIATION.</head>
+<pb n="319" id="f02535325"/>
+<p>HELD AT BUFFALO, N. Y., SEPTEMBER 17, 18, 19 AND 20, 1901.</p>
+<p>SEPTEMBER 17TH--FIRST DAY--MORNING SESSION.</p>
+<p>The Association convened in the Seventy-fourth Regiment Armory,<lb/>
+and was called to order by the President, Dr. Benjamin Lee of Phila-<lb/>
+delphia, Pennsylvania, at 10 A. M.</p>
+<p>In accordance with the wishes of the President all ex-Presidents of<lb/>
+the Association, present at this meeting, took seats upon the platform.</p>
+<p>THE PRESIDENT.--Many years ago--I cannot say how many because<lb/>
+that would be giving away the ages of two elderly gentlemen present--<lb/>
+many years ago, a trembling medical student stood before his examiners<lb/>
+for graduation. He was obliged to pass seven subjects. Among those<lb/>
+subjects I need hardly say hygiene was not included. In those days<lb/>
+hygiene was not a part of the curriculum of any medical college. There<lb/>
+were, however, men in the profession who felt even then that in simply<lb/>
+attending their patients, administering pills and potions, and cutting off<lb/>
+legs, they were not fulfilling their full duty to their profession, or to<lb/>
+humanity. They felt that the knowledge which they acquired should<lb/>
+be utilized for the benefit of the entire public and of the world.</p>
+<p>Among those far-sighted men was Dr. Stephen Smith of the city of<lb/>
+New York. He who addresses you was the trembling student. Pro-<lb/>
+fessor Smith was his examiner. It is not necessary for me to say any-<lb/>
+thing in regard to the prominent place which Dr. Smith, as the first<lb/>
+President of this Association, and as an earnest worker in harmony<lb/>
+with it ever since that time, has occupied in the minds of sanitarians.<lb/>
+It is scarcely necessary for me to introduce him. I do so, however, with<lb/>
+very great pleasure. (Applause.) (See p. 19.)</p>
+<p>DR. A. L. GIHON, New York City.--Mr. President, in rising to move<lb/>
+a vote of thanks to Dr. Stephen Smith, it may be permitted me to say<lb/>
+that the child whose birth he witnessed in 1871 has now become triplets.<lb/>
+It has two sisters--Canada and Mexico. It so happens that sitting on<lb/>
+my right is the Director-General of Public Health of the Dominion of<lb/>
+Canada, one of our honored ex-Presidents, and sitting on my left is<lb/>
+the Supreme Head of the Sanitary Department of Mexico. Our two<lb/>
+sisters have done that which Dr. Smith thinks the United States should<lb/>
+319<lb/>
+<pb n="346" id="f02535352"/>
+346<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.</p>
+<p>The motion was seconded by Dr. Stanton, and carried</p>
+<p>THE PRESIDENT.--The Chair will appoint Dr. Salmon, of Wash-<lb/>
+ington; Dr. Bryce of Canada, and Dr. William M. Welch, of Phila-<lb/>
+delphia, as such committee.</p>
+<p>Mr. George W. Fuller of New York City, Chairman of the Com-<lb/>
+mittee on the Pollution of Public Water Supplies, reported as follows:</p>
+<p>This committee has decided that formal joint reports, such as made<lb/>
+last year, had in the future best be submitted once in three to five<lb/>
+years. In the meantime it is proposed by the committee to devote<lb/>
+itself to the preparation of new evidence on those topics previously<lb/>
+dealt with; and, further, to the development of those topics which<lb/>
+are not yet in such form that the evidence can be set forth in conclu-<lb/>
+sive and concise terms.</p>
+<p>During the past year the committee has been gathering informa-<lb/>
+tion relative to the various topics mentioned in our last report. Con-<lb/>
+cerning the question of vital statistics, particularly typhoid fever death<lb/>
+rates, in their relation to the pollution of public water supplies, the<lb/>
+data are not as complete as hoped for, but for American cities of over<lb/>
+30,000 population the typhoid fever death rate for each of the last<lb/>
+three years can be submitted. If it meets the pleasure of the Asso-<lb/>
+ciation, we would be glad to have these data printed in the Proceed-<lb/>
+ings of this meeting. (See page 100.)</p>
+<p>The principal work of the past year has been the accumulation of<lb/>
+evidence referring to the legal status of water pollution. This has<lb/>
+been undertaken by two members of our committee, Dr. Leal of Pat-<lb/>
+erson, N. J., and Dr. Wesbrook of Minneapolis, Minn. In the origi-<lb/>
+nal assignment of topics it was planned to have Dr. Leal investigate<lb/>
+this subject particularly from the standpoint of litigation and with<lb/>
+reference to leading court decisions; and to have Dr. Wesbrook com-<lb/>
+pile the available evidence with regard to legislative measures upon<lb/>
+which various health boards are now operating. Further, it was<lb/>
+planned to have the evidence along these lines summarized in such<lb/>
+form as to be of ready assistance in discussing this subject with the<lb/>
+view to outlining improvements. In carrying out these arrangements<lb/>
+it has been found that the subdivisions of this topic overlapped very<lb/>
+considerably, and in fact it became necessary for Dr. Leal to consider<lb/>
+it as a whole. The committee feels much obligated to Drs. Leal and<lb/>
+Wesbrook for the information which they have secured and prepared<lb/>
+in summarized form for presentation to this meeting.</p>
+<p>In the field of water purification and sewage disposal the leading<lb/>
+evidence stands now in substantially the same form as was the case a<lb/>
+year ago. The intervening period has been chiefly characterized in<lb/>
+<pb n="347" id="f02535353"/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+347<lb/>
+connection with water purification by actual construction work on a<lb/>
+much larger scale than has been the case hitherto in this country.<lb/>
+While the past year is notable for the application of principles pre-<lb/>
+viously developed, there have been a number of important studies<lb/>
+under way with especial reference to the preliminary clarification of<lb/>
+turbid waters and to the removal of color, tastes and odors. The<lb/>
+results of these investigations, however, are not yet available.</p>
+<p>Dr. John L. Leal of Paterson, N. J., member of the Committee on<lb/>
+the Pollution of Public Water Supplies, submitted a report prepared<lb/>
+by himself, dealing with the legal status of water pollution. (See<lb/>
+page 103.)</p>
+<p>DR. F. F. WESBROOK, Minneapolis, Minn.--At the time when the<lb/>
+work was originally assigned I had considerable amount of work to<lb/>
+do, which was found to be included in Dr. Leal's report. I wish to<lb/>
+ask that Dr. Leal be given full time and I will forego any remarks<lb/>
+which I have to make on the subject. In making this suggestion I<lb/>
+appreciate the value of what Dr. Leal has summarized.</p>
+<p>DR. H. M. BRACKEN, Minneapolis, Minn.--Mr. President, I would<lb/>
+like to make a motion. Mr. Fuller referred to having the death rate<lb/>
+statistics for typhoid fever in cities having a population of 30,000 or<lb/>
+more. I move you that the Publication Committee be urged to em-<lb/>
+body those statistics in the report of this committee of which Mr.<lb/>
+Fuller is Chairman.</p>
+<p>The motion was seconded by Dr. Montgomery. Carried.</p>
+<p>Dr. C. P. Wilkinson of New Orleans, La., Chairman of the Com-<lb/>
+mittee on Etiology of Yellow Fever, reported as follows:</p>
+<p>As acting Chairman of that committee, I have no report to make.<lb/>
+The former Chairman, Dr. Horlbeck, recently deceased, had accumu-<lb/>
+lated a large amount of data and promised us an interesting report.<lb/>
+Owing to his lamentable death this report has not been presented,<lb/>
+but I will endeavor to secure the data from his relatives so that it may<lb/>
+be printed.</p>
+<p>THE PRESIDENT: The Chair will appoint Dr. Wilkinson Chairman<lb/>
+<hi rend="italic">pro tem.</hi> of that committee in consequence of the death of Dr. Horl-<lb/>
+beck.</p>
+<p>Dr. H. W. Hill of Boston, Mass., read a paper prepared by Dr.<lb/>
+Alvah H. Doty, Health Officer, Port of New York, entitled &ldquo;Practical<lb/>
+Discussion of Yellow Fever.&rdquo; (See page 134.)</p>
+<p>Dr. Walter Reed, Surgeon, U. S. A., followed with a paper on<lb/>
+&ldquo;The Prevention of Yellow Fever.&rdquo; (See page 113.)</p>
+<p>On motion, an adjournment was taken to 3 p. m.</p>
+<pb n="348" id="f02535354"/>
+<p>348<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.</p>
+<p>SECOND DAY--AFTERNOON SESSION.</p>
+<p>The Association reassembled at 3 p. m., and was called to order by<lb/>
+the President.</p>
+<p>The Secretary announced that the Executive Committee had con-<lb/>
+sidered the resolution that was handed in with reference to the general<lb/>
+subject of Tuberculosis and would report back as a substitute the<lb/>
+following resolutions and recommend their adoption:</p>
+<p>&ldquo;<hi rend="italic">Resolved</hi>, That notwithstanding the advances of sanitary science<lb/>
+the mortality from tuberculosis continues to be appalling. It has<lb/>
+been demonstrated that by the application of proper measures this<lb/>
+mortality may be diminished rapidly and to a great degree. There-<lb/>
+fore, every effort should be made by sanitarians to carry into effect all<lb/>
+reasonable methods which have been shown by experience and re-<lb/>
+search to be efficacious towards this end.</p>
+<p><hi rend="italic">Resolved</hi>, That the increase of tuberculosis in cattle and swine, as<lb/>
+shown by investigations of recent years and by meat inspection sta-<lb/>
+tistics, is a serious matter from a commercial as well as sanitary point<lb/>
+of view, and calls for more systematic attention from those responsible<lb/>
+for the integrity of the food supply and for the protection of the public<lb/>
+health.</p>
+<p><hi rend="italic">Resolved</hi>, That this Association is of the opinion that sufficient facts<lb/>
+have not been offered by Professor Koch or other investigators to<lb/>
+prove that human and bovine tuberculosis are different diseases; it is<lb/>
+further of the opinion that the variability under different environment<lb/>
+common to microorganisms may, on further investigation, be found<lb/>
+sufficient to account for the differences that have been noted, and that<lb/>
+the germs of these diseases may yet be proved to be closely allied or<lb/>
+identical. Irrespective of the question of the communicability of<lb/>
+bovine tuberculosis to man, the inspection of animals and premises is<lb/>
+absolutely necessary in order:</p>
+<p>
+<list type="ordered">
+<item>1. That the meat and milk of animals suffering from this and other<lb/>
+constitutional diseases be not used as human food;</item>
+<item>2. That the sanitary condition of dairies, stables, etc., as regards<lb/>
+cleanliness, water supply and ventilation may be maintained;</item>
+<item>3. That the health of dairymen and other handlers be closely<lb/>
+supervised to prevent the spread of diphtheria, scarlet fever, human<lb/>
+tuberculosis, etc., through the milk supply.</item>
+</list>
+</p>
+<p><hi rend="italic">Resolved</hi>, That this Association, while desiring to express its posi-<lb/>
+tive opinion as to the importance of dealing with animals and their<lb/>
+products as indicated in the preceding resolutions, does, at the same<lb/>
+time, insist upon the necessity for dealing with the still greater dan-<lb/>
+gers now universally recognized, of the transmission of tuberculosis<lb/>
+from one person to another by continued personal association through<lb/>
+inhalation of the air of infected living rooms, the contamination of<lb/>
+clothing, handkerchiefs and similar objects with sputum and other<lb/>
+secretions and would therefore urgently recommend that munici-<lb/>
+palities adopt regulations, as follows:</p>
+<p>
+<list type="ordered">
+<item>1. Against expectoration on pavements and in other public places.<lb/>
+<pb n="349" id="f02535355"/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+349</item>
+<item>2. For the compulsory notification by physicians of cases of tuber-<lb/>
+culosis in order that literature may be supplied to householders and<lb/>
+municipal aid given where necessary to lessen the dangers to the fami-<lb/>
+lies of infected persons.</item>
+<item>3. For the establishment of municipal sanatoria for the benefit of<lb/>
+persons and families of limited means.</item>
+<item>4. For the regular inspection of tenements, factories, workshops,<lb/>
+schools and other public institutions to promote cleanliness, ventila-<lb/>
+tion and other sanitary conditions.&rdquo;</item>
+</list>
+</p>
+<p>It was moved by Dr. Gihon that the resolutions be adopted. Sec-<lb/>
+o0nded and carried.</p>
+<p>THE PRESIDENT.--The Chair will announce the appointment of<lb/>
+Major W. C. Gorgas as a member of the Advisory Council, represent-<lb/>
+ing the Government of the Island of Cuba.</p>
+<p>Dr. A. N. Bell of Brooklyn, N. Y., forwarded to the Association a<lb/>
+paper entitled, &ldquo;Fomites and Yellow Fever.&rdquo; As Dr. Bell was not<lb/>
+present, his paper was read by title. (See page 144.)</p>
+<p>Dr. W. C. Gorgas of Havana, Cuba, contributed a paper entitled,<lb/>
+&ldquo;Results of Sanitation of Yellow Fever in Havana, Cuba, Based on<lb/>
+the Theory that the Stegomyia Fasciata is the Only Means of Com-<lb/>
+munication of Yellow Fever.&rdquo; (See page 130.)</p>
+<p>Dr. Eduardo Lic&eacute;aga, President of the Superior Board of Health<lb/>
+of Mexico, Mexico City, presented a paper entitled, &ldquo;Tenth Report<lb/>
+on the Cases of Yellow Fever which have been Observed on the two<lb/>
+Coasts of the Mexican Republic from the 17th of September, 1900, to<lb/>
+the 31st of August, 1901.&rdquo; (See page 152.)<lb/>
+&check;</p>
+<p>DISCUSSION OF THE PAPER OF DRS. REED AND GORGAS.</p>
+<p>DR. FELIX FORMENTO, New Orleans, La.--I listened with the<lb/>
+greatest pleasure to the papers of Drs. Reed and Gorgas, and I thank<lb/>
+them very much. It will be to a great many a revelation. No one<lb/>
+admires more than I do the immense progress in sanitary matters in<lb/>
+Havana since the American occupation, and hope what I will say will<lb/>
+not be taken and cannot be taken as an unfair criticism. All honor<lb/>
+to the one who was the first to advance the theory that yellow fever<lb/>
+was communicated by mosquitos, and to you, gentlemen, who have<lb/>
+demonstrated it. The result of these experiments in my mind is this:<lb/>
+That it has been proven without a doubt that a certain mosquito is a<lb/>
+carrier of yellow fever, which is thus communicated from man to man.<lb/>
+Does this mean to say that there is no other way of communicating<lb/>
+the disease? Is the mosquito the only agent by which yellow fever<lb/>
+can be communicated? I beg to say that I think it is not the only<lb/>
+means of communication of the disease. The experiments which<lb/>
+<pb n="350" id="f02535356"/>
+350<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+have been made on a few subjects are certainly of great importance,<lb/>
+and prove that the mosquito transmits the disease. Had these experi-<lb/>
+ments been repeated outside of the yellow fever country and where<lb/>
+there could be no other possible suspicion of communication they<lb/>
+would have had still more weight. For instance, if an infected mos-<lb/>
+quito was carried to New York, and an experiment made at New<lb/>
+York, outside of all local influence, and gave the same results, it<lb/>
+would add a great deal to the experiments already made, which, how-<lb/>
+ever, I accept as conclusive. It is not, however, for me the only<lb/>
+method. How simple would the problem be if the disease could dis-<lb/>
+appear by exterminating the mosquito. I am certain there is an<lb/>
+analogy between this disease and tuberculosis, which we studied yes-<lb/>
+terday. We should not by receiving the new discovery throw away<lb/>
+at once as worthless the experience of centuries. There are many<lb/>
+real examples of the transmission of yellow fever by fomites. I will<lb/>
+give you one or two instances. Yellow fever broke out in Madrid a<lb/>
+few years ago in a house where a trunk had arrived from Cuba, which<lb/>
+had been closed for several months, and which belonged to an officer<lb/>
+who had died in Havana. Two or three days after the trunk was<lb/>
+opened well authenticated cases of yellow fever were discovered in<lb/>
+the house. Could mosquitos have lived three or four months in that<lb/>
+trunk? The length of life of the mosquito is said to be five days<lb/>
+when enclosed in a box with no dampness or humidity. That is one<lb/>
+case which cannot be explained by the mosquito theory.</p>
+<p>How do you explain this other fact, just as remarkable? During<lb/>
+the occupation of Mexico by the French a few years ago, a brig left a<lb/>
+Mexican port for Brest in the north of France, where there are no<lb/>
+mosquitos. During the voyage there occurred several deaths from<lb/>
+yellow fever. They arrived at their destination, and before they<lb/>
+landed, while in the port, the boat was fumigated and disinfected and<lb/>
+it was noticed a few days after that workingmen who had no direct<lb/>
+communication with the ship but who worked within a short distance,<lb/>
+on the wharf, were taken down with yellow fever. They had no<lb/>
+communication with the ship, but there was a current of air blowing<lb/>
+in that direction. Two, I think, died. The others recovered and<lb/>
+there were no other cases. And the epidemics of Cadiz, Barcelona<lb/>
+and Livorno (1821)! Were they also due to mosquitos?</p>
+<p>Therefore, I say that while admitting the possibility of the trans-<lb/>
+mission of yellow fever by the mosquito we still admit its transmission<lb/>
+by fomites. We should not, all at once, forget everything we have<lb/>
+learned and known for centuries.</p>
+<p>&check;</p>
+<p>DR. EUGENE WASDIN, Buffalo, N. Y.--The words of Dr. Formento<lb/>
+have given me the cue as to what I desire to say upon this question.</p>
+<pb n="351" id="f02535357"/>
+<p><hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+351</p>
+<p>To my mind there is a cloudiness about it which depends upon the<lb/>
+fact that we have lost sight of the organism which produces the<lb/>
+disease. The fact that Dr. Reed states that the organism has not yet<lb/>
+been discovered does not make that true. The organism has been<lb/>
+discovered, and it is not inconsistent with Dr. Reed's demonstration<lb/>
+of the transmission of the disease by the mosquito, to accept the<lb/>
+organism of Sanarelli as the cause of yellow fever. The real reason<lb/>
+of this obscurity is that he has ignored the peculiarities of this organ-<lb/>
+ism, an organism capable of giving rise to two developments, one<lb/>
+extremely toxic, and the other of less toxicity but of marked septic<lb/>
+power, and the diseases produced by the stegomyia are simply the<lb/>
+septic types of the disease from the <hi rend="italic">convection</hi> of this bacillus into the<lb/>
+circulation.</p>
+<p>Yellow fever can be produced naturally by the entrance of this<lb/>
+bacillus into the system <hi rend="italic">per vias naturales</hi>, and the passage of the<lb/>
+organism into the blood is followed by the septic symptoms charac-<lb/>
+teristic of the disease.</p>
+<p>The cause of the disease, as I have said the bacillus icteroides, has<lb/>
+been thoroughly experimented with, and the results demonstrate its<lb/>
+etiologic value. This can all be done over again, and I guarantee that<lb/>
+every observation made by the Commission of the Marine Hospital<lb/>
+Service can be refulfilled.</p>
+<p>Every postulate of Koch has been fulfilled, and more than that the<lb/>
+organism has given rise to yellow fever in animals in epidemic form<lb/>
+in the same way as we have found it to do in man.</p>
+<p>The most important point before you is that of the possibility of<lb/>
+the carriage of the bacillus in fomites. Dr. Formento has just<lb/>
+declared that he believes that the disease can be conveyed in fomites,<lb/>
+and so do I believe it, from the indubitable cases on record as derived<lb/>
+from this source.</p>
+<p>As to the influence of temperature in this disease, I will say that<lb/>
+the bacillus icteroides has a characteristic entirely different from that<lb/>
+of any organism which I have studied, in that it is quickly attenuated<lb/>
+by exposure to cold. It will produce yellow fever at 62&deg;-65&deg; Fahr.,<lb/>
+but it takes twice the length of time to produce the results at that<lb/>
+temperature as at 75&deg;-80&deg; Fahr., while at 42&deg; Fahr., the frost line, the<lb/>
+organism does not produce the disease at all from its attenuation by<lb/>
+cold, nor does reheating the germ itself after such exposure to cold<lb/>
+revive its power, as shown by Dr. Reed's experiments.</p>
+<p>I will here make use of Dr. Reed's chart showing the influence of<lb/>
+the temperature upon the mosquito, which will sting, and breed and<lb/>
+transmit the disease <hi rend="italic">only</hi> when the temperature is considerably above<lb/>
+42&deg; Fahr., or the frost line, since at this temperature the mosquito<lb/>
+<pb n="352" id="f02535358"/>
+352<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+becomes benumbed. At higher temperatures, say 62&deg; or 65&deg;, the<lb/>
+mosquito, he says, shows a more pronounced power to transmit the<lb/>
+disease, and at 75&deg; to 80&deg;, or a summer temperature, this transmission<lb/>
+is most perfect, the disease taking place usually within twelve days<lb/>
+after the sting of the mosquito.</p>
+<p>It is plain that Dr. Reed's temperature chart for the mosquito cor-<lb/>
+responds accurately with the facts of the attenuation of the bacillus<lb/>
+icteroides as I have demonstrated them to the satisfaction of some of<lb/>
+the best observers at the Pasteur Institute in Paris; and these facts<lb/>
+correspond to the clinical and natural characteristics of the disease as<lb/>
+we know it at the bedside. Whether the stegomyia may breed or not<lb/>
+breed, live or not live at the temperatures shown by Dr. Reed, I do<lb/>
+not know; I only know that the bacillus icteroides reacts to tempera-<lb/>
+ture changes in the same manner.</p>
+<p>The question of quarantine which comes up very naturally is one<lb/>
+of the most important that can occupy the attention of this august<lb/>
+body. Shall we displace all our well tried and known methods of<lb/>
+quarantine?</p>
+<p>The failure of Dr. Reed to find the bacillus causing the disease in<lb/>
+the cases he studied is no proof whatever of there being none. For<lb/>
+years New Orleans, and the South, has been kept free from yellow<lb/>
+fever by the exercise of our present methods of quarantine without<lb/>
+any regard for the welfare of the mosquito, and although Dr. Reed<lb/>
+has demonstrated to my mind that the disease may thus be transmit-<lb/>
+ted, it is not the only way by which we can contract the disease, and<lb/>
+when contracted from the mosquito I deem it but an artificial infec-<lb/>
+tion such as we produce in animals in our laboratories, and as Dr.<lb/>
+Reed has produced in man with his hypodermic syringe independent<lb/>
+of the stegomyia.</p>
+<p>DR. WALTER REED, U. S. A.--Will Dr. Wasdin please tell me in<lb/>
+the transmission of malaria by the bite of the mosquito, whether that<lb/>
+is also simply a laboratory disease?</p>
+<p>DR. WASDIN.--As we know the cause of malaria and Dr. Reed says<lb/>
+that we do not know the cause of this disease, I do not think the<lb/>
+question a fair one, for there are certain natural conditions of disease,<lb/>
+and if we get them confounded with the artificial conditions the con-<lb/>
+fusion may be lasting. However, if a mosquito, bearing the sporo-<lb/>
+z&ouml;ides of the plasmodium malari&aelig; in its body, should die and become<lb/>
+macerated in the water of her habitat, and if these coccidia or spores<lb/>
+should become liberated in the air or water, and be taken into the<lb/>
+system, is there any evidence to show that such spores may not<lb/>
+germinate in the tissues and produce the disease naturally?</p>
+<pb n="353" id="f02535359"/>
+<p><hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+353</p>
+<p>These spores are the ultimate facts, with which we are acquainted,<lb/>
+of a bygone malarial fever; we know nothing of their further possible<lb/>
+germination save through the proboscis of the stegomyia, nor of the<lb/>
+possible higher animalcular life of which the malarial plasmodium<lb/>
+may be only a cycle. The fact of injecting these spores makes the<lb/>
+disease artificial.</p>
+<p>Therefore, I would appeal, as an officer of the Marine Hospital<lb/>
+Service who has served at the National quarantine stations, and has<lb/>
+honestly done his duty in investigating this disease--I appeal to this<lb/>
+Association against the proposition to modify our quarantine restric-<lb/>
+tions, since it is not reasonable to accept the unproved dictum that<lb/>
+yellow fever is transmitted solely by the stegomyia fasciata, if by so<lb/>
+doing we displace the theory that has given us safety during all these<lb/>
+years.</p>
+<p>DR. MILTON J. ROSENAU, Washington, D. C.--I wish briefly to<lb/>
+add my words of congratulation to those of the whole scientific world<lb/>
+in praise of Dr. Reed and his colleagues, who, in my opinion, have<lb/>
+given us a work which has not been equalled, as far as its benefits to<lb/>
+the public health are concerned, since Jenner gave us vaccinia. The<lb/>
+mosquito carries yellow fever. There may be other means of carrying<lb/>
+it. I believe that we can, from a sanitary standpoint and from a public<lb/>
+health standpoint, disregard other measures until they are proven.<lb/>
+They have not yet been proven. I would like it distinctly under-<lb/>
+stood that my views are personal, although I am a member of the<lb/>
+Marine Hospital Service. This map is the &ldquo;proof of the pudding.&rdquo;<lb/>
+We could not have a better argument than that, and I think all honor<lb/>
+should be given to Major Gorgas for the brilliancy of the work which<lb/>
+results in a diagram and figure like this.</p>
+<p>I have only one fact to add to what has been presented today con-<lb/>
+cerning the transmission of the disease. It has been a time honored<lb/>
+custom to disinfect baggage in order to prevent the spread of this<lb/>
+disease. Now, it is a great question whether it is necessary to disin-<lb/>
+fect or treat baggage in any way in order to prevent the disease<lb/>
+spreading. Dr. Reed has told us today that baggage may carry the<lb/>
+mosquito for five days. Major Havard, quoting a letter of Dr.<lb/>
+Harvey, told us how the mosquito has been carried from Neuvitas,<lb/>
+Cuba, to New York, a period lasting about thirteen or fourteen days,<lb/>
+and in the experiments which have been conducted with the mos-<lb/>
+quito in the hygienic laboratory of the Marine Hospital Service in<lb/>
+Washington during the summer months, we have often kept mosqui-<lb/>
+tos in trunks, in order to prove this very question, for a period of ten<lb/>
+days. The condition, as Major Reed has already pointed out, essen-<lb/>
+tial to keep them alive longer than a few days, is water. It is not<lb/>
+<pb n="354" id="f02535360"/>
+354<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+necessary that water be present in the trunk, as such. Moisture is<lb/>
+sufficient. In our particular experiments we put the mosquitos in a<lb/>
+little pill box. We replaced the pasteboard lid with one of mosquito<lb/>
+netting, and then wrapped this little box up in a damp handkerchief<lb/>
+or a dry towel, and then packed it away in our trunk, under different<lb/>
+degrees of temperature and moisture in order to see whether the<lb/>
+mosquito would live any length of time. The evidence seems to be<lb/>
+plain that a mosquito can travel in a trunk or box, and therefore there<lb/>
+is a certain amount of danger in carrying mosquitos from Cuba to<lb/>
+parts of this country in baggage. It is not more than five days from<lb/>
+Havana to New Orleans by boat. Just how great this danger is I<lb/>
+cannot say. However, we have here a scientific justification of the<lb/>
+time honored custom of the disinfection of baggage, which experience<lb/>
+has taught us for many years to be one of the means in our fight<lb/>
+against the spread of yellow fever.</p>
+<p>DR. WALTER REED, U. S. A., closing the discussion: I, for one,<lb/>
+thoroughly sympathize with the position taken by Dr. Formento<lb/>
+in this discussion. We must look at the situation in the light in<lb/>
+which the physicians of New Orleans view this matter. As I stated,<lb/>
+this morning, that city has had more deaths from yellow fever than<lb/>
+any other city in the United States, and hence if we find that the gen-<lb/>
+tlemen in New Orleans, while prepared to accept the theory of the<lb/>
+transmissibility of yellow fever by mosquitos, are not willing to<lb/>
+accept this as the only method of transmission, we should not be<lb/>
+much surprised at their attitude. It is perfectly natural that gentle-<lb/>
+men who come from a city, so afflicted as New Orleans has been,<lb/>
+should be unwilling to accept the mosquito as the only means of<lb/>
+transmission of this disease. We should not expect that their views<lb/>
+would undergo, all at once, such a radical revolution and that they<lb/>
+should abandon fomites as a means of transmission. We have ex-<lb/>
+pected much criticism on their part, and we certainly cannot object<lb/>
+to this. Let me say here, that we have always invited the fullest criti-<lb/>
+cism of our work in Cuba. It was for this reason that, during the<lb/>
+time these observations were being made, we requested the most<lb/>
+expert physicians in Havana, including the officers of the Marine<lb/>
+Hospital Service, who have done such excellent work in keeping<lb/>
+yellow fever out of the United States, to visit our Experimental<lb/>
+Station, and to see for themselves everything that we were doing, for<lb/>
+we fully realized that if our work would not withstand the most<lb/>
+searching criticism, it could have no real value.</p>
+<p>Dr. Formento has given an instance of the importation of yellow<lb/>
+fever into Spain by fomites. I dare say this is the epidemic of 1878<lb/>
+in Madrid, to which several writers have made reference. If so, the<lb/>
+<pb n="355" id="f02535361"/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+355<lb/>
+facts are about as follows: 19,000 soldiers returning from Cuba<lb/>
+were disembarked at a Spanish port, 10,000 of these going direct to<lb/>
+Madrid by rail. Sometime thereafter yellow fever began at a point in<lb/>
+the city where a small detachment of soldiers had lodged. If fomites<lb/>
+is responsible for the outbreak, what seems remarkable is that only<lb/>
+one small detachment should have carried infected clothing out of ten<lb/>
+thousand soldiers who reached Madrid and dispersed throughout the<lb/>
+city. Does not this appear, to say the least, highly improbable? Is<lb/>
+it not more reasonable to believe that a case of mild yellow fever was<lb/>
+imported amongst the men of this small detachment? Certainly, if<lb/>
+gentlemen still believe that fomites can carry yellow fever, they<lb/>
+should bear in mind that we left no means untried in order to produce<lb/>
+the disease in this way.</p>
+<p>DR. WASDIN, Buffalo, N. Y.--Was the experiment with fomites<lb/>
+carried on at the time of the year in which the bacillus icteroides is<lb/>
+most active or absolutely inactive?</p>
+<p>DR. WALTER REED.--I was going to reach Dr. Wasdin's objec-<lb/>
+tions in a little while, but perhaps I had better answer him now. So<lb/>
+far as bacillus icteroides is concerned, our observations have shown<lb/>
+that this bacillus has nothing to do with the causation of yellow fever.<lb/>
+This was clearly brought out in those cases of experimental yellow<lb/>
+fever which were produced by the subcutaneous injection of blood.<lb/>
+In these cases, as soon as we had injected a certain quantity of the<lb/>
+blood of a patient having yellow fever, under the skin of the non-<lb/>
+immune subject, we immediately thereafter drew a somewhat larger<lb/>
+quantity of blood and transferred it to sterile bouillon, diluting it<lb/>
+fifteen or twenty times. Now the very same blood that, thus injected,<lb/>
+produced yellow fever in the non-immune subject and hence must<lb/>
+have contained the specific agent of the disease, did not contain<lb/>
+bacillus icteroides, as shown by its failure to appear in any of our<lb/>
+culture media. Bacillus icteroides is not a difficult organism to grow<lb/>
+on our laboratory media and should not, therefore, be hard to isolate<lb/>
+when present in the blood, Dr. Wasdin to the contrary notwithstand-<lb/>
+ing. It seems to me a waste of time, with all due respect to Dr.<lb/>
+Wasdin, who has labored so hard over this problem, to longer con-<lb/>
+sider this bacillus as the cause of yellow fever.</p>
+<p>Although we worked at the season of the year when yellow fever<lb/>
+was on the decline in Havana, we took means in our infected clothing<lb/>
+building, through artificial heat, to keep the temperature at an aver-<lb/>
+age of nearly 80&deg; F. Not only that, we also kept the atmosphere<lb/>
+moist. We never allowed sunlight to enter the building, and yet not<lb/>
+one of the seven non-immunes who slept in this house and in the very<lb/>
+<pb n="356" id="f02535362"/>
+356<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+garments worn by yellow fever patients, during a period of sixty-five<lb/>
+nights, contracted the disease. During this same period we were<lb/>
+producing yellow fever at the ordinary temperature of the outside air<lb/>
+by the bites of infected mosquitos, and the disease was still continuing<lb/>
+in Havana.</p>
+<p>Now, gentlemen, when you speak of fomites as a means of trans-<lb/>
+mission and of the danger of a yellow fever patient infecting his bed-<lb/>
+ding or clothing, you should not forget that yellow fever is such a<lb/>
+ peculiar disease, that while a patient can infect his clothing in New<lb/>
+Orleans, he cannot do so at Asheville, N. C., or at Atlanta, Ga., even<lb/>
+though he die with black vomit! Perhaps some one present can<lb/>
+explain why. In Philadelphia towards the close of the great epi-<lb/>
+demics of 1793 and 1798, prior to the days when disinfectants were<lb/>
+used, one could hardly say how many tons of infected bedding and<lb/>
+clothing must have been contained in the houses of that city; and yet<lb/>
+with the advent of cold weather yellow fever rapidly subsided,<lb/>
+although there still remained such an abundance of fomites. Did<lb/>
+the advent of frost so promptly disinfect the fomites or did it drive<lb/>
+away the infected mosquitos?</p>
+<p>There is one other point to which I would like to invite your atten-<lb/>
+tion; it is this; whenever a case of yellow fever arises as the result of<lb/>
+supposed exposure to fomites, the case develops promptly, that is<lb/>
+after a few days, corresponding to the short period of incubation of<lb/>
+this disease; but, on the other hand, when an individual sick with<lb/>
+yellow fever enters a town, where the conditions are favorable for the<lb/>
+propagation of the disease, a second case does not occur until after a<lb/>
+considerable period--two to three weeks. I need hardly add that this<lb/>
+interval corresponds to the mosquito interval, as our observations<lb/>
+have shown.</p>
+<p>DR. FELIX FORMENTO, New Orleans, La.--Do you consider the<lb/>
+mosquito as the only means of transmission of yellow fever?</p>
+<p>DR. REED.--Yes. I do not believe that nature works in two such<lb/>
+radically different ways as would be required in the transmission of<lb/>
+yellow fever by the bite of the mosquito and by contact with fomites.<lb/>
+Moreover, the transmission of the disease by the mosquito meets<lb/>
+every requirement of the case, whereas its propagation by fomites, or<lb/>
+by other means, is vulnerable at every point.</p>
+<p>As regards the danger of importing infected mosquitos in baggage,<lb/>
+to which Dr. Rosenau has given his assent, based on certain obser-<lb/>
+vations that he has made, let me say that the conditions under which<lb/>
+Dr. Rosenau kept his insects in trunks are such as would not occur in<lb/>
+the ordinary transmission of baggage. His observations are of inter-<lb/>
+<pb n="357" id="f02535363"/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+357<lb/>
+est as bearing on the length of life of this mosquito under certain<lb/>
+conditions, but it must not be forgotten that Dr. Rosenau was careful<lb/>
+to supply his insects with water by means of a moistened handker-<lb/>
+chief wrapped around his pill-boxes; and to insure access to this water<lb/>
+by a single layer of mosquito netting placed between the insects and<lb/>
+the wet handkerchief. In other words, Dr. Rosenau not only pro-<lb/>
+tected his insects from injury but supplied them with the moisture<lb/>
+necessary to keep them alive. But when one packs his trunk, he<lb/>
+generally packs it with dry articles of clothing and he does not put his<lb/>
+mosquitoes in pill-boxes nor provide water for them in transit. In<lb/>
+our own experiments, the mosquitos were placed in large glass jars,<lb/>
+covered with mosquito-netting, after having been permitted to fill<lb/>
+themselves with blood. If under these favorable conditions, with<lb/>
+plenty of air and facilities for exercise, they are all dead by the expira-<lb/>
+tion of the fifth or beginning of the sixth day, we can hardly believe<lb/>
+that they would survive so long when packed amongst articles of<lb/>
+clothing and subjected to the rude handling of baggage. It is be-<lb/>
+cause of the frailty of this insect and of its need for water, that we do<lb/>
+not consider its importation in baggage as a source of danger.</p>
+<p>Mr. Rudolph Hering, C. E., New York City, Chairman of the<lb/>
+Committee on Disposal of Refuse Materials, made the following<lb/>
+report: (See page 184.)</p>
+<p>DISCUSSION ON MR. HERING'S REPORT.</p>
+<p>DR. SAMUEL H. DURGIN, Boston, Mass.--I cannot help expressing<lb/>
+a little surprise that at the end of so many years of investigation we<lb/>
+cannot have something more definite as a conclusion. The country<lb/>
+is looking for these conclusions from scientific sanitary bodies.<lb/>
+Municipalities are impatiently waiting for these conclusions. I would<lb/>
+like to ask the chairman of this committee whether or not it is a fact<lb/>
+that two or three main questions involved have not been already<lb/>
+regarded as fairly settled. First, we have the two systems, the reduc-<lb/>
+tion system and the cremation system. I would like to ask the<lb/>
+chairman if it is not a fact under his investigations and observations<lb/>
+that the reduction system is one which always offends the sense of<lb/>
+the people near it and whether it is not a very offensive process in<lb/>
+every instance. I would like an answer, yes or no, to that.</p>
+<p>MR. RUDOLPH HERING, New York City.--Mr. Chairman, this<lb/>
+question cannot be answered by yes or no. If we had an ideal system<lb/>
+we might possibly answer it.</p>
+<p>DR. DURGIN.--Have you found any reduction process that is not a<lb/>
+nuisance to the neighborhood?</p>
+<pb n="362" id="f02535368"/>
+<p>362<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.</p>
+<p>SECOND DAY--EVENING SESSION.</p>
+<p>The Association was called to order at 8 p. m. by the President,<lb/>
+Dr. Benjamin Lee of Philadelphia.</p>
+<p>THE PRESIDENT.--The first paper of the evening session is the<lb/>
+report of the Committee on the Cause, Prevention and Duration of<lb/>
+Infectious Diseases, by Dr. A. Walter Suiter, Chairman, Herkimer,<lb/>
+N. Y. Dr. Suiter, however, has offered to give place to Dr. Hibbert<lb/>
+W. Hill of Boston, Mass., who desires to make his report on &ldquo;Disin-<lb/>
+fectants and Disinfection.&rdquo;</p>
+<p>Dr. Hibbert Hill, Boston, Mass., Chairman, then read the report<lb/>
+of the Committee on &ldquo;Disinfectants and Disinfection.&rdquo; (See page<lb/>
+244.)</p>
+<p>THE PRESIDENT.--As the paper of Dr. Suiter is somewhat on the<lb/>
+same line as the report of this Committee, the Chair would suggest<lb/>
+that discussion of the report just read be postponed until after the<lb/>
+reading of Dr. Suiter's report.</p>
+<p>Dr. A. Walter Suiter of Herkimer, N. Y., Chairman, then read the<lb/>
+report of the Committee on the Cause, Prevention and Duration of<lb/>
+Infectious Diseases. (See page 227.)</p>
+<p>DR. A. W. SUITER, Herkimer, N. Y.--I have in my possession a<lb/>
+few memoranda which have been presented by individual members of<lb/>
+this Committee. Three of them are in the possession of the Secretary<lb/>
+and are not now at hand. If there is time and patience on the part<lb/>
+of those present, I will undertake to read these articles. (Reading<lb/>
+memoranda.)</p>
+<p>That concludes the memoranda that I have in my possession. As<lb/>
+to those in the possession of the Secretary, I move you that they,<lb/>
+together with these memoranda, be referred to the Committee on<lb/>
+Publication.</p>
+<p>The motion was seconded. Carried.</p>
+<p>It was moved and seconded that a vote of thanks be extended to<lb/>
+Dr. Suiter for his pains in preparing the paper just read. The motion<lb/>
+was carried.</p>
+<p>THE PRESIDENT.--If there is no discussion, I would like to say that<lb/>
+a paper was passed which had a place on the program, and the dis-<lb/>
+cussion which took place this afternoon on the Disposal of Refuse<lb/>
+would scarcely be complete without the presentation of this paper.<lb/>
+It is entitled, &ldquo;Refuse Disposal in the District of Columbia,&rdquo; by Dr.<lb/>
+William C. Woodward, Health Officer of the District of Columbia.</p>
+<pb n="363" id="f02535369"/>
+<p><hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+363</p>
+<p>It was moved and seconded that Dr. Woodward's paper be read by<lb/>
+title and printed in the proceedings. Carried.</p>
+<p>On motion, the convention then adjourned until Thursday morn-<lb/>
+ing, at 10 a. m.</p>
+<p>SEPTEMBER 19, THIRD DAY--MORNING SESSION.</p>
+<p>The Association was called to order by the President at 10 a. m.</p>
+<p>THE PRESIDENT.--This being the day which the National and State<lb/>
+authorities<unclear>.</unclear> have set apart as a day of humiliation in commemoration<lb/>
+of our late lamented President, the ordinary business of the Associa-<lb/>
+tion will be entirely given up. There are, however, one or two mat-<lb/>
+ters which could be properly attended to, which will take very little<lb/>
+time, before the resolutions are presented.</p>
+<p>The Secretary presented a number of applications for membership,<lb/>
+which having been acted upon favorably by the Executive Committee,<lb/>
+were recommended to the Association for election.</p>
+<p>DR. SAMUEL H. DURGIN.--I move that the Secretary be instructed<lb/>
+to cast the ballot of the Association in favor of the election of these<lb/>
+applicants. The motion was seconded and carried.</p>
+<p>The Secretary then cast the ballot of the Association for the elec-<lb/>
+tion of the new members whose names had been read, and they were<lb/>
+declared elected.</p>
+<p>Dr. Albert L. Gihon stated that it was customary to refer the report<lb/>
+of the Treasurer to an Auditing Committee, and moved that this<lb/>
+action be taken.</p>
+<p>The motion was seconded. Carried.</p>
+<p>THE PRESIDENT.--The Chair will name Drs. Bryce and Durgin as<lb/>
+an Auditing Committee to report at a subsequent session.</p>
+<p>The Chair will call upon Dr. Holton as a member of the Committee<lb/>
+on Resolutions to present the resolutions of respect to the memory<lb/>
+of our late President.</p>
+<p>Dr. Holton then read the resolutions prepared by the Committee,<lb/>
+as follows:</p>
+<p>&ldquo;Your Committee appointed to draft resolutions regarding the<lb/>
+death of President McKinley beg leave to submit the following reso-<lb/>
+lutions:</p>
+<p><hi rend="italic">Resolved</hi>, That the American Public Health Association has received<lb/>
+with deep sorrow the intelligence of the sudden and tragic death of the<lb/>
+beloved President of the United States.</p>
+<pb n="364" id="f02535370"/>
+<p>364<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.</p>
+<p><hi rend="italic">Resolved</hi>, That in President McKinley we recognize the highest<lb/>
+type of modern civilization, a patriotic citizen, a Christian gentleman,<lb/>
+and a sagacious and enlightened statesman.</p>
+<p><hi rend="italic">Resolved</hi>, That we respectfully extend our heartfelt sympathy to<lb/>
+Mrs. McKinley in this her hour of bereavement, and to other members<lb/>
+of the family.</p>
+<p><hi rend="italic">Resolved</hi>, That a copy of these resolutions be spread upon the rec-<lb/>
+ords of this Association and given to the press for publication.&rdquo;</p>
+<p>
+<list type="simple">
+<item>BENJAMIN LEE,</item>
+<item>WILLIAM BAILEY.</item>
+<item>HENRY D. HOLTON.</item>
+<item>FREDERICK MONTIZAMBERT.</item>
+<item>E. LIC&Eacute;AGA.</item>
+</list>
+</p>
+<p>It was moved by Dr. Durgin that the resolutions be adopted.<lb/>
+Seconded.</p>
+<p>The Chair would suggest that some members would possibly like<lb/>
+to express themselves in regard to these resolutions, and I will call<lb/>
+upon Ex-President Bailey.</p>
+<p>DR. WILLIAM BAILEY.--Mr. President, and members of the Asso-<lb/>
+ciation: I feel words must fail me to express the depth of sorrow<lb/>
+that we all feel. Yet it is a sad pleasure to me to speak a word on<lb/>
+this occasion. As expressed I think well in our resolutions, we recog-<lb/>
+nize in the late President all that is best in modern civilization. In<lb/>
+every relation in life, as a statesman, as a soldier, and as a Christian,<lb/>
+and as to his family relations, we all doff our hats when we contem-<lb/>
+plate the loyalty of this man to his afflicted wife.</p>
+<p>Coming as I do from the South I would like simply to call attention<lb/>
+to the fact that no man since the Civil War has done so much as<lb/>
+President McKinley to unify this country of ours. Without partisan<lb/>
+bias when it came to the Spanish War we found that a Wheeler, a<lb/>
+Lee and a Breckenridge were his prominent agents in the carying on<lb/>
+of this war, so that to-day in the South as never since 1860 have we<lb/>
+had such feeling toward a President or towards the flag of our coun-<lb/>
+try. So for this we may be thankful for this man.</p>
+<p>The very heinous crime precludes almost its mention and yet allow<lb/>
+me to express in this presence that this country since its organization<lb/>
+has always been open to receive everybody from other climes who<lb/>
+desire to come to us. While that is still our wish for those who come<lb/>
+for the betterment of themselves and mankind and who desire to<lb/>
+become Americanized, adopting the principles of this Government as<lb/>
+their own, yet let me say that the day has come when it must be<lb/>
+expressed that we have no place in this country for those who come<lb/>
+with the view of promulgating principles that are so much at variance<lb/>
+with the principles upon which this Government is founded, and that<lb/>
+<pb n="365" id="f02535371"/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+365<lb/>
+there is no longer a place in this country for such spirits to come and<lb/>
+concoct their damnable schemes.</p>
+<p>Simply then, and briefly, I would urge the adoption of these resolu-<lb/>
+tions in their full spirit, that we do recognize an irreparable loss, that<lb/>
+we recognize in this man one worthy of our deepest love, and I am<lb/>
+sure that we likewise congratulate ourselves and feelingly return<lb/>
+thanks for the expressions that have come to us from our sister<lb/>
+nations and I might say from the world. (Applause.)</p>
+<p>DR. C. P. WILKINSON, New Orleans, La.--Mr. Chairman, in sec-<lb/>
+onding the resolution I voice the sentiments of the people of the<lb/>
+extreme South, the section from which I come. We were recently<lb/>
+favored by a visit from our now deceased President. Our people<lb/>
+turned towards him with smiles and extended hands. They held out<lb/>
+arms full of flowers and rent the air with their cheers for the man, the<lb/>
+citizen and the President. The same bells that then rang out p&aelig;ans<lb/>
+for that man are now tolling dirges as his body lies just about ready<lb/>
+to be consigned to the tomb. There is no section of the country that<lb/>
+feels more acutely and more bitterly the killing of President McKinley<lb/>
+than does the South. He was their friend. In the killing of Presi-<lb/>
+dent Lincoln the South was visited with dire punishment for any<lb/>
+hand she might have had in that assassination; and today the South<lb/>
+mourns the loss of this President who was the first since that time to<lb/>
+extend open fellowship and invite us to join in the house of our<lb/>
+fathers in the Union. Today, sir, we find no place for any reflections<lb/>
+upon the previous history of any party or any man in that party, but<lb/>
+we do recognize the onward march of William McKinley towards<lb/>
+prosperity, peace and protection to every citizen of the land regardless<lb/>
+of State or sectional birth. We mourn his loss today more than we<lb/>
+can express, and on behalf of the South I join in the deepest regret<lb/>
+that we have to pass these resolutions; with the most heartfelt earn-<lb/>
+estness in the truth of every word that they express. (Applause.)</p>
+<p>THE PRESIDENT.--The Dominion of Canada has already in words<lb/>
+most fittingly spoken and full of the deepest sympathy, expressed<lb/>
+itself on this question. It would not be inappropriate, however, if at<lb/>
+this meeting a further expression should be presented, and I will call<lb/>
+upon Dr. Bryce for a word.</p>
+<p>DR. BRYCE, Toronto, Can.--Mr. President, Ladies and Gentlemen:<lb/>
+It is appropriate that a representative from the Dominion of Canada<lb/>
+should have expressed in open meeting here the feelings of admiration<lb/>
+for the late President which we all hold and should likewise have<lb/>
+expressed feelings of regret for his untimely decease.</p>
+<pb n="366" id="f02535372"/>
+<p>366<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.</p>
+<p>At the request of your Executive Committee and your Chairman I<lb/>
+am asked to add a few words in connection with this expression of<lb/>
+condolence on the part of the Association in the resolution which has<lb/>
+just been read. The death of the President is one which must be<lb/>
+regretted not alone by the people of the United States, not alone by<lb/>
+the people of Anglo-Saxon lineage, but by all the civilized peoples of<lb/>
+the earth; but I suppose to no one does that death come nearer than<lb/>
+to the people lying to the north, a people who are not only the same in<lb/>
+birth and aspirations, but also the same in their daily relations, be-<lb/>
+cause we are practically one with you, but especially because we see<lb/>
+in the virtues of the life of the late President McKinley so many of<lb/>
+those qualities which have been seen in our late Queen, a sort of load-<lb/>
+star to draw every good Briton, and I will say every good citizen of the<lb/>
+world, the highest sense, towards the ideal.</p>
+<p>The fact that this Association is called upon to pass these resolu-<lb/>
+tions has seemed to me an extremely appropriate thing, since the very<lb/>
+aims and objects of this Association are to suppress those very irregu-<lb/>
+larities, whether in society or not, which this sad circumstance has<lb/>
+been an illustration of. Sad as the circumstance of the assassination<lb/>
+is, it must come home to every one of us workers in the carrying out<lb/>
+of the laws of the Almighty, as we understand them, to realize in it<lb/>
+that it is one of the necessary results of an unalterable law, whether<lb/>
+those catastrophes that we have seen striking society from time to<lb/>
+time have affected some innocent person, some whole city, or some<lb/>
+whole nation. To us, the work of regulating society comes as close<lb/>
+as the regulating of an epidemic or of some catastrophe at sea through<lb/>
+an imperfect vessel or some railway collison, which may be due to<lb/>
+lack of knowledge of construction or lack of care in managing a train.<lb/>
+When we point to the death of the President as an illustration of<lb/>
+something, somewhere needing regulation, we feel that it devolves<lb/>
+upon us not only to sympathize with the effects of such irregularity in-<lb/>
+cident to the lack of harmony amongst the social elements, but points<lb/>
+us still more, it seems to me, in the direction we have so long worked<lb/>
+and impels us to work more earnestly and also shows us that in society<lb/>
+we are subject to laws which are as unalterable as the movements of<lb/>
+the planets, and that if we are ever to see evolved that harmony, which<lb/>
+seems to be the purpose of the Creator, we will have to work along all<lb/>
+the lines known to us whereby our labors shall go to make up the<lb/>
+infinite harmony which are operant with the highest principles,<lb/>
+whether of nature or of the Creator. I have only to add that I fully<lb/>
+and heartily agree not only for myself but for my country in the reso-<lb/>
+lutions which have been submitted.</p>
+<pb n="367" id="f02535373"/>
+<p><hi rend="italic">PROCEEDINGS--TWENTY-NINTH ANNUAL MEETING</hi>.<lb/>
+367</p>
+<p>Dr. Eduardo Lic&eacute;aga of Mexico then spoke in Spanish, his re-<lb/>
+marks being translated by Dr. Gihon. He said:</p>
+<p>On the part of myself and my colleagues and my Government in<lb/>
+Mexico, I desire to express our heartfelt participation in your sorrow.<lb/>
+Referring to Dr. Bryce, I will say that he is practically one of the<lb/>
+same people with yourselves and it would be natural for him to feel as<lb/>
+you do, but the Mexican race is a different race, different people and<lb/>
+speak a different language, but nevertheless our grief and sorrow are<lb/>
+equally as profound as yours, and I desire you to feel that we are<lb/>
+with you in all the sorrow that you feel yourselves. (Applause.)</p>
+<p>The resolutions were adopted by a unanimous standing vote.</p>
+<p>The Chairman announced that immediately upon adjournment the<lb/>
+Advisory Council would hold a meeting, after which the Executive<lb/>
+Committee would meet.</p>
+<p>On motion, an adjournment was then taken until 10 o'clock, Friday<lb/>
+morning.</p>
+<p>SEPTEMBER 20, FOURTH DAY--MORNING SESSION.</p>
+<p>The Association reassembled at 10 a. m., and was called to order by<lb/>
+the President.</p>
+<p>The Secretary announced that the Executive Committee had<lb/>
+recommended the adoption of the following resolution:</p>
+<p>&ldquo;The Executive Committee recommends the appointment of a<lb/>
+special committee to prepare and publish, at an early date, a pamphlet<lb/>
+for public circulation, containing the resolution of the Public Health<lb/>
+Association in favor of the Army canteen, together with a concise<lb/>
+statement of the data upon which this action was based, and definite<lb/>
+references to the original sources from which such information is<lb/>
+obtainable; such pamphlet to be issued in the name of the Associa-<lb/>
+tion, and to be so prepared as to withstand keen and intelligent ex-<lb/>
+amination.</p>
+<p>This recommendation is made in view of the fact: (1) That an<lb/>
+important function of this Association is to educate the public in<lb/>
+matters of hygiene; (2) that the action above referred to is in disa-<lb/>
+greement with the ideas of a very large number of good citizens;<lb/>
+(3) that this is a possible opportunity of securing their understanding<lb/>
+of our action, and, it is to be hoped, their intelligent co-operation in<lb/>
+taking successive steps towards the betterment of existing condi-<lb/>
+tions.&rdquo;</p>
+<p>It was moved and seconded that the resolution be adopted. Carried.</p>
+<p>The Secretary then read the report of the Committee on Sanitary<lb/>
+Aid Societies, as follows:</p>
+<p>&ldquo;Your Committee has been unable to wholly perfect any plan for<lb/>
+the organization of sanitary aid societies, which could be submitted</p>
+</div1>
+</body>
+</text>
+</TEI.2>

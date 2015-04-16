@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAGB0130">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from William Crawford Gorgas to Jefferson Randolph Kean, July 31, 1908</title>
+<title type="gmd">[electronic resource]</title>
+<author>Gorgas, William Crawford</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGB0130</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo"> Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1908-07-31</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">LePrince, Joseph A.</name>
+<name type="person">Gorgas, Marie D.</name>
+<name type="person">Gorgas, Eileen</name>
+<name type="person">Kean, Cornelia Knox</name>
+<name type="place">Ancon (Canal Zone)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1908-07-31">July 31, 1908</date>
+<idno rend="suppress">KAGB0130</idno>
+<title>Letter from William Crawford Gorgas to Jefferson Randolph Kean, July 31, 1908</title>
+</bibl>
+</head>
+<p>Gorgas sends Kean results of experiments on Phinotas Oil in exterminating mosquitoes. He encloses two letters from Joseph A. LePrince. [Courtesy of The Albert and Shirley Small Special Collection Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1908-07-31">
+<head>Letter from William Crawford Gorgas to Jefferson Randolph Kean, July 31, 1908</head>
+<pb n="1" id="fKAGB0130"/>
+<opener>
+From Col Gorgas.<lb/>
+Referring to your File No.<lb/>
+ISTHMIAN CANAL COMMISSION<lb/>
+DEPARTMENT OF SANITATION<lb/>
+ANCON CANAL ZONE<lb/>
+COL. W. C. GORGAS. U. S. A.,<lb/>
+CHIEF SANITARY OFFICER.<lb/>
+In replying refer to file No. 1097&sol;6 <lb/>
+<dateline>
+Ancon, C. Z., <date value="1908-07-31">July 31, 1908.</date>
+</dateline><lb/>
+Major Jefferson R. Kean,<lb/>
+Medical Corps, United States Army,<lb/>
+Sanitary Department, Havana, Cuba.<lb/>
+<salute>My dear Kean:-</salute>
+</opener>
+<p>I find yours of June 2nd on my return from leave, and<lb/>
+inclose you two letters <xref id="KAGB0120">enclosure 1</xref> <xref id="KAGB0010">enclosure 2</xref> from Mr. LePrince with regard to the use<lb/>
+of Phinotas Oil, <del>and also</del><add>.</add> <del>r</del><add>R</add>eports of Dr. Smith, the Entomologist<lb/>
+of the State of New Jersey, on the same subject <add>have guided us.</add>. We use a good<lb/>
+deal of it down here, as under many conditions we find it better<lb/>
+and cheaper than the crude oil. I do not believe it would be<lb/>
+useful under any circumstances, for stegomyia work. Most of our<lb/>
+work down here now is anopheles.</p>
+<p>Will you ask Captain Fortin to get me 100 cigars like<lb/>
+the last, and send to me by mail? Will you kindly be good<lb/>
+enough to pay for them, postage, etc., and send me bill. I have<lb/>
+forgotten just what the last bill was.</p>
+<p>I got back from my leave in the United States two weeks<lb/>
+ago. Am head-over-heels in work making up for lost time. I have<lb/>
+had considerable trouble down here in managing my affairs for the<lb/>
+past year. They all seem to be amicably settled now, and things<lb/>
+are flowing along very pleasantly. I will tell you more about<lb/>
+<pb n="2" id="fKAGB0140"/>
+Major J. R. Kean, #2.<lb/>
+it some of these days when I have a little more leisure for writing.</p>
+<p>I saw a rumor in the paper some two weeks ago of yellow fever<lb/>
+originating in Havana, but as I have seen no confirmation of this I<lb/>
+take it that it was merely rumor. At any rate, I sincerely hope it is.<lb/>
+Nobody knows better than I do, the sea-sick feeling at the pit of the<lb/>
+stomach that the sanitary officer has at the report of a new case of<lb/>
+yellow fever, when he thinks he has everything of this kind satis-<lb/>
+factorily settled.</p>
+<p>Mrs. Gorgas is back with me, and in very good health.<lb/>
+Aileen stayed behind for a visit at Leavenworth.</p>
+<p>Phillips and Lyster are never seen in public now at all;<lb/>
+both spend all their time on examination papers. I was very much<lb/>
+surprised to hear in Washington of the men who failed in the examina-<lb/>
+tion. Carter I knew personally, and always thought a very good man.<lb/>
+Gibson I had always heard spoken of as a good man.</p>
+<p>Please remember me most cordially to Mrs. Kean, and believe<lb/>
+me, as ever</p>
+<closer>
+<salute>Sincerely your friend,</salute>
+<signed>W. C. Gorgas.</signed>
+<seg>Inclosures.<lb/>
+T.</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

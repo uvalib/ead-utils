@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t03012001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from George H. Torney to the Director of the Yellow Fever Bureau, December 7, 1912</title>
+<title type="gmd">[electronic resource]</title>
+<author>Torney, George H.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03012001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1912-12-07</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Director of the Yellow Fever Bureau</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1912-12-07">December 7, 1912</date>
+<idno rend="suppress">03012001</idno>
+<title>Letter from George H. Torney to the Director of the Yellow Fever Bureau, December 7, 1912</title>
+</bibl>
+</head>
+<p>Torney reports that Agramonte has requested that a statement published in the Yellow Fever Bureau Bulletin be corrected.  Torney explains how he believes the apparent injustice occurred, and requests the correction on behalf of the Office of the Surgeon General.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1912-12-07">
+<head>Letter from George H. Torney to the Director of the Yellow Fever Bureau, December 7, 1912</head>
+<pb n="1" id="f03012001"/>
+<opener>
+Letter of Gen. H Torney Surgeon Gen. US Army, to Director, yellow fever Bureau<lb/>
+Dec 7, 1912. Original in NY Public <unclear>Library</unclear><lb/>
+WAR DEPARTMENT,<lb/>
+OFFICE OF THE SURGEON GENERAL,<lb/>
+WASHINGTON.<lb/>
+38657-12.<lb/>
+<dateline>
+<date value="1912-12-07">December 7, 1912.</date>
+</dateline><lb/>
+Director, Yellow Fever Bureau,<lb/>
+Liverpool, England.<lb/>
+<salute>Dear Sir:</salute>
+</opener>
+<p>Professor Aristides Agramonte of the University of Havana, Cuba,<lb/>
+formerly a member of the U. S. Commission headed by Major Walter Reed,<lb/>
+which demonstrated the transmission of yellow fever by the agency of the<lb/>
+Stegomyia mosquito, has called the attention of this office to a statement<lb/>
+on page 92 of the Yellow Fever Bureau Bulletin, Vol. II, No. 1, which says:</p>
+<p>&ldquo;Again, Agramonte claims equal credit with the other members of the<lb/>
+Commission, but according to various authors, did not take part in the<lb/>
+first series of mosquito transmission experiments, nor was he even in-<lb/>
+formed of their being carried out (Compilation, pp. 16 and 21; Janus p. 64).&rdquo;</p>
+<p>Professor Agramonte requests that this statement be corrected by this<lb/>
+office as it appeared in an official publication which emanated from this<lb/>
+office<add>,</add> and does his share in the work of the Army Board great injustice.</p>
+<p>Chapters 2 and 3 of the Compilation, &ldquo;Yellow Fever, Senate Document<lb/>
+No. 822,&rdquo; were both prepared by my assistant, Lieut. Colonel J. R. Kean,<lb/>
+Medical Corps, in response to special demands and with some haste. Chap-<lb/>
+ter 2 was prepared as part of a statement made to Congress in order to se-<lb/>
+cure a pension for the widow of Major Walter Reed, and Chapter 3 was, as<lb/>
+shown by the note of transmission prepared in response to a call by the<lb/>
+President of the United States showing not the full scientific work of<lb/>
+the board but the part taken in the yellow fever experiments which involv-<lb/>
+ed personal risk and which on that account called especially for a reward<lb/>
+from Congress. In stating that Dr. Agramonte did not share in the dangers<lb/>
+<pb n="2" id="f03012002"/>
+-2-<lb/>
+of exposure to yellow fever because he was a Cuban and immune to that dis-<lb/>
+ease, the writer had no desire or intention to minimize the very important<lb/>
+share of the scientific work of the Commission which was delegated to Dr.<lb/>
+Agramonte. On account of Dr. Agramonte's distance from Washington there<lb/>
+was no time or opportunity for him to review and correct the statements<lb/>
+made with regard to his connection with the matter, and the assertion made<lb/>
+on page 21 that he was not cognizant of the first series of experiments was<lb/>
+accepted upon an authority which seemed at that time to be satisfactory,<lb/>
+but which is now shown to be incorrect by the statement of Dr. Agramonte,<lb/>
+a copy of which is enclosed.</p>
+<p>The enclosed statement was prepared by Dr. Agramonte at the sugges-<lb/>
+tion of the Surgeon General of the Army and placed on file in this office<lb/>
+for the purpose of forming a basis for the correction of any injustice<lb/>
+which may have been done Dr. Agramonte in the preceding publications re-<lb/>
+ferred to. His statements are in the opinion of this office entitled to<lb/>
+full credence.</p>
+<p>A copy of this letter has been furnished to Dr. Agramonte.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>Geo. H. Torney,</signed>
+Surgeon General, U. S. Army.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

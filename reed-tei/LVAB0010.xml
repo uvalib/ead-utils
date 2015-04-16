@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="LVAB0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to Laura Reed Blincoe, November 14, 1893</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>LVAB0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">Walter Reed. Letters, 1874-1901. Accession 23783. Personal papers collection. The Library of Virginia, Richmond, Va. 23219.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1893-11-14</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Blincoe, Laura Reed</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Reed, Christopher</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1893-11-14">November 14, 1893</date>
+<idno rend="suppress">LVAB0010</idno>
+<title>Letter from Walter Reed to Laura Reed Blincoe, November 14, 1893</title>
+</bibl>
+</head>
+<p>Reed briefly describes his new responsibilities at the Columbian University Medical School and the Army Medical Museum. He also relates family news. [Courtesy of the Library of Virginia]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1893-11-14">
+<head>Letter from Walter Reed to Laura Reed Blincoe, November 14, 1893</head>
+<pb n="1" id="fLvab0010"/>
+<opener>
+<dateline>
+Army Medical Museum,<lb/>
+Washington, D.C.<lb/>
+<date value="1893-11-14">Nov<hi rend="superscript">r</hi> 14, 1893</date>
+</dateline><lb/>
+<salute>My darling Sister:</salute>
+</opener>
+<p>Your<lb/>
+darling letter &amp; postal both<lb/>
+reached me, and I am<lb/>
+ashamed to say that I<lb/>
+have been so very busy<lb/>
+with my duties in the<lb/>
+School that I have neg-<lb/>
+lected to write to anyone.<lb/>
+Have been in Washington<lb/>
+Since Sept<hi rend="superscript">r</hi> 5<hi rend="superscript">th</hi> - My duties<lb/>
+are new to me and hence<lb/>
+my work is just 20 times<lb/>
+<pb n="2" id="fLvab0020"/>
+times as hard as it ought<lb/>
+to be. Next session, it will<lb/>
+be plainer sailing - As<lb/>
+Secretary of the Faculty - and<lb/>
+as Curator of the Museum,<lb/>
+I am summoned away<lb/>
+from my proper work<lb/>
+in the School 20 times every<lb/>
+day - I never was quite<lb/>
+so busy - Get to my office<lb/>
+at 9 a.m. &amp; stay till 5,30 p.m.<lb/>
+On the jump all the time,<lb/>
+but sleep well at night.<lb/>
+Next day, go at it again.<lb/>
+Christmas will bring one<lb/>
+week's respite, when<lb/>
+I hope to run down to<lb/>
+<pb n="3" id="fLvab0030"/>
+Farmville for 2 days,<lb/>
+&amp; perhaps, spend one day<lb/>
+with you. Can't make any<lb/>
+promises - We are not<lb/>
+keeping house - will prob-<lb/>
+ably board till next fall -<lb/>
+Living here awfully expen-<lb/>
+sive. Emily &amp; children well.<lb/>
+Lawrence goes to High<lb/>
+School and Baby to Franklin<lb/>
+School - Both studying<lb/>
+well &amp; both sweet chil-<lb/>
+dren - So glad that Sallie<lb/>
+is happy at Uncle Kit's.<lb/>
+E. &amp; children join me in<lb/>
+much love - Kiss the children.<lb/>
+write soon,</p>
+<closer>
+<salute>your affec. Brother,</salute>
+<signed>Walter.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

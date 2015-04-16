@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04907017">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Paul L. Tate to Philip Showalter Hench, May 14, 1956</title>
+<title type="gmd">[electronic resource]</title>
+<author>Tate, Paul L.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04907017</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1956-05-14</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Lambert, Gustaf E.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1956-05-14">May 14, 1956</date>
+<idno rend="suppress">04907017</idno>
+<title>Letter from Paul L. Tate to Philip Showalter Hench, May 14, 1956</title>
+</bibl>
+</head>
+<p>Tate feels awkward about the action being taken to prevent Lambert's bill from being approved.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1956-05-14">
+<head>Letter from Paul L. Tate to Philip Showalter Hench, May 14, 1956</head>
+<pb n="1" id="f04907017"/>
+<opener>
+12 A<lb/>
+<dateline>
+1530 Tyler Street<lb/>
+Berkeley, California<lb/>
+<date value="1956-05-14">May 14, 1956</date>
+</dateline><lb/>
+Philip S. Hench, M.D.<lb/>
+Mayo Clinic<lb/>
+Rochester, Minnisota<lb/>
+<salute>Dear Doctor Hench:</salute>
+</opener>
+<p>Since you notified me about the action taken by the Walter<lb/>
+Reed Memorial Association against the Lambert bill in the<lb/>
+Senate, it would be appreciated by me if you would advise<lb/>
+me of the results of that action.</p>
+<p>You see, it puts me in an awkward position: I would like to<lb/>
+reply to Lambert's latest letter to me. After all the words<lb/>
+of good-will extended to him by others, I cannot be the one<lb/>
+to tell him that these were just words, and of the new phase<lb/>
+before the Senate Committee. Neither can I be so hypercritical<lb/>
+as to write him a normal letter of inquiry, knowing as much<lb/>
+as I do.</p>
+<p>I am of the old school where courtesy required the prompt ac-<lb/>
+knowledgement of letters. How can I write him when I have not<lb/>
+heard if you have written him or not or what has happened to<lb/>
+his case?</p>
+<p>I did expect that we would meet in S. F. as you wrote me that<lb/>
+we would, and I could have learned something from you then.</p>
+<closer>
+<salute>Hoping for a prompt reply, with best wishes to you,<lb/>
+Sincerely,</salute>
+<signed>Tate</signed>
+Paul L. Tate<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

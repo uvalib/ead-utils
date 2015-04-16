@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY P9426001 SYSTEM "P9426001.jpg" NDATA jpg>
+<!ENTITY P9426002 SYSTEM "P9426002.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="P9426001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Photograph of Julian Zunzunegui Lopez and his family on the steps of his house, 1941</title>
+<title type="gmd">[electronic resource] </title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>P9426001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1941-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph">YES</term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Lopez, Julian Zunzunegui</name>
+<name type="person"></name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Photograph</abbr>
+<extent>2 pp.</extent>
+<date value="1941-00-00">1941</date>
+<idno rend="suppress">P9426001</idno>
+<title>Photograph of Julian Zunzunegui Lopez and his family on the steps of his house, 1941</title>
+</bibl>
+</head>
+<p></p>
+</div1>
+</front>
+<body>
+<div1 type="photo" n="1">
+<head>Photograph of Julian Zunzunegui Lopez and his family on the steps of his house, 1941</head>
+<p>
+<figure entity="P9426001"></figure>
+</p>
+<p></p>
+<p>
+<figure entity="P9426002"></figure>
+</p>
+<p>
+<hi rend="underline">No. 26</hi><lb/>
+<add>HS now Born June 23, 1893</add><lb/>
+Sr. Julian Zunzunequi y Lopez &amp; family in<lb/>
+the house which he built for himself and <lb/>
+occupied in 1936, abandoning the shack<lb/>
+(Bldg. No.1) where he had resided with his<lb/>
+parents from the age of 10 (<del>1903</del>) <add>1907</add> to age 43<lb/>
+(1936). While he was living in the shack<lb/>
+his father died there. After he got married,<lb/>
+21 years ago, he continued to live there and<lb/>
+all three of his children were born<lb/>
+there.  From left to right: <hi rend="underline">Mercedes</hi>, the youngest<lb/>
+of the children (15); Demetrio (19) Sra. Ana Rivero<lb/>
+Zunzunegui (the mother); Julian (the father) and Julian<lb/>
+(17), the young girl on the right being a visiting<lb/>
+relative.  Sr. Zunzunegui is now 47, having been <lb/>
+7 years old at the time of the experiements.  He has a<lb/>
+prosperous lime business, owns his own home and 3 or four other houses.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

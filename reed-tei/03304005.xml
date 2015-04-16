@@ -1,0 +1,869 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03304005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+
+<title type="245">[Text of speech?] to the members of the Yellow Fever Committees, by James E. Peabody, [19--]</title>
+<title type="gmd">[electronic resource] </title>
+
+<author></author>
+
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+
+</respStmt>
+
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03304005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+
+</profileDesc>
+
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Welch, William Henry</name>
+<name type="person">Flexner, Simon</name>
+<name type="person">Kissinger, Ida E.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Conant, Franklin Story</name>
+<name type="person">Humphrey, James Ellis</name>
+<name type="person">Clark, Hubert Lyman</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Fosdick, Harry Emerson</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Cumming, Hugh S.</name>
+<name type="person">Wainwright, J. Mayhew</name>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Coolidge, Calvin</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Carroll, James</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Cornwell, Dean</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Leon, Estela Agramonte Rodriguez</name>
+<name type="person">Latimore, Caroline</name>
+<name type="person">Thayer, William S.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Gillen, Mrs.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+<name type="place">Johns Hopkins University, Baltimore (Md.)</name>
+<name type="place">Jamaica</name>
+<name type="place">Andrews (Ind.)</name>
+<name type="place">Huntington (Ind.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Akra (Africa)</name>
+<name type="place">Cuba</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="hospital">Johns Hopkins Hospital, Baltimore (Md.)</name>
+<name type="hospital">Las Animas Hospital, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>13 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">03304005</idno>
+<title>[Text of speech?] to the members of the Yellow Fever Committees, by James E. Peabody, [19--]</title>
+</bibl>
+</head>
+<p>Peabody discusses yellow fever work dating back to 1897, with particular emphasis on the work done in Cuba, in 1900 and 1901, by Reed and the Yellow Fever Commission.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>[Text of speech?] to the members of the Yellow Fever Committees, by James E. Peabody, [19--]</head>
+<pb n="1" id="f03304005"/>
+<opener>
+<salute>To the Members of the Yellow Fever Committees and to those who are in-<lb/>
+terested in the epic story of the Yellow Fever Commission in Cuba:</salute>
+</opener>
+<p>I have just finished reading the absorbing biography of Dr. William<lb/>
+Henry Welch, written by Dr. Simon Flexner (Emeritus Director of the<lb/>
+Rockefeller Institute) and his son James. In my judgment this book<lb/>
+should be on the shelves of every high school and college library of<lb/>
+biology and hygiene. It relates in clear and interesting style the<lb/>
+wide range of the contributions of this &ldquo;Dean of American Medicine&rdquo; to<lb/>
+the development of scientific and practical measures of health, not<lb/>
+only in this country, but also throughout the world.</p>
+<p>FROM JAMES E. PEABODY</p>
+<p>I may be somewhat prejudiced in my judgment because of my good for-<lb/>
+tune to have known Dr. Flexner at the Woods Hole Marine Biological Lab-<lb/>
+oratories and the Rockefeller Institute. I am especially indebted to<lb/>
+him for his generous assistance in preparing the account of Dr. Noguchi's<lb/>
+researches on yellow fever. (See page 22 in my American Museum of Nat-<lb/>
+ural History pamphlet-- &ldquo;The Conquest of Yellow Fever.&rdquo;) The Yellow<lb/>
+Fever Committee of the New York Association of Biology Teachers owes<lb/>
+such a debt to Dr. Welch that I venture to give some account of the<lb/>
+priceless assistance he gave us.</p>
+<p>But first may I review the experiences which have led to my own deep<lb/>
+and lasting interest in this dread disease. It began way back in the<lb/>
+closing years of the last century. Franklin Story Conant was the bril-<lb/>
+liant valedictorian of the Class of '93 at Williams College and I was a<lb/>
+member of <unclear>the</unclear> Class of '92. Both of us specialized in biology, and we<lb/>
+therefore came to know each other well at Williams and at the Marine<lb/>
+Biological Laboratories at Woods Hole, Mass.</p>
+<p>After receiving his A. B. at Williams College Conant carried on his<lb/>
+graduate work in biology at Johns Hopkins University in Baltimore, and<lb/>
+there received his Ph.D. degree in June, 1897. He then joined a party<lb/>
+of a dozen Hopkins men in research through the Summer at the laboratory<lb/>
+on the Island of Jamaica. All went well with work and pleasure until<lb/>
+the very end of the season. Then Dr. Humphrey, the leader of the expe-<lb/>
+dition, was stricken with a very severe attack of fever. The local<lb/>
+doctor diagnosed the case as malaria. When, however, Humphrey rapidly<lb/>
+grew worse, the yellow fever expert, Dr. Guiteras, was sent for and he<lb/>
+at once pronounced the disease as malignant yellow fever. &ldquo;He will not<lb/>
+live through the night,&rdquo; said Guiteras. At ten o'clock that evening<lb/>
+Humphrey died. Immediate burial was, of course, required. Conant and<lb/>
+Dr. Hubert Lyman Clark (now Associate Professor of Biology at Harvard)<lb/>
+had acted as devoted day and night nurses for their fellow biologist.<lb/>
+After comforting the stricken widow as best they could the two men went<lb/>
+up into the mountains of the Island for several days of much needed<lb/>
+rest and refreshment.</p>
+<p>Meanwhile the rest of the saddened Hopkins group had packed up and<lb/>
+left for home. Since, however, Conant and Clark had been so close to<lb/>
+the patient, and since at that time nothing was known as to the way<lb/>
+yellow fever is transmitted, these two men were quarantined in Jamaica<lb/>
+until the supposed period of dangerous infection had passed. Clark<lb/>
+came down with the disease and for three days was desperately ill.<lb/>
+Yellow Fever <unclear>is</unclear> so called because the whole body turns yellow like a<lb/>
+bad case of jaundice. The onset of the disease is sudden and at the<lb/>
+end<del>s</del> of only a few days the patient either recovers or death ensues.</p>
+<p>Happily Clark regained his strength within a week, the two men re-<lb/>
+packed their trunks and boarded the steamer for home. One morning<lb/>
+when they were half way up the Atlantic Conant failed to leave his<lb/>
+stateroom, and when Clark looked in upon him Conant said with a wan<lb/>
+<pb n="2" id="f03304006"/>
+FROM JAMES E. PEABODY<lb/>
+(2)<lb/>
+smile, &ldquo;Well, I guess it is my turn now.&rdquo; The boat was hurried through<lb/>
+quarantine in Boston and the sick man was taken to the Massachusetts<lb/>
+General Hospital where the diagnosis of yellow fever was confirmed.<lb/>
+Two days later Clark called at the Hospital and asked if he might see<lb/>
+his friend only to be told that Conant had died fifteen minutes before.<lb/>
+Every man at Williams, Johns Hopkins and at the Woods Hole Marine Lab-<lb/>
+oratories who knew that noble Christian character shared with the be-<lb/>
+reaved family in their profound sense of sorrow. On the walls of the<lb/>
+Hopkins Biological Laboratory is a tablet with the following inscrip-<lb/>
+tion: &ldquo;In Memory of Two Devoted Naturalists who gave their lives to pro-<lb/>
+mote science, James Ellis Humphrey, Associate Professor of Botany in<lb/>
+this University. Died in Jamaica, August 17, 1897 at the age of 25<lb/>
+years, and Franklin Story Conant, Bruce Fellow in this University, died<lb/>
+from illness contracted in Jamaica, September 13, 1897, at the age of<lb/>
+27 years. The heart of him that hath understanding seeketh knowledge.&rdquo;</p>
+<p>(The writer is deeply indebted for much of the material in the<lb/>
+preceding paragraphs to Dr. Hubert Lyman Clark, Acting Professor<lb/>
+of Biology at Williams 1920-1921, now Associate Professor of<lb/>
+Biology at Harvard, and to Dr. E. W. Berger of the Plant Board<lb/>
+of Florida located at Gainsville, both of whom were members of<lb/>
+that ill-fated Hopkins expedition to Jamaica which cost Conant<lb/>
+and four other members of that group their lives. Clark can speak<lb/>
+with special authority for he was the only one of the six vic-<lb/>
+tims of the deadly yellow fever to survive.)</p>
+<p>****************</p>
+<p>My interest in the personal story of the heroes of the yellow fever<lb/>
+experiments in Cuba began in 1912, when Mr. Arthur Hunt, my fellow book<lb/>
+writer and I were preparing our first text-books in high school biol-<lb/>
+ogy. Wishing to secure first hand accounts from some of the men who<lb/>
+had volunteered for those epoch-making tests I wrote to Dr. Howard A.<lb/>
+Kelly of Baltimore, Author of &ldquo;Walter Redd and Yellow Fever&rdquo;, asking<lb/>
+him<del>e</del> for the address of John R. Kissinger, who was the first to come<lb/>
+down with yellow fever under experimental conditions. In his first re-<lb/>
+ply Dr. Kelly <unclear>write</unclear> that he had lost track of Kissinger. Fortunately,<lb/>
+however, his Secretary, Dr. Caroline Latimore, had written for the<lb/>
+&ldquo;Youths Companion&rdquo; an account of those six months of 1900. A copy of<lb/>
+this story went to South Bend, Indiana and a neighbor brought it to<lb/>
+Kissinger. Our correspondence then began and during the past thirty-two<lb/>
+years I have received a great many letters from Mr. Kissinger and his<lb/>
+heroic wife.</p>
+<p>On my return from a Summer in California in 1925 I visited the<lb/>
+Kissingers in their humble home in Andrews, Indiana and was much im-<lb/>
+pressed with the story of his experiences in Cuba and of the long years<lb/>
+of invalidism that had followed. &ldquo;I would do it all over again,&rdquo; he<lb/>
+told me, &ldquo;if it was necessary.&rdquo; Finding that they were greatly in need<lb/>
+of financial assistance I told their story on my return home to the<lb/>
+New York Association of Biology Teachers. A sum of $75 was at once ap-<lb/>
+propriated by the Association and this helped the Kissingers through<lb/>
+the winter.</p>
+<p>We soon became convinced that our country owed a debt of grati-<lb/>
+tude and honor to all those men who had contributed so heroically in<lb/>
+the epoch-making experiments under the leadership of Major Walter Reed<lb/>
+--experiments that demonstrated beyond a doubt that yellow fever is<lb/>
+transmitted <unclear>through</unclear> the bite of infected mosquitoes. So in 1925-1927<lb/>
+<pb n="3" id="f03304007"/>
+FROM JAMES E. PEABODY<lb/>
+(3)<lb/>
+several bills designed to give much needed pensions were introduced in<lb/>
+the U. S. Senate and House of Representatives only to have them die in<lb/>
+committees. We then were most fortunate in securing the sponsorship of<lb/>
+Representative J. Mayhew Wainwright and Senator Royal Copeland, both of<lb/>
+New York State.</p>
+<p>In order to get the support of influential authorities in Wash-<lb/>
+ington I secured an appointment with Dr. Hubert Work, then Secretary of<lb/>
+the Interior. I was told by New York friends that I ought to stop off<lb/>
+at Princeton to see Dr. Theobold Smith, Director of the Rockefeller<lb/>
+Animal Institute. When I told him of my long time interest in Kissin-<lb/>
+ger he exclaimed, &ldquo;You don't mean to tell me that Kissinger is still<lb/>
+living after that attack of spinal disease so many years ago!&rdquo; It<lb/>
+seems that Dr. Smith stopped off at Kissinger's home in the early days<lb/>
+of his crippling attack. He told me he would have been glad to take<lb/>
+the patient on to a Boston Hospital for treatment had he not thought<lb/>
+the case was hopeless. Anyhow his visit was fortunate because he ad-<lb/>
+vised against the amputation of Kissinger's legs.</p>
+<p>As you doubtless remember Kissinger made a remarkable recovery,<lb/>
+and for many years was blessed with health and happiness with his de-<lb/>
+voted wife in &ldquo;Dream Home&rdquo; at Huntington, Indiana, a home purchased and<lb/>
+deeded to the Kissingers by a Citizens' Committee of which Dr. Harry<lb/>
+Emerson Fosdick was Chairman and Dr. Welch a valued member. Collection<lb/>
+of the fund for &ldquo;Dream Home&rdquo; was a difficult but interesting experience.<lb/>
+We first made our appeal to the Carnegie Hero Fund. They told us they<lb/>
+would be glad to assist in this worthy cause, but Kissinger's case<lb/>
+made this impossible: 1) because his heroic service was rendered before<lb/>
+the Hero Fund was established; 2) because his service was performed out-<lb/>
+side the U. S.; 3) because it was performed under military rather than<lb/>
+civillian auspices. We next appealed to the Rockefeller Funds through<lb/>
+the kind help of Dr. Harry Emerson Fosdick whose brother, Raymond Fos-<lb/>
+dick was in charge of distributing these funds. Certain complications<lb/>
+made help from this source out of the question. In February, 1927 Dr.<lb/>
+Fosdick devoted his radio sermon on &ldquo;Religion and Science&rdquo; to an account<lb/>
+of the yellow fever experiments in Cuba, and to our great satisfaction<lb/>
+he consented to act as Chairman of the Citizens' Committee. Wide pub-<lb/>
+licity was secured through the newspapers and the magazines, and in the<lb/>
+campaign The Association for Medical Progress and the biology teachers<lb/>
+and students in New York and vicinity were especially helpful. The<lb/>
+Commonwealth Fund contributed $1000, but the rest of the $8500 came in<lb/>
+relatively small sums from all parts of the country.</p>
+<p>In 1941 we learned with the deepest regret that Kissinger had<lb/>
+suffered a severe shock that had left him helpless. Mrs. Kissinger<lb/>
+wrote &ldquo;I have nursed John all through his sickness. He was very near<lb/>
+death twice. The Doctor said there was no hope, but I did not give up.<lb/>
+I had promised him I never would send him to a hospital. I had cared<lb/>
+for him all during his long invalidism (when he was earlier stricken<lb/>
+with the spinal malady) when I had to take in washings to support us,<lb/>
+and I am sure I can manage now. There were five weeks when he could<lb/>
+not talk so I could understand and could not walk--but now he can do<lb/>
+both. . . . We are alone now. I am not well yet and every bit of ner-<lb/>
+vous condition makes the shingles worse. Sometimes I think I cannot<lb/>
+stand it, but God has done wonders for me and gives me strength to<lb/>
+carry on.&rdquo; Mrs. Kissinger's latest letters tells us that he has some-<lb/>
+what improved but is still an invalid.</p>
+<pb n="4" id="f03304008"/>
+<p>FROM JAMES E. PEABODY</p>
+<p>(4)</p>
+<p>We return now to the account of the Washington trip and the great<lb/>
+assistance given us by Dr. Welch. At Princeton Dr. Smith and Dr. Conk-<lb/>
+lin of Princeton University urged me to see Dr. Welch before going on<lb/>
+to Washington, They were sure he would be glad to help in any way he<lb/>
+could, for he had taught Drs. Reed, Carroll and Lazear. On reaching<lb/>
+Baltimore I told Dr. Howell, Head of the Johns Hopkins School of Hygiene,<lb/>
+of my <unclear>mission</unclear> and asked him how I could get in touch with Dr. Welch.<lb/>
+He told me he was sure Dr. Welch was in town, but that he had no tele-<lb/>
+phone. He knew, however, that the Doctor would have his breakfast<lb/>
+next morning (Sunday) either at the Maryland Club or the University<lb/>
+Club.</p>
+<p>For an anxious two hours I shuttled back and forth between the two<lb/>
+Clubs (a mile apart) on Charles Street, and at last found Dr. Welch at<lb/>
+the University Club. On learning of our efforts to get a bill through<lb/>
+Congress he expressed the deepest interest, telling me <unclear>that</unclear> similar<lb/>
+though fruitless attempts had been made by the medical profession in<lb/>
+the early years of the century. He then lighted up one of his long<lb/>
+cigars, seated himself at one of the library tables, and devoted nearly<lb/>
+two hours to the writing of three letters all of which proved of the<lb/>
+greatest help to our cause. One of these was addressed to Secretary<lb/>
+Work of the Department of the Interior, a second to Surgeon General Ire-<lb/>
+land of the War Department (who had been in Cuba during those momen-<lb/>
+tous days of 1900), and a third to Raymond Fosdick (in charge of the<lb/>
+distribution of Rockefeller's millions.) Dr. Howard Kelly had invited <unclear>m</unclear><lb/>
+me to dinner. I called him up to tell him the cause of the delay.<lb/>
+"Stay with Welch just as long as he will write letters for you--dinner<lb/>
+can wait. Dr. Kelly was very helpful to us in the campaign and so were<lb/>
+Dr. Howell and Dr. Thayer.</p>
+<p>At 9 o'clock Monday morning I entered the office of Secretary<lb/>
+Work and presented Dr. Welch's letter. &ldquo;How in the world,&rdquo; he said,<lb/>
+did you get Welch to write a letter?" &ldquo;I have three of them,&rdquo; I replied<lb/>
+&ldquo;Of course I am interested,&rdquo; said Secretary Work, but the man you want<lb/>
+to see is Surgeon General Ireland. As soon as General Ireland read<lb/>
+the letter of Dr. Welch addressed to him I knew we had a powerful friend<lb/>
+to help us. He out with his favorite expression, &ldquo;Bully for you!&rdquo; He<lb/>
+called up General Kean<del>e</del> at the Army Medical Museum (who had been in <unclear>close</unclear><lb/>
+close touch with all of Major Reed's work in Cuba) and the telephone<lb/>
+conversation sounded most encouraging. General Ireland then sent me in<lb/>
+an army auto to General Kean<del>e</del>'s office. He, too, was eager to further<lb/>
+the good cause in any way he could. &ldquo;Surgeon General Cumming of the<lb/>
+Public Health Service seems to be able to get legislation through Con*<lb/>
+gress,&rdquo; said General Kean<del>e</del>; &ldquo;Let's go over and talk with him.&rdquo;</p>
+<p>When I said to General Cumming that I understood he knew how to<lb/>
+influence the lawmakers, he replied, &ldquo;Well, I can sometimes get what I<lb/>
+need for my Department--but don't you know some <hi>real</hi> politician?&rdquo; I<lb/>
+told him I knew Charles D. Hillis, Vice Chairman of the Republican<lb/>
+Campaign Committee, and asked him if he thought Mr. Hillis could <unclear>give</unclear><lb/>
+do us any good. &ldquo;Do any good,&rdquo; he exclaimed, &ldquo;Didn't you ever hear the<lb/>
+story of the Negro preacher who, after converting the worst gambler in<lb/>
+town, took him down to the river to baptize him? When the water came<lb/>
+up to the gambler's lower pocket out floated two aces; when the top<lb/>
+pockets were reached by the water, <hi>three</hi> more aces appeared! &lsquo;Well&rsquo;<lb/>
+said the preacher, &lsquo;if dat ere hand can't save you, God can't!&rsquo;&rdquo;<lb/>
+You better see Mr. Hillis."</p>
+<pb n="5" id="f03304009"/>
+<p><unclear>In</unclear> the course of our evening discussion Dr. Welch emphasized the<lb/>
+extreme danger of the spread of yellow fever from the Gold Coast of<lb/>
+West Africa where the disease is endemic, and where the Rhesus monkey<lb/>
+can be infected with the disease. &ldquo;With the modern methods of rapid<lb/>
+travel by auto, trains and airplanes,&rdquo; said Dr. Welch, "we are greatly<lb/>
+fearing that it may break out in Egypt, India or China, and if it does<lb/>
+no one can fortel the dire consequences. No one but Noguchi can give us<lb/>
+the help we need but Noguchi; but we do not dare to send him to Africa,<lb/>
+first because his health is frail, and secondly because when he is ill<lb/>
+he does not obey the doctor's orders, but leaves his sick room and goes<lb/>
+back to his work in the Rockefeller Laboratories. On my return to New<lb/>
+York I called on Noguchi and asked him, &ldquo;What about Africa?&rdquo; &ldquo;When they<lb/>
+are ready I go,&rdquo; was his answer. He had been developing an anti-yellow<lb/>
+fever serum which he believed to be effective, and had applied to him-<lb/>
+self<del>t</del> this supposed preventative. Just as he had completed his African<lb/>
+work he was stricked with yellow fever and died at Akra, another victim<lb/>
+of devoted scientific experimentation. Said Dr. F. F. Russell, Director<lb/>
+of the International Health Bureau of the Rockefeller Foundation, "There<lb/>
+are few diseases which science has fought so successfully that are as<lb/>
+dangerous to the scientists engaged<del>i</del> in the campaign as is yellow fever.'</p>
+<pb n="6" id="f03304010"/>
+<p>FROM JAMES E. PEABODY</p>
+<p>(5)</p>
+<p>After a great deal of correspondence and devoted work on the part<lb/>
+of Congressman Wainwright a hearing was helded of the <hi>full Committee</hi><lb/>
+on Military Affairs during the Easter vacation of our school. (Such<lb/>
+matters are usually first submitted to a sub-committee.) Telling speec-<lb/>
+es were made by Col. Wainwright, General Ireland, General Keane, Con-<lb/>
+gressman Davenport of New York, and by influential men in the Public<lb/>
+Health Service. To our great regret Dr. Welch could not be present,<lb/>
+but he sent the Committee a full page letter in which he stressed the<lb/>
+importance of this legislation. The Military Affairs Committee unani-<lb/>
+mously approved of the bill, but when it was presented on the floor of<lb/>
+the House of Representatives objections to some of its provisions were<lb/>
+voiced by three members. (Private pension bills can only be passed by<lb/>
+unanimous consent.) Certain provisions had, therefore, to be modified.<lb/>
+The bill was then passed and was signed by President Coolidge on the<lb/>
+last day of his term of office. (See copy of bill attached.)</p>
+<p>Mr. Coolidges' signature was secured at his law office in North-<lb/>
+ampton. I secured an appointment with him through the help of Editor<lb/>
+Brigham of the Boston Evening Transcript. Besides the bill which I had<lb/>
+secured in Washington I took with me a copy of Mr. Coolidge's &ldquo;Autobi-<lb/>
+ography&rdquo; and several typewritten quotations from his book which I wished<lb/>
+to use in lantern slide lectures. He quickly signed all but the bill.<lb/>
+&ldquo;Where do you wish me to sign this bill?&rdquo; he asked. He affixed his<lb/>
+signature in the place indicated, and without another word turned to go<lb/>
+back to his inner office. I thought the least I could do was to ex-<lb/>
+press my thanks. &ldquo;I am certainly proud to meet the first President to<lb/>
+sign a bill<del>e</del> to honor the heroes of peace,&rdquo; I said. &ldquo;'Taint so,&rdquo; he<lb/>
+responded. I then modified my statement making it refer to &ldquo;the heroes<lb/>
+of science.&rdquo; Just another evidence of Mr. Coolidge's proverbial parsi-<lb/>
+mony in the use of words.</p>
+<p>On one of my Washington trips I was invited by Dr. Welch to take<lb/>
+dinner with him at the Maryland Club. He was a master hand in select-<lb/>
+ing his menus. We began our repast at 7:30. Later we adjourned to<lb/>
+one of the private rooms of the Club where he lighted one of his long<lb/>
+cigars after another, and smoked continuously until 11:30. I started<lb/>
+to leave several times, but my genial host would then begin another<lb/>
+reminiscence. He told me much of Drs. Reed, Carroll and Lazear of the<lb/>
+Yellow Fever Commission, of Koch, Pasteur, and Lister and of many anoth-<lb/>
+er scientist whom he knew personally. What wouldn't I have given to<lb/>
+have had an unseen stenographer present to take down that priceless<lb/>
+material--especially so, since he confessed he had never put his recol-<lb/>
+lections in writing.</p>
+<p>I am sure I need not explain further why I have found the Welch<lb/>
+Biography so fascinating. Not only is it the life story of a man who,<lb/>
+more than all others during the past half century, has been responsible<lb/>
+for medical progress, but it is also the portrayal of a man of excep-<lb/>
+tional charm--a man ever ready to give most generously of his time and<lb/>
+energy to every worthy cause. On his 80th. birthday a world wide radio<lb/>
+program was put on the air, with a special tribute to his genius by<lb/>
+President Hoover. I count my various interviews with Dr. Welch as<lb/>
+among the most memorable of all my life experiences.</p>
+<p>I happened to be in Baltimore when Dr. Welch at 84 was in the<lb/>
+Johns Hopkins Hospital for his last illness. They told me at the<lb/>
+Welch Medical Library (where I was asked to deposit the originals of<lb/>
+the yellow fever papers I had collected) that they were sure he would<lb/>
+<pb n="7" id="f03304011"/>
+FROM JAMES E. PEABODY<lb/>
+<unclear>(6)</unclear><lb/>
+be glad to see me. I am glad I decided not to go, but rather to remem-<lb/>
+ber him in all his vigor. One picture of him is especially vivid. It<lb/>
+was at an exhibit of the New York Academy of Medicine. There was the<lb/>
+&ldquo;Dean&rdquo; with a flaming red necktie riding the top of his collar leading<lb/>
+a group of his devoted admirers from one case of materials to another.<lb/>
+One of my prized possessions is a small, red covered book containing<lb/>
+an address on hygiene by Dr. Welch. He gave it to me and inscribed at<lb/>
+the front in his beautiful handwriting a tribute to our joint endeavor<lb/>
+which resulted in the passage of the yellow fever bill.</p>
+<p>All during the strenuous four-year campaign for Congressional<lb/>
+action the New York Association of Biology Teachers made generous con-<lb/>
+tributions of funds, and the various Heads of the Departments of Biology<lb/>
+and their teachers gave freely of their time to the needed publicity.<lb/>
+The story of heroism in those mosquito experiments was one which natur-<lb/>
+ally appealed to students of biology. For a quarter of a century, how-<lb/>
+ever, this story had apparently been largely forgotten. But what an up-<lb/>
+surge of interest has been evident in the last 15 years in newspapers,<lb/>
+magazines, books, and on the radio; and in stage and screen plays!<lb/>
+Our New York Association of Biology Teachers, Dr. Fosdick's Citizens'<lb/>
+Committee, and the Association for Medical Progress may well find sat-<lb/>
+isfaction in the work that was accomplished. But the question still<lb/>
+presents itself--could we ever have secured the help so essential in<lb/>
+Washington had Dr. Welch not written those letters?</p>
+<p>***********</p>
+<p>It has been a great privilege to have had a number of conferences<lb/>
+with Mrs. Walter Reed who lives in Washington and to have been permit-<lb/>
+ted to use valuable material from Major Reed's letters to his wife.<lb/>
+The New York Association of Biology Teachers appropriated a sum of<lb/>
+money with which we purchased a large spray of chrysanthemums and oak<lb/>
+leaves. Mrs. Reed accompanied us to Arlington Cemetery and placed the<lb/>
+tribute on the grave of her husband. The inscription on our card was<lb/>
+this: &ldquo;In reverent memory of Major Walter Reed who gave to us teachers<lb/>
+to teach our students that incomparable story of heroism.--From the<lb/>
+New York Association of Biology Teachers.&rdquo;</p>
+<p>In the Summer of 1915 I conducted two courses in the University of<lb/>
+California at Berkley. While giving the lantern slide lecture on yel-<lb/>
+low fever I threw on the screen the picture of Dr. Lazear. Turning to<lb/>
+one of my students I casually remarked, &ldquo;Lazear, I suppose that was not<lb/>
+one of your relatives.&rdquo; &ldquo;That was my father,&rdquo; he answered. Before<lb/>
+leaving Berkley I met Mrs. Lazear, her daughter and son in their home<lb/>
+and learned something of the privations she had undergone since the un-<lb/>
+timely death of her husband in Cuba during the yellow fever experiments.</p>
+<p>During my yellow fever lecture at a meeting of the Lions Club in<lb/>
+White Plains I told something of Mrs. Carroll's need for help. One of<lb/>
+the local Doctors who was present sent me a check of $100 which brought<lb/>
+from Mrs. Carroll a touching letter of appreciation. In Saint Peters-<lb/>
+burg, Florida, I finally located the home where she had lived only to<lb/>
+learn that she had died in Georgia six months before.</p>
+<p>Unfortunately I never was able to meet Dr. Agramonte on his vis-<lb/>
+its to New York. I had long desired to visit the scene of the yellow<lb/>
+fever experiments in the vicinity of Havana, and this wish was grati-<lb/>
+fied in 1935 when we spent a most interesting week in Cuba. While<lb/>
+there I had the good fortune to meet Dr. Agramonte's daughter and to<lb/>
+be entertained in her hospitable home. She has a trunk full of her<lb/>
+<pb n="8" id="f03304012"/>
+FROM JAMES E. PEABODY<lb/>
+(7)<lb/>
+father's papers and from these she selected a package which I read with<lb/>
+the greatest interest. During my stay in Havana I was unable to find<lb/>
+a single memorial of the work done by the reed Yellow Fever Board. I<lb/>
+spent several days in a search for Camp Lazear where the experiments<lb/>
+were performed. We finally located a Dr. Angeles who had performed the<lb/>
+autopsies on yellow fever corpses. He and his daughter (who spoke<lb/>
+English) took us to an open field opposite Las Animas Hospital, which<lb/>
+he declared was the site of that memorable piece of work. (See later<lb/>
+
+paragraph.)</p>
+<p>***********</p>
+<p>One of the principal objects of the trip to Cuba was to confer with<lb/>
+John J. Moran. He and Kissinger were the first two volunteers for the<lb/>
+mosquito experiments, and it was he on whom the crucial test was tried<lb/>
+that finally convinced even the most skeptical that yellow fever is <del>tran</del><lb/>
+transmitted by infected mosquitoes. Mr. Moran met us at the boat and sh<lb/>
+showed us every possible courtesy during our stay. He went over care-<lb/>
+fully my American Museum pamphlet, &ldquo;The Conquest of Yellow Fever&rdquo; and<lb/>
+suggested a number of needed corrections. At my request he prepared<lb/>
+the following account of his experiences (written before the passage of<lb/>
+the Yellow Fever Bill.) The authorities at Washington who have read it<lb/>
+declared it to be an exceedingly valuable historical paper.</p>
+<p>"John J. Moran. Born in Ireland on March 15th., 1878. Came to the<lb/>
+United States at the tender age of nine. Raised in Ohio. Last voting<lb/>
+residence, New York City. Served in the American Army in Cuba during<lb/>
+the Spanish-American War and with the American Expeditionary Forces in<lb/>
+France during World War I. Has lived in Latin-America since the Spanish<lb/>
+American War with exception of two years at the University of Virginia a<lb/>
+and while in the military service of the United States during the World War.</p>
+<p>"<hi>The Yellow Fever Experiments</hi>. While I was on duty at the headquar-<lb/>
+ters of General Fitzhugh Lee as a civilian clerk Dr. Walter Reed made<lb/>
+it known that he was looking for volunteers for his experimental yellow<lb/>
+fever camp, later known as Camp Lazear. I was one of the first, if not<lb/>
+the first, to be apprised of the fact. My intimate friend, Charles<lb/>
+Parker, told me that Dr. Roger Post Ames had informed him to that ef-<lb/>
+fect. Parker, knowing it was my intention to enter the University of<lb/>
+Virginia the following year, suggested that the money reward of $500<lb/>
+could be used by me to very good advantage in defraying my expenses<lb/>
+during my four-year course in medicine at that institution. I told my<lb/>
+friend Parker that I would sleep over the proposition. Next morning<lb/>
+I looked up Dr. Ames and together we called upon Dr. Reed to whom<del>e</del> I<lb/>
+made known my intention of going in for the tests.</p>
+<p>'Dr. Reed then informed me that he was authorized to pay up to $500<lb/>
+for volunteer subjects. I told him that I would undergo the tests<lb/>
+principally for medical science, for humanity and the glory of it; that<lb/>
+much as I needed the money to help pay my expenses at the University<lb/>
+next year and until graduation, I could not place such a low valuation<lb/>
+on my life, and that should I succumb to the experiments I did not<lb/>
+want posterity to read on my tombstone, &lsquo;Here lies a man who sold his<lb/>
+life for $500.&rsquo; Dr. Reed was profoundly moves. The oft-repeated,'<lb/>
+&lsquo;Gentlemen, I salute you,&rsquo; was neither expressed nor acted. The moment<lb/>
+was <del>in</del>tense but entirely lacking in the dramatic. Whether Dr. Howard<lb/>
+Kelly (author of &lsquo;Walter Reed and Yellow Fever&rsquo;) injected that dramatic<lb/>
+<pb n="9" id="f03304013"/>
+(8)<lb/>
+FROM JAMES E. PEABODY<lb/>
+passage into the interview or whether Dr. Reed gave it to him when he<lb/>
+was assembling the material for his book I do not know. That night I<lb/>
+informed Kissinger of my resolution. He was interested and we talked<lb/>
+the matter over until well after midnight with the result that next<lb/>
+morning he volunteered for the experiments. So far as I knew at the<lb/>
+time, during the experiments, and after the series was over with, Kis-<lb/>
+singer and myself were the original volunteers and the only two stipu-<lb/>
+lating that we should have no material reward.</p>
+<p>"By the time Camp Lazear was ready for occupancy there were several<lb/>
+candidates for the<del>b</del> bedding and clothing tests, but for a considerable<lb/>
+time Kissinger and myself were the only candidates for the mosquito<lb/>
+route. Later on Spanish immigrants were contracted for $200 each. Dr.<lb/>
+Reed offered us our choice of physician and nurse, regardless of where<lb/>
+they were scattered on the Island. I expressed a preference for Dr.<lb/>
+Ames and an army nurse by the name of Mrs. Gillen, both stationed at <del>Col</del><lb/>
+Columbia Barracks, Havana. Our Camp was established on a neighboring<lb/>
+farm of large acreage where we were strickly isolated and closely guard-<lb/>
+ed. Visitors to the Camp were limited to those invited by Dr. Reed and<lb/>
+members of the Yellow Fever Commission. Camp life got to be rather mo-<lb/>
+notonous, but I was usually busy attending to correspondence, notes,<lb/>
+and reports for Dr. Reed, my tent being used by him as his office.</p>
+<p>"The first attempt to inoculate me was made on November 28th., 1900,<lb/>
+and the second on November 29th., a lone mosquito in a test tube being<lb/>
+employed on each occasion and returned to captivity after feeding on<lb/>
+my blood. Results in both instances were NIL. Dr. Reed then decided<lb/>
+to &ldquo;save&rdquo; me for his master test in the &ldquo;Infected Moasquito Building.&rdquo;<lb/>
+Infected mosquitoes in sufficient number were not available until Decem-<lb/>
+ber <unclear>21st</unclear>., 1900, when fifteen of the insects were freed in my half of<lb/>
+the building. (The other half was occupied by two men who had never<lb/>
+had yellow fever.) These mosquitoes had bitten severe cases of yellow<lb/>
+fever from five to twenty-four days before. Five minutes later, that is<lb/>
+to say at 12 o'clock noon on December 21st., I offered a feast to the<lb/>
+fifteen guests, which was promptly taken by eight. With the aid of a<lb/>
+hand mirror I watched them gorge themselves. In the afternoon of the<lb/>
+same day and at the same hour of the following afternoon the reamining<lb/>
+seven had their fill. Doctor Reed told me that if this test should<lb/>
+prove successful the mosquito theory would be established in fool-proof<lb/>
+fashion. The sceptics were many in number and most of them prominent<lb/>
+in the medical profession.</p>
+<p>'On December 25th., 1900 (Christmas morning) I awakened to the fact<lb/>
+that one of the fifteen insects had done its duty, and I knew that I<lb/>
+would be on the way to the yellow fever hospital before many hours.<lb/>
+Dr. Reed did not visit the experimental camp until afternoon on Christ-<lb/>
+mas day, and by the time he arrived my temperature which I was taking<lb/>
+and recording every hour had risen to over 103 degrees Fahrenheit. I<lb/>
+was packed off in an ambulance and by midnight my temperature rose to<lb/>
+within a fraction of 105. Dr. Reed and his associates pronounced my<lb/>
+attack &ldquo;a very pretty case.&rdquo; I had made up my mind in advance that I<lb/>
+would take my medicine like a little man, and while the succeeding four<lb/>
+or five days were slightly painful and feverish I think I made but<lb/>
+little complaint. In ten days I was up and around and three days later<lb/>
+I took the blood test from the veins of another &ldquo;very pretty case&rdquo; of<lb/>
+yellow fever to see if I was immune. I was. It had no effect on me.</p>
+<p>"While undergoing treatment I met Dr. Gorgas for the first time.<lb/>
+He was a daily visitor at my bedside, keenly interested in my symptoms<lb/>
+<pb n="10" id="f03304014"/>
+FROM JAMES E. PEABODY<lb/>
+(9)<lb/>
+and asking many questions. The Reed and Carroll findings being no long-<lb/>
+er a theory but a reality, Dr. Gorgas (then military health officer of<lb/>
+<unclear>-Havana</unclear>) declared war on the mosquito and it a larvae. Of the entire<lb/>
+corps of professional men present in Cuba at the time of the experi-<lb/>
+ments, including the members of the Yellow Fever Commission, Doctor<lb/>
+Gorgas reaped more fame and glory from the Reed and Carroll findings<lb/>
+than any other man, although he was merely an observer until the mos-<lb/>
+quito theory was established. He attained great honors and fame during<lb/>
+his lifetime, and his government promoted him to the highest position<lb/>
+within its gift for men of his profession and career, viz. Surgeon Gen-<lb/>
+eral of the Army, with rank of Major-General. All this he deserved for<lb/>
+his application of the Reed and Carroll findings, first in Cuba and<lb/>
+later in the Panama Canal, in both of which he conquered yellow fever.<lb/>
+For his services in Cuba he was promoted from Major to Colonel in the<lb/>
+Medical Corps of the Army and for his services in the Panama Canal he<lb/>
+was promoted from Colonel to Major-General. Shortly before the entry<lb/>
+of the United States in the World War he was appointed Surgeon-General<lb/>
+of the Army.</p>
+<p>"There are few who respect more than I do the memory and accomplish-<lb/>
+ments of Doctor Gorgas, and if I mention his name in connection with<lb/>
+the experiments I do so for a reason. In contrast with the honors <unclear>ac--</unclear><lb/>
+corded him during his own lifetime it is a sad commentary on the Con-<lb/>
+gress of Dr. Reed's day that prompt and suitable recognition was not<lb/>
+given him for his great and far-reaching services to humanity and medi-<lb/>
+cal science, and the same criticism applies to successive Congresses<lb/>
+for thei failure to make adequate provision for his widow. The same is<lb/>
+no less true with reference to Mrs. Lazear, whose husband gave his life<lb/>
+--a brilliant and promising one in his profession--for science and hu-<lb/>
+manity. One manity. One cannot help but wonder how much of an educa-<lb/>
+tion Doctor Lazear's children have been able to obtain on the small pen-<lb/>
+sion which Congress voted for their mother and themselves.</p>
+<p>"Following the death of Doctor Carroll his widow should have been<lb/>
+provided for in a commensurate manner, but here also Congress allotted<lb/>
+her a pension which was entirely inadequate. She and her children de-<lb/>
+served a liberal allowance for the prominent part Doctor Carroll played<lb/>
+in the discoveries of the Yellow Fever Commission. As to the rest of<lb/>
+us, the rank and file of those who submitted themselves for the tests,<lb/>
+I do not know that we are any poorer or richer in the world's goods<lb/>
+than we might be had we never taken them. Yellow fever does not usually<lb/>
+leave any disagreeable traces if one is lucky enough to survive the<lb/>
+attack.</p>
+<p>"One foreign government has decorated me for my share in the exper-<lb/>
+iments, but in twenty-eight years my own Government has failed to recog-<lb/>
+nize me in any form.* Having declined material reward at the time, I<lb/>
+have never felt that it would be good form to go back on my bargain.<lb/>
+Time and again my friends have urged me to apply for an annuity or pen-<lb/>
+sion. I cannot see it from their point of view. I have always felt <del>that</del><lb/>
+that if if applied for an annuity or a pension it would be equivalent<lb/>
+to placing me in a class with the man who invited the millionnaire hunt-<lb/>
+er to breakfast ane then asked him for a hundred thousand dollars to<lb/>
+set him up in business. I went in for the experiments unsolicited and<lb/>
+voluntarily. If that was a noble and altruistic act I would rather<lb/>
+have my fellow men express their opinion in the premises than personally<lb/>
+crow about it. I do not mind stating that I have found a great deal of</p>
+<p>#See copy of Yellow Fever Bill attached.
+<pb n="11" id="f03304015"/>
+FROM JAMES E. PEABODY<lb/>
+(10)<lb/>
+satisfaction in having volunteered for the experiments. That satisfac-<lb/>
+tion would immediately evaporate, however, if I should ever sign my <del>name</del><lb/>
+name to an application for an annuity or pension.</p>
+<p>John J. Moran.""</p>
+<p>*********</p>
+<p>Since 1941 I have received a number of letters from Dr. Philip<lb/>
+Hench of the Mayo Clinic in Rochester, Minnesota. Dr. Hench has become<lb/>
+deeply interested in making a thoroughly accurate record of those epoch-<lb/>
+making events of 1900 in Cuba. He has twice visited Cuba, has ident;-<lb/>
+fied the authentic site of Camp Lazear, and has shown conclusively that<lb/>
+the site opposite Las Animas Hospital which Dr. Angeles pointed out to<lb/>
+me when I visited Havana in 1935 was incorrect. He has had long inter-<lb/>
+views with General Ireland, General Kean, John Moran, Johmn Kissinger<lb/>
+<unclear>tthe</unclear> two &ldquo;Johns&rdquo; who submitted to the first scientific experiments with<lb/>
+the mosquitoes, he has talked with Mrs. Walter Reed and her daughter,<lb/>
+with Dr. Agramonte's daughter, and with Dr. Cooke (who was one of the<lb/>
+&ldquo;guinea pigs&rdquo; in the infected clothing building). Dr. Cooke is now<lb/>
+Health Officer in Lexington, Virginia, where I had an interesting visit<lb/>
+with him.</p>
+<p>Dr. Hench also made another very important discovery. After Dr.<lb/>
+Lazear's death a small note book was found in the pocket of his blouse<lb/>
+containing entries about the experiments he had been carrying on. When<lb/>
+Dr. Reed studied <del>it he</del> these entries it became crystal clear to him why<lb/>
+Dr. Finlay's experiments and his own earlier experiments had failed.<lb/>
+&ldquo;By carefully noting the realtive<del>ly</del> timings of each step in the suc-<lb/>
+cessful and unsuccessful experiments it became obvious that patients<lb/>
+with the yellow fever have the agent or virus of their disease circu-<lb/>
+lating in their blood only the first three days of their illness; later<lb/>
+when they are sicker, even approaching death, the agent has strangely<lb/>
+disappeared from the blood. Therefore, a mosquito to become &lsquo;infected&rsquo;<lb/>
+must bite a yellow fever victim during these first three days. But even<lb/>
+then that &ldquo;infected&rsquo; mosquito cannot transmit its deadly load or infect<lb/>
+another person until the virus has had a chance to develop or &lsquo;ripen&rsquo;<lb/>
+within the mosquito's body for at least twelve days.</p>
+<p>&ldquo;Thus Lazear's little note book was vitally useful in solving one<lb/>
+mystery, but it posed another mystery, for in it Reed found some incom-<lb/>
+plete entries which appeared to indicate that Lazear had secretly sub-<lb/>
+mitted himself to other experimental inoculations. Reed pondered long<lb/>
+over these entries and then concluded, according to Dr. (now General)<lb/>
+Truby, that when Lazear was taken sick he worried lest his life insur-<lb/>
+ance become forfeited if it became known that he had deliberately in-<lb/>
+fected himself with the fatal disease. The gods of business might not<lb/>
+condone human sacrifice no matter how worthy the cause. Did he, there-<lb/>
+fore at the last fateful hour withold facts to protect his loved ones?<lb/>
+Was this why he had told Gorgas and Carroll that he had been bitten by<lb/>
+a stray mosquito at Las Animas Hospital? Reed believed that it was.<lb/>
+Having produced two cases of yellow fever and knowing the danger, La-<lb/>
+zear would surely never have allowed a mongrel <unclear>mosquito</unclear> to bite him<lb/>
+and vitiate his otherwise meticulously controlled experiments. Reed<lb/>
+confided his suspicions only to two or three colleagues and then decid-<lb/>
+ed to permit the record to read that Lazear had become accidentally in-<lb/>
+fected while in the performance of duty. Having made his quiet and<lb/>
+heroic gesture Lazear had sought to carry his secret to a better world.<lb/>
+<pb n="12" id="f03304016"/>
+(11)<lb/>
+FROM JAMES E. PEABODY<lb/>
+Out of respect for <del><unclear>them</unclear></del> the unspoken wishes of their friend, Lazear <unclear>s</unclear><lb/>
+colleagues have kept that secret all these years. Reed and others car-<lb/>
+ried it to their graves.&rdquo;</p>
+<p>Dr. Hench has laso been of the greatest assistance to the artist<lb/>
+Dean Cornwell, who has portrayed in an oil painting entitled &ldquo;The Con-<lb/>
+querors of Yellow Fever&rdquo; a scene in which Dr. Lazear is applying a<lb/>
+test tube of infected mosquitoes to the arm of Dr. Carroll, who later<lb/>
+was stricken with yellow fever. A fine reproduction in color of this<lb/>
+painting appeared in Dr. Hench's article in the October (1941) number<lb/>
+of &ldquo;Hygeia.&rdquo; This illustration in color was also printed on page 112<lb/>
+in the July (1943) number of the &ldquo;Atlantic Monthly.&rdquo; At the dedication<lb/>
+of the painting at Cleveland, Ohio, on June 2, 1941 the unveiling was<lb/>
+by Miss Blossom Reed, daughter of Major Walter Reed.</p>
+<p>August 28, 1941 Dr. Hench sent me four closely typewritten pages<lb/>
+with 16 questions. In my reply I told him that when I gave up my re-<lb/>
+search room at the Harvard Biological Laboratories I destroyed great<lb/>
+quantities of the yellOw fever literature which I had been keeping, and<lb/>
+therefore I would be unable to answer some of his questions in detail.<lb/>
+Since ten years had passed since the Yellow Fever Bill had become law, I<lb/>
+I thought the usefulness of these papers was ended. Fortunately, how-<lb/>
+ever, at the suggestion of Dr. F. F. Russell, Director of the Internat-<lb/>
+ional Health Bureau of the Rockefeller Foundation I had deposited in the<lb/>
+Welch Medical Library in Baltimore all the material which I thought<lb/>
+would be of value for future reference.</p>
+<p>One piece of information Dr. Hench wished especially to secure re-<lb/>
+lated to the probable origin of the dramatic story of the salute Major<lb/>
+Reed was said to have given to Privates Moran and Kissinger when they<lb/>
+appeared before him to volunteer for the mosquito experiments and after<lb/>
+they had refused the promise of material rewards. Evidently Major Reed<lb/>
+<hi>did not salute</hi> the two &ldquo;Johns&rdquo;--at least that is the testimony of Gen-<lb/>
+eral Kean, Moran and Kissinger, all of whom were present. How the story<lb/>
+of this unparal<del>l</del>elled salute of a Major to a Private originated is cer-<lb/>
+tainly a mystery. It seems most unfortunate to class this as fiction<lb/>
+along with the story of the chopping down of the cherry tree by George<lb/>
+Washington. When I was preparing my account of &ldquo;The Conquest of Yellow<lb/>
+Fever&rdquo; for the American Museum of Natural History I consulted General<lb/>
+Kean in Washington, and he advised me to keep the epic scene in the man-<lb/>
+uscript, saying, &ldquo;If Reed did not salute those two heroes <hi>he ought to<lb/>
+have done it</hi>!&rdquo;</p>
+<p>Dr. Hench closes an address on yellow fever with these words: &ldquo;In<lb/>
+these days when man's inhumanity to man is so pathetically apparent,<lb/>
+when the world is red with blood, it is well for us to note the example<lb/>
+of these men who banded together for high adventure--not to kill or<lb/>
+even to die for their country, but to die if need be for their fellow<lb/>
+men of all countries. It is such as they who reassure us of the inher-<lb/>
+ent decency and dignity of man.&rdquo;</p>
+<pb n="13" id="f03304017"/>
+<p>(12)</p>
+<p>FROM JAMES E. PEABODY</p>
+<p>JAUNDICE FOLLOWING YELLOW FEVER INOCULATION</p>
+<p>***********</p>
+<p>I happened to be at Dartmouth College just after the thousand Navy<lb/>
+men had graduated from their eight-weeks of intensive training, and as<lb/>
+then new men were gathering for their courses. While talking with Prof.<lb/>
+Arthur H. Chivers of the Biology Department I was asked if I knew why<lb/>
+the Army and Navy had suddenly ceased inoculating the service men against<lb/>
+yellow fever. I was told that the medical staff there at Dartmouth had<lb/>
+been suddenly called to Washington with reference to the yellow fever<lb/>
+vaccination, and no one there seemed to be able to tell what was the<lb/>
+reason for this action.</p>
+<p>On the Saturday of the Dartmouth-Harvard football game I met at the<lb/>
+Faculty Club a number of Dartmouth men who were having a class reunion.<lb/>
+They introduced me to a Doctor who was Major at a camp in Taunton. I<lb/>
+told him of my visit to his college the previous month, and of the mys-<lb/>
+tery attending the yellow fever vaccinations. &ldquo;Oh,&rdquo; he said , &ldquo;that has<lb/>
+all been cleared up and you will find it described in the Journal of<lb/>
+American Medicine of August (1943) 8th.&rdquo; I secured this copy, and the<lb/>
+statement is as follows.</p>
+<p>&ldquo;As the Journal goes to press it may be announced that the incidence<lb/>
+of cases of jaundicef following vaccination against yellow fever is de-<lb/>
+creasing. Since such cases first appeared, investigators of the high-<lb/>
+est repute in the fields of epidemiology, pathology, infectious diseases<lb/>
+and viruses have been intensively engaged in a study of the factors<lb/>
+concerned. There is in the minds of those familiar with the situation<lb/>
+the firm conviction that the condition concerned <hi>is not yellow fever</hi>.<lb/>
+There seems to be no reason to believe that it is yellow fever or any<lb/>
+abortive or mild form of that disease. The vaccine concerned gives ac-<lb/>
+tual protection against yellow fever. Only a few batches of vaccine seem<lb/>
+to have been involved, although obviously many thousands of men were in-<lb/>
+oculated with material from each batch. The investigators feel that <unclear>thet t</unclear><lb/>
+<del>techneque</del> technic of preparation now in use will be followed shortly by a<lb/>
+a discontinuance of new cases. It must be remembered, however, that<lb/>
+the incubation period may be months in duration. The jaundice concerned<lb/>
+has not noticeably affected the civillian population. An official <del>s</del><lb/>
+statement in the form of an army medical department circular will be<lb/>
+issued in the near future.&rdquo;</p>
+<p>Later I went to the School of Tropical Medicine of the Harvard Med-<lb/>
+ical School and the Secretary of Dr. Shattuck kindly gave me a list of<lb/>
+references to articles on this outbreak of jaundice which had appeared<lb/>
+in the Journal of the American Medical Association. The references are<lb/>
+as follows: August 1; August 8; August 22; September 5. In the last<lb/>
+named number is a complete statement by the authorities at Washington<lb/>
+relative to the outbreaks of jaundice, and a refutation of the baseless<lb/>
+charges of the Chicago Tribune.</p>
+<p>The jaundice cases resulting from inoculation against yellow fever<lb/>
+numbered 28,585 from January 1 to July 4, '42, and there were 62 deaths.<lb/>
+or 1 in 461 cases. The cases were widely distributed from the Atlantic<lb/>
+to the Pacific and in foreign countries as well--all doubtless the result<lb/>
+of infected vaccine. A new preparation of vaccine is now in use. The<lb/>
+cases usually recover in 4-8 weeks and there are apparently no after<lb/>
+effects. When we consider the terrible toll formerly taken by yellow<lb/>
+fever, we may say that this relatively small outbreak of jaundice among<lb/>
+the vast number of men who have been vaccinated is relatively inconsid-<lb/>
+erable. The American Army is the most healthful of any in the world.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

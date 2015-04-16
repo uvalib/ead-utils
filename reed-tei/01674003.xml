@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01674003">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Joseph B. Brown to the Surgeon General, February 12, 1875</title>
+<title type="gmd">[electronic resource] </title>
+<author>Brown, Joseph B.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01674003</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1875-02-12</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Walter</name>
+<name type="place">New York (N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1875-02-12">February 12, 1875</date>
+<idno rend="supress">01674003</idno>
+<title>Letter from Joseph B. Brown to the Surgeon General, February 12, 1875</title>
+</bibl>
+</head>
+<p>Brown recommends Reed's appointment as Assistant Surgeon, US Army, but notes that Reed's acquaintance with general literature and science is not up to the expected standard. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1875-02-12">
+<head>Letter from Joseph B. Brown to the Surgeon General, February 12, 1875</head>
+<pb n="1" id="f01674003"/>
+<opener>
+Army Medical Board,<lb/>
+Army Building Cor. Greene &amp; Houston Sts.,<lb/>
+<dateline>
+New York, <date value="1875-02-12">February 12, 1875.</date>
+</dateline><lb/>
+Surgeon General, U.S. Army.<lb/>
+<salute>Sir:-</salute>
+</opener>
+<p>* * * *</p>
+<p>Dr. Walter Reed was wholly examined<lb/>
+and found qualified for appointment as<lb/>
+Asst. Surgeon, U.S. Army. It is respectfully<lb/>
+recommended that Dr. Reed be admonished<lb/>
+that his acquaintance with general literature<lb/>
+and science was not up to the expected<lb/>
+standard, and that he will be required<lb/>
+to make good the deficiency, before his<lb/>
+second examination.</p>
+<pb n="2" id="f01674004"/>
+<closer>
+<salute>
+Very Respectfully,<lb/>
+Your Obt. Servt.,</salute><lb/>
+<signed>(Signed.) Joseph B. Brown,</signed>
+Surgeon, U.S. Army.<lb/>
+President Board.<lb/>
+Official:-<lb/>
+C. H. Crane<lb/>
+Asst. Surgeon General,<lb/>
+U.S. Army.<lb/>
+S. G.. Office,<lb/>
+Mch. 18, 1882.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

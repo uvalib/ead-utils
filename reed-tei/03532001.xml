@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03532001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+
+<title type="245">Interview of John J. Moran by Philip Showalter Hench, April 3, 1940</title>
+<title type="gmd">[electronic resource] </title>
+
+<author></author>
+
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+
+</respStmt>
+
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03532001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<creation><date>1940-04-03</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+
+</profileDesc>
+
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Cooke Robert P.</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Albertini, A. Diaz</name>
+<name type="person">Carroll, James</name>
+<name type="person">Furnas, Joseph C.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Neal, [s.n.]</name>
+<name type="person">Lampson, Robin</name>
+<name type="place">University of Virginia, Charlottesville, (Va.)</name>
+<name type="place">Cuba</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Havana, Cuba</name>
+<name type="place">Camp Young, Province of Pinar del Rio, Cuba</name>
+<name type="place">Salem, (N.J.)</name>
+<name type="place">Washington, D. C.</name>
+<name type="place">Guanajay Barracks, Cuba</name>
+<name type="place">Army Medical School, Washington, D. C.</name>
+<name type="hospital">Columbia Hospital, Cuba</name>
+<name type="hospital">Yellow Fever Tent Hospital, Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>6 pp.</extent>
+<date value="1940-04-03">April 3, 1940</date>
+<idno rend="suppress">03532001</idno>
+<title>Interview of John J. Moran by Philip Showalter Hench, April 3, 1940</title>
+</bibl>
+</head>
+<p>Hench questions Moran about the yellow fever experiments.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1940-04-03">
+<head>Interview of John J. Moran by Philip Showalter Hench, April 3, 1940</head>
+<pb n="1" id="f03532001"/>
+<p>
+<list type="simple">
+<head><hi>QUESTIONING OF Mr. MORAN BY Dr. HENCH, HAVANA, CUBA, APRIL 3, 1940.</hi></head>
+<item>Q. How was Dr. Reed's request made known to the soldiers.</item>
+<item>A. Principally through the medium of Dr. Roger Post Ames, by word of mouth.<lb/>
+Within three days the news had spread throughout the camp.</item>
+<item>Q. When did Dr. Ames mention it to you.</item>
+<item>A. It was between October 31st and November 5th. The exact month and date<lb/>
+would not be remembered by me since I did not consider them of such far-<lb/>
+reaching importance.</item>
+<item>Q. Did you broach the news to Kissinger and did he know about it before you did.</item>
+<item>A. I broke the news to him and according to my absolute knowledge he did not<lb/>
+know anything about it previously. Dr. Ames broke the news to me about<lb/>
+4:30 in the afternoon. Kissinger and I roomed together and that same<lb/>
+evening evening I told Kissinger of Dr. Ames' conversation with me and we<lb/>
+discussed it, as nearly as I can remember, until 2 o'clock in the morning.</item>
+<item>Q. Do you remember anything you said to each other.</item>
+<item>A. I remember distinctly that after Kissinger had informed me of his determin-<lb/>
+ation to volunteer for the experiments I said to him: &ldquo;John, I am going into<lb/>
+these experiments as a fitting start in medicine, so please think very care-<lb/>
+fully of what you propose to do because, after all, we have no certainty<lb/>
+that we will survive the experiments,&rdquo; or words to that effect. He answered<lb/>
+me back in the same way. &ldquo;John, (I was John to him also) whatever you do I<lb/>
+am going to do. I am going with you&rdquo;. We started talking about it at<lb/>
+9 o'clock and discussed it until at least 2 o'clock in the morning, cover-<lb/>
+ing all phases and angles of the problem.</item>
+<item>Q. Did Kissinger make up his mind to volunteer before you talked with him.</item>
+<item>A. Positively not. He knew nothing about it.</item>
+<item>Q. Did Kissinger ever mention to you that he had volunteered and that he had<lb/>
+already been bitten by a mosquito.</item>
+<item>A. No. The two preceding questions answer that.</item>
+<item>Q. What was the attitude of the men around the camp and the doctors toward<lb/>
+the mosquito theory at that time.</item>
+<item>A. That is a question I cannot answer except in a general way. The only<lb/>
+doctor I discussed it with was Dr. Ames. He did not give an opinion. He<lb/>
+approached me, knowing that I intended to enter the University of Virginia<lb/>
+in September of the coming year to study medicine. He called me &ldquo;Johnny&rdquo;<lb/>
+as I knew him well. He said: &ldquo;This is a golden opportunity for you to add<lb/>
+to your slender educational fund.&rdquo;</item>
+<item>Q. He did not warn you about the danger.</item>
+<item>A. No.</item>
+<item>Q. If Dr. Ames did not warn you of the danger, presumably he did not think<lb/>
+much of the idea himself.</item>
+<item>A. It was not part of Dr. Ames' mission to warn us. His mission was to quietly<lb/>
+let it be known that Major Reed was seeking volunteers.</item>
+<item>Q. You went to bed for a few hours sleep. Was this all decided upon by you<lb/>
+and Kissinger in one evening.</item>
+<item>A. Yes.</item>
+<item>Q. What time did you see Dr. Reed next morning.</item>
+<item>A. It was between 8 and 9 o'clock because I had to be in General Lee's office<lb/>
+by 9 o'clock and it had to be before that when we went to call on Major<lb/>
+Reed</item>
+<item>Q. Where did you find Major Reed.</item>
+<item>A. He was in his room in the officers' quarters.</item>
+<item>Q. Is it your distinct recollection that you and Kissinger went together.</item>
+<item>A. Positively. There is no mistake about that.</item>
+<pb n="2" id="f03532002"/>
+<item>-- 2 --</item>
+<item>Q. Do you recollect what you told Major Reed.</item>
+<item>A. I do but I cannot tell you my exact words. In substance, the following<lb/>
+happened: We knocked at his door and he received us. He seemed surprised<lb/>
+as he had no idea why we were there and we knew him but slightly up to<lb/>
+that time. Then we informed him, or rather I informed him what Dr. Ames<lb/>
+had told me. I said: Dr. Ames has told me that you are looking for<lb/>
+volunteers and we are here to offer ourselves". Those may not be the<lb/>
+exact words I used, since I was somewhat excited, but according to my<lb/>
+memory they are substantially correct.</item>
+<item>Q. Did Kissinger do any talking.</item>
+<item>A. Kissinger was the first one to say that &ldquo;we are doing this without any<lb/>
+thought of compensation or bonus&rdquo;. I did not repeat this as it was under-<lb/>
+stood between us and by Major Reed. We were all standing, Kissinger at<lb/>
+&ldquo;attention&rdquo; because he was a soldier. I was standing &ldquo;at ease&rdquo; because<lb/>
+I was a civilian. Major Reed was standing up during the entire conver-<lb/>
+sation and when Kissinger and I told him we were volunteering for the<lb/>
+tests he was taken aback, not so much by our offer, which was surprising<lb/>
+to him, the biggest surprise of all being that we wanted to take the<lb/>
+experiments without reward or compensation.</item>
+<item>Q. What did Major Reed do or say.</item>
+<item>A. He did not do or say very much. He thanked us and expressed appreciation<lb/>
+for what we were doing but I do not remember his exact words. Recovering<lb/>
+from his surprise, he said: &ldquo;Of course you know, gentlemen, that this is<lb/>
+a serious matter; that you must first undergo a strict physical examination<lb/>
+to find out whether you have any organic or other trouble before I accept<lb/>
+you as volunteers as I am not looking for any fatalities in these experi-<lb/>
+ments.&rdquo; After that, his next remarks were: &ldquo;Now, should you be taken down<lb/>
+with yellow fever, I want you to know that if there is any doctor or nurse<lb/>
+on the Island of Cuba that you care to have to attend you, all you have to<lb/>
+do is name them and I will have General Wood see that they are ordered<lb/>
+here.&rdquo; That is about he said, adding that we would have our physical<lb/>
+examination in due time.</item>
+<item>Q. Did Major Reed at any time rise and salute you and say: &ldquo;Gentlemen, I<lb/>
+salute you&rdquo;.</item>
+<item>A. No, he did not. He was standing all the time. The conversation lasted<lb/>
+about fifteen minutes.</item>
+<item>Q. Where did that legend come from.</item>
+<item>A. The first I knew of it was when I read it in Dr. Howard A. Kelly's book<lb/>
+&ldquo;Walter Reed &amp; Yellow Fever&rdquo;, first published in 1906.</item>
+<item>Q. Do you know where Dr. Kelly got the legend.</item>
+<item>A. No, but I discovered later from General Kean, after I informed him of its<lb/>
+inaccuracy, that Major Reed had fathered the legend, adding that &ldquo;If Major<lb/>
+Reed did not salute you, as alleged, he should have done so.&rdquo; but whether<lb/>
+the salute was an afterthought, later reported to Dr. Kelly by Major Reed,<lb/>
+I do not know.</item>
+<item>Q. When did you hear from Reed or what happened thereafter.</item>
+<item>A. About the 1st of November, I think it was, Major Reed told me: You are<lb/>
+through at Headquarters. From now on you are with me until after you are<lb/>
+through with the experiments"</item>
+<item>Q. What did you do then.</item>
+<item>A. I started in to do clerical work for Major Reed at Columbia Barracks. It<lb/>
+was pretty much pretense on his part since my real work with him was to<lb/>
+undergo the tests. Aside from a few personal letters a day and a few<lb/>
+official ones, all dealing with the experiments, I was not busy over an<lb/>
+average of a few hours a day. I had a &ldquo;Hammond&rdquo; typewriter upon which to<lb/>
+type his letters and other notes.</item>
+<item>Q. What was the reaction of your friends when they heard that you and Kissinger<lb/>
+<pb n="3" id="f03532003"/>
+-- 3 --<lb/>
+had volunteered.</item>
+<item>A. I cannot tell you. All I knew was that volunteers presented themselves<lb/>
+right and left. You have their names. First among them were Dr. Cook,<lb/>
+Jernegan and Folk, who volunteered within a week or ten days after Kiss-<lb/>
+inger and I did. (Ask Kissinger about this reaction).</item>
+<item>Q. Did you have any reaction when you were notified to report at Camp Lazear.</item>
+<item>A. Not that I can recall.</item>
+<item>Q. How were you taken to Camp Lazear.</item>
+<item>A. We went in a &ldquo;Doherty Wagon&rdquo; (So known in the Army in the days of mule-<lb/>
+drawn transportation)</item>
+<item>Q. When did you arrive at the Camp.</item>
+<item>A. On November 20th.</item>
+<item>Q. When did you arrive at the Camp.</item>
+<item>A. On November 20th.</item>
+<item>Q. What did you do between November 20th and 26th or before you were bitten.</item>
+<item>A. Clerical work for Major Reed, principally typing letters and Notes about<lb/>
+the yellow fever experiments, written in long hand. I occupied the office<lb/>
+tent alone. I had an Army Field Desk in there and a Hammond typewriter.<lb/>
+Major Reed used the field desk when he came to the Camp.</item>
+<item>Q. Were the tents numbered.</item>
+<item>A. To my knowledge they were not numbered nor were they understood as being<lb/>
+numbered.</item>
+<item>Q. You were not the roommate of Kissinger in Tent No. 2?</item>
+<item>A. No.</item>
+<item>Q. Major Reed did not live in the Camp?</item>
+<item>A. No, he stayed at the officers' quarters, within the Post Hospital grounds,<lb/>
+at Columbia Barracks.</item>
+<item>Q. Where are Reed's letters to General Sternberg.</item>
+<item>A. Those of a personal nature should be in the possession of the General's<lb/>
+family but those of a purely official nature should be in the files of<lb/>
+The Surgeon General of the Army, in Washington.</item>
+<item>Q. How long ahead of time did you know you were going to be bitten.</item>
+<item>A. About ten minutes ahead of time. The mosquitoes were brought out by<lb/>
+Doctor Reed from the Laboratory of the Post Hospital, one end of which<lb/>
+had been assigned to his use.</item>
+<item>Q. Where were you bitten.</item>
+<item>A. Outside my tent, on the forearm.</item>
+<item>Q. Who put them on you.</item>
+<item>A. Major Reed himself put them on my forearm, if I am not mistaken.</item>
+<item>Q. What were your reactions.</item>
+<item>A. I do not think I had any reactions. If I did, they made no lasting<lb/>
+impression on me.</item>
+<item>Q. How long ahead of time did you know you were going into the infected<lb/>
+mosquito building.</item>
+<item>A. I think I knew it a day ahead, around December 20th.</item>
+<item>Q. How long did it take to complete that building.</item>
+<item>A. It was built after the &ldquo;Infected Bedding &amp; Clothing Building&rdquo;. I was<lb/>
+getting impatient at the long wait. Dr. Reed tried to pacify me while<lb/>
+the &ldquo;Mosquito Building&rdquo; was being put up. He gave me the excuse that<lb/>
+there was not sufficient mosquitoes to put in there. I think it was<lb/>
+ready approximately two weeks before I entered it.</item>
+<item>Q. What time were you bitten.</item>
+<item>A. Around the noon hour. I do not think anyone took official time there.</item>
+<item>Q. Did only one set of men sleep on the other side of the partition in the<lb/>
+&ldquo;mosquito room&rdquo;.</item>
+<item>A. Only one set of men slept there prior to my entry or first visit. I was<lb/>
+the first to enter the &ldquo;mosquito room&rdquo; of the &ldquo;Mosquito Building&rdquo;.</item>
+<item>Q. Did the men on the other side of the partition only sleep there at night.</item>
+<item>A. Yes. During the day, they had the run of the Camp.</item>
+<pb n="4" id="f03532004"/>
+<item>-- 4 --</item>
+<item>Q. Why did Jernegan make the bet. Was he so sure you were going to get<lb/>
+yellow fever.</item>
+<item>A. I think it was a gambler's impulse on Jernegan's part. He made the offer<lb/>
+and I took him up.</item>
+<item>Q. The official record says you were dizzy at 6 o'clock Christmas morning,<lb/>
+but you tell me that you ate a hearty breakfast?</item>
+<item>A. I regret the necessity of contradicting the official record. I did eat a<lb/>
+hearty breakfast, my temperature being normal or slightly subnormal at<lb/>
+6 o'clock Christmas morning.</item>
+<item>Q. You did not have any fever on the 23rd or 24th as the official chart<lb/>
+shows.?</item>
+<item>A. I am positive I did not. I took my own pulse and temperature regularly<lb/>
+from December 21st to December 25th and had no fever until about 10<lb/>
+o'clock Christmas morning.</item>
+<item>Q. You were not put to bed about eleven as the record shows?</item>
+<item>A. No. I had Christmas dinner, turkey with cranberry sauce, &ldquo;Plum Duff&rdquo;<lb/>
+(plum pudding), eating very sparingly.</item>
+<item>Q. Had anyone seen you that morning?</item>
+<item>A. No. Major Reed regularly got out to Camp shortly after the noon hour, if he<lb/>
+had not been out in the morning, but it being Christmas Day the officers<lb/>
+at the Post Hospital had their own Christmas Dinner and it was 3 o'clock<lb/>
+when he reached there.</item>
+<item>Q. What were your immediate thoughts when you knew you had yellow fever.</item>
+<item>A. The same gambling instinct or impulse that caused Jernegan to make the<lb/>
+bet impelled me to accept it and for the time being I was more concerned<lb/>
+with winning the bet than I was about the fever. I wanted to win the<lb/>
+$5.00 as a matter of principle. I am afraid I cannot describe my<lb/>
+thoughts. I knew for one thing that eating heart<add><unclear>il</unclear></add>y with fever, especial-<lb/>
+ly yellow fever, would lessen my chances of pulling through. I ate
+very<lb/>
+sparingly, bluffing it through without attracting attention.</item>
+<item>Q. Christmas afternoon, you were taken where?</item>
+<item>A. Into the special tent hospital that was set up to take care of the ex-<lb/>
+perimental cases. It was within the Post Hospital enclosure but a<lb/>
+respectable distance from the wards and barracks which were frame build-<lb/>
+ings. It was known as the Yellow Fever Tent Hospital.</item>
+<item>Q. Who visited you there.</item>
+<item>A. Major Reed was my constant visitor. Gorgas was a daily visitor, Finlay<lb/>
+only once to my knowledge, and a number of others, including Doctors<lb/>
+Guiteras and Albertini, all members of the Yellow Fever Board of the City<lb/>
+of Havana, not to be confounded with the Yellow Fever Commission or Board</item>
+<item>Q. Do you remember any of the conversations these doctors had about you.</item>
+<item>A. I do remember that they referred to my case as &ldquo;a very pretty case&rdquo;.<lb/>
+Reed, on the secon day, December 26th, when I still had a high temper-<lb/>
+ature, sat down by my bedside and said: &ldquo;Have you any pains?&rdquo; I replied:<lb/>
+&ldquo;Major, I have a lot of pains&rdquo;. He said: &ldquo;Please tell me where they are.<lb/>
+Can you localize them?&rdquo; I replied: &ldquo;I am sorry but I cannot localize<lb/>
+them as my entire body is a mass of pain. I cannot tell you where. &ldquo;Are<lb/>
+you suffering?&rdquo; he asked and I replied that I was. &ldquo;If yelling out loud<lb/>
+would relieve, then go ahead and do it,&rdquo; he said. &ldquo;Major, when I went in<lb/>
+for these experiments I made up my mind to take it without crying about<lb/>
+it,&rdquo; I said. He said: &ldquo;All right&rdquo;.</item>
+<item>Q. Do you remember any other conversations.</item>
+<item>A. No. Most of their conversations were in an undertone and in medical<lb/>
+terms.</item>
+<item>Q. Who had charge of you.</item>
+<item>A. Dr. Roger Post Ames was my attending physician.</item>
+<pb n="5" id="f03532005"/>
+<item>-- 5 --</item>
+<item>Q. What were your thoughts? Did you think you were going to die?</item>
+<item>A. For the first 48 hours I did not much care whether school kept or not. After<lb/>
+that I figured I would get well.</item>
+<item>Q. What were your symptoms besides pains and fever.</item>
+<item>A. None.</item>
+<item>Q. How long were you sick.</item>
+<item>A. I was out of bed in ten days. When declared convalescent, I was still very<lb/>
+weak as I had no nourishment for a period of seven days running.</item>
+<item>Q. You took the blood test about two weeks after your convalescence?</item>
+<item>A. About January 15th, 1901.</item>
+<item>Q. Do you remember any instance of local reaction that you came across before<lb/>
+you left Havana?</item>
+<item>A. No.</item>
+<item>Q. Why did you leave Havana in February, 1901?</item>
+<item>A. I returned to the U. S. and had a position assured me in Luerssen's Drug<lb/>
+Store, Salem, N. J. which, due to its nature, suited me until I should matri-<lb/>
+culate as a medical student in September of the same year.</item>
+<item>Q. Did you have any other conversations with Reed or Carroll about your own or<lb/>
+other experiments?</item>
+<item>A. None in particular that I can recall.</item>
+<item>Q. Did you only meet Finlay once?</item>
+<item>A. To my knowledge only once and I do not remember having any conversations with<lb/>
+him. Dr. Finlay could have seen me on December 26th without my being aware of<lb/>
+it. On that date, I was not a close observer.</item>
+<item>Q. Do you remember any errors in Dr. Kelly's book except those we have discussed.</item>
+<item>A. I do not recall any.</item>
+<item>Q. You said there were errors in the Furnas article &ldquo;Death in a Mirror&rdquo;?</item>
+<item>A. Yes, but not serious ones. Where he identifies Dr. Ames as a Virginia grad-<lb/>
+uate, he is in error. Dr. Ames was a graduate of Tulane, I am reasonably sure.<lb/>
+As I explained to Mr. Furnas, the man who suggested Virginia to me first was<lb/>
+Major Alexander N. Stark, Post Surgeon, under whom I worked in the operating<lb/>
+room until my term of enlistment expired on July 2, 1900. After I volunteered<lb/>
+for the experiments, I discovered that Major Reed was a Virginia graduate and<lb/>
+that my very good friend and benefactor, Major Jefferson R. Kean, Chief Surg-<lb/>
+eon of the Department, was also a Virginia graduate. At the time I volunteered<lb/>
+all three knew that I was to enter Virginia in September of the coming year.</item>
+</list></p>
+<p>
+<list type="simple">
+<head><hi>QUESTIONS ABOUT FURNAS' ARTICLE</hi></head>
+<item>Q. The statement about the poker is true?</item>
+<item>A. Yes. There were other little games too where a few dollars could be won or<lb/>
+lost. Prisoners, as we were, indulgence in these pastimes helped shorten the<lb/>
+day for us.</item>
+<item>Q. The Conversation between you and Reed?</item>
+<item>A. Essentially correct. The first time I ever heard the expression &ldquo;fool-proof&rdquo;<lb/>
+was when Major Reed used it when he informed me that he was &ldquo;saving&rdquo; me for<lb/>
+his &ldquo;mosquito building&rdquo; test. His elation on Christmas Day, when he found me<lb/>
+with yellow fever, is much better told by Joe Furnas than I could ever hope<lb/>
+to tell it.</item>
+<item>Q. What about the muslin-lined walls in the mosquito room?</item>
+<item>A. That is more or less correct. There were screened windows on which very fine<lb/>
+copper bronze wire screening was used. The room was built from tongue and<lb/>
+grooved lumber. After that, the ceiling and walls were &ldquo;papered&rdquo; with unbleach-<lb/>
+ed muslin, making them insect proof.</item>
+<item>Q. Did you ever have Malaria?</item>
+<pb n="6" id="f03532006"/>
+<item>-- 6 --</item>
+<item>A. Yes, I had it for the first time at Camp Young, near Guanajay, Province of<lb/>
+Pinar del Rio.</item>
+<item>Q. What were your duties after you enlisted in the Army and immediately before<lb/>
+your enlistment expired?</item>
+<item>A. I enlisted as a Private at the Hospital School of Instruction, Washington<lb/>
+Barracks, D. C., was promoted to Acting Hospital Steward (Sergeant) about a<lb/>
+year later. From date of my promotion my duties were varied. At times I<lb/>
+had charge of the pharmacy, accompany the surgeon in his daily visits to the<lb/>
+wards, prepare &ldquo;Sick &amp; Wounded&rdquo; reports and do other clerical work. My last<lb/>
+six or seven months of Army service were as assistant to Major Stark, in the<lb/>
+operating room. While in Cuba, I served, respectively, at Camp Young, Guan-<lb/>
+ajay Barracks and Columbia Barracks.</item>
+<item>Q. How long were you in service in Cuba?</item>
+<item>A. As a soldier, from January, 1899, until July 2, 1900. As a civilian or field<lb/>
+clerk, from July 2, 1900, to February, 1901.</item>
+<item>Q. Why did not Major Reed try the experiments on himself?</item>
+<item>A. I think he was too old, which was of itself sufficient reason. He was then<lb/>
+in his 50th year.</item>
+<item>Q. The official record says Carroll's yellow fever was experimental. What was<lb/>
+the opinion in and around the Post Hospital as to this?</item>
+<item>A. That Doctor Carroll's case was accidental - not experimental. His friend and<lb/>
+preceptor, Major Reed, was willing to pass his yellow fever as experimental<lb/>
+and allowed it to so appear in the record. When I knew Dr. Carroll he was<lb/>
+far from robust and he was in his 46th year. Although Major Reed was three<lb/>
+years his senior, his chances of surviving an attack of yellow fever were<lb/>
+much greater than Carroll's. The latter, I inferred at the time, was organically<lb/>
+unsound. One of my doctor friends, whose name I do not care to disclose, con-<lb/>
+firmed to me what was general opinion among the Post Hospital personnel.</item>
+<item>see<lb/>
+below</item>
+<item>Q. Agramonte says that at first Lazear kept the mosquitoes not at Camp Columbia<lb/>
+but in Agramonte's laboratory at Military Hospital No. 1. Is this correct?</item>
+<item>A. I cannot give you a positive answer. According to my recollection, they were<lb/>
+kept in the old operating room (then used as a laboratory) under the personal<lb/>
+supervision of Hospital Steward Neal who accompanied Major Reed and Dr.<lb/>
+Carroll to Cuba from the Army Medical School in Washington.</item>
+<item>Q. Is the conversation you are supposed to have had with Kissinger, as given by<lb/>
+Lampson on page 472 of his book, essentially correct.?</item>
+<item>A. It is incorrect in every respect; entirely imaginary. Lampson is probably not<lb/>
+responsible. I think he got his impression from the theatre version of the<lb/>
+play &ldquo;Yellow Jack&rdquo;.</item>
+<item>Q. On page 474?</item>
+<item>A. You are entirely familiar with Major Reed's remarks when, on Christmas Day,<lb/>
+1900, he found me with yellow fever, hence I will not here repeat them.</item>
+</list></p>
+<p><hi>NOTES FOR DOCTOR HENCH</hi></p>
+<p>The FOURTH question, counting either from the top or bottom of this page,<lb/>
+is mine. You are entirely free to eliminate it. It may be policy to do so.<lb/>
+In this revised copy of your questionnaire, I have corrected a number of errors<lb/>
+made by Mrs. Phillips, excusable always even on the part of competent steno-<lb/>
+graphers when typing from shorthand notes. Instance: She used FLAT DESK where<lb/>
+I said &ldquo;Field Desk&rdquo;, the latter being a portable or folding desk, used at that<lb/>
+time by officers in the field.</p>
+<p>I CERTIFY THAT THE FOREGOING ANSWERS ARE CORRECT, TO THE BEST OF<lb/>
+MY KNOWLEDGE AND BELIEF:</p>
+<closer>
+<signed>John J. Moran</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

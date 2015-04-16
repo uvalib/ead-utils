@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t06301031">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Jefferson Randolph Kean to Philip Showalter Hench, January 23, 1941</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Kean, Jefferson Randolph</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06301031</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1941-01-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Hench, Philip Showalter</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Truby, Albert E.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Carroll, James</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">O'Reilly, Robert M.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Edmunds, Major</name>
+<name type="person">Kean, Louise Young</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Hemmeter, John</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Clemons, Harry</name>
+<name type="person">Root, Elihu</name>
+<name type="person">Welch, William Henry</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Finlay, Carlos E.</name>
+<name type="person">Russell, Frederick F.</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Gorgas, Marie D.</name>
+<name type="person">Hendrick, Burton Jesse</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Angles, Eduardo</name>
+<name type="person">Echeverria, R.F.</name>
+<name type="place">Jacksonville (Fla.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cuba</name>
+<name type="place">Camaquey (Cuba)</name>
+<name type="place">Philippines</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="hospital">Military Hospital #1, Havana (Cuba)</name>
+<name type="hospital">2<hi rend="superscript">nd</hi> Division Hospital of the 7<hi rend="superscript">th</hi> Army Corps, Jacksonville (Fla.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>16 pp.</extent>
+<date value="1941-01-23">January 23, 1941</date>
+<idno rend="suppress">06301031</idno>
+<title>Letter from Jefferson Randolph Kean to Philip Showalter Hench, January 23, 1941</title>
+</bibl>
+</head>
+<p>Kean comments on the controversy over Agramonte's role in the mosquito work. He answers, in detail, questions based on Hench's reading of Kean's diary. He emphasizes that Reed never told him Lazear's infection was experimental. He believes Lazear's careful records enabled Reed to understand the yellow fever incubation period.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1941-01-23">
+<head>Letter from Jefferson Randolph Kean to Philip Showalter Hench, January 23, 1941</head>
+<pb n="1" id="f06301031"/>
+<opener>
+In re Y. F. Episode<lb/>
+Page 1-<lb/>
+<dateline>
+2804 N St. Washington<lb/>
+<date value="1941-01-23">January 23- 1941</date>
+</dateline>
+<salute>My dear Dr. Hench</salute>
+</opener>
+<p>It was very considerate of you to send a carbon<lb/>
+copy of your letter for convenience in replying and<lb/>
+I am going to show some consideration on my side-<lb/>
+In the first place as you have to read my letters in<lb/>
+long hand I will try to write clearly- Then I have<lb/>
+been thinking what a mass of M. S. S. you are<lb/>
+accumulating and the trouble I must give in<lb/>
+the filing of my little note-paper sheets- I have<lb/>
+found some paper therefore just the size of your<lb/>
+letter-paper and will use that here after in my<lb/>
+replies- I find that the space between your ques-<lb/>
+tions is not sufficient to answer some of them &amp;,<lb/>
+for some, explanations are necessary, I will use my<lb/>
+letter space for these and refer to them by writing in<lb/>
+the questionnaire see letter p -- or in this see 2#</p>
+<p>I am much interested in them and in seeing how closely<lb/>
+you had read the diary which skips from one thing to<lb/>
+another continually- It is like the old woman who tried<lb/>
+to improve her education by reading the dictionary- She<lb/>
+said it would be very interesting if it didnt change<lb/>
+the subject so often-</p>
+<p>I am much interested in the defense of Agramonte<lb/>
+which you have made in your letter to Gen. Truby of<lb/>
+Jan 7<hi rend="superscript">th</hi> As you know the statement that Agramonte had<lb/>
+no part in the mosquito work on page 21 of the Surgeon General's<lb/>
+<pb n="2" id="f06301032"/>
+Y. F. Episode<lb/>
+Page 2<lb/>
+Statement in the Senate Doc. <hi>Yellow Fever</hi> was based on infor-<lb/>
+mation given me by Carroll- When Agramonte saw it, he<lb/>
+complained that it had done him great injustice- So I<lb/>
+asked him to prepare his own statement which was published<lb/>
+over his own certificate on pages 25 and 26 of the same<lb/>
+compilation- My good friend Gen. Truby criticised this<lb/>
+as inaccurate and reproached Gen. Ireland and<lb/>
+me in a letter last year for letting it be published<lb/>
+over the Surgeon General's signature- As I was occupied<lb/>
+with other matters and the operations of the Board as regard<lb/>
+these details were not within my knowledge, I do not<lb/>
+feel able to pass judgment in the matter- I have always<lb/>
+felt however that I had done Agramonte an injustice in<lb/>
+accepting Carroll's statement, without verifying it, and I<lb/>
+was glad to be able to give equal publicity to Agramonte's<lb/>
+statement-</p>
+<p>Now taking up your questions: Dr. Echevarria was called<lb/>
+major but whether that was a U. S. Army <add>volunteer</add> title I am not sure-<lb/>
+He had at one time been employed as a medical officer by<lb/>
+the spaniards and was, when we went to Cuba, employed<lb/>
+by our army- Gen. OReilly (then Col &amp; Chief Surgeon of our forces in Cuba)<lb/>
+had a very high opinion of him- Just how he had a hand<lb/>
+in the San Jos&egrave; negociation I do not know- I suppose he<lb/>
+was recommended to Major Reed as a reliable man-</p>
+<p>I cannot give you any assistance with miss Agramonte's<lb/>
+photographs- There were a lot of those small buildings<lb/>
+at the old Spanish <add>Military</add> Hospital which we took over and called<lb/>
+Military Hospital No. 1- Now as to the diary questions:<lb/>
+<list type="ordered">
+<item># 1- I was put in command of the 2<hi rend="superscript">nd</hi> Division Hospital of<lb/>
+<pb n="3" id="f06301033"/>
+Y. F. Episode<lb/>
+Page 3<lb/>
+the 7<hi rend="superscript">th</hi> Corp of Camp Cuba Libre. Jacksonville<lb/>
+Fla, as it was much the largest medical unit there, and<lb/>
+the preceding Commanding Officer Major Edward <unclear>Bokaman</unclear><lb/>
+of St. Paul, an able surgeon, but ignorant of Army hospital<lb/>
+administration, recommended it- My rank was Major &amp; Surgeon<lb/>
+of Volunteers- My actual rank in the regular medical Corps was<lb/>
+Captain- I was called major except for the brief period that I was<lb/>
+Chief Surgeon 7<hi rend="superscript">th</hi> Army Corps when I was Lt. Col. of Vols-</item>
+<item># 2 I first met Major Reed in July <hi>1906</hi> when I was the<lb/>
+Medical Officer at Key West Barracks- He came down<lb/>
+and spent a week with me as my guest- His <unclear>errand</unclear><lb/>
+was to study certain ameboid bodies which he had<lb/>
+found in the blood of negroes and monkeys after<lb/>
+vaccination- There was an epidemic of small pox in<lb/>
+Key West at that time &amp; he wanted to search for this<lb/>
+organism in the blood of small pox patients- He was<lb/>
+a most delightful guest, full of quaint stories and<lb/>
+a very whimsical humor- I had spent two days at his<lb/>
+house in Georgetown, Washington D. C. when I was en route to<lb/>
+Boston in <hi>1897</hi>. Then I was him at Jacksonville in <hi>1898.</hi></item>
+<item># 3. I think you saw the photograph of this 1<hi rend="superscript">st</hi> Division Hospital<lb/>
+you know there are 3 divisions of <unclear>Infanty</unclear> in each corp, or<lb/>
+there were at that time, and 3 regiments in each brigade, 3 bri-<lb/>
+gades in each division- But many regiments had been mus-<lb/>
+tered out &amp; did not come to Cuba- So we established only the<lb/>
+1<hi rend="superscript">st</hi> Division Hospital for the 7<hi rend="superscript">th</hi> Corps at Camp Columbia-</item>
+<item># 4 Yes-</item>
+<item># 5 Mil. Hosp. No. 1 as I recollect was a big rambling group of low<lb/>
+<pb n="4" id="f06301034"/>
+Y. F. Episode<lb/>
+Page 4<lb/>
+buildings. You may have seen two pictures from different points<lb/>
+of view. of this much spread out hospital-</item>
+<item># 6- and # 18- # <unclear>18</unclear> I am not surprised that you are puzzled at the ap-<lb/>
+pearances and disappearances of Major Reed- He was as you say<lb/>
+the &ldquo;trouble shooter&rdquo; of the Medical Dept- the ablest epidemiologist<lb/>
+and bacteriologist we had and Gen. Sternberg, who was the pioneer<lb/>
+in bacteriology probably in the U. S., had complete confidence in him-<lb/>
+As regards letters I have very few long-hand letters of Reed and they<lb/>
+are about personal matters, I have given away most of those that<lb/>
+touched on his work, as Mrs. Reed tells me she has, to institutions<lb/>
+&amp; writers- My typed letters- written (carbons) and letters received went<lb/>
+in the files- I usually had a separate personal file and some of<lb/>
+these I still have &amp; will fix a time to look over. Many I should<lb/>
+<unclear>burn:</unclear> I will remember you when I do this and save what you<lb/>
+can use- I dont think you can get anything out of the Surgeon<lb/>
+General's Office. They are overwhelmed with current work now<lb/>
+on account of the creation of a great army- Besides the records<lb/>
+of 40 years ago are like the snows of yesteryear- If not destroyed<lb/>
+they are buried under the vast accumulations of the world War-
+</item>
+<item># 7. When the 7<hi rend="superscript">th</hi> Army Corps arrived in Cuba in Dec. 1898 they<lb/>
+went into camp at Marianao- Quemados where the Military City<lb/>
+is now &amp; Gen. Lee's tent Hdqrs was at the N-E end of the camp<lb/>
+<add>near</add> where <add>was</add> the station of Buena Vista on the narrow - guage R. R. from<lb/>
+Havana- He moved from his tent into the Toledo palace, as it was<lb/>
+called then, on May 13- 1900- see answer to # 17-</item>
+<item># 8- see #18 below-</item>
+<item># 9. Yes-</item>
+<item># 10- I suppose Reed's report of his inspection of the outbreak of<lb/>
+fever at Camaguey went into the files of the Surg. Gen.'s Office<lb/>
+<pb n="5" id="f06301035"/>
+Y. F. Episode-<lb/>
+Page 5<lb/>
+see remarks on files S. G. O. at end of #6 above- There may have been<lb/>
+a sentence or two of reference to it in the S. G.s Annual Report for 1900 but<lb/>
+the Report of Reed was not printed I am sure-</item>
+<item># 11- Yes</item>
+<item># 12- I dont think he saw any cases of y. f. on his short visits to<lb/>
+Cuba in March 1900 and May 1900- Reed was not in Cuba in July 1899<lb/>
+In my Entry of July 17, 1899 you misread Peed for Reed- Capt-<lb/>
+George P. Peed was a regular Med Officer on duty at Columbia Bks then-</item>
+<item><p>= 13 # Dr. Henry Rose Carter was probably the ablest doctor in the Marine Hospital<lb/>
+Service which has since evolved into the U. S. Public Health Service-<lb/>
+but went back to U. S. in<lb/>
+He was then in charge of the quarantine service in Havana- He was an expert<lb/>
+in yellow fever and a very learned man <add>He was Gorgas's assistant in Panama-</add>- He was a cousin of the Major<lb/>
+M<hi rend="superscript">m</hi> Fitzhugh Carter of the regular Medical Corps U. S. Army mentioned below # 15</p>
+<p>Dr. H. R. Carter was-<lb/>
+not in Cuba after<lb/>
+July 23, 1900- When<lb/>
+he left for U.S.-</p></item>
+<item># 14 <unclear>At</unclear>-27 Cavajal St. Quemados, name<del>d</del> changed later in this year to Gen. Lee<lb/>
+Street- Gen. Lee was immensely popular with the Cubans- He had been<lb/>
+sent to Cuba in 1896 at Consul General at Havana to put a stop to the execution<lb/>
+of Cubans who were U. S. citizens, which he did- The declaration of War<lb/>
+against Spain was held up until Gen. <add>Lee</add> could be brought back from<lb/>
+Havana in 1898-</item>
+<item># 15 see # 13 above</item>
+<item># 16. see carbon copy-</item>
+<item># 17 see " "</item>
+<item># 18 Reed came to Cuba first on March 10, 1900 to look into a<lb/>
+patented process to make a disinfecting fluid out of sea-water called<lb/>
+electrozone- The engineer officer, Major Black, who had charge of<lb/>
+engineer operations in Havana was buying it to sprinkle streets<lb/>
+disinfect cesspools etc. Reed decided that a solution of <unclear>bleaching</unclear><lb/>
+powder would have been cheaper- He went back before the<lb/>
+<del>He was sent</del><lb/>
+end of the month.</item>
+<pb n="6" id="f06301036"/>
+<item>F. Y. Episode</item>
+<item>Page 6-</item>
+<item># 18 continued-</item>
+<item>Reed came back to Cuba about May 1<hi rend="superscript">st</hi> <add>1900</add> to investigate an<lb/>
+outbreak of fever in Eastern Cuba at Camaguey- He reported<lb/>
+that it was typhoid- His third visit was in June with the<lb/>
+Yellow Fever Board (June 25). He returned to U. S. about<lb/>
+August 2<hi rend="superscript">nd</hi> 1900. Returned to Cuba Oct. 3. to Havana Oct. 4, 1900-<lb/>
+Back to U. S. Oct. 13- Returned to Cuba Oct- 28- 1900- Finally return-<lb/>
+ed to Washington Feb- 9<hi rend="superscript">th</hi> or 10<hi rend="superscript">th</hi>, 1901- Died in Washington Nov. 23, 1902</item>
+<item># 19- The trip to the Philippines was given up- why I do not<lb/>
+know- Reed was a very poor sailor &amp; always sea-sick as long<lb/>
+as he was afloat- I imagine he was not Keen about going-</item>
+<item># 20- Lazear kept track of the y. f. cases and I think Reed<lb/>
+got his data from him- My record in my diary was a casual<lb/>
+one for my own information and not intended to be a complete<lb/>
+official record- The isolation wards were across the <add>R. R. to Playa</add> track<lb/>
+where the Cubans think Camp Lazear was - where Lazear died<lb/>
+and I, &amp; other cases, were treated-</item>
+<item>#21- Yes the first five seem from the record to have lived at<lb/>
+20 Gen. Lee Street- The name of <hi><unclear>6</unclear></hi> was <unclear>Ocain</unclear>- He was a teamster<lb/>
+and therefore presumably a hired employe' of the O. M. Dept., not<lb/>
+an enlisted soldier, I dont know where he lived. It was Hambur-<lb/>
+ger who lived at 102 Real St. I dont know where Corp. Walker Co. H<lb/>
+7<hi rend="superscript">th</hi> Cav lived or the civilian teamster Hoagland- Of course<lb/>
+as you know Major Edmunds lived where I formerly lived<lb/>
+at 27 Gen Lee St. Mrs. Fenn was I think an old woman who<lb/>
+lived across Gen. Lee St from 27 but I am not sure, if so<lb/>
+She was not connected with the Army - but I note that Dr.<lb/>
+Angle's speaks of a Mrs. Muller who had a case across<lb/>
+the street from the &ldquo;where Dr Kean and his wife suffered a<lb/>
+<pb n="7" id="f06301037"/>
+F. Y. Episode<lb/>
+Page 7-<lb/>
+case of yellow fever&rdquo;- Angle's has confused us with the case<lb/>
+of Major Edmunds and his wife- I was living at the Hdqrs<lb/>
+on Calzada Real when I was attacked and Mrs Kean was in<lb/>
+New Jersey- I am afraid I cannot help you out in tracing the<lb/>
+progress of the infection- The entry in my diary is casual &amp;<lb/>
+not the official record which was kept by the medical officer<lb/>
+who attended the cases- Dr Peter C. Field was the attending Surgeon<lb/>
+at Hdqrs but he was absent on leave in the U. S. at that<lb/>
+time and I think probably Lazear was doing the work.</item>
+<item># 22 Carter H. C. was plainly an error- It was Henry Rose Carter<lb/>
+I have no objection to your <unclear>mentioning</unclear> my visit to Edmund's<lb/>
+house, if you make it clear that I did not go <hi>into</hi> the house but<lb/>
+sat on the porch and talked to the nurse through the large window<lb/>
+which came down to the floor- So I obeyed the letter but not<lb/>
+the spirit of the order and, as there were only iron bars but no <unclear>s'ash</unclear><lb/>
+in the window, it was easy for the agents of infection to come and<lb/>
+go-</item>
+<item># 23- No I have no recollection of what conversation occurred<lb/>
+between Reed &amp; myself, only the fact of his coming and my<lb/>
+being glad to see him- I do not recollect anything very<lb/>
+distinctly <add>about</add> the occurrences of the first three or four days<lb/>
+Captain Hepburn was in the same tent with me, He was<lb/>
+a Signal Corps Officer and a hard drinker, so the doctors<lb/>
+shook their heads over him- My only alarming symp-<lb/>
+tom as I recollect was bleeding gums for a day or two<lb/>
+I was in one of the tents of the isolation ward across<lb/>
+the Railroad from the Hospital- All of the yellow<lb/>
+fever cases were treated there-</item>
+<pb n="8" id="f06301038"/>
+<item>Y. F. Episode</item>
+<item>Page 8</item>
+<item># 24- I lived at Columbia Bks after Gen Lee left and the<lb/>
+Military Dept. of Havana &amp; Pinar del Rio was given up &amp; all<lb/>
+Cuba made one Military Department under Gen. Leonard Wood-<lb/>
+I then became the surgeon at Columbia Bks. <add>March. 8, 1901</add> &amp; lived at the Hospital<lb/>
+until May 24<hi rend="superscript">th</hi> 1901 when I was relieved from duty at Columbia<lb/>
+Bks and ordered to duty on General Wood's staff as Jif&eacute;<lb/>
+de Beneficencia - i. e. in charge of all the Cuban hospitals,<lb/>
+leper hospitals, insane asylum &amp; orphan asylums in<lb/>
+Cuba- Gen Wood then had a nice little cottage built for<lb/>
+me at the upper (north end) of the row of officers quar-<lb/>
+ters at Columbia Bks- I lived there until we established<lb/>
+the Cuban Republic and left for the U. S. May 20 1902-</item>
+<item># 25- My notation in my diary on Sept. 3<hi rend="superscript">rd</hi> 1900 is "Dr Carroll was<lb/>
+" taken with the fever Saturday 1<hi rend="superscript">st</hi> or perhaps Friday Aug 31<hi rend="superscript">st</hi><lb/>
+" and is in a dangerous condition today- Sept. 7<hi rend="superscript">th</hi> Dr Carroll<lb/>
+&ldquo;is much better and nearly out of danger&rdquo; I understood<lb/>
+that Carroll was entirely skeptical about the role of the<lb/>
+mosquito so much so that he did not observe quarantine<lb/>
+for a week after but went into Havana a day or two after<lb/>
+being bitten,<lb/>
+thus destroying much of the value of his case as an experi-<lb/>
+ment- Reed was very indignant when he learned this-<lb/>
+I do not remember how soon after Dean became sick. I<lb/>
+heard of it- Not as soon as Truby however as my duty<lb/>
+did not take me to the hospital</item>
+<item># 26- <hi>Now take note</hi> - Gen. Truby is mistaken that Reed<lb/>
+gave me any intimation that Lazear's infection was<lb/>
+an experimental one- I never heard this until Gen<lb/>
+Truby told me here in Washington only a few years ago-<lb/>
+when Reed had been in his grave 35 years or more-</item>
+<pb n="9" id="f06301039"/>
+<item>Y. F. Episode</item>
+<item>Page 9.</item>
+<item># 27 I put the pencil question <del>mark</del> mark at the<lb/>
+end of the sentence &ldquo;This probably caused his death&rdquo;<lb/>
+many years later, when I was reading it over-<lb/>
+probably after Truby told me of his belief-</item>
+<item># 28- I do not thing I can amplify the interview<lb/>
+that Reed &amp; I had with Gen. Wood more or better<lb/>
+than I did in my address on the dedication of his<lb/>
+birthplace which I sent you to read- If you would like<lb/>
+to see it again I can send it.</item>
+<item># 29- I do not see any reason why not- It was more<lb/>
+that 40 years ago-</item>
+<item><p># 30 I dont know- It may have been that he said on the 7<lb/>
+&amp; arrived on the 10<hi rend="superscript">th</hi> or it may have been that he left<lb/>
+between those dates-</p>
+<p>When I met Moran in Charlottesville it was in the<lb/>
+dining room with a big crowd &amp; many introductions<lb/>
+so I did not have any opportunity to discuss details<lb/>
+of your visit but he spoke of you in terms of admiration-</p>
+<p>I have no doubt that you have found the building<lb/>
+no. 1. but I have my doubts if you can arouse any real<lb/>
+interest in making a memorial there, or if it would be<lb/>
+worth the hard work and expenditure of zeal to make<lb/>
+the effort- Such tremendous things are going on in the<lb/>
+world now, that sentimental considerations of no practical<lb/>
+importance will not appeal to people- Your very care-<lb/>
+ful and thorough sifting of all the facts about the<lb/>
+episode itself is another matter- that is history<lb/>
+and is of great importance and value- I will talk<lb/>
+over this with General Ireland and get his reaction-</p>
+<pb n="10" id="f06301040"/>
+<p>Y. F. Episode</p>
+<p>Page 10</p>
+<p>He is a great man with a heart of gold, and is more<lb/>
+of a realist than I am, so his opinion will be great<lb/>
+value if any question arises as to whether we should<lb/>
+open up the frictions and jealousies of Reed's assistants-<lb/>
+It may be that you can placate the jealousies of our<lb/>
+Cuban friends also- It distresses me to have a good<lb/>
+fellow like Angle's talk so foolishly and remember so<lb/>
+inaccurately-</p>
+<p>For convenience of reference I have marked the paragraphs<lb/>
+on page 4 &amp; 5 - of your letter, after the 30 questions with<lb/>
+&para; marks continuing the number so as not to confuse<lb/>
+the two-</p></item>
+<item>&para; 33 The date of the attack in La Lucha should be<lb/>
+fixed approximately by the date of the entry in my<lb/>
+diary which is Nov. 23. 1900 - the day after Kissinger<lb/>
+was bitten- I should think it should be certainly<lb/>
+in the issues of the preceding two weeks- But is<lb/>
+it worth the trouble to hunt up this foolish article<lb/>
+when you know what the result was- It brought<lb/>
+everything into the open &amp; saved a lot of trouble in<lb/>
+efforts to keep things quiet.</item>
+<item>&para; 34 No I have never seen Hemmeter's article in James-<lb/>
+Is James a medical Journal? If so its files would be<lb/>
+in the Army Medical Library- As to Carroll's being<lb/>
+proud of my putting my hand on the back of his chair<lb/>
+of which I have of course no recollection, you do not realize<lb/>
+the immense social gulf that there was in the old<lb/>
+Army between an enlisted man and an officer<lb/>
+<pb n="11" id="f06301041"/>
+Y. F. Episode<lb/>
+Page 11<lb/>
+and that until not long before this he had been for<lb/>
+years an enlisted man who would never be invited<lb/>
+to any social gathering in an officer's house and would<lb/>
+not even sit down if he came on business- And<lb/>
+Carroll was an Englishman of the laboring class to begin with-<lb/>
+It was'nt that I was such an exalted personage, but<lb/>
+that he was being treated as an equal by a commissioned<lb/>
+Mrs. Carroll<lb/>
+officer that he was boasting of. I have my doubts if she<lb/>
+ever was invited to dinner in an officer's family-<lb/>
+The Army before the World War and especially before<lb/>
+the Spanish War was a real feudal institution, as<lb/>
+the British Navy, &amp; to a less extent our Navy is now-</item>
+<item>&para; 35- I do not recollect but I imagine that it wasnt<lb/>
+convenient for me to go to Havana and I asked<lb/>
+him to cash the check. The watch &amp; chain was for<lb/>
+Kissenger- He had declined the bonus of $2.00<hi rend="superscript">00</hi> as<lb/>
+Moran did and I suppose his comrades told him<lb/>
+what a fool he was- Meanwhile I had taken part of<lb/>
+his money &amp; ordered the watch &amp; chain to be presented<lb/>
+to him by the Division Chief Surgeon who also made<lb/>
+him a corporal- Then he afterward came to me &amp;<lb/>
+asked if the watch &amp; chain<unclear>.</unclear> cost all of $200<hi rend="superscript">00</hi><lb/>
+I told him no, that there was about $70<hi rend="superscript">00</hi> left.<lb/>
+So he asked if he could have the balance- I said<lb/>
+Yes and gave it to him- That shows the difference<lb/>
+between Kissinger and Moran - who never accepted<lb/>
+a penny of it-</item>
+<item>&para; 36- I dont know anything about this-</item>
+<pb n="12" id="f06301042"/>
+<item>Y. F. Episode</item>
+<item>Page 12 -</item>
+<item><p>&para; 37- My diary shows that he <add>Lazear</add> died at 8 P.M. Sept. 25-</p>
+<p>I dont know how these errors crept in-</p>
+<p>As to errors in dates I notice that Howard Kelly in<lb/>
+his Life of Walter Reed gives his death as Nov. <hi>22</hi>, 1902<lb/>
+but my diary shows that he died at 2.05 a.m. on the<lb/>
+morning of the 23<hi rend="superscript">rd</hi>- The news spread <add>in</add> the morning that he died<lb/>
+&ldquo;last night&rdquo; but it was after midnight-</p></item>
+<item>&para; 38- If you were <add>here</add> with your energy we would do it<lb/>
+today, or tomorrow.</item>
+<item><hi>&para; 39</hi> I will do it before the week is out- as far as Dr Angle's<lb/>
+is concerned- P. S. I wrote Angle's Jan 30<hi rend="superscript">th</hi>-</item>
+<item><p>&para; 40. By doing a little everyday you see I have answer-<lb/>
+ed pretty nearly all your questions-</p>
+<p>So I think I will got off the box. I will write<lb/>
+again after Gen. Truby sends me the carbon of<lb/>
+his reply to your answer-</p>
+<p>I have a letter from Mr Harry Clemons Librarian Univ<lb/>
+Va. in which he says that you have sent him a<lb/>
+copy of <hi>The Mile Post</hi> and he has filed in with<lb/>
+&ldquo;Walter Reed and Yellow Fever&rdquo;</p></item>
+</list></p>
+<p>With best wishes for the New Year</p>
+<closer>
+<salute>Sincerely Yours</salute>
+<signed>J. R. Kean</signed>.
+Hon Elihu Root, Sec'y of War in 1900 spoke in fine terms<lb/>
+of Lazear and the work of the Board in his annual<lb/>
+report to Congress <hi>of Dec. 1<hi rend="superscript">st</hi> 1900</hi>- It was in this report<lb/>
+that he recommended Reed to be made a Colonel by<lb/>
+a special provision of the Army Appropriation Bill-<lb/>
+Reed died before it appeared in print- I knew of it and<lb/>
+told Reed of it when he was dying- His reply was &ldquo;I do not<lb/>
+care for that now-&rdquo;<lb/>
+<pb n="13" id="f06301043"/>
+Y. F. Episode <hi>P. S.</hi><lb/>
+13<lb/>
+Feb 1<hi rend="superscript">st</hi> 1941<lb/>
+Dear Dr. Hench: Your little bond box is packed and<lb/>
+should have gone yesterday but an accumulation of<lb/>
+small matter which could not wait prevented-<lb/>
+I hope that this collection of detached statements will<lb/>
+help in your patient, persistent search for a true picture.<lb/>
+I was thinking it over while I was dressing this morning.<lb/>
+I agree with General Wood's statement on page 48 of<lb/>
+Senate Doc. 822, that Reed's &ldquo;was the originating, directing and<lb/>
+controlling mind in this work, and the others were assis-<lb/>
+tants <add>only.&rdquo;</add> Prof. Welch agrees with this. (same page) and<lb/>
+states that he was &ldquo;<hi>in a position to know</hi>&rdquo;- But the<lb/>
+contributions of the assistants varied greatly in value<lb/>
+and as far as the mosquito work is concerned Lazear<lb/>
+was the only one to contribute materially to the solution<lb/>
+of the problem- Dr. H. R. Carter had made the observations<lb/>
+at Orwood and Taylor, Miss. in 1898 that it took two weeks<lb/>
+to infect a house but less that one to infect a man - or as<lb/>
+Reed expressed it, that was the difference between the<lb/>
+incubation of a primary &amp; a secondary case - but Carter,<lb/>
+clever as he was, could not tell the reason- Lazear whose<lb/>
+trained scientific mind realized the importance of every<lb/>
+detail, made such careful minute records of his operations<lb/>
+that when Reed studied them, he saw like a flash of<lb/>
+light the reason for the failure of the first series of<lb/>
+cases: that the period of what was afterwards called<lb/>
+(I think by Carter) extrinsic incubation had to be fulfilled<lb/>
+before the mosquito because potent for infection-<lb/>
+The lack of this crucial fact explains the failure of Dr.<lb/>
+(over)<lb/>
+<pb n="14" id="f06301044"/>
+<del>15</del> 14.<lb/>
+Finlay's long continued and very intelligent efforts to<lb/>
+produce experimental cases - altho his son tries hard<lb/>
+in his book to make us believe (us he undoubtedly does)<lb/>
+that he did produce a few with erratic periods of incuba-<lb/>
+tion and non-typical symptoms- Just how near Lazear<lb/>
+came to divining the fact of extrinsic incubation I do not<lb/>
+know and we may never know, useless his little notebook<lb/>
+should happily reappear- But it is clear to me that<lb/>
+if Carroll and Agramonte had both died of yellow<lb/>
+fever on the same day with Lazear the problem would<lb/>
+still have been solved just the same- Carroll did<lb/>
+some experiments in infections with filtered blood in the<lb/>
+autumn of 1901, but they added nothing to the Eleven<lb/>
+immortal Conclusions which Reed announced to the<lb/>
+Pan American Med. Congress in Habana Feb. 4, 1901,<lb/>
+which as Dr. F. F. Russell said recently have never<lb/>
+been changed or amended to this day - see Senate Docp. 87<lb/>
+Now Agramonte did as I understend contribute<lb/>
+greatly to the first work of the Board, the wiping off<lb/>
+the slate of the Sanarelli B. icteroides which was a<lb/>
+necessary first step as it had been accepted by<lb/>
+the French Academy of Medicine- And he tried to infect<lb/>
+all the common laboratory animals without success*- He<lb/>
+even persuaded Se&ntilde;ora Abren to let him take her<lb/>
+pet chipanzee &ldquo;Chimpa&rdquo; to the bed side and gave him<lb/>
+a blood injection from a yellow fever patient- If Naguchi<lb/>
+had studied the records of the Reed Board he would not have<lb/>
+gone off on the false trail, which damaged his reputation<lb/>
+as a scientist and probably cost him his life- I always<lb/>
+said he was wrong-<lb/>
+* It is curious how the names of Army Medical Officers run like red threads thru the history of yellow<lb/>
+fever and malaria It was an Army Med Officer who had gone with F. F. Russell to the Rockefeller Foundation<lb/>
+who discovered later that Asiatic Monkeys were the only animals susceptible to yellow fever Beueewkes was his<lb/>
+name-<lb/>
+white mice can be infected by injection into the brain-<lb/>
+<pb n="15" id="f06301045"/>
+Y. F. Episode<lb/>
+Page <del>14</del> - <hi>15</hi><lb/>
+Between Carroll and Agramonte I would believe Agramonte<lb/>
+every time- But I must confess that I never did believe<lb/>
+A. s account of the incident of Dean's infection and the<lb/>
+conversation leading up to it- I have only my general<lb/>
+impression recieved at the time of the circumstances and<lb/>
+can offer nothing in rebuttal: but there is an unreality<lb/>
+about it, just as there is an improbability about the<lb/>
+generally accepted account of Lazear letting himself<lb/>
+be bitten in the ward by a mosquito, whose previous life<lb/>
+he did not know- But Agramonte was a real man,<lb/>
+and Carroll had a yellow streak in him as broad as<lb/>
+your hand (Reed had made for him the opportunity<lb/>
+to study medicine) and attain, what his lower middle class<lb/>
+English soul valued so much, to mix on terms of equality<lb/>
+with &ldquo;Officers and gentlemen&rdquo;- Yet he had no more loyalty<lb/>
+to Reed than an alley cat- And his feeling for Lazear<lb/>
+was one of bitterness- When he found that mosquito really<lb/>
+could infect, he complained that Lazear put the whole<lb/>
+bunch on him but only put one on himself-<lb/>
+But we of the Medical Corps who had some inside<lb/>
+knowledge have not undertaken to answer the Hemmeters<lb/>
+or make adjudications of credit but have left it to<lb/>
+distance-in-time to let the smaller men drop out of sight-<lb/>
+It was only when a man of the standing and reputation<lb/>
+of Burton K. Hendrick, backed by the name of Mrs. Gorgas<lb/>
+and sinning against light, undertook to filch some of Reeds<lb/>
+laurels for Gorgas, when the latter had received all the earthly<lb/>
+rewards and Reed none, I took my pen in hand at the request<lb/>
+of the Surgeon General (Ireland) and Mrs Reed and wrote the<lb/>
+review of the Life of Gorgas of which I sent you a copy in the box its first trip.<lb/>
+Sincerely yours<lb/>
+J. R. Kean<lb/>
+wrong, <hi>P.S</hi> H<lb/>
+<pb n="16" id="f06301046"/>
+Ac<lb/>
+K<lb/>
+<seg>
+Post Scripture: A resum&eacute;<lb/>
+I would like my good friend Truby to read <hi>this P. S.</hi><lb/>
+would you mind passing it on to him after you<lb/>
+have read it, &amp; copied it if you wish to do so-<lb/>
+K<lb/>
+</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

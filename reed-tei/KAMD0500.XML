@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0500">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Charles F. Mason to Jefferson Randolph Kean, February 18, 1907</title>
+<title type="gmd">[electronic resource]</title>
+<author>Mason, Charles F.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0500</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1907-02-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Carroll, James</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Berry, George P.</name>
+<name type="person">Howard, L. O.</name>
+<name type="person">Souchon, Edmond I.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">New Orleans (La.)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Laredo (Peru)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1907-02-18">February 18, 1907</date>
+<idno rend="suppress">KAMD0500</idno>
+<title>Letter from Charles F. Mason to Jefferson Randolph Kean, February 18, 1907</title>
+</bibl>
+</head>
+<p>Mason refutes the assertion that he used mosquitoes sent by Ames in his experiments, and that the mosquitoes Ames did send were worthless specimens. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1907-02-18">
+<head>Letter from Charles F. Mason to Jefferson Randolph Kean, February 18, 1907</head>
+<pb n="1" id="fKAMD0500"/>
+<opener>
+COPY<lb/>
+WAR DEPARTMENT,<lb/>
+OFFICE OF THE SURGEON GENERAL,<lb/>
+WASHINGTON.<lb/>
+a<lb/>
+To Major J.R. Kean,<lb/>
+<dateline>
+<date value="1907-02-18">February 18, 1907.</date>
+</dateline><lb/>
+<salute>My dear Doctor:</salute>
+</opener>
+<p>Replying further to your letter of the fourteenth in-<lb/>
+stant, Assistant Surgeon Carroll states that &ldquo;Doctor Ames was<lb/>
+never the subject of any attempt at experimental innoculation by<lb/>
+the Army Yellow Fever Board. He was born and graduated in medi-<lb/>
+cine at New Orleans and the very fact, as stated by Dr. Berry,<lb/>
+that Doctor Ames was at that time regarded as a yellow fever ex-<lb/>
+pert and an immune would preclude the idea of using him for any<lb/>
+such purpose. The truth is that Doctor Ames was totally unaware<lb/>
+of the first mosquito innoculations until the results were being<lb/>
+compiled two months later, for publication.&rdquo; Doctor Ames was,<lb/>
+however, in charge of Camp Lazear, the experimental yellow fever<lb/>
+camp.</p>
+<p>On account of his experience with yellow fever Dr. Ames<lb/>
+was detailed for duty in Texas during the yellow fever outbreak<lb/>
+there in 1903; in 1905 when yellow fever occurred in New Orleans<lb/>
+he was in that city on leave, and upon his own urgent request was<lb/>
+detailed for duty at Jackson Barracks as assistant to the Surgeon,<lb/>
+Lieutenant William L. Little. In neither epidemic did the advice<lb/>
+not to remove the troops originate with Dr. Ames.</p>
+<p>In 1903 the Acting Chief Surgeon of the Department of<lb/>
+Texas made the original recommendation, and in 1905, it was made<lb/>
+by the Acting Surgeon General of the Army.</p>
+<p>In regard to Dr. Berry's statement concerning the in-<lb/>
+<pb n="2" id="fKAMD0510"/>
+-2-<lb/>
+fected mosquito incident, Dr. Carroll says: &ldquo;The last sentence in<lb/>
+the fifth paragraph of Doctor Berry's letter clearly implies,<lb/>
+without saying so, that the mosquitoes collected by Dr. Ames were<lb/>
+used by me in showing that the so-called Myxococcidium stegomyia<lb/>
+was neither an animal parasite nor the parasite of yellow fever.<lb/>
+My results in this connection were embodied in a paper presented<lb/>
+at the meeting of the American Public Health Association in Wash-<lb/>
+ington, October 26th to 30th, 1903, and published in the Journal<lb/>
+of the American Medical Association, November 28, 1903. The rec-<lb/>
+ords of this laboratory show that the first lot of mosquitoes re-<lb/>
+ceived from Doctor Ames at Laredo arrived at this laboratory No-<lb/>
+vember 27, 1903; it is therefore absolutely impossible that they<lb/>
+could have been used for the purpose stated, indeed these insects<lb/>
+were not sectioned until some months later and were then found to<lb/>
+be worthless. The demonstration was actually made from infected<lb/>
+mosquitoes preserved chiefly by myself in Havana and from non-in-<lb/>
+fected mosquitoes raised from eggs in Washington, with others re-<lb/>
+ceived through Doctor O. L. Howard and Doctor Edmond Souchon, to<lb/>
+both of whom acknowledgements are made in my paper mentioned above.&rdquo;</p>
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>(Sgd) Chas. F. Mason,</signed>
+Major, Surgeon, U. S. Army.<lb/>
+VE<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

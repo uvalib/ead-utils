@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02082001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from William Crawford Gorgas to the Surgeon General, August 14, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Gorgas, William Crawford</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02082001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-08-14</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1900-08-14">August 14, 1900</date>
+<idno rend="suppress">02082001</idno>
+<title>Report from William Crawford Gorgas to the Surgeon General, August 14, 1900</title>
+</bibl>
+</head>
+<p>Gorgas details the yearly deaths caused by yellow fever in the month of July, and states that the sanitary conditions for July 1900 are better than any time in the past ten years. His report includes two charts of deaths in Havana: &ldquo;Deaths by Months for the Years 1890 to 1900&rdquo; and &ldquo;Arrivals and Departures of Passengers at Havana.&rdquo;</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1900-08-14">
+<head>Report from William Crawford Gorgas to the Surgeon General, August 14, 1900</head>
+<pb n="1" id="f02082001"/>
+<opener>
+Gorgas Report to S. G. Aug 14, 1900<lb/>
+Headquarters Division of Cuba.<lb/>
+OFFICE OF CHIEF <hi>SANITARY OFFICER</hi> OF HAVANA<lb/>
+<hi rend="italic">LA MAESTRANZA</hi><lb/>
+<hi rend="italic">CALLE DE CUBA</hi><lb/>
+<hi rend="italic">ENTRE <hi>CUARTELES <unclear>Y</unclear></hi> CHACON</hi>.<lb/>
+<dateline>
+Havana, Cuba <date value="1900-08-14">August 14th, 1900</date>
+</dateline><lb/>
+To the<lb/>
+Surgeon General, U.S.A.,<lb/>
+Washington, D.C.<lb/>
+<salute>Dear General:-</salute>
+</opener>
+<p>I desire to call your attention to certain points<lb/>
+in the report for the month of July. You will see that the total<lb/>
+number of deaths for the month is 518. The deaths for July for the<lb/>
+past ten years have been as follows:</p>
+<p>
+<table rows="5" cols="4">
+<row>
+<cell>1890</cell><cell>891</cell><cell>1895</cell><cell>685</cell>
+</row>
+<row>
+<cell>1891</cell><cell>738</cell><cell>1896</cell><cell>1098</cell>
+</row>
+<row>
+<cell>1892</cell><cell>577</cell><cell>1897</cell><cell>1269</cell>
+</row>
+<row>
+<cell>1893</cell><cell>701</cell><cell>1898</cell><cell>1532</cell>
+</row>
+<row>
+<cell>1894</cell><cell>736</cell><cell>1899</cell><cell>680</cell>
+</row>
+</table>
+</p>
+<p>This month is considerably lower than the lowest,<lb/>
+that of 1892, and is very much lower than that of the same month of<lb/>
+last year.</p>
+<p>We had thirty deaths from yellow fever this month; a con-<lb/>
+siderably larger number than we had for the same month of last<lb/>
+year,; but below the average for normal years. Taking the years from<lb/>
+1885 to 1895, I take these as normal years, not being effected by<lb/>
+war or any other unusual circumstance, and it gives us an average fo<lb/>
+July of 34 deaths from yellow fever. The greatest item in yellow<lb/>
+fever is, I think, the number of non-immunes present; and this, in<lb/>
+Havana, is effected principally by the Spanish immigration. The<lb/>
+following is the number of immigrants per year from 1885vto 1889:</p>
+<p>
+<table rows="5" cols="2">
+<row>
+<cell>1885</cell><cell>5498</cell>
+</row>
+<row>
+<cell>1886</cell><cell>9195</cell>
+</row>
+<row>
+<cell>1887</cell><cell>8593</cell>
+</row>
+<row>
+<cell>1888</cell><cell>8980</cell>
+</row>
+<row>
+<cell>1889</cell><cell>8707</cell>
+</row>
+</table>
+</p>
+<pb n="2" id="f02082002"/>
+<p>Headquarters Division of Cuba.<lb/>
+OFFICE OF CHIEF <hi>SANITARY OFFICER</hi> OF HAVANA<lb/>
+LA MAESTRANZA<lb/>
+CALLE DE CUBA<lb/>
+ENTRE <hi>CUARTELES</hi> <unclear>Y</unclear> CHACON<lb/>
+<hi rend="italic">Havana, Cuba</hi><lb/>
+<hi rend="italic">1900</hi></p>
+<p>-2-</p>
+<p>This is an average ofaabout 8000 per year. From July, 1899<lb/>
+to July 1900, there was 25,000 immigrants, three times as many as<lb/>
+the average for the above years. Thus it appears, that although<lb/>
+at present we have three times the normal non-immune population for<lb/>
+July, we have less than one-third the normal death rate for that<lb/>
+month from yellow fever. From these figures we can deduce the fact<lb/>
+that the normal death rate for non-immunes for July from yellow<lb/>
+fever is 4.2 persons per 1000, which carried out for a year would<lb/>
+give 50 deaths per 1000. We had this year a death rate for July<lb/>
+from yellow fever of 1.2 persons per 1000, which would give us a<lb/>
+death rate of 14 per 1000 for a year.</p>
+<p>I think that these figures will show that the general<lb/>
+sanitary condition of Havana is better than it has been at any time<lb/>
+within the past ten years, and that the number of yellow fever cases<lb/>
+is greatly below what we could ordinarly expect. The general mortal-<lb/>
+ity is the best measure of the sanitary condition, and infectious<lb/>
+diseases like yellow fever are effected largely by other circum-<lb/>
+stances; in this case almost entirely by the number of non-immunes<lb/>
+present.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>W.C. Gorgas.</signed>
+Major and Surgeon U.S.A.,<lb/>
+Chief Sanitary Officer.<lb/>
+3177<lb/>
+</closer>
+</div1>
+<div1 type="document" n="1900-08-14">
+<head>Chart: Deaths by Months for the Years 1890 to 1900</head>
+<pb n="3" id="f02082003"/>
+<p>Exhibit I.</p>
+<p>CORRECTED CONSOLIDATED RECORD OF DEATHS BY<lb/>
+MONTHS FOR THE YEARS 1890 TO 1900. FOR THE CITY OF<lb/>
+HAVANA INCLUDING PUENTES GRANDES. FIGURES IN RED ARE<lb/>
+YELLOW FEVER.</p>
+<p>
+<table rows="14" cols="12">
+<row><cell>YEARS.</cell><cell>1890</cell><cell>1891</cell><cell>1892</cell><cell>1893</cell><cell>1894</cell><cell>1895</cell><cell>1896</cell><cell>1897</cell><cell>1898</cell><cell>1899</cell><cell>1900</cell></row>
+<row><cell cols="1-12">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</cell></row>
+<row><cell>January</cell><cell>486<hi rend="superscript">10</hi></cell><cell>620<hi rend="superscript">10</hi></cell><cell>634<hi rend="superscript">15</hi></cell><cell>594<hi rend="superscript">15</hi></cell><cell>505<hi rend="superscript">7</hi></cell><cell>636<hi rend="superscript">15</hi></cell><cell>547<hi rend="superscript">10</hi></cell><cell>1556<hi rend="superscript">69</hi></cell><cell>1785<hi rend="superscript">7</hi></cell><cell>1262<hi rend="superscript">1</hi></cell><cell>498<hi rend="superscript">3</hi></cell></row>
+<row><cell>February</cell><cell>464<hi rend="superscript">4</hi></cell><cell>528<hi rend="superscript">3</hi></cell><cell>545<hi rend="superscript">10</hi></cell><cell>446<hi rend="superscript">6</hi></cell><cell>483<hi rend="superscript">4</hi></cell><cell>548<hi rend="superscript">4</hi></cell><cell>589<hi rend="superscript">7</hi></cell><cell>1414<hi rend="superscript">24</hi></cell><cell>1602<hi rend="superscript">1</hi></cell><cell>843<hi rend="superscript">0</hi></cell><cell>491<hi rend="superscript">9</hi></cell></row>
+<row><cell>March</cell><cell>562<hi rend="superscript">4</hi></cell><cell>556<hi rend="superscript">4</hi></cell><cell>557<hi rend="superscript">1</hi></cell><cell>503<hi rend="superscript">4</hi></cell><cell>548<hi rend="superscript">2</hi></cell><cell>533<hi rend="superscript">2</hi></cell><cell>686<hi rend="superscript">3</hi></cell><cell>1408<hi rend="superscript">30</hi></cell><cell>1519<hi rend="superscript">2</hi></cell><cell>811<hi rend="superscript">1</hi></cell><cell>605<hi rend="superscript">4</hi></cell></row>
+<row><cell>April</cell><cell>542<hi rend="superscript">13</hi></cell><cell>618<hi rend="superscript">5</hi></cell><cell>591<hi rend="superscript">3</hi></cell><cell>534<hi rend="superscript">8</hi></cell><cell>505<hi rend="superscript">4</hi></cell><cell>622<hi rend="superscript">6</hi></cell><cell>732<hi rend="superscript">14</hi></cell><cell>1120<hi rend="superscript">71</hi></cell><cell>1399<hi rend="superscript">1</hi></cell><cell>648<hi rend="superscript">2</hi></cell><cell>482<hi rend="superscript">0</hi></cell></row>
+<row><cell>May</cell><cell>699<hi rend="superscript">23</hi></cell><cell>592<hi rend="superscript">7</hi></cell><cell>639<hi rend="superscript">7</hi></cell><cell>585<hi rend="superscript">23</hi></cell><cell>576<hi rend="superscript">16</hi></cell><cell>627<hi rend="superscript">10</hi></cell><cell>826<hi rend="superscript">27</hi></cell><cell>1073<hi rend="superscript">88</hi></cell><cell>1369<hi rend="superscript">4</hi></cell><cell>635<hi rend="superscript">0</hi></cell><cell>473<hi rend="superscript">2</hi></cell></row>
+<row><cell>June</cell><cell>838<hi rend="superscript">38</hi></cell><cell>607<hi rend="superscript">41</hi></cell><cell>622<hi rend="superscript">13</hi></cell><cell>635<hi rend="superscript">69</hi></cell><cell>595<hi rend="superscript">31</hi></cell><cell>562<hi rend="superscript">16</hi></cell><cell>899<hi rend="superscript">46</hi></cell><cell>1125<hi rend="superscript">174</hi></cell><cell>1253<hi rend="superscript">3</hi></cell><cell>639<hi rend="superscript">1</hi></cell><cell>521<hi rend="superscript">8</hi></cell></row>
+<row><cell>July</cell><cell>891<hi rend="superscript">67</hi></cell><cell>738<hi rend="superscript">66</hi></cell><cell>577<hi rend="superscript">27</hi></cell><cell>701<hi rend="superscript">113</hi></cell><cell>736<hi rend="superscript">77</hi></cell><cell>685<hi rend="superscript">88</hi></cell><cell>1098<hi rend="superscript">116</hi></cell><cell>1269<hi rend="superscript">168</hi></cell><cell>1532<hi rend="superscript">16</hi></cell><cell>680<hi rend="superscript">2</hi></cell><cell>518<hi rend="superscript">30</hi></cell></row>
+<row><cell>August</cell><cell>660<hi rend="superscript">60</hi></cell><cell>612<hi rend="superscript">66</hi></cell><cell>674<hi rend="superscript">67</hi></cell><cell>589<hi rend="superscript">100</hi></cell><cell>736<hi rend="superscript">73</hi></cell><cell>691<hi rend="superscript">120</hi></cell><cell>1273<hi rend="superscript">262</hi></cell><cell>1526<hi rend="superscript">102</hi></cell><cell>1978<hi rend="superscript">16</hi></cell><cell>620<hi rend="superscript"><unclear>13</unclear></hi></cell><cell>559<hi rend="superscript">49</hi></cell></row>
+<row><cell>September</cell><cell>637<hi rend="superscript">33</hi></cell><cell>553<hi rend="superscript">65</hi></cell><cell>578<hi rend="superscript">70</hi></cell><cell>549<hi rend="superscript">68</hi></cell><cell>583<hi rend="superscript">76</hi></cell><cell>730<hi rend="superscript">135</hi></cell><cell>1067<hi rend="superscript">166</hi></cell><cell>1543<hi rend="superscript">56</hi></cell><cell>2397<hi rend="superscript">34</hi></cell><cell>496<hi rend="superscript">18</hi></cell><cell>519<hi rend="superscript">52</hi></cell></row>
+<row><cell>October</cell><cell>712<hi rend="superscript">32</hi></cell><cell>549<hi rend="superscript">48</hi></cell><cell>572<hi rend="superscript">54</hi></cell><cell>538<hi rend="superscript">46</hi></cell><cell>545<hi rend="superscript"><unclear>40</unclear></hi></cell><cell>621<hi rend="superscript">102</hi></cell><cell>1212<hi rend="superscript">240</hi></cell><cell>2026<hi rend="superscript">42</hi></cell><cell>2491<hi rend="superscript">26</hi></cell><cell>495<hi rend="superscript">25</hi></cell><cell>507<hi rend="superscript">74</hi></cell></row>
+<row><cell>November</cell><cell>552<hi rend="superscript">15</hi></cell><cell>551<hi rend="superscript">24</hi></cell><cell>644<hi rend="superscript">52</hi></cell><cell>480<hi rend="superscript">28</hi></cell><cell>599<hi rend="superscript">23</hi></cell><cell>527<hi rend="superscript">35</hi></cell><cell>1410<hi rend="superscript">244</hi></cell><cell>2051<hi rend="superscript">26</hi></cell><cell>2054<hi rend="superscript">13</hi></cell><cell>493<hi rend="superscript">13</hi></cell></row>
+<row><cell>December</cell><cell>556<hi rend="superscript">9</hi></cell><cell>725<hi rend="superscript">17</hi></cell><cell>568<hi rend="superscript">33</hi></cell><cell>493<hi rend="superscript">11</hi></cell><cell>697<hi rend="superscript">29</hi></cell><cell>580<hi rend="superscript">20</hi></cell><cell>1423<hi rend="superscript">147</hi></cell><cell>1924<hi rend="superscript">8</hi></cell><cell>1873<hi rend="superscript">13</hi></cell><cell>534<hi rend="superscript">22</hi></cell></row>
+<row><cell></cell><cell cols="2-12">---------------------------------------------------------------------------------------------</cell></row>
+<row><cell>TOTAL:</cell><cell>7599<hi rend="superscript">308</hi></cell><cell>7249<hi rend="superscript">356</hi></cell><cell>7201<hi rend="superscript">357</hi></cell><cell>6647<hi rend="superscript">496</hi></cell><cell>7108<hi rend="superscript">382</hi></cell><cell>7362<hi rend="superscript">553</hi></cell><cell>11762<hi rend="superscript">1282</hi></cell><cell>18035<hi rend="superscript">858</hi></cell><cell>21252<hi rend="superscript">136</hi></cell><cell>8156<hi rend="superscript">103</hi></cell></row>
+</table>
+</p>
+</div1>
+<div1 type="document" n="1900-08-14">
+<head>Chart: Arrivals and Departures of Passengers at Havana</head>
+<pb n="4" id="f02082004"/>
+<p>Exhibit II</p>
+<p>January 1, 1899, to November 1, 1900.</p>
+<p>ARRIVALS AND DEPARTURES OF PASSENGERS DEATHS.<lb/>
+AT HAVANA.</p>
+<p>
+<table rows="31" cols="6">
+<row><cell>1899.</cell><cell>Arrivals</cell><cell>Departures</cell><cell>Immigrants</cell><cell>Yellow<lb/>Fever.</cell><cell>Total</cell></row>
+<row><cell>January</cell><cell>5,061</cell><cell>2,423</cell><cell>1</cell><cell>1,262</cell></row>
+<row><cell>February</cell><cell>4,995</cell><cell>3,027</cell><cell rows="2-4">Not sepa-<lb/>rately re-<lb/>ported for<lb/>this period</cell><cell>0</cell><cell>843</cell></row>
+<row><cell>March</cell><cell>4,349</cell><cell>6,530</cell><cell>1</cell><cell>811</cell></row>
+<row><cell>April</cell><cell>2,706</cell><cell>5,118</cell><cell></cell><cell>2</cell><cell>648</cell></row>
+<row><cell>May</cell><cell>2,790</cell><cell>4,451</cell><cell></cell><cell>0</cell><cell>635</cell></row>
+<row><cell>June</cell><cell>2,018</cell><cell>2,869</cell><cell></cell><cell>1</cell><cell>639</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>Total 6 Mos.</cell><cell>21,919</cell><cell>24,418</cell><cell></cell><cell>5</cell><cell>4,838</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>July</cell><cell>2,447</cell><cell>2,267</cell><cell>918</cell><cell>2</cell><cell>680</cell></row>
+<row><cell>August</cell><cell>3,577</cell><cell>2,673</cell><cell>1,145</cell><cell>13</cell><cell>620</cell></row>
+<row><cell>September</cell><cell>2,902</cell><cell>2,265</cell><cell>1,455</cell><cell>18</cell><cell>496</cell></row>
+<row><cell>October</cell><cell>3,845</cell><cell>1,355</cell><cell>2,384</cell><cell>25</cell><cell>495</cell></row>
+<row><cell>November</cell><cell>4,889</cell><cell>1,929</cell><cell>2,843</cell><cell>18</cell><cell>493</cell></row>
+<row><cell>December</cell><cell>6,553</cell><cell>2,323</cell><cell>3,635</cell><cell>22</cell><cell>534</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>Total 6 Mos.</cell><cell>24,213</cell><cell>12,812</cell><cell>12,380</cell><cell>98</cell><cell>3,318</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>Total year 1899</cell><cell>46,132</cell><cell>37,230</cell><cell></cell><cell>103</cell><cell>8,156</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>1900.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>January</cell><cell>3,466</cell><cell>2,411</cell><cell>1,713</cell><cell>8</cell><cell>498</cell></row>
+<row><cell>February</cell><cell>3,472</cell><cell>2,834</cell><cell>1,226</cell><cell>9</cell><cell>491</cell></row>
+<row><cell>March</cell><cell>3,899</cell><cell>3,660</cell><cell>2,081</cell><cell>4</cell><cell>605</cell></row>
+<row><cell>April</cell><cell>2,635</cell><cell>2,790</cell><cell>1,395</cell><cell>0</cell><cell>482</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>Total Dept. of<lb/>Havana.</cell><cell>59,604</cell><cell>48,925</cell><cell>18,795</cell><cell>124</cell><cell>10,232</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell></cell><cell cols="2-6"><hi>Department of Havana discontinued May 1, 1900</hi>.</cell></row>
+<row><cell>May</cell><cell>2,496</cell><cell>2,405</cell><cell>1,208</cell><cell>2</cell><cell>473</cell></row>
+<row><cell>June</cell><cell>2,052</cell><cell>2,476</cell><cell>1,104</cell><cell>8</cell><cell>521</cell></row>
+<row><cell>July</cell><cell>1,736</cell><cell>2,087</cell><cell>1,038</cell><cell>30</cell><cell>518</cell></row>
+<row><cell>August</cell><cell>1,960</cell><cell>1,609</cell><cell>1,109</cell><cell>49</cell><cell>559</cell></row>
+<row><cell>September</cell><cell>1,873</cell><cell>1,187</cell><cell>1,069</cell><cell>52</cell><cell>519</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>Total 5 Mos.<lb/>May-Sept.</cell><cell>10,117</cell><cell>9,764</cell><cell>5,528</cell><cell>141</cell><cell>2,590</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>October</cell><cell>5,373</cell><cell>1,305</cell><cell>4,050</cell><cell>74</cell><cell>507</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+<row><cell>Total 6 Mos.<lb/>May-Oct.</cell><cell>15,490</cell><cell>11,069</cell><cell>9,578</cell><cell>215</cell><cell>3,097</cell></row>
+<row><cell cols="1-6">----------------------------------------------------------------------------------</cell></row>
+</table>
+</p>
+<p>&ldquo;Arrivals&rdquo; include immigrants, but are exclusive of movements of<lb/>
+troops and Army transports. &ldquo;Deaths&rdquo; include all classes.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

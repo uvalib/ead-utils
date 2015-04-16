@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0311001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Wade Hampton Frost to Laura Armistead Carter, September 9, 1926</title>
+<title type="gmd">[electronic resource]</title>
+<author>Frost, Wade Hampton</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0311001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1926-09-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Laura Armistead</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Russell, Frederick F.</name>
+<name type="person">Connor, Michael E.</name>
+<name type="person">Thayer, William S.</name>
+<name type="person">Hanson, Henry</name>
+<name type="person">Welch, William H.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Frost, Susan H.</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Panama</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>7 pp.</extent>
+<date value="1926-09-09">September 9, 1926</date>
+<idno rend="suppress">C0311001</idno>
+<title>Letter from Wade Hampton Frost to Laura Armistead Carter, September 9, 1926</title>
+</bibl>
+</head>
+<p>Frost offers comments on the inadequacy of the International Health Board Bulletin's published memorial to Henry Rose Carter, and encloses a letter from Frederick F. Russell in which Frost is asked to make additions and corrections to the printed memorial.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1926-09-09">
+<head>Letter from Wade Hampton Frost to Laura Armistead Carter, September 9, 1926</head>
+<pb n="1" id="fC0311001"/>
+<opener>
+THE JOHNS HOPKINS UNIVERSITY<lb/>
+SCHOOL OF HYGIENE AND PUBLIC HEALTH<lb/>
+615 NORTH WOLFE STREET<lb/>
+DEPARTMENT OF EPIDEMIOLOGY<lb/>
+BALTIMORE, MD.<lb/>
+<dateline>
+<date value="1926-09-09">Sept. 9<hi rend="superscript">th</hi>, '26.</date>
+</dateline><lb/>
+<salute>My dear Miss Laura:</salute>
+</opener>
+<p>The enclosed <xref id="C0311007">letter</xref><lb/>
+from Col. Russell came to my office<lb/>
+a week or more ago, but - as I've been<lb/>
+<unclear>away</unclear> most of the time since then I've<lb/>
+had no chance, until now, to follow it up.</p>
+<p>Of course I shall be very happy to do<lb/>
+anything that. I may to help <unclear>make</unclear> the I. H. B.<lb/>
+memorial to your father more fitting. The<lb/>
+printed memorial (in the I. H. B. Bulletin of Oct, 1925)<lb/>
+seems to me, as it <unclear>surely must</unclear> seem<lb/>
+to you, to be <unclear>utterly lacking</unclear> in any real<lb/>
+appreciation of your father's <unclear>greatness</unclear> ex-<lb/>
+cept in the tributes quoted from Hanson,<lb/>
+Connor &amp; Thayer; and I want to do all of<lb/>
+<unclear>can</unclear> to <unclear><del>make</del></unclear><add><unclear>help</unclear></add> make the contemplated &ldquo;minute&rdquo;<lb/>
+more appropriate; and to this and I want,<lb/>
+<pb n="2" id="fC0311002"/>
+2<lb/>
+first of all any suggestions or material that<lb/>
+you may think appropriate. As I under-<lb/>
+stand it the minute will be written by<lb/>
+the Committee-presumably by Dr. Welch, &amp;<lb/>
+what is necessary is <unclear>merely</unclear> to furnish them<lb/>
+the material for it., I think, however, that<lb/>
+this should be not <unclear>merely</unclear> bare facts, but-<lb/>
+should include &ldquo;in large letters&rdquo; an appre-<lb/>
+ciation of the <unclear>enormous</unclear> importance of<lb/>
+your father's work &amp; of his greatness of<lb/>
+<unclear>intellect</unclear> &amp; soul.</p>
+<p>A few days ago, while in Washington, I<lb/>
+took occasion to get out of the Bureau files<lb/>
+&amp; to read your father's &ldquo;autobiography&rdquo;, which<lb/>
+not only gave a pretty complete record of<lb/>
+his Service duties but also gave me some<lb/>
+view of his own ideas as to the relative<lb/>
+importance of his various <unclear>work</unclear>. However,<lb/>
+this record was evidently written about 1912<lb/>
+or earlier, &amp; gives <unclear>an</unclear> account of his work<lb/>
+in recent years in the study &amp; control of<lb/>
+malaria in recent years--which, a you<lb/>
+will note, is very lightly touched in the<lb/>
+I. H. B. memorial.</p>
+<pb n="3" id="fC0311003"/>
+3<lb/>
+Without having formed any definite plan,<lb/>
+what I have in mind at present is;<lb/>
+I To emphasize much more the account of<lb/>
+his accomplishments in <add>solving</add> the epidemiology &amp;<lb/>
+control, first, of yellow fever and then of malaria.<lb/>
+To do this, I think the account given should:<lb/>
+(1) Explain more fully &amp; clearly the first reaction,<lb/>
+importance of the efforts which he began at<lb/>
+Ship Island in '88.  Not only did <add>it</add> lead to the<lb/>
+formulation of thoroughly rational &amp; at the<lb/>
+same time far less onerous quarantine practice<lb/>
+(which have made it possible ever since to<lb/>
+maintain free communication between endem-<lb/>
+ic areas &amp; our own infectible territory);  it<lb/>
+also very clearly led him into his real <hi rend="underline">study</hi><lb/>
+of yellow-fever, especially its incubation-per-<lb/>
+iod, which was the key to quarantine practice;<lb/>
+(2) To give a more graphic account of his dis-<lb/>
+covery of the extrinsic incubation period:  calling<lb/>
+attention to the remarkable observation &amp; clear<lb/>
+reasoning which it represented &amp; to its fun-<lb/>
+damental significance, which has been generally<lb/>
+overlooked only because the experimental<lb/>
+proof followed so close upon it's heels.<lb/>
+(3) To at least record the fact of his close<lb/>
+personal relations in Havana with Gorgas<lb/>
+&amp; also (I believe) with Reed.  To those who<lb/>
+<pb n="4" id="fC0311004"/>
+<p>4</p>
+<p>know Dr. Carter's reasoning powers <unclear>this </unclear><unclear>generosity</unclear><lb/>
+in <unclear>counsel</unclear> the inference is obvious.</p>
+<p>(4) To state clearly that in Panama he was not<lb/>
+only Director of Hospitals, but also intimately<lb/>
+associated both personaly &amp; officially with the<lb/>
+sanitary control, bring officialy second in com-<lb/>
+mand of the work &amp; <unclear>personally</unclear> Gorgas' chief adviser<lb/>
+&amp; friend.</p>
+<p>(5) To give a fuller &amp; better account of his work<lb/>
+after leaving Panama, i.e his work on malaria<lb/>
+in this country &amp; his work on yellow fever else-<lb/>
+where. For this I lack the necessary data, which<lb/>
+I hope you can supply.</p>
+<p>(6) To give a more informative &amp; appreciative ac-<lb/>
+count of his last work, in the history of yellow<lb/>
+fever, for which also I lack the facts.</p>
+<p>II. To make it clear that his achievement is<lb/>
+not to be measured by any objective account<lb/>
+of his own work, because he was altogether<lb/>
+<unclear>unmindful</unclear> of personal credit  <unclear>[unclear]</unclear> himself<lb/>
+<unclear>larger</unclear> in working for or through others.</p>
+<p>III. To picture a little more (- no one could<lb/>
+do it adequately) his personal qualities of<lb/>
+greatness - his insatiable scientific curiosity,<lb/>
+his store of knowledge &amp; precise analysis, his abso-<lb/>
+lutely impartial &amp; impersonal honesty of <unclear>intellect</unclear>,<lb/>
+<pb n="5" id="fC0311005"/>
+his generosity, his absolute devotion to duty,<lb/>
+his modesty, his enthusiasm, his courage &amp;<lb/>
+all the qualities which made him the rare<lb/>
+&amp; great man that he was.</p>
+<p>All this however, is merely by way of showing<lb/>
+you what is at present in my mind, and<lb/>
+that for no purpose but to get your<lb/>
+own ideas, for certainly you know him<lb/>
+better than anybody else &amp; what would best<lb/>
+serve the purpose would be to give them a<lb/>
+much as possible <unclear>of what</unclear> you know of your<lb/>
+father &amp; his work, &amp; that is, in fact, what<lb/>
+I want to do.</p>
+<p>I hope, from your letter to Susan, that we<lb/>
+will be seeing you soon, but in the mean<lb/>
+time I should like very much to hear from<lb/>
+you about this. Your ideas &amp; any facts<lb/>
+which you think <unclear>pertinent</unclear>.</p>
+<p>I am ashamed of myself for not having<lb/>
+written you <unclear>long</unclear> ago the letter that I prom-<lb/>
+ised but - somehow I just haven't been able<lb/>
+to do it. I think, before I can do it that I<lb/>
+need to talk to you again to get any mind<lb/>
+stirred out of its <unclear>habitual</unclear> torpor. Certainly I<lb/>
+have never forgotten my promise, but have<lb/>
+<pb n="6" id="fC0311006"/>
+only felt that until something stirred me to<lb/>
+it I could not possibly express what<lb/>
+I want to say.</p>
+<p>Susan sends love to you and I most<lb/>
+cordial regards, to which little Susan would<lb/>
+surely add some message if she were here;<lb/>
+&amp; we all look forward with most pleas-<lb/>
+ant anticipations to your long-deferred visit.<lb/>
+I hope your summer's rest -- if it has<lb/>
+been rest -- has done you much good<lb/>
+&amp; that you'll come back prepared to<lb/>
+enjoy work which I am sure is the<lb/>
+normal condition for your father's daughter.</p>
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Wade H. Frost.</signed>
+<seg>
+P.S. Have you a full bibliography of<lb/>
+your father's writings?  If so I should like<lb/>
+to have it to copy tho' I don't think it is<lb/>
+needed for the I.H.B.<lb/>
+<signed>W.H.F.</signed>
+</seg>
+</closer>
+</div1>
+<div1 type="letter" n="1926-08-30">
+<head>Letter from Frederick F. Russell to Wade Hampton Frost, August 30, 1926</head>
+<pb n="7" id="fC0311007"/>
+<opener>
+<hi>COPY</hi><lb/>
+INTERNATIONAL HEALTH BOARD<lb/>
+of<lb/>
+THE ROCKEFELLER FOUNDATION<lb/>
+61 Broadway, New York.<lb/>
+<dateline>
+<date value="1926-08-30">August 30, 1926.</date>
+</dateline>
+<salute>Dear Dr. Frost:</salute>
+</opener>
+<p>A committee of our directors, consisting of Dr. Welch,<lb/>
+Dr. Flexner and Dr. Edsall, was appointed to draft a minute with<lb/>
+reference to Dr. Henry Rose Carter to be presented at the next<lb/>
+meeting of the Board. We here in the office are preparing a<lb/>
+memorandum for the use of this committee on Dr. Carter's life.<lb/>
+We have already prepared one for publication in the International<lb/>
+Health Board Bulletin, and I am sending you a copy of this. You<lb/>
+would help us greatly if you would look this over and make such<lb/>
+additions and corrections as you think desirable.</p>
+<p>I am making this request of you because it has always<lb/>
+been my belief that you knew more about Dr. Carter than anyone<lb/>
+else of my acquaintance. We desire to have an accurate and<lb/>
+fitting minute for the records of our Board, and I am sure that<lb/>
+the Directors, as well as the officers, will appreciate any help<lb/>
+you can give us.</p>
+<p>I trust that you have had a pleasant vacation and that<lb/>
+your work this fall will go well.</p>
+<p>I might add that the meeting of the Board comes the<lb/>
+first week in November and that we would like to have all the<lb/>
+manuscript ready for the docket by the first of October. If<lb/>
+you could send us the data before that date, it would be greatly<lb/>
+appreciated.</p>
+<closer>
+<salute>Very sincerely yours,</salute>
+<signed>(Signed) F. F. Russell.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

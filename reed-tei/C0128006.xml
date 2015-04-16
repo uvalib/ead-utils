@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0128006">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Ronald Ross to Henry Rose Carter, May 30, 1914</title>
+<title type="gmd">[electronic resource] </title>
+<author>Ross, Ronald</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0128006</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1914-05-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Henry Rose</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="person">Watson, Malcolm</name>
+<name type="person">Thomson, David</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Panama</name>
+<name type="place">Hamburg (Germany)</name>
+<name type="place">Mobile (Ala.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1914-05-30">May 30, 1914</date>
+<idno rend="suppress">C0128006</idno>
+<title>Letter from Ronald Ross to Henry Rose Carter, May 30, 1914</title>
+</bibl>
+</head>
+<p>Ross discusses the opening of a Tropical School in Hamburg.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1914-05-30">
+<head>Letter from Ronald Ross to Henry Rose Carter, May 30, 1914</head>
+<pb n="1" id="fC0128006"/>
+<opener>
+FROM<lb/>
+SIR RONALD <hi rend="underline">ROSS</hi>, K.C.B., F.R.S.<lb/>
+TELEPHONE &amp; TELEGRAMS<lb/>
+6328 MAYFAIR.<lb/>
+18, CAVENDISH SQUARE,<lb/>
+LONDON, W.<lb/>
+<dateline>
+<date value="1914-05-30">30th May, 1914.</date>
+</dateline><lb/>
+Senior Surgeon H. R. Carter,<lb/>
+United States Public Health Service,<lb/>
+Mobile, Alabama.<lb/>
+<salute>My dear Dr. Carter.</salute>
+</opener>
+<p>It is a great pleasure to hear again from you and<lb/>
+also to receive your excellent article on Screening. I see<lb/>
+that it is full of practical notes, just as I would expect from<lb/>
+you.</p>
+<p>Both Dr. Malcolm Watson and Dr. David Thomson came<lb/>
+home full of Panama. We gave a dinner to Gorgas, and Oxford<lb/>
+made him a Doctor and we were all delighted with his visit. I<lb/>
+have just returned from the opening of the great new Tropical<lb/>
+School at Hamburg. It puts the Anglo-Saxon entirely into the<lb/>
+shade and our poor little tropical schools are now not worth<lb/>
+mentioning. I hope that you are very well. When I saw you<lb/>
+and when you last wrote to me, your health was not good and I<lb/>
+sincerely trust that it has now improved. Please accept compliments</p>
+<closer>
+<salute>Believe me,<lb/>
+Yours very sincerely,</salute>
+<signed>R. Ross</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

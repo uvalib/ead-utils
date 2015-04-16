@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03428001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from John H. Andrus to James H. Lewis, August 9, 1937</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Andrus, John H.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03428001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1937-08-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Lewis, James Hamilton</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Lambert Gustus E.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1937-08-09">August 9, 1937</date>
+<idno rend="suppress">03428001</idno>
+<title>Letter from John H. Andrus to James H. Lewis, August 9, 1937</title>
+</bibl>
+</head>
+<p>Andrus solicits advice on how to further the cause to recognize Lambert's role.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1937-08-09">
+<head>Letter from John H. Andrus to James H. Lewis, August 9, 1937</head>
+<pb n="1" id="f03428001"/>
+<opener>
+Andrus letter<lb/>
+FROM GUST <hi>LAMBERT</hi><lb/>
+<dateline>
+<date value="1937-08-09">8-9-37</date>
+</dateline>
+Hon. James Hamilton Lewis,<lb/>
+Senate Office Building,<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Senator:</salute>
+</opener>
+<p>I have a letter from Hon. J. Parnell Thomas in which he ad-<lb/>
+vises that your S 115 has been adversely reported by a sub-<lb/>
+committee to the whole committee on Military Affairs.</p>
+<p>As one of those who volunteered and was given yellow fever<lb/>
+in the course of the Walter Reed experiments, no one can know<lb/>
+better than I the importance of the part played by Gust E.<lb/>
+Lambert.</p>
+<p>I feel a deep sense of personal obligation to Lambert for<lb/>
+the extraordinary measures taken by him to assure and expedite<lb/>
+my recovery when I was his patient.</p>
+<p>That this man's services to his country have not been officially<lb/>
+recognized and rewarded is not a thing in which those who<lb/>
+know of his achievements can take pride.</p>
+<p>Can you suggest any action I may take which would assist<lb/>
+you in obtaining recognition for this man?</p>
+<p>Do you think that a petition-signed by all (or most) of<lb/>
+those who volunteered for yellow fever innoculation and who<lb/>
+survive-would be helpful?</p>
+<p>I am grateful for what you have done and hope you will con-<lb/>
+tinue your efforts in Lambert's behalf until your legislation<lb/>
+is enacted.</p>
+<closer>
+<salute>Sincerely,</salute>
+<signed>Andrus</signed>
+<seg>
+Postscript - Will you send me a copy of S115? - J.H.A.<lb/>
+</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

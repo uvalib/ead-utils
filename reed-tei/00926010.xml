@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00926010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from [Henry Rose Carter] to Charles W. Stiles, February 13, 1922</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Carter, Henry Rose</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00926010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1922-02-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Stiles, Charles Wardell</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Texas</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1922-02-13">February 13, 1922</date>
+<idno rend="suppress">00926010</idno>
+<title>Letter from [Henry Rose Carter] to Charles W. Stiles, February 13, 1922</title>
+</bibl>
+</head>
+<p>[Carter] asks Stiles if the cattle fever tick is becoming acclimated to colder climates.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1922-02-13">
+<head>Letter from [Henry Rose Carter] to Charles W. Stiles, February 13, 1922</head>
+<pb n="1" id="f00926010"/>
+<opener>
+I. H. B.<lb/>
+(Book) <unclear>Stiles</unclear><lb/>
+<dateline>
+2121 California St. N. W.<lb/>
+, D. C.<lb/>
+<date value="1922-02-13">February 13, 1922.</date>
+</dateline>
+/LC<lb/>
+Assistant Surgeon General Charles Wardell Stiles,<lb/>
+Hygienic Laboratory, U. S. Public Health Service,<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Doctor Stiles:</salute>
+</opener>
+<p>Years ago, in reading of the Texas cattle fever. I came across<lb/>
+a lot of data. which led the writer--Billings I think, but I am not<lb/>
+sure of that, to state that the disease was becoming permanently en-<lb/>
+demic further north than it had been <unclear>in previous</unclear> years.</p>
+<p>Do you know anything that would make you think that the vector<lb/>
+tick, with the unpronouncable name, has been able to acclimate it-<lb/>
+self to a greater degree of cold than it could endure--say--50 or<lb/>
+100 years ago?</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>Assistant Surgeon General</signed>.
+(On Waiting Orders)<lb/>
+Address<lb/>
+2121 California St., N. W.<lb/>
+Washington, D. C.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

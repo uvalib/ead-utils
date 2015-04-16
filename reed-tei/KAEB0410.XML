@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAEB0410">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders, Decree No. 70, by Charles E. Magoon, November 1, 1906</title>
+<title type="gmd">[electronic resource]</title>
+<author>Magoon, Charles E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAEB0410</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo"> Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1906-11-01</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Crowder, E. H.</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1906-11-01">November 1, 1906</date>
+<idno rend="suppress">KAEB0410</idno>
+<title>Military Orders, Decree No. 70, by Charles E. Magoon, November 1, 1906</title>
+</bibl>
+</head>
+<p>The decree states that a medical officer shall be assigned to each municipal board of health, serving as a liaison between municipal and military authorities, in the interest of preventing yellow fever among troops stationed in Cuba. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1906-11-01">
+<head>Military Orders, Decree No. 70, by Charles E. Magoon, November 1, 1906</head>
+<pb n="1" id="fKAEB0410"/>
+<p>O.K.<lb/>
+E.H. CROWDER,<lb/>
+Col. Genl. Staff, on duty with<lb/>
+Dept. of State &amp; Justice.</p>
+<p><hi>Oct. 31, '06</hi>.</p>
+<p>REPUBLIC OF CUBA</p>
+<p>----------</p>
+<p>UNDER THE PROVISIONAL ADMINISTRATION<lb/>
+OF THE UNITED STATES.</p>
+<p>------</p>
+<p>ADVISER TO THE SANITARY DEPARTMENT<lb/>
+OFFICE.</p>
+<p>DECREE No. 70</p>
+<p>Havana, Cuba, November 1st., 1906.</p>
+<p>In view of the fact that in towns garrisoned by troops of<lb/>
+the United States Army, the presence of such large bodies of<lb/>
+persons non-immune to yellow fever demands special precautions<lb/>
+against that disease and careful attention to sanitary con-<lb/>
+ditions in which they are stationed:</p>
+<p>In pursuance of the joint recommendation of the Chief<lb/>
+Surgeon of the Army of Cuban Pacification, approved by the<lb/>
+Brigadier General commanding and the Chief of Sanitation,<lb/>
+I, Charles E. Magoon, Provisional Governor of Cuba,</p>
+<p>RESOLVE:</p>
+<p>That a medical officer attached to the several com-<lb/>
+mands, designated by the military authorities shall be an ad-<lb/>
+visory member of the municipal board of health of each garri-<lb/>
+soned town. He shall have a vote in the proceedings of such<lb/>
+board and shall be the medium of communication between the<lb/>
+municipal authorities and the military authorities on all san-<lb/>
+itary subjects which concern the latter.</p>
+<p>(signed) Charles E. Magoon</p>
+<p>Provisional Governor of Cuba.</p>
+<p>Manuel Sobrado<lb/>
+A true copy<lb/>
+J.R. Kean<lb/>
+Maj. Gen. USA</p>
+</div1>
+</body>
+</text>
+</TEI.2>

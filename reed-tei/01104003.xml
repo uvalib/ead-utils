@@ -1,0 +1,795 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01104003">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Article: The Chance of the Extension of Yellow Fever to Asia and Australia, by Henry Rose Carter, [1923]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01104003</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1923-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Guiteras, Juan</name>
+<name type="person">Watson, Malcolm</name>
+<name type="place">Asia</name>
+<name type="place">Australia</name>
+<name type="place">Africa</name>
+<name type="place">America</name>
+<name type="place">East Africa</name>
+<name type="place">South Asia</name>
+<name type="place">Southeast Asia</name>
+<name type="place">Japan</name>
+<name type="place">Philippines</name>
+<name type="place">East Indies</name>
+<name type="place">Panama Canal</name>
+<name type="place">South America</name>
+<name type="place">Brazil</name>
+<name type="place">Mexico</name>
+<name type="place">Central America</name>
+<name type="place">Vitoria (Brazil)</name>
+<name type="place">Para (Brazil)</name>
+<name type="place">Rio-Santos (Brazil)</name>
+<name type="place">Puerto Rico</name>
+<name type="place">Barbados</name>
+<name type="place">Europe</name>
+<name type="place">Cor (Venezuela)</name>
+<name type="place">United States</name>
+<name type="place">Bucaramanga (Colombia)</name>
+<name type="place">Guiana</name>
+<name type="place">Port of Spain (Trinidad, West Indies)</name>
+<name type="place">West Indies</name>
+<name type="place">North America</name>
+<name type="place">Guayaquil (Ecuador)</name>
+<name type="place">Caribbean</name>
+<name type="place">California</name>
+<name type="place">Valparaiso (Chile)</name>
+<name type="place">Callao (Chile)</name>
+<name type="place">Los Angeles (Calif.)</name>
+<name type="place">San Francisco (Calif.)</name>
+<name type="place">Honolulu (Oahu, Hawaii)</name>
+<name type="place">Hong Kong</name>
+<name type="place">Shanghai (China)</name>
+<name type="place">Salina Cruz (Mexico)</name>
+<name type="place">Acapulco (Mexico)</name>
+<name type="place">Manzanillo (Mexico)</name>
+<name type="place">Balboa (Canal Zone)</name>
+<name type="place">China</name>
+<name type="place">Calcutta (India)</name>
+<name type="place">Manila (Philippines)</name>
+<name type="place">West Africa</name>
+<name type="place">Senegal (Africa)</name>
+<name type="place">Sierra Leone (Africa)</name>
+<name type="place">St. Helena Island</name>
+<name type="place">Ascension Island</name>
+<name type="place">Cape de Verde Islands</name>
+<name type="place">Gambia (Africa)</name>
+<name type="place">India</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>29 pp.</extent>
+<date value="1923-00-00">[1923]</date>
+<idno rend="suppress">01104003</idno>
+<title>Article: The Chance of the Extension of Yellow Fever to Asia and Australia, by Henry Rose Carter, [1923]</title>
+</bibl>
+</head>
+<p>Carter describes locations where yellow fever is present and discusses the chance of the disease spreading to non-infected areas of the world, mainly by ship.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1923-00-00">
+<head>Article: The Chance of the Extension of Yellow Fever to Asia and Australia, by Henry Rose Carter, [1923]</head>
+<pb n="1" id="f01104003"/>
+<p><unclear>II</unclear><lb/>
+Please return to<lb/>
+Dr. H. R. Carter<lb/>
+2121 California <unclear>St.</unclear> N. W.<lb/>
+Washington, D. C.</p>
+<p>File<lb/>
+<hi>I. H. B.<lb/>
+Australia</hi></p>
+<p><hi>Carbon copy</hi></p>
+<p>The Chance of the Extension of Yellow Fever<lb/>
+to<lb/>
+Asia and Australasia.</p>
+<p>H. R. Carter</p>
+<pb n="2" id="f01104004"/>
+<p>The Chance of the Extension of Yellow Fever<lb/>
+to<lb/>
+Asia and Australasia</p>
+<p>fever.</p>
+<p>The tendency of civilization is to disseminate the infections of<lb/>
+man. The same is true, indeed, of those to which the animals and even<lb/>
+the plants associated with him are liable. This is to be balanced, and<lb/>
+distinctly <del>as</del><add>on</add> the debit side of civilization, against the dissemination<lb/>
+and improvement of <del>food and other</del> useful plants and domestic animals.</p>
+<p>There are, however, a certain number of infections pathogenic to<lb/>
+man which are not yet of universal or indeed of general distribution<lb/>
+even among civilized men. In some, due doubtless to inability to sus-<lb/>
+tain themselves when introduced into new environments and in some from<lb/>
+never having been introduced. Among these we may instance both the<lb/>
+African and American trypanosomiases: the American leishmaniasis (es-<lb/>
+pundia): the <unclear>Perruga</unclear> of Peru: certain forms of Scisto<add>so</add>miasis and Yellow<lb/>
+Fever. For most of them it would probably be necessary to introduce<lb/>
+not only the causative organisms, but their living vectors and for some<lb/>
+possibly (<hi>for perpetuity</hi>) their resevoir hosts as well.</p>
+<p>For yellow fever, however, there is a large part of the globe yet<lb/>
+free therefrom in which all the conditions are such that were this in-<lb/>
+fection--i. e. its causative organism--introduced, it would, if left to<lb/>
+<pb n="3" id="f01104005"/>
+to<lb/>
+2<lb/>
+nature, propagate itself and continue indefinitely. Of the conditions<lb/>
+requisite for the propagation of some of the infections named above as<lb/>
+still limited locally we may not be able to speak confidently, but for<lb/>
+yellow fever we have this knowledge and it is definite: <hi>Yellow fever<lb/>
+will propagate and continue in any community if these three factors co-<lb/>
+exist therein</hi>: (1) <hi>the causative organism of the disease</hi>: (2) <hi>function-<lb/>
+ally active A&euml;des (Stegomyia) aegypti mosquitoes and</hi> (3) <hi>men susceptible<lb/>
+to yellow fever, the insects having free and continued access to both of<lb/>
+the other two.</hi> The causative organism may be (a) in men infected with<lb/>
+yellow fever or (b) in the infected mosquitoes. These conditions are<lb/>
+sufficient for the propagation and continuance of yellow fever. Where<lb/>
+they exist to a sufficient extent yellow fever will <unclear>spread</unclear> and continue.</p>
+<p>It is fair to say, I think, that in practically all parts of the Am-<lb/>
+ericas wherever the temperature and sociological conditions have allowed<lb/>
+the second factor for the propagation of yellow fever to exist the para-<lb/>
+site has at one time or another been present (whether introduced or in-<lb/>
+digenous I do not say) and yellow fever has prevailed, and in some places<lb/>
+is still prevailing.</p>
+<p>Not so for the Old World: There is a large part of it--large in<lb/>
+<pb n="4" id="f01104006"/>
+in<lb/>
+3<lb/>
+area and very large in population--in which the (known) insect vector,<lb/>
+<hi>A&euml;des (Stegomyia) aegypti,</hi> is abundant and active and in which yellow<lb/>
+fever has never prevailed. In this section is comprised much of East<lb/>
+Africa: <del>S</del><add>s</add>outh and <del>S</del><add>s</add>outh-east Asia (including <del>S</del><add>s</add>outhern Japan: the Phillip-<lb/>
+pines: the Straits Settlements and Dutch East Indies); Australia, except<lb/>
+the extreme south and a number (nearly all) of the islands of the Pacif-<lb/>
+ic and Indian Oceans. (<unclear>Taylor (      ): Edwards (   &amp;  )</unclear>: <unclear>M'Fre'<lb/>
+&amp; Ingram (1920. &amp; 22)</unclear></p>
+<p>Naturally, since yellow fever has not prevailed in this area, men<lb/>
+susceptible to yellow fever, the third requisite for its propagation,<lb/>
+are also abundant in it--more abundant and more densely grouped in some<lb/>
+parts of it than anywhere else on earth--and, were the causative organ-<lb/>
+ism introduced, the infection could scarcely fail to propagate. In<lb/>
+a large part of this area too, the temperature is such that <hi>aegypti</hi><lb/>
+would be active all the year round and, susceptible men in these parts<lb/>
+being also very abundant, the infection would, unless prevented by sani-<lb/>
+tary measures in them, be permanently endemic. Australia: Japan: the<lb/>
+Straits Settlements and some other countries could, and doubtless would,<lb/>
+protect themselves and by sanitary measures eliminate the infection, if<lb/>
+introduced, but considering the sociological condition of much of this<lb/>
+<pb n="5" id="f01104007"/>
+this,<lb/>
+<unclear>4</unclear> 4<lb/>
+<hi>aegypti</hi>-infested, region, one could not expect this to be done by all, or<lb/>
+indeed the most of it. There would thus result not only an almost unspeak-<lb/>
+able calamity to much of the region specified, but a continual threat of<lb/>
+yellow fever to all other countries in the zone of permanent <hi>aegypti</hi> in-<lb/>
+festation--almost the whole tropical and subtropical world. This would<lb/>
+involve in such countries a great increase in either (a) measures to pre-<lb/>
+vent the introduction of yellow fever--maritime quarantine with its <add>costly</add> re-<lb/>
+strictions on commerce--or (b) measures in control of <hi>aegypti</hi> production<lb/>
+in such countries so as to render them uninfectable to yellow fever if<lb/>
+introduced. Either one is costly: either one is troublesome: either one<lb/>
+would have to be continued indefinitely and the first, indeed, long con-<lb/>
+tinued does not give absolute security; &ldquo;a sieve not a dam&rdquo;</p>
+<p>Moreover, the measures for the control of the vector in the Old World<lb/>
+(should I include your new settled Continent in the Old World?) may be<lb/>
+more difficult than they have proved in the Americas--not only sociologi-<lb/>
+cal but from biological reasons. I think we can say that the three con-<lb/>
+ditions given on Page 2 as <hi>sufficient</hi> for the propagation and continu-<lb/>
+ance of yellow fever in any community are, <hi>in the Americas</hi>, also <hi>necessary</hi><lb/>
+therefor. It may be somewhat different elsewhere. We feel satisfied--<lb/>
+mainly from epidemilogical studies--that the mosquito named is, in nature,<lb/>
+<pb n="6" id="f01104008"/>
+nature,<lb/>
+5<lb/>
+the only vector in the Americas of this infection to man. For that part<lb/>
+of the Old World which I have indicated this may not be true. From ana-<lb/>
+logy with malaria: trypanosomiasis and a number of other host-borne in-<lb/>
+fections one would expect that some other mosquito of the same genus and<lb/>
+sub-genus as the one we have incriminated would also be efficient as a vec-<lb/>
+tor and that none of a different genus or sub-genus would be. Analogy, of<lb/>
+course, is unsafe to depend on, but is good as a guide of the <hi>direction</hi><lb/>
+investigation should take.</p>
+<p>Now I think <add>that</add> practically all the investigations on which we depend<lb/>
+for our knowledge of the mosquito conveyance of yellow fever have been<lb/>
+made in the Americas and, naturally, involve only the American mosqui-<lb/>
+toes. In the Americas we have no species of this sub-genus, <hi>Stegomyia,</hi><lb/>
+except <hi>aegypti</hi>. Obviously, American observations--negative for American<lb/>
+mosquitoes except <hi>aegypti</hi>--could not consider the other species of this<lb/>
+sub-genus, among which one would naturally expect to find vectors and it <del>m</del><lb/>
+may well be that some other species of <hi>Stegomyia</hi>, of which there are a<lb/>
+large number in the Old World, may also be vectors of yellow fever! If so,<lb/>
+the problem of control of the vector--since the breeding habits of the<lb/>
+different species of Stegomyia are not quite the same--would be <add>decidedly</add> more dif-<lb/>
+ficult in the Old World that it is with us--and with us it has not al-<lb/>
+<pb n="7" id="f01104009"/>
+al<lb/>
+6<lb/>
+ways been easy.</p>
+<p>In the spring of 1914, the writer suggested to Sir Wm. Leishman, then<lb/>
+a member of the British West African Yellow Fever Commission, that experi-<lb/>
+ments be made to determine if <hi>Aedes</hi> (<hi>Stegomyia</hi>) <hi>scutellaris</hi>, now known as<lb/>
+<hi>alba picta</hi>, was a vector of yellow fever. This species, common in West<lb/>
+Africa: Australasia: south-east Asia and this region generally, is quite<lb/>
+like <hi>aegypti</hi> in its biology, but apparently less differentiated as a co-<lb/>
+mensual with man, and certain measures would be needed to control its<lb/>
+breeding in addition to those sufficient for <hi>aegypti</hi>.</p>
+<p>- -**********************</p>
+<p><hi>What is the risk and whence is the threat</hi> of the introduction of<lb/>
+yellow fever into the <hi>aegypti</hi>-infested region we have specified? <hi>The<lb/>
+direct risk</hi> to any part of these regions is in some measure proportion-<lb/>
+ate to (1) its proximity (in time) to ports infected with yellow fever: (2)<lb/>
+the amount and nature of the commerce between them and (3) the sanitary<lb/>
+measures taken with this commerce (a) in the infected ports--to prevent<lb/>
+infection aboard the vessels: (b) on leaving or en route therefrom--to<lb/>
+clear them of any received--and (c) on arrival at the port of entry--to<lb/>
+prevent the introduction of any infection still existing aboard to such<lb/>
+a port. We must note too that the direct risk may be different from<lb/>
+the indirect and that the risk in some future contingency may be entire-<lb/>
+<pb n="8" id="f01104010"/>
+entire-<lb/>
+7<lb/>
+ly different from what it is now.</p>
+<p>Of this I think we may say too that Australia is at present little<lb/>
+threatened directly. It is very distant from and, so far as I can find,<lb/>
+has little direct communication with<unclear><del>,</del></unclear> ports infected with yellow fever,<lb/>
+Nevertheless, were yellow fever introduced into <unclear>south-east and south</unclear><lb/>
+Asia and the adjacent islands, the infection would quite certainly be<lb/>
+permanent and their infection would be a very grave risk to Australia.<lb/>
+The danger of infecting these regions then must be considered as <del>it-<lb/>
+self</del> a grave, if indirect, danger to Australia <add>itself</add>--a stepping stone for the<lb/>
+infection and with almost a certainty of it, sometime, taking the second<lb/>
+step.</p>
+<p>The threat is naturally from the places where yellow fever prevails<lb/>
+or, indirectly, is likely to prevail. The only regions in which yellow<lb/>
+fever now exists are tropical America and West Africa. Its introduction<lb/>
+then into the regions we are considering (except into East Africa) can<lb/>
+only be by vessel: hence the word &ldquo;port&rdquo; is used on Page 6 instead<lb/>
+of &ldquo;place.&rdquo;</p>
+<p><hi>Mechanism of Introduction of Yellow Fever</hi>. It can be introduced by<lb/>
+two agencies (1) infected men and (2) infected mosquitoes. The causa-<lb/>
+tive organism has no free living stage and we know of no host for it of<lb/>
+<pb n="9" id="f01104011"/>
+of<lb/>
+8<lb/>
+sanitary importance other than man and the mosquito. Either host may<lb/>
+come aboard infected, one of them <hi>must</hi>, or be infected aboard: men by in-<lb/>
+fected mosquitoes: mosquitoes by infected men.</p>
+<p>(1) <hi>Men coming aboard infected</hi> at any port at which yellow fever<lb/>
+now exists are not a direct source of danger--i. e. would not themselves<lb/>
+convey infection--to Asia. The time between the closest suspected <del>sus-<lb/>
+pected</del> port and Asia is well over that from <del>the time of</del> the beginning of<lb/>
+infection of man to the termination of his infectivity to the mosquito--<lb/>
+say 15 days: (The sum of the maxima of the hitherto observed incubation<lb/>
+in man plus his infectivity to <del>to</del> aegypti is 6 1/12 <unclear>&amp;</unclear> 3--i. e. 9 1/12<lb/>
+days). He would, however, be an indirect, and very serious, danger by in-<lb/>
+fecting <hi>aegypti</hi>, if the vessel carried them. Men infected aboard imply<lb/>
+<hi>aegypti</hi> aboard and would be a source of danger (a) directly, by landing<lb/>
+while infected; either sick<unclear><del>,</del></unclear> or, <add>and</add> (worse), in the stage of incubation--de-<lb/>
+pending on how long before arrival they were infected and (b) indirectly,<lb/>
+by infecting other mosquitoes aboard. The presence of yellow fever in<lb/>
+men on arrival or the history of <hi>any</hi> fever, unless clearly not yellow<lb/>
+fever en route from an infected port is such a warning that the receiv-<lb/>
+ing port would naturally sefe-guard itself and thus should enormously<lb/>
+lessen the risk of its introduction. The risk is where infection is not<lb/>
+<pb n="10" id="f01104012"/>
+not<lb/>
+9.<lb/>
+suspected.</p>
+<p>(2) <hi>The insect host</hi>, whether infected aboard, or received aboard al-<lb/>
+ready infected, is far more dangerous than the human. It retains in-<lb/>
+fection and the power of infecting men for a long time--57 days has been<lb/>
+proven, and probably as long as they live. <add>And</add> Fielding (1920) in Australia<lb/>
+has kept one alive for 91 days<unclear>!</unclear></p>
+<p>Moreover, unless they infect some man, and do so some days before ar-<lb/>
+rival, they give no evidence of infection aboard the ship which would<lb/>
+warn the port authorities to take extra precautions. The experiments of<lb/>
+Flu (1920) show that <hi>aegypti</hi> imagos (<del>do not survive</del><add>die within 6 days</add> in the refrigerator<lb/>
+compartments (for fruit) of a vessel kept at about (a little above)<lb/>
+6&deg; C (43&deg; F). All die in 24 hours if the temperature is not over 6&deg; C.<lb/>
+It is then not possible to transport infected insects any distance, in<lb/>
+time, in refrigerated compartments either for fruit or for meat. Never-<lb/>
+theless it is <hi>possible</hi> that, confined to some other part of the vessel not<lb/>
+visited by men, they might infect no one en route. Such cases, while not at<lb/>
+<add>all</add> common, have occurred. It is then of prime importance (a) to prevent in-<lb/>
+fected mosquitoes coming aboard and (b) scarcely less so--although less<lb/>
+so--to keep all <hi>aegypti</hi> (indeed all <hi>Stegomyia</hi>) from coming aboard or, <hi>and<lb/>
+especially</hi>, breeding aboard, as without them men infected with yellow fever<lb/>
+<pb n="11" id="f01104013"/>
+fever<lb/>
+10<lb/>
+may be received aboard without risk. The danger of conveying yellow fever<lb/>
+to a distant place (meaning distant in time) centers around the insect<lb/>
+vector.</p>
+<p><unclear>Risk</unclear> Risks from the Americas.</p>
+<p><hi>West Coast of America</hi>. We have said yellow fever exists in tropical<lb/>
+America. Ships can go direct from the warm ports of the Pacific coast<lb/>
+of America direct to Asia, keeping the whole route in weather warm enough<lb/>
+for <hi>aegypti</hi> imagos to live and to function. <unclear>From such</unclear> ports, if infected,<lb/>
+there would be a <hi>direct</hi> risk, the degree depending on the factors already<lb/>
+given <unclear>( Page 6 )</unclear>, of introducing yellow fever into Asia.</p>
+<p><hi>From the east coast of America</hi> there are two routes into the Pacific<lb/>
+<del>(there are two routes into the Pacific)</del> and to Asia: one via the Straits of<lb/>
+Magellan (or for sailing vessels around the Horn) and the other by the<lb/>
+Panama Canal. For the first the vessel, even a steam ship, must stay so<lb/>
+long in cold weather <unclear>(see Page 9 )</unclear> that <hi>aegypti</hi> imagos, unless kept alive<lb/>
+by artificial heat, die and the time she must spend in temperature be-<lb/>
+low the feeding limit of this species (62&deg; --64&deg; F) is so long that cases<lb/>
+of yellow fever in men contraced in <unclear>warm</unclear> weather would be well past the<lb/>
+stage infective to mosquitoes before any of the species, surviving in the<lb/>
+<pb n="12" id="f01104014"/>
+the<lb/>
+-- 11 --<lb/>
+egg stage, were again able to feed on men. Note here that breeding of this<lb/>
+species, while <unclear><del>very</del></unclear> common aboard sailing vessels, exposed on this trip<lb/>
+to longer and greater cold, is rather rare on steamships. Vessels tak-<lb/>
+ing this route are quite certainly then free from infection when they<lb/>
+reach any infectable port on the Pacific. It is true that imagos <hi>could</hi><lb/>
+be kept alive in artificially heated compartments. Nevertheless, no in-<lb/>
+fection has ever been reported as carried by this route to any Pacific<lb/>
+port of South America or developing on any vessel which has made this pas-<lb/>
+sage. We may consider this route, I think, then as safe.</p>
+<p>The route through the Panama Canal, like that from the warm Pacific<lb/>
+ports of America, can be made direct to Asia entirely in warm weather and<lb/>
+would, except for the added time consumed, involve the same direct risk<lb/>
+to that country<del>--</del>were no sanitary measures taken. Every vessel, how-<lb/>
+ever, which enters the Panama Canal (&ldquo;infected or suspected of infection<lb/>
+with yellow fever&rdquo;) is subjected to measures of <unclear>sanitation</unclear>: (1) all mos-<lb/>
+quitoes aboard are killed. Imagos by a gaseous culicide--generally hy-<lb/>
+drocyanic gas--and their breeding places destroyed: (2) The personnel,<lb/>
+crew and passengers, are held six days--from their last exposure to pos-<lb/>
+sible infection--i. e. the fumigation of the ship--to cover the period of<lb/>
+incubation of yellow fever so that if anyone does develope it this will be<lb/>
+<pb n="13" id="f01104015"/>
+be<lb/>
+12<lb/>
+at the Quarantine Station where there are no mosquitoes. The vessel then<lb/>
+leaves the Canal free from infection and free from mosquitoes.</p>
+<p>Not much chance is taken. That a vessel is from a port &ldquo;in which<lb/>
+yellow fever exists, or is suspected to exist,&rdquo; places her at once in<lb/>
+the category of a &ldquo;suspected&rdquo; vessel, unless the Quarantine Officer of<lb/>
+the Canal is satisfied (a) that she received no infection at that port<lb/>
+or (b) was freed from infection on or after leaving; both depending on<lb/>
+the sanitary measures taken. No vessel passing the Canal has so far<lb/>
+ever developed yellow fever aboard or been accredited with carrying in-<lb/>
+fection elsewhere.</p>
+<p>I think then we may claim that yellow fever confined to the east<lb/>
+coast of America involves practically no risk to Asia directly, or in-<lb/>
+directly by infecting the Pacific Coast of South America. These measures <add><unclear>at the end</unclear></add><lb/>
+are especially designed for the protection (a) of the West Coast of South<lb/>
+America and (b) for the far East. Extremely few vessels <unclear>take</unclear> this trip:<lb/>
+from a tropical port east of the Canal to <unclear>one in the Pacific, Pacific <del>side<lb/>
+of it.</del></unclear></p>
+<p>Yellow Fever in America.</p>
+<p>We count three foci of yellow fever in the Americas: (1) the north-<lb/>
+ern coast of <unclear>Br<add>a</add>zil</unclear>: (2) the northern part of South America south of the<lb/>
+Caribbean Sea and (3) in Mexico and Central America.</p>
+<p>(1) The Brazilian infection is on the northern coast. Yellow fever<lb/>
+<pb n="14" id="f01104016"/>
+fever<lb/>
+13<lb/>
+has not been reported south of Victoria for many years--say since 1908--nor<lb/>
+in Para, the principal port of the north, since about 1911. It was elimi-<lb/>
+nated from Rio: Santos and Para by sanitary measures--prevention of <hi>aegyp-<lb/>
+ti</hi> production--and there is no reason to believe that these measures<lb/>
+will be relaxed so as to again allow of the infection of the ports thus<lb/>
+freed from it. Indeed, there is much more reason to believe that this<lb/>
+work will be extended and the whole litoral--and ultimately the whole of<lb/>
+Brazil-- freed from this infection. Commerce from this region might<lb/>
+carry yellow fever directly to Porto Rico: to some other ports of the<lb/>
+U. S.: Trinidad and possibly Barbadoes, although the latter is not on<lb/>
+the itinerary of regular lines north bound from the infected ports.<lb/>
+There is also direct trade with Europe and with West Africa. The first,<lb/>
+mainly to non-infectable territory, is of no consequence to us; the<lb/>
+second is already infected.</p>
+<p>The risk of infection to Porto Rico or any port of the U. S.<lb/>
+with the system of maritime quarantine prevailing is slight: the chance<lb/>
+of their remaining infected beyond a short time, with the sanitary meas-<lb/>
+ures which would be applied, practically nil. There is no direct trade<lb/>
+with Mexico or Central America or, except an occasional call at Port of<lb/>
+<pb n="15" id="f01104017"/>
+of<lb/>
+14<lb/>
+Spain, with the north coast of South America. For reasons already given<lb/>
+this Brazilian focus involves no risk to Asia, either directly or by the<lb/>
+infection of the Pacific Coast of South America. (Foot note)</p>
+<p>__________________________________________________</p>
+<p>(Foot note) There is no direct trade between this part of Brazil with<lb/>
+Mexico and Central America but, should, as we think, Mexico and Central<lb/>
+America be freed from yellow fever before Brazil, there is always a <hi>possi-<lb/>
+bility</hi> of the latter infecting them indirectly through some other country<lb/>
+and thus again involving the Pacific ports of these countries. Slight as<lb/>
+this risk appears, we will be glad when it is eliminated.</p>
+<p>Should Brazil remain infected indefinitely there would be ultimate-<lb/>
+ly grave risk (almost a certainty) of infection of the Pacific Coast of<lb/>
+South America by way of the upper Amazon, as travel routes will ultimate-<lb/>
+ly be opened across the Cordilleras. This is not immanent in the near<lb/>
+future, however. (End of foot note)</p>
+<p>__________________________________________________</p>
+<p>2) The existence of yellow fever at Bucaramanga--a town of 30,000<lb/>
+in the north-eastern mountains of Colombia--is a great disappointment.<lb/>
+It is probably the remains--and it may be not all of the remains--of the<lb/>
+great regional focus of the &ldquo;South Caribbean and Adjacent Islands,&rdquo;<lb/>
+which extended on the mainland from Panama to the Guianas, with the is-<lb/>
+<pb n="16" id="f01104018"/>
+is-<lb/>
+15<lb/>
+lands alaon the coast, and the Lesser Antilles. This was for a long<lb/>
+time a permanent endemic regional focus and an important one. After,<lb/>
+and influenced by, the sanitation of Panama, yellow fever spontaneously<lb/>
+disappeared from a great part of it. Indeed we had hoped from all of it:<lb/>
+none had been reported in it since 1917--at Coro, Venezuela, by Guiteras--<lb/>
+until a few days ago. We do not yet know the extent of the infection in<lb/>
+this region. Should it reach the coast, as is probable, it will be a<lb/>
+source of danger to Mexico and Central America when (if<unclear><del>!</del></unclear>) they are freed<lb/>
+from infection, and <add>thus</add> be an indirect risk to Asia through the Pacific ports<lb/>
+of these countries.</p>
+<p>3) Yellow fever has existed in Mexico or Central America, counting<lb/>
+them as one regional focus--sometimes in one part and sometimes in another,<lb/>
+and it may be with intervals when no part of either was infected--for a<lb/>
+very long time. We can certainly say, noting the above proviso, since<lb/>
+1648.</p>
+<p>This focus may be no longer existent. A few years ago a generalized<lb/>
+epidemic of yellow fever spread over practically all of the infectable<lb/>
+(<hi>aegypti</hi>-producing) part of Mexico and Central America--consequent on<lb/>
+the political disturbances in the former country. A campaign against<lb/>
+this was undertaken in 1921 by the International Health Board of the Rocke-<lb/>
+<pb n="17" id="f01104019"/>
+Rocke-<lb/>
+16<lb/>
+feller Foundation and it may be that at this writing (          ) this<lb/>
+infection is eliminated from this focus <unclear>(and from North America.)</unclear> We<lb/>
+cannot be sure of this yet, however, and the work against the insect<lb/>
+vector is still going on and it is purposed to continue it until this<lb/>
+elimination is certain.</p>
+<p>There is quite certainly no yellow fever anywhere <add>in the Americas</add> outside of these<lb/>
+three regional foci, <del>in the Americas</del>. The permanently endemic regional<lb/>
+focus of the West Inian Islands is extinct. The same is true of that<lb/>
+so long on the Pacific Coast of South America of which Guayaquil and<lb/>
+Panama were the infecting centers. Moreover the trade relations are<lb/>
+such that as long as they continue as at present, the risk of this<lb/>
+coast again receiving infection is minimal: no vessel coming to it from<lb/>
+any port infected with yellow fever. There is, indeed, no infection at present in any of the Pacific<lb/>
+ports of the Americas (the only ones which involve direct risk to Asia)<lb/>
+--not even in those of Mexico and Central America. Until, however, we<lb/>
+can say that these countries (our third regional focus) are free from<lb/>
+infection we cannot be sure that these ports will not be reinfected.<lb/>
+They were infected two years ago. No<del>t</del><add>r</add> even if freed from infection is<lb/>
+this region entirely safe from reinfection from the focus south of the<lb/>
+<pb n="18" id="f01104020"/>
+the<lb/>
+17<lb/>
+Caribbean of which we have spoken.</p>
+<p>There is then at present <hi>no</hi> direct risk of the introduction of yel-<lb/>
+low fever into Asia from America and the only indirect risk comes from<lb/>
+the chance of the reinfection of the Pacific ports of Mexico and Central<lb/>
+America.</p>
+<pb n="19" id="f01104021"/>
+<p><del>18</del> 17</p>
+<p>Trans-Pacific Commerce from the West Coast of the Americas.</p>
+<p>The time at the writer's disposal has not been sufficient for a<lb/>
+proper investigation of this commerce. <del>We are quite sure that</del> None of<lb/>
+the Pacific ports of the Americas are at present infected: those north<lb/>
+of Mexico are uninfectable: the coast from Panama south is little liable<lb/>
+to infection. Only those of Central America and Mexico then need be<lb/>
+considered as, while not infected, they must be held liable to infection<lb/>
+until yellow fever is eliminated from that great regional focus.</p>
+<p><hi>Amount of this Commerce</hi>. There are several regular lines and<lb/>
+a number of tramp vessels going through the Canal and across the Pacific<lb/>
+from Europe and the Atlantic ports of North America. These, of course,<lb/>
+we need not consider. There is at present no line, and very rarely even<lb/>
+a tramp steamer, touching the tropica<add>l</add> ports of America so doing. The<lb/>
+only lines of which I can hear that touch at any Pacific port of America<lb/>
+south of California and cross the Pacific are (1) the Toyo Kisen Kaisha,<lb/>
+of Japan, an old and well established line: (2) the Hwah Ping of China<lb/>
+and (3) <del>the</del> Vier, India-Chilean Line.</p>
+<p>The first makes from six to nine trips per annum between the Pacific<lb/>
+ports of the Americas and Asia. It carries both freight and passengers,<lb/>
+the latter in considerable number, first: second and third class--200<lb/>
+<del>to 250 at times. The regular itinerary of the return trip is from Val-<lb/>
+paraiso: some of the nitrate ports of Chile: Callao:</del><lb/>
+<pb n="20" id="f01104022"/>
+<unclear>10</unclear><lb/>
+200<lb/>
+18<lb/>
+to 250 at times. The regular itinerary of the return trip is from Val-<lb/>
+paraiso: some of the nitrate ports of Chile: Callao: Los Angeles: San<lb/>
+Francisco: Honolulu: Japanese ports: Hong Kong and Shanghai. Salina<lb/>
+Cruz: Acapulco and Manzanillo, all Mexican, are on its list of ports of<lb/>
+call <hi>as optional</hi>, but the San Francisco office now gives this line as<lb/>
+touching at no port between Callao and Los Angeles, California, and I<lb/>
+am informed that there is now no Japanese consular representative on<lb/>
+the west coast of Mexico. They have, however, within the past three<lb/>
+years touched at Manzanillo and at Balboa, Canal Zone. From Manza-<lb/>
+nillo to the first Asian port is about six weeks: to Honolulu about<lb/>
+two weeks--a little over. Honolulu is naturally a safeguard to the<lb/>
+Asian ports as a complete system of maritime quarantine is maintained<lb/>
+there. As naturally, being closer, it is more exposed to infection<lb/>
+and<lb/>
+from the Americas than Asia, were it allowed to become and to remain in-<lb/>
+fected would be a convenient stepping stone for yellow fever to reach<lb/>
+Japan.</p>
+<p>The second is a single ship--the Hwah Ping--belonging to the Chi-<lb/>
+nese Government and made two trips within the past year between China<lb/>
+and the Pacific ports of the Americas. Her itinerary was much like the<lb/>
+Japanese line, but touched at Manzanillo. Whether this will develope<lb/>
+into a regular line is uncertain. My informant thinks not.</p>
+<p>3) The Vier Line makes three trips per annum from Calcutta: Colom-<lb/>
+bo: Valparaiso and Callao via Australia. It touches no port at which<lb/>
+yellow fever has prevailed for a number of years, or at which it is like-<lb/>
+ly to prevail.</p>
+<p>The amount of this traffic is thus very small.</p>
+<p><hi>Of its nature</hi> there is this to say: Neither the Vier nor the<lb/>
+Japanese line of last year involved any risk whatever, visiting no ports<lb/>
+infected or liable to be infected. The Chinese vessel visited no in-<lb/>
+<pb n="21" id="f01104023"/>
+in-<lb/>
+19<lb/>
+fected port--there was none on the Pacific--but did visit some liable<lb/>
+to infection, in that we cannot at present guarantee that Mexico is free<lb/>
+from yellow fever. One will feel safe when yellow fever is definitely<lb/>
+eliminated from Mexico and Central America and to that end we are working.</p>
+<p><hi>Of the sanitary measures</hi> taken to prevent the introduction of in-<lb/>
+troduction of infection aboard vessels engaged in this commerce: to eli-<lb/>
+minate it if introduced: and to prevent its transference to the Asian<lb/>
+ports of entry, direct knowledge is almost entirely lacking to the writer.<lb/>
+There is little need for such measures as long as the West Coast of<lb/>
+America keeps in its present sanitary condition. In addition, wharves<lb/>
+are conspicuous by their absence in the tropical ports of America--except at<lb/>
+Balboa--and the vessels lie far off shore<unclear>--</unclear>so the chance of getting in-<lb/>
+fected <hi>aegypti</hi> aboard--should any of these ports become infected--is<lb/>
+not great. The Japanese line has been found, in general, not breeding<lb/>
+<hi>aegypti</hi> aboard at the Honolulu quarantine station, and, from what the<lb/>
+writer knows of the handling of the Manila-San Francisco vessels--when<lb/>
+there was cholera in Manila--the inspection and other quarantine meas-<lb/>
+ures at the Japanese quarantine station<del>s</del> are careful and scientific.</p>
+<p>That the Hwah Ping is the property of the Chinese Government is<lb/>
+possibly a danger, as it is a question whether she would be subjected<lb/>
+at a Chinese port to the same sanitary restrictions as a vessel pri-<lb/>
+vately owned.</p>
+<pb n="22" id="f01104024"/>
+<p>18</p>
+<p>20</p>
+<p><del>Yellow Fever in</del><add><unclear>Risks</unclear> from</add> Africa.</p>
+<p>Yellow fever in Africa has been confined to the West Coast mainly<lb/>
+between Senegal and the mouth of the Congo; centering about Sierra<lb/>
+Leone and the Gulf of Guinea.</p>
+<p>The writer does not know, and cannot find out, anything about the<lb/>
+trade relations between this section and Asia and Australia. He cannot<lb/>
+then estimate the direct risk of the conveyance of yellow fever thereby.<lb/>
+There is probably very little direct trade, there seems no reason why there<lb/>
+should be, and the time en route would be very long. He knows of no ins-<lb/>
+tance in which yellow fever was conveyed even in this direction, although<lb/>
+it has been carried from this coast to St. Helena: Ascension: the Cape<lb/>
+de Verde Islands and the West Indies; and probably to Brazil. In the ab-<lb/>
+sence of more definite knowledge he is inclined to consider the direct<lb/>
+risk of conveyance minimal or nil.</p>
+<p>Nevertheless there is yellow fever in Africa and apparently in per-<lb/>
+manence. It has been reported, after a rather long quiescence (Gouzien<lb/>
+1922 and U. S. Public Health Reports 1922 and 1923) since June 1922 at<lb/>
+a number of places between Gambia and the mouth of the Congo. It is in<lb/>
+<pb n="23" id="f01104025"/>
+in<lb/>
+19<lb/>
+21<lb/>
+general recognized only when it appears among whites. Among them it has<lb/>
+appeared at almost every port of this coast and as far inland as they<lb/>
+have formed settlements: as at Seko<del><unclear>a</unclear></del><add>u</add>-Sikoro last October--over 600 miles<lb/>
+inland. Among negroes it is rarely recognized<del>,</del> but occurs<unclear>,</unclear> probably main-<lb/>
+ly in childhood and youth. <hi>Aegypti</hi>, and other <hi>Stegomyia</hi> as well, are<lb/>
+abundant everywhere <add>in this region--the coast and coastal plain-</add> and the negroes doubtless furnish the human hosts<lb/>
+needed to continue the infection. There seems no reason then why yellow<lb/>
+fever should not have extended, by negroes in the stage of incubation,<lb/>
+along the routes of travel as far as the presence of active <hi>aegypti</hi> al-<lb/>
+lows. That it has not reached the East Coast is apparently due to (1)<lb/>
+the difficulty of communication; travel across the continent being on<lb/>
+foot and until recently very rare: and (2) to the high and sparcely in-<lb/>
+habited plateau which separates the coasts. The mean elevation of this<lb/>
+is given as about 3,500 feet and while this may not be above the possi-<lb/>
+ble breeding zone of the vector it is close to the limit and the in-<lb/>
+sect should be extremely rare or absent therein--even if it were well<lb/>
+populated and breeding places provided. There are no closed vehicles<lb/>
+making this trip which could convey infected or any other <hi>aegypti</hi>. Such<lb/>
+men as had contracted yellow fever on the western side of the plateau<lb/>
+would develope it en route and pass the stage infective to mosquitoes be-<lb/>
+<pb n="24" id="f01104026"/>
+be-<lb/>
+20<lb/>
+22<lb/>
+fore they descended into the <hi>aegypti</hi>-infested lowlands to the east.<lb/>
+The East Coast has them in the past been well protected. Certainly we<lb/>
+have no evidence that yellow fever has ever been conveyed thereto.</p>
+<p>With only the same communication in the future (so rare and so long<lb/>
+en route) the chance is that it would never be thus conveyed, but we can-<lb/>
+not believe that these travel conditions will continue. When railroad<lb/>
+communication across the continent in this region is established--indeed<lb/>
+it need only be across the plateau--men infected west of the plateau can<lb/>
+pass it in the stage of incubation and develope yellow fever in the in-<lb/>
+fectable (<hi>aegypti-</hi>infested) territory to the east of it.</p>
+<p>Given the indefinite continuation of yellow fever in West Africa<lb/>
+this seems to me inevitable. The east coast once infected: the risk<lb/>
+to India and thence to all of south and south-east Asia, would be <del>very</del><add>great</add><lb/>
+great--permanently infected <add>very great,</add> I think, inescapable. <add><unclear>very great - uncapable Insert (1) ?</unclear></add> And, unless prevent-<lb/>
+ed by sanitary measures, it would probably be permanently infected. <unclear>Insert (1)</unclear><lb/>
+<add><unclear>(Insert (1)</unclear></add> The <hi>direct</hi> risk to eastern countries from Africa now may indeed be nil,<lb/>
+but the indirect risk through the future infection of the East Coast<lb/>
+seems to me very real and very grave and--unless <add>this is</add> prevented by sanitary<lb/>
+measures--inevitable.</p>
+<pb n="25" id="f01104027"/>
+<p>(<hi>Insert (1): Page 20</hi>).</p>
+<p>The distances of Asia from East Africa and the islands which would become<lb/>
+infected with it are great--from 2,000 to 3,000 miles--and protection a-<lb/>
+gainst ship-borne infection from that distance can be made very effective.<lb/>
+Yet it (the protection given by maritime quarantine) is confessedly not<lb/>
+perfect; the chance of failure increasing with the length of time it must<lb/>
+be kept up. We must expect then that infection would occasionally slip by<lb/>
+if the infection of East Africa were general and lasted indefinitely.</p>
+<pb n="26" id="f01104028"/>
+<p>inevitable.</p>
+<p>21</p>
+<p>23</p>
+<p>These measures <unclear><add><del></del></add></unclear> too, if possible the elimination of yellow fever<lb/>
+from West Africa, but at least such elimination control that it would not<lb/>
+be carried across to the East Coast, should be made effective before any<lb/>
+railroad across Africa connecting the infected and clean, but infectable<lb/>
+regions on the east is built. Indeed, commercial reasons to the contrary,<lb/>
+the building of such a road should be delayed until the fever is eliminat-<lb/>
+ed about its western end. It may even be that the ravages of African <hi>try-<lb/>
+panosomiasis</hi> have been paid for by delaying progress in Central Africa.</p>
+<p>The risk of the introduction of yellow fever into Asia from Amer-<lb/>
+ica is, as we have seen, small. Small as it is, it is too great. It<lb/>
+should be none. In 1916 the writer said: &ldquo;the result of the introduction<lb/>
+of yellow fever into the dense, imperfectly educated and very conserva-<lb/>
+tive populations of Asia, where <unclear><hi>calopus <add>aegypti</add></hi></unclear> is abundant, would be so stu-<lb/>
+pendous a calamity that one can scarcely conceive of a risk of such a<lb/>
+thing small enough to be allowable&rdquo;. He was pressing for its reduction<lb/>
+to zero, so far as the Americas were concerned, by the elimination of<lb/>
+all foci from them. He cannot understand <add>then</add> the absence of effort to guard<lb/>
+against this, future indeed, but apparently inevitable threat of infect-<lb/>
+ion from Africa. Guiteras called attention to it some years ago and<lb/>
+<pb n="27" id="f01104029"/>
+and<lb/>
+22<lb/>
+24<lb/>
+Malcolm Watson regards it nearly as gravely as does the writer. Had he<lb/>
+seen as much yellow fever, he would do so equally. Neither of these<lb/>
+sanitarians are alarmists, and the writer has been criticized<del>, in England</del>,<lb/>
+for undue optimism as regards yellow fever. Yet is he persuaded that if<lb/>
+yellow fever be introduced into south-eastern Asia, under the conditions<lb/>
+which now obtain, we would look back to the early plague years <add>there</add> as years<lb/>
+of comparative healthfulness.</p>
+<pb n="28" id="f01104030"/>
+<p>Cont. of Bibliography</p>
+<p>
+<list type="simple">
+<item>Taylor, F. H. (1919) Contributions to a Knowledge of Australian Culicidae:<lb/>
+Australian Institute of Trop. Medicine (1917): Re-<lb/>
+ports of Mosquito Survey of Queensland, Coastal Towns<lb/>
+(2 reports): Op. cit. Reprint from Quarantine Service<lb/>
+Publications 1916.</item>
+<item>Edwards, F. W. (1919) Revised Key to African Culicidae: Bulletin of Entomolo-<lb/>
+gical Research. A number of papers on the same general<lb/>
+subject, but in India and South China. Same Journal.</item>
+<item>McFie and Ingram (1921) Culicidae in West Africa etc. Same Journal.</item>
+</list></p>
+<pb n="29" id="f01104031"/>
+<p>I. H. B. 25<lb/>
+Australia</p>
+<p>
+<list type="simple">
+<head>Bibliography.</head>
+<item>Fielding, J. W., Notes on the Bionomics of Stegomyia fasc. (Fabr.)<lb/>
+Ann. Trop. Med. and Parisitology, Liverpool (1919-20):<lb/>
+Vol. 13-P. 259.</item>
+<item>Flu, P. C., Tests of the Duration of Life of Stegomia fasciata<lb/>
+in low Temperatures. Mededeel. v. d. Burgert. Ge-<lb/>
+neesk. Dienst en Nederl Indie, 1920- P. 99.</item>
+<item>Gouzien, Pres. du Cons. Sup. de Sante des Colonies.<lb/>
+La Fievre Jaune en Afrique Occidentale en 1922. Of-<lb/>
+fice International d'Hygiene Publique. Bulletin<lb/>
+Mensuel, T. XIV--Fascicule 12-P. 1516.</item>
+</list></p>
+<p>U. S. Public Health Reports--August 1922--May 1923.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

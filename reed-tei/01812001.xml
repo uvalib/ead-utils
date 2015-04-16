@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t01812001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Therapeutic Treatment of Yellow Fever, by Henry Downes Geddings, 1894</title>
+<title type="gmd">[electronic resource]</title>
+<author>Geddings, Henry Downes</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01812001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1894-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>6 pp.</extent>
+<date value="1894-00-00">1894</date>
+<idno rend="suppress">01812001</idno>
+<title>Report: Therapeutic Treatment of Yellow Fever, by Henry Downes Geddings, 1894</title>
+</bibl>
+</head>
+<p>Geddings' discussion of the treatment of yellow fever includes baths, purgatives, coal-tar products, cocaine, carbonated beverages, perchloride of iron, ice, counter-irritation, tisane of orange leaves, enemas, and quinine. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1894-00-00">
+<head>Report: Therapeutic Treatment of Yellow Fever, by Henry Downes Geddings, 1894</head>
+<pb n="1" id="f01812001"/>
+<p>THERAPEUTIC TREATMENT OF YELLOW FEVER.</p>
+<p>----------</p>
+<p>By P. A. Surg. H. D. GEDDINGS.</p>
+<p>----------</p>
+<p>[From Annual Report of Marine-Hospital Service, 1894.]</p>
+<p>In discussing the therapeutic treatment of yellow fever,<lb/>
+it is not proposed, indeed it is impossible, to here present<lb/>
+any long array of cases, with records of temperature and<lb/>
+pulse and detailed symptoms of each particular case. It<lb/>
+shall be my endeavor to present nothing that has not been<lb/>
+of real value in the hands of my colleagues or myself, and<lb/>
+anyone taking the trouble to read this and not finding any<lb/>
+particular line of treatment laid down will please bear in<lb/>
+mind that this is a record, not of what might have been,<lb/>
+but of what has been, done. The writer believes that the<lb/>
+treatment of yellow fever, like that of other acute specific<lb/>
+febrile diseases, should be symptomatic and directed<lb/>
+toward meeting plain and specific indications. The symp-<lb/>
+toms may be divided, for convenience, into those (<hi rend="italic">a</hi>)<lb/>
+belonging to the onset of the disease and those (<hi rend="italic">b</hi>) which<lb/>
+arise during the course of the illness.</p>
+<p>TREATMENT OF INITIAL STAGE.</p>
+<p>Under the first head may be included the chill and sub-<lb/>
+sequent fever, the distressing headache and pain in the<lb/>
+back, loins, and limbs. For the relief of these, as well as<lb/>
+for properly initiating a systematic treatment, it is believed<lb/>
+that the old plan of administering a hot footbath contain-<lb/>
+ing mustard is an eminently proper one. The bath hastens<lb/>
+reaction from the chill, markedly relieves the headache<lb/>
+and pains in the back and legs, promotes diaphoresis, in<lb/>
+this way accomplishing good, and being perfectly incapa-<lb/>
+ble of doing any harm. The patient, being then restored<lb/>
+to bed, should be covered warmly but not too heavily, and<lb/>
+gradually uncovered as diaphoresis proceeds, in order that<lb/>
+too great prostration should not ensue. Care of course<lb/>
+313<lb/>
+<pb n="2" id="f01812002"/>
+314<lb/>
+MARINE-HOSPITAL SERVICE.<lb/>
+should be exercised to prevent sudden chilling of the sur-<lb/>
+face. As soon as the patient is made comfortable in bed<lb/>
+the remedial treatment should be begun. At this stage<lb/>
+this should consist of a sharp purge, preferably mercurial.<lb/>
+I have found calomel 0.33 grams, compound powder jalap<lb/>
+0.66 grams, administered in capsules, most efficient. Others<lb/>
+prefer the compound cathartic pills (U. S. P.), of which one,<lb/>
+two, or three may be administered, according to the age<lb/>
+and general condition of the patient. Should either of<lb/>
+these remedies fail to move the bowels freely within six<lb/>
+or eight hours it may be followed by a moderate dose of<lb/>
+castor oil, a seidlitz powder, or a bottle of citrate of<lb/>
+magnesia.</p>
+<p>TREATMENT OF FEBRILE AND NERVOUS CONDITIONS.</p>
+<p>Closely following the first purgative should be adminis-<lb/>
+tered one of the coal-tar febrifuges, phenacetin 0.50 grams,<lb/>
+or antipyrin or antifebrin 0.66 grams, either of which may<lb/>
+with advantage be combined with 0.12 grams to 0.18 grams of<lb/>
+citrate of caffeine. It will be well to discuss here the effect<lb/>
+of the coal-tar series of febrifuges in yellow fever. Possess-<lb/>
+ing as they do analgesic properties of the highest order,<lb/>
+being second in this respect only to preparations of opium,<lb/>
+in addition to their well-known power of reducing tempera-<lb/>
+tures, they fill a most important place in the treatment of<lb/>
+yellow fever. By their use in moderate doses at the incep-<lb/>
+tion of the attack we relieve headache and the racking<lb/>
+pain in back and limbs, diminish restlessness, and reduce<lb/>
+temperature within twelve hours to a point, not nor-<lb/>
+mal, but considerably below that at which it stood when<lb/>
+reaction from the chill had fully taken place. Indeed, it<lb/>
+has seemed to me that the action of the first dose of the<lb/>
+antipyretic furnished, in some sort, an index of the course<lb/>
+of the particular case under observation. Given a case in<lb/>
+which after the administration of the antipyretic the patient<lb/>
+passes into an easy sleep and wakes with diminished head-<lb/>
+ache and other pains, a moist skin, and a reduced temper-<lb/>
+ture, I feel encouraged to hope, though I do not say that<lb/>
+the case will be mild or of moderate severity and will end<lb/>
+in recovery. Given, on the contrary, a case in which the<lb/>
+antipyretic produces but slight influence on the tempera-<lb/>
+ture, where restlessness is not diminished or controlled,<lb/>
+where pain persists, and the skin, though moist, has a<lb/>
+burning, pungent feeling, I fear the worst and expect trouble<lb/>
+to the very end. Repeated doses of the antipyretic are not<lb/>
+needed, or indeed indicated. It is my belief that one, two,<lb/>
+<pb n="3" id="f01812003"/>
+MARINE-HOSPITAL SERVICE.<lb/>
+315<lb/>
+or at most three, doses in the first twenty-four hours of<lb/>
+the disease will accomplish all that is to be gained from<lb/>
+this series of remedies. Administered later in the disease,<lb/>
+they exercise too depressing an effect on a heart already<lb/>
+weakened as a consequence of a tox&aelig;mia more or less<lb/>
+profound.</p>
+<p>TREATMENT OF GASTRIC SYMPTOMS.</p>
+<p>The gastric irritability, which is often extreme at the<lb/>
+onset of an attack of yellow fever, may be controlled by<lb/>
+sinapisms to the epigastrium, abstention from fluids, and<lb/>
+frequent ingestion of small pieces of ice, which not only<lb/>
+allay thirst, but also tend in themselves to relieve nausea.<lb/>
+Should nausea or vomiting persist, the administration of<lb/>
+cocaine hydrochlorate, in doses of 0.015 gram to 0.030<lb/>
+gram every hour or two, will often act almost magically.<lb/>
+Small quantities of carbonated beverages, as vichy, seltzer,<lb/>
+or appollinaris water, ginger ale, or very dry champagne,<lb/>
+administered ice cold, will often prove of service. Creosote<lb/>
+has also been highly recommended, and also a mixture con-<lb/>
+taining hydrocyanic acid and morphia. Considerable relief<lb/>
+is also derived from the application to the epigastrium of<lb/>
+a liniment composed of olive oil and menthol.</p>
+<p>IMPORTANCE OF RENAL SYMPTOMS.</p>
+<p>On the afternoon of the second or morning of the third<lb/>
+day the presence of albumen in the urine may be noted,<lb/>
+unless the case be of the most ephemeral mildness. I believe<lb/>
+that no case of yellow fever can occur without presenting<lb/>
+albuminuria at some time, though that time be limited to a<lb/>
+few hours, perhaps. It is argued by some that as cases do<lb/>
+occur presenting a quantity only recognizable by chemical<lb/>
+tests of great delicacy, it is possible that some occur with-<lb/>
+out any. On the other hand, it is argued that a disease so<lb/>
+terrible when severe must give some sign, even when very<lb/>
+mild. The quantity present on first detection, and its in-<lb/>
+crease or diminution from day to day, form, perhaps, a fairly<lb/>
+good guide to prognosis. If it appears, increases gradually,<lb/>
+and then begins to diminish, prognosis is good. If, on the<lb/>
+contrary, it appears at first in large amount, persists or<lb/>
+increases abruptly, trouble may be anticipated.</p>
+<p>&ldquo;BLACK VOMIT.&rdquo;</p>
+<p>The two gravest symptoms that can arise during the<lb/>
+course of a case of yellow fever are undoubtedly black<lb/>
+<pb n="4" id="f01812004"/>
+316<lb/>
+MARINE-HOSPITAL SERVICE.<lb/>
+vomit and suppression of urine. Black vomit is caused<lb/>
+by rupture of walls of capillaries or venous and arterial<lb/>
+radicles, and the discharge of blood into the cavity of the<lb/>
+stomach, where, coming into contact with hyperacid gastric<lb/>
+juice, it becomes altered into small masses of brownish-<lb/>
+black color, somewhat resembling coffee grounds in gross<lb/>
+appearance. Its advent may also indicate a general hemor-<lb/>
+rhagic diathesis, which may be manifested by hemorrhages<lb/>
+from the nose, gums, fauces, rectum, or by extravasations<lb/>
+into the connective tissue of the scrotum. The abrupt<lb/>
+appearance of black vomit in large quantities without warn-<lb/>
+ing is unusual. Careful search will often show minute<lb/>
+brown or black particles floating in clear fluid, and pre-<lb/>
+senting the appearance described by some authors as<lb/>
+&ldquo; bee's or butterfly wings.&rdquo; It is not uncommon, however,<lb/>
+that patients just before death should vomit a large quan-<lb/>
+tity of black vomit, and that after death the stomach<lb/>
+should be found to contain several quarts of the fluid. It<lb/>
+would seem probable that in these cases the hemorrhage<lb/>
+which produces it was more of an active hemorrhage than<lb/>
+a capillary oozing, and that death comes quickly as the<lb/>
+result of shock.</p>
+<p>TREATMENT OF &ldquo;BLACK VOMIT.&rdquo;</p>
+<p>How shall we best treat the condition resulting in black<lb/>
+vomit? The problem being both to arrest vomiting and to<lb/>
+treat the condition giving rise to it, it follows that treat-<lb/>
+ment should be directed toward the general hemorrhagic<lb/>
+diathesis. Probably the most efficient remedy is found in<lb/>
+the tincture of the perchloride of iron. That should be<lb/>
+given in large doses, 1 to 2 c. c. every hour or two, or, if<lb/>
+vomiting is frequent, after each act of emesis. Counter<lb/>
+irritation to the epigastrium, the administration of stimu-<lb/>
+lants, preferably champagne or good brandy administered<lb/>
+in carbonated water and given cold, swallowing of ice, and<lb/>
+administration of cocaine, make up about the sum of our<lb/>
+remedial agents. While enough has been said to show that<lb/>
+black vomit is a most serious symptom, it does not follow<lb/>
+that every patient who vomits black matter will necessarily<lb/>
+die. A fair proportion of cases recover after the symptom<lb/>
+has manifested itself. Still, the ejection of black vomit<lb/>
+makes a most profound mental impression on a patient, and<lb/>
+for this reason has often hastened a fatal termination in a<lb/>
+case which up to the appearance of this accident had done<lb/>
+well.</p>
+<pb n="5" id="f01812005"/>
+<p>MARINE-HOSPITAL SERVICE.<lb/>
+317</p>
+<p>TREATMENT OF RENAL SYMPTOMS.</p>
+<p>Of far graver importance to my mind is the train of symp-<lb/>
+toms which leads to ur&aelig;mia, and which are announced by<lb/>
+partial or complete suppression of urine. I believe this to<lb/>
+be the gravest accident that can happen in the course of<lb/>
+yellow fever. The amount and character of the urinary<lb/>
+secretion should be a matter of frequent inquiry in every<lb/>
+case, grave or mild, from the inception to convalescence.<lb/>
+A sudden and irregular increase in the amount of albumen<lb/>
+should put us on our guard against possible urinary sup-<lb/>
+pression, and prompt treatment should be instituted and<lb/>
+maintained. Counterirritation over the region of the kid-<lb/>
+neys with turpentine or mustard, dry cups, the application<lb/>
+of hot-water bags, all should be tried. A <hi rend="italic">tisane</hi> of water-<lb/>
+melon seeds has long enjoyed the reputation of being<lb/>
+almost a specific among the Creole population of New<lb/>
+Orleans, and I can bear personal testimony to its efficacy<lb/>
+alone or given in combination with spirits of nitrous ether.<lb/>
+Of almost equal reputation is a <hi rend="italic">tisane</hi> of orange leaves,<lb/>
+preferably of the bitter variety, given in large quantities<lb/>
+and frequently. A remedy much used in Brunswick in<lb/>
+1893, and vaunted as almost specific by those very success-<lb/>
+ful in the management of the disease, was spirits of tur-<lb/>
+pentine, which was sometimes given in heroic quantity, as<lb/>
+much as a teaspoonful at a dose and repeated. I can not<lb/>
+speak of the remedy from personal experience, but the<lb/>
+results claimed for it warrant its more extended use.</p>
+<p>TREATMENT OF BOWEL CONDITIONS.</p>
+<p>A point in the treatment of yellow fever, with the impor-<lb/>
+mata.<lb/>
+tance of which I am much impressed, is the frequent wash-<lb/>
+ing out of the lower bowel with enemata of warm water and<lb/>
+soap. Constipation is the rule in yellow fever, and no one<lb/>
+who has noted the exceedingly fetid, almost putrid, char-<lb/>
+acter of the stools of a yellow-fever convalescent can fail to<lb/>
+see the wisdom of removing the chances of septic absorp-<lb/>
+tion by frequent washing away of this fermenting mass.<lb/>
+Pass a well-oiled rectal tube as far up into the bowel as<lb/>
+possible, and with a fountain syringe elevated not more<lb/>
+than a foot or two force slowly 2 or 3 pints of warm,<lb/>
+soapy water into the bowel. The whole operation should<lb/>
+be performed with the patient upon a bedpan, not seated<lb/>
+upon a vessel or close stool. The effect upon the tempera-<lb/>
+ture and general condition of the patient is most marked.</p>
+<pb n="6" id="f01812006"/>
+<p>318<lb/>
+MARINE-HOSPITAL SERVICE.</p>
+<p>USE OF ANTIMALARIAL REMEDIES.</p>
+<p>As to the use of quinia or allied preparations in yellow<lb/>
+fever, I concur in the generally accepted verdict that they<lb/>
+are without specific effect. But as yellow fever almost<lb/>
+always occurs in regions where malarial diseases are also<lb/>
+rife, and as the intercurrence of a malarial paroxysm is one<lb/>
+of the most disagreeable incidents that can mar the course<lb/>
+of a case of yellow fever, I consider it good practice in such<lb/>
+regions to administer 2 to 3 grams of quinine or cinchonidia<lb/>
+in the first twenty-four hours, exhibiting the drug per<lb/>
+rectum if the stomach is irritable.</p>
+<p>DIETETIC MANAGEMENT.</p>
+<p>A most important point in the management of yellow<lb/>
+fever is the diet. Many a patient, his crisis past and the<lb/>
+borders of convalescence reached, has been hurried into<lb/>
+an untimely grave by the misplaced kindness of an appar-<lb/>
+ently simple meal. The yellow fever patient should never<lb/>
+be starved; on the contrary, he should be well nourished,<lb/>
+but the most scrupulous care should be exercised in the<lb/>
+selection and administration of his diet. &ldquo;A little and<lb/>
+that often&rdquo; should be the rule. For the first few days milk<lb/>
+with limewater given cold, then animal broths, concen-<lb/>
+trated but free of fat, should be the regimen. The fever<lb/>
+being reduced, soft-boiled eggs, milk toast, and small bits<lb/>
+of the white meat of chicken and tenderest steak may be<lb/>
+permitted. Probably at least ten days or two weeks should<lb/>
+elapse before the convalescent, by the easiest stages, should<lb/>
+be permitted to resume ordinary diet.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

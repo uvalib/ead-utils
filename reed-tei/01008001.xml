@@ -1,0 +1,841 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01008001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: Three Years Study of Sanitary Conditions in Peru, by Henry Hanson, [19--]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01008001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Spalding, W.J.</name>
+<name type="place">Peru</name>
+<name type="place">Lima (Peru)</name>
+<name type="place">Piura (Peru)</name>
+<name type="place">Lambayeque (Peru)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>21 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">01008001</idno>
+<title>Report: Three Years Study of Sanitary Conditions in Peru, by Henry Hanson, [19--]</title>
+</bibl>
+</head>
+<p>Hanson writes about the reason for coming to Peru, the conditions found on his arrival, and the difficulties encountered. He discusses the various diseases identified and the causes of the general sanitary problems. Hanson presents remedies for the present conditions and discusses the possibility of the public and the Peruvian government accepting foreign aide.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Report: Three Years Study of Sanitary Conditions in Peru, by Henry Hanson, [19--]</head>
+<pb n="1" id="f01008001"/>
+<p>GENERAL REPORT ON THREE YEARS STUDY OF<lb/>
+SANITARY CONDITIONS IN PERU.</p>
+<p>----------</p>
+<p>As the time is soon to arrive for the termination of my work in Peru<lb/>
+I have thought proper to present a resume of the work done. In this<lb/>
+resume I speak frankly of all conditions as seen after three years of study.<lb/>
+Some points are touched upon which may appear to lie outside the scope of<lb/>
+my assignment but which will require discussion in connection with the<lb/>
+projects for better sanitary conditions.</p>
+<p>
+<list type="ordered">
+<item><p>1. OBJECT OF COMING TO PERU.</p>
+<p>I was first asked to come to Peru in March, 1919, for the pur-<lb/>
+pose of making a study of the sanitary conditions of the coast with special<lb/>
+reference to the malaria problem. Upon my arrival in Lima, May 25th, 1919,<lb/>
+it was suggested that as far as practicable general sanitary conditions<lb/>
+be included in the investigations.</p></item>
+<item><p>2. Conditions Found on Arrival.</p>
+<p>Upon arrival I found a country which appeared very prosperous<lb/>
+but which was beginning to show some of the disturbing social features<lb/>
+which at that time had begun to manifest themselves the world over as a<lb/>
+consequence of the readjustment following upon the close of the Great War.</p>
+<p>The first incident to impress itself upon the memory of the new<lb/>
+arrival was the &ldquo;labor manifestation&rdquo;, or the so called &ldquo;strike against<lb/>
+the high cost of living&rdquo; on the part of a large gathering of the labor<lb/>
+element in the Plaza Militar. This occurred on the 25th of May, 1919.<lb/>
+The following week was full of exciting incidents which the praiseworthy<lb/>
+conduct of the Army prevented from developing into a national <unclear>calamity</unclear>.<lb/>
+This pretended revolution against the higher classes was soon quelled<lb/>
+and a week after the uprising we were able to proceed with our work.<lb/>
+The incident, however, indicated the existence of a breach between labor<lb/>
+and capiatl which it seems difficult to adjust. The newcomer in the<lb/>
+country is in no position to attempt to pass judgment upon the merits or<lb/>
+demerits of such a condition, but the fact remains that it introduces<lb/>
+<pb n="2" id="f01008002"/>
+a factor which is important in the program of sanitation.</p>
+<p>It did not take long to find that many insanitary conditions existed<lb/>
+both with reference to malaria and other prevailing diseases, but it re-<lb/>
+quired much time and careful study to formulate a practical program for<lb/>
+their correction. As my experiences in Peru have increased I have become<lb/>
+convinced that those who come to the country on important missions<lb/>
+should adopt the motto &ldquo;Stop- Look - Listen&rdquo; before rushing in to <unclear>te</unclear> ar<lb/>
+up existing customs and traditions. It is very important to get the<lb/>
+viewpoint of the people and to understand as far as possible the local<lb/>
+problems. What is feasible and the most practical thing to do in some<lb/>
+other place may not be the ideal or logical thing to do here. By failing<lb/>
+to inform themselves both individuals and corporations often commit very<lb/>
+serious errors in their enthusiasm to establish reforms in foreign<lb/>
+countries.</p>
+<p>Upon my arrival I was met by Mr. W.J. Spalding, formerly of the<lb/>
+Municipal Engineering Division of the Panama Canal, who, I wish to state,<lb/>
+is a very competent engineer and has been highly successful in all projects<lb/>
+undertaken since his coming to Peru. Mr. Spalding presented me to<lb/>
+Sr. Alfredo Mendiola, Engineer for the Salubridad, a competent and<lb/>
+hard-woring Peruvian.</p>
+<p>By Sr. Mendiola I was presented to the Director of Public Health,<lb/>
+Dr. Abel Oleachea, a courteous, scholarly gentleman interested in pro-<lb/>
+gress and up to date methods in his Division. After a few preliminaries<lb/>
+Dr. Oleachea made all necessary arrangements for initiating the work.</p></item>
+<item><p>3. <hi>The First Work Done</hi>, was reported under the title &ldquo;A SANITARY<lb/>
+STUDY OF SANITARY CONDITIONS IN PERU WITH SPECIAL REFERENCE TO THE<lb/>
+INCIDENCE OF MALARIA&rdquo; published in the Bolletin of the Ministerio <unclear>de</unclear><lb/>
+<unclear>Fomente</unclear>, in 1920, and has been reproduced in the English in the Pro-<lb/>
+ceedings of The Medical Association of the Isthmian Canal Zone, Vol. XII,<lb/>
+parts 1 &amp; 2, pages 41 to 45, illustrated with 18 photographic plates.<lb/>
+This report deals principally with the conditions in the valley of the<lb/>
+Rimac and the Province of Lima and is naturally brief and incomplete.<lb/>
+- 2 -<lb/>
+<pb n="3" id="f01008003"/>
+In the time at my disposal it was not possible to gain more than a general<lb/>
+superficial knowledge of the existing sanitary conditions, and a complete<lb/>
+analysis of the fundamental causes could not be presented at that time.</p>
+<p>The reports of an outbreak of yellow fever in the Department of Piura<lb/>
+obliged the Director, Dr. Oleachea, to modify his program for the malaria<lb/>
+survey and to request me to go to Piura to vestigate and to take charge of<lb/>
+the Campaign in case yellow fever should be proven present. The presence<lb/>
+of yellow fever in Piura was confirmed and a separate report on it has been<lb/>
+presented under date of August 21, 1919.</p>
+<p>The first yellow fever work was also brief and incomplete due to the<lb/>
+fact that very soon after my arrival in Piura I fell a victim to the disease<lb/>
+(yellow fever) and the work was interrupted. This incident was a further<lb/>
+confirmation of the nature of the epidemic which at that time, and later, was<lb/>
+persistently denied by a few physicians who claimed it to be black water<lb/>
+fever (fiebre biliosa hemoglobinurica). They failed to take into considera-<lb/>
+tion the fact that blacl water fever does not attack the most recent arrival<lb/>
+by preference, at least not until after an attack of malaria has been<lb/>
+suffered. In my case, I had never had an attack of malaria and had enjoyed<lb/>
+the most perfect health during the preceeding 29 years, without illness<lb/>
+except certain mild attacks of <unclear>coryza</unclear> (common colds). This attack of<lb/>
+yellow fever in the new comer is a characteristic occurrence in the non-<lb/>
+immune, of which we have numerous examples in our later statistics on the<lb/>
+subsequent epidemics in the country.</p>
+<p>Dr. M.J. Quiroz took charge of the campaign in Piura and Dr. Guillermo<lb/>
+Almenara in Sullana, where they continued in their respective positions<lb/>
+to the end of the year 1919. Early in the year <unclear>1920</unclear> Dr. Honorario Delgado<lb/>
+was sent to take charge of the campaign in Tamarindo where he continued<lb/>
+until my return to Peru in February, 1920.</p></item>
+<item><p>4. <hi>DIFFICULTIES ENCOUNTERED</hi>.</p>
+<p>My first and greatest difficulty was the lack of the knowledge<lb/>
+of Spanish. This was a serious handicap and is a matter which should be<lb/>
+taken into consideration by the Government in making similar contracts<lb/>
+in the future. It would be preferable to engage those who have at least<lb/>
+-3-<lb/>
+<pb n="4" id="f01008004"/>
+a fair conversational acquaintance with the Spanish language as it means an<lb/>
+increased efficiency in many ways. The other main difficulty has been<lb/>
+of a political nature in that I have been unable to please all who wished<lb/>
+to nominate political adherents for positions in the sanitary commission<lb/>
+regardless of their qualifications for the same.</p>
+<p>The matter of <unclear>transporation</unclear> has at times been a serious one in that<lb/>
+we have been unable to transfer employees with the rapidity urgently<lb/>
+required for epidemi<del>o</del>logical reasons. The steamship schedules are such<lb/>
+that at times several boats arrive at a port within a day or two's time<lb/>
+following which there may be a week or even two weeks without transportation<lb/>
+facilities.</p></item>
+<item><p>5. THE PROGRAM OUTLINED was of a very general nature and almost en-<lb/>
+tirely limited to the outside sanitary work; it was an attempt to show that<lb/>
+what had proven useful in other countries might be so modified as to be<lb/>
+applicable to Peru, the nucleus of the program being to commence work on<lb/>
+a practical basis taking some important point as a center where the results<lb/>
+accomplished could be shown and where a trained sanitary force could be<lb/>
+developed. Later, <unclear>man</unclear> who had demonstrated their ability could be sent to<lb/>
+initiate the work in a new focus or sector. It was thought that the<lb/>
+Medical Corps of the Army could play an important role in this program.<lb/>
+The Medical Corps has a very competent Chief and Assistant Chief in doctors<lb/>
+Col. Eduardo Vergne and Lt. Col. G. Alarce, both greatly interested in<lb/>
+bettering the sanitary conditions of the country.</p>
+<p>All the medical officers of the Army should be given a special course<lb/>
+of instruction in the practical features of the work and those who show<lb/>
+interest and executive ability should be given charge of the sanitation<lb/>
+of their encampments, posts or sectors, including the immediate territory<lb/>
+influencing the health of their troops.</p>
+<p>The duties and assignments of both military and civil employees should<lb/>
+be carefully chosen in conformity to the ability of the employee to<lb/>
+handle the problems connected therewith.</p>
+<p>-4-</p>
+<pb n="5" id="f01008005"/>
+<p>THE FEASIBILITY of the program would show itself as the work developed.<lb/>
+It would be worth trying as the present organization leaves much room for<lb/>
+improvement. It would be more practical to work the program up in this<lb/>
+gradual manner than to start out with a larger force and an extensive<lb/>
+terrain prematurely as the latter course would surely result in the waste<lb/>
+of money as well as loss in prestige which is of considerable importance<lb/>
+in inaugurating a general sanitary campaign. A limited program would<lb/>
+insure control both of personnel and expense.</p></item>
+<item><p>6. THE GENERAL SANITARY CONDITIONS, as all know, leave much room for<lb/>
+improvement. We hope and believe that one of the most serious of these has<lb/>
+been eliminated for all time to come, namely, the yellow fever (discussed<lb/>
+in a separate general report of the Yellow Fever Campaigns during the last<lb/>
+three years.</p>
+<p>Of the remaining problems we have the following:<lb/>
+<list type="ordered">
+<item>1. Malaria.</item>
+<item>2. Bubonic plague.</item>
+<item>3. Intestinal disorders (typhoid fever, diarrhea, dysentery etc.)</item>
+<item>4. Tuberculosis.</item>
+<item>5. Typhus fever in the mountain districts.</item>
+<item>6. A group of other <unclear>communicable</unclear> diseases.</item>
+</list></p>
+<p>As has been stated, the study of sanitary conditions with special<lb/>
+reference to the malaria problem was interrupted by the yellow fever epi-<lb/>
+demics in the north, but a number of observations have been made of some<lb/>
+of the principal causes of the high malaria incident on the coast. This<lb/>
+incidence is largely due to faults in the irrigation system and to neglect<lb/>
+in the design and maintenance care of the larger canals. In many places<lb/>
+the remedy is simple and consists simply in a widening and deepening of<lb/>
+the principal ditches into which the overflow water is discharged. In<lb/>
+other places it would require greater projects to prevent the swampy areas<lb/>
+resulting from overflow in the time of the flood season. In the Depart-<lb/>
+ments of Piura and Lambayeque the problem has a similarity, as in both<lb/>
+there is a scarcity of water in the dry season and a great excess during<lb/>
+the flood season. Both Departments have natural conditions which present<lb/>
+<pb n="6" id="f01008006"/>
+practical possibilities for the establishment of reservoirs in the upper<lb/>
+valley which would aid in the control of the amount of water allowed to<lb/>
+flow in the main canal. The engineers state that the reservoir capacity<lb/>
+is not sufficient to impound all the flood water, which we accept as true,<lb/>
+but it appears that it should be possible to establish flood gates which<lb/>
+could be so regulated as to allow the main ditch to run full capacity, and<lb/>
+not attempt to impound more of the flood water than that which exceeds the<lb/>
+capacity of the main canal to carry without causing flooding of the land<lb/>
+in the lower valley. As conditions are now in the lower part of <unclear>those</unclear><lb/>
+valleys, in Piura from Catacaos to Sochura, for example, and in Lambayeque<lb/>
+in the sector about Chiclayo and the town of Lambayeque there are thousands<lb/>
+of acres of land which are rendered useless during the flood season in<lb/>
+addition to which it becomes a very profuse anopheles breeding swamp, with<lb/>
+a resulting high malarial index.</p>
+<p>On account of the nature of the population - the high percentage of<lb/>
+Indians, with their peculiar superstitions and beliefs in regard to any<lb/>
+medical or sanitary problem - it seems that the malaria problem will<lb/>
+have to be tackled principally from the point of the breeding places of the<lb/>
+anopheles. The Indians will not take quinine a sufficiently long time<lb/>
+to effect a cure, hence every infected individual becomes a carrier of<lb/>
+parasites for the infection of more anopheles thus making the condition<lb/>
+continuously worse if one attempts to attack the problem by the method of<lb/>
+quininization alone. The surest and most effective means of attack, there-<lb/>
+fore, is the one on the breeding places of the <unclear>mosquitoe</unclear>, to which can be<lb/>
+added whatever is possible from the point of prophylactic medication.</p>
+<p>In the past there have been many breeding places for anophleles along<lb/>
+the coast which have presented very simple drainage problems only requiring<lb/>
+a small amount of work, with subsequent supervision, to eliminate thousands<lb/>
+of anopheles in each case. Many of these problems could be attended to<lb/>
+by the Medical and Engineering Corps of the Army.</p>
+<p>-6-</p>
+<pb n="7" id="f01008007"/>
+<p>The Medical Officers, after having taken the course in practical<lb/>
+sanitation, should have a definite number of troops assigned to them<lb/>
+for sanitary purposes, these troops to form the Sanitary Corps of the<lb/>
+Army, which should be a branch of the Medical Corps. The first duties<lb/>
+of this Corps should be camp sanitation and all that has a bearing thereon.</p>
+<p>Immediate action must be taken to combat this evil of the malaria<lb/>
+problem. Wherever one goes on the coast the complaint of the high inci-<lb/>
+dence of malaria is heard. It is one of the great factors in the inefficien-<lb/>
+cy of the labor element on the coast. (See photographs illustrating<lb/>
+anopheles breeding conditions.)</p></item>
+<item><p>7. <hi>BUBONIC PLAGUE</hi> is the most <unclear>appalling</unclear> of all the serious epi-<lb/>
+demic<del>s</del> diseases prevailing in Peru, and the marvel of it is to note the<lb/>
+inexplicably calm indifference to the matter on the part of the general<lb/>
+public and the criminal neglect on the part of many who are in duty bound<lb/>
+to take measures toward its prevention. This danger has been pointed out<lb/>
+in an article published in the daily press in 1920 on conditions in Paita.<lb/>
+Plague is endemic nearly everywhere in Peru and often epidemic in numerous<lb/>
+places on the coast. Some day the foreign countries that are free from<lb/>
+plague or are taking active measures to combat it are going to place as<lb/>
+strict a quarantine against Peru for plague as they formerly have done for<lb/>
+yellow fever, and they will be justified in doing so.</p>
+<p>Combatting plague with vaccine and serum alone is inefficient. Burning<lb/>
+isolated shacks where cases have occurred is equally ineffective unless<lb/>
+followed up by rat proof construction and an effort to enforce the laws on<lb/>
+building regulations. Together with this it is absolutely necessary that<lb/>
+all warehouses and all business houses be obliged to observe the sanitary<lb/>
+regulations for the storage of food materials, and to avoid the maintaining<lb/>
+of rat <unclear>nesting</unclear> conditions in and about their places of business. (See phot-<lb/>
+ographs representing conditions responsible for prevalence of plague.)</p>
+<p>At present no municipality is doing anything effective <unclear>toward</unclear> the<lb/>
+prevention of plague, while many are directly <unclear>contributing</unclear> to its propo-<lb/>
+gation by the inefficiency of the garbage collection and destruction.<lb/>
+(See photographs of indiscriminate garbage distribution.)</p>
+<pb n="8" id="f01008008"/>
+<p>An efficient campaign against bubonic plague required a war on rats<lb/>
+in every sense of the word. Anti-plague vaccination and rat trapping<lb/>
+and poisoning are auxillaries to the main part of the attack. Proper<lb/>
+garbage collection and rat proof construction are the principal means of<lb/>
+combatting plague.</p></item>
+</list></p>
+<p>INTESTINAL DISORDERS are everywhere complained of and the new arrivals<lb/>
+usually fall victims to these in one form or another, especially children<lb/>
+many of whom die. Morbidity statistics are incomplete and one cannot cite<lb/>
+with accuracy the true conditions existing. One important cause is the lack<lb/>
+of ideas of hygiene and cleanliness on the part of the servant classes and<lb/>
+a very marked indifference among those who employ them. The kitchens in<lb/>
+9)% of the houses on the coast are deplorably dirty. It is difficult to<lb/>
+cite a single instance of a water supply from which one can drink with-<lb/>
+out falling a victim to intestinal infection of one type or another. The<lb/>
+accompanying photographs illustrate conditions. It is a remarkable fact<lb/>
+that while much criticism is heard about these conditions from leading<lb/>
+Peruvians as well as the lower classes, there is very little evidence of<lb/>
+the initiation and continuation of a sustained effort to remedy them. The<lb/>
+efforts of the municipalities are sporadic and insufficient. All towns<lb/>
+tolerate the existence of fly breeding conditions, which will be referred<lb/>
+to more in detail in another section of this report. However, in passing,<lb/>
+I wish to call attention to an example of the way the garbage is handled in<lb/>
+one of the towns where we have conducted anti-yellow fever work. This town<lb/>
+of F-, has a budget for a cart which should be used for garbage collection.<lb/>
+The man who has the contract is a butcher and instead of using the cart<lb/>
+for the collection of garbage he uses it for the distribution of meat<lb/>
+from his slaughter house, after which he collects what garbage suits his<lb/>
+convenience. So far as I have been able to determine the authorities do<lb/>
+not interfere with this proceedure.</p>
+<p>Another cause of the prevalence of intestinal disorders is the great<lb/>
+lack of toilet facilities, either private or public. In no town on the<lb/>
+coast where I have worked is there an up to date sewer and water system,<lb/>
+which is one of the first essentials for the combatting of the many ailments<lb/>
+which we are here classifying under the head of Intestinal Disorders.</p>
+<pb n="9" id="f01008009"/>
+<p>Many intestinal disorders are due to infection by means of mechanical<lb/>
+carriers, among which we have the house fly and the cockroach as the<lb/>
+principal conveyors. Both of these insects are known for their filthy<lb/>
+habits and should be carefully guarded against. As <unclear>is</unclear> commonly known,<lb/>
+the breeding place of choice for the house fly is <unclear>focal</unclear> matter, horse<lb/>
+manure and human excreta. The adult female fly deposits her eggs in this<lb/>
+material, the eggs hatch and are converted into larvae. They pass their<lb/>
+entire larval state crawling about in the environment in which deposited<lb/>
+in egg form, then pass into the pupae stage (which is similar to the<lb/>
+cocoon of the moths and butterflies) in which stage <del><unclear>it</unclear></del><add>they</add> remain<del>s</del> encased<lb/>
+in a reddish brown oval case for a short period after which they<lb/>
+emerge as adult flies; their first act on emerging is to hop about on<lb/>
+the material in which developed, and as soon as they have obtained the<lb/>
+power of flight seek the nearest kitchen, dining room or other store of<lb/>
+food supply to contribute their collection of microbes - to the milk or<lb/>
+other food which children and adults take.</p>
+<p>In order that the reader may fully appreciate the potential danger<lb/>
+of each fly, permit me to remind him of the fact that it is known<lb/>
+that each fly can (and has been known to) carry hundreds and even<lb/>
+thousands of bacteria on her feet. The majority of these are deposited<lb/>
+upon the <unclear>feed</unclear> on which she alights. In addition her alimentary tract<lb/>
+is quite full of microbes, the nature of which vary according to the<lb/>
+nature of the bacteria in the focal matter in which she was <unclear>bred</unclear>,<lb/>
+whether a typhoid stool or one of bacillary dysentery or of other<lb/>
+equally serious nature, the germs multiplying with great rapidity.<lb/>
+The bacteria multiply with varying degrees of rapidity, and the mode of<lb/>
+multiplication is that each germ divides so as to form two, and the new<lb/>
+ones go through the same process each forming two new ones, and so on<lb/>
+indefinitely by geometrical progression. The time employed for this<lb/>
+division varies according to the temperature, the nature of the food<lb/>
+material and the species of bacteria in question. Milk is the material<lb/>
+(9)<lb/>
+<pb n="10" id="f01008010"/>
+in which the most rapid and profuse bacterial developement takes place.<lb/>
+However, as an illustration, let us take the case of the bacteria which<lb/>
+divides once each hour; in twenty four hours the total progeny of such a<lb/>
+bacteria has been increased to more than seventeen millions. Think of<lb/>
+this and the fact that the fly may deposit in a baby's milk not only one<lb/>
+but a thousand or more typhoid or dysentery bacilli<del><unclear>s</unclear></del>. What happens to<lb/>
+the baby's health one or two days after he has taken this milk? What<lb/>
+happens to adults after consuming food thus contaminated?</p>
+<p>These are a few of the instances of what is meant by the fly nuisance,<lb/>
+and its relation to intestinal disorders. What disposition ought to be<lb/>
+taken for those who through indifference or wilful negleact produce<lb/>
+and maintain fly breeding nuisances? All garbage dumps are fly breeding<lb/>
+nuisances.</p>
+<p>The cockroaches are almost equally dangerous due to their habit of<lb/>
+crawling about in the pit closets (toilets) especially in places like<lb/>
+Chiclayo where there is no sewerage system and where the entire town<lb/>
+is dependent on their pits and cesspools. They spend their days in hiding<lb/>
+in such places and at night come out to frolic about the kitchens, pantries<lb/>
+and whatever food they find exposed.</p>
+<p><hi>TUBERCULOSIS</hi> is serious on account of its great prevalence in certain<lb/>
+sectors, and especially in the Province of Lima. The survey made by the<lb/>
+Brittish Veterinarians, Col. Storde and Capt. Henderson, have shown that<lb/>
+there is a very high tuberculosis rate among the cattle and dairy herds<lb/>
+in the Department of Lima, and this forms a formidable source of infection<lb/>
+for children. The prevalence of tuberculosis among adults seems to be<lb/>
+increased on account of the high percentage having a lowered resistance<lb/>
+due to having been malaria sufferers for long periods of time. The<lb/>
+physicians with whom I have conversed, often refer to the relationship<lb/>
+between malaria and tuberculosis, stating that on account of the debility<lb/>
+and lowered resistance due to chronic malaria there is an increase in the<lb/>
+incidence of tuberculosis, which, when one knows the conditions, seems<lb/>
+quite plausible.</p>
+<pb n="11" id="f01008011"/>
+<p>The promiscuous spitting habit, which has been noted, is a great<lb/>
+factor in the spread of this infection. Children who play on the floor<lb/>
+most of their time during the day for the first few years are infected<lb/>
+by contact with <unclear>sputs</unclear> from tuberculous individuals.</p>
+<p>The prophylactic measures for tuberculous consist mainly in improving<lb/>
+housing conditions and furnishing better nourishment. The people should<lb/>
+be taught to sleep with an abundance of fresh air, with windows wide open,<lb/>
+and be systematic both as to rest and exercise. An abundance of fresh<lb/>
+air does not necessarily mean that it is well to lie directly in a draft, -<lb/>
+such an act often gives rise to a congestion of the respiratory mucous<lb/>
+membranes - but with rooms well ventilated, or out on a sleeping porch, or<lb/>
+even in the open.</p>
+<p>While it is not the object of this report to enter into therapeutics or<lb/>
+curative measures, I wish to take advantage of this opportunity to state<lb/>
+that there are but few medicines which are of any value in the sure of<lb/>
+tuberculosis. To spend large sums on remedies and medication is pure waste.<lb/>
+The medicines which are given to tubercular individuals should be only such<lb/>
+as are prescribed in each individual case by a competent physician. Medicines<lb/>
+for tuberculous patients should be limited to a very small variety, and<lb/>
+should only be such as are indicated by the expert in the subject for the<lb/>
+control of certain definite conditions as indicated by the symptoms.</p>
+<p>The great prevalence of TYPHUS in the mountains is a serious problem on<lb/>
+account of the nature of the people where this disease prevails. This is<lb/>
+also a disease due to filthy habits and certain superstitions as to clothing<lb/>
+for the season of cold weather.</p>
+<p>The problem of the control of typhus fever is one enirely of lice control.<lb/>
+Formerly it was thought that it was the body louse (Pediculus Vestimentorum)<lb/>
+which was the transmissor of this disease, but it has been found that the<lb/>
+head louse (Pediculus Capitis) also transmits the disease. If one could<lb/>
+cause the people in the infected districts to adopt the simple measure<lb/>
+of ridding themselves of lice there would be no typhus fever. The problem<lb/>
+is similar to that of yellow fever. Where there are no stegomyia there<lb/>
+is no yellow fever. <del><unclear>people</unclear></del> People who do not have lice do not have<lb/>
+typhus fever. In theory the remedy is quite simple, but in practice<lb/>
+<pb n="12" id="f01008012"/>
+rare and mild.</p>
+<p><hi>CAUSE AND CAUSES OF THE GENERAL SANITARY CONDITIONS</hi>, consist in<lb/>
+in the lack of an effective Health Organization. The Direccion de Salubridad<lb/>
+Publica has been handicapped in not having a trained personnel and in not<lb/>
+having funds with which to work. One of the evils encountered here, as well<lb/>
+as in other countries, is the idea entertained by many politicians that the<lb/>
+positions in the Health Department can be filled by friends and political<lb/>
+adherents without regard for the qualifications which such positions demand.<lb/>
+There is no objection to having political adherents in office providing they<lb/>
+are qualified and do not permit their politics to interfere with necessary<lb/>
+measures, otherwise the result would be inefficient - or no service rendered.</p>
+<p>Another important and serious factor is that no position has been provided<lb/>
+with a sufficient wage to permit the employee to choose sanitation as a career.<lb/>
+Not even the Director of Public Health receives <unclear>sifficient</unclear> pay to enable him<lb/>
+to dedicate his entire time to his office (I am speaking of the salary provided<lb/>
+by law which is Lp 60.0.00 per month) and no professional man who is capable<lb/>
+of handling the health department can live in Lima for this amount. The<lb/>
+least which should be provided for this position is Lp 100.0.00 monthly, or<lb/>
+more, with an allowance<del>,</del> for travelling expenses when on inspection details.<lb/>
+The result is that the employee in this department is obliged to look for<lb/>
+other additional work to enable him to meet living expenses - as a result he<lb/>
+fills neither place effectively and the money paid out by each department is<lb/>
+poorly invested. The &ldquo;Vacunadores,&rdquo; which have recently been suppressed, <unclear></unclear><lb/>
+a good example. They received a salary of from Lp8 to Lp10 per month and<lb/>
+gave but part time to the work; the number which each vaccinated was very<lb/>
+small, and although the salary was very low the results obtained were very<lb/>
+costly indeed.</p>
+<p>Among the causes of the insanitary conditions existing the lack of a<lb/>
+water and sewerage system <unclear><add>(13)</add></unclear> is one of the most important, and has been the<lb/>
+fundamental cause of the recent yellow fever epidemics. (See General Report<lb/>
+(13)<lb/>
+<pb n="13" id="f01008013"/>
+on the recent Yellow Fever Epidemics.)</p>
+<p><hi>PLAGUE</hi> (Bubonic), the most serious and difficult to eradicate of<lb/>
+all the sanitary evils in Peru, is due principally to the indifference on<lb/>
+the part of the wealthier classes who build business houses, tenement houses<lb/>
+warehouses and most any type of construction with the most glaring indifference<lb/>
+to the existing sanitary laws of the country. At bottom bubonic plague is<lb/>
+first and last a question of rat proof construction (Aside from plague, rats<lb/>
+destroy sufficient materials to justify the cost of rat proofing.) It is an<lb/>
+exception to find construction in this country which has taken due consideration<lb/>
+of this principle. In addition there are no store or warehouses which<lb/>
+take the necessary precautions in storing rat-nesting or food material in<lb/>
+a way to make it inaccessible to rats. (See photographs <unclear>illestrating</unclear><lb/>
+plague and rat harboring conditions.)</p>
+<p>The housing conditions existing on the coast should be improved.<lb/>
+This, however, is a difficult problem and should be made the subject of a<lb/>
+careful study by a commission of competent men who, after informing themselves<lb/>
+of the actual conditions prevailing, should draw up a building plan adaptable<lb/>
+for the laboring classes on the estates, and other plans for the poorer<lb/>
+classes in the towns and cities. These plans should be practical and adapted<lb/>
+to the circumstances of the occupant.</p>
+<p>In no place is there an efficient garbage collection or destruction<lb/>
+system. The garbage, if collected at all, is scattered in miscellaneous<lb/>
+heaps, furnishing ample food and nesting material for the rats beside<lb/>
+forming deplorable fly breeding nuisances. <hi>See Photos</hi>.</p>
+<p>The imperfect sewerage systems afford ideal hiding places for rats<lb/>
+besides in many ways contributing to the spread of disease by flies. On<lb/>
+account of this lack of an efficient sewerage system, as I have stated<lb/>
+in the preliminary report in 1919, every vacant lot is appropriated by<lb/>
+the &ldquo;Cholo&rdquo; and others for toilet convenience. See Photos.</p>
+<p>One could go on multiplying instances and causes, but to do so would be<lb/>
+useless; these conditions are known to all - it is evident that the time<lb/>
+has come when something must be done to change these customs. And in<lb/>
+(14)<lb/>
+<pb n="14" id="f01008014"/>
+speaking of customs permit me to invite the attention of the reader to a<lb/>
+well-nigh universal habit - a habit which is truly reprehensible -<lb/>
+THE SPITTING HABIT. No matter where one goes one's finer feelings are<lb/>
+hurt by the constant evidence of the SPITTER. Some who ride in the street<lb/>
+care will deliberately spit on the floor of the car even though sitting<lb/>
+by an open window. I have often seen men and women aboard ship spit on the<lb/>
+deck even though leaning on the railing of the ship. They spit on the<lb/>
+carpet of their own or their friend's house with equal equanimity. This<lb/>
+is often the cause of the spread of tuberculosis among children - and could<lb/>
+be also among adults. The saliva and brochial secretions are laden with<lb/>
+germ many of which are pathogenic to your children, to your brother or<lb/>
+sister or to your friends, even though they may do no harm to the original<lb/>
+host.</p>
+<p>REMEDIES FOR THE PRESENT INSANITARY CONDITIONS consist, in the<lb/>
+first place, in the creating of a desire for better conditions. It is<lb/>
+desirable (urgently <unclear>so</unclear>) that the people be made to realize the importance<lb/>
+of sanitation and that it is a paying investment to sanitate. Every<lb/>
+Peruvian citizen should be made to feel that he has an individual re-<lb/>
+sponsibility by the following means:<lb/>
+<list type="ordered">
+<item>1. Establish a sanitary <unclear>propaganda</unclear>.</item>
+<item>2. Eliminate politics from the Health Department.</item>
+<item>3. Establish a fixed Sanitary Corps, whose promotions and longevity in<lb/>
+service shall be due to merit only.</item>
+<item>4. Pay the employees a salary which will enable them to do the work<lb/>
+properly and then require them to do it.</item>
+<item>5. Hav<del>e</del><add>ing</add> organized a Sanitary Department, give it the necessary author-<lb/>
+ity to correct the evils which are responsible for present conditions, such as:<lb/>
+<list type="ordered">
+<item>a. Uncleanliness and lack of knowledge of hygiene.</item>
+<item>b. Insufficient and improper water supply.</item>
+<item>c. Lack of sewerage disposal.</item>
+<item>15.</item>
+<pb n="15" id="f01008015"/>
+<item>d. Improper or no garbage collection and destruction.</item>
+<item>e. Improper control of irrigation and drainage.</item>
+<item>f. Violation of building laws.</item>
+<item>g. Improper housing conditions.</item>
+<item>h. Committment of sanitary nuisances.</item>
+<item><unclear>i</unclear>. Poor or total lack of paving in towns and cities.</item>
+</list></item>
+<item>6. Together with the above indicated points there should be organized<lb/>
+a vigorous crusade against mosquitoes, flies and rats.</item>
+<item>7. Statistics. Records are incomplete; it is first necessary to know<lb/>
+where and what epidemics exist before adopting prophylactic measures.</item>
+</list></p>
+<p>READINESS OF THE PEOPLE TO ACCEPT THE REMEDIES will depend on how<lb/>
+well the above indicated points have been made known to them. At present<lb/>
+one can say that only a small percentage is ready to make the necessary<lb/>
+effort to correct the evils in the individual cases. The people must be<lb/>
+taught and trained, and this must be done <unclear><del>mainly</del></unclear> through the schools,<lb/>
+through the churches and through the newspapers. The axiom that &ldquo;Cleanliness<lb/>
+is next to Godliness&rdquo; might be made stronger still, namely, that &ldquo;Cleanliness<lb/>
+is Godliness.&rdquo; The Almighty One never intended that people should live like<lb/>
+animals, for in that case he would not have endowed the human being with<lb/>
+a superior intelligence.</p>
+<p>The climate of Peru is one of the most ideal in the world and is<lb/>
+quite favorable to good health, if the people will choose to have it so.</p>
+<p>T THE INTERVENTION OF FOREIGNERS seems to have been a necessary measure,<lb/>
+and yet there are many men in the country who have the ability and the<lb/>
+intelligence to effectively carry on the campaigns. The local professional<lb/>
+men know what ought to be done and could do it once they set themselves to<lb/>
+do so. They are handicapped, however, by a thing which should have<lb/>
+been mentioned under the heading of causes, namely, that of not truly<lb/>
+respecting what, in the U.S.A., we call &ldquo;honest labor&rdquo;; by which I mean<lb/>
+that there is a general tendency to disrespect any one who sees fit to do<lb/>
+certain pieces of manual labor for himself. The Peruvian gentleman,<lb/>
+16.<lb/>
+<pb n="16" id="f01008016"/>
+whether he be one who has money or not, is almost invariably dependent upon<lb/>
+the <unclear>poor</unclear> for whatever he does. It is quite certain that the country can<lb/>
+never progress very far until this is modified to a certain extent. There is<lb/>
+too much <unclear>snoebery</unclear> as well as too much destructive criticism. Also there is<lb/>
+not enough regard for the TRUTH.</p>
+<p>The above are some of the reasons for the intervention of foreigners<lb/>
+in certain lines, one of which has been the employment of foreigners as<lb/>
+supervising inspectors. It is hoped that it shall not be necessary to con-<lb/>
+tinue this indefinitely.</p>
+<p>THE ACCEPTANCE OR NON ACCEPTANCE OF FOREIGN INTERVENTION has been an<lb/>
+interesting thing to observe. Many speak of it as a necessity but when it <unclear><del>so</del></unclear><lb/>
+comes <unclear>close home</unclear> to them they object; they <unclear>resent</unclear> the <unclear>blunt</unclear> aggressiveness<lb/>
+of the <unclear>gringo</unclear> and often start a campaign to deprecate his work. This, however,<lb/>
+is both natural and explainable. He patriotic citizen takes kindly to<lb/>
+criticism from an outsider - a foreigner to his country. Our methods and<lb/>
+measures adopted in the recent campaign have often been sited as <unclear>Gringo</unclear><lb/>
+<unclear>nonsense</unclear>.</p>
+<p>THE SANITATION OF PERU, one may say, means the making of the country,<lb/>
+the putting her on the map as who should be. Unless the present conditions<lb/>
+are corrected the country cannot develope. The sick and death rates are<lb/>
+too high. Foreign capiatl will not help in the development of the country<lb/>
+unless it can be assured that the yellow fever, the excessive malaria, and<lb/>
+the extraordinary bubonic plague conditions are effectively handled and<lb/>
+corrected.</p>
+<p>As a result of what has been done in the Yellow Fever Campaign, which<lb/>
+is just closed, one should be able to judge what sanitation might mean.<lb/>
+Yellow Fever is only one of the evils which has afflicted Peru. If one can<lb/>
+judge by the bitter complaints of the Chambers of <unclear>Commerce</unclear> and the business<lb/>
+men in general, and those of all individuals who wished to travel from one<lb/>
+place to another during the recent epidemic, it seems that one <unclear>right</unclear> form<lb/>
+a conception of what sanitation will mean to Peru. This conception should<lb/>
+17.<lb/>
+<pb n="17" id="f01008017"/>
+inspire the patriotic citizen with a hope of arriving at an Utopian Era -<lb/>
+when there not only will be no quarantine restrictions against yellow<lb/>
+fever, but also a possibility of being able to live and travel freely<lb/>
+throughout the country without the constant danger of falling a victim<lb/>
+to one form or another of one or more of the many communicable diseases<lb/>
+which now prevail. It will <unclear>mean</unclear> that one may quench his thirst with<lb/>
+impunity with the beverage which the Almighty One provided and intended for<lb/>
+this purpose, namely, water. It now seems a far fetched and fascinating<lb/>
+dream to think of being able to drink of the water furnished by the mu-<lb/>
+nicipalities of the coast without later having an extensive doctor's bill<lb/>
+to pay or, perhaps, losing one's life. Sanitation will mean that one need<lb/>
+not be in constant dread that someday sooner or later the dreaded bubonic<lb/>
+plague may take some member of the family. It will mean peace, happiness<lb/>
+and prosperity; and instead of straining the nation's resources in com-<lb/>
+batting destructive epidemics - which is ever a costly affair and a diversion<lb/>
+of funds from permanent improvements - the funds can be employed for the<lb/>
+maintenance of the health of the citizens and the establishment of schools,<lb/>
+parks, paved streets, public playgrounds, moral and physical developement<lb/>
+and the establishment of this potentially wealthy country as one of the<lb/>
+leading countries of the world. This can be done! Peru is one of the<lb/>
+potentially richest countries in the world.</p>
+<p>Sanitation requires co-operation and individual effort. This point<lb/>
+was well brought out in an editorial published in &ldquo;El Comercio&rdquo; of Lima,<lb/>
+under the title &ldquo;La Higiene Integral&rdquo;, which spoke of the necessity for<lb/>
+individual effort and the recognition of the fact that, as in many other<lb/>
+matters of vital importance to the community, one should be sure of the<lb/>
+cleanliness of one's own house, and the correctness of one's own habits<lb/>
+of living, before attemping to clean and to reform his neighbor.</p>
+<p>The significance of sanitation to Peru may be summed up in the<lb/>
+statement that instead of being considered backward and a pest ridden<lb/>
+country, it could be made the model for South America. It is only necess-<lb/>
+ary to <unclear>cite</unclear> the Canal Zone, in Panama, as an example. The problems in<lb/>
+18<lb/>
+<pb n="18" id="f01008018"/>
+Peru, with the exception of bubonic plague, are no more difficult, in<lb/>
+fact are less difficult, than those encountered in the Panama Canal Zone<lb/>
+in the early days. Panama was a veritable <unclear>post</unclear> hole before General Gorgas<lb/>
+organized the Health Department and took up the question of sanitation in<lb/>
+due form. <unclear>Quayachil</unclear> for ages has been known as one of the famous <unclear>pest<lb/>
+holes</unclear> of the world, but through the comparatively recent campaign against<lb/>
+yellow fever by which she has been permanently freed from this evil, and<lb/>
+due to the fact that Peru, also, has entered the field of battle against<lb/>
+the same dread disease, cleaning out the last hiding place on the Pacific<lb/>
+Coast of South America, she is and will be free from this menace to her<lb/>
+commercial existence for all time to come. Inspired by her success in the<lb/>
+victory over yellow fever, she is now making a very creditable attck on<lb/>
+the bubonic plague. Peru from now on will likewise escape the stigma of<lb/>
+being known throughout the world as a <unclear>pest</unclear> hole for yellow fever, and the<lb/>
+stranger at <unclear>her gaten</unclear> will no longer <unclear>trumble</unclear> in dread of the fatal black<lb/>
+vomit. The significance of sanitation to Peru is so great that one<lb/>
+cannot properly discuss it. It is a thing which can be as great as the<lb/>
+people of Peru wish it to be.</p>
+<p>THE PROJECTS NECESSARY IN ORDER TO SANITATE are both great and small.<lb/>
+In <unclear>over</unclear> to secure the ideal it will ultimately be necessary to carry out<lb/>
+several large projects <unclear>involving</unclear> the outlay of large sums of money. However,<lb/>
+while funds, or the arrangements for securing funds, are being made, an<lb/>
+active campaign on a minor scale should be started to serve as a nucleus<lb/>
+for the larger projects which will come later on. The first should be<lb/>
+the coordination of the different branches of the health department and<lb/>
+the different sanitary services of the country. It is desirable that the<lb/>
+Health Department have a special representative in each Department, who<lb/>
+shall administer the health activities of his Department in accordance<lb/>
+with regulations established by the Director of Public Health and approved<lb/>
+by Supreme Resolution. The functions and duties of the <unclear>Medicos Titulares</unclear> and<lb/>
+the Inspeccion de Higiene Municipal, as well as the Ayudantes Sanitarios,<lb/>
+19.<lb/>
+<pb n="19" id="f01008019"/>
+should all be so subordinated as to represent an effective health organ-<lb/>
+ization in each Department, all of whom should be responsible <del><unclear>in the<lb/>
+</unclear></del> to the Medico Sanitario Departmental (as he would be the principal<lb/>
+representative of the Central Health Department) who, in turn, would<lb/>
+be <unclear>responsible</unclear> for the success or failure of the Sanitary activities in<lb/>
+his Department. To this organization the necessary inspectors, nurses and<lb/>
+other employees should be added according to the means available and the<lb/>
+demands of the problems presenting themselves. In connection with this the<lb/>
+functions of the Medical and Engineering Corps of the Army should be so<lb/>
+adjusted that the result would be an effective co-operation between the<lb/>
+War Department and the Health Department in the projects for sanitation<lb/>
+along the line suggested earlier in this report.</p>
+<p>The Engineering Corps of the Army could very profitably, both to<lb/>
+its own increased efficiency as well as a general benefit to the country,<lb/>
+undertake and carry out many of the drainage projects for the control of<lb/>
+malaria. No more striking opportunity for such work could be cited than<lb/>
+that of the <unclear>anopheles</unclear> breeding conditions about Lambayeque, the General<lb/>
+Headquarters for the northern division of the Army. This work not only<lb/>
+is practical engineering, but would be a means of preparing the corps<lb/>
+referred to to be able to take care of themselves in case of war, as well<lb/>
+as conserve their health in time of peace. The malaria rate among the<lb/>
+troops is much higher than it should be. There are many details to be<lb/>
+added to this proposal which will be outlined and discussed separately, in<lb/>
+a separate communication.</p>
+<p>Of the <unclear>large</unclear> projects the most important are the following:<lb/>
+<list type="ordered">
+<item>A. An adequate water and sewerage system in each town.</item>
+<item>B. Proper garbage collection and destruction system.</item>
+<item>C. Street paving. Unless streets are properly paved the city<lb/>
+or town cannot be properly cleaned, and the garbage collection<lb/>
+will be inefficient.</item>
+<item>D. A survey and adjustment of the irrigation system with a view<lb/>
+of avoiding the formation of malaria breading swamps.</item>
+<item>E. The initiation and rigid enforcement of rat proofing.</item>
+<item>20.</item>
+</list></p>
+<pb n="20" id="f01008020"/>
+<p>The above represents such an immense program that it is evident<lb/>
+it cannot be carried out in very many places simultaneously. The work<lb/>
+should be commenced in the centers having the greatest population - in<lb/>
+order to do the greatest amount of good for the largest number of in-<lb/>
+habitants with the least expense. There are certain ports which by<lb/>
+preference should be sanitated on account of their importance to maritime<lb/>
+commerce. Callao and Paita are the most important ports, as well as the<lb/>
+most <unclear>notorious</unclear> for insanitary conditions.</p>
+<p>In regard to the garbage collection and destruction, the collection<lb/>
+is difficult while the streets remain in their present condition, but<lb/>
+by proper organization it can be done. The most practical and economic<lb/>
+manner for its destruction, at the present time, is by means of the<lb/>
+so called &ldquo;rail crematories&rdquo;, burning the garbage in the open. On the<lb/>
+coast, where there is <unclear>but</unclear> practically no rain fall, the garbage will<lb/>
+burn very well with but little attention. The alternative for this method<lb/>
+is the elaborate and expensive furnace destructors which, in the opinion<lb/>
+of the writer, represent an unjustifiable expense. The proper destruction<lb/>
+of garbage is a matter which should admit of no delay, in as much as it<lb/>
+does not necessitate any large outlay of capital. It is a problem which<lb/>
+any of the municipalities can readily solve if they wish to do so. It is<lb/>
+a thing which would be a very important factor in the reduction of the<lb/>
+sick rats, both in connection with bubonic plague and the intestinal dis-<lb/>
+orders. It would eliminate both rat food and fly breeding material.<lb/>
+On a dry coast such as that of Peru, it should be relatively easy to do<lb/>
+away with the fly nuisance. The eggs which the fly deposits need a<lb/>
+certain amount of moisture for the maturing of the larvae which develope<lb/>
+from the eggs, and it is the scarcity of moisture on the coast of Peru<lb/>
+which keeps the fly nuisance from becoming greater than it is. Were it<lb/>
+not for this fact, or were the case such that an abundant rain kept the<lb/>
+numerous garbage heaps moist, the number of flies resulting would be<lb/>
+incalcuble, and the intestinal disorders would increase proportionately.</p>
+<p>21.</p>
+<pb n="21" id="f01008021"/>
+<p>The <unclear>times</unclear> at my disposal does not permit me to go into a detailed<lb/>
+discussion of the many saitary problems which exist. The observations<lb/>
+which serve as a basis for the foregoing remarks in this brief report<lb/>
+have been made principally in the Departments of Lima, Libertad, Lambayeque,<lb/>
+Piura and the Province of Tumbes, where I have personally visited the<lb/>
+majority of the towns and estates. The conditions in the mountains have<lb/>
+not been investigated by the writer, hence they have been mentioned only<lb/>
+incidentally in connection with the typhus fever and verrugas fever.<lb/>
+Detailed statistics are lacking, but a number of photographs have been taken<lb/>
+to represent the general sanitary condition of the coast; the descriptions<lb/>
+accompanying <unclear>those</unclear> will enable the reader the form his own idea as to the<lb/>
+justification of certain apparently brutally frank remarks. I trust the<lb/>
+reader will realize that the motive of this frankness is purely and simply<lb/>
+that those who should know these things may be able to inform themselves, as<lb/>
+it seems incredible that the actual conditions would be allowed to exist<lb/>
+were the true state of affairs common knowledge. The writer has been<lb/>
+the victim of both yellow fever and typhoid fever during the time occu-<lb/>
+pied in securing the data which has served as a basis for this report -<lb/>
+no complaint is made of this, it is simply stated as a corroboration of<lb/>
+having come in close personal contact with the existing conditions.</p>
+<p>In closing I wish to thank all Public Officials for the kindly and<lb/>
+courteous treatment received while in Peru. I hope to claim many of them<lb/>
+as my friends although in some distant land.</p>
+<p>I wish especially to acknowledge the kindly treatment and the<lb/>
+uniformly helpful interest manifested by his <unclear>Excellency</unclear>, A.B. Leguia, the<lb/>
+President of Peru.</p>
+<closer>
+<salute>Respectfully submitted,</salute>
+<signed>Henry Hanson, M.D.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

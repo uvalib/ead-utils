@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N2653004">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, Baltimore Sun, November 23, 1902</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N2653004</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1902-11-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="person">Reed, Walter Lawrence</name>
+<name type="place">University of Virginia, Charlottesville (Va.)</name>
+<name type="place">Bellevue Hospital, New York (N.Y.)</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Philippines</name>
+<name type="hospital">General Hospital, Washington Barracks, Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1902-11-23">November 23, 1902</date>
+<idno rend="suppress">N2653004</idno>
+<title>Newspaper clipping, Baltimore Sun, November 23, 1902</title>
+</bibl>
+</head>
+<p>Major Walter Reed Dead</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1902-11-23">
+<head>Newspaper clipping, Baltimore Sun, November 23, 1902</head>
+<pb n="1" id="fN2653004"/>
+<p>MAJOR WALTER REED DEAD</p>
+<p>----------</p>
+<p>Virginian Who Traced Spread Of<lb/>
+Yellow Fever Passes Away.</p>
+<p>[Special Dispatch to the Baltimore Sun.]</p>
+<p>WASHINGTON, Nov. 23. -- Major Walter<lb/>
+Reed, of the army, one of the best-known<lb/>
+bacteriologists in the country, died at 2<lb/>
+o'clock this morning at the General Hos-<lb/>
+pital of the army at the Washington Bar-<lb/>
+racks, following an operation on Monday<lb/>
+last for appendicitis.</p>
+<p>He attained international fame recently<lb/>
+by discovering that mosquitoes carry the<lb/>
+germ of yellow fever. On account of his<lb/>
+scientific achievements he was this year<lb/>
+awarded an honorary degree by Harvard.</p>
+<p>The funeral will take place Tuesday aft-<lb/>
+ernoon from St. Thomas' Protestant Epis-<lb/>
+copal Church.</p>
+<p>---</p>
+<p>A Native Of Virginia.</p>
+<p>Major Walter Reed was a Virginian,<lb/>
+having been born in Gloucester county in<lb/>
+1851. He was a graduate of the medical<lb/>
+department of the University of Virginia<lb/>
+and of Bellevue Hospital, New York city.<lb/>
+Major Reed was appointed an assistant<lb/>
+surgeon in the army in 1875, and at the<lb/>
+time of his death was first on the list of<lb/>
+majors and surgeons in the medical depart-<lb/>
+ment of the army. In 1893 he was ap-<lb/>
+pointed curator of the Army Medical Mu-<lb/>
+seum in Washington, and gave his time to<lb/>
+the science which he loved. Combining in<lb/>
+an unusual degree scientific accuracy with<lb/>
+calm judgment, his ability was invaluable<lb/>
+in searching out the cases of epidemic dis-<lb/>
+eases and tracing their progress.</p>
+<p>During the Spanish-American War he<lb/>
+was a member of the board to investigate<lb/>
+typhoid fever in the army. After the war<lb/>
+he made several voyages to Cuba and was<lb/>
+on duty in Havana, studying the diseases<lb/>
+of the island, more particularly yellow fe-<lb/>
+ver, as a member of the board to investi-<lb/>
+gate yellow fever. After a series of bril-<lb/>
+liant experiments, which cost the life of<lb/>
+one member of the board early in <unclear>1900</unclear> it<lb/>
+was announced as a proved fact that yel-<lb/>
+low fever is conveyed by a certain variety<lb/>
+of mosquito and introduced into the blood<lb/>
+of non-immunes by its bite.</p>
+<p>Sanitary measures tending to the de-<lb/>
+struction of the insect and the screening<lb/>
+of infected persons were put into effect<lb/>
+immediately in Havana by order of Gen-<lb/>
+eral Wood, with the result that for more<lb/>
+than a year no case of yellow fever has<lb/>
+there developed, though the disease had<lb/>
+existed permanently in Havana for three<lb/>
+centuries.</p>
+<p>Major Reed leaves a widow and a daugh-<lb/>
+ter residing in Washington, and a son,<lb/>
+Lieut. W. L. Reed, Tenth Infantry, now<lb/>
+in the Philippines.</p>
+<p>----------------------</p>
+</div1>
+</body>
+</text>
+</TEI.2>

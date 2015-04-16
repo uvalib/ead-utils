@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06302048">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to Philip Showalter Hench, March 27, 1941</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06302048</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1941-03-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Pena, Jose M.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Donnally, H. H.</name>
+<name type="person">Hemmeter, John</name>
+<name type="person">Dominguez [Roldan], Francisco</name>
+<name type="person">Angles, Eduardo</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Siler, J. F.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1941-03-27">March 27, 1941</date>
+<idno rend="suppress">06302048</idno>
+<title>Letter from Jefferson Randolph Kean to Philip Showalter Hench, March 27, 1941</title>
+</bibl>
+</head>
+<p>Kean asserts that Finlay was the discoverer of the transmission of yellow fever by mosquito and that Reed's demonstration of the theory led to its acceptance by the scientific world. He expresses a dislike for the grouping of men in the yellow fever painting.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1941-03-27">
+<head>Letter from Jefferson Randolph Kean to Philip Showalter Hench, March 27, 1941</head>
+<pb n="1" id="f06302048"/>
+<opener>
+2804 N STREET, N. W.<lb/>
+GEORGETOWN<lb/>
+WASHINGTON, D. C.<lb/>
+<dateline>
+<date value="1941-03-27">March 27&sol;41</date>
+</dateline>
+<salute>My dear Dr Hench</salute>
+</opener>
+<p>Your letter mailed on the<lb/>
+20<hi rend="superscript">th</hi> was received on the 24<hi rend="superscript">th</hi>. I noted<lb/>
+the date on the Envelope. I have had<lb/>
+it upright on my desk waiting the<lb/>
+note book containing, photostat<lb/>
+copies of the articles by Hemmeter<lb/>
+and Donnally about Carroll.<lb/>
+I am Keen to see them but they<lb/>
+have not yet arrived, at which<lb/>
+I am puzzled. I will wait no<lb/>
+longer to send you a letter to<lb/>
+Havana. You will arrive there to-<lb/>
+morrow and I will send this to the<lb/>
+Hotel Facional, Havana.</p>
+<p>I have written to Dr. Angles, and<lb/>
+Dr. Francisco Dominguez. I have a<lb/>
+<pb n="2" id="f06302049"/>
+AC<lb/>
+K<lb/>
+2<lb/>
+long letter from Dr. D. beautifully written<lb/>
+in French. He thinks that Finlay<lb/>
+is next to Pasteur, so there is no<lb/>
+use to argue with him. We agree<lb/>
+that Finlay was the <hi>discoverer</hi> of<lb/>
+the transmission of y. f. by the mos-<lb/>
+quito and that Reed and his<lb/>
+assistants <hi>demonstrated</hi> it so<lb/>
+that it was accepted by the scientific<lb/>
+world. I do not see why sensible<lb/>
+scientific men should dispute<lb/>
+over the relative credit of each.<lb/>
+Yes I have the key you sent me to<lb/>
+your dispatch box. I kept it inten-<lb/>
+tionally so that you could make<lb/>
+other shipments if you wished, like<lb/>
+these Hemmeter photostats. I will<lb/>
+give it to you when you come here<lb/>
+in April. It will be fine to<lb/>
+have a day of talk with you.<lb/>
+<pb n="3" id="f06302050"/>
+3<lb/>
+Yes I will round up a Stenog. For you and<lb/>
+have her on hand. I know only one and<lb/>
+she has a job at the Military Surgeon. If<lb/>
+she cannot get a day off you can comman-<lb/>
+ders one from one of your medical friends<lb/>
+here as you suggest.</p>
+<p>Colonel Siler brought me today photographic<lb/>
+copies of Reed's contracts with four of the<lb/>
+Spaniards also a photograph of the Canvas<lb/>
+bag which held the $600 <hi rend="superscript">00</hi> in gold for three<lb/>
+of them. I took out Beni&ntilde;o's gold prices<lb/>
+myself. I think before the others. I asked<lb/>
+Col. Siler to have these printed for you and<lb/>
+he made two sets, one for you and one for me.<lb/>
+He brought me also an armful of records<lb/>
+from the files of the Military Surgeon. I will<lb/>
+look over these before you come to see if<lb/>
+there is any thing that you want there.<lb/>
+I was Sec'y &amp; Editor of the Military Surgeon<lb/>
+from the date of my retirement from active<lb/>
+duty in 1924 until 1934 when I resigned<lb/>
+as Editor and Secy.</p>
+<p>I hope that you will find smooth sailing in<lb/>
+Cuba - and get all the cooperation that you<lb/>
+want. I have just heard that my best friend<lb/>
+in Cuba Dr. Jose M. Pe&ntilde;a is dead of a cancer<lb/>
+of the pancreas. He was a man of stirling char-<lb/>
+acter and good business capacity and great<lb/>
+loyalty to his friends. He was my assistant<lb/>
+first in Beneficencia and, in the second Inter-<lb/>
+vention, in Sanidad - and we exchanged occa-<lb/>
+sional letters through more than 30 years.<lb/>
+I will talk to you about the painting when I<lb/>
+see you. I do not like the group at all <del>but do not</del><lb/>
+<pb n="4" id="f06302051"/>
+4<lb/>
+but I have not any desire to assert<lb/>
+my opinion in the matter in opposi-<lb/>
+tion to yours and Trubys. I know that<lb/>
+Reed would hate to see that impos-<lb/>
+sible group brought together, as if<lb/>
+for a photograph, when he was in Washing<lb/>
+ton and Agramonte, probably in Havana<lb/>
+and the whole thing was at that time<lb/>
+a deep secret. I really think the<lb/>
+Finlay-Reed group in the patio is much<lb/>
+better, if Lazear is given a prominent<lb/>
+place. Carroll probably wasn't there and<lb/>
+if he was, was utterly sceptical.<lb/>
+I feel that Reed's fame is so secure<lb/>
+that neither the partizan spirit of Dr<lb/>
+Dominguez &amp; the Cubans nor any picture<lb/>
+that can be painted can harm it.<lb/>
+Here is the end of the page &amp; a good place<lb/>
+to stop</p>
+<closer>
+<salute>Cordially your friend</salute>
+<signed>J. R. Kean</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

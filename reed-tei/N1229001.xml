@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N1229001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, Philadelphia Evening Public Ledger, September 15, 1925</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N1229001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1925-09-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Carter, Henry Rose</name>
+<name type="place">Panama Canal (Panama)</name>
+<name type="place">Caroline County (Va.)</name>
+<name type="place">University of Virginia, Charlottesville (Va.)</name>
+<name type="place">University of Maryland, Baltimore (Md.)</name>
+<name type="place">Gulf of Mexico</name>
+<name type="place">United States</name>
+<name type="place">Cuba</name>
+<name type="place">Russia</name>
+<name type="place">South America</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1925-09-15">September 15, 1925</date>
+<idno rend="suppress">N1229001</idno>
+<title>Newspaper clipping, Philadelphia Evening Public Ledger, September 15, 1925</title>
+</bibl>
+</head>
+<p>Dr. Carter, Yellow Fever Expert Dies</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1925-09-15">
+<head>Newspaper clipping, Philadelphia Evening Public Ledger, September 15, 1925</head>
+<pb n="1" id="fN1229001"/>
+<opener>
+<unclear>9 \ deulth</unclear><lb/>
+Argus <unclear>Pressclipping</unclear> Bureau<lb/>
+352 Third <unclear>Ave,</unclear> New York<lb/>
+__________________________________________________<lb/>
+<unclear>CLIPPING FROM</unclear><lb/>
+<dateline>
+Phila Eve. Public Ledger<lb/>
+<date value="1925-09-15">SEP 15 1925</date>
+</dateline>
+</opener>
+<p>Dr HENRY CARTER</p>
+<p>-------------</p>
+<p>DR. CARTER, YELLOW<lb/>
+FEVER EXPERT, DIES</p>
+<p>---------</p>
+<p>Assistant Surgeon General of<lb/>
+U. S. Founded Present Mari-<lb/>
+time Quarantine System</p>
+<p>-----------</p>
+<p>NAMED FOR NOBEL PRIZE</p>
+<p>-----------</p>
+<p>Washington, Sept. 14.---(AP)---Dr.<lb/>
+Henry R. Carter, assistant surgeon<lb/>
+general of the United States, died at<lb/>
+his home here today after a long ill-<lb/>
+ness.</p>
+<p>-----</p>
+<p>Dr. Henry Ross Carter was consid-<lb/>
+ered one of the ranking authorities<lb/>
+on the subject of eyllow fever, being<lb/>
+nominated for the Nobel Prize for his<lb/>
+discoveries in connection with this<lb/>
+work. For the great service he ren-<lb/>
+dered in the construction of the Pamana<lb/>
+Canal Congress created for Dr. Carter<lb/>
+the position of Assistant Surgeon Gen-<lb/>
+eral-at-Large of the United States Pub-<lb/>
+lic Health Service. Another one of his<lb/>
+notable achievements was the founding<lb/>
+of the present maritime quarantine sys-<lb/>
+tem.</p>
+<p>A member of a prominent family, Dr.<lb/>
+Carter was born in Caroline County,<lb/>
+Virginia, in 1852. He was graduated<lb/>
+from the University of Virginia as an<lb/>
+engineer in 1873 and a few years later<lb/>
+took his degree in medicine at the Uni-<lb/>
+versity of Maryland. He entered the<lb/>
+Marine Hospital Service in 1879 and<lb/>
+in the fall of that year was ordered to<lb/>
+Ship sland Quarantine Station, in the<lb/>
+Gulf of Mexico, where, at that time,<lb/>
+he saw his first case of yellow fever.<lb/>
+There he began the study of the disease<lb/>
+and laid the foundation of his work for<lb/>
+its control and prevention.</p>
+<p>In 1904 Dr. Carter was detailed for<lb/>
+duty in Panama, where he organized<lb/>
+the quarantine service and later served<lb/>
+as director of hosuitals and chairman<lb/>
+of the board of diagnosis. He remained<lb/>
+with the Panama Canal Commission<lb/>
+five years. Panama was freed from<lb/>
+yellow fever a year from the time the<lb/>
+Sanitary Department got to work.</p>
+<p>Dr. Carter engaged in hospital, quar-<lb/>
+antine and epidemic work in the United<lb/>
+States, Cuba, the Canal Zone, Russia<lb/>
+and South America. During the World<lb/>
+War he was in charge of the control<lb/>
+of malaria in the extra-cantonment<lb/>
+areas of the camps and in the regions<lb/>
+around the big industrial plants en-<lb/>
+gaged in the production of war ma-<lb/>
+terial. He served as sanitary adviser<lb/>
+to the Peruvian Government in 1920.<lb/>
+He was a member of the Yellow Fever<lb/>
+Council of the International Health<lb/>
+Board of the Rockefeller Foundation.</p>
+<p>Among Mr. Carter's achievements<lb/>
+were: The determination of the period<lb/>
+of extrinsic incubation of yellow fever;<lb/>
+the institution of a rational between<lb/>
+the disinfection of vessels and the<lb/>
+detention of their personnel, permitting<lb/>
+the fixing of minimum periods of deten-<lb/>
+tion in quarantine; the encouragement<lb/>
+of uniformity in quarantine practice;<lb/>
+the transfer of the Brunswick, Ga.,<lb/>
+quarantine station to the Federal Gov-<lb/>
+ernment, the first State or municipal<lb/>
+quarantine to be thus surrendered; the<lb/>
+control of numerous yellow fever epi-<lb/>
+demics in the South.</p>
+<p>__________________________________________________</p>
+</div1>
+</body>
+</text>
+</TEI.2>

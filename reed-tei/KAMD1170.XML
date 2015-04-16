@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD1170">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Eastman Kodak Radio Program #6: Yellow Jack, by Howard W. Haggard, September 27, 1931</title>
+<title type="gmd">[electronic resource]</title>
+<author>Haggard, Howard W.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD1170</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1931-09-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Noguchi,Hideyo</name>
+<name type="person">Stokes, Adrian</name>
+<name type="place">Philadelphia (Pa.)</name>
+<name type="place">London (England)</name>
+<name type="place">Panama Canal (Panama)</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>13 pp.</extent>
+<date value="1931-09-27">September 27, 1931</date>
+<idno rend="suppress">KAMD1170</idno>
+<title>Eastman Kodak Radio Program #6: Yellow Jack, by Howard W. Haggard, September 27, 1931</title>
+</bibl>
+</head>
+<p>This script briefly covers major historical accounts of yellow fever including stories of the Flying Dutchman, the Philadelphia epidemic, and the building of the Panama Canal. The document also addresses the heroic experiments performed on human volunteers to discover that mosquitoes transmitted yellow fever. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1931-09-27">
+<head>Eastman Kodak Radio Program #6: Yellow Jack, by Howard W. Haggard, September 27, 1931</head>
+<pb n="1" id="fKAMD1170"/>
+<p>J. WALTER THOMPSON COMPANY<lb/>
+Sept. 11, 1931</p>
+<p>Eastman Kodak Radio<lb/>
+Program #36<lb/>
+September 27, 1931</p>
+<p><hi>YELLOW JACK</hi></p>
+<p>Dr Howard W. Haggard</p>
+<p>And do you remember the legend of the Flying Dutchman,<lb/>
+the specter ship that haunted the waters off the Cape of Good<lb/>
+Hope? Silently it glided by in the night, without lights,<lb/>
+without helmsmen, with sails blown full, a ship that went on<lb/>
+and on but never made a port. The sailors who saw it passing<lb/>
+in the moonlight, an apparition on the silent sea, were struck<lb/>
+with terror, for the Flying Dutchman was an omen of disaster.<lb/>
+On that phantom ship, so the story says, a murder had been<lb/>
+committed, and as a retribution Yellow Jack had broken out on<lb/>
+board, making the ship a pariah of the sea, about which grew<lb/>
+legends and superstitions.</p>
+<p>The story of the Flying Dutchman was the sailor's<lb/>
+picturesque way of expressing his fear of Yellow Jack, the yellow<lb/>
+fever. There are true cases of such ill-omened ships, but most<lb/>
+did not sail the high seas as phantoms; they lay rotting in the<lb/>
+waters, shunned by the sailors. But some there were that put<lb/>
+out to sea; thus there was the barque Huskisson which in 1837<lb/>
+came in to Sierra Leone, West Africa. While she was unloading,<lb/>
+I wrote Dr. Haggard Sept. 24&sol;1931.<lb/>
+ref. p. 10.<lb/>
+<pb n="2" id="fKAMD1180"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-2-<lb/>
+yellow fever broke out among the crew. All but three died.<lb/>
+The disease, the dreaded Yellow Jack, spread to the colony on<lb/>
+shore. For three months the Huskisson lay in the harbor without<lb/>
+a man on board. Then when all danger from the disease seemed<lb/>
+passed, a new crew was finally formed. Every man among them<lb/>
+trembled when he went on board; such was the strength of their<lb/>
+superstitious belief in the haunting yellow fever. But they were<lb/>
+tempted there by premises of high pay.</p>
+<p><hi>THE DISEASE OF THE CONQUISTADORES</hi></p>
+<p>Three days passed; the ship put out to sea; all was<lb/>
+well on board. True, there was a host of ravenous mosquitoes<lb/>
+stirred up from the bilge, making the nights unhappy, but who<lb/>
+minded mosquitoes when the pay was high? Some of the sailors<lb/>
+spoke lightly of their former fears; but the more pessimistic<lb/>
+ones said, &ldquo;Wait; she's haunted with Yellow Jack!&rdquo; On the fourth<lb/>
+day a sailor lay in his bunk tossing with the fever - then<lb/>
+another was stricken, and another. Yellow Jack had come. The<lb/>
+sails were down, the ship drifted in the current, all of the<lb/>
+crew save one or two were dead. The barque was another Flying<lb/>
+Dutchman, every port closed to her.</p>
+<p>The yellow fever was a mysterious disease. That was<lb/>
+<pb n="3" id="fKAMD1190"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-3-<lb/>
+why it brought such fear and panic to men. For three months<lb/>
+and longer it lay in wait on an empty ship to exterminate the<lb/>
+crew that came aboard. There was no contact there with men<lb/>
+who had the disease; its ways were mysterious, and from its<lb/>
+mystery grew the fear of it.</p>
+<p>Just one fact, one item of medical knowledge, was<lb/>
+needed to show the way in bringing the disease under control.<lb/>
+If someone had only told those sailors on the barque Huskisson<lb/>
+that the mosquitoes that infested the ship were the source of<lb/>
+the infection, it would not have become a companion of the<lb/>
+Flying Dutchman. A few yards of mosquito cloth, a few pounds<lb/>
+of sulphur to burn, and the ship would have been free from<lb/>
+Yellow Jack, But that knowledge did not come for sixty-three<lb/>
+years - just at the turn of the present century.</p>
+<p>When did yellow fever start? No one knows; probably<lb/>
+it had a foothold from time immemorial in the islands of the<lb/>
+West Indies and on the mainland shores near them. But I don't<lb/>
+believe the natives suffered much from the disease in these<lb/>
+districts where it had always been present. In childhood,<lb/>
+when they must, of necessity, have contracted it, yellow fever<lb/>
+is usually mild and one attack confers life-long immunity.<lb/>
+And so, <hi>long before Europeans came to the New</hi> World, the disease ?<lb/>
+?<lb/>
+It came from Africa brought probably in the<lb/>
+slave trade<lb/>
+<pb n="4" id="fKAMD1200"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-4-<lb/>
+and the natives had struck a sort of compromise, a balance.<lb/>
+The disease flourished, and the children had it; most of<lb/>
+them survived, never to be affected again. But, following<lb/>
+Columbus, the coming of the Spaniards, the Portugese, the<lb/>
+French, the Dutch, and the English, the balance was upset.<lb/>
+Here were adults who had not had yellow fever in childhood.<lb/>
+For such adults yellow fever was not a mild disease; in its<lb/>
+outbreak it killed forty, fifty, and sometimes ninety percent<lb/>
+of the immigrants to the New World islands. Yellow fever<lb/>
+became the disease of the Conquistadores. Their graves, some<lb/>
+marked, but more unmarked, dot the islands.</p>
+<p>The new arrivals to the Western Hemisphere upset<lb/>
+another balance that had been reached with the disease; they<lb/>
+introduced commerce. The mosquitoes which cause the disease<lb/>
+do not fly over long distances, but they do ride on ships.<lb/>
+Yellow fever boarded the ships of the buccaneers. It followed<lb/>
+the lines of the slave trade <del>to</del><add>from</add> West Africa. It spread to<lb/>
+Spain, Portugal, Italy, and France, and once to England. It<lb/>
+traveled along the eastern coast of North America to Philadelphia,<lb/>
+New York, and Boston.</p>
+<p>If, even for a moment, you doubt the indispensability<lb/>
+of medical science to the spread of civilization and to commerce,<lb/>
+<pb n="5" id="fKAMD1210"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-5-<lb/>
+just imagine yourself in Philadelphia in the summer of 1793.<lb/>
+Commerce had developed then, but the medical control of yellow<lb/>
+fever had not. The infected mosquitoes had been imported into<lb/>
+Philadelphia. Here is part of a contemporaneous account of the<lb/>
+epidemic that killed in that summer ten percent of the city's<lb/>
+population.</p>
+<p><hi>YELLOW FEVER IN PHILADELPHIA</hi></p>
+<p>&ldquo;The consternation of the people of Philadelphia at<lb/>
+that period was beyond all bounds. Dismay and affright were<lb/>
+visible on the countenances of almost every person. Of those<lb/>
+who remained, many shut themselves in their houses and were afraid<lb/>
+to walk the streets ... The corpses of the most respectable<lb/>
+citizens, even those who did not die of the epidemic, were carried<lb/>
+to the grave on the shafts of a chaise, the horse driven by a<lb/>
+negro, unattended by friends or relatives and without any sort of<lb/>
+ceremony. People hastily shifted their course at the sight of a<lb/>
+hearse coming toward them. Many never walked on the footpaths,<lb/>
+but went into the middle of the street to avoid passing by houses<lb/>
+wherein people had died. Acquaintances and friends avoided one<lb/>
+another in the street and only signified their regard by a cold nod.<lb/>
+The old custom of shaking hands fell into such disuse that many<lb/>
+<pb n="6" id="fKAMD1220"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-6-<lb/>
+shrank back with affright at even the offer of the hand. A<lb/>
+person with crepe or any appearance of mourning was shunned<lb/>
+like a viper, and many prided themselves highly on the skill<lb/>
+and address with which they got to the windward of every person<lb/>
+they met. Indeed, it is not probable that London, at the last<lb/>
+stage of the Plague, exhibited stronger marks of terror than<lb/>
+were seen in Philadelphia from the 24th or 25th of April until<lb/>
+pretty late in September. While affairs were in this deplorable<lb/>
+stage and the people at the lowest ebb of despair, we cannot be<lb/>
+astonished at the frightful scenes that were enacted, which seemed<lb/>
+to indicate a total dissolution of the bonds of society in the<lb/>
+nearest and dearest connections. Who, without horror, can reflect }<lb/>
+on a husband deserting his wife in the last agony; a wife who had }<lb/>
+been united to him perhaps for twenty years, a wife unfeelingly }?<lb/>
+abandoning her husband on his deathbed; parents forsaking their }<lb/>
+only child without remorse; children ungratefully flying from their }<lb/>
+parents and resigning them to chance, without an inquiry after<lb/>
+their health or safety .....?&rdquo;</p>
+<p><hi>MEDICAL KNOWLEDGE BRINGS FREEDOM FROM DISEASE</hi></p>
+<p>That was the state of Philadelphia when Yellow Jack<lb/>
+swooped down upon it. Such occasional epidemics in temperate<lb/>
+<pb n="7" id="fKAMD1230"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-7-<lb/>
+regions always died out as did this one in Philadelphia, &ldquo;pretty<lb/>
+late in September&rdquo; with the coming of frost and cold weather.<lb/>
+The reason was then obscure; but now we know that freezing weather<lb/>
+put an end to the mosquitoes which were carrying the infection.</p>
+<p>Thus in bygone days there were occasional outbreaks of<lb/>
+yellow fever in northern regions, but in the areas to which the<lb/>
+fever-bearing mosquitoes were indigenous there was a more or less<lb/>
+constant occurrence of the disease. And what a toll it took of<lb/>
+the white immigrants there. The successive British garrisons in<lb/>
+Jamaica and Bermuda were from time to time almost exterminated.<lb/>
+The mortality among those sturdy colonists and soldiers sent out<lb/>
+from England was tremendous. For years in Jamaica the annual<lb/>
+death rate in the garrison was nearly two hundred in a thousand -<lb/>
+one in every five - each year. Do you remember in Thackeray's<lb/>
+<hi>Vanity Fair</hi> the unfortunate Rawdon Crawley who is sent as governor<lb/>
+to &ldquo;Coventry Island&rdquo; in the West Indies and is not expected to<lb/>
+last long?</p>
+<p>It seems almost incredible, doesn't it, that these<lb/>
+islands which are now health and pleasure resorts were until thirty<lb/>
+years ago almost the unhealthiest places in the world for a tourist?<lb/>
+And the whole transformation was brought about by just one medical<lb/>
+discovery which gave us this bit of knowledge: yellow fever is<lb/>
+<pb n="8" id="fKAMD1240"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-8-<lb/>
+carried by a certain variety of mosquito and can be abolished<lb/>
+by exterminating the mosquito. Moreover, this particular<lb/>
+mosquito is an easy one to exterminate. It breeds near houses<lb/>
+in water barrels, upturned tin cans, and sagging gutters that<lb/>
+collect rain water. Clean up about the home, screen the rain<lb/>
+barrels, oil a few ponds, keep the sick under mesh so that<lb/>
+no mosquitoes can reach them to acquire infection, and almost<lb/>
+like magic a scourge of the tropics disappears.</p>
+<p><hi>THE WHITE MAN'S GRAVE</hi></p>
+<p>I have often said in my talks here that modern civi-<lb/>
+lization as we know it is made possible only by modern medical<lb/>
+knowledge. There is no more striking proof of this fact than<lb/>
+the story of the building of the Panama Canal. That was less an<lb/>
+engineering feat than a medical one. The isthmus was the &ldquo;white<lb/>
+man's grave.&rdquo; Yellow Fever stalked there as a pestilence, and<lb/>
+except for it the Panama Canal would belong to another nation.<lb/>
+A French company under the guidance of the famous Ferdinand de<lb/>
+Lessep who built the Suez Canal obtained a concession in Panama<lb/>
+and started actively on the construction of the canal in the<lb/>
+latter part of the nineteenth century. It is hard to say whether<lb/>
+the greatest difficulty of the company was financial, structural,<lb/>
+<pb n="9" id="fKAMD1250"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-9-<lb/>
+or medical. The canal was not completed, and there is a legend<lb/>
+that says that there is a Frenchman buried under every tie of the<lb/>
+railroad built. Certainly the mortality from yellow fever was<lb/>
+appalling, and even if the canal had been built after immense<lb/>
+loss of life and yellow fever not brought under control, ships<lb/>
+would still go round Cape Horn instead of taking the shorter<lb/>
+route thru Panama; if yellow fever still existed there, the ports<lb/>
+of the world would of necessity impose an absolute quarantine on<lb/>
+all ships which had passed thru the canal.</p>
+<p>One bit of medical information made it possible for<lb/>
+the United States to build the Panama Canal. The sanitary work<lb/>
+in the isthmus carried out by General Gorgas wiped out yellow<lb/>
+fever in the canal zone; it made it the healthiest strip of land<lb/>
+in all the tropics. The one bit of medical knowledge upon which<lb/>
+this stupendous piece of work was based was that of how yellow<lb/>
+fever is transmitted.</p>
+<p>To the people of the United States there is a particular<lb/>
+pride in that knowledge of far reaching effect. It was obtained by<lb/>
+the men in the medical corps of our army. They found a way to<lb/>
+control yellow fever; and in the search they willingly risked and<lb/>
+gave their lives that men might be free from this scourge.</p>
+<pb n="10" id="fKAMD1260"/>
+<p>J. WALTER THOMPSON COMPANY<lb/>
+-10-</p>
+<p><hi>HEROIC EXPERIMENTS</hi></p>
+<p>In 1898 Cuba was the center of war activity; the<lb/>
+battleship Maine had been sunk; troops were landing - more of<lb/>
+them to die by yellow fever than by the bullets of the Spaniards.<lb/>
+After the war troops were garrisoned in Havana; yellow fever<lb/>
+continued. The city was scrubbed; every corner was tidied up,<lb/>
+but the disease grew in volume. In Havana there were three times<lb/>
+as many deaths from yellow fever in 1900 as there were in 1899.<lb/>
+The situation was critical. A Yellow Fever Commission was ap-<lb/>
+pointed. Doctor Walter Reed headed it, and with him were Doctors<lb/>
+James Carrol, Jesse Lazear, and Aristides Agramote. In July this<lb/>
+group of men started a war - a war on yellow fever - that in its<lb/>
+far-reaching effects dwarfed to insignificance the battles that<lb/>
+had liberated Cuba. The war headed by Major Walter Reed freed men<lb/>
+from yellow fever. In six months Jesse Lazear was dead of the<lb/>
+disease, James Carrol had had it and recovered; <hi><add>(</add>a dozen or<add>) no</add> more ?<lb/>
+volunteers had given their lives in experiments</hi>; but Walter Reed<lb/>
+and the other survivors of the Yellow Fever Commission had learned<lb/>
+how to control yellow fever. In 1902 Havana for the first time in<lb/>
+a hundred and fifty years was free from yellow fever.<lb/>
+Lazear was the only casualty<lb/>
+in these experiments.</p>
+<p>The experiments that the Commission carried out had their<lb/>
+<pb n="11" id="fKAMD1270"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-11-<lb/>
+starting point from a statement made by Doctor Carlos Finlay<lb/>
+of Havana. He had said repeatedly that yellow fever was<lb/>
+carried by mosquitoes, but he had no proofs that carried<lb/>
+conviction. It was merely his theory, and every one else had<lb/>
+a theory - each one different. But to Walter Reed Doctor<lb/>
+Finlay's suggestion seemed plausible; the Commission decided<lb/>
+to test it. The experiments had to be on men. Let a mosquito<lb/>
+bite a patient with yellow fever and then let it bite a well<lb/>
+man. If he got yellow fever, then there was something in the<lb/>
+theory. Sounds simple, doesn't it? But how would you like to<lb/>
+be the man whom the mosquito bit? What sort of thoughts would<lb/>
+go thru your mind as you stood there waiting with the mosquito<lb/>
+on your arm swelling up with your blood? There was no excitement<lb/>
+of battle, just standing there watching a mosquito who had bitten<lb/>
+a man dying of yellow fever and was now biting you. If the ex-<lb/>
+periment were a success, your chances of living or dying were just<lb/>
+about even. James Carrol tried it; he lived, but it was a close<lb/>
+call; for days he lay stricken with yellow fever. Jesse Lazear<lb/>
+tried it with a stray mosquito that flew across the yellow fever<lb/>
+ward. He died.</p>
+<p>Then there were experiments, dozens of them, carried<lb/>
+out on volunteers. These men who offered their lives for the<lb/>
+<pb n="12" id="fKAMD1280"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-12-<lb/>
+work stayed for weeks as prisoners in mosquito-proof huts to<lb/>
+make certain that they were not already infected with yellow<lb/>
+fever. Then infected mosquitoes were turned loose in their huts.<lb/>
+All got yellow fever, <del>and some</del><add>but none</add> died.</p>
+<p>There was no question now but that the mosquito carried<lb/>
+the disease. But that was not the only proof needed. It must be<lb/>
+shown that the disease was carried only by the mosquito. And so<lb/>
+new volunteers took their places in the screened huts. A week or<lb/>
+two they waited to show they were not infected with yellow fever,<lb/>
+and then their beds were made with gruesome linen. Night after<lb/>
+night they slept on soiled clothing taken from beds on which men<lb/>
+had died of yellow fever - horrid duty, but a safe one, so it<lb/>
+proved, for none of these volunteers came down with yellow fever.</p>
+<p><hi>NO GREATER DEEDS CAN ANY MEN DO</hi></p>
+<p>No mosquitoes - no yellow fever. Just one bit of medical<lb/>
+information needed to free our American continents from a disease,<lb/>
+a horrible disease. Thousands upon thousands of lives have been<lb/>
+saved, the canal built, the West Indies made safe, New Orleans freed<lb/>
+from fever, and the northern cities spared of occasional devastating<lb/>
+epidemics. Great accomplishments these - almost too big to be com-<lb/>
+prehended in their entirety. Perhaps that's why my thoughts turn<lb/>
+<pb n="13" id="fKAMD1290"/>
+J. WALTER THOMPSON COMPANY<lb/>
+-13-<lb/>
+instead to that little group of men in Cuba, the volunteers<lb/>
+who let the mosquitoes bite them to find out how yellow fever<lb/>
+was carried. My thoughts turn, too, to the great Hideyo Nogutchi<lb/>
+and Adrian Stokes who only three years ago on the West Coast of<lb/>
+Africa gave their lives in learning more about the yellow fever<lb/>
+that still thrives there.</p>
+<p>These are very human things; we can comprehend and pay<lb/>
+our tribute to such bravery and self-sacrifice. War has it heroes,<lb/>
+religion its saints and martyrs, and so also has medicine. These<lb/>
+heroes, saints, and martyrs of medicine work and fight and die,<lb/>
+often in obscurity, that their fellow men may be freed from disease<lb/>
+and suffering and sorrow. No greater deeds can any men do.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

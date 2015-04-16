@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02013001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Report of Vital Statistics of Havana, by William Crawford Gorgas, April 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Gorgas, William Crawford</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02013001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-04-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1900-04-00">April, 1900</date>
+<idno rend="suppress">02013001</idno>
+<title>Report: Report of Vital Statistics of Havana, by William Crawford Gorgas, April 1900</title>
+</bibl>
+</head>
+<p>Selected pages of the report give statistics regarding deaths in Havana. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-04-00">
+<head>Report: Report of Vital Statistics of Havana, by William Crawford Gorgas, April 1900</head>
+<pb n="1" id="f02013001"/>
+<p>File</p>
+<p>FROM THE NATIONAL ARCHIVES</p>
+<p>On Ref.<lb/>
+oh</p>
+<p>HEADQUARTERS DIVISION OF HAVANA.</p>
+<p>13 MAY 1900</p>
+<p>OFFICE OF ADJUTANT GENERAL<lb/>
+OCT 30<lb/>
+348044<lb/>
+1900<lb/>
+WAR DEPARTMENT</p>
+<p>OFFICE CHIEF SANITARY OFFICER</p>
+<p>Get an extra copy<lb/>
+for Gen Ludlerd</p>
+<p>REPORT<lb/>
+OF<lb/>
+Vital Statistics<lb/>
+OF<lb/>
+HAVANA<lb/>
+FOR<lb/>
+APRIL, 1900.</p>
+<p>Encls. 6. ago.</p>
+<p>Population according of Official<lb/>
+Census, 235.000</p>
+<p>Major W. C. Gorgas.<lb/>
+SURGEON, U. S. A.<lb/>
+CHIEF SANITARY OFFICER.</p>
+<p><unclear>[unclear]</unclear> &amp; Co., Printing and Paper <unclear>Re</unclear></p>
+<pb n="2" id="f02013002"/>
+<p>
+<table rows="73" cols="2">
+<row><cell>DEATHS</cell><cell>TOTAL</cell></row>
+<row><cell>Angina Pectoris</cell><cell>1</cell></row>
+<row><cell>Alcoholism</cell><cell>4</cell></row>
+<row><cell>Anaemia</cell><cell>2</cell></row>
+<row><cell>Apoplexy</cell><cell>13</cell></row>
+<row><cell>Asthma</cell><cell>1</cell></row>
+<row><cell>Asphyxia</cell><cell>3</cell></row>
+<row><cell>Bronchitis</cell><cell>17</cell></row>
+<row><cell>Brain, Softening of</cell><cell>2</cell></row>
+<row><cell>Brain, Congestion of</cell><cell>6</cell></row>
+<row><cell>Brights Disease, acute</cell><cell>4</cell></row>
+<row><cell>Brights Disease, chronic</cell><cell>3</cell></row>
+<row><cell>Burns</cell><cell>2</cell></row>
+<row><cell>Cancer</cell><cell>12</cell></row>
+<row><cell>Cystitis</cell><cell>1</cell></row>
+<row><cell>Dysentery</cell><cell>2</cell></row>
+<row><cell>Dropsy</cell><cell>3</cell></row>
+<row><cell>Eclampsia Puerperal</cell><cell>5</cell></row>
+<row><cell>Enteritis</cell><cell>48</cell></row>
+<row><cell>Endocarditis</cell><cell>3</cell></row>
+<row><cell>Epilepsy</cell><cell>1</cell></row>
+<row><cell>Oedema Pulmonay</cell><cell>1</cell></row>
+<row><cell>Fever, Typhoid</cell><cell>5</cell></row>
+<row><cell>Fever, Pernicious Malarial</cell><cell>6</cell></row>
+<row><cell>Fever, Borras</cell><cell>1</cell></row>
+<row><cell>Gangrene</cell><cell>1</cell></row>
+<row><cell>Grippe</cell><cell>18</cell></row>
+<row><cell>Glanders</cell><cell>1</cell></row>
+<row><cell>Heart, Valvular Disease of</cell><cell>16</cell></row>
+<row><cell>Heart, Fatty Degeneration of</cell><cell>11</cell></row>
+<row><cell>Heart, Hypertrophy of</cell><cell>4</cell></row>
+<row><cell>Haemophilia</cell><cell>1</cell></row>
+<row><cell>Hemorrhage Uterine</cell><cell>1</cell></row>
+<row><cell>Intestinal Infection</cell><cell>2</cell></row>
+<row><cell>Liver, Cirrhosis of</cell><cell>8</cell></row>
+<row><cell>Leukaemia</cell><cell>1</cell></row>
+<row><cell>Leprosy</cell><cell>1</cell></row>
+<row><cell>Limphangitis</cell><cell>1</cell></row>
+<row><cell>Lungs, Congestion of</cell><cell>2</cell></row>
+<row><cell>Locomotor Ataxia</cell><cell>1</cell></row>
+<row><cell>Marasmus</cell><cell>17</cell></row>
+<row><cell>Myelitis</cell><cell>2</cell></row>
+<row><cell>Muscular, Atrophy</cell><cell>1</cell></row>
+<row><cell>Meningitis</cell><cell>22</cell></row>
+<row><cell>Malaria</cell><cell>24</cell></row>
+<row><cell>Navel Hemorrhage</cell><cell>2</cell></row>
+<row><cell>Occlusion, Intestinal</cell><cell>5</cell></row>
+<row><cell>Pneumonia, Catarrhal</cell><cell>7</cell></row>
+<row><cell>Pneumonia, Lohar</cell><cell>18</cell></row>
+<row><cell>Peritonitis, Acute</cell><cell>3</cell></row>
+<row><cell>Pyaemia</cell><cell>4</cell></row>
+<row><cell>Pleurisy</cell><cell>2</cell></row>
+<row><cell>Periearditis</cell><cell>1</cell></row>
+<row><cell>Poisoning</cell><cell>2</cell></row>
+<row><cell>Pulmonar, Embolism</cell><cell>1</cell></row>
+<row><cell>Paralisys</cell><cell>1</cell></row>
+<row><cell>Rachitis</cell><cell>10</cell></row>
+<row><cell>Rheumatism</cell><cell>2</cell></row>
+<row><cell>Sclerosis, Arterial</cell><cell>30</cell></row>
+<row><cell>Stomach, Ulceration of</cell><cell>1</cell></row>
+<row><cell>Syphilis</cell><cell>2</cell></row>
+<row><cell>Shock, Traumatic</cell><cell>2</cell></row>
+<row><cell>Stangnlated Hernia</cell><cell>1</cell></row>
+<row><cell>Serofula</cell><cell>1</cell></row>
+<row><cell>Tabies, Dorsalis</cell><cell>1</cell></row>
+<row><cell>Tumor</cell><cell>2</cell></row>
+<row><cell>Tuberenlosis</cell><cell>80</cell></row>
+<row><cell>Tetanns</cell><cell>10</cell></row>
+<row><cell>Uraemia</cell><cell>2</cell></row>
+<row><cell>Wounds contused</cell><cell>6</cell></row>
+<row><cell>Wounds, Gaushot</cell><cell>5</cell></row>
+<row><cell></cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>482</cell></row>
+</table>
+</p>
+<p>DEATHS BY NATIONALITY.</p>
+<p>
+<table rows="16" cols="6">
+<row><cell></cell><cell cols="2-3">MALE</cell><cell cols="4-5">FEMALE</cell><cell></cell></row>
+<row><cell></cell><cell cols="2-3">------</cell><cell cols="4-5">------</cell><cell></cell></row>
+<row><cell></cell><cell>WHITE</cell><cell>COLORED</cell><cell>WHITE</cell><cell>COLORED</cell><cell>TOTAL</cell></row>
+<row><cell>Cubans</cell><cell>119</cell><cell>61</cell><cell>135</cell><cell>57</cell><cell>372</cell></row>
+<row><cell>Spaniards</cell><cell>60</cell><cell>0</cell><cell>20</cell><cell>0</cell><cell>80</cell></row>
+<row><cell>Americans</cell><cell>4</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>7</cell></row>
+<row><cell>Chinese</cell><cell>8</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>8</cell></row>
+<row><cell>African negroes</cell><cell>0</cell><cell>3</cell><cell>0</cell><cell>2</cell><cell>5</cell></row>
+<row><cell>Puerto Rieans</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1</cell></row>
+<row><cell>Sto. Domingans</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1</cell></row>
+<row><cell>Venezuelaus</cell><cell>1</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>2</cell></row>
+<row><cell>Mexicans</cell><cell>1</cell><cell>0</cell><cell>2</cell><cell>0</cell><cell>3</cell></row>
+<row><cell>English</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>2</cell></row>
+<row><cell>Turkish</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>1</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>197</cell><cell>65</cell><cell>160</cell><cell></cell><cell>482</cell></row>
+</table>
+</p>
+<p>DEATHS BY DISTRICTS</p>
+<p>
+<table rows="12" cols="2">
+<row><cell>Arroyo Naranjo</cell><cell>3</cell></row>
+<row><cell>Belen</cell><cell>47</cell></row>
+<row><cell>Calvario</cell><cell>4</cell></row>
+<row><cell>Catedral</cell><cell>31</cell></row>
+<row><cell>Carra</cell><cell>88</cell></row>
+<row><cell>Guadalupe</cell><cell>52</cell></row>
+<row><cell>Jesus Maria</cell><cell>79</cell></row>
+<row><cell>Pilar</cell><cell>96</cell></row>
+<row><cell>Puentes Grandes</cell><cell>24</cell></row>
+<row><cell>Vedado</cell><cell>482</cell></row>
+<row><cell></cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>482</cell></row>
+</table>
+</p>
+<p>DEATH IN HOSPITALS</p>
+<p>
+<table rows="13" cols="2">
+<row><cell>Reina Mercedes</cell><cell>18</cell></row>
+<row><cell>Las Animas</cell><cell>18</cell></row>
+<row><cell>Aidecoa</cell><cell>19</cell></row>
+<row><cell>Dependientes</cell><cell>4</cell></row>
+<row><cell>La Benetlea</cell><cell>4</cell></row>
+<row><cell>Covandango</cell><cell>2</cell></row>
+<row><cell>Del Rey</cell><cell>1</cell></row>
+<row><cell>Paula</cell><cell>3</cell></row>
+<row><cell>San Lazaro</cell><cell>1</cell></row>
+<row><cell>Chinese</cell><cell>2</cell></row>
+<row><cell>Hospital num. 1</cell><cell>1</cell></row>
+<row><cell></cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>73</cell></row>
+</table>
+</p>
+<p>DEATHS BY AGES</p>
+<p>
+<table rows="15" cols="2">
+<row><cell>From 0 to 2 years</cell><cell>107</cell></row>
+<row><cell>" 2 to 5 "</cell><cell>14</cell></row>
+<row><cell>" 5 to 10 "</cell><cell>19</cell></row>
+<row><cell>" 10 to 20 "</cell><cell>41</cell></row>
+<row><cell>" 20 to 30 "</cell><cell>73</cell></row>
+<row><cell>" 30 to 40 "</cell><cell>55</cell></row>
+<row><cell>" 40 to 50 "</cell><cell>54</cell></row>
+<row><cell>" 50 to 60 "</cell><cell>51</cell></row>
+<row><cell>" 60 to 70 "</cell><cell>41</cell></row>
+<row><cell>" 70 to 80 "</cell><cell>11</cell></row>
+<row><cell>" 80 to 90 "</cell><cell>11</cell></row>
+<row><cell>" 90 to 100 "</cell><cell>4</cell></row>
+<row><cell>Over a 100 "</cell><cell>1</cell></row>
+<row><cell></cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>482</cell></row>
+</table>
+</p>
+<pb n="3" id="f02013003"/>
+<p>INFECTIOUS AND CONTAGIOUS DISEASES REPORTED</p>
+<p>
+<table rows="14" cols="5">
+<row><cell></cell><cell>WHITE.</cell><cell>COLORED.</cell><cell>CHINESE.</cell><cell>TOTAL.</cell></row>
+<row><cell>Tuberculosis</cell><cell>71</cell><cell>28</cell><cell>9</cell><cell>108</cell></row>
+<row><cell>Typhoid fever</cell><cell>6</cell><cell>3</cell><cell>0</cell><cell>9</cell></row>
+<row><cell>Perniclos Malarial fever</cell><cell>4</cell><cell>1</cell><cell>0</cell><cell>5</cell></row>
+<row><cell>Seafiet fever</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>1</cell></row>
+<row><cell>Yellow fever</cell><cell>5</cell><cell>0</cell><cell>0</cell><cell>5</cell></row>
+<row><cell>Measles</cell><cell>13</cell><cell>2</cell><cell>0</cell><cell>15</cell></row>
+<row><cell>Inplitheria</cell><cell>5</cell><cell>3</cell><cell>0</cell><cell>8</cell></row>
+<row><cell>Small Pox</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>3</cell></row>
+<row><cell>Varicella</cell><cell>26</cell><cell>9</cell><cell>1</cell><cell>36</cell></row>
+<row><cell>Variolold</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>1</cell></row>
+<row><cell>Gianders</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>1</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>135</cell><cell>47</cell><cell>10</cell><cell>192</cell></row>
+</table>
+</p>
+<p>YELLOW FEVER REPORT</p>
+<p>
+<table rows="9" cols="4">
+<row><cell>NATIONALITY<lb/><hi rend="italic">Hemmoning under treatment<lb/>April 1st. 1900</hi>.</cell><cell>Cases</cell><cell>Deaths</cell><cell>Discharged</cell></row>
+<row><cell>Spaniards</cell><cell>1</cell><cell>0</cell><cell>1</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>1</cell><cell>0</cell><cell>1</cell></row>
+<row><cell><hi rend="italic">New cases accurring in April</hi></cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Spaniards</cell><cell>3</cell><cell>0</cell><cell>3</cell></row>
+<row><cell>Americans</cell><cell>2</cell><cell>0</cell><cell>2</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>5</cell><cell>0</cell><cell>5</cell></row>
+</table>
+</p>
+<p>MARRIAGES DURING THE MONTH</p>
+<p>
+<table rows="4" cols="2">
+<row><cell>White</cell><cell>125</cell></row>
+<row><cell>Colored</cell><cell>9</cell></row>
+<row><cell></cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>134</cell></row>
+</table>
+</p>
+<p>PERSONS MARRIED</p>
+<p>
+<table rows="12" cols="6">
+<row><cell></cell><cell>WHITE</cell><cell>COLORED</cell></row>
+<row><cell></cell><cell cols="2-3">------</cell><cell cols="4-5">------</cell></row>
+<row><cell>NATIONALITY</cell><cell>MALE</cell><cell>FEMALE</cell><cell>MALE</cell><cell>FEMALE</cell><cell>TOTAL</cell></row>
+<row><cell>Cubans</cell><cell>76</cell><cell>105</cell><cell>8</cell><cell>9</cell><cell>198</cell></row>
+<row><cell>Spanish</cell><cell>39</cell><cell>16</cell><cell>0</cell><cell>0</cell><cell>55</cell></row>
+<row><cell>Americans</cell><cell>6</cell><cell>2</cell><cell>1</cell><cell>0</cell><cell>9</cell></row>
+<row><cell>Mexicans</cell><cell>1</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>2</cell></row>
+<row><cell>Germans</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1</cell></row>
+<row><cell>French</cell><cell>1</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>2</cell></row>
+<row><cell>Venezuelan</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>125</cell><cell>125</cell><cell>9</cell><cell>9</cell><cell>268</cell></row>
+</table>
+</p>
+<p>Births Recorded during the Month.</p>
+<p>
+<table rows="7" cols="4">
+<row><cell></cell><cell><hi rend="italic"><unclear>Le</unclear></hi></cell><cell><hi rend="italic"><unclear>En</unclear></hi></cell><cell>TOTAL.</cell></row>
+<row><cell>White Male</cell><cell>282</cell><cell>129</cell><cell>411</cell></row>
+<row><cell>White Female</cell><cell>274</cell><cell>153</cell><cell>427</cell></row>
+<row><cell>Colored Male</cell><cell>11</cell><cell>112</cell><cell>123</cell></row>
+<row><cell>Colored Female</cell><cell>20</cell><cell>103</cell><cell>123</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTAL</cell><cell>587</cell><cell>497</cell><cell>1084</cell></row>
+</table>
+</p>
+<p>Apperant excess of Births over Deatls <unclear>92</unclear></p>
+<p>SANITARY OFFICER'S REPORT</p>
+<p>
+<table rows="12" cols="2">
+<row><cell>Examination of premises</cell><cell>1057</cell></row>
+<row><cell>Written notices</cell><cell>531</cell></row>
+<row><cell>Cesspools examined</cell><cell>1057</cell></row>
+<row><cell>Cesspools cleaned</cell><cell>479</cell></row>
+<row><cell>Houses cleaned and disinfected</cell><cell>932</cell></row>
+<row><cell>Carts loads of material removed from Sts.</cell><cell>534</cell></row>
+<row><cell>Carts loads of desinfected material re-<lb/>
+moved from houses</cell><cell>534</cell></row>
+<row><cell>Average Square Meters of Streets cleaned<lb/>
+daily</cell><cell>1,239,681</cell></row>
+<row><cell>No. of times Catch Basins disinfected</cell><cell>7,924</cell></row>
+<row><cell>Average Number of gallons Electrozone<lb/>
+applied daily to catch basins, sewers<lb/>
+streets, urinals and houses</cell><cell>8,581</cell></row>
+<row><cell>Cubic Yards (night soil material) removed</cell><cell>832</cell></row>
+</table>
+</p>
+<p>WEATHER REPORT</p>
+<p>
+<table rows="32" cols="5">
+<row><cell>DAY</cell><cell>BAROMETER</cell><cell>Thermometer</cell><cell>Humidity</cell><cell>RAIN FALL</cell></row>
+<row><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>1</cell><cell>30.170</cell><cell>68</cell><cell>70</cell><cell>.0</cell></row>
+<row><cell>2</cell><cell>30.149</cell><cell>70</cell><cell>79</cell><cell>0.9</cell></row>
+<row><cell>3</cell><cell>30.063</cell><cell>72</cell><cell>83</cell><cell>.0</cell></row>
+<row><cell>4</cell><cell>30.020</cell><cell>74</cell><cell>86</cell><cell>.6</cell></row>
+<row><cell>5</cell><cell>30.077</cell><cell>74</cell><cell>73</cell><cell>.T</cell></row>
+<row><cell>6</cell><cell>30.076</cell><cell>69</cell><cell>68</cell><cell>.0</cell></row>
+<row><cell>7</cell><cell>29.986</cell><cell>69</cell><cell>68</cell><cell>.0</cell></row>
+<row><cell>8</cell><cell>29.933</cell><cell>72</cell><cell>78</cell><cell>.9</cell></row>
+<row><cell>9</cell><cell>29.962</cell><cell>73</cell><cell>83</cell><cell>.0</cell></row>
+<row><cell>10</cell><cell>29.997</cell><cell>74</cell><cell>93</cell><cell>.T</cell></row>
+<row><cell>11</cell><cell>29.995</cell><cell>78</cell><cell>83</cell><cell>.0</cell></row>
+<row><cell>12</cell><cell>29.993</cell><cell>76</cell><cell>79</cell><cell>.0</cell></row>
+<row><cell>13</cell><cell>29.996</cell><cell>74</cell><cell>86</cell><cell>.0</cell></row>
+<row><cell>14</cell><cell>30.027</cell><cell>76</cell><cell>81</cell><cell>.0</cell></row>
+<row><cell>15</cell><cell>30.043</cell><cell>76</cell><cell>85</cell><cell>.0</cell></row>
+<row><cell>16</cell><cell>30.036</cell><cell>76</cell><cell>81</cell><cell>.0</cell></row>
+<row><cell>17</cell><cell>29.993</cell><cell>78</cell><cell>83</cell><cell>0.1</cell></row>
+<row><cell>18</cell><cell>29.944</cell><cell>78</cell><cell>80</cell><cell>.0</cell></row>
+<row><cell>19</cell><cell>29.921</cell><cell>77</cell><cell>80</cell><cell>.0</cell></row>
+<row><cell>20</cell><cell>29.981</cell><cell>78</cell><cell>91</cell><cell>.0</cell></row>
+<row><cell>21</cell><cell>29.984</cell><cell>79</cell><cell>85</cell><cell>.0</cell></row>
+<row><cell>22</cell><cell>29.964</cell><cell>76</cell><cell>83</cell><cell>.T.</cell></row>
+<row><cell>23</cell><cell>29.934</cell><cell>78</cell><cell>79</cell><cell>.0</cell></row>
+<row><cell>24</cell><cell>29.885</cell><cell>79</cell><cell>79</cell><cell>.0</cell></row>
+<row><cell>25</cell><cell>29.847</cell><cell>81</cell><cell>88</cell><cell>.0</cell></row>
+<row><cell>26</cell><cell>29.839</cell><cell>79</cell><cell>87</cell><cell>.0</cell></row>
+<row><cell>27</cell><cell>29.886</cell><cell>79</cell><cell>82</cell><cell>.0</cell></row>
+<row><cell>28</cell><cell><unclear>29.960</unclear></cell><cell>79</cell><cell>81</cell><cell>.0</cell></row>
+<row><cell>29</cell><cell>29.903</cell><cell>78</cell><cell>78</cell><cell>.0</cell></row>
+<row><cell>30</cell><cell>29.646</cell><cell>79</cell><cell>85</cell><cell><unclear>.10</unclear></cell></row>
+</table>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

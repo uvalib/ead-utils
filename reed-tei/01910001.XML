@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01910001"> 
+<teiHeader type="aacr2"> 
+<fileDesc> 
+<titleStmt> 
+<title type="245">Letter from George Miller Sternberg to Walter Reed, April 19, 1899</title> 
+<title type="gmd">[electronic resource]</title> 
+<author>Sternberg, George Miller</author> 
+<respStmt> 
+<resp>Transcriptions and TEI markup</resp> 
+<name>Innodata Inc</name> 
+<resp>Images, project design, and management:</resp> 
+<name>Historical Collections &amp; Services<lb/> 
+Claude Moore Health Sciences Library<lb/> 
+University of Virginia Health System<lb/> 
+P.O. Box 800722<lb/> 
+Charlottesville, VA 22908-0722 
+</name> 
+<resp>TEI consultation:</resp> 
+<name>Electronic Text Center<lb/> 
+University of Virginia Library<lb/> 
+</name> 
+</respStmt> 
+</titleStmt> 
+<extent>ca. 15 kilobytes</extent> 
+<publicationStmt> 
+<publisher>Claude Moore Health Sciences Library of the 
+University of Virginia Health System</publisher> 
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace> 
+<idno>01910001</idno> 
+<availability> 
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p> 
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p> 
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt> 
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection 
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno> 
+</bibl> 
+</sourceDesc> 
+</fileDesc>
+<profileDesc>
+<creation><date>1899-04-19</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Reed, Walter </term></keywords></textClass>
+</profileDesc>
+<revisionDesc> 
+<change><date></date> 
+<respStmt><resp></resp> <name></name></respStmt> 
+<item></item></change> 
+</revisionDesc> 
+</teiHeader> 
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="place">Puerto Principe (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1899-04-19">April 19, 1899</date>
+<idno rend="suppress">01910001</idno>
+<title>Letter from George Miller Sternberg to Walter Reed, April 19, 1899</title>
+</bibl>
+</head>
+<p>Sternberg directs Reed to inspect the camps, barracks, and hospitals occupied by U.S. troops in the vicinity of Puerto Principe, Cuba, and to make any necessary recommendations for improvement. He is to report on the prevalence of typhoid or other infectious diseases.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1899-04-19">
+<head>Letter from George Miller Sternberg to Walter Reed, April 19, 1899</head>
+<pb n="1" id="f01910001"/>
+<opener>
+1992<lb/>
+<unclear>Carded</unclear><lb/>
+Communications on official business should be addressed, &ldquo;To the Surgeon General, U. S. Army, Washington, D. C.&rdquo;<lb/>
+<hi rend="italic">Subject</hi>:<lb/>
+In reply refer to No.<lb/>
+WAR DEPARTMENT,<lb/>
+Surgeon General's Office,<lb/>
+<dateline>
+Washington, <date value="1899-04-19">April 19, 1899.</date>
+</dateline><lb/>
+Major Walter Reed,<lb/>
+Surgeon, U. S. Army,<lb/>
+Army Medical Museum,<lb/>
+Surgeon General's Office.<lb/>
+<salute>Sir:-</salute>
+</opener>
+<p>Upon your arrival at Puerto Principe, in compliance with orders<lb/>
+from the Adjutant General's Office, you will make a thorough sanitary<lb/>
+inspection of the Camps, Barracks and Hospitals occupied by U. S.<lb/>
+Troops in that vicinity; and also a careful investigation with<lb/>
+reference to the causes which have led to the epidemic of typhoid<lb/>
+fever at that place.</p>
+<p>If this can be traced to a neglect upon the part of medical<lb/>
+officers to make proper sanitary recommendations, or of Commanding<lb/>
+Officers to enforce such regulations, or of Quartermasters to sup-<lb/>
+ply the necessary shelter and appliances for the protection of the<lb/>
+health of our Troops, you will endeavor if possible to fix the respon-<lb/>
+sibility for such neglect. You will also ascertain whether the<lb/>
+sick have been properly cared for and whether there has been any<lb/>
+deficiency in the supply of suitable food or necessary medicines, or<lb/>
+of other articles necessary for their comfort and recovery.</p>
+<p>You will make a full report of all facts bearing upon the<lb/>
+<pb n="2" id="f01910002"/>
+--2--<lb/>
+causes of the prevalence of typhoid fever or other <unclear>infectious diseases</unclear><lb/>
+among our soldiers in the Department of Puerto Principe.</p>
+<p>Recommendations relating to the improvement of existing san-<lb/>
+itary conditions should be made to the Commanding General Depart-<lb/>
+ment of Puerto Principe. Your full report should be sent through<lb/>
+the Surgeon General to the Adjutant General of the Army.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>Geo M Sternberg</signed>
+Surgeon General, U. S. Army.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

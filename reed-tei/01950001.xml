@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01950001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Statistics of Births, Marriages, Deaths, Immigration and Yellow Fever From 1890 to 1899, by John G. Davis, [1899]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Davis, John G.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01950001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1899-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>7 pp.</extent>
+<date value="1899-00-00">1899</date>
+<idno rend="suppress">01950001</idno>
+<title>Report: Statistics of Births, Marriages, Deaths, Immigration and Yellow Fever From 1890 to 1899, by John G. Davis, [1899]</title>
+</bibl>
+</head>
+<p>In addition to the topics mentioned in the title, this report by Davis, the Chief Sanitary Officer in Havana, Cuba, includes a sanitary report and the number of cases of infectious diseases. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1890-00-00">
+<head>Report: Statistics of Births, Marriages, Deaths, Immigration and Yellow Fever From 1890 to 1899, by John G. Davis, [1899]</head>
+<pb n="1" id="f01950001"/>
+<p><unclear>File</unclear><lb/>
+FROM THE NATIONAL ARCHIVES<lb/>
+HEADQUARTERS DEPARTMENT OF HAVANA<lb/>
+HAVANA, CUBA.</p>
+<p>---------------</p>
+<p>OFFICE CHIEF SANITARY OFFICER</p>
+<p>---------------</p>
+<p>STATISTICS OF BIRTHS.<lb/>
+Marriages, Deaths,<lb/>
+Immigration and Yellow Fever<lb/>
+From 1890 to 1899</p>
+<p>---------------</p>
+<p>Major John G. Davis.<lb/>
+Surgeon, U. S. V.<lb/>
+Chief Sanitary Officer.</p>
+<p><unclear>[unclear]</unclear></p>
+<pb n="2" id="f01950002"/>
+<p>2</p>
+<p>
+<table rows="18" cols="19">
+<row><cell>DISTRICTS</cell><cell cols="2-10">CATEDRAL</cell><cell cols="11-19">BELEN</cell></row>
+<row><cell cols="1-11">==========================================</cell><cell cols="12-19">==================================</cell></row>
+<row><cell cols="2-4">BIRTHS.</cell><cell cols="5-7">MARRIAGES.</cell><cell cols="8-10">DEATHS.</cell><cell cols="11-13">BIRTHS.</cell><cell cols="14-16">MARRIAGES.</cell><cell cols="17-19">DEATHS.</cell></row>
+<row><cell cols="2-4">=========</cell><cell cols="5-7">=========</cell><cell cols="8-10">=========</cell><cell cols="11-13">=========</cell><cell cols="14-16">=========</cell><cell cols="17-19">=========</cell></row>
+<row><cell rows="2-3">YEARS</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell></row>
+<row><cell>----</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>1890</cell><cell>396</cell><cell>36</cell><cell>25</cell><cell>144</cell><cell>4</cell><cell>3</cell><cell>11</cell><cell>642</cell><cell>653</cell><cell>402</cell><cell>78</cell><cell>56</cell><cell>89</cell><cell>13</cell><cell>3</cell><cell>15</cell><cell>683</cell><cell>698</cell></row>
+<row><cell>1891</cell><cell>366</cell><cell>36</cell><cell>20</cell><cell>134</cell><cell>4</cell><cell>5</cell><cell>14</cell><cell>653</cell><cell>667</cell><cell>439</cell><cell>77</cell><cell>53</cell><cell>85</cell><cell>7</cell><cell>3</cell><cell>5</cell><cell>643</cell><cell>648</cell></row>
+<row><cell>1892</cell><cell>377</cell><cell>28</cell><cell>19</cell><cell>134</cell><cell>5</cell><cell>7</cell><cell>30</cell><cell>610</cell><cell>640</cell><cell>452</cell><cell>70</cell><cell>41</cell><cell>80</cell><cell>11</cell><cell>2</cell><cell>22</cell><cell>579</cell><cell>601</cell></row>
+<row><cell>1893</cell><cell>387</cell><cell>33</cell><cell>22</cell><cell>126</cell><cell>6</cell><cell>2</cell><cell>27</cell><cell>557</cell><cell>584</cell><cell>488</cell><cell>76</cell><cell>35</cell><cell>118</cell><cell>9</cell><cell>2</cell><cell>26</cell><cell>528</cell><cell>554</cell></row>
+<row><cell>1894</cell><cell>384</cell><cell>17</cell><cell>6</cell><cell>79</cell><cell>3</cell><cell>0</cell><cell>12</cell><cell>529</cell><cell>541</cell><cell>486</cell><cell>73</cell><cell>39</cell><cell>139</cell><cell>12</cell><cell>3</cell><cell>10</cell><cell>585</cell><cell>595</cell></row>
+<row><cell>1895</cell><cell>413</cell><cell>7</cell><cell>4</cell><cell>101</cell><cell>1</cell><cell>2</cell><cell>30</cell><cell>547</cell><cell>577</cell><cell>475</cell><cell>91</cell><cell>30</cell><cell>111</cell><cell>10</cell><cell>0</cell><cell>32</cell><cell>561</cell><cell>593</cell></row>
+<row><cell>1896</cell><cell>543</cell><cell>11</cell><cell>10</cell><cell>120</cell><cell>5</cell><cell>3</cell><cell>22</cell><cell>656</cell><cell>678</cell><cell>431</cell><cell>82</cell><cell>19</cell><cell>115</cell><cell>2</cell><cell>5</cell><cell>17</cell><cell>654</cell><cell>671</cell></row>
+<row><cell>1897</cell><cell>503</cell><cell>30</cell><cell>23</cell><cell>111</cell><cell>6</cell><cell>3</cell><cell>5</cell><cell>1113</cell><cell>1118</cell><cell>366</cell><cell>72</cell><cell>9</cell><cell>81</cell><cell>4</cell><cell>4</cell><cell>5</cell><cell>1344</cell><cell>1349</cell></row>
+<row><cell>1898</cell><cell>393</cell><cell>13</cell><cell>16</cell><cell>132</cell><cell>2</cell><cell>2</cell><cell>4</cell><cell>1086</cell><cell>1090</cell><cell>269</cell><cell>52</cell><cell>5</cell><cell>103</cell><cell>4</cell><cell>0</cell><cell>3</cell><cell>1546</cell><cell>1549</cell></row>
+<row><cell>1899</cell><cell>528</cell><cell>10</cell><cell>10</cell><cell>152</cell><cell>1</cell><cell>1</cell><cell>15</cell><cell>548</cell><cell>563</cell><cell>350</cell><cell>93</cell><cell>24</cell><cell>55</cell><cell>7</cell><cell>0</cell><cell>5</cell><cell>660</cell><cell>665</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTALS</cell><cell>4290</cell><cell>221</cell><cell>155</cell><cell>1233</cell><cell>37</cell><cell>28</cell><cell>170</cell><cell>6941</cell><cell>7111</cell><cell>4158</cell><cell>764</cell><cell>311</cell><cell>976</cell><cell>79</cell><cell>22</cell><cell>140</cell><cell>7783</cell><cell>7923</cell></row>
+</table>
+</p>
+<p>
+<table rows="18" cols="19">
+<row><cell>DISTRICTS</cell><cell cols="2-10">GUADALUPE</cell><cell cols="11-19">JESUS MARIA</cell></row>
+<row><cell cols="1-11">==========================================</cell><cell cols="12-19">==================================</cell></row>
+<row><cell cols="2-4">BIRTHS.</cell><cell cols="5-7">MARRIAGES.</cell><cell cols="8-10">DEATHS.</cell><cell cols="11-13">BIRTHS.</cell><cell cols="14-16">MARRIAGES.</cell><cell cols="17-19">DEATHS.</cell></row>
+<row><cell cols="2-4">=========</cell><cell cols="5-7">=========</cell><cell cols="8-10">=========</cell><cell cols="11-13">=========</cell><cell cols="14-16">=========</cell><cell cols="17-19">=========</cell></row>
+<row><cell rows="2-3">YEARS</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell></row>
+<row><cell>----</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>1890</cell><cell>432</cell><cell>88</cell><cell>58</cell><cell>253</cell><cell>20</cell><cell>3</cell><cell>3</cell><cell>670</cell><cell>673</cell><cell>605</cell><cell>50</cell><cell>124</cell><cell>134</cell><cell>6</cell><cell>3</cell><cell>151</cell><cell>1149</cell><cell>1300</cell></row>
+<row><cell>1891</cell><cell>437</cell><cell>101</cell><cell>35</cell><cell>229</cell><cell>12</cell><cell>4</cell><cell>7</cell><cell>628</cell><cell>635</cell><cell>581</cell><cell>83</cell><cell>74</cell><cell>159</cell><cell>7</cell><cell>6</cell><cell>219</cell><cell>1142</cell><cell>1361</cell></row>
+<row><cell>1892</cell><cell>472</cell><cell>110</cell><cell>30</cell><cell>260</cell><cell>11</cell><cell>3</cell><cell>2</cell><cell>733</cell><cell>735</cell><cell>563</cell><cell>74</cell><cell>74</cell><cell>114</cell><cell>6</cell><cell>8</cell><cell>101</cell><cell>1008</cell><cell>1109</cell></row>
+<row><cell>1893</cell><cell>492</cell><cell>99</cell><cell>45</cell><cell>240</cell><cell>19</cell><cell>3</cell><cell>4</cell><cell>668</cell><cell>672</cell><cell>482</cell><cell>78</cell><cell>63</cell><cell>93</cell><cell>2</cell><cell>2</cell><cell>127</cell><cell>951</cell><cell>1078</cell></row>
+<row><cell>1894</cell><cell>496</cell><cell>87</cell><cell>38</cell><cell>199</cell><cell>11</cell><cell>1</cell><cell>8</cell><cell>658</cell><cell>666</cell><cell>471</cell><cell>74</cell><cell>44</cell><cell>99</cell><cell>3</cell><cell>0</cell><cell>209</cell><cell>1025</cell><cell>1234</cell></row>
+<row><cell>1895</cell><cell>527</cell><cell>86</cell><cell>32</cell><cell>180</cell><cell>12</cell><cell>2</cell><cell>19</cell><cell>583</cell><cell>602</cell><cell>501</cell><cell>60</cell><cell>34</cell><cell>122</cell><cell>9</cell><cell>0</cell><cell>151</cell><cell>1114</cell><cell>1265</cell></row>
+<row><cell>1896</cell><cell>468</cell><cell>50</cell><cell>22</cell><cell>143</cell><cell>11</cell><cell>2</cell><cell>3</cell><cell>734</cell><cell>737</cell><cell>562</cell><cell>44</cell><cell>42</cell><cell>107</cell><cell>7</cell><cell>1</cell><cell>140</cell><cell>1442</cell><cell>1582</cell></row>
+<row><cell>1897</cell><cell>372</cell><cell>40</cell><cell>18</cell><cell>103</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>887</cell><cell>888</cell><cell>533</cell><cell>65</cell><cell>23</cell><cell>132</cell><cell>5</cell><cell>4</cell><cell>146</cell><cell>1974</cell><cell>2120</cell></row>
+<row><cell>1898</cell><cell>293</cell><cell>18</cell><cell>8</cell><cell>103</cell><cell>3</cell><cell>1</cell><cell>1</cell><cell>1163</cell><cell>1164</cell><cell>331</cell><cell>22</cell><cell>18</cell><cell>115</cell><cell>0</cell><cell>1</cell><cell>12</cell><cell>2485</cell><cell>2497</cell></row>
+<row><cell>1899</cell><cell>485</cell><cell>63</cell><cell>31</cell><cell>106</cell><cell>8</cell><cell>1</cell><cell>4</cell><cell>626</cell><cell>630</cell><cell>599</cell><cell>67</cell><cell>33</cell><cell>109</cell><cell>3</cell><cell>3</cell><cell>1</cell><cell>1090</cell><cell>1091</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTALS</cell><cell>4474</cell><cell>742</cell><cell>317</cell><cell>1816</cell><cell>108</cell><cell>21</cell><cell>52</cell><cell>7350</cell><cell>7402</cell><cell>5228</cell><cell>617</cell><cell>529</cell><cell>1184</cell><cell>48</cell><cell>28</cell><cell>1257</cell><cell>13380</cell><cell>14637</cell></row>
+</table>
+</p>
+<p>
+<table rows="18" cols="19">
+<row><cell>DISTRICTS</cell><cell cols="2-10">PILAR</cell><cell cols="11-19">CERRO</cell></row>
+<row><cell cols="1-11">==========================================</cell><cell cols="12-19">==================================</cell></row>
+<row><cell cols="2-4">BIRTHS.</cell><cell cols="5-7">MARRIAGES.</cell><cell cols="8-10">DEATHS.</cell><cell cols="11-13">BIRTHS.</cell><cell cols="14-16">MARRIAGES.</cell><cell cols="17-19">DEATHS.</cell></row>
+<row><cell cols="2-4">=========</cell><cell cols="5-7">=========</cell><cell cols="8-10">=========</cell><cell cols="11-13">=========</cell><cell cols="14-16">=========</cell><cell cols="17-19">=========</cell></row>
+<row><cell rows="2-3">YEARS</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell></row>
+<row><cell>----</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>1890</cell><cell>441</cell><cell>102</cell><cell>35</cell><cell>52</cell><cell>1</cell><cell>1</cell><cell>26</cell><cell>841</cell><cell>867</cell><cell>640</cell><cell>71</cell><cell>93</cell><cell>142</cell><cell>1</cell><cell>0</cell><cell>50</cell><cell>1150</cell><cell>1200</cell></row>
+<row><cell>1891</cell><cell>477</cell><cell>84</cell><cell>47</cell><cell>120</cell><cell>6</cell><cell>2</cell><cell>21</cell><cell>810</cell><cell>831</cell><cell>600</cell><cell>50</cell><cell>45</cell><cell>133</cell><cell>3</cell><cell>0</cell><cell>46</cell><cell>1162</cell><cell>1208</cell></row>
+<row><cell>1892</cell><cell>441</cell><cell>61</cell><cell>44</cell><cell>103</cell><cell>2</cell><cell>0</cell><cell>43</cell><cell>801</cell><cell>844</cell><cell>707</cell><cell>77</cell><cell>53</cell><cell>159</cell><cell>7</cell><cell>0</cell><cell>76</cell><cell>1203</cell><cell>1279</cell></row>
+<row><cell>1893</cell><cell>342</cell><cell>67</cell><cell>30</cell><cell>80</cell><cell>11</cell><cell>0</cell><cell>67</cell><cell>759</cell><cell>826</cell><cell>749</cell><cell>77</cell><cell>49</cell><cell>182</cell><cell>13</cell><cell>0</cell><cell>145</cell><cell>1081</cell><cell>1226</cell></row>
+<row><cell>1894</cell><cell>544</cell><cell>61</cell><cell>30</cell><cell>67</cell><cell>3</cell><cell>1</cell><cell>67</cell><cell>759</cell><cell>826</cell><cell>695</cell><cell>57</cell><cell>44</cell><cell>140</cell><cell>4</cell><cell>2</cell><cell>55</cell><cell>1385</cell><cell>1440</cell></row>
+<row><cell>1895</cell><cell>693</cell><cell>63</cell><cell>26</cell><cell>91</cell><cell>1</cell><cell>2</cell><cell>86</cell><cell>1379</cell><cell>1465</cell><cell>587</cell><cell>46</cell><cell>42</cell><cell>145</cell><cell>1</cell><cell>0</cell><cell>149</cell><cell>1298</cell><cell>1447</cell></row>
+<row><cell>1896</cell><cell>634</cell><cell>64</cell><cell>33</cell><cell>132</cell><cell>2</cell><cell>1</cell><cell>471</cell><cell>2121</cell><cell>2592</cell><cell>516</cell><cell>23</cell><cell>27</cell><cell>118</cell><cell>4</cell><cell>1</cell><cell>155</cell><cell>1908</cell><cell>2063</cell></row>
+<row><cell>1897</cell><cell>641</cell><cell>48</cell><cell>35</cell><cell>142</cell><cell>1</cell><cell>1</cell><cell>499</cell><cell>3776</cell><cell>4275</cell><cell>384</cell><cell>21</cell><cell>26</cell><cell>100</cell><cell>1</cell><cell>1</cell><cell>59</cell><cell>3435</cell><cell>3494</cell></row>
+<row><cell>1898</cell><cell>431</cell><cell>28</cell><cell>11</cell><cell>100</cell><cell>1</cell><cell>1</cell><cell>59</cell><cell>5266</cell><cell>5325</cell><cell>273</cell><cell>13</cell><cell>8</cell><cell>76</cell><cell>2</cell><cell>0</cell><cell>22</cell><cell>4071</cell><cell>4093</cell></row>
+<row><cell>1899</cell><cell>776</cell><cell>89</cell><cell>47</cell><cell>92</cell><cell>1</cell><cell>0</cell><cell>1</cell><cell>1690</cell><cell>1691</cell><cell>513</cell><cell>58</cell><cell>26</cell><cell>137</cell><cell>5</cell><cell>1</cell><cell>43</cell><cell>1595</cell><cell>1638</cell></row>
+<row><cell cols="2-19">------------------------------------------------------</cell></row>
+<row><cell>TOTALS</cell><cell>5420</cell><cell>667</cell><cell>338</cell><cell>979</cell><cell>29</cell><cell>9</cell><cell>1340</cell><cell>18202</cell><cell>19542</cell><cell>5664</cell><cell>493</cell><cell>413</cell><cell>1332</cell><cell>41</cell><cell>5</cell><cell>800</cell><cell>18288</cell><cell>19088</cell></row>
+</table>
+</p>
+<pb n="3" id="f01950003"/>
+<p>3</p>
+<p>
+<table rows="18" cols="19">
+<row><cell>DISTRICTS</cell><cell cols="2-10">VEDADO</cell><cell cols="11-19">PUENTES GRANDES</cell></row>
+<row><cell cols="1-11">==========================================</cell><cell cols="12-19">==================================</cell></row>
+<row><cell cols="2-4">BIRTHS.</cell><cell cols="5-7">MARRIAGES.</cell><cell cols="8-10">DEATHS.</cell><cell cols="11-13">BIRTHS.</cell><cell cols="14-16">MARRIAGES.</cell><cell cols="17-19">DEATHS.</cell></row>
+<row><cell cols="2-4">=========</cell><cell cols="5-7">=========</cell><cell cols="8-10">=========</cell><cell cols="11-13">=========</cell><cell cols="14-16">=========</cell><cell cols="17-19">=========</cell></row>
+<row><cell rows="2-3">YEARS</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell></row>
+<row><cell>----</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>1890</cell><cell>471</cell><cell>41</cell><cell>27</cell><cell>34</cell><cell>1</cell><cell>0</cell><cell>71</cell><cell>1785</cell><cell>1836</cell><cell>99</cell><cell>7</cell><cell>1</cell><cell>20</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>99</cell><cell>99</cell></row>
+<row><cell>1891</cell><cell>481</cell><cell>22</cell><cell>15</cell><cell>33</cell><cell>1</cell><cell>2</cell><cell>51</cell><cell>1508</cell><cell>1559</cell><cell>103</cell><cell>4</cell><cell>2</cell><cell>13</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>121</cell><cell>121</cell></row>
+<row><cell>1892</cell><cell>507</cell><cell>18</cell><cell>16</cell><cell>56</cell><cell>3</cell><cell>1</cell><cell>88</cell><cell>1645</cell><cell>1733</cell><cell>105</cell><cell>4</cell><cell>4</cell><cell>20</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>176</cell><cell>176</cell></row>
+<row><cell>1893</cell><cell>485</cell><cell>44</cell><cell>20</cell><cell>62</cell><cell>4</cell><cell>0</cell><cell>114</cell><cell>1554</cell><cell>1668</cell><cell>70</cell><cell>4</cell><cell>1</cell><cell>16</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>140</cell><cell>141</cell></row>
+<row><cell>1894</cell><cell>326</cell><cell>17</cell><cell>12</cell><cell>52</cell><cell>1</cell><cell>1</cell><cell>56</cell><cell>1146</cell><cell>1202</cell><cell>109</cell><cell>6</cell><cell>4</cell><cell>19</cell><cell>2</cell><cell>0</cell><cell>1</cell><cell>141</cell><cell>142</cell></row>
+<row><cell>1895</cell><cell>246</cell><cell>13</cell><cell>8</cell><cell>38</cell><cell>2</cell><cell>2</cell><cell>102</cell><cell>1092</cell><cell>1194</cell><cell>103</cell><cell>7</cell><cell>2</cell><cell>25</cell><cell>3</cell><cell>0</cell><cell>1</cell><cell>190</cell><cell>191</cell></row>
+<row><cell>1896</cell><cell>264</cell><cell>7</cell><cell>11</cell><cell>69</cell><cell>2</cell><cell>1</cell><cell>728</cell><cell>2273</cell><cell>3001</cell><cell>112</cell><cell>3</cell><cell>1</cell><cell>40</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>314</cell><cell>315</cell></row>
+<row><cell>1897</cell><cell>238</cell><cell>12</cell><cell>10</cell><cell>36</cell><cell>0</cell><cell>0</cell><cell>332</cell><cell>3554</cell><cell>3886</cell><cell>89</cell><cell>3</cell><cell>0</cell><cell>32</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>605</cell><cell>605</cell></row>
+<row><cell>1898</cell><cell>111</cell><cell>6</cell><cell>2</cell><cell>31</cell><cell>0</cell><cell>1</cell><cell>58</cell><cell>3355</cell><cell>3413</cell><cell>21</cell><cell>2</cell><cell>2</cell><cell>32</cell><cell>1</cell><cell>0</cell><cell>1</cell><cell>1683</cell><cell>1684</cell></row>
+<row><cell>1899</cell><cell>192</cell><cell>4</cell><cell>14</cell><cell>34</cell><cell>0</cell><cell>1</cell><cell>34</cell><cell>1387</cell><cell>1421</cell><cell>73</cell><cell>2</cell><cell>1</cell><cell>98</cell><cell>6</cell><cell>1</cell><cell>0</cell><cell>367</cell><cell>367</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTALS</cell><cell>3321</cell><cell>184</cell><cell>135</cell><cell>445</cell><cell>14</cell><cell>9</cell><cell>1634</cell><cell>19299</cell><cell>20933</cell><cell>884</cell><cell>42</cell><cell>18</cell><cell>315</cell><cell>12</cell><cell>1</cell><cell>5</cell><cell>3836</cell><cell>3841</cell></row>
+</table>
+</p>
+<p>
+<table rows="18" cols="19">
+<row><cell>DISTRICTS</cell><cell cols="2-10">ARROYO NARANJO</cell><cell cols="11-19">CALVARIO</cell></row>
+<row><cell cols="1-11">==========================================</cell><cell cols="12-19">==================================</cell></row>
+<row><cell cols="2-4">BIRTHS.</cell><cell cols="5-7">MARRIAGES.</cell><cell cols="8-10">DEATHS.</cell><cell cols="11-13">BIRTHS.</cell><cell cols="14-16">MARRIAGES.</cell><cell cols="17-19">DEATHS.</cell></row>
+<row><cell cols="2-4">=========</cell><cell cols="5-7">=========</cell><cell cols="8-10">=========</cell><cell cols="11-13">=========</cell><cell cols="14-16">=========</cell><cell cols="17-19">=========</cell></row>
+<row><cell rows="2-3">YEARS</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell>Total Deaths.</cell></row>
+<row><cell>----</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>1890</cell><cell>54</cell><cell>4</cell><cell>3</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>52</cell><cell>52</cell><cell>46</cell><cell>1</cell><cell>2</cell><cell>22</cell><cell>1</cell><cell>1</cell><cell>0</cell><cell>34</cell><cell>34</cell></row>
+<row><cell>1891</cell><cell>45</cell><cell>4</cell><cell>2</cell><cell>5</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>54</cell><cell>54</cell><cell>30</cell><cell>0</cell><cell>4</cell><cell>22</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>21</cell><cell>21</cell></row>
+<row><cell>1892</cell><cell>48</cell><cell>2</cell><cell>2</cell><cell>12</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>38</cell><cell>38</cell><cell>41</cell><cell>0</cell><cell>1</cell><cell>26</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>30</cell><cell>30</cell></row>
+<row><cell>1893</cell><cell>42</cell><cell>3</cell><cell>2</cell><cell>11</cell><cell>0</cell><cell>1</cell><cell>1</cell><cell>47</cell><cell>48</cell><cell>48</cell><cell>0</cell><cell>2</cell><cell>25</cell><cell>3</cell><cell>2</cell><cell>0</cell><cell>34</cell><cell>34</cell></row>
+<row><cell>1894</cell><cell>49</cell><cell>1</cell><cell>0</cell><cell>6</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>51</cell><cell>51</cell><cell>34</cell><cell>1</cell><cell>0</cell><cell>19</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>33</cell><cell>33</cell></row>
+<row><cell>1895</cell><cell>39</cell><cell>0</cell><cell>1</cell><cell>14</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>42</cell><cell>42</cell><cell>35</cell><cell>0</cell><cell>0</cell><cell>26</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>34</cell><cell>34</cell></row>
+<row><cell>1896</cell><cell>39</cell><cell>3</cell><cell>3</cell><cell>8</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>50</cell><cell>52</cell><cell>78</cell><cell>5</cell><cell>6</cell><cell>47</cell><cell>6</cell><cell>1</cell><cell>1</cell><cell>36</cell><cell>37</cell></row>
+<row><cell>1897</cell><cell>43</cell><cell>2</cell><cell>0</cell><cell>8</cell><cell>0</cell><cell>0</cell><cell>3</cell><cell>205</cell><cell>208</cell><cell>174</cell><cell>4</cell><cell>4</cell><cell>39</cell><cell>3</cell><cell>2</cell><cell>6</cell><cell>174</cell><cell>180</cell></row>
+<row><cell>1898</cell><cell>26</cell><cell>0</cell><cell>0</cell><cell>34</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>178</cell><cell>178</cell><cell>98</cell><cell>0</cell><cell>0</cell><cell>108</cell><cell>5</cell><cell>3</cell><cell>2</cell><cell>240</cell><cell>242</cell></row>
+<row><cell>1899</cell><cell>34</cell><cell>1</cell><cell>0</cell><cell>54</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>47</cell><cell>47</cell><cell>56</cell><cell>2</cell><cell>0</cell><cell>300</cell><cell>7</cell><cell>0</cell><cell>0</cell><cell>40</cell><cell>40</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTALS</cell><cell>419</cell><cell>20</cell><cell>13</cell><cell>154</cell><cell>0</cell><cell>1</cell><cell>6</cell><cell>764</cell><cell>770</cell><cell>640</cell><cell>13</cell><cell>19</cell><cell>634</cell><cell>26</cell><cell>10</cell><cell>9</cell><cell>676</cell><cell>685</cell></row>
+</table>
+</p>
+<p>
+<table rows="18" cols="13">
+<row><cell>DISTRICTS</cell><cell cols="2-9">TOTALS</cell><cell cols="10-12">GRAND TOTAL</cell></row>
+<row><cell cols="1-11">==========================================</cell><cell cols="12-19">==================================</cell></row>
+<row><cell cols="2-4">BIRTHS.</cell><cell cols="5-7">MARRIAGES.</cell><cell cols="8-9">DEATHS.</cell></row>
+<row><cell cols="2-4">=========</cell><cell cols="5-7">=========</cell><cell cols="8-9">=========</cell><cell cols="11-13">=========</cell><cell cols="14-16">=========</cell><cell cols="17-19">=========</cell></row>
+<row><cell rows="2-3">YEARS</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Whites</hi>.</cell><cell><hi rend="italic">Mulatoes</hi>.</cell><cell><hi rend="italic">Negroes</hi>.</cell><cell>Yellow Fever.</cell><cell>Other Diseases</cell><cell rows="2-3">BIRTHS.</cell><cell rows="2-3">MARRIAGES.</cell><cell cols="2-3">TOTAL DEATHS</cell><cell cols="1-3">Apparent Excess of Deaths over Births</cell></row>
+<row><cell>----</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>1890</cell><cell>3586</cell><cell>424</cell><cell>478</cell><cell>892</cell><cell>47</cell><cell>14</cell><cell>327</cell><cell>7105</cell><cell>4488</cell><cell>953</cell><cell>7432</cell><cell>2944</cell></row>
+<row><cell>1891</cell><cell>3559</cell><cell>297</cell><cell>461</cell><cell>933</cell><cell>41</cell><cell>22</cell><cell>363</cell><cell>6742</cell><cell>4317</cell><cell>996</cell><cell>7105</cell><cell>2788</cell></row>
+<row><cell>1892</cell><cell>3713</cell><cell>284</cell><cell>444</cell><cell>964</cell><cell>45</cell><cell>21</cell><cell>362</cell><cell>6823</cell><cell>4441</cell><cell>1030</cell><cell>7185</cell><cell>2744</cell></row>
+<row><cell>1893</cell><cell>3585</cell><cell>269</cell><cell>481</cell><cell>953</cell><cell>67</cell><cell>12</cell><cell>512</cell><cell>6319</cell><cell>4335</cell><cell>1032</cell><cell>6831</cell><cell>2496</cell></row>
+<row><cell>1894</cell><cell>3594</cell><cell>217</cell><cell>394</cell><cell>819</cell><cell>39</cell><cell>8</cell><cell>418</cell><cell>6312</cell><cell>4205</cell><cell>866</cell><cell>6730</cell><cell>2525</cell></row>
+<row><cell>1895</cell><cell>3619</cell><cell>179</cell><cell>373</cell><cell>853</cell><cell>39</cell><cell>9</cell><cell>570</cell><cell>6840</cell><cell>4171</cell><cell>901</cell><cell>7410</cell><cell>3239</cell></row>
+<row><cell>1896</cell><cell>3647</cell><cell>174</cell><cell>292</cell><cell>899</cell><cell>39</cell><cell>15</cell><cell>1540</cell><cell>10188</cell><cell>4113</cell><cell>953</cell><cell>11728</cell><cell>7615</cell></row>
+<row><cell>1897</cell><cell>3343</cell><cell>148</cell><cell>297</cell><cell>784</cell><cell>21</cell><cell>16</cell><cell>1056</cell><cell>17067</cell><cell>3788</cell><cell>821</cell><cell>18123</cell><cell>14335</cell></row>
+<row><cell>1898</cell><cell>2246</cell><cell>70</cell><cell>154</cell><cell>834</cell><cell>18</cell><cell>9</cell><cell>162</cell><cell>21073</cell><cell>2470</cell><cell>861</cell><cell>21235</cell><cell>18765</cell></row>
+<row><cell>1899</cell><cell>3606</cell><cell>186</cell><cell>389</cell><cell>1137</cell><cell>38</cell><cell>8</cell><cell>103</cell><cell>8050</cell><cell>4181</cell><cell>1183</cell><cell>8153</cell><cell>3972</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTALS</cell><cell>34498</cell><cell>2248</cell><cell>3763</cell><cell>9068</cell><cell>394</cell><cell>134</cell><cell>5413</cell><cell>96519</cell><cell>40509</cell><cell>9596</cell><cell>101932</cell><cell>61423</cell></row>
+</table>
+</p>
+<pb n="4" id="f01950004"/>
+<p>4</p>
+<p>
+<table rows="12" cols="3">
+<row><cell cols="1-3">BIRTHS.</cell></row>
+<row><cell cols="1-3">==========================================================================</cell></row>
+<row><cell>RACE</cell><cell>LEGITIMATE.</cell><cell>ILLEGITIMATE.</cell></row>
+<row><cell>-------------------------</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>Whites Male</cell><cell>13088</cell><cell>4418</cell></row>
+<row><cell>Whites Female</cell><cell>12579</cell><cell>4403</cell></row>
+<row><cell>Mulattoes Male</cell><cell>260</cell><cell>1615</cell></row>
+<row><cell>Mulattoes Female</cell><cell>268</cell><cell>1630</cell></row>
+<row><cell>Negroes Male</cell><cell>154</cell><cell>987</cell></row>
+<row><cell>Negroes Female</cell><cell>140</cell><cell>967</cell></row>
+<row><cell>-------------------------</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>Totals</cell><cell>26489</cell><cell>14020</cell></row>
+</table>
+</p>
+<p>
+<table rows="16" cols="2">
+<row><cell cols="1-2">NATIONALITY OF THOSE MARRIED</cell></row>
+<row><cell cols="1-2">==========================================================================</cell></row>
+<row><cell>MALE AND FEMALE.</cell></row>
+<row><cell>---------------------------</cell><cell>---</cell></row>
+<row><cell>Cuban</cell><cell>12717</cell></row>
+<row><cell>Spansh</cell><cell>6060</cell></row>
+<row><cell>American</cell><cell>146</cell></row>
+<row><cell>French</cell><cell>54</cell></row>
+<row><cell>Italian</cell><cell>26</cell></row>
+<row><cell>British</cell><cell>22</cell></row>
+<row><cell>German</cell><cell>21</cell></row>
+<row><cell>Rest of Europe</cell><cell>38</cell></row>
+<row><cell>Mex. Central &amp; South American</cell><cell>80</cell></row>
+<row><cell>Asiatics</cell><cell>20</cell></row>
+<row><cell></cell><cell>---</cell></row>
+<row><cell>Totals</cell><cell>19184</cell></row>
+</table>
+</p>
+<p>REPORT OF ARRIVALS AND DEPARTURES<lb/>
+PORT OF HAVANA 1899.</p>
+<p>
+<table rows="18" cols="10">
+<row><cell rows="1-2">MONTHS</cell><cell cols="2-5">ARRIVALS.</cell><cell cols="6-9">DEPARTURES.</cell></row>
+<row><cell cols="2-5">==============================</cell><cell cols="6-9">==============================</cell></row>
+<row><cell>United States</cell><cell>Spain</cell><cell>Other<lb/>Countries</cell><cell>TOTAL</cell><cell>United States</cell><cell>Spain</cell><cell>Other<lb/>Countries</cell><cell>TOTAL</cell><cell rows="1-3">GAIN OR LOSS</cell></row>
+<row><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell></cell></row>
+<row><cell>January</cell><cell>3618</cell><cell>369</cell><cell>1074</cell><cell>5061</cell><cell>1423</cell><cell>769</cell><cell>231</cell><cell>2423</cell><cell>+ 2638</cell></row>
+<row><cell>February</cell><cell>3486</cell><cell>446</cell><cell>1023</cell><cell>4955</cell><cell>2215</cell><cell>577</cell><cell>235</cell><cell>3027</cell><cell>+ 1928</cell></row>
+<row><cell>March</cell><cell>2634</cell><cell>1106</cell><cell>609</cell><cell>4349</cell><cell>5243</cell><cell>1031</cell><cell>256</cell><cell>6530</cell><cell>- 2181</cell></row>
+<row><cell>April</cell><cell>1675</cell><cell>342</cell><cell>689</cell><cell>2706</cell><cell>2492</cell><cell>1757</cell><cell>869</cell><cell>5118</cell><cell>- 2412</cell></row>
+<row><cell>May</cell><cell>1329</cell><cell>745</cell><cell>716</cell><cell>2790</cell><cell>2124</cell><cell>2084</cell><cell>243</cell><cell>4451</cell><cell>- 1661</cell></row>
+<row><cell>June</cell><cell>951</cell><cell>613</cell><cell>454</cell><cell>2018</cell><cell>998</cell><cell>1749</cell><cell>122</cell><cell>2869</cell><cell>- 851</cell></row>
+<row><cell>July</cell><cell>1191</cell><cell>553</cell><cell>703</cell><cell>2447</cell><cell>929</cell><cell>1043</cell><cell>295</cell><cell>2261</cell><cell>+ 180</cell></row>
+<row><cell>August</cell><cell>1943</cell><cell>992</cell><cell>642</cell><cell>3577</cell><cell>859</cell><cell>1392</cell><cell>422</cell><cell>2673</cell><cell>+ 904</cell></row>
+<row><cell>September</cell><cell>953</cell><cell>1355</cell><cell>594</cell><cell>2902</cell><cell>946</cell><cell>1041</cell><cell>274</cell><cell>2265</cell><cell>+ 641</cell></row>
+<row><cell>October</cell><cell>1162</cell><cell>2248</cell><cell>435</cell><cell>3845</cell><cell>705</cell><cell>330</cell><cell>320</cell><cell>1355</cell><cell>+ 2490</cell></row>
+<row><cell>November</cell><cell>1693</cell><cell>2857</cell><cell>329</cell><cell>4879</cell><cell>1395</cell><cell>275</cell><cell>259</cell><cell>1929</cell><cell>+ 2950</cell></row>
+<row><cell>December</cell><cell>1666</cell><cell>4634</cell><cell>253</cell><cell>6553</cell><cell>1761</cell><cell>304</cell><cell>258</cell><cell>2323</cell><cell>+ 4230</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell></cell></row>
+<row><cell>TOTALS</cell><cell>22301</cell><cell>16260</cell><cell>7521</cell><cell>46082</cell><cell>21090</cell><cell>12352</cell><cell>3784</cell><cell>37226</cell><cell>+ 8856</cell></row>
+</table>
+</p>
+<p>These figures do not include U. S. or Spanish Troops.</p>
+<pb n="5" id="f01950005"/>
+<p>5</p>
+<p>SANITARY REPORT 1899</p>
+<p>
+<table rows="24" cols="2">
+<row><cell>Examinations of Premises</cell><cell>41.552</cell></row>
+<row><cell>Written Notices issued</cell><cell>34.241</cell></row>
+<row><cell>Premises disinfected</cell><cell>9.039</cell></row>
+<row><cell>Carts of rubbish removed</cell><cell>4.576</cell></row>
+<row><cell>Examinations of Cesspools</cell><cell>25.497</cell></row>
+<row><cell>Cesspools Cleaned</cell><cell>6.769</cell></row>
+<row><cell>Analyses of food products</cell><cell>207</cell></row>
+<row><cell>Bacteriological Examinations</cell><cell>36</cell></row>
+<row><cell>Food products destroyed</cell><cell>347</cell></row>
+<row><cell>Horses treated during the year</cell><cell>298</cell></row>
+<row><cell>Horses returned to owners</cell><cell>203</cell></row>
+<row><cell>Horses killed with glanders</cell><cell>94</cell></row>
+<row><cell>Horses under observation</cell><cell>1</cell></row>
+<row><cell>Number of times sewer and catch basins cleaned and disinfected</cell><cell>40.579</cell></row>
+<row><cell>Number of new water service to private houses</cell><cell>1.234</cell></row>
+<row><cell>Number of times Public Urinals in Havana cleaned and disinfected</cell><cell>1.879</cell></row>
+<row><cell>Average Gallons of Electrozone applied daily to streets, sewers and<lb/>
+houses</cell><cell>21.000</cell></row>
+<row><cell>Number of lineal feet of old sewers cleaned and disinfected</cell><cell>253.583</cell></row>
+<row><cell>Area of streets cleaned daily; square meters</cell><cell>1.731.982</cell></row>
+<row><cell>Area of Pavement renewed; square meters</cell><cell>400.298</cell></row>
+<row><cell>Number of houses in which plumbing modifications have been made</cell><cell>2.424</cell></row>
+<row><cell cols="1-2">--------------------------------------------------</cell></row>
+<row><cell cols="1-2">Cart loads of refuse material removed from April to December 140.511.</cell></row>
+<row><cell cols="1-2">Increasing from 10.808 in April to 14.420 in December 1899.</cell></row>
+</table>
+</p>
+<p>CONTAGIOUS AND INFECTIOUS DISEASES REPORTED<lb/>
+OTHER THAN YELLOW FEVER</p>
+<p>
+<table rows="12" cols="3">
+<row><cell>CASES</cell><cell>DEATHS</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell></row>
+<row><cell>Tuberculosis</cell><cell>980</cell><cell>1307</cell></row>
+<row><cell>Measles</cell><cell>4527</cell><cell>72</cell></row>
+<row><cell>Diphtheria</cell><cell>190</cell><cell>39</cell></row>
+<row><cell>Typhoid Fever</cell><cell>124</cell><cell>95</cell></row>
+<row><cell>Typhus</cell><cell>102</cell><cell>45</cell></row>
+<row><cell>Pernicious Malarial Fever</cell><cell>135</cell><cell>97</cell></row>
+<row><cell>Small pox</cell><cell>11</cell><cell>4</cell></row>
+<row><cell>Scarlet Fever</cell><cell>11</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTALS</cell><cell>6080</cell><cell>1659</cell></row>
+</table>
+</p>
+<pb n="6" id="f01950006"/>
+<p>CASES OF AND DEATHS FROM YELLOW FEVER DURING YEAR 1899</p>
+<p>BY NATIONALITY, SEX AND AGE.</p>
+<p>
+<table rows="22" cols="23">
+<row><cell rows="1-2">NATIONALITY</cell><cell cols="2-3">1 to 10</cell><cell cols="4-5">10 to 15</cell><cell cols="6-7">15 to 20</cell><cell cols="8-9">20 to 25</cell><cell cols="10-11">25 to 30</cell><cell cols="12-13">30 to 35</cell><cell cols="14-15">35 to 40</cell><cell cols="16-17">40 to 45</cell><cell cols="18-19">45 to 60</cell><cell cols="20-21">TOTAL CASES</cell><cell cols="22-23">TOTAL DEATHS</cell></row>
+<row><cell cols="2-3">======</cell><cell cols="4-5">======</cell><cell cols="6-7">======</cell><cell cols="8-9">======</cell><cell cols="10-11">======</cell><cell cols="12-13">======</cell><cell cols="14-15">======</cell><cell cols="16-17">======</cell><cell cols="18-19">======</cell><cell cols="20-21">======</cell><cell cols="22-23">======</cell></row>
+<row><cell>CASES</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell></row>
+<row><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>Spanish</cell><cell></cell><cell></cell><cell>16</cell><cell>1</cell><cell>52</cell><cell>1</cell><cell>32</cell><cell>1</cell><cell>31</cell><cell></cell><cell>15</cell><cell>2</cell><cell>3</cell><cell>1</cell><cell>5</cell><cell>1</cell><cell>1</cell><cell>1</cell><cell>155</cell><cell>8</cell><cell>56</cell><cell>2</cell></row>
+<row><cell>American</cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>6</cell><cell></cell><cell>22</cell><cell>2</cell><cell>26</cell><cell>1</cell><cell>12</cell><cell>1</cell><cell>5</cell><cell></cell><cell>2</cell><cell>1</cell><cell>3</cell><cell></cell><cell>77</cell><cell>5</cell><cell>30</cell><cell>2</cell></row>
+<row><cell>British</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>5</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell>2</cell><cell></cell><cell></cell><cell>10</cell><cell></cell><cell>4</cell><cell></cell></row>
+<row><cell>German</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell>3</cell><cell></cell><cell>1</cell><cell></cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>8</cell><cell></cell><cell>1</cell><cell></cell></row>
+<row><cell>Swiss</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3</cell><cell></cell><cell>2</cell><cell></cell></row>
+<row><cell>Norwegian</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Italian</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>2</cell><cell></cell><cell>2</cell><cell></cell></row>
+<row><cell>Russian</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>French</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell>1</cell><cell></cell><cell>1</cell></row>
+<row><cell>Cuban</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell>1</cell><cell>1</cell><cell>1</cell></row>
+<row><cell>Belgian</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row>
+<row><cell>Roumanian</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Swedish</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Dutch</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Turkish</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell></row>
+<row><cell>Danish</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell></cell><cell cols="2-23">-------------------------------------------------------</cell></row>
+<row><cell>TOTALS</cell><cell></cell><cell>1</cell><cell>17</cell><cell>1</cell><cell>60</cell><cell>1</cell><cell>61</cell><cell>3</cell><cell>70</cell><cell>3</cell><cell>35</cell><cell>3</cell><cell>10</cell><cell>1</cell><cell>8</cell><cell>2</cell><cell>7</cell><cell>1</cell><cell>268</cell><cell>16</cell><cell>97</cell><cell>6</cell></row>
+</table>
+</p>
+<p><unclear>19<lb/>
+= 6 7&sol;10%<lb/>
+198<lb/>
+= 70%<lb/>
+49<lb/>
+= 17%<lb/>
+18<lb/>
+= 6 3&sol;10%<lb/>
+284<lb/>
+103<lb/>
+ratio of mortality 36%</unclear></p>
+<pb n="7" id="f01950007"/>
+<p><unclear>19<lb/>
+= 6 7&sol;10%<lb/>
+198<lb/>
+= 70%<lb/>
+49<lb/>
+= 17%<lb/>
+18<lb/>
+= 6 3&sol;10%<lb/>
+284<lb/>
+103<lb/>
+ratio of mortality 36%</unclear></p>
+<p>
+<table rows="17" cols="7">
+<row><cell rows="1-3">HOSPITALS<lb/>AND LOCALITIES</cell><cell cols="2-3">CASES</cell><cell cols="4-5">DEATHS</cell><cell cols="6-7">CASES <unclear>OF DEATH</unclear></cell></row>
+<row><cell cols="2-3">=========</cell><cell cols="4-5">=========</cell><cell cols="6-7">=========</cell></row>
+<row><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell><cell>Male</cell><cell>Female</cell></row>
+<row><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>Camp. Caballa</cell><cell>2</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>La Machina</cell><cell>8</cell><cell></cell><cell>4</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Los Angeles</cell><cell>4</cell><cell>1</cell><cell>2</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Los <unclear>Azimas</unclear></cell><cell>86</cell><cell>4</cell><cell>31</cell><cell></cell><cell>1</cell><cell></cell></row>
+<row><cell>La <unclear>Bealica</unclear></cell><cell>41</cell><cell></cell><cell>10</cell><cell></cell><cell>9</cell><cell></cell></row>
+<row><cell><unclear>Covadonga</unclear></cell><cell>30</cell><cell></cell><cell>8</cell><cell></cell><cell>6</cell><cell></cell></row>
+<row><cell><unclear>Dependicate</unclear></cell><cell>62</cell><cell></cell><cell>23</cell><cell></cell><cell>8</cell><cell></cell></row>
+<row><cell>Del Rey</cell><cell>2</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell><unclear>Mercodes</unclear></cell><cell>9</cell><cell></cell><cell>2</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>On vessels</cell><cell>2</cell><cell></cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>Isolated at home</cell><cell>22</cell><cell>11</cell><cell>14</cell><cell>6</cell><cell>1</cell><cell></cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTALS</cell><cell>268</cell><cell>16</cell><cell>97</cell><cell>6</cell><cell>25</cell><cell></cell></row>
+</table>
+</p>
+<p>
+<table rows="16" cols="3">
+<row><cell>MONTHS, 1899</cell><cell>CASES</cell><cell>DEATHS</cell></row>
+<row><cell>---</cell><cell>---</cell><cell>---</cell></row>
+<row><cell>January</cell><cell>2</cell><cell>1</cell></row>
+<row><cell>February</cell></row>
+<row><cell>March</cell><cell>2</cell><cell>1</cell></row>
+<row><cell>April</cell><cell>5</cell><cell>2</cell></row>
+<row><cell>May</cell><cell>2</cell></row>
+<row><cell>June</cell><cell>4</cell><cell>1</cell></row>
+<row><cell>July</cell><cell>6</cell><cell>2</cell></row>
+<row><cell>August</cell><cell>34</cell><cell>13</cell></row>
+<row><cell>September</cell><cell>54</cell><cell>18</cell></row>
+<row><cell>October</cell><cell>63</cell><cell>25</cell></row>
+<row><cell>November</cell><cell>42</cell><cell>18</cell></row>
+<row><cell>December</cell><cell>70</cell><cell>22</cell></row>
+<row><cell></cell><cell>---</cell><cell>---</cell></row>
+<row><cell>TOTALS</cell><cell>284</cell><cell>103</cell></row>
+</table>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

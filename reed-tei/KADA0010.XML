@@ -1,0 +1,538 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KADA0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Article: A Review of Dr. Howard A. Kelly's Book, &ldquo;Walter Reed and Yellow Fever&rdquo;, Third Edition, The Norman, Remington Company, Publishers, by Jefferson Randolph Kean, October 19, 1923</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KADA0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo"> Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-10-19</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion">YES</term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Root, Elihu</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Vaughan, Victor C.</name>
+<name type="person">Shakespeare, Edward O.</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">O'Reilly, Robert M.</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="place">Otsego County (N.Y.)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Gloucester County (Va.)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>14 pp.</extent>
+<date value="1923-10-19">October 19, 1923</date>
+<idno rend="suppress">KADA0010</idno>
+<title>Article: A Review of Dr. Howard A. Kelly's Book, &ldquo;Walter Reed and Yellow Fever&rdquo;, Third Edition, The Norman, Remington Company, Publishers, by Jefferson Randolph Kean, October 19, 1923</title>
+</bibl>
+</head>
+<p>This review of Kelly's book was never published. Kean believed a staff member who was a Carroll propagandist suppressed it. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1923-10-19">
+<head>Article: A Review of Dr. Howard A. Kelly's Book, &ldquo;Walter Reed and Yellow Fever&rdquo;, Third Edition, The Norman, Remington Company, Publishers, by Jefferson Randolph Kean, October 19, 1923</head>
+<pb n="1" id="fKADA0010"/>
+<p>Biston<lb/>
+Oct 19;<lb/>
+1923</p>
+<p>Note - This review was never published.<lb/>
+The Publishers wrote me that the mss had been<lb/>
+lost in their office. I think it was suppressed<lb/>
+by one of the staff who was a Carroll propagandist.</p>
+<p>J. R. K.</p>
+<p>A Review of Dr. Howard A. Kelly's Book<lb/>
+&ldquo;WALTER REED AND YELLOW FEVER&rdquo;,<lb/>
+Third Edition,<lb/>
+The Horman, Remington Company, Publishers,<lb/>
+by<lb/>
+Colonel J. R. Kean, M.C.</p>
+<p>Dr. Howard A. Kelly of Baltimore has brought out a third edition<lb/>
+of his notable work, &ldquo;Walter Reed and Yellow Fever&rdquo;. In it he has added<lb/>
+to his former narrative of the work of Reed and his assistants on the Yellow<lb/>
+Fever Commission biographical sketches of Surgeon General George M. Stern-<lb/>
+berg and Surgeon General William C. Gorgas, with brief mention of the more<lb/>
+recent work of Dr. Hideyo Noguchi of the Rockefeller Foundation. These<lb/>
+four, Sternberg, Reed, Gorgas and Noguchi he considers to have supplemented<lb/>
+each the work of the other and by their combined labors to have won &ldquo;the<lb/>
+greatest battle ever fought for the health of the human race&rdquo;. Of these,<lb/>
+all but the last have passed beyond the Veil, and so it is now possible to<lb/>
+view from approximately the historical standpoint the epic story of their<lb/>
+accomplishment and to estimate the relative value of their contributions<lb/>
+to the winning of the great battle. They have been placed in the order of<lb/>
+their appearance in the lists to combat that mysterious and mortal enemy<lb/>
+of mankind which had routed armies and ravaged cities and had so often<lb/>
+brought death and mourning into the homes of America. In this order let<lb/>
+us consider them and their contributions to the victory.</p>
+<p>George Miller Sternberg was born in Otsego County, New York, in<lb/>
+1838, of an old Lutheran family of the Palatinate. He graduated in medicine<lb/>
+at the College of Physicians and Surgeons in 1860. At the outbreak of the<lb/>
+Civil War he promptly entered the Army and was captured while caring for<lb/>
+<pb n="2" id="fKADA0020"/>
+his wounded at Bull Run. He soon was permitted to escape and after a<lb/>
+varied and always creditable record of service during the remainder of<lb/>
+the War and thereafter with the scattered detachments of the Regular<lb/>
+Army, mostly in the far west, he had his first experience with yellow<lb/>
+fever in 1873 at Fort Barrances, near Pensacola, Florida. Again in<lb/>
+1874 and 1875 it reappeared and was the object of careful study, but<lb/>
+not until the latter year did he suffer an attack. He became thereafter<lb/>
+a leading authority on this disease and in 1879 was detailed for duty<lb/>
+with the Havana Yellow Fever Commission of our first and only National<lb/>
+Board of Health. From this time he became a leader in the newly develop-<lb/>
+ing science of bacteriology. In 1887 he visited Rio de Janeiro to in-<lb/>
+vestigate the claims of Dr. Freire to have discovered the causative agent<lb/>
+of yellow fever and later went to Mexico to look into a like claim of Dr.<lb/>
+Carmona de Valle, and was able in each case to make a negative finding.<lb/>
+In 1889 he was in Havana studying the organism for which Dr. Carlos Finlay<lb/>
+made like claims, to which he also gave the quietus with cold and logical<lb/>
+precision. <del><unclear>[unclear]</unclear></del> But Dr. Finlay's claim to fame did not rest solely<lb/>
+on his micrococcus tetragenus febris flavae and we shall hear from him<lb/>
+again later in our story. In 1893 <del>his</del><add>Sternberg's</add> standing as a scientist was sufficient<lb/>
+to cause his selection as Surgeon General of the Army, and he immediately<lb/>
+did two things of far reaching importance. One was to establish the Army<lb/>
+Medical School for the advanced training of young medical officers. The<lb/>
+other was to wed genius to opportunity by bringing Walter Reed to Baltimore<lb/>
+for a period of study in the pathological <del>hospital</del><add>laboratory</add> of the Johns Hopkins<lb/>
+Hospital. He was also able, as the Chief of the Medical Corps, to infuse<lb/>
+into it a new spirit of professional enthusiasm and scientific ardor which<lb/>
+was later to bear good fruit. The Spanish War was for him a period of<lb/>
+-2-<lb/>
+<pb n="3" id="fKADA0030"/>
+heartbreaking struggle against the narrow and shortsighted spirit which<lb/>
+dominated the War Department. Of the $50,000,000 placed at the disposi-<lb/>
+tion of the President for the national defense, not a cent was given to<lb/>
+the pitifully small and ill equipped Medical Department, and in the law<lb/>
+raising a Volunteer Army no enlisted men were provided for the medical<lb/>
+service except a few regimental hospital stewards. As the War Department<lb/>
+was the adviser both of the President and of Congress as to the needs of<lb/>
+its branches, it must bear the responsibility for those sins of omission.<lb/>
+In 1900 he made his final and greatest contribution to the study of yellow<lb/>
+fever by sending Walter Reed to Cuba at the head of a group of three as-<lb/>
+sistants, Carroll<add>,</add> Lazear and Agramonte, primarily to investigate the claims<lb/>
+of the bacillus icteriodes of Sanarelli and those of his own bacillus x<lb/>
+to be the causative organism of that disease. They had, however, very broad<lb/>
+instructions from the Surgeon General authorizing the study of other tropical<lb/>
+diseases. The Hon. Elihu Root wrote of him, after his death, &ldquo;The Medical<lb/>
+Corps accomplished what it did largely because the man at the top was a<lb/>
+pioneer in bacteriology, an advanced worker in preventive medicine and had<lb/>
+the enthusiasm and devotion through which science wins victories.&rdquo; Here<lb/>
+we must leave this fine old scientist, who retired two years later, stand-<lb/>
+ing, as our author says, like Moses on Nebo, to see another enter the Promised<lb/>
+Land, after a lifetime of brave and earnest but fruitless effort, <del>to learn the<lb/>
+secret of the Sphinx of Yellow Fever.</del> Although he was as Koch said, the<lb/>
+&ldquo;father of American bacteriology&rdquo;, it cannot be said that his efforts had<lb/>
+contributed aught to solve this particular problem, except in the way of<lb/>
+clearing the field of false claimants. Scientific justice will incline to<lb/>
+give his place among the great four rather to Dr. Carlos Finlay of Havana,<lb/>
+who had also given twenty years of persistent study and experiment to this<lb/>
+-3-<lb/>
+<pb n="4" id="fKADA0040"/>
+facinating and elusive quest and who, though he did not have the disci-<lb/>
+plined scientific mind and technical skill and training in laboratory<lb/>
+technique of Sternberg, yet by a combination of epidemiological reason-<lb/>
+ing and what Gorgas called &ldquo;scientific clairvoyance&rdquo;, had reached the<lb/>
+right door, but lacked the scientific skill to open it and convince a<lb/>
+doubting world. It would appear, also, that though General Sternberg's<lb/>
+part in the sending of Reed's Commission to Cuba was an essential step,<lb/>
+so was the cordial support given by General Wood, both pecuniary and<lb/>
+moral, including, of course, his sharing the responsibility for the ex-<lb/>
+periments which were made at the risk of human lives. Fortunately, no<lb/>
+lives were lost in Reed's experiments, if we except the accidental in-<lb/>
+fection of Lazear, but in the later series conducted by Guiteras and<lb/>
+Gorgas, three patients lost their lives in one week, one of them a train-<lb/>
+ed nurse. This put an end to further experimental infections and for-<lb/>
+tunately Reed's series was so complete in the care with which all condi-<lb/>
+tions were covered, that there was no necessity for further jeopardy of<lb/>
+human lives. <del>This</del><add>To discover the secret how yellow fever was transmitted and how it could be prevented</add> was reserved by fate for Walter Reed, who combined the<lb/>
+scientific training of <del><unclear>[unclear]</unclear></del><add>Sternberg</add> with the scientific imagination of <del><unclear>[unclear]</unclear></del> <add>Finlay,</add><lb/>
+and whose ability as an epidemiologist had just been brilliantly manifest-<lb/>
+ed in the great study with Vaughan and Shakespeare of the typhoid fever<lb/>
+epidemics which swept through the Volunteer Camps of 1898.</p>
+<p>Walter Reed was born in Gloucester County, Va., September 13, 1851.<lb/>
+His father was a Methodist minister, and in his education he shared the<lb/>
+financial limitations of the generation which grew up in the South during<lb/>
+the lean years which followed the Civil War. But what was lacking in oppor-<lb/>
+tunity was made up in real and industry, and he graduated in medicine at<lb/>
+the University of Virginia at the age of eighteen, when most young men are<lb/>
+-4-<lb/>
+<pb n="5" id="fKADA0050"/>
+preparing to begin a college course. His hospital courses were taken in<lb/>
+New York and he entered the Army in 1875 attracted, it seems, by the de-<lb/>
+sire for an assured income which would enable him to marry. For eighteen<lb/>
+years he followed the nomadic life and vicissitudes of the Army, most of<lb/>
+it at isolated frontier posts, without any chilling of his scientific ardor<lb/>
+or discouragement of his professional zeal by these unstimulating surround-<lb/>
+ings until at length opportunity rewarded patient waiting and an assignment<lb/>
+to duty in Baltimore for a year placed the resources of a laboratory within<lb/>
+his reach. No man ever made better use of a year, and when a change of<lb/>
+station to Dakota came, he was well grounded in pathology and bacteriology.<lb/>
+Two years later came his assignment as Curator of the Army Medical Museum<lb/>
+in Washington and promotion to the grade of Major, and he followed the Army<lb/>
+life no more, but enjoyed the contacts and opportunities of scientific as-<lb/>
+sociations in Washington and Baltimore. We have already seen how the oppor-<lb/>
+tunity came in 1900 which carried him to Havana at the head of the board<lb/>
+now generally known as the Yellow Fever Commission. When Reed discussed<lb/>
+with his Chief the objectives of the Commission and mentioned Finlay's<lb/>
+mosquito theory as a possible one, General Sternberg replied, &ldquo;You may<lb/>
+do it if you want to, but there is nothing in it&rdquo;. The claims of the<lb/>
+latest protendants for the evil fame of being the causative agent Bacillus<lb/>
+icteroides <del>and</del><add>of</add> Sanarelli and Sternberg's Bacillus x were soon disposed of<lb/>
+by the Commission after its arrival in Havana. In fact, most of the work<lb/>
+had been already done by Agramonte, who had worked on these organisms in<lb/>
+Reed's laboratory in 1898 and who was now in Cuba.</p>
+<p>Three lines of research were now considered by the Commission -<lb/>
+a study of the bacterial flora of the intestine in this disease and its<lb/>
+comparison with the normal flora, studies of cultures from the blood and<lb/>
+-5-<lb/>
+<pb n="6" id="fKADA0060"/>
+<add>various organs, and Finlay's mosquito theory.</add><lb/>
+Reed decided to take up the last first. His attention had been attracted<lb/>
+to an observation made by Dr. Henry R. Carter in 1898 and published with-<lb/>
+out interpretation, which was that when a case of yellow fever occurs in<lb/>
+an isolated farm house, secondary cases do not occur for two to three weeks<lb/>
+but susceptible individuals who then visit the house fall sick in the usual<lb/>
+period of incubation, less than seven days. In talking to the writer soon<lb/>
+after his arrival in Cuba, Reed mentioned this observation and asked what<lb/>
+it meant. Upon receiving an admission of ignorance, he said, with raised<lb/>
+forefinger, &ldquo;Don't you see that the difference between the two periods must<lb/>
+represent the time passed in the body of some intermediate host? What<lb/>
+are the common biting insects in the South <del><unclear>[unclear]</unclear></del> <add><unclear>,</unclear></add> the bed bug, the flea and the<lb/>
+mosquito. Now the bed bug and the flea are common in the mountains of the<lb/>
+South, where yellow fever never spreads. The disease also disappears when<lb/>
+frost comes, though it does not affect these insects. So it is some southern<lb/>
+genus of mosquito that we must suspect&rdquo;. <del>So</del> Reed determined to begin work<lb/>
+with the common house mosquito of Havana, then called Culex faciatus, but<lb/>
+later named Stegomyia fasciata. He was given by Dr. Finlay a saucer on the<lb/>
+side of which were some of the minute eggs of this insect which could be<lb/>
+hatched into larvae by simply putting water in the saucer. Dr. Finlay<lb/>
+told him that this was the insect used in his experiments and he believed<lb/>
+it to be the carrier of yellow fever. Dr. Finlay believed that he had, in<lb/>
+a few cases, transmitted the disease by their agency, but the period of<lb/>
+incubation was far longer than that commonly accepted for yellow fever,<lb/>
+and as the subjects of experiment had not been protected <add>from</add> other sources<lb/>
+of infection, these experiments were not accepted as a demonstration of<lb/>
+his claims. Dr. Lazear was in charge of the propagation and infection of<lb/>
+the mosquitos, a difficult task, since a successful laboratory technique<lb/>
+-6-<lb/>
+<pb n="7" id="fKADA0070"/>
+for their propagation, infection, feeding and preservation had to be<lb/>
+developed. The first experiments, which were made on Lazear, Carroll,<lb/>
+<del>and</del> Dr. Pinto, <del>Volunteer Army Surgeon,</del><add>of the Army</add> and others, were made in pro-<lb/>
+found secrecy and were all discouraging failures. These happened while<lb/>
+Reed was absent, having been called to Washington to arrange for the<lb/>
+publication of the Report of the Commission on Typhoid Fever in Military<lb/>
+Camps.</p>
+<p>On the morning of August 31,1900, Lazear was at the hospital<lb/>
+of Camp Columbia, the camp being then in quarantine against the neighbor-<lb/>
+ing infected towns of Marianao and Havana. He went into the ward with<lb/>
+several mosquitos in test tubes and said, &ldquo;Who will feed my mosquitos&rdquo;.<lb/>
+A private of the 7th Cavalry, in hospital for some minor ailment, offered<lb/>
+his arm and was bitten. Those mosquitos had been infected and had previous-<lb/>
+ly bitten Carroll. On that very day Carroll came down with a severe case<lb/>
+which nearly cost him his life, and some days later the Cavalryman, known<lb/>
+in the reports as XY, came down with a mild but well marked case. Great<lb/>
+was the wonder at the hospital as to where he got his infection, for he<lb/>
+had not left the camp and his obliging donation of blood to Lazear's<lb/>
+mosquitos was not thought of by any one else as having any connection with<lb/>
+the case. Lazear said nothing but wrote to Reed that he felt like a gambler<lb/>
+who had the joker up his sleeve. A searching analysis of his notes reveal-<lb/>
+ed the cause of the previous failures in the fact that the female mosquito,<lb/>
+after having bitten a case of yellow fever, is not able to transmit the<lb/>
+infection until after twelve days - the so called period of extrinsic in-<lb/>
+cubation. In writing the report of this crucial case, Reed was in an<lb/>
+amusing dilemma. It was necessary to make it quite clear that the subject<lb/>
+was protected from every other possible source of infection and was sur-<lb/>
+rounded by numerous controls who lived under like conditions, except only<lb/>
+-7-<lb/>
+<pb n="8" id="fKADA0080"/>
+that of not having been bitten. Yet it was important not to betray the<lb/>
+secret that a member of the Commission had introduced the dreaded in-<lb/>
+fection into a closely quarantined camp where were living 1,300 American<lb/>
+soldiers, <add>as this would have caused a great row and disciplinary action by the military authorities.</add> So the name of this important contributor to the advancement<lb/>
+of science has never been published. Meanwhile the brave and gifted<lb/>
+Lazear had, while feeding mosquitos on cases of yellow fever at Las<lb/>
+Animas Hospital in Havana, been bitten by a mosquito which came from<lb/>
+a dark corner of the ward. He permitted it to fill itself on his hand<lb/>
+and noted it as an additional experiment. In due time he was taken down<lb/>
+with virulent yellow fever and a week later he died.</p>
+<p>Reed, on October 13th made a flying trip to the United States<lb/>
+to read his preliminary note on the etiology of yellow fever before the<lb/>
+American Public Health Association and to consult his Chief, General<lb/>
+Sternberg, as to further procedures. On the 12th of October, the day<lb/>
+before he sailed, he went, accompanied by the writer, to see General Wood<lb/>
+and to ask his assistance in the larger task which was to come. It was<lb/>
+an experience never to be forgotten to see these two men, both great but<lb/>
+differing so greatly, Wood massive in frame and unmoved in expression,<lb/>
+Reed tall, slender, keen and emotional, as they stood together in the<lb/>
+deep embrasure of a window of the palace looking out on the Plaza des Armas.<lb/>
+Reed, with that earnest and persuasive eloquence of which he was a master,<lb/>
+described the experiments and the results which would flow from them and<lb/>
+then said, &ldquo;General Wood, will you give me the money and the authority<lb/>
+necessary to continue these experiments&rdquo;? Promptly came the reply of the<lb/>
+Military Governor, &ldquo;I will give you $10,000- and if that is not enough,<lb/>
+I will give you $10,000 more&rdquo;.</p>
+<p>Although the fact that yellow fever could be conveyed by mos-<lb/>
+quitos was now demonstrated, much still remained to be done. The belief<lb/>
+-8-<lb/>
+<pb n="9" id="fKADA0090"/>
+was universal that the infection could be carried by clothing and other<lb/>
+inanimate objects, known by the general term fomites. The general re-<lb/>
+action at this time was expressed by Gorgas, that the mosquito was not<lb/>
+the only way. Therefore Reed built a camp called after Lazear, a mile<lb/>
+from any habitation, <del><unclear>in</unclear></del> <add>with</add> two separate buildings divided by a little valley.<lb/>
+One was clean and new and everything about it was carefully disinfected.<lb/>
+Yet it would be an infected house because infected mosquitos were placed<lb/>
+in it. The other contained every filthy article taken from cases of yel-<lb/>
+low fever which might possibly carry infection, the soiled sheets and gar-<lb/>
+ments on which they had died, soiled with black vomit and dejecta, a place<lb/>
+of sights and odors which demanded steady nerves and a strong stomach even<lb/>
+to enter. Yet American soldiers were found and an Army doctor<add>,</add> <add>Robert P. Cooke,</add> to live<lb/>
+in this place of horrors for twenty days, but no case of infection ever<lb/>
+came from it. From the other house, however, came case after case of<lb/>
+non-immunes who came down after a bite from the infected Stegomyia. The<lb/>
+experiments were so ably devised, each with its controls, to elucidate<lb/>
+a definite fact, that they stand as a model of exact scientific method.<lb/>
+When a similar Commission was formed in the A.E.F. in 1918 to investigate<lb/>
+the etiology of trench fever, it looked up and followed closely the pro-<lb/>
+cedures of Reed at Camp Lazear.</p>
+<p>The riddle of the Sphinx was solved. Gone was the costly ritual<lb/>
+of disinfections of merchandise and personal property, the fear of contact<lb/>
+with one's neighbors and the shotgun quarantines. Gone was the fighting<lb/>
+in the dark against an invisible and unknown enemy. The deductions as to<lb/>
+the future methods of warfare were simple and clear and were adopted as soon<lb/>
+as indicated by him. In fact, they were immediately put into operation at<lb/>
+the military posts and in the Sanitary Department of Havana under its since<lb/>
+-9-<lb/>
+<pb n="10" id="fKADA0100"/>
+famous sanitary officer, Major W. C. Gorgas. The result was the practical<lb/>
+abolition of yellow fever in Havana in the summer of 1901 and its entire<lb/>
+extinction in that city and throughout the island in 1902. This happy re-<lb/>
+sult Reed lived to see and also to enjoy the beginning of popular recog-<lb/>
+nition in degrees from Harvard and the University of Michigan. He died<lb/>
+<del>as the result of</del> <add>after</add> an operation for appendicitis in Washington, November 22, 1902.<lb/>
+His monument in Arlington bears an inscription quoted from President Eliot's<lb/>
+citation when he conferred on him the honorary degree of A.M. at Harvard,<lb/>
+&ldquo;He gave to man control over that dreadful scourge, Yellow Fever&rdquo;.</p>
+<p>Of great interest and value are the sketches of Reed's assistants,<lb/>
+Carroll, Lazear and Agramonte, given in this volume, and it is regretted that<lb/>
+the limits of a newspaper article do not permit of a review of them. The<lb/>
+tragic death of Lazear has already been noted. Dr. Carroll was, in recog-<lb/>
+nition of this work, commissioned in the Medical Corps and raised to the<lb/>
+grade of Major. He died in Washington, September 16, 1907. The government<lb/>
+has given to the widows of Reed, Carroll and Lazear modest pensions which<lb/>
+are now quite inadequate for their support. For the fourth and only sur-<lb/>
+viving member of the Commission there has never been any reward or official<lb/>
+recognition of his services, and this opportunity will not be lost to join<lb/>
+Dr. Kelly in reminding the American people of their obligation to Dr.<lb/>
+Aristides Agramonte, in the hope that he may, some day, receive from Congress<lb/>
+some appropriate reward. Dr. Agramonte was born in Puerto Principe, Cuba,<lb/>
+June 3, 1868. His father was the distinguished Cuban patriot, General Eduardo<lb/>
+Agramonte, who fell bravely in battle for his country. Dr. Agramonte re-<lb/>
+ceived his education in New York and his degree in Medicine from the College<lb/>
+of Physicians &amp; Surgeons of that city. In May 1898 he entered the military<lb/>
+service and went to Santiago in July and <add>to</add> Havana in December of that year,<lb/>
+-10-<lb/>
+<pb n="11" id="fKADA0110"/>
+when he was engaged in the study of yellow fever. There he was when<lb/>
+Reed's Commission was organized. In addition to the work with the Com-<lb/>
+mission, he was in charge of the Army Laboratory of Cuba, which post he<lb/>
+retained until the withdrawal of the Military Government in 1902, when<lb/>
+he remained <add>in Cuba</add> as a professor of the Medical Faculty of the University of<lb/>
+Havana. When a Reform Cabinet was appointed by the Cuban Government in<lb/>
+June of last year, he was selected for the Secretaryship of Sanitation<lb/>
+and Charities. His strong, independent character and straightforward<lb/>
+honesty were not qualities conducive to long political life under pres-<lb/>
+ent conditions in Cuba, and before the end of the year he resigned to<lb/>
+return to his professorial duties.</p>
+<p>The interesting career of Surgeon General Gorgas is given in<lb/>
+outline in the last chapter, which has the appropriate heading, &ldquo;Reed's<lb/>
+Work Made Effective&rdquo;. William C. Gorgas was born October 3,1854 in<lb/>
+Mobile, Ala. His father was a distinguished and able man, a West Point<lb/>
+graduate, who took the southern side in the Civil War and became Chief<lb/>
+of Ordnance in the Confederate War Department. As the Confederacy lacked<lb/>
+the skilled workmen and machinery and many of the raw materials for making<lb/>
+ordnance, and such arms as they had were of every known calibre and make,<lb/>
+the heartbreaking difficulties of his task can be imagined. His energy<lb/>
+and resourcefulness in overcoming them were such that the Confederate sol-<lb/>
+diers, although lacking in nearly every necessity of life, seemed always<lb/>
+sufficiently supplied with arms and ammunition to make their proximity<lb/>
+highly dangerous to their adversaries. After the war he became President<lb/>
+of the University of the South at Sewance, where his distinguished son<lb/>
+received his education. The latter graduated in Medicine at Bellevue<lb/>
+College, New York, and then entered the Medical Corps of the Army.<lb/>
+-11-<lb/>
+<pb n="12" id="fKADA0120"/>
+Soon after, while stationed at Fort Brown, Texas, he made the acquaintance<lb/>
+of Yellow Jack and acquired immunity from and interest in that disease by<lb/>
+experiencing an attack. The Spanish War found him at Fort Barrancas, Fla.,<lb/>
+and being an immune and an authority on yellow fever, he was sent to Havana<lb/>
+for duty soon after the Americans took control. There he worked bravely<lb/>
+and hopefully but without any particular success as far as the control of<lb/>
+yellow fever was concerned until the work of the Reed Commission made suc-<lb/>
+cess possible. Just at this time, in April 1900, on the eve of his first<lb/>
+great success, he was relieved from duty in Havana and ordered to Santiago,<lb/>
+and it is interesting to speculate as to what would have been the effect<lb/>
+on his future career if this order had been carried out. He was fortunate<lb/>
+enough, however, to get it revoked through the assistance of General Fitzhugh<lb/>
+Lee and General Leonard Wood. Our author's statement that Gorgas achieved<lb/>
+the remarkable success of cleaning up the Island is not, however, entirely<lb/>
+accurate as his sphere of activity never, at any time, extended beyond the<lb/>
+municipal limits of the City of Havana. The story of Gorgas's fine work in<lb/>
+Panama is told briefly but effectively by our author and for a fuller ac-<lb/>
+count the reader is referred to Gorgas's own book, &ldquo;Sanitation in Panama&rdquo;.<lb/>
+With the triumphal results the American people are well acquainted, but of<lb/>
+the difficulties which he encountered, much is still unwritten history.<lb/>
+Our author tells how the recall of Gorgas was requested by the Governor<lb/>
+and Chief Engineer in 1905 because they did not believe that mosquitos<lb/>
+carried yellow fever and malaria, but the Commission was recalled instead.<lb/>
+It is also true that on another occasion the Secretary of War had been<lb/>
+persuaded that it was necessary to relieve him, but this was prevented by<lb/>
+the valiant support of Gorgas by Surgeon General O'Reilly. Thus, a second<lb/>
+-12-<lb/>
+<pb n="13" id="fKADA0130"/>
+time was he saved to fame by the loyalty of his friends. In the end his<lb/>
+patience, his suavity, his unshakeable pertinacity conquered all obstacles,<lb/>
+human, insect and inanimate. He returned home the most widely known of<lb/>
+American physicians and became in 1914 the Chief of his Corps, to which<lb/>
+were added promotion, honors, degrees, decorations and the thanks of Congress.<lb/>
+When he died in London, July 4,1921, his funeral services were held in<lb/>
+Westminster Abbey.</p>
+<p>The chapter in this book which is perhaps the most moving and the<lb/>
+fullest of human interest is the tenth entitled &ldquo;The Value of Dr. Reed's<lb/>
+Work to the World&rdquo;. He tells of the great epidemics which have ravaged<lb/>
+the United States and shows how in former days it spread far to the north<lb/>
+of its sub-tropical home. It visited Boston as early as 1691 <del>-</del> New York<lb/>
+experienced 14 epidemics and Philadelphia 18 prior to the middle of the<lb/>
+last century, including the dreadful visitation of 1793, when one-tenth of<lb/>
+the population perished. But to the North yellow fever has been an infre-<lb/>
+quent and of recent years a rare visitor. For the South, however, who can<lb/>
+estimate the retarding influence to its development of the 90 visitations<lb/>
+in two centuries, by the loss of valuable lives, the disturbance of trade<lb/>
+and business, the quarantines and the repulsion of desirable immigrants?<lb/>
+The epidemic of 1878 is estimated to have cost the country more than<lb/>
+$15,000,000 in money, but no statistician can estimate the cost in panic<lb/>
+fears in disrupted homes and in the tears of widows and orphans. From all<lb/>
+these, the work of Reed's Commission in one short year, with the practical<lb/>
+applications of its findings, has delivered us.</p>
+<p>We shall end this review with the quotation from the book of<lb/>
+Esther, which Dr. Kelly has placed at the head of this chapter,<lb/>
+-13-<lb/>
+<pb n="14" id="fKADA0140"/>
+&ldquo;And the king said, What honour and dignity hath been done to Mordecai<lb/>
+for this? Then said the king's servants that ministered to him, There<lb/>
+is nothing done for him&rdquo;.</p>
+<p>Walter Reed left no fortune and his widow receives from this<lb/>
+great government an annuity insufficient for her support. This is also<lb/>
+true of the widows of Carroll and Lazear.</p>
+<p>Biston<lb/>
+Oct. 19&sol;23.<lb/>
+-14-</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t02754001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from James Carroll to Caroline Latimer, March 9, 1905</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Carroll, James</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02754001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1905-03-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Latimer, Caroline</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Finlay, Carlos</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Folk, [s.n.]</name>
+<name type="person">Jernegan, [s.n.]</name>
+<name type="person">Hanberry, [s.n.]</name>
+<name type="person">Weatherwalks, [s.n.]</name>
+<name type="person">Hildebrand, [s.n.]</name>
+<name type="person">England [s.n.]</name>
+<name type="place">New York (N.Y.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Indianapolis (Ind.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="hospital">Johns Hopkins Hospital (Baltimore, Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>6 pp.</extent>
+<date value="1905-03-09">March 9, 1905</date>
+<idno rend="suppress">02754001</idno>
+<title>Letter from James Carroll to Caroline Latimer, March 9, 1905</title>
+</bibl>
+</head>
+<p>Carroll presents a chronology of Walter Reed's involvement with the Yellow Fever Commission. Carroll gives his own autobiography and provides information on the other participants in the study.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1905-03-09">
+<head>Letter from James Carroll to Caroline Latimer, March 9, 1905</head>
+<pb n="1" id="f02754001"/>
+<opener>
+<dateline>
+WAR DEPARTMENT,<lb/>
+OFFICE OF THE SURGEON GENERAL,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<date value="1905-03-09">March 9, 1905.</date>
+</dateline>
+<salute>Dear D<hi rend="superscript">r</hi> Latimer;</salute>
+</opener>
+<p>In response to the request<lb/>
+conveyed in your letter of February 24<hi rend="superscript">th</hi> I<lb/>
+take pleasure in communicating the following<lb/>
+which is approximately accurate.</p>
+<p>In obedience to the War Department order<lb/>
+convening the board D<hi rend="superscript">r</hi> Reed and I sailed<lb/>
+from New York June 21<hi rend="superscript">st</hi> 1900 and reached<lb/>
+Havana June 25<hi rend="superscript">th</hi>. The board was organized<lb/>
+and work begun immediately. On August<lb/>
+4<hi rend="superscript">th</hi> D<hi rend="superscript">r</hi> Reed returned to the United States, remained<lb/>
+there about two months and then returned<lb/>
+after the death of D<hi rend="superscript">r</hi> Lazear to collect data<lb/>
+for the preliminary report. This required<lb/>
+about a week or ten days after which he<lb/>
+again returned to the United States to com-<lb/>
+plete the report and present it at the<lb/>
+meeting of the Am. Public Health Association<lb/>
+as Indianapolis toward the end of October<lb/>
+<pb n="2" id="f02754002"/>
+2.<lb/>
+About November 1<hi rend="superscript">st</hi> he sailed again for<lb/>
+Havana, to take up the second series of<lb/>
+experiments intended to be confirmatory of<lb/>
+the first. His final departure from Havana<lb/>
+was about February 7<hi rend="superscript">th</hi> or 8<hi rend="superscript">th</hi> 1901.</p>
+<p>After his return to the United States<lb/>
+his time was taken up with various<lb/>
+matters of routine, among them correspondence<lb/>
+with Major Gorgas who was then engaged<lb/>
+in clearing Havana of yellow fever and under<lb/>
+whom D<hi rend="superscript">r</hi> Guiteras was working to confirm<lb/>
+the results of the Commission and establish, if<lb/>
+possible the theory of D<hi rend="superscript">r</hi> Finley that immunity<lb/>
+against yellow fever could be conferred through<lb/>
+the bites of recently contaminated mosquitoes<lb/>
+and the subject escape any attack of the<lb/>
+disease now and in the future; and further<lb/>
+that the bite of a single insect would convey<lb/>
+a mild attack while multiple bites would<lb/>
+be followed by a severe attack. The opposite<lb/>
+was shown to be the case.</p>
+<pb n="3" id="f02754003"/>
+<p>3.</p>
+<p>D<hi rend="superscript">r</hi> Reed was Professor of Bacteriology and<lb/>
+clinical Microscopy at the Army Medical School<lb/>
+and Professor of Bacteriology and Pathology at<lb/>
+the Columbian University, Washington, D.C. He<lb/>
+firmly believed that smallpox is conveyed by<lb/>
+a biting insect and we made some attempts<lb/>
+to <unclear>variolate</unclear> calves by causing them to be<lb/>
+bitten by bed bugs that had previously been<lb/>
+applied to patients suffering with small pox.</p>
+<p>In regard to myself there is nothing<lb/>
+of interest to be related, I have been a<lb/>
+wandering good-for-nothing who fell in<lb/>
+love at 14 and left home at 15, roughed it<lb/>
+in the Canadian backswoods for several<lb/>
+years and finally drifted into the Army.<lb/>
+I have served twenty-four years as a<lb/>
+soldier, four and a half years as a Contract<lb/>
+Surgeon and two and a half in the Medical<lb/>
+Corps as First Lieutenant and Assistant<lb/>
+Surgeon, While still a soldier I studied<lb/>
+<pb n="4" id="f02754004"/>
+4.<lb/>
+medicine at the University of the City of<lb/>
+New York and the University of Maryland,<lb/>
+graduating at the latter school, and took<lb/>
+post graduate courses in Bacteriology and<lb/>
+Pathology at the Johns Hopkins Hospital<lb/>
+in the early nineties, before the establishment<lb/>
+of the medical school.</p>
+<p>The fact of which I am especially<lb/>
+proud is that I was the first to succumb<lb/>
+to experimental mosquito inoculation.<lb/>
+D<hi rend="superscript">r</hi> Lazear applied a single contaminated<lb/>
+insect to my arm on August 27<hi rend="superscript">th</hi> 1900 and<lb/>
+I was taken sick August 31<hi rend="superscript">st</hi> with an attack<lb/>
+free from black vomit but so severe that on<lb/>
+three successive days it was reported I would<lb/>
+not recover. With a wife and five <hi>young</hi><lb/>
+children at home my thoughts may be better<lb/>
+imagined than described. This recollection<lb/>
+brings back the look of terror in poor<lb/>
+Lazear's eyes when he realized that black<lb/>
+vomit was impending.</p>
+<pb n="5" id="f02754005"/>
+<p>5.</p>
+<p>On the day that I was taken sick Lazear<lb/>
+applied the same mosquito to a soldier who<lb/>
+came down with a mild attack of yellow<lb/>
+fever five days later.</p>
+<p>A letter addressed to D<hi rend="superscript">r</hi> Aristides<lb/>
+Agramonte at the University of Havana or<lb/>
+in care of D<hi rend="superscript">r</hi> Charles Finlay will surely<lb/>
+reach him.</p>
+<p>At the Surgeon General's Office I learn<lb/>
+that the address of D<hi rend="superscript">r</hi> R. P. Cooke is,<lb/>
+Boyce, Virginia.</p>
+<p>The addresses of Kissinger and<lb/>
+Moran I am unable to obtain there.</p>
+<p>The two soldiers who slept in the in-<lb/>
+fected clothing house with D<hi rend="superscript">r</hi> Cooke were<lb/>
+Privates Folk and Jernegan. These three<lb/>
+were followed by Privates Hanberry and<lb/>
+Weatherwalks and these in turn by Privates<lb/>
+Hildebrands and England. Folk, Jernegan<lb/>
+and Hanberry afterward submitted to<lb/>
+experimental inoculation and suffered<lb/>
+(over)<lb/>
+<pb n="6" id="f02754006"/>
+6.<lb/>
+attacks of yellow fever in consequence.</p>
+<p>I am truly delighted though not<lb/>
+surprised at the progress D<hi rend="superscript">r</hi> Kelly is<lb/>
+making and wish him the fullest<lb/>
+measure of success. It will always afford<lb/>
+me pleasure to give any aid within<lb/>
+my power.</p>
+<closer>
+<salute>Yours very sincerely,</salute>
+<signed>James Carroll</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

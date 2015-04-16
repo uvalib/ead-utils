@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01914001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: Mosquitoes Considered As Transmitters of Yellow Fever and Malaria, by Carlos J. Finlay, May 27, 1899</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01914001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1899-05-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Koch, Robert</name>
+<name type="person">Smith, Theobald H.</name>
+<name type="person">Manson, Patrick</name>
+<name type="place">Africa</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Mexico City (Mexico)</name>
+<name type="place">Mexico</name>
+<name type="place">Vera Cruz (Mexico)</name>
+<name type="place">Santiago (Cuba)</name>
+<name type="place">Cuba</name>
+<name type="place">Puerto Rico</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>9 pp.</extent>
+<date value="1899-05-27">May 27, 1899</date>
+<idno rend="suppress">01914001</idno>
+<title>Report: Mosquitoes Considered As Transmitters of Yellow Fever and Malaria, by Carlos J. Finlay, May 27, 1899</title>
+</bibl>
+</head>
+<p>Finlay discusses the theory that mosquitoes can transmit malaria and yellow fever. To bolster his case he describes Koch's work with the tick that transmits Texas Fever. He writes about the effect of temperature on mosquitoes, and suggests that measures be taken to eliminate mosquitoes and prevent their entry into houses.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1899-05-27">
+<head>Report: Mosquitoes Considered As Transmitters of Yellow Fever and Malaria, by Carlos J. Finlay, May 27, 1899</head>
+<pb n="1" id="f01914001"/>
+<opener>
+MOSQUITOES CONSIDERED AS TRANSMITTERS OF YELLOW FEVER AND<lb/>
+MALARIA.<lb/>
+By Charles J. Finlay, M.D.<lb/>
+<dateline>
+Havana. <date value="1899-05-27">May 27<hi rend="superscript">th</hi> 1899-</date>
+---------<lb/>
+</dateline>
+</opener>
+<p>The despised mosquito, denounded by me since 1881 as<lb/>
+the agent of transmission of yellow fever, is now attract-<lb/>
+ing considerable attention among distinguished and sagacious<lb/>
+observers who attribute to that insect an important role in<lb/>
+the etiology and propagation of the malaria infection. To those<lb/>
+who are familiar with the biological conditions and the ha-<lb/>
+bits of the mosquito this will not be a matter for surprise;<lb/>
+rather should we wonder how, considering the special apti-<lb/>
+tudes of the insect, other inoculable diseases are not trans-<lb/>
+mitted by it, specially such as are due to germs in the blood<lb/>
+or in the tissues that lie within reach of its sting. Much<lb/>
+light, however, has been thrown upon this singular eclecticism<lb/>
+by modern ideas concerning the process by which some blood-<lb/>
+sucking insects convey certain diseases to warm blooded ani-<lb/>
+mals. No are induced by them to regard as one of the essen-<lb/>
+tial conditions that the transmitting insect should itself<lb/>
+experience a true infection, which may not endanger its life<lb/>
+nor greatly disturb its physiological functions, but must<lb/>
+always require, on the part of the insect, pathogenous sus-<lb/>
+ceptibility for the specific germs which it is called upon<lb/>
+to transmit. It will thus be readily understood why the same<lb/>
+insect may transmit only certain germs and not others, as<lb/>
+also that, among insects of the same kind, some species may<lb/>
+possess that faculty while others do not.</p>
+<p>Among the publications that have appeared concerning<lb/>
+the transmission of malaria by mosquitoes, the most important<lb/>
+one, and that which has caused most sensation, has been the<lb/>
+<pb n="2" id="f01914002"/>
+-2-<lb/>
+lecture delivered, a few months ago, by Robert Koch, in which<lb/>
+he declares himself decidedly in favor of the mosquito theory<lb/>
+as the one which most plausibly accounts for the propagation<lb/>
+of the said disease. In support of his idea he cites a very<lb/>
+appropriate precedent, the Texas fever, a cattle disease the<lb/>
+etiology abd propagation of which more so ably cleared up, in<lb/>
+1892, by Dr. Theobald Smith, chief of the Division of animal<lb/>
+parthology in the Bureun of Animal Industry, United States of<lb/>
+America. Dr. Smith proved that the germ of the disease in a<lb/>
+blood parasite, and that it is propagated by the cattle tick.<lb/>
+The germs sucked in which the blood of diseased cattle reach<lb/>
+the eggs of the tick, and the new generation of ticks, devel-<lb/>
+oped from the infected eggs, convey the Texas fever to the<lb/>
+sound cattle upon which they are applied. His experiments<lb/>
+were repeated and confirmed in Eastern Africa by Koch, who,<lb/>
+in view of the relations which seem to connect the presence<lb/>
+of mosquitoes with the transmissibility of malaria, does not<lb/>
+hesitate to make those insects responsable for the propaga-<lb/>
+tion of the malaria infection. He does not think, however,<lb/>
+that the latter can be communicated by so simple a process<lb/>
+as that of a mosquito first stinging a malaria patient and<lb/>
+afterwards a sound person, such as I have, in my theory, con-<lb/>
+sidered capable of causing the transmission of yellow fever.<lb/>
+The grounds for this distinction, however, are not very ap-<lb/>
+parent. In the case of the tick, which is supposed not to<lb/>
+attack a second animal after parting from its first host, the<lb/>
+exclusive transmission by the second generation, infected<lb/>
+through the eggs, may be considered a necessity; but it is<lb/>
+otherwise with mosquitoes, at any rate, with those which I<lb/>
+have observed in Havana. After an interval of two or more<lb/>
+days, which they require to digest the blood and empty them-<lb/>
+selves, they are ready to sting the next victim that offers,<lb/>
+and may do so as many as ten or twelve times, during the<lb/>
+thirty or more days that I have been able to keep them alive.<lb/>
+<pb n="3" id="f01914003"/>
+-3-<lb/>
+It is, therefore, quite admissible that, when the mosquito<lb/>
+becomes contaminated, not only its eggs but also its saliva-<lb/>
+ly and venom glands may be invaded by the pathogenous germs,<lb/>
+so that the latter may be discharged with the secretion of<lb/>
+those glands along the track of the wound, and into the capil-<lb/>
+lary vessel entered by the sting when the insect sttacks its<lb/>
+next victim. Indeed, on some rare occasions I have seen mos-<lb/>
+quitoes die withing twenty four hours after they have stung<lb/>
+a patient with severe yellow fever, without assignable cause,<lb/>
+for they still retained some of the blood which they had<lb/>
+sucked; whence it might be surmised that the yellow fever<lb/>
+germ is pathogenic for the Havana mosquitoes, though the in-<lb/>
+fection seldom proves for those insects.</p>
+<p>In August last, during may stay in the field hospitals<lb/>
+on the hills near Santiago, I witnessed a fact which, as far<lb/>
+as it went, agreed with my theory about yellow fever, inas-<lb/>
+much as there were neither mosquitoes, mosquito eggs nor lar-<lb/>
+vae, to be found in my encampments, and not a single case of<lb/>
+yellow fever occurred among the one hundred and fifty men who<lb/>
+came under my observation, notwithstanding the daily communi-<lb/>
+cations with the city. It was otherwise, however, in regard<lb/>
+to malaria, for this constituted the prevalent cause of sick-<lb/>
+ness in all those camps. It assumed various types: the quo-<lb/>
+tidian or tertain intermittent, the remittent, irregular, or<lb/>
+subcontinuous; but in most of the cases it was accompanied<lb/>
+by diarrhea (sometimes mixed with blood). This instance, at any<lb/>
+rate, shows that <unclear>Koch!s</unclear> assertion, that &ldquo;where there are no<lb/>
+mosquitoes there is no malaria&rdquo; is altogether too absolute.<lb/>
+In those camps, I believe the propagation must have been ef-<lb/>
+fected through the flies (of which there was a great abundan-<lb/>
+ce). These insects, in spite of all precautions, had ample<lb/>
+opportunities of picking up, from the discharges of the ma-<lb/>
+maria patients, not only the malaria parasites contained in<lb/>
+the extravasated blood but also some infections intestinal<lb/>
+<unclear><del>germ,</del></unclear><lb/>
+<pb n="4" id="f01914004"/>
+-4-<lb/>
+germs, with both of which organisms they may have contaminated<lb/>
+the food and beverages used by the men who subsequently showed<lb/>
+signs of the double infection. A yellow fever epidemic occur-<lb/>
+ring under similar circumstances, in the absence of yellow<lb/>
+fever mosquitoes, night not be so readily reconciled with<lb/>
+my theory about that disease, which is founded upon more de-<lb/>
+finite and more exclusive arguments than those recorded in<lb/>
+connection with the malaria infection. The following instants<lb/>
+may serve to illustrate my meaning. In the capital of Mexico,<lb/>
+and in other districts of similar altitude above the sea le-<lb/>
+vel, Mexicans who never have visited the lowlands have no in-<lb/>
+munity whatsoever against yellow fever, a sure proof that no<lb/>
+epidemics of that disease ever occur in that part of the coun-<lb/>
+try. It sometimes happens, however, that a resident of the<lb/>
+capital takes the infection by going to Vera Cruz, though the<lb/>
+disease may nor declare itself untill his return to the capi-<lb/>
+tal. In such cases, the yellow fever will run its usual course<lb/>
+with the same symptoms and prognosis as if the patient had<lb/>
+remained at Vera Cruz; with this difference only;, that in<lb/>
+Vera Cruz other suscoptible persons night readily have caught<lb/>
+the infection from him, whereas in Mexico the disease is ne-<lb/>
+ver propagated. If the infection could be transmitted through<lb/>
+contact with the patient or his secretions, by inhaling his<lb/>
+emanations in the sick room, or by the use of contaminated<lb/>
+food or beverages, there would be no imaginable reason why<lb/>
+the disease should not be transmitted at Mexico as well as<lb/>
+at Vera Cruz. Such not being the case, we must infer: first,<lb/>
+that a factor which is necessary for the transmission is pre-<lb/>
+sent at Vera Cruz, but is absent from Mexico; and second from<lb/>
+the circumstances of the disease not being transmissible<lb/>
+through the forms of exposure enumerated above, that the yel-<lb/>
+low fever germ is pathogenous only when introduced in a less<lb/>
+trivial manner, probably by inoculation under the epidermis<lb/>
+or even directly into a blood vessel<del>,</del>. Hence my theory of the<lb/>
+<pb n="5" id="f01914005"/>
+-5-<lb/>
+mosquito.</p>
+<p>NEW MOSQUITO THEORY.- My original mosquito theory, however<lb/>
+in <unclear>viwe</unclear> of the facts brought to light by Dr. T. H. Smith, in<lb/>
+his admirable demonstration of the transmission of the Texas<lb/>
+fever through the agency of the cattle tick, required now to<lb/>
+be somewhat modified, so as to include the important circum-<lb/>
+stance that the faculty of transmitting the yellow fever germ<lb/>
+need not be limited to the parent insect, directly contami-<lb/>
+nated by stinging a yellow fever patient (or perhaps by con-<lb/>
+tact with or feeding from his discharges), but may be like-<lb/>
+wise inherited by the next, generation of mosquitoes issued<lb/>
+from the contaminated parent. With this new development, in-<lb/>
+deed, the theory seems to cover the whole ground of conditions<lb/>
+which are known to govern the transmission or non-transmission<lb/>
+of the disease, and to account for every well-authenticated<lb/>
+fact on record.</p>
+<p>There are different species of mosquitoes which are pe-<lb/>
+culiar to certain localities, even within the yellow fever<lb/>
+zone, though we are not able to account for their preferences<lb/>
+in this respect, nor for the circumstances which determine<lb/>
+their permanency in such limited areas. It is a fact, however,<lb/>
+that the &ldquo;domestic mosquito&rdquo; (by which term I mean such spe-<lb/>
+cies as constitute a parasite and commensal of man) shows no<lb/>
+inclination whatever for extensive excursions so long as the<lb/>
+female insects find at hand convinient subjects from whom they<lb/>
+can draw the warm life-blood which they apparently require,<lb/>
+not so much for their own nourishment as for the purposes of<lb/>
+ovulation and for the reproduction of their species, That the<lb/>
+tropical species cannot well establish themselves in tempe-<lb/>
+rate or cold climates, will be readily understood by repeat-<lb/>
+ing the following experiments: Let a mosquito of the small<lb/>
+diurnal species found in Havana be introduced into a test<lb/>
+tube provided with a thermometer; if the temperature be low-<lb/>
+ered, it will be seen that, when it falls to between <unclear>15&deg;</unclear> and<lb/>
+<unclear>19&deg;</unclear> C <unclear>(59&deg;</unclear> and <unclear>62.2&deg;</unclear> F) the insect becomes benumbed, and un-<lb/>
+<pb n="6" id="f01914006"/>
+-6-<lb/>
+less it finds some object upon which it can fasten its claws<lb/>
+it will drop to the bottom of the tube, in a condition of ap-<lb/>
+parent death, in which it will remain so long as the tempera-<lb/>
+ture is kept between <unclear>15&deg;</unclear> and <unclear>0&deg;</unclear> C. <unclear>(59&deg;</unclear> and <unclear>32&deg;</unclear> F). On allow-<lb/>
+ing the temperature to rise again, when it reaches above <unclear>15&deg;</unclear><lb/>
+to <unclear>19&deg;</unclear> C. the mosquito will gradually revive and soon recovers<lb/>
+its normal agility and the power of stinging. On the other<lb/>
+hand, if the mosquito is confined in a closed tube and the<lb/>
+air gradually rarefied, the insect appears to lose the power<lb/>
+of supporting itself on its wings, and also that of stiffen-<lb/>
+ing its proboscis for the purpose of stinging. With tempera-<lb/>
+ture below <unclear>25&deg;</unclear> C. <unclear>(77&deg;</unclear> F.), the time required by the culex<lb/>
+mosquito to digest the blood and get ready for another bite<lb/>
+is prolonged to several days; and, according to my observa-<lb/>
+tions, the pupae of that species, if kept at temperature <unclear>25&deg;</unclear><lb/>
+C. give five males to one fomale, whereas at <unclear>25&deg;--30&deg;</unclear> C. the<lb/>
+proportions are reversed. Hence it follows that during the<lb/>
+cold season in Havana there are comparatively few mosquitoes<lb/>
+of that kind in a condition to propagate the yellow fever.<lb/>
+At <unclear>see</unclear> mosquitoes will save themselves from being blown into<lb/>
+the water only by avoiding the deck, and other exposed parts<lb/>
+of the vessel, and in travelling towards cooler regions they<lb/>
+will have a additional motive for secking refuge in the<lb/>
+warmer and more sheltered parts of the ship. Hence the like-<lb/>
+lihood of their gathering in the holds of vessels, in which<lb/>
+the source of yellow fever infections has been, many a time,<lb/>
+distinctly located. Once boxed up inside the hold of a vessel,<lb/>
+the contaminated mosquito may be reduced to the necessity of<lb/>
+drawing its blood-supply (faute de mieux) from lower <unclear>animals</unclear>,<lb/>
+such as rate etc. and to lay its eggs in any collection of<lb/>
+fresh water that may have found its way through the chinks<lb/>
+or otherwise. On land, mosquitoes will instinctively frequent<lb/>
+the basement or ground floor of houses in preference to the<lb/>
+upper ones, and they seldom seek the open air of their own<lb/>
+<pb n="7" id="f01914007"/>
+-7-<lb/>
+accord, while their usual frunctions can be fulfilled under<lb/>
+sholter, except when they are ready to lay their eggs, This<lb/>
+is in accordance with the maternal instinct which teaches<lb/>
+them to procure undisturbed possession of some stagnant wa-<lb/>
+ters for their larvas during the two or more weeks required<lb/>
+for the complete development of the winged insect; a condi-<lb/>
+tion seldom satisfied within inhabited dwellings. On the ap-<lb/>
+proach of its natural death, the parent insect returns to the<lb/>
+same water where the eggs have been laid, and its cadaver re-<lb/>
+mains floating on the water, to be devoured by its own lar-<lb/>
+va. Entrapped during the unconscious act of person putting<lb/>
+on his hat a contaminated locality, mosquitoes have been<lb/>
+conveyed to distant houses; and inside of boxes, trunks, par-<lb/>
+cels, etc. provided that a sufficient degree of moisture and<lb/>
+particles of available food exist in their place of confine-<lb/>
+ment, that can be conveyed to any distance that may be reach-<lb/>
+ed within the natural term of the insect's life (which some-<lb/>
+times lasts as many as thirty or thirty-five days).</p>
+<p>My experiments upon yellow-fever mosquitoes have al-<lb/>
+ready been published; their results may be thus briefly re-<lb/>
+corded; first: Reproduction of the disease, an a mild form,<lb/>
+within five to twenty five days after having applied centa-<lb/>
+minated mosquitoes to susceptible subjects; second, partial<lb/>
+or complete immunity against yellow-fever, obtained even<lb/>
+when no pathogenous manifestation, had followed those inocu-<lb/>
+lations; third, finally, the coincidence of cultures made<lb/>
+with the heads and proboscider of contiminated mosquitoes<lb/>
+giving the identical micrococcus in tetrads (M. tetragenus<lb/>
+febris flavae; M. tetragenus versatilis, Sternberg; tetracoc-<lb/>
+cus versatilis) previously dicovered by me, in colaboration<lb/>
+with Dr. C. Delgado, in the blood and secretions of yellow<lb/>
+fever patients.</p>
+<p>With such as array of evidence (presumptive or other-<lb/>
+wise) as to the role of the mosquito in the propagation of<lb/>
+<pb n="8" id="f01914008"/>
+-8-<lb/>
+yellow fever, and the concurrence of Koch, Manson, and other<lb/>
+experts of the highest order in their advocacy, of a similar<lb/>
+doctrine from the transmission of malaria, the time seems at<lb/>
+last come when decided measures of protection against mosqui-<lb/>
+toes should be seriously considered; the more so as the ener-<lb/>
+getic spirit of the Anglo-Sax&oacute;n race is about to replace the<lb/>
+fatalistic apathy of former rules in Cuba, and Porto Rico.<lb/>
+The suggestion of Koch, calling for dwellings from which mos-<lb/>
+quitoes could be barred out, in order that the German colo-<lb/>
+nies of Eastern Africa night be freed from Malaria, ought<lb/>
+surely to be acted upon in countries where it is not only ma-<lb/>
+laria that has to be contended with, but also the dreadful<lb/>
+yellow fever, aptly calles &ldquo;the plague&rdquo; in the early spanish<lb/>
+chronicles of America, from its analogies with the Oriental<lb/>
+disease of that name. Why should not the houses in yellow fe-<lb/>
+ver countries, be provided with mosquito blinds, such as are<lb/>
+used in the United States as a more matter of confort, where-<lb/>
+as here it might be a question of life or death. The mosqui-<lb/>
+to larvas might be destroyed in swamps, pools, privies, sinks,<lb/>
+street-sewers and other stagnant waters, where they are bred,<lb/>
+by a methodical use of permanganate of potassium or other<lb/>
+such substances, in order to lessen the abundance of mosqui-<lb/>
+toes. But the most essential point must be to prevent those<lb/>
+insects from reaching yellow fever patients, and to secure a<lb/>
+proper desinfection of all suspicious discharges, in order to<lb/>
+forestall the contamination of those insects. Well-ventilated<lb/>
+hospitals should be built on high grounds, with no atagnant<lb/>
+waters nor marches in their vecinity, the doors and windows<lb/>
+protected by mosquito blinds, a good system of drainage and<lb/>
+sewerage, with facilities for desinfecting all suspicious<lb/>
+discharges, and for destroying such mosquitoes and larvas as<lb/>
+sight be found within the <unclear>buildings.</unclear> Only the upper stories<lb/>
+should be occupied by the sick, and none but yellow fever<lb/>
+patients, and such malaria patients as are immune against<lb/>
+<pb n="9" id="f01914009"/>
+-9-<lb/>
+yellow fever, should be admitted. The examination for admit-<lb/>
+sion might be corried out in a separate department devoted<lb/>
+to suspicious cases under observation.</p>
+<p>With such hospitals at hand, and an efficient board<lb/>
+of health that would see to the proper errangements for pa-<lb/>
+tients who could be left in their homes, and general sanitary<lb/>
+improvements in and around the principal cities, there can<lb/>
+be little doubt that yellow fever might be stamped <unclear>out</unclear> of<lb/>
+Cuba and Porto Rico, and malaria reduced to a minimum. It<lb/>
+would then be the business of the port and quarantine offi-<lb/>
+cers to prevent the introduction of fresh germs.</p>
+<p>------------------</p>
+<p>Published in the N. Y. Record of May 27<lb/>
+1899- Shown to Col. R. M. <unclear>Reilly Ch. Surg.</unclear><lb/>
+<unclear>Dis</unclear> Cuba in Dec. 1898 &amp; to Dr. H. R.<lb/>
+Carter M. H. <unclear>L.-</unclear></p>
+</div1>
+</body>
+</text>
+</TEI.2>

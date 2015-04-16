@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02463001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders, April 27, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Scott, Hugh L.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02463001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-04-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Wood, Leonard</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1901-04-27">April 27, 1901</date>
+<idno rend="suppress">02463001</idno>
+<title>Military Orders, April 27, 1901</title>
+</bibl>
+</head>
+<p>In Circular #5, Scott specifies how to prevent the spread of yellow fever and malaria at military posts by controlling mosquitoes, and instructs physicians how to monitor possible yellow fever patients.</p>
+</div1>
+</front>
+<body>
+<div1 type="military orders" n="1901-04-27">
+<head>Military Orders, April 27, 1901</head>
+<pb n="1" id="f02463001"/>
+<p>FROM THE NATIONAL ARCHIVES</p>
+<p>The former bureau of Insular affairs<lb/>
+Records relating to YF.</p>
+<p>File under Nat A.</p>
+<p>ORDERS, BOOKS, BLANKS, &amp; D.C.DIV.<lb/>
+REC'D MAY-6- 1901<lb/>
+ADJUTANT GENERALS OFFICE.</p>
+<p>CIRCULAR,<lb/>
+No. 5.}</p>
+<p>HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+<hi rend="italic">Havana, April 27, <hi>1901</hi></hi>.</p>
+<p>Upon the recommendation of the Chief Surgeon of the<lb/>
+Department, the following instructions are published and<lb/>
+will be strictly enforced at all military posts in this Depart-<lb/>
+ment:</p>
+<p>The recent experiments made in Havana by the Medical<lb/>
+Department of the Army having proved that yellow fever,<lb/>
+like malarial fever, is conveyed chiefly, and probably ex-<lb/>
+clusively, by the bite of infected mosquitoes, important<lb/>
+changes in the measures used for the prevention and treat-<lb/>
+ment of this disease have become necessary.</p>
+<p>1. In order to prevent the breeding of mosquitoes and<lb/>
+protect officers and men against their bites, the provisions<lb/>
+of General Orders No. 6, Department of Cuba, December<lb/>
+21, 1900, shall be carefully carried out, especially during<lb/>
+the summer and fall.</p>
+<p>2. So far as yellow fever is concerned, infection of a<lb/>
+room or building simply means that it contains infected<lb/>
+mosquitoes, that is, mosquitoes which have fed on yellow<lb/>
+fever patients. Disinfection, therefore, means the employ-<lb/>
+ment of measures aimed at the destruction of these mosqui-<lb/>
+toes. The most effective of these measures is fumigation,<lb/>
+either with sulphur, formaldehyde or insect powder. The<lb/>
+fumes of sulphur are the quickest and most effective insec-<lb/>
+ticide but are otherwise objectionable. Formaldehyde gas<lb/>
+is quite effective if the infected rooms are kept closed and<lb/>
+sealed for two or three hours. The smoke of insect powder<lb/>
+has also been proved very useful; it readily stupefies mos-<lb/>
+quitoes, which drop to the floor and can then be easily de-<lb/>
+stroyed.</p>
+<p>The washing of walls, floors, ceilings and furniture with<lb/>
+disinfectants is unnecessary.</p>
+<p>3. As it has been demonstrated that yellow fever cannot<lb/>
+be conveyed by fomites, such as bedding, clothing, effects<lb/>
+and baggage, they need not be subjected to any special<lb/>
+disinfection. Care should be taken, however, not to re-<lb/>
+move them from the infected rooms until after formaldehyde<lb/>
+fumigation, so that they may not harbor infected mos-<lb/>
+quitoes.</p>
+<p>Medical officers taking care of yellow fever patients need<lb/>
+not be isolated; they can attend other patients and as-<lb/>
+sociate with non-immunes with perfect safety to the garri-<lb/>
+son. Nurses and attendants taking care of yellow fever<lb/>
+patients shall remain isolated, so as to avoid any possible<lb/>
+<pb n="2" id="f02463002"/>
+<unclear>INSULAR DIVISION,</unclear><lb/>
+MAY 6<lb/>
+162<lb/>
+- 3 -<lb/>
+1901<lb/>
+WAR DEPARTMENT<lb/>
+danger of their conveying mosquitoes from patients to non-<lb/>
+immunes.</p>
+<p>4. The infection of mosquitoes is most likely to occur<lb/>
+during the first two or three days of the disease. Ambulant<lb/>
+cases, that is, patients not ill enough to take to their beds<lb/>
+and remaining unsuspected and unprotected, are probably<lb/>
+those most responsible for the spread of the disease. It is<lb/>
+therefore essential that all fever cases should be at once<lb/>
+isolated and so protected that no mosquitoes can possibly<lb/>
+get access to them until the nature of the fever is positively<lb/>
+determined.</p>
+<p>Each post shall have a &ldquo;reception ward&rdquo; for the admis-<lb/>
+sion of all fever cases and an &ldquo;isolation ward&rdquo; for the<lb/>
+treatment of cases which prove to be yellow fever. Each<lb/>
+ward shall be made mosquito-proof by wire netting over<lb/>
+doors and windows, a ceiling of wire netting at a height of<lb/>
+seven feet above the floor, and mosquito bars over the beds.<lb/>
+There should be no place in it where mosquitoes can seek<lb/>
+refuge, not readily accessible to the nurse. Both wards can<lb/>
+be in the same building, provided they are separated by a<lb/>
+mosquito-tight partition.</p>
+<p>5. All persons coming from an infected locality to a post<lb/>
+shall be kept under careful observation until the comple-<lb/>
+tion of five days from the time of possible infection, either<lb/>
+in a special detention camp or in their own quarters; in<lb/>
+either case, their temperature should be taken twice a day<lb/>
+during this period of observation so that those who develop<lb/>
+yellow fever may be placed under treatment at the very in-<lb/>
+ception of the disease.</p>
+<p>6. Malarial fever, like yellow fever, is communicated by<lb/>
+mosquito bites and therefore is just as much of an infec-<lb/>
+tious disease and requires the same measures of protection<lb/>
+against mosquitoes. On the assumption that mosquitoes<lb/>
+remain in the vicinity of their breeding places, or never<lb/>
+travel far, the prevalence of malarial fever at a post would<lb/>
+indicate want of proper care and diligence on the part of<lb/>
+the Surgeon and Commanding Officer in complying with<lb/>
+General Orders No. 6, Department of Cuba, 1900.</p>
+<p>7. Surgeons are again reminded of the absolute necessity,<lb/>
+in all fever cases, to keep, from the very beginning, a<lb/>
+complete chart of pulse and temperature, since such a<lb/>
+chart is their best guide to a correct diagnosis and the<lb/>
+proper treatment.</p>
+<p>BY COMMAND OF MAJOR GENERAL WOOD:<lb/>
+H. L. SCOTT,<lb/>
+<hi rend="italic">Adjutant General</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

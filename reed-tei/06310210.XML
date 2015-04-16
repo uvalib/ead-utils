@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06310210">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Albert E. Truby to Philip Showalter Hench, November 30, 1942</title>
+<title type="gmd">[electronic resource]</title>
+<author>Truby, Albert E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06310210</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1942-11-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Ash, Col.</name>
+<name type="person">Neate, John S.</name>
+<name type="person">Russell, Frederick F.</name>
+<name type="place">San Francisco (Calif.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1942-11-30">November 30, 1942</date>
+<idno rend="suppress">06310210</idno>
+<title>Letter from Albert E. Truby to Philip Showalter Hench, November 30, 1942</title>
+</bibl>
+</head>
+<p>Truby responds to Hench's letter of November 24, 1942. He justifies what he has written in his manuscript and clarifies several points that Hench has raised.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1942-11-30">
+<head>Letter from Albert E. Truby to Philip Showalter Hench, November 30, 1942</head>
+<pb n="1" id="f06310210"/>
+<opener>
+ALBERT E. TRUBY<lb/>
+145 LAUREL STREET<lb/>
+SAN FRANCISCO, CALIFORNIA<lb/>
+<dateline>
+<date value="1942-11-30">Nov. 30 &sol;42</date>
+</dateline>
+<salute>Dear Dr. Hench:</salute>
+</opener>
+<p>Thanks very much for your<lb/>
+letter of the 24<hi rend="superscript">th</hi>. I did not reply<lb/>
+sooner as I was awaiting the contracts<lb/>
+from Harpers. They came today and<lb/>
+seem satisfactory, but as no mention<lb/>
+was made of the number of illustrations<lb/>
+I am writing them that, if we can<lb/>
+agree on that point, the contract is<lb/>
+O.K. There is no hope of having the<lb/>
+books by Christmas as Mr. Mac Gregor<lb/>
+states in his letter of transmittal that &ldquo;we<lb/>
+should have the books in three or four<lb/>
+months if wartime conditions do not<lb/>
+prevent.&rdquo;</p>
+<p>Regarding the two things you were<lb/>
+&ldquo;concerned about&rdquo;:-</p>
+<p>1<hi rend="superscript">st</hi> The Walter Reed Lab. It was the<lb/>
+only nicely finished building the 2<hi rend="superscript">d</hi> Div.<lb/>
+Hospital had. Its shape, the Cupalo or ventilators,<lb/>
+and window trainings stand out in my<lb/>
+memory. It was not large and our<lb/>
+Q.M. could have moved it easily in one<lb/>
+<pb n="2" id="f06310211"/>
+AC<lb/>
+T<lb/>
+day I am sure. By laying a few<lb/>
+planks on the hard surface of the level<lb/>
+ground and placing rollers, or even<lb/>
+some of the large iron pipe we had<lb/>
+there, underneath the building it could<lb/>
+have been drawn about with a pair<lb/>
+of mules. Dr. Pinto identified the building<lb/>
+also when he was here. Col. Ash of the<lb/>
+museum had the negative made for<lb/>
+me from the large view of the Camp.</p>
+<p>2<hi rend="superscript">d</hi> Regarding Neate's hand writing<lb/>
+in the Lab. book. I got that info from<lb/>
+Gen. Russell and he was most positive<lb/>
+about it. I have his letter somewheres<lb/>
+but can't locate it just now. I am glad<lb/>
+to change the wording of that sentence<lb/>
+and say &ldquo;contains the handwriting of<lb/>
+Reed, Lazear <hi>and possibly</hi> Neate.<lb/>
+<add>Suggest you write to Russell<lb/>
+one this.</add></p>
+<p>I am not alarmed about what<lb/>
+literary critics may say. No one knows<lb/>
+how deficient I am in literary<lb/>
+matters better than I do. All I aimed<lb/>
+to do was to present the mass of information<lb/>
+I had before it was too late. I could have<lb/>
+done it better and easier 30 yrs. ago -<lb/>
+<add>I did not want to<lb/>
+write this story.</add></p>
+<p>Will keep you advised about the book.<lb/>
+Thanks again for your splendid cooperation</p>
+<closer>
+<salute>Very Sincerely</salute>
+<signed>Albert E. Truby</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

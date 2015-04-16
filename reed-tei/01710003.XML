@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01710003"> 
+<teiHeader type="aacr2"> 
+<fileDesc> 
+<titleStmt> 
+<title type="245">Letter from Walter Reed to the Surgeon General, June 30, 1876</title> 
+<title type="gmd">[electronic resource]</title> 
+<author>Reed, Walter</author> 
+<respStmt> 
+<resp>Transcriptions and TEI markup</resp> 
+<name>Innodata Inc</name> 
+<resp>Images, project design, and management:</resp> 
+<name>Historical Collections &amp; Services<lb/> 
+Claude Moore Health Sciences Library<lb/> 
+University of Virginia Health System<lb/> 
+P.O. Box 800722<lb/> 
+Charlottesville, VA 22908-0722 
+</name> 
+<resp>TEI consultation:</resp> 
+<name>Electronic Text Center<lb/> 
+University of Virginia Library<lb/> 
+</name> 
+</respStmt> 
+</titleStmt> 
+<extent>ca. 15 kilobytes</extent> 
+<publicationStmt> 
+<publisher>Claude Moore Health Sciences Library of the 
+University of Virginia Health System</publisher> 
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace> 
+<idno>01710003</idno> 
+<availability> 
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p> 
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p> 
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt> 
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection 
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno> 
+</bibl> 
+</sourceDesc> 
+</fileDesc>
+<profileDesc>
+<creation><date>1876-06-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc> 
+<change><date></date> 
+<respStmt><resp></resp> <name></name></respStmt> 
+<item></item></change> 
+</revisionDesc> 
+</teiHeader> 
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Fort Yuma (Calif.)</name>
+<name type="place">San Francisco (Calif.)</name>
+<name type="place">Prescott (Ariz.)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1876-06-30">June 30, 1876</date>
+<idno rend="suppress">01710003</idno>
+<title>Letter from Walter Reed to the Surgeon General, June 30, 1876</title>
+</bibl>
+</head>
+<p>Reed reports that he has taken up his temporary assignment at his posting at Fort Yuma, California.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1876-06-30">
+<head>Letter from Walter Reed to the Surgeon General, June 30, 1876</head>
+<opener>
+<pb n="1" id="f01710003"/>
+Fort Yuma, Cal.,<lb/>
+June 30<hi rend="superscript">th</hi> 1876.<lb/>
+Reed, Walter,<lb/>
+Ass't. Surgeon, U.S.A.<lb/>
+Personal Report of<lb/>
+<hi rend="underline">Station</hi> and <hi rend="underline">duties</hi>, for<lb/>
+the month of June, 1876.<lb/>
+385<lb/>
+<pb n="2" id="f01710004"/>
+<dateline>
+Fort Yuma. California,<lb/>
+<date value="1876-06-30">June 30<hi rend="superscript">th</hi> 1876.</date>
+</dateline><lb/>
+To<lb/>
+The Surgeon General, U.S.A.<lb/>
+Washington, D.C.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>I have the honor to forward the following Per-<lb/>
+sonal Report of station &amp; duties for the<lb/>
+month of June, 1876.</p>
+<p>In compliance with S.O. No. 71, Headquarters of the<lb/>
+Army, Adjutant General's Office, Washington, D.C.<lb/>
+April 8<hi rend="superscript">th</hi> 1896, I left San Francisco, en route to<lb/>
+the Dept. of Arizona, on June 1<hi rend="superscript">st</hi>, proceeded, via<lb/>
+&ldquo;Colorado Steam Navigation Co.&rdquo;, to Yuma, California<lb/>
+arriving on the 31<hi rend="superscript">st</hi> day of June.</p>
+<p>Since that date, I have been assigned to<lb/>
+temporary duty, at this post, in compliance with<lb/>
+Special Orders No. 73, Headquarters Department<lb/>
+of Arizona, Prescott, June 9<hi rend="superscript">th</hi> 1876 (copy enclosed.)-</p>
+<closer>
+<salute>Very respectfully,<lb/>
+Your ob't. Servant,</salute>
+<signed>Walter Reed,</signed>
+Ass't. Surgeon, U.S.A.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

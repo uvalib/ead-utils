@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t06403072">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Walter Lawrence Reed to Albert E. Truby, September 11, 1943</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Lawrence</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06403072</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1943-09-11</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Truby, Albert E.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+
+<name type="person">Reed, Walter</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1943-09-11">September 11, 1943</date>
+<idno rend="suppress">06403072</idno>
+<title>Letter from Walter Lawrence Reed to Albert E. Truby, September 11, 1943</title>
+</bibl>
+</head>
+<p>Lawrence Reed praises Truby's book on Walter Reed. He vividly remembers Truby's efforts to eradicate mosquito breeding sites.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1943-09-11">
+<head>Letter from Walter Lawrence Reed to Albert E. Truby, September 11, 1943</head>
+<pb n="1" id="f06403072"/>
+<opener>
+Copy<lb/>
+<dateline>
+W A R  D E P A R T M E N T<lb/>
+Washington, D. C.<lb/>
+<date value="1943-09-11">11 September 1943.</date>
+</dateline>
+<salute>My dear Truby -</salute>
+</opener>
+<p>A few days ago Dick LeGarde presented me with your<lb/>
+memoirs of Father and his work in Cuba, inscribed by both yourself<lb/>
+and Dick. I have delayed writing until I had finished reading it.</p>
+<p>I can't tell you how highly I prize this work of<lb/>
+yours because I have always known that few if any persons had the<lb/>
+intimate knowledge of Father's work that you had and few knew him<lb/>
+more intimately.</p>
+<p>To my mind you have portrayed his character and<lb/>
+scientific accomplishments beautifully, and it was with deep in-<lb/>
+terest that I read and reread your book.</p>
+<p>It has been many years since you and I were at<lb/>
+Rowell Barracks, but I have the most vivid recollection of your<lb/>
+interest in unearthing the many mosquito breeding places (bottle<lb/>
+borders on all walks) that were on hand when you took over the<lb/>
+job of cleaning up the mosquito situation.</p>
+<p>I trust you and your family are still enjoying the<lb/>
+best of health and good old California.</p>
+<p>Mrs. Reed joins me in again thanking you for your<lb/>
+book and in kindest regards to you both.</p>
+<closer>
+<salute>I am as ever most affectionately,</salute>
+<signed><unclear>Sig -</unclear> LAWRENCE</signed>
+Letter from<lb/>
+Major General Walter Lawrence Reed.<lb/>
+A.E.T.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

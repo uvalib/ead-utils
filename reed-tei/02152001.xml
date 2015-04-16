@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02152001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Official Report of the Proceedings of the Twenty-Eighth Annual Meeting, October 23, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author></author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02152001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-10-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Doty, Alvah H.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Hench, Philip Showalter</name>
+<name type="place">Indianapolis (Ind.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>10 pp.</extent>
+<date value="1900-10-23">October 23, 1900</date>
+<idno rend="suppress">02152001</idno>
+<title>Report: Official Report of the Proceedings of the Twenty-Eighth Annual Meeting, October 23, 1900</title>
+</bibl>
+</head>
+<p>This report lists the minutes of the meeting at the Public Health Meeting, Indianapolis, Indiana. The First Day, Afternoon Session includes numerous papers on infectious disease and yellow fever, with a paper by Walter Reed. Included is a note by Hench.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-10-23">
+<head>Report: Official Report of the Proceedings of the Twenty-Eighth Annual Meeting, October 23, 1900</head>
+<pb n="1" id="f02152001"/>
+<p>Proc am Pub H A. 28th meeting<lb/><lb/>
+Oct 1900 (Public Health Papers &amp; Reports<lb/>
+Vol. XXVI)</p>
+<p>OFFICIAL REPORT OF THE PROCEEDINGS OF THE<lb/>
+TWENTY-EIGHTH ANNUAL MEETING.</p>
+<p>HELD AT INDIANAPOLIS, INDIANA, OCTOBER 23, 24, 25 AND 26, 1900.</p>
+<p>OCTOBER 23D--FIRST DAY--MORNING SESSION.</p>
+<p>The Association convened in the Lower Auditorium of the German<lb/>
+House, and was called to order at 10 a.m. by the President, Dr. Peter<lb/>
+H. Bryce, of Toronto, Ontario.</p>
+<p>Captain W. H. Armstrong, Chairman of the Local Committee, ten-<lb/>
+dered the compliments and good wishes of each individual member<lb/>
+of the Local Committee. He said that the ladies of Indianapolis,<lb/>
+members of the committee, tendered their special greetings to the<lb/>
+ladies who were among the visitors.</p>
+<p>He then introduced Governor James A. Mount, who delivered an<lb/>
+address of welcome.</p>
+<p>President Bryce responded briefly to the addresses of welcome in<lb/>
+a few well chosen words. He hoped that the influence of the Asso-<lb/>
+ciation would be felt in a way to benefit the city by giving a forward<lb/>
+impetus to the good work already so well begun in Indianapolis for<lb/>
+the public good.</p>
+<p>Captain Armstrong made a report as Chairman of the Local Com-<lb/>
+mittee of Arrangements.</p>
+<p>THE PRESIDENT.--The next thing in order is the reading of the<lb/>
+minutes of the last annual meeting.</p>
+<p>DR. MONTIZAMBERT.--As the minutes extend over one hundred<lb/>
+pages of the Transactions of the Association, have been printed, and<lb/>
+are in the hands of the members, I move that the reading of them be<lb/>
+dispensed with, and that they be considered as approved. Seconded<lb/>
+by Dr. Lachapelle, and carried.</p>
+<p>Dr. J. Bre&ntilde;a, of Zacatecas, Mexico, distributed copies of a printed<lb/>
+address by him in which he conveyed the greetings of the Mexican<lb/>
+members of the Association.</p>
+<p>THE PRESIDENT.--The Secretary reminds me that there is a notice<lb/>
+of a motion to amend the Constitution.</p>
+<p>THE SECRETARY.--The following are the proposed amendments to<lb/>
+the Constitution:</p>
+<p>To Article IV. After the word Treasurer, add, &ldquo;and the officers<lb/>
+of the various sections.&rdquo;</p>
+<p>239</p>
+<pb n="2" id="f02152002"/>
+<p>240<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-EIGHTH ANNUAL MEETING</hi>.</p>
+<p>To Article X. After the word Treasurer, add, &ldquo;and Chairmen of<lb/>
+the various sections.&rdquo;</p>
+<p>Add as new Article the following:</p>
+<p>Article XVII. Members of the Association may be authorized to<lb/>
+form themselves into sections by vote of the Association at any an-<lb/>
+nual meeting; such sections shall have power to nominate their offi-<lb/>
+cers to be elected by the Association, and to make by-laws which shall<lb/>
+go into effect when approved by the Association. (Offered by Pro-<lb/>
+fessor Robinson.)</p>
+<p>THE PRESIDENT.--What will you do with the proposed amend-<lb/>
+ments to the Constitution?</p>
+<p>DR. WILLIAM BAILEY, of Louisville.--I move that they be adopted.<lb/>
+Seconded by Professor Robinson, and carried.</p>
+<p>THE PRESIDENT.--We will now listen to the report of the Execu-<lb/>
+tive Committee by the Secretary.</p>
+<p>THE SECRETARY.--The Executive Committee held a meeting yes-<lb/>
+terday at 10 o'clock, acted upon 53 applications for membership,<lb/>
+which it refers to the Association with the recommendation that they<lb/>
+be elected. (The list of applicants was read.)</p>
+<p>DR. SAMUEL H. DURGIN.--I move that the Secretary be authorized<lb/>
+to cast the ballot of the Association for the election to membership<lb/>
+of those gentlemen whose names have been read by him. Seconded<lb/>
+by Dr. Henry Mitchell, and carried.</p>
+<p>The Secretary cast the ballot of the Association, as instructed, and<lb/>
+they were declared duly elected.</p>
+<p>THE PRESIDENT.--If there is no other new business to come be-<lb/>
+fore the Association at this time, we will proceed to the reading of<lb/>
+reports and papers.</p>
+<p>Dr. J. N. Hurty, of Indianapolis, Indiana, read the &ldquo;Report of the<lb/>
+Committee on Car Sanitation&rdquo; in the absence of the Chairman, Pro-<lb/>
+fessor S. H. Woodbridge, of Boston, Massachusetts. (See page 103.) <unclear><add>Is he still living?</add></unclear></p>
+<p>Dr. Domingo Orvana&ntilde;os, of Mexico City, Mexico, read a &ldquo;Sup-<lb/>
+plementary Report on Car Sanitation.&rdquo; (See page 111.)</p>
+<p>Before the discussion on these reports was taken up, Dr. E. P.<lb/>
+Lachapelle, of Montreal, made the following motion: I move that<lb/>
+the report of Professor Woodbridge be printed in pamphlet form<lb/>
+and sent to the managers of all railway companies in the United<lb/>
+States, Mexico and Canada. Seconded by Dr. Jones, and carried.</p>
+<pb n="3" id="f02152003"/>
+<p><hi rend="italic">PROCEEDINGS--TWENTY-EIGHTH ANNUAL MEETING</hi>.<lb/>
+241</p>
+<p>DISCUSSION OF THE REPORT OF THE COMMITTEE ON CAR SANITATION.</p>
+<p>DR. J. N. HURTY, of Indianapolis, Ind.--Mr. President: This<lb/>
+Association could do good work in sleeping car sanitation if its<lb/>
+members would simply demand that the blankets in sleeping cars be<lb/>
+white instead of colored. It would be a great reform in sleeping car<lb/>
+sanitation, because the white blanket would tell its own story of<lb/>
+cleanliness or uncleanliness, while the colored one does not. We<lb/>
+know that these colored blankets are not unfrequently saturated with<lb/>
+filth; they are not properly cleaned and sterilized. The Pullman Car<lb/>
+Company will not make this change until the public is educated to<lb/>
+it and demands it. I think if every member of this Association<lb/>
+would talk white blankets day in and day out, and insist that they be<lb/>
+substituted for colored ones, after a while we would have them.</p>
+<p>I have had a great many talks with sleeping car porters, and one<lb/>
+of them during a conversation said to me in a laughing way that if<lb/>
+he made up a berth and it had not been used, but the linen had be-<lb/>
+come rumpled in any way, the next comer would not occupy the<lb/>
+berth. He thought this was ridiculous. We know that the linen is<lb/>
+usually clean, while over it there is all too frequently a foul blanket.</p>
+<p>DR. H. M. BRACKEN, of Minneapolis, Minn.--The letter presented<lb/>
+from a railroad official, stating that it was unreasonable to ask cer-<lb/>
+tain things of them, is worthy of consideration. The ordinary cars<lb/>
+can be easily cleaned. To get what is necessary in this line we must<lb/>
+ask many of the railroads to comply with certain regulations; there<lb/>
+may be some delay in this as it requires time in which to formulate<lb/>
+reasonable regulations. A statement was made in the letter already<lb/>
+referred to, that the water ordinarily furnished in railroad cars was<lb/>
+as good as that which the traveling public had for home consump-<lb/>
+tion. This is not true of all places. Some of us may live in typhoid<lb/>
+infected cities, and may never use at our homes the public water<lb/>
+supply. We do not want the railroad companies to fill their car<lb/>
+drinking tanks from such impure public water supply. For ex-<lb/>
+ample: Minneapolis has a public water supply that is not safe for<lb/>
+drinking purposes. Many Minneapolitans are very careful when<lb/>
+traveling on any car starting from Minneapolis not to drink water<lb/>
+from the water tank of such car, for they have every reason to be-<lb/>
+lieve that such water is from the impure public supply, which is not<lb/>
+safe for anyone to drink. <add>Is he still living?</add></p>
+<p>The question of controlling Pullman cars is one we may well dis-<lb/>
+cuss now. These are in fact a luxury. We pay a good price, how-<lb/>
+ever, for berths in them and it is no more than right that we should<lb/>
+demand good sanitary surroundings.</p>
+<p>The point touched upon by Dr. Hurty with regard to blankets is<lb/>
+an important one. Unquestionably many of the sleeping car blank-<lb/>
+<pb n="4" id="f02152004"/>
+252<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-EIGHTH ANNUAL MEETING</hi>.<lb/>
+modify the statements made in my paper which was read by Dr.<lb/>
+Horlbeck at the meeting of the American Public Health Association.<lb/>
+What I presented was not a theoretical conclusion, but a plain state-<lb/>
+ment of facts which have come under my observation during a con-<lb/>
+tinuous experience of twenty years with infectious diseases both in<lb/>
+connection with this Department and the New York City Board of<lb/>
+Health. I am well aware that what I said is antagonistic to the views<lb/>
+held by many physicians, nevertheless it is the result of careful, prac-<lb/>
+tical observation, and such observation must receive the most careful<lb/>
+consideration in making rules and regulations for the protection of<lb/>
+the public health. Does it not seem rather impolitic for the Associa-<lb/>
+tion or its Executive Committee to formally oppose the views thus<lb/>
+expressed without an exhaustive analysis and investigation, which to<lb/>
+say the least would take considerable time. Some of the most careful<lb/>
+observers both in this country and abroad are in accord with the<lb/>
+views which I have presented. As a matter of fact, these views are<lb/>
+apparently endorsed by the medical profession both in private prac-<lb/>
+tice and in matters relating to public health, inasmuch as physicians<lb/>
+daily visit infectious disease and go from them directly to other pa-<lb/>
+tients without disinfection and change of clothing. Moreover, health<lb/>
+departments throughout the country permit their inspectors and diag-<lb/>
+nosticians to visit infectious disease in the same manner. In fami-<lb/>
+lies where scarlet fever for instance exists, the adult members who<lb/>
+are actively employed outside are allowed to continue their business<lb/>
+without interruption. Of course, they are usually admonished not to<lb/>
+enter the apartment of the sick when at home. This you know as<lb/>
+well as I is frequently disregarded, besides in a large percentage of<lb/>
+the cases the patient roams about the house or apartment at will.<lb/>
+Therefore, if the clothing actually worn by well persons was a me-<lb/>
+dium of infection to the extent which is commonly believed, we would<lb/>
+certainly and surely have indisputable evidence of it, which we do not.<lb/>
+If such were the case physicians and health department officials would<lb/>
+be continually aiding and abetting the propagation of infectious dis-<lb/>
+ease in the most serious and pronounced way, inasmuch as they go<lb/>
+directly from one patient to another, sometimes within an interval of<lb/>
+only a few minutes. I have distinctly and clearly stated in my paper<lb/>
+that infectious diseases may in some instances be transmitted through<lb/>
+the medium of the clothing of well persons. This statement gives no<lb/>
+license to ignore reasonable precautions which may be deemed neces-<lb/>
+sary to prevent the transmission of infection in this manner. I be-<lb/>
+lieve this answers the point raised by the committee regarding small-<lb/>
+pox quarantine. As a matter of fact a smallpox patient should under<lb/>
+no circumstances remain with the family; and either the patient, or<lb/>
+the remainder of the family should be removed from the immediate<lb/>
+premises. Therefore, no excuse would exist for persons aside from<lb/>
+the nurse or physician visiting or being in contact with the patient,<lb/>
+which would be done at a personal risk.</p>
+<p>My object has been to show that infectious diseases are not com-<lb/>
+monly transmitted in the clothing actually worn by well persons, and<lb/>
+we must not give this undue consideration in making rules and regu-<lb/>
+lations for the protection of the public health. While this does not<lb/>
+release us from every reasonable effort to prevent danger from this<lb/>
+<pb n="5" id="f02152005"/>
+<hi rend="italic">PROCEEDINGS--TWENTY-EIGHTH ANNUAL MEETING</hi>.<lb/>
+253<lb/>
+source, it teaches us that we must also look elsewhere for the origin<lb/>
+of outbreaks of infectious disease. It is an easy means of satisfying<lb/>
+ourselves and the public, to assume that outbreaks of smallpox, scar-<lb/>
+let fever, etc., have their origin in infected clothing worn by well per-<lb/>
+sons, whereas, in many of these instances the appearance of disease<lb/>
+is unquestionably due to mild, ambulant or convalescent cases in our<lb/>
+midst which are unrecognized. If we are satisfied that in some way<lb/>
+the clothing of well persons is responsible for the outbreak, then we<lb/>
+are apt to make no further investigation; which I believe to be de-<lb/>
+cidedly wrong. Bacteriological research goes far toward confirming<lb/>
+what I have already said regarding this matter, and we know that<lb/>
+pathogenic organisms are exceedingly short lived in the presence of<lb/>
+air and sunlight. My experience in the New York City Board of<lb/>
+Health for fifteen years before assuming this office, both in the<lb/>
+capacity of diagnostician and as Chief of the Bureau of Infectious<lb/>
+Disease, has given me an opportunity for the investigation of this<lb/>
+subject which comes to very few. As I have already said to Dr.<lb/>
+Durgin, we cannot preach one thing and act another. If it is true<lb/>
+that the clothing of well persons commonly acts as a medium of in-<lb/>
+fection, then both physicians and health departments are committing<lb/>
+a serious error in the manner in which they visit these cases. On<lb/>
+the other hand, if the clothing actually worn by well persons only in<lb/>
+rare instances acts as a medium of infection as I believe, then the<lb/>
+attitude of physicians and health departments in regard to their in-<lb/>
+spection of these cases is proper. Very truly yours,<lb/>
+(Signed) A. H. DOTY.</p>
+<p>On motion, the Association adjourned until 3 p. m.</p>
+<p>FIRST DAY--AFTERNOON SESSION.</p>
+<p>The Association reassembled at 3 p. m., and was called to order<lb/>
+by the President.</p>
+<p>Dr. A. Walter Suiter, of Herkimer, New York, read the &ldquo;Report<lb/>
+of the Committee on Cause and Prevention of Infectious Diseases.&rdquo;<lb/>
+(See page 69.)</p>
+<p>DR. HORLBECK.--Dr. Walter Reed, of the United States Army, has<lb/>
+a paper on &ldquo;The Etiology of Yellow Fever,&rdquo; which may be of interest<lb/>
+to the Association, and I move that he be permitted to read it at this<lb/>
+time. Seconded and carried.</p>
+<p>Dr. Walter Reed then read a paper on &ldquo;The Etiology of Yellow<lb/>
+Fever.&rdquo; (See page 37.)</p>
+<p>Dr. Eduardo Lic&eacute;aga, of Mexico City, Mexico, contributed (by<lb/>
+title) his &ldquo;Ninth Report on Yellow Fever in Mexico.&rdquo; (See page<lb/>
+34.)</p>
+<p>Dr. Henry B. Horlbeck, of Charleston, South Carolina, read the<lb/>
+&ldquo;Report of the Committee on the Etiology of Yellow Fever.&rdquo; (See<lb/>
+page 28.)</p>
+<pb n="6" id="f02152006"/>
+<p>254<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-EIGHTH ANNUAL MEETING</hi>.</p>
+<p>Dr. F. W. Elgin, of Philadelphia, read a paper on &ldquo;The Influence of<lb/>
+Temperature on Vaccine Virus.&rdquo; (See page 80.)</p>
+<p>On motion, a paper by Dr. Salvador Garciadiego, of Guadalajara,<lb/>
+Jalisco, Mexico, entitled, &ldquo;The Only Certain Prophylaxis Against<lb/>
+Smallpox is Human Vaccine, which, if well Inoculated, Does not<lb/>
+Transmit any Infectious-Contagious Disease, or Leave any Predis-<lb/>
+position to Disease,&rdquo; was read by title, and referred to the Publica-<lb/>
+tion Committee. (See page 84.)</p>
+<p>Dr. Francisco P. Bernaldez, of Mexico City, Mexico, read a paper<lb/>
+on &ldquo;Prophylaxis of Human Vaccine; Its Advantages and Disadvan-<lb/>
+tages.&rdquo; (See page 87.)</p>
+<p>A paper by Dr. Eduardo Lic&eacute;aga, of Mexico City, Mexico, on<lb/>
+&ldquo;The Jenner Vaccine, Well Preserved and Carefully Protected, is a<lb/>
+Permanent Preservative Against Smallpox,&rdquo; was read by title. (See<lb/>
+page 92.)</p>
+<p>Dr. H. C. H. Herold, of Newark, New Jersey, followed with a<lb/>
+paper entitled, &ldquo;Newark's Diphtheria Antitoxin Plant, Its Results<lb/>
+and Cost.&rdquo; (See page 98.)</p>
+<p>On motion, the Association then adjourned until 8 p. m.</p>
+<p>FIRST DAY--EVENING SESSION.</p>
+<p>The Association reassembled at 8 p. m., and was called to order by<lb/>
+the President.</p>
+<p>Prayer was offered by the Rev. Mr. Brown, of Indianapolis.</p>
+<p>The President introduced as the first speaker of the evening, Ex-<lb/>
+President Benjamin Harrison, of Indianapolis, who welcomed the<lb/>
+Association to the city. Among other things Mr. Harrison said:<lb/>
+&ldquo;Sometimes the local committee unduly interrupts your more profit-<lb/>
+able discussions to give an exhibition of what we call local talent, or<lb/>
+to make a display of historical fossils. The welcome that I extend<lb/>
+to you on this occasion is purely unofficial, but none the less hearty.<lb/>
+I hope you have not found us sinners above all men against the laws<lb/>
+of health. Your inspection will probably be of the personally con-<lb/>
+ducted variety where one sees only the attractive things. Dr. Hayes,<lb/>
+I am sure, would show discretion, but Dr. Hurty, I fear, will, in the<lb/>
+interests of cold science, show you all that is bad in the city. But<lb/>
+at least you will find us intelligently alive to sanitary science and to<lb/>
+our own needs. We are a healthy, busy people, but take a good deal<lb/>
+of time for thinking, and have a good-sized fraction to spare for<lb/>
+suitable attentions to distinguished guests. You are working on<lb/>
+right lines disinterestedly and scientifically, though long life is not<lb/>
+<pb n="7" id="f02152007"/>
+<hi rend="italic">PROCEEDINGS--TWENTY-EIGHTH ANNUAL MEETING</hi>.<lb/>
+255<lb/>
+always a blessing to man. Sensitive souls and stomachs have<lb/>
+squirmed a little at the disclosures made by your investigations. We<lb/>
+have been afraid of large things--of Indians, grizzly bears, mad dogs<lb/>
+and other things, which we could either shut out or shoot, but you<lb/>
+have disclosed to us that our internal organs are all the happy hunt-<lb/>
+ing grounds of invisible, but fatal, microbes, and that the war be-<lb/>
+tween good and evil is as truly being fought in the liver as in the<lb/>
+conscience. We give you honor. We do not doubt that there are<lb/>
+some here to-night who make a pursuit of this science who will<lb/>
+astonish the world. In all such achievements the citizens of Indian-<lb/>
+apolis rejoice. We are not as bustling as New York and we have<lb/>
+time, most of us, to stop and think, and we have a heart and mind<lb/>
+to enjoy and commend such work as yours.&rdquo; (Applause.)</p>
+<p>At the conclusion of General Harrison's address, Hon. Addison C.<lb/>
+Harris, United States Minister to Austria, was introduced by the<lb/>
+President. He highly praised the work that has been and is being<lb/>
+done by the Association, and among other things he said: &ldquo;You<lb/>
+are not citizens of one country or another, although these flags here<lb/>
+show you are close together--citizens of three countries, speaking one<lb/>
+tongue, but in science there is but one world, and that is an empire,<lb/>
+and in it all men of all professions shall devote themselves to the<lb/>
+higher and better thought, as you have.&rdquo;</p>
+<p>Dr. Charles A. Lindsley, of New Haven, Connecticut, responded<lb/>
+to the addresses of welcome in a brief but felicitous speech.</p>
+<p>President Bryce then delivered his annual address (See page 1),<lb/>
+and after a brief speech by Dr. Jesus Chico, of Guanajuato, Mexico,<lb/>
+who spoke in behalf of the Mexican delegation and the Republic of<lb/>
+Mexico, the session ended.</p>
+<p>OCTOBER 24TH--SECOND DAY--MORNING SESSION.</p>
+<p>The Association met at 10 a. m., and was called to order by the<lb/>
+President.</p>
+<p>The Secretary presented a number of applications for membership,<lb/>
+which having been acted upon favorably by the Executive Committee,<lb/>
+were recommended to the Association for election.</p>
+<p>DR. CHARLES A . LINDSLEY.--I move that the Secretary be in-<lb/>
+structed to cast the ballot of the Association in favor of the election<lb/>
+of these applicants. Seconded and carried.</p>
+<p>The Secretary then cast the ballot of the Association for the elec-<lb/>
+tion of the new members whose names had been read, and they were<lb/>
+declared elected.</p>
+<pb n="8" id="f02152008"/>
+<p>256<lb/>
+<hi rend="italic">PROCEEDINGS--TWENTY-EIGHTH ANNUAL MEETING</hi>.</p>
+<p>The next thing in order was the appointment of members to vacan-<lb/>
+cies in the Advisory Council.</p>
+<p>The Secretary called the roll of the Advisory Council, and vacan-<lb/>
+cies were filled.</p>
+<p>DR. HENRY B. HORLBECK.--I move that the Advisory Council<lb/>
+meet to-morrow afternoon at 2 o'clock in one of the committee<lb/>
+rooms of the German House. Seconded by Dr. Leal, and carried.</p>
+<p>Mr. George W. Fuller, Chairman, then read the &ldquo;Report of the<lb/>
+Committee on Pollution of Public Water Supplies.&rdquo; (See page 114.)</p>
+<p>DR. J. N. MCCORMACK, of Bowling Green, Kentucky.--I move that<lb/>
+the recommendation contained in the report of this committee be<lb/>
+referred to the Executive Committee for consideration with a view to<lb/>
+making it a special topic for discussion at the next meeting of the<lb/>
+Association. Seconded and carried.</p>
+<p>DR. A. C. ABBOTT, of Philadelphia.--As the opinions of the sev-<lb/>
+eral members of the committee have been very well summarized by<lb/>
+Mr. Fuller in his report, I move that we do not go into further de-<lb/>
+tails, but proceed to the discussion of the report. Seconded and car-<lb/>
+ried.</p>
+<p>DISCUSSION ON THE REPORT OF THE COMMITTEE ON THE POLLUTION<lb/>
+OF PUBLIC WATER SUPPLIES.</p>
+<p>MR. RUDOLPH HERING, of New York, N. Y.--It often happens<lb/>
+that reports of this nature, making recommendations for future ac-<lb/>
+tion, are presented by those who are not only especially interested in<lb/>
+the subject, but also somewhat enthusiastic and inclined to take ideal<lb/>
+and sometimes impracticable views of the subject. This report is<lb/>
+clearly not of that kind. I was very much pleased to look it over,<lb/>
+and I can say that in my opinion it is very judicious, carefully framed<lb/>
+and eminently practical. In other words, the recommendations are<lb/>
+of such a nature that we may have reasonable expectations of seeing<lb/>
+them carried out. The subject has been so thoroughly covered, that<lb/>
+it is hardly possible for me to add much except to go more into de-<lb/>
+tails and perhaps speak more fully of some of the recommendations.</p>
+<p>There are three items to be considered in establishing a water<lb/>
+supply: (1) To give proper pressure; (2) to have the proper quan-<lb/>
+tity for convenience and usefulness, and (3) to have the proper quality.</p>
+<p>Most of you know that we have a bad reputation in this country<lb/>
+for wasting a large amount of water. The consumption in our cities<lb/>
+is very much greater than almost anywhere in Europe, and it is<lb/>
+hardly understood how this condition can be endured. We know<lb/>
+why it is so. It is not because we use very much more water than<lb/>
+<pb n="9" id="f02152009"/>
+<hi rend="italic">PROCEEDINGS--TWENTY-EIGHTH ANNUAL MEETING</hi>.<lb/>
+257<lb/>
+they do in Europe, although I think we do use more, but the chief<lb/>
+reason for this large consumption lies in the fact that we are more<lb/>
+careless than they are in Europe, in that we allow our fixtures and<lb/>
+cisterns in houses to leak more freely and to keep the works in less<lb/>
+good repair. As a rule, our pipes are not laid as well as those in<lb/>
+Europe, and we have leakage from them. And the figures given in<lb/>
+the reports of water boards do not always correctly represent the<lb/>
+actual consumption of water. They generally give too great an<lb/>
+amount, due to the fact that the usual system of measurement which<lb/>
+is ordinarily adopted at our pumping stations is not a very good one.<lb/>
+So, if we add all these causes, the discrepancy can be accounted for,<lb/>
+and as we go along there is no doubt, in my opinion, that our con-<lb/>
+sumption per capita will be decreased gradually and brought to some-<lb/>
+where near what it ought to be. At the same time, we must realize<lb/>
+in this country, as well as in Europe, that legitimate consumption of<lb/>
+water is constantly increasing; not alone that we use more water in-<lb/>
+dividually, but that we have more uses for water in the way of small<lb/>
+manufacturing industries, requiring a large number of apparatus, so<lb/>
+that we find in nearly all of our cities that the legitimate water con-<lb/>
+sumption is increasing. When, therefore, it is recommended to purify<lb/>
+the water for a city's supply, which, of course, means added expense,<lb/>
+we are confronted with a tremendous mass of water needing treat-<lb/>
+ment, which makes it a great deal harder to establish purification<lb/>
+works in this country than in Europe. That is one of the reasons<lb/>
+why we have not been adopting purification works very rapidly. The<lb/>
+difficulties are sometimes great. It is not so much a question of engi-<lb/>
+neering as of human nature. You cannot change the habits of the<lb/>
+people; you cannot in a short time stop all leaks. An estimate was<lb/>
+recently made in New York City which showed that to repair the<lb/>
+leaky street mains would require about twenty years. We must, how-<lb/>
+ever, establish works of purification, and we are obliged in this coun-<lb/>
+try, from a practical standpoint, to estimate the cost of works to purify<lb/>
+this large amount of water. In New York City a report was recently<lb/>
+made in which we felt obliged to estimate the cost of works for the<lb/>
+consumption of 115 gallons per head per day, which is more than any<lb/>
+city in Europe has. In Philadelphia last year a report was made<lb/>
+recommending the filtration of water to an amount equal to 150 gal-<lb/>
+lons per day. We were told that it was unnecessary to have that much<lb/>
+water for each person, because half of it was wasted, a point which<lb/>
+everyone must agree to. But it is the practical not the theoretical<lb/>
+position which administrations must face, and so they generally con-<lb/>
+clude to provide for a liberal amount, trusting that gradually the ex-<lb/>
+travagance will be recognized, and that gradually the waste can be</p>
+</div1>
+<div1 type="letter" n="0000-00-00">
+<head>Note by Philip Showalter Hench, [n.d.]</head>
+<pb n="10" id="f02152010"/>
+<p>MEMO <hi><hi rend="italic">from the Desk of</hi> ...</hi><lb/>
+DR. P. S. HENCH</p>
+<p>=========================</p>
+<p><hi rend="italic">To Date</hi></p>
+<p>SUBJECT:</p>
+<p>Was there no<lb/>
+discussion of this<lb/>
+paper?</p>
+<p><hi>No</hi>. was<lb/>
+It was not on printed<lb/>
+program</p>
+</div1>
+</body>
+</text>
+</TEI.2>

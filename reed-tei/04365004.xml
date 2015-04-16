@@ -1,0 +1,964 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04365004">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Philip Showalter Hench to Mary Standlee, August 4, 1951</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Hench, Philip Showalter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04365004</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1951-08-04</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Standlee, Mrs. Earle [Mary]</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education">YES</term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Welch, William Henry</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Lazear, Mrs.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Sternberg, Mrs.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Hemmeter, John C.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Leon, Estela Agramonte Rodriguez</name>
+<name type="person">DeKruif, Paul</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Carroll, George</name>
+<name type="person">O'Reilly, Robert M.</name>
+<name type="person">Latimer, Caroline</name>
+<name type="person">Howard, Sidney</name>
+<name type="person">Finlay, Carlos E.</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Agramonte, Frances F.</name>
+<name type="person">Thayer, Wiliam S.</name>
+<name type="person">Schweitzer, Mrs. C.C.</name>
+<name type="person">Lazear, William Houston</name>
+<name type="person">Donnally, H. H.</name>
+<name type="place">Cuba</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Camp Columbia, Havana (Cuba)</name>
+<name type="place">Europe</name>
+<name type="place">Italy</name>
+<name type="place">National Archives, Washington (D.C.)</name>
+<name type="place">William H. Welch Medical Library, Johns Hopkins University, Baltimore (Md.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">United States</name>
+<name type="place">Johns Hopkins University, Baltimore (Md.)</name>
+<name type="place">New York Academy of Medicine, New York (N.Y.)</name>
+<name type="hospital">Columbia Barracks Hospital, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>15 pp.</extent>
+<date value="1951-08-04">August 04, 1951</date>
+<idno rend="suppress">04365004</idno>
+<title>Letter from Philip Showalter Hench to Mary Standlee, August 4, 1951</title>
+</bibl>
+</head>
+<p>Hench continues his critique of Standlee's manuscript on Walter Reed, making detailed observations based on his research into the yellow fever experiments.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1951-08-04">
+<head>Letter from Philip Showalter Hench to Mary Standlee, August 4, 1951</head>
+<pb n="1" id="f04365004"/>
+<opener>
+<hi>Fr W R M A</hi><lb/>
+<dateline>
+<date value="1951-08-04">August 4, 1951</date>
+</dateline>
+Mrs. Mary Standlee<lb/>
+Historian<lb/>
+Army Medical Center<lb/>
+The Library<lb/>
+Washington 12, D.C.<lb/>
+<salute>My dear Mrs. Standlee:</salute>
+</opener>
+<p>Because of many unusual and unexpected obligations, the last months have been ex-<lb/>
+ceptionally busy for me and I fear that my tardiness and some of my comments have<lb/>
+hindered you rather than helped you. You may remember that the long letter I dic-<lb/>
+tated to you on April 16 was written from my office down town after I had perused<lb/>
+your manuscript carefully, but without access to my own files. I have explained to<lb/>
+you why they have been inaccessible to me for weeks. Perhaps I should not have<lb/>
+answered you at all, but I did the best I could under the circumstances and find<lb/>
+that my memory, like that of everybody else, is at times faulty, although of course<lb/>
+on many of the points we discussed the facts are very clear.</p>
+<p>I like the latest version of your Chapter 3 and think you have made many great im-<lb/>
+provements. I wish we could spend days together going over my data but even if I<lb/>
+had time to receive you, the material is not available even to me and will not be<lb/>
+for a month or two yet. Nevertheless, after reading this version, as I wrote you,<lb/>
+I pulled out two or three partial files from the terrible mess in my study and will<lb/>
+now try to discuss some of the individual points.</p>
+<p>1. Selection of Lazear by Reed, presumably on the advice of Welch. I think that is<lb/>
+possible, even probable, but the point I raised is that it is very difficult to find<lb/>
+written records to substantiate this point. The following facts are certain. I have<lb/>
+a photostatic copy of a letter written on January 13, 1900 by Lazear to Sternberg<lb/>
+stating that Lazear was desirous of entering the medical service of the Army. The<lb/>
+letter gives a brief outline of his career and begins &ldquo;I enclose a letter from Dr.<lb/>
+W. H. Welch.&rdquo; The hand-written letter of Welch to Sternberg dated January 12, 1900<lb/>
+endorses &ldquo;Doctor Lazear's eminent fitness&rdquo; for the position of surgeon in the regular<lb/>
+Army, etc. On January 21, Lazear (to Sternberg) accepted the offer for contract sur-<lb/>
+geon. On February 5, 1900, Sternberg signed the recommendation to the A.G.O. that<lb/>
+Lazear become contract surgeon. You are correct when you say that Lazear had met<lb/>
+Reed on one of Reed's 1899 trips to Cuba and I misspoke in paragraph 3 b on page 3<lb/>
+of my letter of April 16. What I had meant to say was that Lazear probably never met Reed<lb/>
+in Baltimore. Now since, as various records show, Reed met Lazear in 1899 and become<lb/>
+interested in him, since Lazear was working in Cuba at Camp Columbia on the malaria<lb/>
+mosquito (in other words, a trained man right on the spot) it hardly seems to me that,<lb/>
+in 1900 when Reed and Sternberg were undoubtedly discussing the composition of the<lb/>
+Yellow Fever Board, Reed would have needed any particular recommendation from Welch<lb/>
+concerning Lazear at that late date. Despite the wording in General Kean's biography,<lb/>
+I suspect that the truth is that Lazear entered the Army as a contract surgeon with<lb/>
+the approval of Welch and that later Reed, having met Lazear, seen him at work, etc.,<lb/>
+suggested, without the necessity of any further special approval from Welch, that<lb/>
+Lazear be on the Board.</p>
+<pb n="2" id="f04365005"/>
+<p>Mrs. Mary Standlee</p>
+<p>page 2</p>
+<p>August 4, 1951</p>
+<p>One might suggest that had Reed and Sternberg been deliberating leisurely about the<lb/>
+formation of the Board, Reed would have had time to get in touch with Welsh and<lb/>
+saying something like this: &ldquo;General Sternberg is considering the formation of a<lb/>
+board to investigate yellow fever and other conditions in Cuba. I have met Lazear<lb/>
+in Cuba doing work on malarial mosquitos. He seems like a fine fellow. Sternberg<lb/>
+tells me that you recommended him for the Army in the first place. Lazear is now<lb/>
+in Cuba at the very laboratory where we propose to work. I would like to have him<lb/>
+on our board. What do you think?&rdquo; Welch would have of course agreed and this might<lb/>
+have happened but Lazear's name is not mentioned in the biography of Welch by<lb/>
+The Flexnors (In this book Reed is only mentioned casually on page 159.), and I found<lb/>
+after a careful search in the National Archives, the S.G.O., etc., no written letters<lb/>
+between Welch and Sternberg or Welch and Reed regarding Lazear's selection for the<lb/>
+board. Furthermore, the formation of the board seems to have been done rather<lb/>
+precipitously. I have at home evidence that Reed expected to be sent far away, not<lb/>
+to Cuba, just a few days before the publication of Special Order No. 122, dated May 24,<lb/>
+1900, creating the Board. That has puzzled me for some time. Obviously there was a<lb/>
+sudden shift of plans and within a few days Reed was ordered to Cuba rather than to<lb/>
+the other place (I think the Philippines). (Records at home unavailable at the moment.)</p>
+<p>Another point. If Welch had had much to do with recommending Lazear for the board,<lb/>
+why is it not mentioned in Kelly's book? Kelly and Welch were close colleagues.<lb/>
+Unless you can find pertinent data in the Welch diaries or records in the Welch<lb/>
+Library, the absence of definite information on this point in Kelly's book and in<lb/>
+the life of Welch and in the official records <unclear></unclear> leaves me to conclude or suspect<lb/>
+that Welch recommended Lazear for the Army in the first place but not particularly<lb/>
+for the Yellow Fever Board some months later.</p>
+<p>2. You quote General Kean as stating that Lazear &ldquo;had studied the mosquito trans-<lb/>
+mission of malaria in Italy.&rdquo; I have seen that quotation occasionally but cannot<lb/>
+confirm it. I have Lazear's letters to his mother, when Lazear was in Europe from<lb/>
+May to September 1890, and I have the diary of Lazear's mother when Lazear and his<lb/>
+mother went to Europe from October 4, 1894 to late in August 1895. During Lazear's<lb/>
+1890 trip he visited Edinburgh, London, Paris, Basel, Freiburg, Strasbourg, Heidelberg<lb/>
+and on September 5, sailed from Amsterdam. He did not go to Italy in 1890. I have<lb/>
+the exact dates where Lazear and his mother were between October 4, 1894 and late in<lb/>
+August, <unclear></unclear> 1895. Mrs. Lazear's letters show that although Lazear Spent some time<lb/>
+visiting various hospitals here and there, many, many mornings he went with his<lb/>
+mother to galleries and was just a sightseer. Not only that, it was on this trip<lb/>
+that he met the future Mrs. Lazear, then a tourist in Europe and his mother's diary<lb/>
+show that he spent considerable time with the girl. On October 13, 1894, Lazear and<lb/>
+his mother landed at Hamburg and were in Germany until March 23, 1895, when they went<lb/>
+to Verona from Munich. The following are the dates of their travels: March 24 -<lb/>
+Venice, March 28 - Florence, April 4 - Rome, April 17 - Naples, April 21 - <unclear>Pina</unclear>,<lb/>
+April 24 - Milan, April 27 - Lakes Como and Lucerno, April 30 - Basel, May 1 - Paris,<lb/>
+May 1 to July - in and around Paris, July 9 - London; August 14 - Oxford. A few<lb/>
+days later they sailed for New York, landing there late in August as he was to start<lb/>
+work at the Hopkins September 1, 1895. You can see by these dates that Lazear could<lb/>
+have done no very serious research on Malaria in Italy. Mrs. Lazear's diary indicates<lb/>
+that all throughout Italy they saw the galleries and the regular sightseeing spots.<lb/>
+But Lazear did study the mosquito transmission of malaria at Hopkins and wrote a paper<lb/>
+on it, which paper was published in the Journal of the American Medical Association<lb/>
+shortly after Lazear's death. It was read at the A.M.A. by Thayer. Lazear's work<lb/>
+was done in Cuba and the laboratory notebook of Lazear discovered a few years ago in<lb/>
+the New York Academy of Medicine gives a lot of the notes on this work. I must con-<lb/>
+clude, therefore, that again General Kean picked up an incorrect idea. Lazear may<lb/>
+<pb n="3" id="f04365006"/>
+Mrs. Mary Standlee<lb/>
+Page 3<lb/>
+August 4, 1951<lb/>
+have visited and talked with some malarial specialist in Italy but he did not have<lb/>
+time for what might be called formal studies thereon in Italy. These studies <add>on malaria</add> were<lb/>
+later done in Cuba. Lazear died before his paper appeared (The paper was published<lb/>
+in the A.M.A., October 13, 1900.). See confirmation of this in Kelly, bottom of page<lb/>
+265.</p>
+<p>3. The Senate Document, No. 822, is a gold-mine of information. General Kean was<lb/>
+chiefly responsible for its publication but there are many errors in it, most of<lb/>
+them relatively unimportant. Many of the errors are in Reed's own papers. My own<lb/>
+copy of this book is studded with <add>my marginal notes re</add> contradictions and corrections, based on comparing<lb/>
+Reed's papers against themselves. Sometimes one can suspect that Reed, in his room<lb/>
+in the officers' quarters, was at work on his papers perhaps without the patient's<lb/>
+charts immediately at hand; therefore there are numerous contradictions not only re-<lb/>
+garding the spelling of the patient's names from paper to paper, but regarding the<lb/>
+hour or date of onset of experimental yellow fever. Many of these little errors<lb/>
+were corrected in Reed's later papers. The only importance of this remark is that<lb/>
+although one can rely on most of what is in this document, any given point must be<lb/>
+corrected against other documents and records.</p>
+<p>Before I discuss your paragraphs II, III, and IV of your letter of June 5, let me<lb/>
+discuss some other points of your present manuscript.</p>
+<p>Page 39, 4th line: &ldquo;Reed, Carroll and Agramonte were studying Sanarelli's bacillus...&rdquo;<lb/>
+Yes, but they were doing it independently. Reed and Carroll were working in Washing-<lb/>
+ton and published their work in the Medical News of April 29 and September 9, 1899.<lb/>
+Agramonte was working in Cuba and published his work in the Medical News, February 10,<lb/>
+1900.</p>
+<p>Page 39, line 10: Regarding Lazear's so-called work in Italy I have already commented.</p>
+<p>Page 39, footnote 19: The first sentence is not clear to me. Are you referring to<lb/>
+discussions between Welch and Sternberg or between Reed and Sternberg on the one hand,<lb/>
+and Reed and Welch on the other hand? The last part of this footnote we have discussed.<lb/>
+I don't think you need my name in this footnote. What you say is true, that I have<lb/>
+been unable to find documents supporting the close influence of Welch on the formation of<lb/>
+he Board but Welch's diary or other papers in the Welch Library may give us the missing<lb/>
+data.</p>
+<p>Regarding Sternberg's influence on Reed and the formation of the Board. It is<lb/>
+amazing how little official information one can find in the military records re-<lb/>
+garding the formation of this board. Aside from the bare details of Special Order<lb/>
+No. 122, AGO, Washington, May 24, 1900, Paragraph 33 and 34, one finds little. This<lb/>
+order was revised slightly in process and in my files I have a copy of the original<lb/>
+order corrected in handwriting. It took me years to find a supplementary note of<lb/>
+Sternberg giving additional suggestions or instructions to Reed. When I found it,<lb/>
+it was disappointingly general. See Mrs. Sternberg's Life of Sternberg, pages 214<lb/>
+to 217, especially Footnote 1, page 217. As I say, the written instructions from<lb/>
+Sternberg to Reed are disappointingly vague and general and Kean has told me several<lb/>
+times that in their verbal discussion regarding this order, Reed said to Sternberg:<lb/>
+&ldquo;Do you think I should spend some time investigating Finlay's theory?&rdquo; to which<lb/>
+Sternberg replied &ldquo;You can if you want but I don't think you will get very far with<lb/>
+that.&rdquo; That is the consensus of this conversation as given to me during three or<lb/>
+four interviews I had with General Kean, interviews taken down by a stenographer<lb/>
+and I have the exact wording at home. In view of what later happened and apparently<lb/>
+in view of the fact that Sternberg quickly climbed on the band wagon, Reed apparently<lb/>
+became somewhat annoyed with Sternberg as shown by the above remark to Kean, and also from<lb/>
+Cuba wrote something along that line to his wife confidentially, which letter I have.</p>
+<pb n="4" id="f04365007"/>
+<p>Mrs. Mary Standlee</p>
+<p>Page 4</p>
+<p>August 4, 1951</p>
+<p>Note that Mrs. Sternberg, with all the authority of a surgeon general's widow,<lb/>
+was in her book unable to give any more precise data than she did and because of<lb/>
+what I have said and because of Reed's remarks to Kean and to Mrs, Reed, it is<lb/>
+quite difficult if not impossible for me to believe Agramonte's remarks published<lb/>
+on page 215 of Sternberg's biography, line 9. Agramonte's article, written 15<lb/>
+years after the facts, is riddled with errors as one can prove from the official<lb/>
+records; this despite the fact that he said that what was written therein was ab-<lb/>
+solutely correct and all else was incorrect. In two or three very vital points<lb/>
+Agramonte contradicted himself. In the Scientific Monthly article, December 1915,<lb/>
+Agramonte describes in detail being with Lazear when Lazear inoculated XY but in<lb/>
+two or three other places Agramonte had earlier written that Lazear produced the<lb/>
+first two cases of yellow fever unbeknownst to his colleagues. In other words,<lb/>
+Agramonte know nothing about the inoculation of XY by Lazear when it happened; only<lb/>
+after it happened. May I suggest that you rewrite Footnote 19, verifying on your<lb/>
+own what I have said. I am not yet ready to get into any controversy with anyone.<lb/>
+When I put my stuff all together and publish it, I will be ready to stand up for<lb/>
+everything I have said. Meanwhile, what I have been telling you is the best in-<lb/>
+formation that I can give you (with or without my records at hand) and is meant<lb/>
+to help you to find on your own, proof for what I have said or else not to find it,<lb/>
+as the case may be.</p>
+<p>Apropos of the relation between Welch and Reed, see Kelly's description by Welch,<lb/>
+page 66. But you will note that although Welch claims to have kept in touch with<lb/>
+Reed, Welch in his own description did not make any claim to have recommended<lb/>
+Lazear for the Board.</p>
+<p>Page 40, paragraph 2: &ldquo;Major Reed was ordered to return to the United States...&rdquo;<lb/>
+I think this is undoubtedly correct. He left Cuba on August 2, 1900 (See Senate<lb/>
+Document, page 18). The order was doubtless published a few days before. I have<lb/>
+always wanted to find the source of the order and the circumstances under which<lb/>
+it was given, but I have not tracked it down yet. Three possibilities have been<lb/>
+suggested. First, that Reed initiated the order, suggesting to Wood that since the<lb/>
+yellow fever experiments were started and were progressing satisfactorily in the<lb/>
+hands of his associates, he had better go back to Washington and finish the job of<lb/>
+the typhoid fever work. The second is that Reed was requested to come back, meaning<lb/>
+that Sternberg told Reed he thought he ought to come back, interrupting the yellow<lb/>
+fever work in order to finish the typhoid report, that Reed acquiesced and then<lb/>
+the official orders were issued. The third idea is that Reed reluctantly inter-<lb/>
+rupted his yellow fever work and went back. I don't know which of these three<lb/>
+was correct. It would be nice to find out because unfortunately the Cubans have<lb/>
+criticized Reed strongly, saying that he wasn't even in Cuba when Lazear produced<lb/>
+the first experimental cases. The only thing I can find is in the National Archives,<lb/>
+Records of the War Department, Office of the Surgeon General, Register of Medical<lb/>
+Officers, Volume 6. Here is a synopsis of Reed's orders and activities for years.<lb/>
+The entry of August 7, 1900 says that Reed had arrived in New York City from Havana.<lb/>
+After this notation the following appears: &ldquo;72966 G 1900.&rdquo; I assume that refers to<lb/>
+the memorandum or order but I have not tracked it down yet.</p>
+<p>Page 40, line 14: &ldquo;Dr. Carroll, as the senior contract surgeon, was responsible...&rdquo;<lb/>
+I discussed this in my previous letter. He was only technically &ldquo;responsible&rdquo; as<lb/>
+the senior member of the Board. Each man was independently doing the job that had<lb/>
+already been assigned. Carroll had no authority to change the plans and apparently<lb/>
+made no attempt to do anything except his own work. Hemmeter of course makes a strong<lb/>
+case for Carroll at this point. See his book, bottom page 302, but on the marginal<lb/>
+notes of a photostatic copy of this article (as it had been published in 1908 in the<lb/>
+<pb n="5" id="f04365008"/>
+Mrs. Mary Standlee<lb/>
+Page 5<lb/>
+August 4, 1951<lb/>
+obscure European journal, Janus), which photostatic copy I sent to Kean, Truby and<lb/>
+Pinto, all three strongly objected to Hemmeter's statement. Truby flatly called<lb/>
+it false. General Kean wrote &ldquo;I cannot see that Carroll became invested with any<lb/>
+greater responsibility than Agramonte or Lazear by the absence of Major Reed. Lazear,<lb/>
+as the mosquito expert had, I should think, the larger responsibility of the three<lb/>
+assistants,&rdquo; - signed Kean. Under this Pinto merely wrote &ldquo;sure.&rdquo;</p>
+<p>Page 40, footnote 28: I have no particular objections to my being quoted in this<lb/>
+footnote. As I wrote you, Miss Agramonte, Moran and later General Truby, told me<lb/>
+independently of their own conclusions regarding the cause of Lazear's death.<lb/>
+General Truby's ideas were the most coherently expressed but those of <add>Miss</add> Agramonte and<lb/>
+Moran were equally emphatic. It is true that General Kean had nothing to offer for<lb/>
+or against General Truby's later published conclusions, but he told me on many oc-<lb/>
+casions that he didn't'doubt it and that he was not surprised to hear this. Remember<lb/>
+that although Kean was Reed's &ldquo;superior&rdquo; on the spot in Quemados, Kean was at head-<lb/>
+quarters about a half-mile from the Camp Hospital. Moran and Truby were much closer<lb/>
+and all the details of what went on at camp did not necessarily come to Major Kean's<lb/>
+attention, any more than would something going on at Walter Reed Hospital be clearly<lb/>
+or immediately known to someone in the Surgeon General's Office down town. Remember<lb/>
+too that Lazear was doing this work with a certain amount of secrecy because at that<lb/>
+time the Board had no authority to inoculate volunteers. His letters to his wife<lb/>
+show how secretly he was doing some of the work. Truby had been on leave in the<lb/>
+United States, August 8; returned to Havana September 17, to Columbia Barracks<lb/>
+September 18, when Lazear became sick and died on September 25. Please re-read<lb/>
+Truby's remarks, his book, pages 123-126 and Pinto's remarks, page 126. These<lb/>
+men were on the spot and information on this point is the greatest source we have.</p>
+<p>Page 41, 4th line - Insurance. That was Reed's supposition only, see Truby's book,<lb/>
+page 123. Reed did not know that Lazear had no insurance (as Mrs. Lazear told me<lb/>
+herself); therefore Lazear was not (as suggested in your previous letter) &ldquo;just a teeny<lb/>
+weeny bit dishonest, cheating the government for his insurance money.&rdquo; Remember that<lb/>
+Reed was a regular Army officer, probably had insurance, and thought that some such<lb/>
+might be involved. Lazear was merely a younger contract surgeon who actually had no<lb/>
+insurance.</p>
+<p>Page 41, lines 8 to 10: I like this summary. On the basis of Finlay's theory,<lb/>
+Lazear provided the key but died with it in his hand. Reed picked up the key and<lb/>
+with the assistance of his colleagues, opened the door, providing the needed proof.</p>
+<p>Page 41, sixth line from the bottom: That section of the Senate Document was pre-<lb/>
+pared by General Kean. He told me so himself and I marked it down in the book. I<lb/>
+have not been able to clarify the point as to why Reed was refused permission to<lb/>
+return to Cuba. I assume that it is true but I think this is the only place that it<lb/>
+is ever mentioned.</p>
+<p>Page 41, last line: &ldquo;...Carroll was &lsquo;the real here&rsquo;...&rdquo; You quote Hemmeter as having<lb/>
+been told that by Welch. If this is true, isn't it curious that Welch refrained from<lb/>
+publishing anything like that ever, so far as I know, unless you have found it some-<lb/>
+where, and if you mention Welch's approval of Carroll, then in all fairness you should<lb/>
+mention Welch's profound approval of Reed on page 20 of the Senate Document in which,<lb/>
+in his praise of Reed, his viewpoint does not indicate that Carroll was the real here.<lb/>
+Another point - how would Welch really know who was the here unless he got it from<lb/>
+the records or from Reed. The records certainly don't prove it. He may have made<lb/>
+a passing comment to Carroll's enthusiastic friend Hemmeter but when Welch's colleague<lb/>
+Kelly wrote his book, Welch did not support that notion about Carroll so far as we know.</p>
+<pb n="6" id="f04365009"/>
+<p>Mrs. Mary Standlee</p>
+<p>Page 6</p>
+<p>August 4, 1951</p>
+<p>Remember that from time to time various people got behind one or the other individual<lb/>
+connected with the yellow fever experiments and pushed hard in order to get a pension<lb/>
+for some particular widow or a promotion for one of the participants, etc. On these<lb/>
+occasions, various sponsors went a little overboard in praise for the work of the<lb/>
+particular person whom they were, for the moment, sponsoring.</p>
+<p>Page 42, the last five lines: At this time, and before I have published all my data<lb/>
+I do not want to get into an argument with anybody, certainly not with deKruif.<lb/>
+Regarding deKruif I shall make later remarks to you confidentially. I am not<lb/>
+particularly anxious to have you quote me in reference 39. You have the records<lb/>
+available. If you agree with me, can you not give your own opinion? Reed's<lb/>
+record shows that certainly for the times he was an expert and experienced investi-<lb/>
+gator for the Army Medical Corps as witness his written papers and reports, the positive<lb/>
+one on typhoid and the negative reports on electrozone, Sanarolli's bacillus and so<lb/>
+on. I think that time has dealt very kindly with Reed's findings and little if<lb/>
+anything has been disproved. Of course luck always plays a tremendous role in any<lb/>
+scientific venture. Reed had the luck to be exposed to discussions of the Finlay<lb/>
+theory and to Finlay. Then he had the luck to have inherited Carter's work (but<lb/>
+when first he took Carter's work seriously and who brought it to his attention I<lb/>
+have not yet discovered) and, thirdly, Reed had the tremendous &ldquo;luck&rdquo; of having had<lb/>
+Lazear as a brilliant young associate, Lazear being the all-essential middle man<lb/>
+between the unproven theories of Finlay and the inescapable proofs of Reed, Carroll<lb/>
+and Agramonte. Luck is not the only thing. It is the way a man goes at his prob-<lb/>
+lem, how he puts it together and how he handles the break when it comes that matters.<lb/>
+Take, for example, the development of penicillin. Fleming discovered it but for<lb/>
+several years made very little headway and without the work of Florey and Chain<lb/>
+penicillin might still be a laboratory curiosity. Others had observed what Fleming<lb/>
+did but Fleming took it seriously and did his best. That's what makes the dif-<lb/>
+ference. Everybody knows of Fleming, few know of Florey and Chain. All deserve great<lb/>
+honor, even though luck played a considerable role for Fleming.</p>
+<p>Page 47, Line 7 from the bottom: ...&ldquo;Reed who was already a post-operative patient...&rdquo;<lb/>
+I don't know the hour of the operation. Do you mean that he was a pre-operative<lb/>
+patient? Why do you emphasize the meeting of the faculty of the Army Medical School<lb/>
+at 4 p.m.? What were they meeting for? The line of thought doesn't seen to be<lb/>
+finished.</p>
+<p>Page 48, line 10 from the bottom: ...&ldquo;the dissected specimen ...failed to show the<lb/>
+evidence.&rdquo; Evidence of what - of a suppurative appendix or of a ruptured appendix?</p>
+<p>Page 48a - first paragraph: This is a little confusing to me as you go back and<lb/>
+forth over the time relationships. Would it not be better to say &ldquo;within the next<lb/>
+five days&rdquo;?</p>
+<p>Page 48a, second line: I assume that &ldquo;they&rdquo; refers to the students.</p>
+<p>Page 48c, lines 3 and 4: Masterly understatement.</p>
+<p>Page 48c, lines 4 and 5 from the bottom: &ldquo;85&rdquo; I gave you that opinion as a personal<lb/>
+confidential opinion. I do not think I want to be quoted yet on that. I am absolutely<lb/>
+certain of it and have evidence of it, but until that evidence is brought out in de-<lb/>
+tail, taking a sentence or single conclusion like this puts me prematurely in con-<lb/>
+flict with others to when I cannot give the complete proof. I have continued re-<lb/>
+lations with Miss Agramonte. When the time comes for me to write my manuscript, I<lb/>
+will have to work out the unhappy side in the best way I can, giving <del><unclear></unclear></del> such thought<lb/>
+to the feelings of Agramonte's relatives as is <del>absolutely</del> necessary, but when I do write<lb/>
+my manuscript although I may hurt the feelings of a relative on one page, I am certainly<lb/>
+<pb n="7" id="f04365010"/>
+Mrs. Mary Standlee<lb/>
+Page 7<lb/>
+August 4, 1951<lb/>
+going to bring out on other pages what each individual man did do. Incidentally,<lb/>
+did you call at Carroll's home? I would greatly appreciate having his current<lb/>
+address.</p>
+<p>Page 48d, line 4: &ldquo;...Kean accepted any threat to his immortality.&rdquo; Wouldn't it be<lb/>
+better to say Reed's immortality. Of course I don't agree with you in the way you<lb/>
+are handling this matter as I have told you previously. Kean's defense of Reed was<lb/>
+based on his knowledge of the official facts, not just prejudice toward Reed as against<lb/>
+others. Incidentally, there is no question but that Kean wrote for O'Reilly that part<lb/>
+of the Senate Document. He told me so himself.</p>
+<p>Page 48d - third paragraph. You infer that maybe Kean was Kelly's chief assistant.<lb/>
+I have all of Kelly's papers left over from his book. It is evident that Dr. Caroline<lb/>
+Latimer was his chief assistant. I think this inference is unfair as it suggests that<lb/>
+everybody who published anything has been unduly influenced by Kean in favor of Reed.<lb/>
+At least I think that inference can be drawn from some of your statements.</p>
+<p>In all honesty I must say I don't see the exact purpose of the last three pages of<lb/>
+this chapter, pages 48c to 48e, except that they seem to tie in with the initial<lb/>
+quotation at the head of the chapter, the quotation from General Kean. Throughout<lb/>
+you give the impression or allow the reader to infer that it was Kean who made Reed<lb/>
+immortal rather than Reed's own work that made him immortal.</p>
+<p>Now, regarding deKruif. I was interested in the copy of his letter to you dated<lb/>
+March 29 but not sure why you sent it to me. On page 5 of my letter to you dated<lb/>
+April 16, I stated that in my opinion deKruif was not a strong authority in this<lb/>
+matter of the conquest of yellow fever. I find no reference to deKruif in any of<lb/>
+my correspondence with you before April, but since the issue has been raised, let me<lb/>
+make the following comments: First of all, deKruif has set for himself the task of<lb/>
+popularizing science. As such, he has seen fit to take liberties which he considers<lb/>
+necessary. If he has to jazz up the facts, use picturesque speech or skate here and<lb/>
+there over think ice, to insert imaginary conversation, to dramatize - these are the<lb/>
+liberties which the popular writer demands and is generally given. But you and I are<lb/>
+writing in a different vein as historians who can take no such liberties. Therefore,<lb/>
+anyone borrowing from deKruif must realize the spirit of his writings. I am not<lb/>
+criticizing him. If he didn't write thus he probably wouldn't sell, or make a living.<lb/>
+Let me remind you that when I made to you my confidential comment about deKruif on<lb/>
+page 5 of my letter of April 16, I was doing so from my general memory; I think that<lb/>
+I made a mistake in this paragraph. I remember Johnny Moran had some contact with<lb/>
+deKruif and also Sidney Howard, author of Yellow Jack. I think without access to<lb/>
+my records I confused the two. I am not sure that deKruif ever visited Moran al-<lb/>
+though he may have. I know in recent years deKruif had some slight correspondence with<lb/>
+Moran, the latter sending deKruif I believe a tentative draft of a manuscript. It<lb/>
+may have been Sidney Howard who visited Moran so briefly in Cuba. So let's consider<lb/>
+the last part of my paragraph regarding deKruif as unfinished business, possibly in-<lb/>
+correct. However, let's analyze some of deKruif's statements from Chapter 11, Microbe<lb/>
+Hunters, which, in his letter to you, he says came from original scientific publications.</p>
+<p>On page 312 deKruif says that Finlay was considered by all good Cubans and wise doctors<lb/>
+to be a theorizing old fool. Before you and I can make such a statement we would try<lb/>
+to find that written down in some paper in Cuba or, lacking that, we would interview<lb/>
+some of these authoritative Cubans and get their words that that actual expression was<lb/>
+used. This is just an example of the literary license that deKruif allows himself<lb/>
+which you and I can't. Regarding his father, Dr. Finlay, Jr., did make some such<lb/>
+remark in a recent publication not available to deKruif.</p>
+<pb n="8" id="f04365011"/>
+<p>Mrs. Mary Standlee</p>
+<p>Page 8</p>
+<p>August 4, 1951</p>
+<p>Page 313: &ldquo;Considering the man Walter Reed was, it was altogether too big an order.&rdquo;<lb/>
+But was it? Reed and his associates filled the order. What deKruif really means to<lb/>
+say was probably something like this &ldquo;Looking at it one way, it may have been too big<lb/>
+an order for Walter Reed,&rdquo; but on the other hand Reed was a &ldquo;sharp-eyed man with plenty<lb/>
+of common sense&rdquo; (page 315) and was &ldquo;insanely scientific&rdquo; (page 326). By taking this<lb/>
+one sentence of deKruif's out of its context, you do not in my opinion properly<lb/>
+interpret his opinion of Reed.</p>
+<p>Page 315: &ldquo;Lazear was a microbe hunter with a wife and two babies in the States and<lb/>
+with doom in his eyes.&rdquo; Actually at the time that Reed came to Quemados <add>June 1900</add>, Lazear had<lb/>
+a wife and one and 7/9 babies in the States and the second baby was not yet born,<lb/>
+being born before Lazear died but Lazear never saw the baby. &ldquo;With doom in his<lb/>
+eyes,&rdquo; - that is of course a picturesque expression but he had no more doom in his<lb/>
+eyes in June than you and I have today if we were to die <add><unclear>unexpectedcy</unclear></add> a couple of months from now.<lb/>
+Again, literary license.</p>
+<p>Pages 316 and 317: These conversations are of course imaginary. About many things<lb/>
+we are not sure enough of the facts even to reconstruct imaginary conversations.<lb/>
+There is quite a controversay as to who first suggested that the members of the board<lb/>
+be bitten themselves. Carroll made the claim (Hemmeter, page 310). Data is Lazear's<lb/>
+letters to his wife indicate that he was impatient with Reed and wanted to get on with<lb/>
+the mosquito experiments some time before Reed did. It is quite all right for deKruif<lb/>
+under the circumstances, considering the style of his book, to do this but you and I can't<lb/>
+take such conversations as historic facts.</p>
+<p>Page 318: deKruif says that Carroll told Lazear to bring out the most dangerous<lb/>
+mosquito in his collection. I am very doubtful of this. There is no record that<lb/>
+Carroll had anything whatever to do with Lazear's choice of mosquitoes which he put<lb/>
+on Carroll although later, in 1904, Carroll stated; &ldquo;In writing to Doctor Reed on<lb/>
+the night after the incident I remarked jokingly that if there were anything in the<lb/>
+mosquito theory I should have a good dose.&rdquo; (See Carroll, New York Medical Journal,<lb/>
+February 6 and 13, 1904, quoted in Hemmeter, top of page 305). I have never been able<lb/>
+to find this letter which seems to be a most important one. The nearest one to it I<lb/>
+have found is Carroll's letter to his wife written not about August 28 at the time<lb/>
+of the incident, but on December 17, 1900 (Hemmeter, page 331). Agramonte has written<lb/>
+in several places that Lazear produced, unbeknownst to his colleagues on the commission,<lb/>
+the first two cases and that Carroll took Lazear's inoculation of him in a casual<lb/>
+manner, more for feeding them than as an experiment. The truth may lie somewhere<lb/>
+in between: That Carroll know that Lazear was inoculating him with an infected<lb/>
+mosquito but that since nothing had happened to the previous volunteers Carroll<lb/>
+thought little of it and may not have inquired as to the pedigree of the mosquito.<lb/>
+Certainly Carroll's subsequent actions immediately after August 27 show that he<lb/>
+was not anticipating experimental yellow fever. He almost vitiated the experiment<lb/>
+by attending a postmortem, for which Reed &ldquo;scolded&rdquo; him later and when he got sick, he<lb/>
+thought he had malaria.</p>
+<p>Page 320: &ldquo;Carroll was on the heights writing to Walter Reed.&rdquo; I must try to find<lb/>
+evidence for this. Actually, Carroll was very sick for a long time. The inference<lb/>
+here is that Carroll was writing to Reed after Carroll became ill but before Lazear<lb/>
+became ill. (Note Hemmeter, page 323). The letter dated August 27, 1900 was actually<lb/>
+written August 27, <hi>1901</hi>. It would have to be because of the context. On page 324 of<lb/>
+Hemmeter is Carroll's brief note to his mother, dated September 3, 1900, written by<lb/>
+his nurse. He was much too ill to write himself and it is impossible to believe that<lb/>
+he wrote at this early date to Reed. The letters immediately following indicate this,<lb/>
+namely, that Reed was hearing not from Carroll directly but from others as to Carroll's<lb/>
+progress. By September 13 Carroll was writing his wife and might have written Reed<lb/>
+but this possibility seems to be contradicted by Reed's letter to Carroll of September 19<lb/>
+<pb n="9" id="f04365012"/>
+Mrs. Mary Standlee<lb/>
+Page 9<lb/>
+August 4, 1951<lb/>
+<add>which</add> still indicates that what Reed knew about Carroll was from Lazear's letter dated<lb/>
+September 13. Thus I would conclude that deKruif's assumption at the top of page 320<lb/>
+is either just that, an incorrect assumption, or is based on evidence that I have been<lb/>
+unable to find or that deKruif may be referring to letters written some time later.<lb/>
+Truby and Kean have told me that Carroll was sick for quite a time, did very little<lb/>
+if anything, professionally; was absent from Lazear's funeral, and some of the things<lb/>
+he told his wife he was doing Truby vigorously denies, stating that Carroll was merely<lb/>
+keeping up his wife's spirits. See Hemmeter's note, bottom of page 329.</p>
+<p>Page 321. &ldquo;Seven tents and a flagpole.&rdquo; deKruif had a certain right to say that.<lb/>
+That's what it says in the official record but my own very careful study of several<lb/>
+army photographs show that there were more than seven tents. There may have been<lb/>
+seven for the volunteers but there were extra tents for the guards, supplies, mess,<lb/>
+etc. Even Reed apparently erred in regard to the disposition of the volunteers in<lb/>
+these tents. Somewhere he stated that Moran was in a certain tent, with another<lb/>
+soldier. Reed may have planned that or thought so, but actually Moran was in a<lb/>
+tent alone (as he insisted to me) as while he was waiting for the experiments, etc.,<lb/>
+he helped type Reed's papers and notes. This is of no importance as far as deKruif's<lb/>
+writings are concerned. It is just a question of how far one wants to go to check<lb/>
+up everything in the official documents. In this particular instance I did the<lb/>
+checking. I examined carefully several old Army photographs taken from different<lb/>
+angles and reconstructed the various tents and small shacks, etc., had them re-<lb/>
+drawn by an artist into one composite drawing and checked this composite drawing<lb/>
+with several of the survivors. I am merely trying to indicate that even the official<lb/>
+record must do checked and rechecked.</p>
+<p>Pages 322-323: deKruif accepts the legends that Kissinger and Moran went together<lb/>
+and that Reed saluted them. Kissinger and Moran told me emphatically that Reed<lb/>
+never saluted them. This legend began with Kelly, page 139. It is not true.<lb/>
+Kelly wrote me, regarding the legend, in December 1941: &ldquo;I think the &lsquo;Gentlemen<lb/>
+I salute you&rsquo; is merely legendary but I am by no means sure of the source.&rdquo;</p>
+<p>As to whether Kissinger and Moran went together or separately there is controversey.<lb/>
+In certain places both Kissinger and Moran claim to have gone separately. In other<lb/>
+places Moran wrote that they went together. This is a long story and I have the<lb/>
+answer to Moran's written contradiction but it is too long to go into here. Again,<lb/>
+I merely point this out to show that not everything in deKruif's book is correct.<lb/>
+If Reed told Kelly that he saluted them, Kissinger and Moran emphatically denied<lb/>
+it and you know very well that Reed, a solemn formal major when he was with military<lb/>
+men, would not have played that sort of heroics although he might have been very<lb/>
+grateful.</p>
+<p>Page 324: If I am correct, deKruif infers in some places that &ldquo;Reed was not original,&rdquo;<lb/>
+but on page 324, line 4, again in a retorical fashion, <add>he</add> says that because of thus and<lb/>
+so &ldquo;you might call him original.&rdquo;</p>
+<p>Page 333 - &ldquo;They prevailed upon Kissinger at last to accept $115 and a watch.&rdquo; deKruif<lb/>
+infers that Reed and the board insisted on rewarding Kissinger after Kissinger's<lb/>
+original turn down. That is not true. At least Reed and the board were not the<lb/>
+&ldquo;they&rdquo; who prevailed upon Kissinger. Kean and Moran have told me precisely the facts<lb/>
+and part of it belongs to the written record. After some volunteers had received the<lb/>
+money, Kissinger, presumably kidded by his fellow soldiers for being a sucker, decided<lb/>
+to ask for some money after all. He had already been given a gold watch and he went<lb/>
+to Kean and asked if he could have the difference between the cost of the gold watch<lb/>
+and the $200 reward. I have the check stub involved in these transactions by Kean.<lb/>
+Kean's (O'Reilly's) remarks on page 22 of the Senate Document are of course merely<lb/>
+smoothed up for the official record.</p>
+<pb n="10" id="f04365013"/>
+<p>Mrs. Mary Standlee</p>
+<p>Page 10</p>
+<p>August 4, 1951</p>
+<p>Because of these various points, I think that whoever suggested that deKruif's writings<lb/>
+were subjective was correct. As I say, I have no objections to the way deKruif<lb/>
+writes but those of us who must stick absolutely to the historical facts cannot use<lb/>
+deKruif's embellished statements as absolute truths. They are relative truths.</p>
+<p><hi>Regarding your Paragraph II, June 5, 1951</hi></p>
+<p><hi>Comments regarding Hemmeter's article</hi>: Hemmeter was one of Carroll's teachers and<lb/>
+&ldquo;intimate friends&rdquo;. The whole article must be judged in the light of paragraph 2, Hemmeter<lb/>
+page 59, as it appeared in Janus, 1908, where Hemmeter wrote &ldquo;The facts narrated in<lb/>
+the following were obtained largely from Major James Carroll during many interviews<lb/>
+and from the articles given as references in the text.&rdquo; When Hemmeter re-used this<lb/>
+article 19 years later in his 1927 book, he revised this paragraph briefly, see<lb/>
+paragraph 2, page 299. I have always wondered why Hemmeter published this article<lb/>
+in 1908 in the relatively obscure medical journal, Janus, published in Harlem<lb/>
+Holland. I am not sure whether there were any American medical historical journals<lb/>
+in 1908 but Janus seems to me a curious choice. The 1908 article seems not to have<lb/>
+come to Agramonte's attention for four years. On November 30, 1912, Agramonte wrote<lb/>
+to Hemmeter referring to the Janus 1908 article. It would appear that Agramonte had<lb/>
+merely seen a reference to the article &ldquo;possibly of Carroll by Hemmeter.&rdquo; I do not<lb/>
+have this letter. It contains &ldquo;strange language&rdquo; according to Hemmeter's reply of<lb/>
+January 18, 1913 which I have. With this letter Hemmeter sent Agramonte a reprint<lb/>
+of the Janus article. On February 1, 1912, Hemmeter wrote Agramonte on additional<lb/>
+letter referring to Donnelly's article, George Washington University Publications,<lb/>
+Volume 1, page 51-63, November 1906, also printed in the University Bulletin, Volume<lb/>
+5, No. 3, February 2, 1913. Before Agramonte received Hemmeter's letter of February 1,<lb/>
+he wrote Hemmeter a fierce rebuttal of many points in the Hemmeter article. On<lb/>
+February 8, Hemmeter sent Agramonte a reply which I consider to be rather weak in<lb/>
+which he put much of the responsibility on Donnelly by saying &ldquo;I am simply quoting<lb/>
+Donnelly...&rdquo; for certain important points. I have these last two letters. There<lb/>
+is also an undated letter from Hemmeter to Agramonte.</p>
+<p>In his letter of January 18, 1913, Hemmeter promised Agramonte he would make any cor-<lb/>
+rections that could be substantiated. Hemmeter didn't say where the corrections would<lb/>
+appear - in Janus or elsewhere, but I don't believe he made any significant corrections<lb/>
+and I think that Chapter 15 in the 1927 book is almost reprinted verbatim from Janus,<lb/>
+1908 which seems curious because some of the things that Agramonte pointed out should<lb/>
+in all fairness, have been corrected in my opinion.</p>
+<p>Now for some individual comments regarding Hemmeter's article. I shall give the 1908<lb/>
+Janus page reference first, then the 1927 book page reference.</p>
+<p>Janus, p. 57, line 18; book p. 297: Hemmeter states that Lazear died September 28.<lb/>
+I believe he took this from Kelly, page 271, without checking it. Lazear died on<lb/>
+September 25.</p>
+<p>Janus, p. 62, line 31; book p. 302: It is stated that Carroll first suggested that<lb/>
+the Commission infect themselves. The only authority that I know for this statement<lb/>
+is Carroll's letter to Hemmeter, May 27, 1907, printed in Janus, page 70 and 175 and<lb/>
+in the book, page 310. Agramonte vigorously denied this. The first preliminary de-<lb/>
+cision may have been made by Reed, Agramonte <del>and Lazear</del><add>went later</add> in Pinar del Rio when they<lb/>
+went to see the epidemic and the decision may have been formalized two or three days<lb/>
+later when the Board reconvened as a whole at Camp Columbia.</p>
+<p>Janus, p 62, line 35; book p. 302: &ldquo;The real responsibility fell upon Carroll.&rdquo; I<lb/>
+have discussed this before. This is not so.</p>
+<pb n="11" id="f04365014"/>
+<p>Mrs. Mary Standlee</p>
+<p>Page 11</p>
+<p>August 4, 1951</p>
+<p>Janus p. 63; book p. 303: Several statements on this page just aren't borne out by the<lb/>
+official records or by the opinion of many of the survivors whom I interviewed;<lb/>
+especially the last paragraph on page 303 is impossible for any real student of this<lb/>
+work to swallow. This paragraph particularly shows that Hemmeter did not follow his<lb/>
+own advice about equal justice for all, which he stated on page 318.</p>
+<p>Janus, p. 64, lines 16 to 20; book p. 304: Of this Truby wrote on the margin of my<lb/>
+copy of this article &ldquo;Carroll never had a thing to do with Lazear's mosquitoes&rdquo; and<lb/>
+of this Agramonte wrote to Hemmeter a scathing criticism.</p>
+<p>Janus, p. 66, line 19; book p. 306: A particularly objectionable sentence reeds:<lb/>
+&ldquo;Upon Doctor Carroll's return to Cuba he established a camp near Quemados and named<lb/>
+it for his dead comrade Lazear, where he continued his investigations...&rdquo; This is<lb/>
+utter nonsense which Hemmeter could have easily proven had he not been so completely<lb/>
+receptive to what we must assume were Carroll's remarks. See Agramonte's article,<lb/>
+Scientific Monthly, December 1915, page 230. Agramonte helped Reed find a place.<lb/>
+&ldquo;Major Reed decided upon this place...so that on the 20th of November we inaugurated<lb/>
+our camp.&rdquo; See also Truby, page 135 and 140, but above all, see Reed's letter to<lb/>
+Sternberg, November 13, 1900 (quoted by Truby, page 146 and in Sternberg's biography,<lb/>
+page 222). On November 13, 1900 Reed wrote Sternberg that he (Reed) had been very busy<lb/>
+getting the experimental station started, had secured a good location, gotten volunteers,<lb/>
+etc. He mentioned the experimental buildings, etc., and ended by stating &ldquo;Doctor<lb/>
+Carroll arrived this afternoon and will at once pick up the work,&rdquo; meaning November 13.<lb/>
+According to the Senate Document, page 71, Camp Lazear was established November 20,<lb/>
+1900 and (Senate Document, page 84) Building No. 1 was ready for occupancy on November<lb/>
+30, 1990. In the light of this, can you possibly believe that Carroll, not having<lb/>
+returned until November 13 could have, in a week, singlehandedly gotten the camp<lb/>
+established? Of course Reed's letter flatly contradicts that and also I have the<lb/>
+day book or diary of Doctor Rojas on whose farm the camp was established. Rojas'<lb/>
+arrangements were all done through Reed. Carroll's name is not mentioned once.</p>
+<p>Janus, p. 68, line 12-13, indeed the whole paragraph; book p. 308, paragraph 3:<lb/>
+This whole paragraph is ridiculous. It is over-emphasis on behalf of Carroll.</p>
+<p>Janus, p. 70; book p. 310: Carroll writes Hemmeter &ldquo;You ask me whether I am infected<lb/>
+as a result of our work. Certainly I was...&rdquo; The meaning of this is not clear. The<lb/>
+suggestion is that Carroll believes that his current heart trouble was the result of<lb/>
+his yellow fever seven years before. I have read articles on the complications of<lb/>
+yellow fever. Subacute bacterial endocarditis and heart trouble are not recognized,<lb/>
+complications of yellow fever. Kissinger's &ldquo;transverse myelitis&rdquo; from which he curiously<lb/>
+recovered almost completely, is not a complication of yellow fever nor was Andrus'<lb/>
+rheumatoid spondylitis. It is common for veterans who develop illness years later<lb/>
+to try to have them service-connected.</p>
+<p><unclear>Cord</unclear></p>
+<p><unclear>Tumor</unclear></p>
+<p>As to the rest of that paragraph I have already commented. The only way we could<lb/>
+excuse statements like this by Carroll is to realize that he was a very sick and<lb/>
+dying man, although he didn't die until September 16, 1907, four months after this<lb/>
+letter was written to Hemmeter and that is Hemmeter's possible excuse to Agramonte<lb/>
+(Hemmeter's letter to Agramonte, February 8, 1913). In Carroll's letter to Hemmeter,<lb/>
+May 27, 1907, he states that Donnelly's paper &ldquo;may be relied upon as accurate in<lb/>
+every particular.&rdquo; That is not quite to, although Donnelly's paper is more accurate<lb/>
+than Hemmeter. I shall comment on Donnelly later.</p>
+<p>Janus, p. 155; book page 317: &ldquo;This discovery was made possible through the heroism<lb/>
+of James Carroll.&rdquo; This is an amazing statement by Hemmeter who seems to ignore<lb/>
+almost completely the death of Lazear, the work of Agramonte and Reed and the heroism<lb/>
+of Kissinger, Moran and other volunteers. It is because of such intemperate remarks<lb/>
+by Hemmeter and other protagonists of Carroll that even one who tries very hard to<lb/>
+give Carroll his due finds it difficult at times.</p>
+<pb n="12" id="f04365015"/>
+<p>Mrs. Mary Standlee</p>
+<p>Page 12</p>
+<p>August 4, 1951</p>
+<p>Janus, p. 156; book p. 318: &ldquo;There can be no just distinctions made between the<lb/>
+merits of these three benefactors...&rdquo; But Hemmeter himself was among those most<lb/>
+guilty of making such distinctions, not only in favor of Carroll but particularly<lb/>
+against Agramonte. First of all, note on page 321 of the book (Janus, p. 159) that<lb/>
+Hemmeter does not even have Agramonte's name listed as one of the members of the<lb/>
+Board. Agramonte called this to his (Hemmeter's) attention in his letter of February<lb/>
+12, 1913. Hemmeter apologized and said he had gotten the copy from Mrs. Carroll<lb/>
+and thought that there might have been an error by the stenographer or typist but<lb/>
+why didn't Hemmeter correct this when he published it in 1927? There is another<lb/>
+mystery about this particular Special Order No. 22. The official order creating<lb/>
+the Board was not Special Order No. 22 but Special Order 122, dated May 24, 1900, which<lb/>
+includes Agramonte's name. Conceivably, Special Order No. 22 might have been in error<lb/>
+and corrected by Special Order 122 but I did not find so-called Special Order No. 22<lb/>
+in Washington and one suspects therefore that as given by Hemmeter, it contains more<lb/>
+than one error. Note also that Hemmeter unkindly omitted Agramonte's name from his pro-<lb/>
+posed memorial (Book, facint page 310).</p>
+<p>Janus p. 165; book, bottom page 326: The letter dated September 28, 1900 (the first<lb/>
+one) should have been dated September 25, as Carroll stated therein &ldquo;Dr. Lazear<lb/>
+died tonight.&rdquo; It seems to me that Hemmeter, as a historian, should have caught<lb/>
+that simple error, especially as the next letter is also dated September 28 and the<lb/>
+suggestion that Carroll wrote two letters to his wife in the same day would make an<lb/>
+investigator suspect that one date might be wrong. It is particularly curious be-<lb/>
+cause it indicates that Hemmeter did not even by 1927 know the correct date of Lazear's<lb/>
+death. The fact that the one letter is dated Thursday, September 28 and the next<lb/>
+one Saturday, September 28 should have caught an investigators eye.</p>
+<p>Janus, p. 166; book p. 327: Carroll's real letter of Thursday, September 28. He says<lb/>
+he attended Lazear's funeral and performed an autopsy recently. Truby vigorously de-<lb/>
+nies this and insists that Carroll was merely trying to assure his wife that he was<lb/>
+better than he actually was. Truby's memory as to who was at the funeral proved to<lb/>
+be embarrassingly accurate. Despite a letter from Agramonte to Mrs. Lazear suggesting<lb/>
+that he, Agramonte, had attended Lazear's funeral, Truby insisted to me that<lb/>
+Agramonte had not attended the funeral. Many months later I was able to prove this<lb/>
+and discover that actually Agramonte was on leave in the United States, facts proven<lb/>
+by his signature on leave papers and by letters in Agramonte's handwriting from the<lb/>
+United States. Therefore, don't take Truby's memory of Lazear's funeral lightly.</p>
+<p>Some of Carroll's letters give inaccurate data, others merely give wrong inferences.<lb/>
+I cannot go into further detail.</p>
+<p><hi>Comments regarding Donnally's Article, reference above</hi>.</p>
+<p>Page 54: &ldquo;Agramonte was intentionally kept in ignorance by direction of Doctor Reed<lb/>
+of this plan of investigation.&rdquo; I have often wondered where Donnally got that idea.<lb/>
+Hemmeter expanded it in Janus, page 64, and this violently irritated Agramonte who<lb/>
+wrote Hemmeter, Kean and others, denying it vigorously. On the margin of my reprint<lb/>
+of Donnally's article at this point and regarding the above statement are written the<lb/>
+following comments: &ldquo;I doubt this&rdquo; - Truby; &ldquo;So do I&rdquo; - Kean; &ldquo;So do I&rdquo; - Pinto. The<lb/>
+idea I believe was suggested to Kean by Carroll, Senate Document, page 21. Kean told<lb/>
+me that Carroll had told him this. It resulted in a vigorous letter from Agramonte<lb/>
+to Kean and Kean later admitted that he didn't do justice to Agramonte. (See page 16<lb/>
+Kean's remarks in &ldquo;Hearing before Committee on Military Affairs, April 11, 1928, re-<lb/>
+garding yellow fever.&rdquo;</p>
+<pb n="13" id="f04365016"/>
+<p>Mrs. Mary Standlee</p>
+<p>Page 13</p>
+<p>August 4, 1951</p>
+<p>Page 58, bottom line: &ldquo;There remained now but one member of the commission, James<lb/>
+Carroll who, since the death of Major Reed, has never been relieved from duty on the<lb/>
+yellow fever commission.&rdquo; This is not technically correct. Commissions or boards<lb/>
+were disbanded automatically when any or all of the members received later orders to<lb/>
+do something else, unless the statement was made &ldquo;In addition to your duties under<lb/>
+paragraph so and so, which you will continue, you will also do so and so.&rdquo; Thus<lb/>
+Agramonte was relieved from the board by virtue of Special Order 118, A.G.O., May 21,<lb/>
+1901, paragraph 28. I don't have all of carroll's orders at hand. I have the file<lb/>
+somewhere. I have no doubt that one could find an order relieving Carroll from the<lb/>
+original membership of the board, later ordering him to go back to Cuba for further<lb/>
+special work, as an individual, no longer as a member of the board.</p>
+<p>Donnally's page 61-62: This probably gives one of the main reasons for writing this<lb/>
+article, not only a historical paper but also a plea for recognition of Carroll.<lb/>
+I have many articles and letters written by this or that important individual stressing<lb/>
+within the confines of the individual paper or letter the outstanding services of<lb/>
+one or the other of the men concerned with the conquest of yellow fever. The papers<lb/>
+and letters must be read in the light of the purpose for which they were published -<lb/>
+often an effort to get this or that deserving person or widow a pension or other<lb/>
+recognition. Thus when someone went to bat for Carroll the letters and articles<lb/>
+printed at that time were strongly pro-Carroll and ignoring essentially the work of<lb/>
+the others; later the same one-sided effort was made in behalf of Mrs. Reed or Mrs.<lb/>
+Lazear or Mrs. Agramonte or Kissinger, etc.</p>
+<p><hi>Additional Comments</hi></p>
+<p>Have you seen the book &ldquo;Carlos Finlay and Yellow Fever&rdquo; by his son, Carlos E. Finlay,<lb/>
+published in 1940 by the Oxford University Press, Inc., New York, Note page 94,<lb/>
+Finlay says of his father &ldquo;In his own country he was considered &lsquo;touched&rsquo;...&rdquo; This<lb/>
+supports deKruif's comments regarding Finlay - &ldquo;theorizing old fool...crazy crank&rdquo;<lb/>
+but I still say that if I had been deKruif, I would like to quote original sources<lb/>
+before using such an expression.</p>
+<p>Finlay, page 222: Note Agramonte's letter to Finlay, April 12, 1905. This is a most<lb/>
+important letter and it should be remembered that it was written by Agramonte while<lb/>
+Carroll was still alive. It contains three important points which you should take<lb/>
+into consideration and then decide whether Agramonte was entirely right about Carroll<lb/>
+or whether, in his anger, he over-reacted as he very well may have. Note what he says<lb/>
+about Carroll's attitude toward his own inoculation by Lazear, but this letter was<lb/>
+written three years before Agramonte was more vigorously angered by Hemmeter. The<lb/>
+second important point - &ldquo;Lazear had been working for sometime in Grassi's laboratory<lb/>
+in Rome.&rdquo; I have never been able to confirm this. It seems as if Agramonte should<lb/>
+have known. Of course Lazear may have visited Grassi's laboratory briefly while<lb/>
+Lazear was in Rome about April 4 to 16, 1895. As I have told you, Lazear was not in<lb/>
+Rome on his 1890 trip but if Lazear was only in Rome about 12 days in April, 1895,<lb/>
+he couldn't have done much work with Grassi. Perhaps he visited Grassi, later men-<lb/>
+tioned it to Agramonte who, years later, had the erroneous impression that Lazear<lb/>
+had worked with Grassi. As I have told you, Lazear's pre-Cuba work with malarial<lb/>
+mosquitoes was done entirely at Hopkins with Thayer and published from there.<lb/>
+The third point: &ldquo;He (Lazear) produced the first two cases of yellow fever unknown<lb/>
+to the other members of the board...&rdquo; Agramonte said the same thing in an unpublished<lb/>
+dinner address which I found among Agramonte's effects. Miss Agramonte loaned it to<lb/>
+me and it is printed on page 3 of my enclosed reprint from The Phares of Alpha Omega<lb/>
+Alpha, May 1948. It is also restated in a letter from Agramonte to Kelly, March 22,<lb/>
+1905. These three statements contradict much of what Agramonte later said in his<lb/>
+<pb n="14" id="f04365017"/>
+Mrs. Mary Standlee<lb/>
+Page 14<lb/>
+August 4, 1951<lb/>
+Scientific Monthly article, September 1915. Yet Agramonte described in detail how he<lb/>
+observed and presumably helped Lazear inoculate Dean. The only way I can harmonize <del>the</del><lb/>
+the contradictions is to believe that although Agramonte might have casually observed<lb/>
+Lazear's inoculation of Dean, Agramonte thought that Lazear was merely feeding the<lb/>
+mosquitoes on Dean and not carrying out an inoculation with an infected mosquito.<lb/>
+This might well have happened as Agramonte states that he was in another room when<lb/>
+Lazear began his conversation with Dean.</p>
+<p><hi>Thayer's Obituary of Lazear, Johns Hopkins Bulletin, November 1900</hi>.</p>
+<p>Page 290-291: Thayer erroneously gives the date of Lazear's death as September 26.<lb/>
+Actually it was 8:45 p.m., September 25. Kelly, page 271, also gave the wrong data<lb/>
+for Lazear's death as September 28. Fortunately the date was corrected on the bronze<lb/>
+tablet later erected at Hopkins but in Cuba I saw a tablet to Lazear in which not only<lb/>
+was the date of death wrong, but Lazear's name was not even given correctly.</p>
+<p>Kelly, page 248, gives the date of Reed's death as November 22. Actually, Reed died<lb/>
+at 2:05 a.m., Sunday morning, November 23 (see Truby, page 212). It is surprising<lb/>
+to me that men who should have been more careful with such important historical dates<lb/>
+as the death of Lazear and Reed were careless. What probably happened is that on<lb/>
+Sunday morning, November 23, the work went around Washington that Reed had died &ldquo;last<lb/>
+night.&rdquo; Therefore some thought that Reed died the night of the 22nd instead of early<lb/>
+the morning of the 23rd. Something similar may have explained Thayer's error. Lazear<lb/>
+died the evening of the 25th. It became known in Baltimore the 26th, but why Kelly's<lb/>
+date for Lazear's death is so far off, I don't know. These just go to show that a<lb/>
+historian can trust nobody, as witness the following extracts, from letters from<lb/>
+Mrs. Lazear herself about her husband, which letters I have. On August 27, 1940,<lb/>
+presumably quoting the honor roll and official Army register, Mrs. Lazear stated that<lb/>
+&ldquo;Following graduation from the University of Maryland in 1892, Doctor Lazear did post-<lb/>
+graduate work in the Pasteur Institute of Paris...&rdquo; Lazear's widow did not pick up<lb/>
+the error. He graduated in 1889 from the Academic Department from Johns Hopkins, in<lb/>
+1892 from Columbia Medical College and if he did any postgraduate work at the Pasteur<lb/>
+Institute it was for a relatively short time.</p>
+<p>Under date of February 14, 1941, Mrs. Lazear sent me a copy of some biographical notes<lb/>
+which she had previously sent to Doctor Thayer. This note also contains several errors<lb/>
+in dates, among them that Lazear studied at the University of Edinburgh in 1893.<lb/>
+Actually, he studied there for a few weeks in 1890. Obviously Mrs. Lazear did not know<lb/>
+the details of Lazear's pre-married life.</p>
+<p>The diary of Doctor Lazear's mother, who remarried and became Mrs. Schweitzer, shows<lb/>
+that Lazear was in Paris from April 21 to 23, 1895 and again during May and June, 1895.</p>
+<p>I later asked the Lazear family if he had done any mosquito work in Italy as suggested<lb/>
+by Agramonte's statement, Senate Document, page 25, and Truby's book, page 116.<lb/>
+Doctor Lazear's widow and his son Houston, told me that they thought he had not.<lb/>
+Doctor Lazear had merely toured Italy with his mother, which is certainly borne out<lb/>
+by the diary.</p>
+<p>Letter of Thayer to Mrs. Lazear, June 29, 1904: This is a most interesting letter<lb/>
+showing that Thayer knew something about many of the points listed above. In particu-<lb/>
+lar, he mentions Agramonte's published reaction to an article by Carroll. Please<lb/>
+read Agramonte's reaction as published in the J.A.M.A., June 13, 1903. I have a<lb/>
+photostatic copy of the original manuscript of Agramonte's article dated Havana, May 30,<lb/>
+1903. Please note Johns Hopkins Bulletin, December 1904 and Carroll's comments about<lb/>
+Lazear's contribution and death. On this occasion Carroll was most sympathetic with<lb/>
+<pb n="15" id="f04365018"/>
+Mrs. Mary Standlee<lb/>
+Page 15<lb/>
+August 4, 1951<lb/>
+Lazear and displayed an attitude in shape contrast to that exhibited in his letter to<lb/>
+his wife, December 17, 1900. See Hemmeter, Janus, page 169, book page 331. Also<lb/>
+note that Carroll spoke of Lazear as follows: &ldquo;...and as a result of his own individual<lb/>
+work, he enjoyed the satisfaction of producing the first two authentic cases of ex-<lb/>
+perimental yellow fever on record. Then, with the full knowledge...&rdquo; Later Carroll<lb/>
+stated. &ldquo;Before his (Lazear's) removal he turned over to me his notes<lb/>
+covering all attempts at mosquito inoculation...&rdquo; This does not give with Truby's<lb/>
+statements to me, see page 110, his book. General Truby has stated to me that Lazear's<lb/>
+notes were given to him (Truby). Lazear, of course, had more than one notebook. One<lb/>
+was found a few years ago, previously not identified, in the New York Academy of<lb/>
+Medicine and is still there. The important one, the pocket notebook, disappeared<lb/>
+and has never been recovered. I have a strong suspicion as to where it is.</p>
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>P. S. Hench, M.D.</signed>
+PSH:alc<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

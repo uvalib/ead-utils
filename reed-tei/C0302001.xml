@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from L. O. Howard to Henry Rose Carter, April 5, 1923</title>
+<title type="gmd">[electronic resource] </title>
+<author>Howard, L. O.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-04-05</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Henry Rose</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1923-04-05">April 5, 1923</date>
+<idno rend="suppress">C0302001</idno>
+<title>Letter from L. O. Howard to Henry Rose Carter, April 5, 1923</title>
+</bibl>
+</head>
+<p>Howard provides information to Carter on appropriate Latin terms used to reference the &ldquo;yellow fever mosquito.&rdquo;</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-04-05">
+<head>Letter from L. O. Howard to Henry Rose Carter, April 5, 1923</head>
+<pb n="1" id="fC0302001"/>
+<opener>
+Howard<lb/>
+UNITED STATES DEPARTMENT OF AGRICULTURE,<lb/>
+BUREAU OF ENTOMOLOGY,<lb/>
+WASHINGTON, D. C.<lb/>
+<dateline>
+<date value="1923-04-05">April 5, 1923.</date>
+</dateline><lb/>
+Dr. H. R. Carter,<lb/>
+2121 California Street, N.W.,<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Doctor Carter:</salute>
+</opener>
+<p>I have yours of the 3rd, and am returning the two en-<lb/>
+closures. You are a <hi rend="underline">very</hi> careful man to have come to the Bureau<lb/>
+and looked up <hi rend="underline">aegypti</hi>. Most people would have taken my word for<lb/>
+it.</p>
+<p>I don't like to think that you will continue in your book<lb/>
+the use of the expression &ldquo;the Stegomyia&rdquo; as a vernacular name<lb/>
+for the yellow fever mosquito. If you don't like <add>&ldquo;</add><hi rend="underline">A. aegypti</hi>,<add>&rdquo;</add><lb/>
+why don't you refer to it simply as <add>&ldquo;</add>the yellow fever mosquito?<add>&rdquo;</add><lb/>
+That is what I have done in my lectures and in the few articles<lb/>
+I have written recently.</p>
+<p>As to your non-use of <hi rend="underline">aegypti</hi> because it is a genitive form<lb/>
+and not a nominative form, the reason becomes ineffective when<lb/>
+we consider (and this is the general view held by nearly all<lb/>
+systematic zoologists) that a name is a name after it has once<lb/>
+been established, no matter what its derivation may have been.<lb/>
+We refer to the specific name as representing a definite thing,<lb/>
+that is, the species; and we stick in the generic abbreviation<lb/>
+simply to fix it more closely, especially with a specific name<lb/>
+which is commonly used in different families and <unclear><add>g</add>enera</unclear>, such<lb/>
+as &ldquo;fuscus&rdquo; or &ldquo;alba&rdquo; or &ldquo;viridis.&rdquo; If I were you, I would<lb/>
+simply use the term &ldquo;yellow fever mosquito&rdquo; after having fully<lb/>
+<pb n="2" id="fC0302002"/>
+2.--Dr. Carter.<lb/>
+explained in the beginning that the yellow fever mosquito is<lb/>
+now known as <hi rend="underline">A&auml;edes</hi> (<hi rend="underline">Stegomyia</hi>) <hi rend="underline">aegypti</hi> <add>L.</add>; or, if you wish to<lb/>
+appear more scientific, occasionally vary it with &ldquo;<hi rend="underline">A. aegypti</hi>.&rdquo;</p>
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>L. O. Howard</signed>
+Chief of Bureau.<lb/>
+loh-wft<lb/>
+Enclosures.<lb/>
+<seg>
+P. S. I am very sorry that I missed you when you called<lb/>
+at this office on April 3rd.<lb/>
+</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

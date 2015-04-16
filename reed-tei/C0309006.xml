@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0309006">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">English translation [from Spanish] of letter from Sebastian Lorente to Wenceslao Pareja, June 15, 1925 [Enclosed in C0309004]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Lorente, Sebastian</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0309004</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1925-06-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Pareja, Wenceslao</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Sayago, Dr.</name>
+<name type="place">Lima (Peru)</name>
+<name type="place">Peru</name>
+<name type="place">Piura (Peru)</name>
+<name type="place">Guayaquil (Ecuador)</name>
+<name type="place">Ecuador</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">South America</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1925-06-15">June 15, 1925</date>
+<idno rend="suppress">C0309004</idno>
+<title>English translation [from Spanish] of letter from Sebastian Lorente to Wenceslao Pareja, June 15, 1925 [Enclosed in C0309004]</title>
+</bibl>
+</head>
+<p>Lorente believes the restrictions on commerce between Peru and Ecuador were based on unfounded rumors of yellow fever in northern Peru, and that such rumors should be substantiated before being acted upon in future.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1925-06-15">
+<head>English translation [from Spanish] of letter from Sebastian Lorente to Wenceslao Pareja, June 15, 1925 [Enclosed in <xref id="C0309004">C0309004</xref>]</head>
+<pb n="1" id="fC0309006"/>
+<opener>
+1<lb/>
+Translated from the Spanish, HRM<lb/>
+7-24-25<lb/>
+HRM<lb/>
+MINISTER OF THE INTERIOR (FOMENTO)<lb/>
+Department of Public Health<lb/>
+<dateline>
+Lima,<lb/>
+<date value="1925-06-15">June 15, 1925.</date>
+</dateline><lb/>
+<salute>My dear colleague:</salute>
+</opener>
+<p>I take pleasure in acknowledging receipt of your cablegram,<lb/>
+dated this day, which reads as follows:</p>
+<p>&ldquo;Health Director -Lima- Pardon failure to reply your<lb/>
+cablegram, waited confirmation from our representative Piura, Dr.<lb/>
+Sayago, who to-day communicates confirmation absence yellow fever north<lb/>
+Peru; we immediately suspended restrictions taken as precaution never<lb/>
+too excessive in such grave danger. Pareja- Health Director.&rdquo;</p>
+<p>I am very much pleased to know that Dr. Sayago, commissioned<lb/>
+by your Department to study the sanitary conditions of the Department of<lb/>
+Piura, has confirmed the absence of yellow fever in northern Peru and that<lb/>
+as a result of this confirmation your Department has proceeded to lift the<lb/>
+restrictions imposed on the traffic and commerce between Peruvian ports and<lb/>
+Guayaquil-restrictions which you issued when you credited the rumor that<lb/>
+yellow fever was present in this zone of the Peruvian coast.</p>
+<p>Now that the unpleasant situation created by these restrictions<lb/>
+has passed, please allow me, my distinguished colleague, to state that this<lb/>
+Department of Health appreciates the fact that there can be no exaggerated<lb/>
+precautions in defending a country against the importation of such an<lb/>
+epidemic disease as is yellow fever and that, therefore, the quarantine<lb/>
+measures imposed on the traffic are justified when there is real danger; but<lb/>
+this Department of Health also appreciates the fact that when this danger<lb/>
+exists only as a rumor, propagated by ill-intentioned persons, it is necessary<lb/>
+to investigate its reality, before dictating defensive measures causing very serious harm.</p>
+<pb n="2" id="fC0309007"/>
+<p>2</p>
+<p>Peru as well as Ecuador is a signatory of the Sanitary<lb/>
+Convention of Washington, and it, as you know, imposes on the signatory<lb/>
+countries the obligation of communicating to the rest the appearance in<lb/>
+its territory of the first confirmed case of yellow fever. Peru, which<lb/>
+respects international faith and complies with the co<del>n</del><add>v</add>enants in force, has<lb/>
+not communicated the presence of a case of yellow fever on this occasion,<lb/>
+as it has done on previous occasions, because this case has not been produced.<lb/>
+It, therefore, had the right to suppose that since it had not officially<lb/>
+communicated the presence of this disease in its territory, no credit would<lb/>
+have been given in the neighboring countries to the more or less unfounded<lb/>
+rumors which may have been produced; that, if these rumors succeeded in<lb/>
+arousing alarm, the health administrations of these countries would have<lb/>
+asked for official data through their representatives in Peru; and that the<lb/>
+official statement of your public health service published as in this case<lb/>
+not only in the local periodicals, available to the diplomatic and consular<lb/>
+representatives residing in Lima, but directly, in what might be called a <lb/>
+note of protest to the cablegram I sent you, denying the existence of yellow<lb/>
+fever in Peru, would suffice to calm your health administration and avoid the<lb/>
+quarantine measures which were imposed in Ecuador on everything that came from<lb/>
+Peru. (The language contradicts the evident meaning - translator)</p>
+<p>In addition, the rumor of the existence of yellow fever in Piura<lb/>
+which alarmed the Ecuadorian sanitary authorities lacked sufficient foundation<lb/>
+to be given credit. You very well know, my distinguished colleague, that<lb/>
+yellow fever does not appear in immune localities, except when the germ is<lb/>
+imported from other infected localities. Since, therefore, there is no yellow<lb/>
+fever at the present time in the countries on the west coast of South America,<lb/>
+how could yellow fever have originated in Piura? The rumor was, therefore,<lb/>
+a priori, unworthy of belief.</p>
+<pb n="3" id="fC0309008"/>
+<p>3</p>
+<p>Hoping that this communication is the starting point of<lb/>
+closer relations between the Departments of Health in your care and mine<lb/>
+in benefit of reciprocal interests, I remain,</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>(signed) SEBASTIAN LORENTE</signed>
+Director of Health<lb/>
+Dr. Wenceslao Pareja<lb/>
+Director of Public Health<lb/>
+Guayaquil<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

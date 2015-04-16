@@ -1,0 +1,887 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t03147001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Speech: Maj. Gen. William Crawford Gorgas and the Gorgas Hospital, by Edward T. Taylor, March 1, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>Taylor, Edward T.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03147001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-03-01</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Hull, Mortan D.</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">Goethals, George W.</name>
+<name type="person">Wilson, Woodrow</name>
+<name type="person">Doughty, Marie Cook</name>
+<name type="person">Coolidge, Calvin</name>
+<name type="place">Panama</name>
+<name type="hospital">Ancon Hospital (Panama)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>15 pp.</extent>
+<date value="1928-03-01">March 1, 1928</date>
+<idno rend="suppress">03147001</idno>
+<title>Speech: Maj. Gen. William Crawford Gorgas and the Gorgas Hospital, by Edward T. Taylor, March 1, 1928</title>
+</bibl>
+</head>
+<p>Taylor gives a history of Ancon Hospital in Panama and the reasons why so many patients were infected with yellow fever. Taylor states that Gorgas was entirely responsible for the cleaning up of the hospitals and the Panama environs, and suggests that the name of Ancon Hospital be changed to the General Gorgas Hospital. A biographical sketch of Gorgas is included.</p>
+</div1>
+<div1 type="book" n="1928-03-00">
+<p></p>
+</div1><pb n="1" id="f03147001"/>
+<titlePage>
+<docTitle> 
+<titlePart><hi>for Colonel Truby</hi>.<lb/>
+MAJ. GEN. WILLIAM CRAWFORD GORGAS<lb/>
+AND THE GORGAS HOSPITAL.<lb/>
+========================================</titlePart> 
+</docTitle>
+<byline>SPEECH<lb/>
+OF<lb/>
+<docAuthor>HON. EDWARD T. TAYLOR</docAuthor>
+OF COLORADO<lb/>
+IN THE<lb/>
+HOUSE OF REPRESENTATIVES</byline>
+<docDate>THURSDAY, MARCH 1, 1928</docDate>
+<docImprint>UNITED STATES<lb/>
+GOVERNMENT PRINTING OFFICE<lb/>
+WASHINGTON.<lb/>
+1928<lb/>
+95670--4189</docImprint>
+</titlePage>
+</front>
+<body>
+<pb n="2" id="f03147002"/>
+<pb n="3" id="f03147003"/>
+<div1 type="chapter" n="1"> 
+<head>SPEECH<lb/>
+OF<lb/>
+HON. EDWARD T. TAYLOR<lb/>
+OF COLORADO</head>
+<p>------------</p>
+<p>The House in Committee of the Whole House on the state of the<lb/>
+Union had under consideration the bill (H. R. 11577) making appro-<lb/>
+priations for the Department of Agriculture for the fiscal year ending<lb/>
+June 30, 1929, and for other purposes.</p>
+<p>Mr. TAYLOR of Colorado. Mr. Speaker and ladies and gen-<lb/>
+tlemen of the House, I am going to ask your indulgence a few<lb/>
+minutes to informally talk to you on a matter of sentiment, of<lb/>
+national pride.</p>
+<p>My wife and I spent the recent holiday recess of Congress,<lb/>
+as we have several times before, on a trip to Panama. While<lb/>
+there we again visited the wonderful United States Government<lb/>
+hospital on the Canal Zone, on our own soil and under our own<lb/>
+flag. I want to give you a brief description of that hospital<lb/>
+and the impressions it made upon me.</p>
+<p>Having in recent years had quite a varied experience with<lb/>
+the surgical equipment of numerous hospitals, both Government<lb/>
+and private, I feel that I can qualify as an unofficial and non-<lb/>
+professional expert on hospitals.</p>
+<p>THE ANCON HOSPITAL</p>
+<p>In 1883 the first French canal company built the old Ancon<lb/>
+Hospital on terraces laid out on a reservation of 80 acres on the<lb/>
+north and northeast slopes of an extinct volcano about 650 feet<lb/>
+high and known as Ancon Hill. The word Ancon is derived<lb/>
+from a Greek word meaning an elbow, or a prominent point.<lb/>
+It is a splendid and healthy location facing the city and bay<lb/>
+of Panama. The hospital was operated by the French Sisters<lb/>
+of St. Vincent de Paul. From 1883 to 1889 when the French<lb/>
+did their most active work on the canal this hospital was filled<lb/>
+with patients. There were more than 5,000 deaths in the hos-<lb/>
+pital and about one-fourth of them were caused by yellow fever<lb/>
+quite largely contracted after entering the hospital. In fact,<lb/>
+this hospital itself became one of the principal centers for the<lb/>
+propagation and spread of yellow fever, because it was not<lb/>
+then known that this disease is communicated by the stegomyia<lb/>
+mosquito, which breeds only in comparatively clear and clean<lb/>
+water. The French sisters beautified the grounds with many<lb/>
+ornamental plants and flowers and to protect them from the<lb/>
+myriads of ants that abound on the zone they surrounded<lb/>
+their flower beds with a concrete curb grooved to hold a ribbon<lb/>
+of water. Not only that but the feet of the cots were placed<lb/>
+in little pans of water to keep the ants and other insects from<lb/>
+crawling up, and the attendants seem to have never noticed the<lb/>
+mosquito wigglers swarming in all the stagnant water in all<lb/>
+95670--4189<lb/>
+(3)<lb/>
+<pb n="4" id="f03147004"/>
+4<lb/>
+these pans and ornamental bowls of flowers. The wards were<lb/>
+not even screened and when yellow-fever patients were brought<lb/>
+into the hospital the mosquitoes bred there would promptly<lb/>
+suck the poison from their blood and quickly spread it to all<lb/>
+the other patients. The yellow-fever ward was known as the<lb/>
+St. Charles, and it is authoritatively stated that more people<lb/>
+died from yellow fever in this building than in any other hos-<lb/>
+pital in the world. Practically one-third of all the white em-<lb/>
+ployees of the French company died of yellow fever and per-<lb/>
+nicious malaria.</p>
+<p>The hospital became a horrible death trap, and remained so<lb/>
+until General Gorgas went there. Fortunately for the many<lb/>
+thousands that might otherwise have died in this hospital, the<lb/>
+old French company became utterly bankrupt in 1889, and from<lb/>
+that time for 15 years, until the possession of the canal and all<lb/>
+the French property was turned over to the United States in<lb/>
+the spring of 1904, the work on the canal was only carried on<lb/>
+in a perfunctory manner, and the use of this hospital was<lb/>
+luckily insignificant. From 1898 until 1902, General Gorgas<lb/>
+had been the chief sanitary officer of Habana. In that capacity<lb/>
+he was in close contact with the Walter Reed board in its in-<lb/>
+vestigations into the cause and manner of transmission of yel-<lb/>
+low fever, and he so vigorously put the discoveries of the board<lb/>
+into practical application that in seven and a half months, from<lb/>
+February 1, 1901, to September 15, 1901, he completely eradi-<lb/>
+cated yellow fever from Habana, where it had existed continu-<lb/>
+ously for over 150 years. He changed Habana from one of the<lb/>
+worst pest holes in the world to the beautiful healthful city<lb/>
+it is to-day. In March, 1904, General Gorgas with three asso-<lb/>
+ciates appointed at his request--John W. Ross, Maj. Louis A.<lb/>
+Legarde, and Maj. Cassius E. Gillette--was ordered to accom-<lb/>
+pany the Panama Canal Commission as its sanitary adviser for<lb/>
+the purpose of protecting the force during the construction of<lb/>
+the canal. He promptly made an investigation and made a de-<lb/>
+tailed report of what he and his advisers deemed necessary to<lb/>
+clean up that zone and protect the officials and employees; and<lb/>
+as a result he was, in April, 1904, ordered to report to the<lb/>
+Panama Canal Commission as the chief sanitary officer for the<lb/>
+Isthmus. The French company formally transferred the title<lb/>
+to all the canal property to the United States on May 4, 1904,<lb/>
+and immediately thereafter General Gorgas began work, and he<lb/>
+loyally stuck to it day and night for 10 years. In all the his-<lb/>
+tory of the world there has never been a more gigantic or im-<lb/>
+portant task placed upon any one man. We were very soon to<lb/>
+have 40,000 employees on the Isthmus, and their lives were in<lb/>
+his hands.</p>
+<p>In the olden days the Isthmus of Panama had been the scene<lb/>
+of unspeakable villainies, massacres, piracies, and human sla-<lb/>
+very in its most brutal forms. The whole 40-mile stretch, com-<lb/>
+posing what is now the Canal Zone, was known throughout the<lb/>
+world as the &ldquo;white man's grave.&rdquo; It was one sweltering<lb/>
+rendezvous of death and disease. In all the world there was<lb/>
+perhaps not concentrated in any single spot so much disease.<lb/>
+The Isthmus was largely a damp tropical jungle, intensely hot,<lb/>
+swarming with mosquitoes, snakes, lizards, alligators, and all<lb/>
+manner of reptile and insect life covered this oozy ground.<lb/>
+It was the home of yellow fever, typhus, malaria, and dysentery.<lb/>
+95670--4189<lb/>
+<pb n="5" id="f03147005"/>
+5<lb/>
+At each end of this pestilent neck of land was a small city,<lb/>
+Colon on the Atlantic side and Panama on the Pacific, both<lb/>
+without underground sewers or piped or clean drinking water.<lb/>
+It was a dark and gloomy jungle, the breeding place of all kinds<lb/>
+of tropical diseases, especially yellow fever and malaria. At<lb/>
+one time 500 young engineers came from France and went to<lb/>
+work in the swamps, and not one of them lived to draw his<lb/>
+first month's pay. There is a record of the death of 22,819<lb/>
+laborers and no one will ever know the number of unrecorded<lb/>
+deaths. It was the stalking ground of death, with the rainy<lb/>
+season lasting from about April 15 to December 15, when<lb/>
+the people died of yellow fever in four or five days, and the<lb/>
+dry season lasting the other four months, when they died of<lb/>
+pernicious fever in from 24 to 36 hours. Epidemics always<lb/>
+took place whenever the Isthmus was crowded with strangers.<lb/>
+This was the appalling condition confronting General Gorgas<lb/>
+and his little band of assistants when our Government paid<lb/>
+$40,000,000 for it and took over the Canal Zone in May, 1904.<lb/>
+Our engineers had the skill, our people had the ambition, and<lb/>
+our Government had the money to build the canal. But it<lb/>
+never would have been built without the genius of General<lb/>
+Gorgas. Within less than two years after he obtained the<lb/>
+necessary help and supplies he exterminated the mosquitoes,<lb/>
+eradicated yellow fever and malaria, and cleaned up the zone<lb/>
+and made possible the building of the canal. Our country would<lb/>
+never have tolerated the appalling loss of life--one-third of<lb/>
+the entire white population--that the French suffered. We<lb/>
+would have been compelled to select Nicaragua for the con-<lb/>
+struction of the canal, and the Isthmus of Panama would be<lb/>
+to-day in substantially the same condition that it was 25<lb/>
+years ago.</p>
+<p>The Canal Zone is to-day healthier than the average Ameri-<lb/>
+can community. And it is occupied by many thousands of<lb/>
+healthy and contented American citizens who are helping to<lb/>
+maintain and operate the great canal; but it is doubtful if any<lb/>
+American citizens or many people of any kind would be on<lb/>
+the Isthmus to-day if the splendid work of General Gorgas had<lb/>
+not been performed.</p>
+<p>When he took charge he immediately tore out the old water<lb/>
+pots and troughs of the old Ancon Hospital that had been pro-<lb/>
+lifically breeding the yellow fever for over 20 years, and<lb/>
+screened the wards, and completely eradicated the mosquito<lb/>
+and the yellow-fever breeding in that hospital.</p>
+<p>Maj. Louis A. Legarde, who had come there with General<lb/>
+Gorgas, was at once installed as the first superintendent of the<lb/>
+hospital.</p>
+<p>Under the general's direction, and the immediate supervision<lb/>
+of Major Legarde, the work of cleaning up the grounds and<lb/>
+repairing the buildings was at once begun. The old wooden<lb/>
+buildings that had been built over 20 years before, and most<lb/>
+of them little used or kept up, were torn down or repaired,<lb/>
+rebuilt, remodeled, and greatly enlarged, and many new build-<lb/>
+ings were built; so that in a comparatively brief period there<lb/>
+were within the hospital reservation about one hundred suit-<lb/>
+able and modern buildings, with a total capacity of 1,200<lb/>
+patients. Our Government has spent many millions of dollars<lb/>
+upon this hospital, substituting modern and handsome concrete<lb/>
+95670--4189<lb/>
+<pb n="6" id="f03147006"/>
+6<lb/>
+buildings for the old frame structures, and putting in modern<lb/>
+surgical and other equipment. For many years it has been<lb/>
+known as &ldquo;the New Ancon Hospital,&rdquo; and it has been pro-<lb/>
+claimed by many to be the most beautiful hospital in the world.<lb/>
+Every American citizen who can do so should visit the Canal<lb/>
+Zone and see this splendid American hospital that is now well<lb/>
+known throughout and patronized by many people of Central<lb/>
+and South America.</p>
+<p>This New Ancon Hospital is a magnificent monument to the<lb/>
+spirit of America and the genius of General Gorgas.</p>
+<p>On my recent visit, as I walked through some of the mag-<lb/>
+nificent buildings and over the exquisitely beautiful grounds<lb/>
+of this great hospital, as I had done several times in former<lb/>
+years with General Gorgas himself, and remembered the su-<lb/>
+preme pride that he took in the buildings and the great devel-<lb/>
+opment and modern equipment and wonderfully beneficial use<lb/>
+and great international success of that hospital, and when I<lb/>
+thought to myself of the several other splendid Government<lb/>
+hospitals, including the almost equally beautiful Letterman<lb/>
+Hospital at the Presidio of San Francisco, named after Major<lb/>
+Letterman; and the Tripler Hospital at Honolulu, named after<lb/>
+General Tripler; and the great Walter Reed Hospital adjoining<lb/>
+our Capital City, named after Maj. Walter Reed; and also sev-<lb/>
+eral other fine hospitals named after Army physicians who ren-<lb/>
+dered distinguished services to our country, and reflected that<lb/>
+the name &ldquo;Ancon&rdquo; had no particular meaning or signification<lb/>
+that at all warranted that great hospital bearing that name, the<lb/>
+thought came most forcibly to me that this hospital, made pos-<lb/>
+sible only by General Gorgas, should, as a proper recognition<lb/>
+of his services and his genius, and by every reason of fitness,<lb/>
+appropriateness, justice, national pride, and patriotism, be<lb/>
+named the Gorgas Hospital.</p>
+<p>I have scarcely ever in my life had a thought come to me so<lb/>
+spontaneously and so forcibly as that did at that time. I could<lb/>
+not conceive of how any red-blooded American could object to a<lb/>
+tribute of that kind, that is so preeminently fair and so richly<lb/>
+merited. No hospital in the world ever more justly deserved to<lb/>
+bear the name of its creator.</p>
+<p>It seemed to me that if there are a hundred and twenty mil-<lb/>
+lion people under our flag that there ought to be that many<lb/>
+perfectly good reasons why this hospital, which he rebuilt and<lb/>
+where he lived and so grandly served his country, should bear<lb/>
+the name of one of the greatest men our Nation or the world<lb/>
+has ever known. The change will not cost one dollar. It will<lb/>
+not injure one human being. It will not affect a dollar's worth<lb/>
+of property rights. Congress will honor itself, and each of us<lb/>
+will honor our country and ourselves, by making this change. I<lb/>
+firmly believe our act will be an inspiration to the youth of<lb/>
+America as long as the Stars and Stripes float over our country.</p>
+<p>For the purpose of attempting to carry out that thought, on<lb/>
+my return to Washington I wrote and introduced H. J. Res. 175<lb/>
+on January 20, 1928, which reads as follows:</p>
+<p>Joint resolution to change the name of the Ancon Hospital in the<lb/>
+Panama Canal Zone to the General Gorgas Hospital</p>
+<p><hi rend="italic">Resolved, etc.</hi>, That in recognition of his distinguished service to hu-<lb/>
+manity and as a fitting perpetuation of the name and memory of Maj.<lb/>
+Gen. William Crawford Gorgas, from and after the passage of this act the<lb/>
+95670--4189<lb/>
+<pb n="7" id="f03147007"/>
+7<lb/>
+Government hospital within the Canal Zone, near the city of Panama,<lb/>
+heretofore known as the Ancon Hospital, shall hereafter be known and<lb/>
+designated on the public records as the General Gorgas Hospital.</p>
+<p>SEC. 2. That the change in the name of the said hospital shall in no<lb/>
+wise affect the rights of the Federal Government, or any municipality,<lb/>
+corporation, association, or person; and all records, maps, and public<lb/>
+documents of the United States in which said hospital is mentioned or<lb/>
+referred to under the name of the Ancon Hospital or otherwise, shall<lb/>
+be held to refer to the said hospital under and by the name of the<lb/>
+General Gorgas Hospital.</p>
+<p>The resolution was referred to the Committee on Military<lb/>
+Affairs and that committee promptly and unanimously favorably<lb/>
+reported the resolution without any amendment. When it was<lb/>
+called to the attention of the Committee on Interstate and<lb/>
+Foreign Commerce objection was made to the jurisdiction of<lb/>
+the Military Affairs Committee on the ground that matters<lb/>
+pertaining to the Panama Canal Zone are, generally speaking,<lb/>
+handled by the Committee on Interstate and Foreign Commerce.<lb/>
+Thereupon Speaker LONGWORTH referred the resolution to the<lb/>
+latter committee, which likewise very promptly and unanimously<lb/>
+favorably reported the resolution. The committee recommended<lb/>
+one amendment, namely, that it be called &ldquo;The Gorgas Hos-<lb/>
+pital&rdquo; instead of &ldquo;The General Gorgas Hospital.&rdquo; That<lb/>
+amendment is perfectly satisfactory to Mrs. Gorgas and to me<lb/>
+and I think to all of the general's friends. No title is necessary<lb/>
+to his fame. The world knows only one Gorgas.</p>
+<p>I may say that I have been very much gratified to receive a<lb/>
+large number of commendations of this resolution, and I espe-<lb/>
+cially appreciate one from the widow of General Gorgas, as<lb/>
+follows:</p>
+<p>1661 CRESCENT PLACE,<lb/>
+<hi rend="italic">Washington, D. C.</hi></p>
+<p>Hon. EDWARD T. TAYLOR,<lb/>
+<hi rend="italic">House of Representatives, United States</hi>.</p>
+<p>MY DEAR MR. TAYLOR: I was very much surprised and pleased to<lb/>
+hear that you had introduced the joint resolution in the House of Repre-<lb/>
+sentatives to change the name of Ancon Hospital, in the Panama Canal<lb/>
+Zone, to the General Gorgas Hospital.</p>
+<p>It is most gratifying to have this recognition of Doctor Gorgas's<lb/>
+work in Panama, and I hope this bill may pass.</p>
+<p>We lived at Ancon the 10 years we were on the Isthmus, the first 3<lb/>
+years in one of his wards of the hospital. The place is full of memories,<lb/>
+and Doctor Gorgas loved it. That the hospital may hereafter bear his<lb/>
+name pleases me beyond measure.</p>
+<p>Many thanks to you, my dear Mr. TAYLOR, and to the Members, who<lb/>
+are interesting themselves in this measure.</p>
+<p>Cordially.<lb/>
+MARIE D. GORGAS.</p>
+<p>JANUARY 26, 1928.</p>
+<p>Also a letter from Surg. Gen. Hugh S. Cumming as follows:</p>
+<p>TREASURY DEPARTMENT,<lb/>
+PUBLIC HEALTH SERVICE,<lb/>
+<hi rend="italic">Washington, January 27, 1928</hi>.</p>
+<p>Hon. EDWARD T. TAYLOR,<lb/>
+<hi rend="italic">House of Representatives, Washington, D. C.</hi></p>
+<p>MY DEAR MR. TAYLOR: My attention has just been directed to House<lb/>
+Joint Resolution 175, introduced by you for the purpose of changing the<lb/>
+95670--4189<lb/>
+<pb n="8" id="f03147008"/>
+8<lb/>
+name of the Ancon Hospital in the Panama Canal Zone to the General<lb/>
+Gorgas Hospital.</p>
+<p>This is a real inspiration, and I congratulate you for having thought<lb/>
+of such an appropriate memorial to this great sanitarian and adminis-<lb/>
+trator, whose name will always be inseparably connected with health<lb/>
+and sanitation on the Canal Zone.</p>
+<p>Sincerely yours,<lb/>
+H. S. CUMMING, <hi rend="italic">Surgeon General</hi>.</p>
+<p>When the bill was before the Committee on Military Affairs<lb/>
+the following letter was addressed by Major General Ireland,<lb/>
+Surgeon General of the War Department, to Mr. JAMES, the act-<lb/>
+ing chairman of that committee:</p>
+<p>WAR DEPARTMENT,<lb/>
+OFFICE OF THE SURGEON GENERAL,<lb/>
+<hi rend="italic">Washington, January 23, 1928</hi>.</p>
+<p>Hon. W. FRANK JAMES,<lb/>
+<hi rend="italic">House of Representatives, Washington, D. C.</hi></p>
+<p>MY DEAR MR. JAMES: In compliance with your request, I have to<lb/>
+state that House Joint Resolution 175, introduced into the House of<lb/>
+Representatives on January 20, 1928, by Mr. TAYLOR of Colorado, to<lb/>
+change the name of Ancon Hospital to General Gorgas Hospital, has<lb/>
+been brought to my attention.</p>
+<p>It seems to me that this change of name would be a very appropriate<lb/>
+way to honor the memory of General Gorgas, who was the head of the<lb/>
+sanitary department on the Canal Zone during the entire time the canal<lb/>
+was under construction.</p>
+<p>May I say that Ancon Hospital does not belong to the War Depart-<lb/>
+ment, but was built and is administered by the Isthmian Canal<lb/>
+authorities.</p>
+<p>Very sincerely yours,<lb/>
+M. W. IRELAND,<lb/>
+<hi rend="italic">Major General, the Surgeon General</hi>.</p>
+<p>Mr. MORTON D. HULL. Will the gentleman yield?</p>
+<p>Mr. TAYLOR of Colorado. Yes; I yield to the gentleman<lb/>
+from Illinois.</p>
+<p>Mr. MORTON D. HULL. The gentleman is familiar with<lb/>
+the fact that there is a bill before the House for a Gorgas<lb/>
+memorial?</p>
+<p>Mr. TAYLOR of Colorado. Yes; and I hope that research<lb/>
+laboratory may be built. The idea is a splendid one. Of<lb/>
+course, that has nothing to do with the name of this hospital.<lb/>
+That memorial building is proposed to be erected in the Republic<lb/>
+of Panama at some distance and on the opposite side of the city<lb/>
+of Panama from this hospital, as I understand it. If I have<lb/>
+time, I will refer to that matter again before I conclude.</p>
+<p>I hope some day to see a monument or memorial building or<lb/>
+some kind of a structure at some suitable place on the zone or<lb/>
+some appropriate recognition of the splendid services of all the<lb/>
+great engineers and others who helped to construct that canal:<lb/>
+John F. Stevens; Gen. George W. Goethals, chief engineer and<lb/>
+chairman of the commission, who passed away a few days ago;<lb/>
+and Col. William S. Sibert, the genius of the locks, whose crea-<lb/>
+tion of the Gatun Dam and locks and lake added glory to<lb/>
+American engineering; and Col. H. F. Hodges and Rear<lb/>
+Admiral H. H. Rousseau, of the United States Navy, and many<lb/>
+others.</p>
+<p>95670--4189</p>
+<pb n="9" id="f03147009"/>
+<p>9</p>
+<p>Colonel Gaillard is the only one of all of them that I know<lb/>
+of who has received a substantial, well-deserved, and lasting<lb/>
+monument to his memory and memorial to his services on the<lb/>
+zone. President Wilson immortalized Gaillard's fame as an<lb/>
+engineer by issuing an Executive order changing the name of<lb/>
+Culebra Cut and naming it after Colonel Gaillard, as follows:</p>
+<p>EXECUTIVE ORDER</p>
+<p>It is hereby ordered that the portion of the Panama Canal through<lb/>
+the continental divide heretofore known as &ldquo;Culebra Cut&rdquo; shall here-<lb/>
+after be named &ldquo;Gaillard Cut&rdquo; in honor of the late Lieut. Col. D. D.<lb/>
+Gaillard, Corps of Engineers, United States Army.</p>
+<p>As a member of the Isthmian Canal Commission from March 16, 1907,<lb/>
+to December 5, 1913, Lieutenant Colonel Gaillard was in charge of the<lb/>
+work in Culebra Cut until its virtual completion, being compelled to<lb/>
+abandon his duties in July, 1913, through an illness which culminated<lb/>
+in his death on December 5, 1913. His period of Panama Canal service<lb/>
+included the years of most active construction work. He brought to the<lb/>
+service trained ability of the highest class, untiring zeal, and unswerving<lb/>
+devotion to duty.</p>
+<p>I deem it a fitting recognition of Lieutenant Colonel Gaillard's service<lb/>
+to the country to rename in his honor the scene of his life's triumph.</p>
+<p>WOODROW WILSON.</p>
+<p>THE WHITE HOUSE, <hi rend="italic">April 27, 1915</hi>.</p>
+<p>There are three great names that will always stand out in<lb/>
+history in connection with the construction of the Panama<lb/>
+Canal. The greatest act, an one that will be longest remem-<lb/>
+bered, in my judgment, in the life of President Roosevelt, was<lb/>
+in making it possible for the Panamanian Republic to main-<lb/>
+tain its independence and its existence as a republic, and in<lb/>
+taking over the gigantic French fiasco on the Isthmus and<lb/>
+making it possible for our country to get possession of the<lb/>
+Canal Zone. I think that was the greatest benefit to our coun-<lb/>
+try and to humanity of the many acts in his long and mar-<lb/>
+velously useful and vigorous career.</p>
+<p>Next in order is General Gorgas, who is given the credit<lb/>
+by every nation in the world, of making it possible for our<lb/>
+country to build the canal at that place.</p>
+<p>And third, General Goethals, who came there after the work<lb/>
+of General Gorgas had made it possible, and was the iron hand,<lb/>
+the executive force, and the dominating spirit over the 40,000<lb/>
+employees that drove the work to a successful completion.</p>
+<p>Each of those three men was ideally suited for the great<lb/>
+task he performed, and not one of their names has been pre-<lb/>
+served or honored in any suitable way upon that scene of his<lb/>
+greatest life work.</p>
+<p>Personally, I think the canal ought to have been called the<lb/>
+Roosevelt Canal; and I feel that one of the great locks should<lb/>
+be named after General Goethals, another one after General<lb/>
+Sibert, and that the other lock should be named after the<lb/>
+next most deserving person on this great work.</p>
+<p>I believe monuments of that kind and at that place would<lb/>
+be much more fitting, suitable, and lasting than any others.<lb/>
+Stone monuments and bronze statues are temporary and fleet-<lb/>
+ing, and little noticed these days. I do not think great con-<lb/>
+structions of that kind should permanently retain insignificant<lb/>
+and meaningless names. I think this would recognize and<lb/>
+95670--4189<lb/>
+<pb n="10" id="f03147010"/>
+10<lb/>
+encourage patriotism. I feel it is a worth-while idea which<lb/>
+has no relation to politics or money-making or other ulterior<lb/>
+purpose.</p>
+<p>Those great works of engineering skill and genius would be a<lb/>
+living and lasting monument to their memory for possibly<lb/>
+several hundred years, or at least until our country makes that<lb/>
+a sea-level canal, which we will do some time.</p>
+<p>However, these are matters that Congress will, I am sure,<lb/>
+suitably handle some time.</p>
+<p>General Gorgas stands out alone. He was not an engineer.<lb/>
+He was a physician; he became the whole world's physician.<lb/>
+He made possible the building of the &ldquo;The eighth wonder of the<lb/>
+world,&rdquo; the greatest physical undertaking since the building of<lb/>
+the Egyptian pyramids. No one would have ever had any<lb/>
+career on the Zone, other than death, if Gorgas had not first<lb/>
+cleaned and redeemed that 400-year-old cesspool of disease be-<lb/>
+fore they went there. In two years he converted that horrible<lb/>
+jungle into a delightful health resort, which it has been ever<lb/>
+since.</p>
+<p>He passed away nearly eight years ago and our country has<lb/>
+not yet, to my knowledge, erected any monument or even a<lb/>
+tablet to his memory.</p>
+<p>That great hospital that he first made possible and then<lb/>
+supervised the construction of, is his natural, permanent, and<lb/>
+most suitable, proper, and appropriate monument and memorial;<lb/>
+and that honor would not in any way conflict with or detract<lb/>
+from the just fame and glory of anyone else. It would be a<lb/>
+thousand times more appropriate than a stone monument that<lb/>
+would cost a million dollars. From my acquaintance with him<lb/>
+I do not believe he would care much for a stone monument or a<lb/>
+bronze statue. I believe if he were alive he would very much<lb/>
+more appreciate the actions of Congress in passing this resolu-<lb/>
+tion than in any of the many other honors that Congress has<lb/>
+conferred upon him.</p>
+<p>BIOGRAPHICAL SKETCH</p>
+<p>I trust the Members of the House would be pleased to have<lb/>
+your memories refreshed by a very brief and informal reitera-<lb/>
+tion of a few of the main features of the life and services of<lb/>
+General Gorgas. Every one should read his work on &ldquo;Sanita-<lb/>
+tion in Panama,&rdquo; and also the book entitled &ldquo;William Crawford<lb/>
+Gorgas, His Life and Work.&rdquo;</p>
+<p>I am compelled by my limited time to speak rapidly and from<lb/>
+memory only, and may not be technically exact. He was born<lb/>
+at Mobile, Ala., October 3, 1854. He was the son of Gen.<lb/>
+Josiah Gorgas, chief of ordnance of the Southern Confederacy<lb/>
+during the Civil War, and who was afterwards president of<lb/>
+the University of the South, at Sewanee, Tenn. And also<lb/>
+president of the University of Alabama.</p>
+<p>His mother was a daughter of Governor Gayle, of Alabama.</p>
+<p>General Gorgas spent his boyhood days in part in Alabama<lb/>
+and, during the war, with his mother in Richmond, Va., and<lb/>
+afterwards in Baltimore, Md. He tried very hard, but failed<lb/>
+to get an appointment to West Point.</p>
+<p>He attended the University of the South and graduated in<lb/>
+1875, with an A. B. degree. He entered the Bellevue Hospital<lb/>
+Medical College of New York, from which he graduated with<lb/>
+a M. D. degree in 1879.</p>
+<p>95670--4189</p>
+<pb n="11" id="f03147011"/>
+<p>11</p>
+<p>On June 16, 1880, he enlisted in the Medical Department of<lb/>
+the United States Army as a first lieutenant.</p>
+<p>In 1885 he was sent to Brownsville, Tex., for service in con-<lb/>
+nection with an epidemic of yellow fever. In his work he<lb/>
+contracted yellow fever himself and came near dying, but<lb/>
+fortunately for the world he recovered and was thereafter<lb/>
+immune to that disease.</p>
+<p>He rendered such splendid services that he was promoted<lb/>
+to the rank of captain that year. While he was stationed at<lb/>
+Brownsville, a young lady, Miss Marie Cook Doughty, came<lb/>
+there to visit her sister, the wife of an Army officer. She was<lb/>
+taken with yellow fever; her recovery was pronounced hopeless;<lb/>
+her grave was dug; and Captain Gorgas had agreed to read<lb/>
+the funeral services the next day. Instead of that he suc-<lb/>
+ceeded in saving her life and married her, and she was his<lb/>
+constant companion and splendid helpmate from that time until<lb/>
+his death, 35 years afterwards, and she lives here in the city<lb/>
+of Washington at the present time. [Applause.]</p>
+<p>At the outbreak of the Spanish-American War in 1898 he went<lb/>
+to Cuba with our forces. He was promoted to the rank of<lb/>
+major, and as the chief sanitary officer of Habana from 1898 to<lb/>
+1902 he made the first actual practical demonstration in the<lb/>
+world of the eradication of yellow fever. Yellow fever met its<lb/>
+master in Habana for the first time in history. To Gorgas<lb/>
+belongs the credit of having originated and executed the<lb/>
+methods for the extermination of the stegomyia.</p>
+<p>For this distinguished service Congress promoted him to the<lb/>
+rank of colonel in 1903, and he was appointed Assistant Surgeon<lb/>
+General of the United States Army.</p>
+<p>As before stated, in May, 1904, he was appointed chief sani-<lb/>
+tary officer of the Panama Canal Zone, and held that position<lb/>
+10 years, from before work was commenced until the canal was<lb/>
+completed.</p>
+<p>In 1907 he was appointed a member of the Panama Canal<lb/>
+Commission; and in 1914 he was promoted to the position of<lb/>
+Surgeon General of the Army, with rank of brigadier general.</p>
+<p>His world-renowned work of wiping out yellow fever and<lb/>
+malaria from the Isthmus of Panama and cleaning up the cities<lb/>
+of Panama and Colon, exterminating the stegomyia mosquito,<lb/>
+and reducing the death rate to less than it was in any State or<lb/>
+city in the United States, and thereby, for the first time, mak-<lb/>
+ing it the healthy place it has been ever since, and making it<lb/>
+possible to build the canal, was the greatest and most far-<lb/>
+reaching and important work of his life. That was the greatest<lb/>
+triumph of his marvelous life.</p>
+<p>For that unparalleled service to his country and to the<lb/>
+world, Congress in 1915 gave him a vote of thanks and pro-<lb/>
+moted him to the rank of major general.</p>
+<p>On October 4, 1918, having reached the age limit of 65 years,<lb/>
+he was retired from the Army.</p>
+<p>From the time our country entered the World War, on April<lb/>
+6, 1917, until the armistice on November 11, 1918, as Surgeon<lb/>
+General of the entire United States Army of over 4,000,000<lb/>
+men, he made the greatest record that has ever been made by<lb/>
+such an officer in the world. He organized the greatest, best<lb/>
+equipped, and most complete and efficient Medical Corps in all<lb/>
+history. He had 35,000 officers and 250,000 enlisted personnel<lb/>
+95670--4189<lb/>
+<pb n="12" id="f03147012"/>
+12<lb/>
+under his command, and built, furnished, and equipped suffi-<lb/>
+cient hospitals in Europe and in the United States to properly<lb/>
+care for 4,000,000 men.</p>
+<p>For the first time in the history of our country, or any other<lb/>
+country it is believed, he had the Medical Corps definitely and<lb/>
+specifically specialized, so that all wounds, diseases, and com-<lb/>
+plaints of every kind were treated by a thoroughly competent<lb/>
+professional specialist in that line, and thereby reduced the<lb/>
+death rate in our Army to below that of any other army in<lb/>
+the war.</p>
+<p>From the time of his great success in Habana, and especially<lb/>
+after his world-famous achievements on the Isthmus of Panama,<lb/>
+he was constantly appealed to by nearly every nation to come<lb/>
+to them and exterminate the fever and malaria and redeem<lb/>
+their stricken districts as he had in Habana and Panama.</p>
+<p>From time to time, when he could get away for a short time,<lb/>
+he obtained temporary leave of absence and went to Ecuador,<lb/>
+Peru, Colombia, Brazil, Venezuela, South Africa, and other coun-<lb/>
+tries. After his retirement he was selected as the chief of the<lb/>
+Rockefeller yellow-fever foundation, and was constantly eradi-<lb/>
+cating disease-infected places in many countries.</p>
+<p>He had the supreme gratification of his life's hope and ambi-<lb/>
+tion to eradicate yellow fever from practically the entire world,<lb/>
+when at the invitation of the British Government, to investigate<lb/>
+some yellow-fever conditions on the West Coast of Africa, he,<lb/>
+on May 8, 1920, with his wife and personal staff, sailed for<lb/>
+London for that purpose. He reached London safely, and went<lb/>
+to Belgium and visited a few days with King Albert, who deco-<lb/>
+rated him with a gold medal in recognition of his services to<lb/>
+mankind, and then returned to London, where, on May 30, he<lb/>
+had a slight paralytic stroke. He was taken to the Queen Alex-<lb/>
+andra Military Hospital. King George had before that made<lb/>
+an appointment to see the general, and when the King learned of<lb/>
+the general's illness, he said:</p>
+<p>If General Gorgas is too ill to come to the palace to see me, I shall<lb/>
+go to the hospital to see him--</p>
+<p>And he did so, and personally presented the general the In-<lb/>
+signia of Knight Commander of the Most Distinguished Order of<lb/>
+St. Michael and St. George. My understanding is this order<lb/>
+of knighthood is the highest distinction that the King of England<lb/>
+can confer upon anyone not a British subject.</p>
+<p>On July 4, 1920, when throughout our country from Plymouth<lb/>
+Rock to the Golden Gate we were proudly celebrating our<lb/>
+national independence, in the serene Indian summer of life, at<lb/>
+the meridian of his fame, the angel of death beckoned him, and<lb/>
+his great soul passed to the great beyond.</p>
+<p>King George ordered a formal state funeral in St. Paul's<lb/>
+Cathedral, which was conducted with all the honors that could<lb/>
+be given a victorious British major general, which is the highest<lb/>
+honor that Britain could pay a distinguished American. A lead-<lb/>
+ing British periodical published the following description of the<lb/>
+funeral:</p>
+<p>A riderless horse walked up Ludgate Hill the other day behind its<lb/>
+sleeping master; and if a horse can feel and know what happens, its<lb/>
+heart must have been breaking--unless there came to it new strength in<lb/>
+the pride it felt in the sight of its master sleeping under the Stars and<lb/>
+Stripes on his way to St. Pauls.</p>
+<p>95670--4189</p>
+<pb n="13" id="f03147013"/>
+<p>13</p>
+<p>For what was happening that day up Ludgate Hill was a rare and<lb/>
+stirring thing. I looked down from the windows of the little house with<lb/>
+green shutters in the very shadow of the dome, and I thought that here,<lb/>
+indeed, was a public opinion of which our London and our country and<lb/>
+all the entire world might well be proud. For here was no great Eng-<lb/>
+lishman, no great Briton, going to his rest; here was a ragged, barefoot<lb/>
+boy of Baltimore being carried to St. Pauls after his life work was done.</p>
+<p>He had done for the world one of the greatest things that an Ameri-<lb/>
+can brain has ever done; he had made the Panama Canal after thou-<lb/>
+sands of people had died in the attempt.</p>
+<p>Now, think how he began his life. This is what he told us:</p>
+<p>&ldquo;I first came to Baltimore a ragged, barefoot little rebel, with empty<lb/>
+pockets and empty stomach. My father had gone south with Lee's army.<lb/>
+At the fall and destruction of Richmond my mother's house with all that<lb/>
+she had was burned, leaving her stranded with six small children. She<lb/>
+came to Baltimore and was cared for by friends. These memories are<lb/>
+vivid with me and can never be effaced.&rdquo;</p>
+<p>And the other day he rode up Ludgate Hill, sleeping his last sleep<lb/>
+on earth, wrapped in the Stars and Stripes. There were thousands of<lb/>
+men and women and children standing still, there were hundreds of men<lb/>
+in khaki passing by, there were ambassadors and other great people,<lb/>
+and the lonely woman who was on her way with her hero to conquer<lb/>
+disease in Peru when death took him from her. And there was the<lb/>
+riderless horse.</p>
+<p>All these came up Ludgate Hill, and as the sun poured down on this<lb/>
+ancient way, our hearts and ears throbbing with the solemn music of<lb/>
+the dead march, we knew that we were looking on the passing of a<lb/>
+man whose name would shine for ages in the history of our race.</p>
+<p>It seemed good that death should find him here, for so there came<lb/>
+our opportunity to do a great man honor. He passed through the<lb/>
+great door through which the sun streams into the nave of St. Pauls,<lb/>
+and there he lay with Nelson and Wellington and all that mighty host<lb/>
+who came this way and passed into the universe.</p>
+<p>They will take him to his own land, but in truth he belongs to us<lb/>
+all. He was one of life's great helpers, for he cleaned up foul places<lb/>
+and made them sweet, and now, as they said of Lincoln, &ldquo;he belongs to<lb/>
+the ages.&rdquo;</p>
+<p>The general's remains were brought home on an American<lb/>
+transport; the body lay in state for four days in Washington,<lb/>
+when it was buried with the highest military honors on one of<lb/>
+the most beautiful slopes of Arlington--the Westminster Abbey<lb/>
+of America's heroic military dead--overlooking the Capital of<lb/>
+the great Nation he loved and served so well.</p>
+<p>HIS CHARACTER AND FAME</p>
+<p>No words are sufficiently eloquent to do justice to the name<lb/>
+and fame of General Gorgas. I knew him for 11 years, not<lb/>
+intimately, but fairly well. I had brief visits with him on each<lb/>
+of several trips to the zone when the canal was in the course of<lb/>
+construction, and a number of times afterwards in Washington.<lb/>
+It was a rare privilege to know him and a genuine delight to<lb/>
+converse with him. There is nothing that I can say about him<lb/>
+that has not been frequently and more eloquently said by others.</p>
+<p>He was the most modest and mildest mannered great man<lb/>
+I have ever known. He had the engaging simplicity of the truly<lb/>
+great. He was quiet and unaffected, and always a courteous<lb/>
+and princely gentleman of the old school. His kindly and gra-<lb/>
+cious manner, his invariably courteous and considerate treat-<lb/>
+95670--4189<lb/>
+<pb n="14" id="f03147014"/>
+14<lb/>
+ment of all, endeared him to everyone. No one could resist<lb/>
+being attracted by the pleasing magnetism of his wonderful<lb/>
+personality. He was of a retiring disposition, and his sincerity<lb/>
+and honesty of purpose inspired universal admiration and<lb/>
+confidence.</p>
+<p>While his manners were always gracious and dignified, there<lb/>
+was always an individual suavity and a kindly smile. He per-<lb/>
+sonified and shed around him a light of good will, kindness,<lb/>
+fellow feeling, warm-heartedness, and the graciousness and<lb/>
+charming simplicity of a true man and a perfect gentleman. A<lb/>
+nobler man than whom never lived. He was transparently<lb/>
+honest.</p>
+<p>While he was the supreme head, the Surgeon General, and<lb/>
+chief commander of the 35,000 officers and the 250,000 enlisted<lb/>
+personnel under his command in the Medical Corps of the<lb/>
+American Army during the World War, he did not depend so<lb/>
+much upon giving orders as upon tactfully obtaining hearty and<lb/>
+enthusiastic cooperation. He was gentleness, fondness, and<lb/>
+poise personified. Yet underneath was the fixed determination<lb/>
+of a man who was sure of himself. He had a firm but gentle<lb/>
+hand. He had a genial and unaffected love for his fellow man,<lb/>
+and he was the most beloved medical officer in the United States<lb/>
+Army.</p>
+<p>Those truly noble traits were the secret of his marvelous<lb/>
+success and the affection that all had for him. He was indeed<lb/>
+a servant of mankind and a benefactor of humanity. He was a<lb/>
+citizen of the empire of humanity and of the kingdom of man.<lb/>
+Napoleon sold the great Louisiana Territory to our country for<lb/>
+a song because his army had been annihilated at Santo Domingo<lb/>
+by yellow fever.</p>
+<p>The name of Gorgas will go down in all history as the man<lb/>
+who stamped out of the civilized world forever that horrible<lb/>
+disease. He has freed countless millions from suffering and<lb/>
+premature death. He made this world safer for his fellow man.<lb/>
+The entire world is much richer and happier because he lived<lb/>
+and labored. Historians may differ as to what man has caused<lb/>
+the most deaths in the world, but they will never differ as to<lb/>
+who has saved the most lives. [Applause.]</p>
+<p>In my judgment, our country has produced probably only five<lb/>
+names that will go down in history and be revered as long as<lb/>
+the human race inhabits this planet. Those great names are<lb/>
+George Washington, Thomas Jefferson, Abraham Lincoln, Wil-<lb/>
+liam C. Gorgas, and Thomas A. Edison.</p>
+<p>The name of each of them throughout the world will always<lb/>
+be an inspiration, a symbol of genius, generosity, and service to<lb/>
+humanity.</p>
+<p>General Gorgas was America's ambassador of mercy to the<lb/>
+whole world. He was America's most distinguished citizen and<lb/>
+the world's greatest physician. His field was the human race<lb/>
+on this planet. He enriched science and life, and countless<lb/>
+posterity will call his name blessed.</p>
+<p>His greatest service to humanity was rendered on the Isthmus<lb/>
+of Panama, and that is and should be his memorial and his<lb/>
+monument for all time.</p>
+<p>He was the greatest benefactor the suffering world has ever<lb/>
+had. He filled the world with admiration for his unparalleled<lb/>
+genius and service to humanity. He belonged to and honored<lb/>
+95670--4189<lb/>
+<pb n="15" id="f03147015"/>
+15<lb/>
+the United States of America. But his fame and his life work<lb/>
+now belong to the entire human race. Every nation in the<lb/>
+world is proud of him, and nearly all of them have honored<lb/>
+him in some way. He not only served his country and his<lb/>
+generation nobly and grandly, but the billions of human beings<lb/>
+yet unborn will forever owe him an everlasting debt of grati-<lb/>
+tude. He was the greatest sanitarian the world has ever pro-<lb/>
+duced. He was the economic savior of Cuba and the redeemer<lb/>
+of the Tropics.</p>
+<p>His work and his fame are destined to grow with the years.<lb/>
+His life is a glory that stands apart, unrivaled and unap-<lb/>
+proached. The inspiration of his example extends to the utter-<lb/>
+most ends of the earth.</p>
+<p>He laid down his life for all humanity--that throughout all<lb/>
+the ages the human race might be the legatee, the beneficiary<lb/>
+of his genius, his character, and his life work.</p>
+<p>He was an honor to our beloved country and to the human<lb/>
+race. Fame herself has placed the laurel upon his immortal<lb/>
+brow, and as long as time shall carry the record of human<lb/>
+achievements every nation on this planet will proudly pay<lb/>
+tribute to the memory of William Crawford Gorgas. [Ap-<lb/>
+plause.]</p>
+<p>[The House and Senate both passed the resolution unani-<lb/>
+mously, and on March 24, 1928, President Coolidge signed it,<lb/>
+making this great and beautiful hospital a live and worthy<lb/>
+memorial to General Gorgas as long as the Isthmus of Panama<lb/>
+is inhabited by human beings.]</p>
+<p>95670--4189</p>
+</div1>
+</body>
+</text>
+</TEI.2>

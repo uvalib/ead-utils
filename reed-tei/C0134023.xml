@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0134023">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from The Mercantile Bank to Henry Rose Carter, May 25, 1922</title>
+<title type="gmd">[electronic resource] </title>
+<author>Mercantile Bank of the Americas</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0134023</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1922-05-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Henry Rose</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Hanson, Henry</name>
+<name type="person">Goddard, Calvin H.</name>
+<name type="place">Lima (Peru)</name>
+<name type="place">Baltimore (Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1922-05-25">May 25, 1922</date>
+<idno rend="suppress">C0134023</idno>
+<title>Letter from The Mercantile Bank to Henry Rose Carter, May 25, 1922</title>
+</bibl>
+</head>
+<p>The Mercantile Bank of the Americas instructs a bank in Peru to convert Carter's deposit into dollars.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1922-05-25">
+<head>Letter from The Mercantile Bank to Henry Rose Carter, May 25, 1922</head>
+<pb n="1" id="fC0134023"/>
+<opener>
+CABLE ADDRESS<lb/>
+BAMERICAS, NEW YORK<lb/>
+UNDER SUPERVISION OF THE FEDERAL RESERVE BOARD<lb/>
+MERCANTILE BANK OF THE AMERICAS<lb/>
+INCORPORATED<lb/>
+AN AMERICAN BANK FOR FOREIGN TRADE<lb/>
+44 PINE STREET NEW YORK<lb/>
+IN REPLYING PLEASE MENTION FAH/R<lb/>
+<dateline>
+<date value="1922-05-25">May 25, 1922.</date>
+</dateline><lb/>
+Mr. H. R. Carter,<lb/>
+c/o Dr. Calvin Goddard,<lb/>
+529 North Wolf Street,<lb/>
+Baltimore, Md.<lb/>
+<salute>Dear Sir:</salute>
+</opener>
+<p>We acknowledge receipt of your undated letter<lb/>
+inquiring whether we had received your letter of May 20th,<lb/>
+meaning no doubt of May 21st, which letter we duly received.</p>
+<p>As in your previous correspondence you had not<lb/>
+mentioned that you desired us to communicate by cable with<lb/>
+the Banco Mercantil Americano del Per&uacute;, we communicated<lb/>
+with them by letter. However, in view of your letter under<lb/>
+reply, we have cancelled our letter and have cabled them as<lb/>
+follows:</p>
+<p>&ldquo;H.R. Carter holder of certificate of de-<lb/>
+posit #1240 <xref id="C0134019">&pound;p. 1,000</xref> authorizes you to<lb/>
+accept Dr. Henry Hanson's instructions for<lb/>
+conversion of this deposit into dollars. <unclear>20=100</unclear><lb/>
+Advise Hanson. Forward us dollar certifi-<lb/>
+cate for delivery to Carter against surren-<lb/>
+der of certificate &pound;p.&rdquo;</p>
+<p>The cost of the above cable is $14.60, and we<lb/>
+shall appreciate your forwarding us your check for this<lb/>
+amount by return mail.</p>
+<closer>
+<salute>Yours very truly,</salute>
+MERCANTILE BANK OF THE AMERICAS, Inc.<lb/>
+<signed><unclear>[unclear]</unclear></signed>
+Assistant Secretary.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

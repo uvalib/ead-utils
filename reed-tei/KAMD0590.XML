@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0590">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Statement regarding the work carried out by the Army Board, by Aristides Agramonte, August 31, 1908</title>
+<title type="gmd">[electronic resource]</title>
+<author>Agramonte, Aristides</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0590</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1908-08-31</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Stone, [s.n.]</name>
+<name type="person">Shakespeare, Edward O.</name>
+<name type="person">Vaughan, Victor C.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Beauperthuy, Louis-Daniel</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Santa Clara (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1908-08-13">August 31, 1908</date>
+<idno rend="suppress">KAMD0590</idno>
+<title>Report: Statement regarding the work carried out by the Army Board, by Aristides Agramonte, August 31, 1908</title>
+</bibl>
+</head>
+<p>In this sworn statement, Agramonte details the Board's work on yellow fever. Agramonte asserts he began to discuss mosquito transmission in June 1900. A month later, the Board seriously began to consider mosquito agency and the Board then began its mosquito research. Lazear, because of his training in mosquito work, assumed leadership in the mosquito testing. Following Lazear's death, Agramonte carried out the breeding and infecting of mosquitoes. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1908-08-13">
+<head>Report: Statement regarding the work carried out by the Army Board, by Aristides Agramonte, August 31, 1908</head>
+<pb n="1" id="fKAMD0590"/>
+<p>Y.F.<lb/>
+August 31. 1908</p>
+<p>STATEMENT by Aristides Agramonte, M.D., of Havana, Cuba,<lb/>
+regarding the work carried out by the Army Board, appointed by paragraph<lb/>
+34, Special Orders No. 122, series of 1900, Headquarters of the Army.</p>
+<p>- - - - - - - - -- - - -</p>
+<p>The detail for the Board consisted of : -</p>
+<p>
+<list type="simple">
+<item>Major Walter Reed, Surgeon, U.S.Army,</item>
+<item>Acting Assistant Surgeon James Carroll, U.S.Army,</item>
+<item>Acting Assistant Surgeon Aristides Agramonte, U.S.Army,</item>
+<item>Acting Assistant Surgeon Jesse W. Lazear, U.S.Army,</item>
+</list>
+</p>
+<p>This Board was to act under general instructions to be communicat-<lb/>
+ed to Major Reed by the Surgeon General of the Army.</p>
+<p>- - - - - - - - - - - - -</p>
+<p>Soon after its appointment, the Board met at Camp Columbia, near<lb/>
+the town of Quemados, Cuba.</p>
+<p>A mild epidemic of yellow fever was in course of development in<lb/>
+the above mentioned town, so that work was commenced at once.</p>
+<p>! By <hi>tacit consent</hi> of all concerned, Major Reed was to be the director !<lb/>
+of the work which the Board might undertake and which was divided at the<lb/>
+time as follows:</p>
+<p>
+<list type="simple">
+<item>Dr. Carroll, bacteriological work,</item>
+<item>Dr. Agramonte, autopsies and gross pathology,</item>
+<item>Dr. Lazear, microscopical pathology.</item>
+</list>
+</p>
+<p>As may be seen, no mosquito investigation was thought of at that<lb/>
+time.</p>
+<p>Besides his duties as a member of the Board, Dr. Agramonte had<lb/>
+<pb n="2" id="fKAMD0600"/>
+-2-<lb/>
+charge of the Division Laboratory, located in Havana, at the U. S.<lb/>
+Military Hospital No. 1, as per paragraph 3, Special Orders No. 74, from<lb/>
+Headquarters, Division of Cuba, May 23, 1900.</p>
+<p>In June of the same year, an epidemic of yellow fever developed<lb/>
+in the city of Santa Clara and Dr. Agramonte was ordered to investigate<lb/>
+its origin, as per paragraph 3, Special Orders No. 97, Headquarters,<lb/>
+Division of Cuba, June 27, 1900.</p>
+<p>While examining into the epidemiology of this outburst, the question<lb/>
+of mosquito transmission was first discussed by Dr. Agramonte and he<lb/>
+remembers having talked upon the subject with Captain Stone, Post Surgeon<lb/>
+at Santa Clara, who was also inclined to believe in its probability.</p>
+<p>Dr. Agramonte returned to his post and the routine work of the<lb/>
+Board was continued, no mosquito work being yet undertaken.</p>
+<p>A month after, Dr. Agramonte was ordered to Pinar del Rio &ldquo;for the<lb/>
+purpose of examining into the exact nature of certain cases of pernicious<lb/>
+fever reported to have occurred at said post,&rdquo; as per paragraph 1, Special<lb/>
+Orders No. 112, Headquarters Division of Cuba, July 17, 1900. He found<lb/>
+an epidemic of yellow fever among the troops, which was not only unre-<lb/>
+cognized by the surgeon in charge but actually denied by him and three<lb/>
+other contract surgeons on duty at said post. In face of this opposi-<lb/>
+tion, Dr. Agramonte telegraphed his opinion to Headquarters within 24<lb/>
+hours after his arrival, assuming all responsibility for his action.<lb/>
+An immune surgeon was sent to look after the sick. Camp was moved to<lb/>
+the country and Major Reed came, two days later, to study the possible<lb/>
+origin of the infection. It was there on the ground, that for the<lb/>
+first time the probability of mosquito agency was seriously discussed<lb/>
+<pb n="3" id="fKAMD0610"/>
+-3-<lb/>
+by members of the Board, and it was decided to carry out some research in<lb/>
+this direction.</p>
+<p>As Dr. Lazear had obtained considerable training in mosquito work,<lb/>
+while in Italy, and none of the other members of the Board had any, it was<lb/>
+agreed that he take up this part of the work in the beginning. Dr. Carroll<lb/>
+continued to investigate the bacteria and Dr. Agramonte the pathological<lb/>
+anatomy of yellow fever.</p>
+<p>Major Reed at this time returned to Washington, for the purpose of<lb/>
+completing the Report upon &ldquo;Typhoid Fever in the Army&rdquo; in collaboration with<lb/>
+Drs. Shakespear<add>e</add> and Vaugh<add>an.</add></p>
+<p>Lazear began to breed, dissect, classify and infect mosquitoes, in<lb/>
+which work, Carroll and Agramonte took little or no part. Now and then,<lb/>
+Lazear would apply them to whoever allowed it. Most of the mosquitoes died<lb/>
+early in captivity; Lazear, Carroll and several other persons had been bit-<lb/>
+ten several times by mosquitoes which previously had fed on yellow fever<lb/>
+blood, without result, so that the theory of mosquito transmission was grad-<lb/>
+ually discredited, until Carroll fell sick, on the 30th of August, (1900)<lb/>
+entirely innocent of the real nature of his illness.</p>
+<p>Suspecting the origin of his infection and its real gravity, Drs.<lb/>
+Lazear and Agramonte decided to test the mosquito which presumably had<lb/>
+caused Carroll's attack by applying it to the first non-immune individual<lb/>
+who might allow it.</p>
+<p>Therefore, on the afternoon of August 31st, the same mosquito and<lb/>
+three others, were applied to an American soldier whohad not left Columbia<lb/>
+Barracks, (which was free from yellow fever), for 57 days prior to his in-<lb/>
+oculation; nor did he go out of said reservation before he fell sick with<lb/>
+yellow fever, five days afterwards, thus confirming in our minds the fact<lb/>
+that he had been infected by the mosquito bites.</p>
+<pb n="4" id="fKAMD0620"/>
+<p>-4-</p>
+<p>Dr. Carroll being at this time still suffering from a severe attack of the<lb/>
+disease, Drs. Lazear and Agramonte decided to communicate these results to<lb/>
+Major Reed who was yet in Washington.</p>
+<p>Before Major Reed's arrival in Havana, Dr. Lazear became infected with yel-<lb/>
+low fever, his death taking place on the 25th of Sept.</p>
+<p>During Carroll's convalescence, the Board decided that the results of the<lb/>
+investigation were so far sufficiently convincing to justify their presentation,<lb/>
+in the shape of a Preliminary Note, before the coming meeting of the American<lb/>
+Public Health Association at Indianapolis, Ind., (Oct.,1900).</p>
+<p>Major Reed went North for this purpose, and while Carroll took a short<lb/>
+vacation, to recuperate from his recent attack, Dr. Agramonte was charged with<lb/>
+breeding and infecting mosquitoes, keeping them at the Division Laboratory,<lb/>
+which was under his care in Havana, in preparation for the work which the<lb/>
+Board intended to carry out after the Indianapolis meeting.</p>
+<p>When Major Reed returned from the states, moral and material aid was<lb/>
+obtained from Gen. Leonard Wood, commanding the Division, and we determined<lb/>
+to carry out an investigation exclusively based upon the mosquito theory sus-<lb/>
+tained by Finlay; we knew nothing of Beauperthuy, then, who in 1853 had de-<lb/>
+fended practically the same theory.</p>
+<p>While the experimental station, afterwards named Camp Lazear, in honor<lb/>
+to the memory of our deceased colleague, was being established, the care of<lb/>
+the mosquitoes and their infection by applying them to yellow fever cases,<lb/>
+was in the hands of Dr. Agramonte, at the Division Laboratory; when the per-<lb/>
+manent &ldquo;mosquito building&rdquo; was erected at Camp Lazear, (Dec. 1, 1900), these<lb/>
+mosquitoes were turned over to Dr. Carroll for his care. It devolved then<lb/>
+upon Dr. Agramonte to select the mosquitoes from those kept by Dr. Carroll,<lb/>
+and to apply them to non-immunes, as well as to make all subsequent direct<lb/>
+inoculations and to obtain the non-immunes, (Spaniards) for the purpose, until<lb/>
+<pb n="5" id="fKAMD0630"/>
+-5-<lb/>
+the end of the work in Cuba.</p>
+<p>Let me add, that the best friendship existed between all the members of<lb/>
+the Board and from the beginning of their work it was agreed that the honor<lb/>
+of the results was to be shared by all alike as the labor was so evenly shar-<lb/>
+ed. Unfortunately, this has not been the case, let us hope through no fault<lb/>
+of the members themselves. Drs. Reed and Carroll had been connected in labo-<lb/>
+ratory work for several years and Dr. Agramonte had also worked at the Army<lb/>
+Medical Museum Laboratory; Drs. Lazear and Agramonte were classmates, having<lb/>
+graduated from the College of Physicians and Surgeons, New York, in June, 1892</p>
+<p>I certify to the absolute truth of the above STATEMENT:</p>
+<p>In testimony whereof, I affix my signature, in the City of Havana,<lb/>
+August 31, 1908.</p>
+<p>ARISTIDES AGRAMONTE, M.D.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

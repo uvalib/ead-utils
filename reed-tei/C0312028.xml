@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0312028">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Essay: The Seven Greatest Americans, by Roy K. Flannagan, [1923] [Enclosed in C0312026]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Flannagan, Roy K.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0312028</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Madison, James</name>
+<name type="person">Washington, George</name>
+<name type="person">Henry, Patrick</name>
+<name type="person">Lincoln, Abraham</name>
+<name type="person">Wilson, Woodrow</name>
+<name type="person">Pasteur, Louis</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">James, William</name>
+<name type="person">Edison, Thomas Alva</name>
+<name type="person">Reed, Walter</name>
+<name type="place">Cuba</name>
+<name type="place">Panama</name>
+<name type="place">Virginia</name>
+<name type="place">New York (N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1923-00-00">[1923]</date>
+<idno rend="suppress">C0312028</idno>
+<title>Essay: The Seven Greatest Americans, by Roy K. Flannagan, [1923] [Enclosed in C0312026]</title>
+</bibl>
+</head>
+<p>Flannagan submits a paper to The American Magazine's essay contest on the seven greatest Americans and names Carter as the fifth great American for his contributions to public health.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-00-00">
+<head>Essay: The Seven Greatest Americans, by Roy K. Flannagan, [1923] [Enclosed in <xref id="C0312026">C0312026</xref>]</head>
+<pb n="1" id="fC0312028"/>
+<opener>
+THE SEVEN GREATEST AMERICANS<lb/>
+<dateline>
+<date value="1923-00-00"></date>
+</dateline><lb/>
+Contest Editor,<lb/>
+The American Magazine,<lb/>
+New York City.<lb/>
+<salute>Dear Sir:</salute>
+</opener>
+<p>A man's greatness is measured by the degree the<lb/>
+future profits by his life.</p>
+<p>By this test, George Washington is the first great<lb/>
+American. But for him there would be no America as we know<lb/>
+it, no great democracy in which greatness inherent in both<lb/>
+low and high might find expression.</p>
+<p>James Madison, though overshadowed in history, is<lb/>
+the second great American. He was the real author of the<lb/>
+&ldquo;Virginia Plan&rdquo; and the preeminent framer of the Constitution.<lb/>
+In the face of popular disapproval and the transcendent<lb/>
+eloquence of Patrick Henry in opposition, his genius and gen-<lb/>
+eralship accomplished its adoption by Virginia, the pivotal<lb/>
+State. Though unimpressive in stature and voice, yet his<lb/>
+<del>voice</del> was the mind and statesmanship but for which constitu-<lb/>
+tional government in America would not have been.</p>
+<p>Abraham Lincoln, the savior of that union for which<lb/>
+Washington fought and which Madison confirmed, is the third<lb/>
+American. He cannot be higher because until there has been a<lb/>
+peoples' government strong enough to live there could have been<lb/>
+<pb n="2" id="fC0312029"/>
+no Lincoln.</p>
+<p>America's principles are worth their cost. Woodrow<lb/>
+Wilson, therefore, who voiced them to acceptance by a war-torn<lb/>
+world, and united the nations in a League destined to bring<lb/>
+peace to all earth where it can flourish forever, is the fourth<lb/>
+great American.</p>
+<p>Just as Pasteur by his discoveries gave the key to<lb/>
+health and longer life, so his diciples in this hemisphere who<lb/>
+unlocked the door are among America's greatest. The most<lb/>
+deserving of these is the unassuming scientist, Henry R. Carter,<lb/>
+U. S. Public Health Service, who is the fifth great American.<lb/>
+His suggestions to the imm<del>p</del>ortal Reed resulted in locating the<lb/>
+cause of yellow fever. Upon him leaned Leonard Wood in Cuba and<lb/>
+Gorgas in Panama. His unremitting fight for years against<lb/>
+malaria in America and the world brings and will continue to<lb/>
+bring health and all its blessings to millions of his fellowmen<lb/>
+heretofore helpless and hopeless.</p>
+<p>William James is the sixth, for the lucid record of<lb/>
+his profound though is revolutionizing educational method and<lb/>
+is making old philosophy a new and delightful aid to life,<lb/>
+health and happy human intercourse.</p>
+<p>The great inventor, Edison, holds seventh place by<lb/>
+the very usefulness, joy-giving qualities and universality of<lb/>
+of his wonderful devices.</p>
+<p>The fields in which these seven men wrought have<lb/>
+<pb n="3" id="fC0312030"/>
+known no greater workmen though numbers more versatile have<lb/>
+entered into their labors and some have gained greater reward</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>Roy K Flannagan</signed>
+Roy K. Flannagan<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

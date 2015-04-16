@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0670">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to an Editor, May 19, 1921</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0670</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1921-05-19</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Root, Elihu</name>
+<name type="person">Roosevelt, Theodore</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1921-05-19">May 19, 1921</date>
+<idno rend="suppress">KAMD0670</idno>
+<title>Letter from Jefferson Randolph Kean to an Editor, May 19, 1921</title>
+</bibl>
+</head>
+<p>Kean states that Reed's name should have appeared in the newspaper's article about yellow fever and briefly discusses Reed's and his assistant's work in conquering yellow fever. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1921-05-19">
+<head>Letter from Jefferson Randolph Kean to an Editor, May 19, 1921</head>
+<pb n="1" id="fKAMD0670"/>
+<opener>
+<dateline>
+Boston <date value="1921-05-19">19 May 1921</date>
+</dateline><lb/>
+Walter Reed and Yellow Fever.<lb/>
+</opener>
+<p>No, Mr. Editor, the conquest of Yellow Fever was not made recently,<lb/>
+nor by Dr. Hideyo Noguchi, as stated in your Editorial this morning, although<lb/>
+there seems good ground to hope and believe that a cure for this fatal di-<lb/>
+sease has been found by the distinguished Japanese Pathologist. Yellow<lb/>
+Fever was conquered nearly twenty one years ago when by a wonderful series<lb/>
+of experiments on volunteers, Major Walter Reed and his assistants, Carroll,<lb/>
+Lazear and Agrimonte demonstrated that yellow fever was carried only by the<lb/>
+bite of a certain species of mosquito and not by personal contact or infected<lb/>
+clothing, or in any other way. Those experiments carried on with the appro-<lb/>
+val and financial assistance of the Military Governor, Leonard Wood, converted<lb/>
+the mosquito theory of Dr. Carlos J. Finlay <add>&ldquo;</add>from a discredited hypothesis<lb/>
+into an established and accepted scientific fact.<add>&rdquo;</add>.</p>
+<p>The practical application of Reed's work by Gorgas cleared Havana<lb/>
+of yellow fever and made possible the sanitary conquest of the Isthmus of<lb/>
+Panama. It has for many years made safe our southern shores from this<lb/>
+dreaded enemy. It has been nineteen years since Harvard University con-<lb/>
+ferred a degree upon &ldquo;Walter Reed, Army Surgeon, who gave to man control<lb/>
+over that dread disease Yellow Fever&rdquo;, and these felicitous words of its<lb/>
+President, Doctor Charles <del><unclear>Mr. Elliot</unclear></del><add>W. Elliot</add>, are carved on his tomb.</p>
+<p>In that same year, 1902, Hon. Elihu Root, Secretary of War, recom-<lb/>
+mended to Congress that Major Reed, who was the guiding and controlling<lb/>
+mind in these investigations, be promoted to the grade of Colonel in the<lb/>
+Medical Department, but he died before this could be done.</p>
+<p>President Roosevelt later sent a message to Congress transmitting<lb/>
+<pb n="2" id="fKAMD0680"/>
+-2-<lb/>
+the official reports of his work and recommending a appropriation for<lb/>
+a monument to him in Washington. That Reed's name should not appear<lb/>
+in an article on the conquest of yellow fever in which its history is<lb/>
+touched upon and other names are mentioned, would appear to be an un-<lb/>
+gracious withholding of what is due to the fame of a great American.</p>
+<closer>
+<signed>J. R. Kean.</signed>
+Boston, Mass.<lb/>
+May 19th, 1921.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

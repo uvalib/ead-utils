@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t03142001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Pamphlet: Should the United States Correct This Ingratitude?, by the Chamber of Commerce, White Plains, N.Y., February 15, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03142001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-02-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Cook, Robert P.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Bullard, John R.</name>
+<name type="person">Covington, Albert W.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Hamann, Paul</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Olsen, William</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">West, Clyde L.</name>
+<name type="place">White Plains (N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1928-02-15">February 15, 1928</date>
+<idno rend="suppress">03142001</idno>
+<title>Pamphlet: Should the United States Correct This Ingratitude?, by the Chamber of Commerce, White Plains, N.Y., February 15, 1928</title>
+</bibl>
+</head>
+<p>The author discusses the resolution brought before Congress to honor and to compensate all those who volunteered as subjects in the yellow fever experiments.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1928-02-15">
+<head>Pamphlet: Should the United States Correct This Ingratitude?, by the Chamber of Commerce, White Plains, N.Y., February 15, 1928</head>
+<pb n="1" id="f03142001"/>
+<p>CHAMBER <hi rend="italic">of</hi> COMMERCE<lb/>
+WHITE PLAINS, N. Y.<lb/>
+<hi rend="italic">February 15th, 1928</hi></p>
+<p>----------</p>
+<p>SHOULD THE UNITED STATES CORRECT<lb/>
+THIS INGRATITUDE?</p>
+<p>Congress this winter will be called upon to offer belated<lb/>
+justice to the group of American soldiers and medical<lb/>
+men who in 1900 offered their lives as the price of this<lb/>
+country's present immunity from yellow fever.</p>
+<p>If the response to this call remains in doubt, it is only<lb/>
+because of the short memory of the public. Only two<lb/>
+decades or so ago the praises of this little =-<lb/>
+perimenters rang through the country, for one of the<lb/>
+most sensational as well as one of the most useful deeds<lb/>
+ever performed by man. Ironically enough, our indiffer-<lb/>
+ence to-day is due to the whole-heartedness of their sacri-<lb/>
+fice and the completeness of their triumph. Yellow fever<lb/>
+now is one of the mythical horrors of history, in the same<lb/>
+category as the &ldquo;Black Death&rdquo;; hence the younger gen-<lb/>
+eration cannot understand the emotion which swept our<lb/>
+country in 1901 when the story of the army experiments<lb/>
+in Cuba became known. There was nothing vague about<lb/>
+yellow fever then. Within the memory of many men<lb/>
+now living it was regarded as one of the most dreadful<lb/>
+of human scourges, but nevertheless an unavoidable men-<lb/>
+ace to life on the Gulf Coast and in the Carribbean. In<lb/>
+1878 an epidemic of this disease spread from the Gulf<lb/>
+ports even as far as Boston leaving a desolate waste of<lb/>
+death and financial ruin.</p>
+<p>At the close of the Spanish American War, yellow fever<lb/>
+attacked the American troops then stationed near Havana<lb/>
+with such dreadful results that a popular saying gained<lb/>
+credence, that yellow fever killed more American boys<lb/>
+than had Spanish bullets. The army seemed helpless<lb/>
+against this new onslaught. The Cuban authorities had<lb/>
+been vainly fighting the disease for centuries and they<lb/>
+had no remedy to offer. Finally a commission was ap-<lb/>
+pointed consisting of Dr. Walter Reed, Dr. James Carrol,<lb/>
+Dr. Jesse W. Lazear, and Dr. Aristides Agramonte to<lb/>
+study the disease and see what could be done to check it.</p>
+<p>The efforts of these men, and of the little group of<lb/>
+soldiers who volunteered to assist them, comprise a story<lb/>
+of deliberate heroism equal to any deed of bravery in the<lb/>
+annals of our nation; for much of the work involved<lb/>
+conscious exposure to yellow fever at a time when such<lb/>
+exposure almost inevitably meant death in a terrible form,<lb/>
+and these men knew it would be necessary for some of<lb/>
+them to catch the disease in order that its method of<lb/>
+transmission might be understood. There was evidence<lb/>
+that a certain species of mosquito was the only medium<lb/>
+through which yellow fever was spread. If this could be<lb/>
+proved, then the extermination of this mosquito would <lb/>
+check the disease.</p>
+<p>In most instances, experiments upon animals under<lb/>
+scientific observation have enabled medical men to ac-<lb/>
+complish great cures or to devise methods of prevention<lb/>
+without exacting a high toll in human suffering and death.<lb/>
+But there were no animals known upon whom yellow<lb/>
+fever has the same effects as it has upon human beings.<lb/>
+These experiments, therefore, had to be made directly<lb/>
+upon men, and this with full knowledge of what it meant,<lb/>
+by the participants.</p>
+<p>Dr. Reed explained this situation and called for volun-<lb/>
+teers to submit themselves to innoculation. The entire<lb/>
+commission insisted on volunteering though their leader<lb/>
+was himself prohibited from participating by Presidential<lb/>
+order. This was not unexpected, since medical men have<lb/>
+generally been willing to set the example by offering their<lb/>
+own lives under such conditions.</p>
+<p>But when two private soldiers, John R. Kissinger and<lb/>
+John J. Morgan of Ohio, volunteered their services without<lb/>
+reward, Kissinger explaining that they were offering their<lb/>
+lives &ldquo;solely in the interest of humanity and the cause of<lb/>
+science,&rdquo; the Major saluted the two privates, saying later<lb/>
+<pb n="2" id="f03142002"/>
+in his report, &ldquo;In my opinion this exhibition of moral<lb/>
+courage has never been surpassed in the annals of the<lb/>
+army of the United States.&rdquo;</p>
+<p>Kissinger submitted to the bite of an infected mosquito.<lb/>
+He was stricken with yellow fever in consequence, but<lb/>
+fortunately recovered. Several others followed his ex-<lb/>
+ample and most of them developed the disease, but medi-<lb/>
+cal attention saved their lives. But in previous cases this<lb/>
+ordeal had ended more seriously. Dr. Lazear had allowed<lb/>
+a suspected mosquito to bite him, and he paid for the<lb/>
+experiment with his life. Dr. Carroll had also developed<lb/>
+yellow fever in the same way, and recovered only after<lb/>
+a long illness.</p>
+<p>Other phases of the experiment were attended with un-<lb/>
+speakable horror, even though they were not fatal. It<lb/>
+was necessary to prove beyond any doubt that yellow fever<lb/>
+could not be transmitted between human beings by either<lb/>
+direct or indirect contact. To establish this some of the<lb/>
+experimenters exposed themselves to infection in every<lb/>
+possible way, except through mosquito bite. Privates Jer-<lb/>
+negan and Folk and Dr. Cook, for one instance, stayed<lb/>
+for twenty days and nights in an unventilated, room,<lb/>
+sleeping on bedding and wearing clothing used by men<lb/>
+who had previously died of yellow fever. No infection<lb/>
+followed; and by this and similar experiments it was defin-<lb/>
+itely established that the mosquito was the sole carrier of<lb/>
+the disease. Later experiments led to the extermination<lb/>
+of these mosquitoes in fever infected zones, and the eradi-<lb/>
+cation of the yellow fever scourge promptly followed.</p>
+<p>Among the material rewards that America received<lb/>
+from these men's work was the Panama Canal, the con-<lb/>
+struction of which had been declared impossible until the<lb/>
+yellow fever had been conquered; the rise of Havana as<lb/>
+a tourist resort which immediately followed the eradica-<lb/>
+tion of yellow fever in that city; and the extermination of<lb/>
+this disease and all it implies in the saving of men and<lb/>
+millions, throughout the cities of the South, and indeed<lb/>
+of the entire western hemisphere.</p>
+<p>The reward of the men themselves? Piece-meal pen-<lb/>
+sions for a few, no money reward of any kind for the<lb/>
+others, wild public acclaim followed by forgetfulness for<lb/>
+them all. At first the survivors of the experiments were<lb/>
+more than willing that this should be so. They had<lb/>
+asked no reward for their work--money cannot pay for<lb/>
+loss of life or even of health--hence they had nothing<lb/>
+to ask of this country when they were being hailed as<lb/>
+heroes. Time went on and they were forgotten. Death<lb/>
+and disability overtook some of them, and their depend-<lb/>
+ents. But recently Mr. James E. Peabody of White<lb/>
+Plains, Instructor of Biology in Morris High School, New<lb/>
+York, became interested in their later history, through<lb/>
+his friendship with Private Kissinger. He has brought to<lb/>
+light facts which, with the help of the White Plains Cham-<lb/>
+ber of Commerce, he is making known to the nation;<lb/>
+facts that need only to be revealed in order to insure the<lb/>
+generosity and justice due the survivors by the American<lb/>
+people.</p>
+<p>After he left the army, Private Kissinger became crip-<lb/>
+pled--whether this is an aftermath of his yellow fever ex-<lb/>
+perience will never be known--and for thirteen years was<lb/>
+unable to work. At present a small government pension<lb/>
+and the generosity of a few friends are keeping him from<lb/>
+absolute want, but his needs are not being adequately met;<lb/>
+certainly not in proportion to his generosity to the nation.</p>
+<p>Private Jernegan is buried in Spartansburg, S. C., and<lb/>
+he leaves a widow whose claim upon a grateful nation's<lb/>
+generosity is manifest. He is entitled to burial in the<lb/>
+national cemetery at Arlington, but there are no govern-<lb/>
+ment funds available for transporting his body as his<lb/>
+widow wishes to have done.</p>
+<p>Dr. Carroll died from heart failure a few years follow-<lb/>
+ing the experiments. Again there is a question of the ex-<lb/>
+tent to which his voluntary submission to yellow fever<lb/>
+infection was responsible for his death. There is no ques-<lb/>
+tion, however, that his widow is justly entitled to an ade-<lb/>
+quate pension in partial compensation for her husband's<lb/>
+sacrifice.</p>
+<pb n="3" id="f03142003"/>
+<p>Mrs. Jesse Lazear, whose husband was the first martyr<lb/>
+to the yellow fever experiments, was left without adequate<lb/>
+resources by her husband's death, and the routine pension<lb/>
+allowd her is inadequate acknowledgement of our national<lb/>
+gratitude.</p>
+<p>Dr. Walter Reed is also dead, leaving a widow who is<lb/>
+likewise entitled to our most generous recognition of her<lb/>
+husband's work in behalf of us all.</p>
+<p>Only a direct pension bill providing specifically for each<lb/>
+case, can meet the needs of these survivors. So many<lb/>
+difficulties of pension classification, army rank, and appro-<lb/>
+priation red-tape in general, stand in the way of their<lb/>
+being cared for as a group. It has been proposed that a<lb/>
+permanent commission be appointed to take care of this<lb/>
+and similar government obligations in the future.</p>
+<p>Meantime, a nation wide movement to acknowledge the<lb/>
+services of these men by a suitable pension is under way.<lb/>
+Congress will act if the people wish it to. Considering<lb/>
+the months of torture, and the gift of life and health that<lb/>
+these men made for our country, is it too much to ask<lb/>
+each reader of this statement to do one of three things at<lb/>
+once:<lb/>
+<list type="ordered">
+<item>1. Write to your own Congressman calling attention to<lb/>
+this matter and urging action.</item>
+<item>2. Show this statement to your neighbors or have it<lb/>
+read in your church, club, or community gathering,<lb/>
+asking all who hear it and sympathize with its pur-<lb/>
+pose to write their Congressman also.</item>
+<item>3. Write to your local papers; use every other means<lb/>
+you have to get official action by Chambers of Com-<lb/>
+merce and other social and civic bodies, whose influ-<lb/>
+ence will incite Congress to action.</item>
+</list></p>
+<p>A Resolution to be Submitted to Congressional Vote</p>
+<p>To recognize the eminent public service rendered by<lb/>
+the participants in the investigations conducted by Dr.<lb/>
+Walter Reed, U. S. A., and his associates which deter-<lb/>
+mined the methods of transmission of yellow fever; to<lb/>
+provide suitable annuities for all those, or their surviving<lb/>
+dependents, who voluntarily participated in those investi-<lb/>
+gations at the conscious risk of life and health; and to<lb/>
+establish a permanent method of national recognition and<lb/>
+reward for American citizens who have voluntarily jeopar-<lb/>
+dized their lives in scientific research for the public good,<lb/>
+or who may do so hereafter.</p>
+<p>Whereas, the experiments made by Major Walter A.<lb/>
+Reed and his associates during an epidemic of yellow fever<lb/>
+which involved United States troops stationed in Cuba in<lb/>
+1900, resulted in the development of methods through<lb/>
+which this disease was afterwards eradicated in Cuba, in<lb/>
+Panama, and in other fever infected regions, to the ever-<lb/>
+lasting benefit of humanity; and</p>
+<p>Whereas, to bring about this epochal result a number<lb/>
+of officers, enlisted men, and other American citizens,<lb/>
+voluntarily and with full knowledge of the danger in-<lb/>
+volved and with no other hope of reward than the con-<lb/>
+sciousness of performing a service to their country, risked<lb/>
+their lives and well-being by living in discomfort, priva-<lb/>
+tion, and danger in conditions then generally conducive to<lb/>
+yellow fever infection; and by exposing themselves to yel-<lb/>
+low fever infection from which some died and from which<lb/>
+others suffered long and painful illness; and</p>
+<p>Whereas, although the service those investigators per-<lb/>
+formed for their country was clearly in excess of the du-<lb/>
+ties upon which their compensation was based and for<lb/>
+which the standard pension system provides, no corres-<lb/>
+ponding provision has ever been made by the Federal<lb/>
+Government in recognition of their extraordinary self-<lb/>
+sacrifice, with the result that many of them and their sur-<lb/>
+viving dependents have since suffered unmerited privation,<lb/>
+want, and in some cases destitution; and</p>
+<p>Whereas, the public interest alone, regardless of the dic-<lb/>
+tates of generosity and gratitude for heroic public service<lb/>
+willingly performed, demands that such deeds be publicly<lb/>
+acknowledged and that citizens who in the future shall<lb/>
+offer their lives for the common good may feel that their<lb/>
+sacrifice will be requited with substantial evidence of the<lb/>
+nation's gratitude, that their dependents will be cared for,<lb/>
+<pb n="4" id="f03142004"/>
+<unclear>C<hi rend="subscript">1</hi><lb/>
+B<hi rend="subscript">12</hi></unclear><lb/>
+and their futures relieved from the fear of consequent<lb/>
+privation, now therefore</p>
+<p>Be it enacted by the Senate and House of Representa-<lb/>
+tives of the United States of America in Congress assem-<lb/>
+bled, that in special recognition of the high public ser-<lb/>
+vice rendered, suffering endured, and disabilities con-<lb/>
+tracted by them in the interest of humanity and science<lb/>
+as volunteer subjects for experimentation during the yel-<lb/>
+low fever investigations in Cuba, aforesaid, the Secretary<lb/>
+of War be, and he is hereby authorized and directed to<lb/>
+place on the roll of the War Department the names of<lb/>
+Major Walter Reed, Major James Carroll; Jesse W. Lazear,<lb/>
+Robert P. Cook, Aristides Agramonte, late contract sur-<lb/>
+geons, United States Army; John R. Kissinger, Lovi E.<lb/>
+Folk, Clyde L. West, James L. Hanberry, Charles G. Son-<lb/>
+tag, Warren Cadsen Jernegan, William Olsen, Wallace W.<lb/>
+Forbes, John H. Andrus, Edward Weatherwalk, James<lb/>
+Hildebrand, Thomas M. England, late of the Hospital<lb/>
+Corps, United States Army; William H. Dean, late of<lb/>
+Troop B. Seventh Cavalry, United States Army; Albert<lb/>
+W. Covington, Paul Hamann, late of Twenty-third Com-<lb/>
+pany, Coast Artillery, United States Army; John J.<lb/>
+Moran, late civilian clerk, United States Army; and John<lb/>
+R. Bullard, a volunteer; or the names of their widows, and<lb/>
+pay them for and during their natural life, in lieu of all<lb/>
+annuities which might have been heretofore granted or in<lb/>
+lieu of any pensions now received, the sum of ($ )<lb/>
+per month; and</p>
+<p>Be it further enacted, that the President of the United<lb/>
+States be and is hereby empowered and directed to ap-<lb/>
+point a permanent commission to be known as the Na-<lb/>
+tional Honors Commission, the composition, powers, and<lb/>
+duties of which commission shall be determined within the<lb/>
+limits, and subject to the policies enumerated as follows:</p>
+<p>(1) The commission shall consist of (seven) members<lb/>
+chosen from the following positions of public trust: (a<lb/>
+member of the staff of) the Surgeon General of the U. S.<lb/>
+Army, (a member of the staff of) the Surgeon General<lb/>
+of the U. S. Navy, (a member of the staff of) the Sur-<lb/>
+geon General of the U. S. Public Health Service, an ad-<lb/>
+ministrative official of the U. S. Bureau of Standards, an<lb/>
+administrative official of the Smithsonian Institute, (two)<lb/>
+presidents of American Colleges or Universities (disburs-<lb/>
+ing Federal funds under the Morrill Law of 1872).</p>
+<p>(2) The commission shall investigate all cases of citi-<lb/>
+zens employed in any capacity in the public service of the<lb/>
+United States, who through the voluntary risk of life or<lb/>
+health, shall have made possible conspicuous contributions<lb/>
+to the wellbeing and happiness of the people of the coun-<lb/>
+try, and shall have endured serious disability or privation<lb/>
+thereby. The commission shall determine the amount and<lb/>
+nature of the recognition to which each such citizen is<lb/>
+justly entitled, which recognition may take the form of<lb/>
+money grants, or pensions, or annuities or medals, or me-<lb/>
+morials, or any other form warranted by the exigencies of<lb/>
+each individual case. The commission shall make a full<lb/>
+report to the President of all circumstances surrounding<lb/>
+each individual case and shall recommend suitable action<lb/>
+thereon.</p>
+<p>(3) The commission shall be responsible only to the<lb/>
+President, and shall determine its own procedure, subject<lb/>
+to the President's approval. The commission shall serve<lb/>
+without compensation, but shall have requisite powers of<lb/>
+summoning witnesses of engaging necessary auxiliary ser-<lb/>
+vice, and of incurring such other expense as may be requi-<lb/>
+site to the thorough and prompt performance of its duties.</p>
+<p>The President shall report to Congress the findings of<lb/>
+the commission, recommending such action as he deems<lb/>
+proper.</p>
+<p>All acts embodied in those resolutions shall be in effect<lb/>
+immediately upon passage thereof.</p>
+<p>* * * * *</p>
+<p>(During the present session of Congress the provisions<lb/>
+of the above Bill will be introduced by Representative<lb/>
+Wainwright, New York, in the House of Representatives<lb/>
+and Senator Royal S. Copeland, New York, in the Sen-<lb/>
+ate.)</p>
+</div1>
+</body>
+</text>
+</TEI.2>

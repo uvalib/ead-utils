@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02563011">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders for Aristides Agramonte, June 20, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Scott, Hugh L.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02563011</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-06-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Agramonte, Aristides</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Truby, Albert E.</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1901-06-20">June 20, 1901</date>
+<idno rend="suppress">02563011</idno>
+<title>Military Orders for Aristides Agramonte, June 20, 1901</title>
+</bibl>
+</head>
+<p>Special Orders #134 details Agramonte to visit Columbia Barracks four times a week.  Included is a note by [Truby]. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="military orders" n="1901-06-20">
+<head>Military Orders for Aristides Agramonte, June 20, 1901</head>
+<pb n="1" id="f02563011"/>
+<p>FROM THE NATIONAL ARCHIVES<lb/>
+Vol 61 - 1901<lb/>
+Agramonte</p>
+<p>SPECIAL ORDERS, }<lb/>
+No. 134. }</p>
+<p>HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+<hi rend="italic">Havana, June 20, 1901</hi>.</p>
+<p>Contract Surgeon <hi><hi rend="italic">A. Agramonte</hi>, U. S.</hi> Army, in addi-<lb/>
+tion to his other duties, will visit the post hospital at Co-<lb/>
+lumbia Barracks, Quemados, Cuba, four times a week,<lb/>
+namely, Monday, Tuesday, Thursday and Saturday, at such<lb/>
+hours as may be agreed upon between him and the post<lb/>
+surgeon, for the purpose of making such microscopical and<lb/>
+bacteriological examinations as may be necessary.</p>
+<p>The travel enjoined is necessary for the public service.</p>
+<p>BY COMMAND OF MAJOR GENERAL WOOD:</p>
+<p>H. L. SCOTT,<lb/>
+<hi rend="italic">Adjutant General</hi>.</p>
+<p><add>This shows that Agramonte<lb/>
+made 4 visits a week after<lb/>
+June 20<hi rend="superscript">th</hi> <add>1901</add> to do the post<lb/>
+laboratory work. That was<lb/>
+Lazear's old job.</add></p>
+</div1>
+</body>
+</text>
+</TEI.2>

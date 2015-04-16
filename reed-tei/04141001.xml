@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04141001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Outline: The Conquest of Yellow Fever, by Philip Showalter Hench, December 5, 1947</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04141001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1947-12-05</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+
+<name type="person">Wood, Leonard</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Wasdin, Dr.</name>
+<name type="person">Glddings, Dr.</name>
+<name type="person">Sanarelli, Dr.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Lazear, Jesse</name>
+<name type="person">Howard, L. O.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Peterson, Matthew</name>
+<name type="person">Peterson, Mrs.</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Edmunds, Major</name>
+<name type="person">Lampson, Robin</name>
+<name type="person">[s.n.], Arthur</name>
+<name type="person">Getting, [s.n.]</name>
+<name type="person">Godfrey, Guy Charles Moore</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Delgado, Claudio</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Benigno, Antonio</name>
+<name type="person">Presedo, Becente</name>
+<name type="person">Fernandez, Nicanor</name>
+<name type="person">Martinez, Jose</name>
+<name type="person">Alvarez, Jacinto Mendez</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Hanberry, James F.</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Maass, Clara Louise</name>
+<name type="person">Howard, Sydney</name>
+<name type="place">San Juan (Puerto Rico)</name>
+<name type="place">Camaguez [s.l.]</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Santa Clara [s.l.]</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Boston (Mass.)</name>
+<name type="place">Matanzas (Cuba)</name>
+<name type="place">Indianapolis (Ind.)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Panama Canal Zone</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>6 pp.</extent>
+<date value="1947-12-05">December 5, 1947</date>
+<idno rend="suppress">04141001</idno>
+<title>Outline: The Conquest of Yellow Fever, by Philip Showalter Hench, December 5, 1947</title>
+</bibl>
+</head>
+<p>These notes are Hench's outline for his book on the yellow fever story. He never completed the manuscript.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1947-12-05">
+<head>Outline: The Conquest of Yellow Fever, by Philip Showalter Hench, December 5, 1947</head>
+<pb n="1" id="f04141001"/>
+<p>
+<table rows="38" cols="4">
+     <row>
+          <cell>12/5/47</cell>
+          <cell><unclear>enemy of<lb/>Spanish enemies versus disease</unclear></cell>
+          <cell>Typhoid - US</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>1. (<hi>Prologue</hi> 1898) -<lb/>Get the <unclear>hosp</unclear><lb/><unclear>name</unclear></cell>
+          <cell>Spanish Am War - Explosion of <unclear>Maine</unclear><lb/>
+               Y F at San Juan; at <unclear>Camaguez</unclear>.<lb/>Peace - Parade of US troops.<lb/>
+               American Intervention (July 1898 - Dec 1900)</cell>
+          <cell>Y F - Cuba<lb/>as bad as old days</cell>
+          <cell>{old<lb/>{epidemic<lb/>{(have med<lb/>{officers<lb/><unclear>convene</unclear></cell>
+     </row>
+     <row>
+          <cell>2. (1899)</cell>
+          <cell>Y F in Havana unaffected <unclear>by</unclear> work of Wood &amp; Gorgas<lb/>
+               <unclear>Wasdin &amp; Giddings</unclear> in Havana confirm Sanarelli<lb/>
+               Agramonte " could not " "<lb/>Death of Woods officers</cell>
+          <cell>?<lb/>Reed &amp; Typhoid fever</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>3. (1899)</cell>
+          <cell>Reed &amp; Carroll in Wash work on <unclear>Sternbergs bacillus</unclear> &amp; <unclear>Sanarelli's bac</unclear><lb/>
+               (Reed's visit to Havana; <del>Lazear</del></cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>4 (Jan - Mar 1900)<lb/><unclear>or</unclear> Apr</cell>
+          <cell><del><unclear>Reeds coming &amp; Going from Wash</unclear></del><lb/>
+               Lazear <unclear>enlists</unclear> &amp; <unclear>goes</unclear> to Cuba; <unclear>hears</unclear> that Reed is coming<lb/>
+               Reeds <unclear><add>early</add> comings &amp; goings</unclear>; <unclear>discusses</unclear> Y F <unclear>with</unclear> Lazear<lb/>
+               <unclear>Agramontes</unclear> work (in U S <unclear>with</unclear> Reed &amp; Carroll; in Cuba <unclear>alone</unclear>)<lb/>
+               Reed &amp; Carroll &amp; L O Howard<unclear>.</unclear><lb/>
+               Mrs Lazear &amp; <unclear>others</unclear> leave.</cell>
+          <cell><unclear>/Build up sense of impending</unclear><lb/><unclear>/trouble.</unclear></cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>Apr<lb/>5. May 1900 -<lb/>in Havana<lb/>Carter (1898) <unclear>work<lb/>pub</unclear> May 1900</cell>
+          <cell>Y F <unclear>breaks</unclear> out in Quemados<lb/>
+               <unclear>Start off with</unclear> first victim at 102 Real<lb/>
+               Quarantine rules &amp; regulations <unclear>of town</unclear> &amp; <unclear>camp</unclear><lb/>
+               <unclear>Lazear</unclear> <del><unclear>wood</unclear></del> 2 problems; malaria &amp; Y F<lb/>
+               May 24 - Lazear hunting <unclear>for mosquitos:</unclear> no Y F <unclear>bodies</unclear> in mosquitos</cell>
+          <cell>Kean's list</cell>
+          <cell>Peterson <unclear>suicide</unclear></cell>
+     </row>
+     <row>
+          <cell>6. (<unclear>May</unclear> in Wash)</cell>
+          <cell>Meanwhile in Wash ----<lb/><unclear>Problems</unclear> of Sternberg; what to 
+               do<unclear>.</unclear> what was cause?<lb/>(Review theories) mention <unclear>Finlay briefly</unclear><lb/>
+               Reeds non-Y F plans<unclear>:</unclear> sudden Y F plans<lb/>
+               Y F board formed. May 24 &amp; Reed &amp; Carroll set off - June 21</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>7</cell>
+          <cell>Maj Edmunds illness &amp; death<lb/>Kean's illness<lb/>Reeds arrival. June 25<lb/>First meeting of Board -</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>8.<lb/><unclear>June 25 thru<lb/>July 20</unclear></cell>
+          <cell>June <add>25 -</add> At first meeting of board Reed <unclear>outline</unclear> 
+               plans in order of importance to <unclear><hi>him</hi></unclear><lb/>
+               June 26 - Did Finlay <unclear>visit</unclear> Reed? (<unclear>Lampson</unclear>) 
+               If so could <unclear>have</unclear> give his work<lb/>but didnt <unclear>sway</unclear> 
+               Reed from charted <unclear>course</unclear>. Start of bacterial <add>&amp; 
+               <unclear>post mortem</unclear></add> work in <unclear><hi>earnest</hi></unclear><lb/>
+               June 27 - July 2 Agramonte <unclear>to</unclear> Santa Clara - 
+               <unclear>came back</unclear> no wiser</cell>
+          <cell>Precautionary start <unclear>with mosquitos?</unclear><lb/>
+               Lazear's restlessness - letters <unclear>to<lb/>
+               wife</unclear><lb/>Reed probably arranges <unclear>trip to Wash</unclear></cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>9.</cell>
+          <cell>Story of Private Arthur ____ at Pinar del Rio<lb/>
+               Background<unclear>,</unclear> cause of <unclear>Getting</unclear> in prison<lb/>
+               Y F <unclear>outbreak: Godfrey</unclear>, Cooke (newly arrived)<lb/>Prisoner's death.</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>10.</cell>
+          <cell>Keans <unclear>suspicions re pernicious</unclear> malaria<lb/>
+               Agramonte to Pinar del Rio - July 19<lb/>Reed " " " " -- July 21<lb/>
+               (Lazear " " " " -- ?) Here <unclear>on</unclear> next chapter)<lb/>
+               Reeds thoughts as result of Pinar del Rio - <unclear>winged</unclear> agent<lb/>
+               Could Finlay be right after all?</cell>
+          <cell>Reed wrote up <unclear>neg paper?</unclear></cell>
+          <cell>&nbsp;</cell>
+     </row>
+</table>
+<pb n="2" id="f04141002"/>
+<table>
+     <row>
+          <cell>11.<lb/>Finlay<lb/>up to<lb/>Aug 14, 1881</cell>
+          <cell><hi>Chapter on Finlay</hi>. (&amp; Delgado)<lb/>
+               Background<lb/>Y F work - <unclear>early</unclear><lb/>
+               Finlay convinced - wrote paper --"-----<lb/>Report of Aug 14, 1881<lb/>
+               Finlay rose &amp; <unclear>commenced</unclear> speaking "-----</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>12.<lb/>Finlay<lb/>1881 - 1900</cell>
+          <cell>(<unclear>Reaction</unclear> to Finlays talk)<lb/>
+               Reaction of profession - look up <unclear>medical &amp; newspapers</unclear>.<lb/>
+               Finlays <unclear>own personal reaction as told by</unclear> self.<lb/>
+               Finlays <unclear>further</unclear> work - all in vain.</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>13.</cell>
+          <cell>Aug 1-1900 Board meets; Have Reed re-reading Finlays<lb/>paper ("-----) just <unclear>before</unclear> 
+               other members arrived.<lb/>Reed <unclear>reviews</unclear> situation <unclear>in light</unclear> 
+               of Pinar del Rio observations<lb/>Reeds predicament: He had arranged to go back to Wash 
+               &amp; orders <unclear>had</unclear> just<lb/>arrived but in <unclear>light exciting Pinar trip</unclear> 
+               wished <unclear>now</unclear> didn't have<lb/>to go. However <unclear>duty</unclear> 
+               (<unclear>Typhoid</unclear> report) not <unclear>unmixed with</unclear> pleasure<lb/>
+               <unclear>seeing family again</unclear><lb/> Duty to outline work to be done in 
+               his absence: <unclear><hi>Husar Volunteers</hi>!</unclear><lb/>Aug 2. Reed &amp; Truby sailed</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>14<lb/>Aug 3<lb/>to Aug 25</cell>
+          <cell>Lazear <unclear>supremely</unclear> ready &amp; <unclear>eminently</unclear> 
+               fitted<unclear>.</unclear><lb/>{Qualifications:<lb/>{ <unclear>Firm</unclear> believer in theory<lb/>
+               { Knowledge of mosquitos &amp; malaria<lb/>{ Pre-board <unclear>suspicions</unclear> 
+               re mosquitos <unclear>&amp;</unclear> Y F<lb/>{ Growing Finlay mosquitos but 
+               nothing done <unclear>with them yet</unclear><lb/>{ First 9 cases -- failures</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>15)<lb/>Aug 27<lb/>to Aug 31<lb/>am</cell>
+          <cell>- Lazear <unclear>innoculates</unclear> Carroll; lack of belief; broke rules<lb/>
+               Carrolls illness; question of diagnosis<lb/>
+               Diagnosis - no malarial parasites!! (End <unclear>with M D</unclear> looking<lb/>
+               looking <unclear>thru microscope at smears</unclear>, negative - (Aug 31: 9 am)<lb/>
+               <unclear>obvious</unclear> <add>tentative</add> conclusion Y F!! Was it Y F? Wait for more def signs</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>16<lb/>Aug 31</cell>
+          <cell>--(rest of that day)<lb/>Lazears probable state of mind (<unclear>uncertainty,
+               confusion, exhaltation</unclear><lb/>fear re Carroll, determination to <unclear>carry 
+               on further experiments</unclear><lb/>Selection of Dean; should he or should he not do it.<lb/>
+               No authority to do so. Should he discuss plans <unclear>with</unclear> anyone (Camp<lb/>
+               Co? <unclear>Heavens</unclear> no. Kean? Agramonte? Why should <unclear>he</unclear>?<lb/>
+               Close <add>chapter</add> <unclear>on innoc</unclear> of Dean<lb/><unclear>When for arrives</unclear> 
+               wait for 1 - <unclear>def diag</unclear> of Carrolls case<lb/>(2 - <unclear>onset Dean's
+               </unclear> illness<lb/>All he could do now - watch &amp; work----&amp; pray!</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+</table>
+<pb n="3" id="f04141003"/>
+<table>
+     <row>
+          <cell>17) (Sept 1 - Sept 6)<lb/>Sept 1 -<lb/>" 2 or 3 -<lb/>" 5 -<lb/>" 6</cell>
+          <cell><hi>Carrolls illness</hi>.<lb/>Carrolls case diagnosed Y F.; Carroll removed to ward<lb/>
+               Reed notified of cable?<lb/>Dean <unclear>dizzy</unclear><lb/>pm Dean ill!! Did Lazear (&amp; <unclear>Ag</unclear>?)
+               cable Reed. (see <unclear>Agramonte</unclear><lb/>Senate 26.) I <unclear>don't</unclear> believe so as
+               <unclear>Agr</unclear> later admitted in letter to<lb/>Finlay that he (Agr) knew nothing about Lazears first 2 cases</cell>
+          <cell>Deans progress</cell>
+          <cell></cell>
+     </row>
+     <row>
+          <cell>18 (Sept 6 - 18)<lb/>Sept 18 -</cell>
+          <cell><hi>Lazears Triumph</hi>!<lb/>Lazear's doings; letter to <del>wife</del> mother, to wife.<lb/>
+               Carroll <unclear>convalescing</unclear> - Sept 11 (letter to wife Sept 13)<lb/>
+               Dean " - Sept 17.<lb/>(Agramonte <unclear>doing his own</unclear> separate work; Reed in 
+               <unclear>Wash - how much</unclear><lb/>did Reed know?)<lb/>All well: then ---<lb/>
+               Lazear sick!!!</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>19 (Sept 18-25)</cell>
+          <cell><hi>Lazears Illness &amp; Death</hi><lb/>Description of illness.<lb/>
+               Speculations on source of Y F<lb/>Agramonte left on furlough Sept 22<lb/>
+               Lazears death - end chapter at 9 <hi rend="superscript">25</hi> pm</cell>
+          <cell>(<unclear>Anxiety</unclear> in Wash <unclear>in Balto</unclear><lb/>
+               but <hi>none</hi> in Boston where<lb/>Mrs L was<lb/>
+               ignorant of illness</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>20 (night of Sept 25 - Sept 26</cell>
+          <cell>Duties connected <unclear>with</unclear> Lazears death<lb/>
+               a) Trubys duties re notify Kean; fumigate room; get belonging's<lb/>
+               notebook.<lb/>b) Kean wired re death <unclear>that night</unclear><lb/>
+               Search for Mrs Lazear<lb/>Story of how Mrs L received death-message - Sept 26 am<lb/>
+               Funeral of <unclear>J</unclear> Lazear<lb/>That night Mrs L <unclear>dry eyed
+               </unclear> &amp; <unclear>tense</unclear>alone <unclear>with</unclear> new born baby<lb/>
+               alone!!! What happened? What happened?!!</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>21 (first week in Oct).<lb/>Oct 3-<lb/>Oct 4-</cell>
+          <cell>Truby ponders notebook.<lb/>Mrs Lazear's visit to Reed in Wash; Reed knew very little<lb/>
+               Reed arrived at <unclear>Mantanzas</unclear>, met Kean<lb/>
+               " " in Havana; a thousand questions on <unclear>lips</unclear><lb/>
+               What had happened?!!<lb/>Truby tells Reed re notebook.</cell>
+          <cell>must have<lb/>been there or<lb/>else he would<lb/>have <unclear>told</unclear> Mrs L<lb/>
+               more had it<lb/>been<lb/>in<lb/>Oct.</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>22 (Oct 5-13)</cell>
+          <cell><hi>Writing Prelim Note</hi><lb/>Reed studies notes &amp; writes &ldquo;prelim note&rdquo;<lb/>
+               Discusses <unclear>with</unclear> Kean <unclear>further</unclear> plans<lb/>
+               Keans advice<lb/>Reed &amp; Kean <unclear>visit</unclear> Wood.<lb/>Wood agrees! 
+               Told ag to find camp site.</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+</table>
+<pb n="4" id="f04141004"/>
+<table>
+     <row>
+          <cell>23) (Oct 13 - Oct 23)<lb/>Oct 13-<lb/>Oct 14-20<lb/>Oct 23 (?)</cell>
+          <cell><hi>Reeds trip back to U S</hi><lb/>Reed left Havana for Wash &amp; 
+               <unclear>consult with</unclear> Sternberg<lb/>and to give <unclear>Prelim report</unclear>
+               (Did Carroll accompany Reed?<lb/>on convalescent trip)<lb/>
+               Reed enroute to U S (Oct 19 - &ldquo;Reed now in <unclear>this city</unclear>&rdquo;-<lb/>
+               Sternberg.<lb/>trip to Indianopolis. Set stage for Reeds <unclear>speech</unclear></cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>24) Oct 24<lb/>&ldquo;about Nov 1&rdquo; --</cell>
+          <cell><hi>Reed at Indianapolis</hi> (&amp; return to Cuba)<lb/>
+               Reed rose to speak ---<lb/>Reaction at convention<lb/>" " press<lb/>
+               Appraisal of reaction; justification for both sides -- for doubters<lb/>&amp; for believers<lb/>
+               <unclear>Hurry back</unclear> to Cuba to silence doubters once &amp; for all!</cell>
+          <cell>Letter to Mrs Lazear <unclear>fr</unclear> Reed</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>25)Nov 1-20<lb/><del>Nov 20 --</del><lb/>Nov 20 --<lb/>Nov 20 -- Dec 8 (4 pm)<lb/>Dec 8 -</cell>
+          <cell>Establishment of Camp L; where established &amp; description<lb/>
+               Call for Volunteers: would he or wouldn't he get them?<lb/>
+               Kissinger &amp; Moran volunteer.; Benigno volunteers for pay<lb/>
+               Camp Lazear opened for business<lb/>
+               Kissinger first to &ldquo;get the <unclear>business</unclear>&rdquo;!<lb/>
+               Failures on Kissinger, Moran, Benigno &amp;<lb/>
+               Presedo Board discouraged. Then ---<lb/>midnight Kissinger became ill</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>26) Dec 9 -<lb/>Dec 12-15</cell>
+          <cell>Reeds excitement; letter to his wife (Reed going thru<lb/>
+               same experiences as Lazear had; preliminary failures:<lb/>
+               <unclear>tenacious</unclear> belief; success; exhaltation.<lb/>
+               Like ripened fruit falling off tree the cases of<lb/>
+               Benigno, Presedo &amp; Fernandez <unclear>ripened</unclear> &amp; broke!<lb/>
+               Now Reed ready for &ldquo;<unclear>argumentum ad hominum</unclear>&rdquo;<lb/>
+               First cases proved Lazears work; time of incubation<lb/>
+               <del>now</del> <add>Could</add> Reed <del>could</del><add>now</add> prove <hi>only</hi> the mosquito could do it?<lb/>
+               a) not air --> Moran <unclear>experiment</unclear> planned (Bldg 1)<lb/>
+               b) " fomites --> Cooke et al (" 2)</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>27)<lb/>Dec 21, 1900 --</cell>
+          <cell><hi>Experiments in Bldg 1</hi><lb/>Describe bldgs; etc<lb/>
+               World at large &amp; even <unclear>some</unclear> associates <add>still</add> believed
+               fomites<lb/>more dangerous than mosquitos.<lb/>
+               Describe first few days of fear (until Dec 25 when Moran<lb/>became ill)</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+</table>
+<pb n="5" id="f04141005"/>
+<table>
+     <row>
+          <cell>28)<lb/>Dec 21-22<lb/>Dec 22<lb/>Dec 25<lb/>
+               Dec 24 <add>-Jan 3</add> --<lb/>Dec 31 --</cell>
+          <cell><hi>Experiments in Bldg #2</hi><lb/>Moran bitten<lb/>
+               Banquet in Havana to Honor Finlay; Finlays speech<lb/>Moran developed Y F Rejoicing in Bldg 1.<lb/>
+               Martinez, Alvarez &amp; Jernegan bitten &amp; M &amp; A devel Y F<lb/>
+               (Jeregan didn't.)<lb/>New Years eve letter</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>29)</cell>
+          <cell><hi>Wind-up Experiments</hi> (Jan 1901)<lb/>
+               Inoculations <unclear>with</unclear> infected blood to susceptibles 
+               &amp; later to immunes<lb/>Weatherwalks refuses further experiments<lb/>
+               <unclear>Shared</unclear> Reed volunteer?<lb/>Andrus volunteers &amp;
+               becomes seriously ill - Jan 28<lb/>Reed's great anxiety over Andrus<lb/>
+               Reed regained courage &amp; continued experiments, this time<lb/>
+               on West (why by mosquito bite?) Hanberry &amp; <unclear>Sontag</unclear><lb/>(Jan 31 - Feb 10</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>30 <add>Feb 6, 1901</add></cell>
+          <cell>Reed's paper at Pan-American <unclear>Congress</unclear> Havana<lb/>
+               Discussion at Congress<lb/>Reaction in lay &amp; medical circles<lb/>
+               Feb 7 or 8 (?) Reed left Havana, never to return</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>31)</cell>
+          <cell>Work of Gorgas - summer &amp; fall 1901</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>32)</cell>
+          <cell>Carrolls return to Havana; experiments in fall 1901</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>33)</cell>
+          <cell><unclear>Corporates</unclear> by Gorgas &amp; Guiteras -- fatal results in 3<lb/>cases including Miss Maass.</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>34</cell>
+          <cell>Reaction of medical world -- quick <unclear>confirmations</unclear><lb/>
+               " " press &amp; <unclear>lay world</unclear> 1901-1902<lb/>" of die-hards.</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>35</cell>
+          <cell>Results: Cuba &amp; Southern U S cleaned up<lb/>
+               Panama Canal<lb/>Early honors for Reed<lb/>Reeds death</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+</table>
+<pb n="6" id="f04141006"/>
+<table>
+     <row>
+          <cell>36)</cell>
+          <cell><hi>Aftermath</hi> (touch on briefly)<lb/>Controversies between Finlay &amp; U S experiments<lb/>
+               " by Agramonte &amp; Carroll<lb/>" between pro-Finlayites" &amp; pro-Reedites.<lb/>
+               &ldquo;Time measures all things ---&rdquo;<lb/>My own appraisal of relative contributions<lb/>
+               &ldquo;Enough glory for all&rdquo;: <unclear>Later</unclear> honors for all</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+     <row>
+          <cell>37</cell>
+          <cell><hi>Epilogue</hi><lb/>What happened to Camp L? (Sidney Howards prediction)<lb/>
+               Let it rest in peace, an honored <unclear>battlefeld</unclear>.</cell>
+          <cell>&nbsp;</cell>
+          <cell>&nbsp;</cell>
+     </row>
+</table>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

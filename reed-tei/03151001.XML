@@ -1,0 +1,1411 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t03151001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Yellow Fever: Hearing before the Committee on Military Affairs, House of Representatives, Seventieth Congress, First Session, April 11, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03151001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-04-11</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Bullard, John R.</name>
+<name type="person">Covington, Albert W.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Hamann, Paul</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Jernegan, N. May</name>
+<name type="person">Olsen, William</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Davenport, Frederick Morgan</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Peabody, James E.</name>
+<name type="person">Wainwright, Jonathan Mayhew</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Arlington National Cemetery (Arlington, Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>24 pp.</extent>
+<date value="1928-04-11">April 11, 1928</date>
+<idno rend="suppress">03151001</idno>
+<title>Report: Yellow Fever: Hearing before the Committee on Military Affairs, House of Representatives, Seventieth Congress, First Session, April 11, 1928</title>
+</bibl>
+</head>
+<p>This document contains discussion regarding the placement of names of individuals involved in the yellow fever experiments on the rolls of the war department and providing pensions to the survivors or widows of those involved.  Support for the bill includes statements by Peabody, Ireland, Kean, and representatives from Congress and the Smithsonian. 
+</p>
+</div1>
+<div1 type="book">
+<p></p>
+</div1>
+<pb n="i" id="f03151001"/>
+<titlePage> 
+<docTitle>
+<titlePart>Given to me by General Kean - PS Hench<lb/>
+YELLOW FEVER<lb/>
+=============<lb/>
+see p 22<lb/>
+was see Doc 822<lb/>
+ever reprinted?<lb/>
+HEARING<lb/>
+BEFORE THE<lb/>
+COMMITTEE ON MILITARY AFFAIRS<lb/>
+HOUSE OF REPRESENTATIVES<lb/>
+SEVENTIETH CONGRESS<lb/>
+FIRST SESSION<lb/>
+----------<lb/>
+APRIL 11, 1928<lb/>
+----------</titlePart>
+</docTitle>
+<byline>STATEMENTS OF<lb/>
+<docAuthor>Hon. F. M. DAVENPORT</docAuthor>, Representative in Congress from New York<lb/>
+<docAuthor>Hon. R. WALTON MOORE</docAuthor>, Representative in Congress from Virginia<lb/>
+<docAuthor>Maj. Gen. W. W. IRELAND</docAuthor>, Surgeon General, United States Army<lb/>
+<docAuthor>Col. JEFFERSON R. KEAN</docAuthor>, United States Army, retired<lb/>
+<docAuthor>Dr. JAMES A. PEABODY</docAuthor>, Professor of Biology<lb/>
+<docAuthor>Dr. E. M. BARROWS</docAuthor>, American Association for Medical Progress<lb/>
+<docAuthor>Dr. CHARLES G. ABBOTT</docAuthor>, Secretary of Smithsonian Institution<lb/>
+<docAuthor>Dr. A. M. STIMSON</docAuthor>, Assistant Surgeon, Public Health Service<lb/>
+<docAuthor>H. W. DORSEY</docAuthor>, Chief Clerk, Smithsonian Institution</byline>
+<docImprint>PART 1<lb/>
+UNITED STATES<lb/>
+GOVERNMENT PRINTING OFFICE<lb/>
+WASHINGTON</docImprint>
+<docDate>1928<lb/>
+103083<lb/>
+<pb n="ii" id="f03151002"/>
+COMMITTEE ON MILITARY AFFAIRS<lb/>
+HOUSE OF REPRESENTATIVES<lb/>
+SEVENTIETH CONGRESS, FIRST SESSION<lb/>
+JOHN M. MORIN, Pennsylvania, <hi rend="italic">Chairman</hi><lb/>
+W. FRANK JAMES, Michigan.<lb/>
+HARRY C. RANSLEY, Pennsylvania.<lb/>
+HARRY M. WURZBACH, Texas.<lb/>
+LOUIS A. FROTHINGHAM, Massachusetts.<lb/>
+B. CARROLL REECE, Tennessee.<lb/>
+JOHN C. SPEAKS, Ohio.<lb/>
+J. MAYHEW WAINWRIGHT, New York.<lb/>
+JAMES P. GLYNN, Connecticut.<lb/>
+ALLEN J. FURLOW, Minnesota.<lb/>
+WILLIAM R. JOHNSON, Illinois.<lb/>
+JAMES A. HUGHES, West Virginia.<lb/>
+HAROLD G. HOFFMAN, New Jersey.<lb/>
+PERCY E. QUIN, Mississippi.<lb/>
+HUBERT F. FISHER, Tennessee.<lb/>
+WILLIAM C. WRIGHT, Georgia.<lb/>
+DANIEL E. GARRETT, Texas.<lb/>
+JOHN J. McSWAIN, South Carolina.<lb/>
+JOHN J. BOYLAN, New York.<lb/>
+LISTER HILL, Alabama.<lb/>
+VIRGIL CHAPMAN, Kentucky.<lb/>
+VICTOR S. K. HOUSTON, Hawaii<lb/>
+HOWARD F. SEDGWICK, <hi rend="italic">Clerk</hi><lb/>
+II</docDate> 
+</titlePage>
+</front>
+<body>
+<div1 type="chapter" n="1">
+<head>YELLOW FEVER<lb/>
+----------</head>
+<pb n="1" id="f03151003"/>
+<p>HOUSE OF REPRESENTATIVES,<lb/>
+COMMITTEE ON MILITARY AFFAIRS,<lb/>
+<hi rend="italic">Wednesday, April 11, 1928</hi>.</p>
+<p>The committee met, pursuant to the call of the chairman, in the<lb/>
+room of the committee in the House Office Building, at 10.30 o'clock<lb/>
+a. m., Hon. John M. Morin (chairman) presiding.</p>
+<p>The committee had under consideration the following bill:</p>
+<p>[H. R. 11686, Seventieth Congress, first session]</p>
+<p>A BILL To provide for the placing of the names of certain individuals on the rolls of the<lb/>
+War Department, and to authorize the Board of Regents of the Smithsonian Institution<lb/>
+to make certain recommendations</p>
+<p><hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States<lb/>
+of America in Congress assembled</hi>, That in special recognition of the high public<lb/>
+service rendered, and disabilities contracted in the interest of humanity and<lb/>
+science as voluntary subjects for the experimentations during the yellow fever<lb/>
+investigations in Cuba, the Secretary of War be, and hereby is, authorized and<lb/>
+directed to place on the rolls of the War Department, the names of Mrs. Walter<lb/>
+Reed, Mrs. James Carroll, Mrs. Jesse W. Lazear, Doctor Aristides Agramonte;<lb/>
+private John H. Andrus, Hospital Corps; Mr. John R. Bullard, private A. W.<lb/>
+Covington, Twenty-third Battery, Coast Artillery Corps; private William H.<lb/>
+Deans, Troop B, Seventh Cavalry; private Wallace Forbes, Hospital Corps;<lb/>
+private Levi E. Folk, Hospital Corps; private P. Hamann, Twenty-third Battery,<lb/>
+Coast Artillery Corps; private James F. Hanberry, Hospital Corps; Mrs. Warren<lb/>
+G. Jernegan; private John R. Kissinger; Mr. John J. Moran; private William<lb/>
+Olson, Hospital Corps; private Charles G. Sonntag, Hospital Corps; private<lb/>
+Clyde L. West, Hospital Corps; Doctor R. P. Cooke; private Thomas H.<lb/>
+England, Hospital Corps; private James Hildebrand, Hospital Corps; private<lb/>
+Edward Weatherwalks, Hospital Corps. And the Secretary of War is hereby<lb/>
+directed to pay to the foregoing, during the remainder of their natural lives,<lb/>
+the sum of $250 per month in lieu of any and all pensions now received.</p>
+<p>SEC. 2. That the Board of Regents of the Smithsonian Institution is hereby<lb/>
+authorized to investigate all cases of citizens employed in the public service of<lb/>
+the United States who through voluntary risk of life and health shall have<lb/>
+rendered conspicuous service to the people of the country, and shall have power<lb/>
+to recommend to the Congress of the United States the amount and nature of<lb/>
+the recognition to which such citizens are justly entitled, and shall report to<lb/>
+the Congress in detail the circumstances surrounding such service.</p>
+<p>The CHAIRMAN. The committee will please come to order.</p>
+<p>STATEMENT OF HON. J. MAYHEW WAINWRIGHT, A REPRESENTA-<lb/>
+TIVE IN CONGRESS FROM THE STATE OF NEW YORK</p>
+<p>Mr. WAINWRIGHT. This hearing is set on H. R. 11686, entitled<lb/>
+&ldquo;A bill to provide for the placing of the names of certain indi-<lb/>
+viduals on the rolls of the War Department, and to authorize the<lb/>
+Board of Regents of the Smithsonian Institution to make certain<lb/>
+recommendations.&rdquo;</p>
+<p>1</p>
+<pb n="2" id="f03151004"/>
+<p>2<lb/>
+YELLOW FEVER</p>
+<p>I introduced this bill at the instance of a prominent organization<lb/>
+in New York whose headquarters are in New York but whose mem-<lb/>
+bership extends over the whole country, the American Association<lb/>
+for Medical Progress.</p>
+<p>The degree of interest in the measure in New York is evidenced<lb/>
+by the communications I have received, and particularly by the<lb/>
+keen interest of a group of prominent citizens in my own district.</p>
+<p>The immediate primary purpose of the bill is to finally give suit-<lb/>
+able recognition to those in the military service of the United States<lb/>
+who subjected themselves at the risk of their lives, and certainly of<lb/>
+their health, in the experiments that were conducted at Habana<lb/>
+during the American occupation, to determine the source and the<lb/>
+cause of yellow fever. The general subject, I am quite sure, is<lb/>
+familiar to most if not all of the members of the committee. You<lb/>
+will recall that under the leadership of Maj. Walter Reed--and I am<lb/>
+sure General Gorgas came, too--who had the theory that the yellow<lb/>
+fever was transmitted through the mosquito--these very interesting<lb/>
+and extremely hazardous experiments were undertaken.</p>
+<p>Some of those who subjected themselves to this risk have been<lb/>
+already recognized, but there are a number who have not been. The<lb/>
+purpose of this bill is, first, to give them a due sentimental recogni-<lb/>
+tion by putting their names on a roll in the War Department, a roll<lb/>
+of honor as it were, and next to make general provision by way of<lb/>
+pension for the survivors and those who have died.</p>
+<p>It will be useless for me to undertake to arouse your interest in this<lb/>
+burning subject with which you must be familiar, or to refer to the<lb/>
+obvious considerations involved in this bill not only as it relates to<lb/>
+the recognition of those who made those experiments, but it<lb/>
+affords an incentive and inspiration for the future self-sacrifice of<lb/>
+the same nature in the cause of humanity.</p>
+<p>The primary purpose of the bill is as I have stated; but in section<lb/>
+2 it is provided that the Board of Regents of the Smithsonian Insti-<lb/>
+tution shall be an authority to pass upon cases of a similar nature<lb/>
+in the future, and to make recommendation to Congress for suitable<lb/>
+recognition, I quote from the bill, &ldquo;of citizens employed in the<lb/>
+public service of the United States who through voluntary risk of<lb/>
+life and health shall have rendered conspicuous service to the people<lb/>
+of the country&rdquo; in the manner suggested.</p>
+<p>I have several communications indorsing the bill, one of which I<lb/>
+wish to file, from the medical society of the county of New York;<lb/>
+and also a letter from that distinguished biologist, Prof. Henry<lb/>
+Fairfield Osborn, who is president of the American Association for<lb/>
+the Advancement of Science and affiliated societies, generally ap-<lb/>
+proving of this measure; and I would like to quote the concluding<lb/>
+paragraphing of his letter. [Reading:]</p>
+<p>It can not be said that all republics are ungrateful, if France, England,<lb/>
+and Germany, are quick to recognize their heroes; but America, if not un-<lb/>
+grateful, is certainly thus far forgetful of the incalculable service, both human<lb/>
+and economic, rendered by the noble discoverers of the cause of yellow fever<lb/>
+and their aides.</p>
+<p>Professor Osborn is not entirely accurate, because as I have said,<lb/>
+Congress has already recognized the principle involved in this meas-<lb/>
+ure, and provision has been made by special bills for two or three of<lb/>
+<pb n="3" id="f03151005"/>
+YELLOW FEVER<lb/>
+3<lb/>
+these individuals; and the question will be presented here whether<lb/>
+the provision made was adequate or not.</p>
+<p>I would like to call upon a resident of my own county as the first<lb/>
+speaker, a distinguished educator, who for many, many years has<lb/>
+shown an interest in this matter and has devoted a great deal of time<lb/>
+and thought to it. I would like to call for just a word to the commit-<lb/>
+tee from Dr. James A. Peabody of Morris High School in New<lb/>
+York City.</p>
+<p>Mr. QUIN. Before Doctor Peabody starts, I would like to ask you<lb/>
+a question.</p>
+<p>Mr. WAINWRIGHT. Yes.</p>
+<p>Mr. QUIN. Did we not pension, for his services there, General<lb/>
+Gorgas's widow? It occurs to me that we did that.</p>
+<p>Mr. WAINWRIGHT. I do not think we pensioned General Gorgas's<lb/>
+widow, but there was a pension for Major Reed's widow. I am not<lb/>
+entirely familiar with that, but General Ireland is here, and I am go-<lb/>
+ing to call him next, and he can explain just what provisions were<lb/>
+made.</p>
+<p>Mr. FROTHINGHAM. May I ask what the idea is of section 2? They<lb/>
+have the power now to do that, have they not?</p>
+<p>Mr. WAINWRIGHT. I do not so understand. If any recommenda-<lb/>
+tion of that kind was made by the Regents of the Smithsonian Insti-<lb/>
+tution, of course, it would be entirely voluntary. To-day there is<lb/>
+no function devolved upon them by law, and there is no Government<lb/>
+authority to do what this bill contemplates, to provide machinery,for<lb/>
+taking care of cases of this kind in the future.</p>
+<p>Mr. JAMES. Is not this broader, in cases of this kind----</p>
+<p>Mr. WAINWRIGHT. I wonder if the members of the committee<lb/>
+would permit us to proceed with the hearing, so that we might there-<lb/>
+after take up the technical considerations involved. I can see that<lb/>
+there will be, as the result of the discussions here, some suggestions<lb/>
+for modification of this measure. Maybe we have not the ideal way<lb/>
+of treating it. We are attempting to bring this subject before the<lb/>
+Congress through the committee to see if some suitable method can<lb/>
+not be devised for treating these cases in the future, as well as for<lb/>
+taking care of the people mentioned in the bill.</p>
+<p>Doctor Peabody, will you in a few words explain your interest in<lb/>
+this bill, and how it came about? I will state that Doctor Peabody<lb/>
+is head of the Morris High School biology department, which is<lb/>
+one of the large high schools in New York.</p>
+<p>STATEMENT OF DR. JAMES A. PEABODY</p>
+<p>Doctor PEABODY. I have been tremendously interested in this whole<lb/>
+problem for a great many years. I have taught the subject of<lb/>
+biology in the Morris High School, and as soon as this yellow-fever<lb/>
+story came forward my interest centered greatly on that.</p>
+<p>It has been my good fortune to know Mrs. Lazear, whose husband<lb/>
+died of yellow fever out in California. I was also acquainted with<lb/>
+Mr. Kissinger, who was the first one to volunteer for these experi-<lb/>
+ments; and we believe there is no subject in the curriculum of biology<lb/>
+that has any greater lesson of heroism for our children than has this<lb/>
+one of the conquest of yellow fever, and so we appealed to the Ameri-<lb/>
+<pb n="4" id="f03151006"/>
+4<lb/>
+YELLOW FEVER<lb/>
+can Society for Medical Progress to take the leadership in formulat-<lb/>
+ing some possible legislation. Doctor Barrows, of that society, is<lb/>
+present here to-day. He will take it up from this point.</p>
+<p>Mr. WAINWRIGHT. I will call next on Doctor Barrows. Doctor,<lb/>
+will you explain the purposes of the American Association for<lb/>
+Medical Progress?</p>
+<p>STATEMENT OF DR. EDWARD M. BARROWS, REPRESENTING THE<lb/>
+AMERICAN ASSOCIATION FOR MEDICAL PROGRESS (INC.)</p>
+<p>Doctor BARROWS. We are a lay organization--that is to say, non-<lb/>
+medical or nonscientific in every sense of the word--with a national<lb/>
+organization.</p>
+<p>The general purpose has been to try and impress upon the public<lb/>
+through the schools and colleges, and through the public health<lb/>
+department, or any way we can, some understanding of the methods<lb/>
+and the procedure through which these great discoveries in medi-<lb/>
+cine have been made, such as the yellow-fever experiment, such as<lb/>
+the spotted-fever experiment which is now going on in the Public<lb/>
+Health Service, and the work of Pasteur and Lister, through<lb/>
+which individuals, at the risk of their own lives and health and<lb/>
+everything they ever hoped to have, have been able to solve the great<lb/>
+problems of disease and bring about the mitigation which has so<lb/>
+greatly improved the lot of man, both in America and in Europe.</p>
+<p>We were inspired to do that as a matter not only of academic<lb/>
+interest, but because certain conditions in the United States due to<lb/>
+ignorance of this very thing, have led to unscientific and emotional<lb/>
+attacks, perhaps, on the medical practice and medical progress in a<lb/>
+great many ways, in which, without any argument here as to the<lb/>
+point of view that the antivaccinationists and the antivivisectionists<lb/>
+take, they attempt to give the public some kind of a degree of under-<lb/>
+standing of what the work of the laboratory research worker is and<lb/>
+what he does and what his contribution to science has been. That has<lb/>
+been a direct reenforcement to the public-health agencies of the<lb/>
+United States, as we have had evidence everywhere, as well as to the<lb/>
+science teaching in the schools.</p>
+<p>It was inevitable, therefore, that with this interest in the face of<lb/>
+yellow-fever experimenters, as evidenced in the case of Private<lb/>
+Kissinger and his fellows a few years ago when this interest began to<lb/>
+arise in that, they should turn to this organization which is the na-<lb/>
+tional representative of prominent laymen, and scientists over the<lb/>
+country should be asked to see what they can do, first toward giving<lb/>
+some kind of recognition to these particular experimenters, and then<lb/>
+to see if anything could be done in the future, so that any man who, in<lb/>
+the course of his duty in carrying on these investigations at the risk<lb/>
+of his life, for which he now receives no credit, should thenceforth<lb/>
+know that there would be some method of national recognition of<lb/>
+what he has done. It is not only a matter of financial reward. Tak-<lb/>
+ing these yellow-fever experiments alone, there were many instances<lb/>
+there in which men who participated in them are not necessarily<lb/>
+poverty stricken in their old age, but we have felt very strongly that<lb/>
+the obligation of the country rested on a wholly different basis; that<lb/>
+whether a private, a colonel, or a doctor in the medical profession,<lb/>
+<pb n="5" id="f03151007"/>
+YELLOW FEVER<lb/>
+5<lb/>
+when a man offers his life, outside of the strict line of his duty, when<lb/>
+he is giving all he has got to give, nothing can pay for that.</p>
+<p>On the other hand, there are different forms of recognition which<lb/>
+are appropriate in different cases; perhaps, a medal for some, and a<lb/>
+money grant for others, all depending on the specific nature of the<lb/>
+service performed on the one hand, and on the personality of the<lb/>
+people involved on the other, which would make it incumbent that in<lb/>
+the future there should be an official method by which the value of<lb/>
+the services could be determined by an official body, and the Nation<lb/>
+could express its recognition, in the future, of the services performed<lb/>
+along authoritative, authentic lines indicated.</p>
+<p>That, necessarily, could not apply to the past. That is water<lb/>
+under the bridge.</p>
+<p>These yellow-fever experimenters went through their ordeal about<lb/>
+18 or 19 years ago. At that time there was no method at all for<lb/>
+making any differentiation, or giving any adequate reward for what<lb/>
+they had done.</p>
+<p>Meantime, some of them have died; some of them have disappeared;<lb/>
+some of them are in actual want, as the records show clearly; but in<lb/>
+order to try to complete it down and judge each person's case with<lb/>
+these old men who belong now to a passing generation, who have<lb/>
+given so much time and effort, the best we can do right now is to let<lb/>
+the minimum of the reward we give them be that which would have,<lb/>
+perhaps, been the greatest thing, the national recognition; and then<lb/>
+for those particular experiments, let them go through, and as the<lb/>
+standard method of evidencing our appreciation, and that in the<lb/>
+future a national body of some kind, or a special commission, be<lb/>
+appointed by the President.</p>
+<p>I do not need to go into the details. That was rejected. We<lb/>
+might have gotten it through in several years if we could have gotten<lb/>
+the agreement of several hundred men of different ideas as to who<lb/>
+should constitute the commission and what they should do.</p>
+<p>I will say parenthetically that we have had a great deal of corre-<lb/>
+spondence from all over the country from lawyers and professional<lb/>
+men and teachers, men such as President Franck, of the University<lb/>
+of Wisconsin, through every rank or walk of life throughout the<lb/>
+country, who have expressed their interest and their opinions on<lb/>
+this bill and as to what should be done about it, and have said that<lb/>
+if we could we should find an authoritative body here in Washing-<lb/>
+ton which could be the recipient for reports of cases of this kind.</p>
+<p>I will give you an instance of one of these experiments. Probably<lb/>
+you have followed the investigation by the Public Health Service of<lb/>
+the spotted fever. Two or three men have lost their lives in that.<lb/>
+They are not soldiers, yet their contribution to this country's welfare<lb/>
+is incalculable.</p>
+<p>Mr. WAINWRIGHT. If I may interrupt you----</p>
+<p>Doctor BARROWS. Yes.</p>
+<p>Mr. WAINWRIGHT. I noticed in the New York Times of Sunday<lb/>
+last a case of the kind in Montana, of one of the men you refer to,<lb/>
+who had died, and in the dispatch the question was raised as to<lb/>
+&ldquo;What should we do about cases of that kind?&rdquo;</p>
+<p>Doctor BARROWS. Yes; I think that is the third case, or somewhere<lb/>
+there, in the Public Health Service alone, of men who have sub-<lb/>
+<pb n="6" id="f03151008"/>
+6<lb/>
+YELLOW FEVER<lb/>
+mitted themselves to certain experiments and have paid the penalty<lb/>
+with their lives, just working in their capacity of Government em-<lb/>
+ployees but certainly undertaking risks to try to do everything<lb/>
+possible in the solving of these diseases far beyond what we should<lb/>
+expect of a man on a salary.</p>
+<p>I should interpolate one thing, if I may take the time here to<lb/>
+speak, that there are certain of the medical problems which are under<lb/>
+investigation to-day in which a certain amount of human experi-<lb/>
+mentation that is of a most voluntary character is necessary; a<lb/>
+man exposing himself to infection or exposing himself to the results<lb/>
+of some experiment is absolutely essential if the experiment is to be<lb/>
+carried through in its entirety. Of course, any man has a right<lb/>
+to stop when he thinks his own interests are concerned, and say, &ldquo;I<lb/>
+will go no further&rdquo;; but they do not do it.</p>
+<p>A certain amount of research work and experimentation is impera-<lb/>
+tively necessary in many cases; but after all there is a certain divid-<lb/>
+ing line in certain things in which the final test has to come either<lb/>
+through a man carrying on his own research and experiment just<lb/>
+a little bit beyond the usual line, or else a man accepts them, as in the<lb/>
+case of spotted fever and some other things of that kind. So far as<lb/>
+they are concerned it is all in the day's work, as scientists and as<lb/>
+servants of the public. But after all, we have always felt from our<lb/>
+contacts with the people of the United States--the thinking people<lb/>
+anyway--that the obligation is even greater on the part of the<lb/>
+country to recognize the services and self-sacrifice of men who do<lb/>
+that kind of work, from the selfish point of view, from self-interest<lb/>
+alone; so that when a man is confronted with that question, &ldquo;Shall<lb/>
+I go ahead and risk my life, or shall I stop right here, as I have<lb/>
+a right to do,&rdquo; if the decision is for sacrifice he hay at least feel<lb/>
+that he is not going to involve his wife and children or other de-<lb/>
+pendents throughout all the future; that there is such a thing as<lb/>
+gratitude in a republic; that if he has to pay the ultimate penalty he<lb/>
+can at least do it with the feeling that those dependent on him<lb/>
+will be taken care of in the future.</p>
+<p>On the other hand, the bill is so framed, as I pointed out, that<lb/>
+it does not contemplate a money grant in all cases for all people.<lb/>
+In some cases, where it is a matter of signal recognition by the<lb/>
+Government, of a man who is otherwise able to take care of him-<lb/>
+self, it will be in the form of a medal, in the form of an official<lb/>
+testimonial that you wanted to give.</p>
+<p>I should like to close by pointing out just one or two expressions<lb/>
+in the bill which I know are going to come up before your honorable<lb/>
+body here, and they did come up and have been the subject of a<lb/>
+good deal of anxious study on our part, and I would like to take a<lb/>
+moment to give you the benefit of our action on certain points that<lb/>
+will likely come up here.</p>
+<p>I have already alluded to reasons why, in drafting the bill here,<lb/>
+we got the names from the War Department with all the statistics,<lb/>
+and have gotten all the facts as to whatever happened to them after-<lb/>
+wards, and we have presented them here, and ask that all of them<lb/>
+be given enough in their declining years to keep them comfortably<lb/>
+and to take care of any dependents that they may have. That is the<lb/>
+reason for the apparent inconsistency here of colonels and higher<lb/>
+officers, and privates, together. In the particular case they are all<lb/>
+<pb n="7" id="f03151009"/>
+YELLOW FEVER<lb/>
+7<lb/>
+receiving the same reward. This is a matter, really, of taking care<lb/>
+of the old age of men who, after all, have a certain minimum<lb/>
+requirement.</p>
+<p>The Board of Regents of the Smithsonian Institution were au-<lb/>
+thorized to investigate all cases. The question of all cases is not<lb/>
+as formidable as it sounds. So far as the intent in this bill is con-<lb/>
+cerned, I think that the number of cases in the last 20 years would<lb/>
+be not more than 15 or 20 at the outside; but they are all important,<lb/>
+and there is no telling at what point that situation is going to<lb/>
+change.</p>
+<p>We had already found, I think, as the Congressman has pointed<lb/>
+out, that the Board of Regents would be in the line of their duties--<lb/>
+of their power--to report to Congress on certain things, and that<lb/>
+this simply is taking further advantage of that power.</p>
+<p>I have nothing further to add to this purely formal statement,<lb/>
+but, of course, I am at the disposal of the committee for questions.</p>
+<p>Mr. SPEAKS. I want to ask the doctor whether, in his opinion, the<lb/>
+list of applicants for recognition would not very greatly increase<lb/>
+under the provisions of this bill?</p>
+<p>Doctor BARROWS. I do not believe it would. As far as I could<lb/>
+get them from the War Department, I took the names of all of the<lb/>
+persons that had taken part in the experiments, and no others.</p>
+<p>Mr. SPEAKS. But heretofore the action has been a voluntary one<lb/>
+on the part of the man who offered himself as a sacrifice. There<lb/>
+was no suggestion of reward. My thought is, Will not the fact<lb/>
+that a law of this nature is in existence be an inducement, and<lb/>
+cheapen just a little bit the character of the sacrifice? I am not<lb/>
+criticizing. This is just a thought that comes into my mind.</p>
+<p>Doctor BARROWS. I can see that that is possible, and I have had<lb/>
+that in mind somewhat, with the fact that there are men who would<lb/>
+give all they could if it were not for the fact that they are burdened<lb/>
+with dependents and are living under circumstances that they can<lb/>
+not otherwise control.</p>
+<p>Mr. SPEAKS. Thousands of men try to live up to that great prin-<lb/>
+ciple that &ldquo;No greater love can a man have than that he give his<lb/>
+life for his friend.&rdquo; At one time a close friend and comrade of<lb/>
+mine, of a very close association of years, heard a woman crying,<lb/>
+and responding immediately, he ran to see what was the matter, and<lb/>
+a colored man who was assaulting this woman shot and killed him<lb/>
+instantly. That was a voluntary act on his part, in response to an<lb/>
+impulse which is in the mind of every honest man--any real man<lb/>
+of high motives--which is to rush to the aid and assistance of any-<lb/>
+body in peril. But my thought was, here is an invitation; and I am<lb/>
+just fearful that it will induce a cheapening of the principle upon<lb/>
+which we expect to make awards. That is a suggestion, now, and<lb/>
+not a criticism.</p>
+<p>Doctor BARROWS. I understand. As I stated, I can conceive of the<lb/>
+possibility of a man being spurred on by the fact that if he did act,<lb/>
+his dependents would be taken care of, possibly. After all, it does<lb/>
+not do a man very much good after his death to get a reward, cer-<lb/>
+tainly.</p>
+<p>Mr. SPEAKS. I am not thinking of the men alone, but of the agency<lb/>
+which administers. It will be up to their judgment, first, to de-<lb/>
+termine and make the recommendation to Congress, and then it will<lb/>
+<pb n="8" id="f03151010"/>
+8<lb/>
+YELLOW FEVER<lb/>
+be for the Congress to decide whether it falls within that category<lb/>
+which should meet with reward.</p>
+<p>Mr. WAINWRIGHT. For that reason I would say we determined on<lb/>
+the high and disinterested agency of the Smithsonian Institution,<lb/>
+considering the character of the men that serve on the board of the<lb/>
+Smithsonian.</p>
+<p>I notice we have two Members of Congress here whom I would<lb/>
+like to have you hear, and to suit their convenience I will call upon<lb/>
+them now, unless they would be willing to wait until this case is<lb/>
+entirely developed.</p>
+<p>Mr. MOORE of Virginia. I am perfectly willing to wait, Colonel.</p>
+<p>Mr. WAINWRIGHT. General Ireland, I would like to call upon you<lb/>
+now to comment upon this legislation, particularly as to the accuracy<lb/>
+of this list, and how this would work, and what is the present status<lb/>
+of the individuals.</p>
+<p>STATEMENT OF MAJ. GEN. M. W. IRELAND, SURGEON GENERAL<lb/>
+UNITED STATES ARMY</p>
+<p>General IRELAND. Mr. Chairman and gentlemen, I am very glad<lb/>
+to appear before the committee in support of this bill, because my<lb/>
+distinguished predecessor, Gen. Robert M. O'Reilly, the greatest<lb/>
+Surgeon General that the Army ever had, made a similar recom-<lb/>
+mendation as far back as 1905. He prepared a memorandum which<lb/>
+was sent to the President, and which was forwarded to the Congress<lb/>
+with this comment [reading]:</p>
+<p>The inclosed papers are transmitted to the Congress in the hope that it will<lb/>
+take suitable action in this matter. Major Reed's part in the experiments<lb/>
+which resulted in teaching us how to cope with yellow fever was such as to<lb/>
+render mankind his debtor, and this Government should in some proper fashion<lb/>
+bear witness to this fact.</p>
+<p>THEODORE ROOSEVELT.</p>
+<p>DECEMBER 5, 1906.</p>
+<p>Walter Reed was the head of the board that went to Cuba in 1900<lb/>
+to discover, if possible, the cause of yellow fever. By October, 1900,<lb/>
+he had proven to his own satisfaction that it was caused by the mos-<lb/>
+quito. This was proven to the world very shortly afterwards, and<lb/>
+in proving that yellow fever was transmitted by a certain species<lb/>
+of mosquito, he made the greatest progress in preventive medicine<lb/>
+that had been made in the world up to that time; and I think it is<lb/>
+a very small thing for this Government to give a reward for those<lb/>
+who were connected with these experiments, and to my mind it does<lb/>
+seem very hard to divide the people who are interested into two cate-<lb/>
+gories: First, the board which consisted of Reed, Carroll, Lazear,<lb/>
+and Agramonte. They were the front and center that made these<lb/>
+experiments possible by their scientific attainments. Second, are the<lb/>
+volunteers who were bitten by mosquitoes and who contracted yellow<lb/>
+fever; third, are those volunteers who willingly went into a house<lb/>
+where the bedding and clothing of people who had had yellow fever<lb/>
+were placed, and slept in the bedding and clothing for a certain<lb/>
+number of nights, to determine whether they were infectious. It<lb/>
+seems as though that is a very simple way to divide the people who<lb/>
+had part in these experiments.</p>
+<pb n="9" id="f03151011"/>
+<p>YELLOW FEVER<lb/>
+9</p>
+<p>Mr. MCSWAIN. I would inquire if the General would not add a<lb/>
+fourth class, of those who submitted to subcutaneous inoculation of<lb/>
+blood from yellow-fever patients?</p>
+<p>General IRELAND. If they had it.</p>
+<p>Mr. MCSWAIN. Yes; if they contracted the disease. There were<lb/>
+some.</p>
+<p>General IRELAND. There are several ways in which yellow fever<lb/>
+can be transmitted--by being bitten or by subcutaneous transmis-<lb/>
+sion of the blood of a patient.</p>
+<p>That seems a simple way to subdivide those who had part in<lb/>
+these experiments, and it seems to me that for the first class; that<lb/>
+is, the individuals if they are living, or their widows, $3,000 a year<lb/>
+would be a suitable reward.</p>
+<p>To those of the second class, $2,000 would be a suitable reward;<lb/>
+and for those of the third class, $1,200 a year would be a suitable<lb/>
+reward.</p>
+<p>Mr. QUIN. What is the difference in the third class?</p>
+<p>General IRELAND. They went into this building and wore clothing<lb/>
+and slept in bedding of yellow-fever patients. They did not know<lb/>
+at that time that they were not infectious. It was proven after-<lb/>
+wards that they were not infectious, and that they did not undergo<lb/>
+any danger whatever.</p>
+<p>Mr. QUIN. Your three classes now include the men bitten by the<lb/>
+mosquito and the ones that had the blood transfusion?</p>
+<p>General IRELAND. They are in the second class.</p>
+<p>Mr. QUIN. And what is the first class?</p>
+<p>General IRELAND. The board who had charge of this work, who<lb/>
+made this work possible.</p>
+<p>Mr. QUIN. The doctors?</p>
+<p>General IRELAND. Yes; the scientific men. They were all men of<lb/>
+scientific attainments, and they made this work possible.</p>
+<p>Mr. QUIN. Your third class includes the gentlemen who went into<lb/>
+buildings and slept in there where yellow-fever patients had died?</p>
+<p>General IRELAND. Yes; we know now that they did not take any<lb/>
+chances at all.</p>
+<p>Mr. HILL of Alabama. That bedding was not very clean; was it?</p>
+<p>General IRELAND. It certainly was not. There is a list here of the<lb/>
+people who took part in those experiments.</p>
+<p>Mr. WAINWRIGHT. Can you divide that list according to the classi-<lb/>
+fications you have made?</p>
+<p>General IRELAND. Yes. Here is a list here of the people who took<lb/>
+charge of those experiments, and the names of the board, those inocu-<lb/>
+lated with yellow fever, and those exposed to infection only.</p>
+<p>THE YELLOW FEVER ROLL OF HONOR</p>
+<p>MEMBERS OF THE YELLOW FEVER BOARD</p>
+<list type="simple">
+<item>Maj. Walter Reed.</item>
+<item>Maj. James Carroll. Had experimental yellow fever.</item>
+<item>Dr. Jesse W. Lazear. Died of yellow fever, not experimental.</item>
+<item>Dr. Aristides Agramonte.</item>
+</list>
+<pb n="10" id="f03151012"/>
+<p>10<lb/>
+YELLOW FEVER</p>
+<p>INOCULATED WITH YELLOW FEVER</p>
+<p>
+<list type="simple">
+<item>Pvt. John H. Andrus, Hospital Corps.</item>
+<item>Mr. John R. Bullard.</item>
+<item>Pvt. A. W. Covington, Twenty-third Battery, Coast Artillery Corps.</item>
+<item>Pvt. Wm. H. Dean, Troop B, Seventh Cavalry.</item>
+<item>Pvt. Wallace Forbes, Hospital Corps.</item>
+<item>Pvt. Levi E. Folk, Hospital Corps.</item>
+<item>Pvt. P. Hamann, Twenty-third Battery, Coast Artillery Corps.</item>
+<item>Pvt. Jas. F. Hanberry, Hospital Corps.</item>
+<item>Pvt. Warren G. Jernegan, Hospital Corps.</item>
+<item>Pvt. John R. Kissinger, Hospital Corps.</item>
+<item>Mr. John J. Moran.</item>
+<item>Pvt. William Olson, Hospital Corps.</item>
+<item>Pvt. Chas. G. Sonntag, Hospital Corps.</item>
+<item>Pvt. Clyde L. West, Hospital Corps.</item>
+</list>
+</p>
+<p>EXPOSED TO FOMITES ONLY</p>
+<p>
+<list type="simple">
+<item>Dr. R. P. Cooke, Acting Assistant Surgeon.</item>
+<item>Pvt. Thomas M. England, Hospital Corps.</item>
+<item>Pvt. James Hildebrand, Hospital Corps.</item>
+<item>Pvt. Edward Weatherwalks, Hospital Corps.</item>
+</list>
+</p>
+<p>The CHAIRMAN. Will you file that with us?</p>
+<p>General IRELAND. Yes, sir.</p>
+<p>The CHAIRMAN. Is that these names that are on file?</p>
+<p>General IRELAND. Yes.</p>
+<p>The CHAIRMAN. Also, will you mark them?</p>
+<p>General IRELAND. If you will allow me, I will furnish you a copy<lb/>
+of this just as soon as I get to my office.</p>
+<p>The CHAIRMAN. Have you compared the bill with the list you<lb/>
+are now referring to, and does it accurately cover all those that are<lb/>
+included in the categories?</p>
+<p>General IRELAND. I think so. There were 4 members of the<lb/>
+board, 14 inoculated with yellow fever, and 4 who exposed them-<lb/>
+selves to bedding and clothing.</p>
+<p>Mr. SPEAKS. Who were the four of the board?</p>
+<p>General IRELAND. Reed, Carroll, Lazear, and Agramonte.</p>
+<p>Mr. QUIN. Is Major Reed's wife getting any pension now?</p>
+<p>General IRELAND. $125 a month.</p>
+<p>Mr. QUIN. What you propose in here is to have her paid $2,000<lb/>
+a year?</p>
+<p>General IRELAND. $3,000. The Secretary of War in 1902 recom-<lb/>
+mended that suitable rewards should be given to the people who put<lb/>
+this experiment through, and as the result the recommendation was<lb/>
+made that Walter Reed should be made a colonel--he was a major--<lb/>
+and that General Gorgas, who had no part in the experiments what-<lb/>
+ever but who was sanitary officer at Habana and who put into prac-<lb/>
+tical application the discoveries that the Walter Reed board made,<lb/>
+who put those discoveries into operation, should be made a lieutenant<lb/>
+colonel; but before that bill could be made a law Walter Reed died,<lb/>
+in November, 1902, and it was then recommended that Major Gorgas<lb/>
+be promoted to the grade of colonel, and that was done.</p>
+<p>Mr. QUIN. Did his widow receive a pension?</p>
+<p>General IRELAND. His widow, as I understand, sir, has received a<lb/>
+pension, but not for this work. I understand that Mrs. Gorgas has<lb/>
+a pension for the distinguished work that he did as sanitary officer<lb/>
+of Habana, Cuba, and as sanitary officer of the Isthmian Canal.</p>
+<pb n="11" id="f03151013"/>
+<p>YELLOW FEVER<lb/>
+11</p>
+<p>Mr. QUIN. My recollection is that I voted for it.</p>
+<p>General IRELAND. I have no doubt you did, sir.</p>
+<p>Mr. QUIN. Do you know what the amount was?</p>
+<p>General IRELAND. No, sir; but I can find out and inform you.</p>
+<p>Mr. QUIN. I do not want you to go to any trouble about it.</p>
+<p>General IRELAND. It will be no trouble at all.</p>
+<p>Mr. QUIN. I think she is entitled to it, and I believe Walter Reed's<lb/>
+widow is, too, and so far as I am concerned, I think all these folks<lb/>
+are.</p>
+<p>Mr. HILL of Alabama. I do not want to put you off, but I want<lb/>
+to emphasize the fact that if it had not been for the discoveries of<lb/>
+that board we perhaps never could have built the Panama Canal.</p>
+<p>General IRELAND. I agree to that. The French tried to build the<lb/>
+Panama Canal and failed. It could not be done because their<lb/>
+laborers died of yellow fever as fast as they sent them over there.<lb/>
+I think the world recognizes that the work of the Walter Reed board<lb/>
+made possible the regeneration of Cuba and the building of the<lb/>
+Panama Canal, and it has already resulted in eradicating yellow<lb/>
+fever from the Western Hemisphere, and in a very short time I am<lb/>
+sure it will result in eradicating yellow fever from the face of the<lb/>
+earth.</p>
+<p>A tremendous work is now being done on the West Coast of Africa<lb/>
+by the Rockefeller Foundation, and the field work there is headed<lb/>
+by an eminent man who was in the Medical Corps when we went to<lb/>
+France, a Doctor Bute.</p>
+<p>Mr. QUIN. Is he still in the service?</p>
+<p>General IRELAND. No; he resigned. A man who is in the front<lb/>
+and center of that--we might as well speak well of the Medical<lb/>
+Department--is Frederick Russell, who remained in the Medical<lb/>
+Corps for 22 years and resigned as a colonel to be the chief of the<lb/>
+international health board under the Rockefeller Foundation.</p>
+<p>Mr. QUIN. Some of these gentlemen who live in the North are not<lb/>
+acquainted with the awful ravages of the yellow fever. I live in that<lb/>
+country where it played the devil. I wish you would give some<lb/>
+outline of what the yellow fever meant.</p>
+<p>General IRELAND. When I am talking to the General Staff--Major<lb/>
+Hammond is going to laugh now--I tell them what I told him, that<lb/>
+the discovery of Walter Reed pays this Government every year for<lb/>
+the entire expense of the Medical Department from the beginning,<lb/>
+for all time to come. I do not think that anyone has the imagination<lb/>
+to understand what an epidemic of yellow fever would mean in this<lb/>
+country to-day. Every summer the people from the South had to<lb/>
+leave their towns and go up North; they did not know what for, but<lb/>
+it was to get away from the mosquito.</p>
+<p>Mr. QUIN. Tell them about New Orleans.</p>
+<p>General IRELAND. In the last tremendous epidemic at New Orleans<lb/>
+they had thousands and thousands of people die there. So many<lb/>
+died that there were not enough well people to bury the dead.</p>
+<p>Mr. QUIN. At home it devastated the country in 1878.</p>
+<p>General IRELAND. It devastated the country in 1878, and if anyone<lb/>
+wants to look up the history of that epidemic they can do it very<lb/>
+well by reading Gould's History of the United States, in which he<lb/>
+describes it in the most graphic way.</p>
+<pb n="12" id="f03151014"/>
+<p>12<lb/>
+YELLOW FEVER</p>
+<p>With the way we are living now, with the quarantine that would<lb/>
+result every year if we could not control yellow fever and the expense<lb/>
+to this county of people moving out of the South away to the North,<lb/>
+and with the suspension of business, it would amount to a billion<lb/>
+dollars every year. No one could tell what it would amount to.</p>
+<p>Mr. WAINWRIGHT. Will you say just a word, General, on section 2;<lb/>
+how we are going to cope with and provide for situations of this<lb/>
+kind?</p>
+<p>General IRELAND. That is opening up something that would keep<lb/>
+the Regents of the Smithsonian Institution busy all the time, and as<lb/>
+you are dealing here with one subject, it seems to me there should be<lb/>
+a limit of the work that would be thrown on the Regents, in some<lb/>
+way or other.</p>
+<p>Mr. WAINWRIGHT. Would you think that that limit would be<lb/>
+strong enough, that they be not required to consider any cases except<lb/>
+those sent up to them by a chief of a department?</p>
+<p>General IRELAND. I think so. There would have to be some way<lb/>
+to get rid of all of the self-seekers and the cranks.</p>
+<p>Mr. WAINWRIGHT. We have here to-day some of the members of<lb/>
+the Board of Regents, and we are going to invite their frank com-<lb/>
+ments on this subject.</p>
+<p>General IRELAND. That will be much better than my discussion.</p>
+<p>Mr. SPEAKS. I have forgotten the details of the organization of<lb/>
+that commission and the manner in which the men who made the<lb/>
+sacrifice were selected. Was the commission organized--did they<lb/>
+ask for volunteers--with an understanding as to the possibilities in<lb/>
+the service, etc.?</p>
+<p>General IRELAND. To start with, the Surgeon General of the Army,<lb/>
+Gen. George M. Sternberg, was a great investigator, and among<lb/>
+other things he investigated yellow fever. He had had cholera in<lb/>
+1867, and he had worked with yellow fever for years, and had some<lb/>
+ideas about the organism that transmitted yellow fever.</p>
+<p>When our troops went to Cuba and they were having yellow fever,<lb/>
+and so much yellow fever, he recommended that a board be con-<lb/>
+vened to go to Cuba and study yellow fever, and the board was as is<lb/>
+mentioned here.</p>
+<p>After Walter Reed had eliminated all of these theories that had<lb/>
+grown up in 50 years as to the transmission of yellow fever--and<lb/>
+that was a very easy thing for him to do--he took up the transmis-<lb/>
+sion of yellow fever by the mosquito, which had been postulated by<lb/>
+a Doctor Finley, of Habana, since 1881. He investigated the differ-<lb/>
+ent experiments that Doctor Finley had made; and during all these<lb/>
+years Doctor Finley had insisted that this was the way yellow fever<lb/>
+was transmitted, but he never could prove it in a scientific way.</p>
+<p>After Walter Reed had eliminated these preliminary claims, he<lb/>
+came to the point where he had to have human experimentation to<lb/>
+determine the mosquito theory, and when that time came, accom-<lb/>
+panied by Colonel Kean he went to General Wood, who as you re-<lb/>
+member was a doctor, and told him of his troubles, and asked for<lb/>
+authority to ask for volunteers to be bitten by infected mosquitoes.<lb/>
+General Wood not only gave him the authority, but he gave him the<lb/>
+money to either pay these men or to give them presents.</p>
+<p>Colonel Kean is going to speak to you, and he knows more about<lb/>
+those experiments than any other living being except Doctor Agra-<lb/>
+<pb n="13" id="f03151015"/>
+YELLOW FEVER<lb/>
+13<lb/>
+monte. Colonel Kean was for years right with him, his friend for<lb/>
+years, and he handled the money by which these volunteers were<lb/>
+paid, and has an intimate knowledge of it, and he has written prac-<lb/>
+tically all the literature that has been sent to Congress on yellow<lb/>
+fever.</p>
+<p>Mr. WAINWRIGHT. We have invited Congressman Davenport to<lb/>
+comment on this matter, and he has an engagement which requires<lb/>
+him to leave, and I am going to ask him now to say a word to the<lb/>
+committee.</p>
+<p>STATEMENT OF HON. FREDERICK M. DAVENPORT, A REPRE-<lb/>
+SENTATIVE IN CONGRESS FROM THE STATE OF NEW YORK</p>
+<p>Mr. DAVENPORT. Mr. Chairman and gentlemen of the committee,<lb/>
+with respect to the first section of the bill, I think the committee<lb/>
+should consider whether or not a flat pension to all the persons men-<lb/>
+tioned is the proper thing or, rather, the differentiated pension as<lb/>
+has been suggested.</p>
+<p>About section 2, as I have listened here I have felt some misgiv-<lb/>
+ings about an investigating authority that seems to be put in the<lb/>
+position of ferreting out these cases. It seems to me it is perhaps<lb/>
+going too far, and the question arises whether it is not better to have<lb/>
+spontaneous heroism make its appeal to public opinion rather than to<lb/>
+set up a distinct machinery of authority.</p>
+<p>But what I came to say especially is this: It seems to me that we<lb/>
+are considering in this bill the very highest form of heroism. We<lb/>
+all recognize the importance of rewarding in public opinion and in<lb/>
+other ways the heroism of the Army and the Navy; yet I am won-<lb/>
+dering whether this kind of heroism is not even a higher kind than<lb/>
+that which is often associated with men of the Army and Navy.<lb/>
+I am wondering whether it is not easier sometimes to face the music<lb/>
+of the guns when your blood is up and you have all your comrades<lb/>
+around you and you have the collective pressure close to you so that<lb/>
+you can feel it, than it is to do what John Kissinger did--to walk in<lb/>
+to Walter Reed and say to him that he was ready to go ahead with<lb/>
+this deadly experiment; and after Walter Reed had cross-examined<lb/>
+him and found that he knew just exactly what he was doing, I am<lb/>
+not at all surprised that Maj. Walter Reed saluted Pvt. John Kis-<lb/>
+singer. It seems to me it is the highest form of heroism to do that<lb/>
+sort of thing. To deal with a matter of this kind in the way con-<lb/>
+templated by the bill is one of the ways of putting a spirit of con-<lb/>
+fidence in the Government of the United States into the rising genera-<lb/>
+tion of young men and women of this country. I do not like very<lb/>
+well the evidence that we have around us sometimes of the lack of<lb/>
+a genuine confidence in the Government of the United States; the<lb/>
+jocose way in which in many places the Government of the United<lb/>
+States is spoken of, and the lawless manner in which so many people<lb/>
+in this country seem to act in defiance of the Government of the<lb/>
+United States. And I know that cases like these yellow-fever ex-<lb/>
+periment cases are the subject of discussion among our young folks.<lb/>
+I have happened to be an educator most of my life, before I got into<lb/>
+public affairs, and even since I got into public affairs, and I know<lb/>
+that cases like this are known and commented upon and read about<lb/>
+and talked about among the young men and women who are growing<lb/>
+<pb n="14" id="f03151016"/>
+14<lb/>
+YELLOW FEVER<lb/>
+up in this country, and I am anxious to see such injustices cured, so<lb/>
+that there will not be any question that these boys and girls who are<lb/>
+just now at the Easter vacation crowding the streets of Washington<lb/>
+from all over the country, with awe and reverence for the Govern-<lb/>
+ment of the United States in their hearts, may never have any reason<lb/>
+to say, &ldquo;Well, the Government is not what I thought it was.&rdquo;</p>
+<p>Mr. WAINWRIGHT. I wonder if the concluding thought of my<lb/>
+colleague is not in favor of some such procedure as is provided in<lb/>
+section 2 of this bill?</p>
+<p>Mr. DAVENPORT. If it is simple enough so that it does not make<lb/>
+mechanical the whole procedure, yes; but otherwise, no.</p>
+<p>Mr. WAINWRIGHT. I remember that the hour of the session of the<lb/>
+House is approaching, and we have another Member of Congress<lb/>
+here whom I have invited, and we are very much gratified that he is<lb/>
+here. He is one of the Regents of the Smithsonian, our colleague, Mr.<lb/>
+Moore, of Virginia, and I would like to have his comment on this<lb/>
+measure.</p>
+<p>STATEMENT OF HON. R. WALTON MOORE, A REPRESENTATIVE<lb/>
+IN CONGRESS FROM THE STATE OF VIRGINIA</p>
+<p>Mr. MOORE. Mr. Chairman and gentlemen of the committee, I<lb/>
+knew nothing about this bill until an hour or so ago, and as the<lb/>
+Secretary of the Board of Regents of the Smithsonian Institution<lb/>
+is here, I shall ask him to discuss the second section.</p>
+<p>I think if that section is adopted it will certainly be necessary<lb/>
+to apply such limitations as will save the Board of Regents from<lb/>
+almost endless work in making investigations. That is a point<lb/>
+which I simply leave with the committee.</p>
+<p>With respect to the first section of the bill, it seems to me, from<lb/>
+my point of view, that there should be no hesitation in giving it<lb/>
+very sympathetic consideration. Just the other day the House<lb/>
+passed a bill having reference to General Gorgas, who is recognized<lb/>
+as the greatest sanitarian the world has ever known, in his applica-<lb/>
+tion of the discoveries made by the Walter Reed Board with a view<lb/>
+to the successful extermination of yellow fever.</p>
+<p>By the way, at one time, recurring to a question that was asked<lb/>
+a while ago, the yellow fever ravaged this country as far north as<lb/>
+Boston. I read recently a book written by an English traveler in<lb/>
+this country in 1800, who spoke of having landed in New York and<lb/>
+having made his way to Philadelphia where he found that yellow<lb/>
+fever was raging to such an extent that he was afraid to stay there,<lb/>
+and then came along southward, and reached South Carolina where<lb/>
+he found the same condition obtained.</p>
+<p>As for the Walter Reed Board, there can not be the slightest mis-<lb/>
+giving that, under the leadership and direction of Walter Reed, it<lb/>
+performed such a service as had never been performed before and<lb/>
+has never been duplicated. There never has been such a valuable<lb/>
+investigation of the cause of a dreadful disease, paving the way to<lb/>
+the method of eliminating that disease. General Gorgas himself<lb/>
+spoke of that board as &ldquo;the now famous and immortal board.&rdquo;</p>
+<p>If any men are entitled to such immortality as can be given them<lb/>
+in the public estimation by a suitable recognition by the Govern-<lb/>
+<pb n="15" id="f03151017"/>
+YELLOW FEVER<lb/>
+15<lb/>
+ment of the United States, it seems to me they are the people who are<lb/>
+designated in the first section of this bill.</p>
+<p>I shall not say anything now about Reed, because my friend, Colonel<lb/>
+Kean, my friend of a lifetime--he and I were desk mates at school----</p>
+<p>Mr. HILL of Alabama. Is the colonel a Virginian?</p>
+<p>Mr. MOORE of Virginia. Yes; a Virginian, just as Walter Reed<lb/>
+was a Virginian. The little, humble house stands in old Gloucester<lb/>
+County to this day where Walter Reed first saw the light.</p>
+<p>As I said, Colonel Kean was his right-hand man in the great<lb/>
+adventure and achievement in Habana, and all that we can know now<lb/>
+about Walter Reed in addition to what the books contain Colonel<lb/>
+Kean is able to tell us.</p>
+<p>Mr. MCSWAIN. In that connection I would suggest that another<lb/>
+Virginian, Dr. Robert P. Cook was there doing duty in various ways<lb/>
+as a contract surgeon.</p>
+<p>Mr. MOORE of Virginia. There never was a more self-sacrificing<lb/>
+man than Reed or than the gentlemen who were associated with him<lb/>
+and worked under his direction. I do not think you can search his-<lb/>
+tory and find any such shining examples of long and unquestioned<lb/>
+self-sacrifice as those people made. I may say that my friend, Colonel<lb/>
+Kean, was one of the men who contracted the dreadful yellow-fever<lb/>
+disease while the work of the board was going on at Habana.</p>
+<p>Mr. WAINWRIGHT. Colonel Kean needs no introduction from me<lb/>
+after the introduction he has already had, and I am sure the com-<lb/>
+mittee will be glad to hear him. Colonel, will you give your name<lb/>
+and your present occupation and your service in the Army?</p>
+<p>STATEMENT OF COL. JEFFERSON R. KEAN, UNITED STATES<lb/>
+ARMY, RETIRED</p>
+<p>Colonel KEAN. Colonel Jefferson R. Kean, United States Army,<lb/>
+retired. I am at present secretary of the Association of Military<lb/>
+surgeons of the United States.</p>
+<p>Gentlemen, I have not the gift of distinct statement and public<lb/>
+speaking that my old schoolmate, Congressman Moore, has, so that<lb/>
+I will not attempt to make any statement. I will probably repeat<lb/>
+things that you already know and that have already been said. My<lb/>
+idea is, therefore, that I will just state what my connection was with<lb/>
+this famous episode, such as it was, and then ask you to ask me ques-<lb/>
+tions. I am sure that in that way I will save your time and get at<lb/>
+the meat of the matter better than by wandering all over the whole<lb/>
+story, which is a long story, and in the course of which I might get<lb/>
+into bypaths that would not interest you.</p>
+<p>I happened to be in Cuba at the end of the Spanish War as chief<lb/>
+surgeon of the Seventh Army Corps, which was commanded by Gen.<lb/>
+Fitzhugh Lee, and headquarters of the corps were at Quemada, just<lb/>
+outside of Habana.</p>
+<p>After the volunteer army was sent home General Lee was kept<lb/>
+there in command of the regular troops that were brought down,<lb/>
+and there was a base at Quemada Barracks, which was the main gar-<lb/>
+rison in Cuba, and he remained in command of the local department.</p>
+<p>At the time that Walter Reed came to Cuba he commanded the<lb/>
+department of western Cuba, which included the western end of the<lb/>
+103083--28--PT 1---2<lb/>
+<pb n="16" id="f03151018"/>
+16<lb/>
+YELLOW FEVER<lb/>
+island, the Provinces of Habana and Pinar del Rio, but excepted the<lb/>
+city of Habana, which was under a separate military command. I<lb/>
+was General Lee's chief surgeon and had charge of sanitary matters<lb/>
+outside of the city of Habana. Major Gorgas was the sanitary officer<lb/>
+of the city of Habana.</p>
+<p>I had known Reed before he came down there. I happened to be<lb/>
+sick with yellow fever at the time he came down, and he came right<lb/>
+out to see me. I think I was the first case he ever saw.</p>
+<p>Reed and his board came, naturally, to Quemada Barracks, be-<lb/>
+cause they could get quarters there without expense and it would be<lb/>
+in a perfectly healthy region where they would not be exposed to<lb/>
+contract the disease themselves, and they would have the assistance<lb/>
+of the Military Establishment.</p>
+<p>As the chief surgeon for the medical instrumentalties there, I was<lb/>
+very delighted to put them at his disposition, and I was interested in<lb/>
+going through all the steps of these experiments. They were very<lb/>
+wonderful, and the interest and excitement was such that I could<lb/>
+often hardly sleep at night.</p>
+<p>He arrived on June 25, 1900, and the summer was spent, as General<lb/>
+Ireland has said, in removing false fears; and then they took up the<lb/>
+Finley theory, that old Doctor Finley had been advocating for 30<lb/>
+years and had not been able to demonstrate. A theory that is not<lb/>
+demonstrated is of no value at all in the opinion of scientific men.</p>
+<p>I do not think it is necessary for me to go into details of those<lb/>
+experiments, but I would suggest, Mr. Wainwright, that you ask me<lb/>
+questions about things that are not clear.</p>
+<p>Mr. WAINWRIGHT. I will ask you to take the bill, and take the list<lb/>
+of names, and state as briefly as possible what each one of those<lb/>
+people did. I am sure it will take you but a short time.</p>
+<p>Colonel KEAN. I am very glad to do that. Three out of the four<lb/>
+members of the Reed board are now dead, and their widows, Mrs.<lb/>
+Walter Reed, Mrs. James Carroll, and Mrs. Lazear are still living.<lb/>
+&check; <hi>Doctor Agramonte is still</hi> alive. He is a very fine man. I know him<lb/>
+very well. He has a position in the medical school in Habana.</p>
+<p>Mr. WAINWRIGHT. He was a member of that board?</p>
+<p>Colonel KEAN. He was a member of that board. He is a person<lb/>
+who should be remembered in any action taken by the Congress of<lb/>
+the United States. His history is briefly this: His father was killed<lb/>
+in battle against the Spaniards. Agramonte was brought by his<lb/>
+family as a little boy to New York. He was educated at Columbia<lb/>
+University.</p>
+<p>He became during the Spanish war a contract surgeon, an acting<lb/>
+assistant surgeon in the Army of the United States. After that, he<lb/>
+was sent to Habana.</p>
+<p>He was put on this board. He and Lazear both went to Columbia,<lb/>
+I think. He and Lazear were both in Habana at that time. They<lb/>
+were made members of this board, Reed and Carroll coming down<lb/>
+from Washington.</p>
+<p>Agramonte's services as a member of that board, unfortunately,<lb/>
+in the printed report, this Senate document, are not fairly stated.<lb/>
+That is the official report, the one that Mr. Roosevelt sent to Con-<lb/>
+gress. <hi>I prepared that statement for Surgeon General O'Reilly,<lb/>
+and I was misinformed at that time, and I am sorry to say I did<lb/>
+not do Agramonte justice</hi>.</p>
+<pb n="17" id="f03151019"/>
+<p>YELLOW FEVER<lb/>
+17</p>
+<p>Mr. WAINWRIGHT. May in interrupt you?</p>
+<p>Colonel KEAN. Yes.</p>
+<p>Mr. WAINWRIGHT. Are you referring now to the document which<lb/>
+gives in narrative form the service that each one of those individuals<lb/>
+performed?</p>
+<p>Colonel KEAN. Yes; it is a memorandum that states what each<lb/>
+man's service was, and what emolument he received, and so on, and<lb/>
+there is a list at the end of it giving the names.</p>
+<p>Mr. WAINWRIGHT. Will you proceed with each one of those, just<lb/>
+as briefly as possible, realizing the limitations of our time?</p>
+<p>Colonel KEAN. Mrs. Walter Reed is the first one. At the time of<lb/>
+Reed's death he had been nominated to be a colonel, but he died<lb/>
+before he got it. The service proposed that Congress give Mrs.<lb/>
+Reed his pay as a pension. The amount was cut down to $125 a<lb/>
+month, which is not enough for a lady to live on.</p>
+<p>Mr. FROTHINGHAM. What does she get now?</p>
+<p>Colonel KEAN. $125 a month.</p>
+<p>Mr. FROTHINGHAM. This committee last year reported a bill--<lb/>
+through Mr. McSwain, as I understand it--increasing various<lb/>
+amounts.</p>
+<p>Mr. MCSWAIN. No; it only referred to the pension of Dr. Robert<lb/>
+P. Cooke.</p>
+<p>Mr. FROTHINGHAM. What would you give them?</p>
+<p>Colonel KEAN. It seems to me that the amount the Surgeon Gen-<lb/>
+eral proposes in this bill for Mrs. Reed, Mrs. Carroll, Mrs. Lazear,<lb/>
+and Doctor Agramonte should go. It is the least Congress can do;<lb/>
+and I do not think Congress should leave out Doctor Agramonte in<lb/>
+any action they take. He is, of course, a Cuban.</p>
+<p>Mr. WAINWRIGHT. We have such a limited time; we are almost up<lb/>
+to 12 o'clock now, and we have two other speakers, so that possibly,<lb/>
+if a statement of exactly what each one of these did is in some docu-<lb/>
+ment, if you can refer us to that document, that would be sufficient.</p>
+<p>Colonel KEAN. I have a list of the categories.</p>
+<p>Mr. MCSWAIN. Mr. Chairman, I am going to ask that Colonel<lb/>
+Kean extend his remarks at length by stating just as freely as he<lb/>
+wants to, to get a stenographer or use his pen, and state for our<lb/>
+record, so that it will be printed and bound in the volume of this<lb/>
+hearing fully and completely, just as fully as he pleases, everything<lb/>
+in regard to this matter. Write a book as thick as this, Colonel<lb/>
+[indicating], and we will have it printed.</p>
+<p>Mr. WAINWRIGHT. Will you include the present age of each of<lb/>
+those persons?</p>
+<p>Colonel KEAN. Yes; and their addresses, if possible.</p>
+<p>Mr. MCSWAIN. Yes.</p>
+<p>Mr. JAMES. Did you have something to do with drawing up this<lb/>
+bill, Colonel?</p>
+<p>Colonel KEAN. Indirectly. The Surgeon General consulted me<lb/>
+about various elements of it, and I think he had some correspondence<lb/>
+about it. Directly, I did not have anything to do with it.</p>
+<p>Mr. JAMES. In line 16, on page 2, there is this language:</p>
+<p>And the Secretary of War is hereby directed to pay to the foregoing, during<lb/>
+the remainder of their natural lives, the sum of $250 per month in lieu of any<lb/>
+and all pensions now received.</p>
+<pb n="18" id="f03151020"/>
+<p>18<lb/>
+YELLOW FEVER</p>
+<p>Is that on the Treasury Department bill or the War Department<lb/>
+appropriation bill, or what?</p>
+<p>Mr. WAINWRIGHT. I am going to ask, when we get through with<lb/>
+this hearing, that this bill be submitted to Mr. Frothingham's subcom-<lb/>
+mittee for the purpose of going over it and making the obvious prac-<lb/>
+tical amendments to it that would be required to make it effective.<lb/>
+I realize the justice of the implied criticism.</p>
+<p>Doctor Abbott, the Secretary of the Board of Regents of the Smith-<lb/>
+sonian Institution, is here, and I have invited him to give us his<lb/>
+frank comment on this measure and to tell us how it could be handled<lb/>
+practically and how it should be restricted for practical handling by<lb/>
+the Board of Regents.</p>
+<p>STATEMENT OF DR. CHARLES G. ABBOTT, SECRETARY OF THE<lb/>
+SMITHSONIAN INSTITUTION</p>
+<p>Doctor ABBOTT. I am quite sure that the committee is sympathetic<lb/>
+to the first section of the bill and I will not speak of that.</p>
+<p>Section 2 provides as follows:</p>
+<p>SEC. 2. That the Board of Regents of the Smithsonian Institution is hereby<lb/>
+authorized to investigate all cases of citizens employed in the public service of<lb/>
+the United States who through voluntary risk of life and health shall have<lb/>
+rendered conspicuous service to the people of the country.</p>
+<p>This language does not seem to me, sir, to shut out all those who<lb/>
+might volunteer in the military and naval service of the United<lb/>
+States and render valuable services. There might be millions of<lb/>
+them, and I think the language should be so modified as to shut out<lb/>
+all those. They are treated in the pension laws of the United States.</p>
+<p>Then the question would arise whether the Board of Regents<lb/>
+should be authorized to seek out individuals. Apparently this lan-<lb/>
+guage, &ldquo;to investigate all cases,&rdquo; would impose upon them the require-<lb/>
+ment that they should look out and find such cases. It would seem<lb/>
+to me that that would be a very onerous charge; that it would be much<lb/>
+more than perhaps all the other work of the institution combined.</p>
+<p>Mr. WAINWRIGHT. I think the sponsors of this bill will recognize<lb/>
+that, and we would be glad to have some practical suggestions about<lb/>
+how we could limit this and limit it in a practical way.</p>
+<p>Doctor ABBOTT. Mr. Moore suggested to me a few moments ago<lb/>
+that it might be limited to those who are recommended by the heads<lb/>
+of the other departments of the Government so that that would cut<lb/>
+it down to a moderate amount.</p>
+<p>Mr. WAINWRIGHT. In other words, this bill only covers public<lb/>
+employees. Every public employee has a function under some de-<lb/>
+partment or bureau, and if it was required that the Regents of the<lb/>
+Smithsonian should consider only cases that were vouched for and<lb/>
+recommended by the heads of bureaus----</p>
+<p>Doctor ABBOTT. You understand, the term &ldquo;public employees&rdquo;<lb/>
+does not shut out employees of the Army and Navy, and if they were<lb/>
+included, there might be millions of them. It should be, if the Secre-<lb/>
+tary of War recommended to us some particular cases, which he<lb/>
+thought came under this sort of thing. It should not be cases which<lb/>
+would come under the pension service of the United States.</p>
+<p>It seems to me, sir, that the function of the Smithsonian in this<lb/>
+matter, if indeed the duty be devolved upon the Smithsonian, must<lb/>
+<pb n="19" id="f03151021"/>
+YELLOW FEVER<lb/>
+19<lb/>
+be that of judging cases for which the evidence has been collected<lb/>
+and submitted to the Institution by the heads of the various public<lb/>
+departments. It seems to me that it should be specifically stated who<lb/>
+shall impose this duty upon the institution, because you can see that<lb/>
+it might otherwise swamp us and prevent us from performing other<lb/>
+duties with which we are charged.</p>
+<p>Mr. WAINWRIGHT. I think we are contemplating the regents of the<lb/>
+institution sitting in an absolutely judicial capacity, with the evi-<lb/>
+dence and the whole case prepared for them to consider.</p>
+<p>Doctor ABBOTT. I would like to ask Mr. Moore whether, under<lb/>
+those circumstances, he thinks the board would be willing to assume<lb/>
+this duty.</p>
+<p>Mr. MOORE of Virginia. I should say, offhand, not speaking for<lb/>
+the board, if the cases would be rather few in number, that there<lb/>
+would be no difficulty in the board giving a decision in the way of<lb/>
+making a recommendation in each case.</p>
+<p>Mr. WAINWRIGHT. Fine! I am very much gratified with that sug-<lb/>
+gestion from the gentleman.</p>
+<p>Doctor ABBOTT. I suppose with the understanding that the ma-<lb/>
+chinery by which the Smithsonian would act would be that the Sec-<lb/>
+retary would, with the advice of eminent advisers, select a committee<lb/>
+or a board to pass upon each case as it came up, and would submit<lb/>
+the recommendation of such a committee to Congress, and in the<lb/>
+event that the institution was merely a judge and not a collector of<lb/>
+evidence, and the cases were limited as has been suggested, it would<lb/>
+seem to me that it might be possible that that should be done.</p>
+<p>Mr. WAINWRIGHT. Let us consider a concrete case, the case of a<lb/>
+man name Leroy Kerle, an assistant biologist in the United States<lb/>
+Department of Public Health, who died as the result of infection<lb/>
+with Rocky Mountain spotted fever contracted in the course of the<lb/>
+experimental work in the Government laboratory at Hamilton, Mont.<lb/>
+That is the case that I believe I referred to that was mentioned in<lb/>
+the press last Sunday. That would be a case where the Public<lb/>
+Health Service, who are here represented to-day, would prepare<lb/>
+their case and present it to your board for consideration.</p>
+<p>Doctor ABBOTT. Our institution would be charged with the duty of<lb/>
+recommending the amount and nature of the pension. That would<lb/>
+not amount to anything, because Congress would have to consider it<lb/>
+in detail and decide upon it finally, so that even if the Smithsonian<lb/>
+should recommend adversely upon a case and send such a recommen-<lb/>
+dation to Congress, or should recommend favorably, but not satisfac-<lb/>
+torily to the claimant, Congress would still have the opportunity of<lb/>
+amending the recommendation. In other words, the recommendation<lb/>
+of the Smithsonian would not be final, but would be a guide to<lb/>
+Congress. That is your intention.</p>
+<p>Mr. WAINWRIGHT. I think the bill so provides.</p>
+<p>Doctor ABBOTT. I think that might be specially limited in the way<lb/>
+we have suggested here.</p>
+<p>Mr. WAINWRIGHT. We very much appreciate your comment.</p>
+<p>Doctor ABBOTT. I will state that the Chief Clerk of the Smith-<lb/>
+sonian Institution, Mr. Dorsey, is here, who has had very long ex-<lb/>
+perience in the Smithsonian Institution--longer than I have had,<lb/>
+and I have been there 33 years--and it may be that he would have<lb/>
+something to give of interest.</p>
+<pb n="20" id="f03151022"/>
+<p>20<lb/>
+YELLOW FEVER</p>
+<p>Mr. WAINWRIGHT. We would be glad to have Mr. Dorsey com-<lb/>
+ment on this.</p>
+<p>Mr. MCSWAIN. If the gentleman from New York will permit<lb/>
+me to inject this at this time, there was a resolution introduced<lb/>
+by me that contemplated that the body of a man who was a<lb/>
+hero in this flight should be brought here for burial, and the report<lb/>
+of the War Department this morning is rather indifferent, neither<lb/>
+for nor against it, and I would like to ask the gentlemen to consider<lb/>
+this suggestion from myself, that we have an amendment to this<lb/>
+bill directing the Arlington Cemetery Commission to set aside a<lb/>
+plot of ground in which all of these heroes may be buried, if they<lb/>
+or their families so desire, that their bodies may be concentrated<lb/>
+there from all parts of the country, and that a shaft of proper size<lb/>
+and diameter be prepared and erected to commemorate the memories<lb/>
+of these heroes, whether they are buried there or not.</p>
+<p>Mr. HILL of Alabama. I suggest that the gentleman from South<lb/>
+Carolina prepare such an amendment so that we may have it before<lb/>
+us when we consider the bill.</p>
+<p>Mr. MCSWAIN. I just want to throw out that idea.</p>
+<p>STATEMENT OF H. W. DORSEY, CHIEF CLERK SMITHSONIAN<lb/>
+INSTITUTION</p>
+<p>Mr. DORSEY. I think, Mr. Chairman, that the objection to the<lb/>
+bill has been pointed out by Mr. Moore and Doctor Abbott, and<lb/>
+that the function of the institution should be limited to simply pass-<lb/>
+ing on certain recommendations that are made, and that it could be<lb/>
+carried out. Otherwise, as Doctor Abbott has pointed out, if the<lb/>
+Institution had to investigate all these claims that would come up,<lb/>
+it would simply paralyze the work of the Institution to such an<lb/>
+extent that they could not carry on their other duties. It seems to<lb/>
+me that it could be done as pointed out by them.</p>
+<p>Mr. WAINWRIGHT. I asked Doctor Cumming, chief of the Public<lb/>
+Health Service, to be here. He is out of town, but Doctor Stimson,<lb/>
+assistant surgeon general, is here, and we will be glad to hear from<lb/>
+him.</p>
+<p>STATEMENT OF DR. A. M. STIMSON, ASSISTANT SURGEON<lb/>
+GENERAL, PUBLIC HEALTH SERVICE</p>
+<p>Doctor STIMSON. I know that if Doctor Cumming were here he<lb/>
+would indorse the recommendations in favor of the first section of<lb/>
+the bill and of the second section as modified.</p>
+<p>The second section comes very close to us in the Public Health<lb/>
+Service. The statement has been made here this morning that three<lb/>
+men have died in the service in connection with the spotted fever<lb/>
+investigation at Hamilton, Mont. As a matter of fact, six men have<lb/>
+given their lives there; and any man who goes there to work in that<lb/>
+laboratory knows well enough that he is facing a high chance of<lb/>
+death.</p>
+<p>The originator of the new vaccine against this disease, which is<lb/>
+proving to be useful in the control of it, Doctor Spencer, inoculated<lb/>
+himself first with this vaccine, to decide whether or not it was safe<lb/>
+to give it to other people, and he has not had spotted fever yet, and<lb/>
+<pb n="21" id="f03151023"/>
+YELLOW FEVER<lb/>
+21<lb/>
+hopes that he will not have it; but six men who worked in this labora-<lb/>
+tory have died, and four others have contracted the disease and<lb/>
+recovered. Those who recovered, as we think, recovered because of<lb/>
+having been treated, or partially because of having been treated, with<lb/>
+this vaccine.</p>
+<p>There are other cases which the United States Public Health<lb/>
+Service investigate, which, while not as fatal as this, have exposed<lb/>
+the individual who is working on them to chronic disease. We have<lb/>
+two members of the service now suffering from a fever from which<lb/>
+they have suffered for a number of years--in one case almost totally<lb/>
+incapacitating the worker. This service was always undertaken with<lb/>
+the full understanding that they were in danger. Several of those<lb/>
+who have worked with it--in fact, all of those who have worked<lb/>
+indirectly with it--have had the disease, and in one or two cases the<lb/>
+results have been quite serious.</p>
+<p>I think that some modification of section 2 ought certainly to be<lb/>
+made in order to enable the Government to recognize services of this<lb/>
+kind that may take place in the future.</p>
+<p>Mr. WAINWRIGHT. Gentlemen, unless Mr. Barrows has something<lb/>
+further to say in summing up, that would conclude with those whom<lb/>
+we called before the committee.</p>
+<p>Doctor BARROWS. I have nothing further to say, only I know our<lb/>
+organization and all the people behind this thing would be highly<lb/>
+in favor of this amendment of section 2. That was recognized as a<lb/>
+difficulty certainly, and the gentlemen who are in the Smithsonian<lb/>
+Institution have pointed out the antidote which we were unable to<lb/>
+provide.</p>
+<p>Mr. FROTHINGHAM. Mr. Wainwright, will you put in the record the<lb/>
+names of those who are provided for?</p>
+<p>Mr. WAINWRIGHT. I will ask Colonel Kean, who is so familiar with<lb/>
+it, to state first the exact nature of the service rendered by each of<lb/>
+those mentioned in the bill, and whether they are alive to-day--I<lb/>
+understand some of those mentioned in this bill have already died--<lb/>
+and what original compensation they received and what compensa-<lb/>
+tion by way of pension they are already receiving. Does that<lb/>
+cover it?</p>
+<p>Mr. FROTHINGHAM. Yes; because the appropriation bills carry<lb/>
+many items.</p>
+<p>Mr. WAINWRIGHT. That concludes the hearing, and I wish to ex-<lb/>
+press on behalf of the sponsors of this legislation and myself our<lb/>
+very great appreciation of the consideration by this committee of the<lb/>
+evidence we have produced before them, and recommend the bill to<lb/>
+their favorable consideration.</p>
+<p>I would suggest, Mr. Chairman, that this bill might be referred to<lb/>
+the subcommittee of which Mr. Frothingham is chairman, for consid-<lb/>
+eration and for the purpose of recommending, if at all, an amended<lb/>
+bill to the committee; and I may say that we had our hearing before<lb/>
+the full committee instead of before Mr. Frothingham's subcom-<lb/>
+mittee rather at the suggestion of the gentleman from Massachusetts,<lb/>
+who said he considered this was a matter of such importance and of<lb/>
+such broad scope that it was better to hold the hearings before the<lb/>
+full committee.</p>
+<p>The CHAIRMAN. If the gentleman makes that as a motion, without<lb/>
+objection, it will be so ordered.</p>
+<pb n="22" id="f03151024"/>
+<p>22<lb/>
+YELLOW FEVER</p>
+<p>Mr. MCSWAIN. Does not the gentleman think that, as to the sug-<lb/>
+gestion I made for a monument to be erected over the bodies of these<lb/>
+heroes, that it would constitute a shrine something along the line of<lb/>
+that which now exists to the victims of the Maine, and the grave<lb/>
+of the Unknown Soldier; so that visitors would come to it and<lb/>
+seek it out?</p>
+<p>Mr. WAINWRIGHT. Yes. Mr. Chairman, I have here about the<lb/>
+only available copy of Senate Document 822 of the Sixty-first Con-<lb/>
+gress, third session, which was compiled by the Medical Corps of the<lb/>
+War Department and printed as a Senate document, the edition be-<lb/>
+ing now exhausted and no longer available. I want to ask the au-<lb/>
+thority of the committee to have it reprinted as a part of these<lb/>
+hearings. This contains the whole history of the matter. Colonel<lb/>
+Kean has a copy of it there, bound, and regards it as of the very<lb/>
+highest value.</p>
+<p>Colonel KEAN. I compiled it.</p>
+<p>The CHAIRMAN. Colonel Kean, are there any corrections you de-<lb/>
+sire to make in it before it is reprinted?</p>
+<p>Colonel KEAN. Yes, sir; before the reprinting. I did injustice to<lb/>
+Doctor Agramonte in my mention of him in that volume, and I<lb/>
+would like to correct that.</p>
+<p>Mr. FROTHINGHAM. Your report on the Lazear case last year covers<lb/>
+the ground.</p>
+<p>(Thereupon, at 12.10 o'clock p. m., the committee adjourned, sub-<lb/>
+ject to the call of the chairman.)</p>
+<p>X</p>
+</div1>
+</body>
+</text>
+</TEI.2>

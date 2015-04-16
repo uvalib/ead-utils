@@ -1,0 +1,1030 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04715085">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Questionnaire from Philip Showalter Hench to Paul L. Tate, July 13, 1954</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hench, Philip Showalter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04715085</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1954-07-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Tate, Paul L.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Godfrey, Guy Charles Moore</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Brooke, John R.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Peabody, James E.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Lewis, Nellie</name>
+<name type="person">McCord, Lottie</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Gillen, Ella M.</name>
+<name type="person">Schwieger, John D.</name>
+<name type="person">Rassmussen, [s.n.]</name>
+<name type="person">Taylor, John R.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Carroll, James</name>
+<name type="person">Ames, Jessie Daniel</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Brumby, William M.</name>
+<name type="person">Maass, Clara Louise</name>
+<name type="person">Nogueira, Pedro</name>
+<name type="person">Howard, Sidney Coe</name>
+<name type="person">Neate, John S.</name>
+<name type="person">Carroll, Jennie</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Augusta (Ga.)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>18 pp.</extent>
+<date value="1954-07-13">July 13, 1954</date>
+<idno rend="suppress">04715085</idno>
+<title>Questionnaire from Philip Showalter Hench to Paul L. Tate, July 13, 1954</title>
+</bibl>
+</head>
+<p>Hench supplies over one hundred detailed questions to Tate.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1954-07-13">
+<head>Questionnaire from Philip Showalter Hench to Paul L. Tate, July 13, 1954</head>
+<pb n="1" id="f04715085"/>
+<p><hi>Questionnaire sent to Mr. Paul L. Tate - July 13, 1954</hi></p>
+<p><hi>Personal</hi></p>
+<p>
+<list type="ordered">
+<item>1. Mr. Tate, what is your telephone number?</item>
+<item>2. You have a copy of our interview of June 21, 1954? If so, please keep it so<lb/>
+we can refer to it by pages and numbered items.</item>
+<item>3. What is your wife's name? When and were were you married? When and where was<lb/>
+she born?</item>
+<item>4. Have you any children? If so, their names and addresses.</item>
+<item>5. Do you have any data referring to the yellow fever experiments - photos, letters<lb/>
+from comrades, etc., etc. Photos of yourself in Cuba; of any 1898-1901 scenes in<lb/>
+Cuba?</item>
+<item>6. If so, would you and your wife be willing to add them to the Mayo Clinic's His-<lb/>
+torical Collection of Yellow Fever data? (This includes any letters from Lam-<lb/>
+bert and others to you. Don't discard them!) I would be delighted to receive these<lb/>
+either now or have you will them to the Mayo Clinic.</item>
+<item>7. Any old photos of you in Spanish American war uniform?</item>
+<item>8. Do you have any brothers, sisters or other relatives living? Names and addresses<lb/>
+of those closest to you.</item>
+<item>9. Did you enlist in the Hospital Corps (in Augusta, Georgia) on November 21 (as<lb/>
+stated near top of p. 2 - our interview, or November 30, 1898 as stated near<lb/>
+bottom of p. 2?)</item>
+<item>10. Did this Hospital corps have a special name?</item>
+<item>11. What is the correct spelling of Lt. Personol (p. 3 - interview) or Persenol<lb/>
+(p. 15 of interview?) Perhaps you are referring to Acting Assistant Surgeon<lb/>
+J. P. Presnell. In General Brook's annual report dated October 1, 1899, I find<lb/>
+a list of all the officers at Pinar del Rio Barracks. The headquarters and<lb/>
+eight companies of the First Infantry were there, also four troops of a cavalry<lb/>
+squadron. (Do you recall how many men were in an infantry company and in a<lb/>
+cavalry troop?) Here is the list of the medical officers: The surgeon, U.S.V.,<lb/>
+Post Surgeon - Major William F. de Niedmann; on duty at the post as acting<lb/>
+assistant surgeons - J. P. Presnell, William Alden, F. M. Jackson, Clarence H.<lb/>
+Long and P. Lundy.<lb/>
+I suspect your Lt. Persenol was Lt. Presnell. Correct?</item>
+<item>12. You arrived in Pinar del Rio December 9, 1898. In my interview I have little<lb/>
+data on what you did there during the year 1899. I think at first you were an<lb/>
+enlisted man with this Hospital Corps but not a nurse, and not a clerk at first.<lb/>
+For a while you worked in the kitchen. Please amplify.<lb/>
+<list type="ordered">
+<item>(a) What duties did you have in 1899?</item>
+<item>(b) Where did you first live when you reached Pinar del Rio - in tents<lb/>
+as part of a tent hospital or in tents or barracks with a wooden<lb/>
+building hospital?</item>
+<item>(c) When did the hospital at Pinar go from tents to buildings?</item>
+</list>
+</item>
+<item>13. You said there was lots of illness and death among the soldiers at P. del R.<lb/>
+during 1899. What illnesses? Roughly how many deaths per year or per month?<lb/>
+Can you guess? (See question #29.)<lb/>
+<pb n="2" id="f04715086"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 2</item>
+<item>14. Can you now remember when you became a clerk? Were you a clerk for anyone<lb/>
+before Captain Godfrey? (On interview p. 4 you stated you thought you be-<lb/>
+came clerk for Godfrey in the fall of 1899. Can you find a closer answer?)</item>
+<item>15. Please describe Captain Godfrey - appearance, height, weight, coloring,<lb/>
+ability, personality, etc. Was he tough or kind, fair, etc. Aside from<lb/>
+his serious error in diagnosing &ldquo;malaria&rdquo; for yellow fever was he a &ldquo;good<lb/>
+doctor&rdquo; as far as his patients, medical colleagues and hospital corpsmen<lb/>
+were concerned?<lb/>
+In the Scientific Monthly December 1915 Agramonte states that Godfrey was<lb/>
+&ldquo;under the influence of opium most of the time&rdquo; and &ldquo;committed suicide<lb/>
+several months afterward.&rdquo; Did you hear any of this? Actually Godfrey<lb/>
+was cited for bravery in 1904 in the U.S. when he helped put out a dangerous<lb/>
+fire, and I hear he <hi>did</hi> commit suicide later, but <hi>not</hi> &ldquo;several months after&rdquo;<lb/>
+the Pinar affair.</item>
+<item>16. Any incidents about your work with him?</item>
+<item>17. I have no data on your activities on the situation at P. del R. for 1900<lb/>
+<hi>prior</hi> to the yellow fever epidemic which began about April 20, 1900. Any-<lb/>
+thing interesting?</item>
+<item>18. How many days or weeks after the Y.F. broke out did the hospital corpsmen re-<lb/>
+cognize it was Y.F.?</item>
+<item>19. (See p. 6 - interview - top sentence.) About how many Spanish immigrants in<lb/>
+P. del R. were getting Y.F.? Were there a few, many and how many? Did many<lb/>
+die? (Just make intelligent guesses.) Were there few, dozens, soores? What<lb/>
+were these Spanish immigrants doing in P. del R. in 1899-1900? Had they come<lb/>
+as laborers? They weren't deserters from the Spanish Army were they?</item>
+<item>20. (See interview last paragraph p. 6.) Some fellows new to Cuba were &ldquo;awful<lb/>
+scared of Y.F.&rdquo; Any anecdotes? Recall any frightened conversations, expres-<lb/>
+sions?</item>
+<item>21. (See p. 7 - interview.) When was the quarantine put on, just after Agramonte<lb/>
+came to P. del R. on July 19, 1900 or not till Reed came July 21 ? (Agra-<lb/>
+monte says he recommended it on July 20 and Stark ordered it by telegram on<lb/>
+July 21. See Scientific Monthly, December 1915, p. 218.)</item>
+<item>22. Did the soldiers in camp or the hospital corps honor the quarantine and stay<lb/>
+out of the town or did they ignore it? Anecdotes.</item>
+<item>23. So far as I know Agramonte only visited P. del R. once - on July 19, and stayed<lb/>
+till Reed arrived July 21? Is this correct? (See question #95.)</item>
+<item>24. Did Captain Godfrey show any signs of personal anxiety, worry, regret, etc., just<lb/>
+after Agramonte told him of his serious mistake? Did he crack down on things<lb/>
+right after Agramonte came and even before Reed came?</item>
+<item>25. Did Godfrey's attitude when making rounds with Agramonte on July 19 differ from<lb/>
+that when making rounds with Reed and Agramonte on July 21? Any subtle dif-<lb/>
+ference in bearing, self-assurance, etc.?</item>
+<item>26. Did Godfrey quickly change treatment for the Y.F. soldiers?</item>
+<item>27. (See p. 8 - interview.) You said &ldquo;none of the nurses even got it.&rdquo; Do you mean<lb/>
+male nurses - army corpsmen, or female nurses? Did you have any female nurses<lb/>
+at P. del R.?<lb/>
+<pb n="3" id="f04715087"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 3</item>
+<item>28. (See p. 9 - interview.) When did the Y.F. break out in Guanajay? It was<lb/>
+shortly before the Y.F. at P. del R? Would that make it March or April<lb/>
+1900 for Guanajay?</item>
+<item>29. (See p. 8 - interview.) How many post mortems did you attend in the spring of<lb/>
+1900 - about how many per week or month? What caused the deaths? What did you<lb/>
+do at the post mortems - take notes?<lb/>
+According to Havard's report (page 6) in General Wood's annual report for 1901:<lb/>
+&ldquo;In June, July and August 1900 thirty cases (of Y.F.) occurred at Pinar del Rio<lb/>
+Barracks with nine deaths.&rdquo; What is your recollection about Y.F. illnesses and<lb/>
+deaths at Pinar before June 1900? (See top p. 15 - interview.)</item>
+<item>30. Do you recall whether Agramonte saw a post mortem with Godfrey on July 19, 1900?<lb/>
+Agramonte says he did the one mentioned on page 93, Senate Doc. 822. See Scientific<lb/>
+Monthly p. 217, December 1915.</item>
+<item>31. (See p. 11 - interview.) Why did you mention John Morris at this point? Although<lb/>
+he is mentioned by name, nothing is said about him.</item>
+<item>32. Can you give me a sketch of Reed: height, weight, coloring, personality, manner<lb/>
+toward Godfrey at P. del R., manner toward fellow-officers, enlisted men, etc.<lb/>
+Did he walk fast, slowly, erect, etc.? Did he regard the volunteer medical officers<lb/>
+as physicians or officers? Did he treat a medical lieutenant (regular) or a con-<lb/>
+tract surgeon as fellow-physicians or as junior army officers? Was he jovial,<lb/>
+serious; did he joke much? Did he ever get excited - if so, about what? Any<lb/>
+personal recollections or anecdotes? Did you even hear him swear?</item>
+<item>33. What sort of notes did you make when Reed and Agramonte made rounds with Godfrey?<lb/>
+What did you do with them - how did you implement your notes?</item>
+<item>34. Would there be any permanent records, reports by Godfrey, of this epidemic - his<lb/>
+error, corrections, etc.? Under what heading might I find them in the National<lb/>
+Archives, Washington, D.C.?</item>
+<item>35. (See p. 14 - interview.) How long were you clerk? You said &ldquo;...all the way<lb/>
+through until I was transferred.&rdquo; What do you mean? Dates, places you were<lb/>
+clerk.</item>
+<item>36. (See bottom part of p. 14 - interview.) Can you amplify or clarify? Where were<lb/>
+these soldiers buried? At P. del Rio or sent home? (See top of p. 15 - inter-<lb/>
+view.)</item>
+<item>37. (See p. 16 interview.) How many patients did the wooden hospital buildings at<lb/>
+P. del R. hold? How many wards? How many buildings to this hospital? (See<lb/>
+question 50.) When it became known that many of the soldiers in this hospital<lb/>
+had Y.F. did Godfrey evacuate them all at once to the &ldquo;tent Y.F. hospital&rdquo; or<lb/>
+did he merely send the new Y.F. victims to the tent hospital?</item>
+<item>38. (See p. 16 - interview.) About when did the Spanish troops evacuate the old<lb/>
+quartel at P. del R? Did they leave it in retreat before the war ended or not<lb/>
+until after it was ended?<lb/>
+The &ldquo;Protocol&rdquo; (end of war) was signed by the Spanish on August 12, 1898 and the<lb/>
+Spanish evacuated Havana January 1, 1899.<lb/>
+<pb n="4" id="f04715088"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 4</item>
+<item>39. About when (month, year) did the First Infantry move into the quartel? Surely<lb/>
+the quartel wasn't big <unclear>&egrave;nough</unclear> to hold the whole First Infantry regiment. How<lb/>
+many in this regiment?</item>
+<item>40. (See p. 17 line 11 - interview.) &ldquo;These three windows were in the <hi>quartel</hi>.&rdquo;<lb/>
+You meant to say - carcel or prison, didn't you?</item>
+<item>41. You recall my photo of the old quartel and the front windows you identified as<lb/>
+those of the carcel. On p. 17 you say, &ldquo;the windows were boarded up and inside<lb/>
+there was a board partition between the prisoners and the two windows...&rdquo; This<lb/>
+isn't clear. Was there one &ldquo;boarding-up&rdquo; or two? Were the two front windows<lb/>
+merely boarded up, or was there a second boarding-up some feet (?) inside the<lb/>
+windows?</item>
+<item>42. About how large was this carcel? It was one room about 20 feet deep (or long)<lb/>
+from outer wall (as in my photo) to inner court- is that correct? How wide<lb/>
+was this room; how high the ceilings? Where was the door into this carcel - on<lb/>
+the inside-court side? Could you draw me some sort of diagram of the carcel<lb/>
+in relation to the photo (entrance arches, windows, inner court, etc?)</item>
+<item>43. You recall that in my photo of this quartel there was a dougherty wagon with a<lb/>
+red cross on the wagon (I checked this with magnifying glasses.) Now why would<lb/>
+this ambulance be at the quartel and why would a photo happen to be taken of it<lb/>
+just at that moment? Any guesses? I understand that the dougherty wagon was a<lb/>
+spring wagon. Why was it named a &ldquo;Dougherty&rdquo;? What were its chief virtues, etc.?<lb/>
+Was it drawn by four mules when making out of town trips (as Lazear wrote his<lb/>
+mother)?</item>
+<item>44. (See p. 19 - interview). I assumed that the First Infantry had been at Pinar<lb/>
+del R. during the fighting (the war) and were still there late 1899 and spring 1900,<lb/>
+or had, at least been collected there after fighting nearby. But your comments<lb/>
+on middle of p. 19 suggest that the First Infantry went to P. del R. (from Havana?)<lb/>
+after the war was over and that they went merely to clean out the mountain bandits.<lb/>
+What had the First Infantry done in the war? When did they land at P. del R?<lb/>
+Who were the bandits: civilians, ex-Cuban or Spanish soliders?</item>
+<item>45. Did all the American troops leave P. de. R. about the same time you did - the<lb/>
+First Infantry and all other troops there (any others?). And did your hospital<lb/>
+all break up and leave just about the same time? And was this in August and<lb/>
+early September 1900? (You left P. del R. Sept. 9, 1900 and reached Columbia<lb/>
+Barracks that night.)<lb/>
+Perhaps I found an answer to this in General Wood's 1901 annual report. On<lb/>
+July 23, 1900 the Dept. of Havana and Pinar del Rio was &ldquo;discontinued&rdquo; in<lb/>
+favor of the Department of Western Cuba. Of the 7th Cavalry at Pinar del<lb/>
+Rio one troop left on July 27 and went first to Guanajay and then after a few<lb/>
+days went to Columbia Barracks, three more troops went on August 2 to Col.<lb/>
+Barr. On August 8 the First Infantry Band and four companies left P. del R.<lb/>
+for Col. Barr. and then the U.S. Pinar del Rio Barracks were abandoned Sep-<lb/>
+tember 21, 1900.</item>
+<item>46. (See p. 20 - interview.) After thinking this over can you list from memory<lb/>
+or record the C.O's (and their time at the Columbia Barracks Post Hospital)<lb/>
+you served under?<lb/>
+<pb n="5" id="f04715089"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 5<lb/>
+<list type="simple">
+<item>e.g. September 9, 1900 till__________Pinto</item>
+<item>__________till__________Truby</item>
+<item>__________till__________Kean</item>
+<item>__________till__________Stark (back again?)</item>
+<item>__________till__________</item>
+</list>
+and so on until you left the Post Hospital August 11, 1901.<lb/>
+I can probably find these dates from official records but would like to have<lb/>
+your best guess which I will check later.</item>
+<item>47. (See top p. 19 - interview.) As you now recall, was Jernegan with you at P. del<lb/>
+R.? What was he like? (You did not describe him on p. 21 - interview.)</item>
+<item>48. Do you have any old or later correspondence from any of these men who were at<lb/>
+P. del R. or at Columbia Barracks with you? Could I borrow it?</item>
+<item>49. (See bottom line p. 4 - interview, regarding the size of the town of Pinar del<lb/>
+Rio.) When I visited there a few years ago a man who lived there told me he<lb/>
+thought there were about 12,000 in 1900. In Gen. Brooke's 1899 report (p. 15<lb/>
+of section written by Gen. Lee) it says, &ldquo;The municipality of P. del R. is re-<lb/>
+ported as having a population of about 30,000 inhabitants&rdquo; but two pages later<lb/>
+it says: &ldquo;From reports just received from the Alcaldes, the approximate popu-<lb/>
+lation of the following towns in Pinar del Rio Province are given: - Pinar del<lb/>
+Rio, 8000....&rdquo;<lb/>
+Later on in Brooke's report there is a description of &ldquo;The Island of Cuba;&rdquo; on<lb/>
+p. 5 of this report is says: &ldquo;Pinar del Rio - on the western extremity of the<lb/>
+island, an inland city of 30,000 inhabitants, is distant 135 miles from Havana.&rdquo;<lb/>
+I wonder why we have three estimates for the size of P. del R. town (as of 1899-<lb/>
+1900): The Alcalde - 8000, my P. del R. informant - 12,000, General Brooke -<lb/>
+30,000? What do you think? They are all talking about the city, not the whole<lb/>
+Province of P. del R. and the Alcalde is quoted as numbering the &ldquo;population&rdquo;<lb/>
+of Pinar del Rio at 8000, not the voters or adults.</item>
+<item>50. Will the following help you estimate when your hospital outfit at P. del R.<lb/>
+moved from tents into barracks? Brooke, in his 1899 report (dated October 1,<lb/>
+1899) indicates that the barracks and hospital at P. del R. were now built and<lb/>
+they are all listed on p. 11 by C. F. Humphrey, Deputy QM General, U. S. Army,<lb/>
+Chief Quartermaster. The hospital buildings included the following: 1 medical<lb/>
+officers' quarters - 20&prime; &times; 180&prime;, 2 main wings of hospital - each 20&prime; &times; 110&prime;, 2<lb/>
+radical wings to hospital - each 20&prime; &times; 110&prime;, 1 hospital kitchen 20&prime; &times; 90&prime;, 1<lb/>
+hospital main building of two stories - 21&prime; &times; 61&prime;, 1 medical storehouse 20&prime; &times;<lb/>
+50&prime;, 1 officers' kitchen, medical - 20&prime; &times; 45&prime;, and covered passage ways to<lb/>
+hospital kitchens and medical officers' kitchen. (See question #37.)<lb/>
+Apparently there were not very many other wooden buildings built for the troops<lb/>
+at P. del R. The list mentions four cavalry barracks and kitchens, 6 stables,<lb/>
+1 quarters for drivers and packers, 2 officers' quarters (non medical), 1<lb/>
+quartermaster store house, and several miscellaneous sheds and shops.</item>
+<item>51. (See p. 21 - interview.) You mention De Larue here but not on p. 19. Who<lb/>
+was De Larue? Is this name correct? In the list on p. 154 of Truby's book<lb/>
+I find #13 Pvt. De Lamar and #28 Pvt. La Mar, but no De Larue.</item>
+<item>52. What was Acting Steward Arnold's first name or initials? They are not given<lb/>
+by Truby.<lb/>
+<pb n="6" id="f04715090"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; Page 6</item>
+<item>53. When you visited Camp Lazear with Dr. Amador what was the topography like?<lb/>
+Was there in 1900 a quarry (large or small) encroaching on the camp site -<lb/>
+a tremendous hole in the ground extending back from Calzade Real over an<lb/>
+area of several small city blocks? (It was there in 1940 and I haven't<lb/>
+found out if it was there (or how large it was) in 1900.</item>
+<item>54. As you drove from Calzada Real to Camp Lazear the land was at first flat<lb/>
+but as you reached the oak tree and looked <hi>toward Havana</hi> and down &ldquo;the<lb/>
+little valley&rdquo; Reed spoke of which began between Buildings #1 and 2, do<lb/>
+you recall whether the land remained flat or became quite rough and hilly?<lb/>
+(It was and is the latter, but no photo of Camp Lazear shows this except<lb/>
+the one Mrs. Carroll loaned me recently. All the others were taken in the<lb/>
+opposite direction, toward Quemados.)</item>
+<item>55. Although you only visited Camp Lazear once you must have talked a lot about<lb/>
+it - with volunteers about to go there, with others after they came back.<lb/>
+Can you recall anything about Camp Lazear which is not written up yet? What<lb/>
+did the volunteers do to while away the time while waiting for their inocu-<lb/>
+lations?<lb/>
+What was the attitude of the hospital personnel who did not volunteer toward<lb/>
+the whole affair, toward those who did volunteer?</item>
+<item>56. Did or did not Dr. Ames <hi>live</hi> at Camp Lazear at night? There is some dispute<lb/>
+about this. Moran told me definitely that Dr. Ames did <hi>not</hi> stay there at<lb/>
+night. There was a telephone between Camp L. and the Post Hospital. But on<lb/>
+p. 152 of his book Truby says Ames lived in a tent at Camp Lazear.<lb/>
+But if my memory serves me I don't think Ames ever said or wrote (and I have<lb/>
+some of his later correspondence to his friends) that he <hi>lived</hi> at Camp L.,<lb/>
+nor do I recall that his strongest protagonists (Lambert and Mrs. Ames) claimed<lb/>
+that. The reason I find it hard to believe that Ames slept at Camp L. was<lb/>
+that if he had, he would surely have said or written so later, when he was<lb/>
+telling of his work to friends who wanted to get him on the Honor Roll.<lb/>
+Also - a more important reason - as between his duty to be on hand at Camp L.<lb/>
+the moment when a volunteer got sick and his duty to be on hand hour after hour<lb/>
+to take care of the <hi>sick</hi> volunteers at the Y.F. huts near the Post Hospital,<lb/>
+the latter was <hi>much</hi> more important and the Post Hospital was much nearer to<lb/>
+the Y.F. huts than Camp L. Furthermore <hi>had</hi> he been at Camp L. he could hardly<lb/>
+have told the first hour or two or even the first several hours when the<lb/>
+volunteers got sick at Camp L. Often they merely felt dizzy or lost their<lb/>
+appetite or felt chilly, etc. some hours before they became ill enough, or<lb/>
+had enough fever, to be sure. (For proof of this see the Senate Dec. 822<lb/>
+and see how hard a time Reed had in fixing the hour of onset of experimental<lb/>
+Y.F. There are several published contradictions - the hour when volunteer<lb/>
+so and so just took sick is given in one paper as such and such a time, but<lb/>
+in another paper at a different time.)<lb/>
+I conclude therefore that although Dr. Ames probably had a tent and bed at<lb/>
+Camp L. where he could have slept, and <hi>may</hi> have stayed there some nights<lb/>
+before the volunteers became sick and began to fill up the Y.F. huts, he<lb/>
+probably did <hi>not</hi> stay overnight at Camp L. regularly or even often but<lb/>
+stayed <hi>regularly</hi> at his quarters at the Hospital. Moran was actually at<lb/>
+<pb n="7" id="f04715091"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 7<lb/>
+Camp L. for several weeks and would have no reason to deny Ames' presence<lb/>
+there at night. Truby was <hi>not</hi> at Camp L. but even so since he was at the<lb/>
+Bachelor officers I quarters he might be expected to know whether Ames slept<lb/>
+at the Post Hospital regularly. Ames wasn't married then was he? Didn't<lb/>
+he live at the Post Hospital - in quarters #5 (See Truby p. 131)?</item>
+<item>57. Do you have any 1901 recollections as to whether Dr. Ames really had Y.F.?<lb/>
+There is something peculiar about this. Ames was put in charge of Camp L.<lb/>
+because (presumably) he had told Reed he (Ames) was an immune. But between<lb/>
+January 26 - February 3, 1901 Ames was sick for a very few days only. I<lb/>
+have his hospital fever chart. It is not much like that of (other) cases of<lb/>
+Y.F. but his case was diagnosed Y.F. and he was given a &ldquo;Y.F. certificate&rdquo;<lb/>
+by Stark, Kean, Truby and Agramonte never believed Ames had Y.F. and the<lb/>
+unusual hospital chart strengthens (in my mind) their doubts.</item>
+<item>58. How many tents or other buildings do <hi>you</hi> recall seeing at Camp L.? Reed<lb/>
+spoke of 7 tents and Buildings #1 and 2. (See Senate Doc. 822 pp. 71 and<lb/>
+97.) But in time at least there were several other tents put up as my old<lb/>
+photos show. Also the old army photo of Camp L. shows 2 or 3 small wooden<lb/>
+structures not far behind the main tents at Camp L. Do you recall seeing<lb/>
+any little wooden buildings? Were they already on the farm or were they<lb/>
+built for Camp L.? (I do <hi>not</hi> refer to Buildings #1 and 2, of course.)</item>
+<item>59. (See p. 23 (bottom) and 24 - interview.) Any more recollections about the<lb/>
+little wooden bridge which crossed the La Playa railroad track to the Y.F.<lb/>
+huts? What was your &ldquo;idea&rdquo; mentioned on p. 24? Please tell me.</item>
+<item>60. Can you give me personality sketches on (a) Lazear, (b) Ames, (c) Agramonte,<lb/>
+(d) Carroll from <hi>your</hi> memory. <hi>Please</hi>.</item>
+<item>61. Did Dr. Ames speak Spanish? I think you mentioned this is an old letter to<lb/>
+me.</item>
+<item>62. Do you have any comments on Col. Baldwin, the C.O. at Camp Columbia? Ap-<lb/>
+parently it was hard for the various medical officers to get along with him.<lb/>
+Were you aware of this conflict between the Columbia Barracks Headquarters<lb/>
+personnel and the Post Hospital personnel?</item>
+<item>63. Tell me whatever you can about the Marianao-Havana R.R. Was it a steam<lb/>
+engine? How many cars to the train? Did it consist merely of an engine and<lb/>
+one or two passenger cars or did it have a baggage car, etc.? Did it run<lb/>
+by coal? What was the engine like? What were the passenger coaches like?<lb/>
+It's list of stops, and distance from Havana (Concha Station) were as fol-<lb/>
+lows: Tulipan-1&frac14; miles, Cerro - 2, Puentes Grandes - 3 (I suppose this was<lb/>
+the Almendares river?), Ceiba - 4, Buena Vista - 5 1&sol;2, Sam&aacute; or Marianao - 6&frac14;,<lb/>
+Playa de Marianao - 9 miles.<lb/>
+About how long did it take to go from Marianao to Havana? Were there many<lb/>
+trains running? Were the cars packed with soldiers, etc.? You must have all<lb/>
+used this train constantly, or how else did you get to Havana on your time<lb/>
+off? When did the last train leave Havana so you could get back to camp<lb/>
+before your evening leaves expired? By what time did you have to be back in<lb/>
+the barracks at night?<lb/>
+<pb n="8" id="f04715092"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 8</item>
+<item>64. You were stationed at Columbia Barracks Post Hospital from September 9, 1900<lb/>
+till August 11, 1901. (See question 46.) Please tell me whatever you can<lb/>
+of your stay there - your duties, what you did for amusement on days off,<lb/>
+in the evening. Did you all hang around Quemados much (what was there to do<lb/>
+there?) or go down to Havana? How much time off did you have? Did the en-<lb/>
+listed hospital personnel mingle much with the soldiers at Columbia Barracks?</item>
+<item>65. When did you first hear that Army doctors at Columbia Post Hospital had dis-<lb/>
+covered the mosquito's role in Y.F.? Were you still at Pinar - did early<lb/>
+rumors reach you there? Or were you at the Col. Post Hospital? How was the<lb/>
+news received by the average soldier at the Hospital, the average soldiers<lb/>
+in Camp Columbia, the average Cuban in Quemados?<lb/>
+Reed didn't give his first <hi>public</hi> report on it till October 22, 1900 at<lb/>
+Indianapolis. Did the &ldquo;news&rdquo; become an open secret around Camp Columbia<lb/>
+and Havana before that? If so, about when?</item>
+<item>66. Before you arrived at Post Hospital, Columbia Barracks on September 9, 1900 the<lb/>
+following had occurred:<lb/>
+<list type="ordered">
+<item>(a) The Y.F. epidemic in Quemados, spring 1900.</item>
+<item>(b) Preliminary program of Y.F. board set up between June 25 (when Reed<lb/>
+and Carroll reached Havana) and about August 2 when Reed was<lb/>
+called back to Washington.</item>
+<item>(c) Lazear's first experiments on volunteers August 11-25.</item>
+<item>(d) Carroll bitten August 27, became ill August 20-31.</item>
+<item>(e) Dean bitten August 31, became ill September 5-6.</item>
+</list>
+When you arrived at the Post Hospital September 9 what did you hear about all<lb/>
+this and how soon.</item>
+<item>67. Lazear was presumably bitten by an infected mosquito September 13, became ill<lb/>
+September 18 and died September 25 at 8:45 p.m. What did you hear about this?<lb/>
+What was the reaction of the enlisted hospital personnel? Did they think<lb/>
+Lazear had gotten an accidental or experimental infection? Give me your 1900<lb/>
+recollections, not those altered by recent stories (Truby's, mine). Did you<lb/>
+hear of Lazear's &ldquo;life-insurance story&rdquo;? Did you believe it?</item>
+<item>68. Tell me all you can about Lazear's funeral. On p. 112 of Truby's book it says<lb/>
+&ldquo;The entire medical personnel of the hospital were present at the funeral on<lb/>
+the afternoon of September 26, 1900&rdquo;. Were you there? Please describe all you<lb/>
+can.</item>
+<item>69. If you don't specifically recall Lazear's funeral please describe any funeral<lb/>
+you saw.</item>
+<item>70. Can you locate on a map where this U.S. army cemetery was? (See Truby's map<lb/>
+facing p. 51.)</item>
+<item>71. What was the &ldquo;soldier-talk&rdquo; about Dean's case?</item>
+<item>72. Regarding the La Playa beach: On many afternoons and evenings some of the<lb/>
+medical officers and families went to the beach to bathe and swim. Did the<lb/>
+enlisted personnel go there also? What facilities were there for dressing and<lb/>
+undressing? Did you all (public, officers, men) use the same beach? Were<lb/>
+there any beach houses or facilities at the beach or was there merely sand?<lb/>
+Did you walk to the beach (it was about 2 miles from the Post Hospital to the<lb/>
+beach) or did you go overtown to the Quemados (Marianao) R.R. Station and take<lb/>
+<pb n="9" id="f04715093"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 9<lb/>
+the train to La Playa (2 3sol;4 miles from the Marianao Station)? How often<lb/>
+did the Marianao - La Playa R.R. run? Could you get food at the beach or<lb/>
+did you have to come back to camp?</item>
+<item>73. When Reed returned and wanted volunteers about when did the hospital person-<lb/>
+nel first hear of it? Who told you of it - Dr. Ames? Did he ask you to<lb/>
+volunteer? If not, why not? If so, what held you back? If you weren't asked<lb/>
+directly to volunteer, you all probably knew of the matter. What was the<lb/>
+general opinion regarding volunteering? How much was offered to volunteers?</item>
+<item>74. What is your <hi>independent</hi> recollection as to who volunteered first - Moran or<lb/>
+Kissinger? Please try to answer this. (See also question 79).</item>
+<item>75. Did any of the volunteers talk their decision over with you and what did they<lb/>
+give as their reasons? (In your letter of September 25, 1949 to me you told<lb/>
+me you knew personally every hospital corpsman who took the tests and talked<lb/>
+with them all before and after the tests.)</item>
+<item>76. Undoubtedly the various volunteers had <hi>different</hi> reasons. Some did it purely<lb/>
+for money, others in part to help the doctors whom they admired, two for no<lb/>
+money - is that right?</item>
+<item>77. Did you know that Kissinger later received a watch at a little ceremony at<lb/>
+the Post Hospital parade grounds? Were you there? Tell me of it. (See<lb/>
+Senate Doc. 822, p. 22.)</item>
+<item>79. Did you know that Moran had volunteered and received nothing ever? Didn't<lb/>
+he precede you as clerk at the Post Hospital? Moran's version of how he<lb/>
+and Kissinger volunteered contradicted flatly Kissinger's version and in turn<lb/>
+they both contradicted the &ldquo;official version&rdquo; (the legend) that they volun-<lb/>
+teered together. Moran told me precisely many times that he decided first,<lb/>
+talked it over long into one night with his room-mate Kissinger and that he<lb/>
+(Moran) went alone next morning and volunteered to Reed. Later that day or a<lb/>
+day or two later Kissinger volunteered. Moran years ago wrote this version<lb/>
+to Dr. Peabody (I have a copy) but later fell in line with &ldquo;the legend&rdquo; and<lb/>
+agreed on several occasions that he and Kissinger had volunteered &ldquo;at the<lb/>
+same time&rdquo; though each insisted he went to Reed separately. When I asked<lb/>
+Moran about this flat contradiction he said he'd gotten tired of trying to<lb/>
+defend himself as the first volunteer, decided that is would be &ldquo;better all<lb/>
+round&rdquo; if he agreed to the legend that he and Kissinger volunteered at the<lb/>
+same time (i.e. same day but not at same interview with Reed). But Kissinger<lb/>
+always claimed <hi>he</hi> volunteered first and although Reed never actually backed<lb/>
+him up Reed's papers allow one to believe it. Actually Kissinger was inocula-<lb/>
+ted ahead of Moran - a point in favor of Kissinger's claim to priority.</item>
+<item>Moran was most anxious to be the first one to develop Y.F. Therefore he had<lb/>
+wanted to be the first to be inoculated. He was disappointed when Reed inoc-<lb/>
+ulated Kissinger (November 20 and again November 23) ahead of him. (Moran was<lb/>
+first inoculated November 26 and again November 29.) All four of these inoc-<lb/>
+ulations failed. When Moran expressed to Reed his hope that he (Moran) would<lb/>
+get the first case, Reed told him he wanted to save him for the special ex-<lb/>
+periments (in Building #2). So Kissinger was inoculated again December 5 and<lb/>
+took sick December 8. Moran wasn't inoculated again until in Building #2 on<lb/>
+December 21-22 and took sick December 25.<lb/>
+<pb n="10" id="f04715094"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 10<lb/>
+As the first sick volunteer at Camp L., Kissinger doubtless became a &ldquo;special<lb/>
+individual&rdquo; to Reed and Reed expressed his gratitude publicly. Moran &ldquo;wor-<lb/>
+shipped&rdquo; Reed. Although Moran was very disappointed that he didn't get Y.F.<lb/>
+first, he had the satisfaction of knowing he had volunteered first. When<lb/>
+Reed and others gave Kissinger the watch in a &ldquo;ceremony&rdquo; on the parade ground<lb/>
+Moran (who was only a civilian clerk by the time he volunteered for Y.F.) was<lb/>
+not asked to participate in this ceremony and was not similarly honored. (Con-<lb/>
+trary to p. 22 Senate Document, Moran did <hi>not</hi> leave Havana immediately after his<lb/>
+Y.F. He was still in town when they gave Kissinger the watch.) This <hi>suggests</hi><lb/>
+that Reed recognized Kissinger as the first volunteer. When I questioned Moran<lb/>
+closely, and more than once, on this point, he spoke very carefully. It was<lb/>
+obvious he was guarding his feelings with special care. He didn't want to say<lb/>
+one word of criticism of Reed (and never did) but I could see plainly that he<lb/>
+(Moran) had been deeply hurt, or at least greatly disappointed, that Reed had<lb/>
+not seen fit to recognize him at the same time. Moran's only explanation was:<lb/>
+&ldquo;I was then no longer in uniform, only a civilian clerk. Perhaps for the good<lb/>
+of the service it seemed best to honor a volunteer still in uniform&rdquo;.<lb/>
+I have spent a few days with Kissinger, <hi>many</hi> days with Moran. Kissinger's<lb/>
+memory (1940 and after) was poor. I found <hi>many</hi> contradictions in his story.<lb/>
+Doubtless he was fundamentally honest but he had told his story publicly many<lb/>
+many times and told it as if recited and embellished by time. Moran very<lb/>
+rarely told his story (never in public press I believe, before I saw him;<lb/>
+later for Furness of the Saturday Evening Post) and what he <hi>did</hi> tell me - and<lb/>
+I have two big files of letters, interviews, etc. - was practically always<lb/>
+correct. Moran's intelligence and memory were much better than Kissinger's.<lb/>
+For many reasons I believe Moran's story that he volunteered first to be the<lb/>
+<hi>true one</hi>. What do you think? What was the &ldquo;hospital gossip&rdquo; about all this -<lb/>
+at the time.</item>
+<item>80. Did you ever see Dr. Finlay at the Post Hospital or elsewhere? Did the<lb/>
+hospital enlisted men know at the time who he was, about his theory, etc.<lb/>
+What was the general attitude toward Finlay? Did the hospital corpsmen<lb/>
+(early) regard his theory as silly? If you saw him, or heard enough about<lb/>
+Finlay at that time please tell me about his character, etc.</item>
+<item>81. What was the &ldquo;hospital gossip&rdquo; about the experiments at Camp L. as they<lb/>
+developed? Changing attitudes? What were your ideas at the time about<lb/>
+the dangers of the mosquito inoculations at Camp L. as compared to those from<lb/>
+fomites in Building #1?</item>
+<item>82. Any further memories about the affair when Lambert broke quarantine to get Ames<lb/>
+to go down to see Andrus?</item>
+<item>83. Was this when Ames was (supposedly) ill of Y.F.? If Ames had Y.F. why didn't<lb/>
+he quarantine himself at the Y.F. huts instead of remaining at the Post Hos-<lb/>
+pital? When Ames was ill did he stay in his own bachelor quarters or go to<lb/>
+a room in the Post Hospital (did they have any private rooms) or <hi>did</hi> he go<lb/>
+to the Y.F. huts as a patient? In 1934 Nurse Winifred Lewis said Ames &ldquo;was<lb/>
+given a room at the General Hospital&rdquo; during this illness.</item>
+<item>84. Who were the female nurses at the Post Hospital. On p. 49 Truby says there<lb/>
+were 4-8 women nurses but he doesn't name them. I have 4 names: Miss Lewis,<lb/>
+Lottie McCord, Miss Lena Warner, Miss Gillen. Are these names correct? Any<lb/>
+others you recall? What did these nurses do exactly? Where did they live -<lb/>
+in private homes or nearby Quemados or at the Post Hospital? Can you tell me<lb/>
+<pb n="11" id="f04715095"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 11<lb/>
+from <hi>your</hi> memory which of these female nurses nursed any Y.F. cases (spon-<lb/>
+taneous cases like Major Kean, or experimental cases from Camp L.) at the<lb/>
+Y.F. huts? I think they didn't do so well with the early cases (e.g. Carroll,<lb/>
+Dean, Lazear) and were replaced by Pvt. Schwieger (see p. 99, Truby's book)<lb/>
+and later (?) by Lambert. Can you tell me from <hi>your</hi> memory (even if uncer-<lb/>
+tain, your best recollection) who nursed each of the following: Kean, Car-<lb/>
+rol, Dean, Lazear, the various infected volunteers from Camp L.? (See Truby's<lb/>
+book, pp. 49.79 and 109.)</item>
+<item>85. Tell me of the personality, ability, etc., of these female nurses. How did<lb/>
+they &ldquo;fit in&rdquo; at the hospital? One official report says they were most use-<lb/>
+ful and faithful but at times created serious problems at Camp Columbia.</item>
+<item>86. Who besides Schwieger, Rasmussen and Lambert nursed the sick volunteers at the<lb/>
+Y.F. huts? What did you enlisted men think of these male nurses at the time -<lb/>
+that they were &ldquo;brave,&rdquo; or &ldquo;crazy&rdquo; to do what Lambert did for so long, or were<lb/>
+you indifferent?</item>
+<item>87. Did the enlisted personnel at the Post Hospital realize that Lazear's earliest<lb/>
+experiments (August 11 - September 25) were essentially &ldquo;secret&rdquo; and unknown<lb/>
+to and unauthorized specifically by Col. Baldwin, C.O. of the camp? Did the<lb/>
+personnel <hi>know</hi> of the experiments <hi>before</hi> Lazear died - possibly not. If you<lb/>
+did know of them were you asked not to talk about them with your friends from<lb/>
+Camp Columbia proper?</item>
+<item>88. In one of your early letters to Truby you mentioned &ldquo;the receiving ward&rdquo; at<lb/>
+the Post Hospital. Where was it and why isn't it indicated on the 1902 map?<lb/>
+Why did Truby have to draw it in (see p. 51 in his book)? Why were they<lb/>
+&ldquo;removed&rdquo; in 1901 (?).</item>
+<item>89. You have of course seen Senate Document 822 - compilation of the papers of<lb/>
+the Army Board. Do you have your own copy? If not, would you like me to<lb/>
+lend you a copy (I have an extra one)? Wouldn't it help you to help me if<lb/>
+you had a copy to refer to (even though it contains many errors - most of<lb/>
+them unimportant)?</item>
+<item>90. You had no contact with Los Animas Hospital. Did you ever visit it? Did<lb/>
+you know Taylor in the lab there? Did the enlisted personnel at the Post<lb/>
+Hospital <hi>believe</hi> the story that Lazear had been accidentally inoculated<lb/>
+there?</item>
+<item>91. A tender subject: - Reed's willingness to take an inoculation. As you know<lb/>
+Lambert and others have inferred or stated that Reed was personally &ldquo;afraid&rdquo;<lb/>
+of Y.F., &ldquo;afraid&rdquo; when he was in the post mortem room, &ldquo;afraid&rdquo; to volunteer<lb/>
+himself. But didn't Andrus volunteer when he overheard Reed insist he would<lb/>
+be inoculated next when the man (Weatherwalk, see Senate Doc. p. 23) who had<lb/>
+promised, reneged? What is your honest opinion? Did you go to post mortems<lb/>
+on Y.F. victims at the Post Hospital - as clerk to write notes? Did you see<lb/>
+Reed at any post mortems? What was his attitude? Please tell me frankly of<lb/>
+your opinion or if you overheard that of others. (I will never quote you on<lb/>
+anything except as you wish and if you give me any answer marked &ldquo;confidential&rdquo;<lb/>
+I will <hi>not</hi> ever use your name, but I need your opinion to help me decide on<lb/>
+certain conflicting comments. I have had the opinion that Lambert (who de-<lb/>
+serves and <hi>will get</hi> a <hi>lot</hi> of credit in my book) has for years been forced into<lb/>
+<pb n="12" id="f04715096"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 12<lb/>
+the position of being anti-Reed in order to show how much Ames did. But<lb/>
+Reed himself was <hi>never</hi> anti-Ames; he spoke publicly and highly of Ames and<lb/>
+died long before the controversy over honors, pensions, etc. began. Why is<lb/>
+Lambert (apparently) &ldquo;anti-Reed?&rdquo; (He is the <hi>only</hi> American connected with<lb/>
+the experiments whom I have met who is anti-Reed. Of course such folks as<lb/>
+Dr. Brumby, Mrs. Ames and the Carroll <hi>relatives</hi> - and some Cubans - are<lb/>
+somewhat anti-Reed but they <hi>never</hi> knew Reed, never saw him and only became anti-Reed<lb/>
+to enhance the credit of their own favorite.)</item>
+<item>92. Can you give me confidential personality sketches re. Kissinger, Moran,<lb/>
+Andrus, Jernegan, Hanberry and others? Also Lambert.</item>
+<item>93. Didn't two of the &ldquo;Y.F. heroes&rdquo; desert? One (was it Forbes?) deserted<lb/>
+during a later enlistment and was never heard from even by his family whom<lb/>
+I visited in Chicago some years ago. Didn't Hanberry desert but was later<lb/>
+&ldquo;forgiven&rdquo;? Did he ever tell you why or did you ever hear why? I've never<lb/>
+asked him, but I plan to do so, as I think <hi>he owes it to himself</hi> to tell why -<lb/>
+even if he has to admit it was &ldquo;foolish&rdquo;. He certainly gave extra-service<lb/>
+before deserting and thoroughly deserves &ldquo;forgiveness&rdquo; but I want him to<lb/>
+have something better - &ldquo;understanding&rdquo;. Also his desertion is a matter of<lb/>
+official record. I will <hi>not</hi> ever hurt his feelings about this and will probab-<lb/>
+ly not ask him by mail but will visit him sometime (soon, I hope) and only<lb/>
+bring it up if and when we have talked long about his finer record and if it<lb/>
+seems feasible. (See Senate Doc. p. 28. Hanberry &ldquo;deserted the service<lb/>
+April 4, 1902&rdquo;).<lb/>
+Now let me refer to some of your old letters to me or to Gen. Truby. I<lb/>
+hope you have copies of them. If not, I can send you copies. (<hi>Please make<lb/>
+copies of your letters to me</hi> so we can refer back to them as necessary.)</item>
+<item>94. In your letter of September 25, 1949 (your first one to me) on p. 2 you said<lb/>
+that &ldquo;Gen. Gorgas sent Amador down there (to P. del R.) to investigate. One<lb/>
+doctor there told me it was yellow fever. But he could not do anything about<lb/>
+it because he was only a contract Doctor (not a regular).&rdquo;<lb/>
+Please tell me (in confidence if you wish) who this doctor was. Was it Dr.<lb/>
+Cooke or Dr. Presnell, or who?</item>
+<item>95. In view of our conversation last month, is it still your recollection that<lb/>
+<hi>Amador</hi> was sent to P. del R.? The best records say it was Agramonte (and I<lb/>
+think it was Stark and Reed, not Gorgas who sent Agramonte down, wasn't it?)<lb/>
+who went on July 19 and he sent for Reed who reached P. del R. July 21. There<lb/>
+are several contradictions on the records.<lb/>
+Agramonte (in his own story in Scientific Monthly December 1915; if you haven't<lb/>
+seen this I'll lend you a copy - it is full of errors, though) says he went to<lb/>
+Pinar July 19: On p. 165 of the Senate Document it says Agramonte went there<lb/>
+&ldquo;the last week in July&rdquo; and Agramonte said (Scientific Monthly) that Reed went<lb/>
+down July 21. Agramonte waited in Pinar for him. (Is this your memory?) But<lb/>
+Reed (see Senate Doc. p. 93) says he made the trip with Agramonte July 31<lb/>
+(instead of 21st). Kean told me Reed gave the wrong date and from Reed's let-<lb/>
+ters to his family it is evident that Reed went to Pinar July 21. Agramonte<lb/>
+(see Sen. Doc. p. 25) said he was &ldquo;joined there (in Pinar) by Major Reed a<lb/>
+couple days later.&rdquo; Dr. Kelly (in his book p. 124) perpetuated Reed's error<lb/>
+<pb n="13" id="f04715097"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 13<lb/>
+and stated that Reed and Agramonte went together July <hi>31</hi>. What is your<lb/>
+opinion of Agramonte's version of the P. del R. affair as given on pp.<lb/>
+217-218 Scientific Monthly for December 1915? I have never seen any re-<lb/>
+marks to the effect that Amador was sent to Pinar at this time.<lb/>
+(Mr. Tate, <hi>please</hi> don't feel embarrassed if I point out &ldquo;errors&rdquo; or con-<lb/>
+tradictions in your remarks. My own memory plays me many tricks. Your<lb/>
+memory will be <hi>very</hi> helpful to me because it gives me new clues, new data<lb/>
+I've never gotten before, and when I can find discrepancies the <hi>other</hi> fellow<lb/>
+fellow may be wrong, not you. So please bear with me. I need and appreciate<lb/>
+your help very much.)</item>
+<item>96. In your letter of August 18, 1950 to me you wrote: &ldquo;What great changes there<lb/>
+must be there! It seems so simple to me, picturing it in my mind as it was,<lb/>
+to walk from the Corps Quarters, cross the road, pass the Pest House, and less<lb/>
+than a mile away, straight ahead was Camp Lazear.&rdquo; Will you please look at<lb/>
+the 1902 map (Truby page 51) and also the map I enclose. How did you usually<lb/>
+go from your barracks (buildings 102-103 in the 1902 map) to Quemados? As you<lb/>
+left the barracks did you turn <hi>right</hi> and take the La Playa road (east of the R.<lb/>
+R.) to Quemados passing the R.R. and the Y.F. huts on your <hi>far</hi> right? If you<lb/>
+did, Camp Lazear was not &ldquo;straight ahead&rdquo;. You would have come to Quemados<lb/>
+and then had to walk along Calzada Real several blocks to the <hi>left</hi> to come to<lb/>
+the Finca San Jose and Camp Lazear. (I assume by the &ldquo;Pest House&rdquo; you meant<lb/>
+the Y.F. huts).<lb/>
+Or did you, leaving your barracks, turn to the <hi>left</hi> and make for the place<lb/>
+where General Lee street joined the main road out of Columbia Barracks? If<lb/>
+so you would have gone to Quemados via General Lee street which meets Calzada<lb/>
+Real at right angles. But even so you would have had to turn left (and not<lb/>
+&ldquo;straight ahead&rdquo;) a little ways before reaching the Finca San Jose entrance on<lb/>
+Calzada Real (see my map enclosed).</item>
+<item>97. In your letter to me, August 7, 1951, you express grave doubts as to the<lb/>
+correctness of Lena Warner's account as published in Dr. Kelly's book, pages<lb/>
+225-229. I too have noted important errors in this account by her. If I<lb/>
+send you a copy of her account would you make marginal notes to show me what<lb/>
+was wrong and what right? Or can you write me of it? She indicates that Reed<lb/>
+once objected so strongly to the mess-hall profanity that he got up and left.<lb/>
+Someone (either Reed's son, or Kean or Truby) told me they simply didn't believe<lb/>
+it because Reed, though a &ldquo;gentleman,&rdquo; was no prude and indeed used strong<lb/>
+language himself on occasion (as his letters to family and friends show - let-<lb/>
+ters I have). Any comment?</item>
+<item>98. In your letter to me February 24, 1954, you wrote: &ldquo;My newspaper habit kept<lb/>
+me looking for the &lsquo;story&rsquo;, especially the human interest features. So I<lb/>
+talked to everyone I could and saw little things unnoticed by others.&rdquo; Did<lb/>
+you ever send any data to the Washington Star? If so, could we locate the<lb/>
+items; this shouldn't be hard as the Congressional Library has a complete file.<lb/>
+Do you have any copies of your correspondence over the years with others?<lb/>
+Would you be willing to let our stenographer (Miss Catherine Bruce) make copies<lb/>
+for me or better yet, would you be willing to pack them in a metal box I could<lb/>
+send you, send them to me by registered insured mail and let me make ozalid<lb/>
+copies of them? We could do this easily here. You may have some very interest-<lb/>
+ing notes to and from others.<lb/>
+<pb n="14" id="f04715098"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 14</item>
+<item>99. With your letter of February 24, 1954 you sent me some notes on Dr. Ames.<lb/>
+Where did Ames learn Spanish? Which Spaniard was it who was making the slow<lb/>
+recovery and was inspired by the daily jingling of the coins?</item>
+<item>100. In your notes on &ldquo;Lambert Breaks Quarantine,&rdquo; you speak of Dr. Ames recovering<lb/>
+from yellow fever in his regular quarters at the Post Hospital. How can you<lb/>
+explain this? You mention the nurse &ldquo;Lottie&rdquo;. Lambert spoke of her as Lottie<lb/>
+McCord. Tell me more of this incident. Who was Hardy? He isn't shown in the<lb/>
+photo of the Detachment (Truby p. 154). Did you mean Pvt. Wm. McHardy who is<lb/>
+#21? What was Hardy (or McHardy) doing - a nurse or not? &ldquo;Hardy&rdquo; told you that<lb/>
+Capt. Stark used &ldquo;words of denunciation&rdquo;-to whom? Apparently first to Miss<lb/>
+Lewis, then to Lambert and Hardy, or did he include Ames himself? This is a<lb/>
+colorful incident - please elaborate if you can.</item>
+<item>101. In your copy of one of your letters to Dr. Brumby you discount the work of<lb/>
+Agramonte: &ldquo;he in no way helped the experiment and was seldom there.&rdquo; Is<lb/>
+this from hear-say or personal knowledge? Actually Agramonte was still on<lb/>
+duty at the <hi>other</hi> hospital, had his lab there and did there (not at the Post<lb/>
+Hospital) the bacteriologic and pathologic work he did for the Board. Unless<lb/>
+you attended post mortems I don't suppose you might have run into Agramonte<lb/>
+at the Post Hospital very often. What are your reactions to Agramonte's self-<lb/>
+defense on p. 25-26 Senate Document? (I must lend you a copy if you don't<lb/>
+have one!) I don't believe many things Agramonte wrote, especially in the<lb/>
+Scientific American article, and I have disproven some of his claims but others<lb/>
+I have been able to verify. I have photostat copies of much lab work he did<lb/>
+for the board and his <hi>records</hi> of the mosquito breeding and infecting and inocu-<lb/>
+lations at Camp Lazear (Agramonte's own handwriting and, as I recall it, Reed's<lb/>
+letter to Agramonte asking for these notes.)<lb/>
+I heartily agree that Finlay <hi>and</hi> Ames <hi>and</hi> Lambert deserved to be honored by<lb/>
+Congress but the latter two were excluded by the controversial definition of<lb/>
+service for the award. General Kean had much to do with this definition. I<lb/>
+argued with him about it but when he asked me how <hi>I</hi> would have set up the<lb/>
+distinctions so as to include only those who constituted the board or who<lb/>
+offerred their own <hi>bodies</hi>, and exclude the <hi>many</hi> who served otherwise at Post<lb/>
+Hospital, Camp Lazear, the Y.F. huts, etc., I confess I could not have made<lb/>
+a better distinction. <hi>Any</hi> distinction that could have resisted <hi>successfully</hi><lb/>
+the many later attempts to get on the roll would have done some injustice<lb/>
+to some. But they tried hard to do justice to the majority, those chiefly<lb/>
+involved and in doing so they left out Finlay, Ames and Lambert. But had<lb/>
+Lambert been included the politicians would have most assuredly included<lb/>
+<hi>every</hi> male or female nurse who nursed not only experimental but spontaneous<lb/>
+cases of Y.F., and all doctors too. Even so the Mazzuri's and the like tried<lb/>
+hard to get on the list.<lb/>
+But <hi>I can</hi> do these men honor - especially Finlay, Ames and Lambert - and I<lb/>
+<hi>will</hi>! And I'm not at all prejudiced against Lambert simply because his memory<lb/>
+isn't entirely correct or because in his zeal for Ames he (unwittingly) injures<lb/>
+Reed and misunderstands the motives of Kean and the Surgeon General. There<lb/>
+will be <hi>much</hi> about Lambert in my book (and some about my valuable friend,<lb/>
+Mr. Tate, also who is now almost the only one who can help me.).<lb/>
+<pb n="15" id="f04715099"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 15</item>
+<item>102. In your notes on &ldquo;Gust Lambert - Yellow Fever Nurse&rdquo; you infer that Ames<lb/>
+let Lambert make the diagnosis of yellow fever on Ames. I have no doubt<lb/>
+that Lambert, so loyal to Ames, feared lest Ames have it and his warning<lb/>
+was a natural one, and at that stage Lambert might well have suspected<lb/>
+Ames had Y.F. But it wasn't even easy for Ames and Finlay to diagnose<lb/>
+Y.F. the first day and Lambert, despite his great nursing experience could<lb/>
+not have made a certain diagnosis on sight. Remember that <hi>most</hi> of what<lb/>
+Lambert was seeing <hi>was</hi> Y.F. One can claim that the first 24 hours of<lb/>
+Fever X resembles Yellow Fever - well and good. But it is a doctor's busi-<lb/>
+ness to see whether a part of a fever &ldquo;resembles&rdquo; Y.F., or actually <hi>is</hi><lb/>
+Y.F. and nothing else. That is where Stark's responsibility lay. Dr.<lb/>
+Stark did sign a &ldquo;Y.F. certificate&rdquo; for Ames but one, looking at the fever<lb/>
+chart, short illness, etc., had a right to wonder about the correctness<lb/>
+of the diagnosis especially as Ames, <hi>the</hi> Y.F. expert, told others he had<lb/>
+already had Y.F. and told Lambert it &ldquo;wasn't possible&rdquo; for him to have it<lb/>
+(again?). I think subsequent events favor Ame's first idea (that he did<lb/>
+<hi>not</hi> have Y.F. at Columbia Hospital) much more strongly than the idea that<lb/>
+he <hi>did</hi> have it - presumably a second time - despite Stark's unexplained<lb/>
+acquiescence. But any data, opinions etc. you have I will be glad to have.<lb/>
+But Lambert's intense loyalty to Ames forces one to investigate his claims<lb/>
+for Ames with care - and when his claims for Ames are true that I will<lb/>
+publish <hi>most</hi> gladly. Ames was truly a crucial figure in all this.<lb/>
+You wrote that Lambert was &ldquo;treated as an outcast.&rdquo; Isn't that largely<lb/>
+a figure of speech? Everyone at the camp hospital <hi>knew</hi> what Lambert was<lb/>
+doing, probably honored him silently for it, but in avoiding him they were<lb/>
+simply obeying orders as Lambert was. And Lambert, a brave man stubbornly<lb/>
+<hi>determined</hi> to see his job through, knew he was serving <hi>beyond</hi> the call of<lb/>
+duty, and like everyone who so serves, he had the intense satisfaction<lb/>
+that went with his work. He knew of (but disregarded) his own bravery,<lb/>
+he (like you and others) &ldquo;scorned&rdquo; yellow fever which he had fought so<lb/>
+closely so long, he knew that he and Ames were saving the lives of the<lb/>
+volunteers. His brave &ldquo;compulsion&rdquo; to do his damdest, to see it through,<lb/>
+to keep on and on at a job others (especially perhaps one or two of the<lb/>
+female nurses) either feared or did less well than Lambert knew he could do,<lb/>
+all these were his reward -- and still are, bless him! So I doubt if he had<lb/>
+time or inclination to feel sorry for himself despite his loneliness and<lb/>
+pajama-wearing, except perhaps in an occasional moment of deep fatigue. But<lb/>
+he <hi>was</hi> a <hi>volunteer</hi> on this job, knew he was doing an unusual, vital duty,<lb/>
+undoubtedly had the <hi>obvious</hi> respect of all the doctors who saw him at work -<lb/>
+not just Ames. In serving others thus he had <hi>then</hi>, and has always had, an<lb/>
+intense inner satisfaction that <hi>nobody</hi> can ever remove. Nevertheless I can<lb/>
+well understand why he might wish he could have gotten some material reward,<lb/>
+when others (Hammann, Bullard, etc) did. But in fairness to these latest<lb/>
+volunteers we must still remember that the Y.F. Board <hi>wanted</hi> and at the time<lb/>
+<hi>needed</hi> their bodies for the last clinching, overwhelming proof and that<lb/>
+Hammann, Bullard, Covington et al <hi>did accept</hi> the Board's request, did offer<lb/>
+their bodies and <hi>could</hi> have lost their lives even at that late date, as Miss<lb/>
+Maass did. For they <hi>did</hi> get experimental Y.F. - their great distinction over<lb/>
+any who did not ever get it, and in so doing they served their country. Lam-<lb/>
+bert served <hi>his</hi> country too - well and <hi>beyond</hi> the call of duty in my opinion,<lb/>
+but he served it by helping to save the lives of his patients and the reputa-<lb/>
+tion of the board and by <hi>ignoring</hi> Y.F. which he never got, <hi>not</hi> by actually<lb/>
+offering to develop the terrifying disease and risk his life <hi>directly</hi> rather<lb/>
+than <hi>indirectly</hi>.<lb/>
+Please comment. Am I fair to all concerned? I <hi>want</hi> to be!<lb/>
+<pb n="16" id="f04715100"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 16</item>
+<item>103. Regarding your comments on &ldquo;The Spaniards&rdquo; and the error or errors on<lb/>
+the bronze plaque at Camp L. I will write you later of this. I can<lb/>
+explain how Dr. Nogueira made the mistake. I was partly responsible.<lb/>
+After much study and labor and searching of many unpublished records I<lb/>
+made a list and sent it to Gen. Truby and others to check. Because of<lb/>
+the similarity of two names my copy had an error on one page, <hi>corrected</hi><lb/>
+on another. But Nogueira failed to see the correction. As you know<lb/>
+the first names of some of the Spaniards are never mentioned. I found<lb/>
+the names of one or two. But just last January in Washington in Mrs.<lb/>
+Carroll's basement I found the actual fever charts of several of these<lb/>
+Spaniards, and there at long last are their full names. I will get them<lb/>
+and may be we will &ldquo;correct&rdquo; the tablet on some future date - some &ldquo;Finlay<lb/>
+Day&rdquo; at Camp Lazear and put up a corrected tablet. I agree with you that<lb/>
+even though these Spaniards had &ldquo;self-centered&rdquo; (<hi>not</hi>&ldquo;selfish&rdquo;) motives<lb/>
+for volunteering, nevertheless they served humanity and deserve to have<lb/>
+their names honored and spelled correctly.<lb/>
+On one of my visits to Havana I actually copied from the Havana telephone<lb/>
+directory the names of everyone in Havana whose names suggested a possible<lb/>
+relationship. I still have the list but as you know names such as Alvarez,<lb/>
+Martinez, Fernandez are like &ldquo;Smith, Jones, etc.&rdquo; But when I get the new<lb/>
+(Carroll) data on their names I will see one of my Havana newspaper friends<lb/>
+and have their names publicized in the <hi>Cuban</hi> papers and call for their<lb/>
+relatives to come forward - <hi>not</hi> for monetary reward but so that they can<lb/>
+be asked to attend a Camp Lazear ceremony sometime.</item>
+<item>104. As to your opinion of Sidney Howard's play, I agree. But unfortunately<lb/>
+Dean, &ldquo;Private XY&rdquo; did have venereal disease - I have his medical record.<lb/>
+He had &ldquo;subacute gonorrhea&rdquo; according to the chart signed by Ames. Even<lb/>
+so, in his own way and at just the right time he was <hi>asked</hi> to make a<lb/>
+contribution to science which he <hi>did</hi> whether or not he fully realized what<lb/>
+he was doing. Many (if not most) heroes are the products of fate, cir-<lb/>
+cumstances and reflexes, rather than made by complete, unfettered choice.<lb/>
+Dean did his part, but it is amusingly ironic or ironically amusing that<lb/>
+he had to get g.c., and find himself in a situation useful at that precise<lb/>
+moment so that he could end up (or his relatives) with a medal, memorial<lb/>
+bridge, etc., etc. Dean must have chuckled to himself many a time and his<lb/>
+spirit in heaven must have laughed out loud when his survivors got <hi>his</hi><lb/>
+Congressional medal and his city solemnly dedicated that bridge in his<lb/>
+honor! (I have two medical charts on Dean, one with and one without the<lb/>
+additional diagnosis of subacute gonorrhea; one probably the original, the other<lb/>
+a second copy.)<lb/>
+This &ldquo;angle&rdquo; is so amusing, one can hardly resist mentioning it (even if,<lb/>
+oh so casually and delicately), with <hi>no</hi> malice toward one more young<lb/>
+soldier who got what so many such got, and get. I suspect that many a<lb/>
+wearer of a Purple Heart, a flying cross or perhaps even a Congressional<lb/>
+Medal has had a similar medical record. But I agree that it does more<lb/>
+harm than good, even to &ldquo;smile&rdquo; (in print) <hi>with</hi> Dean, rather than at him.</item>
+<item>105. Can you tell me anything about another &ldquo;forgotten character&rdquo; - Sergeant<lb/>
+Neate? Did you know that Neate was inoculated not with a Y.F. mosquito<lb/>
+but with a &ldquo;pungens,&rdquo; as Reed wanted a couple such&ldquo;controls.&rdquo; Springer<lb/>
+(#35 in the Detachment photo) was also bitten by a pungens (see Senate<lb/>
+Document 822, p. 118). Both of them got some money reward. Did Springer<lb/>
+or Neate tell you about this?<lb/>
+<pb n="17" id="f04715101"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 17</item>
+<item>106. Can you tell me about Carroll's protracted convalescence? Did you<lb/>
+see him much then? He tried to &ldquo;bluff it out&rdquo; and wrote his wife he was<lb/>
+back at work doing this and that, when Kean, Truby and others say he was<lb/>
+doing practically nothing. Then they sent him on leave.</item>
+<item>107. Please comment in writing about the photo which I got from Mrs. Carroll<lb/>
+last January and which I identify as &ldquo;Reed's laboratory&rdquo; at the Post<lb/>
+Hospital - building #89, Truby p. 51. For reasons I told you, I have<lb/>
+never been able to accept Gen. Truby's identity of the building in Figure<lb/>
+11 (p. 56) and Figure 19 (p. 87) as Reed's laboratory. It would have<lb/>
+had to be turned on its axis to have faced the way Reed's lab. faced<lb/>
+according to the maps of the Post Hospital. This was one of the <hi>very</hi> few<lb/>
+things General Truby and I disagreed on.<lb/>
+Now the photo I found in Mrs. Carroll's house last January is (erroneously)<lb/>
+identified in the handwriting of Dr. Carroll's <hi>widow</hi> (not Carroll's hand-<lb/>
+writing) as &ldquo;Laboratory at Camp Lazear.&rdquo; But there was no separate lab.<lb/>
+at Camp Lazear and no building at Camp Lazear like the one in the photo.<lb/>
+(After Building #2 was finished they <hi>added</hi> a little mosquito lab. in the<lb/>
+rear.) (See photo in Kelly's book p. <hi>146 wrongly</hi> labelled the Fomites<lb/>
+building.)<lb/>
+The photo (copy enclosed) Mrs. Carroll (daughter-in-law) recently loaned<lb/>
+me is identical with the one shown in the Perez model of the Post Hospital<lb/>
+and identified both by location and number (#89 on the model) as Reed's lab.<lb/>
+at the Post Hospital - the same shape, number and arrangements of windows,<lb/>
+slant of roof, ventilators, etc. and especially the lower, two-level addi-<lb/>
+tion at the back.<lb/>
+I am absolutely certain that this is the long lost photo of Reed's lab. and<lb/>
+Mrs. Truby last month in San Francisco agreed with me. What do you think?<lb/>
+Can you identify the enclosed photo as Reed's lab., from your own memory?<lb/>
+If not, after examining the various photos I've mentioned can you agree<lb/>
+that I am correct?</item>
+<item>108. You told me you exhumed Lazear's body. In one of the Army reports (Wood's<lb/>
+1901 report) it mentions the use of metalic caskets and wooden coffins.<lb/>
+The bodies of &ldquo;102 officers and soldiers, and 66 civilians&rdquo; who died in<lb/>
+Cuba during the previous twelve months and who had not yet been sent back<lb/>
+to the U.S., were disinterred between December 1, 1900 and February 24,<lb/>
+1901. Somewhere I have a complete list of all their names.<lb/>
+Please tell me of the difficulties involved in disinterment, of the<lb/>
+military honors paid to the dead on these occasions, etc. Tell me es-<lb/>
+pecially of Lazear's disinterment.</item>
+<item>109. I have just re-read Agramonte's article in the <hi>Military Surgeon</hi> for Novem-<lb/>
+ber 1950. On p. 559 Agramonte infers that when he went to P. del R. to<lb/>
+study the &ldquo;pernicious malaria&rdquo; obstacles were thrown in his way. He wrote:<lb/>
+&ldquo;I will not weary you with a narrative of the many obstacles thrown in the<lb/>
+way of the young surgeon (meaning himself) to prevent his thorough examina-<lb/>
+tion of the situation, until I insisted, instead of further discussion,<lb/>
+upon making the autopsy of a soldier that had died just before my arrival....&rdquo;<lb/>
+<pb n="18" id="f04715102"/>
+Questionnaire to Mr. Paul L. Tate &nbsp;&nbsp; page 18<lb/>
+Did you see or know personally of any obstacles put in the path of Agra-<lb/>
+monte by Godfrey or anyone else at P. del R.? You made rounds with Agra-<lb/>
+monte and Godfrey on that occasion; did Godfrey show Agramonte &ldquo;everything&rdquo;<lb/>
+or not? I suppose, of course, that &ldquo;obstacles&rdquo; you had no chance of knowing<lb/>
+about might have been put in his path. But Agramonte wrote this from the<lb/>
+&ldquo;safety&rdquo; of the year 1930 when presumably there was nobody to contradict<lb/>
+him. Any comment?</item>
+<item>110. (See p. 12 - interview.) I was in error when I intimated that Lazear went<lb/>
+with Reed on July 21 to P. del R. It was during the next week, or rather<lb/>
+the week of July 30 that Lazear went by train to visit &ldquo;the camp near Pinar<lb/>
+del Rio -- to get statistics which we have found it impossible to get by<lb/>
+letter from the Post Surgeon. The records have to be gone over.&rdquo; Do you<lb/>
+now recall Lazear's visit? He wrote his mother a letter on July 29 saying<lb/>
+he was about to make the trip, and one on August 5 saying he &ldquo;had a nice<lb/>
+trip last week to Pinar del Rio, I was gone three days.&rdquo; He must have<lb/>
+visited Godfrey at the Barracks or Hospital and not just visited the (new)<lb/>
+Y.F. tent hospital. Comment?</item>
+</list>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

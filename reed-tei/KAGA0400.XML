@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAGA0400">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report to the Provisional Governor, by Carlos J. Finlay, November 1, 1908</title>
+<title type="gmd">[electronic resource]</title>
+<author>Finlay, Carlos J.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGA0400</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc> 
+</fileDesc>
+<profileDesc>
+<creation><date>1908-11-01</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Barnet, E. B.</name>
+<name type="person">Lopez del Valle, Jose A.</name>
+<name type="person">Thomason, H. D.</name>
+<name type="person">Fauntleroy, P. C.</name>
+<name type="person">McMillan, [s.n.]</name>
+<name type="person">Delgado, Claudio</name>
+<name type="person">Wood, Leonard</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1908-11-01">November 1, 1908</date>
+<idno rend="suppress">KAGA0400</idno>
+<title>Report to the Provisional Governor, by Carlos J. Finlay, November 1, 1908</title>
+</bibl>
+</head>
+<p>Finlay discusses the nationalization of the Cuban Sanitary Department, developments in sanitary procedures regarding mosquitoes and yellow fever, and the control of tuberculosis. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1908-11-01">
+<head>Report to the Provisional Governor, by Carlos J. Finlay, November 1, 1908</head>
+<pb n="1" id="fKAGA0400"/>
+<p><hi rend="italic">Havana, November 1, 1908</hi>.</p>
+<p>TO THE PROVISIONAL GOVERNOR.</p>
+<p>Havana.</p>
+<p>Sir:</p>
+<p>In compliance with instructions received through the Ad-<lb/>
+viser of this Department, I have the honor to transmit herewith<lb/>
+the reports of the Administrative Officer (Jefe de Despacho) of<lb/>
+the National Sanitary Department, Dr. E. B. Barnet, and of the<lb/>
+Local Health Officer of the district of Havana, Dr. Jos&eacute; A. L&oacute;-<lb/>
+pez del Valle, relative to the work done in their respective sec-<lb/>
+tions.</p>
+<p>NATIONALIZATION OF THE CUBAN SANITARY DEPARTMENT</p>
+<p>As was to be expected, the beneficial influence of the nation-<lb/>
+alization of this Department manifested itself soon after the<lb/>
+rules prescribed in your important Decree No. 894 of August,<lb/>
+1907, were carried into effect, by a marked decrease in the num-<lb/>
+ber of deaths caused by preventable diseases, such as are listed<lb/>
+in Bertillon's group of &ldquo;General Diseases&rdquo;, as well as under<lb/>
+the headings of &ldquo;Diarrhoea and Enteritis under two years of<lb/>
+age&rdquo;, for the control of which constant vigilance on the part<lb/>
+of the health officers to provide good milk for the children in<lb/>
+their respective districts, is an essential condition. In Cuba yet<lb/>
+another cause of death must be included among the preventable<lb/>
+ones, namely; Tetanus in new born infants. I have on former<lb/>
+occasions called attention to the large number of deaths record-<lb/>
+ed under this heading in Cuba, and it is undoubtedly due to the<lb/>
+lack of aseptic precautions in the management of the umbillical<lb/>
+cord. In point of fact, several years ago, at my solicitation, the<lb/>
+presence of the tetanus bacillus was found in five out of six sam-<lb/>
+ples of the cotton-wick (pabilo) which, since time immemorial<lb/>
+has been used by incompetent or ignorant assistants for ligating<lb/>
+<pb n="2" id="fKAGA0410"/>
+442<lb/>
+the cord of new born infants. In order to remedy this evil, the<lb/>
+Sanitary Department has been receiving from a reliable firm of<lb/>
+the United States a regular supply of carefully prepared pack-<lb/>
+ages containing, in perfectly aseptic conditions, all the material<lb/>
+needed for successive dressings of the cord, with ample instruc-<lb/>
+tions for the unitiated regarding its employment. These pack-<lb/>
+ages are freely distributed to poor expectant mothers or their<lb/>
+midwives, and most of our drug stores have them for sale.</p>
+<p>In comparing the death returns from the three aforesaid<lb/>
+classes of preventable caused, during the twelve months from<lb/>
+October 1st, 1907 to September 30th, 1908, in the whole terri-<lb/>
+tory of the republic, with those corresponding to the previous<lb/>
+similar period (October 1st, 1906 to September 30th, 1907),<lb/>
+we find:</p>
+<p>For &ldquo;General Diseases&rdquo; 7230 deaths as againts 7860, for<lb/>
+&ldquo;Enteritis under two years&rdquo; 4174 as against 5889, and for &ldquo;Te-<lb/>
+tanus neonatorum&rdquo; 762 as against 899, showing a total of 2502<lb/>
+lives apparently saved, which may fairly be credited to the im-<lb/>
+proved conditions which have prevailed in the whole territory<lb/>
+in consequence of the nationalization of all the sanitary services.</p>
+<p>THE PREVALENCE OF YELLOW FEVER SINCE OCTOBER 31, 1907</p>
+<p>The total number of cases of yellow fever occurring in the<lb/>
+republic since the date of my last report has been 79, with 29<lb/>
+deaths. That report which described the occurrence of this dis-<lb/>
+ease from the date of re-infection of the territory of the republic<lb/>
+in October, 1905 to October 31, 1907, gave an account of the epi-<lb/>
+demic outbreak at Cienfuegos in August, September and Oc-<lb/>
+tober, 1907, and of its control by the measures taken under the<lb/>
+immediate charge of Captain H. D. Thomason, U. S. A., who<lb/>
+was appointed a special commissioner of the Department for<lb/>
+that work. Thirteen sporadic cases occurred in Cienfuegos be-<lb/>
+tween the 1st of November, 1907 and the 21st of January, 1908.<lb/>
+In the nine months since that date, there has been no re-appear-<lb/>
+ance of the disease in Cienfuegos. The last occurrence of yellow<lb/>
+fever in the province of Santa Clara was in the city of Santa<lb/>
+Clara where six cases occurred between the 9th and 18th of Feb-<lb/>
+ruary, five of them being soldiers of the American garrison. In<lb/>
+the province of Camag&uuml;ey, for the first time, a small focus de-<lb/>
+clared itself in the town of Ciego de Avila near the Santa Clara<lb/>
+boundary. Ciego de Avila is one of the stations of the Central<lb/>
+<pb n="3" id="fKAGA0420"/>
+443<lb/>
+Railroad where passengers going both ways stop to take a meal,<lb/>
+and the infection may have been brought by some ambulatory<lb/>
+case traveling on the train. Three cases occurred, the patients<lb/>
+being attacked on October 31st, November 6th and November<lb/>
+13th, so that the mosquitos causing these cases were probably<lb/>
+all infected from a common source, none of the cases being sec-<lb/>
+ondary. Captain Thomason was temporarily transferred to Cie-<lb/>
+go de Avila, and by his vigorous and comprehensive measures<lb/>
+of fumigation and the prevention of mosquito breeding, the<lb/>
+focus was promptly and completely extinguished, so that no<lb/>
+other case occurred in Ciego de Avila or the province of Ca-<lb/>
+mag&uuml;ey. A case occurring in Cienfuegos on December 5th, was<lb/>
+found to have come from Santiago de Cuba during its pe-<lb/>
+riod of incubation, and evidence was thus afforded of the exist-<lb/>
+ence of a focus in the latter city. A very careful sanitary inspec-<lb/>
+tion of Santiago, however, failed to localize the focus of infec-<lb/>
+tion, or to discover any other case until the 7th of January. Cap-<lb/>
+tain Thomason was transferred to station in Santiago and given<lb/>
+supervision of the city, and his management proved so far suc-<lb/>
+cessful that between December and June when the infection was<lb/>
+finally stamped out,, only five sporadic cases developed, one in<lb/>
+each of the months of January, February, April, May and June.<lb/>
+To this focus in Santiago, however, must be credited the infec-<lb/>
+tion among the miners in the Daiquir&iacute; district, where twenty<lb/>
+cases appeared in June and July, besides one in a neighboring<lb/>
+mine (Concordia) belonging to Firmesa. Strict quarantine by<lb/>
+land and sea having been established and energetic fumigations<lb/>
+with close vigilance, under the direction of Major Fauntleroy,<lb/>
+M. C., U. S. A., as Special Commissioner, extinguished this focus<lb/>
+so that no other case has developed there since the 31st of July.<lb/>
+Finally at Antilla (northern coast of Oriente province), another<lb/>
+case having been infected in the last week of August, the same<lb/>
+measures were taken, including quarantine. After this, the only<lb/>
+other case recorded was a non-immune Spaniard, found sick<lb/>
+with yellow fever at Havana on the 7th of September. Since this<lb/>
+last date, in view of the radical measures that have been adopted<lb/>
+and the care with which all non-immunes with fever are<lb/>
+watched, there is every reason to believe that the yellow fever in-<lb/>
+fection has now been stamped out. With reference to our success<lb/>
+in our present yellow fever campaign, I beg respectfully to call<lb/>
+the attention of the Provisional Governor to Captain Thomason's<lb/>
+<pb n="4" id="fKAGA0430"/>
+444<lb/>
+remarkable record as Special Commissioner of this Department<lb/>
+at Cienfuegos, Ciego de Avila and Santiago de Cuba.</p>
+<p>Our experience in the last three years, during which the<lb/>
+Cuban Sanitary Department for the first time, has been called<lb/>
+upon to deal with a serious yellow fever infection, has brought<lb/>
+to light two important improvements in our former methods for<lb/>
+fumigating infected buildings, and for controlling the breeding<lb/>
+of mosquitoes in open water containers from which the access of<lb/>
+those insects can not well be prevented.</p>
+<p>The old process of preparing buildings for fumigation by<lb/>
+papering all the openings and chinks in the interior, inclusive<lb/>
+of the roof when the latter is not mosquito proof, was open to<lb/>
+serious objections. First, the time involved, and secondly, the<lb/>
+chasing out of the mosquitoes into the open by the men working<lb/>
+inside, displacing the furniture, etc. Instead of this, Captain<lb/>
+Thomason, M. C. U. S. A., when he took charge of the infected<lb/>
+district of Cienfuegos last year, suggested that these objections<lb/>
+might be obviated by simply covering the whole building or<lb/>
+several of them together, with an air tight covering of canvas.<lb/>
+And this has proved so advantageous that it has now been gen-<lb/>
+erally adopted whenever the necessary material can be provided<lb/>
+without delay.</p>
+<p>For preventing mosquitoes from breeding in open water<lb/>
+containers, an old friend and collaborator, Dr. Claudio Delga-<lb/>
+do, suggested as the result of his personal observations in Uni&oacute;n<lb/>
+de Reyes, in collaboration with the Local Health Officer, two<lb/>
+years ago that this might be done by introducing in the contain-<lb/>
+ers small fresh water fishes, which he asserted, would greedly<lb/>
+devour the larvae and pupae. His suggestion was strengthened<lb/>
+the following year by independent observations in the British<lb/>
+West Indies, especially at Barbadoes, and when Dr. Delgado's<lb/>
+suggestion was given a fair trial, the results were found most<lb/>
+satisfactory. In the city of Camag&uuml;ey, in particular, where in<lb/>
+the absence of a regular water supply, the generality of the in-<lb/>
+habitants rely on rain water collected in very large earthen-<lb/>
+ware jars of which several are kept in each house, the employ-<lb/>
+ment of small fish, vulgarly called &ldquo;guajacones&rdquo; (Cyprinodon-<lb/>
+tidi, gen. Gambusia and girardinus, Poey), has proved most suc-<lb/>
+cesful in the hands of the Local Health Officer, Dr. McMillan;<lb/>
+so much so, that whereas the proportion of houses free from<lb/>
+mosquito breeding places had previously been only fifteen per<lb/>
+<pb n="5" id="fKAGA0440"/>
+445<lb/>
+cent of all the inspected houses, after the introduction of the<lb/>
+guajacones, the number free from breeding places has been in-<lb/>
+creased to 98 per cent.</p>
+<p>TUBERCULOSIS</p>
+<p>For the control of tuberculosis, a National Sanatorium, &ldquo;La<lb/>
+Esperanza&rdquo;, which has been in contemplation and for which<lb/>
+an admirable site had been chosen under General Wood's gov-<lb/>
+ernment, has now been erected in conformity with the most im-<lb/>
+portant modern requisites.</p>
+<p>For the district of Havana also, a tuberculosis dispensary<lb/>
+has been expressly constructed with a well organized service,<lb/>
+which was very much needed in this district. It will be described<lb/>
+in the report of Dr. L&oacute;pez del Valle, Health Officer of this<lb/>
+district.</p>
+<p>Very respectfully,</p>
+<p>(Sig.) CARLOS J. FINLAY,<lb/>
+<hi rend="italic">Chief of Sanitation</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

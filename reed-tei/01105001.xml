@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01105001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Henry Rose Carter to J.L. Byrd, June 20, 1923</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Carter, Henry Rose</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01105001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1923-06-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Byrd, J.L.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Pickett, I. W.</name>
+<name type="person">Richardson, George O.</name>
+<name type="place">Colon (Panama)</name>
+<name type="place">Manzanillo Bay (Mexico)</name>
+<name type="place">Gatun (Canal Zone)</name>
+<name type="place">Dutch East Indies</name>
+<name type="place">Fiumecino (Italy)</name>
+<name type="place">Panama</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>2 pp.</extent>
+<date value="1923-06-20">June 20, 1923</date>
+<idno rend="suppress">01105001</idno>
+<title>Letter from Henry Rose Carter to J.L. Byrd, June 20, 1923</title>
+</bibl>
+</head>
+<p>Carter requests information on mosquitos in Colon.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-06-20">
+<head>Letter from Henry Rose Carter to J.L. Byrd, June 20, 1923</head>
+<pb n="1" id="f01105001"/>
+<opener>
+--------- F. F. Russell,<lb/>
+M. M. C.<lb/>
+<del>N. H. B.</del><lb/>
+Flight of A.<lb/>
+/LC<lb/>
+----------<lb/>
+<dateline>
+2121 California St., N. W.,<lb/>
+Washington, D. C.,<lb/>
+<date value="1923-06-20">June 20, 1923.</date>
+</dateline>
+Dr. J. L. Byrd,<lb/>
+Health Officer of Cristobal and Colon,<lb/>
+Cristobal P. O., C. Z.<lb/>
+<salute>Dear Doctor Byrd:</salute>
+</opener>
+<p>I have just seen, in the Panama Star and Herald the account of<lb/>
+the great flight of Anopleles that you had in Colon some years ago<lb/>
+(1918 and 1919, as I recollect). I had heard of this before, from<lb/>
+Richardson or Pickett, when in Peru and it is rather late to be<lb/>
+asking you about it now.</p>
+<p>I believe these mosquitoes were traced to a breeding place some<lb/>
+two miles distant across Manzanillo Bay and what I wish to ask you<lb/>
+is this:</p>
+<p>Was their flight associated with any great increase of malaria<lb/>
+in Colon? The reason I ask is that in most of the very long flights<lb/>
+recorded the report has been to the contrary. There was no increase<lb/>
+of malaria noted from the great and prolonged flight at Gatun--in<lb/>
+1912 as I recollect it. Practically the same thing is noted in two<lb/>
+flights in the Dutch East Indies, one by van Bremen and one by the<lb/>
+<unclear>S<del>m</del><add>w</add>ellengb<del>urgs</del><add>ergers</add></unclear> and the same implication is made by Sella at Fiumecino <add>in Italy</add><lb/>
+in that he finds that malaria is conveyed a far less distance than<lb/>
+<pb n="2" id="f01105002"/>
+than<lb/>
+2<lb/>
+his Anopheles travelled.</p>
+<p>The findings noted above, if general, may be explicable by not-<lb/>
+ing that malaria is only conveyable by feedings after the first one:<lb/>
+In Panama Darling's findings were that it took about days as a mini-<lb/>
+mum after infection before the Anopheles became infective to man.<lb/>
+The first blood meal is necessary for ovaposition, the second is not,<lb/>
+and it is suggested that Anopheles--like most other of the more pri-<lb/>
+mitive organisms--will do far more to perpetuate the species than for<lb/>
+any other purpose--that is, they might make an excessive flight to<lb/>
+get blood for ovaposition: return to their breeding places and de-<lb/>
+posit eggs and might not--say two weeks after the first flight--re-<lb/>
+peat their long journey.</p>
+<p>A distinction has thus been made between the flight for ova-<lb/>
+position and the contaminative flight.</p>
+<p>With kindest regards, believe me</p>
+<closer>
+<salute>Very truly yours,</salute>
+Assistant Surgeon General H. R. Carter,<lb/>
+2121 California St., N. W.,<lb/>
+Washington, D. C.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

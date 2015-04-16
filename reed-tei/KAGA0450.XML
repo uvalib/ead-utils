@@ -1,0 +1,913 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY fKaga0490 SYSTEM "fKaga0490.jpg" NDATA jpg>]>
+<TEI.2 id="KAGA0450">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report to the Chief of the National Sanitary Department, by E. B. Barnet, October 31, 1908</title>
+<title type="gmd">[electronic resource]</title>
+<author>Barnet, E. B.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGA0450</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1908-10-31</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Chief of the National Sanitary Department</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Nunez, Enrique</name>
+<name type="person">Lopez del Valle, Jose A.</name>
+<name type="person">Junco, Emilio del</name>
+<name type="person">Espinosa, Rogelio</name>
+<name type="person">Roberts, Hugo</name>
+<name type="person">Magoon, Charles E.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Mexico</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>18 pp.</extent>
+<date value="1908-10-31">October 31, 1908</date>
+<idno rend="suppress">KAGA0450</idno>
+<title>Report to the Chief of the National Sanitary Department, by E. B. Barnet, October 31, 1908</title>
+</bibl>
+</head>
+<p>Barnet comments on the effectiveness of the National Sanitary Service, the problems of quarantine, and the general improvement of sanitary standards within Cuba. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1908-10-31">
+<head>Report to the Chief of the National Sanitary Department, by E. B. Barnet, October 31, 1908</head>
+<pb n="1" id="fKAGA0450"/>
+<p><hi rend="italic">Havana, October 31st, 1908</hi>.</p>
+<p>TO THE CHIEF OF THE NATIONAL SANITARY DEPARTMENT.</p>
+<p>Sir:</p>
+<p>In accordance with what is fitting I have the honor to pre-<lb/>
+sent to you in my capacity as Executive Officer of the Depart-<lb/>
+ment and Secretary of the National Board of Health, this re-<lb/>
+port, as concise and brief as possible, of the work accomplished<lb/>
+in the offices and dependencies above referred to, from the first<lb/>
+of November 1907 to the 30th, of June 1908 and from the first<lb/>
+of July to the 31st, of October of the current year.</p>
+<p>I do not consider it proper at this time to express opinions,<lb/>
+or to draw deductions of a general character in regard to the<lb/>
+different works carried out during the two periods of time to<lb/>
+which this paper refers; but rather to offer to you simple facts<lb/>
+with the bare precision of figures, that they may serve as a basis<lb/>
+for that report with its conclusions and deductions which it is<lb/>
+necessary for you to forward, this year as last, to the Provision-<lb/>
+al Governor of Cuba.</p>
+<p>The National Board of Sanitation, established on the second<lb/>
+of September 1907 in the form prescribed by Decree 894 date<lb/>
+of August 26th. 1907, by the Provisional Governor, has since<lb/>
+that time been in regular operation with the following mem-<lb/>
+bers:<lb/>
+<list type="simple">
+<item>Dr. Carlos J. Finlay, Chief of the National Board of Sanitation.</item>
+<item>Dr. Juan Guiteras, President of the Board of Infectious Deseases.</item>
+<item>Dr. Enrique Nu&ntilde;ez, President of the Commission of Special<lb/>
+Hygiene.</item>
+<item>Dr. J. A. L&oacute;pez del Valle, Local Chief of Sanitation of Havana.</item>
+<item>Dr. Emilio del Junco, Legal Adviser.</item>
+<item>Mr. Rogelio Espinosa, Engineer.</item>
+<item>Dr. Enrique B. Barnet (Secretary), Executive Officer of the<lb/>
+Department.</item>
+</list>
+</p>
+<pb n="2" id="fKAGA0460"/>
+<p>448</p>
+<p>The Provisional Governor being convinced that the Quaran-<lb/>
+tine service constitutes an important branch of the National Sa-<lb/>
+nitation and that it would be expedient to associate it more<lb/>
+closely with the service of Land Sanitation, he promulgated De-<lb/>
+cree No. 1127 with date of November 22 by virtue of which the<lb/>
+Quarantine Service, (Maritime), was transferred from the Sec-<lb/>
+retary of the Treasury to the National Department of Sanita-<lb/>
+tion with its entire personnel, stations, launches, other property<lb/>
+and appropriations and in possession of those places which it<lb/>
+occupies in the public buildings; the Chief of the Quarantine<lb/>
+being required to present his reports direct to the National Chief<lb/>
+of Sanitation and to constitute part, as member ex-officio, of the<lb/>
+National Board of Sanitation. At this time Dr. Hugo Roberts,<lb/>
+Chief of the Quarantine Service, together with Dr. John Guite-<lb/>
+ras was in the Capital of Mexico as one of the representatives<lb/>
+of the Government of Cuba at the third International Sanitary<lb/>
+Congress of the American Republics. For this reason on the<lb/>
+25th. of November 1907 Dr. Nestor Ponce de Le&oacute;n, First Doctor<lb/>
+of the Port of Havana, came to the session of the National Board<lb/>
+in place of Dr. Roberts and as Chief of Quarantine pro tem. On<lb/>
+his return to this city Dr. Roberts took over the position of mem-<lb/>
+ber of the Board which he fills at present. From the first of Nov-<lb/>
+ember up to date the National Board of Sanitation has had 63<lb/>
+sessions of which 41 correspond in the period comprised between<lb/>
+Nov. 1st. 1907 and June 30th. 1908, and the remaining 22 be-<lb/>
+tween July 1st. and October 31st. of the current year.</p>
+<p>To give an idea, even if it be approximate, of the mass of<lb/>
+work which the Junta has accomplished, it is sufficient to pre-<lb/>
+sent the following resume of what was performed during the two<lb/>
+periods mentioned. Matters brought before the Board for it's<lb/>
+consideration and decision, 2,088, of which 1579 correspond to<lb/>
+the first 8 months and 509 to the last four.</p>
+<p>Suggestions by the members, 477, of which 277 were of the<lb/>
+first 8 months and 200 of the last four.</p>
+<p>Appeals from towns taken under consideration, 15, that is<lb/>
+14 in the first period and one in the last.</p>
+<p>Decisions rendered, 1220, 907 in the first period and 313 in<lb/>
+the second.</p>
+<p>There have been presented 16 motions, 12 and 4 respective-<lb/>
+ly, and decided 24 petitions, 20 in the first period and 4 in the<lb/>
+last.</p>
+<pb n="3" id="fKAGA0470"/>
+<p>449</p>
+<p>In the session of the 12th of the present month, the Nation-<lb/>
+al Board of Sanitation decided in view of the increase in Yellow<lb/>
+Fever which has occurred in Vera Cruz and in Merida (Yuca-<lb/>
+tan) in the neighboring Republic of Mexico and which consti-<lb/>
+tutes a real danger of infection to the city of Havana on account<lb/>
+of the close commercial relations with the mentioned cities, to<lb/>
+propose for the approval of the Provisional Governor of Cuba<lb/>
+that passengers proceeding from Vera Cruz and Yucatan be<lb/>
+subjected to a detention quarantine of 6 days to count from the<lb/>
+day of sailing from the Mexican port if the ship shall be consid-<lb/>
+ered uninfected, and to count from the departure of the pas-<lb/>
+senger from the ship in the port of entry in this Republic if the<lb/>
+ship shall be infected or suspected. This measure received the<lb/>
+immediate approval of the Provisional Governor and was forth-<lb/>
+with put in operation by the Chief of Quarantine notice being<lb/>
+sent at this time to the Acting Secretary of State for his in-<lb/>
+formation and such action as he might deem proper.</p>
+<p>This resolution having been adopted the house to house<lb/>
+inspections which has been in force in Havana and other places<lb/>
+in the Republic in regard to the passengers arriving from<lb/>
+Mexico, who had no spent the night in the aforementioned ports<lb/>
+were suspended as such inspections did not prevent sufficiently<lb/>
+the chance of importation of Yellow Fever in view of the in-<lb/>
+crease of the disease in these Mexican ports.</p>
+<p>One of the resolutions of more importance adopted by the<lb/>
+Board was that of entering a protest, under date of September<lb/>
+17th. last, to the Provisional Governor of Cuba, against the<lb/>
+quarantine established by the United States against those sailing<lb/>
+from Cuba, confirming the motion of member Dr. John Guiteras,<lb/>
+presented as follows:</p>
+<p>&ldquo;To protest against the Quarantine imposed by the United<lb/>
+&ldquo;States against all the ports (*) of the Republic of Cuba be-<lb/>
+&ldquo;cause the measure is considered unjustifiable for the following<lb/>
+&ldquo;reasons.</p>
+<p>&ldquo;1st. That the last case of yellow fever which, to this date,<lb/>
+&ldquo;has presented itself in the territory which comprises the five<lb/>
+&ldquo;western provinces of the Republic occurred on the 18th. of<lb/>
+&ldquo;February, six months ago; and the last one in the province of<lb/>
+&ldquo;Oriente 21 days ago in the town of Antilla.</p>
+<p>--------</p>
+<p>(*) This was afterwards modified as far as the three western<lb/>
+provinces were concerned so as to apply only to Havana city.</p>
+<pb n="4" id="fKAGA0480"/>
+<p>450</p>
+<p>&ldquo;2nd. That now days have elapsed since the appearance<lb/>
+&ldquo;of a case in this city, and that no other has developed in spite<lb/>
+&ldquo;of that having been in a district of non-immunes, and that<lb/>
+&ldquo;during this time a strict surveillance has been kept over the<lb/>
+&ldquo;aforementioned districts and over the hospitals of the city.</p>
+<p>&ldquo;3rd. That all precautions which the experience of medical<lb/>
+&ldquo;science dictate are being taken.</p>
+<p>&ldquo;4th. That no suspicious case exists to-day in all the terri-<lb/>
+&ldquo;tory of the Republic.</p>
+<p>&ldquo;5th. That an imported case having presented itself in the<lb/>
+&ldquo;year 1903 under conditions very similar to the present case,<lb/>
+&ldquo;in the same zone, it was possible, with measures much less ef-<lb/>
+&ldquo;fectual than those we now possess, to prevent the occurrence of<lb/>
+&ldquo;a secondary case.</p>
+<p>&ldquo;6th. That the obligation of the Cuban authorities to de-<lb/>
+&ldquo;clare promptly and frankly any case of Yellow Fever existing<lb/>
+&ldquo;in this territory to the American authorities is entirely obvious.</p>
+<p>&ldquo;7th. That since the re-introduction of Yellow Fever into<lb/>
+&ldquo;Cuba in 1905 the disease has never in any part of the Island<lb/>
+&ldquo;taken the form of a true epidemic.</p>
+<p>&ldquo;8th. That this is due to the prompt recognition of the cases<lb/>
+&ldquo;and the immediate initiation of prophylactic measures; all<lb/>
+&ldquo;facts which ought to serve as a guarantee to the American<lb/>
+&ldquo;Government that it will always know in due time of a state<lb/>
+&ldquo;of affairs which will truly justify the establishment of a qua-<lb/>
+&ldquo;rantine which they now injustly propose&rdquo;.</p>
+<p>This motion was forwarded to the Provisional Governor<lb/>
+who was informed by the Sanitary Authorities of the United<lb/>
+States that the quarantine against those embarking from Hav-<lb/>
+ana would be lifted in a few days, and shortly afterwards from<lb/>
+the other provinces of the Republic.</p>
+<p>The Board has shown much interest in the continuation of<lb/>
+its publications for the purpose of diffusing among the public,<lb/>
+the professional men and the Sanitary officials modern know-<lb/>
+ledge relating to public hygiene, the infections diseases and the<lb/>
+manner of preventing their spread. To this end it has carried<lb/>
+out the printing and the wide distribution of the report present-<lb/>
+ed to the Provisional Governor, Mr. Charles E. Magoon, by the<lb/>
+Cuban delegates of the 14th. International Congress of Hygiene<lb/>
+and Demography held in Berlin in September of 1907; said<lb/>
+delegates being Drs. Gabriel M. Landa and Enrique B. Barnet;</p>
+<pb n="5" id="fKAGA0490"/>
+<p>&ldquo;Dispensario Tamayo&rdquo; building.</p>
+<pb n="6" id="fKAGA0500"/>
+<p>451</p>
+<p>yellow fever its Etiology, Symptons and Diagnosis by Joseph<lb/>
+Goldberger, Passed Assistant Surgeon U. S. P. H. and M. H.<lb/>
+Service, in Bulletin No. 19 of the &ldquo;Yellow Fever Institute&rdquo;,<lb/>
+Washington June 1907; translated by Dr. Diego Tamayo Figue-<lb/>
+redo Special Medical Inspector; Popular Instruction in regard<lb/>
+to the Bubonic plague; The Nationalization of the Sanitary Ser-<lb/>
+vice, by Dr. J. A. L&oacute;pez del Valle; the reprinting of other leaf-<lb/>
+lets on Scarlatine, Tyhoid Fever etc. and a very important book<lb/>
+on Yellow Fever by Dres. Mario G. Lebredo, Juan Guiteras and<lb/>
+Aristides Agramonte, in both Spanish and English, this latter<lb/>
+still in Press. The Board has also undertaken, at the suggestion<lb/>
+of Major J. R. Kean, Adviser to the Sanitary Department, the<lb/>
+labor of encouraging the establishment of a reference library on<lb/>
+subjects of medicine and public Hygiene in each of the offices<lb/>
+of the Local Chiefs of Sanitation in the Republic, whose number<lb/>
+amounts to 82; having so far distributed for the accomplishment<lb/>
+of so useful an end a goodly number of valuable books, espe-<lb/>
+cially selected for this purpose. It is to be hoped that the Board<lb/>
+will not grow weary in so enlightening an undertaking, whether<lb/>
+in the amplification of the libraries of the local Chiefs through-<lb/>
+out the limits of the Republic, or in the increase of those of<lb/>
+&ldquo;Las Animas&rdquo; Hospital, of the National Laboratory and of the<lb/>
+Sanatorium for Tuberculosis, since they are entitled to the<lb/>
+benefits of modern science, through those whose duty it is to aid<lb/>
+them.</p>
+<p>The local Sanitary Services, especially that of Havana un-<lb/>
+der Dr. L&oacute;pez del Valle, have been running since their organi-<lb/>
+zation with well marked efficiency. Their services have been en-<lb/>
+tirely satisfactory and with one solitary and lamentable excep-<lb/>
+tion, that of Nueva Paz, it has not ben necessary to adopt any<lb/>
+measure of discipline against these officers. On the contrary,<lb/>
+in a number of towns in the Republic, thorugh the constant fight<lb/>
+against the mosquito and the campaign against Yellow Fever,<lb/>
+the local Chiefs of Sanitation and the personnel under their or-<lb/>
+ders have displayed zeal, intelligence and an excellent example<lb/>
+of discipline and unity of purpose to bring about a conclusion<lb/>
+so satisfactory that the Department of Sanitation should be able<lb/>
+to share in it. It is only just that acknowledgement of such im-<lb/>
+portant service should be made in this report.</p>
+<p>One of the most profitable tasks which the National Board<lb/>
+of Sanitations carries on is that of a study and of the knowledge<lb/>
+derived therefrom from the monthly reports in regard to the<lb/>
+<pb n="7" id="fKAGA0510"/>
+452<lb/>
+Sanitary condition of their respective municipal territories which<lb/>
+the local Chiefs forward to the National Board. Each member of<lb/>
+the Board has under his charge the criticism of the reports of<lb/>
+the local Chiefs of one province and upon each one of these he<lb/>
+submits to the Board an opinion and the corrections which the<lb/>
+monthly report of the local Chief seem to call for, which is then<lb/>
+forwarded entire to this officer that he may carry out the cor-<lb/>
+rections or changes which have been deemed proper. In this<lb/>
+manner the Board exercises a measure of permanent technical<lb/>
+and practical criticism of the work of the Local Offices which<lb/>
+must produce advantageous results both in scientific and admin-<lb/>
+istrative improvement.</p>
+<p>During the first eight months of the time to which this re-<lb/>
+port refers, and during the four succeding, there have been sent<lb/>
+to the local Chiefs, by the Superior Board, 28 and 18 printed<lb/>
+circulars in regard to various matters of Department business.<lb/>
+One of these circulars which is published monthly, relates to<lb/>
+the most recent cases of Yellow Fever which have occurred in<lb/>
+the Republic, and to the localities, which ought to be considered,<lb/>
+from the Sanitary standpoint, as suspected of infection during<lb/>
+two months counted from the occurrence of the last case in that<lb/>
+locality. In this manner the atention of the local Chiefs is called<lb/>
+to a strict surveillance of the persons not immune to Yellow<lb/>
+Fever coming from suspected zones to their respective &ldquo;ter-<lb/>
+minos&rdquo;.</p>
+<p>Aside from its ordinary work the Superior Board is occu-<lb/>
+pied, through a committee appointed from its members, in two<lb/>
+undertakings of true interest and importance; the amendment of<lb/>
+the existing Sanitary Ordinances, adapting them to each parti-<lb/>
+cular locality, now nearly finished, and the compilation of a law<lb/>
+for the exercise of the profession of pharmacy and the sale of<lb/>
+drugs in compliance with the Decree 1024 of the Provisional<lb/>
+Governor, date of October 20th, 1908. At the end of the coming<lb/>
+November a satisfactory termination will be reached to this la-<lb/>
+bor, complicated by the two sides interested in it and then the<lb/>
+Board will immediately proceed to the modification of the Or-<lb/>
+dinance governing the practice of Medicine and its branches,<lb/>
+in relation to what is required by Article 616 of the Sanitary<lb/>
+Ordinances.</p>
+<p>The work accomplished by the different divisions of the De-<lb/>
+partment with the exception of those pertaining to the local Of-<lb/>
+<pb n="8" id="fKAGA0520"/>
+453<lb/>
+fice of Havana, which its competent Chief, Dr. L&oacute;pez del Valle<lb/>
+sets forth in an able report, may be summarized as follows:</p>
+<p>DIVISION OF PERSONNEL</p>
+<p>
+<table rows="9" cols="3">
+<row><cell>Leave of absence to employees: (8 months)</cell></row>
+<row><cell>First period.</cell><cell>24</cell><cell rows="1-3">}Total. . . 41</cell></row>
+<row><cell>(4 months) Second period.</cell><cell>17</cell></row>
+<row><cell>Dismissal of employees: . . . First period.</cell><cell>52</cell><cell rows="4-5">}Total. . . 63</cell></row>
+<row><cell>Second period.</cell><cell>11</cell></row>
+<row><cell>Letters sent. . . . . . . . . . First period.</cell><cell>43,439</cell><cell rows="6-7">}Total. . . 63,480</cell></row>
+<row><cell>Second period.</cell><cell>20,041</cell></row>
+<row><cell>Other matters. . . . . . . . . First period.</cell><cell>970</cell><cell rows="8-9">}Total. . . 1,331</cell></row>
+<row><cell>Second period.</cell><cell>361</cell></row>
+</table>
+</p>
+<p>DIVISION OF PAYMENTS AND PURCHASES</p>
+<p>
+<table rows="9" cols="3">
+<row><cell>Vouchers class &ldquo;A&rdquo;: (8 months)</cell></row>
+<row><cell>First period.</cell><cell>2,135</cell><cell rows="1-3">}Total. . 2,892</cell></row>
+<row><cell>(4 months) Second period.</cell><cell>757</cell></row>
+<row><cell>Paid. . . . . . . . . . . . First period.</cell><cell>320,498.60</cell><cell rows="4-5">}Total. . 410,243.78</cell></row>
+<row><cell>Second period.</cell><cell>89,745.18</cell></row>
+<row><cell>Vouchers class &ldquo;B&rdquo;. . . First period.</cell><cell>2,843</cell><cell rows="6-7">}Total. . 3,723</cell></row>
+<row><cell>Second period.</cell><cell>880</cell></row>
+<row><cell>Paid. . . . . . . . . . . .First period.</cell><cell>522,739.89</cell><cell rows="8-9">} Total. . 710,457.40</cell></row>
+<row><cell>Second period.</cell><cell>187,717.51</cell></row>
+</table>
+</p>
+<p>DIVISION OF GENERAL STATISTICS</p>
+<p>
+<table rows="9" cols="3">
+<row><cell>Marriages. . . . . . . . . . . First period.</cell><cell>12,694</cell><cell rows="1-2">}Total. . . 15,631</cell></row>
+<row><cell>Second period.</cell><cell>2,975</cell></row>
+<row><cell>Births. . . . . . . . . . . . . First period.</cell><cell>60,469</cell><cell rows="3-4">}Total. . . 77,541</cell></row>
+<row><cell>Second period.</cell><cell>17,072</cell></row>
+<row><cell>Deaths. . . . . . . . . . . . . First period.</cell><cell>30,366</cell><cell rows="5-6">}Total. . . 38,970</cell></row>
+<row><cell>Second period.</cell><cell>8,667</cell></row>
+<row><cell>Other business (exclusive of Havana):</cell></row> 
+<row><cell>First period.</cell><cell>38,914</cell><cell rows="7-9">} Total. . . 51,535</cell></row> 
+<row><cell>Second period.</cell><cell>12,621</cell></row>
+</table>
+</p>
+<p>GENERAL FILING DIVISION (EXCLUDING HAVANA)</p>
+<p>
+<table rows="8" cols="3">
+<row><cell>Documents transmitted: . . . First period.</cell><cell>11,664</cell><cell rows="1-2">}Total. . . 15,588</cell></row>
+<row><cell>Second period.</cell><cell>3,924</cell></row>
+<row><cell>Documents classified and filed: First period.</cell><cell>52,926</cell><cell rows="3-4">}Total. . . 79,155</cell></row>
+<row><cell>Second period.</cell><cell>26,229</cell></row>
+<row><cell>Communications telegrams, etc.: First period.</cell><cell>7,608</cell><cell rows="5-6">}Total. . . 11,598</cell></row>
+<row><cell>Second period.</cell><cell>3,990</cell></row>
+<row><cell>Mail matter certified etc. . . . First period.</cell><cell>2,111</cell><cell rows="7-8">}Total. . . 2,961</cell></row>
+<row><cell>Second period.</cell><cell>850</cell></row>
+</table>
+</p>
+<p>--------</p>
+<p>(1) The first period for these General Statistics covers the fiscal<lb/>
+year 1907-08,--and the second period the first three months of the<lb/>
+present fiscal year.</p>
+<pb n="9" id="fKAGA0530"/>
+<p>454</p>
+<p>DIVISION OF MUNICIPAL AFFAIRS</p>
+<p>
+<table rows="8" cols="3">
+<row><cell>Documents transmitted: . . . First period.</cell><cell>5,772</cell><cell rows="1-2">}Total. . . 8,984</cell></row>
+<row><cell>Second period.</cell><cell>3,212</cell></row>
+<row><cell>Telegrams and Circulars: . . . First period.</cell><cell>487</cell><cell rows="3-4">}Total. . . 591</cell></row>
+<row><cell>Second period.</cell><cell>104</cell></row>
+<row><cell>Ten day statistical: . . . . . First period.</cell><cell>320</cell><cell rows="5-6">}Total. . . 480</cell></row>
+<row><cell>Second period.</cell><cell>160</cell></row>
+<row><cell>Other work: . . . . . . . . . . First period.</cell><cell>680</cell><cell rows="7-8">}Total. . . 895</cell></row>
+<row><cell>Second period.</cell><cell>215</cell></row>
+</table>
+</p>
+<p>SUPPLIES PURCHASED AND ISSUED TO MUNICIPAL SANITARY<lb/>
+OFFICERS.</p>
+<p>
+<table rows="36" cols="2">
+<row><cell></cell><cell>Cost</cell></row>
+<row><cell></cell><cell>--------</cell></row>
+<row><cell>404 Mules. . . . . . . . . . . . .</cell><cell>$ 91,712.50</cell></row>
+<row><cell>21 Horses . . . . . . . . . . . . . . .</cell><cell>5,755.50</cell></row>
+<row><cell>396 Sets of harness. . . . . . . . . .</cell><cell>7,700.20</cell></row>
+<row><cell>395 Halters. . . . . . . . . . . . . .</cell><cell>690.00</cell></row>
+<row><cell>4 Ambulances. . . . . . . . . . .</cell><cell>1,980.00</cell></row>
+<row><cell>14 Sprinkling carts. . . . . . . . .</cell><cell>2,300.00</cell></row>
+<row><cell>344 Dump carts. . . . . . . . . . . .</cell><cell>31,009.00</cell></row>
+<row><cell>12 Sanitary carts. . . . . . . . . . . .</cell><cell>3,300.00</cell></row>
+<row><cell>9 Carriages. . . . . . . . . . . .</cell><cell>2,312.00</cell></row>
+<row><cell>2 Wagons, four wheels. . . . . . . .</cell><cell>325.00</cell></row>
+<row><cell>14 Odorless Excavating Apparatus .</cell><cell>5,882.54</cell></row>
+<row><cell>22 Desks, roll top. . . . . . . . . . . .</cell><cell>671.00</cell></row>
+<row><cell>92 Can carriers and cans. . . . . . .</cell><cell>1,131.78</cell></row>
+<row><cell>273 Lanterns. . . . . . . . . . . . .</cell><cell>117.39</cell></row>
+<row><cell>57 Desks, flat top. . . . . . . . . . . .</cell><cell>1,453.50</cell></row>
+<row><cell>84 Table desks. . . . . . . . . . . . .</cell><cell>1,020.00</cell></row>
+<row><cell>80 Filing cabinets. . . . . . . . . . .</cell><cell>1,132.00</cell></row>
+<row><cell>79 Typewriting machines. . . . . . .</cell><cell>7,103.00</cell></row>
+<row><cell>77 Tables for same. . . . . . . . . . . . .</cell><cell>385.00</cell></row>
+<row><cell>74 Typewriter chairs. . . . . . . . .</cell><cell>488.40</cell></row>
+<row><cell>88 Revolving chairs. . . . . . . . .</cell><cell>497.20</cell></row>
+<row><cell>558 Common chairs. . . . . . . . .</cell><cell>789.57</cell></row>
+<row><cell>74 Office tables. . . . . . . . . . . . .</cell><cell>871.60</cell></row>
+<row><cell>29 Apparatus for analysis of milk. .</cell><cell>483.18</cell></row>
+<row><cell>100 Urine test sets. . . . . . . . . .</cell><cell>550.00</cell></row>
+<row><cell>926 Hoes. . . . . . . . . . . . . . .</cell><cell>398.18</cell></row>
+<row><cell>686 Shovels. . . . . . . . . . . . . . . .</cell><cell>322.42</cell></row>
+<row><cell>817 Oil cans. . . . . . . . . . . . . . .</cell><cell>490.20</cell></row>
+<row><cell>1800 Street brooms. . . . . . . . . . .</cell><cell>760.50</cell></row>
+<row><cell>30125 Metres of wire gauze. . . . . . . .</cell><cell>22,583.71</cell></row>
+<row><cell>Sulphur. . . . . . . . . . 246521 Kilos</cell><cell>$15,530.82</cell></row>
+<row><cell>Paste. . . . . . . . . . . 169204 "</cell><cell>25,211.39</cell></row>
+<row><cell>Roll paper. . . . . . . . . . 89599 "</cell><cell>14,817.88</cell></row>
+<row><cell></cell><cell>----------</cell></row>
+</table>
+</p>
+<pb n="10" id="fKAGA0540"/>
+<p>455</p>
+<p>
+<table rows="9" cols="2">
+<row><cell></cell><cell>Cost</cell></row>
+<row><cell></cell><cell>---------</cell></row>
+<row><cell>Newspaper. . . . . . . . . 64315 "</cell><cell>5,466.77</cell></row>
+<row><cell>Formalin. . . . . . . . . . 17189 "</cell><cell>4,979.25</cell></row>
+<row><cell>Permanganate of potash. . 6294 "</cell><cell>2,714.16</cell></row>
+<row><cell>Pyrethrum. . . . . . . . . 5878 "</cell><cell>1,776.00</cell></row>
+<row><cell>Petroleum. . . . . . . . . . 475900 Gallons</cell><cell>84,615.02</cell></row>
+<row><cell></cell><cell>-----------</cell></row>
+<row><cell>Total. . . . . . . . .</cell><cell>$349,326.66</cell></row>
+</table>
+</p>
+<p>DIVISION OF VETERINARY AND SUBDIVISION OF OBSERVATION STABLE</p>
+<p>
+<table rows="8" cols="3">
+<row><cell>Documents transmitted: . . . First period.</cell><cell>3,215</cell><cell rows="1-2">}Total. . . 3,516</cell></row>
+<row><cell>Second period.</cell><cell>1,301</cell></row>
+<row><cell>Animals examined: . . . . . . First period.</cell><cell>37,612</cell><cell rows="3-4">}Total. . . 58,593</cell></row>
+<row><cell>Second period.</cell><cell>20,981</cell></row>
+<row><cell>Killed for glanders: . . . . . First period.</cell><cell>140</cell><cell rows="5-6">}Total. . . 223</cell></row>
+<row><cell>Second period.</cell><cell>83</cell></row>
+<row><cell>Documents transmitted: . . . First period.</cell><cell>192</cell><cell rows="7-8">}Total. . . 312</cell></row>
+<row><cell>Second period.</cell><cell>120</cell></row>
+</table>
+</p>
+<p>DIVISION OF TUBERCULOSIS</p>
+<p>
+<table rows="8" cols="3">
+<row><cell>Documents transmitted: . . . First period.</cell><cell>3,629</cell><cell rows="1-2">}Total. . . 5,341</cell></row>
+<row><cell>Second period.</cell><cell>1,711</cell></row>
+<row><cell>Special inspections: . . . . . First period.</cell><cell>317</cell><cell rows="3-4">}Total. . . 530</cell></row>
+<row><cell>Second period.</cell><cell>213</cell></row>
+<row><cell>Sick visited and attended: . . First period.</cell><cell>952</cell><cell rows="5-6">}Total. . . 1,715</cell></row>
+<row><cell>Second period.</cell><cell>763</cell></row>
+<row><cell>Consultations and inspections: First period.</cell><cell>3,675</cell><cell rows="7-8">}Total. . . 5,769</cell></row>
+<row><cell>Second period.</cell><cell>2,094</cell></row>
+</table>
+</p>
+<p>CENTRAL STATION OF VACCINATION</p>
+<p>
+<table rows="8" cols="3">
+<row><cell>Vaccinations made: . . . . . . First period.</cell><cell>31,199</cell><cell rows="1-2">}Total. . . 37,713</cell></row>
+<row><cell>Second period.</cell><cell>6,514</cell></row>
+<row><cell>Grammes of Vaccine prepared: First period.</cell><cell>10,359</cell><cell rows="3-4">}Total. . . 14,278</cell></row>
+<row><cell>Second period.</cell><cell>3,919</cell></row>
+<row><cell>Vaccine distributed in tubes: First period.</cell><cell>41,830</cell><cell rows="5-6">}Total. . . 56,674</cell></row>
+<row><cell>Second period.</cell><cell>14,844</cell></row>
+<row><cell>Animals inoculated: . . . . . . First period.</cell><cell>36</cell><cell rows="7-8">}Total. . . 46</cell></row>
+<row><cell>Second period.</cell><cell>10</cell></row>
+</table>
+</p>
+<p>LABORATORY OF THE ISLAND OF CUBA</p>
+<p>
+<table rows="9" cols="3">
+<row><cell>Bacteriologic and Histologic examinations</cell></row>
+<row><cell>made: . . . . . . . . . . First period.</cell><cell>4,658</cell><cell rows="1-3">}Total. . . 6,741</cell></row>
+<row><cell>Second period.</cell><cell>2,083</cell></row>
+<row><cell>General Chemical Analyses: . First period.</cell><cell>1,477</cell><cell rows="4-5">}Total. . . 1,980</cell></row>
+<row><cell>Second period.</cell><cell>503</cell></row>
+<row><cell>Analyses Chemico-legal: . . . First period.</cell><cell>382</cell><cell rows="6-7">}Total. . . 501</cell></row>
+<row><cell>Second period.</cell><cell>119</cell></row>
+<row><cell>Other works: . . . . . . . . . First period.</cell><cell>1,960</cell><cell rows="8-9">}Total. . . 2,774</cell></row>
+<row><cell>Second period.</cell><cell>784</cell></row>
+</table>
+</p>
+<pb n="11" id="fKAGA0550"/>
+<p>456</p>
+<p>The Laboratory of Santiago de Cuba which exists as the<lb/>
+Eastern section of the Laboratory of the National Board of San-<lb/>
+itation and which stands under the direction of Dr. Tom&aacute;s Pa-<lb/>
+dr&oacute; Gri&ntilde;&aacute;n, has rendered valuable services in all that relates to<lb/>
+chemical, bromatological and clinical examinations for the &ldquo;ter-<lb/>
+mino&rdquo; of Santiago de Cuba and adjacent territory.</p>
+<p>SPECIAL COMMISION OF HYGIENE.</p>
+<p><hi rend="italic">Those admitted and discharged in the Hospital of Special<lb/>
+Hygiene from the first of January to the 15th of October<lb/>
+of 1908</hi>.</p>
+<p>
+<table rows="4" cols="3">
+<row><cell rows="1-2">Admitted. . . . . . .{</cell><cell>White. . . . . 219</cell><cell rows="1-2">}Total. . . . . . . . 331</cell></row>
+<row><cell>Black. . . . . 112</cell></row>
+<row><cell rows="3-4">Discharged. . . . . . .{</cell><cell>White. . . . . 224</cell><cell rows="3-4">}Total. . . . . . . . 336</cell></row>
+<row><cell>Black. . . . . 112</cell></row>
+</table>
+</p>
+<p><hi rend="italic">Results of the bacteriological examinations made in the Labor-<lb/>
+atory of the Hospital of Special Hygiene from the 1st. of<lb/>
+January to the 15th of October 1908</hi>.</p>
+<p>
+<table rows="6" cols="3">
+<row><cell rows="1-3">Positive. . . . . . . . .{</cell><cell>White. . . . . 115</cell><cell rows="1-3">}Total. . . . . . . . 149</cell></row>
+<row><cell>Mulatos. . . . 20</cell></row>
+<row><cell>Black. . . . . 14</cell></row>
+<row><cell rows="4-6">Negative. . . . . . . . {</cell><cell>White. . . . . 199</cell><cell rows="4-6">} Total. . . . . . . . 245</cell></row>
+<row><cell>Mulatos. . . . 31</cell></row>
+<row><cell>Black. . . . . 15</cell></row>
+<row><cell cols="1-3">Examination by speculum. . . . . . . . . . 28,128</cell></row>
+</table>
+</p>
+<p><hi rend="italic">Clinic for venereal diseases and syphilis for men; section of<lb/>
+Special Hygiene</hi>.</p>
+<p>
+<table rows="3" cols="3">
+<row><cell>Cured. . . . . . . . . . . .</cell><cell>170</cell></row>
+<row><cell>Under treatment. . . . . . .</cell><cell>47</cell><cell rows="1-3">}Total. . 235</cell></row>
+<row><cell>Not helped. . . . . . . . . .</cell><cell>18</cell></row>
+</table>
+</p>
+<p><hi rend="italic">Service of the police of special hygiene from the first of January<lb/>
+to October 15th, 1908</hi>.</p>
+<p>
+<table rows="8" cols="2">
+<row><cell>Clandestine Prostitues arrested. . . . . . . . . . . .</cell><cell>147</cell></row>
+<row><cell>" " sick. . . . . . . . . . . . . .</cell><cell>27</cell></row>
+<row><cell>" " wandering. . . . . . . . . .</cell><cell>93</cell></row>
+<row><cell>" " fugitive. . . . . . . . . . . .</cell><cell>444</cell></row>
+<row><cell>Failures to appear for examination. . . . . . . . .</cell><cell>2,030</cell></row>
+<row><cell>Sick. . . . . . . . . . . . . . . . . . . . . . . . . .</cell><cell>71</cell></row>
+<row><cell>Inspections. . . . . . . . . . . . . . . . . . . . . . .</cell><cell>7,078</cell></row>
+<row><cell>Sent to the Correctional Courts. . . . . . . . . . . .</cell><cell>154</cell></row>
+</table>
+</p>
+<pb n="12" id="fKAGA0560"/>
+<p>457</p>
+<p><hi rend="italic">State of the Expenditures of the cash of the Special Section<lb/>
+of Hygiene from the 1st. of November to the 30th. of<lb/>
+June 1908</hi>.</p>
+<p>
+<table rows="4" cols="2">
+<row><cell>Former balance. . . . . . . . .</cell><cell>$ 17,333.72</cell></row>
+<row><cell>Received. . . . . . . . . . . .</cell><cell>44,933.93</cell></row>
+<row><cell>Expended. . . . . . . . . . .</cell><cell>49,617.93</cell></row>
+<row><cell>Balance July 1st. . . . . .</cell><cell>13,250.51</cell></row>
+</table>
+</p>
+<p><hi rend="italic">State of the expenditure of the cash of the Section of Special<lb/>
+Hygiene from July 1st. to October 15th. 1908</hi>.</p>
+<p>
+<table rows="4" cols="2">
+<row><cell>Balance on hand. . . . . . . . .</cell><cell>$ 13,250.51</cell></row>
+<row><cell>Receipts. . . . . . . . . . . .</cell><cell>19,557.70</cell></row>
+<row><cell>Expenditures. . . . . . . . . .</cell><cell>17,939.68</cell></row>
+<row><cell>Balance October 15th. . .</cell><cell>$ 14,868.53</cell></row>
+</table>
+</p>
+<p>The Quarantine Service, at the head of which stands Dr.<lb/>
+Hugo Roberts, an officer who has received the commendation of<lb/>
+everyone for the zeal and efficient with which he has administered<lb/>
+his important position during the six years he has occupied<lb/>
+it, has accomplished the following work:</p>
+<p>IN THE FIRST SIX MONTHS OF 1908.</p>
+<p>
+<table rows="8" cols="2">
+<row><cell>Vessels inspected. . . . . . . . .</cell><cell>1,938</cell></row>
+<row><cell>Passengers inspected. . . . . . . .</cell><cell>128,616</cell></row>
+<row><cell>Immigrants inspected. . . . . . . .</cell><cell>25,671</cell></row>
+<row><cell>People detained in quarantine. . .</cell><cell>346</cell></row>
+<row><cell>People sent to hospital. . . . . . . .</cell><cell>43</cell></row>
+<row><cell>People sick. . . . . . . . . . . .</cell><cell>43</cell></row>
+<row><cell>People vaccinated Vaccinated. . . . . . . . .</cell><cell>1,074</cell></row>
+<row><cell>Baggage inspected. . . . . . . . .</cell><cell>17,414</cell></row>
+</table>
+</p>
+<p><hi rend="italic">Sick coming to the Ports of the Republic in the first six months<lb/>
+of 1908</hi>.</p>
+<p>
+<table rows="4" cols="2">
+<row><cell>Yellow fever. . . . . . . . . . . . .</cell><cell>2</cell></row>
+<row><cell>Other diseases. . . . . . . . . . . . . .</cell><cell>41</cell></row>
+<row><cell></cell><cell>---</cell></row>
+<row><cell>Total. . . . . . . . . . . . . .</cell><cell>43</cell></row>
+</table>
+</p>
+<p><hi rend="italic">Work accomplished for foreign Ports during the first six months<lb/>
+of 1908</hi>.</p>
+<p>
+<table rows="4" cols="2">
+<row><cell>Vessels cleared. . . . . . . . . . .</cell><cell>191</cell></row>
+<row><cell>Passengers inspected. . . . . . . .</cell><cell>31,537</cell></row>
+<row><cell>Passengers vaccinated. . . . . . . .</cell><cell>3,110</cell></row>
+<row><cell>Baggage inspected. . . . . . . . . .</cell><cell>937</cell></row>
+</table>
+</p>
+<pb n="13" id="fKAGA0570"/>
+<p>459</p>
+<p>&ldquo;Since various cases of Yellow Fever have occurred in La-<lb/>
+&ldquo;gunas del Carmen and in Vera Cruz, Mexico, the National<lb/>
+&ldquo;Board of Health decided that there should be sent to the local<lb/>
+&ldquo;Chiefs of Sanitation a list of the passengers who, proceeding<lb/>
+&ldquo;from Mexican ports, should come to Cuba in order that they<lb/>
+&ldquo;should be visited daily in their houses during the period of in-<lb/>
+&ldquo;cubation of Yellow Fever, deciding later that a list should be<lb/>
+&ldquo;sent only of those passengers who were unable to establish<lb/>
+&ldquo;their immunity to Yellow Fever.</p>
+<p>&ldquo;On the 4th of August there came to the port of Havana<lb/>
+&ldquo;the German steamer &ldquo;Westerwald&rdquo; sailing from Hamburg<lb/>
+&ldquo;with stops in Havre, Santander and Coru&ntilde;a with free bill of<lb/>
+&ldquo;health.</p>
+<p>&ldquo;On making examination of the vessel a passenger of the<lb/>
+&ldquo;third class, Emilio Blanco, embarked from Santander July<lb/>
+&ldquo;20th, was found sick and his case resembling smallpox the<lb/>
+&ldquo;First Doctor of the Port informed this office in order that the<lb/>
+&ldquo;sick man should be examined by the board of contagious dis-<lb/>
+&ldquo;eases.</p>
+<p>&ldquo;The said Commission confirmed the case as one of small-<lb/>
+&ldquo;pox and directed the disinfection of the ship, permitting the<lb/>
+&ldquo;disembarking of those passengers who were inmune to small-<lb/>
+&ldquo;pox, in number 38, and the others to the number of 21 were<lb/>
+&ldquo;sent to the detention camp at Mariel in order that they might<lb/>
+&ldquo;be observed in quarantine during 14 days counting from the<lb/>
+&ldquo;time when they had been exposed to contagion. On the 18th<lb/>
+&ldquo;of August they were released from quarantine no new case<lb/>
+&ldquo;having developed.</p>
+<p>&ldquo;The sick man, attended by one of the Medical Officers of<lb/>
+&ldquo;the Port of this city remained there until he was entirely re-<lb/>
+&ldquo;covered.</p>
+<p>&ldquo;On August 10th the Acting Chief of the Department of<lb/>
+&ldquo;State gave notice that he had received word from the Cuban<lb/>
+&ldquo;Consul in Tampico, Mexico, that the Board of Health of that<lb/>
+&ldquo;place had suspended the fumigations which had been in force<lb/>
+&ldquo;for vessels proceeding from Havana.</p>
+<p>&ldquo;On the 10th of September the following circular was pub-<lb/>
+&ldquo;lished.</p>
+<p>&ldquo;This Office has decided to renew the instructions contained<lb/>
+&ldquo;in circulars 55 and 56 dates of 6 October 1906 and 17 Au-<lb/>
+&ldquo;gust 1907 placing them in the following circular.</p>
+<pb n="14" id="fKAGA0580"/>
+<p>460</p>
+<p>&ldquo;All vessels which are anchored in port, or which enter or<lb/>
+&ldquo;leave port, whether or not they be in coastwise trade, shall be<lb/>
+&ldquo;inspected daily. They shall carry a list of those passengers<lb/>
+&ldquo;who cannot prove their inmmunity, sending said list to the<lb/>
+&ldquo;Local Chief of Sanitation with note of their respective dwell-<lb/>
+&ldquo;ings in order that the said Local Chief may exercise the<lb/>
+&ldquo;necessary watch over said individuals.</p>
+<p>&ldquo;If on any of the vessels which come to anchor in port<lb/>
+&ldquo;shall be found any non-immune suffering from fever, it shall<lb/>
+&ldquo;be obligatory to observe the necessary measures of isolation<lb/>
+&ldquo;until a positive diagnosis is made, and if it is positive, or sus-<lb/>
+&ldquo;picious as such, it shall be obligatory to treat the vessel as in-<lb/>
+&ldquo;fected and fumigate it, the same being done in the open bay,<lb/>
+&ldquo;as promptly as possible, and then giving notice by telegraph<lb/>
+&ldquo;to the next port of call of the vessel, explaining the conditions<lb/>
+&ldquo;on the same.</p>
+<p>&ldquo;If on any vessel larvae of mosquitos shall be found they<lb/>
+&ldquo;shall be destroyed.</p>
+<p>&ldquo;The utmost vigilance is also recommended in the issuing<lb/>
+&ldquo;of immune certificates, not only to laborers on infected ships<lb/>
+&ldquo;but to passengers and visitors, it being required periodically<lb/>
+&ldquo;to ascertain that the real owners are in possession of them, also<lb/>
+&ldquo;whether any person not authorized has visited the ships in<lb/>
+&ldquo;quarantine, or whether any member of the crew has been<lb/>
+&ldquo;ashore without proper authority. In both cases it is required<lb/>
+&ldquo;to take the necessary measures of precaution and at the same<lb/>
+&ldquo;time to give notice to the proper authority that the require-<lb/>
+&ldquo;ments of the quarantine law may be complied with.</p>
+<p>&ldquo;All these works of inspection in the port etc. are to be<lb/>
+&ldquo;noted in a separate report and forwarded to this office.</p>
+<p>&ldquo;On the 28th of September was sent to the Hospital Las<lb/>
+&ldquo;Animas a passenger from the American liner &ldquo;Merida&rdquo;, L.<lb/>
+&ldquo;Coblentz by name, sailing from Progreso and who was found<lb/>
+&ldquo;to have Yellow Fever.</p>
+<p>&ldquo;On the 14th of October notice was received that there had<lb/>
+&ldquo;occurred in Saint Nazaire, France, eleven cases of Yellow Fever<lb/>
+&ldquo;supposed to have been imported from Martinique on the ves-<lb/>
+&ldquo;sel France&rdquo;.</p>
+<p>&ldquo;On the 19th of October a man by the name of Pedro L&oacute;-<lb/>
+&ldquo;pez Cruz pronounced as sick with Yellow Fever in Guanaba-<lb/>
+<pb n="15" id="fKAGA0590"/>
+461<lb/>
+&ldquo;coa who stated that he had come to Santiago de Cuba on the<lb/>
+&ldquo;French vessel &ldquo;Salvador&rdquo;.</p>
+<p>&ldquo;Immediately report was sent to the First Doctor of the<lb/>
+&ldquo;Port in Sanitago de Cuba, who replied that the French ves-<lb/>
+&ldquo;sel Salvador had sailed from Fort de France, Martinique Sep-<lb/>
+&ldquo;tember 30th; from Point au Pitre, Guadalupe the same day,<lb/>
+&ldquo;going to Saint Thomas where she was fumigated the 4th of<lb/>
+&ldquo;October by Dr. W. F. Wild, the Doctor of the U. S. Marine<lb/>
+&ldquo;Hospital Service in said port. On the 6th, the Salvador sailed<lb/>
+&ldquo;from Ponce, Porto Rico; on the 7th, from Ponce to Mayaguez<lb/>
+&ldquo;in the same island; on the 8th, from Mayaguez for Santo Do-<lb/>
+&ldquo;mingo, where Pedro Lopez Cruz, the man attacked with Yel-<lb/>
+&ldquo;low Fever embarked. On the 9th, the Salvador sailed from San-<lb/>
+&ldquo;to Domingo for Jacmal in Haiti; on the 10th, from Jacmal for<lb/>
+&ldquo;Port au Prince; on the 12th, from Port au Prince for Jeremie<lb/>
+&ldquo;and on the 13th, from Jeremie for Santiago de Cuba where she<lb/>
+&ldquo;arrived on the 14th, ten days after having been fumigated in<lb/>
+&ldquo;Saint Thomas, carrying 107 passengers and there being no<lb/>
+&ldquo;sickness on board she was given free pratique and allowed to<lb/>
+&ldquo;discharge her passengers&rdquo;.</p>
+<p>It can be readily appreciated on examining the preceding<lb/>
+data that the labor of the National Department of Sanitation<lb/>
+has been of very marked importance in the whole Republic and<lb/>
+that the Nationalization of the Sanitary Service, brought about<lb/>
+by the Provisional Governor's decree No. 894, date of August<lb/>
+26th, 1907, already commences to yield the ripe fruits which<lb/>
+were hoped for on the promulgation of the mentioned decree.</p>
+<p>All the &ldquo;Cabeceras&rdquo; of the Municipalities of the Republic<lb/>
+and many of the small towns belonging to them now show a<lb/>
+marked improvement in their sanitary conditions if they be com-<lb/>
+pared with what they were when their sanitation was in charge<lb/>
+of their respective Ayuntamientos and the general figure of<lb/>
+mortality is much lower. While scarcely sufficient time has<lb/>
+passed to appreciate these benefits, it is probable that the favor-<lb/>
+able result of such measures cannot be realized in full until at<lb/>
+a later period and when the education and co-operation of the<lb/>
+masses shall lend its indispensable aid. The Nationalization of<lb/>
+the service has already established a Sanitary service in all of<lb/>
+the towns of the country which have a population of 1,000 or<lb/>
+<pb n="16" id="fKAGA0600"/>
+462<lb/>
+more. But there are a number of towns or villages, with a popu-<lb/>
+lation less than this, which do not receive any benefit, strictly<lb/>
+speaking, from sanitary measures: since these come to them only<lb/>
+as they are lent from the &ldquo;Cabecera&rdquo; to which they belong.</p>
+<p>The National Board of Sanitation took account of these ne-<lb/>
+cessary services but on account of the reduction of the budget<lb/>
+was unable to establish them in the smaller towns. This omission<lb/>
+has given rise to protests from the Town Councils, and the Na-<lb/>
+tional Board will no doubt take this question under considera-<lb/>
+tion in order to do what is necessary when the time comes to<lb/>
+make out the next estimate for funds.</p>
+<p>I must state that the Adviser to the Sanitary Department,<lb/>
+Major Jefferson Randolph Kean, is entitled to the remember-<lb/>
+ance and gratitude of the country for establishing in a satisfac-<lb/>
+tory and effective manner the National Sanitary Service, and<lb/>
+for his untiring co-operation in the realization of this most com-<lb/>
+mendable work and in everything which is related with the ad-<lb/>
+vance of our Sanitary Service. His constant care for, and inter-<lb/>
+est in our Department, his cordial relations with the National<lb/>
+Board, with the &ldquo;Jefatura&rdquo; and its employees are sure proofs<lb/>
+that his memory shall always endure among us and that his<lb/>
+name shall ever be mentioned by us who have charge of the<lb/>
+fight for public health, with well deserved words of gratitude<lb/>
+and affection, both for his invaluable services in the Office and<lb/>
+his well known courtesy and kindly consideration.</p>
+<p>With the exception of Yellow Fever and Leprosy there has<lb/>
+not been in the Republic, during the time covered by this report<lb/>
+any quarantinable disease or any epidemic of alarming extent.<lb/>
+The cases of Enteritis, one of the diseases which most afflicts us,<lb/>
+have decreased to a marked degree; this benefit being due doubt-<lb/>
+less to the analysis of milk sold, which analysis is carried on by<lb/>
+the majority of the Local Chiefs, to whom has been sent proper<lb/>
+apparatus for the testing of this essential food.</p>
+<p>In Cienfuegos and Santiago de Cuba, at the head of the San-<lb/>
+itary service of the Province of Santa Clara and Oriente res-<lb/>
+pectively, Captains J. H. Allen and Henry D. Thomason, Med-<lb/>
+ical Officers of the U. S. Army and Special Commissioners, and<lb/>
+also Major P. C. Fauntleroy, Captain J. R. Church and Dr. Jos&eacute;<lb/>
+Miguel Pe&ntilde;a have ever lent, aided by Special Inspectors Dres.<lb/>
+<pb n="17" id="fKAGA0610"/>
+463<lb/>
+Claudio Delgado, Diego Tamayo, Federico Torralbas, Carlos<lb/>
+Mendieta, Francisco Rodr&iacute;guez Alonso, Florentino Villuendas,<lb/>
+Isidoro P. Agostini, (of Santiago de Cuba), Jos&eacute; Cartaya and<lb/>
+Sr. Arturo Saenz, effectual aid in the line of work carried on<lb/>
+by this Department.</p>
+<p>I can say in conclusion that the existing sanitary condition<lb/>
+of the Republic is excellent and that its annual figure of mortal-<lb/>
+ity may be quoted without dishonor but rather with credit in<lb/>
+comparison with countries more advanced in the ways of Public<lb/>
+Hygiene.</p>
+<p>All the employees of the &ldquo;Jefatura Superior&rdquo; are worthy<lb/>
+of praise for the aid which they have ever been disposed to of-<lb/>
+fer for the better accomplishment of our work, striving each<lb/>
+one, from the Chief of Division to the most humble subaltern,<lb/>
+for the most satisfactory result which we to-day are able to show.<lb/>
+I feel that I should mention specially Dres. Narciso Casas, En-<lb/>
+rique Someill&aacute;n, Julio L&oacute;pez and Miguel Angel Tariche. Misses<lb/>
+Mercedes Boullosa and Mar&iacute;a Novela (of the &ldquo;Jefatura Supe-<lb/>
+rior); Messrs. Jorge Fortin and Mart&iacute;n Rivero (of the Divi-<lb/>
+sion of Personnel); Inocente Ayala and Francisco Sierra, (Pay-<lb/>
+masters); Jorge D. Albertini, Chief of Purchases and Property;<lb/>
+Dr. Jorge Le Roy (Chief of Statistics); Francisco Rovira and<lb/>
+Ram&oacute;n Losa (of the General Filing Division); Dr. Antonio Gor-<lb/>
+don Berm&uacute;dez, Dr. Alberto S&aacute;nchez Fuentes and Mrs. Micaela<lb/>
+O. de Garc&iacute;a (of the Division of Municipal Afairs); and Drs.<lb/>
+Honor&eacute; F. Lain&eacute; and W. W. Dimock, (Division of Veterinary).</p>
+<p>They all merit thanks for their good service and it is proper<lb/>
+to give them at this time.</p>
+<p>To carry out the resolution put into effect by the Superior<lb/>
+Board of Health, on the 7th of March last the Board held a for-<lb/>
+mal meeting to unveil the pictures hung in the hall of sessions,<lb/>
+those of Charles E. Magoon, Provisional Governor of Cuba, Jef-<lb/>
+ferson Randolph Kean, Adviser to the Sanitary Department<lb/>
+and Carlos J. Finlay, Chief of the National Sanitary Depart-<lb/>
+ment; an able paper was read at this time by Dr. Jos&eacute; Antonio<lb/>
+L&oacute;pez del Valle, local Chief of Havana and Member of the<lb/>
+Board, said discourse being later published in Spanish and Eng-<lb/>
+lish by the Board and dealing with the Nationalization of the<lb/>
+Sanitary Service and the right of each one of the gentlemen<lb/>
+mentioned above to be so honored by the Board; the Provisional<lb/>
+Governor for the Nationalization of the Service by Decree No.<lb/>
+<pb n="18" id="fKAGA0620"/>
+464<lb/>
+894 of 1907; Major Kean for the incalculable aid he has always<lb/>
+given the Department and Dr. Finlay for his labors as Chief of<lb/>
+the Sanitary Department of the Republic during the past six<lb/>
+years and for the transcendent discovery which has placed him<lb/>
+among the never to be forgotten benefactors of mankind.</p>
+<p>I remain with all respect,<lb/>
+(Signed) E. B. BARNET,<lb/>
+<hi rend="italic">Executive Officer and Secretary of<lb/>
+the National Board of Sanitation</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

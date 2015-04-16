@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02027001"> 
+<teiHeader type="aacr2"> 
+<fileDesc> 
+<titleStmt> 
+<title type="245">Report from Alexander N. Stark to the Adjutant General, June 4, 1900</title> 
+<title type="gmd">[electronic resource]</title> 
+<author>Stark, Alexander N.</author> 
+<respStmt> 
+<resp>Transcriptions and TEI markup</resp> 
+<name>Innodata Inc</name> 
+<resp>Images, project design, and management:</resp> 
+<name>Historical Collections &amp; Services<lb/> 
+Claude Moore Health Sciences Library<lb/> 
+University of Virginia Health System<lb/> 
+P.O. Box 800722<lb/> 
+Charlottesville, VA 22908-0722 
+</name> 
+<resp>TEI consultation:</resp> 
+<name>Electronic Text Center<lb/> 
+University of Virginia Library<lb/> 
+</name> 
+</respStmt> 
+</titleStmt> 
+<extent>ca. 15 kilobytes</extent> 
+<publicationStmt> 
+<publisher>Claude Moore Health Sciences Library of the 
+University of Virginia Health System</publisher> 
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace> 
+<idno>02027001</idno> 
+<availability> 
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p> 
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p> 
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt> 
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection 
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno> 
+</bibl> 
+</sourceDesc> 
+</fileDesc> 
+<profileDesc>
+<creation><date>1900-06-04</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Adjutant General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc> 
+<change><date></date> 
+<respStmt><resp></resp> <name></name></respStmt> 
+<item></item></change> 
+</revisionDesc> 
+</teiHeader> 
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">O'Cain, George B.</name>
+<name type="person">Sherwood, Mary G.</name>
+<name type="person">Teeter, E. A.</name>
+<name type="person">Crane, Richard B.</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="hospital">Post Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1900-06-04">June 4, 1900</date>
+<idno rend="suppress">02027001</idno>
+<title>Report from Alexander N. Stark to the Adjutant General, June 4, 1900</title>
+</bibl>
+</head>
+<p>Stark reports cases of yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-06-04">
+<head>Report from Alexander N. Stark to the Adjutant General, June 4, 1900</head>
+<pb n="1" id="f02027001"/>
+<opener>
+L. R.<lb/>
+<unclear>1511</unclear><lb/>
+<hi rend="italic">No.</hi><lb/>
+<unclear>Col. Bks</unclear><lb/>
+Havana, Cuba.<lb/>
+RECEIVED, JUN 3- Rec'd<lb/>
+<unclear>NY 1714</unclear><lb/>
+June, 4, 1900<lb/>
+Surgeon, <unclear>post</unclear><lb/>
+Reports on yellow fever.<lb/>
+<pb n="2" id="f02027002"/>
+<dateline>
+POST HOSPITAL, COLUMBIA BARRACKS, CUBA,<lb/>
+<date value="1900-06-04">JUNE 4, 1900.</date>
+</dateline><lb/>
+To the<lb/>
+ADJUTANT,<lb/>
+Columbia Barracks, Cuba.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>I have the honor to inform you that George B. O'Cain, civilian<lb/>
+employee, #10 Corral, developed Yellow Fever June 3, 1900, and was<lb/>
+removed to Isolation Camp.</p>
+<p>It is probable he contracted the disease in the corral.</p>
+<p>Mrs Mary G. Sherwood, wife of 1st class Sergeant Sherwood, Sig-<lb/>
+nal Corps, deceased, developed Yellow Fever June 3, 1900, the disease<lb/>
+being most certainly contracted in #20, General Lee St.</p>
+<p>Private E. A. Teeter, Hosp. Corps, Chief Surgeon's orderly, de-<lb/>
+veloped symptoms warranting his removal to Isolation Camp as a sus-<lb/>
+pect; his duties required him to be at #10 corral frequently during<lb/>
+the day.</p>
+<p>Private Richard B Crane, &ldquo;B&rdquo;, 7th Cavalry, removed to Isolation<lb/>
+Camp this date as a suspect; point of infection undetermined.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>A. N. Stark</signed>
+Capt. and Asst. Surgeon, U. S. Army,<lb/>
+Surgeon.<lb/>
+<unclear>1.8.1943.</unclear><lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

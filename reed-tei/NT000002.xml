@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="NT000002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">English translation [from Spanish] of newspaper clipping, [La Discusion], [November 21, 1900] (See Spanish original)</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>NT000002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-11-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Wood, Leonard</name>
+<name type="person">Scott, Hugh L.</name>
+<name type="place">Quemados (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1900-11-21">[November 21, 1900]</date>
+<idno rend="suppress">NT000002</idno>
+<title>English translation [from Spanish] of newspaper clipping, [La Discusion], [November 21, 1900] (See Spanish original)</title>
+</bibl>
+</head>
+<p>Horrific... If it's true!</p>
+</div1>
+</front>
+<body>
+<div1 type="newspaper clipping" n="1900-11-21">
+<head>English translation [from Spanish] of newspaper clipping, [La Discusion], [November 21, 1900] (See <xref id="tN2212001">Spanish original</xref>)</head>
+<pb n="1" id="fN2212001"/>
+<p>HORRIFIC.....IF IT'S TRUE!</p>
+<p>Yellow fever transmitted to Spanish immigrants<lb/>
+by mosquitos!</p>
+<p>-----</p>
+<p>ALERT THE AUTHORITIES!</p> 
+<p>A rumor of an act so horrific, repugnant<lb/>
+and monstrous has come to us, that<lb/>
+hesitating to believe in its existence,<lb/>
+almost daring to deny it, we do not<lb/>
+hesitate to record it -only by way of<lb/>
+rumor-in our columns, because in that<lb/>
+way the popular version will arrive<lb/>
+directly and quickly to the authorities,<lb/>
+and they; if as we hope the deed turns<lb/>
+out false, will dispel alarm and if- what<lb/>
+we do not believe- it were true, will<lb/>
+impose upon its authors an exemplary<lb/>
+punishment, whose importance is at the<lb/>
+height of the monstrous magnitud of the<lb/>
+crime.</p>
+<p>Here is what is said:</p>
+<p>As is known, for some time now, the<lb/>
+current of Spanish immigration to this<lb/>
+island has increased.  The large portion<lb/>
+of those immigrants, as is natural, aren't<lb/>
+immune to yellow fever.</p>
+<p>Those who stay a short time in<lb/>
+Triscornia are offered work in an<lb/>
+American camp in los Quemados,<lb/>
+promising them a peso daily, and are<lb/>
+carried in groups "partidas" of 30 or 40<lb/>
+men.</p>
+<p>And here enters the horrible part of the<lb/>
+story.</p>
+<p>At night, when the immigrants have<lb/>
+finished their work, they are enclosed in<lb/>
+some special rooms and in then a large<lb/>
+number of mosquitos that have bitten<lb/>
+individuals with yellow fever are<lb/>
+released.  The object of it, is to study<lb/>
+practically if the contagion originates or<lb/>
+can originate through the innoculation of<lb/>
+those bites.  If the worker becomes sick<lb/>
+and dies, the experiment has<lb/>
+demonstrated the fact; in the opposite<lb/>
+case, it has completely cleared up that<lb/>
+fear.</p>
+<p>Such is, referred to as briefly as possible,<lb/>
+the case.</p>
+<p>If, unfortunately, its existence is proven,<lb/>
+it would be the most monstrous case of<lb/>
+humanitarian... savagry that we've ever<lb/>
+witnessed.  To do experiments in &aacute;nima<lb/>
+vili on the body of people, and to people,<lb/>
+though poor, honest, hard working and<lb/>
+good, who come to a country in search<lb/>
+of wealth, well-being and work,<lb/>
+believing to have found all of the<lb/>
+guarantees of civilized life and of free<lb/> 
+peoples, would be unheard of, and would<lb/>
+demand (as La Discusi&oacute;n demands it in<lb/>
+the name of Cuban opinion, for that very<lb/>
+reason that it deals with a modest, hard<lb/>
+working dignified element of the<lb/>
+Spanish colony) such a punishment, that<lb/>
+its exemplary nature erase forever all<lb/>
+fear that the vile crime- for it has no<lb/>
+other name - could repeat itself.</p>
+<p>In any case, we believe it useless to<lb/>
+repeat that, in our judgment, the act is<lb/>
+not possible; but in case it were true, our<lb/>
+personal and juournalistic integrity<lb/>
+makes us declare, in which refers to the<lb/>
+intervention of the higher authorities in<lb/>
+the case, and for the very reason that our<lb/>
+opposition to the misguided acts of<lb/>
+General Wood has been clear and<lb/>
+frank- that we are persuaded that<lb/>
+neither complicity nor tolerance, but also<lb/> 
+not even knowledge of that sad point<lb/>
+could the military governor, General<lb/>
+Wood or Col. Scott, who worthily<lb/>
+substitutes in his absence, have.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

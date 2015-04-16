@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t01952001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Article: Life-History of the Parasites of Malaria, by Ronald Ross, [1901]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Ross, Ronald</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01952001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1901-00-00">1901</date>
+<idno rend="suppress">01952001</idno>
+<title>Article: Life-History of the Parasites of Malaria, by Ronald Ross, [1901]</title>
+</bibl>
+</head>
+<p>Ross discusses the parasites that cause malarial fevers. A note on the article indicates that it was published in Nature in 1901.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1901-00-00">
+<head>Article: Life-History of the Parasites of Malaria, by Ronald Ross, [1901]</head>
+<pb n="1" id="f01952001"/>
+<p>Published in nature 1901 <unclear>(i)</unclear><lb/>
+3 August 1899 P. 322 Vol 60 no 1553<lb/>
+<hi>47</hi></p>
+<p><hi rend="italic">LIFE-HISTORY OF THE PARASITES OF<lb/>
+MALARIA</hi>.</p>
+<p>THE parasites which cause malarial fevers in human<lb/>
+beings belong to a very homogeneous group, other<lb/>
+species of which are found in certain bats and birds.<lb/>
+The life-history of the three species of this group which<lb/>
+have been completely studied is as follows. The youngest<lb/>
+parasites exist as am&oelig;bul&aelig; or myxopods within the<lb/>
+red blood corpuscles of the vertebrate host. Each<lb/>
+am&oelig;bula possesses a nucleus and nucleolus; and its<lb/>
+movements vary in extent and rapidity with the species,<lb/>
+but, in the case of birds, never encroach upon the<lb/>
+nucleus of the corpuscle. The am&oelig;bul&aelig; increase in<lb/>
+size; and, as they do so, tend to lose their movements<lb/>
+and to accumulate in their ectoplasm certain black<lb/>
+granules, the pigment or melanin, which are the product<lb/>
+of assimilation of the h&aelig;moglobin of the corpuscle. In<lb/>
+from one to several days the parasites reach their<lb/>
+highest development within the vertebrate host, and<lb/>
+become either (<hi rend="italic">a</hi>) sporocytes or (<hi rend="italic">b</hi>) gametocytes.</p>
+<p>The sporocytes, which are produced asexually, contain<lb/>
+spores which vary in number according to the species.<lb/>
+The spores do not possess any appreciable cell-wall.<lb/>
+When they are mature the corpuscle which contains<lb/>
+them bursts and allows them to fall into the serum. They<lb/>
+then attach themselves to fresh blood corpuscles, and<lb/>
+continue the propagation of the parasites indefinitely in<lb/>
+the vertebrate host. The residuum of the sporocyte,<lb/>
+consisting chiefly of the pigment, is taken up by the<lb/>
+phagocytes of the host for eventual disposal in the host.</p>
+<p>The gametocytes, while in the blood of the vertebrate<lb/>
+host, are still contained in the shell of the corpuscle.<lb/>
+In some species their general form and appearance<lb/>
+is very like that of the sporocytes before the<lb/>
+spores are differentiated; in another, however, they<lb/>
+possess a special crescentic form. They continue to<lb/>
+circulate in the blood for some days, or even weeks<lb/>
+(according to the species) without change; but when<lb/>
+they are drawn into the alimentary canal of certain suc-<lb/>
+torial insects, they undergo further development. In a<lb/>
+few minutes after finding themselves in their new position,<lb/>
+they break from the enclosing corpuscle by a kind of<lb/>
+expansion, swell up slightly, and then commence their<lb/>
+sexual functions. The male gametocytes emit a variable<lb/>
+number of microgametes, which escape into the serum of<lb/>
+the ingested blood, leaving behind a residuum consisting<lb/>
+chiefly of pigment--as in the case of the sporocytes. The<lb/>
+individual microgametes are delicate, but very active<lb/>
+filaments, consisting chiefly of chromatin, and sometimes<lb/>
+seen to have a slight swelling at one point of their length<lb/>
+--in the middle, when free, according to my observations.<lb/>
+After escape from the male gametocyte, the microgametes<lb/>
+seek the female gametocytes, which consist each of a<lb/>
+single motionless macrogamete. One microgamete now<lb/>
+enters bodily into a macrogamete and fertilises it, pro-<lb/>
+ducing a zygote.</p>
+<p>The further history of the zygote has been traced, as<lb/>
+regards three species of this group of parasites, in certain<lb/>
+kinds of mosquitoes. After being fertilised, it acquires<lb/>
+the power of escaping the phagocytes of the ingested<lb/>
+blood which surround it, of working its way through the<lb/>
+mass of blood, of passing through the thickness of the<lb/>
+stomach (middle intestine) of the mosquito, and of<lb/>
+affixing itself to the outer surface of the organ. Here<lb/>
+the zygotes are first found as oval cells about 8-10 &micro; in<lb/>
+diameter. They still contain the granules of pigment<lb/>
+which the macrogametes possessed before fertilisation.<lb/>
+Growing rapidly, they soon acquire a capsule, and begin<lb/>
+to protrude into the body cavity of the mosquito. From<lb/>
+an early period the nucleus divides into a number of<lb/>
+portions--zygotomeres--each containing a fragment of<lb/>
+chromatin. As growth advances, the zygotomeres be-<lb/>
+come spherical blastophores, bearing each a large<lb/>
+number of delicate, filamentous zygotoblasts on their<lb/>
+external surface--each zygotoblast being affixed to the<lb/>
+surface of the blastophore by one extremity. As maturity<lb/>
+is approached the zygote, though still attached to the<lb/>
+outer wall of the insect's stomach, protrudes freely into<lb/>
+the body cavity; its pigment tends to disappear; and<lb/>
+lastly, the blastophores disappear, leaving the capsule<lb/>
+packed with thousands of zygotoblasts. Maturity is<lb/>
+reached in from one to three weeks, according to the<lb/>
+external temperature, when the zygote reaches a size of<lb/>
+60 &micro; or more. The capsule then ruptures, pouring the<lb/>
+zygotoblasts into the insect's blood.</p>
+<p>The zygotoblasts are now seen to be delicate flagel-<lb/>
+lul&aelig; or mastigopods, about 12-16 &micro; in length, with the<lb/>
+chromatin and one or two unstained areas in the middle,<lb/>
+and two opposite tapering flagella. I have not, however,<lb/>
+observed any notable movement in them, probably on<lb/>
+account of the necessary dissecting medium. After<lb/>
+being discharged into the insect's blood, these bodies<lb/>
+are carried away by the current into all parts of the<lb/>
+tissues, and finally effect an entry into the large grape-<lb/>
+like cells of the salivary gland--especially the cells of<lb/>
+the short middle lobe--where they accumulate in very<lb/>
+large numbers. From the cells of this gland they pass<lb/>
+into the duct which runs to the extremity of the middle<lb/>
+stylet, the lingula, and thence escape during haustellation<lb/>
+into the blood of a new vertebrate host. Here, it must<lb/>
+be supposed, the flagellul&aelig; attack the corpuscles and<lb/>
+become the intra-corpuscular am&oelig;bul&aelig; with which we<lb/>
+started.</p>
+<p>Four points require notice. (1) There are reasons<lb/>
+for supposing that the gametocytes are or may be pro-<lb/>
+duced by the conjugation of two or more am&oelig;bul&aelig; in<lb/>
+one corpuscle. (2) The gametocytes of several species<lb/>
+show, after escape from the corpuscle, one or more<lb/>
+minute spherical bodies attached to their margin; which<lb/>
+I assume to represent polar bodies. (3) The young<lb/>
+zygote of at least one species (of crows) possesses,<lb/>
+shortly after fertilisation, somewhat active powers of<lb/>
+locomotion. (4) The mature zygotes of at least two<lb/>
+species often contain large, brown, thick-shelled, cylin-<lb/>
+drical bodies, the nature of which has not yet been<lb/>
+elucidated, and which may be parasitic fungi of the<lb/>
+mosquito.</p>
+<p>A brief history of how these facts came to be ascer-<lb/>
+tained may be of interest. Laveran discovered the<lb/>
+human parasites in 1880; and Danilewsky those of<lb/>
+birds, some years later. Golgi established the law of<lb/>
+endogenous reproduction by means of spores, in 1885;<lb/>
+and noted the differences in the various human species.<lb/>
+Later, several Italian writers observed the distinction<lb/>
+between the sporocytes and the gametocytes, but failed<lb/>
+to understand the nature and object of these latter<lb/>
+forms. The escape of the microgametes can be wit-<lb/>
+nessed <hi rend="italic">in vitro</hi>; and a dispute now arose as to the<lb/>
+meaning of these bodies. Antolisei, Grassi, Bignami,<lb/>
+Labb&eacute; and others held that they are products of death<lb/>
+and degeneration <hi rend="italic">in vitro</hi>. On the other hand, Laveran,<lb/>
+Danilewsky and Mannaberg supposed them to represent<lb/>
+the highest development of the organisms; while the<lb/>
+last writer thought that they were meant for an ex-<lb/>
+ogenous saprophytic existence--without, however, sug-<lb/>
+gesting the mode of their escape. In 1894 Manson<lb/>
+concluded that the gametocytes are intended to continue<lb/>
+the species outside the vertebrate host; and that they<lb/>
+escape into the stomach of a suctorial insect, and then<lb/>
+give rise to flagellul&aelig;--as he considered the micro-<lb/>
+gametes to be--which in turn develop in the tissues of<lb/>
+the insect. He founded these views chiefly on the fact<lb/>
+that the microgametes escape from the gametocyte only<lb/>
+after abstraction of the blood from the vertebrate host.<lb/>
+Laveran had already surmised that the mosquito is the<lb/>
+alternative host of the human parasites; and Manson<lb/>
+now claimed the mosquito as the suctorial insect<lb/>
+referred to.</p>
+<p>Early in 1895 I attacked the subject experimentally in<lb/>
+Parasites<lb/>
+2<lb/>
+India, on the lines laid down by Manson. Owing to the<lb/>
+difficulty of the investigation and to the use of wrong<lb/>
+species of mosquitoes, I failed for more than two years<lb/>
+in reaching positive results. In August 1897, however,<lb/>
+on employing two species of Anopheles fed on patients<lb/>
+containing the crescentic gametocytes, I found the zygotes<lb/>
+in various stages of growth attached to the wall of the<lb/>
+insects' stomach. My work was now interrupted; but<lb/>
+next year I succeeded in following out the life-history of<lb/>
+the zygotes of one of the parasites of birds in their de-<lb/>
+velopment in <hi rend="italic">Culex pipiens</hi>. The zygotoblasts were<lb/>
+found in the salivary glands of the mosquitoes; and<lb/>
+lastly, in July 1898, I succeeded in infecting a large<lb/>
+number of healthy birds by the bites of infected insects.</p>
+<p>Meanwhile (1898) MacCallum had discovered the true<lb/>
+nature of the microgametes by actually witnessing the<lb/>
+sexual act <hi rend="italic">in vitro</hi>; while Metchnikoff and Simond had<lb/>
+found microgamates also in <hi rend="italic">Coccidium oviforme</hi> and<lb/>
+<hi rend="italic">C. salimandrae</hi>; so that the exact relationship between<lb/>
+the gametocytes in the blood of the vertebrate (inter-<lb/>
+mediary) hosts and the zygotes found by me in the<lb/>
+mosquitoes (definitive hosts) became quite evident.</p>
+<p>My results were published by Manson in August 1898,<lb/>
+and were confirmed by Daniels, of the Malaria Commis-<lb/>
+sion of the Royal Society in December. It was now easy<lb/>
+to extend my observations to other species of the group,<lb/>
+a work, however, which I was unable to undertake. In<lb/>
+November and December 1898, Grassi, Bignami and<lb/>
+Bastianelli cultivated two of the human parasites in a<lb/>
+third species of Anopheles, <hi rend="italic">A. claviger</hi>, Fabr., and suc-<lb/>
+ceeded in infecting several healthy persons. Shortly<lb/>
+afterwards Koch confirmed the principal observations<lb/>
+which had been made.</p>
+<p>If we can exterminate the malaria-bearing species of<lb/>
+mosquito in a locality, we may expect to prevent the pro-<lb/>
+pagation of the parasites there; I trust, therefore, that<lb/>
+these investigations will not remain without practical<lb/>
+results.</p>
+<p>It may be useful to add a note regarding the somewhat<lb/>
+confused matter of the classification and nomenclature of<lb/>
+the various species. I divide those of men and birds into<lb/>
+two genera, named as follows:--</p>
+<p>Family: H&AElig;MAM&OElig;BID&AElig;, Wasielewski.</p>
+<p>Genus I. <hi rend="italic">Haemomoeba</hi>, Grassi and Feletti. <hi rend="italic">The mature<lb/>
+gametocytes are similar in form to the mature<lb/>
+sporocytes before the spores have been differentiated</hi>.</p>
+<p>Species I: <hi rend="italic">Haemamoeba Danilewskii</hi>, Grassi and Feletti. Syn.:<lb/>
+<hi rend="italic">Laverania Danilewskii</hi>, Grassi and Feletti, in<lb/>
+part; <hi rend="italic">Halteridium Danilewskii</hi>, Labb&eacute;; &amp;c.<lb/>
+Several varieties--possibly distinct species. Parasite<lb/>
+of pigeons, jays, crows, &amp;c.</p>
+<p>Species 2: <hi rend="italic">Haemamoeba relicta</hi>, Grassi and Feletti. Syn.:<lb/>
+<hi rend="italic">Haemamoeba relicta</hi> &plus; <hi rend="italic">H. subpraecox</hi> &plus; <hi rend="italic">H. subim-<lb/>
+maculata</hi>, Grassi and Feletti; <hi rend="italic">Proteosoma Grassii</hi>,<lb/>
+Labb&eacute;; &amp;c. Parasite of sparrows, larks, &amp;c.</p>
+<p>Species 3: <hi rend="italic">Haemamoeba malariae</hi>, Grassi and Feletti. Syn.:<lb/>
+<hi rend="italic">Haemamoeba Laverani</hi>, Labb&eacute;, in part. Parasite<lb/>
+of quartan fever of man.</p>
+<p>Species 4: <hi rend="italic">Haemamoeba vivax</hi>, Grassi and Feletti. Syn.:<lb/>
+<hi rend="italic">Haemamoeba Laverani</hi>, Labb&eacute;, in part. Parasite<lb/>
+of tertian fever of man.</p>
+<p>Genus II: <hi rend="italic">Haemomenas</hi>, gen. nov. Syn.: <hi rend="italic">Laverania</hi>, in part<lb/>
+&plus; <hi rend="italic">Haemamoeba</hi>, in part, Grassi and Feletti. <hi rend="italic">The<lb/>
+gametocytes have a special crescentic form</hi>.</p>
+<p>Species: <hi rend="italic">Haemomenas praecox</hi>, Grassi and Feletti. Syn.:<lb/>
+<hi rend="italic">Haemamoeba praecox</hi> &plus; <hi rend="italic">H. immaculata</hi> &plus; <hi rend="italic">Laverania<lb/>
+malariae</hi>, Grassi and Feletti; <hi rend="italic">Haemamoeba Laver-<lb/>
+ani</hi>, Labb&eacute;, in part; &amp;c. Several varieties--pos-<lb/>
+sibly distinct species. Parasite of the irregular,<lb/>
+remittent, pernicious or &aelig;stivo-autumnal fever of<lb/>
+man.</p>
+<p>The two species lately discovered by Dionisi in bats<lb/>
+appear to belong, one to one genus, and the other to the<lb/>
+other genus. Two species described in frogs do not con-<lb/>
+tain pigment, and require further study. Grassi and<lb/>
+Feletti's arrangement is very confused, chiefly on<lb/>
+account of their combining <hi rend="italic">H. Danilewskii</hi> with the<lb/>
+crescentic gametocytes of <hi rend="italic">H. praecox</hi> in a separate<lb/>
+genus, <hi rend="italic">Laverania</hi>. Labb&eacute; admits only one human<lb/>
+species, and yet erects two genera for the avian species.<lb/>
+The double spore-clusters of <hi rend="italic">H. Danilewskii</hi>, on which<lb/>
+he lays much stress, are not always found, and are at<lb/>
+the best due, I think, merely to the presence of the<lb/>
+nucleus compressing so large a parasite. There is<lb/>
+little to justify generic differences between the four<lb/>
+species of <hi rend="italic">Haemamoeba</hi>. On the other hand, the last<lb/>
+species given above is sharply divided from the rest.</p>
+<p>The zygotes of three species have been found to<lb/>
+develop in mosquitoes as follows:--</p>
+<p><hi rend="italic">Haemamoeba relicta</hi> in <hi rend="italic">Culex pipiens</hi>.</p>
+<p><hi rend="italic">Haemamoeba vivax</hi> in <hi rend="italic">Anopheles claviger</hi>.</p>
+<p><hi rend="italic">Haemomenas praecox</hi> in two undetermined species of<lb/>
+Anopheles in India, and in <hi rend="italic">Anopheles claviger</hi> in Italy.</p>
+<p>The development is the same in all, but slight differ-<lb/>
+ences in details have been noticed between <hi rend="italic">H. vivax</hi> and<lb/>
+<hi rend="italic">H. falcipara</hi> in the mosquito.</p>
+<p>The terminology employed above has been adopted in<lb/>
+consultation with Prof. Herdman, F.R.S. Some of it<lb/>
+has already been used in this connection by Mesnil, and<lb/>
+Grassi and Dionisi. Nuttall has recently given a very<lb/>
+full account of the subject in the <hi rend="italic">Centralblatt f&uuml;r<lb/>
+Bakteriologie</hi>.<lb/>
+RONALD ROSS.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

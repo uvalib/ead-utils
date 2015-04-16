@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06306152">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to Philip Showalter Hench, October 20, 1941</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06306152</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1941-10-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Hench, Mary </name>
+<name type="person">Kean, Cornelia Knox</name>
+<name type="person">Jefferson, Thomas</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Finlay, Carlos E.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Matas, Rodolfo</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Hewitt, Richard M.</name>
+<name type="person">Finlay, Carlos E.</name>
+<name type="person">Cornwell, Dean</name>
+<name type="place">Rochester (Minn.)</name>
+<name type="place">New Orleans (La.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>6 pp.</extent>
+<date value="1941-10-20">October 20, 1941</date>
+<idno rend="suppress">06306152</idno>
+<title>Letter from Jefferson Randolph Kean to Philip Showalter Hench, October 20, 1941</title>
+</bibl>
+</head>
+<p>Kean details his involvement in the National Memorial to Thomas Jefferson. Kean also discusses the publication of Truby's manuscript, his meeting with Carlos E. Finlay, and his understanding that Reed visited Carlos J. Finlay before any efforts were made to infect mosquitoes.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1941-10-20">
+<head>Letter from Jefferson Randolph Kean to Philip Showalter Hench, October 20, 1941</head>
+<pb n="1" id="f06306152"/>
+<opener>
+United States Commission<lb/>
+for the Erection of a Permanent Memorial to the Memory of<lb/>
+Thomas Jefferson<lb/>
+1743 -- 1826<lb/>
+COMMISSIONERS<lb/>
+-----<lb/>
+UNITED STATES SENATE<lb/>
+ELBERT D. THOMAS<lb/>
+UTAH<lb/>
+CHARLES L. MCNARY<lb/>
+OREGON<lb/>
+CHARLES O. ANDREWS<lb/>
+FLORIDA<lb/>
+HOUSE OF REPRESENTATIVES<lb/>
+HOWARD W. SMITH<lb/>
+VIRGINIA<lb/>
+FRANCIS D. CULKIN<lb/>
+NEW YORK<lb/>
+FRITZ G. LANHAM<lb/>
+TEXAS<lb/>
+-----<lb/>
+THOMAS JEFFERSON MEMORIAL<lb/>
+FOUNDATION<lb/>
+STUART G. GIBBONEY<lb/>
+DR. GEORGE J. RYAN<lb/>
+DR. FISKE KIMBALL<lb/>
+CHAIRMAN<lb/>
+STUART G. GIBBONEY<lb/>
+VICE CHAIRMEN<lb/>
+ELBERT D. THOMAS<lb/>
+CHARLES O. ANDREWS<lb/>
+CHARLES L. MCNARY<lb/>
+SECRETARY<lb/>
+HOWARD W. SMITH<lb/>
+PRESIDENTIAL COMMISSIONERS<lb/>
+T. JEFFERSON COOLIDGE<lb/>
+JOSEPH P. TUMULTY<lb/>
+BRIG. GEN. JEFFERSON RANDOLPH KEAN<lb/>
+-----<lb/>
+EXECUTIVE COMMITTEE<lb/>
+STUART G. GIBBONEY<lb/>
+ELBERT D. THOMAS<lb/>
+CHARLES L. MCNARY<lb/>
+CHARLES O. ANDREWS<lb/>
+HOWARD W. SMITH<lb/>
+FRANCIS D. CULKIN<lb/>
+FRITZ G. LANHAM<lb/>
+JOSEPH P. TUMULTY<lb/>
+DR. FISKE KIMBALL<lb/>
+<del>HOUSE OFFICE BUILDING</del><add>2804 N St. N. W.</add><lb/>
+WASHINGTON, D. C.<lb/>
+<dateline>
+<date value="1941-10-21">Oct. 21, 1941</date>
+</dateline>
+<salute>My dear Dr. Hench</salute>
+</opener>
+<p>What a human dynamo you are and<lb/>
+what a glutton for work! Working until 3 or 4 a.m.<lb/>
+when you are a sick man is very good cause for<lb/>
+Mrs Hench's &ldquo;anxious anger&rdquo; and Mrs. Kean says<lb/>
+to tell you that her sympathies are entirely with<lb/>
+Mrs. H. Take a lesson from your friend who select-<lb/>
+ed your hospitable home as a good place to<lb/>
+have a coronary occlusion and stop driving<lb/>
+when your sleep time comes. I who really am<lb/>
+loafing along now, have just got through with<lb/>
+a pleasant job (or I think I have) which has occu-<lb/>
+pied much of my time for the past year.<lb/>
+I am on a committee of the Commission listed above<lb/>
+which has been mulling over the question of the inscrip-<lb/>
+tions for the 4 great panels in the beautiful temple<lb/>
+for the National Memorial to Thomas Jefferson just<lb/>
+now approaching completion. Now that would seem<lb/>
+<pb n="2" id="f06306153"/>
+2.<lb/>
+to be a simple matter, but T. J. was interested in &amp; had a<lb/>
+hand in so many things and wrote so much that it<lb/>
+is difficult to decide what are preeminent enough to<lb/>
+find a place in these panels. Only his own words are to<lb/>
+be used and as the bronze letters will be 4&Prime; high<lb/>
+the architect only allows about 50 words for each<lb/>
+panel. So to arrive at a consensus of opinion<lb/>
+among 12 men from different parts of the country<lb/>
+and different shades of political opinions and more<lb/>
+than half of them lawyers has been some job. And<lb/>
+it has been arrived at largely by correspondence.<lb/>
+T. J. believed from his youth that all men should be<lb/>
+free <add>even tho. black men</add> though none of his prominent cotemporaries <del>were</del><lb/>
+thought so, or if they did, were <add>un-</add>willing to have their<lb/>
+belief put into practice. So when he proposed before<lb/>
+(1) the Revolution to prohibit <add>the</add> slave trade in Va. in 1774 it was<lb/>
+(2) defeated. He got this though the Va. Legislature in 1778.<lb/>
+(3) He wrote into the Declaration of Independence a denuncia-<lb/>
+tion of the King for supporting the slave trade. It was cut<lb/>
+out when Congress voted on the Declaration.<lb/>
+(4) He proposed in the Continental Congress in 1783 that<lb/>
+slavery be prohibited in the new territory west of<lb/>
+the Alleghanies. This was lost by <hi>one</hi> vote so far as<lb/>
+Allebama, Missippippi Tenesessee and Kentucky<lb/>
+were concerned. But he had the matter referred<lb/>
+to a committee to handle for the North-West<lb/>
+Territory, north of the Ohio, which Virginia gave to the<lb/>
+(5) Union and it was adopted (Forbidding Slavery) in 1787.
+<pb n="3" id="f06306154"/>
+J. R. K. to P. H. S. 10&sol;21&sol;41.<lb/>
+3<lb/>
+Abraham Lincoln in his debate with Douglas<lb/>
+at Columbus, O. in 1859 told his audience that<lb/>
+it was due to &ldquo;This same Mr. Jefferson&rdquo; that they<lb/>
+were living in free states. When the Constituition<lb/>
+was adopted in 1788 T. J. was in France as our<lb/>
+minister, so he did not get a chance to defeat<lb/>
+the carefully hidden <hi>joker</hi> in Art. I. Section 9, of that<lb/>
+document which prohibited Congress from interfer-<lb/>
+ing with the slave trade for 20 years. But when that<lb/>
+(6) time expired T. J. was President and he sent an<lb/>
+urgent message to Congress asking for the suppres-<lb/>
+sion of &ldquo; This execrable commerce&rdquo;. This was promptly<lb/>
+done and the next year he retired from political<lb/>
+life leaving to a future President fifty years later to<lb/>
+take up the fight against African Slavery.</p>
+<p>Now would you imagine that when I proposed<lb/>
+that one of the panels should state T.J.S attitude<lb/>
+towards slavery, I did not get at first a single<lb/>
+vote in favor of it! But I have been very tena-<lb/>
+cious and persistant and have finally won out.<lb/>
+I will send you the four panels when they are<lb/>
+published. They are not just as I would have them<lb/>
+but in a matter like this one cannot have every thing<lb/>
+his own way.</p>
+<p>Now why should I take up my whole letter with this<lb/>
+matter? in which probably you are not at all interested<lb/>
+<pb n="4" id="f06306155"/>
+J.R.K. to P.S.H. 10&sol;21&sol;41.<lb/>
+AC<lb/>
+K<lb/>
+4<lb/>
+altho you have the historical <del>much</del> sense much more<lb/>
+developed than most men. I am so much occupied<lb/>
+with <add>it</add> that when I got started I could not stop.<lb/>
+Gen. Ireland came in just after I started<lb/>
+to write this letter. He said he had a letter<lb/>
+from you and I Told him I could go him one<lb/>
+better. I had two from you yesterday in<lb/>
+the same mail, one from Rochester and the<lb/>
+other from New Orleans. We talked over<lb/>
+your suggestion, with which Dr. Hewitt agrees,<lb/>
+that Truby should first offer his memoir<lb/>
+to a publisher before asking the S.G. to print<lb/>
+it at Carlisle. We agree that it would be<lb/>
+better if Truby could be secured against being<lb/>
+involved in the expense of publication. He<lb/>
+should not be asked to under write it at all.<lb/>
+As Gen. Ireland said you probably did not<lb/>
+appreciate how close to the wind a retired<lb/>
+officer has to sail to avoid the rocks. Also<lb/>
+the S.G. can give it a some what restricted but<lb/>
+very interested circulation, by a free distribu-<lb/>
+tion to the Army Libraries and the Officers<lb/>
+of his Corps. He printed <del>printed</del> Col. L.C. Dun-<lb/>
+cau's fine work &ldquo;Medical Officers in the American<lb/>
+Revolution&rdquo; at Carlisle in this way, a <add>bound</add> volume of 414<lb/>
+pages <add>in 1931</add>. Duncans&rdquo; Medical Department of the<lb/>
+U. S. Army in the Civil War&rdquo; was printed by me<lb/>
+as a series of articles in the Military Surgeon<lb/>
+in 1912, &amp; 1913 and the S. G. bought them, reprinted<lb/>
+<pb n="5" id="f06306156"/>
+5<lb/>
+and bound in volumes of 355 pages of excellent<lb/>
+stuff. I am sorry to note that, on referring to this<lb/>
+volume to see the no. of pages, they are not remem-<lb/>
+bered. I do not suppose that these books could<lb/>
+be now obtained, unless at a second hand book<lb/>
+dealers. But the commercial publishers<lb/>
+do not keep their type and the unsold books<lb/>
+long either. We think that the matter of publi-<lb/>
+cation is for Truby to decide but he should be<lb/>
+warned again assuming any of the risks<lb/>
+of publication. That is the publisher's gamble.</p>
+<p>What a nice discriminating note of review that<lb/>
+of Dr. Hewitt was. I had a call sunday from<lb/>
+Dr. Carlos E. Finlay of Havana. He came up to<lb/>
+the meeting of the Public Health Association at<lb/>
+Atlantic City. He gets much like the old man<lb/>
+in appearance, voice and manner as he gets<lb/>
+older (he is 71 now) He has the same little hesita-<lb/>
+tion in his speech and articulates as if he had hot<lb/>
+mush in his month. He has also his fathers kindliness<lb/>
+of manner. He assures to be pleased with the<lb/>
+Conquerors of Yellow Fever but said that his prefer-<lb/>
+ence was for the smaller group which Cornwell<lb/>
+had in mind when he came to Cuba.</p>
+<p>I will make you up a bundle of old retained papers<lb/>
+&amp; send them by express, which is much cheaper<lb/>
+than 1<hi rend="superscript">st</hi>class mail when it gets to half a pound<lb/>
+or more. I take it that you are glad to get<lb/>
+autographs of men of mark - as Finlay, Gorgas &amp; Guiteras<lb/>
+<pb n="6" id="f06306157"/>
+AC<lb/>
+K<lb/>
+6<lb/>
+I am leaving it to you to do the throwing away<lb/>
+as you suggest, but how with all the things<lb/>
+you have in hand you will find time to look<lb/>
+at them I do not see.</p>
+<p>From your interesting note from N.D. I understand<lb/>
+that you think <add>or Dr. Matas thinks</add> Agramonte proposed the visit to<lb/>
+Dr. Finlay <hi>after</hi> the first series of experiments<lb/>
+at the Columbia Bks Hospital failed, but I have<lb/>
+always understood that Reed went to see Finlay<lb/>
+<hi>before</hi> any efforts were made to infect mosqui-<lb/>
+toes. Reed states definitely that the experiments<lb/>
+were made with mosquitos hatched from the ova<lb/>
+which Dr. Finlay gave him. He left about Aug 1<hi rend="superscript">st</hi><lb/>
+and the first series of experiments was began<lb/>
+by Lazear or Aug. 11<hi rend="superscript">th</hi>. I am returning your<lb/>
+letter so you can see what I am talking<lb/>
+about. I could not make out the word<lb/>
+that I have drawn my pencil around.<lb/>
+This has been a much interrupted letter<lb/>
+and please excuse the excustion about<lb/>
+T.J. and slavery if it does not interest you<lb/>
+I hope you were well by the time you return-<lb/>
+ed home and had caught up on sleep.<lb/>
+I find the Proceedings of the Mayo Staff meetings<lb/>
+very interesting.</p>
+<closer>
+<salute>Yours very Sincerely</salute>
+<signed>J. R. Kean</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03906012">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from James M. Barnett to Dept. of Literary and Library Research, Mayo Clinic, January 5, 1942</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Barnett, James M.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03906012</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1942-01-05</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Hench, Philip Showalter</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+
+<name type="person">Reed, Walter</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1942-01-05">January 5, 1942</date>
+<idno rend="suppress">03906012</idno>
+<title>Letter from James M. Barnett to Dept. of Literary and Library Research, Mayo Clinic, January 5, 1942</title>
+</bibl>
+</head>
+<p>Barnett sends Hench some reprints, noting that Reed inspired Barnett's own work in the field of malaria research.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1942-01-05">
+<head>Letter from James M. Barnett to Dept. of Literary and Library Research, Mayo Clinic, January 5, 1942</head>
+<pb n="1" id="f03906012"/>
+<opener>
+DR. JAMES M. BARNETT<lb/>
+ALBANY, GA.<lb/>
+<dateline>
+Albany, Ga.,<lb/>
+<date value="1942-01-05">January 5, 1942.</date>
+</dateline>
+Mayo Clinic,<lb/>
+Department of Literary &amp; Library Research,<lb/>
+Rochester, Minn.<lb/>
+</opener>
+<p>I am mailing you under separate<lb/>
+cover, copies of Reprints on malarial control which may<lb/>
+prove interesting to Dr. Hench.</p>
+<p>Having reviewed recently, his article<lb/>
+on Yellow Fever in the &ldquo;Proceedings,&rdquo; lead me to believe<lb/>
+that these Reprints should be of some interest to him.</p>
+<p>My work in malarial control in 1902,<lb/>
+was inspired by Major Reed, while in a conference with him<lb/>
+in Washington in 1902, when he came back from Cuba on a<lb/>
+rest period and returned in a few weeks thereafter to<lb/>
+rejoin his coworkers.</p>
+<closer>
+<salute>Very cordially yours,</salute>
+<signed><hi>J. M. Burnett</hi></signed>
+JMB:jm.<lb/>
+Dr. Hench: I think this letter is self-<lb/>
+explanatory. The reprints are enclosed<lb/>
+and have been acknowledged.<lb/>
+Frida Pliefke, Librarian<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

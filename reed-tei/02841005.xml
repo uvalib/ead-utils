@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02841005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report to the Surgeon General, by James Carroll, August 18, 1906</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carroll, James</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02841005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1906-08-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Maass, Clara Louise</name>
+<name type="person">Havard, Valery</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Wasdin, Eugene</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Ross, John W.</name>
+<name type="person">Rosenau, M. J.</name>
+<name type="person">Geddings, Henry Downes</name>
+<name type="place">Havana (Cuba)</name>
+<name type="hospital">Las Animas Hospital (Havana)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>9 pp.</extent>
+<date value="1906-08-18">August 18, 1906</date>
+<idno rend="suppress">02841005</idno>
+<title>Report to the Surgeon General, by James Carroll, August 18, 1906</title>
+</bibl>
+</head>
+<p>Carroll gives a detailed report about his involvement with the yellow fever project in Cuba and the necessity of having human volunteers. He also provides a listing of his publications. Included are notes by Truby. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1906-08-18">
+<head>Report to the Surgeon General, by James Carroll, August 18, 1906</head>
+<pb n="1" id="f02841005"/>
+<opener>
+OFFICE OF SURGEON GENERAL<lb/>
+<unclear>[unclear]</unclear><lb/>
+No.1<lb/>
+Z<lb/>
+19928<lb/>
+<unclear>1906</unclear><lb/>
+WAR DEPARTMENT<lb/>
+Army Medical Museum,<lb/>
+Washington,<lb/>
+August 18, 1906.<lb/>
+<lb/>
+1 Lieut. James Carroll,<lb/>
+Asst Surgeon, U. S. A.,<lb/>
+Curator.<lb/>
+<lb/>
+Makes detailed report<lb/>
+of his connection with<lb/>
+the board convened on the<lb/>
+Island of Cuba for the in-<lb/>
+vestigation of yellow fever.<lb/>
+(17 enclosures)<lb/>
+<lb/>
+File with<lb/>
+memo for the Presi-<lb/>
+dent-<lb/>
+<unclear>[unclear]</unclear><lb/>
+1-<lb/>
+<pb n="2" id="f02841006"/>
+WAR DEPARTMENT,<lb/>
+OFFICE OF THE SURGEON GENERAL,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<dateline>
+<date value="1906-08-18">August 18, 1906.</date>
+</dateline><lb/>
+To the<lb/>
+Surgeon General, U. S. Army.<lb/>
+<salute>Sir:-</salute>
+</opener>
+<p>In accordance with the desire of the Surgeon General,<lb/>
+expressed in letter of August 17, 1906, I have the honor to submit<lb/>
+the following statement:</p>
+<p>In July, 1897, I was assigned with Major Reed to the work<lb/>
+of studying and reporting upon Sternberg's Bacillus X, and in Sept-<lb/>
+ember we were given a culture of Sanarelli's Bacillus icteroides which<lb/>
+he had reported to be the cause of yellow fever. At this time I was<lb/>
+on duty at the Army Medical School, assisting Major Reed. I held the<lb/>
+grade of Hospital Steward, was a graduate in medicine and had spent<lb/>
+about five years in bacteriological and pathological work exclusively<lb/>
+after having taken special post graduate courses in those subjects at<lb/>
+the Johns Hopkins.</p>
+<p>Our first publication was A Preliminary Note (see enclosure<lb/>
+A, from The Medical News, New York, April 20, 1899) in which the striking<lb/>
+resemblances between Bacillus icteroides of Sanarelli and the Bog Cholera<lb/>
+bacillus were brought out. This called forth contradiction from Prof.<lb/>
+Sanarelli (Medical News, N. Y., August 12, 1899), to which a reply was<lb/>
+made after additional work confirming our first opinion (see enclosure<lb/>
+B, A Reply to Dr. G. Sanarelli, Medical News, N. Y., Sept. 9, 1899.).<lb/>
+<pb n="3" id="f02841007"/>
+-- 2 --<lb/>
+The work was continued, with many interruptions incident to the<lb/>
+Spanish American War, and the final and decisive report was com-<lb/>
+pleted in February, 1900, and published in the Journal of Experi-<lb/>
+mental Medicine in December of that year. (Copy marked enclosure C).<lb/>
+In the mean time the claims of Sanarelli for Bacillus icteroides as<lb/>
+the specific cause of yellow fever were sustained by several inves-<lb/>
+tigators, among the most important of whom were Drs. Wasdin and Ged-<lb/>
+dings of the Marine Hospital Service, who, in an elaborate and sensa-<lb/>
+tional report of almost 100 pages, pronounced B. icteroides the cause<lb/>
+of yellow fever and claimed to be able to infect dogs, monkeys, rabbits,<lb/>
+mice and other animals with yellow fever by inoculations with it.</p>
+<p>Such was the status of the question when, in May, 1900, on the<lb/>
+recommendation of Surgeon General Sternberg, an order was issued con-<lb/>
+vening a board of Army Medical Officers on the Island of Cuba for the<lb/>
+investigation of yellow fever, which was at that time epidemic in<lb/>
+Havana. Major Reed and the undersigned sailed from the United States,<lb/>
+reaching Havana June 25, 1900, and the board, which consisted of Major<lb/>
+Walter Reed, Surgeon, Drs. James Carroll, Jesse W. Lazear and Aristides<lb/>
+Agramonte, was convened on the following day in obedience to Par. 34,<lb/>
+S. O. 22, A. G. O., May 24, 1900. Work was begun immediately and<lb/>
+after a careful study of 18 cases of yellow fever with failure to dis-<lb/>
+cover a single specimen of Bacillus icteroides the result was regarded<lb/>
+as conclusive evidence that B. icteroides was <hi>not</hi> the cause of yellow<lb/>
+fever.</p>
+<pb n="4" id="f02841008"/>
+<p>-- 3 --</p>
+<p>Early in the month of August it was decided to test the mosquito<lb/>
+theory advanced by Dr. Finlay, and since man is the only animal known<lb/>
+to suffer from yellow fever, there was no alternative but to make the<lb/>
+tests upon human beings. The question arose of the tremendous respons-<lb/>
+ibility of such an undertaking which could only be justified by the<lb/>
+enormous saving of life that would follow the establishment of the theory,<lb/>
+even should one or several lives be sacrificed in the course of the work.<lb/>
+The best atonement we could offer for endangering the lives of others was<lb/>
+to take the same chances ourselves, and it was agreed by Dr. Reed, Dr.<lb/>
+Lazear and myself that experiments should be undertaken and that we would<lb/>
+all be bitten by contaminated mosquitoes. <hi>Dr. Agramonte was kept in en-<lb/>
+tire ignorance of this part of the work by direction of Major Reed, as I<lb/>
+have written evidence to show, until after the first set of experiments<lb/>
+was completed and the report of them compiled for publication</hi>. Dr. Reed<lb/>
+left for the United States about August <hi>fourth</hi><unclear><add>2<hi rend="superscript">d</hi></add></unclear>, 1900, and the experiments<lb/>
+were begun by Dr. Lazear, the only member of the board who had had any<lb/>
+previous experience with mosquitoes. It was my part to continue the<lb/>
+bacteriological investigations as before. After nine unsuccessful at-<lb/>
+tempts to inoculate persons, including himself and one other medical of-<lb/>
+ficer, Acting Assistant Surgeon Pinto, <hi>Dr. Lazear</hi> succeeded in infecting<lb/>
+me with a single mosquito applied <hi>July</hi><add>August</add> 27th, 1900, and upon the day that<lb/>
+I was taken sick, <hi>July</hi><add>August</add> 31st, <hi>he</hi> applied the same insect, with others, to<lb/>
+a soldier, who after six days was down with yellow fever. On Sept. 13th<lb/>
+Dr. Lazear himself was bitten by a stray mosquito in Las Animas Hospital;<lb/>
+AET<lb/>
+<pb n="5" id="f02841009"/>
+- 4 --<lb/>
+he sickened Sept. 18th and died Sept. 25th, 1900, a martyr to the cause.<lb/>
+<hi>Major Reed returned Oct. 1st<add> 4</add>, 1900, wrote the report</hi> and presented it<lb/>
+at Indianapolis Oct. 22-26, 1900. (See The Etiology of Yellow Fever, A<lb/>
+Preliminary Note, Proceedings of The American Public Health Association,<lb/>
+meeting held in October 1900, copy marked D enclosed). I left Cuba for<lb/>
+the United States about October 11th, 1900, on sick leave for one month,<lb/>
+to recuperate, and returning about Nov. 11th took charge of the infected<lb/>
+mosquitoes used in subsequent experiments, participating in the general<lb/>
+work and devoting special attention to the microscopic study of the blood<lb/>
+of cases of yellow fever. The results obtained at Havana up to March<lb/>
+1st, 1901, were reported in the Journal of the American Medical Associa-<lb/>
+tion, Feb. 16, 1901 (enclosure E) and in American Medicine July 6, 1901<lb/>
+enclosure F). Dr. Agramonte was relieved from the board early in the<lb/>
+summer of 1901.</p>
+<p>In the beginning of August, 1901, the undersigned returned<lb/>
+to Cuba, under orders, alone, for the purpose of making certain experi-<lb/>
+ments bearing upon the causative agent of yellow fever. Dr. John<lb/>
+Guiteras, of Havana, had made unsuccessful attempts at inoculation<lb/>
+throughout the summer and his first case was taken sick on the day<lb/>
+of my arrival. This was followed by six other experimental cases,<lb/>
+among them Miss Maas, an American woman nurse, who, with two others<lb/>
+of the seven, died. Dr. Guiteras declined to permit me to use his<lb/>
+cases for my work, and after the conclusion of his work I obtained<lb/>
+some of his infected mosquitoes through the courtesy of Col. Havard,<lb/>
+Chief Surgeon, and proceeded to inoculate. The experiments were<lb/>
+<pb n="6" id="f02841010"/>
+-- 5 --<lb/>
+brought to a successful conclusion after the inoculation of six per-<lb/>
+sons with yellow fever, all of whom recovered. In this work it was<lb/>
+shown for the first time that the specific cause of yellow fever was<lb/>
+sufficiently minute to pass through a new Barkefeld filter capable of<lb/>
+holding back the smallest of the ordinary known bacteria, and it was<lb/>
+further shown, for the first time, that the infectious power of yellow<lb/>
+fever blood was completely destroyed by a temperature of 55&deg;C. (See<lb/>
+enclosure G, from American Medicine, Feb. 22, 1902.). These results,<lb/>
+as well as the other findings of the board, were all confirmed in the<lb/>
+following year by Messrs. Marchoux, Salimbeni and Simond, a commission<lb/>
+from the Pasteur Institute at Paris, who were working in Brazil. The<lb/>
+accompanying photograph of a cartoon, <add>(Enclosure J)</add> with Dr. Ross as the central figure,<lb/>
+taken from a daily paper, shows the state of public feeling in Havana<lb/>
+after the death of Dr. Guiteras' cases and before my first case was in-<lb/>
+oculated. It is worthy of note that this work was begun by me against<lb/>
+the protests of Dr. John Guiteras and Dr. Charles Finlay of Havana, and<lb/>
+of Dr. Ross, U. S. Navy, retired, then Director of Las Animas Hospital,<lb/>
+where I was quartered. I was convinced that with selected individuals,<lb/>
+properly treated, the work could be done with comparative safety. I wish<lb/>
+to make acknowledgment here of the strong and cordial support accorded<lb/>
+me by Col. Valery Havard, the Chief Surgeon, and without which the re-<lb/>
+sults could not have been accomplished.</p>
+<p>Through the courtesy of Dr. Gorgas I enjoyed the privilege<lb/>
+on this occasion of making a post mortem examination of the first fatal<lb/>
+<pb n="7" id="f02841011"/>
+-- 6 --<lb/>
+case of Dr. Guiteras' series, and was thus able to show that the<lb/>
+lesions present in the experimental cases were identical with those<lb/>
+found in naturally infected cases of yellow fever.</p>
+<p>In March, 1903, there was issued from the Yellow Fever In-<lb/>
+stitute of the U. S. Public Health and Marine Hospital Service the<lb/>
+report of a commission of medical officers entitled Working Party<lb/>
+No. 1, who described a protozoanparasite found in infected yellow<lb/>
+fever mosquitoes and which they regarded as of importance in connec-<lb/>
+tion with the disease (see page 31 of the report). In October of<lb/>
+the same year the undersigned reported before the meeting of the<lb/>
+American Public Health Association at Washington, D. C., that the<lb/>
+supposed protozoan parasites were yeast cells derived from the bananas<lb/>
+upon which they had been fed and proved it by demonstrating these bodies<lb/>
+in a number of mosquitoes by feeding to them pure cultures of yeast<lb/>
+isolated from bananas. <add>(See enclosure <unclear>H</unclear> and enclosure M.)</add> These results were gracefully and frankly<lb/>
+acknowledged by Dr. M. J. Rosenan, of the same service, in 1904. (See<lb/>
+page 1 of Bulletin No. 14 of the Yellow Fever Institute, the report<lb/>
+of Working Party No. 2, U. S. Public Health and Marine Hospital Service,<lb/>
+Washington, May 1904, enclosure I.).</p>
+<p>The following publications on the subject of yellow fever have<lb/>
+been written by me apart from the conjoint publications of the Army<lb/>
+Board, viz:-</p>
+<p>1. The Treatment of Yellow Fever, Journal of the American<lb/>
+Medical Association, July 19, 1902, enclosure K.</p>
+<pb n="8" id="f02841012"/>
+<p>-- 7 --</p>
+<p>2. The Transmission of Yellow Fever, - ibid May 23, 1903, encl. L.</p>
+<p>3. The Etiology of Yellow Fever, an addendum, - ibid November 28,<lb/>
+1903, enclosure M.</p>
+<p>4. Yellow Fever, A Popular Lecture, American Medicine, June 3,<lb/>
+1905, enclosure N.</p>
+<p>5. Lessons to be Learned from the Present Outbreak of Yellow Fever.<lb/>
+Journal of The American Medical Association, Oct. 7, 1905.<lb/>
+enclosure O.</p>
+<p>6. Without Mosquitoes there can be no Yellow Fever. American<lb/>
+Medicine, March 17, 1906. Enclosure P.</p>
+<p>7. Article on Yellow Fever. Mense's Handbuch der Tropenkrankheiten,<lb/>
+Vol. II, Leipzig, 1905.</p>
+<p>8. Article on Yellow Fever. System of Medicine, Wm. Osler, Not yet<lb/>
+published.</p>
+<p>I may be pardoned if I refer with pride to the following com-<lb/>
+ments of eminent professional men:-</p>
+<p>President's address before the American Public Health Association<lb/>
+at New Orleans, La., 1902. Proceedings Amer. Pub. Health Ass'n., Vol. XXVIII,<lb/>
+Columbus, Ohio, 1903, pages 2 and 3.</p>
+<p>President's address before the same association in 1905. See Pro-<lb/>
+ceedings of the American Public Health Association at the meeting at Havana,<lb/>
+Vol. XXX, 1905, page 1.</p>
+<p>Report of Proceedings of the National Legislative Council of the<lb/>
+American Medical Association at the meeting held in Washington January<lb/>
+9-11, 1906. Journal of the American Medical Association, Jan. 20, 1906,<lb/>
+page 216, copy enclosed marked enclosure Q.</p>
+<p>Attention is respectfully invited to my description in the first<lb/>
+paragraph on page 18 of the paper on The Treatment of Yellow Fever, in<lb/>
+<pb n="9" id="f02841013"/>
+-- 8 --<lb/>
+which I described a paroxysm suffered during the course of my<lb/>
+attack of yellow fever, and which I now believe to have been one<lb/>
+of acute cardiac dilatation. As a matter of fact I am now hampered<lb/>
+by a pronounced mitral regurgitation, on account of which I have been<lb/>
+cautioned by several physicians, including Dr. Thayer of Baltimore,<lb/>
+to go slow and be careful.</p>
+<closer>
+<salute>Very respectfully,<lb/>
+Your obedient servant,</salute>
+<signed>James Carroll</signed>
+1st Lieut. &amp; Asst. Surgeon, U. S. Army.<lb/>
+Curator, Army Medical Museum.<lb/>
+(17 enclosures.)<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

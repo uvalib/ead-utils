@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00931025">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Michael E. Connor to Henry Rose Carter, May 30, 1922</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Connor, Michael E.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00931025</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1922-05-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Carter, Henry Rose</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Caldwell, Bert W.</name>
+<name type="person">White, Joseph H.</name>
+<name type="person">Rose, Wickliffe</name>
+<name type="person">Walcott, Alan</name>
+<name type="place">Peru</name>
+<name type="place">Tuxtepec (Mexico)</name>
+<name type="place">Tampico (Mexico)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>3 pp.</extent>
+<date value="1922-05-30">May 30, 1922</date>
+<idno rend="suppress">00931025</idno>
+<title>Letter from Michael E. Connor to Henry Rose Carter, May 30, 1922</title>
+</bibl>
+</head>
+<p>Connor discusses field work and a difficult case, in San Cristobal.  Connor is worried that yellow fever's demise in Peru will be announced too soon.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1922-05-30">
+<head>Letter from Michael E. Connor to Henry Rose Carter, May 30, 1922</head>
+<pb n="1" id="f00931025"/>
+<opener>
+PODER EJECUTIVO FEDERAL<lb/>
+MEXICO<lb/>
+<unclear>ESTADOS UNIDOS MEXICANOS</unclear><lb/>
+DEPARTAMENTO<lb/>
+DE<lb/>
+SALUBRIDAD PUBLICA<lb/>
+----<lb/>
+COMISION ESPECIAL PARA LA CAMPA&Ntilde;A<lb/>
+CONTRA LA FIEBRE AMARILLA<lb/>
+----<lb/>
+DIRECTOR:<lb/>
+Dr. Teodoro C. Lyster<lb/>
+SUBDIRECTOR:<lb/>
+Dr. Angel <unclear>Brioss Vascencelos.</unclear><lb/>
+VOCALES:<lb/>
+Dr. Enrique <unclear>Onornio.</unclear><lb/>
+Dr. Emmel I. <unclear>Vaughn.</unclear><lb/>
+Dr. Bert W. <unclear>Caldwell.</unclear><lb/>
+Dr. M. E. Connor.<lb/>
+Dr. F. Castillo <unclear>Najera.</unclear><lb/>
+<dateline>
+Vera Cruz. <date value="1922-05-30">May 30/22</date>
+</dateline>
+<salute>My dear Doctor Carter:-</salute>
+</opener>
+<p>I have your letter of May 15<hi rend="superscript">th</hi><lb/>
+with enclosures- Am returning copy of letter<lb/>
+to Caldwell- The copy you sent me some-<lb/>
+time ago came OK. The San Cristobal<lb/>
+case was in all probability not a case-<lb/>
+altho - Caldwell maintains it was-</p>
+<p>I have just completed an inspection<lb/>
+with Caldwell of the <unclear>Papalaupan Valley</unclear> and come<lb/>
+with the impression that Tuxtepec had been the<lb/>
+endemic center here in recent years and will<lb/>
+so report to Dr. White. The early work of this<lb/>
+campaign failed in that it did not make an<lb/>
+epidemiological survey - had this been - the<lb/>
+area would be clean long ago - as it is I believe<lb/>
+it is clean but am not justified in making<lb/>
+a <unclear>positive</unclear> statement- The next few months will<lb/>
+tell the tale. Caldwell is now sweeping the<lb/>
+Valley and I hope will do it <del>at</del> five times,<lb/>
+from Alvarado to Tuxtepec, then to <unclear>Ojetelan</unclear><lb/>
+after which comes the mountains.</p>
+<pb n="2" id="f00931026"/>
+<p><hi>2</hi><lb/>
+PODER EJECUTIVO FEDERAL<lb/>
+MEXICO<lb/>
+<unclear>ESTADOS UNIDOS MEXICANOS</unclear></p>
+<p>DEPARTAMENTO<lb/>
+DE<lb/>
+SALUBRIDAD PUBLICA<lb/>
+----<lb/>
+COMISION ESPECIAL PARA LA CAMPA&Ntilde;A<lb/>
+CONTRA LA FIEBRE AMARILLA<lb/>
+----<lb/>
+DIRECTOR:<lb/>
+Dr. Teodoro C. Lyster<lb/>
+SUBDIRECTOR:<lb/>
+Dr. Angel <unclear>Brioss Vascencelos.</unclear><lb/>
+VOCALES:<lb/>
+Dr. Enrique <unclear>Onornio.</unclear><lb/>
+Dr. Emmel I. <unclear>Vaughn.</unclear><lb/>
+Dr. Bert W. <unclear>Caldwell.</unclear><lb/>
+Dr. M. E. Connor.<lb/>
+Dr. F. Castillo <unclear>Najera.</unclear></p>
+<p>I think I wrote you that we are<lb/>
+stopping work in Tampico area<lb/>
+on July 1<hi rend="superscript">st</hi> - my own thoughts are<lb/>
+that this can be safely done and<lb/>
+Dr. White agrees with me-</p>
+<p>Your principle of the &ldquo;failure of the human<lb/>
+host&rdquo; has made it possible to<lb/>
+hold out encouragement for success<lb/>
+in this world campaign, and to those<lb/>
+workers in the y.f. field who understand what<lb/>
+is meant by &ldquo;failure of the human host&rdquo; it has<lb/>
+been of the greatest aid in shaping their work.<lb/>
+To much credit can not be given you for<lb/>
+formulating this principal.</p>
+<p>Dr. Rose writes that the work in Peru will<lb/>
+close July 1<hi rend="superscript">st</hi> - but I hope the Board will not<lb/>
+make an announcement that y. f. is out<lb/>
+but rather announce that the last case occured<lb/>
+on such and such a date- The Salvador<lb/>
+experience was costly and was arrived at<lb/>
+<del>on</del> without a careful study of conditions<lb/>
+there. The African trip may take place<lb/>
+sometime this year, a laboratory man<lb/>
+is still lacking - when conditions here permit<lb/>
+the expidetion could go forward with one<lb/>
+laboratory man and the other come out<lb/>
+when trained- Dr. Rose seems very well impressed<lb/>
+<pb n="3" id="f00931027"/>
+<unclear>C1<lb/>
+B22</unclear><lb/>
+<hi>3</hi><lb/>
+<unclear>with</unclear> your recommendation of Walcott and he<lb/>
+will probably be made a member-</p>
+<p>We look for Dr. White here about the middle<lb/>
+of June-</p>
+<closer>
+<salute>With sincere good wishes to you and<lb/>
+your-</salute>
+<signed>M E Connor</signed>.
+<seg>
+P. S. <unclear>Pasconcellos</unclear> says that &ldquo;<unclear>Faetida</unclear>&rdquo; grows in this county. He sent<lb/>
+us <unclear>some</unclear> to Merida, but it seemingly died on the way the<lb/>
+water in which it was sent <del><unclear>was</unclear></del> became <unclear>putrid</unclear>- It may be<lb/>
+<del><unclear>OK</unclear></del> <unclear>or for</unclear> field work but more work must be done before it<lb/>
+can be recommended for house receptacles-<lb/>
+<unclear>MEC</unclear><lb/>
+</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

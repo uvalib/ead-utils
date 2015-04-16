@@ -1,0 +1,736 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAGA0200">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report of the Executive Officer of the Sanitary Department, by Jose A. Lopez del Valle, October 31, 1907</title>
+<title type="gmd">[electronic resource]</title>
+<author>Lopez del Valle, Jose A.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGA0200</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1907-10-31</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>15 pp.</extent>
+<date value="1907-10-31">October 31, 1907</date>
+<idno rend="suppress">KAGA0200</idno>
+<title>Report of the Executive Officer of the Sanitary Department, by Jose A. Lopez del Valle, October 31, 1907</title>
+</bibl>
+</head>
+<p>Lopez del Valle reports on the duties of the National Sanitary Board, which required all the local sanitary offices to submit to new rules of operation. He goes into great detail about all the various sanitary methods used throughout Cuba. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1907-10-31">
+<head>Report of the Executive Officer of the Sanitary Department, by Jose A. Lopez del Valle, October 31, 1907</head>
+<pb n="1" id="fKAGA0200"/>
+<p>REPORT</p>
+<p>OF EXECUTIVE OFFICER OF THE SANITARY DEPARTMENT.</p>
+<p><hi rend="italic">Habana, October 31, 1907</hi>.</p>
+<p>MR. CHIEF SANITARY OFFICER.</p>
+<p>SIR:</p>
+<p>Complying with your request, I have the honor to submit to<lb/>
+you, attached hereto, a statement of the work done in the many<lb/>
+and different transactions of the National Board of Health, and<lb/>
+of the office of the Local Sanitary Officer, since the 1st. day of<lb/>
+October 1906, until the 30th of June 1907, and from the 1st of<lb/>
+July until the 30th of October of the present year.</p>
+<p>It is my duty to call your attention to the extraordinary<lb/>
+amount of labor involved in each one of these transactions, as is<lb/>
+evidenced in the detailed statement concerning each of them,<lb/>
+and which accompany this report.</p>
+<p>The Provisional Government on establishing in the first ins-<lb/>
+tance, and afterward in nationalizing the Sanitary Service, by<lb/>
+Decree No. 894 of August 26th of the present year, endowed<lb/>
+the Sanitary Department with many beneficent influences which<lb/>
+are rapidly placing it in a position to fill completely all of the<lb/>
+requirements of the high mission with which it is charged.</p>
+<p>I must inform you that all of the work now done by the<lb/>
+transactions of the National Sanitary Board, belonged to the<lb/>
+Superior Board of Health until the 26th day of August, when<lb/>
+it was abolished by reason of the provisions of said Decree (894).</p>
+<p>The transaction of municipal affairs which the Local Boards<lb/>
+of Health had in charge and which at present has been trans-<lb/>
+ferred to the charge of the Local Sanitary Officers, has made<lb/>
+necessary the realization of a great work, as the new Sanitary<lb/>
+organization had to completely modify that part which referred<lb/>
+to economic conditions, as these officers before the issuance of<lb/>
+Decree No. 894 were dependent upon the Ayuntamientos and<lb/>
+<pb n="2" id="fKAGA0210"/>
+474<lb/>
+are now direct functions of the State, to which they have to<lb/>
+render their accounts, and to which they have also present detail-<lb/>
+ed reports in conformity with the regulations in force. In or-<lb/>
+der to give uniformity to the service and to endeavor in every<lb/>
+event to establish harmony and the most perfect concert among<lb/>
+the different organizations which constitute the National Sani-<lb/>
+tary Board, this Office, by means of circulars, copies of which ac-<lb/>
+company this report, has since the beginning of the new organi-<lb/>
+zation been instructing the Local Sanitary Officers, not only con-<lb/>
+cerning the working of the scientific order they should follow,<lb/>
+but also making them understand the rules to which they should<lb/>
+adjust themselves in reference to economic conditions. Up to<lb/>
+the present day 16 circulars have been made, all of them tend-<lb/>
+ing to the proper progress, the uniformity and the regulariza-<lb/>
+tion of the service, endeavoring always to instruct the Local<lb/>
+Sanitary Officers how to carry out their allotted duties in a<lb/>
+conscientious and efficient manner. Notwithstanding the ra-<lb/>
+dical change occasioned by Decree No. 894, it can be said in a<lb/>
+general way, and for the satisfaction of the Local Sanitary Of-<lb/>
+ficers, that there have been no errors nor trouble in the practice<lb/>
+of the new Sanitary Regulations, but on the contrary, these<lb/>
+have been followed since the first moment with all regularity.<lb/>
+To-day we have the local offices already perfectly organized with<lb/>
+the exception of some few, which in a short time will be working<lb/>
+with all regularity.</p>
+<p>For the transaction of municipal affairs under the imme-<lb/>
+diate direction of this Office, it was necessary to notify the Local<lb/>
+Offices that each one should submit, in accordance with the pro-<lb/>
+per classification, a detailed estimate of their expenses, in order<lb/>
+to regulate in a stable and permanent manner the expenses of<lb/>
+these organizations, and these estimates have to be duly revised<lb/>
+in order that no partiality or preference be noted and that there<lb/>
+should be an equitative division for personnel and material.</p>
+<p>In some localities it has been necessary to designate a sum<lb/>
+to defray the expenses for rent of houses in which to install the<lb/>
+offices, warehouses and stables of the Sanitary Service. In this<lb/>
+matter, it has been sought to find a standard, in order that the<lb/>
+estimates may not be overloaded with expenses of this nature.</p>
+<p>And to this which end, there has been established although<lb/>
+not in an arbitrary manner, a scale of prices for the rent of<lb/>
+<pb n="3" id="fKAGA0220"/>
+475<lb/>
+houses destined for offices for the Sanitary Service, according<lb/>
+to the class to which each office belongs.</p>
+<p>For Class A, for instance, the maximum rent has been $12,<lb/>
+except in special cases, in which larger sums have been authoriz-<lb/>
+ed. A similar rule had to be established with regard to em-<lb/>
+ployees; making a scale for each office, according to the class to<lb/>
+which it belonged; thus, for example, to those of Class A, only<lb/>
+five workmen were allowed; to those of Class B, up to eleven<lb/>
+(11); to those of Class C, up to 18; to those of Class D, up to 26;<lb/>
+to those of Class E up to 48; and to those of classes above that<lb/>
+grade, that is to say, to those of Classes F, G and H, the number<lb/>
+was fixed by consultation, to be fixed by the National Sanitary<lb/>
+Board special estimates in which was determined the number,<lb/>
+employ, class, salary of each employee, and the organization<lb/>
+which should be given to the office under his charge, obtaining<lb/>
+by this means the necessary harmony between what was alloct-<lb/>
+ed for the personnel and the material, without overcharging in<lb/>
+an inequitable manner one or the other item.</p>
+<p>For the purpose of obtaining a guarantee of the purity of<lb/>
+the disinfecting materials, as well as the greatest economy in ac-<lb/>
+quiring them, it had to be arranged that the materials for disin-<lb/>
+fection would be obtained in Havana, in order to send them<lb/>
+later to the Local Health Offices, to which effect, these depen-<lb/>
+dencies ought to leave as they now do, the sums designated in<lb/>
+their estimates, for this reason, at the disposition of the Pay-<lb/>
+master of the National Sanitary Department. In this office, and<lb/>
+by the department of Payments and Purchases, an account cur-<lb/>
+rent has been opened with each Local Health Office, in order to<lb/>
+acquire these materials for disinfection, on account of the<lb/>
+amount designated for that purpose by each one of them.</p>
+<p>The appointment of official Paymasters for Local Health<lb/>
+Offices was decided upon for the purpose of designating one for<lb/>
+each province, or for each group of neighboring municipalities--<lb/>
+designating for such positions administrators of Fiscal Trea-<lb/>
+suries, Paymasters of Custom Houses etc., by which means, not<lb/>
+only was great economy for the State brought about, but also<lb/>
+the inestimate advantage of being able to count upon individuals<lb/>
+well prepared on such economic questions.</p>
+<p>By means of circulars and communications with the Local<lb/>
+Sanitary Officers, and with the Paymasters, these officials were<lb/>
+instructed as to the estimates of each Local Health Office and<lb/>
+<pb n="4" id="fKAGA0230"/>
+476<lb/>
+the extraordinary payments they were authorized to make for<lb/>
+urgent needs.</p>
+<p>The despatch of general business matters has been charac-<lb/>
+terized by promptness in the multitudinous affairs within its<lb/>
+province, that is to say, the answers to consultations which are<lb/>
+sought for by Local Sanitary Officers concerning particulars of<lb/>
+a sanitary nature; the correspondence with the general public<lb/>
+in respect to these same particulars, and in a word, the despatch<lb/>
+of all those varied matters which are not included in other<lb/>
+transactions under their proper classifications--matters which<lb/>
+clearly belong to such classification.</p>
+<p>The Division of General (Sanitary) Statistics, which em-<lb/>
+braces the whole Island, has published during the time herein-<lb/>
+before mentioned fourteen (14) Sanitary Reports and monthly<lb/>
+statements, and two Annual Reports. Moreover, it has taken<lb/>
+care of the Register of Births, Marriages, Still-born and Deaths,<lb/>
+in the whole Republic during this time, having also taken charge<lb/>
+of the furnishing of forms for the physicians and Judges of the<lb/>
+Island, and has maintained a daily correspondence with the<lb/>
+Courts and Local Sanitary establishments--demanding data at<lb/>
+times, asking explanations at other times and always acknow-<lb/>
+ledging receipt of their communications.</p>
+<p>By the general vaccination office of the Island of Cuba,<lb/>
+which works in an independent manner but under the supervi-<lb/>
+sion of the National Sanitary Board, 118 vaccinations have been<lb/>
+made; 2768 tubes of vaccine virus have been prepared, 11,982 of<lb/>
+these tubes having been distributed among the different muni-<lb/>
+cipal districts. Besides, 3,165 tasks, all pertaining to vaccina-<lb/>
+tion, have been realized.</p>
+<p>The Committee on Glanders having been dissolved, as it did<lb/>
+not meet the requirements for which it was established, it was<lb/>
+decided that veterinary services must depend upon this Nation-<lb/>
+al Department, and by that branch of the service 1,152 inspec-<lb/>
+tions of stables were made, in which 17,515 horses were examin-<lb/>
+ed, of which number the existence of glanders was proved in 31<lb/>
+of them, and for which reason, they were killed.</p>
+<p>In order to duly provide temporary assistants on urgent oc-<lb/>
+casions caused by the yellow fever to be sent to different places,<lb/>
+the division of temporary employees has been organized, which<lb/>
+takes account of laborers, overseers and inspectors who serve in<lb/>
+the different towns of the Island, and adjusts the accounts of<lb/>
+each employee, taking care, as well, of their subsistence.<lb/>
+<pb n="5" id="fKAGA0240"/>
+477<lb/>
+Through the division of purchases and equipment, acquisition<lb/>
+has been made of the equipment for Local Health Offices and<lb/>
+the rolling stock transportation for the use of same. The acqui-<lb/>
+sition of all articles being made by public bill auction, duly an-<lb/>
+nounced in the Official Gazette and in Local Newspaper having<lb/>
+the largest circulation. These purchases auction have taken<lb/>
+place on the 18th and 26th of September; and for the purpose<lb/>
+aforesaid, 225 mules have been acquired, together with the fol-<lb/>
+lowing material and equipment: 225 garbage carts, 1800 brooms,<lb/>
+15 sprinkling tank carts, 10 sets of double harness, 254 sets of<lb/>
+harness for carts, 630 shovels, 821 hoes, 273 lanterns, 500 oil cans,<lb/>
+50 cart-carriers and can (garbage), and 75 typewriters.</p>
+<p>On the 15th of October, bills were opened for the purpose<lb/>
+of acquiring some furniture for use in the different Local San-<lb/>
+itary Offices. This Department has forwarded these articles to<lb/>
+their destinations, being obliged at times to make use of the rail-<lb/>
+roads; of steamers at other times, and even of schooners and<lb/>
+other sailing craft.</p>
+<p>By means of Circular No. 11, Local Sanitary Officers have<lb/>
+been authorized to acquire, for account of the office they hold,<lb/>
+writing material and other paraphenalia, prescribing rules for<lb/>
+their guidance, so that official sheets should all be printed in a<lb/>
+regular manner. When in any of the small towns there are no<lb/>
+printing offices for the proper execution of this class of work,<lb/>
+the central office of this Department attends to the requisitions<lb/>
+made by the Local Sanitary Offices for the printing of their of-<lb/>
+ficial paper and the purchase of their office equipment.</p>
+<p>In municipal districts which are very extensive, and which<lb/>
+by reason of their rapid development merit greater attention,<lb/>
+special Medical Inspectors have been appointed, charged with<lb/>
+sanitary services in the villages more distant from the principal<lb/>
+town. Thus, for instance, in the municipal district of Gibara,<lb/>
+an assistant Medical Inspector has been appointed for Banes,<lb/>
+a rich and flourishing town, where non-immunes to yellow fever<lb/>
+are numerous. The same thing has been done in regard to the<lb/>
+municipality of Puerto Padre and San Antonio de los Ba&ntilde;os,<lb/>
+appointing inspectors for the towns of Victoria de las Tunas and<lb/>
+Vereda Nueva respectively. According to the importance of<lb/>
+these towns, sanitary services have been conceded according to<lb/>
+the classification of Decree No. 894. There is in view the pros-<lb/>
+pect of appointing Special Medical Inspectors for the inspection<lb/>
+of sanitary work performed by the Local Sanitary Officers.<lb/>
+<pb n="6" id="fKAGA0250"/>
+478<lb/>
+Already, in Santiago de Cuba and Camag&uuml;ey, one is performing<lb/>
+this duty, and who has made visits of inspection to different<lb/>
+Local Sanitary Offices of these provinces.</p>
+<p>The appointment of Local Sanitary Officers has been made<lb/>
+by the Honorable Provisional Governor with the approval of the<lb/>
+Adviser to the Sanitary Department and consultation with hear-<lb/>
+ing to the National Sanitary Board. Up to the present time, 58<lb/>
+Local Sanitary Officers have been appointed in accordance with<lb/>
+the Decree of the Hon. Provisional Governor; 24 are performing<lb/>
+these duties but are not yet appointed during their probation-<lb/>
+ary term of service.</p>
+<p>All of the special service demanded by the appearance of<lb/>
+yellow fever has been in charge of the Sanitary Adviser and the<lb/>
+Office of the National Sanitary Board, these attending, from<lb/>
+the Central Office, to all of the cases which have appeared in<lb/>
+different parts of the Island, and sending to the infected zones<lb/>
+Special Commissioners, that is to say, <hi rend="italic">Delegates</hi>, with sufficient<lb/>
+authority to organize the medical services against yellow fever<lb/>
+in each locality, or as may be said, the isolation of those attack-<lb/>
+ed, or suspected of being attacked by that disease; the observa-<lb/>
+tion of non-immunes in infected zones and the inspection of rail-<lb/>
+way stations; the fumigation of infected houses and those con-<lb/>
+tiguous thereto; the inspection of depositories for water and to<lb/>
+see that they are properly covered and mosquitoe-proof; the pe-<lb/>
+trolization of deposits of water and marshy places, in the streets,<lb/>
+and the ditching and drainage of public lands. Men who are<lb/>
+expert in that class of work are sent from Havana; suplementa-<lb/>
+ry laborers in each locality are also employed; and if the locali-<lb/>
+ty has a sufficient number of trained men to do the work, the<lb/>
+experts return to Havana to be assigned to duty in another place.<lb/>
+The material for this work is as a general rule sent from Ha-<lb/>
+vana. The requisition is made by the Special Commissioner, and<lb/>
+is revised and approved by this Office. According to the nature<lb/>
+of the case the material is sent, in cases where there is no ur-<lb/>
+gency.</p>
+<p>In Cienfuegos the Special Commissioner was authorized to<lb/>
+take charge of the operations against yellow fever in five near<lb/>
+by municipalities, for the purpose of arriving quickly at infected<lb/>
+places. In order to secure greater rapidity in the service, de-<lb/>
+posits of materials for fumigation are established in each<lb/>
+province. In the province of Santa Clara we have two, one in<lb/>
+the town of that name and the other in Cienfuegos. In the<lb/>
+<pb n="7" id="fKAGA0260"/>
+479<lb/>
+province of Havana, in addition to the Central Depository,<lb/>
+which is in this Office, there is another in Palos.</p>
+<p>The appointment of the personnel for yellow fever work<lb/>
+in towns in the interior of the Island is made by this Office on<lb/>
+approval of the Sanitary Adviser and on the recommendation<lb/>
+of the respective Special Commissioner. Of this personnel a<lb/>
+daily account is kept and made a matter of the record comport-<lb/>
+ment for the purpose of having it appear on the service sheet of<lb/>
+each employee. The payment for this service is made as well<lb/>
+in this Office, by the Paymaster of the Department, the checks<lb/>
+being remitted in certified envelopes to the parties interested.</p>
+<p>Cienfuegos presents an exception to the above by reason of<lb/>
+its having a special Paymaster for the present, sent by this Of-<lb/>
+fice to give his services there during the time that special work<lb/>
+is carried on against yellow fever in that city.</p>
+<p>In the General Archivate is where all the correspondence<lb/>
+of the National Department and the Local Office of Havana are<lb/>
+registered and filed. Both branches, the national and the local,<lb/>
+are established in the same place and constitute a single section;<lb/>
+although both branches maintain their autonomous operation,<lb/>
+but under the same jurisdiction. At present, repairs are being<lb/>
+made in the Archivate, with a view to conveniently separating<lb/>
+it from the other Divisions, so that only those employees who<lb/>
+work in the Archivate may have access thereto, by this means<lb/>
+avoiding the loss of important documents that afford all light<lb/>
+and conclusive data upon the affairs of the Department.</p>
+<p>THE LOCAL SANITARY OFFICE, HAVANA.</p>
+<p>Up to the 26th day of August last and in accordance with<lb/>
+the provisions of Military Order No. 159, series of 1902, the af-<lb/>
+fairs of the Sanitary Department of Havana were under the<lb/>
+direction of the Local Board of Health, which operated accord-<lb/>
+ingly. From that date until the promulgation of the Sanitary<lb/>
+Decree Ni. 894, the powers of the extinct Local Board of Health<lb/>
+were exercised as in the other municipalities of the Island; and<lb/>
+upon the promulgation of the said Decree, the local reorganiza-<lb/>
+tion was effected in accordance therewith.</p>
+<p>The Divisions of the Local Sanitary Office of Havana are<lb/>
+the same as those of the former Local Board of Health, as<lb/>
+follows:</p>
+<p>Sanitary Inspection, Orders and Fines, Sanitary Engineer-<lb/>
+<pb n="8" id="fKAGA0270"/> 
+480<lb/>
+ing, Tuberculosis, Personnel, Statistics, Extra Official, and the<lb/>
+Archivate or Files.</p>
+<p>Of all the Divisions of the Local Sanitary Office of Hava-<lb/>
+na, the greatest and most beneficent influences exercised since<lb/>
+the establishment of the Provisional Government have been,<lb/>
+without doubt, through that of Sanitary Inspection, organized<lb/>
+on a firm and ample base, which permits the fulfilment of the<lb/>
+mission confided to it; and the preference which has been given<lb/>
+to this branch of the service is justified, as, in the development<lb/>
+of contagious diseases, the sanitary conditions in which dwell-<lb/>
+ing houses are found, take an important not to say decisive part;<lb/>
+and as the end which this work has in view is to endeavor to<lb/>
+strictly enforce what is required by the Sanitary Ordinances, in<lb/>
+private houses as well as in public establishments, the import-<lb/>
+ance which this inspection has from a sanitary point of view<lb/>
+can be readily understood.</p>
+<p>Of the measures taught by science for extinguishing yellow<lb/>
+fever, that which surely has the greatest efficiency in the pro-<lb/>
+phylactic treatment of the disease, is that which tends to extin-<lb/>
+guish or disminish the mosquitoes of the Stegomyia variety; as<lb/>
+other measures, such as the quick reporting of suspicious or<lb/>
+confirmed cases of yellow fever, the isolation of the patients, etc.,<lb/>
+cannot always be put into practice, on account of the numerous<lb/>
+ambulatory cases of the disease who are accustomed to inad-<lb/>
+vertently pass by the doctor and the hospital.</p>
+<p>But when a city is defended against yellow fever, having<lb/>
+for that purpose duly covered its depositories of water and care-<lb/>
+fully exercised vigilance over all the places where mosquitoes can<lb/>
+breed, the propagation of the infection therein is rendered more<lb/>
+difficult; and when the non-existence of this class of mosquitoes<lb/>
+is accomplished, it can be held as certain that, if imported cases<lb/>
+of the disease present themselves, they are of no importance from<lb/>
+the point of view of their contagion.</p>
+<p>Thanks to the attention given to Havana and the increase<lb/>
+in the number of Sanitary Inspectors, and to the faithful man-<lb/>
+ner in which they have discharged their arduous duties, we have<lb/>
+succeeded in maintaining this city free from an epidemic of<lb/>
+yellow fever, notwithstanding the fact of there being infected<lb/>
+neighboring towns in daily and constant communication with it.</p>
+<p>We have had cases of yellow fever in Havana which have<lb/>
+have been detected after three or four days had elapsed since<lb/>
+the patients had contracted the disease, and after they had re-<lb/>
+<pb n="9" id="fKAGA0280"/>
+481<lb/>
+peatedly traversed nearly the entire city, and notwithstanding<lb/>
+that fact, that is, that although there existed an ambulatory<lb/>
+source of contagion, no epidemic has broken out, there appear-<lb/>
+ing only a few sporadic cases.</p>
+<p>The force of Sanitary Inspectors in October 1906 was made<lb/>
+up of twenty members, and up to the present time this number<lb/>
+has been augmented to fifty-five; and for the improvement of<lb/>
+this service of inspection, Havana has been divided into 41 dis-<lb/>
+tricts, designating an inspector for each one of them, and who<lb/>
+is held directly responsible for all infractions of the Sanitary<lb/>
+Ordinances which may occur therein and which he may not have<lb/>
+reported in due time. Taking into consideration the fact that<lb/>
+some of the districts are of great extent, they have been sub-<lb/>
+divided, appointing eleven (11) Assistant Inspectors (Auxilia-<lb/>
+res) classed as temporary employees, and who work under the<lb/>
+direction of the Inspectors proper, the latter being made respon-<lb/>
+sible for the work of their assistants.</p>
+<p>For the purpose of proving up the work of the Inspectors,<lb/>
+special reinspectors have been appointed, who visit the districts<lb/>
+during working hours and carefully review the houses in order<lb/>
+to ascertain if the Inspector has duly and faithfully discharged<lb/>
+the duties of the position to which he has been appointed.</p>
+<p>For the requirements of the service of re-inspection the<lb/>
+Inspectors have been divided into four groups, each of which<lb/>
+having a special inspector.</p>
+<p>One of the most opportune measures adopted recently, is<lb/>
+the clothing of the Inspectors in uniform, in order to make them<lb/>
+known to the public and to prevent the perpetration of fraud by<lb/>
+individuals who although they do not belong to this Department,<lb/>
+invoke its name, calling themselves Inspectors, and who at times<lb/>
+commit veritable crime.</p>
+<p>It is exacted from the Inspectors that they remain within<lb/>
+the limits of their respective Districts without departing there-<lb/>
+from during the hours designated by the Office, that is, from 8<lb/>
+to 11 a. m. and from 1 to 5 p. m. It is equally their duty, at<lb/>
+the time of their inspection of the houses, to petrolize their san-<lb/>
+itary service, for which purpose they should go accompanied by<lb/>
+a laborer provided with his corresponding oil can.</p>
+<p>The blanks upon which the Inspectors have out their re-<lb/>
+ports have also been modified and at present three forms are<lb/>
+used for that purpose; the first, which is annual, is relative to<lb/>
+the sanitary history of the house, and embraces the details of<lb/>
+<pb n="10" id="fKAGA0290"/>
+482<lb/>
+construction and its fixed sanitary service; that is, the number<lb/>
+of floors, of rooms, their height, the number of water closets,<lb/>
+whether or no there exist pits, ditches or sewers, the kind of<lb/>
+drains, etc. The second of the forms used by the inspectors, is<lb/>
+relative to the urgent repairs which the houses may need, and<lb/>
+the state, class and condition of the tanks, gutters, drains, scul-<lb/>
+leries, baths etc., and the third is solely and exclusively used to<lb/>
+make known whether the house has any service, pit, sewer etc.<lb/>
+which is not duly covered so as to be mosquitoe-proof.</p>
+<p>In view of the present situation which confronts us, that is,<lb/>
+with cases of yellow fever in the Island, instructions have been<lb/>
+given to the Inspectors to the end that they shall, with the ut-<lb/>
+most scruple, attend to everything relating to the depositories of<lb/>
+tanked waters and whether or no there exist larvae of mosquitoes<lb/>
+in the houses inspected.</p>
+<p>When larvae are found in depositories of water in any<lb/>
+house, the attention of the principal tenant is called to the fact<lb/>
+and is notified in writing that if the fault occurs again, he will<lb/>
+be severily fined. The larvae collected are scrupulously exami-<lb/>
+ned in order to ascertain to what class they belong; and once<lb/>
+this is known, it is noted, and an account is carried with each<lb/>
+District showing the number of deposits of larvae found in it<lb/>
+and the class of mosquitoes to which they belong.</p>
+<p>The Inspector visit each day a number of houses which<lb/>
+varies from 40 to 60, and each twelve days or later, they revisit<lb/>
+the houses of their district. By this means it results that the<lb/>
+mosquitoes cannot breed, as the opportune visit of the Inspector<lb/>
+breaks so to speak, the Everlasting Cycle of the insect.</p>
+<p>On the last Saturday of each month, the Inspectors meet,<lb/>
+and by brief and concise conferences, they are educated and<lb/>
+instructed concerning the work they have to perform, and they<lb/>
+are made to know the opinion of the Department in each case.</p>
+<p>The Orders Division, which is intimately connected with<lb/>
+that of the Inspectors, has also been reorganized in order that it<lb/>
+may respond to the greater amount of work it has to do by<lb/>
+reason of the increase in the number of Inspectors. This Divi-<lb/>
+sion sends daily to the owners, janitors and tenants of houses an<lb/>
+average of some 200 orders relative to all the sanitary work<lb/>
+which should be done in the houses and which had been recom-<lb/>
+mended by different Inspectors.</p>
+<p>Among the reforms latterly introduced into this Division,<lb/>
+there figures that of having the orders typewritten, which fa-<lb/>
+<pb n="11" id="fKAGA0300"/>
+483<lb/>
+cilitates the work and economizes the time necessary to make<lb/>
+them. Some of the printed forms used by this Division have<lb/>
+been modified in order to shorten the work, with the result that<lb/>
+the reports of the Inspectors serve at the same time to verify the<lb/>
+re-inspection of the house, or the visit which is made in order to<lb/>
+see whether or no the order has been complied with.</p>
+<p>By the Division of Medical Inspection, examinations have<lb/>
+been made of patients attacked by contagious diseases and which<lb/>
+have been reported to this Office by practising physicians. The<lb/>
+purpose of this medical inspection is to ascertain above all<lb/>
+things the diagnosis of the attending physician, and this data<lb/>
+once obtained, to dictate the proper orders for the isolation of<lb/>
+the patient and the exact compliance with the existing Regu-<lb/>
+lations concerning the case.</p>
+<p>This Division also has charge of the Bromatological inspect-<lb/>
+ions and to which the greater attention are those made daily of<lb/>
+milk, of cow-stables and of dairies in general. Up to the present<lb/>
+time the examination of milk has been done by the Inspector tak-<lb/>
+ing a sample of it and sending it through this Office to the La-<lb/>
+boratory of the Island of Cuba. The proceedings in this matter<lb/>
+were really long and difficult, as but a limited number of analy-<lb/>
+sis could be made daily.</p>
+<p>In order to remedy these deficiencies of the service, it was<lb/>
+ordered and latterly carried out, that a new system be establish-<lb/>
+ed by which examinations of milk are made in the majority of<lb/>
+cases by the Inpectors themselves in the same establishments or<lb/>
+places in which the milk is found, and in special cases in this<lb/>
+Office by the Chief of the Division. For the former cases, the<lb/>
+Inspectors have been provided with a portable apparatus, es-<lb/>
+pecially designed for the rapid examination of milk, and for the<lb/>
+latter cases, a special laboratory has been installed in this Office,<lb/>
+wherein 24 analyses can be made in one hour.</p>
+<p>Another labor of this Division is the examination of all<lb/>
+houses in which any kind of business is about to be established,<lb/>
+in order to form an opinion as whether it has all the conditions<lb/>
+appropriate for the business in view; and in case the house is<lb/>
+not found to be in proper hygienic condition, the Inspector will<lb/>
+report upon the work necessary to make it so.</p>
+<p>This Division also has the care of supplying and inspecting<lb/>
+the Bacteriological Stations, as well as to provide anti-diphthe-<lb/>
+rial serum to the physicians who request it.</p>
+<p>The Division of Sanitary Engineering is pressed forward<lb/>
+<pb n="12" id="fKAGA0310"/>
+484<lb/>
+with great activity, for the purpose of despatching daily the di-<lb/>
+verse questions which have been confided to it.</p>
+<p>In accordance with the provisions of the Sanitary Ordin-<lb/>
+ances, the Ayuntamiento sends to the Local Sanitary Office a<lb/>
+report of all proceedings relative to the construction, improve-<lb/>
+ment and repair of edifices in the City of Habana. These pro-<lb/>
+ceedings are referred to the Division of Sanitary Engineering,<lb/>
+in order that these edifices be duly examined; and upon the in-<lb/>
+spection of the houses, the corresponding report is issued, which<lb/>
+is sent to the Ayuntamineto, and in which report there appears<lb/>
+a detailed and precise statement of the number, class and con-<lb/>
+dition of the sanitary works which should be installed in each<lb/>
+house, and also the appropriate works which should be realized<lb/>
+in order that the building remain in good condition in respect<lb/>
+to light and ventilation. All the sanitary installations which are<lb/>
+made in Habana are specified, directed and inspected by this Di-<lb/>
+vision, which supervises the work to the end that it be done in<lb/>
+accordance with existing Regulations.</p>
+<p>On the 26th of November 1906, the Honorable Provisional<lb/>
+Governor promulgated the Regulations for Sanitary Services<lb/>
+and Installations, and which are made to cover the municipal<lb/>
+districts of Habana, Guanabacoa, Marianao and Santiago de las<lb/>
+Vegas. In these Regulations are detailed the conditions under<lb/>
+which sanitary installations should be made, and also the rules<lb/>
+which the master plumbers and fitters should observe in the exer-<lb/>
+cise of their functions, and the general specifications for the ins-<lb/>
+tallation of sanitary services.</p>
+<p>The Division of Sanitary Engineering has been charged<lb/>
+with the special inspection of Caf&eacute;s, for which purpose special<lb/>
+specifications have been made for the establishments, dividing<lb/>
+them into three (3) classes, according to the importance of each<lb/>
+one. It is exacted from Caf&eacute;s that they have proper sanitary<lb/>
+services and installations, according to the class to which they<lb/>
+belong.</p>
+<p>By this Division also are decided the consultations upon<lb/>
+Engineering held by Local Sanitary Officers of the interior of<lb/>
+the Island, sending them appropriate information for guidance<lb/>
+in sanitary installations, in accordance with the needs and re-<lb/>
+sources of each locality.</p>
+<p>The Division of Fines has been reorganized in virtue of the<lb/>
+provisions of Decree No. 894, in its paragraphs (i) (j) (k) (l)<lb/>
+and (m) of Section IV, preparing them in such manner as to<lb/>
+<pb n="13" id="fKAGA0320"/>
+485<lb/>
+make effective the fine imposed as provided for in the afore-men-<lb/>
+tioned Decree. The organization of this Division in Habana,<lb/>
+on account of its being considered the most practical and expe-<lb/>
+ditious, has been taken as a model for the other Local Sanitary<lb/>
+Offices, giving them in that respect instructions in Circular No.<lb/>
+13; and at present this formula has been installed for the Divi-<lb/>
+sions of Fines throughout the different Local Sanitary Offices<lb/>
+of the Republic.</p>
+<p>The Division of Tuberculosis has recently received a great<lb/>
+impulse in that preferred attention which the important ques-<lb/>
+tions confided to it demand. Thanks to the deliberations of your<lb/>
+Advisory and those of the Sanitary Headquarters, there will soon<lb/>
+be installed in Arroyo Naranjo a Sanatorium for Tuberculosis<lb/>
+destined to the gratuitous treatment of patients attacked by that<lb/>
+disease. Already all of the personnel of the Sanatorium have<lb/>
+been appointed and the details of the installation are about com-<lb/>
+plete, so that in a short time it will commence its operations,<lb/>
+thus filling a want which for a long time has been sorely felt in<lb/>
+this Capital.</p>
+<p>The Special Dispensary for Tuberculosis which for a long<lb/>
+time has been in operation has also been reorganized upon a base<lb/>
+which permits only those who are suffering from tuberculosis to<lb/>
+be treated there, and to whom treatment, medicine and food will<lb/>
+still be given. It has been very especially recommended to the<lb/>
+Medical Management of this institution that they instruct the<lb/>
+patients upon the subject of the details of open-air treatment<lb/>
+and other particulars of domestic hygiene, as well as the meth-<lb/>
+ods for the protection of the inmates of the houses they inhabit<lb/>
+against the infection. Through this Division a census or regis-<lb/>
+ter is kept of tuberculosis patients in Havana, the base for it be-<lb/>
+ing the report of attending physicians of the cases they have<lb/>
+treated. This census has recently been rectified, for it contained<lb/>
+many errors; and of the more than 6,000 individuals which fi-<lb/>
+gured in it, the number has been reduced so considerably that<lb/>
+it will contain for the present only some 2,000 names.</p>
+<p>Those who are reported as being consumptive will be exam-<lb/>
+ined by the proper Division, independent of those who visit the<lb/>
+Dispensary.</p>
+<p>The inspection of Factories and workshops, as well as the<lb/>
+examination of the apprentices and employees belonging to<lb/>
+them, is another of the many tasks assumed by this Division,<lb/>
+which service it continues with all diligence.</p>
+<pb n="14" id="fKAGA0330"/>
+<p>486</p>
+<p>In the branch pertaining to this Office, the receipt of all<lb/>
+reports of the sickness or death from tuberculosis is acknowledg-<lb/>
+ed, as well as giving information of the results of analysis of<lb/>
+the sputa, which for examination are sent to the Medical Pro-<lb/>
+fessors of the Island while to this Division have been confided the<lb/>
+services of fumigation, petrolization and ditching in the loca-<lb/>
+lities infected with yellow fever.</p>
+<p>The Service of Disinfection embraces two branches; the one<lb/>
+attending to the disinfection of houses in which there have oc-<lb/>
+curred cases of transmissable disease <hi rend="italic">with the exception of yel-<lb/>
+low fever</hi>, and the other especially dedicated to the fumigation<lb/>
+of houses and public buildings wherein there have lived or have<lb/>
+visited persons attacked with this disease.</p>
+<p>The Division of Mosquitoes has been entrusted with the pe-<lb/>
+trolization of all pools, ponds, and other deposits of water which<lb/>
+are found in the streets, vacant lots and public lands which can-<lb/>
+not be emptied out or drained in order to give free current to<lb/>
+the waters. It has moreover under its charge the collection of<lb/>
+cans and other receptacles of water found in lots, and on pub-<lb/>
+lic property, which work is made necessary by reason of the fa-<lb/>
+cility with which these may become depositories of stagnant<lb/>
+water.</p>
+<p>The Section of Ditching and Drainage performs the clean-<lb/>
+ing of ditches and creeks, in order to give free current to the<lb/>
+waters and avoid their stagnation.</p>
+<p>The Sub-Division of Statistics of Havana has performed<lb/>
+work analogous to that of the General Division of Statistics, but<lb/>
+limited to the Municipal Districts of Havana, during the pe-<lb/>
+riod of time referred to. Moreover, the Books of Registry for<lb/>
+the inscription of Titles of Medical Doctors, Surgeons, Midwives,<lb/>
+Dentists and Veterinarians practising in this Capital, are kept<lb/>
+by this Division. From the month of October 1906 to the present<lb/>
+date, there have been registered in these books 67 surgeons, 17<lb/>
+pharmacists, 10 dentists, 15 midwives, and 7 veterinarians. Each<lb/>
+one of the professional men signs his name in the corresponding<lb/>
+register, to the end that these signatures shall serve as a basis of<lb/>
+legalization of the signature when affixed to public documents.<lb/>
+During the time mentioned, there have been registered in this<lb/>
+record by the Division of Statistics, 2384 legal professional sig-<lb/>
+natures.</p>
+<p>In all the works accomplished by the National Sanitary De-<lb/>
+partment and in the Local Sanitary Office of Havana it is ever<lb/>
+<pb n="15" id="fKAGA0340"/>
+487<lb/>
+endeavored to secure greatest possible efficiency of execution,<lb/>
+together with corresponding rapidity, to the end that no undue<lb/>
+delay may occur in the disposal of cases before the Department<lb/>
+for decision or action. With this end in view, each Division or<lb/>
+Sub-Division chief is required to submit weekly reports in which<lb/>
+he must state whether or not all expedientes coming before his<lb/>
+respective jurisdiction during the week thus covered in his re-<lb/>
+port have been despatched and remitted within the week. When<lb/>
+it appears that any division chief notes in his report the delay<lb/>
+or failure to despatch documents with proper promptness, the<lb/>
+cause of the delay is investigated, endeavoring to correct the<lb/>
+defect on the spot and to prevent its recurrence.</p>
+<p>I remain,<lb/>
+Yours most respectfully,</p>
+<p>(Sgd.) DR. JOS&Eacute; L&Oacute;PEZ DEL VALLE,<lb/>
+<hi rend="italic">Acting Chief of Office,<lb/>
+Local Sanitary Officer of Habana</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

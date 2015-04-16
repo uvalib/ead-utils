@@ -1,0 +1,697 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY t04806003 SYSTEM "t04806003.jpg" NDATA jpg>
+<!ENTITY t04806006 SYSTEM "t04806006.jpg" NDATA jpg>
+<!ENTITY t04806009 SYSTEM "t04806009.jpg" NDATA jpg>
+<!ENTITY t04806012 SYSTEM "t04806012.jpg" NDATA jpg>
+<!ENTITY t04806015 SYSTEM "t04806015.jpg" NDATA jpg>
+<!ENTITY t04806017 SYSTEM "t04806017.jpg" NDATA jpg>
+<!ENTITY t04806018 SYSTEM "t04806018.jpg" NDATA jpg>
+<!ENTITY t04806019 SYSTEM "t04806019.jpg" NDATA jpg>
+<!ENTITY t04806020 SYSTEM "t04806020.jpg" NDATA jpg>]>
+<TEI.2 id="t04806001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Yellow Fever Control, by Fred L. Soper, March 30, 1955</title>
+<title type="gmd">[electronic resource]</title>
+<author>Soper, Fred L.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04806001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1955-03-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Rose, Wickliffe</name>
+<name type="place">North America</name>
+<name type="place">Central America</name>
+<name type="place">South America</name>
+<name type="place">Africa</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>20 pp.</extent>
+<date value="1955-03-30">March 30, 1955</date>
+<idno rend="suppress">04806001</idno>
+<title>Report: Yellow Fever Control, by Fred L. Soper, March 30, 1955</title>
+</bibl>
+</head>
+<p>This report details yellow fever outbreaks throughout the world up until 1954. A distinction is made between &ldquo;Human Yellow Fever&rdquo; and &ldquo;Jungle Yellow Fever.&rdquo;</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1955-03-30">
+<head>Report: Yellow Fever Control, by Fred L. Soper, March 30, 1955</head>
+<pb n="1" id="f04806001"/>
+<p><add>Jungle YF first identified<lb/>
+1932<lb/>
+Handed out at<lb/>
+the Finlay meeting<lb/>
+at Jeff Med Sch<lb/>
+Sept 22 1955</add></p>
+<p><hi>YELLOW FEVER CONTROL</hi></p>
+<p>Discussion by Dr. Fred L. Soper, Director<lb/>
+Pan-American Sanitary Bureau, and Members of the Commission<lb/>
+on Immunization, Armed Services Epidemiological Board, 30 March, 1955</p>
+<p>It may be stated for those not familiar with the history<lb/>
+of Yellow Fever that previous to 1900 Yellow Fever occurred<lb/>
+on both the Atlantic and Pacific coasts of North*, Central,<lb/>
+and South America, and was quite active in the Caribbean and<lb/>
+Gulf areas. Following the demonstration, that Yellow Fever is<lb/>
+transmitted by the <hi>A&euml;des aegypti</hi> mosquito, dramatic results<lb/>
+were obtained by the reduction of the breeding of this mos-<lb/>
+quito in certain key centers of infection, Havana, Panama,<lb/>
+Rio de Janeiro, and Santos. There was a striking disappear-<lb/>
+ance of the disease, not only from the cities where anti-<lb/>
+mosquito measures were applied, but also from surrounding and<lb/>
+tributary areas. And by 1915, sufficient experience had been<lb/>
+gained to justify plans made by Surgeon General William Gorgas<lb/>
+and Dr. Wyckliffe Rose of the International Health Board of<lb/>
+the Rockefeller Foundation for the eradication of Yellow<lb/>
+Fever from the Americas. This eradication was to be carried<lb/>
+out by collaborating with each individual country, where<lb/>
+Yellow Fever might be found, in campaigns for the reduction<lb/>
+of the <hi>aegypti</hi> mosquito in the larger cities, until the dis-<lb/>
+ease spontaneously disappeared from the country. This cam-<lb/>
+paign was really a very logical and reasonable proposal, in<lb/>
+the light of the then existing knowledge of Yellow Fever.<lb/>
+And today we can, in looking back, assure ourselves that it<lb/>
+would have been entirely successful by 1934, had it not been<lb/>
+for the unknown factor of the existence of Yellow Fever as an<lb/>
+animal disease in the forests of the Americas. Since August<lb/>
+1934, there has been no endemic Yellow Fever in the Americas;<lb/>
+that is no self-sustaining man-<hi>aegypti</hi>-man cycle of infection.<lb/>
+The last area to be cleared twenty years ago was Northwest<lb/>
+Brazil which is entirely blank on the Yellow Fever maps from<lb/>
+1948 to 1954 (Maps 1 and 2). Although there are previous<lb/>
+observations, and even references in published reports which,<lb/>
+today, are easily recognized as descriptive of Jungle Yellow<lb/>
+Fever, there was no question in the minds of Gorgas and those<lb/>
+who followed him during the next decade and a half, that<lb/>
+Yellow Fever was a disease limited to man, distributed large-<lb/>
+ly through shipping and occurring along the coast and rivers<lb/>
+and along railroad lines leading away from maritime ports.</p>
+<p>Once urban Yellow Fever, the man-<hi>aegypti</hi>-man disease,<lb/>
+was brought under control, continuing observation led to the<lb/>
+discovery of an entirely unexpected underlying picture of<lb/>
+Yellow Fever as basically a disease of forest animals. No<lb/>
+attempt will be made to give the detailed story of all that<lb/>
+has happened since 1932 when Jungle Yellow Fever was first</p>
+<p>----------------------------------------------------------</p>
+<p>*No outbreaks have ever been reported north of Mexico on the<lb/>
+Pacific Coast.</p>
+
+<pb n="2" id="f04806002"/>
+<p>- 2 -</p>
+<p>confirmed; maps (1 and 2) have been prepared showing the proven<lb/>
+distribution of Yellow Fever each year from 1946 through 1954,<lb/>
+a 9 year period. The records on which these maps are based<lb/>
+are limited to reports of cases confirmed by laboratory meth-<lb/>
+ods, generally by the examination of pathological material,<lb/>
+removed post-mortem. Since the human case is not an integral<lb/>
+part of the epizootic cycle, it is but the visible index of<lb/>
+the jungle infection. At the present time, in the Americas,<lb/>
+the human case is a blind-end-infection, generally, except<lb/>
+when it comes into a city where <hi>aegypti</hi> is present, and<lb/>
+starts a local urban outbreak. From the maps of 1946 to 1954,<lb/>
+it will be noted that Colombia has a constant year after<lb/>
+year occurrence of Yellow Fever. It shifts from place to<lb/>
+place somewhat but is always there. Many other areas in-<lb/>
+fected in one year are clear in the next. Although there are<lb/>
+two patterns of Jungle Yellow Fever, one of continuing occur-<lb/>
+rence in a small area, the other of movement in epizootic<lb/>
+waves, no evidence has been found for basic differentiation<lb/>
+of the mechanism of the maintenance of Jungle Yellow Fever<lb/>
+from that of the man-<hi>aegypti</hi>-man infection. Both are based<lb/>
+on an acute self-limited infection in the vertebrate host,<lb/>
+alternating with infection of the arthropod vector with no<lb/>
+transfer of the virus from one generation to the next of the<lb/>
+arthropod and no carrier state and no long-term infectivity<lb/>
+of the vertebrate host. And just as the <hi>aegypti</hi> transmitted<lb/>
+Human Yellow Fever had its key endemic centers of infection<lb/>
+and its epidemic zones, so also Jungle Yellow Fever exists<lb/>
+enzootically in certain areas but occurs alsewhere only as<lb/>
+a moving epizootic. An important factor is the availability<lb/>
+of susceptible animals and the rapidity with which animals<lb/>
+once immunized can be replaced by a new susceptible population.</p>
+<p>Generally the virus comes into a given forest area<lb/>
+with a sufficiently rapid rate of transmission during the<lb/>
+summer months to either kill or immunize the animal popula-<lb/>
+tion to the point where the infection dies out after some<lb/>
+weeks or months for the lack of susceptible hosts. There<lb/>
+then occurs a period of three or four years or even a much<lb/>
+longer period, in which no evidence of the presence of Yellow<lb/>
+Fever virus can be found. Only as another epizootic wave<lb/>
+approaches will a new epizootic occur. This is the most com-<lb/>
+mon picture over the areas outlined in map No. 3. However,<lb/>
+there are certain small areas in which Yellow Fever virus<lb/>
+is apparently constantly present, within a very small area<lb/>
+of one or two counties. In such areas the permanency of<lb/>
+infection may depend on quite different factors. In the<lb/>
+Ilh&eacute;us area on the Coast of Brazil where rain forest condi-<lb/>
+tions favor the rapid multiplication of the small primates,<lb/>
+especially of the marmosets, apparently the virus is able<lb/>
+to maintain itself indefinitely through a series of small</p>
+<pb n="3" id="f04806003"/>
+<p><figure entity="t04806003"></figure> AREA WITH NUMBER OF CASES OF JUNGLE YELLOW FEVER FROM COUNTRIES OF THE<lb/>
+AMERICAS, BY POLITICAL DIVISION BY YEARS, 1946-1953.</p>
+<pb n="4" id="f04806004"/>
+<p>- 3 -</p>
+<p>epizootics within a limited area. On the other hand in Muzo,<lb/>
+and in San Vincente de Chucuri, Colombia, there are constant-<lb/>
+ly infected areas in the absence of a heavy primate popula-<lb/>
+tion. Adequate studies have not been made but it is believed<lb/>
+by some that the enzootic depends largely on marsupials and<lb/>
+possibly on rodents, for the vertebrate element in the enzoo-<lb/>
+tic cycle.</p>
+<p>Beginning in 1948, Yellow Fever has advanced from the<lb/>
+South American Continent along the Isthmus of Panama and up<lb/>
+through Central America. Cases were diagnosed east of the<lb/>
+Canal at the end of 1948 and then the infection proceeded in<lb/>
+a wave-like phenomenon with an active advancing front and<lb/>
+with a burned over area behind where no further cases occur-<lb/>
+red year by year. The movement has continued through Panama,<lb/>
+Costa Rica, Nicaragua, and Honduras. It was last noted in<lb/>
+September of 1954 at the border of Honduras and Guatemala.<lb/>
+Greater detail of this Yellow Fever movement in Central<lb/>
+America is to be seen on the map (No. 4) of the distribution<lb/>
+of Yellow Fever in the Caribbean area from 1948 through<lb/>
+November 1954 where the dates are recorded on which human<lb/>
+cases have occurred in different areas. It remains to be<lb/>
+seen whether the virus will be able to make the jump from<lb/>
+Honduras to Guatemala or not. The area through which it<lb/>
+must move has been largely cleared out and planted with ban-<lb/>
+anas which may serve to block its movements. The next few<lb/>
+months (June-October, 1955) after the rains begin should<lb/>
+give the answer. If the virus is able to get from Honduras<lb/>
+into Guatemala, there is no further apparent barrier to a<lb/>
+rather extensive invasion of southern and eastern Mexico.<lb/>
+This same map shows outbreaks of Yellow Fever last year<lb/>
+(1954) in western and in northeastern Venezuela. On the<lb/>
+other hand, south of the Orinoco in Venezuela, cases have<lb/>
+occurred more or less constantly for many years. The area<lb/>
+south of the Orinoco River is possibly another permanent<lb/>
+enzootic focus. But in Western Venezuela Yellow Fever had<lb/>
+not been seen since 1946 and in northeastern Venezuela,<lb/>
+Yellow Fever had not been found since 1933. And in nearby<lb/>
+Trinidad, previous to 1954, Yellow Fever had not been re-<lb/>
+ported since 1914.</p>
+<p>Map No. 3 showing the periodicity of Yellow Fever, is<lb/>
+particularly important because it deprives one of all sense<lb/>
+of security based on the non-occurrence of yellow fever at<lb/>
+a given place for a number of years. In Rio de Janeiro, for<lb/>
+example, Yellow Fever returned in 1928 as an urban epidemic<lb/>
+after an absence of 20 years from the city. In 1928 and 1929<lb/>
+Rio had a high <hi>aegypti</hi> infestation and the reinfection with<lb/>
+Yellow Fever proved to be a costly experience. Infective<lb/>
+cases from nearby infected jungle areas came into the city<lb/>
+again in 1938 without any serious results because the <hi>aegypti</hi><lb/>
+<pb n="5" id="f04806005"/>
+- 4 -<lb/>
+mosquito was no longer present. In southern Brazil, there<lb/>
+is another area shaded on the map where a large moving epi-<lb/>
+zootic occurred form 1934 to 1940. Part of that area was<lb/>
+invaded again ten years latter (1944-1948) and again after a<lb/>
+five-year period (1950-1954) with some thousands of cases<lb/>
+occurring. In southern Bolivia where careful observations<lb/>
+had been made since 1932, an unexpected widespread outbreak<lb/>
+occurred in 1950 not far from the Argentine Border, after 18<lb/>
+years of negative observation. In Trinidad, nothing had been<lb/>
+reported since 1914 until the very costly outbreak of last<lb/>
+year. And in Central America, previous studies had failed to<lb/>
+indicate any activity of Yellow Fever virus since 1924 until<lb/>
+the present outbreak started in 1948. Apparently in Central<lb/>
+America, a period of almost 30 years elapsed in which Yellow<lb/>
+Fever virus was absent. During the present epizootic in<lb/>
+Central America, the Yellow Fever virus has been killing such<lb/>
+a high percentage of the monkeys that a number of years must<lb/>
+elapse before a sufficient monkey population can be built up<lb/>
+to permit another epizootic of this type. What happens to<lb/>
+the monkey population depends on the species of monkey. The<lb/>
+most widespread monkey in South Brazil, the Cebus monkey, is<lb/>
+relatively resistant to Yellow Fever. He gets the virus, he<lb/>
+builds up his high virus content, he infects another group<lb/>
+of mosquitoes, but the Cebus does not die as does the Howler<lb/>
+and the Spider monkey. In the areas where the Cebus monkey<lb/>
+predominates, epizootics may sweep through every three to<lb/>
+five years since there is no interruption of the multipli-<lb/>
+cation of the monkey population.</p>
+<p>The existence of Yellow Fever virus in Trinidad was<lb/>
+discovered accidentally by <hi>Dr. Downs of</hi> the Tropical Virus<lb/>
+Laboratory there in April of 1954, at a time when monkeys<lb/>
+were dying in the forest. Many strains of virus have been<lb/>
+isolated from monkeys, from mosquitoes and from human cases<lb/>
+in Trinidad. Eventually, in August 1954 the disease was<lb/>
+found in the capital city of Port of Spain. This is the<lb/>
+first time in 25 years that the health authorities of the<lb/>
+Americas have faced the issue of Yellow Fever in a maritime<lb/>
+port. Fortunately, there was no spread elsewhere but, as<lb/>
+was unavoidable, Trinidad did suffer a rather severe finan-<lb/>
+cial loss, aggravated by international quarantine restrictions.<lb/>
+Trinidad is an island which depends on ships and airplanes<lb/>
+for its livelihood, Trinidad exports oil, asphalt, and<lb/>
+cacao and enjoys a considerable tourist trade, all of which<lb/>
+suffered for some time. Another significant occurrence last<lb/>
+year was the arrival of an infectious case in Caracas where<lb/>
+Yellow Fever had not been known since 1914. This is the<lb/>
+first recorded case of Yellow Fever virus moving by airplane<lb/>
+from a forest or jungle area into an urban area where <hi>aegypti</hi><lb/>
+was present. The situation was a potentially explosive one<lb/>
+with an <hi>aegypti</hi> index ranging from 22 to 55 in different<lb/>
+<add>Spoke at meeting</add></p>
+<pb n="6" id="f04806006"/>
+<p><figure entity="t04806006"></figure> REPORTED CASES OF YELLOW FEVER IN THE AMERICAS, BY MAJOR<lb/>
+POLITICAL DIVISIONS OF EACH COUNTRY, 1954</p>
+<pb n="7" id="f04806007"/>
+<p>- 5 -</p>
+<p>parts of the city. The Minister reports an expenditure of<lb/>
+$800,000 on emergency measures and Caracas still has an<lb/>
+<hi>aegypti</hi> index of 6%. Under peaceful conditions the complete<lb/>
+eradication of <hi>aegypti</hi> from Caracas could have been done for<lb/>
+a fraction of this expenditure.</p>
+<p>The picture of Jungle Yellow Fever in the Americas is<lb/>
+obviously different from the picture in Africa. Yellow Fever<lb/>
+is a greater threat to the man who goes into the forest in<lb/>
+the Americas than it is in Africa. In the areas that have<lb/>
+been studied in Africa, transmission from monkey to monkey<lb/>
+apparently occurs through <hi>A&euml;des africanus</hi>, a night biting<lb/>
+mosquito, with the result that the man who goes into the<lb/>
+forest in the day time is not infected. The most serious<lb/>
+problem in Africa is still the <hi>aegypti</hi> transmitted Yellow<lb/>
+Fever which the Americas, except in Port of Spain, have not<lb/>
+had to face in recent years.</p>
+<p>To return for the moment to the problem of immuniza-<lb/>
+tion, the initial attempt to immunize against Yellow Fever<lb/>
+was made with killed virus in Rio in the 1928-29 epidemic<lb/>
+with unsatisfactory results. Following Theiler's adaptation<lb/>
+of Yellow Fever virus to the mouse brain, various methods of<lb/>
+combining this modified virus and immune serum were used after<lb/>
+May 1931 with good results in individual cases but the method<lb/>
+was too cumbersome and costly for general application. The<lb/>
+French workers had the courage to use the mouse brain adapted<lb/>
+virus which had lost its viscerotropic properties but which<lb/>
+was highly neurotropic in mice without using immune serum but<lb/>
+the workers in the Americas consistently refused to use this<lb/>
+virus without serum for fear of encephalitis.</p>
+<p>At the end of 1936, the Rockefeller Foundation intro-<lb/>
+duced an attenuated virus, 17D, which has largely lost its<lb/>
+neurotropism and has lost entirely its power to attack the<lb/>
+liver and other viscera. Careful observations were made in<lb/>
+the use of the 17D virus in Brazil in 1937, when some 38,000<lb/>
+people were vaccinated without contraindications. In 1938,<lb/>
+under epidemic conditions, just over a million persons were<lb/>
+vaccinated, again with as careful observations as was pos-<lb/>
+sible in the scattered areas where Jungle Yellow Fever was<lb/>
+occurring with no adverse reports. In 1939, however, Yellow<lb/>
+Fever occurred in vaccinated individuals. Studies made at<lb/>
+that time indicated that the vaccine virus had lost, in part,<lb/>
+its antigenicity, probably due to the long series of passages.<lb/>
+With the return to an earlier passage for seed virus in 1939,<lb/>
+no further failures of this type have been found. The next<lb/>
+year (1940) the problem of post-vaccination hepatitis arose<lb/>
+after more than a million and a half people had been immunized.<lb/>
+The hapatitis led, in August, 1940, to elimination of human<lb/>
+<pb n="8" id="f04806008"/>
+- 6 -<lb/>
+serum in the preparation of vaccine in Brazil, since which<lb/>
+time no further post-vaccination hepatitis has been seen in<lb/>
+South America.*</p>
+<p>To complete the series of difficulties with the 17D<lb/>
+vaccine virus, in 1941, a few cases of post vaccination<lb/>
+encephalitis were reported. An extensive field study in<lb/>
+Brazil indicated that the encephalitis occurred with virus<lb/>
+from certain sub-strains which had apparently become more<lb/>
+neurotropic. Elimination of these sub-strains and the rig-<lb/>
+orous limitation of the number of passages of the virus<lb/>
+through the preparation of huge seed lots for future vaccine<lb/>
+production has apparently removed this danger. No difficulty<lb/>
+with Yellow Fever vaccine has been reported from Brazil since<lb/>
+1941 even though as many as 4,000,000 persons have been<lb/>
+injected in a single year.</p>
+<p>In 1939, French workers reported on the successful<lb/>
+vaccination by scarification with the neurotropic virus and<lb/>
+on combined vaccination against Yellow Fever and Smallpox.<lb/>
+Reactions to Yellow Fever vaccination may occur about the<lb/>
+5th or 6th day of from the 11th to 20th days or even later.<lb/>
+The malaise and body pains is apparently due to extra neural<lb/>
+multiplication of the virus whereas the delayed reaction<lb/>
+seems to be linked to the inherent neurotropism of the vaccine<lb/>
+virus. Encephalitic symptoms occur only in the cases with a<lb/>
+long incubation period.</p>
+<p>Yellow Fever workers in the Americas had no occasion<lb/>
+to see encephalitic cases after the early experience in Brazil<lb/>
+(1941) until 1951, when a series of some 15 cases of enceph-<lb/>
+alitis with several deaths occurred in small children in<lb/>
+Costa Rica, following vaccination by scarification with the<lb/>
+French neurotropic virus. Field investigation showed that<lb/>
+several adults, vaccinated with the same lot of Dakar vaccine,<lb/>
+had failed to be protected and had succumbed to naturally<lb/>
+acquired infection four or five weeks later.</p>
+<p>In seeking an explanation of these two observations<lb/>
+inevitably one goes back to Theiler's finding that monkeys<lb/>
+given large doses of neurotropic virus become immune without<lb/>
+serious illness, but that a considerable percentage of monkeys<lb/>
+getting infinitesimal amounts of virus, develop fatal enceph-<lb/>
+alitis. Dr. Durieux of the Pasteur Institute of Dakar, where<lb/>
+the vaccine had been prepared, agreed with this conclusion;<lb/>
+paradoxically the more dilute the virus, the more dangerous<lb/>
+it becomes. Apparently the vaccine in Costa Rica had been</p>
+<p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
+<p>*A large number of cases of post-vaccination hepatitis occur-<lb/>
+red in the Armed Forces of the United States in 1942 before<lb/>
+the use of serum in the preparation of vaccine was abandoned<lb/>
+by the producing laboratory in the USA. None have been re-<lb/>
+ported since.</p>
+<pb n="9" id="f04806009"/>
+<p><figure entity="t04806009"></figure> <unclear>INTERVALS BETWEEN APPEARANCE OF YELLOW FEVER IN SPECIFIC AREAS</unclear></p>
+<pb n="10" id="f04806010"/>
+<p>- 7 -</p>
+<p>exposed to temperatures sufficiently high to greatly reduce<lb/>
+the virus content before application in the field. Follow-<lb/>
+ing this experience in Costa Rica, McNamara in 1952 in<lb/>
+Nigeria reported a series of over 80 cases of encephalitis<lb/>
+with some 38 deaths following vaccination with the same<lb/>
+Dakar vaccine. The vaccine virus was isolated from the brains<lb/>
+of four of his cases which came to post mortem examination.</p>
+<p>A long discussion of yellow fever vaccination occurred<lb/>
+in 1953 in Kampala. Dr. Laigret who represented the French<lb/>
+point of view and Dr. Durieux were there. Dr. Laigret insist-<lb/>
+ed that all Yellow Fever viruses are neurotropic and that<lb/>
+the entire question of encephalitis needs careful restudy.<lb/>
+Laigret presented an informal report to the effect that five<lb/>
+cases of encephalitis had occurred in Paris among 1800 chil-<lb/>
+dren vaccinated with a 17D strain of virus originally receiv-<lb/>
+ed from the Rockefeller Foundation. Recently there have<lb/>
+been four reports from England of individual cases of enceph-<lb/>
+alitis occurring in children following vaccination with the<lb/>
+17D vaccine. The situation, of course, needs continuing<lb/>
+study. On the other hand, some 300,000 people have been<lb/>
+vaccinated in Caracas just recently and another 450,000 in<lb/>
+Trinidad in the last eight months, without any apparent un-<lb/>
+toward results.</p>
+<p>In the Americas, encephalitis following 17D vaccin-<lb/>
+ation has not been observed since 1941 and the Pan American<lb/>
+Sanitary Bureau is advising all countries against the use<lb/>
+of neurotropic vaccine.</p>
+<p>Before leaving the subject of the neurotropic virus<lb/>
+which has produced encephalitis in Costa Rica and Nicaragua,<lb/>
+it might be pointed out that attempts to passage this virus<lb/>
+from monkey to monkey by transfer of blood, taken at the time<lb/>
+the animal showed fever, failed. At first it was believed<lb/>
+that this virus did not multiply in the blood and could not<lb/>
+be passaged from animals by blood transfer. But when the<lb/>
+temperature curve was ignored and transfers were made routine-<lb/>
+ly three or four days after inoculation, and before the febrile<lb/>
+reaction, no difficulty was found in maintaining the virus by<lb/>
+animal to animal transfer. Theiler has shown that the neuro-<lb/>
+tropic virus multiplies in various viscera and one might<lb/>
+imagine that such early viscera multiplication results in the<lb/>
+production of antibodies in adequate amounts just in time to<lb/>
+prevent encephalitis which may be just about to develop when<lb/>
+the fever appears. This would imply that the appearance of<lb/>
+fever is the initial indication of encephalitis beginning<lb/>
+after the virus has disappeared from the blood stream. This<lb/>
+encephalitis is then cut off by the antibodies that have<lb/>
+been built up by the multiplication of the virus in the vis-<lb/>
+cera. Whatever the factors are, it would appear that the<lb/>
+<pb n="11" id="f04806011"/>
+- 8 -<lb/>
+period of incubation that is needed for the encephalitic fac-<lb/>
+tor is much greater than that for the viscerotropic factor.</p>
+<p><hi>Discussion</hi>:</p>
+<p>Dr. Goodner: We have to let Fred Soper say whether<lb/>
+<hi>A&euml;des aegypti</hi> can be eradicated from the world and particular-<lb/>
+ly from our part of the world. I have been baiting him on<lb/>
+this for many years and I would like to know how he is going<lb/>
+to do it.</p>
+<p>Dr. Soper: The answer is, for the Americas, yes. The<lb/>
+only question relates to the United States of America.<lb/>
+Argentina is starting a program next month that will use 500<lb/>
+men to do the job. There is no other important political<lb/>
+unit in the Americas which hasn't already done the job or<lb/>
+which is not working on it, except the United States (Map<lb/>
+No. 5). In the Americas the eradication of <hi>aegypti</hi> is entire-<lb/>
+ly feasible because this mosquito here does not go into the<lb/>
+trees, nor live in the forest. In Africa, <hi>aegypti</hi> was orig-<lb/>
+inally a forest mosquito and still continues as such there.<lb/>
+The <hi>aegypti</hi> strain that came from the African ports to the<lb/>
+Americas breeds in artificial containers and does not go back<lb/>
+into the forest. There is a biological question to be studied<lb/>
+before one talks about <hi>aegypti</hi> eradication in Africa; viz, can<lb/>
+the forest <hi>aegypti</hi> of Africa readily reinfest African towns<lb/>
+and breed in artificial containers? And conversely, is the<lb/>
+<hi>aegypti</hi> mosquito which is in the towns in Africa able to live<lb/>
+in the African forest?</p>
+<p>Dr. Smadel: I would like to ask Dr. Soper to review<lb/>
+just briefly the status of the watch stations in Central<lb/>
+America. What are we depending on and what do we need to do<lb/>
+to be ready to meet a new situation?</p>
+<p>Dr. Soper: The watch station in Central America is<lb/>
+inactive at the moment since this is the dry season; Dr.<lb/>
+Trapido is on vacation in the United States and Dr. Boshell<lb/>
+is in Venezuela until the rains start in May. The difficul-<lb/>
+ties involved in financing and staffing a proper mobile field<lb/>
+station are tremendous and at the present time plans are<lb/>
+largely limited to attempting to follow the epizootic as, and<lb/>
+if, it comes into Guatemala and to identify the mosquito<lb/>
+vectors. The most important point to be studied is the ecol-<lb/>
+ogy of vectors since Yellow Fever has now reached the northern<lb/>
+limit of the range of <hi>Hemagogus spegazzini</hi>. If a vector occurs<lb/>
+further north which is adaptable to open country as well as to<lb/>
+forest, then the possibility of non-forest vertebrate hosts<lb/>
+must be studied. Of course, the principal protection the United<lb/>
+States can have is the eradication of <hi>aegypti</hi> from its own<lb/>
+cities.</p>
+<pb n="12" id="f04806012"/>
+<p><figure entity="t04806012"></figure> AREAS IN CENTRAL AMERICA AND THE CARIBBEAN WHERE YELLOW FEVER HAS OCCURRED<lb/>
+FROM 1948 TO NOVEMBER 1954</p>
+<pb n="13" id="f04806013"/>
+<p>- 9 -</p>
+<p>Dr. Smadel: To return to the other point that you have<lb/>
+mentioned, Dr. Trapido is at the Gorgas Laboratory and<lb/>
+Dr. Boshell is with the PASB. I take it then that you are<lb/>
+going to depend increasingly on the Gorgas Laboratory for<lb/>
+study, watch, etc.</p>
+<p>Dr. Soper: That is right but I would insist that this<lb/>
+does not necessarily mean that the Bureau can make financial<lb/>
+contributions to the maintenance of the Gorgas Institute<lb/>
+itself.</p>
+<p>Dr. Smadel: No, I'll be very bold and say, are we not<lb/>
+now at a position where somebody - whether it is Pan American,<lb/>
+Military Services, Public Health Service - is going to have<lb/>
+to increase the available facilities at the Gorgas Laboratory<lb/>
+if we are going to continue to work up to the Central<lb/>
+Americas on this problem.</p>
+<p>Dr. Soper: Of course, this is a gambling proposition.<lb/>
+Yellow Fever may not cross into Guatemala. It may die out<lb/>
+right where it is. In 1946, in South Brazil Yellow Fever<lb/>
+died out under conditions where 10 years earlier it had pro-<lb/>
+ceeded full speed ahead into new areas. In 1951, it passed<lb/>
+through the area where it died out in '46 and, as in 1936,<lb/>
+it swept into new areas, only to die out in 1953 without<lb/>
+invading the area infected in 1938 with the production of<lb/>
+thousands of human cases. The answer to the question<lb/>
+Dr. Smadel has raised is difficult. How far shall we go in<lb/>
+building an organization for what may be very short term<lb/>
+studies in a limited area? If the interest is in Yellow<lb/>
+Fever as a general problem, whether it is right next door<lb/>
+to the United States or not, then the answer is yes. Yellow<lb/>
+Fever is a continuing problem, always in some area in the<lb/>
+Americas, with many important factors to be studied.</p>
+<p>Dr. Goodner: Well, so long as we have the problem of<lb/>
+Yellow Fever in Central and South America, we are going to<lb/>
+have to be worried about it in the United States because of<lb/>
+the speed of air travel. As far as I am concerned, it doesn't<lb/>
+make any difference whether it is on this spot on the map or<lb/>
+down further. Would you agree with that?</p>
+<p>Dr. Soper: I agree with that so long as we fail to get<lb/>
+rid of our <hi>aegypti</hi>. Now, we know how to get rid of the<lb/>
+<hi>aegypti</hi>. We know the answer to that. It is just a question<lb/>
+of doing the job. But, we don't know the answer to some of<lb/>
+the other questions.</p>
+<p>Dr. Edsall: When you say get rid, do you mean eradi-<lb/>
+cation, not suppression, in an area provided it doesn't get<lb/>
+reinfested from another area that you can't do anything about?</p>
+<pb n="14" id="f04806014"/>
+<p>- 10 -</p>
+<p>Dr. Soper: Dr. Edsall, we are involved in the eradi-<lb/>
+cation of <hi>aegypti</hi> today because it was discovered in Brazil<lb/>
+22 or 23 years ago, that this mosquito could be completely<lb/>
+eliminated from certain large cities. Then it was found<lb/>
+more economical to get rid of <hi>aegypti</hi> in the suburbs than<lb/>
+it was to have the principal cities reinfested from the<lb/>
+suburbs. And after the suburbs were clean, occasionally,<lb/>
+people would move in from the small towns in the interior<lb/>
+bringing their water jars with them and would reinfest the<lb/>
+city. So Brazil found itself with an ever expanding eradi-<lb/>
+cation program. In 1946, eradication had gone so far that<lb/>
+reinfestation from immediately contiguous countries was a<lb/>
+serious problem. Brazil has frontiers with 10 different<lb/>
+countries. And in 1947, Brazil proposed a campaign for<lb/>
+the eradication of <hi>aegypti</hi> from the Americas. <hi>Aegypti</hi><lb/>
+has not been found in Bolivia since 1948. No known foci<lb/>
+of <hi>aegypti</hi> infestation are known in Brazil. Some 200 men<lb/>
+searching in northeast Brazil last year found three isolated<lb/>
+houses with <hi>aegypti</hi>. Paraguay and Uruguay are clean as are<lb/>
+British Guiana and French Guiana. Venezuela is probably<lb/>
+80% clean. Panama and the Central American countries up to<lb/>
+Honduras are reported clean. The program, Dr. Edsall, is<lb/>
+for the complete eradication of the last <hi>aegypti</hi> on the<lb/>
+continent. It is a feasible program and the danger of re-<lb/>
+infestation from Africa or from other parts of the world<lb/>
+is very slight if minimal checking is continued. Occasion-<lb/>
+ally, <hi>aegypti</hi> travels on ocean going ships, occasionally it<lb/>
+may come in on planes, but once it has been eradicated, the<lb/>
+finding of an isolated focus is not an emergency matter and<lb/>
+can be handled very easily. (See map No. 5)</p>
+<p>Dr. Edsall: You answered my question and its implica-<lb/>
+tions. I thought it worthwhile to get clear in all our<lb/>
+minds in the group here such points as you made, as Brazil<lb/>
+has apparently succeeded in eradicating it under what must<lb/>
+be infinitely more difficult conditions than we face, for<lb/>
+example, in the USA. Aside from the lesser financial re-<lb/>
+sources in Brazil there are also the more difficult physical<lb/>
+conditions, the transport problems, etc. The multiple<lb/>
+operations involved in doing this job would seem to the<lb/>
+amateur to be insurmountable, and yet it has been done.</p>
+<p>Dr. Soper: Eradication is going to require some capital<lb/>
+investment, over a period of three or four years. It can't<lb/>
+be done without money. When an <hi>aegypti</hi> eradication program<lb/>
+was under discussion with the Minister of Health of<lb/>
+Argentina, a few months ago, it was suggested that 500 men<lb/>
+should be used to guarantee early success. The Minister at<lb/>
+first protested the expense, but could not avoid the issue<lb/>
+when it was pointed out that all of the surrounding coun-<lb/>
+tries - Chile, Bolivia, Paraguay, Uruguay, and Brazil - had<lb/>
+already paid the price for eradication.</p>
+<pb n="15" id="f04806015"/>
+<p><figure entity="t04806015"></figure> PROGRESS OF <hi rend="italic">A&Euml;DES AEGYPTI</hi> ERADICATION CAMPAIGN AS OF 30 OCTOBER 1954</p>
+<pb n="16" id="f04806016"/>
+<p>- 11 -</p>
+<p>Dr. Goodner: Well, I think that one should not leave<lb/>
+this discussion without pointing out that Dr. Soper has<lb/>
+done one of the most amazing things in preventive medicine,<lb/>
+which, except among the Tropical Disease People, is not<lb/>
+adequately recognized; namely, the elimination of the<lb/>
+<hi>Anopheles gambiae</hi> from Brazil. If he had never done that,<lb/>
+one might have some hesitancy in accepting the Herculean<lb/>
+task that he is talking about but he has done it. So it<lb/>
+can be done. That job was probably more difficult than this<lb/>
+one.</p>
+<p>Dr. Edsall (in closing): I think there were two prin-<lb/>
+cipal functions involved in asking you to take the time to<lb/>
+come up here and present this to us, Dr. Soper. One was<lb/>
+that many of us needed - and those of us who already knew<lb/>
+some of it would still benefit from - a mere statement of<lb/>
+the facts and the story; and the other one is that it is<lb/>
+encouraging for this group to hear a story tied in with the<lb/>
+events and the successes and the large concepts that have<lb/>
+been carried through to conclusions, such as you can give<lb/>
+us here. I think we can apply some of that to other things<lb/>
+from time to time. I want to thank you very, very much for<lb/>
+taking the time and for the marvelous job of condensation<lb/>
+which you did.</p>
+<pb n="17" id="f04806017"/>
+<p><figure entity="t04806017"></figure> AREAS REPORTED WITH YELLOW FEVER<lb/>
+1900 TO 1931<lb/>
+<add><unclear>[unclear]</unclear><lb/>
+aegypti<lb/>
+<unclear>[unclear]</unclear></add></p>
+<pb n="18" id="f04806018"/>
+<p><figure entity="t04806018"></figure> AREAS REPORTED WITH YELLOW FEVER<lb/>
+1932-1955<lb/>
+<add>Jungle &amp; Urban</add></p>
+<pb n="19" id="f04806019"/>
+<p><figure entity="t04806019"></figure> AFRICAN LOCALITIES REPORTING YELLOW FEVER<lb/>
+1900-1931</p>
+<pb n="20" id="f04806020"/>
+<p><figure entity="t04806020"></figure> AFRICAN LOCALITIES REPORTING YELLOW FEVER<lb/>
+1932 TO 1955</p>
+</div1>
+</body>
+</text>
+</TEI.2>

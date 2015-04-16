@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01723001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Walter Reed to Emilie B. Lawrence, April 13, 1876</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Walter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01723001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1876-04-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Lawrence, Emilie B.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship">YES</term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">San Francisco (Calif.)</name>
+<name type="place">Arizona</name>
+<name type="place">New York (N.Y.)</name>
+<name type="place">Norfolk (Va.)</name>
+<name type="place">Murfreesboro (N.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>3 pp.</extent>
+<date value="1876-04-13">April 13, 1876</date>
+<idno rend="suppress">01723001</idno>
+<title>Letter from Walter Reed to Emilie B. Lawrence, April 13, 1876</title>
+</bibl>
+</head>
+<p>Reed is ordered to San Francisco. He will visit Emilie Lawrence with a &ldquo;startling request.&rdquo;</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1876-04-13">
+<head>Letter from Walter Reed to Emilie B. Lawrence, April 13, 1876</head>
+<pb n="1" id="f01723001"/>
+<opener>
+<dateline>
+Willet's Point, N.Y.H.<lb/>
+<date value="1876-04-13">April 13<hi rend="superscript">th</hi> 1876.</date>
+</dateline>
+<salute>My darling Emilie:</salute>
+</opener>
+<p>Well, the<lb/>
+orders, which I have been<lb/>
+so anxiously awaiting, have<lb/>
+arrived- I am ordered to<lb/>
+accompany a detachment<lb/>
+of Soldiers to San Francis-<lb/>
+co, &amp; then to report to the<lb/>
+General commanding the<lb/>
+Department of <hi>Arizona</hi><lb/>
+for assignment to duty.<lb/>
+I will be placed on wait-<lb/>
+ing orders for a period<lb/>
+<pb n="2" id="f01723002"/>
+of 4 weeks, more or less-<lb/>
+<del>&amp;</del> as the Detachment will<lb/>
+not start till that time-<lb/>
+I shall <hi>remain at home<lb/>
+during this time</hi> -- will leave<lb/>
+New York for Norfolk<lb/>
+next Monday -- &amp; probably<lb/>
+get to Murfreesboro on<lb/>
+Wednesday or Thursday-<lb/>
+Be prepared for <add>a</add> very<lb/>
+<hi>startling request</hi>, when<lb/>
+I do arrive, for if I go<lb/>
+to Arizona, I cannot<lb/>
+return for 3 or 4 years,<lb/>
+&amp; to be separated from<lb/>
+<pb n="3" id="f01723003"/>
+you, my sweet, for that length of<lb/>
+time cannot be <hi>entertained.</hi></p>
+<p>I write in great<lb/>
+haste-</p>
+<closer>
+<salute>Ever, your fond &amp; devoted</salute>
+<signed>Walter</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

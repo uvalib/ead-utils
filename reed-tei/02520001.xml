@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02520001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Proceedings of a Medical Commission Appointed By Circular Letter No. 59, by Valery Havard, September, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Havard, Valery</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02520001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-09-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Albertini, A. Diaz</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Reed, Walter</name>
+<name type="place">Havana (Cuba)</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>11 pp.</extent>
+<date value="1901-09-00">September, 1901</date>
+<idno rend="suppress">02520001</idno>
+<title>Report: Proceedings of a Medical Commission Appointed By Circular Letter No. 59, by Valery Havard, September, 1901</title>
+</bibl>
+</head>
+<p>Havard provides evidence that Caldas' and Bellingaghi's theories are unsound and should not be accepted. He includes a detailed time-line of events and a list of arguments to conclude his report against Caldas. Enclosed are charts, reports, and other documents used as evidence. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1901-09-00">
+<head>Report: Proceedings of a Medical Commission Appointed By Circular Letter No. 59, by Valery Havard, September, 1901</head>
+<pb n="1" id="f02520001"/>
+<p>File under Caldas &amp; Bellingaghi</p>
+<p>HEADQUARTERS<lb/>
+DEPARTMENT OF CUBA<lb/>
+OFFICE OF CHIEF SURGEON,<lb/>
+HAVANA.</p>
+<p>PROCEEDINGS OF A MEDICAL COMMISSION APPOINTED<lb/>
+BY THE FOLLOWING CIRCULAR LETTER.</p>
+<p>Circular Letter, )<lb/>
+(<lb/>
+No. 59. )</p>
+<p>HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+Havana, August 7, 1901.</p>
+<p>A medical commission, to consist of:</p>
+<p>Major Valery Havard, Surgeon, U.S. Army, Chief Surgeon of the<lb/>
+Department;</p>
+<p>The Physicians composing the Havana Yellow Fever Board;<lb/>
+will meet at Las Animas Hospital in this city at 4 o'clock P.M.,<lb/>
+August 9, 1901, or as soon thereafter as practicable, for the pur-<lb/>
+pose of examining into the propositions and claims of Drs. Caldas<lb/>
+and Bellinzaghi, and submit, in connection therewith, such recom-<lb/>
+mendations as it may deem best for the interest of science and<lb/>
+medicine.</p>
+<p>BY COMMAND OF BRIGADIER GENERAL WOOD:</p>
+<p>H. L. SCOTT,<lb/>
+Captain 7th Cavalry,<lb/>
+Adjutant General.</p>
+<p>In compliance with the above letter, the commission met at<lb/>
+Las Animas Hospital on August 9th at 4 P.M.; all the members<lb/>
+present; Drs. Caldas and Bellinzaghi also present.</p>
+<p>Dr. Caldas stated to the commission that he had discovered<lb/>
+the pathogenic microbe of yellow fever and, from cultures there-<lb/>
+of, prepared a curative serum and prophylactic vaccine; that he<lb/>
+was convinced of the efficacy of his vaccine and desired to be<lb/>
+<pb n="2" id="f02520002"/>
+(2)<lb/>
+furnished the opportunity of demonstrating this efficacy before<lb/>
+the commission. He proposed that a certain number of non-<lb/>
+immune persons be inoculated with his vaccine and when thus<lb/>
+immunized against yellow fever that they should be bitten with<lb/>
+infected mosquitoes; this he declared could be done with perfect<lb/>
+impunity as it was impossible for persons immunized with his<lb/>
+vaccine to contract yellow fever. He then described the pro-<lb/>
+cess by which he immunizes the horse and obtains his curative<lb/>
+serum, and the process by which he prepares his prophylactic<lb/>
+vaccine, which is an attenuated culture of his microbe. He also<lb/>
+explained his procedure to produce immunization in man; as his<lb/>
+vaccine is liable to develop marked febrile movement and other<lb/>
+yellow fever symptoms he previously injects a dose of his serum<lb/>
+to ward off such symptoms. The commission then requested that<lb/>
+he would demonstrate his pathogenic microbe and describe the<lb/>
+method of its isolation and culture; this he formally declined<lb/>
+to do, because of his pledge to the company organized to exploit<lb/>
+his discovery, and also because he thought such demonstration<lb/>
+would, at this time, result in nothing but useless scientific<lb/>
+wrangles. This much, however, he was willing to divulge, namely,<lb/>
+that his microbe is not found in the blood but always in the<lb/>
+intestines, having been present in every case examined. If per-<lb/>
+mitted, said he, to vaccinate non-immune persons, and these are<lb/>
+subjected to the bite of infected mosquitoes and do not develop<lb/>
+yellow fever, the causative relation of his microbe to the dis-<lb/>
+ease would be indirectly proved.</p>
+<pb n="3" id="f02520003"/>
+<p>(3)</p>
+<p>Having been asked by what tests he had convinced himself<lb/>
+of the efficacy of his vaccine, he stated that, during the past<lb/>
+two years, he had inoculated with it 23 young men, mostly students,<lb/>
+at Rio Grande do Sul, where yellow fever is unknown, previous to<lb/>
+their going to Rio de Janeiro where yellow fever is endemic, and<lb/>
+that none of these young men had, so far as he knew, contracted<lb/>
+the fever. Upon the request of the commission, he submitted<lb/>
+that statement in writing, but without any other evidence or<lb/>
+proof than his own declaration. Referring to his curative<lb/>
+serum, he informed the commission that in Brazil, as well as in<lb/>
+Mexico, he and Dr. Bellinzaghi had obtained with it an average of<lb/>
+85 per cent. of cures, a result which, even if correctly reported,<lb/>
+did not appear to the commission sufficiently promising to jus-<lb/>
+tify experimentation with it in Havana.</p>
+<p>After careful discussion of the subject, the commission<lb/>
+decided that, since Dr. Caldas did not intend to demonstrate his<lb/>
+microbe and thus put his claim upon a true scientific basis, it<lb/>
+should decline active cooperation in his tests; it, however,<lb/>
+recommended that the necessary facilities be afforded him, and<lb/>
+stood ready, in its official capacity, to watch result<add>s</add> and report<lb/>
+upon them.</p>
+<p>Thereupon, Dr. Bellinzaghi engaged four non-immune immigrants<lb/>
+and, as required by the commission, made with them a written con-<lb/>
+tract whereby they voluntarily offered themselves to be inocu-<lb/>
+lated with Dr. Caldas' vaccine and then bitten by infected mos-<lb/>
+quitoes, for a certain stipulated sum of money, to be paid on the<lb/>
+termination of the experiment. These four men were sent to<lb/>
+<pb n="4" id="f02520004"/>
+(4)<lb/>
+Las Animas Hospital and kept in a mosquito-proof, wire-screened<lb/>
+room.</p>
+<p>August 14th. The commission met at 11.30 A.M. at Las<lb/>
+Animas Hospital. They found that two of the four men selected<lb/>
+by Dr. Caldas for his experiments were probably immunes. The<lb/>
+other two named respectively Antonio Gomez and Paulino Alonso<lb/>
+received each 12 c.c. of Dr. Caldas' serum, injected in the glute-<lb/>
+al region by Dr. Bellinzaghi.</p>
+<p>August 15th. The commission met at 11 A.M. at Las Animas<lb/>
+Hospital. A very slight febrile reaction, and some local ten-<lb/>
+derness had followed the injection of the serum. The two sub-<lb/>
+jects were inoculated by Dr. Caldas, in the same region, with 3 c.<lb/>
+c. of the vaccine obtained by Dr. Caldas from an attenuated and<lb/>
+filtered culture of his bacillus. He explained that this vac-<lb/>
+cine produces a very sharp reaction if it be not preceded by an<lb/>
+injection of the antitoxic serum. The accompanying chart of<lb/>
+Paulino Alonso shows that the so-called vaccine was followed by<lb/>
+a slight reaction. Dr. Caldas declared that his subject would<lb/>
+be immunized in five days. The commission decided that the<lb/>
+infected mosquitoes should be applied one week after the vac-<lb/>
+cination.</p>
+<p>August 22nd. At 9.30 A.M. the commission met at the of-<lb/>
+fice of the Chief Surgeon, Drs. Caldas and Bellinzaghi being<lb/>
+present. It was resolved that the commission meet in the af-<lb/>
+ternoon at Las Animas Hospital, and apply two infected mosquitoes<lb/>
+to one of the subjects previously vaccinated by Drs. Caldas and<lb/>
+Bellinzaghi; the other subject to remain under observation, and<lb/>
+to be inoculated later if the first should appear to be protect-<lb/>
+<pb n="5" id="f02520005"/>
+(5)<lb/>
+ed by the supposed immunizing vaccine. The Brazilian gentlemen<lb/>
+were warned that the experiment was a dangerous one; that the<lb/>
+yellow fever that was being produced by the mosquitoes then a-<lb/>
+vailable was of a grave type. They were further told that the<lb/>
+experiment should not be performed without stating clearly to<lb/>
+the subjects the probable dangers. The Brazilian gentlemen<lb/>
+expressed themselves as absolutely certain that the subjects<lb/>
+had been absolutely immunized against yellow fever by the vac-<lb/>
+cine.</p>
+<p>The commission met at 4 P.M. in the Inoculation Station of<lb/>
+Las Animas Hospital, Drs. Caldas and Bellinzaghi being present.<lb/>
+After the subject had been told the nature of the experiments,<lb/>
+and the risk incurred, he, of his own free will subjected himself<lb/>
+to the experiment. Two mosquitoes were then applied to his<lb/>
+arm. One of the insects applied had previously produced a mild<lb/>
+attack of yellow fever, and the other, when first applied with<lb/>
+three other insects, had produced a mild case, and when applied<lb/>
+the second time had produced, in conjunction with one other in-<lb/>
+sect, a severe (subsequently fatal) case. The subject and his<lb/>
+companion, who had also been vaccinated, but not bitten by in-<lb/>
+fected mosquitoes, were then transferred to Hospital No. 1, and<lb/>
+placed together in one of the wire-screened rooms in the wards<lb/>
+of Dr. Agramonte. Drs. Caldas and Bellinzaghi were allowed free<lb/>
+access to the ward.</p>
+<p>August 24th. Drs. Finlay and Guiteras visited the subject<lb/>
+at Hospital No. 1 and found him well.</p>
+<pb n="6" id="f02520006"/>
+<p>(6)</p>
+<p>August 25th. Dr. Albertini visited the patient at 4 P.M.<lb/>
+and found that his temperature had risen a few tenths of a<lb/>
+degree above the normal. The face and conjunctivae were slight-<lb/>
+ly injected. The gums were red. The patient did not complain<lb/>
+of any symptoms.</p>
+<p>August 26th. At 9 A.M. the commission met at Hospital<lb/>
+No. 1 to examine the case of Paulino Alonso, the subject who had<lb/>
+been bitten by the infected mosquitoes. Drs. Caldas and Bellin-<lb/>
+zaghi were present. The patient was found to have a tempera-<lb/>
+ture of 39.8 and pulse 90. The invasion had commenced the<lb/>
+preceding afternoon, exactly three days after the bite of the<lb/>
+infected mosquitoes. The patient complained of some headache<lb/>
+and backache. The headache was frontal. The face and con-<lb/>
+junctivae were decidedly injected. There was some photofobia.<lb/>
+The chest and arms also presented considerable peripheral hyper-<lb/>
+aemia. The liver and spleen were not enlarged. There was no<lb/>
+albumen in the urine. Dr. Caldas at once opined that the case<lb/>
+could not be one of yellow fever, because there was no intense<lb/>
+supraorbital pain and rachialgia, no albumen in the urine and no<lb/>
+enlargement of the liver. The commission, differing with Dr.<lb/>
+Caldas as to the presence or absence of some of the symptoms<lb/>
+mentioned, and as to the importance of others, were of opinion<lb/>
+that the symptoms present were those of yellow fever in the<lb/>
+first day of the disease, but they concluded that a final diag-<lb/>
+nosis should not be made until the disease was more fully de-<lb/>
+veloped. See the temperature chart.</p>
+<pb n="7" id="f02520007"/>
+<p>(7)</p>
+<p>August 27th. The commission met at Hospital No. 1, Dr.<lb/>
+Bellinzaghi being present. The temperature of the patient was<lb/>
+39.6, and the pulse 92. A distinct trace of albumen had appear-<lb/>
+ed in the urine. The fever was a continued fever. An exam-<lb/>
+ination of the blood had shown the absence of malarial para-<lb/>
+sites. The patient was nauseated. On the previous day there<lb/>
+had been a fall of the pulse corresponding with a rise of the<lb/>
+temperature. See temperature chart. Other symptoms had be-<lb/>
+come intensified. The commission, therefore, gave their opinion<lb/>
+to the effect that the case was one of yellow fever.</p>
+<p>August 28th. The commission met at Hospital No. 1 at 9.30<lb/>
+A.M. The patient had vomited several times since the last<lb/>
+visit. He had passed black fecal matter. The gums were<lb/>
+spongy. There was slight icterus. The commission resolved<lb/>
+to meet at the office of the Chief Surgeon, Col. Havard, to hear<lb/>
+the views of Dr. Caldas.</p>
+<p>August 28th. At 4 P.M. the commission met in the office<lb/>
+of the Chief Surgeon, Drs. Caldas and Bellinzaghi being present.<lb/>
+The Chairman, Col Havard asked the opinion of Dr. Caldas as to the<lb/>
+nature of the case infected by mosquitoes. Dr. Caldas was most<lb/>
+positive in his opinion that the case was not one of yellow<lb/>
+fever, - that he had none of the pathognomonic symptoms of the<lb/>
+disease. He was told that the opinion of all the physicians,<lb/>
+outside of the commission, who had examined the case was unani-<lb/>
+mous to the effect that the case was one of yellow fever. Dr.<lb/>
+Caldas was sure that the case was one of septicaemia, - a putrid<lb/>
+fever caused by infection from mosquito bites. His reasons for<lb/>
+<pb n="8" id="f02520008"/>
+(8)<lb/>
+rejecting the diagnosis of yellow fever were: that the patient had<lb/>
+had no initial chill, no supraorbital pain, no rachialgia, no<lb/>
+nausea, no epigastralgia, no enlargement of the liver, and no dis-<lb/>
+crepancy between the pulse and temperature. The commission<lb/>
+differed from Dr. Caldas as to the absence of some of these symp-<lb/>
+toms and as to the importance of others. Dr. Caldas was told<lb/>
+that the patient had been vomiting since the previous evening,<lb/>
+and a specimen of the last vomit, just before the meeting, was<lb/>
+shown him. The vomit presented a dirty greenish color, and a<lb/>
+deposit of dark red floculi. In the opinion of the commission<lb/>
+this was the first stage of the black vomit of yellow fever.<lb/>
+Dr. Caldas, however, appeared to attach no importance to the mat-<lb/>
+ter. He seemed not to care to look at the specimen until he<lb/>
+was made to do so. He was then shown the temperature chart,<lb/>
+and his attention was called to the fall of the pulse corres-<lb/>
+ponding with a rise of the temperature. It was very evident<lb/>
+that Dr. Caldas had not followed carefully the course of the<lb/>
+temperature during his visits to the hospital. The commission<lb/>
+received the impression that Dr. Caldas had made up his mind to<lb/>
+the effect that the case should not be one of yellow fever, and<lb/>
+he would not study it with a scientific spirit. He was asked,<lb/>
+however, to present, in writing, his reasons for not accepting<lb/>
+the diagnosis of yellow fever. His statement accompanies this<lb/>
+report.</p>
+<p>In the opinion of the commission the vaccine prepared by<lb/>
+Dr. Caldas had failed to immunize against yellow fever; and it<lb/>
+was therefore decided to discontinue all experiments with the<lb/>
+<pb n="9" id="f02520009"/>
+(9)<lb/>
+serum and vaccine prepared by Drs. Caldas and Bellinzaghi. It<lb/>
+was also decided that other physicians should be invited to<lb/>
+visit the patient.</p>
+<p>August 29th. The visiting and resident staff of Hospital<lb/>
+No. 1 including Drs. Diago, Duenas, Jacobsen, and others, and also<lb/>
+Professor Castro, and Drs. Cabrera and Valdes, experienced physi-<lb/>
+cians of Havana have examined the patient and confirmed the<lb/>
+diagnosis of yellow fever. The temperature has fallen below<lb/>
+the normal. The pulse is 80 and soft. There is some general<lb/>
+icteric discoloration. The urine contains a very large quan-<lb/>
+tity of albumen.</p>
+<p>August 30th. The temperature rose yesterday for a few<lb/>
+hours above the normal to fall again to-day. The urine con-<lb/>
+tains about two grams of albumen.</p>
+<p>September 3rd. The commission met at the office of the<lb/>
+Chief Surgeon. A communication from Dr. Caldas defending his<lb/>
+position that the case of Paulino Alonso was one of putrid<lb/>
+fever produced by the bite of mosquitoes was read. The commis-<lb/>
+sion did not deem it necessary to further discuss this communi-<lb/>
+cation because they have already embodied in this report their<lb/>
+reasons for the diagnosis of yellow fever.</p>
+<p>In conclusion the commission would state</p>
+<p>1st. That Dr. Caldas has kept his alleged discoveries from<lb/>
+the study of other scientists;</p>
+<p>2nd. That the claim made by Dr. Caldas that the pathogenic<lb/>
+agent of yellow fever is found only in the intestinal tract is<lb/>
+<pb n="10" id="f02520010"/>
+(10)<lb/>
+in direct opposition to the evidence furnished by the mosquito<lb/>
+inoculations and the direct blood inoculations made by the Board<lb/>
+presided over by Major Walter Reed, U.S.A. and other experimen-<lb/>
+tors.</p>
+<p>3rd. That the attempt made by Dr. Caldas to immunize an<lb/>
+individual against yellow fever, by means of a vaccine prepared<lb/>
+by him, has failed.</p>
+<p>The commission therefore recommends that all further exper-<lb/>
+iments with the vaccine and the curative serum of Dr. Caldas<lb/>
+should be discontinued.</p>
+<p>There being no further business before it the commission<lb/>
+adjourned sine die.</p>
+<p>V. Havard<lb/>
+<hi rend="italic">Major &amp; Surgeon, U.S. <unclear>Army</unclear><lb/>
+Chief Surgeon</hi></p>
+<p>Juan Guiteras<lb/>
+Carlos Finlay</p>
+<p>AD Albertini<lb/>
+W. C. Gorgas.<lb/>
+Major &amp; Surg. U.S.A.</p>
+<p>Four<lb/>
+Enclosures.</p>
+<p>{<xref id="t02520012">1&deg; - Temperature</xref> and pulse chart</p>
+<p>{<xref id="t02518023">A - Reasons</xref> upon which Dr. Caldas bases his diagnosis of septic fever.</p>
+<p>{<xref id="t02518026">B - Description</xref> of process to obtain serum and vaccine.</p>
+<p>{<xref id="t02518031">C - Copy</xref> of contract made with non-immunes.</p>
+<pb n="11" id="f02520011"/>
+<p>No.<lb/>
+3467</p>
+<p>CIVIL DIVISION<lb/>
+DEPARTMENT OF CUBA<lb/>
+Rec'd 9-6 1901.</p>
+<p><unclear>Headquarters</unclear> Department of Cuba,<lb/>
+<unclear>Received</unclear> SEP 6 1901</p>
+<p><hi>T</hi></p>
+<p>Havana, Cuba,<lb/>
+Undated.</p>
+<p>Major V. Havard,<lb/>
+Chief Surgeon.</p>
+<p>As President of Board called<lb/>
+by Circular Letter 59, c. s., these<lb/>
+Hdqrs., submits report of the<lb/>
+Board on the claims of Doctors<lb/>
+Caldas and Bellinzaghi as to their<lb/>
+discoveries in connection with<lb/>
+yellow fever.</p>
+<p><unclear>OK</unclear><lb/>
+&check;</p>
+<p>4 encl.</p>
+<p>3467</p>
+</div1>
+</body>
+</text>
+</TEI.2>

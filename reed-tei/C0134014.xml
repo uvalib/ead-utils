@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0134014">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from [Henry Rose Carter] to Juan Guiteras, May 3, 1922</title>
+<title type="gmd">[electronic resource] </title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0134014</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1922-05-03</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Juan Guiteras</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Finlay, Carlos J></name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Carter, Laura Armistead</name>
+<name type="person">Guiteras, Mrs. Juan</name>
+<name type="place">Puerto Rico</name>
+<name type="place">French Antilles</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Veracruz (Mexico)</name>
+<name type="place">Ship Island (Miss.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1922-05-03">May 3, 1922</date>
+<idno rend="suppress">C0134014</idno>
+<title>Letter from [Henry Rose Carter] to Juan Guiteras, May 3, 1922</title>
+</bibl>
+</head>
+<p>[Carter] describes his first encounter with Finlay and his impressions of Finlay's work.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1922-05-03">
+<head>Letter from [Henry Rose Carter] to Juan Guiteras, May 3, 1922</head>
+<pb n="1" id="fC0134014"/>
+<opener>
+&sol;LC<lb/>
+2121 California St., N. W.<lb/>
+<unclear>[unclear]</unclear><lb/>
+<unclear>[unclear]</unclear><lb/>
+<dateline>
+Washington, D. C.<lb/>
+<date value="1922-05-03">May 3, 1922.</date>
+</dateline><lb/>
+Dr. Juan Guiteras,<lb/>
+Secretario de Sanidad y Beneficencia,<lb/>
+Habana, Cuba.<lb/>
+<salute>Dear Doctor Guiteras:</salute>
+</opener>
+<p>Thanks for your Martinique article, my Friend. It seems that<lb/>
+we have had the same opinion about la fievre inflammatoire expressed<lb/>
+a little differently. You say &ldquo;when yellow fever is present it&rdquo;<lb/>
+(fievre inflammatoire) &ldquo;is yellow fever and when there was no yellow<lb/>
+fever, it was something else.&rdquo; I said &ldquo;in this disease were included<lb/>
+cases of yellow fever not recognized as such: dengue and its congeners<lb/>
+and other diseases dhowing approximately the same initial symptoms.&rdquo;</p>
+<p>It is worth noting, however, that in the very complete account<lb/>
+of disease in the French Antilles, up to and including Cornilliac any-<lb/>
+way, neither dengue nor six day fever figured; as the epidemic of 1860,<lb/>
+described as F. I. by Ballot, was clearly either of these two--the<lb/>
+latter probably the same that we had in Porto Rico.</p>
+<p>What I meant about Finlay was this: All that I had ever seen<lb/>
+of his work, until you sent me his book, was (1) a brief review, in the<lb/>
+American Journal of Medical Sciences in the spring of 1882 just be-<lb/>
+fore I went to California, of one of his papers--the original one, I<lb/>
+think: (2) wheat was given in Sternberg's Report on his tetrad coccus,<lb/>
+published by the M. H. H.</p>
+<p>I met him on the street cars, going out to the Vedado, Jan. 1899,<lb/>
+and, finding that I did not know my way, he introduced himself and I<lb/>
+<unclear>,</unclear><lb/>
+<pb n="2" id="fC0134015"/>
+I,<lb/>
+2.<lb/>
+recalling the paper I first referred to, asked if he was the author of<lb/>
+it. Thus began our friendship, for it was this, not a mere acquain-<lb/>
+tance. He naturally talked about his views, but while as a writer he<lb/>
+was clear and logical to a degree, in conversation he was, to me, not<lb/>
+convincing. He would usually take as a basis of argument data which I<lb/>
+did not consider established: For instance, I was giving him what I<lb/>
+considered sufficient reasons--the same that I gave Reed in 1900--for<lb/>
+the innocuousness of fabrics as vectors of yellow fever (giving him sta-<lb/>
+tistics of the enormous number of trunks and boxes that had gone into<lb/>
+New York during the summer time from Habana and Vera Cruz without giving<lb/>
+rise to the disease) and he answered calmly that fabrics could not pos-<lb/>
+sibly carry yellow fever unless a mosquito was in the box with them.<lb/>
+This he stated doubtless occurred and explained the cases reported.</p>
+<p>I was, as you know, essentially a field officer--naturally a student,<lb/>
+but from force of circumstances able to be so only incidentally. I was<lb/>
+interested in yellow fever only from the time I went to Ship Island in<lb/>
+1888, where I had only such books as I could afford to buy myself. Finlay<lb/>
+never offered to show me any of his reprints on this subject, and I did<lb/>
+not have any knowledge of it save from the sources I have named, nor<lb/>
+had I heard of Ross' work until I left Cuba in the fall of 1900. Yet<lb/>
+I never considered his claim as &ldquo;unreasonable&rdquo; as Sternberg character-<lb/>
+ize<unclear>s</unclear> it, only as having no sufficient reason shown therefor. I am very<lb/>
+sure that if I had read his various publications on this subject, I<lb/>
+would have held his views as at least extremely probable and would have<lb/>
+ple<add>a</add>d for an experimental test. With my knowledge of the interval of<lb/>
+time between the date an environment receives infection and the date at<lb/>
+which it <unclear>becomes</unclear> infective (the &ldquo;extrinsic incubation of yellow fever&rdquo;)--<lb/>
+in which, by the way, he never seemed at all interested--he would have<lb/>
+kept his mosquitoes about 15 days after the contaminative feeding before<lb/>
+<pb n="3" id="fC0134016"/>
+<unclear>before</unclear> 3.<lb/>
+applying them to the man he would infect. It was from not doing this<lb/>
+that his experiments failed. They did fail, and yet I cannot explain<lb/>
+even now the apparent immunity of the clerics, whom he had subjected to<lb/>
+mosquito inoculation.</p>
+<p>In 1899 Las Animas was reported as non-infectable and we, at my<lb/>
+instance, put out a number of quinine bottles half filled with water to<lb/>
+determine the species of mosquitoes that were breeding there, arguing<lb/>
+that if there were no <hi>Culex icteroides</hi>--as we called it then--it would<lb/>
+be a strong point in favor of it being the vector, and also I agreed to<lb/>
+have this same insect sought for in the different infectable and non-in-<lb/>
+fectable places of the South as soon as I got back to the U. S. We<lb/>
+had no Stegomyiae from our bottles up to the time I left, but, naturally,<lb/>
+before the next summer, Reed's experiments had been done.</p>
+<p>Laura joins me in love to yourself and in very best remembrances<lb/>
+to Mrs. Guiteras.</p>
+<closer>
+<salute>Very truly your friend,</salute>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01674001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Army Medical Board Certificate for Walter Reed, February 8, 1875</title>
+<title type="gmd">[electronic resource] </title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01674001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1875-02-08</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Brown, Joseph B.</name>
+<name type="person">Moore, John</name>
+<name type="person">Bill, J. H.</name>
+<name type="person">Fryer, R. E.</name>
+<name type="person">Hoff, A. H.</name>
+<name type="place">Harrisonburg (Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1875-02-08">February 8, 1875</date>
+<idno rend="suppress">01674001</idno>
+<title>Army Medical Board Certificate for Walter Reed, February 8, 1875</title>
+</bibl>
+</head>
+<p>Reed's Army Medical Board Certificate gives his personal information and includes the names of the Board members. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="certificate" n="1875-02-08">
+<head>Army Medical Board Certificate for Walter Reed, February 8, 1875</head>
+<pb n="1" id="f01674001"/>
+<p>Army Medical Board</p>
+<p>CERTIFICATE<lb/>
+-OF-<lb/>
+Walter Reed <hi rend="italic">M. D.</hi><lb/>
+<hi rend="italic">Date</hi> Febry 8<hi rend="superscript">th</hi>, 1875</p>
+<p><hi rend="italic">BOARD:</hi><lb/>
+<hi rend="italic">Surgeon</hi> Joseph B. Brown<lb/>
+<hi rend="italic">Surgeon</hi> John Moore<lb/>
+<hi rend="italic">Surgeon</hi> J. H. Bill<lb/>
+<hi rend="italic">Surgeon</hi> R. E. Fryer<lb/>
+<hi rend="italic">Asst. Surgeon</hi> A. H. Hoff</p>
+<pb n="2" id="f01674002"/>
+<p>CERTIFICATE.</p>
+<p><hi rend="italic">Name,</hi> Walter Reed.<lb/>
+<hi rend="italic">Birthplace,</hi> Gloucester County, Virginia.<lb/>
+<hi rend="italic">Residence,</hi> Harrisonburg, Virginia.<lb/>
+<hi rend="italic">Age,</hi> Twenty-three, (23).<lb/>
+<hi rend="italic">Married or Single,</hi> Single.<lb/>
+<hi rend="italic">Graduate of Literary Institution==name of,</hi> None.<lb/>
+Univ. of V<hi rend="superscript"><hi>a</hi></hi>. July 1<hi rend="superscript"><hi>st</hi></hi>18<hi>69</hi>.<lb/>
+<hi rend="italic">Graduate of Medical College,==name of,</hi> Bellevue Hospl. Med. Col. Oct<hi rend="sup">r</hi> 1, 18<hi>72</hi><lb/>
+<hi rend="italic">Hospital Service,==Length of Time,</hi> Two Years &amp; Six months.<lb/>
+<hi rend="italic">Act. Asst. Surgeon,==Length of service,</hi> None.</p>
+<p><hi rend="italic">I certify, on honor, that I labor under no mental or physical infirmity,</hi><lb/>
+<hi rend="italic">nor disability of any kind, which can in any way interfere with the most effi-</hi><lb/>
+<hi rend="italic">cient discharge of my duties in any climate.</hi></p>
+<p>Walter Reed, <hi rend="italic">M. D.</hi><lb/>
+<hi rend="italic">Date</hi> February 8<hi rend="superscript">th</hi> 1875.<lb/>
+<hi rend="italic">Physical Examination,</hi></p>
+</div1>
+</body>
+</text>
+</TEI.2>

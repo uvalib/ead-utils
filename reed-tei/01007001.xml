@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01007001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: Anopheles and Sea Water. Observations on the Development of A. quadrimaculatus, A. crucians and a. punctipennis in Salt and Brackish Waters, by T.H.D. Griffitts, [19--]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01007001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Griffitts, T.H.D.</name>
+<name type="place">Langley Field, Hampton (Va.)</name>
+<name type="place">Virginia Beach (Va.)</name>
+<name type="place">West Point (Va.)</name>
+<name type="place">Newport News (Va.)</name>
+<name type="place">Camp Eustis (Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>8 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">01007001</idno>
+<title>Report: Anopheles and Sea Water. Observations on the Development of A. quadrimaculatus, A. crucians and a. punctipennis in Salt and Brackish Waters, by T.H.D. Griffitts, [19--]</title>
+</bibl>
+</head>
+<p>Griffitts reports on the breeding of Anopheles in salt water, mainly in Virginia.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Report: Anopheles and Sea Water. Observations on the Development of A. quadrimaculatus, A. crucians and a. punctipennis in Salt and Brackish Waters, by T.H.D. Griffitts, [19--]</head>
+<pb n="1" id="f01007001"/>
+<opener>
+to Dr. Carter<lb/>
+<hi><unclear>Preceeding</unclear> in</hi><lb/>
+Sea water<lb/>
+ANOPHELES AND SEA-WATER<lb/>
+Observations on the Development of <hi>A. quadrimaculatus</hi>,<lb/>
+<hi>A. crucians</hi> and <hi>A. punctipennis</hi> in Salt and Brackish Waters.<lb/>
+By<lb/>
+T.H.D. Griffitts, Epidemiologist,<lb/>
+U.S. Public Health Service.<lb/>
+</opener>
+<p>In connection with the control of malaria in extra-canton-<lb/>
+ment zones located in &ldquo;tidewater&rdquo; country and in the course<lb/>
+of other malaria investigations, both extending over a period<lb/>
+of four years, the writer has had occasion to note something<lb/>
+of the relative breeding habits of <hi>A. quadrimaculatus</hi>, <hi>A.<lb/>
+crucians</hi> and <hi>A. punctipennis</hi> in relation to sea-water and di<lb/>
+lutions of sea-water.</p>
+<p>As stated by Howard, Dyar and <unclear>Knab<hi rend="superscript">#</hi>,</unclear> &ldquo;Anopheles have been<lb/>
+found breeding in salt or brackish water in many parts of the<lb/>
+world; in every case the habit has been found restricted to<lb/>
+certain species&rdquo;. Literature (that available, at least) is si-<lb/>
+lent as to the amount of salinity withstood by the common<lb/>
+North American species of Anopheles. Smith, in speaking of<lb/>
+Anopheles in New Jersey, says of <hi>A. quadrimaculatus</hi>, &ldquo;this form<lb/>
+also occurs in brackish water on the salt marshes, hence has<lb/>
+a somewhat wider range [than <hi>punctipennis</hi>] and adds the pos-<lb/>
+itive danger of disease to the disadvantages of an undrained<lb/>
+marsh&rdquo;. That <hi>A. crucians</hi> breeds freely in the brackish marshes<lb/>
+<unclear><hi rend="superscript">#</hi></unclear> &ldquo;The Mosquitoes of North and Central America and the West Indies,&rdquo; Vol. I, p. 224.<lb/>
+<pb n="2" id="f01007002"/>
+2<lb/>
+is well and generally known, but there appears to be no record<lb/>
+as to the per cent. of sea<del><unclear></unclear></del>-water that even this species will<lb/>
+withstand.</p>
+<p>The observations herein noted were made in areas bordering<lb/>
+upon either <unclear>Chesapeake</unclear> Bay, Hampson Roads (or tidal tributa-<lb/>
+ries) or the Atlantic Ocean at Virginia Beach, Virginia.</p>
+<p><hi>Anopheles Crucians.</hi></p>
+<p>(1) Near Langley Field, Hampton, Virginia, in September, 1917,<lb/>
+a heavy <hi>A. crucians</hi> infestation of barns was found. The pro-<lb/>
+duction area was found to be a salt marsh three-fourths of a<lb/>
+mile away. Subsequent and repeated examinations revealed <hi><unclear>A.-</unclear><lb/>
+crucians</hi> breeding (producing) generally in the marsh in water<lb/>
+showing a salinity of 10,086 (Hampton Roads at Newport News,<lb/>
+salinity 10,146). <hi>Aedes sollicitans</hi> was also breeding pro-<lb/>
+fusely in the same water. The <hi>A. crucians</hi> larvae were gener-<lb/>
+ally found amongst the salt grass, <hi>distichlis spicata</hi>, the<lb/>
+smaller and finer of the principal marsh grasses found in this<lb/>
+locality. The larger salt marsh grass, <hi>spartina glabra</hi>, grows<lb/>
+more abundantly where there is more tidal action, and <hi>A. cruc-<lb/>
+ians</hi> breeding was found amongst this grass only where growth<lb/>
+was much retarded or where it was dead. No other species of<lb/>
+<hi>Anopheles</hi> bred in this marsh, although a fresh water pond was<lb/>
+producing <hi>A. quadrimaculatus</hi> and the fresh water streams near<lb/>
+were producing <hi>A. punctipennis</hi>.</p>
+<p>(2) At Virginia Beach, Virginia, Lake Rudes, originally a ti-<lb/>
+dal stream and salt marsh, is intermittently formed by a de-<lb/>
+posit of sand at the beach, blocking the outlet and impound-<lb/>
+<pb n="3" id="f01007003"/>
+3<lb/>
+ing salt water. With addition of fresh water from small<lb/>
+streams and rainfall the water of the lake becomes propor-<lb/>
+tionately less saline. The grassy borders of this lake were<lb/>
+found at different times from August to October, 1919, to be<lb/>
+breeding <hi>A. crucians</hi> very freely, larvae of all sizes, or pupae,<lb/>
+were taken at every selective dip. This lake, the salinity of<lb/>
+which had undergone no appreciable change during several weeks,<lb/>
+conformed to Carter's classification of a &ldquo;complete&rdquo; breeding<lb/>
+place, i.e., the eggs deposited here hatched and the succeed-<lb/>
+ing stages of larvae and pupae through to the imagos were<lb/>
+completed in the same water. The salinometer reading here was<lb/>
+10,088 (the salinity of the Ocean here was 10,196). Express-<lb/>
+ed, then, in percentage of sea-water at this point, the lake<lb/>
+was 34.6. Here was a body of diluted sea-water covering approx-<lb/>
+imately five acres producing <hi>A. crucians</hi>, a malaria vector, in<lb/>
+sufficient numbers to be of decided health importance to the<lb/>
+community. Extending to near Lake Rudee and separated there-<lb/>
+from by a strip of elevated land only a few hundred feet wide<lb/>
+was Lake Holly which, with very rare exceptions, was fresh water.<lb/>
+(During the time of observations, the highest salinity was<lb/>
+10,003) This lake was producing <hi>A. <del><unclear></unclear></del><add>quadrimaculatus</add></hi> in great<lb/>
+numbers. Was not this a striking contrast in the selective<lb/>
+breeding places of the two species? Lake Rudee, 34.6% sea-<lb/>
+water, <hi>Anopheles</hi> production 100% <hi><del><unclear></unclear></del> <add><unclear></unclear></add></hi> Holly, prac-<lb/>
+tically fresh (1.5% sea-water) Anopheles production 100%<lb/>
+<hi>quadrimaculatus</hi>. The two breeding <del><unclear></unclear></del><add>areas</add> were separated by less<lb/>
+<pb n="4" id="f01007004"/>
+4<lb/>
+600 feet, and in a stable on this strip of land on an early<lb/>
+day in September there were collected 67 <hi>A. crucians</hi> and 85<lb/>
+<hi>A. quadrimaculatus</hi>.</p>
+<p>(3) At West Point, York River showed a salinity of 10,110. A<lb/>
+pond had been formed by dumpage of rubbish across a salt marsh<lb/>
+for the purpose of extending a street, the fill being very loose<lb/>
+and porous and no culvert was installed. The main tidal stream<lb/>
+was blocked and at high tide additional salt water entered<lb/>
+the pond through the fill. However, the level of the pond<lb/>
+varied little between tides. The salinity at the lower por-<lb/>
+tion of the pond was 10,077, or 70% York River water (This<lb/>
+would be approximately 50% sea-water as generally occuring<lb/>
+along this section of the Atlantic coast). <hi>A. crucians</hi> was breed-<lb/>
+ing (producing) profusely in this water. Two hundred feet away,<lb/>
+in a different portion of the same body of water, but where<lb/>
+the salinity was only 10,003, due to large amount of seepage<lb/>
+and the lack of mixing of the waters by wave action, <hi>A. quad-<lb/>
+rimaculatus</hi> was producing freely.</p>
+<p>(4) <hi>Experiment. A. crucians</hi> larvae of all sizes and pupae coll-<lb/>
+ected from obstructed ditches in the marsh of Back River near<lb/>
+Langley Field September 9, 1920 (salinity 10,088), placed in<lb/>
+sea-water, salinity 10,100, on September 10, were not unfavor-<lb/>
+ably affected by the transfer. All but three (these of first<lb/>
+molt when placed in the sea-water) had developed into imagos<lb/>
+within twelve days. Even the smallest of the larvae developed<lb/>
+equally as well in the sea-water as those in the fresh water<lb/>
+control.</p>
+<pb n="5" id="f01007005"/>
+<p>5</p>
+<p><hi>Anopheles Quadrimaculatus</hi>.</p>
+<p>(1) Lake Holly, at Virginia Beach, as before stated, is prac-<lb/>
+tically always fresh. Some years ago a flume was constructed<lb/>
+connecting the lake with the ocean for the purpose of admit-<lb/>
+ting sea-water at high tide, In its present condition, salt<lb/>
+water come<add>s</add> into the lake only at times of very high storm<lb/>
+tide; so no success is accomplished in keeping the salinity<lb/>
+even high enough to preclude the breeding of <hi>A. quadrimaculatus</hi>.<lb/>
+In many parts of the lake, prior to the successful malaria<lb/>
+control operations in 1920, this species was foud breeding<lb/>
+freely. The highest salinity found at any time was 10,003,<lb/>
+or approximately 1,5% sea-water at this place. No other<lb/>
+species of Anopheles was found breeding in this lake at any<lb/>
+time. <hi>A. quadrimaculatus</hi> was breeding profusely in another<lb/>
+fresh water pond one half mile distant and <hi>A. crucians</hi> in the<lb/>
+saline Lake Rudee a few hundred feet away.</p>
+<p>(2) The small body of impounded water at West Point, previous-<lb/>
+ly noted, covered an area approximately three acres in extent,<lb/>
+in which there was a growth of raeds and salt grass (<hi>distich-<lb/>
+lis apicata</hi>) still remaining. As noted, the lower saline<lb/>
+portion of the pond was producing <hi>A. crucians</hi>. On the oppo-<lb/>
+site <add>side</add> of the pond, 200 feet away, where seepage outcrop ren-<lb/>
+dered the water fresh, only <hi>A. quadrimaculatus</hi> was breeding.<lb/>
+The salinometer reading here was 10,003. The land rises ab-<lb/>
+ruptly from the narrow valley and this topographic condition,<lb/>
+together with the amount of vegetation in the water, served<lb/>
+to prevent wave action and mixing of the waters, and, conse-<lb/>
+<pb n="6" id="f01007006"/>
+6<lb/>
+quently, the water on this side of the pond remained almost en-<lb/>
+tirely fresh.</p>
+<p>(3) A pond at the upper end of a salt marsh near Newport<lb/>
+News produced <hi>A. quadrimaculatus</hi> in great numbers in 1917.<lb/>
+This pond was one of the notorius products of road construc-<lb/>
+tion to be found in tide-water country, where roads are built<lb/>
+across salt marshes: culverts are set at too <del>h</del> high elevation<lb/>
+or are inadequate in capacity, resulting in the impoundment<lb/>
+of fresh or more or less saline water above the fill. In this<lb/>
+particular case, at times of storm tides salt water was ad-<lb/>
+mitted to the fresh water of the pond. However, the salinity<lb/>
+was never so strong or so continuous as to kill the luxurient<lb/>
+growth of cat-tails that occupied practically all of the<lb/>
+two acres of the pond, except a small portion near the efflu-<lb/>
+ent culvert. On an occasion of high tide the lower portion of<lb/>
+the pond showed a salinity of 10,076. At this time breeding<lb/>
+was under control, but the question naturally arises as to<lb/>
+whether or not the larvae and pupae <unclear>CIA</unclear> <hi>A. quadrimaculatus</hi><lb/>
+may resist a relatively high degree of salinity intermittent-<lb/>
+ly. The determination of this point has a practical bearing<lb/>
+on malaria control and could be <unclear>trated</unclear> readily by ex-<lb/>
+periments.</p>
+<p>(4) Near Lee Hall and Camp Eustis, Virginia, in 1918, F.E.<lb/>
+Chidester and T.B.Hayne, Jr., working with the writer, collected<lb/>
+Anopheles larvae from the edge of a tidal marsh, the water<lb/>
+showing a salinity of 10,048. Two specimans of <del><unclear>acquad-</unclear></del><add>A. quadrimac-</add><lb/>
+<pb n="7" id="f01007007"/>
+7<lb/>
+ulatus emerged from this collection. Chidester and Hayne<lb/>
+are both careful observers and they expressed the opinion<lb/>
+that this was a complete breeding place. However, in surveys<lb/>
+extending over several seasons, under various conditions and<lb/>
+in many salt marsh areas, the writer has been unable to sub-<lb/>
+stantiate their findings.</p>
+<p>(5) <hi>Experiment</hi>. Fourteen <hi>A. quadrimaculatus</hi> larvae, all sizes,<lb/>
+collected from a fresh water pond and put into sea-water, sa-<lb/>
+linity 10,160, were all killed within twelve hours, the larger<lb/>
+ones surviving the longest. No mortality in the pond water<lb/>
+control.</p>
+<p><hi>Anopheles Punctipennis</hi></p>
+<p>The writer has never found breeding of this species, <hi>A.<lb/>
+punctipennis</hi>, in salt or brackish water, nor is there report<lb/>
+of such breeding. But there is much evidence that <hi>A. puncti-<lb/>
+pennis</hi> has a wider range of breeding habits than either <hi>A</hi>.<lb/>
+<hi>quadrimaculatus or A. crucians</hi>. It is found in the coldest<lb/>
+mountain springs and branches and at times in streams and ditch-<lb/>
+es foul with sewage. It is not <unclear>resistent</unclear>, however, to sea-water.<lb/>
+<hi>Experiment</hi>. Twenty-five <hi>A. punctipennis</hi> larvae, all sizes, coll-<lb/>
+ected from a ditch and a fresh water lake and transferred to<lb/>
+sea-water, salinity, 10,100, all killed within seven hours. No<lb/>
+mortality in fresh water control.</p>
+<p><hi>Conclusions</hi></p>
+<p>1. <hi>A. crucians</hi> was found to breed in sea-water diluted to a<lb/>
+maximum salinity of 10,088, or slightly more than 50% aver-<lb/>
+<pb n="8" id="f01007008"/>
+8<lb/>
+age sea-water. Transferring <hi>A. crucians</hi> larvae which had<lb/>
+<unclear>started</unclear> their development in saline water to sea-water<lb/>
+did not unfavorably affect their subsequent development.</p>
+<p>2. <hi>A. quadrimaculatus</hi> was not found to breediin numbers<lb/>
+to be of importance in a higher salinity than 10,003, or<lb/>
+1.5% sea-water. In one case two larvae found in water with<lb/>
+a salinity of 10,046 developed into <hi>A. quadrimaculatus</hi> imagos,<lb/>
+but this observation requires confirmation <add>as to whether</add>
+this species may<lb/>
+complete its entire water cycle in so high a per cent. of<lb/>
+sea-water. The question is raised as to whether <hi>A. quadri-<lb/>
+maculatus</hi> larvae may not withstand <add>much</add> higher salinity inter-<lb/>
+mittantly then continuously. Specimens of <hi>A. quadrimaculatus</hi><lb/>
+larvae transferred from non-saline pond-water to sea-water,<lb/>
+salinity 10,160, were all killed within 12 hours.</p>
+<p>3. <hi>A. punctipennis</hi> was not found breeding in salt or brack-<lb/>
+ish waters. This species breeds under a wider range of con-<lb/>
+ditions than either <hi>A. quadrimaculatus</hi> or <hi>A. crucians</hi>, but<lb/>
+apparently does not breed in salt or brackish waters. Lar-<lb/>
+vae of <hi>A. punctipennis</hi> put into sea-water were all dead with-<lb/>
+in seven hours.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

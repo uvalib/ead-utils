@@ -1,0 +1,937 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00820001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: The Activities of the United States Public Health Service in the Camp Meade Extra Cantonment [sic.] Zone, January 1918 to June 30, 1919</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00820001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1919-06-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Camp Meade (Md.)</name>
+<name type="hospital">Base Hospital</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>26 pp.</extent>
+<date value="1919-06-30">June 30, 1919</date>
+<idno rend="suppress">00820001</idno>
+<title>Report: The Activities of the United States Public Health Service in the Camp Meade Extra Cantonment [sic.] Zone, January 1918 to June 30, 1919</title>
+</bibl>
+</head>
+<p>This report details the Army's mosquito control operations around Camp Meade, Maryland.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1919-06-30">
+<head>Report: The Activities of the United States Public Health Service in the Camp Meade Extra Cantonment [sic.] Zone, January 1918 to June 30, 1919</head>
+<pb n="1" id="f00820001"/>
+<p>REPORT OF THE ACTIVITIES OF THE UNITED STATES PUBLIC HEALTH SERVICE<lb/>
+IN THE CAMP MEADE EXTRA CANTONMENT ZONE<lb/>
+JANUARY 1918 to JUNE 30, 1919.</p>
+<p>MAJOR PERSONNEL<lb/>
+<table rows="6" cols="3">
+<row>
+<cell>Assistant Surgeon General</cell><cell>H. R. Carter</cell><cell>In supervisory charge.</cell></row>
+<row>
+<cell>Surgeon</cell><cell>E. A. Sweet</cell><cell>In charge May 2, 1918,<lb/>
+to August 30th, 1918.</cell></row>
+<row>
+<cell>Associate Sanitary Engineer</cell><cell>L. M. Fisher</cell><cell>May 7th, to Aug. 30, 1918.</cell></row>
+<row>
+<cell>Associate Sanitary Engineer</cell><cell>Sol Pincus</cell><cell>In charge April 1, 1919<lb/>
+to June 30th, 1919.</cell></row>
+<row>
+<cell>Assistant Sanitary Engineer</cell><cell>H. F. Tait</cell><cell>April 3, 1919 to June<lb/>
+30th, 1919.</cell></row>
+<row>
+<cell>Acting Assistant Surgeon and<lb/>
+Deputy State Health Officer.</cell><cell>W. C. Stone</cell><cell>Jan. 14, 1918 to June<lb/>
+30th, 1919.</cell></row></table></p>
+<p>GENERAL DESCRIPTION.</p>
+<p>Camp Meade is located in Anne Arundel County, Maryland about<lb/>
+equidistant from the District of Columbia, Baltimore and Annapolis, and less<lb/>
+than twenty five miles from each of these places. The main camp was con-<lb/>
+structed during June - September 1917, as a barracks encampment for National<lb/>
+Army units. It had an average capacity for 50,000 men and was thus one of<lb/>
+the largest o the army camps. The close proximity of this great canton-<lb/>
+ment to these highly important centers of the Nation's war activities gave<lb/>
+the sanitary relations of the camp and zone an extremely large significance.<lb/>
+In fact <unclear>it</unclear> was soon <unclear>demonstrated</unclear>, the camp treated the above cities as within<lb/>
+their zone; laborers and materials being regularly obtained from Baltimore,<lb/>
+<pb n="2" id="f00820002"/>
+- 2 -<lb/>
+while the soldiers on leave visited mostly that city, with the officers<lb/>
+showing partiality for Washington. A very small increase, comparatively, in<lb/>
+activities in the immediately surrounding country resulted from the camp's ex-<lb/>
+istence. From its very commencement the camp, even during the period of<lb/>
+construction, provided for all the legitimate needs of its forces in material<lb/>
+and social ways, within the camp. Unlike the usual occurence, this camp<lb/>
+did not produce the construction of new living or amusement facilities in the<lb/>
+nearby section, <del>therefore,</del> not even one well equipped rooming house or eating<lb/>
+place was erected in the contiguous territory. Odenton, a small unincorpora-<lb/>
+ted village on the eatern edge of the reservation and the town of Laurel of<lb/>
+1500 population received the impetus only to erect a dozen or so cottages and<lb/>
+rent out some furnished rooms to the few brought there by the camp. With the<lb/>
+fine transportation facilities of the Washington, Baltimore, and Annapolis<lb/>
+Electric Line, which operates a regular service into the camp and the Penn-<lb/>
+sylvania Railroad on the eastern side and of the Baltimore and Ohio Railroad<lb/>
+on the northwestern side the opportunity to spend their leisure time in the<lb/>
+large and more attractive cities was generally availed of by the sojourners<lb/>
+at the camp.</p>
+<p>The problem of establishing a protective health zone for the en-<lb/>
+campment at Meade could then be viewed in two ways. The Sanitary Zone to<lb/>
+be extended to include the cities of Washington, Baltimore and Annapolis<lb/>
+which had a close relationship to the camp and where much room for sanitary<lb/>
+improvements and additional public health control existed, especially with<lb/>
+the tendency to decreased health forces and extreme congestion of population<lb/>
+caused by war conditions. The other plan would be to restrict the Federal<lb/>
+<pb n="3" id="f00820003"/>
+- 3 -<lb/>
+extra-cantonment health efforts to the small section directly contiguous to<lb/>
+the reservation, where in the distinctly rural section only a few villages and<lb/>
+two small towns were located. The first plan was probably long considered<lb/>
+but beset with difficulties of the involved relationships and authorities of<lb/>
+the several local and state Boards of Health that it affected, was finally<lb/>
+given up for the second method.</p>
+<p>The sanitary zone about Camp Meade that was established in the Spring<lb/>
+of 1918 was defined to include approximately the area five miles from the<lb/>
+
+boundary of the government reservation. This area was about 125 square<lb/>
+miles nearly all within Anne Arundel County, small sectors extending into<lb/>
+Howard and Prince Georges Counties. The following communities and institu-<lb/>
+tions are within this area.</p>
+<p>
+<table rows="13" cols="4">
+<row>
+<cell></cell><cell></cell><cell></cell><cell>Population</cell></row>
+<row>
+<cell>Laurel</cell><cell>Incorporated town</cell><cell>Prince Georges County</cell><cell>1,500</cell></row>
+<row>
+<cell>Bowie</cell><cell>Unincorporated village</cell><cell>" " "</cell><cell>600</cell></row>
+<row>
+<cell>Savage</cell><cell>" "</cell><cell>Howard County</cell><cell>1,200</cell></row>
+<row>
+<cell>Guilford</cell><cell>" "</cell><cell>" "</cell><cell>500</cell></row>
+<row>
+<cell>Jessup</cell><cell>" "</cell><cell>Anne Arundel County</cell><cell>300</cell></row>
+<row>
+<cell>House of Correction at Jessup</cell><cell></cell><cell>" " "</cell><cell>600</cell></row>
+<row>
+<cell>Annapolis Junction</cell><cell>Unincorporated Village</cell><cell>" " "</cell><cell>100</cell></row>
+<row>
+<cell>Odenton</cell><cell>" "</cell><cell>" " "</cell><cell>400</cell></row>
+<row>
+<cell>Woodwardville</cell><cell>" "</cell><cell>" " "</cell><cell>150</cell></row>
+<row>
+<cell>Severn</cell><cell>" "</cell><cell>" " "</cell><cell>150</cell></row>
+<row>
+<cell>Remaining settlements and rural population</cell><cell></cell><cell></cell><cell><hi>2,500</hi></cell></row>
+<row>
+<cell></cell><cell></cell><cell>Total Population in Zone</cell><cell>.......................</cell><cell>8,000</cell></row></table></p>
+<p>The above population is the estimated war time population in the zone,<lb/>
+which is scarcely an increase of 20 per cent over the normal average number<lb/>
+<pb n="4" id="f00820004"/>
+- 4 -<lb/>
+of persone. About 20 per cent of this population are colored.</p>
+<p>In this area the principal industries are farming, (mostly truck<lb/>
+produce) vegetable canning and cotton weaving. Cotton weaving plants are<lb/>
+located at Savage and Laurel, while nine canneries are scattered through the<lb/>
+zone, at Odenton, Jessup, Woodwardville, etc. Race tracks at Bowie and Laurel<lb/>
+brin an influx of thousands of persons into the zone for short periods during t<lb/>
+the racing seasons. Close to Odenton is the Naval Academy Junction where<lb/>
+passengers from Washington transfer for Annapolis. A large car shop and re-<lb/>
+pair station is maintained at this place by the Washington, Baltimore and<lb/>
+Annapolis Electric Line.</p>
+<p>HISTORICAL</p>
+<p>Two years previous to the establishment of Camp Meade, the entire<lb/>
+county of Anne Arundel was made the subject of an intensive sanitary survey<lb/>
+jointly carried on by the United States Public Health Service. Public Health<lb/>
+Bulletin No. 94. The findings of the survey in the rural sections showed<lb/>
+that there were 4,800 insanitary privies used for excreta disposal with only<lb/>
+576 homes having sanitary types of privies or water closets. &ldquo;At 2,625 ( or<lb/>
+48.41 per cent) of the homes having water supply on the premises, the source<lb/>
+of the water supply was apparently exposed to pollution with human excreta<lb/>
+or other refuse matter, and was regarded by the inspector as unsafe.&rdquo;<lb/>
+At Annapolis, 300 homes with privies were found, and the public water supply<lb/>
+found to be open to pollution. A general educational campaign on disease<lb/>
+prevention was conducted during the survey and partial improvements were ob-<lb/>
+tained in sanitation including the extension of the sewer system and the in-<lb/>
+stallation of chlorination of the public water supply at Annapolis.</p>
+<p>A study of the malaria conditions in the County was made at the same<lb/>
+<pb n="5" id="f00820005"/>
+- 5 -<lb/>
+time by Assistant Surgeon Derivaux. His report stated that conditions were<lb/>
+found favorable to Anopheles Mosquito production for five months of the year,<lb/>
+the middle of May to the first weeks of October He found the Anopheles Mos-<lb/>
+quito common throughout the county the Anopheles punctipennis far more plen-<lb/>
+tiful than the Anopheles Quadrimaculatus and Anopheles Crucians. Though cases<lb/>
+of malaria as gathered from the physicians in the county are not numerous, the<lb/>
+conclusion from the study was that definite danger existed for future periods<lb/>
+when the enormous supply of malaria carrying mosquitoes might obtain access<lb/>
+to a moderately generous gametocyte supply.</p>
+<p>At the time of the establishment of Camp Meade in June 1917, there<lb/>
+was a State Deputy Health Officer who had jurisdiction in the three counties<lb/>
+of Howard, Prince Georges and Anne Arundel. A local part time county<lb/>
+health officer was located at Annapolis and a part time municipal health<lb/>
+officers at Laurel and Annapolis. Unofficial organizations were doing active<lb/>
+health work in the vicinity, e.g. the Maryland Society for the Prevention of<lb/>
+Tuberculosis.</p>
+<p>The general sanitary conditions of the area around Camp Meade before its<lb/>
+construction can be summarized as follows; insanitary &ldquo; E &rdquo; type privies pre-<lb/>
+vailing universally, water supply in rural sections from shallow dug wells or<lb/>
+springs, unprotected from surface contaminations, the public water supply for<lb/>
+the town of Laurel receiving treatment, but the operation of the plant poor,<lb/>
+the sewage from the House of Correction and from Savage Mills entering Little<lb/>
+Patuxent</p>
+<p>ACTIVITIES OF U.S. PUBLIC HEALTH SERVICE IN CAMP MEADE ZONE<lb/>
+1917 - 1918.</p>
+<p>During 1917, the State Department of Health provided 5 inspectors<lb/>
+<pb n="6" id="f00820006"/>
+- 6 -<lb/>
+(medical students) to assist the Deputy State Health Officer in the sanita-<lb/>
+tion of the region about Camp Meade. A survey of the conditions at Laurel and<lb/>
+of the rural section within three miles of camp was made. 600 homes were<lb/>
+canvassed during that season. Efforts to obtain definite improvements in<lb/>
+the sanitary facilities at the dwellings and stores were in part very diffi-<lb/>
+cult and was unproductive. The area about Odenton, was freed of open back<lb/>
+surface privies, and flyproof concrete vaults were installed at every home.<lb/>
+The railroads were obtained to provide satisfactory chemical closets at their<lb/>
+stations at Odenton and Annapolis Junction. During the latter part of the<lb/>
+year the student inspectors were replaced by a full time inspector who directed<lb/>
+the sanitation of the privies and wells. An interchange of reports of<lb/>
+communicable diseases with the Camp Surgeon was arranged to cover the area<lb/>
+about the camp and the reservation itself.</p>
+<p>In 1918, the State Sanitary force maintained in this district was<lb/>
+composed of the Deputy Health and two assistants. Inspections of privies,<lb/>
+garbage collection and protection of water supplies was continued. During<lb/>
+this period a modern sewage treatment plant including primary and secondary<lb/>
+sedimentation, trickling filters and chlorination was installed at the State<lb/>
+House of Correction at Jessup, the final effluent of which entered the drain-<lb/>
+age shed for the Camp Meade water supply. A <hi>sewerage</hi> <add>system</add> and treatment<lb/>
+plant was arranged for the town of Savage, whose drainage also entered the raw<lb/>
+water of the camp, the proposition being placed well under way and the treat-<lb/>
+ment plant, consisting of double sedimentation tank and chlorination later<lb/>
+put into operation, in 1919.</p>
+<p>In this year 91 concrete pit privies and about 500 bucket privies<lb/>
+were installed. Nearly 800 homes and stores were visited. 18 schools<lb/>
+<pb n="7" id="f00820007"/>
+- 7 -<lb/>
+were kept under observation and lectures presented on public health subjects.</p>
+<p>Cases of communicable diseases as reported by the practising physicians<lb/>
+were regularly visited by the deputy state health officer and assistants.<lb/>
+An outbreak of 60 cases of small pox at Savage and 15 in Laurel occured in 1918,<lb/>
+quarantine and guards were employed and the outbreak confined. The influenza<lb/>
+pandemic swept through this region striking practically every home both in<lb/>
+rural and urban sections, leaving its wake of suffering and misery. Only<lb/>
+limited medical aid could be furnished to this region, due to the enormous<lb/>
+demands for assistance upon the State <unclear>Department</unclear> of Health.</p>
+<p><hi>MALARIA CONTROL</hi></p>
+<p>Preliminary survey by Assistant Surgeon General H. R. Carter</p>
+<p>At the request of the Maryland State Department of Health, Assistant<lb/>
+Surgeon General H. R. Carter was sent in August 1917 to make a malaria survey<lb/>
+of Camp Meade and vicinity. In this report of the survey dated August 13,<lb/>
+1917, Dr. Carter records that the State Board of Health house to house census<lb/>
+just then completed demonstrated that malaria occurred in some places in the<lb/>
+Camp Meade Zone but is rare, though some years previously the disease was<lb/>
+reported generally prevalent. The significant features of the topography<lb/>
+were found to be the unusually large number of side marshes and hillside seep-<lb/>
+age outcrops, with a large number of small but permanent streams in a region<lb/>
+which must be classified as very sandy but is apparently considerably under-<lb/>
+laid with an impervious clay-gravel and ironstone strata. It was also noted<lb/>
+that the stream beds would be subject to rapid filling up with sand and the<lb/>
+resultant overflows produces favorable breeding areas for anopheles. As<lb/>
+<pb n="8" id="f00820008"/>
+- 8 -<lb/>
+regards the prevalence of Anopheles breeding in this area, it was seen that the<lb/>
+production of Anopheles was general, even profuse in places and that except<lb/>
+in a few locations only Anopheles punctipennis were developed from the <unclear>lar-<lb/>
+vae.discovered</unclear>. Anopheles quadrimaculatus and Anopheles Crucians were found<lb/>
+in the larger pools in the vicinity of Odenton and the Naval Academy Junction<lb/>
+and at Woodwardville near which places the only instances of malaria were<lb/>
+reported. The general recommendation was that drainage of the breeding<lb/>
+areas was readily practicable and should be the method pursued except in the<lb/>
+case of one or two large ponds.</p>
+<p><hi>Anti Malaria Operations - Season of 1918</hi>.</p>
+<p>Actual mosquito drainage was not commenced in this zone until May<lb/>
+1918, when a Medical Officer and Sanitary Engineer from the Service arrived.<lb/>
+Labor crews obtained from the Maryland House of Correction were started upon<lb/>
+the ditching work May 2. Anopheles were found breeding rather <unclear>profurely</unclear> in<lb/>
+the zone at this time The territory outlined to be covered by anti-malaria<lb/>
+measures was approximately 20 square miles. The first ditching was begun<lb/>
+in the area northeast of the Base Hospital where the breeding of Anopheles<lb/>
+was very large and near to occupied sections of the camp.</p>
+<p>By the end of June approximately 12 square miles of the control area<lb/>
+had been completed as regards initial construction and the following amount of work<lb/>
+had been accomplished</p>
+<pb n="9" id="f00820009"/>
+<p>- 9 -</p>
+<p>DRAINAGE WORK MAY 2ND TO JUNE 30TH, 1918.<lb/>
+<table rows="9" cols="2">
+<row>
+<cell>Seepage Ditches Dug</cell><cell>28,000 linear feet.</cell></row>
+<row>
+<cell>Stream Channesl Cleaned</cell><cell>22,400 " "</cell></row>
+<row>
+<cell>New Stream Channels Cut</cell><cell>2,800 " "</cell></row>
+<row>
+<cell>Large Drainage Ditches Dug</cell><cell>2,450 " "</cell></row>
+<row>
+<cell>Old Ditches Trimmed and Cleaned</cell><cell>7,300 " "</cell></row>
+<row>
+<cell>24 Inch Tile Drain Cleaned</cell><cell>500 " "</cell></row>
+<row>
+<cell>Fill Made</cell><cell>600 Cubic Feet.</cell></row>
+<row>
+<cell>Total Linear feet of ditching performed</cell><cell>63,450 linear feet.</cell></row>
+<row>
+<cell>Labor Costs, Average Crew of 26 men.</cell><cell>$4,800.00</cell></row></table></p>
+<p>The drainage operations were continued for two more months in which<lb/>
+the sections to the east and south were treated. Scarcely any breeding<lb/>
+whatever was discovered in sections where drainage and stream clearing had<lb/>
+been accomplished and the application of oil was seldom considered necessary.<lb/>
+Arrangements were made with the Camp Surgeon whereby the camp sanitary de-<lb/>
+tachment would keep oil sprayers available for such areas in the extra-can-<lb/>
+tonment zone requiring oiling.</p>
+<p>The drainage accomplished from July 1 to the close of the season's<lb/>
+work on August 30 is summarized as follows:</p>
+<pb n="10" id="f00820010"/>
+<p>- 10 -</p>
+<p>DRAINAGE WORK JULY 1ST to AUGUST 30, <unclear>1919</unclear>.<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>New Ditches Dug</cell><cell>43,000 linear feet.</cell></row>
+<row>
+<cell>Old Ditch Or Stream Trained.</cell><cell>18,000 " "</cell></row>
+<row>
+<cell>Fill <unclear>Vade</unclear></cell><cell>4,800 cubic feet.</cell></row>
+<row>
+<cell>Total Labor Costs</cell><cell>$ 5,400.00</cell></row></table></p>
+<p>The following report by Associate Sanitary Engineer L. M. Fisher<lb/>
+gives the description of the areas and the account of the work accomplished<lb/>
+during the season of 1918.</p>
+<p>REPORT ON MALARIA CONTROL WORK AT CAMP MEADE EXTRA CANTONMENT ZONE<lb/>
+SEASON OF 1918, ASSOCIATE SANITARY ENGINEER L. M. FISHER</p>
+<p>The areas in which work was done in Camp Meade extra-cantonment zone<lb/>
+in 1918 are indicated by shading on the accompanying may (Map No. 1 ). They<lb/>
+are as follows:</p>
+<p>A-Area northwest of the base hospital in the vicinity of the George<lb/>
+Junior Republic<lb/>
+B-North of base hospital<lb/>
+C-Northeast of base hospital-Clark swamp<lb/>
+D-Valley of a tributary of Severn River on the Baltimore Boulevard<lb/>
+E-<unclear>Headquarters</unclear> of tributaries of Severn River east of new signal<lb/>
+corps camp.<lb/>
+F-Vicinity about Odenton and Naval Academy Junction<lb/>
+G-Vicinity about Woodwardville opposite rifle range<lb/>
+H-Area west of Portland opposite Remount Station.</p>
+<pb n="11" id="f00820011"/>
+<p>- 11 -</p>
+<p>Between areas C and D additional work remains to be done, at<lb/>
+present it is beyond a mile from any barracks. It is rumored however, that<lb/>
+quarters for 15,000 troops are to be created on high ground near this corner<lb/>
+of the camp.</p>
+<p>Some work also remains to be done between areas D and E.</p>
+<p>Between F and G is a large area in which no work has been done.<lb/>
+It is not close enough, however, to any sleeping quarters to make any material<lb/>
+difference except when troops are encamped on the rifle range. If the<lb/>
+rifle range is to be protected considerable work will be necessary to extend<lb/>
+the area <unclear>F</unclear> southeastward as far as the <unclear>W.B.andi</unclear> Railway tracks. The are is<lb/>
+low, subject to overflow from the Patuxent, contains pools in flood channels<lb/>
+and some marshy land. The army authorities have not done the work inside the<lb/>
+camp necessary to protect the range.</p>
+<p>Between G and H is a large area in now way effecting the camp at<lb/>
+present.</p>
+<p>North of <unclear>H</unclear> and west of A is an area far from the camp and effecting<lb/>
+only the population about Annapolis Junction, or travellers making connection<lb/>
+here.</p>
+<p>Description of Areas.</p>
+<p>In area A there is a swimming pool formed by a dam on a spring fed<lb/>
+stream. The pool has an area of about two acres. The level was lowered<lb/>
+so as to draw most of the water out of the vegetation along the borders.<lb/>
+The edges were cleaned. The pond is well stocked with fish. Two spring<lb/>
+fed tributaries enter the pond. They flow through a wooded swamp. Their<lb/>
+channels were deepened and seepage interception <unclear>ditcher</unclear> dug where necessary.<lb/>
+All this area was unwatered.</p>
+<pb n="12" id="f00820012"/>
+<p>- 12 -</p>
+<p>Area B contains streams flowing through partly wooded areas and marshes.<lb/>
+The stream beds were found obstructed and containing pools in which breeding<lb/>
+was observed under grassy banks and where masses of rootlets afforded protection.<lb/>
+Breeding was observed in hoof prints in the marsh and in small pools</p>
+<p>The edges of the streams were trimmed so as to permit the small fish<lb/>
+to attack the larvae. The necessary seepage ditches were installed in the<lb/>
+marsh.</p>
+<p>Area C contained a rather extensive wooded swamp heavily covered with<lb/>
+marsh alder and some streams. ( Clark Swamp )</p>
+<p>Seepage ditches were constructed in the swamp and the edges of the<lb/>
+stream bed trimmed. On account of its proximity to the hospital the ditches<lb/>
+in this area should be examined and put into conditions before the breeding<lb/>
+season. Some of the seepage ditches are rather deep and enter flowing sand<lb/>
+strata. If the season should be wet some difficulty may be encountered in<lb/>
+maintenance.</p>
+<p>Area D extends along a tributary of the Severn River having a flat<lb/>
+gradient and wooded for the most part. The wooded areas frequently con-<lb/>
+tained swamps which were controlled by deepening the main stream bed and<lb/>
+constructing seepage ditches where necessary. The concrete box culvert<lb/>
+carrying the Baltimore Boulevard over this stream is too high so that<lb/>
+no sufficient fall could be obtained for some of the seepage ditches. This<lb/>
+area also contains a wet weather stream crossing the boulevard west of the<lb/>
+main tributary. In the bed profusely breeding pools were found. It can<lb/>
+be expected that each scouring rain will leave such pools.</p>
+<p>Area E contains the headwaters of many small tributaries of the<lb/>
+Severn River. These tributaries flow through wooded, marshy country.<lb/>
+In two places artificial pools were <unclear>a</unclear> formed by road crossings.<lb/>
+<pb n="13" id="f00820013"/>
+- 13 -<lb/>
+The main channesl were deepened where any existed and new ones dug else-<lb/>
+where where necessary. Many seepage ditches were dug. This area on<lb/>
+account of its proximity to the new Signal Corps Camp is very important<lb/>
+but profuse breeding was not observed in it.</p>
+<p>Area <unclear>F</unclear> lying about Odenton and Naval Academy Junction contains<lb/>
+two artificial ponds and the headwater areas of small tributaries.</p>
+<p>One pond - that used by the W. B. &amp; A Electric Railway Company as a<lb/>
+reservoir for its fire pump - was lowered, its edges cleaned and stocked<lb/>
+with top minnows.</p>
+<p>The other - an abandoned sand pit - was treated by cleaning the edges.<lb/>
+Top minnows were present here and others added.</p>
+<p>A third pond-formerly a borrow pit-was drained.</p>
+<p>The stream channels were deepened as much as necessary to drain seep-<lb/>
+age ditches where railroad culverts did not prevent.</p>
+<p>In a portion o the area agricultural drain tile was laid evidently<lb/>
+by a real estate development company. <unclear>Millow</unclear> roots entering the main 18-<lb/>
+drain having reduced its free sectional area approximately 75% so that<lb/>
+after rains pools are formed. The maintenance work should include pro-<lb/>
+vision for removing obstructions to the inlets after rains.</p>
+<p>Area G, near Woodwardville, contains a number of ponds. The prin-<lb/>
+cipal one was caused by the P.R.R. embarkment placed across what appears<lb/>
+to have been a former stream bed just north of Patuxent Station. A rather<lb/>
+deep and wide channel was out parallel to the railroad embarkment running<lb/>
+north. It is probable that high waters will considerably damage this<lb/>
+channel. A branch leads westward to a low area in the woods.</p>
+<p>East of the railroad some of the old ditches were opened up and<lb/>
+on the Anderson farm southeast of the church a new channel was dug for a<lb/>
+<pb n="14" id="f00820014"/>
+- 14 -<lb/>
+stream that spread over a flat area adjacent to the river.</p>
+<p>Additional work needs to be done in this area to protect the rifle<lb/>
+range but unless the swamp in the camp very much nearer the range is<lb/>
+drained, the work in the outlying areas will not be justified.</p>
+<p>Area H contains principally streams having obstructed channels in<lb/>
+which pools form, and some abandoned ore pits and swamp land adjacent to the<lb/>
+Patuxent.</p>
+<p>The stream channels were cleaned. The ore pits lying south of the<lb/>
+dirt road to Laurel and west of the gravel pits drained. The swamp which<lb/>
+is north of the Laurel road was controlled by diverting the stream overflow-<lb/>
+ing it.</p>
+<pb n="15" id="f00820015"/>
+<p>- 15 -</p>
+<p><hi>CLIMATOLOGICAL DATA</hi> - <hi>CAMP MEADE ZONE</hi><lb/>
+MONTHLY PRECIPITATION, AND MAXIMUM, MINIMUM AND MEAN TEMPERATURE<lb/>
+LAUREL, MARYLAND, 1918.<lb/>
+<table rows="17" cols="5">
+<row>
+<cell></cell><cell></cell><cell><hi>TEMPERATURE</hi></cell><cell></cell><cell></cell></row>
+<row>
+<cell>Month</cell><cell>Precipitation</cell><cell></cell><cell></cell><cell></cell></row>
+<row>
+<cell></cell><cell>(inches)</cell><cell>Maximum</cell><cell>Minimum</cell><cell>Mean</cell></row>
+<row>
+<cell></cell><cell></cell><cell>(Degrees Fahrenheit)</cell><cell></cell><cell></cell></row>
+<row>
+<cell>.............................................................</cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
+<row>
+<cell>January</cell><cell>4.25</cell><cell>52</cell><cell>-10</cell><cell>21.6</cell></row>
+<row>
+<cell>February</cell><cell>0.90</cell><cell>66</cell><cell>- 3</cell><cell>33.4</cell></row>
+<row>
+<cell>March</cell><cell>6.65</cell><cell>79</cell><cell>16</cell><cell>45.0</cell></row>
+<row>
+<cell>April</cell><cell></cell><cell>81</cell><cell>25</cell><cell>51.7</cell></row>
+<row>
+<cell>May</cell><cell>2.92</cell><cell>92</cell><cell>34</cell><cell>67.4</cell></row>
+<row>
+<cell>June</cell><cell>2.43</cell><cell>95</cell><cell>44</cell><cell>69.2</cell></row>
+<row>
+<cell>July</cell><cell>3.27</cell><cell>94</cell><cell>40</cell><cell>71.8</cell></row>
+<row>
+<cell>August</cell><cell>4.25</cell><cell>101</cell><cell>48</cell><cell>74.9</cell></row>
+<row>
+<cell>September</cell><cell>3.67</cell><cell></cell><cell>36</cell><cell></cell></row>
+<row>
+<cell>October</cell><cell>0.95</cell><cell>84</cell><cell>28</cell><cell>57.8</cell></row>
+<row>
+<cell>November</cell><cell>1.54</cell><cell>68</cell><cell>16</cell><cell>43.2</cell></row>
+<row>
+<cell>December</cell><cell>4.95</cell><cell>68</cell><cell>15</cell><cell>39.2</cell></row></table></p>
+<p>Killing Frosts recorded at Laurel, Maryland.<lb/>
+1918, Spring April 6<lb/>
+Autumn October 9.</p>
+<pb n="16" id="f00820016"/>
+<p>- 16 -</p>
+<p>ACTIVITIES OF THE U.S. PUBLIC HEALTH SERVICE SEASON OF 1919.</p>
+<p>When the Service anti-malaria operations were discontinued on the<lb/>
+30th of August, 1918, there remained in the extra cantonment zone the State<lb/>
+Deputy Health Officer in whose sanitary district the Camp Meade Zone lay.<lb/>
+The work thus continued was chiefly the visiting of the reported cases of<lb/>
+the more important communicable diseases and the inspection of sanitary<lb/>
+conditions at Odenton.</p>
+<p>The Public Health Service was again requested to undertake anti-<lb/>
+malaria work in the vicinity of the Camp and on April 1st, sanitary engineers<lb/>
+were detailed to supervise and expend the necessary efforts to prevent the<lb/>
+breeding of Anopheles Mosquitoes likely to reach the Camp. Besides the<lb/>
+strictly anti-malaria measures at once instituted, other matters of sanitary<lb/>
+significance to the camp were pursued.</p>
+<p>The sewage treatment plant at the State Prison at Jessup whose effluent<lb/>
+passes into the raw water for the camp, was frequently inspected and the<lb/>
+operation and chlorination checked. The sewage plant at Savage, similarly a<lb/>
+situated was only placed into operation at about the time of the closing of<lb/>
+the station. The proposition of providing a sewerage and a public water<lb/>
+supply system for Odenton by connection with the camp facilities was <unclear>ta</unclear><lb/>
+<unclear>up</unclear> with the Camp and State sanitary officials. Conferences were <unclear>ha</unclear><lb/>
+studies undertaken to determine the feasibility of this <unclear>improveme</unclear><lb/>
+proposition is now left <unclear>ith</unclear> the State Health Department who will determine<lb/>
+the desirability of proceding further.</p>
+<p>Inspections of the sanitary conditions usually together with the<lb/>
+<pb n="17" id="f00820017"/>
+- 17 -<lb/>
+Deputy State Health Officer were made of the stores, dwellings etc., at<lb/>
+Odenton with respect to the conditions of privies, garbage, manure and water<lb/>
+supply, and orders issued and some improvements obtained. Privies found<lb/>
+breeding flies were treated successfully with disinfectant. A few well<lb/>
+supplies were examined bacteriologically. The temporary railroad con-<lb/>
+struction camps at Odenton and Woodwardville were required to maintain their<lb/>
+privies flyproof and their general premises in sanitary shape.</p>
+<p>MALARIA CONTROL OPERATIONS 1919.</p>
+<p>The areas in which the control operations were undertaken for the pre-<lb/>
+vention of the breeding of Anopheles Mosquitoes and the consequent spread of<lb/>
+malaria were essentially the same in which the previous season's work was<lb/>
+accomplished. The nature and characteristics of these areas are described in<lb/>
+the report<del>s</del> of the former work. The control work for the new season was soon<lb/>
+found to require much more than the straightening and recleaning of old ditches<lb/>
+previously put in; notably the areas north and east of the base hospital and<lb/>
+in the vicinity of Odenton, much new construction of drainage facilities had to<lb/>
+be made, amounting practically to first treatment.</p>
+<p>The first work undertaken this season, Section 1, Job 1(see map<lb/>
+dated June 30, 1919) was the area immediately to the east of the Base Hos-<lb/>
+pital. At the time of the commencement of the ditching on April 15, only<lb/>
+Culex larvae were found breeding, but by the middle of May the larvae of An-<lb/>
+opheles species were discovered rather generally distributed throughout the<lb/>
+areas into which control operations were being pushed. It was not, <hi>however</hi>, <add>until</add> after<lb/>
+<pb n="18" id="f00820018"/>
+- 18 -<lb/>
+the first week of June, that other species of Anopheles than Anopheles<lb/>
+Punctipennis were located, these latter in the warmer, grassy ponds.</p>
+<p>A significant condition noted in three instances during the progress of<lb/>
+the work was the sudden very abundant prevalence of Culex eggs in ponds and<lb/>
+temporarily impounded streams shortly after the labor crew commenced working<lb/>
+on that section.</p>
+<p>The drainage work was carried on to the very close of the fiscal year<lb/>
+1919, when all service activities in this zone were discontinued. Arrange-<lb/>
+ments with the Camp Sanitary Office for the maintenance and oiling necessary<lb/>
+for these drainage areas during the remainder of the breeding season. were made</p>
+<p>SUMMARY OF DRAINAGE OPERATIONS APRIL 15 to JUNE 30, 1919.</p>
+<p>
+<table rows="9" cols="2">
+<row>
+<cell>Number of days actually doing construction</cell><cell><unclear>59 1/2</unclear></cell></row>
+<row>
+<cell>Linear feet of new ditching</cell><cell>28,250</cell></row>
+<row>
+<cell>Linear feet of reditching and stream clearing</cell><cell><hi>35,400</hi></cell></row>
+<row>
+<cell>TOTAL linear feet of ditching</cell><cell>63,650</cell></row>
+<row>
+<cell>Brush clearing square yards</cell><cell>62,760</cell></row>
+<row>
+<cell>Fill made, cubic feet</cell><cell>10,070</cell></row>
+<row>
+<cell>Ponds drains Four total area square feet</cell><cell>10,575</cell></row>
+<row>
+<cell>Labor Cost 1245 man days</cell><cell><unclear>$3,982.00</unclear></cell></row>
+<row>
+<cell>Supervision</cell><cell>601.50</cell></row></table></p>
+<p>SECTION 1 BASE HOSPITAL DISTRICT.</p>
+<p>Job. 1 Rogues Harbor Run.</p>
+<p>Location - North east of Base Hospital. Area extending south<lb/>
+into the government reservation, 400 yards from base hospital and to County<lb/>
+Road to Jessup 1/2 mile in length.</p>
+<p>The area commencing in the Clark property extending north<lb/>
+<pb n="19" id="f00820019"/>
+- 19 -<lb/>
+composed of <unclear>farm</unclear> and densely brush covered land contains the heaviest<lb/>
+constant spring outflow met with in this region. The main channel was ex-<lb/>
+tending 2598 feet was reditched and deepened its entire length, 540 feet of<lb/>
+new channel dug in straightening the course. Heavy sliding occurring on the<lb/>
+second section of this ditch towards the eastern side necessitated the in-<lb/>
+stallation of approximately 300 feet of blind ditches. The unusual outcrop<lb/>
+of spring seepage at varying levels called attention to the irregularity of the<lb/>
+contour of the ground water level. Prolific breeding of Culex but few<lb/>
+Anopheles larvae were found at the time of the commencement of the work..<lb/>
+<table rows="7" cols="2">
+<row>
+<cell>New ditching linear feet</cell><cell>6,790 linear feet.</cell></row>
+<row>
+<cell>Old ditch and stream training</cell><cell>5,200 " "</cell></row>
+<row>
+<cell>Brush square yards</cell><cell>28,700 square yards.</cell></row>
+<row>
+<cell>Work Commenced April 15, 1919.</cell><cell></cell></row>
+<row>
+<cell>Work Finished May 8, 1919.</cell><cell></cell></row>
+<row>
+<cell>Labor cost 355 man days</cell><cell>$ 1136.00</cell></row>
+<row>
+<cell>Supervision</cell><cell>175.00</cell></row></table></p>
+<p>Section 1, Job 2.<lb/>
+Brown Swamp North West of Base Hospital.</p>
+<p>This area extending within the reservation had previously been in-<lb/>
+completely drained. Due to the profuse breeding of Anopheles it was deemed<lb/>
+advisable to complete this drainage at once to the Dorsey Run, a branch of<lb/>
+the Little Patuxent River. The failure to complete this job during the<lb/>
+previous season was evidently due to the fact that it lay within the old reser-<lb/>
+vations though its character and proximity to the base hospital <hi>building</hi><del>s</del> <add>still</add> con-<lb/>
+stituted a probable menace.<lb/>
+<pb n="20" id="f00820020"/>
+- 20 -<lb/>
+<table rows="6" cols="2">
+<row>
+<cell>Linear feet of new ditching</cell><cell>3,855</cell></row>
+<row>
+<cell>Linear feet of reditching</cell><cell>7,165</cell></row>
+<row>
+<cell>Square yards of brush clearing</cell><cell>11,129</cell></row>
+<row>
+<cell>Two ponds drained 79' x 45' and 50 x 14 feet respectively.</cell><cell></cell></row>
+<row>
+<cell>Labor cost 220 man days</cell><cell>$ 704.00</cell></row>
+<row>
+<cell>Supervision</cell><cell>99.00</cell></row></table></p>
+<p><hi>Section 1 Job 3</hi>.</p>
+<p>National Junior Republic Swamp and Pond.</p>
+<p>This area lying to the northwest of the Base Hospital was characterized<lb/>
+by the density of the heavy timber growths and the great mass of impounded<lb/>
+water in a mucky and sandy soil. This presented as difficult a drainage<lb/>
+proposition as any in the areas treated. A pond approximately two acres in<lb/>
+extent caused by <add>the</add> damming <add>of</add> the lower sections of the water course materially<lb/>
+assisted in maintaining the supersaturated conditions of the ground. A re-<lb/>
+taining wall was built at the pond head to prevent the constant sliding of<lb/>
+the muck and permitted the by-passing of the drainage from above the pond<lb/>
+through two ditches; at the same time reclaiming about 500 square yards of<lb/>
+swamp land and making possible the maintenance of a constant minimum water area.<lb/>
+No breeding has since been discovered in this section.<lb/>
+<table rows="5" cols="2">
+<row>
+<cell>Linear feet ditching, mostly through heavy roots</cell><cell>11,293</cell></row>
+<row>
+<cell>Square yards of brush clearing</cell><cell>5,300</cell></row>
+<row>
+<cell>Retaining wall built 40' long 8' x 4'</cell><cell></cell></row>
+<row>
+<cell>Labor cost 205 man days</cell><cell>$ 656.00</cell></row>
+<row>
+<cell>Supervision</cell><cell>81.00</cell></row></table></p>
+<pb n="21" id="f00820021"/>
+<p>- 21-</p>
+<p><hi>Section 1 Job 4</hi>.</p>
+<p>This drainage work consisted of the relief of impounded roadside<lb/>
+gutter water and a small pond along the north side of the highway between<lb/>
+the bridge and Dorsey Run and <unclear>Annapolis</unclear> Junction. There was an intense<lb/>
+amount of breeding of both Anopheles and Culex in these water areas. Approx-<lb/>
+imately 1,000 feet of ditching and 600 square yards of brush clearing were<lb/>
+performed to provide drainage for this section.<lb/>
+<table rows="2" cols="2">
+<row>
+<cell>Labor cost 20 man days</cell><cell>$ 64.00</cell></row>
+<row>
+<cell>Supervision</cell><cell>6.00</cell></row></table></p>
+<p><hi>Section 2 Franklin District Job 1</hi>.</p>
+<p>North and northeast of the Franklin Cantonment consisted of a series<lb/>
+of highway borrow pits, 11 in number, necessitating a fill of 9720 cubic<lb/>
+feet and the ditching of 915 feet of road gutter.<lb/>
+<table rows="2" cols="2">
+<row>
+<cell>Labor Cost 36 man days</cell><cell>$ 115.20</cell></row>
+<row>
+<cell>Supervision</cell><cell>13.50</cell></row></table></p>
+<p><hi>Job 2.</hi></p>
+<p>Franklin Section northeast of reservation. This proposition consisted<lb/>
+a tri forked branch of the Severn drainage system, mostly of small spring<lb/>
+fed blind water run ways, frequently blocked by sandy ridges or humpbacks<lb/>
+and in the wooded sections oblitereated by masses of driftwood.<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>Linear feet of ditching</cell><cell>2,258</cell></row>
+<row>
+<cell>Square yards of brush clearing</cell><cell>1,050</cell></row>
+<row>
+<cell>Labor Co<del>a</del>st 68 man days</cell><cell>$ 217.60</cell></row>
+<row>
+<cell>Supervision</cell><cell>30.50</cell></row></table></p>
+<pb n="22" id="f00820022"/>
+<p>- 22 -</p>
+<p><hi>Section 2. Jobs 3 and 4.</hi></p>
+<p>This area lying to the east of the Franklin cantonment constituted<lb/>
+the largest single drainage area treated in the zone. Had funds been avail-<lb/>
+able, this area would have been considered worthy of treatment similar to<lb/>
+the Rogues Harbor Run Section 1, Job 1, that is complete straightening<lb/>
+and recoursing of channels with the development of a more uniform drainage<lb/>
+system. A pond 50 x 80 feet and 26 feet deep at the reservation line was<lb/>
+drained.<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>Linear feet of ditching</cell><cell>14,376.</cell></row>
+<row>
+<cell>Square yards or brush clearing</cell><cell>12,000</cell></row>
+<row>
+<cell>Labor cost 142 man days</cell><cell>$ 454.40</cell></row>
+<row>
+<cell>Supervision</cell><cell>86.00</cell></row></table></p>
+<p><hi>Section 2 Job 5 Franklin District</hi></p>
+<p>Small swamp<del>s</del> northeast of barracks at Franklin draining into the<lb/>
+reservation under the W.B. &amp; A. tracks at Franklin. The main relief for this<lb/>
+swamp was afforded by a ditch dug by the camp sanitary detachment into which<lb/>
+400 feet of lateral ditches from the swamp connected. A number of specimens<lb/>
+of Anopheles Quadrimaculatus were hatched out from larvae obtained from this<lb/>
+grassy swamp.</p>
+<p>Two abandoned dug wells about 4 feet in area and 15 feet deep found<lb/>
+breeding were filled.<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>Linear feet of ditching</cell><cell>400</cell></row>
+<row>
+<cell>Cubic feet of fill</cell><cell>350</cell></row>
+<row>
+<cell>Labor Costs 18 man days</cell><cell>$ 57.60</cell></row>
+<row>
+<cell>Supervision</cell><cell>8.50</cell></row></table></p>
+<pb n="23" id="f00820023"/>
+<p>- 23 -</p>
+<p><hi>Section 2 Job 6. Franklin District</hi>.</p>
+<p>Just to the east of the above section were two small areas on opposite<lb/>
+sides of the old Telegraph Road, which were found breeding mosquitoes.<lb/>
+On the west of the road was a half acre stagnant pond which required 850 feet<lb/>
+of ditch and 400 square yards of brush. East of the road a spring fed area<lb/>
+of several acres on the opposite side of the road was ditched off by putting<lb/>
+800 feet of ditch with 500 square yards of brush clearing.<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>Linear feet of ditching</cell><cell>1,650</cell></row>
+<row>
+<cell>Brush clearing <unclear>swuare</unclear> yards</cell><cell>900</cell></row>
+<row>
+<cell>Labor cost 30 men days.</cell><cell>$ 96.00</cell></row>
+<row>
+<cell>Supervision</cell><cell>14.00</cell></row></table></p>
+<p><hi>Section 3. Odenton District</hi>.</p>
+<p><hi>Job. 1</hi></p>
+<p>This area east of the main line of the Pennsylvania Railroad and north<lb/>
+of Odenton consisted of a number of constant flowing branches and marshy head-<lb/>
+lands, where though good graces existed much stream cleaning and additional<lb/>
+ditching were required.<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>Linear feet of ditching</cell><cell>3,800</cell></row>
+<row>
+<cell>Square yards of brush clearing</cell><cell>1,500</cell></row>
+<row>
+<cell>Labor 60 man days</cell><cell>$ 192.00</cell></row>
+<row>
+<cell>Supervision</cell><cell>28.50</cell></row></table></p>
+<p>Several similar branches and marshes, very important as producers<lb/>
+of malaria spreading mosquitoes were cleared and drained in the section<lb/>
+immediately about <unclear>Odenton</unclear> and the Naval Academy Junction. Extensive diffi-<lb/>
+culties were encountered with the railroad culverts and clogged drain tile<lb/>
+lines. Arrangements were made for the Washington, Baltimore &amp; Annapolis<lb/>
+<pb n="24" id="f00820024"/>
+- 24 -<lb/>
+Electric Railroad Company to control breeding in the large pond (maintained<lb/>
+for fire protection), by stocking with top minnows, cleaning the pond edges<lb/>
+and filling of the marshy sections.<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>Linear feet of ditching</cell><cell>2,800</cell></row>
+<row>
+<cell>Square yards of brush clearing</cell><cell>1,400</cell></row>
+<row>
+<cell>Labor Cost 45 man days</cell><cell>$ 144.00</cell></row>
+<row>
+<cell>Supervision</cell><cell>31.00</cell></row></table></p>
+<p><hi>Section 4 Job 1</hi></p>
+<p>The ditch to the creek which had been filled from caving in of the<lb/>
+bank was cleaned out and deepened though not completely draining the pond,<lb/>
+<hi>The</hi> <add>pond</add> was below the water level of the river.<lb/>
+<table rows="3" cols="2">
+<row>
+<cell>Number of feet of ditching</cell><cell>250</cell></row>
+<row>
+<cell>Labor Costs four man days</cell><cell><unclear>$ 12.80</unclear></cell></row>
+<row>
+<cell>Supervision</cell><cell>5.00</cell></row></table></p>
+<p><hi>Job 2</hi></p>
+<p>A more extensive proposition presented itself in reopening the out-<lb/>
+lets and completing the drainage of the large area north of the Patuxent Station.,<lb/>
+and west of the Pennsylvania Railroad tracks. A ditch 1140 feet long with an<lb/>
+average cross section 4 feet wide and 3 feet deep which had been out along-<lb/>
+side the railroad right away was also damaged by cavings in and filling of the<lb/>
+channel and much overgrown. This ditch was completely reclaimed and the<lb/>
+former marsh at its head cleared and reditched. Two branches going off<lb/>
+into the woods were cleared of brush and rechannelled as far up as found to<lb/>
+contain water.<lb/>
+<pb n="25" id="f00820025"/>
+- 25 -<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>Linear feet of ditching</cell><cell>2,600</cell></row>
+<row>
+<cell>Square yards of brush clearing</cell><cell>400</cell></row>
+<row>
+<cell>Labor 30 man days.</cell><cell>$ 96.00</cell></row>
+<row>
+<cell>Supervision</cell><cell>26.50</cell></row></table></p>
+<p><hi>Job 3</hi></p>
+<p>A marshy area and several springs west of the railroad were<lb/>
+cleared and ditched, the branch being followed under the railroad and to<lb/>
+the river.<lb/>
+<table rows="4" cols="2">
+<row>
+<cell>Linear feet of ditching</cell><cell>1,250</cell></row>
+<row>
+<cell>Square yards of brush clearing</cell><cell>280</cell></row>
+<row>
+<cell>Labor 13 man days</cell><cell>$ 41.60</cell></row>
+<row>
+<cell>Supervision</cell><cell>6.00</cell></row></table></p>
+<pb n="26" id="f00820026"/>
+<p>- 26 -</p>
+<p>CAMP MEADE ZONE<lb/>
+ANTI MALARIA DRAINING OPERATIONS 1918-1919.</p>
+<p><table rows="11" cols="5">
+<row>
+<cell></cell><cell>May to June 30<lb/>
+1918</cell><cell>July to Aug. 30<lb/>
+1918</cell><cell>Apr. to June<lb/>
+1919</cell><cell>Total<lb/>
+1918-1919</cell></row>
+<row>
+<cell>New ditches Dug</cell><cell>53,250 lin. Ft.</cell><cell>43,000 lin ft.</cell><cell>28,250</cell><cell>104,500</cell></row>
+<row>
+<cell>Old ditch or<lb/>
+Stream trained<lb/>
+(lin ft.)</cell><cell>34,700</cell><cell>18,000</cell><cell>35,400</cell><cell>88,100</cell></row>
+<row>
+<cell>Filling (cu. ft)</cell><cell>600</cell><cell>4,880</cell><cell>10,070</cell><cell>15,470</cell></row>
+<row>
+<cell>Brush Clearing</cell><cell></cell><cell></cell><cell>63,652</cell><cell>63.652</cell></row>
+<row>
+<cell>Major Personnel</cell><cell>$ 1,500</cell><cell>$ 1,600</cell><cell>$ 1,140</cell><cell>$ 4,240</cell></row>
+<row>
+<cell>Labor &amp; Supervision</cell><cell>$ 4,400</cell><cell>$ 5,400</cell><cell>$ 4,583.50</cell><cell>$14,383.50</cell></row>
+<row>
+<cell>Miscellaneous</cell><cell>$ 440</cell><cell>$ 360</cell><cell>$ 232.25</cell><cell>$ 1,032.25</cell></row>
+<row>
+<cell>Truck use furnished<lb/>
+by Army</cell><cell>$ 360</cell><cell>$ 405</cell><cell>$ 476.00</cell><cell>$ 1,241.00</cell></row>
+<row>
+<cell>Total linear feet ditching</cell><cell>192,600 or 36.5 linear miles</cell></row>
+<row>
+<cell>Total expenditures <unclear>U.S.P.H.S.</unclear></cell><cell>$ 19,655.75</cell></row></table><lb/>
+No mosquito oil bought or distributed by Service forces.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

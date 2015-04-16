@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t01838001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders for Walter Reed, Victor C. Vaughan, and Edward O. Shakespeare, August 18, 1898 [selected pages]</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01838001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1898-08-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Reed, Walter </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Washington (D.C.)</name>
+<name type="person">Shakespeare, Edward O.</name>
+<name type="person">Vaughan, Victor C.</name>
+<name type="person">Reed, Walter</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1898-08-18">August 18, 1898</date>
+<idno rend="suppress">01838001</idno>
+<title>Military Orders for Walter Reed, Victor C. Vaughan, and Edward O. Shakespeare, August 18, 1898 [selected pages]</title>
+</bibl>
+</head>
+<p>These special orders include a section appointing Reed, Vaughan, and Shakespeare to a board for the purpose of investigating the cause of the prevalence of typhoid fever in U.S. military camps. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="military orders" n="1898-08-18">
+<head>Military Orders for Walter Reed, Victor C. Vaughan, and Edward O. Shakespeare, August 18, 1898 [selected pages]</head>
+<pb n="1" id="f01838001"/>
+<p>SPECIAL ORDERS, }<lb/>
+No. 194. }</p>
+<p>WAR DEPARTMENT,<lb/>
+ADJUTANT GENERAL'S OFFICE,<lb/>
+<hi rend="italic">Washington, August 18, 1898</hi>.</p>
+<p>1. Private <hi rend="italic">Ernest F. Thomas</hi>, Company C, 4th U. S. Volun-<lb/>
+teer Infantry, now in this city, will be sent to the station of<lb/>
+his company, Jacksonville, Florida.</p>
+<p>The Subsistence Department will pay commutation of ra-<lb/>
+tions in advance at the prescribed rate for two days, it<lb/>
+being impracticable for this soldier to carry rations of any<lb/>
+kind.</p>
+<p>2. Private <hi rend="italic">James A. Pownell</hi>, Company B, 15th Infantry,<lb/>
+now at Fort Grant, Arizona Territory, is transferred as 2d<lb/>
+class private to the Signal Corps, U. S. A. He will be as-<lb/>
+signed to duty in charge of the military telegraph office at<lb/>
+Cedar Springs, Arizona Territory.</p>
+<p>3. Private <hi rend="italic">Charles W. Brown</hi>, Troop A, 7th Cavalry, now<lb/>
+at Fort Du Chesne, Utah, is transferred as 2d class private to<lb/>
+the Signal Corps, U. S. Army, and assigned to duty at the<lb/>
+military telegraph office at that post.</p>
+<p>4. Private <hi rend="italic">Corwin M. Ferguson</hi>, Company G, 4th Virginia<lb/>
+Volunteer Infantry, now at Jacksonville, Florida, having<lb/>
+enlisted under false pretences, will be discharged without<lb/>
+honor from the service of the United States on receipt of this<lb/>
+order by the commanding officer of his station. Under para-<lb/>
+graph 1386 of the Regulations the soldier is not entitled to<lb/>
+pay or allowances, and final statements, except for deposits,<lb/>
+shall not be furnished him.</p>
+<p>5. Private <hi rend="italic">Ora G. Spencer</hi>, Company D, 1st U. S. Volun-<lb/>
+teer Infantry, now at Santiago, Cuba, will be discharged from<lb/>
+the service of the United States by the commanding officer of<lb/>
+his station. Under paragraph 1386 of the Regulations the<lb/>
+soldier is not entitled to pay or allowances, and final state-<lb/>
+ments, except for deposits, shall not be furnished him.</p>
+<p>6. Private <hi rend="italic">Richard M. Williamson</hi>, Company A, 2d Ala-<lb/>
+bama Volunteer Infantry, now at Jacksonville, Florida, will<lb/>
+be discharged the service of the United States by the com-<lb/>
+manding officer of his station. This soldier is not entitled to<lb/>
+travel-pay.</p>
+<p>7. Private <hi rend="italic">Jesse Hood Bullock</hi>, Company M, 1st Georgia<lb/>
+Volunteer Infantry, now at Camp George H. Thomas, Georgia,<lb/>
+will be discharged the service of the United States by the</p>
+<pb n="2" id="f01838002"/>
+<p>6</p>
+<p>35. Captain <hi rend="italic">William F. Lewis</hi>, assistant surgeon, U. S.<lb/>
+Army, now at Sullivans Island, South Carolina, will proceed<lb/>
+at once to Tampa, Florida, and report in person to the com-<lb/>
+manding officer, 5th U. S. Infantry, to accompany that regi-<lb/>
+ment to Santiago. The travel enjoined is necessary for the<lb/>
+public service.</p>
+<p>36. Acting Assistant Surgeon <hi rend="italic">Compton Wilson</hi>, U. S. Army,<lb/>
+will proceed from Norfolk to Fort Monroe, Virginia, and re-<lb/>
+port in person to Major <hi rend="italic">Calvin De Witt</hi>, surgeon, U. S. Army,<lb/>
+in charge of U. S. General Hospital at that post, to await<lb/>
+transportation by the U. S. Steamer &ldquo;Obdam,&rdquo; to Ponce,<lb/>
+Porto Rico, and, upon arrival there, will report in person to<lb/>
+the commanding general of the troops at that place, for as-<lb/>
+signment to duty. The travel enjoined is necessary for the<lb/>
+public service.</p>
+<p>37. Majors <hi rend="italic">Merrill W. Lang</hi> and <hi rend="italic">Jacob M. Longnecker</hi>, ad-<lb/>
+ditional paymasters, U. S. Volunteers, now on temporary duty<lb/>
+in this city, under verbal instructions from the Secretary of<lb/>
+War, are assigned to station in Washington, District of<lb/>
+Columbia, to date from August 11, 1898.</p>
+<p>38. Lieutenant Colonel <hi rend="italic">Edward B. Ives</hi>, U. S. Volunteer<lb/>
+Signal Corps, having reported to the Chief Signal Officer of<lb/>
+the Army, <hi rend="italic">en route</hi> to Camp Russell A. Alger, Virginia, will<lb/>
+proceed to Middletown, Pennsylvania, and report in person<lb/>
+to the commanding general, 2d Army Corps, for assignment<lb/>
+to duty as Chief Signal Officer of that corps. The travel en-<lb/>
+joined is necessary for the public service.</p>
+<p>39. Acting Assistant Surgeon <hi rend="italic">Harry Streett</hi>, U. S. Army,<lb/>
+will proceed from Baltimore, Maryland, to Charleston, South<lb/>
+Carolina, and await transportation by U. S. Steamer &ldquo;Obdam&rdquo;<lb/>
+to Ponce, Porto Rico, and, upon arrival there, will report in<lb/>
+person to the commanding general of the troops at that place,<lb/>
+for assignment to duty. The travel enjoined is necessary for<lb/>
+the public service.</p>
+<p>&check; 40. A board of medical officers, to consist of--</p>
+<p>Major <hi rend="italic">Walter Reed</hi>, surgeon, U. S. Army;<lb/>
+Major <hi rend="italic">Victor C. Vaughan</hi>, division surgeon, U. S. Volun-<lb/>
+teers; and<lb/>
+Major <hi rend="italic">Edward O. Shakespeare</hi>, brigade surgeon, U. S. Vol-<lb/>
+unteers,<lb/>
+is appointed to meet in this city at the earliest date practica-<lb/>
+<pb n="3" id="f01838003"/>
+7<lb/>
+ble for the purpose of making an investigation into the cause<lb/>
+of the extensive prevalence of typhoid fever in the various<lb/>
+military camps within the limits of the United States, under<lb/>
+such instructions as it may receive from the Surgeon General<lb/>
+of the Army. The board will call the attention of the proper<lb/>
+commanding officers to any insanitary conditions which may<lb/>
+exist at the camps visited by it, and will make recommenda-<lb/>
+tions with a view to their proper correction. The report of<lb/>
+the board will be forwarded to the Surgeon General as soon<lb/>
+as practicable after the completion of the investigation con-<lb/>
+templated.</p>
+<p>Such journeys as may be required under the above order &darr;<lb/>
+are necessary for the public service.</p>
+<p>41. Private <hi rend="italic">Emil Ballhaus</hi>, Company A, 1st Ohio Volunteer<lb/>
+Infantry, now at Fernandina, Florida, is, upon his own ap-<lb/>
+plication, transferred to the 2d Kentucky Volunteer Infantry,<lb/>
+and will be sent to the station of that regiment, Camp George<lb/>
+H. Thomas, Georgia. The expenses of the transfer will be<lb/>
+borne by the soldier, and transportation will not be furnished<lb/>
+by the Quartermaster's Department.</p>
+<p>42. Sergeant <hi rend="italic">George L. Rubadon</hi>, Company C, 31st Michi-<lb/>
+gan Volunteer Infantry, now at Camp George H. Thomas,<lb/>
+Georgia, will be discharged the service of the United States<lb/>
+by the commanding officer of his station. This soldier is not<lb/>
+entitled to travel-pay.</p>
+<p>43. Private <hi rend="italic">Benjamin E. Sprague</hi>, Company G, 35th Michi-<lb/>
+gan Volunteer Infantry, now at Island Lake, Michigan,<lb/>
+will be discharged the service of the United States by the<lb/>
+commanding officer of his station. This soldier is not entitled<lb/>
+to travel-pay.</p>
+<p>44. Principal Musician <hi rend="italic">Charles J. Rulo</hi>, 4th Ohio Volunteer<lb/>
+Infantry, now in Porto Rico, will be discharged the service<lb/>
+of the United States by the commanding officer of his station.<lb/>
+This soldier is not entitled to travel-pay.</p>
+<p>45. Private <hi rend="italic">Louis F. Wurster</hi>, Company E, 20th Infantry,<lb/>
+now at Fort McPherson, Georgia, will be discharged the<lb/>
+service of the United States by the commanding officer of<lb/>
+his station. This soldier is not entitled to travel-pay.</p>
+<p>46. Private <hi rend="italic">Amos R. E. Pinchot</hi>, Troop A, New York Vol-<lb/>
+unteer Cavalry, now in Porto Rico, will be discharged the<lb/>
+service of the United States by the commanding officer of his<lb/>
+station. This soldier is not entitled to travel-pay.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

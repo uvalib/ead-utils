@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="LVAF0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to Laura Reed Blincoe, March 26, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>LVAF0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">Walter Reed. Letters, 1874-1901. Accession 23783. Personal papers collection. The Library of Virginia, Richmond, Va. 23219.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-03-26</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Blincoe, Laura Reed</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Baltimore (Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1901-03-26">March 26, 1901</date>
+<idno rend="suppress">LVAF0010</idno>
+<title>Letter from Walter Reed to Laura Reed Blincoe, March 26, 1901</title>
+</bibl>
+</head>
+<p>Reed writes just after his return from Cuba. He informs Blincoe of the results of the yellow fever experiments and the reception of the work by the scientific community. He quickly relates family news. [Courtesy of the Library of Virginia]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1901-03-26">
+<head>Letter from Walter Reed to Laura Reed Blincoe, March 26, 1901</head>
+<pb n="1" id="fLvaf0010"/>
+<opener>
+Could you have<lb/>
+a good sale for<lb/>
+your chickens?<lb/>
+How many acres<lb/>
+have you?<lb/>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<dateline>
+<date value="1901-03-26">March 26, 1901.</date>
+</dateline><lb/>
+<salute>My Darling Sister:</salute>
+</opener>
+<p>Here I am<lb/>
+back once more in the Lord's<lb/>
+Country &amp; with wife and chick,<lb/>
+after a stay of many months<lb/>
+in Cuba. Not a bad country<lb/>
+that Cuba, if there were not<lb/>
+so many Cuban's there! It<lb/>
+has a great many advan=<lb/>
+tages over this Climate in<lb/>
+the matter of <hi>coolness</hi> in Summer<lb/>
+(of course, you are surprised, but<lb/>
+it is true,) and warmth in Win=<lb/>
+ter! Think of <add>a</add> land where Jack<lb/>
+Frost and his brother, Boreas,<lb/>
+<pb n="2" id="fLvaf0020"/>
+never show their ugly faces!<lb/>
+Oh! I forgot your darling letter<lb/>
+of February 16<hi rend="superscript">th</hi>, which reached<lb/>
+me in Cuba, &amp; which I am now<lb/>
+trying to answer. If you wrote<lb/>
+me from Lynchburg, last Summer,<lb/>
+I never got it - You know, or<lb/>
+probably do not, that an order,<lb/>
+early last June, sent me<lb/>
+right down <del>right</del> into the<lb/>
+midst of yellow fever at<lb/>
+Havana - Indeed I was sent<lb/>
+down for the sole purpose<lb/>
+of studying that disease -<lb/>
+Dr. Lazear, of Baltimore, and Dr.<lb/>
+Carroll, my assistant here,<lb/>
+went with me - Both contrac-<lb/>
+ted the disease, &amp; my dear friend<lb/>
+Lazear, died of that disease!<lb/>
+As for myself, I suppose<lb/>
+<pb n="3" id="fLvaf0030"/>
+that I was hardly worth<lb/>
+killing &amp; so escaped, although<lb/>
+coming into the most intimate<lb/>
+daily contact, <hi>but I never per-<lb/>
+mitted a mosquito to bite me</hi>!!<lb/>
+After much work &amp; thinking,<lb/>
+I am glad to say that we have<lb/>
+been able to prove conclusively<lb/>
+that yellow fever is propaga-<lb/>
+ted only by the bite of a certain<lb/>
+kind of mosquito, provided it<lb/>
+has bitten a case of yellow<lb/>
+fever about 12 days before.<lb/>
+My friends pronounce it a very<lb/>
+great discovery and some even<lb/>
+write me that, for America,<lb/>
+it means more than any<lb/>
+discovery for the last 100<lb/>
+years! Dr. Carter, of the Marine<lb/>
+Hospital Service, writes that my<lb/>
+discovery makes <del>the</del><add>me one of the</add> greatest bene-<lb/>
+factor that the human race has ever had!<lb/>
+<pb n="4" id="fLvaf0040"/>
+of course, when one has left<lb/>
+wife &amp; baby, <del>and</del> faced death &amp;<lb/>
+won a victory, it makes him<lb/>
+happy, but it shouldn't turn his<lb/>
+head - He should only thank<lb/>
+God that his life hasn't been<lb/>
+in vain, &amp; go on about his<lb/>
+business - That's what I am<lb/>
+now doing - I like that scheme<lb/>
+about poultry-raising - The only<lb/>
+thing that I <del>n</del>ever <add>knew</add> any thing about<lb/>
+is raising chickens! I can beat<lb/>
+the world at that. Why don't you<lb/>
+begin in a modest way and <hi>then<lb/>
+expand</hi> gradually - I do wish<lb/>
+that I could run down to see<lb/>
+you &amp; the babies, but my hands<lb/>
+are tied on an Examining Board<lb/>
+for the present - Emily &amp; our <hi>big</hi><lb/>
+daughter are well &amp; would send much<lb/>
+love did they know that I was writing.<lb/>
+The boy is a lieutenant in the 10<hi rend="superscript">th</hi> Inf.<lb/>
+Much love to Nita &amp; the others - write<lb/>
+me again about that chicken scheme -</p>
+<closer>
+<salute>Devotedly,</salute>
+<signed>Walter.</signed>
+237836<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

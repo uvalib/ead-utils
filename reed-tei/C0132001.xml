@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0132001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Memorandum from Henry Rose Carter, [n.d.]</title>
+<title type="gmd">[electronic resource] </title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0132001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>0000-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Mayne, Bruce</name>
+<name type="person">Thiabault, Dr.</name>
+<name type="person">Barber, [s.n.]</name>
+<name type="place">Monroe (La.)</name>
+<name type="place">Panama</name>
+<name type="place">Camp Meade (Md.)</name>
+<name type="place">Houston (Tex.)</name>
+<name type="place">Scott (Ark.)</name>
+<name type="place">Crowley (La.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="0000-00-00"></date>
+<idno rend="suppress">C0132001</idno>
+<title>Memorandum from Henry Rose Carter, [n.d.]</title>
+</bibl>
+</head>
+<p>Carter writes about when anti-breeding methods can be safely stopped.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="0000-00-00">
+<head>Memorandum from Henry Rose Carter, [n.d.]</head>
+<pb n="1" id="fC0132001"/>
+<p>Memorandum</p>
+<p>Two problems, short; easy, and it may be of considerable practical<lb/>
+importance are</p>
+<p>(x) For each bench man in the locality in which he happens to be in<lb/>
+the late fall, to determine the last date at which Anopheles mosquitoes<lb/>
+(quads. especially) <hi rend="underline">infective to men</hi> can be found in nature.</p>
+<p>(y) Of scarcely less value is it to determine the date at which the<lb/>
+flight of the spring brood of quads. begins.</p>
+<p>The value of (x) is to determine when we can safely stop anti-breeding<lb/>
+methods at any p<del> </del>lace. Thus, Mayne determined that Anopheles infective to<lb/>
+men were not found after--say--Nov. 15th. at Monroe, La. (I have forgotten the<lb/>
+exact date.)</p>
+<p>Now the mosquito infective on Nov. 15th. must have received infection<lb/>
+on or prior to November 4th. The egg from which she has evolved must have<lb/>
+been deposited not less than 17 days before she fed (16 days from egg to<lb/>
+image + 1 day for probosis to harden). Very obviously then, we could<lb/>
+afford to stop antilarval methods on that day, as eggs deposited after<lb/>
+October 12th would not produce i<del> </del>mages that would infect this year. In point<lb/>
+of fact, this allows for a large factor of safety, because in the interval<lb/>
+from Nov. 4th. to Nov. 15th. (at which date it is cold enough for the para-<lb/>
+site to die in the mosquito) we may be quite certain it is too cold to<lb/>
+allow only 11 days for its development in the mosquito (extrinsic incubation<lb/>
+of malaria). It would take--say-- 25 to 30 days. (It takes 11 days in<lb/>
+Panama.)</p>
+<p>Similarly, between October 12th. and November 4th. the weather is too<lb/>
+cold to allow only 16 days for the cycle from egg to imago (I have allowed<lb/>
+only one day for the hardening of the chitin so that the insect can feed on<lb/>
+man)&sol;</p>
+<pb n="2" id="fC0132002"/>
+<p>-2-</p>
+<p>I had in 1918--it is now either in the Central Office or Mayne has<lb/>
+it--a chart from the Agricultural Department. I have forgotten its<lb/>
+name, but it could well be called &ldquo;A Chart of Iso-biological Phenomena<lb/>
+Dates&rdquo;, in which the curves show the places in the U. S. where certain<lb/>
+biological phenomena, such as I have just instanced, occur on the same<lb/>
+dates.</p>
+<p>Guided by this, and allowing a fair factor of safety, in 1918 I<lb/>
+stopped my anti-larval work on dates (different, of course) thus deter-<lb/>
+mined from Camp Meade, Md. to Houston, although Anopheles were then in<lb/>
+flight and breeding. There was some argument about it, but I knew it<lb/>
+was right and I think I sa<del> </del>ved at least $150,000.00 and<del>,</del> taking the fac-<lb/>
+tors of safety, I did with absolute safety.</p>
+<p>In our records we have several determinations of the date of this<lb/>
+termination of infectivity, but a considerable number of others are<lb/>
+needed to serve as checks on the above map when used for control of mos-<lb/>
+quito production.</p>
+<p>It is very little trouble to make this determination and I know<lb/>
+you can see how useful it may be in preventing unnecessary field work.</p>
+<p>(y) is advisable for the control of malaria on impounded water.<lb/>
+A. quad. bred in the ponds is, we think, the main factor in the production<lb/>
+of malaria from impounded water. (I will have rather an interesting<lb/>
+little piece to add to this, when I am able to sit up and write, on the<lb/>
+role of punctipennis). Now our accepted--and a very efficient--method<lb/>
+of preventing p<del> </del>roduction i<del> </del>n the large ponds is by holding the pond as<lb/>
+high as possible during the season when quads. are not in flight (i.e.<lb/>
+being produced) lowering it before this flight begins, but as close to<lb/>
+the time as may be. A pond thus handled (as is the case here now)<lb/>
+having an absolutely clean shore line and decently stocked with top-minnows<lb/>
+gives no production.</p>
+<pb n="3" id="fC0132003"/>
+<p>-3-</p>
+<p>You can see then how advisable it is to hold the high water level as<lb/>
+close to the first flight as possible, but on no account to go into it.<lb/>
+We have in our Service literature, and a few notes of my own, these dates<lb/>
+for 25 or 30 different places and years. Thibault, of Scott, Arkansas,<lb/>
+gave me some data on it, and everything he reports can be relied on.<lb/>
+One would have to fish it out from Service publications and reports, but<lb/>
+this is not hard to do and it gives us data which I judge will prevent<lb/>
+from 5,000 to 10,000 cases of malaria per annum by the ponds, and to do<lb/>
+this is worth some days work. Barber, as I recalled, gave the data this<lb/>
+Spring of the first flight of A. quad. at either Crowley or Camilla.</p>
+<p>H. R. C.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

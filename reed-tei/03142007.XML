@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t03142007">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Pamphlet: Yellow Fever, American Association for Medical Progress, [n.d.]</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03142007</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>0000-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Camp Columbia (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="0000-00-00"></date>
+<idno rend="suppress">03142007</idno>
+<title>Pamphlet: Yellow Fever, American Association for Medical Progress, [n.d.]</title>
+</bibl>
+</head>
+<p>The American Association for Medical Progress briefly outlines the history of yellow fever and the Yellow Fever Commission, and concludes that animal experimentation is crucial in order to save human lives.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="0000-00-00">
+<head>Pamphlet: Yellow Fever, American Association for Medical Progress, [n.d.]</head>
+<pb n="1" id="f03142007"/>
+<p>FROM DR. HOWARD A. KELLY</p>
+<p><hi rend="italic">Yellow Fever</hi></p>
+<p>=====</p>
+<p>YELLOW FEVER is<lb/>
+one of the most deadly<lb/>
+diseases to which human<lb/>
+beings are subject. It is<lb/>
+peculiar to the American<lb/>
+continent and tropical<lb/>
+America was its great<lb/>
+stronghold. It existed<lb/>
+perpetually in Havana and from there it<lb/>
+frequently invaded the United States,<lb/>
+sometimes as far north as Boston. In<lb/>
+1878, only 45 years ago, there was an<lb/>
+epidemic of yellow fever in the southern<lb/>
+cities which resulted in 16,000 deaths<lb/>
+and an economic loss estimated at<lb/>
+$100,000,000.</p>
+<p>At the close of the Spanish-American<lb/>
+War in 1898, Havana came into our pos-<lb/>
+session, and when in the following year<lb/>
+yellow fever broke out among the Amer-<lb/>
+ican soldiers there a commission was<lb/>
+appointed to look into its cause and<lb/>
+transmission. The commission was com-<lb/>
+posed of Major Walter Reed, Dr. James<lb/>
+Carroll, Dr. J. W. Lazear and Aristides<lb/>
+Agramonte.</p>
+<p>Major Reed decided first of all to in-<lb/>
+vestigate a theory advanced by Dr.<lb/>
+Carlos H. Finley twenty years before<lb/>
+that the disease was transmitted by mos-<lb/>
+quitoes. The only way of proving or dis-<lb/>
+proving this theory was by animal ex-<lb/>
+perimentation. At that time the lower<lb/>
+animals were thought to be immune to</p>
+<pb n="2" id="f03142008"/>
+<p>yellow fever, so if the experiments were<lb/>
+to be tried at all, it must be on human<lb/>
+beings.  Volunteers were called for and<lb/>
+the Commissioners insisted that they<lb/>
+themselves should be included.  Every<lb/>
+man knew that he was likely to die, but<lb/>
+he also knew that in so doing he might<lb/>
+save thousands of his fellow men from<lb/>
+death.  The volunteers permitted them-<lb/>
+selves to be bitten by mosquitoes which<lb/>
+had previously bitten yellow fever pa-<lb/>
+tients.  Lazear was one of the first and <lb/>
+he soon became ill with yellow fever<lb/>
+and died in convulsions.  Carroll almost<lb/> 
+died; for three days his life hung in the<lb/>
+balance.  The experiment was continued <lb/>
+on eleven other men, and as nine of <lb/>
+them contracted yellow fever, Reed felt<lb/>
+justified in saying that the disease was<lb/>
+carried by mosquitoes.</p>
+
+<p>Still there were many men who were<lb/>
+not convinced, and Reed and his asso-<lb/>
+ciates decided to repeat the experiments<lb/>
+under conditions which would leave no<lb/>
+doubt that the results were conclusive.<lb/>
+In a lonely place, a mile from the nearest<lb/>
+habitations, they established an experi-<lb/>
+mental station, and placed an armed <lb/>
+guard around it.  It was named Camp<lb/>
+Lazear.  An immune hospital steward<lb/>
+brought supplies from Camp Columbia,<lb/>
+but no other intercourse with the town<lb/>
+was permitted.  A small frame building<lb/>
+was put up, and screened to prevent<lb/>
+mosquitoes from getting in or out.  The<lb/>
+interior was divided into two apartments,<lb/>
+separated by wire mosquito netting.<lb/>
+Two susceptible men were put into this<lb/>
+building, one in each compartment, and <lb/>
+there they remained for several days,<lb/>
+subjected in every way to the same con-</p>
+<pb n="3" id="f03142009"/>
+<p>ditions.  When they had lived there<lb/>
+in good health long enough to prove that<lb/>
+there could be no infection, Reed put<lb/>
+fifteen infected mosquitoes into one of<lb/>
+the compartments, and presently de-<lb/>
+clared that compartment to be infected.<lb/>
+When the man in the infected compart-<lb/>
+ment had been bitten by mosquitoes,<lb/>
+Reed took him out, but returned him for<lb/>
+a short time later in the day and again<lb/>
+on the following day, until altogether<lb/>
+he had been bitten fifteen times.  Mean-<lb/>
+while two men were left in the com-<lb/>
+partment which contained no mosqui-<lb/>
+toes.  These men remained perfectly<lb/>
+well, but in four days the man who had<lb/>
+been bitten went down with yellow fever.</p>
+<p>Reed, after simply removing the fif-<lb/>
+teen mosquitoes declared the infected<lb/>
+compartment disinfected.  A non-im-<lb/>
+mune soldier was then placed in each<lb/>
+compartment and the two remained per-<lb/>
+fectly well for several days.</p>
+<p>Even the skeptics now admitted that <lb/>
+yellow fever could be transmitted by <lb/>
+mosquitoes, but they still maintained<lb/>
+that this was not the only means of<lb/>
+transmission.  The volunteers then sub-<lb/>
+mitted to a further series of most un-<lb/>
+pleasant experiments, and finally proved <lb/>
+conclusively that yellow fever is not<lb/>
+contagious and that it is transmitted<lb/>
+only by mosquitoes.</p>
+<p>There followed a vigorous war upon <lb/>
+mosquitoes.  They were killed by whole-<lb/>
+sale by fumigation and their breeding <lb/>
+places were sought out and destroyed.<lb/>
+In seven months Havana was free from<lb/>
+yellow fever for the first time in 140<lb/>
+years.</p>
+<pb n="4" id="f03142010"/>
+<p>A few years later, General William C.<lb/>
+Gorgas started a similar campaign in the<lb/>
+Panama Canal Zone and within twelve<lb/>
+months abolished yellow fever there<lb/>
+and made possible the building of the<lb/>
+Panama Canal. This deadly disease with<lb/>
+a few others had cost the French 22,189<lb/>
+human lives--one of the chief reasons<lb/>
+why the French abandoned the canal<lb/>
+project.</p>
+<p>Who will say that Reed and Lazear<lb/>
+and their brave associates paid too high<lb/>
+a price for this enormous saving of life?<lb/>
+Who will say that they should not have<lb/>
+risked their lives to save millions from<lb/>
+suffering and death? Have not right<lb/>
+minded people always honored those<lb/>
+who have given their lives for others?<lb/>
+If we honor the soldier who dies to save<lb/>
+his company--a wounded comrade per-<lb/>
+haps--how shall we honor Lazear, who<lb/>
+died to save a hundred thousand men?<lb/>
+There is a modest tablet to his memory<lb/>
+in Johns Hopkins University, and a<lb/>
+great hospital in Washington bears the<lb/>
+name of Walter Reed. But the service<lb/>
+they rendered to humanity is beyond<lb/>
+estimate and beyond reward. And if the<lb/>
+bodies of men like this are not too sacred<lb/>
+to dedicate to such work as they per-<lb/>
+formed, is it too much to ask that the<lb/>
+bodies of a few rats or rabbits or guinea<lb/>
+pigs shall be dedicated to work of equal<lb/>
+importance? The American Association<lb/>
+for Medical Progress submits that it is<lb/>
+not.</p>
+<p>-----</p>
+<p>American Association for Medical Progress<lb/>
+370 Seventh Avenue, New York City</p>
+</div1>
+</body> 
+</text>
+</TEI.2>

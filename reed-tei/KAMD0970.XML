@@ -1,0 +1,833 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0970">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Senate Report No. 1912, 70th Congress, 2d Session, February 25, 1929</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0970</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1929-02-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Hamann, Paul</name>
+<name type="person">Olsen, William</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Gorgas, Marie D.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">O'Reilly, Robert M.</name>
+<name type="person">Roosevelt, Theodore</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Carroll, James</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Lawrence, William</name>
+<name type="person">Root, Elihu</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Andrus, Seth C.</name>
+<name type="person">Bullard, John R.</name>
+<name type="person">Covington, Albert W.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Jernegan, N. May</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Olsen, William</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Fernandez, Nicanor</name>
+<name type="person">Benigno, Antonio</name>
+<name type="person">Presedo, Becente</name>
+<name type="person">Martinez, Jose</name>
+<name type="person">Castillo, Pablo Ruiz</name>
+<name type="person">Moran, Manuel Guiterrez</name>
+<name type="person">Alvarez, Jacinto Mendez</name>
+<name type="person">Davis, Dwight F.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>11 pp.</extent>
+<date value="1929-02-25">February 25, 1929</date>
+<idno rend="suppress">KAMD0970</idno>
+<title>Senate Report No. 1912, 70th Congress, 2d Session, February 25, 1929</title>
+</bibl>
+</head>
+<p>Report recognizes the public service rendered by Walter Reed and those associated with him in the discovery of the cause and means of transmission of yellow fever. It also contains a statement regarding the pensions being provided to persons named in the bill, in particular widows, Agramonte, and the yellow fever volunteers. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1929-02-25">
+<head>Senate Report No. 1912, 70<hi rend="superscript">th</hi>
+Congress, 2d Session, February 25, 1929</head>
+<pb n="1" id="fKAMD0970"/>
+<p>Col. Kean's Statement. 1929</p>
+<p>70TH CONGRESS }<lb/>
+<hi rend="italic">2d Session</hi> }<lb/>
+SENATE<lb/>
+{ REPORT<lb/>
+{ No. 1912</p>
+<p>========================================</p>
+<p>Please return to Gen. Kean</p>
+<p>TO RECOGNIZE THE HIGH PUBLIC SERVICE RENDERED BY MAJ.<lb/>
+WALTER REED AND THOSE ASSOCIATED WITH HIM IN THE<lb/>
+DISCOVERY OF THE CAUSE AND MEANS OF TRANSMISSION OF<lb/>
+YELLOW FEVER</p>
+<p>----------</p>
+<p>FEBRUARY 25, 1929.--Ordered to be printed</p>
+<p>----------</p>
+<p>Mr. REED of Pennsylvania, from the Committee on Military Affairs,<lb/>
+submitted the following</p>
+<p>REPORT</p>
+<p>[To accompany H. R. 13060]</p>
+<p>The Committee on Military Affairs, to which was referred the<lb/>
+bill (H. R. 13060) to recognize the high public service rendered<lb/>
+by Maj. Walter Reed and those associated with him in the discovery<lb/>
+of the cause and means of transmission of yellow fever, having<lb/>
+considered the same, report favorably thereon with the recommenda-<lb/>
+tion that it do pass with the following amendments:</p>
+<p>Page 1, line 10 and page 3, line 5, correct the name &ldquo;John H.<lb/>
+Andrus&rdquo; to read &ldquo;James A. Andrus&rdquo;.</p>
+<p>Page 2, line 2, correct the name &ldquo;Deans&rdquo; to read &ldquo;Dean&rdquo;; the<lb/>
+name &ldquo;Wallace Forbes&rdquo; to read &ldquo;Wallace W. Forbes&rdquo;, and the<lb/>
+name &ldquo;P. Hamann&rdquo; to read &ldquo;Paul Hamann&rdquo;.</p>
+<p>Page 2, line 4, correct the name &ldquo;William Olson&rdquo; to read &ldquo;William<lb/>
+Olsen&rdquo;.</p>
+<p>Page 2, line 5, correct the name &ldquo;R. P. Cooke&rdquo; to read &ldquo;Doctor<lb/>
+R. P. Cooke&rdquo;, and the name &ldquo;Thomas H. England&rdquo; to read &ldquo;Thomas<lb/>
+M. England&rdquo;.</p>
+<p>The spelling of the above names as contained in the amendments<lb/>
+is in accordance with the report of the Surgeon General of the Army.</p>
+<p>The House report on the bill, containing an explanation of the<lb/>
+purpose of the bill and a history of the case is made a part of this<lb/>
+report and reads as follows:</p>
+<pb n="2" id="fKAMD0980"/>
+<p>House Report No. 1429, Seventieth Congress, first session</p>
+<p>TO RECOGNIZE THE HIGH PUBLIC SERVICE RENDERED BY MAJ.<lb/>
+WALTER REED AND THOSE ASSOCIATED WITH HIM IN THE DIS-<lb/>
+COVERY OF THE CAUSE AND MEANS OF TRANSMISSION OF<lb/>
+YELLOW FEVER</p>
+<p>-----</p>
+<p>APRIL 30, 1928.--Committed to the Committee of the Whole House and ordered<lb/>
+to be printed</p>
+<p>-----</p>
+<p>Mr. FROTHINGHAM, from the Committee on Military Affairs, sub-<lb/>
+mitted the following</p>
+<p>REPORT</p>
+<p>[To accompany H. R. 13060]</p>
+<p>The Committee on Military Affairs, to whom was referred the bill<lb/>
+(H. R. 13060) to recognize the high public service rendered by Maj.<lb/>
+Walter Reed and those associated with him in the discovery of the<lb/>
+cause and means of transmission of yellow fever, introduced by Mr.<lb/>
+Wainwright, having considered the same, report thereon with the<lb/>
+recommendation that it do pass, with the following amendment:</p>
+<p>Page 2, line 18, after the word &ldquo;Lazear&rdquo; insert the words &ldquo;Mrs.<lb/>
+William Crawford Gorgas&rdquo;.</p>
+<p>Hearings were held on a similar bill (H. R. 11686) on April 11,<lb/>
+1928, and the following preliminary statement was made by the<lb/>
+Surgeon General of the Army, Maj. Gen. M. W. Ireland:</p>
+<p>Mr. Chairman and gentlemen, I am very glad to appear before the committee<lb/>
+in support of this bill, because my distinguished predecessor, Gen. Robert M.<lb/>
+O'Reilly, the greatest surgeon general that the Army ever had, made a similar<lb/>
+recommendation as far back as 1905. He prepared a memorandum which was<lb/>
+sent to the President, and which was forwarded to the Congress with this<lb/>
+comment:</p>
+<p>&ldquo;The inclosed papers are transmitted to the Congress in the hope that it will<lb/>
+take suitable action in this matter. Major Reed's part in the experiments<lb/>
+which resulted in teaching us how to cope with yellow fever was such as to<lb/>
+render mankind his debtor, and this Government should in some proper fashion<lb/>
+bear witness to this fact.</p>
+<p>&ldquo;THEODORE ROOSEVELT.</p>
+<p>'DECEMBER 5, 1906.&rdquo;</p>
+<p>Walter Reed was the head of a board that went to Cuba in 1900 to discover,<lb/>
+if possible, the cause of yellow fever. By October, 1900, he had proven to his<lb/>
+own satisfaction that it was caused by the mosquito. This was proven to the<lb/>
+world very shortly afterwards, and in proving that yellow fever was transmitted<lb/>
+by a certain species of mosquito he made the greatest progress in preventive<lb/>
+medicine that had been made in the world up to that time; and I think it is a<lb/>
+2<lb/>
+<pb n="3" id="fKAMD0990"/>
+RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.<lb/>
+3<lb/>
+very small thing for this Government to give a reward for those who were con-<lb/>
+nected with these experiments * * *.</p>
+<p>The following complete statement of the circumstances attending<lb/>
+these investigations was prepared by Col. J. R. Kean, Medical Depart-<lb/>
+ment, United States Army, retired:</p>
+<p>ARMY MEDICAL MUSEUM,<lb/>
+<hi rend="italic">Washington, D. C., April 18, 1928</hi>.</p>
+<p>Hon. JOHN M. MORIN,<lb/>
+<hi rend="italic">Chairman Committee on Military Affairs,<lb/>
+House of Representatives, Washington, D. C.</hi></p>
+<p>SIR: In compliance with the desires of your committee as expressed at the<lb/>
+hearing on April 11, 1928, on the bill H. R. 11686 for the reward of those taking<lb/>
+part in the work of the yellow fever board, I submit the following statement of<lb/>
+my connection with that work, and the names and status of those taking part in<lb/>
+it as requested of me by Hon. J. Mayhew Wainwright, who introduced the bill.</p>
+<p>The yellow fever board or commission was organized and sent to Cuba by the<lb/>
+War Department upon the recommendation of Surgeon General Sternberg, in<lb/>
+June, 1900, to study the cause and prevention of yellow fever, a matter whose<lb/>
+vast importance, I believe, the committee well understands.</p>
+<p>The members of the board were Maj. Walter Reed, surgeon United States<lb/>
+Army, Acting Assistant Surgeons James Carroll, Aristides Agramonte and<lb/>
+Jesse W. Lazear, United States Army. A statement with regard to each of them<lb/>
+is made below.</p>
+<p>My connection with the work of this board, which was of no great importance<lb/>
+except that it permitted me to be familiar with all the details connected with<lb/>
+their work and to furnish information which may be of value to your committee,<lb/>
+arose from the following circumstances:</p>
+<p>I had gone to Cuba in 1898 with the Seventh Corps, of which General Fitzhugh<lb/>
+Lee was the commanding general, and of which I became the chief surgeon.<lb/>
+After the discharge of the volunteers in May, 1899, General Lee was placed in<lb/>
+charge of the military department of western Cuba with headquarters at<lb/>
+Marianao. I was his chief surgeon with sanitary supervision of the area under<lb/>
+his command. The city of Habana was, however, excepted from his command,<lb/>
+being a separate military department under General Ludlow whose chief sanitary<lb/>
+officer was Maj. (afterwards major general) W.C. Gorgas. Major Reed and Doctor<lb/>
+Carroll arrived in Cuba June 25, 1900; the other two members of the commission,<lb/>
+Doctor Agramonte and Doctor Lazear, being already on duty in Cuba. In order<lb/>
+to secure quarters and office room without expense and a healthy environment<lb/>
+they received General Lee's permission to locate in certain buildings at the hos-<lb/>
+pital at Columbia Barracks, less than a mile from General Lee's headquarters.<lb/>
+This location permitted me, in my position, to be of service to the commission<lb/>
+in various ways, and I saw much of Major Reed, as we were old friends. It<lb/>
+appears to me unnecessary to recount the dramatic and interesting story of the<lb/>
+work of the board, as this is well covered in the first four chapters of Senate<lb/>
+Document 822, Sixty-first Congress, third session, entitled, &ldquo;Yellow Fever, a<lb/>
+Compilation of Various Publications,&rdquo; which the committee has resolved to<lb/>
+have reprinted. It will be sufficient to say that it may be divided into several<lb/>
+phases.</p>
+<p>The first was the demonstration that there was no foundation in the claim of<lb/>
+Sanarelli that the <hi rend="italic">Bacillus icteroides</hi> isolated by him was the cause of yellow fever.<lb/>
+This occupied the month of July. Then for sound epidemiological reasons the<lb/>
+board determined to investigate the theory of Dr. Carlos Finlay that yellow<lb/>
+fever was transmitted by a certain variety of mosquito. This second phase,<lb/>
+including the successful inoculations of Carroll and Pvt. Wm. H. Dean and the<lb/>
+tragic death of Doctor Lazear, includes the period to October 12 when Reed,<lb/>
+accompanied by me, had his interview with General Wood, which, by securing<lb/>
+General Wood's approval of experiments on human beings, and the grant of<lb/>
+money for necessary expenses, changed the whole character of the investigation.</p>
+<p>Reed then went to the United States for a brief visit to consult with the Surgeon<lb/>
+General and read his paper, &ldquo;The etiology of yellow fever, a preliminary note,&rdquo;<lb/>
+at the annual meeting of the American Public Health Association, October 22<lb/>
+to 26. Upon his return to Cuba, October 28, begins the third phase of his work,<lb/>
+occupied in the construction of an experimental station, Camp Lazear, and the<lb/>
+experiments thereat upon American Volunteers and Spanish immigrants, which<lb/>
+demonstrated the method of the transmission of yellow fever and made clear the<lb/>
+<pb n="4" id="fKAMD1000"/>
+4<lb/>
+RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.<lb/>
+way of its prevention. This phase may be considered to have been completed<lb/>
+on February 4, 1901, when Reed read before the Pan American Medical Associa-<lb/>
+tion in Habana the report of the board, &ldquo;The etiology of yellow fever, an addi-<lb/>
+tional note,&rdquo; giving the results of their experiments and their conclusions.</p>
+<p>After the adjournment of this meeting Reed and Carroll returned to Wash-<lb/>
+ington, and Gorgas gave a practical application of Reed's conclusions by warfare<lb/>
+upon mosquitoes in the city of Habana in accordance with the tenth conclusion<lb/>
+of the board which was:</p>
+<p>&ldquo;10. The spread of yellow fever can be most effectually controlled by measures<lb/>
+directed to the destruction of mosquitoes and the protection of the sick against<lb/>
+the bites of these insects.&rdquo;</p>
+<p>Doctor Carroll returned to Cuba during the fall of 1901 to make certain other<lb/>
+experiments connected with the etiology of yellow fever by the injection of<lb/>
+filtered blood from cases of that disease which demonstrated that the organism<lb/>
+of the disease was a &ldquo;filterable virus&rdquo; which would pass through a pasteur por-<lb/>
+celain filter, and was therefore ultramicroscopic in size.</p>
+<p>STATEMENT WITH REGARD TO THE CLAIMS OF THE PERSONS NAMED IN THE BILL<lb/>
+WITH PERTINENT DATA CONCERNING THEM, <hi>FIRST CATEGORY</hi></p>
+<p>1. <hi rend="italic">Mrs. Walter Reed</hi> was Emelie Lawrence, of North Carolina. Her family<lb/>
+came originally from Massachusetts, and was related to the distinguished bishop,<lb/>
+Right Rev. William Lawrence, of Massachusetts. They were married in 1876.<lb/>
+There were two children of this marriage, both of whom are living. Since the<lb/>
+death of Major Reed after an operation for appendicitis in Washington, November<lb/>
+23, 1902, she has not remarried, and is a resident of the city of Washington.</p>
+<p>At the time of his death the Secretary of War, the Hon. Elihu Root, had pro-<lb/>
+posed in his annual report to the President that Reed being the senior major in<lb/>
+his grade should be promoted to the grade of colonel in the Medical Department<lb/>
+and that Maj. W. C. Gorgas should be promoted to the grade of lieutenant colonel.<lb/>
+This recommendation, although it had not been published, was known to the<lb/>
+writer, and Major Reed was told of it by him on his deathbed. He replied,<lb/>
+&ldquo;I do not care for that now.&rdquo; The special promotion to colonel was later given<lb/>
+to Major Gorgas.</p>
+<p>With reference to the recognition of Reed's work by the United States Govern-<lb/>
+ment, Dr. Howard A. Kelly in his work &ldquo;Walter Reed and Yellow Fever&rdquo;<lb/>
+quotes at the beginning of Chapter X on the value of Doctor Reed's work to the<lb/>
+world as follows from the Bible, Book of Esther, 6:3, &ldquo;And the King said what<lb/>
+honour and dignity have been done to Mordecai for this? Then said the King's<lb/>
+servants who ministered unto him, There is nothing done for him.&rdquo;</p>
+<p>The Surgeon General proposed that Major Reed's pay as major ($291 per<lb/>
+month) be continued to Mrs. Reed as a pension. A bill providing for this was<lb/>
+introduced into the Senate by Senator Martin of Virginia, and was passed with<lb/>
+the amount reduced to $125 per month. A similar bill was introduced into the<lb/>
+House by Mr. Maynard of Virginia, and was referred to the Pension Committee,<lb/>
+but never reported out by them. On the morning of March 4, 1903, by agreement<lb/>
+between the Republican and Democratic leaders of the House, and the Speaker,<lb/>
+Mr. Henderson, the Pension Committee was discharged from consideration of<lb/>
+the bill and the Senate bill was taken up and passed. The appropriations for<lb/>
+her annuity were made for some years on the War Department appropriation<lb/>
+bill, but payments are now made by the Pension Bureau.</p>
+<p>Regarding the value of Major Reed's services to this country and to humanity<lb/>
+it is believed that the committee is well informed. I would, therefore, only<lb/>
+quote a paragraph from a letter of Prof. William H. Welch, of Johns Hopkins<lb/>
+University, written soon after Reed's death, to the Secretary of War, in which<lb/>
+he stated:</p>
+<p>&ldquo;Doctor Reed's researches in yellow fever are by far the most important<lb/>
+contributions to science which have ever come from an Army surgeon. In my<lb/>
+judgment, they are the most valuable contributions to medicine and public<lb/>
+hygiene which have ever been made in this country, with the exception of the<lb/>
+discovery of anaesthesia. They have led and will lead to the saving of thou-<lb/>
+sands of lives. I am in a position to know that the credit for the original ideas<lb/>
+embodied in this work belongs wholly to Major Reed.&rdquo;</p>
+<p>Major Reed left no property except a small life insurance, and the pension<lb/>
+received by Mrs. Reed is, as the committee must realize, quite inadequate for a<lb/>
+comfortable and dignified existence. This inadequacy has been made worse by<lb/>
+the depreciation in the purchasing power of the dollar due to the World War,<lb/>
+<pb n="5" id="fKAMD1010"/>
+RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.<lb/>
+5<lb/>
+so that her pension now is about equivalent to one of $75 at the time it was<lb/>
+given. It has been helped out to some extent by payment to her of the interest<lb/>
+on a fund collected by a group of Major Reed's friends for the purpose of erecting<lb/>
+a monument to him. The principal of this fund will be available to assist in the<lb/>
+erection of a monument to him whenever the Government sees fit to make pro-<lb/>
+vision for one, provided that adequate support for Mrs. Reed has been made.</p>
+<p>2. Mrs. James Carroll was the wife of Dr. James Carroll, by whom she had<lb/>
+seven children. Mrs. Carroll has, so far as is known to the writer, never re-<lb/>
+married. Her present address is box 2440, St. Petersburg, Fla. She has re-<lb/>
+ceived since soon after the death of Major Carroll on September 16, 1907, a<lb/>
+monthly pension of $125. Doctor Carroll was born in England and enlisted in<lb/>
+the Army June 9, 1874. He served in the grades of private, corporal, sergeant,<lb/>
+and hospital steward, first at western posts and later in New York and Washing-<lb/>
+ton. He took advantage of his opportunities as a medical department soldier to<lb/>
+study medicine, and being encouraged by the medical officers under whom he<lb/>
+served graduated at the University of Maryland in 1891. He then, in 1893,<lb/>
+became Major Reed's laboratory assistant at the Army Medical School in<lb/>
+Washington, where he served until his appointment as acting assistant surgeon,<lb/>
+May 21, 1898. He served as Major Reed's assistant in the investigation of the<lb/>
+typhoid-fever epidemic during the Spanish War, and, doubtless on his recommenda-<lb/>
+tion, was made a member of the Yellow Fever Board in 1900. He permitted<lb/>
+himself to be bitten by infected mosquitoes, and was the first experimental case<lb/>
+caused by the board, being taken sick August 31, 1900. In recognition of this<lb/>
+experience he was commissioned a first lieutenant and assistant surgeon in the<lb/>
+Medical Corps October 27, 1902. From this grade he was promoted to major by a<lb/>
+special act of Congress March 9, 1907. He died in Washington, D. C., of myo-<lb/>
+carditis September 16, 1907.</p>
+<p>Mrs. Carroll's pension has been, of course, inadequate for her needs and those<lb/>
+of her family. This inadequacy has been much increased by the fall in the<lb/>
+purchasing power of the dollar since the World War.</p>
+<p>3. Mrs. Jesse W. Lazear (Mabel M. Lazear) was the wife of Dr. Jesse W.<lb/>
+Lazear, acting assistant surgeon and third member of the yellow fever board.<lb/>
+At the time of his death at Camp Columbia, Cuba, September 25, 1900, of yellow<lb/>
+fever, incurred in the line of duty, they had two young children; the youngest of<lb/>
+these he never saw. She has not remarried and since his death has received<lb/>
+an annuity of $125 per month. It is understood that Doctor Lazear left very<lb/>
+little property and she had great difficulty in supporting herself and her children.<lb/>
+Her present address is 6 Oak Vale Avenue, Berkeley, Calif.</p>
+<p>Jesse W. Lazear was born in Baltimore May 2, 1866. He graduated in medicine<lb/>
+at Columbia University, New York City, in 1892, after which he served two years<lb/>
+at Bellevue Hospital in New York. He then spent a year in Europe, a part of it<lb/>
+at the Pasteur Institute in Paris. On his return home he was made bacterio-<lb/>
+logist to the medical staff of Johns Hopkins Hospital, and was also assistant in<lb/>
+clinical microscopy in the university. He was one of the first men in this country<lb/>
+to study the development of the malarial organism in the blood of man and in the<lb/>
+mosquito, and this knowledge was of the greatest value to the yellow fever board<lb/>
+when they took up the study of that disease. He was a man not only of brilliant<lb/>
+professional attainments, who, but for his untimely death, would have gone far<lb/>
+in his profession, but of noble character and great personal charm. He and his<lb/>
+family have received no reward for his great services to the country except the<lb/>
+inadequate pension above mentioned, and the naming after him of a battery in<lb/>
+Baltimore Harbor.</p>
+<p>4. Dr. Aristides Agramonte is the only living member of the yellow fever<lb/>
+commission. He was born in Cuba during the &ldquo;ten years&rdquo; war, in which his<lb/>
+father, a Cuban officer, was killed in battle by the Spaniards. The Agramonte<lb/>
+family came to New York when he was 10 years old, and he grew up and was<lb/>
+graduated in that city. He graduated in medicine at the College of Physicians<lb/>
+and Surgeons where he and Lazear were classmates. At the beginning of the<lb/>
+Spanish War he joined the Army as an acting assistant surgeon, and after the<lb/>
+American occupation, had charge of the Army medical laboratory in Habana.<lb/>
+Upon the organization of the yellow fever commission he was detailed as a member<lb/>
+of it, and contributed materially to its success. He performed most of the autopsy<lb/>
+work and the experiments on animals, and after Lazear's death <hi>had charge of the</hi><lb/>
+mosquito work. He served with the Army until the establishment of the Cuban<lb/>
+Republic in May, 1902. Upon the withdrawal of the American forces he remained<lb/>
+in Habana and was appointed a professor in the medical school of the University<lb/>
+of Habana, a position which he still occupies. During the American government<lb/>
+His statement, disputed by Gen. Truby.<lb/>
+<pb n="6" id="fKAMD1020"/>
+6<lb/>
+RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.<lb/>
+of pacification in Cuba, 1906-1909 he was a member of the yellow fever board in<lb/>
+Habana, and rendered valuable service in the campaign against yellow fever which<lb/>
+had again broken out in Habana and spread over most of the island.</p>
+<p>Doctor Agramonte has never received from the United States Government<lb/>
+any honor, recognition, or material reward for his distinguished services to this<lb/>
+country and to humanity as a member of the yellow fever commission. The<lb/>
+Cuban Government has recently set us an example in generosity by voting a<lb/>
+generous pension to the widow of General Leonard Wood. It would seem that<lb/>
+our country should in its turn recognize its debt to Dr. Aristides Agramonte who,<lb/>
+though now a Cuban, has worn our uniform and rendered us distinguished<lb/>
+service.</p>
+<p>THE VOLUNTEERS WHO SUFFERED FROM EXPERIMENTAL YELLOW FEVER, <hi>SECOND<lb/>
+CATEGORY</hi></p>
+<p>The second category of persons to whom these United States is indebted for<lb/>
+the conquest of yellow fever consists of 14 names, 12 of whom were private<lb/>
+soldiers serving in Cuba. They are arranged in the bill in alphabetical order, and<lb/>
+will be considered in that order, as in the bill H. R. 11686.</p>
+<p>5. John A. Andrus, private, Hospital Corps, volunteered and was infected with<lb/>
+yellow fever by injection of blood at Camp Lazear, January 28, 1901. He was<lb/>
+discharged from the military service April 24, 1902, at Camp George H. Thomas,<lb/>
+Chickamauga, Tenn.; character excellent. He was born at Fassett, Pa. His<lb/>
+present address is not known. Father's address, Seth C. Andrus, Elmira, N. Y.<lb/>
+He received a donation of $200, paid by the writer from Cuban funds granted by<lb/>
+the military governor, General Leonard Wood, but I understand does not receive<lb/>
+any pension from the United States.</p>
+<p>6. Mr. John R. Bullard was a native of Massachusetts and a graduate of Har-<lb/>
+vard University, where he was a distinguished athlete; he came to Cuba in 1901,<lb/>
+where he purchased land and engaged in farming. In the fall of 1901 he became<lb/>
+ill with malarial fever, and was brought to Camp Columbia for treatment. He<lb/>
+was treated by Doctor Carroll, who interested him in the yellow-fever work, so<lb/>
+that after his recovery he offered himself as a volunteer for experiment. Doctor<lb/>
+Carroll infected him with yellow fever by the injection of blood, he being taken<lb/>
+sick October 23, 1901. In point of time he was the last of the series of experi-<lb/>
+mental cases. Mr. Bullard has not, I believe, received any reward or recognition<lb/>
+from the Government of the United States or the military government of Cuba.<lb/>
+His present address is Ingenio Jatibonico, Jatibonico, Oriente, Cuba.</p>
+<p>7. Albert W. Covington, private, Twenty-third Company, Coast Artillery, was<lb/>
+born at Laurinsburg, N. C., enlisted at Maxton, N. C. He remained in the<lb/>
+service until August 9, 1926, when he was retired for long service. Address,<lb/>
+Mrs. Rose Covington, R. F. D. 3, Cohocton, N. Y.</p>
+<p>He was one of the group of volunteers infected by Doctor Carroll by blood<lb/>
+injections in the fall of 1901. He received an injection of filtered blood serum<lb/>
+from a case of yellow fever, and became sick October 19, 1901. He received a<lb/>
+donation of $200 from the undersigned from the allotment of Cuban funds made<lb/>
+by General Wood for these experiments. He receives from the Government his<lb/>
+retired pay for long service, but no reward for his part in the yellow-fever work.</p>
+<p>8. William H. Dean, private, Troop B, Seventh Cavalry, was born at Holland,<lb/>
+Ohio, enlisted at Grand Rapids, Mich., and was discharged August 17, 1902.<lb/>
+His present address is unknown.</p>
+<p>The case of this soldier, which followed that of Doctor Carroll, was of great<lb/>
+importance as it convinced Major Reed of the truth of Doctor Finlay's mosquito-<lb/>
+transmission theory. He was infected on August 31, 1900, by the same mosquito<lb/>
+that had caused Doctor Carroll's illness, and on the same day that the diagnosis<lb/>
+of yellow fever in Doctor Carroll's case was made. His name was concealed at<lb/>
+the time under the anonymous designation &ldquo;X. Y.&rdquo; because the experiment was<lb/>
+made without military authorization at Columbia Barracks at a time when it<lb/>
+was under rigid quarantine against the introduction of yellow fever. He has<lb/>
+never received any reward from either the United States or from the Cuban<lb/>
+treasury.</p>
+<p>9. Wallace W. Forbes, private, Hospital Corps, was born at Galesburg, Ill.;<lb/>
+enlisted at Minneapolis, Minn. He was discharged March 1, 1905, with character<lb/>
+excellent. The address of his mother whose name was not given on the record<lb/>
+was 1523 Irving Avenue, Minneapolis, Minn.</p>
+<p>He volunteered to be infected with yellow fever by injection of blood at Camp<lb/>
+Lazear, and became sick January 24, 1901. He received a donation of $200 from<lb/>
+<pb n="7" id="fKAMD1030"/>
+RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.<lb/>
+7<lb/>
+the Cuban funds allotted by General Wood for these experiments, but is not be-<lb/>
+lieved to have received any pension or other recognition from the United States.</p>
+<p>10. Levi E. Folk, private, Hospital Corps, was born at Kadish, S. C.; he<lb/>
+enlisted at Columbia, S. C., and was retired for long service March 30, 1923.</p>
+<p>Folk was one of the men who volunteered to undergo the very trying experience<lb/>
+of exposure to fomites by sleeping 20 nights in the bed clothing and body clothes<lb/>
+which had been used by yellow fever patients, and which was soiled with their<lb/>
+excretions.</p>
+<p>It was obviously necessary to establish the fact that the men who underwent<lb/>
+this experiment were not immune, and Folk volunteered to be bitten by infected<lb/>
+mosquitoes, and was taken ill with yellow fever January 23, 1901.</p>
+<p>He received a donation of $100 for the fomites experiment and $200 for the<lb/>
+yellow fever inoculation from the Cuban funds allotted by General Wood for<lb/>
+these experiments. He receives from the Government his retired pay but has<lb/>
+not, so far as is known, received any pension or other reward for his services as<lb/>
+a volunteer in these experiments. His present address is 374 South Third<lb/>
+Street, Columbus, Ohio.</p>
+<p>11. Paul Hamann, private, Twenty-third Company, Coast Artillery, was<lb/>
+born in Germany and enlisted at Springfield, Ill. After long service he was<lb/>
+discharged August 12, 1913.</p>
+<p>Hamann was one of the group of cases infected by Doctor Carroll in the fall<lb/>
+of 1901 by injection of filtered blood serum from a case of yellow fever. He<lb/>
+became sick October 19, 1901.</p>
+<p>He received a donation of $200 from the Cuban funds allotted by General<lb/>
+Wood for these experiments, and he receives from the Government a pension of<lb/>
+$20 per month. Address, care of his father, August Hamann, East Moline, Ill.</p>
+<p>12. James F. Hanberry, private, Hospital Corps, was born at Denmark, S. C.;<lb/>
+enlisted at Camp Onward, Ga. He deserted the service April 4, 1902, while at<lb/>
+Walter Reed General Hospital, Washington, D. C.</p>
+<p>Hanberry, like Folk, first underwent the fomites experiment, and then volun-<lb/>
+teered to be bitten by infected mosquitoes, and in consequence was taken sick<lb/>
+with yellow fever at Camp Lazear, February 9, 1901. He received donations<lb/>
+amounting to $300 from the Cuban funds allotted by General Wood for these<lb/>
+experiments.</p>
+<p>Being a deserter he has, naturally, not received any pension or reward from the<lb/>
+United States Government.</p>
+<p>13. Mrs. Warren G. Jernegan (N. May Jernegan) is the widow of Warren G.<lb/>
+Jernegan, private, Hospital Corps, who was born at Cone, Fla. He was dis-<lb/>
+charged at Columbia Barracks, November 16, 1901, but afterwards was in the<lb/>
+Government employ at Panama, and, as stated by his widow, died February 5,<lb/>
+1919, while still in Government employ in Charleston, S. C.</p>
+<p>He, like Folk and Hanberry, after undergoing the fomites experiment, volun-<lb/>
+teered to have his immunity tested by an injection of blood from a yellow-fever<lb/>
+patient, and was taken sick January 8, 1901.</p>
+<p>For these two experiments he received donations amounting to $300 from the<lb/>
+Cuban funds allotted by General Wood for these experiments. Mrs. Jernegan<lb/>
+receives a pension of $125 per month from the United States Government.</p>
+<p>14. JOHN R. KISSINGER, private, Hospital Corps, was born at McClure,<lb/>
+Ohio; enlisted for the Spainsh War at Indianapolis, Ind. He was discharged<lb/>
+November 14, 1901, at Columbia Barracks, Cuba, with character excellent.</p>
+<p>Kissinger with Moran, who will be next mentioned, were the first to volunteer<lb/>
+as subjects for experiment in the second phase of the work of the board. Moran<lb/>
+was first bitten, but Kissinger was the first to be infected and to suffer an attack<lb/>
+of yellow fever on December 8, 1900.</p>
+<p>When promised a donation by Major Reed at the time he volunteered, Kis-<lb/>
+singer declined it stating he wished to undergo the experiment for the benefit of<lb/>
+science and humanity. After his recovery he was promoted to be acting hospital<lb/>
+steward, and was presented with a gold watch by the department surgeon at a<lb/>
+military ceremony. This watch was paid for from the donation to which he<lb/>
+was entitled, and he afterwards accepted the balance of the donation in money.<lb/>
+His health having failed he was on March 2, 1907, granted a pension of $12 per<lb/>
+month. On February 11, 1911 he was granted an annuity of $100 per month.<lb/>
+His present address is R. F. D. 8, Huntington, Ind.</p>
+<p>15. Mr. John J. Moran was born in Ohio and served as a volunteer in the<lb/>
+Spanish War in the Seventh Army Corps. After his discharge he was employed<lb/>
+by the Army at the headquarters of General Fitzhugh Lee at Marianao, as a<lb/>
+clerk.</p>
+<pb n="8" id="fKAMD1040"/>
+<p>8<lb/>
+RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.</p>
+<p>Mr. Moran disclaimed before submitting to the experiments any desire for<lb/>
+reward, and has never accepted any, although he was offered the $200 from the<lb/>
+Cuban funds which the others received.</p>
+<p>The first bites from infected mosquitoes received by him on November 26,<lb/>
+and 29 were, for some reason, unsuccessful. He was infected on the third attempt<lb/>
+on December 21 and came down with yellow fever on Christmas Day, 1900.</p>
+<p>After leaving Cuba he completed his education by a course of study at the<lb/>
+University of Virginia, and then lived for a number of years in Panama in the<lb/>
+employ of the Isthmian Canal Commission. He is at present in Mexico in the<lb/>
+employment of the Firestone Tire Co., through which he can be communicated<lb/>
+with.</p>
+<p>He has never received, nor, so far as is known, applied for any pension or<lb/>
+reward from either the Cuban Government or the Government of the United<lb/>
+States.</p>
+<p>16. William Olsen, private, Hospital Corps, was born in Pierce County, Wis.;<lb/>
+enlisted for the Spanish War at Minneapolis, Minn., and was discharged Novem-<lb/>
+ber 15, 1901, with character excellent, his address being given as 7211 San Pedro<lb/>
+Street, Los Angeles, Calif.</p>
+<p>He was infected with yellow fever by injection of blood at Camp Lazear and<lb/>
+taken sick January 11, 1901.</p>
+<p>He received a donation of $200 from the Cuban funds allotted by General<lb/>
+Wood for these experiments. He is now in receipt of a pension from the Govern-<lb/>
+ment of $40 per month, presumably a Spanish pension.</p>
+<p>17. Charles G. Sonntag, private, Hospital Corps, was born at Charleston, S. C.,<lb/>
+and enlisted at Camp Onward, Ga. He was discharged December 12, 1901, at<lb/>
+Columbia Barracks, with character very good.</p>
+<p>He volunteered to be bitten by infected mosquitoes and was, in consequence,<lb/>
+taken sick with yellow fever at Camp Lazear, February 10, 1901. He received<lb/>
+a donation of $200 from the Cuban funds allotted by General Wood for these<lb/>
+experiments, and is also at present in receipt of a pension of $50 per month.<lb/>
+His present address is rural route No. 3, Gaston, S. C.</p>
+<p>18. Clyde L. West, private, Hospital Corps, was born at Mier, Ind., and enlisted<lb/>
+for the Spanish war at Toledo, Ohio. He was discharged July 10, 1902, at Fort<lb/>
+Myer, Va., character, very good.</p>
+<p>West volunteered to be bitten by infected mosquitoes at Camp Lazear, and<lb/>
+was taken sick with yellow fever February 3, 1901. He received a donation of<lb/>
+$200 from the Cuban funds allotted by General Wood for these experiments, also<lb/>
+in 1927 was given a pension of $100 per month for his services as a volunteer in<lb/>
+the yellow fever work; he gets also a pension of $30 per month for his Spanish<lb/>
+war services.</p>
+<p>VOLUNTEERS IN FOMITES EXPERIMENTS, <hi>THIRD CATEGORY</hi></p>
+<p>19. Dr. R. P. Cooke was born in Virginia in 1874. He volunteered for experi-<lb/>
+ment with fomites, and underwent the experiment with the first group who slept<lb/>
+in infected bedding. He had charge of all the men engaged in these experiments.<lb/>
+He entered the medical service of the Army June 9, 1900, as a contract surgeon<lb/>
+and was on duty in the hospital at <unclear>Piner</unclear> Del Rio during the yellow-fever epidemic<lb/>
+at that place in July, 1900. He left the service at his own request December 2,<lb/>
+1904. He received a donation of $100 from the Cuban funds allotted by General<lb/>
+Wood for these experiments, but has not received any recognition or pension<lb/>
+from the United States Government.</p>
+<p>20. Thomas M. England, private, Hospital Corps, was born in Chillicothe,<lb/>
+Ohio, and served in the Army from January 6, 1899, to January 5, 1914, in the<lb/>
+grades of private, acting hospital steward, and sergeant, first class, Hospital<lb/>
+Corps. He again enlisted July 28, 1915, and served as sergeant, first class, and<lb/>
+hospital sergeant and master hospital sergeant to February 15, 1918. He was<lb/>
+then appointed first lieutenant Sanitary Corps in the National Army and served<lb/>
+until the end of the World War. He was commissioned captain Medical Admin-<lb/>
+istrative Corps in the regular service July 1, 1920, and is now serving in that<lb/>
+grade.</p>
+<p>He volunteered and underwent the fomites experiment, sleeping 20 nights in<lb/>
+infected bedding, for which experiment he received a donation of $100 from the<lb/>
+Cuban funds allotted by General Wood for these experiments. He has not<lb/>
+received any pension or recognition from the United States Government. His<lb/>
+present address is care of the Surgeon General, War Department, Washington,<lb/>
+D. C.</p>
+<pb n="9" id="fKAMD1050"/>
+<p>RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.<lb/>
+9</p>
+<p>21. James Hildebrand, private, Hospital Corps, was born at Decatur, Ga.,<lb/>
+and enlisted at Savannah, Ga., for service in Cuba. He was discharged August<lb/>
+17, 1914, at Walter Reed General Hospital, Washington, D. C., with character<lb/>
+excellent.</p>
+<p>Private Hildebrand underwent the fomites experiment, and then volunteered<lb/>
+to be bitten with infected mosquitoes. He was, however, rejected by Major<lb/>
+Reed for this experiment on account of his age, being over 40 years old. It is<lb/>
+well known that yellow fever is much more fatal at that age and later than with<lb/>
+young men.</p>
+<p>He received a donation of $100 from Cuban funds allotted by General Wood<lb/>
+for these experiments. He is now in receipt of a pension from the United States<lb/>
+of $50 per month, which it is understood, is given him on account of long service<lb/>
+and ill health, and not for his participation in these experiments.</p>
+<p>His present address is 412 Berean Street, Atlanta, Ga.</p>
+<p>22. Edward Weatherwalks, private, Hospital Corps, was born at Pompton,<lb/>
+N. J., and enlisted for service in Cuba at Savannah, Ga., and was discharged<lb/>
+February 12, 1901, at Columbia Barracks with character good.</p>
+<p>He underwent the fomites experiment and was bitten once by mosquitoes<lb/>
+without becoming infected. He afterwards declined further experiments. He<lb/>
+received a donation of $100 from the Cuban funds allotted by General Wood for<lb/>
+these experiments.</p>
+<p>He died October 21, 1916, at Haskell, N. J.; his widow, Mrs. Lucy Weather-<lb/>
+walks, lives at Lenox Avenue, Pompton Lakes, N. J., and receives a pension of<lb/>
+$30 per month, presumably on account of her husband's service in the Spanish<lb/>
+War.</p>
+<p>SPANISH IMMIGRANTS</p>
+<p>In addition to the American volunteers enumerated above there were seven<lb/>
+Spanish immigrants who were employed to undergo these experiments. Their<lb/>
+engagement to do so was a purely business arrangement which was approved by<lb/>
+the Spanish consul at Habana; a signed contract was entered into with each one.<lb/>
+These men who had come to Cuba to get employment realized well the danger<lb/>
+of death of yellow fever, and it was explained to them that in undergoing these<lb/>
+experiments they would have the best medical care and nursing, and would be<lb/>
+paid what was to them a very large sum of money, $200 American gold at the<lb/>
+then rate of exchange being worth about 1,300 Spanish pesetas. The names of<lb/>
+these men are as follows:</p>
+<p>Nicanor Fernandez, taken sick, December 13, 1900.<lb/>
+Antonio Benigno, taken sick, December 13, 1900.<lb/>
+Becente Presdeo, taken sick December 15, 1900.<lb/>
+Jose Martinez, taken sick January 3, 1901.<lb/>
+Pablo Ruiz Castillo, taken sick September 19, 1901.<lb/>
+Jacinto Mendez Alvarez, taken sick October 13, 1901.<lb/>
+Manuel Gutierrez Moran, taken sick October 20, 1901.</p>
+<p>A wide distinction should, in my mind, be made between the payments to the<lb/>
+Spanish peasants employed by the board and the donations made to the American<lb/>
+soldiers who volunteered to take part in the experiments. In the latter case the<lb/>
+payment was regarded as a gratuity which was given in recognition of their<lb/>
+meritorious services in the same way that the increased pay was given to men<lb/>
+who had earned a certificate of merit by gallantry in action. The only interest<lb/>
+which the Spaniards took in the matter was to acquire immunity with the slightest<lb/>
+possible risk, and to get a handsome payment for their services. The Americans<lb/>
+on the contrary understood what it was all about and were tremenduously<lb/>
+interested in the importance to humanity of a successful result.</p>
+<p>Respectfully submitted,</p>
+<p>J. R. KEAN,<lb/>
+<hi rend="italic">Colonel, U. S. Army, Re'ired</hi>.</p>
+<p>The following letter from the Secretary of War reporting on H. R.<lb/>
+11686, a similar bill, follows:</p>
+<p>WAR DEPARTMENT,<lb/>
+<hi rend="italic">Washington, April 18, 1928</hi>.</p>
+<p>Hon. JOHN M. MORIN,<lb/>
+<hi rend="italic">Chairman Committee on Military Affairs,<lb/>
+House of Representatives</hi>.</p>
+<p>DEAR MR. MORIN: In compliance with the request of March 14, 1928, I am<lb/>
+pleased to submit herewith a report in duplicate from The Adjutant General on<lb/>
+H. R. 11686, Seventieth Congress, first session.</p>
+<p>This is quite a different bill</p>
+<pb n="10" id="fKAMD1060"/>
+<p>10<lb/>
+RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.</p>
+<p>The subject of so much of the proposed legislation as refers to the War De-<lb/>
+partment provides for the placing of the names of certain individuals on the rolls<lb/>
+of the department and also that, in special recognition of the high public serv-<lb/>
+ices rendered and disabilities contracted by them in the interest of humanity<lb/>
+and science as volunteer subjects for the experimentations during the yellow<lb/>
+fever investigations in Cuba, the Secretary of War be, and hereby is, authorized<lb/>
+and directed to pay to them during the remainder of their natural lives $250 per<lb/>
+month in lieu of all pensions now received.</p>
+<p>The Congress has heretofore enacted legislation granting to Jennie Carroll,<lb/>
+widow of Maj. James Carroll, United States Army, to Mabel H. Lazear, widow<lb/>
+of Jesse W. Lazear, acting assistant contract surgeon, United States Army, and to<lb/>
+Mrs. Walter Reed, annuities of $125 per month; also to Clyde L. West, late of<lb/>
+United States Hospital Corps, and John R. Kissinger, United States Army,<lb/>
+annuities of $100 per month each, to revert to their widows, in recognition of<lb/>
+eminent services performed by these men in connection with the yellow fever<lb/>
+experimentation in Cuba; and provision for the payment of these annuities<lb/>
+except that to Mrs. Walter Reed, which is granted as a pension under a special<lb/>
+act approved March 3, 1903 (private 1118, 57th Cong., 2d sess.) and is paid by<lb/>
+the Pension Bureau, has been carried in the Army appropriation bills, and is<lb/>
+provided for in H. R. 10286, Seventieth Congress, first session, making appropria-<lb/>
+tion for the military and nonmilitary activities of the War Department for the<lb/>
+fiscal year ending June 30, 1929, approved March 23, 1928. It does not appear<lb/>
+from any evidence before the War Department that the cases of these four men<lb/>
+mentioned were of exceptional merit as compared with the cases of the other<lb/>
+participants in the experiments.</p>
+<p>The names mentioned in the bill are, with the following exceptions, already<lb/>
+carried on the rolls of the War Department: Mrs. Walter Reed, Dr. Aristides<lb/>
+Agramonti, John R. Bullard, Mrs. Warren J. Jernegan; John J. Moran, and<lb/>
+Dr. R. P. Cooke. In the case of the last named (R. P. Cooke) H. R. 8772,<lb/>
+which passed the House of Representatives on January 11 last, would provide<lb/>
+payment at the rate of $100 a month. This bill has not become a law.</p>
+<p>It will be noted that the present bill would raise the annuities from the $125<lb/>
+per month now being paid to Jennie Carroll and Mabel H. Lazear and also the<lb/>
+annuity of $100 per month now being paid to Clyde L. West and John R.<lb/>
+Kissinger, to $250 per month.</p>
+<p>From the report of The Adjutant General it will be seen that there are omitted<lb/>
+from the bill the names of seven persons, Spaniards, who submitted themselves<lb/>
+to experiments in connection with the yellow fever investigation, namely:<lb/>
+Nicanor Fernandez, Antonio Benigno, Becente Presedo, Jose Martinez, Pablo<lb/>
+Ruiz Castillo, Jacinto Mendez Alvarez. and Manuel Gutierrez Moran. In con-<lb/>
+nection with these men it is deemed proper to call attention to the remarks made<lb/>
+by Surg. Gen. George H. Torney, United States Army, in a report of the occur-<lb/>
+rences which led to the appointment of the yellow fever commission as follows:</p>
+<p>&ldquo;Before taking up individually the men concerned in these experiments, in<lb/>
+order to state what is known about them at the present time, it may be men-<lb/>
+tioned that the Spaniards who were inoculated did so for the pecuniary induce-<lb/>
+ment offered them. After receiving the reward offered them by the liberality<lb/>
+of the military government of Cuba, $200 for each person successfully inocu-<lb/>
+lated, they passed from the scene and nothing further is known concerning them.<lb/>
+While their names should be preserved as a matter of historical interest, it is<lb/>
+considered that they have been well rewarded for their share in the matter,<lb/>
+especially as the idea of assisting in the advancement of science was not a con-<lb/>
+trolling motive for their action.&rdquo;</p>
+<p>Attention is called to the fact that James Hildebrand, whose name appears as<lb/>
+a beneficiary under the bill, while he generously offered himself as a subject, was<lb/>
+not accepted for inoculation by reason of <hi>minority</hi>. <unclear><add>It should be <hi>age</hi>.</add></unclear></p>
+<p>Thomas M. England (whose name appears in the fourteenth line incorrectly<lb/>
+as Thomas H. England) is now a commissioned officer in the Army and will<lb/>
+probably at some time in the future come under the provisions of the retirement<lb/>
+law.</p>
+<p>It is deemed proper to add that section 1 of the bill in reference is substantially<lb/>
+identical with H. R. 16669, Sixty-ninth Congress, second session, upon which<lb/>
+a report was made by The Adjutant General to the Secretary of War on Feb-<lb/>
+ruary 26, 1927, in response to the call of the chairman, Committee on Military<lb/>
+Affairs, House of Representatives.</p>
+<p>It would seem that in equity the Government, in establishing rewards for<lb/>
+meritorious service, should consider the relative values of the services performed<lb/>
+<pb n="11" id="fKAMD1070"/>
+RECOGNIZE PUBLIC SERVICE OF MAJ. WALTER REED ET AL.<lb/>
+11<lb/>
+and adopt, as nearly as may be, equal rewards for equal services; yet, while<lb/>
+the instant bill would pay to the beneficiaries thereunder $250 a month, section<lb/>
+3 of the act of Congress approved April 27, 1916 (H. R. 4701, Public No. 56,<lb/>
+64th Cong.), provides for payment to each surviving person, holder of the<lb/>
+congressional medal, whose name has been entered on the medal of honor roll,<lb/>
+who &ldquo;in action involving actual conflict with the enemy, distinguished himself<lb/>
+conspicuously by gallantry or intrepidity, at the risk of his life beyond and<lb/>
+above the call of duty&rdquo; a special pension of only $10 per month in addition to<lb/>
+any other pension he may be receiving.</p>
+<p>It has been ascertained from the Commissioner of Pensions that under the<lb/>
+pension laws $125 per month is the highest pension paid under the pension<lb/>
+laws, and from the Veterans' Bureau that the highest compensation paid under<lb/>
+the World War veterans' act is $200 per month; both for total disability.</p>
+<p>The difficulty of determining an adequate reward for services as great as<lb/>
+those performed by those persons who offered themselves for experimentation<lb/>
+in the yellow-fever investigation is recognized, but the facts having been stated<lb/>
+above, and as the War Department is not directly concerned, I feel that a decision<lb/>
+of the question should be left to the Congress as a matter of public policy.</p>
+<p>Sincerely yours,</p>
+<p>DWIGHT F. DAVIS, <hi rend="italic">Secretary of War</hi>.</p>
+<p>he was over 45.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

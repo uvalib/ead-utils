@@ -1,0 +1,765 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01322009">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Text of speech on yellow fever, by Henry Rose Carter, [19--]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01322009</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">White, Joseph H.</name>
+<name type="place">Hawaii</name>
+<name type="place">Panama Canal (Panama)</name>
+<name type="place">Norfolk (Va.)</name>
+<name type="place">Virginia Beach (Va.)</name>
+<name type="place">Maryland</name>
+<name type="place">New Orleans (La.)</name>
+<name type="place">Mobile (Ala.)</name>
+<name type="place">Jacksonville (Fla)</name>
+<name type="place">Pensacola (Fla.)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>21 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">01322009</idno>
+<title>Text of speech on yellow fever, by Henry Rose Carter, [19--]</title>
+</bibl>
+</head>
+<p>Carter discusses the sanitary issues surrounding yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Text of speech on yellow fever, by Henry Rose Carter, [19--]</head>
+<pb n="1" id="f01322009"/>
+<p>I am directed to tell you something about yellow<lb/>
+fever. In the time allotted it is impossible to cover the<lb/>
+subject unless so superficially as to be useless to you,<lb/>
+I am therefore going to take only one aspect of this disease,<lb/>
+the one of most importance and of most interest to you.</p>
+<p>You are, or ought to be, sanitarians, and it is<lb/>
+the sanitary aspect of yellow fever only that I will pre-<lb/>
+sent to you. As the disease concerns the practitioner I<lb/>
+will not discuss it. I am also going to assume a consid-<lb/>
+erable knowledge of yellow fever in this class, because<lb/>
+you have it. I am not going over a lot of facts well known<lb/>
+about it, not because they are unimportant but because you<lb/>
+know them and it would be a waste of time.</p>
+<p>As a preliminary to the sanitation of any disease<lb/>
+we must know its epidemiology and to know this satisfactori-<lb/>
+ly a knowledge of the method of its conveyance is necessary.<lb/>
+Yellow fever, as you know, is one of the host-borne diseases.<lb/>
+The history of the discovery and demonstration of this by<lb/>
+the Army Board of which Major Re<del>i</del><add>e</add>d was Chairman is known to<lb/>
+you. It is extremely interesting but I have not time to go<lb/>
+into it. Their findings were briefly, <hi>Yellow fever is<lb/>
+contracted by a man from the bite of a mosquito, itself in-<lb/>
+fected by having previously bitten a man sick with that dis-<lb/>
+ease and is only thus contracted</hi>. The first part is a direct<lb/>
+statement of observed facts, the latter a deduction (<add>and</add> a nega-<lb/>
+tive one) from the facts; both are not only universally ad-<lb/>
+mitted but abundantly proven, which is by no means the same<lb/>
+thing. Upon this doctrine all sanitary measures for the con-<lb/>
+trol of yellow fever rest.</p>
+<pb n="2" id="f01322010"/>
+<p>- 2 -</p>
+<p>There are evidently three factors considered in the<lb/>
+<hi>creed</hi> we have mentioned above. The sick man, the mosquito,<lb/>
+the well man. There is also implied the infective micro-<lb/>
+organism of which as yet we know but little.</p>
+<p>(1) You will find it very generally stated that the<lb/>
+man is infective to the mosquito only the first three days<lb/>
+of his illness. This is <hi>probably</hi> true, yet I would like<lb/>
+to give <add>you</add> the observations on which the statement rests.</p>
+<p>Undoubtedly all of the experimental cases <hi>were</hi> pro-<lb/>
+duced by mosquitos which had bitten men during the first<lb/>
+three days of illness. The reason was that the mosquito<lb/>
+which infected the first experimental case was thus infected<lb/>
+and as the first experimenters were trying for positive re-<lb/>
+sults the conditions of the first successful experiment<del>s</del><lb/>
+were copied. Other experiments followed them. Only a <hi>very</hi><lb/>
+few attempts then have been made to infect mosquitos from<lb/>
+men sick over three days. These few have failed. It is<lb/>
+fair to say that a certain number of mosquitos also failed<lb/>
+to receive infection from <del><unclear></unclear></del><add><unclear>man</unclear></add> during the first three days.<lb/>
+This would leave the matter in doubt.</p>
+<p>The Pasteur Commission which studied Yellow Fever<lb/>
+at Rio-- Simon, Marchoux and Salembeni, however, injected<lb/>
+four men with the blood from yellow fever patients in the<lb/>
+fourth day of the disease with negative results. They<lb/>
+had previously found this to be a very certain method of<lb/>
+inducing the disease, more so than by mosquitos. One of<lb/>
+the men subjected to this experiment later developed yellow<lb/>
+fever from the bites of infected mosquitos. He then was<lb/>
+susceptible to yellow fever. The Commission regarded the<lb/>
+<pb n="3" id="f01322011"/>
+- <unclear>2a</unclear>-<lb/>
+others susceptible also, but this was not proven.</p>
+<p>Whether these four experiments, one of which only<lb/>
+was on a man proven to be susceptible can be accepted<lb/>
+as <hi>proof</hi> that the blood of no man sick over three days is<lb/>
+infective to mosquitos may be questioned. It is enough<lb/>
+to render it probable and we should be safe in saying<lb/>
+that the blood is not infective after the first few days--<lb/>
+3 or 4. At any rate I have given you the evidence as I<lb/>
+recall it and you can judge for yourselves. I have not<lb/>
+seen the report of the <unclear>Commiseion</unclear> since it came out in<lb/>
+1903 or 1904 but I believe I have quoted it correctly.</p>
+<pb n="4" id="f01322012"/>
+<p>- 3 -</p>
+<p>(2) The only mosquito which has been proven to<lb/>
+convey yellow fever is the <unclear>Aedes</unclear> <del>C</del><add>c</add>alopus, which was first<lb/>
+known as Stegomyia Fasciata, and then Stegomyia calopus.<lb/>
+The cause of the change of name I do not know, but the<lb/>
+Bureau of Entymology decides such matters<unclear><del>.</del></unclear> has so decided.</p>
+<p>It is fair to say that not many experiments have<lb/>
+been made with other mosquitos. Only a few Culex I think<lb/>
+have been tried and have proven negative. We cannot, of<lb/>
+course, accuse such mosquitos as are found in any quanti-<lb/>
+ty where yellow fever does not spread. From analogy, not<lb/>
+always a safe guide, we would suspect that some other spe-<lb/>
+cies of this genus or may be <unclear>sub-family</unclear>, would convey yel-<lb/>
+low fever, and that none of any other sub-family would.</p>
+<p>This is no small matter of <add>merely</add> academical interest, but<lb/>
+of practical importance. In Hawaii, for instance, a form<lb/>
+known there as Stegomyia <del>S</del><add>s</add><unclear>cutellaris</unclear> exists in considerable<lb/>
+numbers. If, as I suppose, it be of the same genus of the<lb/>
+one which conveys yellow fever-- which used to be known as<lb/>
+Stegomyia calopus, it is under suspicion as a breeder of<lb/>
+yellow fever. On account of the position of these islands<lb/>
+they will be exposed to the introduction of yellow fever<lb/>
+when the Panama Canal opens, and mosquitos which convey it<lb/>
+must be eliminated. The breeding habits of the <del>S</del><add>s</add><unclear>cutellaris</unclear><lb/>
+are not quite the same as those of the calopus and considera<lb/>
+ble extra expense is necessary if it also is to be eliminat-<lb/>
+ed. A British commission is about to study or is now study-<lb/>
+ing the transmission of yellow fever by the <del>S</del><add>s</add>cutellaris.</p>
+<p>From the time the mosquito receives the infection<lb/>
+from the sick man, no less than twelve days must elapse be-<lb/>
+<pb n="5" id="f01322013"/>
+- 4 -<lb/>
+fore she becomes infective; that is, capable of conveying<lb/>
+her infection to others. This period, of &ldquo;extrinsic in-<lb/>
+cubation&rdquo; it was called when first discovered, is generally<lb/>
+over twelve days, usually over two weeks and varies with<lb/>
+the temperature, being longer as the temperature falls.</p>
+<p>It is somewhat strange that the only case in which<lb/>
+this period has been <add><unclear>found to be as</unclear></add> short as twelve days was in the first<lb/>
+case of experimentally induced yellow fever, that of Car-<lb/>
+roll.</p>
+<p><unclear>When once</unclear></p>
+<p>As soon as rendered infective the mosquito remains<lb/>
+so apparently all of her active life. In one of Reed's cases<lb/>
+fifty-nine days after receiving infection.</p>
+<p>Does she transmit this infection to her progeny?<lb/>
+You know some hosts do. The Cattle-tick of Texas fever is<lb/>
+a notable example. I think this is not true of yellow fever.<lb/>
+It is true that Marchoux of the Pasteur Commission working<lb/>
+in Rio reported such a case, but other attempts to do so have<lb/>
+failed. Guiteras kept mosquitos, the progeny of those that<lb/>
+had transmitted yellow fever during the winter, and fed them<lb/>
+from time to time on blood, some of the people furnishing it<lb/>
+being susceptible to yellow fever. The party of which Ro-<lb/>
+seneau was chief working <add><unclear>at have Orlane &amp; I think</unclear></add> at Vera Cruz <add>also</add> attempted to convey it<lb/>
+from the progeny of infected insects and failed.</p>
+<p>Naturally one positive experiment will outweigh<del>t</del> a<lb/>
+number of negative ones, but there are some things about one<lb/>
+observation of Marchoux that makes one feel doubtful. &ldquo;A<lb/>
+light but undoubted case of yellow fever&rdquo; he reported. It is<lb/>
+<pb n="6" id="f01322014"/>
+- 5 -<lb/>
+sometimes not easy to be sure of one's diagnosis in light<lb/>
+cases of yellow fever and I wish he had not said &ldquo;undoubted&rdquo;.<lb/>
+I would noy have used that word unless I had doubted it.</p>
+<p>(3) The man who receives the infection. There is very<lb/>
+little to say of him: the period of incubation in him is<lb/>
+pretty accurately from three to six days. In twenty-four ex-<lb/>
+perimental cases and in twelve others where there was only a<lb/>
+single exposure, the shortest time (one case only) was two<lb/>
+hours less than three days. The longest time (one case only)<lb/>
+was two hours more than six days. A number of cases have been<lb/>
+reported with shorter and longer, much longer, periods of incu-<lb/>
+bation following the injection of blood or blood serum treated<lb/>
+in various ways. This is not, however, the natural method of<lb/>
+infection and I think for practical work we should accept the<lb/>
+period of incubation determined by infection received in the<lb/>
+natural manner -- by the mosquito. I need not tell you that<lb/>
+the period of infection in man is of very great importance in<lb/>
+the sanitary measures against yellow fever, especially those<lb/>
+to prevent the introduction from one place to another.</p>
+<p>In all of this I have said no word of what is conveyed:<lb/>
+what the mosquito takes from the sick man, what she imparts to<lb/>
+the man who is susceptible to yellow fever, what produces the<lb/>
+disease in him. And for good reason. I do not know what it is.<lb/>
+Of course since the disease is communicable, it is capable of<lb/>
+self-multiplication, and hence caused by a living organism.</p>
+<p>From the analogy with other diseases conveyed in similar<lb/>
+manner, it should be an animal parasite, a protozoon. It is a<lb/>
+filterable virus passing through the B <unclear>&amp; F.</unclear> Chamberland <unclear></unclear><lb/>
+It is very fragile, heating to 55&deg;C destroys it. The blood re-<lb/>
+mains infective a few days (five I believe) under oil of vase-<lb/>
+<pb n="7" id="f01322015"/>
+- 3 -<lb/>
+line, but soon loses this property if exposed to air. Many <del>of<lb/>
+us</del> have attempted to cultivate this organism in various kinds<lb/>
+of media without success; to find it in smears of blood in sec-<lb/>
+tions of mosquitos known to contain them, with various stains<lb/>
+and differential stains; with dark field illumination; with<lb/>
+ultra microscopic apparatus. We tried in the laboratory on the<lb/>
+Isthmus but without success. Recently, about sixteen months<lb/>
+ago that is, Seidelin reported finding of certain bodies, some<lb/>
+in the red corpuscles and some in the blood serum, which he <unclear>clam</unclear><lb/>
+claimed to be the organisms causing yellow fever. I hope this<lb/>
+is true, but so far his work has not been confirmed by others.</p>
+<p>The mosquito: Let us consider the mosquito that conveys this disease<lb/>
+a little more in detail. Its name, genus and species, I have<lb/>
+given you. It is a small, quick, very graceful mosquito: the<lb/>
+day mosquito of the South. No one can mistake it. Once seen<lb/>
+both its appearance and feeding habits are distinctive. She<lb/>
+is grey and flies, as we say, &ldquo;all adrift&rdquo;, with her legs spread<lb/>
+out. Does not fly fast like the <unclear>anophel<del>i</del><add>es</add></unclear>, but is quick in<lb/>
+changing the direction of flight. She hovers before she bites<lb/>
+and as she bites. Sings in a very annoying manner and her bite<lb/>
+is very irritating. She feeds in the day time. I do not think<lb/>
+the hour of the day has so much to do with it as the intensity<lb/>
+of the light. On a dark day she will bite at noon, but general-<lb/>
+ly from three to four o'clock to dusk. She will bite, occasion-<lb/>
+ally at least, in the night, but I do not think that she nor-<lb/>
+mally bites in the dark. It is a little hard to determine this<lb/>
+by observation, and experiments I think have not been made.</p>
+<p>How do you reconcile this with the belief that is so<lb/>
+current in the South that one does not contract yellow fever<lb/>
+in the day time? I do not reconcile it. What I have said of<lb/>
+<pb n="8" id="f01322016"/>
+- 7 -<lb/>
+her time of biting is true. I do not know that the other<lb/>
+is. I do not believe it is. I have seen a great many pla-<lb/>
+ces, small towns, and places holding &ldquo;daylight communica-<lb/>
+tion&rdquo; with places infected with yellow fever, and believing<lb/>
+themselves safe in so doing, but I have never yet failed to see<lb/>
+these places receive infection if this was kept up long enough.<lb/>
+It was always explained one way or the <unclear>other<del>s</del>.</unclear> Someone had<lb/>
+sneaked into the infected town at night, or had stayed after<lb/>
+sundown, or some clothes had been brought from it or something;<lb/>
+but the fact remains that they received infection. It is<lb/>
+claimed that people living in Petropolis are able to stay in Rio<lb/>
+all day without contracting yellow fever so long as they come<lb/>
+out and sleep at Petropolis. It may be. I have no direct<lb/>
+knowledge of the matter. The Pasteur Commission which ac-<lb/>
+cepts this makes the hypothesis that while normal mosquitos<lb/>
+feed during the day that the infected ones <del><unclear>must</unclear></del> feed only be-<lb/>
+tween dusk and daylight. This is a deduction, however, and<lb/>
+we have no observations to show it. In experimental work the<lb/>
+infective mosquito feeds just as the uninfective ones do. This<lb/>
+may not be conclusive as <add>in <unclear>captivity</unclear></add> they cannot choose the time of getting<lb/>
+blood, but I can cite one instance where those not in captivity<lb/>
+did the same. In April 1905 there was very little yellow fe-<lb/>
+ver in Panama. We had been nearly a month without a report of<lb/>
+a case. In some way the Executive Building where many clerks<lb/>
+worked (<unclear>But</unclear> <add>which</add> was not used for sleeping quarters) became infected<lb/>
+and we had, I think it was, twenty-two cases of fever contracted<lb/>
+in this building within about seven to ten days. Now this<lb/>
+building was not open until 8 A.M. and closed at 5 P.M., and<lb/>
+while some of the men may have worked after hours, none slept<lb/>
+there, and the majority of those who developed fever kept the<lb/>
+<pb n="9" id="f01322017"/>
+- 8 -<lb/>
+hours above given. They were unquestionably infected, that is<lb/>
+bitten by infective mosquitos, during the day between eight and<lb/>
+five.</p>
+<p>This mosquito is domestic in her habits. She is found<lb/>
+only about the habitations of man. She is not found in mar-<lb/>
+shes or woods or the fields. In the beginning of 1903 Manson<lb/>
+speaking of the introduction of yellow fever into the Far East<lb/>
+by means of the proposed Interoceanic Canal recommended that if<lb/>
+such <add>a canal</add> were constructed that it be deforested for a mile on either<lb/>
+side to prevent the yellow fever mosquitos breeding there. An<lb/>
+article that I read before the Public Health Association that<lb/>
+same fall the ground was taken that deforestation would be use-<lb/>
+less! that if protection from Stegomyia were needed depopulation<lb/>
+of the canal banks would be far more efficient.</p>
+<p>Breeding Places:</p>
+<p>By preference this mosquito is a pot<lb/>
+breeder. She lays her eggs in collections of clear-- not<lb/>
+necessarily clean -- water in artificial containers, cisterns,<lb/>
+tin cans, etc. I said &ldquo;by preference&rdquo;. We find her breeding<lb/>
+in other places but generally where artificial containers are<lb/>
+not available. I presume that when the necessity of ova-posi-<lb/>
+tion occurs she will deposit her eggs in the places of election<lb/>
+if they are available, but if they are not available she will<lb/>
+deposit them where she can. Therefore we occasionally have<lb/>
+them in street <unclear>gutters</unclear>, in pools in the earth. Probably a pool<lb/>
+with clear water not disturbed with firm earth sides might do<lb/>
+as well as an artificial container but certainly they do not<lb/>
+like muddy water.</p>
+<p>Distance of Flight:</p>
+<p>It is a small, light mosquito and does<lb/>
+not fly far from where she is brought to life No direct<lb/>
+<pb n="10" id="f01322018"/>
+- 9 -<lb/>
+experiments have been made but the conveyance of yellow fever<lb/>
+from an infested house is an indirect experiment, and I think<lb/>
+it is fair to say that it will rarely be conveyed by mosquitos over<lb/>
+one hundred yards. White would put the limit far below this, but<lb/>
+I believe that it is quite frequently conveyed by mosquitos across<lb/>
+the street or to a house back of the infected one. There are two<lb/>
+cases, one reported by <unclear>Maellier</unclear> and one by myself, in which it<lb/>
+seems to have been conveyed much further. In the first 225 me-<lb/>
+ters, in the second 152 yards. Possibly we are both mistaken and<lb/>
+there were some other means of infection than those we accused.<lb/>
+Seventy-five yards would be about as far as you would expect it<lb/>
+to be conveyed. This matter comes up in Maritime quarantine as<lb/>
+to how far you must lay ships off from an infected wharf. Quoting<lb/>
+Goldberger I would say that <unclear><del>"</del></unclear>on account of its flight being<lb/>
+only by day that the direction of the wind during the day only<lb/>
+need be considered in estimating this factor, if it be much of<lb/>
+a factor, in their flight. <del>&ldquo;</del>Wind I need not tell you is general-<lb/>
+ly on-shore during the day-sea breeze.<del>&rdquo;</del></p>
+<p>Distribution: It is a tropical or sub-tropical species. In<lb/>
+the United States not found north of Norfolk or Virginia Beach.<lb/>
+Some years ago I attempted to determine their presence in Baltimore<lb/>
+by putting out breeding cans in great many parts of the city and<lb/>
+only found this mosquito at one point, the fruit wharf where ves-<lb/>
+sels from the banana ports came in. The old quarantine division<lb/>
+making the southern boundary of Maryland the division between<lb/>
+&ldquo;infectible&rdquo; and &ldquo;non-infectible territory&rdquo; seems to be justified.</p>
+<p>In the tropical and sub-tropical belt it is found in<lb/>
+practically all of the hot, wet countries, at least on the sea<lb/>
+coast. This is doubtless due to its ready conveyance by vessels.<lb/>
+<pb n="11" id="f01322019"/>
+- 10 -<lb/>
+Fortunately although the mosquito is distributed so very wide-<lb/>
+ly the parasite, the carrying of which makes it so danger-<lb/>
+ous, has by no means had so wide a distribution.</p>
+<p>Conveyance:</p>
+<p>It is conveyed by vessels almost any distance.<lb/>
+The old sailing vessels were really hosts to it, as this mos-<lb/>
+quito was breeding in their water tanks without limit as to<lb/>
+time or distance. Steam vessels carry it much less as they<lb/>
+have far fewer collections of water accessible to mosquitos aboard<lb/>
+They probably rarely breed on such vessels, but may travel as mos-<lb/>
+quitos <add><unclear>-Imagus-</unclear></add> for many days.</p>
+<p>Are they conveyed in railroad coaches? White, who has<lb/>
+studied the subject, thinks not. They were only reported to me<lb/>
+as found in a single instance (Evansville, Ind.) in Pullman<lb/>
+cars in 1903. But the fact of the development of yellow fever<lb/>
+at Bristol, Tenn., at Louisville and at St. Louis in 1878<lb/>
+among railroad men employed at these stations and who <del>unquestion-<lb/>
+ably</del> contracted it <del>at</del><add>about</add> these stations, I think can be explained<lb/>
+only by these mosquitos being carried by railroad coaches. Oc-<lb/>
+casionally I would say <add>then</add> that they are but it is not common.</p>
+<p>They live a long time; one in captivity was kept by<lb/>
+Guiteras five months, an infected one.</p>
+<p>Hybernation:</p>
+<p>How do they live during the winter? Their eggs<lb/>
+are quite frequently laid above water, and these have been<lb/>
+known to retain their vitality for over two months and a half<lb/>
+<del>I believe</del>. Possibly this may be a method. The Imagos unquest<unclear>-</unclear><lb/>
+tionably hybernate in the Gulf states and may do so further<lb/>
+north. Guiteras kept a number without food or water in a<lb/>
+refrigerator for three months when they were eaten by ants.<lb/>
+<pb n="12" id="f01322020"/>
+- 11 -<lb/>
+There is no question but that the species hybernates as far<lb/>
+north as Norfolk and that the Imagos hybernate on the Gulf<lb/>
+coast. I have seen them in February and March.</p>
+<p>Do the para-<lb/>
+sites hybernate in their hosts? I think not. I have done<lb/>
+a good deal of post epidemic disinfecting and have advocated<lb/>
+it, but I think I was wrong: that the work was useless, at<lb/>
+least, in the United States.</p>
+<p>It is claimed that two, possibly three, epidemics in<lb/>
+New Orleans arose from infection left the previous year, but<lb/>
+it is <hi>certain</hi> that no<del>e</del>n<add>e</add> have so started in Mobile, or in the lit-<lb/>
+tle towns along the Gulf coast, in Pensacola or in any of the<lb/>
+towns of the Atlantic coast from Jacksonville to Norfolk, and<lb/>
+generally it has not been the case with New Orleans. Now num-<lb/>
+bers of these mosquitos must live through the winter and num-<lb/>
+bers of them must have been infected when hybernation was begun,<lb/>
+if then they do not convey infection the next year the parasites<lb/>
+in <unclear>them</unclear> must have died. It was on this account I said that once<lb/>
+infective the mosquito remained so during her <hi>active</hi> life. In-<lb/>
+fection, apparently, dies out during hybernation. Possibly in-<lb/>
+fected females may not hybernate. The general experience that<lb/>
+yellow fever not <unclear>reaudesce</unclear> the year after an epidemic is proof<lb/>
+that <hi>generally</hi> the parasites die. The negative evidence is so<lb/>
+strong that it seems fair to believe that the fever alleged to<lb/>
+have been &ldquo;kept over&rdquo; in New Orleans was an introduction early<lb/>
+in the season, the source of which was not known. It is a matter<lb/>
+which could be easily settled by laboratory exper-<lb/>
+iment &amp; if I am <unclear>correct with no</unclear> danger to the men<lb/>
+subjected to it.</p>
+<pb n="13" id="f01322021"/>
+<p>- 12 -</p>
+<p>The Sanitation of Yellow Fever.</p>
+<p>I think I have said enough to anable you to appreciate<lb/>
+the sanitary measures to be taken against yellow fever.</p>
+<p>FIRST: To prevent its introduction into places<lb/>
+where none exists. If there be no Aedes (Stegomyia) calopus<lb/>
+in the places to be protected they need no protection, as<lb/>
+it is &ldquo;uninfectible territory&rdquo; in which yellow fever disease<lb/>
+is not a communicable disease. You may introduce a hundred<lb/>
+cases in the absence of the mosquito and there would never<lb/>
+be one hundred and one. This is true of the ports of the<lb/>
+United States from Baltimore north. It is the meaning of the<lb/>
+old division line between &ldquo;infectible&rdquo; and &ldquo;non-infectible&rdquo;<lb/>
+ports.</p>
+<p>Of course the same thing holds when the mosquitos are<lb/>
+inactive; that is even at southern ports during the winter.<lb/>
+Cases of yellow fever introduced then have nothing to be<lb/>
+infected by them. Infected mosquitos even would not be<lb/>
+able to leave the vessels. Quarantine is properly modified<lb/>
+then by the condition of the port to be protected as much<lb/>
+as the port to be quarantined against, a thing which more<lb/>
+than once has been <del>neglected</del><add>overlooked</add>. And <unclear>hsre</unclear> let me warn you<lb/>
+against unnecessary measures of sanitation. They bring<lb/>
+reproach upon the whole subject and being indefensible ren-<lb/>
+ders it less easy to defend the necessary measures; moreover<lb/>
+there is only a certain amount of money, time and energy<lb/>
+available for sanitary measures, and <unclear>as</unclear> in old times the<lb/>
+<del>&ldquo;</del>tithing of mine, anise and <unclear>cummin</unclear><del>&rdquo;</del> leads to the neglect of the<lb/>
+weightier matters of the law, It is very important <add><unclear>then</unclear></add> to <unclear></unclear><lb/>
+take no unnecessary sanitary measures.</p>
+<pb n="14" id="f01322022"/>
+<p>- 13 -</p>
+<p>SECOND: To eliminate yellow fever where it exists.<lb/>
+I say <hi>eliminate</hi> not <hi>control</hi>. The latter is allowable for<lb/>
+malaria but I think that for yellow fever the sanitarian<lb/>
+should be satisfied with nothing short of elimination. It<lb/>
+is easy.</p>
+<p>Since two hosts, one human and one insect, are necessary<lb/>
+for the propagation of yellow fever it is obvious that a<lb/>
+perfect control of either is sufficient for the elimination<lb/>
+of this disease from a community. I <unclear>mean</unclear> that if every per-<lb/>
+son developing <unclear>yellow</unclear> fever was immediately isolated from<lb/>
+these Aedes <add><unclear>calopus</unclear></add> mosquitos (that is no access was allowed to him<lb/>
+while he was in an infective stage by mosquitos) yellow fe-<lb/>
+ver would inevitably cease. Similarly, if there was no ac-<lb/>
+cess to men (I mean men susceptible to yellow fever) by any<lb/>
+mosquito in the infective stage, the same thing would occur.<lb/>
+Theoretically, then, we can eliminate yellow fever by con-<lb/>
+trol of either the human or the insect end of the chain.</p>
+<p>At which end of the chain shall we begin? Shall both be<lb/>
+tried at the same time? One method is not incompatible with<lb/>
+the other.</p>
+<p>At first sight it seems most feasible to try to control<lb/>
+the human host because (1) we can tell more or less when he<lb/>
+develops yellow fever; (2) when found we can isolate hin by<lb/>
+wire screening or otherwise <unclear>from</unclear> mosquitos; (3) <hi>the period of<lb/>
+infectivity of the human host to mosquitos is very short</hi>, <unclear>three</unclear><lb/>
+or four days at most, <hi>during which time only</hi> he need be guarded.</p>
+<p>On the other hand this mosquito once infective remains so<lb/>
+indefinitely, and, except as their environment creates a pre-<lb/>
+sumption that they have or have not had access to a man in the<lb/>
+<pb n="15" id="f01322023"/>
+- 14 -<lb/>
+infective stage of yellow fever, we have no means of telling<unclear>a</unclear><lb/>
+infective mosquitos from any other, ans the only practicable<lb/>
+means of control of the insect host us by its extermination -<lb/>
+more or less complete.</p>
+<p>The destruction of the Aedes <del>(stegomyia)</del><add><unclear>calopus</unclear></add> mosquitos, which<lb/>
+have had access to a man in the infective stage of yellow fever<lb/>
+as distinguished from the general destruction of these mos-<lb/>
+quitos, requires such a knowledge, and hence <hi>control,</hi> of the<lb/>
+human host as to place this measure in the class of those deter-<lb/>
+mined by the control of the human rather than in that of those<lb/>
+determined by the control of the insect host.</p>
+<p>It seems easier, then, and more natural to attempt to<lb/>
+control the human host; and the first attempt to exterminate<lb/>
+yellow fever after its method of propagation was known, which<lb/>
+was so brilliantly carried out by Gorgas at Havana in 1901,<lb/>
+mainly rested on this method. The attempt to lessen the num-<lb/>
+ber of <del>stegomyia</del><add>mosquitos</add> by destroying their breeding places was also<lb/>
+made, and made vigorously, but the principal dependence was<lb/>
+placed on the isolation of the infected men, and the destruc-<lb/>
+tion of the mosquitos already infected by him; the destruction<lb/>
+of <del>stegomyia</del><add>Aedes calopus</add> in general being regarded as adjuvant to the main<lb/>
+work.</p>
+<p>The same methods were used by <unclear>Liceaga</unclear> for Vera Cruz; by<lb/>
+Oswaldo <unclear>Liuz</unclear> for Rio and Para; By White for New Orleans, and<lb/>
+finally by Gorgas for Panama and Colon. Its general adoption,<lb/>
+then, shows this to be the most natural method.</p>
+<p>All of these efforts were successful, or comparatively suc-<lb/>
+cessful: those in Havana and on the Isthmus especially, and<lb/>
+that in Havana brilliantly so. Yet Gorgas believes <del>and as-<lb/>
+serts</del> that his success in Havana was due to the war waged on<lb/>
+<pb n="16" id="f01322024"/>
+- 15 -<lb/>
+the mosquito directly, undertaken as an adjuvant to the iso-<lb/>
+lation of the sick, rather than to that isolation itself; to<lb/>
+the control of the insect rather than to the human host. This<lb/>
+certainly was the case in the Isthmian work. He <hi>controlled</hi><lb/>
+the fever by the isolation of sick men and greatly lessened its<lb/>
+spread and would bring it down to the very few cases per week,<lb/>
+or even per month. But it seemed that it <hi>would</hi> not disappear<lb/>
+no matter how closely this work was done, and I can<del>not</del> assure <unclear></unclear><lb/>
+you that it was done very closely. I do not know of any higher<lb/>
+praise that I can give Colonel Gorgas <add>as a <unclear>tactician</unclear></add> than to tell you how we<lb/>
+pressed home the flank attack, so to speak, when we found that<lb/>
+the main effort was not going to be successful.</p>
+<p>The reason that <unclear>the</unclear> method by control of the human host<lb/>
+failed was because, under the conditions that existed, it was<lb/>
+impossible to carry it out. <hi>We could not control the human<lb/>
+host</hi> to the degree necessary for success. No one who has<lb/>
+not conducted a campaign against yellow fever in a place where<lb/>
+it was endemic, where the inhabitants do not fear it, can ima-<lb/>
+gine the difficulties of finding the cases of yellow fever<lb/>
+early in the disease, or at all, eve<del>r</del>n the cases which are<lb/>
+plain. For the light cases let me say this: an analysis of<lb/>
+the yellow fever statistics of Havana for the ten years pre-<lb/>
+ceding 1895, published by me in 1900, in the United States Public<lb/>
+Health Reports, led me to state that but a small proportion<lb/>
+of the cases of yellow fever in Spanish adults in Havana, <unclear>about</unclear><lb/>
+one-eight<del>y</del>, I think, had been <unclear>diagnos<del>ed</del><add>ticated</add></unclear>. Taking this into<lb/>
+account in addition to the cases in native children which<lb/>
+are practically never diagnos<del>ed</del><add>ticated</add>, I think the most optimistic<lb/>
+will admit that in such places control of the human host to<lb/>
+a sufficient degree to eliminate yellow fever is impossible --<lb/>
+not difficult but impossible. Our only hope, then, is to<lb/>
+<pb n="17" id="f01322025"/>
+- 16 -<lb/>
+control the insect host, to destroy the <add>Aedes</add> Calopus mosquito.</p>
+<p>This is true for towns where yellow fever is endemic.<lb/>
+In towns where it is not endemic as in the United States the<lb/>
+conditions are different. With the co-operation of the people<lb/>
+it is, or may be, possible to control the human host sufficiently<lb/>
+in such a town, especially if the town be small, or what is<lb/>
+nearly the same thing, if the fever be confined to a limited <unclear>area</unclear><lb/>
+in a large one. This was, I think, an important factor in the<lb/>
+success of White's campaign in New Orleans. Although the elimi-<lb/>
+nation of the breeding places of these mosquitos was pressed most<lb/>
+vigorously the results were too quick, I think, to be due to<lb/>
+their extermination by this method. Certainly the early con-<lb/>
+trol of the fever, I do not say elimination, was due to this.<lb/>
+This was the method used successfully in the suppression of an<lb/>
+epidemic in Hampton, Va. the next year by White and von Ezdorf.<lb/>
+The method of conveyance of yellow fever was not known at that<lb/>
+time and the attempts were naturally made entirely from the human<lb/>
+end of the chain.</p>
+<p>In towns in the United States then where the people<lb/>
+will co-operate, attempts to control the human host can always<lb/>
+be made, for they will <hi>control</hi> the fever even if they do not<lb/>
+eliminate it. They will smother it; lessen its rapidity of<lb/>
+spread so we can tide over the time until frost with a minimum<lb/>
+number of cases. We have no frost to help us where the fever<lb/>
+is endemic. This was the case in the little town of Franklin,<lb/>
+La. in 1897. The fever was handled by isolation and fumigation<lb/>
+with sulphur of the houses in which it occurred. It spread<lb/>
+very slowly and we had only ten or a dozen cases from the first<lb/>
+of September until frost, which came on the night of the 18th of<lb/>
+November, plenty of time for a full sized epidemic.<unclear>but for the<lb/>
+measures taken</unclear></p>
+<pb n="18" id="f01322026"/>
+<p>- 17 -</p>
+<p>Since the essential part of this method is the dis-<lb/>
+covery of the man as soon as he is sick, the co-operation of<lb/>
+the town people is necessary. Light cases are far more readi-<lb/>
+ly found in such towns than where the disease is endemic, be-<lb/>
+cause, as a rule, the whole population is susceptible to yel-<lb/>
+low fever and a light case of one member of a family is very<lb/>
+apt to be associated with clearly marked cases of some one<lb/>
+else in the same house. &amp; thus had to discovery <unclear>or at least sus-<lb/>
+picion</unclear></p>
+<p>On the other hand <del>was</del><add>were</add> the problem to rid of yellow<lb/>
+fever a town in the tropics in which it is endemic, as say,<lb/>
+Guayaquil, I would concentrate all my energy in ridding the<lb/>
+town of <add>yellow-fever mosquitos</add> <del>stegomyia</del>; I would not isolate those sick of yellow<lb/>
+fever; I would not isolate a man: I would not fumigate a room<lb/>
+save possibly as a protection to those in the immediate neigh-<lb/>
+borhood. As a measure of general sanitation helping to rid<lb/>
+the town of yellow fever its value would not pay for the trouble<lb/>
+it causes if indeed it had any value at all for this purpose.</p>
+<p>The conditions of the two classes of places are dif-<lb/>
+ferent and the means advisable for the riddance of yellow fe-<lb/>
+ver are also different. For the last control of the insect<lb/>
+host alone is to be aimed at: for the first control of the<lb/>
+human host should also be vigorously pressed.</p>
+<p>One does not have to eliminate all the A&euml;des <add>calopus</add> to get rid<lb/>
+of yellow fever; if they are brought <unclear></unclear> below a certain number<lb/>
+in a town the disease will spontaneously die out. This is<lb/>
+common sense rather than observation, and the number necessary<lb/>
+to continue it should vary directly with the proportion of people<lb/>
+immune to yellow fever to those susceptible to it. Thus, suppose<lb/>
+<pb n="19" id="f01322027"/>
+- 18 -<lb/>
+ten cases of yellow fever were introduced into a town all of<lb/>
+whose inhabitants were susceptible to the disease; suppose<lb/>
+then that there were such a number of these mosquitos in<lb/>
+the town as were able to infect only nine men from these<lb/>
+ten sick ones, obviously the fever would gradually die out.<lb/>
+If there were enough to infect eleven men it would increase.<lb/>
+If the number was such that they were just able to produce<lb/>
+ten infections the fever would continue without increasing or<lb/>
+diminishing. Now if one-half of the people in the town were<lb/>
+immune to yellow fever obviously only five infections would<lb/>
+be caused by the same number of mosquitos <add><unclear>-one half of their bites being wasted-so to speak- on those immune to yellow fever-</unclear></add> and there would<lb/>
+have to be twice as many to be able just to continue the fever.<lb/>
+Obviously then the &ldquo;critical number&rdquo; of Stegomyia -- as Gor-<lb/>
+gas calls the number just less than which will allow yellow<lb/>
+fever to <add>spread</add> <del>die out</del><add><del><unclear>contain</unclear></del></add> in a town -- this &ldquo;critical number&rdquo; I say,<lb/>
+is less in any town as the number of those immune to yellow<lb/>
+fever decrease and a much greater mosquito reduction is re-<lb/>
+quired to eliminate yellow fever from a town in the United<lb/>
+States than from one where it is endemic. (There are<lb/>
+other reasons to show you that it is far more difficult, that<lb/>
+work must be far more thorough, to eliminate yellow fever<lb/>
+in a town of the United States where practically all are sus-<lb/>
+ceptible than in one where it is endemic.) I had rather<lb/>
+tackle three different towns like Guayaquil than one like<lb/>
+New Orleans in 1905.</p>
+<p>There is one other thing that is not yet in the books<lb/>
+and yet that is fairly well known by sanitarians and which<lb/>
+you should know. It is the spontaneous disappearance of yel-<lb/>
+low fever in towns in the tropics. There are quite a number<lb/>
+<pb n="20" id="f01322028"/>
+-19-<lb/>
+of towns of this kind from which yellow fever has disappeared<lb/>
+where no sanitary work has been done and which are still breed-<lb/>
+ing A&euml;des, or before sanitary work was done. Corinto was un-<lb/>
+questionably infected with yellow fever in 1905. We had an In-<lb/>
+spector there until 1910 or '11. No sanitary work was done and<lb/>
+A&euml;des calopus was breeding all of this time, yet in 1911 or 1912<lb/>
+we landed some 5,000 marines, who made the place the base of oper-<lb/>
+ations and stayed there some time. No fever appeared among them.<lb/>
+Evidently the town was not infected. Bocas is free and no sani-<lb/>
+tation was done until after the fever was gone. I think the<lb/>
+same thing happened in some of the towns in the interior of Cuba,<lb/>
+as Puerto Principe and Villa Clara and even Cienfuegas. It <unclear>ha<del>d</del>s</unclear><lb/>
+been a not uncommon phenomenon in the tropics. Yet most of these<lb/>
+towns (I except the Cuban towns) are still breeding A&euml;des <unclear>Calo-<lb/>
+pus</unclear>. How does this happen? Unquestionably by the elimination<lb/>
+of the parasite, by the failure of the human hosts in sufficient<lb/>
+number to continue its propagation. If <del>all</del> the people in an<lb/>
+endemic center become immune and no non-immunes come in, there<lb/>
+is nothing to keep up the human chain. <del>and</del> When the infected<lb/>
+mosquitoes die out, if they have not bitten some one who can<lb/>
+continue the propagation, yellow fever necessarily <unclear>stops</unclear>. It<lb/>
+is a spontaneous elimination of the parasite for the lack of a<lb/>
+human host. This does not occur in large towns. Too many im-<lb/>
+migrants come in from places where yellow fever in not endemic<lb/>
+and the infection is thus kept up. There are also a larger num-<lb/>
+ber of babies born--who, of course, are new comers and suscep-<lb/>
+tible to the disease. I will say this, however, that it would<lb/>
+require a decidedly larger number of babies per annum to con-<lb/>
+tinue the propagation of yellow fever than it would of suscep-<lb/>
+tible people from the outside. When yellow fever is getting rare<lb/>
+in a town a baby remaining in its own home would be far less<lb/>
+exposed to it than an adult going from place to place in the<lb/>
+town. A baby while sick would be in the house of its immune<lb/>
+parents and would thus have less chance to spread it than an<lb/>
+<pb n="21" id="f01322029"/>
+- 20 -<lb/>
+part of the town and develop it in another. On both counts<lb/>
+then a baby would be less apt to propagate it than a sus-<lb/>
+ceptible adult.</p>
+<p>One thing is also to be noted that towns of this<lb/>
+kind are liable to little epidemics from time to time when<lb/>
+yellow fever is introduced. This is due, of course, to the<lb/>
+accumulation of a considerable number of people susceptible<lb/>
+to the fever; that is, to <del>the children</del><add>those</add> born since the town<lb/>
+was free from infection.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

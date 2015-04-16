@@ -1,0 +1,1315 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY KAMD1460 SYSTEM "KAMD1460.jpg" NDATA jpg>
+<!ENTITY KAMD1490 SYSTEM "KAMD1490.jpg" NDATA jpg>
+<!ENTITY KAMD1490 SYSTEM "KAMD1490.jpg" NDATA jpg>
+<!ENTITY KAMD1490 SYSTEM "KAMD1490.jpg" NDATA jpg>
+<!ENTITY KAMD1490 SYSTEM "KAMD1490.jpg" NDATA jpg>
+<!ENTITY KAMD1510 SYSTEM "KAMD1510.jpg" NDATA jpg>
+<!ENTITY KAMD1510 SYSTEM "KAMD1510.jpg" NDATA jpg>
+<!ENTITY KAMD1510 SYSTEM "KAMD1510.jpg" NDATA jpg>
+<!ENTITY KAMD1510 SYSTEM "KAMD1510.jpg" NDATA jpg>
+<!ENTITY KAMD1560 SYSTEM "KAMD1560.jpg" NDATA jpg>
+<!ENTITY KAMD1560 SYSTEM "KAMD1560.jpg" NDATA jpg>
+<!ENTITY KAMD1560 SYSTEM "KAMD1560.jpg" NDATA jpg>
+<!ENTITY KAMD1560 SYSTEM "KAMD1560.jpg" NDATA jpg>
+<!ENTITY KAMD1580 SYSTEM "KAMD1580.jpg" NDATA jpg>
+<!ENTITY KAMD1580 SYSTEM "KAMD1580.jpg" NDATA jpg>
+<!ENTITY KAMD1580 SYSTEM "KAMD1580.jpg" NDATA jpg>
+<!ENTITY KAMD1580 SYSTEM "KAMD1580.jpg" NDATA jpg>
+<!ENTITY KAMD1640 SYSTEM "KAMD1640.jpg" NDATA jpg>
+<!ENTITY KAMD1640 SYSTEM "KAMD1640.jpg" NDATA jpg>
+<!ENTITY KAMD1640 SYSTEM "KAMD1640.jpg" NDATA jpg>
+<!ENTITY KAMD1640 SYSTEM "KAMD1640.jpg" NDATA jpg>
+<!ENTITY KAMD1700 SYSTEM "KAMD1700.jpg" NDATA jpg>
+<!ENTITY KAMD1700 SYSTEM "KAMD1700.jpg" NDATA jpg>
+<!ENTITY KAMD1700 SYSTEM "KAMD1700.jpg" NDATA jpg>
+<!ENTITY KAMD1700 SYSTEM "KAMD1700.jpg" NDATA jpg>
+<!ENTITY KAMD1720 SYSTEM "KAMD1720.jpg" NDATA jpg>
+<!ENTITY KAMD1720 SYSTEM "KAMD1720.jpg" NDATA jpg>
+<!ENTITY KAMD1720 SYSTEM "KAMD1720.jpg" NDATA jpg>
+<!ENTITY KAMD1720 SYSTEM "KAMD1720.jpg" NDATA jpg>
+<!ENTITY KAMD1740 SYSTEM "KAMD1740.jpg" NDATA jpg>
+<!ENTITY KAMD1740 SYSTEM "KAMD1740.jpg" NDATA jpg>
+<!ENTITY KAMD1740 SYSTEM "KAMD1740.jpg" NDATA jpg>
+<!ENTITY KAMD1740 SYSTEM "KAMD1740.jpg" NDATA jpg>
+<!ENTITY KAMD1740 SYSTEM "KAMD1740.jpg" NDATA jpg>
+<!ENTITY KAMD1740 SYSTEM "KAMD1740.jpg" NDATA jpg>
+<!ENTITY KAMD1770 SYSTEM "KAMD1770.jpg" NDATA jpg>
+<!ENTITY KAMD1770 SYSTEM "KAMD1770.jpg" NDATA jpg>
+<!ENTITY KAMD1770 SYSTEM "KAMD1770.jpg" NDATA jpg>
+<!ENTITY KAMD1770 SYSTEM "KAMD1770.jpg" NDATA jpg>]>
+<TEI.2 id="KAMD1460">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Essay: The Conquest of Yellow Fever, by James E. Peabody, [n.d.]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Peabody, James E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD1460</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>0000-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Rush, Benjamin</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Manson, Patrick</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Gorgas, Marie D.</name>
+<name type="person">Hendrick, Burton Jesse</name>
+<name type="person">Doty, Alvah H.</name>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Stokes, Adrian</name>
+<name type="person">Young, William</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Carroll, Jennie</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Jernegan, N. May</name>
+<name type="person">Kissinger, Ida E.</name>
+<name type="person">Young, William</name>
+<name type="person">Latimer, Caroline</name>
+<name type="person">Welch, William H.</name>
+<name type="person">Russell, Frederick F.</name>
+<name type="person">Flexner, Simon</name>
+<name type="person">Gruenberg, Benjamin C.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Laredo (Tex.)</name>
+<name type="place">New Orleans (La.)</name>
+<name type="place">Panama Canal (Panama)</name>
+<name type="place">Arlington National Cemetery (Arlington, Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>35 pp.</extent>
+<date value="0000-00-00"></date>
+<idno rend="suppress">KAMD1460</idno>
+<title>Essay: The Conquest of Yellow Fever, by James E. Peabody, [n.d.]</title>
+</bibl>
+</head>
+<p>In this pamphlet published for the American Museum of Natural History, Peabody discusses the history of yellow fever, the yellow fever experiments in Cuba, and the later history of the yellow fever heroes of 1900. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+<div1 type="book">
+<pb n="1" id="KAMD1460"/>
+<p>To my dear friend,<lb/>
+Col. J. R. Kean,<lb/>
+with the deep gratitude of<lb/>
+J.E.P.<lb/>
+Keep.</p>
+<p>THE CONQUEST OF<lb/>
+YELLOW FEVER<lb/>
+JAMES EDWARD PEABODY, A. M.<lb/>
+<hi rend="italic">Head of the Department of Biology, Morris High School,<lb/>
+New York City</hi></p>
+<p>II</p>
+<p>Department of Public Education<lb/>
+American Museum of Natural History<lb/>
+77th Street and Central Park West<lb/>
+New York City</p>
+</div1>
+<pb n="2" id="KAMD1470"/>
+<titlePage> 
+<docTitle> 
+<titlePart>THE CONQUEST OF<lb/>
+YELLOW FEVER</titlePart>
+</docTitle><lb/> 
+<byline><docAuthor>JAMES EDWARD PEABODY</docAuthor>, A. M.<lb/>
+<hi rend="italic">Head of the Department of Biology, Morris High School,<lb/>
+New York City</hi></byline><lb/>
+<docImprint>Department of Public Education<lb/>
+American Museum of Natural History<lb/>
+77th Street and Central Park West<lb/>
+New York City</docImprint>
+</titlePage>
+</front>
+<pb n="3" id="KAMD1480"/>
+<body>
+<div1 type="chapter">
+<head>THE CONQUEST OF YELLOW FEVER</head><lb/>
+<byline>By <docAuthor>JAMES EDWARD PEABODY</docAuthor>, A.M.,<lb/>
+<hi rend="italic">Head of the Department of Biology, Morris High School, New York City</hi></byline><lb/>
+<p>How many of you ever came within a thousand miles or within<lb/>
+two generations of yellow fever? Have any of you ever experienced<lb/>
+the awful terror which, with the opening of summer, formerly took<lb/>
+possession of many a city of our Southland? How has it come<lb/>
+about that within the first quarter of the present century this<lb/>
+disease has practically disappeared from North, South, and Central<lb/>
+America, and we hope soon from the whole surface of the earth?<lb/>
+To answer this last question we have but to review the history of<lb/>
+those last six months of the preceding century, so far as that his-<lb/>
+tory concerns the Island of Cuba.</p>
+<p>I. THE HISTORY OF YELLOW FEVER</p>
+<p>But first let us go back in our thoughts to those earlier days of a<lb/>
+hundred years ago or more and learn something of the history and<lb/>
+characteristics of this disease. So far as we know (Fig. 1) it first<lb/>
+appeared in Central America over 300 years ago, whence it was<lb/>
+introduced into Cuba in 1750. Across the Gulf of Mexico it came,<lb/>
+and the inhabitants of Charleston, Mobile, New Orleans, and<lb/>
+Galveston successively became its victims. Even in the more<lb/>
+northern cities of Baltimore, Philadelphia, New York and Boston<lb/>
+it wrought its havoc. In 208 years it invaded our territory 95<lb/>
+times, and since 1793 there have been not fewer than 100,000<lb/>
+deaths due to it in the United States alone.</p>
+<p>&ldquo;In the terrible epidemic of 1793 in Philadelphia,&rdquo; says Miss<lb/>
+Hallock in her account of the life of Walter Reed, &ldquo;all the streets<lb/>
+and roads leading from the city were crowded with families flying<lb/>
+to the country for safety. So many doctors were sick or had died<lb/>
+of yellow fever that &lsquo;at one time there were only three physicians<lb/>
+who were able to visit patients, and at this time there were prob-<lb/>
+ably not fewer than 6,000 persons ill with the fever.&rsquo; Dr. Rush,<lb/>
+then a physician in Philadelphia, related that a cheerful counte-<lb/>
+nance was scarcely to be seen in the city for six weeks. Once on<lb/>
+entering the house of a poor man, he met a child of 2 years who<lb/>
+smiled in his face, and he says, &lsquo;I was strangely affected by this<lb/>
+sight.&rsquo; Few persons were met in the streets except those who were</p>
+<p>1</p>
+<pb n="4" id="KAMD1490"/>
+<p><figure entity="KAMD1490"></figure> Fig. 1. Trail of the Yellow Fever Mosquito<lb/>
+(Cou<del>s</del><add>r</add>tes<add>y</add> of Metropolitan Life Insurance<lb/>
+Company.)</p>
+<p><figure entity="KAMD1490"></figure> Fig. 2. The distribution of the Yellow Fever<lb/>
+Mosquito. Note that it is confined to the<lb/>
+tropical regions--after Theobald.</p>
+<p><figure entity="KAMD1490"></figure> Fig. 3. Surgeon General George M. Stern-<lb/>
+berg, U.S.A.</p>
+<p><figure entity="KAMD1490"></figure> Fig. 4. Major Walter Reed</p>
+<pb n="5" id="KAMD1500"/>
+<p>3</p>
+<p>in quest of a physician, a nurse, or the men who buried the dead.<lb/>
+The hearse alone kept up the remembrance of the noise of carriages<lb/>
+or carts in the street.&rdquo;</p>
+<p>Previous to the yellow fever epidemic of 1878, in the City of<lb/>
+Memphis, Tennessee, the City had already suffered seriously from<lb/>
+war, reconstruction, cholera, small-pox, and two previous epi-<lb/>
+demics of yellow fever (in 1867 and in 1873) and in the latter year<lb/>
+over 2000 of the inhabitants had died. By the middle of August,<lb/>
+1878, it had become generally known that the dread disease had<lb/>
+again reached the city. &ldquo;Business stopped,&rdquo; says the official<lb/>
+report of the epidemic, &ldquo;stores and offices were hastily closed.<lb/>
+Men, women, and children poured out of the city by every avenue<lb/>
+of escape... To the cities of the far north and the far west they<lb/>
+fled, too many of them to die on the way like dogs, neglected and<lb/>
+shunned as if cursed by God.</p>
+<p>&ldquo;By the last week of August it was estimated that there were<lb/>
+about 3000 cases of the fever... An appalling gloom hung over<lb/>
+the doomed city. At night it was silent as the grave, by day it<lb/>
+seemed desolate as the desert. There were hours, especially at<lb/>
+night, when the solemn oppressions of universal death bore upon<lb/>
+the human mind as if the day of judgment were about to dawn...<lb/>
+Death prevailed everywhere. Trade and traffic were suspended.<lb/>
+The energies of all who remained were enlisted in the struggle<lb/>
+with death. The poor were reduced to beggary, and even the rich<lb/>
+gladly accepted alms....</p>
+<p>&ldquo;On the 14th of September, the day of the heaviest mortality,<lb/>
+many buoyant natures succumbed. They looked about them<lb/>
+for convalescents, but they were not to be found; a few of them<lb/>
+were reported, but they seemed nearly all of them to have been<lb/>
+permanently disabled. The cry for food, for clothing, for money,<lb/>
+for doctors, for as many as a thousand coffins, went out by tele-<lb/>
+graph to the ends of the earth, and a prompt and generous response<lb/>
+came back. ...The medical estimate puts the total population,<lb/>
+during the epidemic, at 19,000, and the total sick at 17,600,<lb/>
+the deaths being 5,150, a little less than one-third.&rdquo;<hi rend="superscript">1</hi></p>
+<p>Some idea of the fatalities from this disease here in the Northern<lb/>
+States may be gained if we call to mind the fact that in the epi-<lb/>
+demic of 1822 near the site of the present Wall Street, New York<lb/>
+City, there were 401 cases, and of these 230 (over 50%) died.</p>
+<p>-----</p>
+<p><hi rend="superscript">1</hi>J. M. Keating, &ldquo;A History of the Yellow Fever Epidemic of 1878.&rdquo;</p>
+<pb n="6" id="KAMD1510"/>
+<p>4</p>
+<p><figure entity="KAMD1510"></figure> Fig. 5. Dr. Aristides Agramonte, only liv-<lb/>
+ing member of the Yellow Fever Com-<lb/>
+mission.</p>
+<p><figure entity="KAMD1510"></figure> Fig. 6. The Yellow Fever Mosquito. The<lb/>
+figure at the left is a male Mosquito which<lb/>
+is harmless. The two figures at the right<lb/>
+show the female.</p>
+<p><figure entity="KAMD1510"></figure> Fig. 7. Gen. Leonard Wood.</p>
+<p><figure entity="KAMD1510"></figure> Fig. 8. Dr. Carlos J. Finlay of Cuba.</p>
+<pb n="7" id="KAMD1520"/>
+<p>5</p>
+<p>As one scourge followed another the doctors and government<lb/>
+agencies did their best to find the cause and to check the ravages<lb/>
+of &ldquo;yellow jack.&rdquo; Desperate measures of quarantine were insti-<lb/>
+tuted and property of great value was destroyed in these vain<lb/>
+attempts. Up to 1793 this disease was generally believed by peo-<lb/>
+ple at large to be &ldquo;a visitation of God,&rdquo; and all that could be hoped<lb/>
+for was that the frosts, which always stayed its progress, would<lb/>
+come early. In the treatment of yellow fever by the medical men,<lb/>
+however, almost every known measure under the sun had been<lb/>
+tried, at various times, but with little success. Even rattlesnake<lb/>
+poison was employed in Cuba, and some asserted it was more or<lb/>
+less effective. And so the last century drew to a close with the<lb/>
+tropics still visited by those dread epidemics.</p>
+<p>II. THE YELLOW FEVER EXPERIMENTS IN CUBA</p>
+<p>The Spanish-American War had ended in 1898 with the United<lb/>
+States in occupation of Cuba. Two years later Surgeon General<lb/>
+George M. Sternberg (Fig. 3) of the United States Army appointed<lb/>
+a Commission of four men, whose work in six short months proved<lb/>
+to be one of the greatest achievements of all medical history.<lb/>
+That Yellow Fever Commission consisted of Major Walter Reed,<lb/>
+M.D. (Fig. 4), Chairman, Dr. James Carroll (Fig. 10), and Dr.<lb/>
+Jesse Lazear (Fig. 11), none of whom had had yellow fever, and<lb/>
+Dr. Aristides Agramonte (Fig. 5) of Cuba, who was supposed to be<lb/>
+immune to the disease.</p>
+<p>Led by Major Reed, that genius for scientific investigation, this<lb/>
+Commission carried through one of the most relentless series of<lb/>
+experiments ever devised by man. These experiments were so<lb/>
+conclusive that even the most stubborn doubter was forced to<lb/>
+agree that at last the mystery of the transmission of yellow fever<lb/>
+was cleared away. They demonstrated for all time that one can be<lb/>
+infected only by the bite of a certain kind of mosquito which had<lb/>
+previously bitten a yellow fever patient. This mosquito (formerly<lb/>
+known as <hi rend="italic">Stegomyia fasciata</hi> (Fig. 6), is now called <hi rend="italic">A&euml;des &aelig;gypti</hi>.<lb/>
+But whatever its name the female of that species has been the<lb/>
+inciting cause of the loss of uncounted lives and of priceless prop-<lb/>
+erty.</p>
+<p>Once this mosquito's culpability was demonstrated, how rela-<lb/>
+tively simple it has been during the last quarter of a century to<lb/>
+<pb n="8" id="KAMD1530"/>
+6<lb/>
+hunt down and exterminate the villainess, and so make tropical<lb/>
+countries, previously uninhabitable for man, modern health<lb/>
+resorts. Yellow fever is the one disease that attacks human beings<lb/>
+which has practically disappeared from the Western Continent and<lb/>
+from all but a small portion of the civilized world.</p>
+<p>We are now to consider somewhat in detail the story of those<lb/>
+fateful six months from June to December, 1900. It was commonly<lb/>
+reported that yellow fever wrought more havoc among the Ameri-<lb/>
+can troops during the Spanish-American War than had Spanish<lb/>
+bullets,<hi rend="superscript">1</hi> and once more it had begun its deadly work when the<lb/>
+Yellow Fever Commission arrived on the scene. Havana had<lb/>
+been cleaned up thoroughly under the efficient direction of General<lb/>
+Ludlow and General Leonard Wood (Fig. 7) and all the resources<lb/>
+of sanitation had been applied, but all to no purpose. Yellow<lb/>
+fever was more prevalent there than it had been for twenty years.</p>
+<p>Fortunately before the last century ended Dr. Patrick Manson<lb/>
+and Major Ronald Ross of England had proved that malaria<lb/>
+can be transmitted only by the agency of a species of mos-<lb/>
+quito; and the common house fly had been convicted of trans-<lb/>
+mitting typhoid fever. Indeed, Dr. Reed himself had made gener-<lb/>
+ous contributions to the knowledge of the danger of flies in connec-<lb/>
+tion with typhoid. Many writers had for centuries called atten-<lb/>
+tion to the prevalence of insects during summer epidemics. So it<lb/>
+was not surprising that Dr. Reed soon after his arrival should<lb/>
+confer with a Cuban, Dr. Carlos J. Finlay (Fig. 8), who for years<lb/>
+had been laughed at because he had insisted that mosquitoes were<lb/>
+the carriers of yellow fever. Dr. Finlay's shrewd surmise, as we<lb/>
+now know, was correct, but he had been able to bring forward no<lb/>
+scientific proof that he was correct.</p>
+<p>For the suggestion that mosquitoes might be the agent by<lb/>
+which yellow fever was transmitted Dr. Reed was also indebted<lb/>
+to a fellow worker in Cuba, who was born in the same State as Reed.<lb/>
+&ldquo;Already one discovery had been made which at that time had at-<lb/>
+tracted little attention, but which, in itself, laid the foundation of</p>
+<p>-----</p>
+<p><hi rend="superscript">1</hi>&ldquo;We had a tremendous amount of typhoid fever, malaria fever, yellow<lb/>
+fever, and dysentery in the Santiago campaign. I have no doubt in my own<lb/>
+mind that many cases reported to have died of yellow fever were in reality<lb/>
+typhoid or malaria. For instance, I know that the 7th. Infantry was thoroughly<lb/>
+disabled for any duty whatever by malaria.&rdquo;--Surgeon General M. W. Ireland.<lb/>
+<del>Burton J. Hendrick.</del></p>
+<pb n="9" id="KAMD1540"/>
+<p>7</p>
+<p>Reed's work. A year before another Virginian, Dr. Henry R.<lb/>
+Carter, (Fig. 35) of the Public Health Service, made an elaborate<lb/>
+statistical study of the spread of yellow fever in houses. ....<lb/>
+The observations which Carter made seem simple and obvious<lb/>
+enough today; yet the fact remains that it had evaded all previous<lb/>
+investigators, and it was the failure to observe this truth that had<lb/>
+caused the failure of all of Finlay's experiments.</p>
+<p>&ldquo;Carter had served many years as a quarantine officer, and<lb/>
+yellow fever had thus become one of the commonplace facts in his<lb/>
+daily existence. For many years he had observed that when a man<lb/>
+developed yellow fever on board ship none of his shipmates be-<lb/>
+came ill, even those who lived in the crowded forecastle with him,<lb/>
+until a time considerably in excess of the period of incubation<lb/>
+of the disease in man; this led him to believe that yellow fever<lb/>
+could not be contracted from the environment of a sick man for a<lb/>
+considerable time after he became sick in that environment. ....</p>
+<p>&ldquo;There seems something like the working of an intelligent fate<lb/>
+in the fact that the three men--Carter, Reed, and Gorgas--who<lb/>
+seemed indispensable to solving the yellow fever problem, were at<lb/>
+work at Havana at the same time. Carter was there as Quarantine<lb/>
+Officer, and naturally he presented his tables to his fellow Vir-<lb/>
+ginian. Reed gave them the most painstaking study. &lsquo;Are you<lb/>
+sure your dates are accurate?&rsquo; he asked Carter. Carter had no<lb/>
+doubt on that point. &lsquo;Then,&rsquo; said Reed, &lsquo;it spells an insect host.&rsquo;<lb/>
+...It was one thing to form this conception but quite a different<lb/>
+thing to demonstrate it. And the way proved almost as difficult<lb/>
+for Reed as for Finlay.&rdquo;<hi rend="superscript">1</hi></p>
+<p>Trained by Dr. William H. Welch in the Johns Hopkins Hos-<lb/>
+pital, Baltimore, Dr. Reed set to work to test Dr. Finlay's and Dr.<lb/>
+Carter's theory. Dr. Lazear was put in charge of mosquito breed-<lb/>
+ing; Dr. Carroll hunted for possible bacteria that might be the<lb/>
+cause of the disease; while Dr. Agramonte studied the bodies of<lb/>
+those who had died of yellow fever. So there were two lines of in-<lb/>
+vestigation in which the Commission was engaged--the hunt for<lb/>
+the bacterial cause of the disease, and the means by which these<lb/>
+germs were transmitted from the sick to the new victims. The<lb/>
+first proved to be unfruitful; not so the second.</p>
+<p>-----</p>
+<p><hi rend="superscript">1</hi>&ldquo;William Crawford Gorgas.--His Life and Work&rdquo; by Marie D. Gorgas and<lb/>
+Burton J. Hendrick.</p>
+<pb n="10" id="KAMD1550"/>
+<p>8</p>
+<p>A hundred miles from Havana there was an epidemic of yellow<lb/>
+fever. Thither went Dr. Reed on the last day of July, 1900. He<lb/>
+found that many of those who had been in contact with the cloth-<lb/>
+ing and bed linen of the yellow fever victims had not taken the<lb/>
+disease. This led him to question the common belief in those<lb/>
+mysterious contagious &ldquo;fomites&rdquo; (clothing, furniture, food) which<lb/>
+were supposed to be the source of infection. On the other hand<lb/>
+a prisoner in the guard-house, who had no possible opportunity<lb/>
+of contact with either a case of yellow fever or fomites did acquire<lb/>
+it. These facts gave rise to the conjecture that &ldquo;perhaps some<lb/>
+insect capable of conveying the infection, such as the mosquito,&rdquo;<lb/>
+might have been the means by which the disease was carried.</p>
+<p>To test this theory it was necessary that experiments be made on<lb/>
+human beings, for all attempts to produce yellow fever in guinea<lb/>
+pigs, rabbits, monkeys and other animals had failed. Was such a<lb/>
+dangerous series of experiments justifiable? was the question.<lb/>
+The members of the Commission sought to find out by apply-<lb/>
+ing the mosquitoes to themselves. Dr. Lazear hatched out<lb/>
+mosquitoes from eggs furnished by Dr. Finlay, allowed them to<lb/>
+bite yellow fever patients, and then let them bite himself. The<lb/>
+result was negative, for no one knew at that time the length of<lb/>
+time that must elapse before the yellow fever organism within the<lb/>
+mosquito would become capable of causing the disease.</p>
+<p>Near the end of August Dr. Lazear applied to Dr. Carroll (Fig.<lb/>
+10) a mosquito he had hatched in the laboratory. This insect had<lb/>
+been allowed to bite at different intervals four yellow fever pa-<lb/>
+tients. Four days later Dr. Carroll was down with yellow fever,<lb/>
+and for three days his life was despaired of. Fortunately he re-<lb/>
+covered, but six years later the heart of this brave doctor, weakened<lb/>
+by the idsease to which he had voluntarily exposed himself, ceased<lb/>
+to beat.</p>
+<p>Dr. Lazear (Fig. 11) continued his stern experimentations during<lb/>
+the illness of Dr. Carroll. While he was collecting blood from a<lb/>
+yellow fever patient, a mosquito settled on his hand and he allowed<lb/>
+it to take its fill. In a few days he, too, was ill with the disease<lb/>
+in its most deadly form, and within a week died in delirium. His<lb/>
+death was an irreparable loss to the Commission.</p>
+<p>Dr. Reed, deeply sorrowful though he was for the illness of Dr.<lb/>
+Carroll and depressed by the death of Dr. Lazear, felt confident</p>
+<pb n="11" id="KAMD1560"/>
+<p>9</p>
+<p><figure entity="KAMD1560"></figure> Fig. 9. Dr. Alvah H. Doty, <del>Post</del><add>Health</add> Officer <add>Port of</add> of<lb/>
+New York.</p>
+<p><figure entity="KAMD1560"></figure> Fig. 10. Dr. James Carroll.</p>
+<p><figure entity="KAMD1560"></figure> Fig. 11. Dr. Jesse W. Lazear.</p>
+<p><figure entity="KAMD1560"></figure> Fig. 12. John R. Kissinger (1900).</p>
+<pb n="12" id="KAMD1570"/>
+<p>10<lb/>
+that much had been accomplished in the two and a half months<lb/>
+since the Commission had begun its work. He was convinced in<lb/>
+his own mind that the long sought solution of the problem had<lb/>
+been found. He was too wise, however, not to know that a<lb/>
+skeptical world would still raise all sorts of objections to his<lb/>
+conclusions. &ldquo;How do you know,&rdquo; they would say, &ldquo;that Dr.<lb/>
+Carroll and Dr. Lazear had not been infected before the mos-<lb/>
+quitoes bit them?&rdquo; &ldquo;How do you know they had not come in<lb/>
+contact with those deadly &lsquo;fomites&rsquo; that are, we are sure, the cause<lb/>
+of this disease?&rdquo; And so this quiet, determined Doctor set him-<lb/>
+self to devise experiments that would be absolutely convincing.</p>
+<p>They were talking over these plans after the death of Dr.<lb/>
+Lazear--the three remaining members of the Commission--and a<lb/>
+hospital orderly who had served through the Spanish-American<lb/>
+War overheard them; John R. Kissinger was his name. (Fig. 12).<lb/>
+&ldquo;We must have more human beings to experiment on,&rdquo; he heard<lb/>
+them say. He crept away into the silence of the laboratory to<lb/>
+think it over. &ldquo;I volunteered for the war to be killed if necessary,&rdquo;<lb/>
+he said to himself; &ldquo;why should not I volunteer for this service<lb/>
+also?&rdquo; So he came to Major Reed and brought with him an old<lb/>
+friend of the same Ohio regiment, John J. Moran. (Fig. 24).<lb/>
+&ldquo;We are ready, sir,&rdquo; they said.</p>
+<p>But Dr. Reed knew all too well the dangers that faced them, and<lb/>
+he made this clear to them in no uncertain terms. These men had<lb/>
+themselves seen soldier after soldier carried out from the yellow<lb/>
+fever hospitals feet first to be buried in the coffins that had awaited<lb/>
+them. The two, however, were still fixed in their determination.<lb/>
+Dr. Reed then offered them money for their services, which they<lb/>
+promptly refused. &ldquo;We do this,&rdquo; said Kissinger, &ldquo;solely in the<lb/>
+interests of science and the cause of humanity.&rdquo; Thereupon<lb/>
+Major Reed touched his cap, saying, &ldquo;Gentlemen, I salute you.&rdquo;<lb/>
+Later, when Major Reed sent in his report to Washington officials,<lb/>
+he said of the offer of Moran and Kissinger, &ldquo;In my opinion, this<lb/>
+exhibition of moral courage has never been surpassed in the<lb/>
+annals of the Army of the United States.&rdquo;</p>
+<p>The stage was now set for those grim performances which in two<lb/>
+short months demonstrated beyond a doubt that the belief of old<lb/>
+Dr. Finlay and of Dr. Carter was absolutely correct. About a<lb/>
+mile from Quemados, Cuba, in a lonely, uncultivated field an experi-</p>
+<pb n="13" id="KAMD1580"/>
+<p>11</p>
+<p><figure entity="KAMD1580"></figure> Fig. 13. Kissinger's temperature chart.<lb/>
+Note that the temperature remained over<lb/>
+100 degrees for three days</p>
+<p><figure entity="KAMD1580"></figure> Major Jefferson Randolph Kean<lb/>
+<unclear>Conastas Senteria def Pepudamenta</unclear></p>
+<p><figure entity="KAMD1580"></figure> Fig. 15. Camp Lazear--the &ldquo;infected<lb/>
+clothing&rdquo; building. Dr. Carroll standing<lb/>
+beside it.</p>
+<p><figure entity="KAMD1580"></figure> Fig. 16. Plan of &ldquo;infected clothing&rdquo; build-<lb/>
+ing,--Drawn by Kissinger.</p>
+<pb n="14" id="KAMD1590"/>
+<p>12<lb/>
+mental station had been established. It was open to sun and air,<lb/>
+but carefully closed against any possible outside infection. They<lb/>
+named it Camp Lazear in honor of their fellow member who had<lb/>
+given his life a martyr to the cause. Here they had erected seven<lb/>
+hospital tents, and on November 20th this camp was put under the<lb/>
+strictest quarantine. To it came the brave volunteers who were<lb/>
+to be experimented upon, but no one else was permitted to enter or<lb/>
+leave the place except the immune attendants who went for sup-<lb/>
+plies to the neighboring Columbia Barracks. Every non-immune<lb/>
+inmate of the camp was carefully examined three times daily as to<lb/>
+temperature and pulse rate, so that every infected individual could<lb/>
+at once be removed from the experiment station.</p>
+<p>Full two weeks of possible danger had passed and all the in-<lb/>
+mates were in healthy condition. Now began the deadly experi-<lb/>
+ments. On December 5th, at 2 o'clock in the afternoon they took<lb/>
+five promising mosquitoes which had bitten yellow fever patients,<lb/>
+and with Kissinger's free consent these mosquitoes settled down<lb/>
+upon him and drank their fill of his blood. &ldquo;On the night of<lb/>
+December 8th,&rdquo; says Kissinger, &ldquo;at 11:30 I was taken with a chill<lb/>
+that lasted approximately 20 minutes. I lit a candle, and with a<lb/>
+thermometer took my temperature. It showed 100 degrees. The<lb/>
+guard asked why the light and what the trouble was. I told him to<lb/>
+call Dr. Ames who came in less than five minutes. By that time I<lb/>
+was nauseated and felt like I had been kicked like a football, the<lb/>
+pains in my back and muscles were so severe. I was taken to<lb/>
+yellow fever quarters. The chart (Fig. 13) will show my temper-<lb/>
+ature during the 3rd and 4th day.&rdquo;</p>
+<p>On December 9th. Dr. Reed wrote to his wife as follows: &ldquo;It is<lb/>
+with a great deal of pleasure that I hasten to tell you that we have<lb/>
+succeeded in producing a case of unmistakable yellow fever by the<lb/>
+bite of the mosquito. Our first case in the experimental camp<lb/>
+developed at 11:30 last night with a sudden chill followed by fever.<lb/>
+He had been bitten on December 5th, and hence his attack followed<lb/>
+just three and a half days after the bite. As he had been in our<lb/>
+camp 15 days before being inoculated and had had no other pos-<lb/>
+sible exposure, the case is as clear as the noonday, and sustains<lb/>
+brilliantly and conclusively our conclusions. Thus just 18 days<lb/>
+from the time we began our experimental work we have succeeded<lb/>
+in demonstrating this mode of propagation of the disease, so that<lb/>
+<pb n="15" id="KAMD1600"/>
+13<lb/>
+the most doubtful and skeptical must yield. Rejoice, with me,<lb/>
+sweetheart, as aside from the antitoxin of diphtheria and Koch's<lb/>
+discovery of the tubercle bacillus, it will be regarded as the most<lb/>
+important piece of work scientifically during the nineteenth cen-<lb/>
+tury. I do not exaggerate, and I could shout for joy that heaven<lb/>
+has permitted me to establish this wonderful way of propagating<lb/>
+yellow fever. It was Finlay's theory, and he deserves great credit<lb/>
+for having suggested it, but as he did nothing to prove it, it was<lb/>
+rejected by all, including General Sternberg. Now we have put it<lb/>
+beyond a cavil, and its importance to Cuba and the United States<lb/>
+cannot be estimated. Major J. R. Kean (Fig. 14) says that the<lb/>
+discovery is worth more than the cost of the Spanish-American<lb/>
+War, including lives lost and money expended. He is almost<lb/>
+beside himself with joy and will tell General Wood when he goes to<lb/>
+town in the morning. . . . 9:30 P.M. Since writing the above<lb/>
+our patient has been doing well. His temperature, which was 102.5<lb/>
+degrees at noon, has fallen to 101 degrees and his severe headache<lb/>
+and backache have subsided considerably. Everything points, so<lb/>
+far as it can at this stage, to a favorable termination, for which I<lb/>
+feel so happy.&rdquo;</p>
+<p>This experiment, conclusive as it was, was only one of that<lb/>
+gruesome series carried out at Camp Lazear by Major Reed. He<lb/>
+must determine whether or not &ldquo;fomites&rdquo; could cause yellow<lb/>
+fever. This he did in the following way. A small wooden building<lb/>
+(14 &times; 20 feet) was erected near the hospital tents (Fig. 16). It had<lb/>
+two tiny windows, both facing south, guarded with wire screens.<lb/>
+Heavy wooden shutters kept out the sunlight, and anything like<lb/>
+thorough ventilation was impossible. Double screen doors insured<lb/>
+the interior against the invasion of mosquitoes. A coal oil stove<lb/>
+with pans of evaporating water kept at the temperature up to<lb/>
+92&deg; to 95&deg; and provided the humidity of our most uncomfortable<lb/>
+dog-day. These surely were ideal conditions in which to develop<lb/>
+yellow fever!</p>
+<p>&ldquo;On November 30th,&rdquo; says Dr. Reed, &ldquo;the building now being<lb/>
+ready for occupation (Fig. 15), three large boxes filled with sheets,<lb/>
+pillowslips, blankets, etc., contaminated by contact with cases of<lb/>
+yellow fever and their discharges were received and placed there.<lb/>
+The majority of the articles had been taken from the beds of<lb/>
+patients sick with yellow fever at Las Animas Hospital, Havana, or<lb/>
+<pb n="16" id="KAMD1610"/>
+14<lb/>
+at Columbia Barracks. Many of them had been purposely soiled<lb/>
+with a liberal quantity of human excretions. . . . The same day<lb/>
+at 6 P.M., Dr. Robert P. Cooke, Acting Assistant Surgeon U.S.A.,<lb/>
+and two privates of the hospital corps, Folk and Jernegan, (Fig. 17)<lb/>
+all non-immune young Americans, entered this building and<lb/>
+deliberately unpacked these boxes, which had been tightly closed<lb/>
+and locked for a period of two weeks. They were careful at the<lb/>
+same time to give each article a thorough handling and shaking in<lb/>
+order to disseminate through the air of the room the specific agent<lb/>
+of yellow fever, if contained in these fomites. These soiled sheets,<lb/>
+pillow-cases, and blankets were used in preparing the beds in which<lb/>
+the members of the hospital corps slept. Various soiled articles were<lb/>
+hung around the room and placed about the bed occupied by Dr.<lb/>
+Cooke.</p>
+<p>&ldquo;From this date until December 19th. a period of 20 days, this<lb/>
+room was occupied each night by these three non-immunes. Each<lb/>
+morning the various soiled articles were carefully packed in the<lb/>
+aforesaid boxes, and at night again unpacked and distributed about<lb/>
+the room. During the day the residents of this house were per-<lb/>
+mitted to occupy a tent pitched in the immediate vicinity, but<lb/>
+were kept in strict quarantine.</p>
+<p>&ldquo;December 12th. a fourth box of clothing and bedding was re-<lb/>
+ceived from Las Animas Hospital. These articles had been used<lb/>
+on the beds of yellow fever patients, but in addition had been pur-<lb/>
+posely soiled from a fatal case of the disease. As this box had been<lb/>
+packed for a number of days, when it was opened and unpacked by<lb/>
+Dr. Cooke and his assistants on December 12, the odour was so<lb/>
+offensive as to compel them to retreat from the house. They<lb/>
+pluckily returned, however, within a short time and spent the night<lb/>
+as usual.</p>
+<p>&ldquo;On December 19th. these three non-immunes were placed in<lb/>
+quarantine for five days, and then given the liberty of the camp.<lb/>
+All had remained in perfect health, notwithstanding their stay<lb/>
+of twenty nights amid such unwholesome surroundings.&rdquo; &ldquo;To<lb/>
+pass twenty nights,&rdquo; says Dr. Kelly in his &ldquo;Walter Reed and Yel-<lb/>
+low Fever,&rdquo; &ldquo;in a small, ill-ventilated room with the temperature<lb/>
+over ninety, in close contact with the most loathsome articles of<lb/>
+dress and furniture, in an atmosphere fetid from their presence, is<lb/>
+an act of heroism which ought to command our highest admiration<lb/>
+and our lasting gratitude.&rdquo;</p>
+<pb n="17" id="KAMD1620"/>
+<p>15</p>
+<p>During the month since Camp Lazear was opened two great<lb/>
+findings had been established beyond a shadow of a doubt: first,<lb/>
+that yellow fever <hi rend="italic">can</hi> be caused by the bite of infected mosquitoes<lb/>
+of a certain species; and secondly, that this disease <hi rend="italic">cannot</hi> result<lb/>
+from contact with the clothing or the discharges from yellow fever<lb/>
+patients. &ldquo;We must now prove,&rdquo; said Major Reed, &ldquo;that this<lb/>
+disease can be transmitted <hi rend="italic">only</hi> by the bites of these mosquitoes.&rdquo;<lb/>
+Only a genius for scientific work could have devised this final and<lb/>
+clinching experiment.</p>
+<p>Another little hut had been built (Fig. 18) similar to the &ldquo;in-<lb/>
+fected clothing building,&rdquo; except that it was light, and clean, and<lb/>
+airy, and had been completely divided into two compartments by<lb/>
+a permanent wire screen. The only articles of furniture were<lb/>
+three cot beds, one being placed in the larger compartment, and<lb/>
+two on the other side of the wire screen. Everything had been<lb/>
+carefully disinfected by steam, and this little house with its admi-<lb/>
+rable ventilation would have been a perfect place, before the experi-<lb/>
+ment began, for any out-door hospital patient.</p>
+<p>Four days before Christmas they let loose fifteen mosquitoes in<lb/>
+the larger of the two rooms. These had fed on yellow fever<lb/>
+patients at varying intervals during the preceding days. At noon,<lb/>
+into this &ldquo;infected mosquito room,&rdquo; came Kissinger's fellow volun-<lb/>
+teer, John J. Moran<hi rend="superscript">1</hi>, (Fig. 24) clad only in his night shirt. He lay</p>
+<p>-----</p>
+<p><hi rend="superscript">1</hi>In a letter recently received from John J. Moran, who is now located in<lb/>
+Havana, not far from the scene of the experiments of 1900, the writer describes<lb/>
+his experiences as follows. &ldquo;The first attempt to inoculate me was made on<lb/>
+November 26th., 1900, and the second on November 29th., a lone mosquito<lb/>
+in a test tube being employed on each occasion and returned to captivity<lb/>
+after feeding on my blood. Results in both cases were NIL. Doctor Reed<lb/>
+then decided to save me for his master test in the &ldquo;Infected Mosquito Build-<lb/>
+ing.&rdquo; Infected mosquitoes in sufficient number were not available until<lb/>
+December 21st., 1900, when fifteen of the insects were freed in the building.<lb/>
+These mosquitoes had bitten severe cases of yellow fever from five to twenty-<lb/>
+four days before. Five minutes later, that is to say at 12 o'clock noon on<lb/>
+December 21st., I offered a feast to the fifteen guests which was promptly<lb/>
+partaken of by eight. With the aid of a hand mirror I watched them gorge<lb/>
+themselves. In the afternoon of the same day and at the same hour of the<lb/>
+following afternoon, the remaining seven had their fill. Doctor Reed told me<lb/>
+that if this test should prove successful the mosquito theory would be estab-<lb/>
+lished in fool-proof fashion, and that the sceptics would not have a leg to<lb/>
+stand on. The sceptics were many in number and most of them prominent in<lb/>
+the medical profession.</p>
+<p>&ldquo;On December 25th., 1900 (Christmas morning) I awakened to the fact</p>
+<pb n="18" id="KAMD1630"/>
+<p>16</p>
+<p>down upon the cot, and seven of the hungry mosquitoes settled<lb/>
+down upon him and bit him about his face and hands. A second<lb/>
+and third time he exposed himself to the bites of the other eight<lb/>
+tormentors.</p>
+<p>On Christmas morning this brave lad was stricken with yellow<lb/>
+fever and bore his sharp attack without a murmur. Since Moran<lb/>
+had been kept in strict quarantine for 32 days prior to the experi-<lb/>
+ment, was it not perfectly evident that he caught his yellow fever<lb/>
+from the infected mosquitoes? Further proof of this fact was pre-<lb/>
+sented by the two non-immunes who had occupied the cots on the<lb/>
+other side of the screen: they remained perfectly well throughout<lb/>
+the experiment, in spite of the fact that they had breathed the<lb/>
+same air as Moran. From this interlocking series of fool-proof<lb/>
+demonstrations Dr. Reed and all those about him reached the<lb/>
+absolute certainty that <hi rend="italic">yellow fever is always and everywhere trans-<lb/>
+mitted by infected mosquitoes, and by mosquitoes alone</hi>. No wonder<lb/>
+he wrote to his wife with profound thankfulness the following<lb/>
+letter: (Fig. 19).</p>
+<p>&ldquo;Columbia Barracks, Quemados, Cuba,<lb/>
+11:50 P.M., Dec. 31, 1900.</p>
+<p>&ldquo;Only ten minutes of the old century remain. Here have I been<lb/>
+sitting, reading that most wonderful book, &lsquo;LaRoche on Yellow<lb/>
+Fever,&rsquo; written in 1853. Forty-seven years later it has been per-<lb/>
+mitted to me and my assistants to lift the impenetrable veil that<lb/>
+has surrounded the causation of this most wonderful, dreadful pest<lb/>
+of humanity and to put it on a rational and scientific basis. I<lb/>
+thank God that this has been accomplished during the latter days<lb/>
+of the old century. May its cure be wrought out in the early days<lb/>
+of the new! The prayer that has been mine for twenty years that<lb/>
+I might be permitted in some way or at some time to alleviate</p>
+<p>-----</p>
+<p>that one of the fifteen insects had done its duty, and I knew that I would<lb/>
+be on my way to the yellow fever camp hospital before many hours. Doctor<lb/>
+Reed did not visit the experimental camp until afternoon on Christmas day,<lb/>
+and by the time he arrived my temperature, which I was taking and recording<lb/>
+every hour, had risen to over 103 degrees Fahrenheit. I was packed off in<lb/>
+an ambulance and by midnight my temperature rose to within a fraction of 105.<lb/>
+Dr. Reed and his associates pronounced my attack &lsquo;a very pretty case.&rsquo; . . .<lb/>
+In ten days I was up and around and three days later I took the blood test<lb/>
+(from the veins of a case of yellow fever) to see if I was immune. I was. It<lb/>
+had no effect on me.&rdquo;</p>
+<pb n="19" id="KAMD1640"/>
+<p>17</p>
+<p><figure entity="KAMD1640"></figure> Fig. 17. Warren G. Jernegan.</p>
+<p><figure entity="KAMD1640"></figure> Fig. 18. Infected mosquito building.</p>
+<p><figure entity="KAMD1640"></figure> Fig. 19. Dr. Reed's letter to his wife,--<lb/>
+December 31, 1900.</p>
+<p><figure entity="KAMD1640"></figure> Fig. 20. Surgeon-Major William C. Gorgas,<lb/>
+U.S.A.</p>
+<pb n="20" id="KAMD1650"/>
+<p>18<lb/>
+human suffering has been granted! A thousand Happy New<lb/>
+Years. . . . Hark, there go the twenty-four buglers in concert, all<lb/>
+sounding &lsquo;Taps&rsquo; for the old year.&rdquo;</p>
+<p>At one time during the experiments &ldquo;infected mosquitoes were<lb/>
+scarce; in fact, Dr. Reed had only one to give his co-workers--a<lb/>
+mosquito so venerable and precious that she was popularly known<lb/>
+as &lsquo;Her Ladyship.&rsquo; A more vicious beast than &lsquo;Her Ladyship&rsquo;<lb/>
+probably never inhabited this earth; she had given many persons<lb/>
+yellow fever, and for fifty-seven days she had carried the germ<lb/>
+until her body was little more than an animated culture tube<lb/>
+of the disease; yet few patients have been more tenderly cared for.<lb/>
+Her home was a large glass jar on the table in the center of a<lb/>
+sunshiny room; an oil stove, especially brought from the United<lb/>
+States, kept her apartment at just the desired temperature.<lb/>
+But &lsquo;Her Ladyship&rsquo; soon began to behave in a most discouraging<lb/>
+fashion.</p>
+<p>&ldquo;One morning about daylight,&rdquo; writes Gorgas, &ldquo;I got a message<lb/>
+saying that &lsquo;Her Ladyship&rsquo; was in a most critical and desperate<lb/>
+plight. At some time during the night she had caught her wing in<lb/>
+a mesh of the mosquito netting, and had struggled to free herself<lb/>
+for so long a time that when she was discovered by the attendant<lb/>
+in the morning, she was almost dead. I rapidly dressed and<lb/>
+hurried to the hospital. Similar messages had been sent to Dr.<lb/>
+Ross and Dr. Guiteras. We found her condition even worse than<lb/>
+had been represented. Two or three of the doctors on the staff<lb/>
+of the hospital had been promptly called in, and the services of<lb/>
+several of our trained nurses had been likewise obtained. Her<lb/>
+wing had been gently liberated from the mesh of the netting,<lb/>
+and &lsquo;Her Ladyship&rsquo; laid on a soft bed of cotton batting. The oil<lb/>
+stove was started up, and the room brought to a very hot summer<lb/>
+temperature, but it was all of no avail. She finally ceased to<lb/>
+kick, about nine o'clock in the morning, and died with a larger<lb/>
+attendance of doctors and nurses around her table than had ever<lb/>
+been present around the deathbed of any mere human in the<lb/>
+City of Havana.&rdquo;<hi rend="superscript">1</hi></p>
+<p>-----</p>
+<p><hi rend="superscript">1</hi>&ldquo;William Crawford Gorgas.--His Life and Work,&rdquo; by Marie D. Gorgas<lb/>
+and Burton J. Hendrick.</p>
+<pb n="21" id="KAMD1660"/>
+<p>19</p>
+<p>III. RESULTS OF THE YELLOW FEVER EXPERIMENTS</p>
+<p>Once the key to the mystery of the method of transmission of<lb/>
+a disease has been discovered, the way to fight it usually becomes<lb/>
+clear. Certainly this proved to be true in the case of yellow<lb/>
+fever. Fortunately Cuba had as its Military Governor that intel-<lb/>
+ligent and resourceful Major-General, Leonard Wood. He had<lb/>
+followed with absorbing interest Major Reed's experiments, and<lb/>
+in this work he had given his assistance unstintingly. He now<lb/>
+proceeded to put into practice this new found knowledge. Dr.<lb/>
+Reed's own account of the final conquest of yellow fever in Cuba<lb/>
+is as follows:</p>
+<p>&ldquo;The importance of the discovery that yellow fever is trans-<lb/>
+mitted by the bite of a certain species of mosquito did not fail to<lb/>
+attract the prompt attention of the military governor of Cuba,<lb/>
+himself a physician, and formerly a distinguished member of the<lb/>
+Medical Department of the United States Army. By his direction<lb/>
+the theory was subjected to a practical test in the city of Havana,<lb/>
+in which city yellow fever had not failed to make its yearly ap-<lb/>
+pearance during the past one hundred and forty years.</p>
+<p>&ldquo;Under the efficient management of the chief officer, Surgeon-<lb/>
+Major William Gorgas, U. S. A. (Fig. 20) (of whom we shall hear<lb/>
+more later) the sanitary regulations were so far modified as to<lb/>
+require that every patient having yellow fever should not only be<lb/>
+quarantined, but that his room should be promptly protected with<lb/>
+wire screens, so as to prevent the possibility of mosquitoes becom-<lb/>
+ing infected by sucking the blood of the patient. As a second im-<lb/>
+portant measure, a systematic destruction of all mosquitoes in<lb/>
+other rooms of the patient's house, as well as in adjoining houses,<lb/>
+was at once begun, the fumes of pyrethrum being relied upon to<lb/>
+stupefy the insects, after which they were carefully swept up and<lb/>
+buried. In other words, Surgeon-Major Gorgas, relying upon the<lb/>
+well-known slow progress of yellow fever, sought to destroy all<lb/>
+mosquitoes, infected or non-infected, within a given radius of each<lb/>
+case, while at the same time he effectually excluded all mosquitoes<lb/>
+from access to the sick<hi rend="superscript">1</hi>....</p>
+<p>&ldquo;As an illustration of what has been accomplished by these newer</p>
+<p>-----</p>
+<p><hi rend="superscript">1</hi>&ldquo;At the same time the breeding of mosquitoes was prevented by removing<lb/>
+all deposits of water in and about the buildings or pouring kerosene on them.&rdquo;<lb/>
+--Col. J. R. Kean.</p>
+<pb n="22" id="KAMD1670"/>
+<p>20</p>
+<p>sanitary regulations, I may say that, counting from the date when<lb/>
+they were put in force, viz., February 15, 1901, Havana was freed<lb/>
+from yellow fever within ninety days; so that from May 7 to July 1,<lb/>
+a period of fifty-four days, no cases occurred. Notwithstanding<lb/>
+the fact that on the latter date and during the months of July,<lb/>
+August, and September, the disease was repeatedly reintroduced<lb/>
+into Havana from an inland town, no difficulty was encountered in<lb/>
+promptly stamping it out, by the same measures of sanitation,<lb/>
+intelligently applied, both in the city of Havana and in the town<lb/>
+of Santiago de las Vegas, whence the disease was being brought<lb/>
+into Havana.&rdquo; Major J. R. Kean, after Dr. Reed's death added<lb/>
+the following statement: &ldquo;Not a single case of yellow fever occurred<lb/>
+in Havana during the year 1902, nor, so far as known, in the Island<lb/>
+of Cuba.&rdquo;</p>
+<p>Some time before the Yellow Fever Commission began its work<lb/>
+Dr. Alvah H. Doty (Fig. 9) had become Health Officer Port of New<lb/>
+York. He was charged with the important duty of examining<lb/>
+at the Quarantine Office all incoming ships and passengers and of<lb/>
+isolating any persons who had contagious diseases. For some<lb/>
+time he had been pondering over the source of yellow fever infec-<lb/>
+tion, and from his previous experience as City Health Officer he<lb/>
+had reached the conclusion that lifeless material like clothing or<lb/>
+food supplies could not transmit yellow fever. When the time came<lb/>
+for bringing back the soldiers from Cuba, Dr. Doty was so con-<lb/>
+vinced that he was right that he offered to assume the responsi-<lb/>
+bility for admitting the troops through the Port of New York. His<lb/>
+offer was gladly accepted by the National Government. When,<lb/>
+however, he refused to fumigate the ships and the clothing of<lb/>
+passengers a storm of protest broke about his head, especially from<lb/>
+the inhabitants of the Southern States. At the height of this<lb/>
+indignation came the triumphant demonstrations made by the<lb/>
+Reed Commission which completely vindicated our Port Officer.</p>
+<p>In Laredo, Texas, a city of 18,000 inhabitants, yellow fever<lb/>
+broke out in 1903. Water in the town was commonly stored in<lb/>
+barrels. No better place could be devised for breeding the A&euml;des<lb/>
+mosquitoes, and investigation showed that they were present in<lb/>
+enormous numbers. The poorer classes lived in houses of the<lb/>
+worst type, mere shacks of adobe and boards, and so the methods<lb/>
+of disinfection of houses and care of the sick that had proved so<lb/>
+<pb n="23" id="KAMD1680"/>
+21<lb/>
+successful in Havana were difficult to apply in Laredo. The epi-<lb/>
+demic increased so rapidly, however, that a complete disinfection<lb/>
+of the whole city, and widespread war on mosquitoes was begun.<lb/>
+In this the sanitary authorities were constantly hampered, since<lb/>
+they had nothing like the military backing that was so effective in<lb/>
+Cuba. In spite of these handicaps, however, the disease was<lb/>
+finally eradicated completely.</p>
+<p>New Orleans suffered seriously from yellow fever in 1905. For-<lb/>
+tunately here the citizens appealed to the Public Health and<lb/>
+Marine Hospital Service to take charge of the situation. When<lb/>
+this national organization arrived on the scene, there had been 616<lb/>
+cases and 112 deaths. On a single day, August 12th, there were<lb/>
+reported 105 new cases. The citizens, however, had complete<lb/>
+confidence in the measures that were instituted, and cooperated<lb/>
+heartily. Placards were distributed by the thousand bearing the<lb/>
+words &ldquo;Wear a Smile on Your Face and a Flower in Your But-<lb/>
+tonhole.&rdquo; What a contrast between this situation and the hope-<lb/>
+less terror in the Philadelphia epidemic of a century before.<lb/>
+None of the New Orleans population fled from the city,<lb/>
+food and clothing did not need to be inspected or destroyed, and<lb/>
+the citizens went hopefully about their business. Yellow fever<lb/>
+ceased to exist in the city early in November. There was no need<lb/>
+to wait anxiously for the frosts; the only thing necessary was to<lb/>
+hunt down and destroy remorselessly the A&euml;des mosquito. What<lb/>
+a debt we owe to Dr. Reed, Surgeon-Major Gorgas and their<lb/>
+associates!</p>
+<p>Now comes the story of our national triumph in building the<lb/>
+Panama Canal. The French had tried it, and doubtless would<lb/>
+have accomplished it had not the toll of death from yellow fever<lb/>
+and malaria made the task hopeless. In 1904 Surgeon-Major<lb/>
+Gorgas (Fig. 20) came to Panama, as Chief Sanitary Officer. His<lb/>
+experience in Havana had made him an ardent advocate of Dr.<lb/>
+Reed's conclusions, and those same methods of disinfection and of<lb/>
+mosquito extermination were put into practice in the Canal Zone.<lb/>
+The Canal Construction Commission became critical and un-<lb/>
+sympathetic, but Gorgas doggedly worked on. Trees and brush<lb/>
+were cleared away and swamps were drained along the sides of the<lb/>
+course of the Canal, and so mosquito breeding places disappeared<lb/>
+one by one. Discouragements there were aplenty, but within two<lb/>
+<pb n="24" id="KAMD1690"/>
+22<lb/>
+years the fight was won. Yellow fever had disappeared from<lb/>
+Panama. Malaria, too, is a mosquito borne disease, and the sick-<lb/>
+ness and death rate from this disease was cut down tremendously.</p>
+<p>So the fight against the A&euml;des mosquito (Fig. 6) has gone on<lb/>
+during the past quarter of a century. Wherever yellow fever has<lb/>
+appeared, about the Caribbean Sea, in Mexico, Central or South<lb/>
+America, there the sanitary brigades have relentlessly pursued the<lb/>
+insects. The Rockefeller Foundation has organized and largely<lb/>
+financed this work, its beneficent aim being that of eradicating<lb/>
+yellow fever from the face of the earth. All prospects now point<lb/>
+toward final and complete success. Dr. George E. Vincent,<lb/>
+President of the Foundation, reports that during 1925 only three<lb/>
+cases of the disease were reported in all the Western Hemisphere,<lb/>
+and it is not quite certain that all three were genuine cases. In<lb/>
+1926 there was it is true in Brazil a local &ldquo;flare up&rdquo; of the disease,<lb/>
+but this is likely soon to be stamped out. (Fig. 21).</p>
+<p>In 1918, during a yellow fever outbreak in Ecuador, Dr. Hideyo<lb/>
+Noguchi, (Fig. 23) a brilliant Japanese member of the Rockefeller<lb/>
+Institute, (Fig. 22) began an investigation, later extended to<lb/>
+other South and Central American countries, with a view to<lb/>
+isolating the causative germ of the disease. From some of the<lb/>
+cases in Ecuador and elsewhere in South America, he obtained an<lb/>
+organism (<hi rend="italic">Leptospira icteroides</hi>) which proved to be closely allied<lb/>
+to the one which causes infectious jaundice, a disease very much<lb/>
+like yellow fever.</p>
+<p>Dr. Noguchi's work in South and Central America was con-<lb/>
+firmed by others, but in West Africa the Leptospira germ could<lb/>
+not be found, although the yellow fever of that region had been<lb/>
+regarded as the same disease as the yellow fever of South America.<lb/>
+This fact gave rise to doubt as to the relationship of Noguchi's<lb/>
+<hi rend="italic">leptospira</hi> to yellow fever<unclear>,</unclear> and led Dr. Noguchi himself to go to<lb/>
+West Africa to study yellow fever there.</p>
+<p>Just as Dr. Noguchi was ready to return to America, he was<lb/>
+stricken with yellow fever, and died of this disease May 21st<lb/>
+1928--another hero-martyr in a great cause. Two other members<lb/>
+of the laboratory group of scientists on the west coast of Africa<lb/>
+had likewise lost their lives from yellow fever within a year--Dr.<lb/>
+Adrian Stokes, September 19th, 1927 (Fig. 37) and Dr. W. A.<lb/>
+Young, May 29th., 1928 (Fig. 38), both of them young English-</p>
+<pb n="25" id="KAMD1700"/>
+<p>23</p>
+<p><figure entity="KAMD1700"></figure> Fig. 21. Decline of Yellow Fever in the<lb/>
+Western Hemisphere in the <unclear>last</unclear> quarter of<lb/>
+a century.</p>
+<p><figure entity="KAMD1700"></figure> Fig. 22. Rockefeller Institute, New York<lb/>
+City.</p>
+<p><figure entity="KAMD1700"></figure> Fig. 23. Dr. H<del>e</del><add>i</add>deyo Noguchi in his labora-<lb/>
+tory.</p>
+<p><figure entity="KAMD1700"></figure> Fig. 24. John J. Moran in<lb/>
+Army uniform in World War.</p>
+<pb n="26" id="KAMD1710"/>
+<p>24</p>
+<p>men. Dr. Howard B. Cross, (Fig. 36) who was a pupil of Dr.<lb/>
+Noguchi, while studying yellow fever at Vera Cruz, died of this<lb/>
+disease December 26th, 1921. There are few diseases which science<lb/>
+has fought so successfully that are so dangerous to the scientists<lb/>
+engaged in the campaign, as is yellow fever.</p>
+<p>IV. LATER HISTORY OF THE YELLOW FEVER HEROES<lb/>
+OF 1900</p>
+<p>But what of the later history of those heroes of that fateful year<lb/>
+of 1900--those men to whom the whole world owes such a lasting<lb/>
+debt of gratitude? Dr. Lazear had laid down his life in Cuba, and<lb/>
+Dr. Carroll had but six short years to live. Back from Cuba came<lb/>
+Dr. Reed, (Fig. 25) wearied and weakened by those months of<lb/>
+unremitting toil. In the following year he had a severe attack of<lb/>
+appendicitis. As he was placed on the operating table he said to<lb/>
+his old friend, Major Kean to whom he was much attached, &ldquo;Kean,<lb/>
+I am not afraid of the knife, but if anything should happen to me,<lb/>
+I am leaving my wife and daughter so little;&rdquo; and when he went<lb/>
+under the influence of the ether, he was heard to whisper, &ldquo;so<lb/>
+little, so little.&rdquo; He died six days after the operation, and his<lb/>
+body now rests on a beautiful hill-top in Arlington Cemetery.<lb/>
+(Fig. 26). Upon his tombstone is this inscription, &ldquo;He gave to man<lb/>
+control over that dreadful scourge, yellow fever.&rdquo;</p>
+<p>What has our country done thus far to honor these heroes of<lb/>
+Cuba or their memory? After years of delay Congress grudgingly<lb/>
+passed a bill which gave to Mrs. Reed (Fig. 27), Mrs. Carroll, Mrs.<lb/>
+Lazear and Mrs. Jernegan an annual pension of $1500. &ldquo;So<lb/>
+little, so little,&rdquo; whispered Dr. Reed as his life ebbed out. In<lb/>
+all these years of the rising cost of living there has been no increase<lb/>
+in this yearly stipend, and, hardest of all for these widows to en-<lb/>
+dure, no Congressional vote of thanks.</p>
+<p>Private Jernegan, after his twenty-day experience in the &ldquo;in-<lb/>
+fected clothing&rdquo; building, twice offered himself to mosquito infec-<lb/>
+tion, but still escaped the disease. When, however, Dr. Reed<lb/>
+needed a victim into whose veins he might inject the blood of a<lb/>
+yellow fever patient, Jernegan submitted to this test. Fortu-<lb/>
+nately he recovered from his sharp illness, and later with his wife<lb/>
+and son spent eight years in the Panama Canal Zone when help</p>
+<pb n="27" id="KAMD1720"/>
+<p>25</p>
+<p><figure entity="KAMD1720"></figure> Fig. 25. Bust of Dr. Reed in Army Medical<lb/>
+Museum, Washington. Inscription on card,<lb/>
+&ldquo;In reveren<del>d</del><add>t</add> memory of Major Walter Reed<lb/>
+who gave to us teachers, to teach our stu-<lb/>
+dents, that incomparable story of heroism&rdquo;<lb/>
+from the New York Association of Biology<lb/>
+Teachers.</p>
+<p><figure entity="KAMD1720"></figure> Fig. 26. Dr. Reed's grave in Arlington<lb/>
+Cemetery.</p>
+<p><figure entity="KAMD1720"></figure> Fig. 27. Mrs. Walter Reed.</p>
+<p><figure entity="KAMD1720"></figure> Fig. 28. Mr. and Mrs. Kissinger supporting<lb/>
+themselves by taking in washings.</p>
+<pb n="28" id="KAMD1730"/>
+<p>26</p>
+<p>there was greatly needed. He died in February, 1922, and his<lb/>
+body now lies in a little cemetery beside a railroad track in Spartan-<lb/>
+burg, S. C. Should not our country which owes such debts of<lb/>
+gratitude to Private Warren G. Jernegan, at least see that the long-<lb/>
+ing of his widow to have her hero's body lie in Arlington Cemetery<lb/>
+among the nation's dead be satisfied?</p>
+<p>Even more cruel has been our country's treatment of Kissinger.<lb/>
+When the Yellow Fever Commission was ceasing its work, he re-<lb/>
+turned to the States broken in health. Still trying to &lsquo;carry<lb/>
+on&rsquo; Kissinger in 1907 was returning from his work in a box factory<lb/>
+in South Bend, Indiana, when he fell in the streets and became<lb/>
+paralyzed from his waist down. Those were black days in the<lb/>
+Kissinger home. With no income other than a paltry $12 a<lb/>
+month from the Government, Mrs. Kissinger heroically took up<lb/>
+her burden. She nursed her husband, and took in ten to fourteen<lb/>
+washings a week. &ldquo;We had no other way to live,&rdquo; she said.</p>
+<p>Later Kissinger slowly recovered the use of his body; he could<lb/>
+crawl about the house on specially constructed heavy leather knee<lb/>
+coverings (Fig. 29); then he could sit in a wheel chair (Fig. 30),<lb/>
+and propped up with pillows, he would help with the washings by<lb/>
+turning the wringer (Fig. 28). Things began to look a bit brighter,<lb/>
+too, from another direction. After a long fight in Congress, an<lb/>
+additional pension of $100 a month was secured. One hundred<lb/>
+and twelve dollars a month was fairly satisfactory for a few years.</p>
+<p>Then came the Great War with mounting cost of living and with<lb/>
+increasing cost of sickness. To fill their cup of misery there came<lb/>
+in 1922 from the Pension Bureau in Washington a letter<lb/>
+which stated that Kissinger had no right to receive the two pen-<lb/>
+sions that had been paid to him since 1911 ($12 and $100 a month).<lb/>
+Demand was made upon him that he return at once the sum of<lb/>
+$1699.60. Congress did hasten to pass a special act which freed<lb/>
+him from this repayment. Up to the present moment, however, he<lb/>
+receives but $100 a month. The Kissingers had been living in a<lb/>
+poorly built rented house (Fig. 31) in the little town of Andrews,<lb/>
+Indiana (where the rent was cheap), and winters especially they<lb/>
+had suffered from the cold and from lack of bodily comforts.<lb/>
+Frequent illnesses, too, had made heavy drains, on their resources.<lb/>
+In spite of all these years of suffering and neglect, this hero said<lb/>
+when we visited him in September, 1926, &ldquo;I would do it all over<lb/>
+again if it were necessary.&rdquo;</p>
+<pb n="29" id="KAMD1740"/>
+<p>27</p>
+<p><figure entity="KAMD1740"></figure> Fig. 29. Kissinger with his knee coverings.</p>
+<p><figure entity="KAMD1740"></figure> Fig. 30. Kissinger in his wheel chair.</p>
+<p><figure entity="KAMD1740"></figure> Fig. 31. Former home of the Kissingers in<lb/>
+Andrews, Indiana.</p>
+<p><figure entity="KAMD1740"></figure> Fig. 32. Kissinger's &ldquo;Dream Home,&rdquo; Hunt-<lb/>
+ington, Indiana.</p>
+<p><figure entity="KAMD1740"></figure> Fig. 33. Extract from a letter written to<lb/>
+the author in 1912.</p>
+<p><figure entity="KAMD1740"></figure> Fig. 34. Surgeon General Merritt W. Ire-<lb/>
+land, U. S. A.</p>
+<pb n="30" id="KAMD1750"/>
+<p>28</p>
+<p>In November, 1926, the New York Association of Biology<lb/>
+Teachers, learning of the needs of the Kissingers, hastened to<lb/>
+send them a substantial sum of money. This was most gratefully<lb/>
+received and acknowledged. It helped them to buy needed winter<lb/>
+clothing and fuel. Dr. Harry Emerson Fosdick, in a sermon<lb/>
+preached in February of the following year (1927), sent out upon<lb/>
+the air Kissinger's story and that of the other victims of the yel-<lb/>
+low fever experiments. The response was immediate. A Com-<lb/>
+mittee of the Biology Association and a Citizens' Committee headed<lb/>
+by Dr. Fosdick were formed; newspaper and magazine publicity<lb/>
+was generously given; and funds began to come in. Sufficient has<lb/>
+been secured to purchase a very comfortable six room house, nearly<lb/>
+three acres of land, farm implements, a cow and some poultry<lb/>
+(Fig. 32). At last this servant of humanity has for his own the<lb/>
+home he had longed for these many years, and the expressions of<lb/>
+gratitude from the Kissingers are touching. May they live long<lb/>
+and enjoy their &ldquo;Dream Home&rdquo; as a partial compensation for what<lb/>
+they have suffered.</p>
+<p>V. OUR DEBT TO THE HEROES OF MEDICINE</p>
+<p>No story in all the history of scientific achievement seems to<lb/>
+make stronger appeal to young people than does this dramatic tale<lb/>
+of the conquest of yellow fever. Must it continue to be told with<lb/>
+no answering response from the country at large? Not if the<lb/>
+teachers and students throughout the length and breadth of the<lb/>
+land will but band together and <hi rend="italic">act</hi>. Congress is always anxious<lb/>
+to do what the people of the country wish. It does not, however,<lb/>
+and it cannot know what is wanted unless the people present<lb/>
+their wishes in a manner that is compelling. Several bills to<lb/>
+give something like adequate pensions to the widows of the three<lb/>
+doctors and to the other yellow fever heroes were introduced<lb/>
+during the 1927-1928 sessions of Congress, but they failed to<lb/>
+become law because of this lack of crystallized public interest.</p>
+<p>&ldquo;Precedents are abundant,&rdquo; says Major (now Colonel) Kean,<lb/>
+&ldquo;for state aid to public benefactors and their families. The English<lb/>
+Government a century ago, when the purchasing power of money<lb/>
+was far greater than at present, gave to Jenner, the discoverer of<lb/>
+vaccination, grants amounting to &pound;30,000. He also received<lb/>
+&pound;7,383 from a subscription in India. Pasteur, the founder of the<lb/>
+<pb n="31" id="KAMD1760"/>
+29<lb/>
+science of bacteriology, besides numerous honors and money dona-<lb/>
+tions from other sources, received from the French Government a<lb/>
+pension of 12,000 francs. Lister, the originator of antiseptic<lb/>
+surgery, has, besides numerous honors and decorations, been<lb/>
+successively knighted and elevated to the peerage&rdquo;.</p>
+<p>In the autumn of 1926 Colonel Kean suggested a pension of<lb/>
+$3,000 a year for each of the three widows and for the Kissingers.<lb/>
+This plan was heartily supported by Surgeon General Ireland<lb/>
+(Fig. 34) of the Army, by Surgeon-General Cumming of the Public<lb/>
+Health Service, and by many other Washington officials. Every<lb/>
+Senator and Member of Congress whose attention was called<lb/>
+to this opportunity seemed to favor it. But Congress is a large<lb/>
+body, its members are widely scattered, and they represent regions<lb/>
+of the country that have widely divergent interests. While the<lb/>
+bill received the unanimous approval of the Committee on Military<lb/>
+Affairs of the House of Representatives, it failed of passage during<lb/>
+the closing hours of the session. A new bill will be introduced<lb/>
+in the Senate and the House early in December, 1928 providing<lb/>
+for a special gold medal for all the twenty-three heroes of those<lb/>
+memorable experiments, and increased pensions for those who<lb/>
+specially need them.</p>
+<p>As indicated above, Congress cannot be expected to pass legis-<lb/>
+lation, even as worthy as this, unless it can feel that it is spending<lb/>
+the people's money as the people wish it spent.</p>
+<p>It is not yet too late however for us to take our place with<lb/>
+England and France as a nation that delights to honor those who<lb/>
+have saved us from the horrors of a loathsome disease. We<lb/>
+have been paying the highest of official honors to the avaitors<lb/>
+who have spanned the seas. Shall we do less for the survivors<lb/>
+and their families of those harrowing but triumphant experiments<lb/>
+of 1900, which taught us to rid the earth of one of its worst pesti-<lb/>
+lences?</p>
+<pb n="32" id="KAMD1770"/>
+<p>30</p>
+<p><figure entity="KAMD1770"></figure> Fig. 37. Dr. Adrian Stokes.<lb/>
+Died of Yellow Fever in Africa.<lb/>
+September 19, 1927</p>
+<p><figure entity="KAMD1770"></figure> Fig. 35. Dr. Henry Rose Carter.<lb/>
+Quarantine Officer</p>
+<p><figure entity="KAMD1770"></figure> Fig. 38. Dr. William A. Young<lb/>
+Died of Yellow Fever in Africa<lb/>
+May 29, 1928</p>
+<p><figure entity="KAMD1770"></figure> Fig. 36. Dr. Howard B. Cross.<lb/>
+Died of Yellow Fever at Vera <del>Crey</del><unclear><add>Crug</add></unclear><lb/>
+December 26, 1921</p>
+<pb n="33" id="KAMD1780"/>
+<p>31</p>
+<p>REVIEW QUESTIONS ON YELLOW FEVER</p>
+<p>
+<list type="ordered">
+<item>1. Where did yellow fever first appear in the Western Hemi-<lb/>
+sphere? When did it reach Cuba? Trace its course northward<lb/>
+from Cuba.</item>
+<item>2. Give an account of the Philadelphia epidemic of 1793; of the<lb/>
+New York epidemic of 1822; of the Memphis epidemic of 1878.</item>
+<item>3. What are some of the earlier methods of combating this<lb/>
+disease?</item>
+<item>4. When was the Yellow Fever Commission appointed, and by<lb/>
+whom? Name the members of this Commission.</item>
+<item>5. State several respects in which the work of this Commission<lb/>
+was very remarkable.</item>
+<item>6. What was the situation in Havana when the Commission<lb/>
+arrived on the scene?</item>
+<item>7. Discuss the scientific and practical contributions made before<lb/>
+1900 by Drs. Manson and Ross of England, Dr. Finlay of Havana,<lb/>
+and Dr. Doty, Port Officer of New York.</item>
+<item>8. What line of investigation was undertaken by each of the<lb/>
+members of the Yellow Fever Commission. Which line of investi-<lb/>
+gation proved to be fruitful, and which was soon abandoned?</item>
+<item>9. How was Dr. Reed led to doubt the possibility of the trans-<lb/>
+mission of this disease by clothing and other lifeless objects (fo-<lb/>
+mites)?</item>
+<item>10. Why was it necessary to try experiments on human beings?<lb/>
+Why did the earlier experiments fail?</item>
+<item>11. Give an account of the first attack of &ldquo;experimental yellow<lb/>
+fever.&rdquo;</item>
+<item>12. Describe Dr. Lazear's illness and death.</item>
+<item>13. Why was it necessary to carry on further experiments?</item>
+<item>14. How did Moran and Kissinger come to volunteer for these<lb/>
+experiments? Give an account of Major Reed's interview with<lb/>
+these two men.</item>
+<item>15. Describe the preparation of Camp Lazear for Dr. Reed's<lb/>
+experiments. How were the inmates of this camp protected from<lb/>
+<hi rend="italic">accidental</hi> infection?</item>
+<item>16. Tell the story of Kissinger's attack of experimental yellow<lb/>
+fever.</item>
+<item>17. How did Dr. Reed prove that yellow fever cannot be trans-<lb/>
+<pb n="34" id="KAMD1790"/>
+32<lb/>
+mitted by clothing? What further experiments were tried on<lb/>
+Private Jernegan?</item>
+<item>18. Describe the experiments which demonstrated that this<lb/>
+disease can be transmitted <hi rend="italic">only</hi> by the bite of an infected Aedes<lb/>
+Egypti mosquito?</item>
+<item>19. Why was it fortunate that the sanitation of Cuba was in<lb/>
+charge of such men as General Leonard Wood and Major (later<lb/>
+Colonel) Kean?</item>
+<item>20. How did Surgeon-Major Gorgas make practical application<lb/>
+of the discoveries of Dr. Reed? What was the result in Havana in<lb/>
+one year?</item>
+<item>21. Give an account of the epidemic of 1903 in Laredo, Texas.<lb/>
+Contrast this epidemic with that which occurred in New Orleans<lb/>
+two years later.</item>
+<item>22. Show how the truimphant experiments carried on in Cuba<lb/>
+made possible the building of the Panama Canal.</item>
+<item>23. Give an account of the work of the Rockefeller Foundation<lb/>
+in helping to eradicate yellow fever from the world.</item>
+<item>24. Tell the story of Dr. Reed and Dr. Carroll after the experi-<lb/>
+ments in Cuba were over.</item>
+<item>25. What sufferings has Private John R. Kissinger undergone<lb/>
+during the past twenty-seven years?</item>
+<item>26. Do you think our Government has thus far (1928) shown in<lb/>
+any adequate way the gratitude of our Country and of the whole<lb/>
+world to those who were responsible for the Conquest of Yellow<lb/>
+Fever? Give as many reasons as you can for your answer.</item>
+<item>27. How have England and France shown their gratitude for<lb/>
+the work done by their men of science?</item>
+<item>28. What can you do to help discharge the debt we all owe to<lb/>
+those Yellow Fever Heroes of 1900?</item>
+</list>
+</p>
+<p>---------</p>
+<p>BIBLIOGRAPHY</p>
+<p><list type="ordered">
+<item>1. Walter Reed and Yellow Fever, by Howard A. Kelly, M.D.<lb/>
+The Norman Remington Co., Baltimore, Maryland.</item>
+<item>2. The Microbe Hunters, by Paul DeKruif. Harcourt, Brace and<lb/>
+Co., New York City.</item>
+<item>3. William Crawford Gorgas.--His Life and Work, by <unclear>Marie</unclear> D.<lb/>
+Gorgas and Burton J. Hendrick. Doubleday, Page and Co.<lb/>
+<pb n="35" id="KAMD1800"/>
+33</item>
+<item>4. A Doctor's Memories, by Victor C. Vaughan. The Bobbs<lb/>
+Merrill Co.</item>
+<item>5. Health Heroes--Walter Reed, by Grace T. Hallock and C. E.<lb/>
+Turner. Metropolitan Life Insurance Co., New York City.<lb/>
+(This last interesting pamphlet will be sent free to any teacher<lb/>
+who asks for it.)</item>
+<item>6. Annual Reports of the Rockefeller Foundation. 61 Broadway,<lb/>
+New York City.</item>
+<item>7. Memories of a Yellow Fever Martyr, by Homer Croy. The<lb/>
+World's Work for December, 1927. Doubleday, Page and Co.,<lb/>
+Garden City, New York.</item>
+</list>
+</p>
+<p>[A much more complete bibliography on Yellow Fever has<lb/>
+been prepared with the help of the Librarian of the American<lb/>
+Museum of Natural History, and the New Hampshire State<lb/>
+Library. This will be sent by the Librarian of the American<lb/>
+Museum (77th St. and Central Park West) if a self-addressed<lb/>
+stamped envelope is supplied.]</p>
+<p>70 LANTERN SLIDES ARE AVAILABLE FOR USE IN THE<lb/>
+SCHOOLS OF NEW YORK CITY</p>
+<p>----------</p>
+<p>ACKNOWLEDGMENTS</p>
+<p>In the preparation of this manuscript the author is deeply<lb/>
+indebted to the following: Colonel Jefferson R. Kean, Army Medi-<lb/>
+cal Museum, Dr. Howard A. Kelly and Dr. Caroline Latimer,<lb/>
+Authors of &ldquo;Walter Reed and Yellow Fever,&rdquo; Surgeon General<lb/>
+M. W. Ireland, U. S. A., Dr. William H. Welch, Johns Hopkins<lb/>
+Medical School, Dr. Frederick F. Russell, Director of the Inter-<lb/>
+national Health Bureau of the Rockefeller Foundation, Dr.<lb/>
+Alvah H. Doty, Former Port Officer of New York, now Medical<lb/>
+Director of the Western Union, Dr. Simon Flexner and the late<lb/>
+Dr. Hideyo Noguchi of the Rockefeller Institute, Dr. Benjamin C.<lb/>
+Gruenberg, formerly Director of the American Association for<lb/>
+Medical Progress, and to the various publications listed above.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

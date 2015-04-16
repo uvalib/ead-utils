@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06306005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to Ida E. Kissinger, August 1, 1941 [Enclosed in 06306001]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06306005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1941-08-01</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kissinger, Ida E. </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Reed, Walter</name>
+<name type="place">Huntington (Ind.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1941-08-01">August 1, 1941</date>
+<idno rend="suppress">06306005</idno>
+<title>Letter from Jefferson Randolph Kean to Ida E. Kissinger, August 1, 1941 [Enclosed in 06306001]</title>
+</bibl>
+</head>
+<p>Kean recommends to Kissinger that her husband be moved to a veteran's hospital in Indianapolis. </p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1941-08-01">
+<head>Letter from Jefferson Randolph Kean to Ida E. Kissinger, August 1, 1941 [Enclosed in <xref id="t06306001">06306001</xref>]</head>
+<pb n="1" id="f06306005"/>
+<opener>
+Copy-<lb/>
+2804 N STREET, N. W.<lb/>
+WASHINGTON, D. C.<lb/>
+<dateline>
+<date value="1941-08-01">Aug. 1<hi rend="superscript">st</hi> 1941</date>
+</dateline><lb/>
+Mrs. John R. Kissinger<lb/>
+Huntington, Ind.<lb/>
+<salute>Dear Madam</salute>
+</opener>
+<p>I have heard from Dr. P.S. Hench,<lb/>
+of the Mayo Clinic of the calamity<lb/>
+which has be fallen your husband, &amp;<lb/>
+I feel deep sympathy for him and<lb/>
+for you, who have the heavy respons-<lb/>
+ibility of his care. I was the Chief<lb/>
+Surgeon at Marianao at the time he<lb/>
+made his gallant offer to my friend<lb/>
+Major Walter Reed and knew of it<lb/>
+before he was bitten by the yellow fever mosquito,<lb/>
+<pb n="2" id="f06306006"/>
+<unclear>AC</unclear><lb/>
+K<lb/>
+as an Army doctor I know that one<lb/>
+woman cannot give proper care and<lb/>
+attention to a paralyzed patient and that<lb/>
+the proper and only place for him is in<lb/>
+a hospital. So I wish to be sure that<lb/>
+you understand that the government offers<lb/>
+to its veterans first class hospital<lb/>
+treatment in hospitals in various parts<lb/>
+of the country <hi>free</hi>. These are not<lb/>
+under the Army but under the<lb/>
+veterans administration, the Hdqrs. of<lb/>
+which is here in Washington. I have<lb/>
+asked the veterans administration to<lb/>
+send you a blank form with in-<lb/>
+structions just what to do, to<lb/>
+<pb n="3" id="f06306007"/>
+secure this service for your good<lb/>
+husband, who has a right to it, and<lb/>
+must surely need it.</p>
+<p>With much sympathy</p>
+<closer>
+<salute>Yours truly</salute>
+<signed>(Signed) J. R. Kean</signed>
+(Brig. Gen. Ret.)<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

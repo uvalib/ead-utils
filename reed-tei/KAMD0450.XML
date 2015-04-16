@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0450">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">List: Enlisted Men of the H.G. on Duty at Camp Lazear, January, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0450</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-01-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">England, Thomas M.</name>
+<name type="person">De Lamar, Henry</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Olsen, William</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Springer, Adolph F</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Kane, Thomas</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Young, John T.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Benigno, Antonio</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1901-01-00">January, 1901</date>
+<idno rend="suppress">KAMD0450</idno>
+<title>List: Enlisted Men of the H.G. on Duty at Camp Lazear, January, 1901</title>
+</bibl>
+</head>
+<p>This document lists the enlisted men involved in the yellow fever experiments and their rate of pay per day. It also lists the men that were paid $100 and $200 for volunteering. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1901-01-00">
+<head>List: Enlisted Men of the H.G. on Duty at Camp Lazear, January, 1901</head>
+<pb n="1" id="fKAMD0450"/>
+<p>Enlisted men of the H. C. on duty at Camp Lazear January '01</p>
+<p>
+<table rows="23" cols="5">
+<row><cell>Name</cell><cell>No. of<lb/>days</cell><cell>from -to<lb/>inclusive</cell><cell>Rate per day</cell><cell>Feb</cell></row>
+<row><cell cols="1-5">----------------------------------------</cell></row>
+<row><cell>&check; De Lamar, Henry</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>50&cent; per day</cell><cell>8 days</cell></row>
+<row><cell>&check; England, Thomas M.</cell><cell>19</cell><cell>Jan 13 to 31</cell><cell>50&cent; per day</cell><cell>1-8<hi rend="superscript">th</hi> 8</cell></row>
+<row><cell>&check; Folk, Levi E.</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>50&cent; per day</cell><cell>1<hi rend="superscript">st</hi> to 26</cell></row>
+<row><cell>&check; Hanberry, James L.</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>{7 days @ 75&cent;<lb/>{24 " @ 50&cent; sick</cell><cell>{1st Cook Jan. 19-25<lb/>{<del><unclear>[unclear]</unclear></del><lb/>{<del><unclear>[unclear]</unclear></del><unclear><add>1<hi rend="superscript">st to</hi></add> to</unclear><lb/><add>Feb 25</add></cell></row>
+<row><cell>&check; Hildebrand, James</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>{3 days @ 75&cent;<lb/>{28 " @ 50&cent;</cell><cell>1st Cook Jan. 11 to 13<lb/>1-8<hi rend="superscript">th</hi> 8</cell></row>
+<row><cell>&check; Jernegan, Warren G.</cell><cell>29</cell><cell>Jan. 1 to 29</cell><cell>50&cent; per day</cell><cell>---</cell></row>
+<row><cell>&check; Olson, William</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>{15 days @ 75&cent;<lb/>{16 " @ 50&cent; 1-8<hi rend="superscript">th</hi> Feb</cell><cell>{1st Cook Jan. 1-10<lb/>{1st Cook Jan 27-31</cell></row>
+<row><cell>&check; Sonntag, Charles G.</cell><cell>19</cell><cell>Jan. 13 to 31</cell><cell>{6 days @ 75&cent;<lb/>{13 " @ 50&cent; Feb 1<hi rend="superscript">st</hi> to -<lb/><unclear><hi>sick 20<hi rend="superscript">th</hi></hi></unclear></cell><cell>{1st Cook Jan. 14-18<lb/>{1st Cook Jan. 26</cell></row>
+<row><cell><add>(Pay on Form 8)</add> Springer, Adolph F.</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>50&cent; per diem</cell><cell>1<hi rend="superscript">st</hi> to 7<hi rend="superscript">th</hi> 7</cell></row>
+<row><cell>Weatherwalks, Edward</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>50&cent; per diem</cell><cell>1 to 8<hi rend="superscript">th</hi> 8</cell></row>
+<row><cell><del>Kissinger John, R.</del></cell><cell>31</cell><cell><del>Jan. 1 to 31</del></cell><cell><del>50&cent; per diem</del></cell><cell><del>1 to 7<hi rend="superscript">th</hi> 7</del></cell></row>
+<row><cell cols="1-5"><hi>On duty in Yellow Fever Division</hi></cell></row>
+<row><cell>Kane, Thomas R</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>50&cent; per diem}</cell><cell rows="14-15">Still on duty<lb/>to Feb 25<lb/>pay due to<lb/>that date</cell></row>
+<row><cell>Lambert, Gustaf E.</cell><cell>31</cell><cell>Jan. 1 to 31</cell><cell>50&cent; per diem}</cell></row>
+<row><cell>Young, John T.</cell><cell>31</cell><cell>" "</cell><cell>"</cell><cell>"</cell></row>
+<row><cell cols="1-5">------------------------------</cell></row>
+<row><cell cols="1-5">Men coming to Camp on verbal order of Major W. Reed, Surg., U.S.A.</cell></row>
+<row><cell>Andrus, J. H.</cell><cell>6</cell><cell>Jan. 26 to 31</cell><cell cols="4-5">Jan 22<hi rend="superscript">nd</hi> Feb. 1 to 21</cell></row>
+<row><cell>West, Clyde L.</cell><cell>6</cell><cell>Jan. 26 to 31</cell><cell></cell><cell>Feb 1 to 14</cell></row>
+<row><cell>Forbes, Wallace</cell><cell>10</cell><cell>Jan. 22 to 31</cell><cell cols="4-5">Jan 20 to Feb 4 <del>to</del></cell></row>
+<row><cell>Benigno, Antonio<lb/>pay due to</cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
+</table>
+</p>
+<pb n="2" id="fKAMD0460"/>
+<p>Olsen</p>
+<p>Who was Cook Feb 1 to 8<lb/>
+of <unclear>mngo</unclear> initials</p>
+<p><unclear>Borsera Gummeri fera hedge</unclear><lb/>
+Erythrina.</p>
+<pb n="3" id="fKAMD0470"/>
+<p>#</p>
+<p>John H. Andrus 200 <hi rend="superscript">00</hi> &check; Paid</p>
+<p>West 200 <hi rend="superscript">00</hi> &check; Paid</p>
+<p>Jas L Hanberry 200 <hi rend="superscript">00</hi> &check; 100</p>
+<p>(Edw. Weatherwalks - 100 <hi rend="superscript">00</hi>) <unclear><del>100</del></unclear></p>
+<p>Sonntag - 200 <hi rend="superscript">00</hi> &check;</p>
+<p>Jas. Hildebrand 100 <hi rend="superscript">00</hi> &check; House</p>
+<p>Thomas England 100 <hi rend="superscript">00</hi> <hi>&check; House</hi></p>
+</div1>
+</body>
+</text>
+</TEI.2>

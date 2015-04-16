@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302037">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report by Lucian C. Smith, August 28, 1923 [Enclosed in C0302036]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Smith, Lucian C.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302037</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-08-28</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Mabry, W. L.</name>
+<name type="place">Tampico (Mexico)</name>
+<name type="place">San Jeronimo (Mexico)</name>
+<name type="place">Cierra Azul</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1923-08-28">August 28, 1923</date>
+<idno rend="suppress">C0302037</idno>
+<title>Report by Lucian C. Smith, August 28, 1923 [Enclosed in C0302036]</title>
+</bibl>
+</head>
+<p>Smith's report details the medical examination of a suspected case of yellow fever and concludes that it was not yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1923-08-28">
+<head>Report by Lucian C. Smith, August 28, 1923 [Enclosed in <xref id="C0302036">C0302036</xref>]</head>
+<pb n="1" id="fC0302037"/>
+<p>COPY</p>
+<p>Tampico, Mexico<lb/>
+August 28, 1923.</p>
+<p>Notes on case held under observation for yellow fever by<lb/>
+Dr. W. L. Mabry, of the Huesteca Company, at San Jeronimo. The patient<lb/>
+was visited and examined by me in consultation with Dr. Mabry in a small<lb/>
+isolation ward, designated as the Pest House, in connection with the<lb/>
+camp hospital, about 10 o'clock the evening of August 27.</p>
+<p>Name: Unknown. For the time the patient was carried on the<lb/>
+hospital records by number only. She appeared to have no relatives or<lb/>
+particular friends in the native village across the river from the oil<lb/>
+camp where she was discovered critically ill, and from which place she<lb/>
+was removed to the hospital at the direction of Dr. Mabry, the evening<lb/>
+of August 25.</p>
+<p>Age: Apparently about 28.</p>
+<p>Nativity: Native Mexican woman of Indian type, but place of<lb/>
+birth and previous residence undetermined. The Doctor was informed<lb/>
+that the woman had been living in the native village close to the camp<lb/>
+about three weeks, having come there from Cierra Azul, where she had<lb/>
+been living prior to that for two months.</p>
+<p>Previous history: Very little definite information had been<lb/>
+obtained as to her previous history. Social condition, unmarried. She<lb/>
+was said to have had children and to have been living irregularly in the<lb/>
+native village. When Dr. Mabry first saw her she made some statement to<lb/>
+the effect that she had been beaten and kicked in the abdomen by some<lb/>
+man with whom she had been living in irregular relations. Later, the<lb/>
+doctor said, she denied that story. She told the nurse that she had<lb/>
+several attacks of abdominal pain with vomiting of blood in the past<lb/>
+three years. She gave an account of having had an attack of peritonites,<lb/>
+three months ago, that is, according to the symptoms she described. Dr.<lb/>
+Mabry first saw the woman in a cantina in the village the evening of the<lb/>
+24th.</p>
+<p>No history of initial chill elicited.</p>
+<p>Present Illness: When the case first came under the observation<lb/>
+of Dr. Mabry the woman had attracted the attention of neighbors on account<lb/>
+of vomiting blood. The history of the duration of the attack varied from<lb/>
+a few hours to several days. When the Doctor first saw her she was having<lb/>
+frequent paroxysms of vomiting. Some of the material ejected was dark red,<lb/>
+conforming to the type of &ldquo;coffee-ground&rdquo; vomitus. At intervals consider-<lb/>
+able quantities of bright red blood came up, apparently unmixed with gas-<lb/>
+tric secretions. Dr. Mabry thought that within 20 minutes she had dis-<lb/>
+gorged over a pint of bloody material. The hemorrhage at that time seemed<lb/>
+to threaten her life immediately. Temperature at 6 P.M. that day 99.8<lb/>
+Pulse 123. The principal complaint of the patient was of severe pain in<lb/>
+the epigastric region, located with maximum intensity in the &ldquo;pit of the<lb/>
+stomach&rdquo;; together with cramps in the calves and arms. The next evening<lb/>
+the patient was brought over to the Pest House and placed under a mosquito<lb/>
+bar with quarantine regulations. The temperature remained about the same.<lb/>
+<pb n="2" id="fC0302038"/>
+- 2 -<lb/>
+Pulse rate 111. After being placed in the Pest House the vomiting<lb/>
+subsided. The patient had not complained of nausea or vomiting after<lb/>
+the evening of the 25th. The temperature was slightly lower, 99.2,<lb/>
+on Sunday morning (the 26th) Pulse rate 107. Continued to complain<lb/>
+of pain in the stomach and pain cramp in the thighs and arms. The<lb/>
+morning temperature Monday, the 27th, was normal. Pulse 103. Evening<lb/>
+temperature 38, pulse 113. The Doctor had been informed of the appear-<lb/>
+ance of blood in the stools early in her illness, but there was no blood<lb/>
+in the stools after she came under the observation of Dr. Mabry.</p>
+<p>Physical Examination. General appearance: Fairly well nour-<lb/>
+ished and moderately well developed young woman of Indian type. She<lb/>
+did not look critically ill on inspection. However, when attempts were<lb/>
+made to question her she appeared mentally clouded, answering incoher-<lb/>
+ently or irrelevantly. When asked if she was suffering pain she in-<lb/>
+variably placed her hand over the epigastric region. On inspection under<lb/>
+electric flash light it was not possible to discover any ichteroid tinge.<lb/>
+Dr. Mabry said that her conjunctivae had been slightly yellow the first<lb/>
+and the second day she was under his observation. The tongue was broad,<lb/>
+unindented by teeth marks, covered with a slight, whitish coat. The tip<lb/>
+and edges were not marked red. There was no marked tremor observed upon<lb/>
+protrusion. The gums were not bleeding. No oosing was observed. To<lb/>
+the finger they did not feel spongy. Dr. Mabry said that the appearance<lb/>
+of the tongue had remained about the same.</p>
+<p>The heart and lungs appeared negative. The abdomen was negative<lb/>
+to inspection. On palpation over the stomach pain was elicited by slight<lb/>
+pressure. The spleen could not be palpated by this examiner (L.C.Smith)<lb/>
+but Dr. Mabry said that the spleen had been palpable. At that time he<lb/>
+said he could feel the edge of the organ under his fingers on deep pal-<lb/>
+pation with the patient turned on the right side. The liver did not<lb/>
+appear definitely enlarged on physical examination. It appeared ample<lb/>
+within normal limits. Dr. Mabry was satisfied that he had detected ten-<lb/>
+derness and increased tensio in the region of the gall bladder. This was<lb/>
+not evident to this examiner. Dr. Mabry reported marked abdominal tym-<lb/>
+panitis, with slight distention, at first.Further physical examination<lb/>
+was generally negative.</p>
+<p>The examination of the urine-August 27-showed a heavy trace of<lb/>
+albumen. Specific gravity 1033. Not reported for casts. Gross appear-<lb/>
+ance of urine decidedly high colored, &ldquo;febrile&rdquo; type. Scanty in quantity.</p>
+<p>The treatment has been wholly symptomatic.</p>
+<p>Conclusion: In the opinion of this examiner this is not a<lb/>
+case of yellow fever.</p>
+<p>------------------------------</p>
+<p>Lucian C. Smith.</p>
+<p>Cop.A V G.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

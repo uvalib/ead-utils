@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="NT000003">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">English translation [from Spanish] of newspaper clipping, [La Discusion], [November 22, 1900] (See Spanish original)</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>NT000003</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-11-22</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1900-11-22">[November 22, 1900]</date>
+<idno rend="suppress">NT000003</idno>
+<title>English translation [from Spanish] of newspaper clipping, [La Discusion], [November 22, 1900] (See Spanish original)</title>
+</bibl>
+</head>
+<p>Horrible...If's it's true!</p>
+</div1>
+</front>
+<body>
+<div1 type="newspaper clipping" n="1900-11-22">
+<head>English translation [from Spanish] of newspaper clipping, [La Discusion], [November 22, 1900] (See <xref id="tN2212002">Spanish original</xref>)</head>
+<pb n="1" id="fN2212002"/>
+<p>HORRIBLE..... IF IT'S TRUE!</p>
+<p>
+Yellow fever transmitted to Spanish immigrants<lb/>
+by mosquitos!</p>
+<p>New details regarding the horrible<lb/>
+experiment to prove the possibility that<lb/>
+yellow fever is transmitted to a person<lb/>
+through mosquito bites - to which we<lb/>
+referred yesterday- have been<lb/>
+communicated to us.</p>
+<p>"The procedure that is employed," writes<lb/>
+an anonymous collaborator, "is not to<lb/>
+release the mentioned insects into the<lb/>
+room where the immigrants sleep."</p>
+<p>They have them in glass tubes,wherein<lb/>
+one of the ends is uncapped, applying<lb/>
+them to the body of someone attacked by<lb/>
+the endemic illness.  As is natural, the<lb/>
+moquito, forcibly, has to bite the patient;<lb/>
+after which the mosquito is again<lb/>
+captured, and after a day has passed, the<lb/>
+same procedure is performed on a<lb/>
+healthy person.  If the healthy person<lb/>
+becomes sick shortly afterwards, the bite<lb/>
+has transmitted the illness.  In the<lb/>
+opposite case, the experiment serves to<lb/>
+show that it is not one of the methods of<lb/>
+infection.</p>
+<p>"Also," continues our anonymous<lb/>
+informant," other methods are<lb/>
+being tested to see how a healthy<lb/>
+man can become infected.  To that<lb/>
+end, immigrants are given-destining<lb/>
+them for their use-the bed clothes<lb/>
+that have served the sick during<lb/>
+the course of their illness.</p>
+<p>"The most unheard of is" -the letter<lb/>
+ends this way- "that in some of the<lb/>
+cases the experiment subjects know<lb/>
+perfectly well that they are the object of<lb/>
+an experiment, though without realizing<lb/>
+that this could cost them their lives; but<lb/>
+they accept it in exchange for the offer<lb/>
+of 100 pesos that is made to them."</p>
+<p>Up to this point the reports that,without a<lb/>
+true guarantee, we receive, we report.</p>
+<p>Our opinion with respect to the act is<lb/>
+already expressed: we hesitate to believe<lb/>
+in its existence; it seems impossible to<lb/>
+us... But it seems impossible at the same<lb/>
+time that it is not proven false through a<lb/>
+scrupulous investigation; and to practice<lb/>
+this arouses the jealousy of the<lb/>
+administrative authorities.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0312016">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Mazyck P. Ravenel to Hugh S. Cumming, October 1, 1925</title>
+<title type="gmd">[electronic resource]</title>
+<author>Ravenel, Mazyck P.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0312016</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1925-10-01</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Cumming, Hugh S.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Nott, Josiah C.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="place">University of Missouri (Columbia, Mo.)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1925-10-01">October 1, 1925</date>
+<idno rend="suppress">C0312016</idno>
+<title>Letter from Mazyck P. Ravenel to Hugh S. Cumming, October 1, 1925</title>
+</bibl>
+</head>
+<p>Ravenel does not agree that Carter's work led Reed to investigate into mosquito transmission of yellow fever, pointing to earlier contributions to the theory by Nott and Finlay.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1925-10-01">
+<head>Letter from Mazyck P. Ravenel to Hugh S. Cumming, October 1, 1925</head>
+<pb n="1" id="fC0312016"/>
+<opener>
+Copy.<lb/>
+University of Missouri<lb/>
+Columbia.<lb/>
+<unclear>Biographic</unclear> (?)<lb/>
+Rio. Ravenel<unclear>,</unclear> M.<lb/>
+<dateline>
+<date value="1925-10-01">October 1, 1925.</date>
+</dateline><lb/>
+Bacteriology and Preventive Medicine.<lb/>
+Surgeon General H. <del>S</del><add>C</add>. Cumming,<lb/>
+U. S. Public Health Service,<lb/>
+Washington, D. C.<lb/>
+<salute>My Dear General Cumming:</salute>
+</opener>
+<p>I am very much obliged to you for the mimeographed copy of the not-<lb/>
+ice concerning Dr. Carter, some of which I am incorporating into a review<lb/>
+of his life already written. I wish I could agree with you that it was Car-<lb/>
+ter's work that led Reed to investigate the mosquito transmission of yel- <add><unclear>!</unclear></add><lb/>
+low fever. It is well known that Nott in 1848 maintained this theory and<lb/>
+thought <del>he</del><add>th</add>at he had proved it. His article was published in the New Or-<lb/>
+leans Medical Journal. It is equally well known that Carlos Finlay held the<lb/>
+same theory, believing that he had proved it, and out of the six or seven<lb/>
+hundred mosquitoes found in Cuba, had selected the correct one. I had a<lb/>
+letter yesterday from Colonel Jefferson R. Kean, in which he says that it<lb/>
+is his recollection that Reed had decided to investigate the question of<lb/>
+mosquito transmission before he left the United States. General Sternberg<lb/>
+authorized him to make this investigation, but told him that he thought it<lb/>
+would be a waste of time.</p>
+<p>I would be the last one to detract from Carter's work, but I am more<lb/>
+interested in the truth of medical history than I am in boosting any one<lb/>
+particular man.</p>
+<closer>
+<salute>With much respect, I am,<lb/>
+Very sincerely yours,</salute>
+<signed>(Signed) Maz&yuml;ck P. Ravenel, M. D.</signed>
+MPR:LP<lb/>
+<unclear>In</unclear><lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

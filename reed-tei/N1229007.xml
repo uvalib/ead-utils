@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N1229007">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, The Washington Post, September 15, 1925</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N1229007</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1925-09-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Carter, Laura Armistead</name>
+<name type="place">Ashland (Va.)</name>
+<name type="place">Cuba</name>
+<name type="place">Peru</name>
+<name type="place">Panama Canal Zone</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1925-09-15">September 15, 1925</date>
+<idno rend="suppress">N1229007</idno>
+<title>Newspaper clipping, The Washington Post, September 15, 1925</title>
+</bibl>
+</head>
+<p>Funeral Services for Dr. H.R. Carter Will Be Tomorrow</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1925-09-15">
+<head>Newspaper clipping, The Washington Post, September 15, 1925</head>
+<pb n="1" id="fN1229007"/>
+<opener>
+3 <unclear>N S</unclear> Health Service<lb/>
+K<lb/>
+<dateline>
+Post<lb/>
+Washington, D. C.<lb/>
+<date value="1925-09-15">SEP 15 1925</date>
+</dateline>
+</opener>
+<p>FUNERAL SERVICES<lb/>
+FOR DR. H. R. CARTER<lb/>
+WILL BE TOMORROW</p>
+<p>------</p>
+<p>Rites to Be Held in Apartment<lb/>
+and St. Margaret's Church;<lb/>
+Interment in Ashland.</p>
+<p>------</p>
+<p>SURGEON GENERAL'S AID<lb/>
+HAD NOTABLE CAREER</p>
+<p>------</p>
+<p>Nominated for Nobel Prize<lb/>
+for Work in Eradicating<lb/>
+Yellow Fever.</p>
+<p>------</p>
+<p>Funeral services will be held at<lb/>
+10 o'clock tomorrow morning for<lb/>
+Dr. Henry R. Carter, assistant sur-<lb/>
+geon general, who died yesterday<lb/>
+morning at the Westmoreland<lb/>
+apartments after a prolonged ill-<lb/>
+ness.</p>
+<p>Services will be held first at his<lb/>
+apartment and then at St. Mar-<lb/>
+garet's church. Archdeacon Ster-<lb/>
+ling Claiborne, of Sewanee, Tenn.,<lb/>
+and the Rev. Herbert Scott Smith,<lb/>
+of St. Margaret's will officiate. The<lb/>
+body will be taken at noon to Ash-<lb/>
+land, Va., for interment.</p>
+<p>Dr. Carter, long identified with<lb/>
+Dr. Walter Reed and Maj. Gen.<lb/>
+Gorgas in fighting yellow fever, was<lb/>
+a native of Virginia and 73 years<lb/>
+old. He entered what is now the<lb/>
+public health service in 1879, serv-<lb/>
+ing as chief quarantine officer for<lb/>
+Cuba and in the same capacity for<lb/>
+the Isthmian canal commission, sub-<lb/>
+sequently becoming director of hos-<lb/>
+pitals for the latter. Variously he<lb/>
+served as sanitary supervisor to the<lb/>
+Peruvian government and as a<lb/>
+member of the yellow fever council<lb/>
+of the international health board of<lb/>
+the Rockefeller foundation.</p>
+<p>Nominated for Nobel Prize.</p>
+<p>Outstanding in his notable career<lb/>
+was the determination of the pe-<lb/>
+riod of extrinsic incubation of yel-<lb/>
+low fever, a foundation on which<lb/>
+Dr. Reed and his commission work-<lb/>
+ed and for which Dr. Carter was<lb/>
+nominated for the Nobel prize.</p>
+<p>Dr. Carter was the founder of<lb/>
+the present maritime quarantine<lb/>
+system and enunciated the prin-<lb/>
+ciples relating to the bearing of the<lb/>
+impounding of great bodies of<lb/>
+water on the production of malaria<lb/>
+and inaugurated control measures<lb/>
+for malaria in the army canton-<lb/>
+ments during the world war.</p>
+<p>Dr. Carter served through many<lb/>
+yellow fever epidemics in the South,<lb/>
+notably that at MacHenry, Miss.,<lb/>
+several years ago. He contributed<lb/>
+freely to medical journals.</p>
+<p>He is survived by two sons, Dr.<lb/>
+Henry R. Carter, jr., of Birming-<lb/>
+ham, Ala.; and Edward Champ<lb/>
+Carter, of Baltimore; a brother,<lb/>
+Charles Harrison Carter, of Port-<lb/>
+land, Oreg., two sisters, Mrs. Nancy<lb/>
+Carter Redd, of Ashland, Va., and<lb/>
+Miss Mary C. Carter, of North<lb/>
+River Plantation, Va., and a daugh-<lb/>
+ter, Miss Laura Carter.</p>
+<p>-----------</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02019001"> 
+<teiHeader type="aacr2"> 
+<fileDesc> 
+<titleStmt> 
+<title type="245">Military Orders regarding the Medical Board, May 24, 1900</title> 
+<title type="gmd">[electronic resource]</title> 
+<author>Corbin, H. C.</author> 
+<respStmt> 
+<resp>Transcriptions and TEI markup</resp> 
+<name>Innodata Inc</name> 
+<resp>Images, project design, and management:</resp> 
+<name>Historical Collections &amp; Services<lb/> 
+Claude Moore Health Sciences Library<lb/> 
+University of Virginia Health System<lb/> 
+P.O. Box 800722<lb/> 
+Charlottesville, VA 22908-0722 
+</name> 
+<resp>TEI consultation:</resp> 
+<name>Electronic Text Center<lb/> 
+University of Virginia Library<lb/> 
+</name> 
+</respStmt> 
+</titleStmt> 
+<extent>ca. 15 kilobytes</extent> 
+<publicationStmt> 
+<publisher>Claude Moore Health Sciences Library of the 
+University of Virginia Health System</publisher> 
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace> 
+<idno>02019001</idno> 
+<availability> 
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p> 
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p> 
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt> 
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection 
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno> 
+</bibl> 
+</sourceDesc> 
+</fileDesc> 
+<profileDesc>
+<creation><date>1900-05-24</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc> 
+<change><date></date> 
+<respStmt><resp></resp> <name></name></respStmt> 
+<item></item></change> 
+</revisionDesc> 
+</teiHeader> 
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Miles, Nelson Appleton</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1900-05-24">May 24, 1900</date>
+<idno rend="suppress">02019001</idno>
+<title>Military Orders regarding the Medical Board, May 24, 1900</title>
+</bibl>
+</head>
+<p>Special Orders #122 establishes the Medical Board, consisting of Reed, Carroll, Lazear, and Agramonte, at Camp Columbia, Cuba for the investigation of infectious diseases. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-05-24">
+<head>Military Orders regarding the Medical Board, May 24, 1900</head>
+<pb n="1" id="f02019001"/>
+<p>THE NATIONAL ARCHIVES OF THE UNITED STATES<lb/>
+<unclear>[unclear]</unclear><lb/>
+*1934*</p>
+<p>THE NATIONAL ARCHIVES<lb/>
+Washington, D. C.</p>
+<p>RECORDS OF THE WAR DEPARTMENT, Office of The Adjutant<lb/>
+General, Document File 463085.</p>
+<p>Three Centimeters</p>
+<p>TO BE RETAINED WITH PAPERS,</p>
+<p>SPECIAL ORDERS,<lb/>
+No. 122.}</p>
+<p>HEADQUARTERS OF THE ARMY,<lb/>
+ADJUTANT GENERAL'S OFFICE,<lb/>
+<hi rend="italic">Washington, May 24, 1900</hi>.</p>
+<p><hi rend="italic">Extract</hi>.</p>
+<p>* * * * * * *</p>
+<p>32. By direction of the Secretary of War, Major <hi rend="italic">Walter Reed</hi>,<lb/>
+surgeon, U. S. Army, and Acting Assistant Surgeon <hi rend="italic">James<lb/>
+Carroll</hi>, U. S. Army, will proceed from this city to New York<lb/>
+City, New York, and report in person to the commanding gen-<lb/>
+eral, Department of the East, for duty. The travel enjoined<lb/>
+is necessary for the public service.</p>
+<p>33. By direction of the Secretary of War, Major <hi rend="italic">Walter<lb/>
+Reed</hi>, surgeon, U. S. Army, and Acting Assistant Surgeon<lb/>
+<hi rend="italic">James Carroll</hi>, U. S. Army, upon completion of the duty as-<lb/>
+signed them by the commanding general, Department of the<lb/>
+East, will proceed to Camp Columbia, Quemados, Cuba, on<lb/>
+official business pertaining to the Medical Department, and<lb/>
+report their arrival and instructions to the commanding gen-<lb/>
+eral, Division of Cuba; the commanding general, Department<lb/>
+of Havana and Pinar del Rio, and the commanding officer,<lb/>
+Camp Columbia. The travel enjoined is necessary for the<lb/>
+public service.</p>
+<p>34. By direction of the Secretary of War, a board of medical<lb/>
+officers is appointed to meet at Camp Columbia, Quemados,<lb/>
+Cuba, for the purpose of pursuing scientific investigations with<lb/>
+reference to the infectious diseases prevalent on the Island of<lb/>
+Cuba.</p>
+<p><hi rend="italic">Detail for the board</hi>.</p>
+<p>Major <hi rend="italic">Walter Reed</hi>, surgeon, U. S. Army;<lb/>
+Acting Assistant Surgeon <hi rend="italic">James Carroll</hi>, U. S. Army;<lb/>
+Acting Assistant Surgeon <hi rend="italic">Aristides Agramonte</hi>, U. S. Army;<lb/>
+Acting Assistant Surgeon <hi rend="italic">Jesse W. Lazear</hi>, U. S. Army.<lb/>
+The board will act under general instructions to be commu-<lb/>
+nicated to Major <hi rend="italic">Reed</hi> by the Surgeon General of the Army.</p>
+<p>BY COMMAND OF MAJOR GENERAL MILES:</p>
+<p>H. C. CORBIN,</p>
+<p><hi rend="italic">Adjutant General</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

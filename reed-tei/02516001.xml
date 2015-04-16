@@ -1,0 +1,435 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY t02516009 SYSTEM "t02516009.jpg" NDATA jpg>
+<!ENTITY t02516010 SYSTEM "t02516010.jpg" NDATA jpg>
+<!ENTITY t02516011 SYSTEM "t02516011.jpg" NDATA jpg>
+<!ENTITY t02516012 SYSTEM "t02516012.jpg" NDATA jpg>]>
+<TEI.2 id="t02516001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from Valery Havard to the Adjutant General, July 22, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Havard, Valery</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02516001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-07-22</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Scott, Hugh L.</name>
+<name type="place">Cabana Barracks (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="hospital">Post Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>11 pp.</extent>
+<date value="1901-07-22">July 22, 1901</date>
+<idno rend="suppress">02516001</idno>
+<title>Report from Valery Havard to the Adjutant General, July 22, 1901</title>
+</bibl>
+</head>
+<p>Havard reports on the health situation of the troops in Cuba for the fiscal year ending June 30, 1901.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1901-07-22">
+<head>Report from Valery Havard to the Adjutant General, July 22, 1901</head>
+<pb n="1" id="f02516001"/>
+<opener>
+22 July 1901<lb/>
+With regards of<lb/>
+V. Havard<lb/>
+See pictures opposite p. 12 &amp; 18<lb/>
+REPORT<lb/>
+OF<lb/>
+MAJOR VALERY HAVARD,<lb/>
+SURGEON U. S. ARMY,<lb/>
+CHIEF SURGEON<lb/>
+DEPARTMENT OF CUBA.<lb/>
+-----<lb/>
+1901.<lb/>
+<pb n="2" id="f02516003"/>
+HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+OFFICE OF CHIEF SURGEON,<lb/>
+<dateline>
+Havana, <date value="1901-07-22">July 22, 1901.</date>
+</dateline><lb/>
+<hi rend="italic">To the<lb/>
+Adjutant General,<lb/>
+Department of Cuba,<lb/>
+Havana, Cuba</hi>.<lb/>
+<salute>SIR:</salute>
+</opener>
+<p>I have the honor to submit the following report of the<lb/>
+operations of this office for the fiscal year ending June<lb/>
+30, 1901.</p>
+<p>The health of the troops in Cuba during the year has<lb/>
+been very good, showing a marked and steady improve-<lb/>
+ment upon former years. Thus, while during the year<lb/>
+ending June 30, 1900, the admissions to the sick report<lb/>
+were 322 per cent., with 1.51 per cent. of deaths, the<lb/>
+admissions during the past year are only 193 per cent.,<lb/>
+with 1.25 per cent. of deaths. Comparing the results<lb/>
+obtained in the appended table for the island of Cuba<lb/>
+with the statistics in the last report of the Surgeon Gen-<lb/>
+eral (calendar year 1899), we find that our ratio of ad-<lb/>
+missions is less than that for all troops outside the Unit-<lb/>
+ed States (252) but more than that for troops stationed<lb/>
+in the United States (168). In like manner, our ratio of<lb/>
+deaths is less than that for all islands (2.55) but more<lb/>
+than that for the United States (0.79). Our mortality<lb/>
+was largely increased by outbreaks of yellow fever, a<lb/>
+disease not likely again to occur among troops in Cuba,<lb/>
+except possibly in a scattering, sporadic manner; if we<lb/>
+deduct the number of yellow fever cases from the total<lb/>
+mortality, we obtain a percentage of 0.80, practically<lb/>
+that of the United States.</p>
+<p>Further comparison furnishes instructive details. In<lb/>
+Cuba, the ratio of admissions for diarrhoeal diseases,<lb/>
+<pb n="3" id="f02516004"/>
+AC<lb/>
+K<lb/>
+4<lb/>
+dysentery, malarial fevers and yellow fever, as should<lb/>
+be expected, is higher than in the United States, but<lb/>
+that of the common infectious diseases, such as scarlet<lb/>
+fever, measles, small-pox, influenza, mumps, diphtheria,<lb/>
+is very much lower, the majority of cases under the<lb/>
+heading of &ldquo;other infectious diseases&rdquo; in our tables<lb/>
+being vaccinia, that is, the condition produced by vacci-<lb/>
+nation. There was not a single case of small-pox during<lb/>
+the year. The ratio of typhoid fever is about one-third<lb/>
+that of the United States, and much greater in western<lb/>
+Cuba, where are the large seaport towns, than in the<lb/>
+eastern part of the island. Strangely enough, tuberculosis<lb/>
+among our troops is more common in Cuba than in the<lb/>
+United States, as 0.44 to 0.32, and about the same as in<lb/>
+all the islands (0.45), which is remarkable in view of<lb/>
+the fact that other diseases of the respiratory system,<lb/>
+such as bronchitis and pneumonia, are almost unknown.<lb/>
+This relative frequency of tuberculosis among soldiers<lb/>
+in Cuba, and its great prevalence among civilians, would<lb/>
+tend to show that a rather high and equable temperature<lb/>
+all the year round is not by itself a factor of great im-<lb/>
+portance in the prevention and cure of that disease.</p>
+<p>Our record for syphilis and other venereal diseases is<lb/>
+bad, being nearly double that of the United States, and<lb/>
+apparently also worse than that for all the islands. This<lb/>
+evil has always been one of the troublesome problems to<lb/>
+confront post surgeons in Cuba and there is no satisfac-<lb/>
+tory solution in sight. About one-eighth of soldiers on<lb/>
+the sick report are victims of it. Were it possible to<lb/>
+examine all prostitutes and subject them to treatment<lb/>
+when necessary, these diseases would be much less<lb/>
+prevalent; but in several garrison towns there is no law<lb/>
+requiring examination, or else it is so loosely applied by<lb/>
+the municipal authorities that it fails of its purpose;<lb/>
+even when applied with ordinary diligence and intelli-<lb/>
+gence it does not reach clandestine prostitution nor the<lb/>
+many women living in a state of concubinage. It has<lb/>
+been proposed to apply the remedy inside instead of<lb/>
+outside, and subject all enlisted men to a weekly<lb/>
+examination, those found diseased being placed under<lb/>
+treatment and debarred from post-exchange and pass<lb/>
+privileges. There is no question as to the excellent results<lb/>
+of this plan wherever put into practice, but the objec-<lb/>
+tions against it are so strong that it never extended<lb/>
+beyond a few posts, and the wisdom and practicability<lb/>
+<pb n="4" id="f02516005"/>
+5<lb/>
+of enforcing it as a general rule is very doubtful. The<lb/>
+ratio of alcoholism is likewise high, at least double that<lb/>
+of the United States. This is, in a large measure, attrib-<lb/>
+utable to the cheap and wretched alcoholic beverages<lb/>
+sold in all parts of the island, especially since the prohi-<lb/>
+bition to sell intoxicating drinks in post-exchanges.</p>
+<p>It is also interesting to compare the western half of the<lb/>
+island, comprising four provinces, with the eastern half<lb/>
+comprising the provinces of Santiago and Puerto Pr&iacute;nci-<lb/>
+pe. In the western half, the mean strength of the com-<lb/>
+mand is 3344 and the percentage of admissions only 150,<lb/>
+<hi rend="italic">which is less than in the United States</hi>. In the eastern half,<lb/>
+on the contrary, with mean strength of 1772, the percen-<lb/>
+tage of admissions is 274, not only more than in the Uni-<lb/>
+ted States but greater than for all the islands. The<lb/>
+difference depends mostly upon the much greater num-<lb/>
+ber of cases of diarhoeal diseases and malarial fever, so<lb/>
+that, after making due allowance for the personal equa-<lb/>
+tion of medical officers and the smaller size of posts, it<lb/>
+is safe to conclude, leaving yellow fever out of consider-<lb/>
+ation, that the eastern half of the island does not enjoy<lb/>
+as good hygienic and climatic conditions as the western<lb/>
+half; thus, five deaths from malarial fever occurred in the<lb/>
+province of Santiago and none in any of the other provin-<lb/>
+ces. In my report for the fiscal year ending June 30,<lb/>
+1900, it was also shown that malarial fever gradually<lb/>
+increased in frequency and severity from the western to<lb/>
+the eastern end of the island.</p>
+<p>The ratio of deaths per 1000 is 13.6 for western and<lb/>
+10.1 for eastern Cuba, a difference due to the 24 cases of<lb/>
+yellow fever occurring in the western provinces; if we<lb/>
+deduct these, the ratio of deaths will be less for the west-<lb/>
+ern than for the eastern provinces.</p>
+<p>With the acquisition of our recent knowledge of the<lb/>
+propagation of malarial fever it may be taken for grant-<lb/>
+ed that this preventable disease will be hereafter greatly<lb/>
+reduced and, at most posts, practically eliminated. As an<lb/>
+instance: For the week ending June 23, 1900, there were<lb/>
+34 cases of malarial fever under treatment at Rowell<lb/>
+Barracks (Cienfuegos); a year afterward, for the week<lb/>
+ending June 22, 1901, chiefly in consequence of sanitary<lb/>
+measures promoted by the post surgeon, Lieut. A. E.<lb/>
+Truby, there was not a single case.</p>
+<pb n="5" id="f02516006"/>
+<p>AC<lb/>
+K</p>
+<p>6</p>
+<p>YELLOW FEVER.</p>
+<p>In my report for the fiscal year ending June, 1900,<lb/>
+I described three outbreaks of yellow fever outside of<lb/>
+Havana, involving American troops: at Santiago de Cu-<lb/>
+ba, Santa Clara and Quemados. That of Santiago ended<lb/>
+in October, 1899, and, thanks to the energetic measures<lb/>
+carried out by the chief surgeon, Major L. C. Carr, not a<lb/>
+single case has occurred since then in that city (troops<lb/>
+and civilian population), although previously strongly<lb/>
+contaminated. The other two outbreaks came to an end<lb/>
+in July, 1900. In June, July and August, 1900, thirty<lb/>
+cases occurred at Pinar del Rio Barracks, with nine<lb/>
+deaths; the first few cases were unrecognized by the sur-<lb/>
+geon and the infection allowed to spread before proper<lb/>
+measures of isolation were taken. Five sporadic cases<lb/>
+occurred at Hamilton Barracks between August and<lb/>
+November, but none was permitted to become a focus of<lb/>
+infection. The last cases recorded among enlisted men<lb/>
+are the nine who were experimentally inoculated by<lb/>
+infected mosquitoes at Quemados in December, January<lb/>
+and February, without a single death. Since then all<lb/>
+our posts have been absolutely free from yellow fever.</p>
+<p>In the summer of 1900, on the recommendation of the<lb/>
+Surgeon General, a board of medical officers consisting<lb/>
+of Surgeon Walter Reed, U. S. A., and Contract Sur-<lb/>
+geons Carroll, Agramonte and Lazear, U. S. A., was<lb/>
+convened in Havana for the investigation of tropical<lb/>
+diseases. The result of its experiments, as already well<lb/>
+known, was one of the most brilliant medical discoveries<lb/>
+of the age, namely the mode of transmission of yellow<lb/>
+fever, and, as a natural consequence, a complete revolu-<lb/>
+tion in the methods adopted to prevent and combat this<lb/>
+disease. The doctrine of the transmission of yellow fever<lb/>
+by the bite of mosquitoes having been proved by incon-<lb/>
+trovertible experiments upon non-immunes, and fomites<lb/>
+proved to be harmless, the following circular, having<lb/>
+received the sanction of the Surgeon General, was pub-<lb/>
+lished:</p>
+<p>CIRCULAR, }<lb/>
+No. 5. }</p>
+<p>HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+<hi rend="italic">Havana, April 27, 1901</hi>.</p>
+<p>Upon the recommendation of the Chief Surgeon of the Depart-<lb/>
+ment, the following instructions are published and will be strictly<lb/>
+enforced at all military posts in this Department:</p>
+<pb n="6" id="f02516007"/>
+<p>7</p>
+<p>The recent experiments made in Havana by the Medical Depart-<lb/>
+ment of the Army having proved that yellow fever, like malarial<lb/>
+fever, is conveyed chiefly, and probably exclusively, by the bite of<lb/>
+infected mosquitoes, important changes in the measures used for<lb/>
+the prevention and treatment of this disease have become neces-<lb/>
+sary.</p>
+<p>1. In order to prevent the breeding of mosquitoes and protect<lb/>
+officers and men against their bites, the provisions of General<lb/>
+Orders No. 6, Department of Cuba, December 21, 1900, shall be<lb/>
+carefully carried out, especially during the summer and fall.</p>
+<p>2. So far as yellow fever is concerned, infection of a room or<lb/>
+building simply means that it contains infected mosquitoes, that<lb/>
+is, mosquitoes which have fed on yellow fever patients. Disinfec-<lb/>
+tion, therefore, means the employment of measures aimed at the<lb/>
+destruction of these mosquitoes. The most effective of these mea-<lb/>
+sures is fumigation, either with sulphur, formaldehyde or insect<lb/>
+powder. The fumes of sulphur are the quickest and most effective<lb/>
+insecticide but are otherwise objectionable. Formaldehyde gas is<lb/>
+quite effective if the infected rooms are kept closed and sealed for<lb/>
+two or three hours. The smoke of insect powder has also been<lb/>
+proved very useful; it readily stupefies mosquitoes, which drop to<lb/>
+the floor and can then be easily destroyed.</p>
+<p>The washing of walls, floors, ceilings and furniture with disin-<lb/>
+fectants is unnecessary.</p>
+<p>3. As it has been demonstrated that yellow fever cannot be<lb/>
+conveyed by fomites, such as bedding, clothing, effects and bag-<lb/>
+gage, they need not be subjected to any special disinfection. Care<lb/>
+should be taken, however, not to remove them from the infected<lb/>
+rooms until after formaldehyde fumigation, so that they may not<lb/>
+harbor infected mosquitoes.</p>
+<p>Medical officers taking care of yellow fever patients need not be<lb/>
+isolated; they can attend other patients and associate with non-<lb/>
+immunes with perfect safety to the garrison. Nurses and attend-<lb/>
+ants taking care of yellow fever patients shall remain isolated, so<lb/>
+as to avoid any possible danger of their conveying mosquitoes<lb/>
+from patients to non immunes.</p>
+<p>4. The infection of mosquitoes is most likely to occur during<lb/>
+the first two or three days of the disease. Ambulant cases, that<lb/>
+is, patients not ill enough to take to their beds and remaining un-<lb/>
+suspected and unprotected, are probably those most responsible<lb/>
+for the spread of the disease. It is therefore essential that all fever<lb/>
+cases should be at once isolated and so protected that no mos-<lb/>
+quitoes can possibly get access to them until the nature of the<lb/>
+fever is positively determined.</p>
+<p>Each post shall have a &ldquo;reception ward&rdquo; for the admission of all<lb/>
+fever cases and an &ldquo;isolation ward&rdquo; for the treatment of cases<lb/>
+which prove to be yellow fever. Each ward shall be made mos-<lb/>
+quito-proof by wire netting over doors and windows, a ceiling of<lb/>
+wire netting at a height of seven feet above the floor, and mos-<lb/>
+quito bars over the beds. There should be no place in it where<lb/>
+mosquitoes can seek refuge, not readily accessible to the nurse.<lb/>
+Both wards can be in the same building, provided they are sepa-<lb/>
+rated by a mosquito-tight partition.</p>
+<p>5. All persons coming from an infected locality to a post shall<lb/>
+be kept under careful observation until the completion of five days<lb/>
+from the time of possible infection, either in a special detention<lb/>
+<pb n="7" id="f02516008"/>
+AC<lb/>
+K<lb/>
+8<lb/>
+camp or in their own quarters; in either case, their temperature<lb/>
+should be taken twice a day during this period of observation so<lb/>
+that those who develop yellow fever may be placed under treat-<lb/>
+ment at the very inception of the disease.</p>
+<p>6. Malarial fever, like yellow fever, is communicated by mos-<lb/>
+quito bites and therefore is just as much of an infectious disease<lb/>
+and requires the same measures of protection against mosquitoes.<lb/>
+On the assumption that mosquitoes remain in the vicinity of their<lb/>
+breeding places, or never travel far, the prevalence of malarial<lb/>
+fever at a post would indicate want of proper care and diligence<lb/>
+on the part of the Surgeon and Commanding Officer in complying<lb/>
+with General Orders No. 6, Department of Cuba, 1900.</p>
+<p>7. Surgeons are again reminded of the absolute necessity, in all<lb/>
+fever cases, to keep, from the very beginning, a complete chart of<lb/>
+pulse and temperature, since such a chart is their best guide to a<lb/>
+correct diagnosis and the proper treatment.</p>
+<p>BY COMMAND OF MAJOR GENERAL WOOD:</p>
+<p>H. L. SCOTT,</p>
+<p><hi rend="italic">Adjutant General</hi>.</p>
+<p>HYGIENE OF POSTS.</p>
+<p>All enlisted men are in comfortable, permanent bar-<lb/>
+racks, with one exception; the cavalry troops at Camp<lb/>
+Mackenzie, Puerto Pr&iacute;ncipe, are still under canvas, but<lb/>
+with the benefit of every improvement that a camp ad-<lb/>
+mits of. Five of our largest posts have been built on new<lb/>
+selected sites since the American intervention, and com-<lb/>
+bine as many favorable hygienic conditions as possible;<lb/>
+the others occupy old Spanish quarters more or less ex-<lb/>
+tended and renovated and answering their purpose very<lb/>
+well. The disposal of garbage and refuse is simple and<lb/>
+effective; most of our posts, being near the shore, dump<lb/>
+everything into the sea; none has a crematory. All the<lb/>
+posts built on new sites (Columbia Brks., Hamilton Brks.,<lb/>
+Rowell Brks., Caba&ntilde;a Brks., Morro Castle Brks., San-<lb/>
+tiago) are provided with modern sewerage with outlet<lb/>
+into the sea. At other posts, the milk of lime and exca-<lb/>
+vator system is successfully employed, while a few still<lb/>
+use the old fashioned latrines.</p>
+<p>The clothing is, in the main, well adapted to the clim-<lb/>
+ate, with the exception of the campaign hat; this should<lb/>
+have an all-round space outside the sweat-band for ven-<lb/>
+tilation and, if possible, be made of rain-proof material.<lb/>
+Since the helmet is impossible in the field, it seems neces-</p>
+<pb n="8" id="f02516009"/>
+<p>MEDICAL OFFICERS' QUARTERS, POST HOSPITAL, U. S. A., COLUMBIA BARRACKS, (HAVANA).</p>
+<pb n="9" id="f02516010"/>
+<p>WARDS AND OPERATING ROOM, POST HOSPITAL, U. S. A., COLUMBIA BARRACKS (HAVANA).</p>
+<pb n="10" id="f02516011"/>
+<p>Frame of wire cage, with vestibule, used<lb/>
+at posts to protect fever patients from mosquitoes.</p>
+<pb n="11" id="f02516012"/>
+<p>POST HOSPITAL, U. S. A., CABA&Ntilde;A BARRACKS, (HAVANA).</p>
+<closer></closer>
+</div1>
+</body>
+</text>
+</TEI.2>

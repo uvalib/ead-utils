@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02239001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Leonard Wood to the Adjutant General, December 13, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Wood, Leonard</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02239001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-12-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Adjutant General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1900-12-13">December 13, 1900</date>
+<idno rend="suppress">02239001</idno>
+<title>Letter from Leonard Wood to the Adjutant General, December 13, 1900</title>
+</bibl>
+</head>
+<p>Wood explains that Cuba is largely free from epidemic or contagious diseases and he suggests that commercial relations to be resumed with the island. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1900-12-13">
+<head>Letter from Leonard Wood to the Adjutant General, December 13, 1900</head>
+<pb n="1" id="f02239001"/>
+<opener>
+File<lb/>
+FROM THE NATIONAL ARCHIVES<lb/>
+HEADQUARTERS<lb/>
+DEPARTMENT OF CUBA<lb/>
+HAVANA<lb/>
+<dateline>
+<date value="1900-12-13">DECEMBER 13, 1900.</date>
+</dateline><lb/>
+The Adjutant General,<lb/>
+U. S. ARMY,<lb/>
+Washington.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>I desire to invite your attention to the sani-<lb/>
+tary situation now existing in Cuba in order that general pub-<lb/>
+lic opinion in the United States may be corrected. The island<lb/>
+is, as a whole, free from epidemic or contagious diseases at<lb/>
+present with the sole exception of Havana where there still<lb/>
+remain a few cases of yellow fever, though not enough to re-<lb/>
+ceive serious consideration. The total death rate from all<lb/>
+causes in the City of Havana for the month of November was the<lb/>
+lowest of any month, without regard to season, for the past<lb/>
+ten years. Inasmuch as apprehensions arising out of the yel-<lb/>
+low fever situation of the past summer still remain, it may be<lb/>
+advisable to give this subject general publication, in order<lb/>
+that full commercial and other relations with the island may be<lb/>
+resumed.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>Leonard Wood</signed>
+MAJOR GENERAL,<lb/>
+Commanding.<lb/>
+<unclear>Backreturned</unclear><lb/>
+Dec. 21, 1900<lb/>
+<hi>File &check;</hi>
+<unclear>[unclear] DIV.</unclear><lb/>
+REC'D<lb/>
+DEC 24<lb/>
+1900<lb/>
+<unclear>A.</unclear> G. O.<lb/>
+<seg>
+<pb n="2" id="f02239002"/>
+OFFICE OF ADJUTANT GENERAL<lb/>
+<unclear>[unclear]</unclear><lb/>
+WAR DEPARTMENT<lb/>
+G.W.R.<lb/>
+Filed with 341837 AGO<lb/>
+Havana, Cuba.<lb/>
+Dec. 13th 1900<lb/>
+Commanding General.<lb/>
+Dept. of Cuba.<lb/>
+States that Cuba, as a whole,<lb/>
+is free from epidemic or con-<lb/>
+tagious deseases, with the sole<lb/>
+exception of Havana, where there<lb/>
+still remains a few cases of<lb/>
+yellow fever. Total death rate<lb/>
+from all causes in Havana is less<lb/>
+than is has been for ten years.<lb/>
+Suggests general publication of<lb/>
+this subject in order that full<lb/>
+commercial and other relations<lb/>
+with the Island may be resumed.<lb/>
+M &amp; R. Div., A. G. O.<lb/>
+<unclear>[unclear]</unclear><lb/>
+DEC<lb/>
+28<lb/>
+1900<lb/>
+<unclear>[unclear]</unclear><lb/>
+<unclear>[unclear]</unclear><lb/>
+352040<lb/>
+348044<unclear>[unclear]</unclear><lb/>
+REC'D <unclear>A. G. O.</unclear> DEC 18 1900</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

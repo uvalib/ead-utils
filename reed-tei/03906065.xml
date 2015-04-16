@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03906065">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from George A. Kellogg to W.H. Hoffmann, January 20, 1942</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Kellogg, George A</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03906065</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1942-01-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Hoffmann, W.H.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1942-01-20">January 20, 1942</date>
+<idno rend="suppress">03906065</idno>
+<title>Letter from George A. Kellogg to W.H. Hoffmann, January 20, 1942</title>
+</bibl>
+</head>
+<p>Kellogg sends Hoffmann reprints of the painting, "Conquerors of Yellow Fever."</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1942-01-20">
+<head>Letter from George A. Kellogg to W.H. Hoffmann, January 20, 1942</head>
+<pb n="1" id="f03906065"/>
+<opener>
+<dateline>
+<date value="1942-01-20">January 20, 1942</date>
+</dateline>
+Prof. W. H. Hoffmann, M.D.<lb/>
+Director of The Finlay Institute<lb/>
+<unclear>Cerro</unclear> 1381<lb/>
+Habana, Cuba<lb/>
+<salute>Dear Dr. Hoffmann</salute>
+</opener>
+<p>As I told you in my letter of December<lb/>
+15, we were having a new run of the insert carrying the<lb/>
+picture &ldquo;Conquerors of Yellow Fever&rdquo; which ran in the<lb/>
+JOURNAL of the AMERICAN MEDICAL ASSOCIATION. This is<lb/>
+now off the press and I am sending two hundred (200)<lb/>
+copies for you in <unclear>care</unclear> of our distributors in Cuba,<lb/>
+Bestov Products. Our Mr. Federico Gomez will deliver<lb/>
+them to you personally. Our reason for shipping them<lb/>
+to Bestov is that we feel that they will go through the<lb/>
+customs more rapidly.</p>
+<p>I am much interested in your letter of<lb/>
+January 15 and hope that the pictures which we are send-<lb/>
+ing may be of value to you in your work.</p>
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>George A: Kellogg</signed>
+GAK:L<lb/>
+copy to Dr. P.S. Hench<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

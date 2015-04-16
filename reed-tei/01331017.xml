@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01331017">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Cablegram from Henry Rose Carter to the International Health Board, [19--]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01331017</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Hanson, Henry</name>
+<name type="place">Lambayeque (Peru)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">01331017</idno>
+<title>Cablegram from Henry Rose Carter to the International Health Board, [19--]</title>
+</bibl>
+</head>
+<p>Carter informs the Board that yellow fever has broken out in Peru and the Peruvian government is seeking help. Carter offers to stay, but will be unable to do field work.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Cablegram from Henry Rose Carter to the International Health Board, [19--]</head>
+<pb n="1" id="f01331017"/>
+<opener>
+<hi><unclear>Paralos Archivas</unclear></hi><lb/>
+<hi>Cablegram.</hi><lb/>
+<salute>Interconational Health Board.</salute>
+(Cable address: INTERCOM NEW YORK)<lb/>
+<unclear>Intercom:<lb/>
+New york,</unclear><lb/>
+</opener>
+<p>FEVER IN SEVERAL TOWNS DEPARTMENT LAMBAYEQUE OF SOME MONTHS<lb/>
+DURATION STOP STEGOMYA NUMEROUS EVERYWHERE UNLESS CONTROLLED WILL<lb/>
+SPREAD SOUTH INTO LIBERTAD AND BEYOND STOP CONTROLLABLE NOW WORK<lb/>
+UNDER WAY STOP PRESIDENT WOULD WELCOME ASSISTANCE AND WOULD LIKE TO<lb/>
+KNOW DETAILS/STOP I HAD NOT PURPOSED REMAINING BUT WILL IF<lb/>
+
+ESSENTIAL TO SECURE YOUR AID STOP AM UNFIT FOR FURTHER FIELD<lb/>
+DIRECT<lb/>
+SERVICE STOP HANSON ENTIRELY COMPETENT WILL BE IN ABSOLUTE CHARGE<lb/>
+OF EPIDEMIC AND WILL REMAIN IN FIELD STOP CABLE IF I SHOULD STAY<lb/>
+OTHERWISE SAIL MARCH EIGHT CAN REMAIN LONGER WITH LITTLE<lb/>
+INCONVENIENCE IF DESIRED.</p>
+<closer>
+<signed>CARTER</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

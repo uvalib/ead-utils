@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N2653002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, [1902?]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N2653002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1902-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Boards_of_Health"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="newspaper">YES</term>
+<name type="place">Cuba</name>
+<name type="place">United States</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping, [1902?]</abbr>
+<extent>1 pp.</extent>
+<idno rend="suppress">N2653002</idno>
+<title>Newspaper clipping, [1902?]</title>
+</bibl>
+</head>
+<p>Conquest Of Yellow Five</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1902-00-00">
+<head>Newspaper clipping</head>
+<pb n="1" id="fN2653002"/>
+<p>Conquest of Yellow Five.</p>
+<p>By patient, scientific research they have ascer-<lb/>
+tained the causes of yellow fever, and by good ad-<lb/>
+ministration have put an end to that most dreadful<lb/>
+disease, which has long destroyed the lives and<lb/>
+hindered the commercial prosperity of the Cubans.<lb/>
+They have expedited justice and secured protection<lb/>
+for the rights of the innocent, while they have<lb/>
+cleansed the prisons and established sound disci-<lb/>
+pline and healthful conditions for the punishment<lb/>
+of the guilty. They have re-established and reno-<lb/>
+vated and put upon a substantial basis adequate<lb/>
+hospitals and asylums for the care of the unfor-<lb/>
+tunate. They have established a general system of<lb/>
+free common schools throughout the island, in which<lb/>
+over 200,000 children are in actual attendance. They<lb/>
+have constructed great and necessary public works.<lb/>
+They have gradually trained the Cubans themselves<lb/>
+in all branches of administration, so that the new<lb/>
+government, upon assuming power, has begun its<lb/>
+work with an experienced force of Cuban civil serv-<lb/>
+ice employes competent to execute its orders. They<lb/>
+have borne themselves with dignity and self-control,<lb/>
+so that nearly four years of military occupation<lb/>
+have passed unmarred by injury or insult to man or<lb/>
+woman. They have transferred the Government of<lb/>
+Cuba to the Cuban people amid universal expres-<lb/>
+sions of friendship and good will, and have left a<lb/>
+record of ordered justice and liberty, of rapid im-<lb/>
+provement in material and moral conditions and<lb/>
+progress in the art of government which reflects<lb/>
+great credit upon the people of the United States.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

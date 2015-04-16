@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00818056">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report fragment: Results of [sic] Blood Examinations Hattiesburg [sic], Miss., [1918]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00818056</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1918-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Hattiesburg (Miss.)</name>
+<name type="place">Panama</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1918-00-00">[1918]</date>
+<idno rend="suppress">00818056</idno>
+<title>Report fragment: Results of [sic] Blood Examinations Hattiesburg [sic], Miss., [1918]</title>
+</bibl>
+</head>
+<p>This report records blood examinations in Mississippi.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1918-00-00">
+<head>Report fragment: Results of [sic] Blood Examinations Hattiesburg [sic], Miss., [1918]</head>
+<pb n="1" id="f00818056"/>
+<opener>
+Results od Blood Examinations<lb/>
+Hattisesburg Miss.<lb/>
+</opener>
+<p>Examinations of the blood of the same people<lb/>
+(1) in the Spring of 1918<lb/>
+(2) in the fall of 1918<lb/>
+<table rows='10' cols='3'>
+<row>
+<cell>Results of<lb/>
+1st<lb/>
+examination</cell><cell>Results of<lb/>
+2nd<lb/>
+examination</cell><cell>Number of<lb/>
+such<lb/>
+changes</cell></row>
+<row>
+<cell>EA</cell><cell>EA</cell><cell>11</cell></row>
+<row>
+<cell>EA</cell><cell>T</cell><cell>0</cell></row>
+<row>
+<cell>EA</cell><cell>neg</cell><cell>63</cell></row>
+<row>
+<cell>T</cell><cell>T</cell><cell>2</cell></row>
+<row>
+<cell>T</cell><cell>EA</cell><cell>4</cell></row>
+<row>
+<cell>T</cell><cell>neg</cell><cell>41</cell></row>
+<row>
+<cell>neg</cell><cell>neg</cell><cell>173</cell></row>
+<row>
+<cell>neg</cell><cell>EA</cell><cell>19</cell></row>
+<row>
+<cell>neg</cell><cell>T</cell><cell>12</cell></row>
+</table>
+</p>
+<p>Total no. of original infections<lb/>
+EA 74<lb/>
+T 47<lb/>
+_____<lb/>
+121<lb/>
+Total no of final infections<lb/>
+EA <del><unclear></unclear></del> 34<lb/>
+T 14<lb/>
+_____<lb/>
+48<lb/>
+Total no. of cures<lb/>
+EA 63 53<lb/>
+T 41 12<lb/>
+_____<lb/>
+104<lb/>
+Percent of cures 104/121 or 86.0%</p>
+</div1>
+</body>
+</text>
+</TEI.2>

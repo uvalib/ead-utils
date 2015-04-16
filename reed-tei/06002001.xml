@@ -1,0 +1,1161 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t06002001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Interview of Gustaf E. Lambert by Philip Showalter Hench, June 21, 1946</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06002001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1946-06-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Ames, Roger Post</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Morris, John S.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Graham, [s.n.]</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Peterson, Matthew</name>
+<name type="person">Peterson, Mrs.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Cartwright, George</name>
+<name type="person">Hepburn, Captain</name>
+<name type="person">O'Reilly, Robert M.</name>
+<name type="person">Amador, R. A.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Gillan, Mrs.</name>
+<name type="person">Cook, Lottie</name>
+<name type="person">Edwards, Major</name>
+<name type="person">Carroll, James</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Martinez, Jose</name>
+<name type="person">Ryan, [s.n.]</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Albertini, A. Diaz</name>
+<name type="person">Finlay, Carlos</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Brumby, Dr.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Schwieger, John D.</name>
+<name type="person">Page, Capt.</name>
+<name type="person">McCord, Miss</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Reed, [Blossom] Emilie M.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+<name type="hospital">Military Hospital No. 1 (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>25 pp.</extent>
+<date value="1946-06-21">June 21, 1946</date>
+<idno rend="suppress">06002001</idno>
+<title>Interview of Gustaf E. Lambert by Philip Showalter Hench, June 21, 1946</title>
+</bibl>
+</head>
+<p>Hench interviews Lambert regarding his participation in the care of the yellow fever patients at Camp Lazear. He poses questions concerning buildings at the site as well as people involved in the yellow fever experiments. Lambert believes that Ames should be included on the Roll of Honor.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1946-06-21">
+<head>Interview of Gustaf E. Lambert by Philip Showalter Hench, June 21, 1946</head>
+<pb n="1" id="f06002001"/>
+<opener>
+Notes in ink by <unclear>A. E Truby.</unclear><lb/>
+Truby comments = T<lb/>
+Keans " = K<lb/>
+In Rochester<lb/>
+<dateline>
+<date value="1946-06-21">June 21, 1946</date>
+</dateline>
+</opener>
+<p>
+<list type="simple">
+<head>INTERVIEW BETWEEN DR. P. S. HENCH AND GUSTAF E. LAMBERT</head>
+<item>Question: What is your new address?</item>
+<item>Answer: 8009 Avalon Avenue Chicago 19, Illinois.</item>
+<item>Q. What is your entire name?</item>
+<item>A. Gustaf E. Lambert but I go by Gust Lambert.</item>
+<item>Q. Why did you come to visit me?</item>
+<item>A. In the interest of my friend, Doctor Ames. I want you to have a copy of<lb/>
+special order 83.</item>
+<item>Q. Where did you get this?</item>
+<item>A. Doctor Brumby sent it to me. He is a physician in Houston, Texas who has<lb/>
+practiced medicine for over fifty years. His connection with Ames is that<lb/>
+of being a boyfriend. The two graduated together. Brumby and Ames<lb/>
+started with the Fourth Texas regiment possibly Company D and they were<lb/>
+&ldquo;immunes&rdquo;.</item>
+<item>Q. Why were they called such?</item>
+<item>A. I don't know. They were kept in this country because they had a lot of<lb/>
+typhoid.</item>
+<item>Q. I read over special order No. 83 where in paragraph two <del><unclear>where</unclear></del> Dr. Ames<lb/>
+was ordered for temporary duty with Walter Reed. Now does that, in your<lb/>
+opinion necessarily mean that Doctor Ames became an official member of the<lb/>
+Commission?</item>
+<item>No. It took a<lb/>
+<unclear>War Dept order</unclear><lb/>
+to do that</item>
+<item>A. Of course. He took the part of Lazear.</item>
+<item>Q. In one of the paragraphs of this special order it also assigns Morris and<lb/>
+Kissinger for temporary duty with Reed. That doesn't make them members of<lb/>
+the board.</item>
+<item>working around the <unclear>camp</unclear></item>
+<item>A. Not Morris. There might have been eight or ten men. Morris might have been<lb/>
+working around the camp and so on, but Forbes and Kissinger did (get on the<lb/>
+board?)</item>
+<item>Q. But they were not considered members of the Commission. <add>Answer Ames</add> <del>Forbes</del> took the<lb/>
+part of Lazear; he fed the mosquitoes in the <unclear>post</unclear> house, in the little<lb/>
+buildings across <del>from</del> the tracks. (railroad tracks)</item>
+<item>Q. Tell me the story that you told me yesterday about <del>Mr</del><add>Gen</add>. Kean's illness.</item>
+<item>the Y F <unclear>huts</unclear></item>
+<item>A. We had two patients coming; in here.--the first two that <unclear>come</unclear> in there were<lb/>
+packmaster Graham and his wife. That is when Ames asked me to go in there.</item>
+<item>Q. Before that, where did they take care of the yellow fever patients?</item>
+<pb n="2" id="f06002002"/>
+<item>Gen Truby. <unclear>This</unclear> was copied hastily to get it<lb/>
+done today before I left. It is also very<lb/>
+hastily corrected by me. Lambert hasn't<lb/>
+seen it since it was typed.</item>
+<item>Please look it over. Much of it is<lb/>
+irrelevant &amp; useless. Some of it is<lb/>
+interesting. Of course Lambert <unclear>isn't</unclear><lb/>
+<hi>only</hi> interested in Ames' memory.<lb/>
+He is quietly <unclear>hoping</unclear> to get special<lb/>
+consideration for <unclear>himself,</unclear> <hi>But</hi> I'm<lb/>
+<unclear>convinced</unclear> he <hi>thinks</hi> he is waging<lb/>
+a <unclear>holy</unclear> war for <hi>Ames</hi>. He is 90% sincere</item>
+<item>P S H</item>
+<pb n="3" id="f06002003"/>
+<item>Dr. P. S. Hench 2</item>
+<item>A. I can point that out in <del>your</del><add>Gen. Truby's</add> book. Find the drawing of the camp. This building<lb/>
+here in this end of the ward is called the officers' ward. ((Mr. Lambert pointed<lb/>
+out the southern end of the <del>camp at a</del> building between No. 92 and 93 in picture<lb/>
+10 facing page 51 in Truby's book))</item>
+<item>Q. What happened there?</item>
+<item>A. Major Peterson was taken to Los Animas Hospital and when he died, Mrs. Peterson<lb/>
+committed suicide. Cartwright, I think, was taken care of in the officers' ward<lb/>
+there. Then Capt. Stark said he was afraid that there would be too much yellow<lb/>
+fever in the camp if they kept these patients in the officers' ward, so we set<lb/>
+up the pest house across the railroad tracks. This is shown in General Truby's<lb/>
+book in figure 10, buildings 113, 114, 115, 116. This was done on the 8th or 10th<lb/>
+of June, 1900.</item>
+<item>(see<lb/>
+above)</item>
+<item>No Y. F. cases<lb/>
+were ever kept<lb/>
+in the main<lb/>
+hospital<lb/>
+T</item>
+<item>Q. What is the pest house?</item>
+<item>#113-114</item>
+<item><p>A. It was composed of four little buildings. These buildings were 7 x 9 feet. The<lb/>
+other four buildings shown in this figure 10, buildings 117, 118, 119. 120 were not<lb/>
+June 1900<lb/>
+there at that time. I could not have been there for 8 1/2 months without knowing<lb/>
+that there were only four buildings. Then when Graham and his wife got well,<lb/>
+Signal<lb/>
+(they were taken care of in 114) Major Kean and Capt. Hepburn, an ordinance officer,<lb/>
+came in with yellow fever. <del>Capt. Hepburn</del><add>Kean</add> came in in the forenoon and <del>Kean</del> at<lb/>
+night. They were <unclear>placed</unclear> in building 114 and buildings 113, <del>114</del><add>115</add>, and 116 were so<lb/>
+full of cobwebs for we had not yet cleaned them up. When Major Kean came in,<lb/>
+Doctor Ames started in with the medicine, which consisted of five doses of <unclear>calomel</unclear><lb/>
+and a good <unclear><del></del></unclear> dose of epsom salts (this was given to everyone who had yellow fever)<lb/>
+This cleaned them out completely. Major Kean did not like the medicine and wanted<lb/>
+something else, but Ames wanted his own way about it. There was a little trouble and<lb/>
+argumentation. Kean took the medicine. The next morning I gave Major Kean his<lb/>
+bath, his being the senior officer, I started with him, and also being the first<lb/>
+i e ahead of Hepburn<lb/>
+to come. Gave him clean linen also. After he was cleaned up and fixed up I took<lb/>
+his pulse and temperature. After I counted the pulse, he laid his hand down on the<lb/>
+<pb n="4" id="f06002004"/>
+Dr. P. S. Hench 3<lb/>
+bed and he took the thermometer out of his mouth and said, &ldquo;What's my pulse?&rdquo;<lb/>
+I didn't answer, but said, &ldquo;How do you expect me to take your temperature if<lb/>
+you take the thermometer out of your mouth?&rdquo; So I took the thermometer out<lb/>
+of his hand and put it back in his mouth. He did not say anything because he<lb/>
+couldn't with the <del>glass</del><add>thermometer</add> in his mouth; he gave me an awful look. Then when<lb/>
+the thermometer had registered, I took it out and read it and put it back into<lb/>
+the water glass. At this point, he said, &ldquo;Give me that <del>glass</del><add>thermometer</add>!&rdquo; Him being<lb/>
+an officer and chief surgeon, I was afraid and uncertain what to do, but I<lb/>
+shook the thermometer down and handed it to him. He got very angry and I thought<lb/>
+that he was going to climb out of bed. &ldquo;Don't you know who I am?&rdquo; &ldquo;Yes, I<lb/>
+know who you are, but I am not here to take orders, I'm here to take care of<lb/>
+you. I have to follow the orders of Doctor Ames.&rdquo; So he said, &ldquo;Why, you are<lb/>
+the most insolent man I have ever seen!&rdquo; Well, I was a young man. I don't<lb/>
+think it was necessary that I had to take anything, so I said, &ldquo;That is what<lb/>
+you think, Major<unclear>.</unclear> <del>you go and tell the doctor</del>.&rdquo; He wanted to see Doctor Ames<lb/>
+at once, but I told him that I couldn't go out <add>to get him</add> now because we were quarantined,<lb/>
+and also that a <hi>cavalry guard</hi> was watching the camp so as to inforce the<lb/>
+quarantine.</p>
+<p>He has changed<lb/>
+his mind Since<lb/>
+he <unclear>O.K'ed</unclear> my<lb/>
+<unclear>description</unclear><lb/>
+T</p>
+<p>I doubt if<lb/>
+Gen Kean made<lb/>
+any trouble.<lb/>
+He was not very<lb/>
+sick T</p>
+<p><unclear>Bunk</unclear><lb/>
+T</p>
+<p>Later on in the morning when Doctor Ames came down, I told him that the<lb/>
+&ldquo;big boss&rdquo; wanted to see him, meaning Kean. The doctor went in <del>and shut the<lb/>
+door</del>. &ldquo;Who is this fellow you have taking care of me?&rdquo; he said (Kean).<lb/>
+Ames replied, &ldquo;Why that is the best yellow fever nurse in Cuba,&rdquo; (that is just<lb/>
+the words he used). &ldquo;Send him away at once and get someone else to take care<lb/>
+of me,&rdquo; said Kean. Dr. Ames said, &ldquo;No. Lambert has worked for me a year and<lb/>
+a half and I have confidence in him, and what I tell him to give, he will<lb/>
+give, and what I tell him to withhold, it will <add>also</add> be withheld. He is the best<lb/>
+nurse I have got. I say now, forget for a short time that you are a chief<lb/>
+surgeon and remember that you are a patient. When you get well, we will both<lb/>
+stand at attention and salute you as chief surgeon, but right now I am in charge.&rdquo;<lb/>
+<pb n="5" id="f06002005"/>
+Dr. Hench 4<lb/>
+Dr. Ames never gave Kean another chance to say a word and just walked away,<lb/>
+never stopping to ask what had happened.</p>
+<p><unclear><hi>Absurd</hi></unclear><lb/>
+T</p></item>
+<item>Q. Did <add>Major</add> Kean &ldquo;behave&rdquo; after that?</item>
+<item>A. There was a little feeling. You couldn't blame the man; the place was nothing<lb/>
+but a shack. I never had <add>time</add> to wash the floor <add>properly</add>, just throw some water across it.<lb/>
+The door was only a board one, and the whole thing was just like a little barn.<lb/>
+I guess he felt that he was a chief surgeon and should have been in better<lb/>
+quarters.</item>
+<item>none <unclear>whatever</unclear><lb/>
+<unclear>k K -</unclear></item>
+<item>Q. Don't you think that Major Kean might have made these remarks without realizing<lb/>
+what he was saying? He might have been delirious at the time.</item>
+<item>A. No, he wasn't delirious, but Major Kean was chief surgeon and I suppose that<lb/>
+he thought everyone should be jumping around his bed<del>, and everyone</del><add>when he</add> was sick.<lb/>
+There shouldn't have been any complaint. I took care of Col. O'Reiley (sp?)<lb/>
+(Surgeon General?)<lb/>
+who later became chief surgeon. He was a very nice patient and did everything<lb/>
+that Doctor Ames asked him to do. (This was when I was in Military Hospital<lb/>
+No. 1 in 1899.) I nursed typhoid for a long time for the Red Cross, but when<lb/>
+<del>a</del><add><unclear>the</unclear></add> man <add>(<unclear>Stewart Pike</unclear>, in charge of the <unclear>Dept</unclear>)</add> got yellow fever, he was scared and afraid. Ames was the same way. He<lb/>
+wouldn't take the same medicine, and I had to tell him, "Doctor, so help me<lb/>
+heavens, I'll tie you down and make you take it.</item>
+<item>Q. In other words, patients with yellow fever were very nervous and irritable?<lb/>
+<add>you say that</add> their eyes glared <del>etc?</del> and they were excited? On the basis of this, don't you<lb/>
+think we can excuse Major Kean?</item>
+<item>A. That might be, but why should he punish the man who took care of him?</item>
+<item>Q. What do you mean by that?</item>
+<item>A. Why was Dr. Ames sent away later from the best post in Cuba, Camp Columbia,<lb/>
+and sent up to <unclear>Piro</unclear> Technica (           ) away from everybody? And why should<lb/>
+I be sent away from Quemados after fifteen months' work and sent away with an<lb/>
+absolutely blank descriptive list? Surely there should have been something on<lb/>
+my list, for as a man told me when I reported at the Military Supply depot<lb/>
+at Piro Technica, Havana, that in 30 years <add>service</add> my descriptive list was the worst<lb/>
+he had ever seen.</item>
+<item>K<lb/>
+I have no knowledge<lb/>
+of any of this-<lb/>
+was on other duty<lb/>
+<unclear>when these changes</unclear><lb/>
+were made-<lb/>
+K-</item>
+<pb n="6" id="f06002006"/>
+<item>Dr. P. S. Hench 5</item>
+<item>Q. Why did a blank descriptive list mean something bad?</item>
+<item>A. <add>It meant that</add> I was not worth anything. If I had been in the guard house, they would have<lb/>
+put that on my record. If they just had put something on it like--he is sober,<lb/>
+the man is willing to work.</item>
+<item>Q. What do you mean by descriptive list<unclear>??</unclear> Is that the same as service record?</item>
+<item>A. Yes, that is part of Ames's descriptive list 83 (pointing to paper on desk)</item>
+<item>Q. How soon after this was Ames transferred to Piro Technica (       )?</item>
+<item>A. As a matter of fact, he was not transferred to Piro Technica (        ) for a<lb/>
+few months, not until he had finished all the work with the patients with<lb/>
+experimental yellow fever. I know he wasn't because he was the best yellow<lb/>
+fever doctor to be had. He was transferred on Major Kean's recommendation.</item>
+<item>K<lb/>
+<hi>not true</hi></item>
+<item><unclear>All bank</unclear><lb/>
+T</item>
+<item>Q. Then if he wasn't transferred away until the work was done, perhaps his <unclear>transfer</unclear><lb/>
+was just in the nature <add>of things and because</add> <del>that</del> he was needed somewhere else, and possibly it was<lb/>
+time for him to receive another assignment. What evidence do you have that<lb/>
+Major Kean had anything to do with this?</item>
+<item>Kean was not Chief Surgeon when these changes were made<lb/>
+<unclear>K K</unclear></item>
+<item>A. He was chief surgeon. I consider it as a punishment because, take Dr. Amabor<lb/>
+for example, and Dr. Stark, they were not considered as good as Ames <add><unclear>work Y. F</unclear></add>, and<lb/>
+why didn't they send <del>one of them?</del><add>Amador or Cooke?</add> or even one of the younger officers <del>on</del><add>to</add> this<lb/>
+relatively unimportant post instead of Doctor Ames?</item>
+<item>Q. Apparently you consider that it was a punishment for Ames, punishment for the<lb/>
+back-talk he gave Major Kean when he was sick. <del>Why</del> <unclear>Did</unclear><del><unclear>not</unclear></del> Ames object to going<lb/>
+to this new post?</item>
+<item>A. Ames never said anything<unclear>;</unclear> he wasn't very talkative at all. He wasn't afraid<lb/>
+of work. I think it was done in punishment; I can't help thinking so. I was<lb/>
+transferred away from the yellow fever experiment to do some sort of work<lb/>
+March 2, 1901. <add>At first (meaning early in the Y F epidemic of 1960)</add> We hauled all the bed clothes out and burned everything when<lb/>
+they moved away. Then <add>(later on in the <unclear>winter</unclear> <del><unclear>as</unclear></del> of 1900 &amp; spring 1901</add> we saved some when <del><unclear>than</unclear></del><add>they</add> found that it wasn't (the<lb/>
+yellow fever) caused by contact with clothing. All the stuff from Camp Lazear<lb/>
+<pb n="7" id="f06002007"/>
+Hench 6<lb/>
+was taken to a disinfecting camp. This was the second of March when I started<lb/>
+<unclear>11</unclear> (the bedding and soldiers clothing from the yellow fever hospital)<lb/>
+to haul it up. (1901). I did not go to Camp Lazear; this bedding and so forth<lb/>
+was brought in from Camp Lazear and I took the material to the disinfecting<lb/>
+plant. I wasn't transferred until <del>near the end of</del><add>about</add> August, <add>7</add> '01.</item>
+<item>Q. If you were not transferred until then, why do you think your transfer represented<lb/>
+punishment?</item>
+<item>A. There was not a call before that time. I was the first one to be sent away.</item>
+<item>Q. What were you doing between March 2 <add>1901</add> after the experiments were over and August<lb/>
+when you were transferred? from Camp Columbia</item>
+<item>A. I was operated on and did fatigue work; I was only on the ward once <del><unclear>and then</unclear></del><lb/>
+? from<lb/>
+to guard two prisoners, at Pinar del Rio, and I was put on there at night<lb/>
+See L's letter<lb/>
+<hi>to watch them</hi>. One was a &ldquo;lifer&rdquo; and one had two years. They were taken to the<lb/>
+guard house and got away. I didn't know that they were prisoners, and I was<lb/>
+on the night duty at the hospital; no one told me that they were two prisoners.<lb/>
+at 12 o'clock the man at the other end called me etc. etc. (this to be omitted).</item>
+<item>Q. Why do you think that you were punished, and why do you think it was <add>Maj</add> Kean's fault?</item>
+<item>A. He is the only one who could do it. All orders came to the headquarters and<lb/>
+he was the commanding officer. He was temporarily <del>chief</del> surgeon <add>of the Post</add> and Chief<lb/>
+Surgeon <add>of the <unclear>Division</unclear></add> at the same time there <unclear><del>at</del></unclear>.</item>
+<item><hi>Not true</hi><lb/>
+K</item>
+<item>Q. In one of our former interviews, Mr. Lambert, you drew me a map with the little<lb/>
+1-2-3-4<lb/>
+hospital buildings numbered. How does that map compare with figure 10 in<lb/>
+Doctor Truby's book? <add>(page 51)</add> Which of these four buildings is 113, 114, 115, and 116?<lb/>
+Did you <del><unclear>know</unclear></del><add>call the</add> buildings no. 1, no. 2. no. 3. and no. 4? In your map you labeled<lb/>
+them 1, 2, 3, and 4.</item>
+<item>A. The buildings were <add>not</add> actually numbered, but I called them as follows: 114 is<lb/>
+no. 1; 113 is no. 2; <del>114</del> 115 is no. 3; 116 is no. 4. (No. 114 was only used<lb/>
+by Graham and his wife. The two first <del>ones</del><add>bldgs</add>, including <unclear><add>#113 &amp;</add></unclear> No. 114, were occupied<lb/>
+by Graham and wife, and by Kean, Hepburn and Kissinger. <hi>No. 114 was never<lb/>
+used <add>thereafter</add> except for boxes with linen which I got from the hospital</hi>, several dozen<lb/>
+<pb n="8" id="f06002008"/>
+Dr. Hench 7<lb/>
+sheets at a time. Building 113 (no. 2) was used for Mrs. Hunt and later for<lb/>
+after the first 3 days- <unclear>ie</unclear> after he was no longer &ldquo;contagious&rdquo;<lb/>
+Ames <del>and</del> for the first three days of his illness. After this, he was taken<lb/>
+to the officers' ward. <hi>They were the only two <add>people to use it</add> because the roof was leaking<lb/>
+and the buildings were abandoned</hi>.</item>
+<item>Q. Can you describe the buildings?</item>
+<item>See also p 24 &amp; letter (<unclear>typed copy</unclear>)<lb/>
+<unclear>is me herds<lb/>
+scription photo</unclear></item>
+<item>A. They <add>#113-114</add> were 7 feet east and west and 9 feet north and south. There were no windows,<lb/>
+just a wooden door with a turn latch. The door faced approximately west. I<lb/>
+slept on the steps (there were three steps) when Kean was sick. I slept there<lb/>
+for seven nights, for when a man is young, he can sleep anywhere.</item>
+<item>Q. Name building no. 3 (115).</item>
+<item><p>A. We called this the general ward. In this building we treated practically all of<lb/>
+the rest of the cases of experimental yellow fever as well as <del><unclear>some</unclear></del><add>all</add> cases of<lb/>
+natural yellow fever <unclear>except</unclear> the ones <unclear>previously</unclear> mentioned. There were three beds<lb/>
+on the north side of this building and my bed was on the south side. We had a<lb/>
+table and chair on the south side. The building<add>s # 115-116</add> <del>was</del><add>were</add> 10 x 18. There was one<lb/>
+little window on the east side of the building on the right side as you look at<lb/>
+it from the outside. The door in this building was on the southeast corner facing<lb/>
+the door of the building called 113. In building 116 (No. 4) the only patient<lb/>
+physician<lb/>
+was Andrus. Doctor Ames took sick the day before him <add>Andrus</add> and the man that was detailed<lb/>
+to take the work after <del>him</del><add>Dr Ames</add> was a new doctor <add>I first</add> thought to be Pinto. I believe that<lb/>
+he was a new doctor by the name of Dr. James because Pinto, according to Truby<lb/>
+had already been sent to the Philippines.</p>
+<p>Dr James was<lb/>
+never there.<lb/>
+I think Amador<lb/>
+treated Andrus<lb/>
+T</p>
+<p>When Mrs. Hunt, a captain's wife from the cavalry, took sick, she was only<lb/>
+in the hospital for four days and may not have had yellow fever, but when she<lb/>
+went home, her husband claimed that a male nurse had been taking care of her. (me)<lb/>
+I think he complained to Doctor Stark or someone else who was in authority. For<lb/>
+this reason Mrs. Gillen, a former cook in a boarding house in New Orleans, and<lb/>
+<unclear>M<hi rend="superscript">c</hi> Cork</unclear><lb/>
+Lottie Cord or Cook, a bookkeeper, were sent for--they were the only two women<lb/>
+available. The Govt. had advertised for the services of women who were immune to<lb/>
+<pb n="9" id="f06002009"/>
+Dr. Hench 8<lb/>
+yellow fever, and these two women answered the advertisement and came to Cuba<lb/>
+to act as practical nurses for cases of yellow fever. They were not trained<lb/>
+nurses, but were immune. Mrs. Gillen was working on Major Edmonds. These women<lb/>
+See L's letter<lb/>
+had been in Cuba, but I don't know how long. <hi>Ames never put them to work</hi>. We<lb/>
+had to clean up building 116 but later put them in 114. I don't know what they<lb/>
+did around the hospital, but I think they took care of a few patients. For at<lb/>
+least 2 1/2 months <add>they lived in 116 during this time.</add> they didn't do anything. However, when the new doctor came,<lb/>
+when Ames got sick, we put <del>them</del><add>Ames</add> in <del>116</del><add>113</add> <add>as a patient</add> and moved the two practical nurses <add>from #116</add> to live in<lb/>
+114. so that Andrus <unclear>could</unclear> be put in #116</p>
+<p>see<lb/>
+<unclear>p2</unclear></p>
+<p>I was sent down in this little building the 8th or 10th of June 1900 to take<lb/>
+care of Graham and his wife. Kean got sick the 20th or 21st. I am sure that<lb/>
+Dr. Carroll and Dr. Lazear were never taken care of in any of these <add>little</add> buildings.<lb/>
+How could they have been without my knowing it? I had been there since June 1900<lb/>
+and Lazear didn't get sick until September and Carroll didn't get sick until just<lb/>
+before this. I <hi>wrote General Truby</hi> that he was wrong in saying that Lazear<lb/>
+He did not (yes, he did, I think - P S H)<lb/>
+was cared for in one of these little buildings, but Gen. Truby insisted on his<lb/>
+version and I didn't choose to argue with him on the point. In my opinion<lb/>
+(impossible) T<lb/>
+Lazear and Carroll were taken care of in the officers' ward at the main hospital.<lb/>
+And this is the opinion of Mrs. Warner as you can read in her newspaper inter-<lb/>
+view. (no)</p>
+<p>Lazear &amp; Carroll<lb/>
+went down there<lb/>
+direct from their<lb/>
+quarters as soon<lb/>
+as a diagnosis<lb/>
+was made<lb/>
+T</p></item>
+<item>Q. During all the time you were taking care of the cases of experimental yellow<lb/>
+fever, were you also taking care of a certain number of cases of natural yellow<lb/>
+fever?</item>
+<item><p>A. Oh yes. The Commission used the natural cases as well as the experimental cases.<lb/>
+They didn't use the mosquitoes on them, however, but they used specimens of urine<lb/>
+and stools and when <del>some</del><add>one</add> of them got <del>sick and had</del> black vomit, I sent up<lb/>
+specimens of black vomit to Dr. Carroll's laboratory. Lazear never came down in<lb/>
+<del>the</del><add>this</add> little hospital to infect his mosquitoes nor did Reed, not on the natural<lb/>
+cases at all. However, Carroll and Ames did bring mosquitoes down to feed on<lb/>
+<pb n="10" id="f06002010"/>
+Dr. Hench 9<lb/>
+the experimental cases; Ames did this frequently. Dr. Ames was living at Camp<lb/>
+Lazear and would bring <del>sick</del> mosquitoes in from the camp to be fed on cases of<lb/>
+experimental yellow fever. One of our cases of experimental yellow fever, Martinez,<lb/>
+was quite disturbed. <del>I</del><add>He</add> know that he had <unclear>&middot;</unclear> gotten his yellow fever from the bite of<lb/>
+a mosquito. One day, Carroll came in and wanted to infect some mosquitoes by<lb/>
+allowing them to bite Martinez. Martinez, not knowing that they were harmless,<lb/>
+was afraid of them and objected. Carroll stopped his attempts and brought me<lb/>
+the six mosquitoes that he was trying to infect. (He kept each one in a separate<lb/>
+tube). He suggested that when Martinez was asleep I lift up the covers of the<lb/>
+(jars) or<lb/>
+tubes and liberate the <add>six</add> mosquitoes. I accepted the order and when Martinez was<lb/>
+asleep I liberated the mosquitoes. I went away for a few minutes and a little<lb/>
+later heard Martinez swearing. I found him sitting up in bed, trying to kill<lb/>
+the mosquitoes.</p>
+<p><unclear><hi>Absurd</hi></unclear> T</p>
+<p>I said, &ldquo;Wait a minute. Let me get them,&rdquo; but I was only able to recover<lb/>
+two of them. Martinez had either killed the others or they had escaped. Doctor<lb/>
+Carroll was annoyed at me because I had allowed this to happen.</p></item>
+<item>Q. Why did you go away?</item>
+<item>A. Dr., this was at night, and I had to rest a little sometime. I sat down in the<lb/>
+chair and must have fallen asleep. Carroll said, &ldquo;You should have watched them.&rdquo;<lb/>
+&ldquo;I have to have a little rest sometime,&rdquo; I replied. I was working day and night;<lb/>
+I was the only nurse and in order to attend the patients, properly, I tied a string<lb/>
+<unclear>Colby</unclear><lb/>
+to my thumb and gave the other end to a convalescent soldier and asked him to yank<lb/>
+Sgt Ryan<lb/>
+the string if one of the sick soldiers wanted me.</item>
+<item>See L's letter</item>
+<item>Q. Yesterday you told me something about Agramonte's leave about the time that<lb/>
+Lazear died.</item>
+<item>A. Wasn't that a funny time to take a leave? It happened like this. Dr. Ames<lb/>
+came down and told me, &ldquo;I think the whold Commission is busted up.&rdquo; (this was<lb/>
+about Sept. 1900.) &ldquo;Carroll is sick, Lazear is dead, and <del>now</del> Reed is in the<lb/>
+states. Now Agramonte is gone to the states.&rdquo; Agramonte left, I don't know the<lb/>
+exact date. He never was inside of the quarantine hospital <del>or in</del> (the pest house)<lb/>
+He never once came there.<lb/>
+<pb n="11" id="f06002011"/>
+Dr. Hench 10<lb/>
+Reed and Carroll came down, and in order to see the yellow fever patients<unclear><del>,</del></unclear><lb/>
+Albertini (      ?    ), <del>some other Cuban doctor, Dr. Gorgas,</del> and A<del>b</del><add>m</add>ador and<lb/>
+<unclear>Finlay</unclear> did come down and see <del>the patients</del><add>Kissinger once</add>. Albertini, the <del>second Cuban</del><add>Amador</add> doctor<lb/>
+and Gorgas came to see <del>Kissinger</del><add><del>Kean</del></add><add>Kissinger</add> the first day of his illness. I remember Albertine<lb/>
+who was supposed to be an expert in yellow fever lifted up the blanket to smell<lb/>
+<del>Kissinger</del><add><del>Kean</del></add><add>Kissinger</add> and I said <add>to myself</add> &ldquo;My goodness, is this the way they diagnose yellow fever?&rdquo;<lb/>
+These men never came there again except Major Gorgas who came three or four times.<lb/>
+Gorgas, Reed And Carroll came frequently to see the experimental cases, but the<lb/>
+Cuban doctors did not come to see any except <del>Kean</del><add>Kissinger</add>.</item>
+<item>T<lb/>
+This is <unclear>now<lb/>
+staff</unclear> since<lb/>
+he read my book</item>
+<item>Nonsense<lb/>
+K</item>
+<item>Q. Why did Agramonte take a leave when the Commission was in session.</item>
+<item><p>A. In his pamphlet he claimed that he had mosquitoes and took care of them after<lb/>
+Lazear passed away. This is not so because how could he feed mosquitoes while<lb/>
+he was in the states? Agramonte returned after Major Reed did, but even after<lb/>
+that Agramonte was never in the pest house. I know of only one thing he did--<lb/>
+we had a death, and he performed the autopsy. This happened two days before<lb/>
+Dr. Ames took sick (Jan, 1901.) Agramonte was supposed to work in Military<lb/>
+Hospital No. 1 and the only work I saw him do for the commission at Camp Lazear<lb/>
+was to perform this autopsy which was done in an old <del>hospital</del><add><unclear>mess hall</unclear></add> which we used for a<lb/>
+<hi>dead house,</hi> and which was no. 112 in figure 10 of Truby's book. There was nothing<lb/>
+but a mess table and a bench. The dead person was a man from the second artillery<lb/>
+Battery <del><unclear>N</unclear></del><add>E</add>. I think. He died of natural yellow fever.</p>
+<p>At this autopsy, Agramonte was on the right side of the body, I was on the<lb/>
+left helping him, and Carroll and Ames were standing at the foot. Dr. Reed<lb/>
+stood on a bench against the wall about 20 or 25 feet from the table. He had a<lb/>
+bottle of camphor (&ldquo;I can smell it today&rdquo;) When the autopsy was through, Agramonte<lb/>
+took a bit of the kidney and took this to the laboratory. When they were through,<lb/>
+I fixed up the body, sewed it up, washed it off, and wrapped it in a sheet.<lb/>
+I slipped the coffen next to the autopsy table and went to ask one of the men to<lb/>
+help me. The Seventh cavalry band was on the outside and I asked one of the men<lb/>
+to help me. This dead man was 6'2" and weighed 200 pounds, and no one would come<lb/>
+<pb n="12" id="f06002012"/>
+Dr. Hench 11<lb/>
+in and help me. They were afraid. I rolled him in and put the lid down. Then<lb/>
+I took the instrument case and went down to the hospital, and when I had gone<lb/>
+two blocks and just got in the ward, the band struck up music. The death march<lb/>
+sounded funny (in the sense of being strange, not humorous). <del>Fordhams</del><add>Forbes</add> sat up in<lb/>
+bed and said, &ldquo;Who has died?&rdquo; &ldquo;How am I to know? I haven't been up there for a long<lb/>
+time.&rdquo; &ldquo;It must be some one here in the <add>Y. F.</add> hospital,&rdquo; he said, and I said, "No, I<lb/>
+would know it if there were. <del>Fordham</del><add>Forbes</add> started crying and wanted to get out, saying,<lb/>
+&ldquo;I don't want to take part in this experiment. I want to get out of here!&rdquo; He<lb/>
+is the first man I ever saw who tried to scream. (<del>He got so mad, and after that</del><add>See below</add><lb/>
+<del>I bit him first on the left ear and then on the right.</del>) <del>Fordham</del><add>Forbes</add> was in the first<lb/>
+two or three days of his yellow fever when such patients were usually nervous,<lb/>
+got highly excited and <add>Forbes</add> said, &ldquo;Let me out of here;. I don't want to take any part in<lb/>
+these experiments. I don't want my $200.&rdquo; I replied, &ldquo;It is too late now. You<lb/>
+give me half of your $200 and I will give you a guarantee that you will get well.&rdquo;<lb/>
+That is when Forbes started to scream, and in order to control him, I said, &ldquo;Here,<lb/>
+I'll give you something to scream about&rdquo; and I boxed him on both ears. This<lb/>
+quieted him down and made him so mad (he was mad at me after that, and I think<lb/>
+that this had more to do with curing him than the medicine, because he was so<lb/>
+mad he wanted to <unclear>got</unclear> well and get even with me, that he forgot that he had<lb/>
+yellow fever. When he got well, we were better friends than ever before. There<lb/>
+was a place where the boys played poker, the corral, on the camp. He went there<lb/>
+to double his money or lose it all &ldquo;otherwise it will burn a hole in my pocket&rdquo;.<lb/>
+Whereupon, he lost the $200. I wasn't there, but one of the boys that was there<lb/>
+told me about it. The soldiers were not allowed to go out of camp but spent their<lb/>
+time and money gambling in the corral.</p>
+<p>T?</p>
+<p>?T</p>
+<p>Before he was sick, Ames came <add>from Camp Lazear</add> into the pest house every night between<lb/>
+one and three <unclear><add>AM</add></unclear> to see the patients. One night when the doctor <unclear><add>Ames</add></unclear> came in at 1:15<lb/>
+to visit the patients, he said, &ldquo;Lambert, have you got any brandy?&rdquo; There is<lb/>
+some brandy here. Doctor, You don't need any brandy. &ldquo;I got quinine, and I<lb/>
+want half an ounce of brandy.&rdquo;. <unclear><add>I said</add></unclear> &ldquo;Come in and lie down&rdquo;. His eyes were bright <del>as</del><lb/>
+<pb n="13" id="f06002013"/>
+Dr. Hench 12<lb/>
+and he was trembling. I knew he had yellow fever"</p></item>
+<item>Q. How did you know without examining his blood that he had yellow fever and didn't<lb/>
+have malaria or some other disease?</item>
+<item>A. I didn't know for sure, but I had taken care of so many yellow fever patients<lb/>
+that I thought I recognized the signs. I suspect that he got his yellow fever<lb/>
+from one of the mosquitoes after they had escaped from Martinez's bed. Martinez<lb/>
+was sick in December <unclear><add>1900</add></unclear> and Ames was sick in the latter part of <del>June</del><add>Jan 1901</add>.</item>
+<item>check time<lb/>
+<unclear>relations<lb/>
+p PSH</unclear></item>
+<item>Q. Now more about Ames.</item>
+<item>??</item>
+<item>No? Truby says Reed never<lb/>
+<unclear>saw</unclear> Ames <unclear>letter sack</unclear></item>
+<item><p>A. Dr. Stark took care of Ames and Dr. Reed and Carroll made a diagnosis on Ames,<lb/>
+I guess, because I put him to bed and gave him two doses of calomel in the morning;<lb/>
+Ames<lb/>
+he insisted that I go after Dr. Carroll (Carroll stayed in the officers' <del>ward</del><add>quarters</add>) to<lb/>
+(<unclear>Ames'</unclear>)<lb/>
+test his blood. He was so insistant that I had to go at last. So I went up there<lb/>
+and took my <del>detail</del><add>stable</add> lantern and ran across the field. I was running when I felt<lb/>
+a shot going by me in front. I stopped and a cavalry guard rode up. &ldquo;Why didn't<lb/>
+you stop when I halted?&rdquo; <unclear><add>I said</add></unclear> &ldquo;I didn't hear you. Do you think I would be trying to<lb/>
+break away <del><unclear>notably</unclear></del> carrying a lantern?&rdquo; The guard wanted to know where I was<lb/>
+going. Dr. Ames is sick and I am going up and tell Major Reed. I woke up both<lb/>
+Carrol and Reed who were in the officers' <del>ward</del><add>quarters</add>. (<del>The doormen</del><add>Reed</add> asked me what I<lb/>
+wanted, and I told him that Ames had yellow fever. <del>He</del><add>Maj. Reed heard me and</add> jumped out of bed and<lb/>
+It took a couple of minutes to dress.<lb/>
+opened the door standing in his pajamas.) I went before and they came after <del>with</del><lb/>
+both Reed &amp; Carroll<lb/>
+<del>the <unclear></unclear></del> <del>We</del><add>They</add> took some slides along. <del>We</del><add>They</add> punched his left ear and fourth<lb/>
+finger for the slides. Major Reed pulled out three tubes of mosquitoes and was<lb/>
+going to feed them on Ames, when I said, "No, <hi>I won't let you</hi>. 2 So he said that<lb/>
+<del><unclear>that</unclear></del> there was nothing to hurt him. <unclear><add>I said</add></unclear> "Leave the Doctor alone; I am here to take<lb/>
+care of him. There is no free lunch going to be handed out here. I told him<lb/>
+that he should go to Camp Lazear to feed his mosquitoes.</p>
+<p>I doubt this<lb/>
+T</p>
+<p><unclear>Improbable</unclear> Ames was immune K</p>
+<p>(Maj<lb/>
+Reed)</p>
+<p>T<lb/>
+Bank, of course</p>
+<p>If Reed had wanted<lb/>
+this done he would<lb/>
+have had Carroll<lb/>
+or Agramonte do it<lb/>
+<unclear>Reed didnt</unclear> do<lb/>
+the <unclear>article most<lb/>
+nos</unclear><lb/>
+Had <unclear>Reed actually</unclear><lb/>
+done <unclear>the Lambert &amp;<lb/>
+couldn't have slopper</unclear><lb/>
+Reed</p>
+<p><unclear>most improbable</unclear><lb/>
+K K</p>
+<p>Reed said, &ldquo;Yellow fever is nothing to <add>be</add> afraid of&rdquo; and this is where<lb/>
+I was foolish. &ldquo;Major Reed,&rdquo; I said, &ldquo;I have seen the time when you were afraid<lb/>
+of yellow fever. You remember the autopsy <add>day before yesterday</add>? Why did you stand on a bench 25 feet<lb/>
+away from the corpse? Didn't that show your fear?&rdquo; Major Reed's face got red and<lb/>
+<unclear>Lambert would</unclear> have been put - <unclear>the Granahas</unclear> at once) Truby's <unclear>opinion</unclear>)<lb/>
+<pb n="14" id="f06002014"/>
+Dr. Hench 13<lb/>
+Carroll laid his arm around his back and said, &ldquo;Lambert, is right.&rdquo; Reed put the<lb/>
+tubes into his pocket and walked away. If I had had any sense, I would have<lb/>
+allowed Reed to feed the mosquitoes on Ames, and this would have made Ames yellow<lb/>
+fever a part of the record and might later have gotten his name on the honor role<lb/>
+and might have gotten the credit that he deserves. If he got sick and helped<lb/>
+with the experiments in this way, didn't he deserve as much honor as those who never<lb/>
+got yellow fever but only exposed themselves to fomites which was later proved<lb/>
+to be harmless? (At this point Lambert got emotional &amp; cried. I asked him why he<lb/>
+was crying &amp; <unclear>felt</unclear> so &amp; he said &ldquo;If I'd only let Maj Reed infect<lb/>
+mosquitoes on Dr Ames, Dr Ames would have gotten the honors he deserved.&rdquo;</p>
+<p>A. by Hench: In my opinion, even if you had allowed Dr. Reed to infect harmless<lb/>
+mosquitoes by biting Dr. Ames, this would not later have gotten Dr. Ames's name<lb/>
+on the honor roll, because only those who got experimental yellow fever or who<lb/>
+deliberately volunteered for the fomites experiments, thinking they <del>did</del> would<lb/>
+get yellow fever, were put on the honor roll. <add>Lambert speaking:-</add> I got a letter from the War<lb/>
+Department stating that only those who were paid for taking part were considered<lb/>
+in this bill 13060 and <del>then</del> <add>if I hadn't stopped Reed</add> <del>he</del> would have been <del>said for</del><add>then Ames</add> entitled to recognition<lb/>
+all right under the bill with the rest of them. He would have gotten the honor<lb/>
+and recognition. If I had at that time said to Reed, &ldquo;Wait a minute, Major Reed,<lb/>
+if you infect these mosquitoes on Dr. Ames will he get the $200 like the rest of<lb/>
+them did?&rdquo; perhaps Dr. Ames would have gotten the $200 and then according to the<lb/>
+rules in the War Dept. he would have gotten due credit.<unclear><del>"</del></unclear></p>
+<p>?</p>
+<p>The day after Ames got sick, (he was in 115) Andrus came and was put<lb/>
+(no. 2)<lb/>
+in 116. After three days, Ames was transferred from this little quarantine<lb/>
+hospital to the main hospital, the officers' ward, and by that time they knew<lb/>
+that after three days a yellow fever patient was harmless. The day after Ames<lb/>
+was transferred to the main hospital, Andrus got very sick, and Mrs. Gillen<lb/>
+came up to me in the &ldquo;<unclear>big</unclear> <del>building</del><add>ward&rdquo; (115)</add> and asked me to come over. I had <del>have</del> never<lb/>
+been over to see Andrus because he had never been my patient. He was acting so<lb/>
+awful. This new doctor put the women to take care of him. Both of the women,<lb/>
+(night and day nurses) were on duty for him. <del>Lazear had</del><add>I cared for</add> Forbes and Folk. <del>I</del><lb/>
+Miss Lewis<lb/>
+was already taking care of Ames in the little building and the two women were taking<lb/>
+<pb n="15" id="f06002015"/>
+Dr. Hench 15<lb/>
+on a hospital bed. The nurse came in, Miss <del>Louis</del> <add>Lewis?</add>, when <del><unclear>was</unclear></del> we were a few feet away<lb/>
+from the steps of the ward. She missed the bed so she looked out and here we were<lb/>
+walking out without her knowing what was happening. "We <del><unclear>were</unclear></del> are going to take<lb/>
+Dr. Ames to see Andrus and she said, "Wait a minute, I will see Dr. Stark. We hurried<lb/>
+and got beyond the men's quarters which <del>lies</del><add>lay</add> between the hospital and started to walk<lb/>
+as fast as we could. I backed in first and pushed the bed in so that <unclear>Mac</unclear> Hardy didn't<lb/>
+(into the yellow fever ward and get in trouble by going into the Y F wards.<lb/>
+have to go in, and then we pushed the foot of the bed in. I rolled Ames along side<lb/>
+of Andrus, he questioned him by feeling here and there. Andrus was crying and <unclear>groaning</unclear>,<lb/>
+and Ames put him in all positions he could--Ames was lying on his elbow in bed. At<lb/>
+last Ames <del><unclear>rank</unclear></del> found a carbuncle of Andrus's rectum as large as my fist. Ames had a<lb/>
+little case with 2 little scalpels and opened the abscess right there. Cleaned it out<lb/>
+and dressed <del><unclear>ham</unclear></del> him up and the boy was easy. Ames <del><unclear>rest</unclear></del> rested then, and said, &ldquo;All<lb/>
+right, you can take me out.&rdquo; I pushed the bed over to the door and we started across.<lb/>
+Ames wouldn't let us take him over the log. (We had a big log which served as a bridge<lb/>
+across the railroad track to the Laplaya. The bridge was South of building 114. It was<lb/>
+about 2' wide, it was an enormous piece of lumber. No wonder he was unwilling to let<lb/>
+us carry him across, for it was 12 feet to the botto<del>n</del><add>m</add>, so he made us walk around the<lb/>
+railroad, nearly four blocks longer. When we came back to the ward, Dr. Stark and<lb/>
+Miss Louis were on the porch waiting for us--as a reception committee. We went up<lb/>
+the steps and went into the room. Mack walked out and left me there. Never in all<lb/>
+my life did I have a calling down like I got from Dr. Stark. I never saw a man so<lb/>
+angry. O gracious, I couldn't remember half the words he <del><unclear>is</unclear></del> said and he chased me<lb/>
+out of the ward, and I was glad to go. What he told Ames after that I don't know, but<lb/>
+it was only a momentary flame of anger.</p>
+<p><unclear>Absurd</unclear><lb/>
+T</p>
+<p>?</p></item>
+<item>Q. Who took care of Dr. Ames? Dr. James?</item>
+<item>A. He was supposed to, but I made <del>him</del><add>Ames</add> take the salt and colonel. As a matter of fact,<lb/>
+I took care of him; Reed and Carroll made the diagnosis of yellow fever, or why would<lb/>
+<unclear>they</unclear> have wanted to feed the mosquitoes on him?</item>
+<item>Q. There was some question as to whether Dr. Ames actually had yellow fever; wasn't<lb/>
+he supposed to be an immune?</item>
+<pb n="16" id="f06002016"/>
+<item>Dr. Hench 16</item>
+<item>A. He thought he was immune. He had yellow fever in 1887 in New Orleans and<lb/>
+Dr. Brumby and him were sick at the same time.</item>
+<item>Q. Once you have it you are always immune, aren't you?</item>
+<item>A. I don't know. No one knows yet.</item>
+<item>Q. Are you sure he had yellow fever?</item>
+<item>I don't think so</item>
+<item>yes</item>
+<item><p>A. I take my dying oath on that. Dr. Carroll and Reed said so and Major Stark<lb/>
+signed his <del>relief</del><add>release</add> as a patient with yellow fever.</p>
+<p><del><unclear>a.</unclear></del> (Mr. Lambert; <add>speaking)</add> Last time I visited Dr. Brumby in Houston, Texas, he was writing<lb/>
+a paper about Dr. Ames and wanted some information from me and asked me to come<lb/>
+there. He gave me at that time a manuscript which I am lending you. He read<lb/>
+it the 7th of May, 1946 before the Galveston Medical Society. There are certain<lb/>
+things which aren't correct and I told him so, but Dr. Brumby wouldn't change<lb/>
+them.</p></item>
+<item>Q. On page 4 of Dr. Brunby's paper he states that Dr. Lazear constructed wire coops<lb/>
+in which to keep the mosquitoes and feed them.</item>
+<item><p>A. I disagree with Dr. <unclear>Brumby</unclear>. I never saw any wire &ldquo;coops&rdquo;; the only way they ever<lb/>
+handled mosquitoes when I saw them was in tubes. I don't know what Lazear used.<lb/>
+Lazear never came into the pest house, but whenever I saw the members of the<lb/>
+Commission with mosquitoes, they had them in tubes. <add>Comment</add> This information of Dr. Brumby<lb/>
+was <add>supposedly</add> told by Ames to <unclear>B<add>rumby</add></unclear> in 1902 or 1903.</p>
+<p>Dr. Hench: I showed Mr. Lambert the pictures on page 228 and especially 232 of Agramonte's<lb/>
+1915 article which indicates that Lazear originated the use of the glass tube for<lb/>
+handling mosquitoes, and that otherwise <hi>they used a glass jar</hi> <del><unclear>in</unclear></del> <add>, not</add> a wire coop.</p>
+<p>(<hi>tubes</hi>)<lb/>
+T<lb/>
+(yrs)<lb/>
+T</p></item>
+<item>Q. On page 4, Dr. Brumby describes Dr. Carrolls illness, his nervousness, and the<lb/>
+difficulty that they had in controling him. He says that the trained nurse had<lb/>
+to call <del>(on us)</del><unclear><add>?</add></unclear> for help. Who was the trained nurse--name?</item>
+<item>A. Mrs. Warner was the trained nurse. I think he was cared for in the officers' ward.<lb/>
+Dr. Ames came down to me and told me, "<del>They got a little trouble with</del> &ldquo;Carroll; <del>he</del><lb/>
+is awfully sick&rdquo;. When I came in he <add>was lying on an <unclear>elbow</unclear>, left <unclear>foot</unclear> on the</add> <del>had his feet out of bed like he was going to</del><lb/>
+floor, a <unclear>foot on</unclear> the bed about to get up <unclear>get out of bed</unclear><lb/>
+<pb n="17" id="f06002017"/>
+Dr. Hench 17<lb/>
+The nurse was on the right side of the bed.<lb/>
+I said<lb/>
+&ldquo;Dr. Ames won't like that,&rdquo; I took his legs and put him back into bed. &ldquo;You<lb/>
+know, Dr. Carroll, you can't get up. I know you are in misery: in a couple of<lb/>
+days you will be all right.&rdquo; &ldquo;I want to get up.&rdquo; I stood there practically<lb/>
+the whole night. He was really sick. I took care of him for two nights--on the<lb/>
+third and fourth night of his illness.</item>
+<item>Q. On page 5 of Dr. Brumby's article, he talks about Lazear's deliberate experimental<lb/>
+illness. What is your opinion on that.</item>
+<item><p>A. I think Dr. Lazear, having had himself bitten several times by mosquitoes without<lb/>
+getting yellow fever, thought that he was immune for some reason. But Dr. Lazear<lb/>
+got sick with yellow fever about two days after Dean got sick. In my opinion<lb/>
+Dr. Lazear must have innoculated himself with <hi>blood from Dean</hi>. I think Dr. Lazear's<lb/>
+yellow fever did not come from a mosquitoes bite because nobody developed <unclear>k</unclear> yellow<lb/>
+fever within less than 3 1/2 days after a mosquito bite, but they could develop yellow<lb/>
+fever sooner if they were inoculated with blood from a yellow fever patient.<lb/>
+Injections of blood produced yellow fever sooner than mosquito bites.</p>
+<p>He would not<lb/>
+do that without<lb/>
+leaving a distinct<lb/>
+<unclear>record T</unclear></p>
+<p>The story in Dr. Kelly's book states that Dr. Lazear was bitten by mosquitoes in<lb/>
+Los Animas Hospital. He was supposed to be an expert. How he wouldn't let<lb/>
+a mosquito come in and sit down and feed on him. Knowing what he did, Lazear never<lb/>
+would have let a mosquito come and sit on his arm. It was supposed to be a scrub<lb/>
+mosquito but Lazear knew what kind of mosquito carried yellow fever, and he wouldn't<lb/>
+have blamed yellow fever on a &ldquo;scrub&rdquo;. And he wouldn't have let a real stegomya<lb/>
+bite him if he had seen it on his hand.</p></item>
+<item>Q. You think that story <add>in Dr Kelly's book</add> is entirely false?</item>
+<item>A. I think it is entirely false. Dr. Lazear was determined to get experimental yellow<lb/>
+fever <del>himself</del>. <add><del><unclear>, not Ames.</unclear></del></add> <add>himself.</add> He was the real enthusiast. <hi>Carroll didn't believe in the mosquito<lb/>
+theory</hi>. Agramonte didn't. <hi>Lazear did</hi> and he was <del>looking</del><add>working</add> his head off to find it.<lb/>
+CONFIDENTAL: USE THE FOLLOWING FOR BACKGROUND ONLY!!<lb/>
+OK.<lb/>
+T<lb/>
+<pb n="18" id="f06002018"/>
+Dr. Hench 18<lb/>
+Carroll<lb/>
+Reed went back to the U.S. and left Carroll (he kept looking <del><unclear>it</unclear></del> in the microscope<lb/>
+and so did Agramonte). Lazear went out in the fields to find the cause and means<lb/>
+<unclear>o</unclear> of transmission. He found the secret and when Major Reed came back from the states<lb/>
+the secret was found and the <del>founder</del><add>finder</add> was dead.</item>
+<item>Q. Should he have more credit than anyone <del><unclear>wi</unclear></del> else?</item>
+<item>A. In my opinion, in the painting of the conquerors of yellow fever, I would paint<lb/>
+out all but three figures: <unclear>Finlay</unclear> had the theory, Lazear proved it, and Ames kept<lb/>
+the &ldquo;guinea pigs&rdquo; alive. <hi>Why leave Lambert out</hi>? T</item>
+<item>Q. Continuing on page 5, it mentions the life insurance story. Where did this idea<lb/>
+come from--from Ames or Lazear. Do you know yourself?</item>
+<item>A. I don't know where this story originated. Ames never mentioned it to me.</item>
+<item>Q. On page 5 Dr. Brumby says &ldquo;I have all of these case history records in my possession.&rdquo;<lb/>
+What does this mean?</item>
+<item>A. Dr. Ames son also lives in Houston, Texas now. Either he or Mrs. Ames gave <del><unclear>dR</unclear></del><add>Dr</add>. Brumby<lb/>
+photostatic copies of the charts. So far as I know, Dr. Brumby has no originals.</item>
+<item>Q. Do you agree with the top paragraph on page 6 about Ames originating the use of<lb/>
+test tubes?</item>
+<item>A. No.</item>
+<item>Q. On page 6 Dr. Brumby says "Ames was assigned to the other building at Camp Lazear.<lb/>
+What do you have to say about this.</item>
+<item>A. Dr. Brumby is wrong. The other building was used for experimental purposes. Ames<lb/>
+lived at Camp Lazear in a tent. Indeed, <hi>all of the boys at Camp Lazear lived in<lb/>
+tents</hi>. The two buildings were merely used for the experiments. Ames had his<lb/>
+quarters at Camp Lazear and had a telephone between Camp Lazear and Camp Columbia.</item>
+<item>T O.K.</item>
+<item>Q. On page 7 it <unclear>says</unclear> &ldquo;Why is it that Dr. Ames name <del><unclear>done</unclear></del><add>does</add> not appear on the official roll<lb/>
+of honor. Prehaps it is due to jealousy and antagonism between the Army and the<lb/>
+and the Public Health Service.&rdquo; What does this mean?</item>
+<item>Q. Continuation of question.<lb/>
+Dr. Ames had nothing to do with the public health service. <del><unclear>Pi</unclear></del></item>
+<item>A. Not then, but later Dr. Ames did join the Marine hospital service which later became<lb/>
+the public health service I think in 1907.</item>
+<pb n="19" id="f06002019"/>
+<item>Dr. Hench 19</item>
+<item>Q. On page 8 Dr. Brumby states in paragraph 7 &ldquo;The case history records and fever<lb/>
+charts of every one of the experimental cases were written in Dr. Ames hand-<lb/>
+writing.&rdquo; Is that correct?</item>
+<item>A. No, this is not correct. The first charts were made by me on all of the<lb/>
+experimental patients. I made them in lead pencil from day to day, and I wasn't<lb/>
+(smudged)<lb/>
+a pen man and the charts got blotted and smudged. And of course they wanted a good<lb/>
+chart and the Doctor wanted a good record so that <del><unclear>when</unclear></del><add>one of</add> these girls (Miss Cord or McCord)<lb/>
+who had been a bookkeeper made nice copies of the original pencilled charts. The<lb/>
+original pencilled charts, I believe, were thrown away. They were nothing to keep.<lb/>
+So far as I know she made only one copy of each as a rule, but occasionally someone<lb/>
+might need an extra copy of the chart--Andrus has one for example. I am sure<lb/>
+Miss Cord is the one who made these charts. Mrs. Warner was the head nurse and<lb/>
+would not have <del>time</del> done it. Mrs. Gillen had been a cook and was no more of a pen-<lb/>
+man than I was. I believe Miss Cord who was previously a bookkeeper made the<lb/>
+charts.</item>
+<item>Q. On page 8 <unclear>of</unclear> Dr. Brumby's book he says, &ldquo;Ames hoped to write a book on his experiences<lb/>
+in yellow fever, but his request for permission to use this material was not<lb/>
+<del>Does he mean Kean here? Yes.</del><lb/>
+granted by <del>the</del><add>then</add> <hi>Major General</hi> (Kean), temporarily the acting surgeon general at Washington.&rdquo;<lb/>
+Dr. Hench. I don't <unclear>he</unclear> think this is true. In the first place, General Kean was never<lb/>
+a Major General so far as I know, and <unclear><del>a</del></unclear> certainly at that time he was <add>Kean not</add> a general.<lb/>
+What do you think about this.</item>
+<item>When Ames requested<lb/>
+the charts</item>
+<item>A. I think it is wrong. Dr. Ames did ask permission to get the material and use it for<lb/>
+a book. He wrote to Washington directly <unclear>but</unclear> the Surgeons General's office wrote<lb/>
+him telling him he would have to put his request through channels. Major Ames<lb/>
+was annoyed. He was at that time <hi>a Major and Commanding officer</hi> <add>of the Hospital <unclear>Detachment</unclear> at an any Post near New Orleans</add> and he refused to<lb/>
+do this,--to take it through the regular channels, so that he never got permission.<lb/>
+However, Ames is the man who should have really written up the record.</item>
+<item>He was never a<lb/>
+Commissioned Officer<lb/>
+<unclear>Kean</unclear></item>
+<item>Q. Why is supplementary page 2 torn off.</item>
+<item><unclear><del>A</del></unclear> A. I don't know.</item>
+<pb n="20" id="f06002020"/>
+<item>Hench 20</item>
+<item>Continuation:</item>
+<item>Q. Regarding Mrs. Warner's question<add>naire</add> and answers, which are given in the letter by Mattie<lb/>
+Rogers, Knoxville, Tennessee and appeared in 1946. Do you agree with<lb/>
+the answer to No. 1.</item>
+<item>A. Yes. Carroll and Lazear were first taken care of in <del>our</del><add>their</add> quarters and then were<lb/>
+removed to the officers' quarters <del>in the pest house</del>.</item>
+<item>Q. Regarding question and Answer No. 4. Is this correct?</item>
+<item><hi>NO</hi> T</item>
+<item>A. I think it is. The <hi>Spaniards</hi> had previously used these four little buildings<lb/>
+as a quarantine hospital for <hi>cholera</hi>. These x four little <unclear>chacks</unclear> were older than<lb/>
+the building<add>s</add> at Camp Columbia Hospital. The Americans <unclear>built<add>t</add></unclear> the latter, but the<lb/>
+four little buildings used as a pest house had been built by the Spaniards sometime<lb/>
+before possibly in connection with a tent camp. No - K</item>
+<item>No<lb/>
+T</item>
+<item>Q. In regard to the answer of question 5. Is this correct that <del>Mr. Kean</del><add>Major</add> Kean?<lb/>
+was in a Havana Hospital?</item>
+<item>A. No, he was under my care in one of the four little buildings. Ans. No. 5 is<lb/>
+5<lb/>
+entirely wrong. On Apr. <unclear>4x</unclear> 1935 in a Memphis paper there is an article about<lb/>
+Mrs. Warner. when she was elected the first lady of the Applachian because of her<lb/>
+excellent work as a member of the Commission. As a matter of fact, she was never<lb/>
+a member of the yellow fever Commission. She talked as if she were.</item>
+<item>Lambert<lb/>
+has learned<lb/>
+how to tell<lb/>
+stories from<lb/>
+Mrs W-<lb/>
+T</item>
+<item>Q. What do you think of the newspaper story of 1932?</item>
+<item>A. It is worth just about as much as the one of 1935.</item>
+<item>Q. On page 4 of the newspaper article it states, "/ Mrs. Warner was at Los Animas<lb/>
+and was asked to take charge of the detention camp where experiments were to take<lb/>
+place.</item>
+<item>A. That is all wrong. The detention camp was 4 or 5 tents besides the <unclear>disinfecting</unclear><lb/>
+<del>tents</del><add>plant</add> at Camp Columbia where we kept the the soldiers who had broke quarantine or were<lb/>
+AWOL. No experiments were done here.</item>
+<item>See <unclear>undated</unclear> typed letter (<unclear>re</unclear> Mrs Reed)<lb/>
+photo<lb/>
+<unclear>serflor<lb/>
+p 1</unclear></item>
+<item>Q. On p. 4 it says that she took care of Carroll. Is that true.</item>
+<item>A. I think so, I think she and Mrs. Gillen took care of Carroll.</item>
+<item>Q. On p. 5 Mrs. Warner says <unclear>the</unclear> something about Lazear hand<del>ed</del><add>ing</add> her his manuscript.<lb/>
+<pb n="21" id="f06002021"/>
+21<lb/>
+This disagrees with General Truby's (<del>Is &ldquo;truby&rdquo; right word here</del>) story. What do you<lb/>
+think of it.</item>
+<item>He added</item>
+<item>A. &ldquo;No comment.&rdquo; (<unclear>&ldquo;</unclear>I don(t believe it<unclear>!&rdquo;</unclear>)</item>
+<item>Q. On p 5 it says that Mrs. Warner stood at the elbows of Dr. Reed, Carroll and Gorgas<lb/>
+at the experimental hospital. Mrs. Warner was never at Camp Lazear, was she?</item>
+<item>A. Of course not.</item>
+<item>OK.<lb/>
+T</item>
+<item>Q. Please read the first paragraph on page 224 of Agramonte's 1915 article in which<lb/>
+Agramonte describes his thought as Lazear died. What do you think about that.</item>
+<item>A. Agramonte wasn't even there.</item>
+<item>O.K.<lb/>
+T</item>
+<item>Q. <unclear><del>On page</del></unclear> In the letter of <unclear>Andrus</unclear> dated 11-12, 1938 it speaks of John<lb/>
+S. Morris. Who was he?</item>
+<item>A. He is mentioned in special order 83. He was assigned to Camp Lazear as one of<lb/>
+the workers, possibly a cook. Later he was assigned to help me disinfect all<lb/>
+clothing from C. <unclear><add>amp</add></unclear> Lazear.</item>
+<item>Q. In <unclear>Andrus'</unclear> letter of July 27, 1940 discussing <del><unclear>Healen, El Emian</unclear></del><add>England</add> (            )<lb/>
+<unclear>he says, &ldquo;The lad</unclear> has had it pretty soft all these years, hasn't he.&rdquo; What <unclear></unclear> that<lb/>
+mean?</item>
+<item>A. Almost everybody connected with the yellow fever experiments were treated very well<lb/>
+and their association with the experiments helped them a lot in later years. Hand-<lb/>
+bury <hi>deserted</hi><add>?</add> <unclear>In</unclear> his second enlistment but because he was associated with the<lb/>
+yellow fever experiments the War Dept. made no attempts to go after him. He has<lb/>
+been a farmer in South Carolina for many years. They could have found him is they<lb/>
+had wanted him. I have written him for a long time- he has always answered except<lb/>
+for the last <del>time</del> five years. I think someone must have told him to keep his<lb/>
+mouth shut.</item>
+<item>Because<lb/>
+England<lb/>
+declined, at the<lb/>
+last <unclear>minute,</unclear> to take<lb/>
+a blood test<lb/>
+Andrus volunteered<lb/>
+to take it. You will find<lb/>
+that in one of Andrus' letters<lb/>
+T</item>
+<item>?</item>
+<item>Q. <add>In</add> Andrus' letter of July 5, '41 he mentions Schwieger. Who was he.</item>
+<item>A. He was an orderly in the hospital corps. He had yellow fever himself and as I<lb/>
+remember it later was an orderly on Dr. Lazear's own case for one night but he<lb/>
+was already immune. He took sick. After one night of duty he got sick with<lb/>
+something or another. That is the only connection he had with <del><unclear>yl</unclear></del> yellow fever. <unclear>work</unclear></item>
+<item><unclear>Q.</unclear> In letter dated 9-15-41 <del>he</del><add>Andrus</add> mentioned a newspaper article about <del>English</del><add>England</add>. What<lb/>
+<pb n="22" id="f06002022"/>
+22<lb/>
+was this?</item>
+<item>puffed up<lb/>
+England</item>
+<item>A. I think it was the Denver Post of '41. The article blew up (          )<lb/>
+bravery and spoke about his entering the experimental huts, going to certain<lb/>
+death, However 6 men had already gone in without anything happening before<lb/>
+England <del>(correct name) ______</del> went in.</item>
+</list></p>
+<p>FACTS ABOUT LAMBERTS LIFE</p>
+<p>Born; Sweden last day of December <del><unclear>1884</unclear></del><add>1874</add>. Came here <add>New York</add> in 1893. Sailor. Came to<lb/>
+stay when Sp. Am. war broke out. War started and he happened to be on ship<lb/>
+entering N.Y. Tried to enlist <del>and enlisted in Army</del><add>in the Navy</add>, but by the time that he<lb/>
+enlisted the war was over. Enlisted in <del>19</del> 1898 in Hospital Corps. After <lb/>
+some training he landed <add>in Cuba</add> the 27th <unclear>March</unclear>, 1899. Was sent to Military Hospital<lb/>
+No. 1. Served month and half as cook. In May 1, 1899 he volunteered (and was<lb/>
+sent) to do sanitary work. Didn't do any nursing until August 1899 when Dr. Ames<lb/>
+asked him to help take care of yellow fever at Milit. Hosptl No. 1. He was in<lb/>
+quarantine at Milit. Hosp. No. 1 for 7 1/2 months from May 1, 1899 to Dec when<lb/>
+he got sick from typhoid fever. Started working at the pest house. Was<lb/>
+sent on furlough in April 1900 (sick furlough) and returned May 1 and was sent to<lb/>
+wharf to learn disinfectant work. After 2 weeks training he was put in <del>one of</del><lb/>
+the disinfecting plant<del>s</del> at C. Columbia, and while he was there he was asked by<lb/>
+Dr. Ames to leave the disinfecting plant and to go down and fix up the pest house<lb/>
+and take care of it. (July 10, <del>10</del> 1900)<lb/>
+REGARDING INTERVIEW OF Jan 22, 1942<lb/>
+<list type="simple">
+<item><del><unclear>Q.</unclear></del> In this interview you spoke of Miss Lottie Mc Cord. Today you call her <unclear>Lottie</unclear> Cord</item>
+<item>A. It might have been McCord.</item>
+<item>Q. Of the 67 cases of yellow fever, some natural some experimental, that you nursed,<lb/>
+for Dr. Ames, how many were cared for at Milit. Hosp. No. 1. and how many at the<lb/>
+yellow fever shacks at Camp. Columbia.</item>
+<item>A. Only about 6 at the Milit. Hosp, including 2 that we took care of &ldquo;in <del>our</del> quarters&rdquo;<lb/>
+at <unclear>Piro</unclear> Technica. The rest, about 60 or 61 we took care of in the yellow fever<lb/>
+shacks in C. Columbia.</item>
+<pb n="23" id="f06002023"/>
+<item>23</item>
+<item>Q. Why didn't you take care of Andrus. Why did a woman take care of him.</item>
+<item>A. Technically the woman was in charge as I have already told you, but actually I<lb/>
+took care of him as his own letter states.</item>
+<item>Q. You said you didn't nurse the first 5 patients with yellow fever at the post (1900)<lb/>
+at the hospital. Is that correct.</item>
+<item>(Kean omitted)</item>
+<item>A. Yes that is correct. The first 5 were Edmonds, Page, Peterson, Cartwright,<lb/>
+Lazear. Mrs. Warner nursed them except Peterson who was in Los Anamus. I think the oth<lb/>
+nurse<lb/>
+other four were cared for by Mrs. Warner in the officers' ward. I helped Carroll <del>and</del><lb/>
+for only 2 nights. I didn't have anything to do with Lazear. I was an orderly on<lb/>
+Edmonds but wasn't a nurse.</item>
+<item>Q. <del><unclear>You</unclear></del><add>Who</add> nursed Lazear.</item>
+<item>A. Mrs. Warner according to her statement.</item>
+<item>Q. Who nursed Carroll?</item>
+<item>A. Mrs. Gillen was on at night the two nights that I helped. I believe Mrs. Warner<lb/>
+nursed him <add>in</add> the day time.</item>
+<item><unclear>Q</unclear> You said that only 1 of the 67 died. Who was it.</item>
+<item>A. I don't know his name. I think he was a Sargent from the Battery E, Second <unclear>Artillery</unclear>.</item>
+<item>REGARDING INTERVIEW OF MAY <unclear>""</unclear>22 1942</item>
+<item>Q. Why did you leave milit. hosp. no. 1 and change your duties and learn disinfectants?</item>
+<item>A. They closed up Milit. Hosp. no. 1 in April 1900. It was closed while I was on<lb/>
+furlough.</item>
+<item><unclear>Q.</unclear> What was the size of the four little buildings at the yellow fever patient<lb/>
+hospital.</item>
+<item># 113-114</item>
+<item># 115-116</item>
+<item>A. The first two were small, about 7 by 9. The other two were larger, about 12, by<lb/>
+16 or 18. The latter two contained three beds. <del><unclear>(Mrs.</unclear></del> Mr. Lambert reveiwed my<lb/>
+diagram on 3 A and stated that it was correct.) In the small buildings, 2, of them,<lb/>
+there were only 2 beds and no window. Only one window in the large buildings.</item>
+<item>Q. Is Miss McCord alive.</item>
+<item>A. No I don't think so. Both she and Mrs. Gillen lived in New Orleans. Some years<lb/>
+ago I advertised in the New Orleans paper ('32) to get in contact with them but the<lb/>
+<pb n="24" id="f06002024"/>
+24<lb/>
+ad never was <unclear>answered</unclear>. Mrs. Gillen died in '35 in Washington.</item>
+<item>Q. Amplify the story about Weatherwalk</item>
+<item>A. I have nothing further to say. He took the fomites but refused to be bitten<lb/>
+by a mosquito. Andrus took his place.</item>
+<item><unclear>No</unclear><lb/>
+England<lb/>
+T</item>
+</list></p>
+<p><unclear>x.</unclear> REMARKS</p>
+<p>Ames died in Central America in 1914 of black fever. Home was in New Orleans. <del>She</del><add>Mrs Ames</add><lb/>
+lives in N. Carolina. Is about 62. Kean is still living. Mrs. Ames has moved from<lb/>
+Atlanta and is now in sick in a rest home in Tryon, N. Car. Address: Wrens Nest,<lb/>
+Brandt Road Tryon, N. Car. Her son was in the war as a medical officer and was wounded.</p>
+<p>
+<list type="simple">
+<item>Q. In Mrs. Reed's scrapbook about her husband I found this newspaper clipping; it<lb/>
+gives a picture of the wards of the isolation hospital at C. Columbia barracks.</item>
+<item>A. I don't identify <add>these as</add> any of the buildings<unclear>,</unclear> I saw at the main hospital of C. Columbia, and<lb/>
+they certainly are not the little buildings of the yellow fever hospital. There<lb/>
+was only one window in two of the buildings and none in the other two. And we<lb/>
+had <del><unclear>x</unclear></del><add>no</add> chimney. It is possible that these might have been done over and enlarged<lb/>
+and he picture taken later. But they don't look anything like they did when I<lb/>
+was there 8 1/2 months although the size is all right. Around Christman 1900 they<lb/>
+built a little toilet behind building 115 and 116 about 30 feet approximately<lb/>
+east. I don't know when building 117-120 were build but they certainly weren't<lb/>
+there in 1900.</item>
+<item>Hench: With his poor eyesight Mr. Lambert could not identify any of the figures in<lb/>
+the <add>group</add> photograph which Mrs. Reed ga<del>m</del><add>v</add>e me. (Bucholds)</item>
+<item>The other photo <unclear>shows Buckhold</unclear> &amp; one of<lb/>
+the stark boys</item>
+<item>Lambert: In view of all you know and have been told, do you think it is fair that Dr. Ames did<lb/>
+not receive the same honor <del>the</del> and compensation that was given to the others.</item>
+<item><unclear>Henchx</unclear> A. Remember, I am answering this as an outsider. I had nothing to do with the<lb/>
+<unclear>dicision</unclear> regarding honor. But I believe the <unclear>dicision</unclear> was made as follows:<lb/>
+<pb n="25" id="f06002025"/>
+25<lb/>
+Men like Ames or yourself, Gen Wood, Major Kean, Gen. Sternberg and others who<lb/>
+helped tremendously and without whose <unclear>help</unclear> the experiments might not have been<lb/>
+carried out as easy or as successfully --all these people did their work <hi>in line of<lb/>
+duty</hi>, including the immune or non-immune nurses. The others, <unclear>however</unclear>, who were<lb/>
+actually planning the research or who offered their lives for the experiments<lb/>
+were considered to have served &ldquo;beyond the line of duty&rdquo;. and therefore were<lb/>
+selected for special honor. I realize that this decision is in some degree<lb/>
+unfair because some of those on the honor list, for eg. Agramonte, may not actually<lb/>
+have contributed nearly as much as Dr. Ames or even others like yourself. As you<lb/>
+say if the men who undertook the fomites experiments risked their lives once,<lb/>
+you risked your life 20 or more times. However, you did it in the line of duty,<lb/>
+while they did it <del><unclear>but</unclear></del> beyond the call of duty. The reward that you and Dr. Ames<lb/>
+and others not on the honor list will receive will come in other ways. I promise<lb/>
+you that whatever of your story <unclear>I</unclear> can verify will be put in my book and full cre-<lb/>
+dit will be given to you and Ames and others, and that is the only reward in<lb/>
+addition to the reward of your own conscience that I can promise. I doubt very much<lb/>
+if the War Dept. will re-open the honor list. There have been too many who have<lb/>
+tried to get on it who have made little or absolutely no contribution in this<lb/>
+conquest of yellow fever. Therefore the War Dept has become very hard boiled and<lb/>
+even some with pretty fair <unclear>claims</unclear> <del>or</del><add>to</add> special consideration have not been able<lb/>
+to get on the honor list. This might seem unfair, but I believe we must recognize<lb/>
+it as a fact.</item>
+<item>Q. {Dr. Brumby heard from Mrs. Ames that you planned to put up a monument in Cuba for<lb/>
+{the men who did the work. Will you put Dr. Ames name on the monument?</item>
+<item>by<lb/>
+Lambert.</item>
+<item>A. I certainly will. At least in this extent. The monument may be a memorial<lb/>
+building rather than a stone monument. If so, Dr. Ames's photograph will<lb/>
+go into the Memorial Building with an indication of what he did and there may<lb/>
+actually be no monument with names on it, but to <del>one</del><add>the</add> extent<del><unclear>,</unclear></del> <add>that</add> it is appropriate<lb/>
+to honor the various men, Dr. Ames will receive <add>his</add> full share.</item>
+<item><unclear>by P. S H</unclear></item>
+</list></p>
+<p>Last word of Mr. Lambert: I know that it would not have been possible to carry on<lb/>
+the experiments without Dr. Ames' help. In my opinion his name should <unclear>almost</unclear> head the<lb/>
+list. If a single patient had died the volunteers might no longer have appeared and<lb/>
+the experiments might well have ended.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

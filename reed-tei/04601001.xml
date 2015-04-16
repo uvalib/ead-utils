@@ -1,0 +1,1413 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04601001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: Account of the dedication of the Camp Lazear National Monument, by Philip Showalter Hench, January 3, 1953</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04601001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1953-01-03</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Nogueira, Pedro</name>
+<name type="person">Rojas, Maria Teresa</name>
+<name type="person">Cabrera, Lydia</name>
+<name type="person">Batista y Zaldivar, Fulgencio</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Recio, Alberto</name>
+<name type="person">Perez de los Reyes, Rudolfo</name>
+<name type="person">Cabarrouy, Gustavo</name>
+<name type="person">Meitin, Antonio Garcia</name>
+<name type="person">Orue, Francisco</name>
+<name type="person">Rodriguez, Cesar</name>
+<name type="person">Garrido, Eladio Gonzalez</name>
+<name type="person">Garrido, Juan Gonzalez</name>
+<name type="person">Macia, Adrian</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Pogliotti, Luis B.</name>
+<name type="person">Zunzunegui, Julian</name>
+<name type="person">Ruiz, Juan</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Delgado, Claudio</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Caswell, William W.</name>
+<name type="person">Schumann, Lucila</name>
+<name type="person">Streit, Paul H.</name>
+<name type="person">Armstrong, George E.</name>
+<name type="person">Ames, Jessie Daniel</name>
+<name type="person">Beaulac, Willard</name>
+<name type="person">Echeverria, Jose</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Wood, Louise</name>
+<name type="person">Van Scoy, Lela B.</name>
+<name type="person">Ramos, Domingo F.</name>
+<name type="person">Saladrigas, Enrique</name>
+<name type="person">Finlay, Carlos E.</name>
+<name type="person">Coroalles, [s.n.]</name>
+<name type="person">Leon, Estela Agramonte Rodriguez</name>
+<name type="person">Chrisman, R. B.</name>
+<name type="person">Tocantins, Leonardo W.</name>
+<name type="person">de Castro, Raimundo</name>
+<name type="person">Delgado, Dolores Alonso viuda de</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="person">Boada, Fernando</name>
+<name type="person">Delgado, Abelardo</name>
+<name type="person">Andreu, Jose R.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Presno, Jose A.</name>
+<name type="person">Briggs, Margaret Lazear</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Lazear, William Houston</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="person">Carbonell Ponce, Felipe</name>
+<name type="person">Carroll, George</name>
+<name type="person">San Martin, Ramon Grau</name>
+<name type="person">Prio, [s.n.]</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Phillips, R. Hart</name>
+<name type="person">Scott, Edward</name>
+<name type="person">Moran, Elida</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Quinta San Jose, Marianao (Cuba)</name>
+<name type="place">Quemados de Marianao (Cuba)</name>
+<name type="hospital">Columbia Barracks Post Hospital, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>22 pp.</extent>
+<date value="1953-01-03">January 3, 1953</date>
+<idno rend="suppress">04601001</idno>
+<title>Report: Account of the dedication of the Camp Lazear National Monument, by Philip Showalter Hench, January 3, 1953</title>
+</bibl>
+</head>
+<p>Hench provides a detailed account of the restoration and the dedication of Camp Lazear, as well as the social events following the ceremony. In two addendums he describes the Reed-Finlay controversy, Cuban newspaper articles on the dedication, and the political maneuvering involved in establishing the memorial.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1953-01-03">
+<head>Report: Account of the dedication of the Camp Lazear National Monument, by Philip Showalter Hench, January 3, 1953</head>
+<pb n="1" id="f04601001"/>
+<opener>
+<dateline>
+MAYO CLINIC<lb/>
+ROCHESTER, MINNESOTA<lb/>
+<date value="1953-01-03">January 3, 1953</date>
+</dateline>
+<hi>The Dedication of The &ldquo;Camp Lazear National Monument,&rdquo; Quemados de Marianao, Cuba</hi><lb/>
+<salute>Dear Friends:</salute>
+</opener>
+<p>This letter has been delayed by my Christmas-New Year's activities.</p>
+<p>When our Cuban friends invited me to attend the dedication of Camp Lazear in Havana,<lb/>
+December 3, I at first did not plan to go as I was so busy. But the repeated messages<lb/>
+from Dr. Pedro Nogueira and my great desire to see the culmination of my own 12 years<lb/>
+of hoping made me change my mind and happily I left Rochester by plane Saturday noon,<lb/>
+November 29.</p>
+<p><hi>Sunday, November 30</hi></p>
+<p>I should have reached Havana early Sunday morning but due to a series of annoying mis-<lb/>
+adventures (plane-motor trouble, etc.) I didn't reach the Hotel Nacional till about<lb/>
+4 p.m., seven hours late.</p>
+<p>Messages to call Senora Rojas and Dr. Nogueira and other Havana friends greeted me.<lb/>
+The weather was beautiful, sunny and warm (it was about zero when I left Rochester).</p>
+<p>&ldquo;Tina&rdquo; Rojas and Lidia Cabrera (who live in the Quinta San Jose) drove in to my hotel<lb/>
+and stayed for dinner with me. They told me what they had heard about the plans for<lb/>
+the dedication; among other things, that President Batista could not attend it after<lb/>
+all, as he was going to dedicate an airport at Trinidad, Cuba and would not be back<lb/>
+on time. Later that evening Pedro Nogueira stopped by for a brief chat and to give me<lb/>
+instructions; he was very busy attending to many details of the dedication.</p>
+<p>That evening I saw a copy of the Sunday morning HAVANA POST and was delighted to read<lb/>
+two very sympathetic items about the forthcoming dedication of Camp Lazear and its<lb/>
+significance: One was a long editorial entitled &ldquo;Day of the Doctor&rdquo;; the other was the<lb/>
+entire column of Edward Scott, entitled &ldquo;Man's Humanity to Man.&rdquo; These pleased me<lb/>
+very much and will gratify those of you to whom I can send copies.</p>
+<p><hi>Monday, December 1</hi></p>
+<p>About 10 a.m. Dr. Nogueira's car took me out to Quemados de Marianao for my first<lb/>
+view of the reconstructed and beautified site of Camp Lazear and to meet the com-<lb/>
+mittee of men who had planned and carried through the memorial project. The offi-<lb/>
+cial title of the committee was &ldquo;Patronato Pro-Conservacion de la Caseta de los Trabajos<lb/>
+Comprobatorios <unclear>del Descubrimiento</unclear> de Finlay&rdquo;: Patron for the conservation of the<lb/>
+caseta of the work confirming the discovery of Finlay. Its composition was: Dr.<lb/>
+Alberto Recio, President (he is Minister de Salubridad of Cuba), Dr. Pedro Nogueira<lb/>
+(who is also Director de la Unidad Sanitoria de Marianao), Dr. Rudolfo Perez de los<lb/>
+Reyes, Dr. Gustavo Cabarrouy, architect Antonio <unclear>Garcia Meitin</unclear>, Senor Francisco Or&uacute;e -<lb/>
+the Alcalde de Marianao, Cesar Rodriguez - newspaper man and also Historiador de la<lb/>
+Salubridad, i.e. historian for the Department of Health, and Eladio Gonzalez Garrido<lb/>
+(who with his brother, Juan Gonzalez Garrido, were the current owners of that part<lb/>
+of the old Finca San Jose occupied by Camp Lazear; apparently they bought it from<lb/>
+Adrian Macia about two years ago).</p>
+<pb n="2" id="f04601002"/>
+<p>HAVANA - 2 -</p>
+<p>These patrons were meeting formally for a final inspection of the project before they<lb/>
+approved and accepted it officially and turned it over to the City of Marianao and<lb/>
+the Ministry of Health for the dedication. Last minute developments were under way:<lb/>
+potted plants and potted palms were being arranged as temporary substitutes for per-<lb/>
+manent flowers and shrubbery; the grass plots were being watered and the roadway cleared.</p>
+<p>I hardly recognized the old place! <unclear>:</unclear> Two new streets have been made, extensions of old<lb/>
+streets, which lead to the little park. The one extension (from the junction of<lb/>
+Calle Jose Miguel Gomez and Ave. Valdez Carrera) is quite wide. Neither of these new<lb/>
+extensions (about 3 - 4 blocks) has been paved; the committee's $25,000 was insufficient<lb/>
+to include this cost now, but the new road construction seems satisfactory for the<lb/>
+time being and I understand that the roads will be paved in time. Calle Jose Miguel<lb/>
+Gomez, which leads to Camp Lazear from Calzada Real (and the front of the walled-in<lb/>
+Quinta San Jose) has been repaired extensively and is in much better shape than it<lb/>
+was 2 or 3 years ago.</p>
+<p>I understand that the municipality of Quemados repaired and constructed these roads<lb/>
+as its contribution to the memorial project. You will remember that when Moran,<lb/>
+Pogolotti and I found Camp Lazear in 1940 the original caseta #1 had been enlarged<lb/>
+(by 3 lean-to's) to house the Zunzunegui family; also another small shack was nearby.<lb/>
+Before the war Zunzunegui and family moved into a much better home about 2 blocks<lb/>
+away; then Bldg. One was occupied by an elderly couple, Juan ________ and his rotund<lb/>
+wife (Zunzunegui died recently).</p>
+<p>In connection with the Memorial, the town of Quemados obtained two of the small<lb/>
+houses on the edge of old Camp Lazear; into one they moved Juan and his wife (from<lb/>
+Bldg. #1); into the other they moved the man who had lived in the other little shack<lb/>
+right near Bldg. #1. Since their present quarters are much better, these &ldquo;displaced<lb/>
+persons&rdquo; are very happy.</p>
+<p>During my recent visits to the caseta, Juan has become very interested. At first he<lb/>
+and his wife were a little hostile, fearful that they would be kicked out unceremon-<lb/>
+iously. But Dr. Nogueira put upon him the responsibility for the &ldquo;protection&rdquo; of the<lb/>
+caseta from about 1944 (?) - 1952, and assured him he would not be removed without due<lb/>
+consideration. As a result, the old fellow has been the proud but unofficial &ldquo;care-<lb/>
+taker&rdquo; of the caseta for several years, meeting the several groups (governmental and<lb/>
+medical) who have visited it from time to time, and showing it off to passersby.</p>
+<p>Now recently the authorities of Quemados have made Juan the <hi>official</hi> caretaker of<lb/>
+the Memorial park and caseta; salary $60.00 per month. He is as proud and faithful<lb/>
+as can be; always on the spot, apparently at all hours. He keeps the key to the<lb/>
+caseta, which he keeps locked but which he is proud to open and demonstrate to in-<lb/>
+terested persons.</p>
+<p>On December 1 Juan greeted me like an old friend. Each time I saw him during the week<lb/>
+I was in Havana he was bustling about so proudly and officiously but effectively. (I<lb/>
+think he will tend the grass and flowers, also the memorial flower-urns to be set up<lb/>
+beneath each medallion and plaque.)</p>
+<p>The digging out and construction of the approaches to the memorial park have obliterated,<lb/>
+or rather intensified &ldquo;the little valley&rdquo; which lay between Bldgs. 1 and 2 (as described<lb/>
+by Reed and portrayed in the old Army photos of Camp Lazear). Thus the caseta is now<lb/>
+on an elevation perhaps 3 - 4 feet above the surrounding new road, although actually<lb/>
+the base and skeleton of the Caseta #1 and the adjacent tree were untouched except<lb/>
+that the tree (not there in 1900; planted later) has been carefully fixed up, old<lb/>
+limbs being chopped off, rotted places being &ldquo;tree-surgeoned.&rdquo;</p>
+<pb n="3" id="f04601003"/>
+<p>Havana - 3 -</p>
+<p>The caseta is in the center of a circular plot of ground (made circular by the sur-<lb/>
+rounding road) which is land-scaped and criss-crossed with cement pavements. In<lb/>
+front of the caseta is a new flag-pole. The pavement parallel to the front of the<lb/>
+caseta enlarges immediately to the right of the caseta to become a small, entirely<lb/>
+cemented &ldquo;esplanade,&rdquo; the part next to the caseta being on the same level as the<lb/>
+caseta, the other part being one step higher. This latter part is in front of the<lb/>
+stone wall (about 10 feet high) which is slightly concave and on which are the bronze<lb/>
+medallions and plaques.</p>
+<p><hi>The caseta</hi>.- This has been extensively repaired. The original frame-work was left un-<lb/>
+touched, but the termite infested wood of the walls, roof and floor was removed,<lb/>
+examined carefully and re-cut. That part of the wood (usually the contiguous ends<lb/>
+of the various board-lengths) which was damaged by termites to the extent that it<lb/>
+could not be safely re-used (in the architect's opinion) was carefully saved, (the damaged<lb/>
+ends being cut off) for souvenir-purposes. But all the lengths that could be used were<lb/>
+re-used on the <hi>inner</hi> part of the caseta.</p>
+<p>Now, as originally, the caseta is of double-thickness. New outer boards run perpen-<lb/>
+dicularly (as in 1900). The boarding of the inner walls runs horizontally (as in 1900).<lb/>
+About half the floor is reconstructed of original wood-flooring. The inside walling<lb/>
+of the two <hi>ends</hi> of the caseta (14 feet) is reconstructed from the original wall boards<lb/>
+(the &ldquo;tongued and grooved&rdquo; boards which Reed described) from the floor to about a<lb/>
+height of 7 feet, i.e. about 60 per cent of these end-walls. The two larger (20 foot)<lb/>
+front and back walls are of new wood as most of the roof. But some of the original<lb/>
+roof-boards are preserved in the roof, e.g. one of the original boards cut out for the<lb/>
+little smoke-stack. The roof is &ldquo;unique&rdquo; as it was originally, that is, &ldquo;a roof<lb/>
+with a low ceiling so low that mosquitos resting upon it could be captured with ease,&rdquo;<lb/>
+this ceiling was flat and covered with cloth (Carroll p. 211), i.e. the top of the inverted<lb/>
+V of the ceiling was made flat, not the whole ceiling.</p>
+<p>I wish indeed that an expert (and expensive) &ldquo;museum job&rdquo; of delicate repairing of<lb/>
+the original caseta could have been carried out. But Dr. Nogueira assured me that<lb/>
+the architect did the very best he could to preserve and use just as much of the<lb/>
+original wood as possible. (Those of you who have seen the photos I took of the<lb/>
+caseta, 1940-1952, will recall how dilapidated it had gotten.) But as a result,<lb/>
+what now represents &ldquo;Bldg. 1&rdquo; is more of a &ldquo;replica&rdquo; than a &ldquo;restoration.&rdquo; Perhaps<lb/>
+20 per cent of the wood of the &ldquo;1952 caseta&rdquo; is from the &ldquo;1900 caseta.&rdquo;</p>
+<p>Dr. Nogueira instructed the architect with meticulous care, concerning the original<lb/>
+plans of Reed, and as I said, the cornices, base and uprights of the original building<lb/>
+were left untouched, as Doctor Nogueira's photos taken for me show.</p>
+<p>Under the committee's supervision the outer double-screened vestibule (which was gone<lb/>
+in 1940) was reconstructed exactly as per Reed's descriptions and drawings, and the<lb/>
+army photos of 1900. Also the two windows on the front side were reconstructed with<lb/>
+screens and sliding panels, as per Reed's descriptions (the original one on the right<lb/>
+was still there, 1940-1952; this was reconstructed. The original one on the left had<lb/>
+long ago been made into a long Spanish-type barred-window, extending from the floor<lb/>
+upwards about 7 feet).</p>
+<p>The committee had painted the reconstructed caseta white inside and out, under the<lb/>
+impression that it was originally described thus by Reed. Actually the <hi>outside</hi> of<lb/>
+the original Bldg. #1 was unpainted (so far as I can find) and as appears from the<lb/>
+old 1900 Army photos) but Carroll wrote of the inner walls being covered with white<lb/>
+cotton cloth (Sen. Doc. P. 211). At present the inside of the caseta is bare and<lb/>
+empty but photos, display-cabinets, etc., will be placed therein.</p>
+<pb n="4" id="f04601004"/>
+<p>-Havana - 4 -</p>
+<p><hi>Medallions and Plaques</hi>. On the slightly concave stone wall, which terminates the small<lb/>
+&ldquo;esplanade&rdquo; and which serves as the boundary of the memorial, were placed the following<lb/>
+(from left to right): A large bronze plaque bearing the names of 12 volunteers; then<lb/>
+seven smaller circular medallions presenting the individual profiles of Lazear, Reed,<lb/>
+Delgado, Finlay, Wood, Carroll and Agramonte; then another large bronze plaque bearing<lb/>
+the names of seven more volunteers and, beneath them, six names of &ldquo;Those Who Cooperated&rdquo;<lb/>
+(Kean, Sternberg, Truby, Ames, Lambert and Warner). Under each of the medallions is a<lb/>
+small bronze plate giving the name and the years of each man so memorialized, e.g.<lb/>
+&ldquo;Walter Reed 1851 - 1902.&rdquo;</p>
+<p>(Last summer I submitted, upon request, detailed information to the Cuban committee,<lb/>
+listing everyone who had helped Reed and his colleagues in an important way. The<lb/>
+patronates decided to omit the name of Gorgas &ldquo;because he had nothing to do with<lb/>
+Camp Lazear and especially because a bronze bust of him has already been erected<lb/>
+in Finlay Park in front of the Ministry of Health&rdquo;; the Cuban committee decided to<lb/>
+include the names of Dr. Ames and nurses Lambert and Warner, but to exclude Drs.<lb/>
+Pinto and Stark &ldquo;who made no contribution to the work actually done at Camp Lazear.&rdquo;)<lb/>
+(Also omitted were Dean- &ldquo;XY,&rdquo; and the third series of volunteers studied at Las Animas<lb/>
+and Col. Post Hospital, not at Camp Lazear.)</p>
+<p>The ground occupied by the memorial park (7076 meters) was presented free to the<lb/>
+municipality of Quemados by the Gonzales Garrido brothers (Eladio and Juan whose<lb/>
+paternal <unclear>name,</unclear> is, I believe, Gonzales; Garrido probably being the maternal name).<lb/>
+But this includes only about 1/3 of what <hi>was</hi> Camp Lazear in 1900-1901. Fortunately<lb/>
+<hi>all</hi> of the original area is still free of building although it is quite surrounded<lb/>
+on two sides by small houses, on the other two sides by unsightly quarries which<lb/>
+have been notably extended even since 1940 and which give the present site a look<lb/>
+<hi>totally</hi> different from that of the 1900 Army photos (which, however, were taken in<lb/>
+exactly the opposite direction from which one now sees or approaches the spot and<lb/>
+which would therefore be deceiving even had the quarries not been developed).</p>
+<p>The Gonzales brothers still own the site of Bldg. #2 (destroyed in the storm of 1926)<lb/>
+and of the tents. These were where the cornfield was (1940-1952) but the cornfield<lb/>
+has been dug up. The field is empty and is being used (unofficially) as a &ldquo;park&rdquo; or<lb/>
+baseball field for the kids of the neighborhood. But the two old &ldquo;ruins,&rdquo; which were<lb/>
+in 1900 fairly near Bldg. 2 (as shown in the 1900 army photos) and which were there<lb/>
+in 1940 when Moran, Pogolotti and I rediscovered the site, are still present, just<lb/>
+between the old cornfield and the encroaching quarries. But these two ruins are<lb/>
+getting smaller and smaller as the years pass. I consider them important because<lb/>
+they <hi>do</hi> appear in the old 1900 photos. Therefore I urged the committee to purchase<lb/>
+<hi>soon</hi> the rest of the old camp site, <hi>including</hi> the little ruins and to <hi>leave</hi> the<lb/>
+ruins untouched.</p>
+<p>(I've never been able to identify them exactly but one may have been a small lime-kiln<lb/>
+and the other a little bath house, both built long before 1900, the latter apparently<lb/>
+by the Jesuits when they occupied the Finca San Jose, 1872 - 1883. The little spring<lb/>
+is still present in what was the corn field and runs right by the little foliage<lb/>
+covered ruin of the bath house(?).</p>
+<p>The whole memorial park area is very well lighted. The encircling road is lighted<lb/>
+by electric lights and there are others which light up the caseta and the &ldquo;esplanade.&rdquo;<lb/>
+Indeed at night the spot looks <hi>very</hi> nice indeed; I saw it twice at night.</p>
+<p>After the Committee's inspection several photos were taken: of the caseta, of the<lb/>
+plaques and medallions, and then of the patronates who invited me to pose with them.</p>
+<pb n="5" id="f04601005"/>
+<p>Havana - 5 -</p>
+<p><hi>Tuesday, December 2</hi></p>
+<p>In the morning Mr. William W. Caswell, who for years has been the manager of the Cuban<lb/>
+branches of the First National Bank of Boston, telephoned to invite me to meet him for<lb/>
+lunch. Mr. Caswell, a Harvard graduate, had been appointed by Dr. Berry, Dean of Har-<lb/>
+vard Medical School, to represent Harvard at the Dedication and to lay the wreath in<lb/>
+memory of General Wood (graduate of Harvard Medical School 1884). Mr. Caswell is a<lb/>
+charming man and was extremely helpful to me. Thirteen wreaths were to be placed: I<lb/>
+felt myself responsible for their purchase and delivery to Camp Lazear and was con-<lb/>
+cerned because those who were to place them had either not showed up or contacted me,<lb/>
+or were late in arriving.</p>
+<p>I had many other things to do besides the matter of the wreaths. Therefore I was very<lb/>
+grateful when Mr. Caswell offered to take over most of the latter responsibility.<lb/>
+We went to a fine flower store on the Prado very near the well known El Patio restaurant,<lb/>
+and also only a block or two from Finlay's old (1881) home on the Prado (now marked by<lb/>
+a bronze tablet). The store, &ldquo;Milagros Flores,&rdquo; was owned by a charming young woman,<lb/>
+Senora Lucilla Schumann who knew the Caswells well. It so happened her mother was<lb/>
+recently expected to lose one eye from a severe inflammation; &ldquo;the eye was saved by<lb/>
+cortisone.&rdquo; Obviously Mr. Caswell had spoken to her of my interest in cortisone; as<lb/>
+a result Miss Schumann went out of her way to be most helpful.</p>
+<p>I was authorized by most of the institutions to spend $15.00 for each wreath. Those<lb/>
+which Miss Schumann provided must have been priced much higher but she insisted on<lb/>
+making &ldquo;fine, dignified wreaths&rdquo;; this she certainly did and charged me only the<lb/>
+$15.00 each, a very real courtesy. Not only that but she insisted on having the<lb/>
+attached cards <hi>printed</hi>. (I had expected to write on each small card the appropriate<lb/>
+inscription in long-hand.) Mr. Caswell and she improved upon and translated my sug-<lb/>
+gestions for the inscriptions into Spanish and Miss Schumann herself (giving up her<lb/>
+noon hour) arranged for the printing of the cards. She was so interested in the<lb/>
+Camp Lazear story and I have sent her a reprint about it.</p>
+<p>After attending to the wreaths, Mr. Caswell took me for lunch at the American Club<lb/>
+where I had often lunched with dear old Johnny Moran. In the lobby we ran into<lb/>
+Royal S. Webster of the Havana Railroads, the man who helped me out in 1940-1941<lb/>
+by providing maps and data regarding the triangle of railroad tracks by the false<lb/>
+Campamento Lazear site beside the old La Playa railroad spur.</p>
+<p>After lunch I became concerned because of the non-arrival of General Streit who was<lb/>
+representing the Surgeon General of the Army, General George Armstrong, of Dr.<lb/>
+Tocantins (representing Jefferson Medical College), the American Medical Associa-<lb/>
+tion's representative whose name had not been given to me, and Mrs. Ames. (Mr.<lb/>
+Hanberry had sent word he was too feeble to attend the ceremony although the<lb/>
+Cuban government offered to send a plane.) Nor had Pedro Nogueira been able to locate<lb/>
+Dr. Echeverria who was to represent the University of Maryland. Dr. Jane, representing<lb/>
+<unclear>Bellevue</unclear>, was ill. All of these folks were supposed to participate in the ceremony;<lb/>
+most of them were supposed to lay wreaths from various American institutions, some of<lb/>
+the wreaths being in honor of Finlay and Delgado as a fitting gesture of honor from<lb/>
+Americans. I began to fear that, because of the absence of these important people, our<lb/>
+American tribute might fall through. But the American Ambassador, Mr. Willard<lb/>
+Beaulac and his efficient secretary, Mrs. Sicklick, had phoned, offering whatever<lb/>
+help they could give. When I told them of my dilemma, Ambassador Beaulac promised to<lb/>
+bring with him to the ceremony enough aides (military, etc.) to help out, and to sub-<lb/>
+stitute for any missing wreath-layers.</p>
+<p>The newspapers explained the absence of the out-of-towners. The Eastern Airlines had<lb/>
+suddenly been involved in a strike; none of its planes were flying. Also a very bad<lb/>
+storm had hit the east coast, grounding most of the planes of the other lines.</p>
+<pb n="6" id="f04601006"/>
+<p>Havana - 6 -</p>
+<p>Another person who had not arrived was Miss Louise Wood, daughter of General Leonard<lb/>
+Wood. Miss Wood was born in the Palace (now the City Hall) in 1902 when her father<lb/>
+was Governor-General, but had never returned to Cuba. Recently she gave to the Cuban<lb/>
+Government some of her father's historic Cuban souvenirs including the American and<lb/>
+Cuban flags which had been lowered and raised respectively on the day the American<lb/>
+occupation ended and Cuba became an independent Republic. For these and other<lb/>
+reasons, President Batista had invited her to attend the Camp Lazear Dedication and<lb/>
+to be the guest of the Cuban Government. Many governmental representatives and<lb/>
+newspaper reporters were waiting for her. After a very hectic and stormy flight in a<lb/>
+substitute plane she and her companion, Miss Lela B. Van Scoy finally arrived at the<lb/>
+airport about 6 p.m. and at the hotel about 7. Soon after her arrival I had a nice<lb/>
+little chat with her (in the Presidential Suite at the Hotel Nacional); we talked with<lb/>
+affection about our mutual friends, the Keans.</p>
+<p>About midnight I received a cable from General Streit saying that because of the<lb/>
+storm all planes from Washington were grounded and he couldn't get to Cuba. This<lb/>
+was a real disappointment for all concerned.</p>
+<p><hi>Wednesday, December 3</hi></p>
+<p>This day, the birthdate of Dr. Finlay, has been designated in Cuba as &ldquo;El Dia del<lb/>
+Medico&rdquo; (The Day of the Doctor, or &ldquo;Physicians' Day&rdquo;), also &ldquo;Dia de la Medicina<lb/>
+Americana.&rdquo; On this day are held annually many ceremonies, many of them honoring<lb/>
+Finlay, others honoring medicine and medical men in general. Tributes are paid by schools,<lb/>
+hospitals, service clubs (Rotary, Lions, etc.) etc. On this day the annual awards of<lb/>
+the Condecoracions of the Finlay Order are announced and given out at a special<lb/>
+ceremony in the Academy of Sciences. Certain Latin-American affairs are held: tributes<lb/>
+to Finlay and expressions of good-will and mutual friendship from Latin-American<lb/>
+Medical Societies and Latin-American Embassies. The newspapers ran not only long<lb/>
+news columns about all these events but printed editorials honoring not only Dr. Finlay,<lb/>
+&ldquo;the symbol of Cuban science,&rdquo; but all medical science and scientists. A certain com-<lb/>
+mercialism has attached itself to the day (as it has to our Mothers' Day): for several<lb/>
+days many stores had run newspaper advertisements of items suitable as gifts from the<lb/>
+patient to his doctor (desk sets, radios, wallets, dressing gowns, pens, neckties, etc.,<lb/>
+etc. - Not a bad idea, on second thought! Let's start it in this country!)</p>
+<p>All of this appears to be done on a high plane and the day is widely celebrated, all<lb/>
+governmental and most of the diplomatic elements participating. Therefore it was<lb/>
+quite appropriate that this date was chosen for the dedication of the memorial at<lb/>
+Camp Lazear; for the latter a much wider participation was insured because of the<lb/>
+day which was a semi-holiday.</p>
+<p>At 9:30 a.m. a delegation from the Finlay Institute, the government and other groups<lb/>
+laid wreaths and conducted a brief ceremony at the grave of Dr. Finlay in Colon<lb/>
+Cemetary. My old friend, Dr. Domingo Ramos, now Director of the Finlay Institute,<lb/>
+in 1940 the Minister of Defense, spoke briefly at the ceremony. (I had not been in-<lb/>
+formed of this ceremony and was sorry I missed it. I don't think Dr. Nogueira<lb/>
+participated in it; currently he has no governmental connection; his official work<lb/>
+is connected with the city of Marianao and he was very busy that morning, early at<lb/>
+Camp Lazear. On some future occasion I think it would be fine if some representa-<lb/>
+tive of the American Medical Association and/or of the Medical Corps, U. S. Army,<lb/>
+<hi>could</hi> attend this annual ceremony and lay a wreath; it would do <hi>much</hi> to strengthen<lb/>
+Cuban-American medical friendship and enhance what the dedication of Camp Lazear is<lb/>
+accomplishing along that line.)</p>
+<pb n="7" id="f04601007"/>
+<p>Havana - 7 -</p>
+<p><hi>Ceremony at Camp Lazear: Dedication of the Memorial Park</hi></p>
+<p>The ceremony should have started at 10:30 a.m. Well before this hour my loyal new<lb/>
+friend Mr. Caswell (and his wife) went to the camp site, met the truck from the<lb/>
+florist and saw to it that all wreaths were on hand and arranged in order so that<lb/>
+they could be easily given to the official wreath-layers.</p>
+<p>Dr. Nogueira has often told me: &ldquo;In Cuba a 10 o'clock appointment means 10:15 or<lb/>
+10:30, sometimes later!&rdquo; And so it was this morning. The day was bright and warm<lb/>
+with a cloudless blue sky. When I arrived about 10:15 a crowd had gathered but the<lb/>
+ceremony didn't start till about 11:15 or 11:30 (I think Dr. Saladrigas, the Minister<lb/>
+of Health, was the latest arrival, he having attended other ceremonies that morning).</p>
+<p>While we were waiting I had a good chance to meet some of the main guests: Frank<lb/>
+Finlay and wife, Dr. Delgado's widow and son, Mr. Coroalles - Mrs. Moran's brother,<lb/>
+certain representatives of government, medical and other societies, etc.<unclear>.</unclear> Ambassador<lb/>
+and Mrs. Beaulac were there with most of the embassy staff; also Miss Wood, Miss<lb/>
+Van Scoy, Estela Agramonte with her husband and son, Tina Rojas, Lidia Cabrera and<lb/>
+others. Dr. Tocantins had arrived from Philadelphia, also Dr. and Mrs. R. B. Chrisman<lb/>
+from Miami; he was to represent the A.M.A. At the last minute, Dr. Echeverria<lb/>
+turned up (apparently he is a retired physician, not listed in the phone book and dif-<lb/>
+ficult to locate). (Mrs. Ames had not yet arrived.)</p>
+<p>It was perhaps just as well that the ceremony was late in starting because most of<lb/>
+these people had never been to Camp Lazear before, and had never met each other.<lb/>
+So we had a nice chance for introductions, greetings, etc. Also the news photographers<lb/>
+had a chance for many group photographs.</p>
+<p>According to the newspaper accounts the following were present (in addition to those<lb/>
+mentioned above): The Minister of Commerce - Dr. Torre, the Minister of Justice -<lb/>
+Dr. Cespedes, two cabinet &ldquo;ministers without portfolio&rdquo; - Drs. Alvarez and <unclear>Montoro</unclear>,<lb/>
+the Subsecretario del Salubridad - Dr. Toriza; General Tamayo representing General<lb/>
+Tabernilla, the head of the Army; Mayor Or&uacute;e of Marianao, Dr. de Castro, secretary<lb/>
+of the Academy of Sciences of Havana, members of the Junta Nacional de Sanidad, the<lb/>
+Patronates named above, representatives of the College of Medicine, the College of<lb/>
+Laws of Marianao, the Rotary Club, the Lions and &ldquo;other official and scientific<lb/>
+representatives.&rdquo;</p>
+<p>Quite a few Quemados folk were on hand including numerous children - the people of<lb/>
+the neighborhood who for the most part modestly kept in the background, standing down<lb/>
+on the roadway, etc., rather than coming up onto the little park and esplanade, I was<lb/>
+as interested in these people as in the dignitaries and honored guests, because the<lb/>
+former are the ones who will be actually using the little park, living with it and<lb/>
+slowly learning of its significance, passing on that knowledge as &ldquo;local history&rdquo; to<lb/>
+the next generations of Quemados and Marianao. Also it is they, who by their respect<lb/>
+or disrespect, will keep the little park neat and clean, or deface it with thought-<lb/>
+lessness of the &ldquo;careless public.&rdquo; On this occasion at least, they seemed interested<lb/>
+and respectful.</p>
+<p>Folding chairs had been provided for the distinguished guests on the lower level of<lb/>
+the little esplanade. The upper esplanade was empty except for a loud speaker and<lb/>
+was to be used as the platform for the speakers. The unseated crowd were supposed<lb/>
+to have stood on the lower esplanade in front of and beside the caseta. Had they<lb/>
+done so, everyone could have seen and heard the ceremony with ease and it would have<lb/>
+been more dignified. But as soon as the ceremony started, as soon as the first<lb/>
+speaker went to the microphone the people without seats just crowded forward sur-<lb/>
+rounding the speaker entirely, leaving a vacant circle of only a few feet around him<lb/>
+<pb n="8" id="f04601008"/>
+Havana - 8 -<lb/>
+and of course, standing between the speaker and the seated guests with the result that<lb/>
+the latter could see very little of the affair unless they too stood up. I thought<lb/>
+this one feature of the affair was unfortunate but when I mentioned it delicately<lb/>
+to one or two Cuban friends they laughed and said &ldquo;That is our typical custom. We're<lb/>
+not familiar with roped-off areas and everybody likes to crowd as close to the speaker<lb/>
+as possible.&rdquo;</p>
+<p>The ceremony was opened by the band of the Estado Major del Ejercito (the Band of the<lb/>
+Army General Staff), a small but enthusiastic group of young men who played the national<lb/>
+anthems of Cuba and of the United States. Then Dr. Enrique Saladrigas, Ministro de<lb/>
+Salubridad y Asistencia Social (Minister of Health) raised the Cuban flag to the top<lb/>
+of the little flagpole directly in front of the caseta.</p>
+<p><hi>The Unveilings</hi>: Then the bronze medallions and plaques were unveiled by the following<lb/>
+persons (and essentially in the following order, I think):<lb/>
+<list type="ordered">
+<item>1. The central medallion, that of Dr. Finlay, by his son Frank Finlay.</item>
+<item>2. The medallion of Dr. Delgado - by his widow, Senora Dolores Alonso viuda de<lb/>
+Delgado.</item>
+<item>3. General Wood's - by his daughter Louise Wood.</item>
+<item>4. Major Reed's - by the American Ambassador, Mr. Willard Beaulac.</item>
+<item>5. Dr. Lazear's - by Senor Francisco Or&uacute;e, Alcalde (Mayor) of Marianao.</item>
+<item>6. Dr. Carroll's - by Major Harold Lampner, an Army Medical Corps officer<lb/>
+with the U. S. Army Mission to Cuba.</item>
+<item>7. Dr. Agramonte's - by his daughter Estela Agramonte Rodriguez Leon.</item>
+<item>8. The first plaque (on the extreme left) to the American and Cuban volunteers,<lb/>
+among them John Moran - by Senor Coroalles, Mrs. Moran's brother.</item>
+<item>9. The second plaque (on the extreme right) to the volunteers and to &ldquo;Those<lb/>
+who cooperated&rdquo; - by Senora Maria Teresa Rojas, present owner of the<lb/>
+Quinta San Jose and daughter of Dr. Ignacio Rojas who, with his wife,<lb/>
+owned, in 1900, the Finca San Jose and who rented part of it to the<lb/>
+U. S. Army Commission to set up Camp Lazear.</item>
+</list></p>
+<p>The medallions and plaques were made by the Cuban sculptor Fernando Boada. The wall<lb/>
+was erected and the plaques, etc., were mounted through the cooperation of Dr.<lb/>
+Gustavo <unclear>Boock</unclear>, Director of the Instituto Civico Militar.</p>
+<p>Dr. Nogueira told me that the Mayor of Marianao, Senor Or&uacute;e (who was on the committee<lb/>
+of &ldquo;Patronates&rdquo;) was especially happy to be asked to unveil the medallion of &ldquo;the<lb/>
+martyr, Lazear, who died here in Quemados de Marianao.&rdquo;</p>
+<p><hi>Floral Tributes</hi>: After the unveilings the floral tributes were placed. Prior to<lb/>
+the ceremony two large floral decorations fastened to wooden frames about 12 feet<lb/>
+tall, had been placed - one at either end of the wall and row of commemorative<lb/>
+bronzes; these were placed in the name of President Batista and Minister Saladrigas.</p>
+<p>In addition, wreaths were placed by the following in this order (so far as I<lb/>
+can remember): Dr. Nogueira announced over the loud speaker the institution, its<lb/>
+representative and the man or men being honored; as he did so each representa-<lb/>
+tive assisted by two uniformed &ldquo;Cuban Red Cross men&rdquo; placed the wreath.</p>
+<pb n="9" id="f04601009"/>
+<p>Havana - 9 -</p>
+<p><unclear>Title</unclear></p>
+<p><hi>FLORAL TRIBUTES</hi></p>
+<p>
+<table rows="14" cols="4">
+<row>
+<cell>Organization</cell><cell>Representative</cell><cell>In honor of</cell><cell>Wreath placed under<lb/>
+or beside the<lb/>
+memorial to -</cell></row>
+<row>
+<cell>1. American Medical<lb/>
+Association</cell><cell>Dr. R.B. Chrisman, Jr.<lb/>
+of Miami</cell><cell>Drs. Finlay<lb/>
+and Delgado</cell><cell>Finlay</cell></row>
+<row>
+<cell>2. Surg. Gen. U.S.<lb/>
+Army (Maj. Gen.<lb/>
+George Armstrong)</cell><cell>Maj. Harold Lampner, MC<lb/>
+U.S.A. substituting<lb/>
+for Maj. Gen. Streit</cell><cell>Drs. Finlay<lb/>
+and Delgado</cell><cell>Between Finlay and<lb/>
+Delgado.</cell></row>
+<row>
+<cell>3. The Mayo Founda-<lb/>
+tion</cell><cell>Dr. Hench</cell><cell>Drs. Finlay,<lb/>
+Reed and<lb/>
+Associates</cell><cell>Between Finlay and<lb/>
+Delgado.</cell></row>
+<row>
+<cell>4. Jefferson Medical<lb/>
+College</cell><cell>Dr. Leonardo W.<lb/>
+Tocantins, Prof.<lb/>
+Clin. &amp; Exper. Med.</cell><cell>Dr. Finlay,<lb/>
+Grad of Jeff.<lb/>
+Med, 1855</cell><cell>Between Finlay and<lb/>
+Delgado</cell></row>
+<row>
+<cell>5. Harvard Univ. and<lb/>
+its Med. School</cell><cell>Mr. William Caswell<lb/>
+Harvard Alumnus in<lb/>
+Cuba</cell><cell>Gen. Wood,<lb/>
+Grad. of Harv.<lb/>
+Med Sch., 1884</cell><cell>Wood</cell></row>
+<row>
+<cell>6. Bellevue Med. Col.<lb/>
+(New York Univ.)</cell><cell>Dr. Hench substi-<lb/>
+tuting for Dr.<lb/>
+Emilio Jane (ill)</cell><cell>Major Reed,<lb/>
+grad. of Belle-<lb/>
+vue, 1870</cell><cell>Reed</cell></row>
+<row>
+<cell>7. U. of Md.</cell><cell>Dr. Jose Echeverria<lb/>
+Havana alumnus</cell><cell>Dr. Carroll,<lb/>
+grad. of U. of<lb/>
+Md., 1892</cell><cell>Carroll</cell></row>
+<row>
+<cell>8. College of Phys.<lb/>
+&amp; Surg. (Columbia<lb/>
+Univ.)</cell><cell>Dr. Raimundo de<lb/>
+Castro, Pres. Col. U.<lb/>
+Alumni Club of Havana;<lb/>
+Secr. Acad. Sciences,<lb/>
+Havana</cell><cell>Dr. Agramonte<lb/>
+grad. 1892</cell><cell>Agramonte</cell></row>
+<row>
+<cell>9. Same</cell><cell>Same</cell><cell>Dr. Lazear,<lb/>
+grad. 1892<lb/>
+(He &amp; Agramonte<lb/>
+were classmates)</cell><cell>Lazear</cell></row>
+<row>
+<cell>10. Surg. Gen., U.S.<lb/>
+Army (Gen.<lb/>
+Armstrong)</cell><cell>Col. Robert J. Mason<lb/>
+Air Attache, U.S.<lb/>
+Embassy in Havana<lb/>
+(substituting for<lb/>
+General Streit)</cell><cell>American soldier-<lb/>
+volunteers</cell><cell>Under the left<lb/>
+plaque to the<lb/>
+volunteers.</cell></row>
+<row>
+<cell>11. College of Phys.<lb/>
+&amp; Surg. (Columbia<lb/>
+Univ.)</cell><cell>Dr. de Castro</cell><cell>Surg. Gen. Stern-<lb/>
+berg, grad, 1860</cell><cell>Under the right<lb/>
+plaque to the<lb/>
+volunteers. Sternberg, etc.</cell></row>
+<row>
+<cell>12. Walter Reed Mem-<lb/>
+orial Assoc.</cell><cell>Lt. Col. Vincent M.<lb/>
+Elmore, Army Attache<lb/>
+U. S. Embassy</cell><cell>Major Reed</cell><cell>Reed</cell></row>
+<row>
+<cell>13. Univ. of Va.<lb/>
+and its Med. Sch.</cell><cell>Mr. Earl T. Crain<lb/>
+First Secretary of the<lb/>
+U. S. Embassy</cell><cell>Major Reed, Class of 1869<lb/>
+John Moran, Class of 1902<lb/>
+Dr. Robt. Cook, " " 1897<lb/>
+Gen. J.R. Kean " " 1883</cell><cell>Near<lb/>
+Reed's.</cell></row></table></p>
+<pb n="10" id="f04601010"/>
+<p>Havana - 10</p>
+<p>In arranging the order in which the floral tributes were to be placed it seemed to Mr.<lb/>
+Caswell and me (and agreeable to Dr. Nogueira) that the first tributes should of course,<lb/>
+be placed for Drs. Finlay and Delgado whose work antedated that of the U. S. Army Com-<lb/>
+mission. Then wreaths were laid under the medallions of Wood, Reed, Carroll, Agramonte<lb/>
+and Lazear (their respective &ldquo;ranks&rdquo; in the U. S. Army). Thereafter it seemed ap-<lb/>
+propriate and diplomatic to have a wreath placed under each of the other plaques or<lb/>
+medallions before any more wreaths were laid in honor of anyone already honored. When<lb/>
+a single wreath was being placed to honor more than one man, unless the respective<lb/>
+bronzes were side by side, a choice had to be made as to where the wreath was to be<lb/>
+placed and the wreath was placed where it would either look the best, balancing the<lb/>
+whole floral display, or where it seemed diplomatic to place it.</p>
+<p>With one or two exceptions all the wreaths were of uniform size and composition,<lb/>
+quite impressive in size and beauty. They were tied with ribbons of red, white, and<lb/>
+blue (colors of both Cuba and the U. S.) except that that from Harvard had a red and<lb/>
+white ribbon, that from the University of Virginia a blue and gold ribbon, the<lb/>
+respective college colors. Altogether they made a beautiful, impressive display,<lb/>
+and the Cubans seemed to be most pleased by these floral tributes from American in-<lb/>
+stitutions; all the papers listed the names of the donors, placers and recipients and<lb/>
+several photographs of the wreath-layings were published in the papers.</p>
+<p><hi>The Speeches</hi>: Speeches were then made by the following:<lb/>
+<list type="ordered">
+<item>1. Dr. Alberto Recio, Director General de Salubridad, and Presidente del Patronato.</item>
+<item>2. Dr. Hench; copies of my complete speech had been given, on request, to various<lb/>
+newspapers, also to Mr. Cushing, Public Relations Officer, U. S. Embassy for use<lb/>
+on (I think) the Voice of America. But because of the lateness of the hour, etc.<lb/>
+I actually spoke only the opening and closing paragraphs. An abstract of my<lb/>
+speech was then read in Spanish by Senor Rodriguez, one of the patronates.</item>
+<item>3. General Streit's short talk was translated and read in toto by Dr. Nogueira and<lb/>
+published in full in one or two papers.</item>
+<item>4. Dr. Abelardo Delgado, son of <hi>the</hi> Dr. Delgado, expressed his thanks briefly.</item>
+<item>5. Dr. Tocantins, from Jefferson Medical College from which Finlay graduated.</item>
+<item>6. Dr. Saladrigas, speaking for himself and for President Batista who had gone<lb/>
+to Trinidad, Cuba, the day before.</item>
+<item>7. After the above, someone read messages of regret and appreciation sent by the<lb/>
+following: Dr. Jose R. Andreu, the previous Minister of Health through whose<lb/>
+effort the memorial project had received its first governmental support; the<lb/>
+Reed family; the Lazear family; General Albert E. Truby, and Mr. Leonard Han-<lb/>
+berry, the sole surviving volunteer.</item>
+</list></p>
+<p>I was very pleased with the speeches of our Cuban hosts who took pains to describe<lb/>
+to the audience (and to the press) the historical significance of Camp Lazear and the<lb/>
+manner of the Cuban-American scientific cooperation which resulted in the conquest of<lb/>
+yellow fever. Giving full and proper credit to their great Cuban physician Finlay, they<lb/>
+paid generous tribute to the members of the American Commission, their volunteers and<lb/>
+associates individually and collectively. Here was a fine public demonstration of<lb/>
+Cuban-American friendship and mutual respect.</p>
+<p>The speeches were reported, in greater or lesser detail, in <hi>AVANCE</hi> (Dec. 3),<lb/>
+<hi>DIARIO DE LA MARINA</hi> (Dec. 4) and <hi>INFORMACION</hi> (Dec. 4). For those who may wish to read<lb/>
+the newspaper excerpts the <hi>longest</hi> abstracts of the speeches were given as follows:<lb/>
+that of Dr. Recio and Gen. Streit in <hi>DIARIO</hi>, Dec. 4; that of Dr. Saladrigas in<lb/>
+<hi>INFORMACION</hi>, Dec. 4. <hi>DIARIO</hi> printed my entire speech later, on December 21, without<lb/>
+change.</p>
+<pb n="11" id="f04601011"/>
+<p>Havana - 11 -</p>
+<p><hi>Dr. Recio's talk (brief extract</hi>: &ldquo;Within this caseta, and in another 50 meters in<lb/>
+front, were performed 52 years ago the experiments which confirmed definitely the<lb/>
+discovery of Finlay. This was one of the most important occurrences in the American<lb/>
+continent. Therefore the Cuban people decided to preserve this relic, to protect<lb/>
+this corner of History, and to perpetuate in bronze the names of the glorious pro-<lb/>
+tagonists of this event...&rdquo; He then mentioned Gorgas, Wood, Kean, the members of<lb/>
+the U. S. Army Board, Kissinger, Moran, etc. He reviewed the efforts of Batista and<lb/>
+Andreu to have Camp Lazear made a national monument, and ended by thanking all those<lb/>
+who had helped the Patronates accomplish their objective. As he said, the Camp Lazear<lb/>
+project &ldquo;is modest because of the size of available funds, but great in significance...&rdquo;</p>
+<p><hi>General Streit's talk</hi>: I gave my only copy to Doctor Nogueira. I am asking for<lb/>
+another copy.</p>
+<p><hi>Dr. Saladrigas' talk</hi>: (Complete in <hi>INFORMACION</hi>, Dec. 4; almost complete in <hi>DIARIO</hi>, Dec. 4)<lb/>
+He spoke of Dr. Finlay's discovery and neglect, of General Wood and the American Com-<lb/>
+mission, telling correctly what the latter had done at Camp Lazear. He deprecated<lb/>
+false national pride in evaluating the conquest of yellow fever. &ldquo;The glory of the<lb/>
+latter is so great that Finlay can divide it with those who completed his work....<lb/>
+Let us pay tribute to the discoveror Finlay, to his collaborator Delgado, to his<lb/>
+proponent (propugnador) Wood, to the martyr Lazear, to his &ldquo;provers&rdquo; (comprobadores)<lb/>
+- Reed, Carroll and Agramonte...</p>
+<p>"Decendents of Finlay, Delgado, Wood, Reed, Lazear, Carroll and Agramonte: Cuba does<lb/>
+not forget those men who in one way or another participated in the eradication of<lb/>
+yellow fever. This monument is a testimonial of the Cuban people to these great men<lb/>
+of science and to these noble volunteers who added their worthy contributions to the<lb/>
+conquest of yellow fever.</p>
+<p>&ldquo;In the name of the Honorable Senor Presidente of the Republic I inaugurate this<lb/>
+&lsquo;Camp Lazear National Monument&rsquo; (El Monumento Nacional &lsquo;Campamento Lazear&rsquo;).&rdquo;</p>
+<p><hi>Conclusion of Ceremony.</hi> The ceremony was concluded by the band which played a number<lb/>
+or two while marching in a circle, led by a cute dark skinned little Cuban drum-major<lb/>
+about 6 years old, in a fancy uniform. Then children of the public and private<lb/>
+schools of Marianao laid a few floral offerings.</p>
+<p><hi>Photographs</hi>. Professional photographs of every phase of the dedication were made: of<lb/>
+general views, of the honored guests, the unveiling of each bronze, the laying of each<lb/>
+wreath, each speaker, etc. I have an incomplete set; Dr. Nogueira will soon send me<lb/>
+the films on loan and if any of you wish copies I can have a local photographer make<lb/>
+prints (price?).</p>
+<p>(I got a professional to use my movie camera and he took for me about 250 feet of<lb/>
+colored movie film of the ceremony. Also I was able to take before and after the<lb/>
+ceremony about 50 35 mm. kodachrome transparencies in color which turned out rather<lb/>
+well.)</p>
+<p><hi>Unfinished business at Camp Lazear</hi>. Drs. Recio and Nogueira have further plans for<lb/>
+the memorial. A bronze tablet telling the significance of the camp and the caseta<lb/>
+is to be placed outside and in front of the caseta. Perhaps the former site of<lb/>
+Bldg. #2 will be similarly marked. A longer description of the events at Camp<lb/>
+Lazear and their relation to the work of Finlay is to be typed or printed, framed and<lb/>
+hung on the wall of the caseta. On the walls will be displayed photographs of the<lb/>
+conquerors of yellow fever. Display cabinets will be used to demonstrate other<lb/>
+souvenirs, photographs, documents, etc. I have been asked to cooperate in these<lb/>
+doings.</p>
+<p>Drs. Recio and Nogueira and I hope that this is only a beginning and that in due time<lb/>
+the caseta <unclear>can</unclear> be enclosed in a permanent little museum room which will be just<lb/>
+<pb n="12" id="f04601012"/>
+Havana - 12 -<lb/>
+part of a living memorial, perhaps a public health unit or other public building of<lb/>
+lasting value to the people and town of Marianao. I spoke of this plan to Dr. Saladrigas<lb/>
+and later to President Batista and they both appeared to be quite sympathetic to the<lb/>
+idea.</p>
+<p>Meanwhile the Cuban Tourist Agency will be requested to have this memorial listed in<lb/>
+all publications which list in a dignified way places of historic interests for<lb/>
+tourists, etc. (booklets placed in hotels and restaurants, newspaper listings, etc.).</p>
+<p><hi>Luncheon</hi>. Estela Agramonte and her husband took Miss Wood, Miss Van Scoy, Dr. Domingo<lb/>
+Ramos and me to lunch at an ocean-side club, right after the ceremony, a pleasant and<lb/>
+restful affair.</p>
+<p><hi>Special Ceremony at Academy of Sciences</hi>. Dr. Tocantins and I were invited to attend<lb/>
+this &ldquo;solemn session&rdquo; and to sit as guests on the platform.</p>
+<p>Before the meeting started I had a brief but important conversation with Dr. Jose<lb/>
+A. Presno, long time President of the Academy. In 1900 he helped with some of the de-<lb/>
+tails of the December 22, 1900 banquet for Finlay with Wood, Reed and many others in<lb/>
+attendance. He assured me that the banquet was held in a long dining salon on the<lb/>
+second floor of Delmonico's Restaurant in Parque Central in the building now occupied<lb/>
+on the ground floor by Press Wireless of Cuba, on the second floor by the &ldquo;Nobel<lb/>
+Academy,&rdquo; a small commercial school for typists, etc. Also we discussed the making<lb/>
+of microfilm copies of Finlay's day-books.</p>
+<p>The Presidential address was given by Dr. Presno. The Finlay oration was given by<lb/>
+Dr. Nogueira: he gave a fine, accurate talk on Dr. Finlay and his connection with<lb/>
+the various American Commissions which went to study yellow fever in Cuba. Dr.<lb/>
+Ortelio Martinez Fortun gave a talk on the life of Delgado.</p>
+<p>After these talks came the ceremony of Condecoracion. Decorations of the Finlay<lb/>
+Order (of various ranks) were distributed. As a tribute to General Wood whom all<lb/>
+Cubans of all parties respect greatly Miss Wood was decorated with the sash, star,<lb/>
+etc., of the Finlay Medal, <hi>Grand Cross</hi>.</p>
+<p>The following also were awarded the Finlay Order.</p>
+<p>
+<list type="simple">
+<item><hi>Rank of Commendador (Commander)</hi><lb/>
+<list type="simple">
+<item>Mrs. Roger P. Ames (who arrived late Wednesday afternoon)</item>
+<item>Mrs. W. D. Briggs (Peggy Lazear)</item>
+<item>Dr. Robert Cooke (posthumous)</item>
+<item>Abelardo Delgado (son)</item>
+<item>Frank Finlay (son)</item>
+<item>Leonard Hanberry</item>
+<item>Houston Lazear</item>
+<item>General Reed</item>
+<item>Blossom Reed</item>
+<item>Estela Agramonte Rodriguez Leon</item>
+<item>Maria Teresa Rojas (posthumous)</item>
+<item>General Truby</item>
+</list></item>
+<item><hi>Rank of official</hi> - Gustav Lambert.</item>
+</list></p>
+<p>I was told that, not having had any response to their letters to Dr. Carroll's rela-<lb/>
+tives, the authorities postponed action on a medal for Dr. Carroll. Perhaps this<lb/>
+will be taken care of later. Mr. Moran received a Finlay decoration (high rank) some<lb/>
+years ago. (I wish additional medals could have been given to one or two men who<lb/>
+were also of great help to Major Reed!)</p>
+<pb n="13" id="f04601013"/>
+<p>Havana - 13 -</p>
+<p>I understand from Doctor Nogueira that perhaps he or some other Cuban, going to the<lb/>
+United States, will try to visit the recipients and present the decorations formally;<lb/>
+otherwise they may be sent to Cuban diplomatic representatives in this country for<lb/>
+presentation some time this spring.</p>
+<p><hi>Thursday, December 4</hi></p>
+<p>To be sure that I would at least have on hand small snapshots of the various plaques<lb/>
+and medallions I went out to Camp Lazear and spent an hour taking photos. While I was<lb/>
+there about 30 visitors appeared, some with cameras. At noon I had lunch at the Quinta<lb/>
+San Jose and then went with Dr. Nogueira to inspect the pieces of original wood from<lb/>
+Building #1 left over after the restoration. He had some pieces set aside to be<lb/>
+fumigated so I could bring them through U. S. Customs. It is my plan to distribute<lb/>
+them carefully to people, institutions and museums which should appropriately have<lb/>
+them and who will <hi>care</hi> for them (e.g. Surgeon General's Museum; Walter Reed Hospital,<lb/>
+Walter Reed Memorial Association, etc.). If you have any suggestions, please send<lb/>
+them to me.</p>
+<p>Continuing their splendid cooperation in the whole affair, Ambassador and Mrs. Beaulac<lb/>
+gave between 7 and 9 p.m. a delightful reception for the visiting Americans, many<lb/>
+Americans living in Cuba and many Cubans especially the officials connected with the<lb/>
+dedication. It was a very pleasant affair, held at the Embassy Residence.</p>
+<p>Afterwards I spent the rest of the evening with Dr. and Mrs. Felipe Carbonell; for<lb/>
+some years he has been very interested in the Camp Lazear project.</p>
+<p><hi>Friday, December 5</hi></p>
+<p>On this day I had my first chance to relax a little and attend to personal (non-yellow<lb/>
+fever) affairs. I shopped and bought my family some perfume and actually had 2 hours<lb/>
+at noon to sit by the lovely Hotel Nacional pool and just rest in the wonderfully<lb/>
+balmy climate, such a beautiful spot.</p>
+<p>In the evening Senora Rojas and Senorita Cabrera gave a delightful reception at their<lb/>
+lovely Quinta San Jose for all those connected with the dedication. According to<lb/>
+the papers the reception was given jointly by Senora Rojas <hi>and</hi> Dr. Saladrigas, the<lb/>
+Minister of Health. But all the arrangements were made by Tina and Lidia. The Quinta<lb/>
+is such a lovely quiet oasis; one would hardly believe one were not far out on some<lb/>
+country estate, and yet is is right on the main highway, Calzada Real. Tina and Lidia<lb/>
+have made the Quinta a veritable museum, placing therein various items salvaged from<lb/>
+ancient Havana buildings or churches in process of public destruction. Thus they have<lb/>
+salvaged lovely tile murals, beautiful roofing, etc., all of historical interest and<lb/>
+all so beautifully worked into their own home.</p>
+<p>Both Tina and Lidia are very active in cultural rather than social pursuits. They<lb/>
+spend 2 - 3 months each year in Europe. They have both written books. Lidia has<lb/>
+written several dealing mostly with West Indian folklore and stories concerning it;<lb/>
+her books are published in Spanish, also in French (Paris). Tina has completed a<lb/>
+scholarly book on the ancient laws of Cuba; in this connection she studied, photo-<lb/>
+graphed (herself) and translated thousands of worm-eaten pages of ancient Spanish<lb/>
+(Cuban) legal material and had to learn herself how to read the old Spanish scripts.</p>
+<p>With this background and attitude on life their intense interest in the true history<lb/>
+of the conquest of yellow fever and especially of the part in it played by the Finca<lb/>
+San Jose will be clear to you. They have <hi>always</hi> given me the greatest cooperation<lb/>
+and sympathetic help. Completely devoid of chauvinism they have always desired to<lb/>
+give due credit to everyone concerned with the conquest of yellow fever, to Dr. Finlay<lb/>
+to be sure, but also to Major Reed and his associates. It is fortunate indeed that<lb/>
+we have their loyal support.</p>
+<pb n="14" id="f04601014"/>
+<p>Havana - 14 -</p>
+<p>At the reception I had the first chance for a real chat with Mrs. Ames who was staying<lb/>
+at the home of a nephew and his wife who live in Havana. She seemed to be having a<lb/>
+grand time and was, of course, very pleased by the honors paid to Dr. Ames and to her.</p>
+<p><hi>Saturday, December 6</hi></p>
+<p>I had a pleasant lunch with Dr. and Mrs. Baker (Head of the Ruston Academy of Havana,<lb/>
+an associate of Estela Agramonte de Rodriguez-Leon); Estela and her good husband were<lb/>
+also guests. Afterwards Dr. Baker and Senor Rodriguez Leon drove me out to the Quinta<lb/>
+San Jose where I was scheduled for an interview with a newspaper reporter, who wanted<lb/>
+not one, but two stories - the story of the rediscovery of Camp Lazear and the role<lb/>
+of the Finca San Jose in the conquest of yellow fever, and the story of the dis-<lb/>
+covery and clinical application of cortisone. I was in the mood to discuss the first<lb/>
+but not the second as I was not in Cuba as a &ldquo;cortisonologist.&rdquo; But this gave<lb/>
+another opportunity to discuss the relationship between the work of Drs. Finlay and<lb/>
+Delgado and the later work of the U. S. Army Board.</p>
+<p>In the evening I attended a dinner given for Miss Wood by President and Mrs. Batista<lb/>
+at the Palace. It was a fairly intimate dinner - only 20 in all. There were five<lb/>
+American guests: Miss Wood, Miss Van Scoy, Ambassador and Mrs. Beaulac and myself.<lb/>
+Present were Dr. and Mrs. Saladrigas, the Mayor of Havana, the Governor of Havana (I<lb/>
+didn't know such a position existed), Cabinet Minister Dr. Domingo; the head of the<lb/>
+<unclear>Army-General</unclear> Tabernilla; the head of Navy - Admiral Rodriguez Calderon; the Chief<lb/>
+of Police; General Loynaz; the chief of Protocol - Dr. Capote and their ladies.</p>
+<p>During the dinner President Batista gave a very friendly toast first to Miss Wood,<lb/>
+and then to me, expressing to Ambassador Beaulac and us his friendship for the U.S.,<lb/>
+etc. Mr. Beaulac responded for the Americans.</p>
+<p>After dinner President Batista showed Miss Wood and me a few interesting objects.<lb/>
+I had the opportunity to express to him the sincere thanks of the relatives of<lb/>
+those honored, of myself and of all my American friends interested in the conquest of<lb/>
+yellow fever for what the Cuban Government, medical profession and people had done<lb/>
+in memorializing Camp Lazear, and to express the hope that even more could be done,<lb/>
+that with this as a beginning, a more lasting, living memorial could be erected as per<lb/>
+the ideas of his countrymen, Drs. Recio, Nogueira and Ramos. He expressed his<lb/>
+interest in the whole scheme and at one point surprised me by saying &ldquo;I remember that<lb/>
+shortly after I became President in 1940 you first told me of your hopes and plans for<lb/>
+this memorial.&rdquo; This surprised me as I didn't think he could possibly remember the<lb/>
+brief 5 minute conversation I had with him when Dr. Ramos took me to meet him during<lb/>
+his inspection of a new hospital in 1940. He had either an excellent memory or a<lb/>
+most efficient filing system. If someone reminded him of our brief meeting, it was<lb/>
+not Mr. Beaulac as he knew nothing of it. The only importance of this incident is<lb/>
+that perhaps President Batista does have more than a casual interest in the memorial<lb/>
+and what it stands for as the finest symbol of Cuban-American cooperation and<lb/>
+friendship.</p>
+<p>Before the evening ended, President Batista decorated Miss Wood with the Grand Cross<lb/>
+of the Order of Cespedes, in a friendly little ceremony.</p>
+<p><hi>Sunday, December 7</hi></p>
+<p>My faithful friend, Pedro, met me early in the morning and took me to the airport.<lb/>
+He had carefully packaged some wood from the original Building #1, all fumigated<lb/>
+and documented for the sake of U. S. Customs. The excess weight made this wood a<lb/>
+rather costly package to bring home by air but it was worth it to get it home safely<lb/>
+and promptly. In contrast to the hesitant, unpleasant flight down to Cuba my home-<lb/>
+ward connections were made promptly and the flight was a nice one, landing me at<lb/>
+Rochester at about 6 p.m.</p>
+<pb n="15" id="f04601015"/>
+<p>Havana - 15 -</p>
+<p><hi>Addendum</hi></p>
+<p><hi>Response of the Cubans to the Dedication</hi>. As you know, the main purposes behind<lb/>
+those of us who have worked for the preservation and dedication of Camp Lazear have<lb/>
+been (1) to honor <hi>all</hi> the conquerors of yellow fever, and (2) to let the Cubans know<lb/>
+what few of them have ever known - of the inter-relationship between the work of<lb/>
+their Dr. Finlay and our American Board and (3) above all to bring an end to 50 years<lb/>
+of unhappy and often acrimonious argument as to who did what and who should have the<lb/>
+glory. Americans know much too little about Finlay; Cubans know much too little about<lb/>
+the American Board. By telling the <hi>truth</hi> (and only the truth is required) about this<lb/>
+brilliant cooperative venture, so fruitful for all mankind, Cuban-American respect is<lb/>
+bound to be enhanced, and it is the Cuban-American <hi>medical</hi> relationships which need<lb/>
+correction most.</p>
+<p>As you know, Cuban newspapers have had far too many articles denouncing &ldquo;those who<lb/>
+would rob Finlay of his glory,&rdquo; the arguments being kept alive year after year by<lb/>
+certain overly sensitive Cubans (often physicians but also writers for papers and<lb/>
+magazines) who for various reasons have chosen to &ldquo;defend (publicly) the honor of<lb/>
+Finlay.&rdquo; Although still in existence this element is decreasing at least momentarily,<lb/>
+and the senior, leading physicians (like Presno, Ramos, Recio, etc.) have no sympathy<lb/>
+with the unhappy, undignified, unilateral argumentation. But their quiet tolerance<lb/>
+has not influenced the newspapers as much as the outbursts of the super-nationalist.<lb/>
+Therefore during the preliminary planning for the memorial the Cuban newspapers<lb/>
+(ignorant of the work of the U. S. Army Board and of the significance of Camp Lazear)<lb/>
+constantly spoke of Bldg. #1 as the &ldquo;caseta de Finlay,&rdquo; &ldquo;the building where Finlay<lb/>
+produced the final proof for his mosquito theory,&rdquo; etc.</p>
+<p>Although the Patronates knew full well the significance of Camp Lazear and were, of<lb/>
+course sympathetic with their objective, the committee was pressured somewhat by<lb/>
+those who wanted to name the place &ldquo;Parque Finlay&rdquo; (although there is already a<lb/>
+Parque Finlay downtown) and to designate the caseta as the place where Finlay proved<lb/>
+his theory rather than that where the Americans proved Finlay's theory. The very<lb/>
+name of the committee (as shown on the invitations you received) shows that the<lb/>
+Patronates deemed it necessary to &ldquo;compromise&rdquo; a little bit for the uninformed<lb/>
+Cuban elements so as to accomplish the broader purpose of the committee. But that<lb/>
+was the extent of their compromise, thanks largely to the <unclear>insistence</unclear> of Dr. Nogueira who,<lb/>
+with me, believes so deeply that there is glory enough for all.</p>
+<p>To see to what extent the Cuban newspapers (and public) were accepting Camp Lazear<lb/>
+for what it was, I read most of them during the week. Most of the newspapers, even<lb/>
+the best ones (except the Havana <hi>Post</hi>) displayed their ignorance (honest ignorance,<lb/>
+for the most part) as to the significance of Camp Lazear <hi>before</hi> the dedication ceremony.<lb/>
+But practically all of them carried accurate stories of the dedication; all of them<lb/>
+mentioned the name &ldquo;Camp Lazear&rdquo; and the names of Reed, Carroll, Agramonte and Lazear<lb/>
+somewhere in their columns and so far as I could see only one paper (EXCELSIOR) re-<lb/>
+mained uninfluenced, giving no evidence that they knew or cared about the &ldquo;new&rdquo; version<lb/>
+of Cuban-American cooperation. This is probably the first time Cuban <hi>newspapers</hi> in<lb/>
+general ever heard of Reed, et al, at least in a favorable, sympathetic light.</p>
+<p>In general the <hi>reporters</hi> gave rather accurate stories, although occasionally a reporter<lb/>
+would be right most of the time and wrong on one point. But those who wrote the<lb/>
+<hi>headlines</hi> and the <hi>column headings</hi> were either less informed or die-hards, and knowingly<lb/>
+or unknowingly continued the old errors. The <hi>photo-caption writers</hi> were correct only<lb/>
+half the time. Four <hi>editorials</hi> appeared, two were correct and most sympathetic, one<lb/>
+was quite sympathetic but not fully informed; one was rather one-sided. Two <hi>columnists</hi><lb/>
+gave attention to the affair: Scott of the <hi>HAVANA POST</hi> was accurate and most<lb/>
+sympathetic; the columnist for <hi>DIARIO</hi> was less informed but sympathetic.</p>
+<pb n="16" id="f04601016"/>
+<p>Havana - 16 -</p>
+<p>But most significant was the fact that two or three papers (e.g. <hi>DIARIO</hi>; <hi>EL PAIS</hi>) whose<lb/>
+reports <hi>before</hi> December 3 were rather inaccurate, gave <hi>much</hi> more correct versions<lb/>
+<hi>after</hi> December 3. In summary, my analysis of the newspapers would seem to show that<lb/>
+their errors were due to ignorance rather than to nationalistic pride, and when the<lb/>
+facts were brought out by Drs. Recio, Saladrigas, Nogueira, etc., the papers accepted<lb/>
+them and published them (except <hi>EXCELSIOR)</hi>.</p>
+<p><hi>Conclusion</hi></p>
+<p>I think that, all in all, a fine thing has been accomplished. Although the memorial<lb/>
+itself is modest, its significance is great, chiefly because at last the most prominent<lb/>
+Cuban physicians and government officials are not only willing but glad to include<lb/>
+publicly the U. S. Board and its volunteers in the honors. This is the <hi>first</hi> time<lb/>
+Reed has ever been honored <hi>publicly</hi> in Cuba, so far as I can find out, at least since<lb/>
+1901. As you know the leading Cuban spirit behind all this was Dr. Nogueira. Al-<lb/>
+though others (Drs. Ramos, Recio, Carbonell, etc.) helped greatly, Dr. Nogueira sup-<lb/>
+plied the greatest, sustained energy.</p>
+<p>I think this is an excellent beginning, something we can now really build upon and<lb/>
+we Americans should now spread the word of what a friendly gesture the Cubans have<lb/>
+made. American physicians and medical groups should visit the memorial individually<lb/>
+and officially in groups when they have congresses in Cuba. In due time, perhaps, we<lb/>
+Americans can help raise a significant amount to develop on the spot a more lasting<lb/>
+Cuban-American memorial for the caseta (<hi>still</hi> uncovered and exposed to wind, weather<lb/>
+and the annual hurricanes) and a larger, more useful <hi>living</hi> memorial to all the con-<lb/>
+querors of yellow fever.</p>
+<p>It will be my purpose to continue to honor Finlay as I tell the story of Reed,<lb/>
+Carroll, Agramonte, Lazear and their associates because, knowing so little of<lb/>
+Finlay, we Americans must <hi>not</hi> make the mistake we tend to ascribe to our Cuban<lb/>
+friends.</p>
+<p>How I wish <hi>all</hi> of you whose loved ones did so much, could have been with us in<lb/>
+Havana.</p>
+<closer>
+<signed>P. S. Hench, M.D.</signed>
+PSH:alc<lb/>
+<seg>
+P.S.: After the films from Dr. Nogueira reach me, I will send you representative ones.<lb/>
+Copies to:<lb/>
+General Reed<lb/>
+Blossom Reed<lb/>
+Houston Lazear<lb/>
+Mrs. Briggs (Peggy Lazear)<lb/>
+General Truby<lb/>
+General Armstrong<lb/>
+General Streit<lb/>
+Mr. Hanberry<lb/>
+Walter Reed Memorial Assoc. (Gen. Love; Col. Siler)<lb/>
+Mrs. Kean<lb/>
+Mr. Lambert<lb/>
+Mrs. Ames<lb/>
+Mrs. Cooke<lb/>
+Mr. George Carroll.<lb/>
+</seg>
+</closer>
+</div1>
+<div1 type="document" n="1953-01-03">
+<pb n="17" id="f04601017"/>
+<p>Havana - Addendum - page 17</p>
+<p><hi>Confidential Addendum to Letter of January 3, 1953</hi></p>
+<p>Although almost everything went off smoothly and the attitude of everyone I met was<lb/>
+all that could be expected or desired, there were certain political overtones, etc.,<lb/>
+which indicated that those of us who deal with our Cuban friends for the sake of<lb/>
+fair-minded objectives must still act diplomatically.</p>
+<p>There is a great deal of jealousy and animosity among the Cuban political parties<lb/>
+which extends farther down in the ranks and is expressed widely and vehemently, much<lb/>
+more so than in the United States.</p>
+<p>My first contacts in behalf of Camp Lazear were with the Batista government <add>(1940)</add> and I made<lb/>
+certain headway with his Minister of Defense, Dr. Ramos (a physician). The spot was<lb/>
+designated (tentatively?) as a &ldquo;national monument&rdquo; but nothing happened. When a<lb/>
+party goes out &ldquo;all promises and bets are off&rdquo; and one has to start all over again.<lb/>
+Under the Grau administration $50,000 for Camp Lazear was approved by one part of<lb/>
+the Cuban Government but never &ldquo;allocated,&rdquo; i.e. paid out of the Treasury to agents<lb/>
+designated to carry out the project. What happened to that sum I could never find<lb/>
+out. Under the Prio administration Dr. Andreu had reapproved &ldquo;legally&rdquo; the designation<lb/>
+&ldquo;national monument&rdquo; for the caseta and succeeded in getting $25,000 handed over to<lb/>
+(I think) a committee of three - Drs. Recio and Nogueira and the Mayor of Marianao.<lb/>
+But when Batista kicked out the Prio administration this committee (regarding them-<lb/>
+selves as not in special favor with Batista) feared that, if the new administration<lb/>
+knew of the fund they had, something might happen to prevent the project. So the<lb/>
+committee of 3 quietly enlarged itself into the Patronates but kept their plans and<lb/>
+activities rather quiet, spending their money and carrying on their work largely<lb/>
+through the Mayor and municipality of Marianao; at least they didn't &ldquo;go looking<lb/>
+for trouble&rdquo; by involving the new administration (busy downtown in Havana) in their<lb/>
+plans.</p>
+<p>Thus it was that Dr. Saladrigas (who succeeded Dr. Andreu) knew nothing about the<lb/>
+project and was only told of it when practically all the money was spent and the work<lb/>
+done. Indeed (as I understand it) he wasn't informed until they had to ask him, his<lb/>
+department and the President to cooperate for the dedication. Presumably when the<lb/>
+plan was submitted to him he said &ldquo;What's this? What's this all about? What is<lb/>
+Camp Lazear?&rdquo;</p>
+<p>But seeing that it would be advantageous for him and his department to &ldquo;accept the<lb/>
+project&rdquo; from the Patronates and to preside at the dedication he approved the (first)<lb/>
+invitation which was printed and which invited the recipients in the name of <hi>four<lb/>
+people</hi>: Batista (President), Saladrigas (Minister of Health), the Mayor of Marianao<lb/>
+and the President of the Patronates (Recio).</p>
+<p>Some of you got this invitation. But then Batista, in turn, was informed of the af-<lb/>
+fair, promised to honor it with his presence but considered the wording of the invita-<lb/>
+tions improper. He &ldquo;asked&rdquo; that the invitations be reprinted and sent out only in the<lb/>
+name of the President (himself) and the Minister of Health. So about 3 - 5000 old<lb/>
+invitations had to be discarded and new ones printed and mailed. That is why some<lb/>
+of you got your official invitations so late, if you got them at all! (I couldn't<lb/>
+understand why there was so much delay and kept prodding Pedro about it! But now<lb/>
+we know why!)</p>
+<p>Dr. Recio has worked <hi>with</hi>, but not <hi>in</hi>, several governments. He is Public Health<lb/>
+Officer for all Cuba. Therefore he is &ldquo;friendly&rdquo; with but not a member of the<lb/>
+Batista-Saladrigas party. Saladrigas (so I understand) cooperated with the Patronates<lb/>
+only up to a point. He was very gracious, etc., etc., as the official host of the<lb/>
+dedication, at Miss Rojas' reception and in inviting me, etc., to dine with Batista.<lb/>
+But he has done little or nothing for the memorial project even since it was more or<lb/>
+less officially handed over to him to &ldquo;dedicate&rdquo; and to help plan for its care and<lb/>
+development.</p>
+<pb n="18" id="f04601018"/>
+<p>Havana - Addendum - page 18</p>
+<p>One instance: in view of Juan's personal attachment to the caseta in which he had lived<lb/>
+for several years the Patronates and the Mayor of Marianao appointed him official care-<lb/>
+taker which he has been now (I think) for some months at $60.00 per month, paid out of<lb/>
+the funds of Marianao, the city (not the federal government). When recently the<lb/>
+Patronates asked Saladrigas to take over this little financial burden, to reappoint<lb/>
+Juan and pay him from governmental (rather than Marianao) funds, he objected, wouldn't<lb/>
+approve Juan and has done nothing yet. Therefore the Patronates (and Mayor Or&uacute;e of<lb/>
+Marianao) plan to keep Juan on as long as necessary and pay him themselves since the<lb/>
+memorial is within the limits of Marianao and still in large part under its jurisdic-<lb/>
+tion.</p>
+<p>I am writing you this because I believe you, who were honored and whose names now<lb/>
+have considerable significance with Saladrigas (and Batista), can help the Patronates<lb/>
+and all others interested in the memorial and <hi>its future</hi>, by writing him (at your<lb/>
+leisure) and telling him that you have heard the interesting details of the ceremony,<lb/>
+&ldquo;read his very interesting speech&rdquo;, etc., etc., and are certainly delighted...and<lb/>
+hopeful...etc., etc. I think he will be much more likely to accept his full respon-<lb/>
+sibility toward the memorial and to go ahead with even greater plans if he receives<lb/>
+praise, etc., from Americans than suggestions from his political antagonists who<lb/>
+got away with something that <hi>he</hi> had nothing originally to do with.</p>
+<p>Incidentally, next to Nogueira to whom 70% of the credit should go, and Recio to<lb/>
+whom 15, plus or minus % should go, the rest belongs to Dr. Andreu who got kicked<lb/>
+out of office before the project which he supported, could be finished. (If any of<lb/>
+you are in the mood to write Nogueira, Recio or Andreu, I'm <hi>sure</hi> they would <hi>very much</hi><lb/>
+appreciate your expressions of interest and thanks.)</p>
+<p>When the invitations were re-worded Batista gave the Patronates his solemn assurance<lb/>
+that he would attend the dedication. (Indeed I recall that after my brief 1940 con-<lb/>
+versation with Batista he said to me &ldquo;I'm for it and when it is dedicated I will be<lb/>
+there.&rdquo;) But when he <hi>announced</hi> at the last minute (only 2 days before) that he would<lb/>
+have to go to the &ldquo;Trinidad Airport dedication&rdquo; quite a few Cubans were not only dis-<lb/>
+appointed but surprised. As they told me &ldquo;I can't understand it; surely he knows<lb/>
+what a fine <hi>American</hi>-Cuban affair this is, with the American Embassy behind it, etc.<lb/>
+He's most anxious to please Americans and keep their good will. This isn't like him!&rdquo;</p>
+<p>The more cynical Cubans thought it was his way of reproving the Patronates for not<lb/>
+taking him into their confidence and because he couldn't claim credit for the com-<lb/>
+pletion of the memorial.</p>
+<p>I was told that certain discreet remarks or &ldquo;suggestions&rdquo; were made to Saladrigas by<lb/>
+Cubans friendly to Batista that he had better tell Batista to &ldquo;get into the act<lb/>
+graciously, if belatedly,&rdquo; that the newspapers were featuring the dedication, dis-<lb/>
+tinguished Americans were here and that some of the latter might &ldquo;misinterpret&rdquo; his<lb/>
+absence. I suspect that this is true because suddenly Saladrigas &ldquo;asked&rdquo; Tina<lb/>
+Rojas to put on the joint reception with him as co-host and positively assured her<lb/>
+that Batista would be present. But Batista got back from Trinidad about 6 p.m. that<lb/>
+day and did <hi>not</hi> attend the reception which was from 7 - 9 p.m. I think Saladrigas<lb/>
+was put out and a bit concerned because it was then that he told Miss Wood and then me<lb/>
+that the President wanted us for dinner Saturday night. When I told him I couldn't<lb/>
+stay and had plane reservations which I couldn't replace he became insistent and<lb/>
+offered to fly me back to Rochester in a Cuban plane if I'd stay over. And so for<lb/>
+the sake of friendly relations I stayed.</p>
+<p>Another &ldquo;political overtone.&rdquo; - I think a real victory was won and the Cubans really<lb/>
+did the gracious (and proper) thing by naming officially the project &ldquo;Monumento Nacional<lb/>
+Campamento Lazear&rdquo; as publicly announced by Saladrigas. In view of the not-too-<lb/>
+satisfactory name (from our viewpoint) of the committee of Patronates this is all the<lb/>
+<pb n="19" id="f04601019"/>
+Havana - Addendum - page 19<lb/>
+more to be pleased about. But Pedro told me: &ldquo;Phil, you have no idea how difficult<lb/>
+it was to get some of those concerned to approve the name (Monumento Nacional Campa-<lb/>
+mento Lazear).&rdquo; I'm sure it was <hi>very</hi> hard, but it <hi>was</hi> done!</p>
+<p><hi>Cuban Attitude toward Delgado</hi>. I have never understood clearly Delgado's role with<lb/>
+Finlay. If he ever wrote independently I haven't seen references to his papers. His<lb/>
+name was on some papers with Finlay, not no most. He is always spoken of as Finlay's<lb/>
+&ldquo;disciple&rdquo; or &ldquo;helper,&rdquo; an inferior designation. So little is written or said about<lb/>
+him in Cuba (comparatively). It has seemed to me that the Cubans were, in belittling<lb/>
+his role and more or less ignoring him, perpetrating the same &ldquo;error&rdquo; for which they<lb/>
+blame the Americans in belittling Finlay.</p>
+<p>Although the one talk at the Academy of Sciences was a long laudatory one about Delgado<lb/>
+it was interesting to note that Saladrigas and others spoke of him as &ldquo;the Spanish<lb/>
+physician.&rdquo; Even though they once called him &ldquo;the noble Spanish physician,&rdquo; the<lb/>
+differentiating adjective was still used. Delgado went back to Spain late in life<lb/>
+on a visit and died there but was reburied in Havana (Colon Cemetery). Although the<lb/>
+ceremony (December 3) at the grave of Finlay was described in all papers, I saw no<lb/>
+mention of any ceremony or flowers for Delgado's grave!</p>
+<p><hi>Anti-American Sentiment</hi>. The attitude of all concerned this time was most gracious<lb/>
+and I think &ldquo;sincere.&rdquo; Only two incidents were reminiscent of the previous anti-<lb/>
+American (anti-Reed) viewpoint and these incidents were reported briefly, each in<lb/>
+only one newspaper.</p>
+<p>A Dr. Zervigon gave before the Rotary Club of Havana on December 3 the sort of speech<lb/>
+that up to now has been so common. The following brief excerpt (from INFORMACION,<lb/>
+December 5) will reveal his twisted thinking:</p>
+<p><hi>The World Recognizes the Glory of Carlos Finlay</hi></p>
+<p>Subheadline: &ldquo;He was denied, reviled and that which he did was attributed to others.&rdquo;<lb/>
+The article: &ldquo;Wise man, denied, reviled; denied the glory that was falsely attributed<lb/>
+to Walter Reed, when in reality it was Finlay who has the glory of that fantastic<lb/>
+discovery,&rdquo; were the words pronounced by Dr. Z during the session yesterday...."</p>
+<p>He spoke of the collaborators, Reed, Carroll &amp; Lazear (Agramonte not mentioned - P.S.H.),<lb/>
+the last one &ldquo;an accidental, and not a voluntary victim of the bite of an infected<lb/>
+mosquito.&rdquo; He recalled that the North American Government &ldquo;rewarded these heroes<lb/>
+but that all this, far from blurring or dimming the glory of Carlos Finlay, instead<lb/>
+had increased it.&rdquo;....etc.</p>
+<p>The second report was perhaps intended to be more friendly than I can regard it.<lb/>
+Cesar Rodriguez (one of the Patronates but one whom I have real reason <hi>not</hi> to trust<lb/>
+too much) gave a talk December 2 before the Lions Club. His speech, reported in<lb/>
+<hi>AVANCE</hi> December 2, could certainly have been given more in the &ldquo;new spirit&rdquo; than it<lb/>
+was. Here is a brief sample:</p>
+<p>"It is not important that...some commentators and publishers even try to slight Finlay.<lb/>
+This may be (due to) ignorance although it could represent an excess of national<lb/>
+passion which history in its cold but just pages cannot prevent.</p>
+<p>&ldquo;To such comments which even a short time ago involved us in constant polemics, Cuba<lb/>
+has (now) responded with a noble, spontaneous and sincere gesture, rendering homage to<lb/>
+those who proved the Finlay discovery by declaring as a national monument, the ancient<lb/>
+Camp Lazear, conserving the historic caseta where the American Medical Military Com-<lb/>
+mission realized the proof of the scientific discovery of Finlay...&rdquo;</p>
+<pb n="20" id="f04601020"/>
+<p>Havana - Addendum - page 20</p>
+<p><hi>Repair of the Caseta</hi>. My one big disappointment relates to the reconstruction of<lb/>
+the caseta. Despite its dilapidated condition it <hi>could</hi> have been reconstructed by<lb/>
+<hi>experts</hi> with a much higher percentage of salvage of the original structure than it<lb/>
+was; the extensive dismantling of it was done with no advance warning to me or cor-<lb/>
+respondence with me. When I heard of it, my cable to Pedro was too late to stop<lb/>
+matters. The neighborhood folk (according to Tina Rojas) keep saying &ldquo;But where is<lb/>
+the old caseta?&rdquo; But no use crying over spilt milk!</p>
+<p>Dr. Nogueira did save carefully (as per my cabled request) a great deal of the dis-<lb/>
+carded original wood and had it cut up into about 300 or 400 short lengths, each<lb/>
+about 12 - 18 inches long, single board width. When I saw it stacked (under lock and<lb/>
+key) I expressed my wonder that more of it couldn't have been replaced in the &ldquo;new<lb/>
+walls.&rdquo; But he said that the use of so many short lengths would have made so many<lb/>
+crevices that such a reconstruction would have been an invitation to termites. I<lb/>
+still believe that &ldquo;experts&rdquo; trained in wood preservation <hi>could</hi> have saved 75% rather<lb/>
+than 20% of the caseta. Nor were all the significant parts of the old caseta saved.<lb/>
+I couldn't find the old window sill, sliding panel and outer shutter (described care-<lb/>
+fully by Reed). Not thinking that they were original, the architect threw these away.<lb/>
+I hunted for the shutter until the carpenters found it in a discarded pile. I brought<lb/>
+it home for the present as there is no place to use it now. I've asked them to keep<lb/>
+hunting for the window sill and sliding sash.</p>
+<p>The new sliding panels <hi>pull up</hi>; they do <hi>not</hi> slide sideways as did the old one we found.<lb/>
+Since Cuban sliding panels all pull up Nogueira had the new ones made that way.</p>
+<p>The Army photos and those in Kelly's book show the outer shutters of Bldg. #2 (wrongly<lb/>
+identified in Kelly's book) to have been fastened at the window's top and held open<lb/>
+by sticks projecting from the lower part of the windows; that is, dropped from the top.<lb/>
+And that is the way the committee built the new outer shutters of Bldg. #1. But<lb/>
+when we found the latter the shutters (which certainly looked original as they were<lb/>
+made of tongued and grooved boards used by the Army but never used by Cubans at that<lb/>
+time and which Zunzunegui also assured me were original) were fastened, one half to<lb/>
+each <hi>side</hi> and closed by meeting in the center. They did <hi>not</hi> drop from the top like<lb/>
+those of Bldg. #2.</p>
+<p>But these errors can be corrected, in time, to restore more authenticity to the caseta.</p>
+<p><hi>More on the attitude of the newspapers.</hi> The confused but improving attitude of the<lb/>
+Havana newspapers deserves further comment. The following will show what I mean:</p>
+<p><hi>Name of the park</hi>: It was called &ldquo;Parque Finlay&rdquo; by two of the less important papers<lb/>
+(ALERTA, December 2; PRENSA LIBRE, December 4), which however mentioned the &ldquo;National<lb/>
+Monument Camp Lazear.&rdquo; EL PAIS used various terms: &ldquo;Parque en Memoria de Finlay&rdquo; (Dec-<lb/>
+ember 2), &ldquo;Parque Monumento a Finlay&rdquo; (December 3; also EXCELSIOR December 2 and 4) and<lb/>
+&ldquo;Parque Monumento Nacional para Honrar a Finlay&rdquo; (December 3). But on December 4<lb/>
+after the dedication EL PAIS spoke of &ldquo;Parque Campamento Lazear.&rdquo; AVANCE (December 2<lb/>
+and 3) spoke of &ldquo;Parque Commenorativo del antiguo Campamento Lazear en homenage al<lb/>
+Dr. Finlay.&rdquo;</p>
+<p>But all the other papers, including the best ones, used the more correct term of-<lb/>
+ficially approved by the Cuban Government, as follows:<lb/>
+<list type="ordered">
+<item>1. &ldquo;Monumento Nacional Campamento Lazear&rdquo; - AVANCE, DIARIO, PRENSA LIBRE.</item>
+<item>2. &ldquo;Parque Commemorativo del Antiguo Camp Lazear&rdquo; - DIARIO, EL CRISOL.</item>
+<item>3. &ldquo;Parque Campamento Lazear&rdquo; - EL MUNDO, AVANCE, EL PAIS, EL SOL, HAVANA HERALD, MANANA.</item>
+<item>4. &ldquo;Parque Lazear&rdquo; - DIARIO, INFORMACION.</item>
+<item>5. &ldquo;Camp Lazear Memorial Park&rdquo; - HAVANA POST.</item>
+</list></p>
+<pb n="21" id="f04601021"/>
+<p>Havana - Addendum - page 21</p>
+<p><hi>Name of the Caseta (Bldg. 1)</hi>: Because the newspapers had less official guidance they<lb/>
+promulgated more errors with respect to the caseta.</p>
+<p>
+<list type="ordered">
+<item>1. &ldquo;Caseta in which the American Commission proved the Finlay theory&rdquo; - ALERTA, Dec. 2;<lb/>
+EL MUNDO, Dec. 2 - 3; EL PAIS, December 4; HAVANA POST, Dec. 2, 3, 4; INFORMACION,<lb/>
+Dec. 2, 3, 4.</item>
+<item>2. &ldquo;Caseta where the work of Finlay was proven&rdquo; (by whom not mentioned precisely):<lb/>
+EL CRISOL, Dec. 2; MANANA, Dec. 2; DIARIO, Dec. 3.</item>
+<item>3. &ldquo;Caseta de los trabajos comprobatorios de Finlay&rdquo; - Saladrigas' speech.</item>
+<item>4. &ldquo;Caseta related to the discovery of Finlay&rdquo; - EL PAIS, Dec. 3; EXCELSIOR, Dec. 4.</item>
+<item>5. &ldquo;Caseta where Finlay and his collaborators proved his theory&rdquo; - EL SOL, Dec. 6.</item>
+<item>6. &ldquo;Caseta de Finlay&rdquo; - MANANA, Dec. 2; DIARIO, Dec. 2 (see #2 above), EL Pais, Dec. 3<lb/>
+but corrected Dec. 4 (see #1 above).</item>
+<item>7. &ldquo;Caseta where Finlay proved his theory&rdquo; (or &ldquo;made his studies&rdquo;) -<lb/>
+EL PAIS, Dec. 2, 3 but corrected Dec. 4; EXCELSIOR, Dec. 4<lb/>
+EL MUNDO, Dec. 4 (editorial; but story by reporters correct, see 1 above).<lb/>
+DIARIO, Dec. 2; Dec. 3 in article but correct in column; Dec. 4 photo caption<lb/>
+but &ldquo;collaborators&rdquo; mentioned in article.</item>
+<item>8. &ldquo;Caseta where Finlay demonstrated his work to an American Military Mission&rdquo; -<lb/>
+HAVANA HERALD, Dec. 4, an unimportant English language paper.</item>
+</list></p>
+<p><hi>Mention of Reed, Carroll, Agramonte and Lazear</hi> - Practically all papers mentioned<lb/>
+&ldquo;Camp Lazear&rdquo; and the American Board by name <hi>somewhere</hi> in their articles, and this<lb/>
+is just about the first time they have ever been mentioned!</p>
+<p>Exceptions: The Americans were not mentioned on December 2 in EL PAIS or EL CRISOL<lb/>
+but were mentioned <hi>after</hi> the ceremony.</p>
+<p><hi>&ldquo;The Theory&rdquo; versus &ldquo;The Discovery&rdquo; of Finlay</hi>. Certain Cubans have long objected<lb/>
+strenuously to the use, by Americans and others, of the term &ldquo;the Finlay theory&rdquo;<lb/>
+claiming it discredited Finlay. Not long ago a Cuban weekly published a rabid article<lb/>
+entitled (as I recall it) &ldquo;It was not a theory and it was not proven,&rdquo; the rest of<lb/>
+the article claiming that Finlay's <hi>discovery</hi> was <hi>confirmed</hi> by the Americans (rather<lb/>
+than that his <hi>theory</hi> was proven to be correct by the Americans).</p>
+<p>In view of this controversy it has interested me to note that both Finlay and his son<lb/>
+in their books commonly spoke of &ldquo;the theory.&rdquo;</p>
+<p>In his speech Saladrigas &ldquo;played it safe&rdquo; and spoke of &ldquo;Finlay's discoveries, theory,<lb/>
+thesis...&rdquo;</p>
+<p><hi>The Finlay Theory</hi> - This term was used by most papers (ALERTA, Dec. 2, subheading<lb/>
+and story; AVANCE, Dec. 3; DIARIO, Dec. 4, but used &ldquo;discovery&rdquo; on Dec. 2-3; EL MUNDO,<lb/>
+Dec. 2; EL PAIS, Dec. 4 but not previously; EL SOL, Dec. 6; HAVANA POST, Dec. 2 - 4;<lb/>
+INFORMACION).</p>
+<p>&ldquo;<hi>The Discovery of Finlay</hi>&rdquo; - EL CRISOL, Dec. 2; MANANA, Dec. 2; EXCELSIOR, Dec. 4;<lb/>
+DIARIO, Dec. 2 - 3 but &ldquo;theory&rdquo; on Dec. 4.</p>
+<p><hi>The Havana POST</hi></p>
+<p>This paper gave excellent and most accurate coverage, telling the truth but honoring<lb/>
+Finlay fully. But unfortunately it is <hi>not</hi> read by many Cubans. As stated above,<lb/>
+they featured fine accurate articles daily (the main headlines on page 1 - Dec. 3 and 4)<lb/>
+and wrote two fine editorials and one fine column. We should all be indebted to Miss<lb/>
+R. Hart Phillips and Mr. Edward Scott; also to the owner, Mrs. Clara Park Pessino.<lb/>
+When I met her at the Embassy party and thanked her for her paper's excellent help<lb/>
+she expressed the most sincere interest in the memorial and its future significance.</p>
+<pb n="22" id="f04601022"/>
+<p>Havana - addendum - 22</p>
+<p><hi>Mrs. Moran</hi>. Since Johnny's death she has been disconsolate. Every time a visitor<lb/>
+calls, sooner or later Mrs. Moran dissolves in tears. (I experienced this in January<lb/>
+1952). Despite the earnest pleadings of Nogueira and others (including her fine<lb/>
+nephew, Mr. O'Shaughnessy who happened to be in Havana) she couldn't face the emotional<lb/>
+impact of the dedication and stayed away, sending her brother to unveil the plaque<lb/>
+(with Johnny's name on it) in her place, nor did she dare talk to me on the phone;<lb/>
+instead I talked to her nephew.</p>
+<p><hi>Attitude of Carroll's son, George</hi>. His continued &ldquo;indifference&rdquo; (it's worse than that)<lb/>
+to those who inquire of his father, who seek his help re data on his father, or who<lb/>
+would honor his father continues to distress me. I wrote them in November about the<lb/>
+ceremony; as usual no reply. This time, by ignoring the Cuban letters, he forfeited<lb/>
+a Finlay Condecoracion. Too bad. Despite this I will write him and send him photos<lb/>
+of his father's medallion. If he answers my letter or acknowledges my little gift,<lb/>
+it will be the first time in 10 years. He must get my letters as they are never<lb/>
+returned.</p>
+<p><hi>Conclusion</hi>. Despite certain things noted above, I was quite pleased by the whole<lb/>
+project and dedication. After 50 years, not just of lethargy and indifference, but<lb/>
+of actual and active hostility to the Army Yellow Fever Board the <hi>Cubans</hi> have spent<lb/>
+<hi>Cuban</hi> money to preserve Camp Lazear which they have honestly named and officially<lb/>
+designated, joining the Americans in perpetual association with their beloved<lb/>
+Finlay. Probably for the first time in Cuban history the names of the American<lb/>
+Board have been mentioned frequently, publicly and in high honor. I think we must<lb/>
+believe that this does mark a new era. But it mustn't stop there, nor will it.</p>
+<p>As Nogueira said &ldquo;<hi>Every</hi> year Marianao will celebrate Physicians' Day by services<lb/>
+here. This is now <hi>the</hi> focal point.&rdquo;</p>
+<p>I had occasion to visit the spot four or five times during the week. Every time<lb/>
+there were from 6 to 30 people there. It is the only &ldquo;park&rdquo; in that neighborhood<lb/>
+of very simple homes. And I think Drs. Reed, Carroll, Agramonte and Lazear would<lb/>
+have been as pleased as I was to see the rest of the camp-site (the cornfield of<lb/>
+1940 - 1952) being used as a baseball field (their only one) by the neighborhood<lb/>
+kids. The kids were happy! So can we be.</p>
+<closer>
+<signed>P. S. H.</signed>
+Confidential copies for:<lb/>
+General Reed.<lb/>
+Blossom Reed<lb/>
+Houston Lazear<lb/>
+Mrs. Briggs<lb/>
+Mrs. Kean<lb/>
+Walter Reed Memorial Association<lb/>
+General Truby<lb/>
+General Armstrong<lb/>
+General Streit<lb/>
+ADDRESSES, IN CASE YOU WISH TO WRITE:<lb/>
+1. The Honorable Senor President of the Republic of Cuba<lb/>
+Major General Fulgencia Batista<lb/>
+The Palace<lb/>
+Habana, Cuba<lb/>
+2. Dr. Enrique Saladrigas<lb/>
+Ministro de Salubridad y Asistencia Social<lb/>
+Habana, Cuba<lb/>
+3. Dr. Pedro Nogueira<lb/>
+Marti 219, Marianao<lb/>
+Habana, Cuba.<lb/>
+4. Dr. Jose Andreu<lb/>
+Calzada Columbia<lb/>
+Habana, Cuba<lb/>
+5. Dr. Alberto Recio<lb/>
+Director de Salubridad<lb/>
+Habana, Cuba<lb/>
+(Calle Carlos III #1117)<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

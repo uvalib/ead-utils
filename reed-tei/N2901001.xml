@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<TEI.2 id="N2901001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, The L[ucha?], Havana (Cuba), August 19, 1907</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N2901001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1907-08-19</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Boards_of_Health"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Newspaper">YES</term>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="place">Cienfuegos (Cuba)</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1907-08-19">August 19, 1907</date>
+<idno rend="suppress">N2901001</idno>
+<title>Newspaper clipping, The L[ucha?], Havana (Cuba), August 19, 1907</title>
+</bibl>
+</head>
+<p>Questions of the Day</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1907-08-19">
+<head>Newspaper clipping, The [Lucha?], Havana (Cuba), August 19, 1907</head>
+<pb n="1" id="fN2901001"/>
+<opener>
+<dateline>
+<date value="0000-08-19">Aug 19</date>
+</dateline>
+</opener>
+<p>THE L</p>
+<p>A CUBAN AMERICAN PAPER <unclear>W</unclear></p>
+<p>__________________________________________________</p>
+<p>A. San Miguel: Editor.</p>
+<p>Havana, Monday,</p>
+<p>__________________________________________________</p>
+<p>QUESTIONS OF THE DAY.</p>
+<p>---- star* star* star* ----</p>
+<p>The chief of the health depart-<lb/>
+ment of Cuba, Major Jefferson R.<lb/>
+Kean, is now at Cienfuegos, making<lb/>
+a personal investigation of the san-<lb/>
+itary conditions in that city. It is<lb/>
+most likely that while there some<lb/>
+radical changes may be initiated for<lb/>
+the improvement of the public health<lb/>
+at that place, as it is admitted that<lb/>
+some safeguards should be taken.</p>
+<p>The fact that Capt. Thomason ac-<lb/>
+companies Major Kean on his trip<lb/>
+argues well for the future welfare of<lb/>
+that community and particularly for<lb/>
+the American troops quartered there,<lb/>
+because Dr. Thomason is a man of<lb/>
+recognized ability and is thoroughly<lb/>
+up-to-date, and what is better is en-<lb/>
+ergetic. The work that he will do<lb/>
+there will be well and quickly done<lb/>
+and his very presence should be an<lb/>
+assurance to the community.</p>
+<p>The condition in which Cienfue-<lb/>
+gos finds itself is mainly, if not sole-<lb/>
+ly due to little less than criminal<lb/>
+carelessness on the part of the mu-<lb/>
+nicipal sanitary authorities, who<lb/>
+permitted the situation to become<lb/>
+so grave, either of pure negligence,<lb/>
+or timidity, to reveal the situation<lb/>
+and their own shortcomings, for it<lb/>
+could scarcely be charged up to ma-<lb/>
+liciousness. If negligence in the<lb/>
+first place, or timidity, there is little<lb/>
+comfort in either for the chief of<lb/>
+the sanitary corps of Cienfuegos,<lb/>
+either case should be sufficient cause<lb/>
+for immediate dismissal, if such a<lb/>
+step can be taken.</p>
+<p>While about it for that matter the<lb/>
+nationalization of the Health De-<lb/>
+partment of Cuba should be effected<lb/>
+without a day's delay, for it is im-<lb/>
+peratively necessary for the promo-<lb/>
+tion of the country's most vital in-<lb/>
+terests. The longer it is delayed<lb/>
+the greater will be the difficulty and<lb/>
+danger. There can be no occasion<lb/>
+for not taking this all important<lb/>
+step right now, while the result of<lb/>
+not having already done so is plain.</p>
+<p>It is to be hoped that the Pro-<lb/>
+visional Governor will be firm in this<lb/>
+matter and do that which will do the<lb/>
+people generally the most good, not<lb/>
+heeding the objections interposed<lb/>
+by a few politicians who may not<lb/>
+wish to see a few of their wards<lb/>
+thrown out of <unclear>the</unclear> positions they<lb/>
+now hold on the municipal <unclear>pay roles.</unclear><lb/>
+As compared to <unclear>the</unclear> good of the<lb/>
+country they are nothing and should<lb/>
+be given just so much <unclear>consideration</unclear>.</p>
+<p>It is noticed that the papers in<lb/>
+the States are widely commenting<lb/>
+on the re-appearance of yellow <unclear>fever</unclear><lb/>
+in Cuba and what is <unclear>said</unclear> about it is<lb/>
+far from <unclear>praise</unclear>, and being so widely<lb/>
+disseminated works a serious in-<lb/>
+jury to the island. <unclear>If</unclear> the people<lb/>
+in the States were educated on the<lb/>
+subject of yellow fever they <unclear>would</unclear><lb/>
+not <unclear>regard</unclear> it with such <unclear>horror</unclear><lb/>
+which is unfortunate for them <unclear>as</unclear><lb/>
+well as <unclear>to Cuba.</unclear></p>
+<p>The American authorities now<lb/>
+have a splendid opportunity to do<lb/>
+a double service--educate the people<lb/>
+at home relative to this disease by<lb/>
+circulating a plain statement of its<lb/>
+nature through the press, and by na-<lb/>
+tionalizing the sanitary work in<lb/>
+Cuba. The proper board can find a<lb/>
+way of reaching the ear of the out-<lb/>
+side world with the facts about the<lb/>
+disease and at the same time give<lb/>
+great assurance to those who may<lb/>
+wish to visit or invest in Cuba.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

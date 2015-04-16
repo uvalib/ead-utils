@@ -1,0 +1,1225 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01016002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: Yellow Fever, Fifth Zone, North West Coast of Mexico (1919-1922), January 1, 1923</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01016002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1923-01-01</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Houle, E.C.</name>
+<name type="person">Harris, H.A.</name>
+<name type="person">Lyster, Theodore C.</name>
+<name type="person">White, Joseph H.</name>
+<name type="person">Connor, M.E.</name>
+<name type="place">Mexico</name>
+<name type="place">Nayarit (Mexico)</name>
+<name type="place">Sinaloa (Mexico)</name>
+<name type="place">Sonora (Mexico)</name>
+<name type="place">Mazatlan (Mexico)</name>
+<name type="place">Culiacan (Mexico)</name>
+<name type="place">Manzanillo (Mexico)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>30 pp.</extent>
+<date value="1923-01-01">January 1, 1923</date>
+<idno rend="suppress">01016002</idno>
+<title>Report: Yellow Fever, Fifth Zone, North West Coast of Mexico (1919-1922), January 1, 1923</title>
+</bibl>
+</head>
+<p>This is a detailed report on yellow fever work in Mexico. Topics discussed include: the history of yellow fever in the area, recent epidemics and public health efforts at mosquito control and vaccination.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1923-01-01">
+<head>Report: Yellow Fever, Fifth Zone, North West Coast of Mexico (1919-1922), January 1, 1923</head>
+<pb n="1" id="f01016002"/>
+<opener>
+COPY<lb/>
+Mr. Wickliffe Rose<lb/>
+61 Broadway<lb/>
+New York, N. Y.<lb/>
+With the Compliments of<lb/>
+Dr. E.C. Houle<lb/>
+Chief of the 5th Zone<lb/>
+Chief Surgeon F.C.S.R. de M.<lb/>
+Empalme, Sonora, Mexico<lb/>
+Dr. H.A. Harris<lb/>
+Assistant to Chief of Zone<lb/>
+Division Surgeon F.C.Z.P. de M.<lb/>
+Mazatlan, Sonora, Mexico<lb/>
+<dateline>
+Empalme, Sonora, Mexico<lb/>
+<date value="1923-01-01">January 1, 1923.</date>
+</dateline>
+<pb n="2" id="f01016003"/>
+COPY<lb/>
+<hi>YELLOW FEVER</hi><lb/>
+Fifth Zone<lb/>
+North West Coast of Mexico<lb/>
+1919-1922<lb/>
+</opener>
+<p>This paper, largely the story of an amateur and volunteer effort<lb/>
+against a menacing disease, is written particularly for those interested in Public<lb/>
+Health Work on the West Coast of Mexico. Names of local assistants in the<lb/>
+campaign have been freely used, so that those who follow us in this or similar<lb/>
+work, may avail themselves of wholly interested and at least partially trained<lb/>
+men.</p>
+<p><hi>PHYSICAL DESCRIPTION OF AREA</hi></p>
+<p>The territory in question comprises the littoral of the States of<lb/>
+Nayarit, Sinaloa and Sonora, from the Santiago River in the south to the Ari-<lb/>
+zona border in the north, about fifteen hundred kilometers long and averaging<lb/>
+one hundred kilometers in width. There is very restricted communication with<lb/>
+the interior, the mountains to the west and south providing an almost impassa-<lb/>
+ble barrier. All ordinary travel from the south is by steamer, usually stopp-<lb/>
+ing last at Manzanillo (port for Guadalajara and the interior.)</p>
+<p>There are only four ports connecting with railroads - Mazatlan, Al-<lb/>
+tata, Topolobampo and Guaymas. Only two of these - Mazatlan and Guaymas - are<lb/>
+ports for passenger steamers, and Guaymas is out of the line of ordinary travel.</p>
+<p>The country is sparsely populated, with long distances of uninhabited<lb/>
+country between communities. The towns are all small, the largest being Mazat-<lb/>
+lan with about thirty thousand inhabitants.</p>
+<p>The average winter temperature south of Mazatlan is probably high<lb/>
+enough to support stegomyia breeding the year around, although March inspections<lb/>
+in Mazatlan in 1921 and 1922 show house incidence of less than ten (10%) percent<lb/>
+<pb n="3" id="f01016004"/>
+2<lb/>
+and probably less than five (5%) percent. Some few cuartels, with large<lb/>
+numbers of permanent containers, show indices as high as thirty (30%) percent.<lb/>
+North of Mazatlan, between December and May, there is probably a negligible<lb/>
+amount of stegomyia breeding.</p>
+<p>All of the above conditions insure that this area is epidemic and<lb/>
+not endemic for yellow fever. The area is also safeguarded by the fact that<lb/>
+infection can come from only one direction, the south, which to the forewarned,<lb/>
+allows for proper watchfulness by means of public health reports.</p>
+<p>Communication within the area is provided almost entirely by one<lb/>
+railroad - The Southern Pacific of Mexico - which traverses it from end to end.<lb/>
+The writers, being in the medical service of this railroad, have had unusual<lb/>
+opportunities to keep informed on public health conditions.</p>
+<p><hi>History</hi>.</p>
+<p>According to Dr. Ruperto Paliza, Dr. A. M. Fernandez and others,<lb/>
+and corroborated by port records at Mazatlan, yellow fever was a frequent visitor<lb/>
+to the Northwest Coast, appearing at least once each decade since 1880. It is<lb/>
+also suggested by a relative immunity of the adult natives of the coast, in<lb/>
+comparison to foreigners and travelers from the interior.</p>
+<p>The disease developed epidemic nature in 1883-1884, 1886, 1888, 1902<lb/>
+and 1919-20-21.</p>
+<p>The epidemic of 1883-84 was a terrible visitation. It is estimated<lb/>
+that eight thousand deaths occurred on this sparsely populated coast. In<lb/>
+Mazatlan the disease persisted all through the winter months (beginning in<lb/>
+mid-summer 1883) and killed fifteen (15%) percent of the population. In Culiacan<lb/>
+and vicinity the mortality was from five (5%) percent to ten (10%) percent. The<lb/>
+infection also invaded the ports of Altata and Guaymas and extended to Hermosillo.<lb/>
+It is said that the first infection was brought to Mazatlan by an opera company<lb/>
+traveling from Colima, through Manzanillo. The Prima-donna, Peralta, died<lb/>
+<pb n="4" id="f01016005"/>
+3<lb/>
+three days after arrival in Mazatlan, and the entire troupe was practically<lb/>
+wiped out. The mortality was extremely high for strangers generally.</p>
+<p>The later epidemics of 1885, 1888 and 1902, all started late in the<lb/>
+fall of their respective years and were much milder and less extensive, undoubt-<lb/>
+edly due to a very general immunity of the population.</p>
+<p>Reappearance of yellow fever in 1919 was probably due to troop move-<lb/>
+ments through Manzanillo. There was much delay in recognizing it. At that<lb/>
+time, due to natural depletion of medical ranks by death, and unusual shifting<lb/>
+of locations caused by the Revolutions, there were not more than a half dozen<lb/>
+of Doctors living in the area who had had personal contact with the disease.<lb/>
+Due to the scarcity of doctors who had practical experience with Yellow Fever,<lb/>
+and to the general worthlessness of the average medical texts on the subject,<lb/>
+there was great difficulty in establishing a diagnosis, the general tendency,<lb/>
+either from misinterpretation or from unpraiseworthy motives, was to declare<lb/>
+&ldquo;Hemorrhagic Malaria.&rdquo;</p>
+<p>(Later, in June 1922, the Department of Public Health of Mexico,<lb/>
+found it necessary to place Hemorrhagic Malaria in the list of reportable<lb/>
+diseases and to issue a circular to the effect, admitting that certain isolated<lb/>
+cases of malaria might present various hemorrhages as complications or attend-<lb/>
+ant accidents of the disease, it was not admissible that Epidemics of Hemorrhagic<lb/>
+Malaria could exist; that ignorance or malice had confused cases of Yellow Fever<lb/>
+and so-called Hemorrhagic Malaria to the extent that the Department was much<lb/>
+handicapped in its measures against yellow fever.)</p>
+<p>Cases began to appear in Mazatlan in late August, in Culiacan in<lb/>
+September and gradually extended north. One American and three other foreigners<lb/>
+died in Mazatlan, beside various native deaths, under very suspicious symptoms<lb/>
+in October and November. There was unusual mortality from &ldquo;Pernicious Malaria&rdquo;<lb/>
+in Culiacan and Eldorado. In the military encampment of Torin on the Yaqui River,<lb/>
+more than ninety deaths occurred in October and November in a garrison of<lb/>
+<pb n="5" id="f01016006"/>
+4<lb/>
+three hundred men. Four officers of this organization, falling sick on duty<lb/>
+and attempting to escape the general fate, left the camp to succumb, two in<lb/>
+Guaymas and two in Hermosillo.</p>
+<p>In all this period, only one doctor, Dr. Andres Vidales, of Culiacan,<lb/>
+definitely diagnosed Yellow Fever. Despite the apathy or untruthfulness of the<lb/>
+medical profession, the general populace were sufficiently alert, so that anti-<lb/>
+mosquito campaigns in Guaymas and Empalme were enthusiastically supported in this<lb/>
+year and in 1920.</p>
+<p><hi>Epidemic of 1920</hi>.</p>
+<p>The disease again appeared in Culiacan in August, the diagnosis again<lb/>
+being clearly stated by Dr. Vidales, this time ably supported by Dr. Cliserio<lb/>
+Garcia, J. By September 1st, seven cases had been diagnosed, four resulting<lb/>
+fatally. About this time &ldquo;Hemorrhagic Malaria&rdquo; began to be reported with increas-<lb/>
+ing frequency from the Santiago River, Acaponeta and Mazatlan.</p>
+<p>By October 1st, there had been reported in Culiacan about twenty-nine<lb/>
+cases, of which twenty-four had a fatal termination. There were probably an equal<lb/>
+or greater number of cases not reported. About this time, there was a notable<lb/>
+spread of the disease to the north, due to the annual pilgrimage to the shrine<lb/>
+of San Francisco in Magdalena, Sonora. One case was diagnosed in Empalme,<lb/>
+two in Guaymas, possibly four occurred in Hermosillo and one case as far north<lb/>
+as Cananea, almost on the border.</p>
+<p>Luckily, in both years, the infection arrived late in the summer into<lb/>
+this area. Due to the necessary delays of the incubation periods, especially in<lb/>
+<hi>the mosquito</hi> - dangerous momentum of the disease was not developed until<lb/>
+October 1st, when the natural decline of stegomyia breeding begins.</p>
+<p>The Department of Public Health of Mexico now began active measures<lb/>
+for organization of the entire Republic against the disease, as there were active<lb/>
+epidemics in three other areas. Unfortunately, an investigating committee, sent<lb/>
+<pb n="6" id="f01016007"/>
+5<lb/>
+to this coast, arrived late in the year, when all active manifestation had<lb/>
+disappeared.</p>
+<p>In January, 1921, a Special Commission was appointed under control<lb/>
+of the Department of Public Health, and Dr. Theodore C. Lyster, of the Interna-<lb/>
+tional Health Board, was appointed Director.</p>
+<p><hi>Epidemic of 1921</hi>.</p>
+<p>In March of 1921, a preliminary survey was made on this coast.<lb/>
+Little or no stegomyia breeding was found north of Mazatlan at this time.</p>
+<p>By midsummer, definite outbreaks of Yellow Fever were in progress in<lb/>
+Vera Cruz, Tampico, Quintana Roo and British Honduras, Suspicious reports<lb/>
+were being received from the small port of Manzanillo, just south of our area.<lb/>
+Due to the pressure of work in other and more active areas and the scarcity of<lb/>
+trained personnel, it was impossible to organize this zone as early as had<lb/>
+been hoped. The arrival, August 26th, of the Director of the Commission on<lb/>
+his second visit to the zone, was almost coincidental with the long delayed offi-<lb/>
+cial declaration of Yellow Fever in Manzanillo and the recognition of four cases<lb/>
+from various ships, which had called at Manzanillo, in the maritime quarantine<lb/>
+station in Mazatlan, where the Port Doctor was having considerable difficulty<lb/>
+in enforcing quarantine measures.</p>
+<p>Anti-mosquito work was hurriedly improvised in Mazatlan, beginning on<lb/>
+September 3d. Due to absolute lack of trained personnel and to the exceptionally<lb/>
+easy conditions for control in this city, the simplest possible measure was<lb/>
+adopted, that of <unclear>emotying</unclear> all containers of standing water. The city has a good<lb/>
+water supply and no particular hardship was imposed by dumping all containers as<lb/>
+found. A squad of inspectors was organized with a view of making a thorough revi-<lb/>
+sion.of the city every ten days and preferably every week. The first revision<lb/>
+actually required more than two weeks. Then, due to further alarm from the<lb/>
+direction of Culiacan, the squad was increased in size and speeded up to a revi-<lb/>
+sion of the whole city each nine or ten days.</p>
+<pb n="7" id="f01016008"/>
+<p>6</p>
+<p>About September 14th, Yellow Fever was reported in Culiacan, breaking<lb/>
+out in the family of the Bishop, who himself was the first to succumb. The acti-<lb/>
+vities of our organization were hurriedly extended to Culiacan, borrowing some<lb/>
+of the more promising personnel of the Mazatlan inspecting squad and organizing<lb/>
+a new group under the direction of Dr. Cliserio Garcia, special delegate of the<lb/>
+Health Department. By September 21st, the anti-mosquito work was progressing<lb/>
+here on the same plan as in Mazatlan, but under physical conditions not so favor-<lb/>
+able.</p>
+<p>The exact origin of the infection in Culiacan could not be traced, but<lb/>
+the logical belief is that some passenger from Manzanillo slipped through the<lb/>
+quarantine in Mazatlan in time to infect the household of the Bishop in which<lb/>
+two deaths occurred and two other cases were diagnosed.</p>
+<p>The next development, on September 28th, was a sharp but limited out-<lb/>
+break in the village of Palmar de los Leales, just a day's journey overland<lb/>
+north from Culiacan, seven deaths occurring in a group of nine sick, who presented<lb/>
+typical symptoms. These persons all fell sick on or about September 18th, sugg-<lb/>
+esting they were all infected on the same occasion, possibly in visiting some<lb/>
+unrecognized case.</p>
+<p>By this time the possibilities of the improvised zone organization<lb/>
+were spreading very thinly over a large area but with some effort a new anti-<lb/>
+stegomyia brigade was organized October 11th under instruction of one of the<lb/>
+original group of inspectors in Mazatlan, and under the supervision of Dr.<lb/>
+Carlos Salazar of Guamuchil, forty kilometers away, but the only doctor in a<lb/>
+sixty kilometers radius. Fortunately, conditions were most unpropitious for<lb/>
+spread of the disease, being in a sparsely populated agricultural district,<lb/>
+huts flimsily constructed and unfavorable for stegomyia breeding, and with very<lb/>
+little <hi>impounded</hi> water. There may have been some additional protection to one<lb/>
+or two neighboring hamlets in the stringent shotgun quarantines they established<lb/>
+on their own initiative and which were not interfered with.</p>
+<pb n="8" id="f01016009"/>
+<p>7</p>
+<p>In this zone, some use was made of the Noguchi Vaccine, one hundred<lb/>
+and ninety-three first vaccinations being made in the village of Palmar (about<lb/>
+three hundred and fifty inhabitants) and forty second vaccinations of the more<lb/>
+exposed. Vaccine was used to a lesser extent in Culiacan and Mazatlan, due<lb/>
+mostly to scarcity of the material. No inference can be drawn on its use, due<lb/>
+to lack of opportunity for close observation.</p>
+<p>The campaign in this zone was made possible and timely only by the<lb/>
+assistance of the International Health Board, in advancing funds which were<lb/>
+later repaid by the Mexican Government.</p>
+<pb n="9" id="f01016010"/>
+<p>8</p>
+<p>RESULTS OF DUMPING INSPECTIONS</p>
+<p>MAZATLAN</p>
+<p>September 3d - November 30th, 1921.</p>
+<p>
+<table rows="8" cols="7">
+     <row>
+          <cell>Inspection</cell>
+          <cell>Houses</cell>
+          <cell>Con-<lb/>tainers</cell>
+          <cell>Houses<lb/>Breed-<lb/>ing</cell>
+          <cell>Cont'rs<lb/>Breed-<lb/>ing</cell>
+          <cell>Index<lb/>House</cell>
+          <cell>Notes</cell>
+     </row>
+     <row>
+          <cell>9/6-9/21</cell>
+          <cell>5845</cell>
+          <cell>34289</cell>
+          <cell>3615</cell>
+          <cell>6922</cell>
+          <cell>.61</cell>
+          <cell></cell>
+     </row>
+     <row>
+          <cell>9/27-10/6</cell>
+          <cell>6160</cell>
+          <cell>28570</cell>
+          <cell>1059</cell>
+          <cell>1557</cell>
+          <cell>.17</cell>
+          <cell>House index reduction 70%</cell>
+     </row>
+     <row>
+          <cell>10/7-10/22</cell>
+          <cell>6418</cell>
+          <cell>33782</cell>
+          <cell>478</cell>
+          <cell>627</cell>
+          <cell>.07</cell>
+          <cell>Do. 60%</cell>
+     </row>
+<row>
+<cell>10/23-10/29</cell><cell>490</cell><cell>3525</cell><cell>97</cell><cell>117</cell><cell>.05</cell><cell>Worst Areas</cell></row>
+<row>
+<cell>10/30-11/15</cell><cell>6090</cell><cell>33106</cell><cell>245</cell><cell>256</cell><cell>.04</cell><cell>House Index reduction 43%</cell></row>
+<row>
+<cell>11/16-11/18</cell><cell><hi>167</hi></cell><cell><hi>1046</hi></cell><cell>2</cell><cell>2</cell><cell>.01</cell><cell>Worst Areas</cell></row>
+<row>
+<cell></cell><cell>25170</cell><cell>134318</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></p>
+<p>CULIACAN</p>
+<p>September 21st - December 31st, 1921.</p>
+<p>
+<table rows="10" cols="7">
+<row>
+<cell>Inspection</cell><cell>Houses</cell><cell>Con-<lb/>
+tainers</cell><cell>Houses<lb/>
+Breed-<lb/>
+ing</cell><cell>Cont'rs<lb/>
+Breed-<lb/>
+ing</cell><cell>Index<lb/>
+House</cell><cell>Notes</cell></row>
+<row>
+<cell>1</cell><cell>3015</cell><cell>17148</cell><cell>1803</cell><cell>3974</cell><cell>58</cell><cell></cell></row>
+<row>
+<cell>2</cell><cell>3173</cell><cell>15869</cell><cell>1181</cell><cell>1639</cell><cell>37</cell><cell>House index reduction 36%</cell></row>
+<row>
+<cell>3</cell><cell>3091</cell><cell>13605</cell><cell>748</cell><cell>935</cell><cell>24</cell><cell>Do. 35%</cell></row>
+<row>
+<cell>4</cell><cell>3176</cell><cell>15006</cell><cell>412</cell><cell>522</cell><cell>12</cell><cell>Do. 50%</cell></row>
+<row>
+<cell>5</cell><cell>3379</cell><cell>14839</cell><cell>235</cell><cell>289</cell><cell>06</cell><cell>Do. 50%</cell></row>
+<row>
+<cell>6</cell><cell>3369</cell><cell>13927</cell><cell>140</cell><cell>156</cell><cell>04</cell><cell>Do. 33%</cell></row>
+<row>
+<cell>7</cell><cell>3322</cell><cell>13117</cell><cell>92</cell><cell>101</cell><cell>027</cell><cell>Do. 33%</cell></row>
+<row>
+<cell>8</cell><cell><hi>2476</hi></cell><cell><hi>9383</hi></cell><cell>32</cell><cell>37</cell><cell>0129</cell><cell>Do. 52%</cell></row>
+<row>
+<cell></cell><cell>25001</cell><cell>112894</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></p>
+<pb n="10" id="f01016011"/>
+<p>RESULTS OF DUMPING INSPECTIONS</p>
+<p>Mocorito District.</p>
+<p>Guamuchil, Mocorito and Palmar de los Leales</p>
+<p>October 11th - December 31st, 1921.</p>
+<p>
+<table rows="26" cols="7">
+<row>
+<cell>Inspection</cell><cell>Houses</cell><cell>Con-<lb/>
+tainers</cell><cell>Houses<lb/>
+Breed-<lb/>
+ing</cell><cell>Cont'rs<lb/>
+Breed-<lb/>
+ing</cell><cell>Index<lb/>
+House</cell><cell>Notes</cell></row>
+<row>
+<cell>G</cell><cell>319</cell><cell>1263</cell><cell>172</cell><cell>250</cell><cell>53.9</cell><cell></cell></row>
+<row>
+<cell>M - Oct.12</cell><cell>428</cell><cell>1876</cell><cell>216</cell><cell>370</cell><cell>50.4</cell><cell></cell></row>
+<row>
+<cell>P - Oct.24</cell><cell>205</cell><cell>1125</cell><cell>104</cell><cell>245</cell><cell>50.7</cell><cell></cell></row>
+<row>
+<cell>G - Oct.22</cell><cell>316</cell><cell>1080</cell><cell>154</cell><cell>181</cell><cell>48.7</cell><cell></cell></row>
+<row>
+<cell>M</cell><cell>422</cell><cell>1678</cell><cell>187</cell><cell>261</cell><cell>45.3</cell><cell></cell></row>
+<row>
+<cell>P - Nov. 1</cell><cell>252</cell><cell>1329</cell><cell>105</cell><cell>235</cell><cell>41.6</cell><cell></cell></row>
+<row>
+<cell>G - Nov. 2</cell><cell>331</cell><cell>1249</cell><cell>121</cell><cell>125</cell><cell>35.5</cell><cell></cell></row>
+<row>
+<cell>M - " 13</cell><cell>424</cell><cell>1615</cell><cell>170</cell><cell>240</cell><cell>40.</cell><cell></cell></row>
+<row>
+<cell>P - " "</cell><cell>263</cell><cell>1753</cell><cell>96</cell><cell>190</cell><cell>36.5</cell><cell></cell></row>
+<row>
+<cell>G - Nov.14</cell><cell>350</cell><cell>1410</cell><cell>98</cell><cell>99</cell><cell>28.</cell><cell></cell></row>
+<row>
+<cell>M - " 24</cell><cell>390</cell><cell>1490</cell><cell>142</cell><cell>201</cell><cell>36.4</cell><cell></cell></row>
+<row>
+<cell>P - " "</cell><cell>265</cell><cell>1507</cell><cell>90</cell><cell>154</cell><cell>33.9</cell><cell></cell></row>
+<row>
+<cell>G - Nov.25</cell><cell>345</cell><cell>1300</cell><cell>70</cell><cell>85</cell><cell>20.3</cell><cell></cell></row>
+<row>
+<cell>M - Dec. 5</cell><cell>345</cell><cell>1501</cell><cell>112</cell><cell>181</cell><cell>28.2</cell><cell></cell></row>
+<row>
+<cell>P - Dec. 5</cell><cell>238</cell><cell>1197</cell><cell>70</cell><cell>80</cell><cell>29.4</cell><cell></cell></row>
+<row>
+<cell>G - Dec. 6</cell><cell>330</cell><cell>1322</cell><cell>40</cell><cell>54</cell><cell>12.1</cell><cell></cell></row>
+<row>
+<cell>M - Dec.17</cell><cell>422</cell><cell><unclear>1680</unclear></cell><cell>96</cell><cell>160</cell><cell>22.7</cell><cell></cell></row>
+<row>
+<cell>P - " "</cell><cell>226</cell><cell>1140</cell><cell>60</cell><cell>70</cell><cell>26.1</cell><cell></cell></row>
+<row>
+<cell>G - Dec.17</cell><cell><unclear>335</unclear></cell><cell>1305</cell><cell>36</cell><cell>40</cell><cell>10.4</cell><cell></cell></row>
+<row>
+<cell>M - " 27</cell><cell>426</cell><cell>1578</cell><cell>63</cell><cell>120</cell><cell>14.7</cell><cell></cell></row>
+<row>
+<cell>P - " "</cell><cell>230</cell><cell>1162</cell><cell>40</cell><cell>52</cell><cell>17.3</cell><cell></cell></row>
+<row>
+<cell>G - Dec.28</cell><cell>125</cell><cell>431</cell><cell>13</cell><cell>13</cell><cell>10.4</cell><cell></cell></row>
+<row>
+<cell>M - " 31</cell><cell>142</cell><cell>581</cell><cell>18</cell><cell>32</cell><cell>12.6</cell><cell></cell></row>
+<row>
+<cell>P - " "</cell><cell><hi>78</hi></cell><cell><hi>364</hi></cell><cell>10</cell><cell>14</cell><cell>17.8</cell><cell></cell></row>
+<row>
+<cell></cell><cell>7207</cell><cell>30836</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></p>
+<p>Note: This District shows the lack of supervision. The Delegado<lb/>
+Especial in charge suffered a broken leg November 5th<lb/>
+<pb n="11" id="f01016012"/>
+10<lb/>
+and it was impossible to replace an experienced Doctor here. However<lb/>
+the District was quiet - no case appearing after October 15th and very un-<lb/>
+propitious for spread of disease.</p>
+<p>The reducing of mosquito breeding here shown is probably only<lb/>
+50% better than the natural decline due to temperature change at this<lb/>
+time of the year.</p>
+<p>SUMMARY OF CAMPAIGN</p>
+<p>September 1st - December 31st, 1921</p>
+<p>
+<table rows="8" cols="7">
+<row>
+<cell>Town</cell><cell>No. of In-<lb/>
+spections</cell><cell>Total No.<lb/>
+Housed</cell><cell>Total No.<lb/>
+Containers</cell><cell>Initial<lb/>
+House<lb/>
+Index</cell><cell>Final<lb/>
+House<lb/>
+Index</cell><cell>Cost<lb/>
+Peso's<lb/>
+O. N.</cell></row>
+<row>
+<cell>Mazatlan</cell><cell>3 comp.</cell><cell>25179</cell><cell>134318</cell><cell>Sept.3d</cell><cell>Nov.30</cell><cell>5185.00</cell></row>
+<row>
+<cell></cell><cell>2 spec.</cell><cell></cell><cell></cell><cell>61%</cell><cell>4%</cell><cell></cell></row>
+<row>
+<cell>Culiacan</cell><cell>7 comp.</cell><cell>25001</cell><cell>112894</cell><cell>Sept.21</cell><cell>Dec.31</cell><cell>5043.48</cell></row>
+<row>
+<cell></cell><cell>1 part 1</cell><cell></cell><cell></cell><cell>58%</cell><cell>2%</cell><cell></cell></row>
+<row>
+<cell>Mocorito</cell><cell>7 comp.</cell><cell>7248</cell><cell>30936</cell><cell>Oct.12</cell><cell>Dec.31</cell><cell>2955.82</cell></row>
+<row>
+<cell>Dist.</cell><cell>1 part 1.</cell><cell>____</cell><cell>____</cell><cell>51.6%</cell><cell>13.6%</cell><cell>_______</cell></row>
+<row>
+<cell></cell><cell></cell><cell>57428</cell><cell>278148</cell><cell></cell><cell></cell><cell>13184.30</cell></row></table></p>
+<p>General expense of organization and supervision<lb/>
+of Zone, by Chief of Zone <hi>1576.80</hi><lb/></p>
+<p>Total Local Cost 14761.10</p>
+<p>Includes all local expense of campaign, including salaries<lb/>
+and expenses of Delegados Especiales, etc., but does not include over-<lb/>
+head expense of the Mexican Government or International Health Board.</p>
+<pb n="12" id="f01016013"/>
+<p>11</p>
+<p>PROGRESS OF EPIDEMIC</p>
+<p>1921</p>
+<p>
+<table rows="6" cols="7">
+<row>
+<cell>Town</cell><cell>First<lb/>
+Case</cell><cell>Last<lb/>
+Case</cell><cell>Total<lb/>
+Cases</cell><cell>Total<lb/>
+Death</cell><cell>Anti<lb/>
+Mosquito<lb/>
+Campaign</cell><cell>Campaign<lb/>
+Finished</cell></row>
+<row>
+<cell>Mazatlan</cell><cell>Aug.25</cell><cell>Sept.20</cell><cell>5</cell><cell>4</cell><cell>Sept. 3d</cell><cell>Nov.30th</cell></row>
+<row>
+<cell></cell><cell></cell><cell></cell><cell>(Four in maritime quarantine)</cell><cell></cell><cell></cell><cell></cell></row>
+<row>
+<cell>Culiacan</cell><cell>Sept.12</cell><cell>Oct. 18</cell><cell>26</cell><cell>13</cell><cell>Sept.21</cell><cell>Dec.31</cell></row>
+<row>
+<cell>Mocorito<lb/>
+District</cell><cell>Sept.18</cell><cell>Oct. 15</cell><cell>12</cell><cell>9</cell><cell>Oct. 11</cell><cell>Dec. 31</cell></row>
+<row>
+<cell>Guaymas</cell><cell>Aug. 30</cell><cell>---</cell><cell>1</cell><cell>1</cell><cell>---</cell><cell>---</cell></row></table></p>
+<p>Ruiz &amp;<lb/>
+San Blas Cases suspected but not proved</p>
+<p>Rosa Morada Cases suspected but disproved</p>
+<p>Total Cases 44 Total Deaths 27</p>
+<p>Notes:</p>
+<p>Mazatlan. Three cases from Manzanillo died in quarantine August<lb/>
+25 to September 3. One case from Culiacan September, dying September 25.<lb/>
+One case Dr. P. Lopez delegated Sanitary Officer of Port of Mazatlan while<lb/>
+en route called on convalescent friend in Manzanillo on September 13 and 14,<lb/>
+became sick September 17, arrived Mazatlan September 19 with mild case<lb/>
+Yellow Fever. Had received one prophylactic injection of Perrin Vaccine year<lb/>
+before. Long convalescence.</p>
+<p>Culiacan. Infection probably from Manzanillo via Mazatlan. Late<lb/>
+in October, Bernardo J. Gastellum reported finding leptospira icteroides in<lb/>
+two cases, one of which died.</p>
+<p>Guaymas. Juan Ruiz, Captain of Marines, after spending several<lb/>
+days in Manzanillo, left that port August 27, arriving in Guaymas seriously ill,<lb/>
+on that night of August 30, dying September 3. At time of arrival temperature<lb/>
+39, pulse 90, vomiting but no hemorrhage, no icterus, no albuminuria. Director<lb/>
+of Civil Hospital found plasmodia in blood and diagnosed Malaria. Up to time<lb/>
+of death temperature remained high, pulse became slower. Never showed hemorrhages<lb/>
+or albuminuria but developed moderate icterus, increasing somewhat after death.<lb/>
+Temperature rose after death. Autopsy finding suggestive of Yellow Fever.<lb/>
+<pb n="13" id="f01016014"/>
+12<lb/>
+Year of 1922.</p>
+<p>The entire Republic of Mexico was now thoroughly organized against<lb/>
+Yellow Fever. Seven major zones had been created, of which the territory under<lb/>
+discussion in this paper constituted the Fifth. Each zone was under the charge<lb/>
+of a Chief, whose responsibility it was to prepare a budget in advance for the<lb/>
+year of 1922. Dr. Joseph H. White now succeeded Dr. Theodore C. Lyster as Direc-<lb/>
+tor, working under the Departamento de Salubridad Publica of Mexico.</p>
+<p>This zone, the Fifth, was catalogued as epidemic only, but all other<lb/>
+zones were classified as possibly, if not actually, endemic. Zone siz, Colima<lb/>
+and Manzanillo, immediately to the south of us, was newly classified as endemic.<lb/>
+However, in 1921, an intensive antimosquito campaign had been pursued in Zone<lb/>
+six, with the result that the mosquito index was reduced below the danger point<lb/>
+five (5%) percent, and was kept under control by the systematic use of fish.</p>
+<p>With the zones to the south well supervised and controlled, practi-<lb/>
+cally all danger to this area was removed. Consequently, it was believed<lb/>
+there would be no Yellow Fever development in the zone this year. (At the time<lb/>
+of this writing - December 1, 1922 - there has actually been no development of<lb/>
+any kind.)</p>
+<p>Therefore, early in the year, the Chief of the Zone proposed to re-<lb/>
+duce expense by carrying out no active antimosquito work whatever. It was pro-<lb/>
+posed to create and maintain a skeleton organization under training, to be ex-<lb/>
+panded to meet requirements, if our forecast for the year proved wrong. We<lb/>
+were convinced by the work of 1921 that, being prepared, we could in a month's<lb/>
+time reduce mosquito breeding below the danger point in any community.</p>
+<p>This plan being approved by the Comision Especial, the skeleton organ-<lb/>
+ization was formed as a &ldquo;Flying Squad&rdquo; consisting of a Chief Inspector, and two<lb/>
+Assistant Inspectors, who were to be trained as future Chiefs of Districts.<lb/>
+This Brigade operated under the orders of the writers and Dr. A. M. Fernandez,<lb/>
+Delegado Especial in Mazatlan. We were fortunate in securing a highly trained<lb/>
+Chief Inspector, Mr. H. B. Richardson, who had had experience in the more active<lb/>
+<pb n="14" id="f01016015"/>
+13<lb/>
+Yellow Fever zones of Tampico and Vera Cruz. The duties of the Flying<lb/>
+Squad while waiting possible service in active campaign, were the following:</p>
+<p>Physical Survey of all important towns, particularly the Ports,<lb/>
+in the states of Sinaloa and Nayarit, card-indexing the following information:</p>
+<p>Geographical or topographical advantages or disadvantages</p>
+<p>Estimate of population, number of houses and number of inspectors<lb/>
+necessary to make a thorough revision in seven days</p>
+<p>Obtain monthly index of mosquito incidence and noting type of<lb/>
+mosquitoes</p>
+<p>List and locate permanent water containers, such as wells,<lb/>
+cisterns, tanks, etc.; noting control measures best adaptable,<lb/>
+such as sealing, screening, oiling, fish implantation, etc.</p>
+<p>Classification of local fish, turtles, water bugs, weeds (chara<lb/>
+foetida) and other larva destroying factors. Fish to be<lb/>
+identified as top or bottom feeder, source of supply, cost of<lb/>
+collection and transportation, availability and viability<lb/>
+for various classes of containers, etc.</p>
+<p>Incidentally, the Brigade was to disseminate as much popular<lb/>
+information as possible during the course of these investi-<lb/>
+gations.</p>
+<p>This work was carried on from April to the end of July, then,<lb/>
+due to the generally favorable conditions in all zones, the work was super-<lb/>
+seded in August and September by a program of distribution of selected<lb/>
+local fish to permanent containers in Culiacan and Mazatlan, for experimental<lb/>
+and educational purposes. The work has cost, from April 1st to date, exclu-<lb/>
+sive of overhead and supervision, about Five thousand (5,000.00) pesos.</p>
+<p>The results of some of the investigations of the Brigade are noted<lb/>
+in the appendix to this paper. As a result of this work, <add>if</add> it should ever<lb/>
+again become necessary to institute active measures against house mosquitoes,<lb/>
+it will undoubtedly be done by the systematic use of fish and other larva<lb/>
+destroying factors.</p>
+<p>The Chief impressions gained:</p>
+<p>1. The remarkable facility by which Yellow Fever may be controlled<lb/>
+by organized and informed effort, striking at the most pampered and vulnerable<lb/>
+of mosquitoes. (Note the reduction of Sixty (60%) percent of the breeding by<lb/>
+each single, rapidly conducted emptying of all water containers.)</p>
+<p>2. The relative difficulty of obtaining exact information on<lb/>
+<pb n="15" id="f01016016"/>
+14<lb/>
+Yellow Fever from sources available to the general profession. General<lb/>
+medical texts are invariably vague and misleading on the subject, in direct<lb/>
+opposition to the positive assurance radiated by those Sanitarians who <add>have</add> had<lb/>
+large experience with it. A disease so exactly studies as this and so<lb/>
+amenable to control should have better reporters.</p>
+<p>3. The good fortune of this Coast and the region to the North,<lb/>
+that communication from the South has been restricted and difficult in the<lb/>
+past. In 1919, 1920 and 1921, the disease effected its jump, from the<lb/>
+endemic area to the South to this zone, so late in the summer or fall<lb/>
+that the reduction of mosquito breeding by cooler weather probably averted<lb/>
+more rapid development.</p>
+<pb n="16" id="f01016017"/>
+<p><hi>APPENDIX</hi></p>
+<p>Notes and Recommendations<lb/>
+From Antimosquito Survey of<lb/>
+Sinaloa and Nayarit during<lb/>
+Campaign of 1922.</p>
+<p>LOCAL LARVICIDE FACTORS</p>
+<p>Constant supervision must be provided to keep mosquito breeding<lb/>
+under control, unless an active factor, such as fish, is present, in the tank<lb/>
+or container, to consume larvae continuously. Dumping campaigns, such as pur-<lb/>
+sued in this area in 1921 are purely emergency measures, effective only during<lb/>
+the active period of work. Two months of such dumping inspection in Mazatlan<lb/>
+reduced the Mosquito index from 65% to 4%, but two months after stoppage of<lb/>
+active work the index had again risen to 30%.</p>
+<p>Connor and others have proven that certain small fish can be success-<lb/>
+fully employed as larvicides in all reasonably large water containers.</p>
+<p>To investigate the possibilities of local fish for this purpose, a<lb/>
+special tank was established at the railroad emergency hospital in Mazatlan.<lb/>
+The tank was constructed on plans indicated by Dr. M. E. Connor:</p>
+<p>1. Of Sufficient size to support fish life conveniently (twelve<lb/>
+feet long, four feet wide, two feet deep, divided by fine<lb/>
+mesh screen into three compartments approximately four feet<lb/>
+square)</p>
+<p>2. Well shaded, yet allowing air currents from all sides</p>
+<p>3. Bottom liberally provided with large rocks, broken pottery, etc.;<lb/>
+to provide resting caves for fish</p>
+<p>4. A corner of each compartment fitted with coarse mesh screen,<lb/>
+allowing young fish to seek refuge from their elders.</p>
+<p>Observations made in this tank have shown that this area has an<lb/>
+ample supply of larvicide fish. In addition we have made considerable study<lb/>
+of a certain water-bug (Notonecta) and a few experiments with turtle and Algae.</p>
+<pb n="17" id="f01016018"/>
+<p>2</p>
+<p>Photograph of THE CHALACO<lb/>
+DORMITATOR LATIFRONS</p>
+<p>According to Dr. Eigenmann, Dean of Indiana University - occurr-<lb/>
+ing within the tidal zone in rivers from Northern Peru to California.</p>
+<p>Very widely distributed, bottom feeder, and a voracious feeder<lb/>
+of larvae. This fish, used by Connor at Guayaquil, was found the most<lb/>
+satisfactory for consuming mosquito larvae and mosquito eggs in small<lb/>
+containers. Has best viability of all fish in this region to withstand<lb/>
+change and handling.</p>
+<p>Next to the Gambusia Affinis is the most widely distributed of<lb/>
+all small larvicide fish in this area. Is found in all of the rivers and<lb/>
+most of the arroyos from the Mocorito to the Santiago River.</p>
+<p>Has been used most successfully and economically in Culiacan<lb/>
+and Mazatlan.</p>
+<p>(Photo by McKenna, Mazatlan.)</p>
+<pb n="18" id="f01016019"/>
+<p>3</p>
+<p>Photograph of LISA (Jumping Fish)</p>
+<p>Fairly well distributed, top feeder and good eater of<lb/>
+larvae.</p>
+<p>More delicate than Chalaco but hardier than Mojarra or<lb/>
+Robalo. Used in aljibes, deep wells and narrow necked containers.</p>
+<p>Has been located in the following rivers:</p>
+<p>Presidio and Rosario.</p>
+<p>(Photo by McKenna, Mazatlan.)</p>
+<pb n="19" id="f01016020"/>
+<p>4</p>
+<p>Photograph of ROBALO PLATEADO</p>
+<p>Widely distributed, top and bottom feeder and a voracious feeder of<lb/>
+larvae. Used at Vera Cruz. Richardson claims to have had good results<lb/>
+with it in Vera Cruz District. Has advantge of giving birth to young<lb/>
+direct and not by hatching eggs. Propagation rapid. It will, when fright-<lb/>
+ened, jump from containers - can be used in aljibes and wells and narrow<lb/>
+necked containers. Does not attain its full growth until contact with salt<lb/>
+water.</p>
+<p>Used at first in Culiacan in September, 1922, but all died by end of<lb/>
+third day. Experience here at Mazatlan demonstrates that it is very delicate<lb/>
+and does not easily accustom itself to new surroundings.</p>
+<p>Has been identified in the following rivers:</p>
+<p>Mocorito, Humaya, Presidio, Rosario, Acaponeta,<lb/>
+and Santiago.</p>
+<p>(Photo by McKenna, Mazatlan.)</p>
+<pb n="20" id="f01016021"/>
+<p>5</p>
+<p>Photograph of <hi>MOJARRA VERDI</hi></p>
+<p>Fairly well distributed, top and bottom feeder. Voracious feeder<lb/>
+of larvae and fighter. Is more delicate than chalaco, but may prove to<lb/>
+be very servicable. Should be studied further.</p>
+<p>Has been found in the Presidio and Rosario Rivers.</p>
+<p>(Photo by McKenna, Mazatlan.)</p>
+<p><hi>GAMBUSIA AFFINIS.</hi></p>
+<p>Very plentiful but not considered because of its inability to with-<lb/>
+stand rough handling.</p>
+<p>It is better adapted to antimalarial work.</p>
+<pb n="21" id="f01016022"/>
+<p>6.</p>
+<p>Photograph of - Notonecta glauca, resting. and<lb/>
+
+Notonecta Glauca feeding.</p>
+<p><hi>NOTONECTIDAE (Glauca</hi></p>
+<p>CLASS HEXAPODA</p>
+<p>ORDER HEMIPTERA (HALF WING)</p>
+<p>SUBORDER HETEROPTERA</p>
+<p>TRIBE CRYPTOCERATA</p>
+<p>FAMILY NOTONECTIDAE.</p>
+<p>(Photos by Dr. Cliserio Garcia<lb/>
+J. Culiacan.)</p>
+<pb n="22" id="f01016023"/>
+<p>7.</p>
+<p><hi>NOTONECTIDAE</hi></p>
+<p>Notonecta Glauca.</p>
+<p>Notonecta (Backswimmer)<lb/>
+English - &ldquo;Waterboatman.&rdquo;<lb/>
+Local - &ldquo;Zeppelina.&rdquo;</p>
+<p>This waterbug has been our most interesting find.</p>
+<p>Noted in Culiacan in 1921 by one of our Inspectors, Enrique<lb/>
+Boyles, that there was an absence of larvae wherever these waterbugs<lb/>
+were found. Transplanting the bugs into jars of water swarming with<lb/>
+larvae he found the bugs destroyed the larvae at an astonishing rate,<lb/>
+considering relative sizes.</p>
+<p>He communicated these findings to Dr. Cliserio Garcia J., Delegado<lb/>
+Especial in Culiacan, who experimented with them and developed many inter-<lb/>
+esting facts, along with work by Richardson in Mazatlan and ourselves in<lb/>
+the railroad service.</p>
+<p>E. H. Ross mentions these insects in his work on &ldquo;Reduction of<lb/>
+Domestic Mosquitos&rdquo; as being successfully used at Port Said. He condemns<lb/>
+them as being inefficient in grassy ponds, but we have found them consider-<lb/>
+ably better, on account of their diminutive size, then fish under the same<lb/>
+conditions.</p>
+<p>They are widely distributed all over this area, in fresh water pools<lb/>
+and ponds, being brought down from the higher lands by the spring and<lb/>
+summer floods. Richardson saw them in Tampico and in the Papantla district.</p>
+<p>Garcia writes:</p>
+<p>&ldquo;The name Notonecta&rdquo; has been given to the insect for its custom<lb/>
+of swimming upside down. In order to propel itself through the water, it<lb/>
+makes use of fast and powerful thrusts of its hind legs, which are thickly<lb/>
+provided with hairs, much on the order of the feathering of an arrow.<lb/>
+<pb n="23" id="f01016024"/>
+8<lb/>
+When the insect is at rest these legs are extended laterally, similar to<lb/>
+the position of oars in a rowboat, for which reason it has been named &ldquo;boatman.&rdquo;</p>
+<p>"The Boatman apparently receives its oxygen in the form of airbubbles<lb/>
+that are caught and held in a heavy coating of hairs which cover its body.</p>
+<p>"The Boatman deposits its eggs in the shelter of whatever Algae or<lb/>
+other aquatic plant that may be present in its habitat. Its food consists of<lb/>
+Larvae, Pupae, Bugs and other small insects. I have also noted that it will<lb/>
+eat the eggs of fish and even the small fish themselves.</p>
+<p>&ldquo;Observing them in their swimming position, (upside down) it will<lb/>
+be noticed that they have in their <unclear>anterior</unclear> extremity a considerable number<lb/>
+of small tentacles or claws with which they catch the prey that they are about<lb/>
+to devour. The Larva of Pupa is invariably caught by the head and while its<lb/>
+contents are being sucked, it is dragged through the water by the Boatman,<lb/>
+giving the appearance of a tiny boat with an enormous flag flying. The suction<lb/>
+(of the body juices) once finished, he frees himself of the hide or shell of<lb/>
+his prey and starts in quest of another.&rdquo;</p>
+<p>The following observations are mostly from Harris of Mazatlan:</p>
+<p>The Notonecta is about the same length of the average larva (occasion-<lb/>
+ally growing to twice that length) and four to six times the thickness of the<lb/>
+larva at its greatest girth.</p>
+<p>The inferior surface (swimming position) is shaped like the hull of<lb/>
+a racing yacht, and has a metallic luster on movement. The body is encased<lb/>
+in a hard shell which is covered with hair.</p>
+<p>The superior surface is much hairier and reflects a brown color.<lb/>
+From this surface on each side of the median line, just back of the center of<lb/>
+the body are attached the hind legs (oars). Forward of the central point on<lb/>
+this surface are four tentacles arranged in <unclear>enterior</unclear> and posterior pairs. Each<lb/>
+tentacle end is armed with a quarter moon shaped claw, like the nails on the<lb/>
+claws of a hawk. Harris believes the tips of these claws to be hollow, for<lb/>
+<pb n="24" id="f01016025"/>
+9<lb/>
+injecting and aspirating fluids. The two <unclear>enterior</unclear> tentacles, when placed to-<lb/>
+gether, form a tube like canal to the head. These tentacles grasp the victim,<lb/>
+draw it to the thorax and head, suck in liquid contents by tubes in the ten-<lb/>
+tacles, then cast aside the solid portion.</p>
+<p>The Head is encased in a helmet-like, many faceted, hard cartilagi-<lb/>
+nous substance, brown in color. When excited the insect often repeatedly rams<lb/>
+its head against the walls of the container, producing a very audible clicking<lb/>
+sound.</p>
+<p>Movements.</p>
+<p>Dives and swims through the water with amazing rapidity, often escap-<lb/>
+ing our speediest fish, dodging if pursued, and leaping over surface of water.</p>
+<p>It will leap from surface of water upwards for a meter. When seeking<lb/>
+a new water deposit it can progress over land by a series of flights of two or<lb/>
+three meters, flying in reverse (upright) position and using legs as wings. (Garcia)<lb/>
+Habits.</p>
+<p>Top or bottom feeder, voracious for mosquito larvae. Its movements<lb/>
+are so rapid that it rarely fails to catch its victim, striking from below or<lb/>
+from side, grasping larva by the head, and small fish near the caudal end. It<lb/>
+is necessarily a slower feeder than fish, holding on to larva from five to ten<lb/>
+minutes before casting aside dead remains.</p>
+<p>Propagation:</p>
+<p>Rapid if fed and properly cared for. If starved no attempt at propa-<lb/>
+gation.</p>
+<p>Viability:</p>
+<p>Exceedingly good. Known to live for month or more without food or<lb/>
+change of water. Very resistant to handling.</p>
+<p>Connor suggested to Richardson several experiments to ascertain via-<lb/>
+bility of Notonecta in Lejia solution (lejia; woodlye solution much used for<lb/>
+laundry purposes in hardwater regions, constitutes an important problem in certain<lb/>
+parts of Mexico, for larvae thrive in the solution, while fish die almost immediately<lb/>
+<pb n="25" id="f01016026"/>
+10<lb/>
+when placed therein.) Richardson's experiments seem to prove that the notanecta<lb/>
+was equally viable as the larva in strong lejia as long as the ash residue was<lb/>
+not stirred sufficiently to cloud the water and obstruct the air passages of<lb/>
+the insect. Healthy gambusia placed in the same solution dies in two minutes<lb/>
+while the notonecta were all living on the sixth day.</p>
+<p><hi>NOTONECTIDAE AND FISH</hi></p>
+<p>It is best not to mix the two in the same container.</p>
+<p>Adults of both species soon learn to respect each other's fighting<lb/>
+qualities but each preys upon the young of the other.</p>
+<p>Usefulness:</p>
+<p>In fish planting in Mazatlan in 1922, notonectae were used in the<lb/>
+first cuartel and part of the second cuartel. The results were entirely<lb/>
+satisfactory. It was observed that in small containers both in house and<lb/>
+garden, these insects lived where fish died, also that in all containers ex-<lb/>
+posed to much light and heat these insects were superior.</p>
+<p>Since 1921, in the course of many hundreds of inspections of water<lb/>
+tanks maintained by the railroad for various purposes, we have yet to encounter<lb/>
+mosquito breeding in places where the Boatman are found. We are of the belief<lb/>
+that these insects are very useful larvicides.</p>
+<p><hi>TURTLES</hi></p>
+<p>Our experiments with turtles were too few to be conclusive. Garcia<lb/>
+reported absolute failure with several varieties in Culiacan, while Harris had<lb/>
+considerable encouragement from one species in Mazatlan.</p>
+<p><hi>ALGAE</hi></p>
+<p>Chara Foetida. A. Br., recommended by Dr. Arturo Caballero of Spain.<lb/>
+We have no experience with it as we have not yet identified it on this Coast.</p>
+<p>Local Algae, when sufficiently thick to interfere with larva activity,<lb/>
+also killed off the fish and other natural protectors.</p>
+<pb n="26" id="f01016027"/>
+<p>11</p>
+<p><hi>ACTIVE CAMPAIGN OF FISH PLANTING<lb/>
+IN PERMANENT DEPOSITS</hi></p>
+<p>August, September, and October, 1922</p>
+<p>Culiacan: August 25 to September 25, 1922, under direction of Dr. Andres Vidales.</p>
+<p>Robalo and Chalaco used.</p>
+<p>One hundred and sixty-two Robalo planted during the first week all<lb/>
+died, in addition to heavy mortality in transplanting from breeding place.<lb/>
+After first week no more Robalo were used but Chalaco only, of which 4749 were<lb/>
+planted. At the end of the month it was found there had been no mortality<lb/>
+among the Chalaco other than due to actual mishandling or carelessness of the<lb/>
+householders. Mosquito breeding, which had been very active before, had ceased<lb/>
+entirely in all containers holding fish.</p>
+<p>The cost of this work in Culiacan, including cost, and transportation<lb/>
+of fish, and salaries of two inspectors and four mozos, was $745.80 pesos. The<lb/>
+same work could now be repeated in fifteen days instead of thirty-three and for<lb/>
+$400,00 pesos instead of $750.00.</p>
+<p>Mazatlan: October 1 to October 31, 1922, under direction of Dr. Arnulfo M.<lb/>
+Fernandez.</p>
+<p>Of fish only the Chalaco was used.</p>
+<p>About fifteen hundred were planted in five cuartels with the same<lb/>
+good results as noted in Culiacan.</p>
+<p>Control experiments were made in two cuartels with the Notonectae of<lb/>
+which 665 were used. In the last cuartel 420 Notonectae (no Chalaco) were<lb/>
+used. In the second cuartel 265 Notonectae and 141 Chalaco were used. The<lb/>
+same good results of freedom from mosquito breeding were observed with the<lb/>
+Notonectae as with the Chalaco. The following notes were made:</p>
+<p>Advantages of Notonectae:</p>
+<p>More resistant than Chalaco in very small containers, very shallow<lb/>
+containers and in containers exposed to sun and heat. (Garden and roof tanks.)</p>
+<pb n="27" id="f01016028"/>
+<p>12</p>
+<p>Disadvantages of Notonectae:</p>
+<p>Being so very small, little care is taken of them by the householders,<lb/>
+allowing them to escape with drainage dipping them up with buckets, etc.</p>
+<p>The cost of plantation of fish in Mazatlan, including cost of fish<lb/>
+and salaries of two inspectors and four mozos was $497.20 pesos (twenty-two<lb/>
+days.) It could have been repeated in about twelve to fifteen days for less<lb/>
+than $300.00.</p>
+<p><hi>PRESUPUESTO (Budget) FOR FUTURE WORK IF NECESSARY</hi></p>
+<p>1. General Presupuesto.</p>
+<p>Headquarters should be established in Mazatlan, as being the only<lb/>
+important port, the metropolis, the geographical, transportation and distribut-<lb/>
+ing center of this area.</p>
+<p>General Staff.</p>
+<p>Chief of the Zone (full time) in charge.</p>
+<p>1 - Delegado Especial, who may be a local man on part time<lb/>
+1 - Inspector General<lb/>
+2 - Division Inspectors (north and south)<lb/>
+1 - Clerk<lb/>
+1 - Mozo</p>
+<p>Central experimental tank and distributing pond or well<lb/>
+to be maintained in Mazatlan.</p>
+<p>Divisions.</p>
+<p>Northern Division</p>
+<p>(1st) Topolobampo District.</p>
+<p>Rio Fuerte to Rio Mocorito.</p>
+<p>This district as well as all others to have the<lb/>
+following preliminary organization. One Delegado Especial<lb/>
+in Charge. (Part time.) One or two mozos to maintain<lb/>
+breeding and distributing pond.</p>
+<p>(2nd) Culiacan District.<lb/>
+Rio Mocorito to Rio Piaxtla.</p>
+<p>Central Division</p>
+<p>(3d) Mazatlan District.<lb/>
+Rio Piaxtla to Rio Presidio.</p>
+<p>Southern Division</p>
+<p>(4th) Acaponeta District.<lb/>
+Rio Presidio to Rio Santiago</p>
+<p>Possibly also a Fifth District.<lb/>
+Rio Santiago to Rio Tepic.</p>
+<pb n="28" id="f01016029"/>
+<p>13</p>
+<p>II. DETAIL PRESUPUESTO (Budget)</p>
+<p>of time and cost of fish implantation and each later revision<lb/>
+in important towns.</p>
+<p>Note:</p>
+<p>Permanent containers (depositos) include wells, tanks, troughs and<lb/>
+fountains. Temporary containers include unattached barrels and all smaller<lb/>
+containers, capable of easy cleaning and dumping.</p>
+<p>
+ <table rows="8" cols="5">
+     <row>
+          <cell>Town and<lb/>Population</cell>
+          <cell>Special Notes</cell>
+          <cell>Personnel<lb/>Required</cell>
+          <cell>Days</cell>
+          <cell>Cost<lb/>Approx.</cell>
+     </row>
+     <row>
+          <cell>Guamuchil<lb/>Sin.<lb/>1445</cell>
+          <cell>Permanent containers 125<lb/>Others 1424. No water or drainage<lb/>
+               systems. Many norias on river bank.<lb/>
+               Fish abundant in summer - few in<lb/>
+               winter. Can be supplied from<lb/>Mocorito.</cell>
+          <cell>1 Inspector<lb/>2 Mozos</cell>
+          <cell>4</cell>
+          <cell>$50.00</cell>
+     </row>
+     <row>
+          <cell>Mocorito<lb/>Sin.<lb/>2153</cell>
+          <cell>Permanent containers 92. Others<lb/>
+               2009. Partial water system, defi-<lb/>
+               cient at night. Drainage system.<lb/>
+               Rich supply of suitable fish.<lb/>
+               Notonectae abundant.</cell>
+          <cell>1 Inspector<lb/>2 Mozos</cell>
+          <cell>6</cell>
+          <cell>75.00</cell>
+     </row>
+     <row>
+          <cell>El Jalon<lb/>Sin.<lb/>134</cell>
+          <cell>Permanent containers 20. Others<lb/>
+               135. No water or drainage systems.<lb/>
+               Many norias near river and in<lb/>
+               houses. Abundant supply of fish.</cell>
+          <cell>1 Inspector<lb/>2 Mozos</cell>
+          <cell>2</cell>
+          <cell>25.00</cell>
+     </row>
+     <row>
+          <cell>Palmar de<lb/>los Leales<lb/>Sin.<lb/>460</cell>
+          <cell>Permanent containers 47. Others 292.<lb/>
+               No water or drainage systems. Many<lb/>norias. Fish abundant.</cell>
+          <cell>1 Inspector<lb/>2 Mozos</cell>
+          <cell>2</cell>
+          <cell>25.00</cell>
+     </row>
+     <row>
+          <cell>Culiacan<lb/>Sin.<lb/>20000?</cell>
+          <cell>Permanent containers 597. Others<lb/>
+               13657. Fairly good water system.<lb/>
+               Drainage system deficient. Many<lb/>
+               houses have drainage norias. Abun-<lb/>
+               dant fish and notonectae supply.</cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>15</cell>
+          <cell>400.00</cell>
+     </row>
+     <row>
+          <cell>Altata<lb/>Sin.<lb/>125</cell>
+          <cell>Permanent containers 11. Others 93.<lb/>
+               No water. Inhabitants conserve rain<lb/>
+               water or import from Culiacan. Port<lb/>
+               of entry for shipping with rail connec-<lb/>
+               tion to Culiacan. No local fish.<lb/>
+               Must be supplied from Culiacan -<lb/>
+               30 Kilms.</cell>
+          <cell>1 Inspector<lb/>2 Mozos</cell>
+          <cell>1</cell>
+          <cell>25.00</cell>
+     </row>
+     <row>
+          <cell>Mazatlan<lb/>Sin.<lb/>32000</cell>
+          <cell>Permanent containers 867. Others 19282.<lb/>
+               Fairly good water and drainage systems.<lb/>
+               Excess of permanent containers not nec-<lb/>
+               essary under present conditions. No<lb/>
+               local supply of fish. Must be imported<lb/>
+               from Piaxtla or Presidio rivers, or<lb/>
+               Esquinapa ponds.</cell>
+          <cell>4 Inspectors<lb/>8 Mozos</cell>
+          <cell>9</cell>
+          <cell>500.00</cell>
+     </row>
+ </table>
+ <pb n="29" id="f01016030"/>
+ <table rows="10" cols="5">
+     <row>
+          <cell></cell>
+          <cell></cell>
+          <cell></cell>
+          <cell></cell>
+          <cell>14</cell>
+     </row>
+     <row>
+          <cell>Town and<lb/>Population</cell>
+          <cell>Special Notes</cell>
+          <cell>Personnel<lb/>Required</cell>
+          <cell>Days</cell>
+          <cell>Cost<lb/>Approx.</cell>
+     </row>
+     <row>
+          <cell>Puerto de<lb/>
+          las Canoas<lb/>
+          Sin.<lb/>408</cell>
+          <cell>Permanent containers 13. Others<lb/>
+               436. No drinking water nearer than<lb/>
+               Mazatlan 20-Kilms. 100% index of<lb/>
+               stegomyia. <unclear>12.5 miles</unclear></cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>1</cell>
+          <cell>$50.00</cell>
+     </row>
+     <row>
+          <cell>Villa Union<lb/>including<lb/>Presidio<lb/>&amp; Pozole<lb/>2600</cell>
+          <cell>Permanent containers 64. Others<lb/>2548. No water or drainage
+               systems.<lb/>Many norias in houses and near<lb/>rivers. 
+               Fish supply abundant and<lb/>varies. Also notonectae.</cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>3</cell>
+          <cell>75.00</cell>
+     </row>
+     <row>
+          <cell>Concordia<lb/>Sin.<lb/>1828</cell>
+          <cell>Permanent containers 88. Others<lb/>1892. No water or drainage
+               systems.<lb/>Fine situation and terrain. Fish<lb/>abundant and 
+               varied.</cell>
+          <cell>1 Inspector<lb/>2 Mozos</cell>
+          <cell>4</cell>
+          <cell>50.00</cell>
+     </row>
+     <row>
+          <cell>La Noria<lb/>Sin.<lb/>1067</cell>
+          <cell>Permanent containers 106. Others<lb/>1346. No water or drainage 
+               systems.<lb/>All water from an arroyo which is<lb/>
+               dry for considerable periods. No<lb/>fish available here. Must be 
+               car-<lb/>ried from Concordia or Villa Union</cell>
+          <cell>1 Inspector<lb/>
+          4 Mozos</cell>
+          <cell>4</cell>
+          <cell>50.00</cell>
+     </row>
+     <row>
+          <cell>Rosario<lb/>Sin.<lb/>4500</cell>
+          <cell>Permanent containers 171. Others<lb/>2799. Partial water 
+               system. Fish<lb/>available but must be secured up-<lb/>stream as 
+               river here is contamina-<lb/>ted by cyanide.</cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>6</cell>
+          <cell>150.00</cell>
+     </row>
+     <row>
+          <cell>Chametla<lb/>Sin.<lb/>1203</cell>
+          <cell>Permanent containers 52. Others<lb/>697. No water or drainage 
+               service.<lb/>Water from river in barrels, etc.<lb/>
+               Many norias requiring attention.<lb/>Fish available and abundant. Re-<lb/>
+               gion very malarious.</cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>3</cell>
+          <cell>75.00</cell>
+     </row>
+     <row>
+          <cell>Escuinapa<lb/>Sin.<lb/>4178</cell>
+          <cell>Permanent containers 611. Others<lb/>2594. Nearly every house has a<lb/>
+               noria - little used and dangerous.<lb/>Many fish in arroyos. 
+               Also a small<lb/>lake, property of Sra. Juana Gomez,<lb/>
+               containing immense numbers of Chalaco.<lb/>
+               Mazatlan was supplied from this lake.</cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>6</cell>
+          <cell>150.00</cell>
+     </row>
+     <row>
+          <cell>Acaponeta<lb/>Nay.<lb/>7273</cell>
+          <cell>Permanent containers 602. Others<lb/>
+               3712. No water or drainage systems.<lb/>
+               Many wells and norias. Fish easily<lb/>available and abundant.</cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>7</cell>
+          <cell>175.00</cell>
+     </row>
+ </table>
+ <pb n="30" id="f01016031"/>
+ <table rows="6" cols="5">
+     <row>
+          <cell></cell>
+          <cell></cell>
+          <cell></cell>
+          <cell></cell>
+          <cell>15</cell>
+     </row>
+     <row>
+          <cell>Town and<lb/>Population</cell>
+          <cell>Special Notes</cell>
+          <cell>Personnel<lb/>Required</cell>
+          <cell>Days</cell>
+          <cell>Cost<lb/>Approx.</cell>
+     </row>
+     <row>
+          <cell>Rosa Morada<lb/>Nay.<lb/>2892</cell>
+          <cell>Permanent containers 60. Others<lb/>
+               1200. No water or drainage systems.<lb/>
+               Fish available and abundant locally.</cell>
+          <cell>1 Inspector<lb/>2 Mozos</cell>
+          <cell>6</cell>
+          <cell>$75.00</cell>
+     </row>
+     <row>
+          <cell>Santiago<lb/>Ixcuintla<lb/>Nay.<lb/>5000</cell>
+          <cell>Permanent containers 598. Others<lb/>
+               2700. No water or drainage sys-<lb/>
+               tems. Many wells and norias, re-<lb/>
+               sembling Escuinapa. Fish available<lb/>and abundant.</cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>6</cell>
+          <cell>200.00</cell>
+     </row>
+     <row>
+          <cell>San Blas<lb/>Nay.<lb/>1246</cell>
+          <cell>Permanent containers 382. Others<lb/>
+               1398. Port of entry. No water or<lb/>
+               drainage systems. Water carried<lb/>
+               fifteen kilometers with result that<lb/>
+               there are many permanent containers,<lb/>
+               jealously guarded. Fish available<lb/>
+               only in rainy season. Other times<lb/>
+               must be supplied from Topic or Santi-<lb/>ago Ixcuintla.</cell>
+          <cell>2 Inspectors<lb/>4 Mozos</cell>
+          <cell>8</cell>
+          <cell>250.00</cell>
+     </row>
+     <row>
+          <cell>Tepic<lb/>Nay.<lb/>1500?</cell>
+          <cell>Containers probably as numerous as<lb/>
+               in Culiacan or more. Partial water<lb/>
+               system. No drainage system but<lb/>
+               many norias which constitute peril.<lb/>
+               Fish available and abundant.</cell>
+          <cell>4 Inspectors<lb/>8 Mozos</cell>
+          <cell>15</cell>
+          <cell>700.00</cell>
+     </row>
+ </table>
+</p>
+<p><unclear>62.5</unclear><lb/>
+x<lb/>
+, 937.5<lb/>
+30&deg;</p>
+</div1>
+</body>
+</text>
+</TEI.2>

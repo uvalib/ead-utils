@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01111002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: A Resume of the Anti-malarial Operations at Cristobal-Colon from 1917 to 1922, Inclusive, by J.L. Byrd, 1922</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01111002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1922-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Colon (Panama)</name>
+<name type="place">Canal Zone (Panama)</name>
+<name type="place">Cristobal, Canal Zone (Panama)</name>
+<name type="place">Manzanillo Island</name>
+<name type="place">Gatun, Canal Zone (Panama)</name>
+<name type="hospital">Colon Hospital, Colon (Panama)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>9 pp.</extent>
+<date value="1922-00-00">1922</date>
+<idno rend="suppress">01111002</idno>
+<title>Report: A Resume of the Anti-malarial Operations at Cristobal-Colon from 1917 to 1922, Inclusive, by J.L. Byrd, 1922</title>
+</bibl>
+</head>
+<p>Byrd's paper discusses the control of mosquito breeding as the most effective way to reduce the incidence of malaria.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1922-00-00">
+<head>Report: A Resume of the Anti-malarial Operations at Cristobal-Colon from 1917 to 1922, Inclusive, by J.L. Byrd, 1922</head>
+<pb n="1" id="f01111002"/>
+<p><hi>A RESUME OF THE ANTI-MALARIAL OPERATIONS<lb/>
+At Cristobal-Colon<lb/>
+From 1917 to 1922, inclusive.*</hi><lb/>
+By<lb/>
+<hi>Dr. J. L. Byrd, Health Officer, Cristobal - Colon.</hi></p>
+<p>Cristobal-Colon has a population of 37,500, and is located on<lb/>
+Manzanillo Island near the Atlantic entrance of the Panama Canal. The<lb/>
+island was once a tidal swamp which is now filled in great part. This<lb/>
+was once widely known as one of the most unhealthy ports of the world,<lb/>
+yellow fever being rife until 1905, when it was eradicated by General<lb/>
+Gorgas and his co-workers. Malaria was very prevalent in Colon until<lb/>
+1920. The following table gives the number of cases of malaria report-<lb/>
+ed among the employees of the Panama Canal and the Panama Railroad in<lb/>
+Cristobal-Colon, from 1916 to 1922, inclusive:</p>
+<p>1918?</p>
+<p>
+<table rows="8" cols="3">
+<row>
+<cell><hi>Year</hi></cell><cell><hi>Number of cases reported</hi></cell><cell><hi>No. Emp</hi>.</cell></row>
+<row>
+<cell>1916</cell><cell>143</cell><cell>-</cell></row>
+<row>
+<cell>1917</cell><cell>148</cell><cell>9,000</cell></row>
+<row>
+<cell>1918</cell><cell>53</cell><cell>9,000</cell></row>
+<row>
+<cell>1919</cell><cell>149</cell><cell>8,500</cell></row>
+<row>
+<cell>1920</cell><cell>58</cell><cell>7,500</cell></row>
+<row>
+<cell>1921</cell><cell>31</cell><cell>5,000</cell></row>
+<row>
+<cell>1922</cell><cell>45</cell><cell>3,500</cell></row>
+</table></p>
+<p>In 1917 the anti-malaria work had been extended only about<lb/>
+one-half mile from the inhabited sections. This limited area was<lb/>
+thoroughly sanitated; all vegetation was kept closely trimmed; swampy<lb/>
+areas were either filled or carefully drained, and all drains were oiled<lb/>
+regularly every seven days. As a result, anopheles breeding was elinin-<lb/>
+(*) Read before the Medical Association of the<lb/>
+Isthmian Canal Zone, May 18, 1923.<lb/>
+<pb n="2" id="f01111003"/>
+2<lb/>
+ated within the area which included all of Manzanillo Island and a part<lb/>
+of what is now known as the Mt. Hope District. Nevertheless, the malarial<lb/>
+rate continued to remain very high in spite of the fact that no anopheles<lb/>
+were breeding within a radius of one-half to three-quarters of a mile of<lb/>
+the city.</p>
+<p>Extensive swamps surround the city on three sides. On investiga-<lb/>
+tion, these were found to be breeding anopheles in countless numbers, and as<lb/>
+this breeding was occurring only one-half mile from the inhabited sections,<lb/>
+and as the adult mosquito catch in such sections was very high with a cor-<lb/>
+responding high malarial rate, it became necessary to control mosquito<lb/>
+breeding in these swamps. <hi>During 1917-1918</hi> extensive drainage systems<lb/>
+were installed in them and anopheles breeding was controlled for a distance<lb/>
+of approximately <hi>one mile from</hi> the city. As a result, the malarial rate<lb/>
+for 1918 was lower than ever before, only 53 cases among the employees being<lb/>
+reported in Cristobal-Colon during the entire year, as compared with 148<lb/>
+cases for 1917.</p>
+<p>In 1917, 1918, and 1919, great swarms of mosquitoes, largely<lb/>
+anophelines, appeared on the screens at Colon Hospital and the Hotel Wash-<lb/>
+ington. The swarms came regularly every year about two weeks after the<lb/>
+beginning of the rainy season and would continue for about three months.<lb/>
+The mosquitoes were so numerous that it was necessary to detail a laborer<lb/>
+for the purpose of killing them with larvacide applied with a knapsack<lb/>
+sprayer. The older sanitary inspectors stated that these swarms had ap-<lb/>
+peared every year since 1905.</p>
+<pb n="3" id="f01111004"/>
+<p>3</p>
+<p>This was at first very difficult to explain. Colon Hospital<lb/>
+is located on the extreme northern end of Manzanillo Island. The entire<lb/>
+area for a distance of over one mile from the hospital is thoroughly sani-<lb/>
+tated, and all anopheles breeding eliminated therefrom. The nearest<lb/>
+anopheles breeding area to Colon Hospital was located directly across Man-<lb/>
+zanillo Bay, a distance of approximately one mile and three quarters from,<lb/>
+and to the leeward of, the hospital. Many night observations were made<lb/>
+along Colon Beach and from boats anchored in the bay, and it was definitely<lb/>
+proven that the swarms of anophelines on the hospital and hotel screens were<lb/>
+coming from the Margarita swamps which begin one mile and three quarters<lb/>
+east and across Manzanillo Bay from the hospital. The bay is one mile wide.<lb/>
+The evidence of these long flights of anophelines was only accepted after<lb/>
+repeated observations and catches, since in view of the fact that prior to<lb/>
+1915 the concensus of opinion among sanitarians was that the anopheles<lb/>
+mosquito was not a strong flier and as a general rule did not travel over<lb/>
+200 yards from the breeding area. General Gorgas states (&ldquo;Sanitation in<lb/>
+Panama&rdquo;, page 182):</p>
+<p>&ldquo;all brush and undergrowth were cleared within<lb/>
+200 yards of houses and villages and the grounds<lb/>
+carefully drained within this area.&rdquo;</p>
+<p>However, on page 202 of the same book the author records a flight of<lb/>
+anopheles at Gatun of over one mile. Evidently this was considered at<lb/>
+that time as very unusual. The many flight observations made about Cris-<lb/>
+tobal-Colon during the past five years clearly show that long flights of<lb/>
+<pb n="4" id="f01111005"/>
+4<lb/>
+albimanus tarsimaculata anopheles are not unusual, it being found that<lb/>
+they will fly against an eight mile breeze for a distance of over two<lb/>
+miles. Margarita swamp was drained by sea-level canals during 1920-21,<lb/>
+and Colon Hospital has not been visited by these swarms of mosquitoes since<lb/>
+this work was well begun, although there have been several relatively small<lb/>
+Flights since that time. Apparently these are from swamps located more<lb/>
+than two miles from the hospital.</p>
+<p>On May 2, 1919, all the colored workers at the Cristobal docks<lb/>
+and the coaling station walked out on strike. They were immediately re-<lb/>
+placed by native labor which was recruited from the interior, i. e.,<lb/>
+unsanitated sections of the Republic of Panama. It has been estimated<lb/>
+that over 80 percent of these laborers harbored the <hi>plasmodium malariae</hi><lb/>
+in their blood, either as chronic malaria or as carriers. About 2,000<lb/>
+of them were brought to Cristobal-Colon during the strike and many of them<lb/>
+developed acute malaria within a week after their arrival in the city.<lb/>
+During June, July, and August, the labor camp, known as Camp Bierd, was<lb/>
+visited by the usual large flights of anopheles mosquitoes from Telfer's<lb/>
+Island swamps and the swamps near the Arcia dairy, a distance of one to two<lb/>
+miles from the camp. The chart of <hi>the number of adult anopheles mosquitoes</hi><lb/>
+caught in quarters, shows that there <hi>were no more anopheles mosquitoes</hi> at<lb/>
+Camp Bierd in 1919 than in former years, and that the flights were about as<lb/>
+usual. However, the presence of the large number of natives greatly in-<lb/>
+creased the plasmodium index in the camp. Many of the natives had never<lb/>
+been in a hospital; they were superstitious and had a dreadful fear of all<lb/>
+<pb n="5" id="f01111006"/>
+5<lb/>
+hospitals, and as a result many of them would remain sick in camp for<lb/>
+several days and would not seek medical attention. The Jamaican jani-<lb/>
+tors first reported several sick men in camp and on investigation it was<lb/>
+found that they were suffering from malaria. They had to be forced in-<lb/>
+to the hospitals under guard, but many of the mild cases evaded the camp<lb/>
+inspections. The result of this unusual condition was an epidemic of<lb/>
+malaria in Camp Bierd and vicinity. As many as 21 cases were reported<lb/>
+in a single week from this locality. In order to control this outbreak<lb/>
+the following measures were taken:<lb/>
+<list type="ordered">
+<item>1. Drainage work was immediately begun in the anopheles<lb/>
+breeding areas on Telfer's Island and vicinity.</item>
+<item>2. Splenic Index: A blood smear and splenic examina-<lb/>
+tion was made on every person living in Camp Bierd, and<lb/>
+those found with large spleens, or showing signs or symptoms<lb/>
+of clinical malaria, were hospitalized.</item>
+<item>3. Quinine sterilization and immunization: Every person<lb/>
+living in Camp Bierd was given ten grains of quinine in<lb/>
+liquid form every day for three months.</item>
+<item>4. A dusk and dawn catch of adult mosquitoes was made in<lb/>
+all screened quarters in that section in order to destroy<lb/>
+infected mosquitoes, and as an index to the effectiveness of<lb/>
+the drainage work.</item>
+</list></p>
+<p>180</p>
+<p>Very little oil was used in controlling breeding since the swamps<lb/>
+were too extensive and the cost would have been prohibitive. It would also<lb/>
+have been necessary to remove all vegetation before oiling, the cost of this<lb/>
+would have been very great, and the measure only temporarily efficacious.<lb/>
+The method used to control breeding was as follows: Trochas (paths six<lb/>
+<pb n="6" id="f01111007"/>
+6<lb/>
+feet wide) were cut through the swamp at 50-yard intervals. Sea-level<lb/>
+drains, varying in size according to carrying capacity required, were<lb/>
+dug along the center of the trochas; most of them were only eight inches<lb/>
+wide, i. e. &ldquo;spade wide.&rdquo; These drains were kept free from vegetation.</p>
+<p>These control measures were very effective and the results were<lb/>
+more than gratifying. The adult anopheles catch in the camp was reduced<lb/>
+from a monthly catch of 3,700 in July to 1,100 in August and to 600 in<lb/>
+September, which was the lowest catch ever recorded for that season of<lb/>
+the year.</p>
+<p>The malarial rate in July was the highest recorded since 1915.<lb/>
+The epidemic reached its height in that month when 67 cases were reported<lb/>
+among the 8,500 employees living in the Cristobal-Colon district. How-<lb/>
+<unclear>67/88</unclear><lb/>
+ever, this rate was immediately reduced within one month, and in August<lb/>
+only 19 cases were reported, as compared with 21 for August, 1918. The<lb/>
+malarial rate has been very low since the termination of this epidemic.<lb/>
+The greatest number of cases reported in one month during 1920 was 15,<lb/>
+the greatest number reported in any one month during 1921 was 7, and in<lb/>
+1922, 12 cases. Therefore, the once seemingly impossible task of con-<lb/>
+trolling malaria in Cristobal-Colon has almost been accomplished.</p>
+<p><hi>SUMMARY</hi></p>
+<p>Colon presented one of the most difficult problems of sanitation<lb/>
+on the entire Isthmus of Panama. The city was almost surrounded by exten-<lb/>
+sive swamps in which anophelines were breeding in countless millions. The<lb/>
+<pb n="7" id="f01111008"/>
+7<lb/>
+filling or drainage of these swamps would have necessitated an almost<lb/>
+prohibitive expense. One million dollars was, at one time, requested<lb/>
+for the filling of one of the swamps near the Army and Navy posts, but the<lb/>
+expenditure was not made and the swamp still exists, although breeding has<lb/>
+been successfully controlled therein by drainage. Since there were no<lb/>
+funds for the filling of these swamps, drainage was relied upon to solve the<lb/>
+problems. As the swamps were only from a few inches to two or three<lb/>
+feet above sea-level, large open sea-level canals with connecting laterals<lb/>
+forming a kind of checkerboard effect, were cut through the center of the<lb/>
+swamps. This was done for the purpose of draining off the fresh water ac-<lb/>
+cumulations and allowing salt water to circulate freely through the entire<lb/>
+system with each ebb and flow of the tide, and to admit top minnows to the<lb/>
+anopheles breeding areas. It was not necessary to oil these drains since<lb/>
+the salt water and minnows rendered them unfavorable for anopheles breeding.<lb/>
+This work was begun in 1917 and continued until 1922 when the various drain-<lb/>
+age systems were practically completed.</p>
+<p>The cutting and removal of all vegetation inside the so-called sani-<lb/>
+tated zone was continued until 1919. In 1919 the cutting of grass and other<lb/>
+vegetation by the Health Department was discontinued except for the prevention<lb/>
+of mosquito breeding in wet areas until drains have been installed. The cut-<lb/>
+ting of vegetation for the purpose of eliminating mosquito harborage was not<lb/>
+considered as a justifiable routine measure, and was a useless expense which<lb/>
+not only did no good but diverted funds and effort from the more important<lb/>
+<pb n="8" id="f01111009"/>
+8<lb/>
+work of controlling mosquito breeding by drainage. The use of &ldquo;spade-<lb/>
+wide&rdquo; tide water drains for controlling anopheles breeding in swamps<lb/>
+near tide water has given excellent results. By the use of these drains<lb/>
+mosquito breeding is controlled over large areas at a minimum expense.</p>
+<p>The administration of prophylactic doses of quinine (5 grains)<lb/>
+was a routine anti-malaria measure in Cristobal-Colon until 1918, when the<lb/>
+malarial rate reached such a low level that it was considered safe to dis-<lb/>
+continue this measure. However, during the 1919 epidemic at Camp Bierd<lb/>
+10 grains of quinine in liquid form was given each person in this camp<lb/>
+daily for three months.</p>
+<p>The routine daily catching of adult anopheles in quarters was<lb/>
+discontinued on September 7, 1921, and at present only periodic catches<lb/>
+are made. The attached chart of the anopheles catch shows that it was<lb/>
+reduced to almost nil, even during the rainy season of 1921.</p>
+<p>The mosquito control force for this district, which covers an<lb/>
+area of approximately 18 square miles and contains 55 miles of drains,<lb/>
+consists of one white sanitary inspector, one colored foreman and 23<lb/>
+colored laborers. Although this small force is about 50% less than the<lb/>
+mosquito control force of 1917, the sanitated area has been increased<lb/>
+more than four times <add>the size</add> it was in that year and breeding therein has been<lb/>
+successfully controlled. One of the laborers has been trained as an<lb/>
+anopheles larva hunter; he inspects all drains and fresh water accumu-<lb/>
+<pb n="9" id="f01111010"/>
+9<lb/>
+lations in the district once each week, taking a sample of any larvae<lb/>
+found, and if he finds any anopheles he reports it immediately so that<lb/>
+the oiling man may destroy the breeding at once.</p>
+<p>
+<list type="ordered">
+<head><hi>CONCLUSIONS.</hi></head>
+<item>1. In order to successfully control malaria at Cristobal-Colon<lb/>
+it is first necessary to control mosquito breeding within mosquito flight<lb/>
+distance which at Cristobal-Colon may extend for at least two miles. The<lb/>
+installation of ditches which permit the free circulation of sea water is<lb/>
+an economical and efficient method of accomplishing this.</item>
+<item>2. The elimination of mosquito harborage by cutting and removal<lb/>
+of vegetation is not now necessary since the most favorable harboring<lb/>
+place for <add>adult</add> mosquitoes is in and under houses. The great desideratum is<lb/>
+the elimination of mosquito breeding by methods which act continuously<lb/>
+and almost permanently.</item>
+<item>3. The administration of sterilizing doses of quinine (10 grains)<lb/>
+every day for a period of twelve weeks is a useful adjuvant to anopheline<lb/>
+control during an epidemic, since it reduces the plasmodium index and the<lb/>
+opportunity for mosquito infection.</item>
+</list></p>
+</div1>
+</body>
+</text>
+</TEI.2>

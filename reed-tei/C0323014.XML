@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0323014">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from [Laura Armistead Carter] to Michael E. Connor, July 28, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Laura Armistead</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0323015</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-07-28</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Connor, Michael E.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Gorgas, Marie D.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1928-07-28">July 28, 1928</date>
+<idno rend="suppress">C0323014</idno>
+<title>Letter from [Laura Armistead Carter] to Michael E. Connor, July 28, 1928</title>
+</bibl>
+</head>
+<p>[Carter] asks Connor to confirm citations of publications that he has authored in order to verify these references for Henry Rose Carter's manuscript of the History of Yellow Fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1928-07-28">
+<head>Letter from [Laura Armistead Carter] to Michael E. Connor, July 28, 1928</head>
+<pb n="1" id="fC0323014"/>
+<opener>
+Bibliographic<lb/>
+<dateline>
+The Westmoreland,<lb/>
+2122 California St., N. W.,<lb/>
+Washington, D. C.<lb/>
+<date value="1928-07-28">July 28, 1928.</date>
+</dateline><lb/>
+<salute>Dear Doctor Connor:</salute>
+</opener>
+<p>All of you old friends of Father and myself are much in my<lb/>
+heart and thoughts, but, since his death, save when acutely ill, I<lb/>
+have put all of my time on getting his MSS in such shape, as he would<lb/>
+have wished it, for publication. For this reason I have not even tried<lb/>
+to tell you of what I felt about your beautiful tributes to Father--but<lb/>
+then what I felt was beyond words anyway and I knew that you understood.</p>
+<p>&ldquo;At long last &rdquo; <del><unclear> the most important </unclear></del> <add>most</add> of the references in Father's<lb/>
+bibliography are being verified: In this connection, however, I should<lb/>
+be very grateful if you could help me out by telling me the exact place<lb/>
+(periodical or book)<lb/>
+in which I can find the following (referred to in Section 1, Epidemiology<lb/>
+of Father's History of Yellow Fever):<lb/>
+<table rows="4" cols="3">
+<row><cell>P.10:</cell><cell><hi>&ldquo;Connor, M. E. (1922)</hi></cell><cell>Reports presence of aegypti in Mexico City.</cell></row>
+<row><cell>P.16:</cell><cell><hi>Connor, M. E. (1923)</hi>:</cell><cell>Critical number of aegypti may be different<lb/>
+for residence district of natives of endemic<lb/>
+centers from that of hotels and lodging house</cell></row>
+<row><cell>P.34:</cell><cell><hi>Connor, M. E. (I. H. B.)</hi></cell><cell>(1923 or 1924)? Had case (or cases) of <unclear>pneumo</unclear><lb/>
+nia presented to him in summer or fall of 192<unclear>[unclear]</unclear><lb/>
+as yellow fever In Mexico City)? on account of bloody <unclear>sput</unclear></cell></row>
+<row><cell>P.17:</cell><cell><hi>Connor, M. E. and</hi> Caldwell,</cell><cell>------------- (what are his initials?) (19<unclear>[unclear]</unclear><lb/>
+Regional focus in district of Papaloapan River<del>.</del> <add>calling<lb/>
+it (probably quoting Guiteras) &ldquo;hacienda endemicity&rdquo;)</add></cell></row>
+</table>
+</p>
+<p>Also are any of the above, save the last mentioned, written with a<lb/>
+co-author?</p>
+<p>I should be very much your debtor for the above information and <unclear>than</unclear><lb/>
+to have it at your earliest convenience as it is an important part of the<lb/>
+bibliography.</p>
+<p>With all manner of good wishes to you and your, in which I know Mrs.<lb/>
+Gorgas would join did she know I was writing.</p>
+<p>Most truly your friend,</p>
+</div1>
+</body>
+</text>
+</TEI.2>

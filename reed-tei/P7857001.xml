@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY P7857001 SYSTEM "P7857001.jpg" NDATA jpg>
+<!ENTITY P7857002 SYSTEM "P7857002.jpg" NDATA jpg>
+<!ENTITY P7857003 SYSTEM "P7857003.jpg" NDATA jpg>
+<!ENTITY P7857004 SYSTEM "P7857004.jpg" NDATA jpg>
+<!ENTITY P7857005 SYSTEM "P7857005.jpg" NDATA jpg>
+<!ENTITY P7857006 SYSTEM "P7857006.jpg" NDATA jpg>
+<!ENTITY P7857007 SYSTEM "P7857007.jpg" NDATA jpg>
+<!ENTITY P7857008 SYSTEM "P7857008.jpg" NDATA jpg>
+<!ENTITY P7857009 SYSTEM "P7857009.jpg" NDATA jpg>
+<!ENTITY P7857010 SYSTEM "P7857010.jpg" NDATA jpg>
+<!ENTITY P7857011 SYSTEM "P7857011.jpg" NDATA jpg>
+<!ENTITY P7857012 SYSTEM "P7857012.jpg" NDATA jpg>
+<!ENTITY P7857013 SYSTEM "P7857013.jpg" NDATA jpg>
+<!ENTITY P7857014 SYSTEM "P7857014.jpg" NDATA jpg>
+<!ENTITY P7857015 SYSTEM "P7857015.jpg" NDATA jpg>
+<!ENTITY P7857016 SYSTEM "P7857016.jpg" NDATA jpg>
+<!ENTITY P7857017 SYSTEM "P7857017.jpg" NDATA jpg>
+<!ENTITY P7857018 SYSTEM "P7857018.jpg" NDATA jpg>
+<!ENTITY P7857019 SYSTEM "P7857019.jpg" NDATA jpg>
+<!ENTITY P7857020 SYSTEM "P7857020.jpg" NDATA jpg>
+<!ENTITY P7857021 SYSTEM "P7857021.jpg" NDATA jpg>
+<!ENTITY P7857022 SYSTEM "P7857022.jpg" NDATA jpg>
+<!ENTITY P7857023 SYSTEM "P7857023.jpg" NDATA jpg>
+<!ENTITY P7857024 SYSTEM "P7857024.jpg" NDATA jpg>
+<!ENTITY P7857025 SYSTEM "P7857025.jpg" NDATA jpg>
+<!ENTITY P7857026 SYSTEM "P7857026.jpg" NDATA jpg>
+<!ENTITY P7857027 SYSTEM "P7857027.jpg" NDATA jpg>
+<!ENTITY P7857028 SYSTEM "P7857028.jpg" NDATA jpg>
+<!ENTITY P7857029 SYSTEM "P7857029.jpg" NDATA jpg>
+<!ENTITY P7857030 SYSTEM "P7857030.jpg" NDATA jpg>
+<!ENTITY P7857031 SYSTEM "P7857031.jpg" NDATA jpg>
+<!ENTITY P7857032 SYSTEM "P7857032.jpg" NDATA jpg>
+<!ENTITY P7857033 SYSTEM "P7857033.jpg" NDATA jpg>
+<!ENTITY P7857034 SYSTEM "P7857034.jpg" NDATA jpg>
+<!ENTITY P7857035 SYSTEM "P7857035.jpg" NDATA jpg>
+<!ENTITY P7857036 SYSTEM "P7857036.jpg" NDATA jpg>
+<!ENTITY P7857037 SYSTEM "P7857037.jpg" NDATA jpg>
+<!ENTITY P7857038 SYSTEM "P7857038.jpg" NDATA jpg>
+<!ENTITY P7857039 SYSTEM "P7857039.jpg" NDATA jpg>
+<!ENTITY P7857040 SYSTEM "P7857040.jpg" NDATA jpg>
+<!ENTITY P7857041 SYSTEM "P7857041.jpg" NDATA jpg>
+<!ENTITY P7857042 SYSTEM "P7857042.jpg" NDATA jpg>
+<!ENTITY P7857043 SYSTEM "P7857043.jpg" NDATA jpg>
+<!ENTITY P7857044 SYSTEM "P7857044.jpg" NDATA jpg>
+<!ENTITY P7857045 SYSTEM "P7857045.jpg" NDATA jpg>
+<!ENTITY P7857046 SYSTEM "P7857046.jpg" NDATA jpg>
+<!ENTITY P7857047 SYSTEM "P7857047.jpg" NDATA jpg>
+<!ENTITY P7857048 SYSTEM "P7857048.jpg" NDATA jpg>
+<!ENTITY P7857049 SYSTEM "P7857049.jpg" NDATA jpg>
+<!ENTITY P7857050 SYSTEM "P7857050.jpg" NDATA jpg>
+<!ENTITY P7857050 SYSTEM "P7857050.jpg" NDATA jpg>
+<!ENTITY P7857050 SYSTEM "P7857050.jpg" NDATA jpg>
+<!ENTITY P7857051 SYSTEM "P7857051.jpg" NDATA jpg>
+<!ENTITY P7857052 SYSTEM "P7857052.jpg" NDATA jpg>
+<!ENTITY P7857053 SYSTEM "P7857053.jpg" NDATA jpg>
+<!ENTITY P7857054 SYSTEM "P7857054.jpg" NDATA jpg>
+<!ENTITY P7857055 SYSTEM "P7857055.jpg" NDATA jpg>
+<!ENTITY P7857056 SYSTEM "P7857056.jpg" NDATA jpg>
+<!ENTITY P7857057 SYSTEM "P7857057.jpg" NDATA jpg>
+<!ENTITY P7857058 SYSTEM "P7857058.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="P7857001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Photograph Album of Jesse W. Lazear, 1899-1900</title>
+<title type="gmd">[electronic resource] </title>
+<author>Lazear, Jesse W.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>P</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1899-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph">YES</term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">[s.n.], Gertrude</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Lazear, William Houston</name>
+<name type="person">Lazear, Charlotte C.</name>
+<name type="person">Lazear, William L</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Quemades de Marianao (Cuba)</name>
+<name type="place">Cabana Fortress (Cuba)</name>
+<name type="place">Colgada Real (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Photograph</abbr>
+<extent>1 pp.</extent>
+<date value="1899-00-00">1899</date>
+<idno rend="suppress">P7857001</idno>
+<title>Photograph Album of Jesse W. Lazear, 1899-1900</title>
+</bibl>
+</head>
+<p></p>
+</div1>
+</front>
+<body>
+<div1 type="photo" n="1">
+<head>Photograph Album of Jesse W. Lazear, 1899-1900</head>
+<p>
+<figure entity="P7857001"></figure>
+</p>
+<p>[Unidentified scene, Havana, Cuba]</p>
+<p>
+<figure entity="P7857002"></figure>
+</p>
+<p>[Harbor scene, Havana, Cuba]</p>
+<p>
+<figure entity="P7857003"></figure>
+</p>
+<p>[Harbor scene, Havana, Cuba]</p>
+<p>
+<figure entity="P7857004"></figure>
+</p>
+<p>[Street scene, Havana, Cuba]</p>
+<p>
+<figure entity="P7857005"></figure>
+</p>
+<p>[Unidentified scene, Havana, Cuba]</p>
+<p>
+<figure entity="P7857006"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857007"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857008"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857009"></figure>
+</p>
+<p>[General Fitzhugh Lee's headquarters, Colgada Real, Quemados de Marianao, Cuba]</p>
+<p>
+<figure entity="P7857010"></figure>
+</p>
+<p>[General Fitzhugh Lee's headquarters, Colgada Real, Quemados de Marianao, Cuba]</p>
+<p>
+<figure entity="P7857011"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857012"></figure>
+</p>
+<p>[General Fitzhugh Lee's headquarters, Colgada Real, Quemados de Marianao, Cuba]</p>
+<p>
+<figure entity="P7857013"></figure>
+</p>
+<p>[Rear of General Fitzhugh Lee's headquarters, Colgada Real, Quemados de Marianao, Cuba]</p>
+<p>
+<figure entity="P7857014"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857015"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857016"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857017"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857018"></figure>
+</p>
+<p>[Plantation scene, Havana, Cuba]</p>
+<p>
+<figure entity="P7857019"></figure>
+</p>
+<p>[Wharf scene, Havana, Cuba]</p>
+<p>
+<figure entity="P7857020"></figure>
+</p>
+<p>[Wreck of the battleship Maine in Havana harbor, Cuba]</p>
+<p>
+<figure entity="P7857021"></figure>
+</p>
+<p>[Cabana Fortress, Havana, Cuba]</p>
+<p>
+<figure entity="P7857022"></figure>
+</p>
+<p>[Cabana Fortress, Havana, Cuba]</p>
+<p>
+<figure entity="P7857023"></figure>
+</p>
+<p>[Cabana Fortress, Havana, Cuba]</p>
+<p>
+<figure entity="P7857024"></figure>
+</p>
+<p>[Cabana Fortress, Havana, Cuba]</p>
+<p>
+<figure entity="P7857025"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857026"></figure>
+</p>
+<p>[Wharf scene, Havana, Cuba]</p>
+<p>
+<figure entity="P7857027"></figure>
+</p>
+<p>[Ox cart, Havana, Cuba]</p>
+<p>
+<figure entity="P7857028"></figure>
+</p>
+<p>[Ox cart, Havana, Cuba]</p>
+<p>
+<figure entity="P7857029"></figure>
+</p>
+<p>[Church, Havana, Cuba]</p>
+<p>
+<figure entity="P7857030"></figure>
+</p>
+<p>[Unidentified children, Havana, Cuba]</p>
+<p>
+<figure entity="P7857031"></figure>
+</p>
+<p>[8th Infantry in review, Columbia Barracks, Quemados de Marianao, Cuba]</p>
+<p>
+<figure entity="P7857032"></figure>
+</p>
+<p>[8th Infantry in review, Columbia Barrakcs, Quemados de Marianao, Cuba]</p>
+<p>
+<figure entity="P7857033"></figure>
+</p>
+<p>[8th Infantry in review, Columbia Barrakcs, Quemados de Marianao, Cuba]</p>
+<p>
+<figure entity="P7857034"></figure>
+</p>
+<p>[Unidentified courtyard, Havana, Cuba]</p>
+<p>
+<figure entity="P7857035"></figure>
+</p>
+<p>[Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857036"></figure>
+</p>
+<p>[Unidentified scene]</p>
+<p>
+<figure entity="P7857037"></figure>
+</p>
+<p>[Unidentifed woman, possibly Charlotte C. Lazear]</p>
+<p>
+<figure entity="P7857038"></figure>
+</p>
+<p>[Unidentifed woman, possibly Mabel H. Lazear]</p>
+<p>
+<figure entity="P7857039"></figure>
+</p>
+<p>[Unidentifed man, possibly William L. Lazear]</p>
+<p>
+<figure entity="P7857040"></figure>
+</p>
+<p>[Unidentifed woman, possibly Mabel H. Lazear]</p>
+<p>
+<figure entity="P7857041"></figure>
+</p>
+<p>[Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857042"></figure>
+</p>
+<p>[Unidentifed grounds, possibly Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857043"></figure>
+</p>
+<p>[Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857044"></figure>
+</p>
+<p>[Unidentifed grounds, possibly Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857045"></figure>
+</p>
+<p>[Unidentifed grounds, possibly Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857046"></figure>
+</p>
+<p>[Unidentifed grounds, possibly Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857047"></figure>
+</p>
+<p>[Unidentifed grounds, possibly Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857048"></figure>
+</p>
+<p>[Porch and grounds of Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo;near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857049"></figure>
+</p>
+<p>[Unidentifed grounds, possibly Jesse W. Lazear's boyhood home, &ldquo;Windsor,&rdquo; near Baltimore, Md.]</p>
+<p>
+<figure entity="P7857050"></figure>
+</p>
+<p>[Beach front, Havana Cuba]</p>
+<p>
+<figure entity="P7857051"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857052"></figure>
+</p>
+<p>[Unidentified woman swimming in ocean, Havana, Cuba]</p>
+<p>
+<figure entity="P7857053"></figure>
+</p>
+<p>[Boat and beach front, Havana, Cuba]</p>
+<p>
+<figure entity="P7857054"></figure>
+</p>
+<p>[Jesse W. Lazear with his son, William Houston Lazear, and the maid, Gertrude, in Cuba]</p>
+<p>
+<figure entity="P7857055"></figure>
+</p>
+<p>[Jesse W. Lazear's quarters on the Post Hospital, Columbia Barracks, Cuba]</p>
+<p>
+<figure entity="P7857056"></figure>
+</p>
+<p>[Ox cart, Havana, Cuba]</p>
+<p>
+<figure entity="P7857057"></figure>
+</p>
+<p>[Unidentified building, Havana, Cuba]</p>
+<p>
+<figure entity="P7857058"></figure>
+</p>
+<p>[Jesse W. Lazear with his son, William Houston Lazear, and the maid, Gertrude, in Cuba]</p>
+</div1>
+</body>
+</text>
+</TEI.2>

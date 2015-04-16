@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t03030001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from the Secretary of War to the President of the Senate, June 29, 1916</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03030001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1916-06-29</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">President of the Senate</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">McCain, Henry P.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Owen, Robert</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Black, William M.</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>6 pp.</extent>
+<date value="1916-06-29">June 29, 1916</date>
+<idno rend="suppress">03030001</idno>
+<title>Letter from the Secretary of War to the President of the Senate, June 29, 1916</title>
+</bibl>
+</head>
+<p>The Commission of Fine Arts and the Chairman of the House Committee on the Library disapprove of the monument to Reed, Carroll, Lazear, and Agramonte. They suggest a memorial fountain instead. Included is a copy of Senate Bill #6067. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1916-06-29">
+<head>Letter from the Secretary of War to the President of the Senate, June 29, 1916</head>
+<pb n="1" id="f03030001"/>
+<opener>
+file<lb/>
+FROM THE NATIONAL ARCHIVES<lb/>
+2408973 A.G.O.<lb/>
+101498 Engrs.<lb/>
+WAR DEPARTMENT,<lb/>
+wsh<lb/>
+WASHINGTON,<lb/>
+CK<lb/>
+<unclear>MMB</unclear><lb/>
+<dateline>
+<date value="1916-06-29">June 29, 1916.</date>
+</dateline><lb/>
+The President of the Senate,<lb/>
+Washington, D. C.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>I beg to submit the following report on Senate Bill 6067, 64th Congress,<lb/>
+1st Session, providing for the erection on the public grounds in this city of<lb/>
+a monument to the memory of Major Walter Reed, Surgeons James Carroll, Jesse<lb/>
+W. Lazear and Aristides Agramonte.</p>
+<p>The Commission of Fine Arts as well as the Chairman of the House Committee<lb/>
+on the Library have expressed strong disapproval of the erection of any addition-<lb/>
+al portrait statues in the public grounds of this city. If, therefore, a monu-<lb/>
+ment is to be erected to those named in the bill, it would be better that it<lb/>
+should take the form of a memorial fountain of which there are but two in Wash-<lb/>
+ington. Such a memorial, if well designed, should be an acceptable addition to<lb/>
+the public grounds of the city.</p>
+<p>There is now in the suburbs of this city a hospital named after Major<lb/>
+Walter Reed, one of those mentioned in the bill. It is suggested that the<lb/>
+grounds of that institution might afford a more appropriate site for the pro-<lb/>
+posed monument.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>Secretary of War.</signed>
+One inclosure, viz:<lb/>
+Copy of S. 6067, 64:1.</closer>
+</div1>
+<div1 type="document" n="1916-06-29">
+<head>Senate Bill 6067, 64th Congress, 1st Session</head>
+<pb n="2" id="f03030002"/>
+<p>File<lb/>
+FROM THE NATIONAL ARCHIVES<lb/>
+S.G.</p>
+<p>64TH CONGRESS,<lb/>
+1ST SESSION.<lb/>
+----------</p>
+<p>S. 6067.<lb/>
+------------------</p>
+<p>IN THE SENATE OF THE UNITED STATES.</p>
+<p>MAY 18, 1916.</p>
+<p>Mr. OWEN introduced the following bill; which was read twice and referred<lb/>
+to the Committee on the Library.</p>
+<p>--------------------</p>
+<p>A BILL</p>
+<p>For the erection of a monument to the memory of Major Walter<lb/>
+Reed, Surgeons James Carroll, Jesse W. Lazear, and<lb/>
+Aristides Agramonte.</p>
+<p>1 <hi rend="italic">Be it enacted by the Senate and House of Representa-</hi><lb/>
+2 <hi rend="italic">tives of the United States of America in Congress assembled</hi>,<lb/>
+3 That there shall be erected in the city of Washington. Dis-<lb/>
+4 trict of Columbia, a statue to the memory of Walter Reed,<lb/>
+5 James Carroll, Jesse W. Lazear, and Aristides Agramonte;<lb/>
+6 and for the purpose of procuring and erecting said statue,<lb/>
+7 with a suitable pedestal, and for the preparation of a site,<lb/>
+8 the sum of $50,000, or so much thereof as may be nec-<lb/>
+9 essary, is hereby appropriated out of any money in the<lb/>
+10 Treasury not otherwise appropriated, the same to be ex-<lb/>
+11 pended under the direction of a commission to be composed<lb/>
+12 of the Surgeons General of the Army, Navy, and Public<lb/>
+13 Health Service and the chairman of the Committee on the<lb/>
+<pb n="3" id="f03030003"/>
+2<lb/>
+1 Library of the Senate, and the chairman of the Committee<lb/>
+2 on the Library of the House of Representatives.</p>
+<p>3 SEC. 2. That the commission herein created is empow-<lb/>
+4 ered to select a site for the statue authorized by this Act on<lb/>
+5 ground belonging to the Government: <hi rend="italic">Provided</hi>, That said<lb/>
+6 statue shall not be located in the grounds of the Capitol or<lb/>
+7 Library of Congress.</p>
+<p>64TH CONGRESS,}<lb/>
+1ST SESSION.}</p>
+<p>S. 6067.</p>
+<p>====================</p>
+<p>A BILL</p>
+<p>For the erection of a monument to the mem-<lb/>
+ory of Major Walter Reed, surgeons James &check;<lb/>
+Carroll, Jesse W. Lazear, and Aristides<lb/>
+Agramonte.</p>
+<p>====================</p>
+<p>By Mr. OWEN.</p>
+<p>====================</p>
+<p>MAY 18, 1916.--Read twice and referred to the Com-<lb/>
+mittee on the Library.</p>
+<p>ADJUTANT GENERAL'S OFFICE<lb/>
+JUN-5<lb/>
+2408973<lb/>
+1916<lb/>
+WAR DEPARTMENT.</p>
+<p>OFFICE CHIEF OF ENGRS.<lb/>
+JUN-7<lb/>
+101498<lb/>
+------<lb/>
+1<lb/>
+1916<lb/>
+WAR DEPARTMENT</p>
+<p>ADJUTANT GENERAL'S OFFICE<lb/>
+JUN <unclear>[unclear]</unclear><lb/>
+157365<lb/>
+1916<lb/>
+WAR DEPARTMENT</p>
+<p><unclear>Office</unclear><lb/>
+Public <unclear>Buildings</unclear><lb/>
+and <unclear>Grounds.</unclear><lb/>
+No. 291&sol;2<lb/>
+JUN 15, <unclear>1916</unclear></p>
+<p>Report herein.</p>
+<p>Received A.G.O., MAY 27 1916</p>
+<pb n="4" id="f03030004"/>
+<p>OFFICE CHIEF OF ENGRS.<lb/>
+JUN-7<lb/>
+101498<lb/>
+1916<lb/>
+WAR DEPARTMENT.</p>
+<p>Office<lb/>
+Public Buildings<lb/>
+and Grounds.<lb/>
+No. 291&sol;1<lb/>
+JUN 15, 1916</p>
+<p>1 enclo.</p>
+<p>File<lb/>
+<unclear>GK</unclear></p>
+<p><unclear>MCL H</unclear></p>
+<pb n="5" id="f03030005"/>
+<p><unclear>Q</unclear></p>
+<p>2408973 1st Ind.</p>
+<p>War Department, A. G. O., June 5, 1916.<lb/>
+To the Surgeon General of<lb/>
+the Army.</p>
+<p>For preparation of a report on the accompanying bill, for transmis-<lb/>
+sion to Congress. That report will be transmitted to this office at the<lb/>
+earliest practicable date.</p>
+<p>By order of the Secretary of War:</p>
+<p>H.P. McCain<lb/>
+The Adjutant General.</p>
+<p>157365<lb/>
+2d Indt.<lb/>
+HHW</p>
+<p>War Dept., S.G.O., June 6, 1916. - To The Adjutant General.</p>
+<p>1. The services rendered and sacrifices made by Doctors Reed,<lb/>
+Carroll, Lazear and Agramonte in demonstrating the mode of trans-<lb/>
+mission of yellow fever have been and will be of inestimable value<lb/>
+to mankind, and a monument to commemmorate them in the capital city<lb/>
+of the United States would be most appropriate. I recommend there-<lb/>
+fore that a favorable report by made upon S. 6067 herewith.</p>
+<p>W. C. Gorgas.<lb/>
+Surgeon General.<lb/>
+Army</p>
+<p>EC'D BACK JUN 7 1916 A.G.O. 1015</p>
+<p>2408973<lb/>
+3d Ind.</p>
+<p>A.G.O., June 7, 1916 - To the Chief of Engineers.</p>
+<p>For preparation of further report upon S. 6067, herewith, for trans-<lb/>
+mission to Congress. These papers will be returned to this office, with<lb/>
+report requested, at the earliest practicable date.</p>
+<p>By order of the Secretary of War:</p>
+<p>H.P. McCain<lb/>
+The Adjutant General.</p>
+<pb n="6" id="f03030006"/>
+<p>101498<lb/>
+4th Ind.<lb/>
+wsh</p>
+<p>Office C. of E., June 29, 1916 - To the Adjutant General.</p>
+<p>Returned with report as requested in the form of a draft of letter to<lb/>
+the President of the Senate, prepared for the signature of the Secretary<lb/>
+of War.</p>
+<p>W.M. Black<lb/>
+Chief of Engineers, U. S. Army.</p>
+<p>2 inclos., viz:<lb/>
+101498&sol;1, copy of S. 6067, 64:1.<lb/>
+Draft of letter to Pres. of Senate.</p>
+<p>REC'D BACK, A.G.O. JUN 30 1916<lb/>
+with draft of <unclear>w 2 </unclear>letter</p>
+</div1>
+</body>
+</text>
+</TEI.2>

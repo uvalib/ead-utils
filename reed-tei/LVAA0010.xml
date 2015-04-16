@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="LVAA0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to Laura Reed Blincoe, April 13, 1874</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>LVAA0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">Walter Reed. Letters, 1874-1901. Accession 23783. Personal papers collection. The Library of Virginia, Richmond, Va. 23219.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1874-04-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Blincoe, Laura Reed</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Reed, Christopher</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1874-04-13">April 13, 1874</date>
+<idno rend="suppress">LVAA0010</idno>
+<title>Letter from Walter Reed to Laura Reed Blincoe, April 13, 1874</title>
+</bibl>
+</head>
+<p>Reed discusses a lawsuit concerning his reputation and his brother Christopher Reed's excessive exertions on his behalf. [Courtesy of the Library of Virginia]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1874-04-13">
+<head>Letter from Walter Reed to Laura Reed Blincoe, April 13, 1874</head>
+<pb n="1" id="fLvaa0010"/>
+<opener>
+<del>Office of the Sanitary Superintendent<lb/>
+No. 66 Court Street</del> 115 Lee Ave.<lb/>
+<dateline>
+Brooklyn, <date value="1874-04-13">April 13<hi rend="superscript">th</hi>, 1874.</date>
+</dateline><lb/>
+<salute>My dear Sis,</salute>
+</opener>
+<p>I received a letter from Kit, this morning, &amp; also<lb/>
+a short note from yourself - Surely Kit is &ldquo;beside<lb/>
+himself&rdquo; from the manner in which he writes. His wrath<lb/>
+is like the Eruption from some mighty volcano<del>e</del>. And what<lb/>
+amuses me, he sends me letters in which <add>he</add> breathes wrath<lb/>
+&amp; threatenings against all mankind, evidently showing<lb/>
+himself to be in <del>the</del> a state of the highest excitement &amp;<lb/>
+anger, &amp; at the same <add>time</add> urging me to be calm &amp; get out of the<lb/>
+matter <del>people</del><add>peaceably</add> - He might, at least show me an example of<lb/>
+calmness, and not be writing to me as if he considered<lb/>
+me a <hi>nieve babe</hi> - Why, great Heavens! he regrets that<lb/>
+he cannot be in New York to look after my affairs!<lb/>
+Well, if he carried on in my presence, as he does<lb/>
+in his writing, I am of the opinion that a separa-<lb/>
+tion of a few hundred miles is decidedly to my<lb/>
+benefit - Mark what I say: I know that Kit means<lb/>
+to assist me all he can, thinks that his advice is<lb/>
+good, &amp; would do anything he could to help me out of<lb/>
+my difficulties, but he certainly does not know<lb/>
+how to hold his temper. I am bad enough; Kit is<lb/>
+worse. If it had not been for my hot head &amp;<lb/>
+his hot head, I never should have <del><add>never</add></del> been in<lb/>
+<pb n="2" id="fLvaa0020"/>
+the trouble. We both of us plunged into the suit,<lb/>
+like 2 mad bulls, without considering for one<lb/>
+moment what would be the termination. I was smarting<lb/>
+under the slander which had been <del>uttl</del> uttered against<lb/>
+me by an ignorant Dutchman; slander which could<lb/>
+not have &amp; did not do me any possible damage-<lb/>
+charges which no one ever believed &amp; of which<lb/>
+I was immediately cleared upon an investigation.<lb/>
+No, into it I would go - what did I know about the<lb/>
+law? Kit said it was a good case -- another<lb/>
+hot-headed Virginian said the same, and like 3<lb/>
+blind jack-asses, as we were, we took aim &amp; fired<lb/>
+our little thunder-bolt, which, at first, went &ldquo;whiz-<lb/>
+zing&rdquo; through the air <del>A t</del><add>Straight</add> at the unfortunate<lb/>
+dutchman, &amp; when we were congratulating ourselves<lb/>
+that he would soon &ldquo;squeel&rdquo; from the effect of a<lb/>
+smart blow, lo! behold, the thunderbolt changed<lb/>
+its course, &amp; in spite of all the laws of gravity,<lb/>
+described a circle and took me plumb on the<lb/>
+head, making the sparks fly out, in the shape of<lb/>
+dollars. The whole thing is simply ridiculous, and<lb/>
+I wouldn't take $500 dollars for it. It has learned<lb/>
+me a lesson that I shall never <add>forget</add> &amp; one which will<lb/>
+be of immense benefit to me. I am entirely<lb/>
+too impulsive - You can depend upon it, I will<lb/>
+next time, think before I leap - I know <add>Kit</add> is worried,<lb/>
+but what good will that effect? He seems to be afraid<lb/>
+that my money is going into the large pockets of &ldquo;that<lb/>
+<hi>dog</hi> Mattern,&rdquo; (as he dubs him) - Well he won't get enough<lb/>
+to buy his old lady a dress - He is entitled to what he<lb/>
+gets because he has purjured himself &amp; he will<lb/>
+need something to keep his spirits up - If he will tell<lb/>
+<pb n="3" id="fLvaa0030"/>
+3<lb/>
+<del>Office of the Sanitary Superintendent,<lb/>
+No. 66 Court Street<lb/>
+Brooklyn, 187</del><lb/>
+as many lies as he has told for $50, I consider that he<lb/>
+does his work remarkably <hi>cheap</hi> - The time is coming<lb/>
+when he would gladly pay that amt. to have <del>that</del> his<lb/>
+lies blotted out. It is a gratification to know that<lb/>
+my action has been perfectly honorable since I com-<lb/>
+menced the suit - I have been deceived by <add>some</add> men to<lb/>
+a slight extent, but <del>has not</del> it has not damaged<lb/>
+me in the least. In fact, I never was happier, or<lb/>
+more calm &amp; contented. As for my doing anything<lb/>
+&ldquo;rash&rdquo;, never you fear that. I have a tolerably evenly<lb/>
+balanced head on my shoulders - &amp; it was never<lb/>
+<del>was</del> better balanced than it is to-day - It has been<lb/>
+recently shaken &amp; clarified. Kit talks about men<lb/>
+&ldquo;eating me up&rdquo; - &ldquo;sucking my life's blood&rdquo; - &ldquo;sapping&rdquo; me <del>&ldquo;</del> -<lb/>
+&ldquo;picking&rdquo; me, and a lot of terrible accidents - He forgets<lb/>
+that I am a medical man &amp; have seen some <hi>blood</hi><lb/>
+in my day - The man who tries to &ldquo;eat me up,&rdquo; will<lb/>
+find a <hi>rather</hi> tough morsel - I must give Kit credit<lb/>
+for writing letters that would frighten the &ldquo;wax&rdquo;<lb/>
+out of a fellow! I thought Mattern was prepa-<lb/>
+ring to hurl the Egyptian plagues at me. Let me<lb/>
+enumerate a few of his words -- &ldquo;They will <hi>pick</hi> you&rdquo; - &ldquo;suck<lb/>
+the blood out you&rdquo;-&ldquo;Pryor is a grabber&rdquo; - &ldquo;he is a farce&rdquo; - &ldquo;Segur is<lb/>
+<pb n="4" id="fLvaa0040"/>
+an archangel of treachery&rdquo; - &ldquo;a liar&rdquo; - &ldquo;a scoundrel&rdquo;-&ldquo;desertion&rdquo;-&ldquo;you will<lb/>
+be skinned&rdquo;-and then after telling me that I am the &ldquo;Victim<lb/>
+of Malicious men,&rdquo; he throws off the <hi>mild</hi> sentence:<lb/>
+&ldquo;As for D<hi rend="superscript">r</hi> Segur, if I were a <hi>special</hi> messenger, commis-<lb/>
+sioned by God Almighty to search the vocabulary of<lb/>
+Hell, I could not find language sufficiently strong<lb/>
+to portray his damnable rascality&rdquo; - How is that for<lb/>
+laying it on &ldquo;heavy&rdquo; - I want Kit to read this and ask<lb/>
+himself whether such language is at all refrigerating.<lb/>
+I am sorry that he has written anything to Logan.<lb/>
+It cannot possibly do any good &amp; it may do me<lb/>
+much harm - For goodness sake, let him send<lb/>
+me all his extra fire and brimstone &amp; not<lb/>
+to other people. I am afraid Kit's visit has not<lb/>
+been very pleasant thus far - well, let everything<lb/>
+go smoothly now. I am out of my trouble &amp; there<lb/>
+is no use of Kit &ldquo;ripping&rdquo; around (as I know he<lb/>
+does) like a little black bull stung in the <del>St n</del><add>Stern</add><lb/>
+by a hornet! Upon my soul, as I write, I am<lb/>
+roaring with laughter - I only wish I could see<lb/>
+Kit for about half an hour; we would have some<lb/>
+jolly good fun - But I must close, Excuse all<lb/>
+mistakes, as I have written in a great hurry,</p>
+<closer>
+<salute>Love to all,<lb/>
+Your affectionate Bro.</salute>
+<signed>Walter Reed</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

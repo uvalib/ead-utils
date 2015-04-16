@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02509001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from S. M. Sparkman to George Miller Sternberg, June 13, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Sparkman, S. M.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02509001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-06-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Sternberg, George Miller</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Tampa (Fla.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1901-06-13">June 13, 1901</date>
+<idno rend="suppress">02509001</idno>
+<title>Letter from S. M. Sparkman to George Miller Sternberg, June 13, 1901</title>
+</bibl>
+</head>
+<p>Sparkman encourages the printing of several thousand copies of &ldquo;The Etiology of Yellow Fever&rdquo; so that the people of the Gulf Coast can be informed of the mosquito theory. Sparkman realizes that it is very important that the yellow fever issue be cleared up, as there are numerous variant theories about the cause of yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1901-06-13">
+<head>Letter from S. M. Sparkman to George Miller Sternberg, June 13, 1901</head>
+<pb n="1" id="f02509001"/>
+<opener>
+HOUSE OF REPRESENTATIVES.<lb/>
+WASHINGTON.<lb/>
+<dateline>
+Tampa, Fla., <date value="1901-06-13">June 13, 1901.</date>
+</dateline><lb/>
+Gen. Geo. M. Sternberg,<lb/>
+Surgeon General, U.S.A.,<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Sir,</salute>
+</opener>
+<p>I have yours of the 7th inst., and note that you had sent me<lb/>
+under separate cover ten copies of the report on The Etiology of<lb/>
+Yellow Fever, for which I wish to thank you.</p>
+<p>I wrote you, by the way, while in Washington the other day<lb/>
+suggesting that another print of this document be made. I did<lb/>
+this, of course, without intending to do more than to make the sug-<lb/>
+gestion. I think it is a document that all the physicians in Flor-<lb/>
+ida should have, and many of the leading men. The investigations<lb/>
+have been carried along a line so different from that which has<lb/>
+been followed before, and <del>int</del>end<del>ing</del> to demonstrate a theory as to<lb/>
+the spreading of yellow fever so widely at variance with ideas pre-<lb/>
+viously held, that I think all the people along the Gulf Coast<lb/>
+of the United States should be informed on the subject. So I real-<lb/>
+ly hope you may see your way clear to have several thousand copies<lb/>
+of this report printed.</p>
+<closer>
+<salute>Yours very truly,</salute>
+<signed><unclear>S. M. Sparkman</unclear></signed>
+M.C. Fla.<lb/>
+<pb n="2" id="f02509002"/>
+<seg>
+OFFICE OF SURGEON GENERAL,<lb/>
+JUN <unclear>1</unclear><lb/>
+71980<lb/>
+U<lb/>
+1901<lb/>
+WAR DEPARTMENT<lb/>
+<lb/>
+Tampa Fla.<lb/>
+June 13, 01<lb/>
+<lb/>
+Hon. S.M. Sparkman<lb/>
+M.C.<lb/>
+<lb/>
+Acknowledges the receipt<lb/>
+of ten copies of report<lb/>
+on Etiology of yellow<lb/>
+and suggests that several<lb/>
+thousands copies of report<lb/>
+be printed and distributed<lb/>
+along the Gulf Coast.<lb/>
+<lb/>
+Read by the <add>acting</add> Sergeon General<lb/>
+<unclear>and Ordered filed [unclear]</unclear></seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

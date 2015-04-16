@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N0367005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, [19--]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N0367005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+
+<name type="person">Lazear, Jesse W.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Johns Hopkins University, Baltimore (Md.)</name>
+<name type="place">France</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">N0367005</idno>
+<title>Newspaper clipping, [19--]</title>
+</bibl>
+</head>
+<p>Great Frenchman Once Lived in Waverly</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Newspaper clipping, [19--]</head>
+<pb n="1" id="fN0367005"/>
+<p>GREAT FRENCHMAN ONCE LIVED<lb/>
+IN WAVERLY.</p>
+<p>Henry Augustus Adrian, during his<lb/>
+lecture at Chautauqua last Friday af-<lb/>
+ternoon spoke of great men of differ-<lb/>
+ent countries, men who did more for<lb/>
+humanity than did great soldiers who<lb/>
+directed armies from a safe distance<lb/>
+behind the firing line, and he gave<lb/>
+names of many men who deserve<lb/>
+more credit and honor than do states-<lb/>
+men or warriors. Among these he<lb/>
+mentioned the name of a French doc-<lb/>
+tor who gave his life in research<lb/>
+to discover the cause of yellow fever<lb/>
+and to find a remedy to combat the<lb/>
+disease. He went into the swamps of<lb/>
+the islands of the Carribeban sea,<lb/>
+where the readly mosquitoes bred,<lb/>
+and with their death germs carried<lb/>
+disease to human beings, and there he<lb/>
+prosecuted his research work for the<lb/>
+good of mankind, discovering causes<lb/>
+and remedies which have saved many<lb/>
+thousands of lives. Through this<lb/>
+work the great doctor lost his life,<lb/>
+dying in Havana, Cuba, while experi-<lb/>
+menting with yellow fever germs, and<lb/>
+in many large cities monuments have<lb/>
+been erected to his memory. The<lb/>
+speaker stated that Dr. Lezear was a<lb/>
+greater man than Napoleon; a great-<lb/>
+er man even than Dr. Pasteur, whose<lb/>
+fame is world-wide; in fact, Lazear<lb/>
+was the greatest man that France has<lb/>
+ever known.</p>
+<p>That great man was Jesse W. La-<lb/>
+zear, who, as a boy lived in Waverly,<lb/>
+and with G. O. VanDerveer and Julian<lb/>
+Ruddick, worked in the German-<lb/>
+American Savings Bank in this city.<lb/>
+He was a nephew of Mr. and Mrs. R.<lb/>
+W. Sweitzer, the gentleman being at<lb/>
+that time cashier of the bank.</p>
+<p>Young Lazear was of French par-<lb/>
+entage and came to this country to<lb/>
+study medicine at the John Hopkins<lb/>
+University, and during his vacation<lb/>
+time he came to Waverly to visit and<lb/>
+was a guest in the J. H. Bowman<lb/>
+home, and found employment in the<lb/>
+bank, of which Mr. Bowman was then<lb/>
+president. After completing his edu-<lb/>
+cation in America, he returned to<lb/>
+France and took a course in research<lb/>
+work. In the late 80's he again came<lb/>
+to this country and became a citizen<lb/>
+of the United States. With the out-<lb/>
+break of the Spanish-American war,<lb/>
+he went to Cuba, and there, with<lb/>
+other physicians connected with the<lb/>
+army, he began his research work to<lb/>
+discover the cause of yellow fever.<lb/>
+Many experiments were made with<lb/>
+the insects, which were permitted to<lb/>
+bite volunteers, and among these vol-<lb/>
+unteers was Dr. Lazear. At first, al-<lb/>
+though others were stricken with the<lb/>
+deadly disease, it did not manifest<lb/>
+itself in his case. However, on Sep-<lb/>
+tember 13, 1900, he was bitten by a<lb/>
+mosquito in a hospital in Havana,<lb/>
+where yellow fever patients were be-<lb/>
+ing treated. Five days later he came<lb/>
+down with a chill, and on the 25th of<lb/>
+the same month he died. He had ac-<lb/>
+complished his purpose before death<lb/>
+claimed him. His theory that the<lb/>
+disease was caused by mosquitoes<lb/>
+was proven, and he sacrificed his life<lb/>
+for the sake of humanity.</p>
+<p>Mr. Adrian, when he delivered his<lb/>
+address, did not know that this cele-<lb/>
+brated doctor had once lived here, or<lb/>
+he would have used the fact in his<lb/>
+lecture. Many of our citizens will<lb/>
+remember Jesse Lazear as a bank<lb/>
+clerk, and this item will be of inter-<lb/>
+est to them.</p>
+<p>---------------</p>
+</div1>
+</body>
+</text>
+</TEI.2>

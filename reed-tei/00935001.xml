@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00935001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report on the Epidemic of Yellow Fever at Grand-Bassam, by Bauvallet and Houillon, October 25, 1923</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00935001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1923-10-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Noguchi, Hideyo</name>
+<name type="place">Dahomey (Togo)</name>
+<name type="place">Accra (Gold Coast)</name>
+<name type="place">Bassam (Ivory Coast)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>12 pp.</extent>
+<date value="1922-10-25">October 25, 1923</date>
+<idno rend="suppress">00935001</idno>
+<title>Report on the Epidemic of Yellow Fever at Grand-Bassam, by Bauvallet and Houillon, October 25, 1923</title>
+</bibl>
+</head>
+<p>This report is a detailed account of the yellow fever epidemic 
+in French West Africa, including information on control measures, vaccinotherapy, serotherapy, and experimental findings.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1922-10-25">
+<head>Report on the Epidemic of Yellow Fever at Grand-Bassam, by Bauvallet and Houillon, October 25, 1923</head>
+<pb n="1" id="f00935001"/>
+<opener>
+<unclear>Blanndt</unclear> Grand Bassam No 1 &amp; 2?<lb/>
+<hi>REPORT ON THE EPIDEMIC OF YELLOW FEVER<lb/>
+AT GRAND-BASSAM</hi><lb/>
+(August 18 to September 8, 1922.)<lb/>
+****<lb/>
+<hi>French West Africa<lb/>
+Colony of the Ivory Coast<lb/>
+Health Service.</hi><lb/>
+</opener>
+<p>The information that brought to our attention a few cases<lb/>
+of yellow fever in Dahomey, Togo and the Gold Coast in July did<lb/>
+not find us unprepared.</p>
+<p>1-</p>
+<p>In fact, as early as June 28, and before any official notifica-<lb/>
+tion, the Chief Physician, Head of the Health Service, came down to Bassam<lb/>
+to examine a patient who had been reported by the physician at that post.<lb/>
+This was the sailor A. of the S.S. &ldquo;New Georgia&rdquo;, coming from the south.<lb/>
+This man was found to be suffering from malaria, and the ship was declared<lb/>
+free from Stegomyia.</p>
+<p>2-</p>
+<p>On July 29 some patients on board the &ldquo;Barracoo&rdquo;, also from<lb/>
+the south, engaged our attention. One of those patients, the ship-boy B.,<lb/>
+died on the 31st. The development of the disease, the anamnesis, and the post-<lb/>
+mortem findings all established the diagnosis of a pernicious attack of malaria.<lb/>
+This diagnosis was confirmed by the absence of contagion and of Stegomyia.<lb/>
+The ship remained anchored in the roads for 16 days and no one on board<lb/>
+fell ill.</p>
+<p>A very strict and constant supervision of the native morbidity<lb/>
+and mortality gave only negative results.</p>
+<p>The marine sanitary police supervision was carried out under<lb/>
+conditions of complete security, since it was physically impossible to<lb/>
+land except at the wharf. All arrivals by the sea from the south were<lb/>
+examined on arrival, and all passengers were observed for 6 days without any<lb/>
+<pb n="2" id="f00935002"/>
+abnormal findings.</p>
+<p>3-</p>
+<p>However, danger did exist on the land side on account of<lb/>
+the proximity of the Gold-Coast. Bassam is one day's journey on foot<lb/>
+from Aferonou, the English frontier post. Continual and unsupervised<lb/>
+communication took place by way of the shore. This explains how an<lb/>
+Italian Mr. C., who left Accra by the road, was able to reach Bassam<lb/>
+on June 29, brought in by his men in a state of complete coma, without<lb/>
+having his passage of the frontier known to anyone. In this case it<lb/>
+was nothing but sunstroke with resulting mental confusion, which was<lb/>
+quickly cured.</p>
+<p>The month of July passed with nothing of note.</p>
+<p>4-</p>
+<p>Mrs. D. of the Atlantic Hotel died on August 4. The records<lb/>
+show that the symptoms were those of bilious hematuria. There was no<lb/>
+one infected in the vicinity of the patient. This case was brought to<lb/>
+the attention of the Chief of the Health Service on account of an epi-<lb/>
+gastralgic symptom. This symptom alone was not sufficient to allow us to<lb/>
+pronounce the word yellow fever, the diagnosis of which haunted us and<lb/>
+became almost obsession.</p>
+<p>5+</p>
+<p>Seventeen days after the beginning of Mrs. D.'s fatal illness<lb/>
+a resident of the Atlantic Hotel, Mr. E., was admitted in haste to the<lb/>
+Ambulance Hospital at Bassam. He fell ill on August 16. On the 17th<lb/>
+he had a pathognomonic attack of black vomit, and died at 6:45 P.M. The autopsy, which was made on the forenoon of the 18th, revealed a<lb/>
+hemorrhagic stomach filled with &ldquo;coffee grounds&rdquo;, a chamois-colored<lb/>
+liver, and a saffron-yellow skin. The Chief of the Health Service, to<lb/>
+whom the case was reported by telegram under date of the 17th, came down<lb/>
+to Bassam on the 18th and confirmed the diagnosis by examination of the pieces.</p>
+<pb n="3" id="f00935003"/>
+<p>Mr. E., who had no means of any kind, had managed to live in<lb/>
+Bassam for several months by various shifts, and led a mysterious kind of<lb/>
+existence.</p>
+<p>He belonged to a group of Italians who had made their head-<lb/>
+quarters at the Atlantic Hotel. These Italians, who came from the Gold-<lb/>
+Coast to recruit laborers, sometimes vanished for a week at a time, and<lb/>
+E. did the same.</p>
+<p>As these recruiting agents had found themselves refused permission<lb/>
+to carry on their activities, it is perfectly logical to suppose that the<lb/>
+high exchange value of the pound sterling made it possible for them to<lb/>
+engage men just the same. Thus E. and F., another Italian of the same group,<lb/>
+living under unsanitary conditions and especially without mosquito nets,<lb/>
+got infected at Accra, where yellow fever was officially recognized, when<lb/>
+they secretly took a group of laborers there.</p>
+<p>1+<lb/>
+5<lb/>
+<unclear>a-t</unclear></p>
+<p>The case of E. created an accidental center which developed<lb/>
+chronologically in the following way among the guests, the neighbors, and<lb/>
+the patrons of the Atlantic Hotel, a particularly ill-kept property the<lb/>
+cleaning-up of which is a sanitary necessity.</p>
+<p><del><unclear>Sick or 16 died out than 21 Toophal</unclear></del></p>
+<p>1. August 16, <del>death</del><add>case</add> E. <unclear>error sick 16-died 17 6.45 P.M</unclear></p>
+<p>2+<lb/>
+6<lb/>
+<unclear>r</unclear></p>
+<p>2. August 18, case F. This Italian <unclear>foll</unclear> ill on the 18th,<lb/>
+was at once isolated, and had a form of yellow fever that was cured. E.<lb/>
+was F.'s roommate, sleeping in the same bed with him at the Atlantic Hotel.</p>
+<p>3+<lb/>
+7<lb/>
+<unclear>or</unclear></p>
+<p>August 18, case G. The disease appeared during the night<lb/>
+of the 18th with coup de barre, facial congestion, epigastralgia, vomit.<lb/>
+The development was favorable, and the patient recovered.</p>
+<p>4+<lb/>
+8<lb/>
+<unclear>D+</unclear></p>
+<p>4. August 20, case of Mrs. H. The patient fell ill about<lb/>
+August 15, and was treated at home, Fever, epigastralgia, vomiting,<lb/>
+then uterine hemorrhage, icterus, albuminuria followed by anuria. Died<lb/>
+on August 20. There was no autopsy, as the patient was cared for by her<lb/>
+family.</p>
+<pb n="4" id="f00935004"/>
+<p>5+(9)<lb/>
+<unclear>d f</unclear></p>
+<p>August 21, case I. This Syrian fell ill about 10 A.M. on<lb/>
+the 21st. Rachialgia, facial congestion, high fever, vomiting all<lb/>
+came on at once. The disease developed very rapidly. Died at 2 P.M.<lb/>
+on the 22d. There was no autopsy, partly for lack of time and partly<lb/>
+on account of the clear clinical indications.</p>
+<p>All sick persons with a fever were examined and their cases<lb/>
+discussed by Physician-Major Bauvallet and Chief Physician Houillon, Head<lb/>
+of the Health Service.</p>
+<p>As soon as the first case was reported the Bassam territory<lb/>
+was put under observation, and on the 20th of the month it was declared<lb/>
+infected with <hi>yellow fever</hi>.</p>
+<p><hi>CONTROL MEASURES PUT INTO EXECUTION</hi>.</p>
+<p>A conference took place on August 18 about 9 A.M. between:</p>
+<p>M. Houillon, Chief Physician of the 1st class of the T. C.,<lb/>
+Head of the Health Service of the Ivory Coast.</p>
+<p>M. Mondon, Administrator and Mayor of Bassam.</p>
+<p>M. Bauvallet, Physician-Major of the 2nd class of the T. C.,<lb/>
+physician of Bassam.</p>
+<p>A plan of sanitary mobilization, the details and possibility<lb/>
+of which had been discussed long before by the Health Service, was decided<lb/>
+upon in its larger aspect. A meeting of the Committee on Hygiene, composed<lb/>
+of members of the Municipal Commission, was hastily called and informed of<lb/>
+the state of affairs.</p>
+<p>The public was informed, in a circular that was composed at<lb/>
+once, of the existence of a death by yellow fever, of the precautionary<lb/>
+measures to be taken, and of the necessity of reporting every case of illness<lb/>
+accompanied by fever. Besides, a sanitary bulletin was established and<lb/>
+<pb n="5" id="f00935005"/>
+published daily to the population of Bassam during the whole epidemic,<lb/>
+according the the formally expressed wish of the Head of the Health Service<lb/>
+and the resulting decision of the administrative authorities, who thought<lb/>
+it absolutely necessary that the inhabitants be exactly informed and warned<lb/>
+against false reports.</p>
+<p>The following control measures, the rapid execution of which<lb/>
+was one of the chief factors of success, considering that there was no<lb/>
+European quarantine station in Bassam, were carried out.</p>
+<p>1. Requisition of all mosquito netting, which was put at the<lb/>
+disposal of the entire population on the indication of the medical author-<lb/>
+ities, in order to protect everyone.</p>
+<p>2. Installation of mosquito traps in every suspected or infected<lb/>
+house.</p>
+<p>(No point 3 in original)</p>
+<p>4. Disinfection, by hot cresyl fumes, of every house that was<lb/>
+infected or harbored Stegomyia.</p>
+<p>5. Isolation of every one suspected of infection (persons<lb/>
+in the vicinity of the sick) either in their homes or in hastily prepared<lb/>
+buildings. The Richmond house was requisitioned, with 5 beds; two rooms in<lb/>
+the European Ambulance Hospital, 10 beds; first floor of the Maternity<lb/>
+Hospital, 10 beds.</p>
+<p>6. Isolation of all fever patients before diagnosis, under<lb/>
+mosquito nets, and with mosquito traps at the doors. Isolation and ob-<lb/>
+servation, under (proper) conditions, of 9 Europeans, <hi>all of them uninfected</hi>.</p>
+<p>7. Checking up, repairing and distributing mosquito nets to<lb/>
+well persons.</p>
+<p>8. Increase in the severity of Stegomyia control. This control<lb/>
+had been begun in Bassam several years before, but had become much more<lb/>
+<pb n="6" id="f00935006"/>
+effective since June, particularly on account of the large increase<lb/>
+in legal summons followed by judgments. The relative scarcity of<lb/>
+Stegomyia in Bassam, due to the activity of the Health Service, and<lb/>
+pointed out by Dr. Bauvallet and Dr. Blanchard, explains why the<lb/>
+early cases, which were the only ones that appeared, were limited to<lb/>
+5. The Health Service functioned as usual with the regular personnel<lb/>
+during the epidemic, in addition to a few workmen loaned by the<lb/>
+Administrator-Mayor. The search for the hiding places of Stegomyia<lb/>
+larvae was carried on by the regular specialized brigades in the six<lb/>
+control sectors established since August, 1920, 2 of these being European<lb/>
+and the other 4 native. It must however be noted that the entire house<lb/>
+to house visits were made under the direction either of a sworn European<lb/>
+agent of the Health Service or of a physician. Valuable, efficient and<lb/>
+disinterested assistance was spontaneously given by M. Landre, a planter<lb/>
+of the Ivory Coast, who was passing through Bassam, and who came to offer<lb/>
+his services to the physician in charge.</p>
+<p>9. Visiting, disinfecting, clearing of mosquitoes and oiling<lb/>
+of the coastal steamers and barges that were blocked at Bassam by the<lb/>
+quarantine. This service was under the direction of Sergeant Javelas,<lb/>
+of Batallion No. 3, who was placed at the service of the Bassam physician<lb/>
+by the military authorities.</p>
+<p>10. Order of service, guards composed of sharpshooters of<lb/>
+Batallion No. 3, loaned by the Batallion Chief Steef, military commander,<lb/>
+at the request of the physician of Bassam, and placed in every infected<lb/>
+or suspected house. These soldiers were under the direct command of the<lb/>
+Physician, who gave them a very simple order, which consisted of keeping<lb/>
+absolutely everyone out of the houses under observation.</p>
+<pb n="7" id="f00935007"/>
+<p>11. Printed information, got out and distributed at the<lb/>
+suggestion of the Head of the Health Service, gave the public excellent<lb/>
+advice. Samples of Stegomyia in tubes were circulated by the physician<lb/>
+of Bassam.</p>
+<p>12. Talks were given by M. Mondon to the native chiefs<lb/>
+of the Circle. Every case of illness, and all deaths, which were<lb/>
+very few, were inspected by the physician, thanks to the reports of<lb/>
+the village chiefs. <hi>No native, either before, during, or after the<lb/>
+epidemic, presented any morbid symptoms that could lead one to suspect<lb/>
+yellow fever</hi>.</p>
+<p>13. Placing under observation, individual mosquito nets, in<lb/>
+the quarantine station, of every native coming from the Gold Coast, either<lb/>
+by land or water.</p>
+<p>14. All Europeans who landed at Bassam during the course of<lb/>
+the epidemic were given &ldquo;sanitary passports&rdquo;, and were sent away <hi>im-<lb/>
+mediately</hi> by day in automobiles.</p>
+<p>15. The organization of a sanitary cordon around the infected<lb/>
+zone.</p>
+<p>16. Sanitary observation of the population living on the<lb/>
+frontier of the Gold Coast. Nothing suspicious found in the Aboisse<lb/>
+section.</p>
+<p>The successful conception, execution and control of all these<lb/>
+measures, the practical application of which bristled with difficulties,<lb/>
+were due to the close collaboration of the Head of the Health Service,<lb/>
+the Administration, the Bassam Physician, and the Hygienic Commission.</p>
+<p>As a whole the population of Bassam good-naturedly accepted<lb/>
+all the required restrictions, even those that were very unpleasant,<lb/>
+such as house inspections. It would have been fatal, and it did happen<lb/>
+in a few cases, that ill-natured persons complained of despotism and<lb/>
+<pb n="8" id="f00935008"/>
+denied the presence of yellow fever. When necessary, regular <unclear>penal</unclear><lb/>
+action was most successfully applied.</p>
+<p><hi>VACCINOTHERAPY AND SEROTHERAPY</hi></p>
+<p>The physician stationed in Bassam, which is a city particularly<lb/>
+exposed to epidemics, had already entered into personal correspondence<lb/>
+with Mr. Hideyo Noguchi of the Rockefeller Institute in 1921, and had<lb/>
+received from him early in 1922 a certain amount of anti-yellow-fever<lb/>
+serum and vaccine preserved in ice.</p>
+<p>At the very beginning of the epidemic a circular letter was<lb/>
+published informing the inhabitants that anyone who wished it would be<lb/>
+vaccinated in accord with the results published by the eminent Japanese<lb/>
+biologist.</p>
+<p>From August 18 to 24, 140 Europeans out of a population of about<lb/>
+200 were vaccinated with dead cultures of Leptospira icteroides from lot 15,<lb/>
+prepared on December 9, 1921. One hundred and thirty-one received two<lb/>
+injections of 2 cc. at an interval of 6 days, according to the author's<lb/>
+technique; 9 did not appear for the second injection.</p>
+<p>Practically all of the persons vaccinated presented the following<lb/>
+reaction on the evening of the day on which they had received the injection<lb/>
+between 8 and 10 A.M.; light fever with pain in the small of the back, more<lb/>
+or less marked rachialgia, typical picture of the &ldquo;coup de barre&rdquo;, consisting<lb/>
+of very severe pain in the lumbar region. The intensity of the rachialgia<lb/>
+was what kept 8 of the 9 that had the first injection only from returning<lb/>
+for the second. The ninth of these persons is mentioned in a special report<lb/>
+at the end of this one.</p>
+<p>Four of the persons vaccinated presented sterile abscesses, indicated<lb/>
+by Noguchi as being due to the presence of agar-agar in the culture medium,<lb/>
+after 15-20 days and appearing at the point of innoculation in spite of<lb/>
+<pb n="9" id="f00935009"/>
+systematic massage immediately after the penetration of the skin by<lb/>
+the vaccine. These abscesses were cured by simple cupping and left<lb/>
+no scars.</p>
+<p>At the same time serotherapy with Noguchi's serum, kept<lb/>
+at a temperature of minus 4 degrees Centigrade, was applied to all<lb/>
+the patients, in addition to the classical and purely symptomatic<lb/>
+treatment.</p>
+<p>The results of this serotherapy were as follows:</p>
+<p>Case 1.- The diagnosis of yellow fever was not absolute<lb/>
+until the appearance of the black vomit. The patient received immediately,<lb/>
+at 4:30 P.M., an intravenous injection of 60 cc. of serum. Death occurred<lb/>
+at 5:43 P.M. This injection was given in extromis, after the third day,<lb/>
+when it is said by Noguchi to be no longer of any value.</p>
+<p>Case 2.- The disease made its appearance in the evening<lb/>
+of August 18, with a very high fever. The patient said that he had<lb/>
+had a temperature of 39.9 degrees C. at the time. The case was not<lb/>
+reported until the next morning, when the patient was isolated in the<lb/>
+Ambulance hospital. Pain in the back, &ldquo;coup de barre&rdquo;, congestion of<lb/>
+the face, epigastralgia, scant urine with no albumen. Temperature of<lb/>
+39.4. Received 60 cc. of serum at 8:30 A.M. Decrease in temperature<lb/>
+and diuresis in the afternoon; cure.</p>
+<p>Case 3.- High fever during the night of the 17-18. Seen by the<lb/>
+physician on the 18th at 9 A.M. Temperature of 39.2, extreme pain in the<lb/>
+lumbar region, cramps in the legs, bilious vomit and internal epigastralgia,<lb/>
+albuminuria. Received 60 cc. of serum intravenously. The temperature<lb/>
+fell to 38.6 in the afternoon. Decrease in the vomiting, appearance of a<lb/>
+subicteric condition that persisted until August 24. Disappearance of the<lb/>
+albuminuria; defervescence; cure.</p>
+<pb n="10" id="f00935010"/>
+<p>Case 4.- Patient fell ill on August 15, but her husband did<lb/>
+not call a physician, as he thought that it was merely a fever due to<lb/>
+acclimatization. Isolated only in the evening of the 17th, actually later<lb/>
+than case 1., although the symptoms suggested a malarial attack. On the<lb/>
+19th the diagnosis became evident; slight uterine hemorrhages, epigastralgia,<lb/>
+bilious vomit, congestion of the face, <unclear>prostration</unclear>, subicterus, scant<lb/>
+urine with albumen. Was given as intravenous injection of 60 cc. of serum.<lb/>
+On the 20th the icterus was general and the prostration still more marked;<lb/>
+there were subcutaneous sanguineous effusions and the anuria was total.<lb/>
+A second intravenous injection of 60 cc. of serum was administered; a few<lb/>
+drops of very albuminous urine were expelled after the injection. Death<lb/>
+at 7.10 P.M. The serotherapeutic treatment was late and useless.</p>
+<p>Case 5.- The patient took to bed on the 21st about 10 A.M.<lb/>
+Was seen at once and sent to the Ambulance hospital to be isolated.<lb/>
+No pain in the lumbar region, but epigastralgia, bilious vomit, congestion<lb/>
+of the face. The temperature remained at from 39.2 to 39.6 during the<lb/>
+whole day of the 21st. The patient passed a restless night, with a tem-<lb/>
+perature of 39.8 at 7 A.M. on the 22nd. Received 60 cc. of serum less than<lb/>
+4 hours after the beginning of the disease. The vomiting continued and was<lb/>
+tinged with blood. Death at 1:45 P.M. The treatment was not totally un-<lb/>
+successful; autopsy was not performed on account of lack of time.</p>
+<p>One case must receive special mention, that of the ninth person<lb/>
+who had only one injection.</p>
+<p>Mr. B..., living at the Atlantic Hotel, and a neighbor of Mr. X...,<lb/>
+and Mr. Y..., received 2 cc. of vaccine on August 22, but did not appear for<lb/>
+the second injection on the 23rd. The proprietor of the Atlantic Hotel,<lb/>
+on being asked over the telephone as to why Mr. B... remained absent,<lb/>
+replied guardedly that Mr. B... was not well. The patient was seen at<lb/>
+10:30 A.M. He had had no reaction after the first injection, but on the<lb/>
+<pb n="11" id="f00935011"/>
+night of the 27-28 he had a fever and a back-ache. He did not take his<lb/>
+temperature at the time. When seen his temperature was 39.2. &ldquo;coup de barre&rdquo;,<lb/>
+cramps in the legs, congestion of the face that was in marked contrast to<lb/>
+his usual pallor, gums edged with white, a symptom that appeared only in<lb/>
+this case, vomiting, albuminuria. Was isolated in the Ambulance hospital,<lb/>
+and received an intravenous injection of 60 cc. of serum at 1 P.M.<lb/>
+The patient immediately presented an intense seric reaction, pruritus,<lb/>
+generalized erythrosis, very grave syncope. An intravenous injection<lb/>
+of 1 mg. of adrenaline caused the disappearance of the anaphylactic<lb/>
+phenomena. The fever and the disturbing symptoms disappeared during the<lb/>
+night.</p>
+<p><hi>EXPERIMENTAL FINDINGS</hi>.</p>
+<p>It is perfectly clear that the great number and urgency of<lb/>
+the activities to be carried on did not allow the physician of Bassam,<lb/>
+who is alone at this post, to make any consecutive microbiological exam-<lb/>
+inations, especially early in the epidemic, when everything had to be done<lb/>
+at once.</p>
+<p>It was however possible to obtain the following findings in the<lb/>
+case of Mr.</p>
+<p>Three cc. of blood was collected from the patient's vein with<lb/>
+a citrated seringe before the injection of serum.</p>
+<p>This citrated blood was immediately injected into the<lb/>
+cellular tissue of the shaved and disinfected abdominal wall of guinea pig<lb/>
+No. 1.</p>
+<p>This guinea pig was isolated under a mosquito net and died during<lb/>
+the night of September 4-5, 7 days after innoculation. The animal's temper-<lb/>
+ature curve showed a distinct hypothermia, 39.4 degrees, in the evening of<lb/>
+the 4th. The autopsy was made the next morning. The animal was very thin,<lb/>
+<pb n="12" id="f00935012"/>
+with no icterus of the skin or conjunctiva; but there was subicterus of<lb/>
+the muscles. Intense congestion of the lungs and kidneys, with small<lb/>
+hemorrhagic foci. The bladder contained 1 cc. of very albuminous urine.<lb/>
+The stomach contained food and revealed a mucous membrane with hemorrhagic<lb/>
+spots in the vicinity of the pylorus. The intestinal mucous membrane had<lb/>
+the same appearance at the level of the duodenum. The liver was very con-<lb/>
+gested but showed no degeneration.</p>
+<p>Sections of the liver and the kidney were aseptically removed<lb/>
+and placed in the oven at 32 degrees in Ringers solution. Smears of the<lb/>
+centrifuged cultures and fragments of the viscera preserved in formol<lb/>
+have been sent to the Rockefeller Institute.</p>
+<p>The examination made in Bassam under poor conditions, the<lb/>
+ultra-microscope being badly lighted on account of the lack of a light<lb/>
+condenser, did not reveal the presence of Leptospira icteroides.</p>
+<p><hi>CONCLUSIONS.</hi></p>
+<p>Since the end of this epidemic no cases of yellow fever, or<lb/>
+resembling yellow fever, has been found in Bassam, either among the<lb/>
+natives or the Europeans.</p>
+<p>There is therefore no question of the revival of an endemicity<lb/>
+the continuity of which would have been preserved by the natives.</p>
+<p>It is at present possible to affirm that the importation<lb/>
+of an original case of yellow fever, probably from the Gold Coast,<lb/>
+created a small accidental epidemic focus that was quickly extinguished.</p>
+<p>Grand-Bassam, October 25, 1923.</p>
+<p>Physician-major</p>
+<p>(Signed) Dr. Bauvallet, of the 2nd class, physician of the post of Bassam.<lb/>
+Dr. Houillon, Chief Physician of the 1st class of the T.C.,<lb/>
+Head of the Health Service of the Ivory Coast.</p>
+<p>(True copy.)</p>
+<p>good</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N0371003">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, Baltimore Sun, September 27, 1900</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N0371003</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1900-09-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Osler, William</name>
+<name type="person">Lazear, William L.</name>
+<name type="person">Houston, Mabel</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Johns Hopkins University, Baltimore (Md.)</name>
+<name type="place">College of Physicians and Surgeons, New York (N.Y.)</name>
+<name type="place">Berlin (Germany)</name>
+<name type="hospital">Johns Hopkins Hospital</name>
+<name type="hospital">Bellevue Hospital</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1900-09-27">September 27, 1900</date>
+<idno rend="suppress">N0371003</idno>
+<title>Newspaper clipping, Baltimore Sun, September 27, 1900</title>
+</bibl>
+</head>
+<p>Dr. J.W. Lazear Is Dead</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-09-27">
+<head>Newspaper clipping, Baltimore Sun, September 27, 1900</head>
+<pb n="1" id="fN0371003"/>
+<p><unclear>BALTIMORE, THURSDAY</unclear></p>
+<p>___________________________________________</p>
+<p>DR. J. W. LAZEAR IS DEAD</p>
+<p>-----------</p>
+<p>Baltimorean Falls A Victim Of Yel-<lb/>
+low Fever In Havana.</p>
+<p>News was received yesterday at the Johns<lb/>
+Hopkins Hospital from Surgeon-General<lb/>
+Sternberg of the death Tuesday night at<lb/>
+Havana, Cuba, from yellow fever of Dr.<lb/>
+Jesse W. Lazear, formerly on Prof. Wil-<lb/>
+liam Osler's staff at the Johns Hopkins<lb/>
+Hospital, and one of the demonstrators of<lb/>
+clinical microscopy. He had given up his<lb/>
+position at the hospital in the spring to<lb/>
+undertake special work in the army in<lb/>
+Cuba, particularly in connection with the<lb/>
+problems relating to malaria and yellow<lb/>
+fever. He had charge of a laboratory in<lb/>
+one of the military hospitals in the neigh-<lb/>
+borhood of Havana.</p>
+<p>Dr. Lazear was born in Baltimore in<lb/>
+1866. He was the son of William L. La-<lb/>
+zear, formerly a merchant in Exchange<lb/>
+Place, Baltimore, and grandson of Gen.<lb/>
+Jesse W. Lazear, a member of Congress<lb/>
+from Pennsylvania from 1864 to 1868, and<lb/>
+who subsequently purchased Windsor, in<lb/>
+the western suburbs of Baltimore, and<lb/>
+lived there until his death in 1877.</p>
+<p>Dr. Lazear graduated from the Johns<lb/>
+Hopkins University in 1889 and from the<lb/>
+College of Physicians and Surgeons in New<lb/>
+York in 1892. After two years' work in<lb/>
+Bellevue Hospital he went to Berlin to<lb/>
+make a special study of bacteria. In 1895<lb/>
+he became one of the house physicians at<lb/>
+the Johns Hopkins Hospital and continued<lb/>
+the study of germ diseases.</p>
+<p>Professor Osler says Dr. Lazear's death<lb/>
+is a very serious loss, as he was an ex-<lb/>
+ceptionally well-trained man and had al-<lb/>
+ready made some valuable studies on the<lb/>
+malarial parasites.</p>
+<p>In 1895 Dr. Lazear <unclear>married</unclear> Miss Mabel<lb/>
+Houston, of California, whom he had met<lb/>
+abroad, and took up his residence in Park<lb/>
+avenue, Baltimore, and entered general<lb/>
+practice. Mrs. Lazear survives her hus-<lb/>
+band with two children--a son 2 years<lb/>
+old and a daughter 2 months old. They<lb/>
+are at present in Massachusetts, having<lb/>
+returned from Cuba in May. Dr. Lazear<lb/>
+was a member of the Phi Kappa Sigma<lb/>
+Fraternity of the Johns Hopkins Univer-<lb/>
+sity.</p>
+<p>------</p>
+</div1>
+</body>
+</text>
+</TEI.2>

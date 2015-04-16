@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03638026">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Text of Speech: Dr. Jesse Lazear and his Contribution to the Conquest of Yellow Fever, by Philip Showalter Hench, October 26, 1940</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03638026</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1940-10-26</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Sawyer, Wilbur A.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Edmunds, Major</name>
+<name type="person">Edmunds, Mrs.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Finlay, Carlos F.</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Benigno, Antonio</name>
+<name type="person">Presedo, Becente</name>
+<name type="person">Fernandez, Nicanor</name>
+<name type="person">Martinez, Jose</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Olsen, William</name>
+<name type="person">Hutchison, Ralph Cooper</name>
+<name type="person">Hench, Mary</name>
+<name type="person">Finlay, Carlos E.</name>
+<name type="person">Albertini, A. Diaz</name>
+<name type="person">Angles, Eduardo</name>
+<name type="person">Leon, Estela Agramonte Rodriguez</name>
+<name type="person">Ramos, Domingo F.</name>
+<name type="person">Pogolotti, Luis B.</name>
+<name type="person">Neate, John S.</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Marianao (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Washington and Jefferson College, Washington (Pa.)</name>
+<name type="place">Dean Memorial Bridge, Grand Rapids (Mich.)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">San Jose farm, Marianao (Cuba)</name>
+<name type="place">Panama</name>
+<name type="hospital">Las Animas Hospital, Havana (Cuba)</name>
+<name type="hospital">Military Hospital No. 1 (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>18 pp.</extent>
+<date value="1940-10-26">October 26, 1940</date>
+<idno rend="suppress">03638026</idno>
+<title>Text of Speech: Dr. Jesse Lazear and his Contribution to the Conquest of Yellow Fever, by Philip Showalter Hench, October 26, 1940</title>
+</bibl>
+</head>
+<p>This is the text of Hench's speech, which was given at the dedication of the Lazear Memorial Building at Washington and Jefferson College.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1940-10-26">
+<head>Text of Speech: Dr. Jesse Lazear and his Contribution to the Conquest of Yellow Fever, by Philip Showalter Hench, October 26, 1940</head>
+<pb n="1" id="f03638026"/>
+<p>Full version of the first 11 pages (but pp 6-13 of abstract<lb/>
+<hi>not</hi> included here)<lb/>
+sent on for background notes</p>
+<p>DR. JESSE W. LAZEAR AND HIS CONTRIBUTION TO THE CONQUEST OF YELLOW FEVER.</p>
+<p>__________________________________________________</p>
+<p>An address by Dr. Philip S. Hench at the Founders' Day Banquet held in connection<lb/>
+with the dedication of the Lazear Memorial Building at Washington and Jefferson<lb/>
+College, Washington, Pa., October 26, 1940.</p>
+<p><del>Coll</del></p>
+<p>(Introductory remarks, informal, concluding with the following:)</p>
+<p>I am indeed proud to be an honorary alumnus of this college and to salute,<lb/>
+for the Mayo Clinic, the institution where Dr. Jesse W. Lazear began that mental<lb/>
+training which ended so <add>prematurely but so</add> brilliantly, 13 years later and a thousand miles away<lb/>
+on the island of Cuba. You heard much of that story last night, and this morning<lb/>
+Dr. Sawyer told us of its aftermath. Despite this I <del>propose</del><add>have been asked</add> to tell some of it<lb/>
+again tonight because fortunately I am permitted to tell you some details which<lb/>
+have never been made public before and which I know will please you and I think will<lb/>
+thrill you.</p>
+<p>At 9:40 at night on February 15, 1898 an explosion was heard around the<lb/>
+whole world, the U.S.S. Main<add>e</add> was blowing up in Havana harbor. Ten days later the<lb/>
+United States declared war on Spain and after 6 months of war an armistice was<lb/>
+signed on August 12. The Spaniards were defeated and Cuba was free. But the greatest<lb/>
+victory of the Spanish-American war was not the defeat of the Spaniards, not even<lb/>
+the freeing of the Cuban people; it was to be the conquest of yellow fever, a con-<lb/>
+quest whose benefits were to be for all mankind and not just for the victorius<lb/>
+American soldiers.</p>
+<p>On transports and troopships these soldiers came home like conquering heroes,<lb/>
+but on laggard hospital ships came home other soldiers not so victorious, soldiers<lb/>
+whose bodies were weakened by fever, and others in coffins, soldiers who had met<lb/>
+death at the hands of an enemy more potent than any Spaniard. For typhoid and yellow<lb/>
+fever had killed more soldiers than had the bullets of the enemy.</p>
+<p>&ldquo;We'll stop that&rdquo;, said the American government, and with its army of<lb/>
+occupation it sent Major William Gorgas, a physician, to be chief sanitary officer<lb/>
+<pb n="2" id="f03638027"/>
+Hench--2--ds<lb/>
+of Havana. His job was to wipe out disease especially Yellow Jack which had been<lb/>
+endemic in Havana for over 200 years. Through the spring and summer of 1899 streets<lb/>
+and premises of Havana were vigorously cleaned, garbage and sewage were more properly<lb/>
+cared for. And down went the count of yellow fever victims. But not for long. In<lb/>
+the fall it broke out again, first among the American troops in Santiago and next<lb/>
+among those garrisoned in and around Havana. There were many deaths among soldiers<lb/>
+and civilians. But during the last week of October, 1899 a storm, the first &ldquo;norther&rdquo;<lb/>
+of the year, was severe enough to stop the passage even of the mail boats, and strangely<lb/>
+enough the epidemic of yellow fever was carried off on the strong wings of this storm.</p>
+<p>The disappearance of the epidemic brought comfort to many, but perhaps most<lb/>
+of all to Major Gorgas who was responsible for the health of the soldiers and civilians<lb/>
+in the city of Havana, and to Major Jefferson R. Kean who, as chief surgeon for the<lb/>
+division of Havana was responsible for the health of those in the surrounding districts,<lb/>
+but especially of the American soldiers at Columbia Barracks on the outskirts of<lb/>
+Havana in the little suburban town of Quemados de Marianao which is just a mile back<lb/>
+of the famous bathing beach, La Plaza, probably known to many of you. As the spring<lb/>
+months went by with less than the usual number of cases of the fever it seemed that<lb/>
+perhaps their vigorous sanitary methods had been successful and that yellow fever was<lb/>
+being literally scrubbed away.</p>
+<p>But on the night of May 27, 1900 a worried man went to his rooms on<lb/>
+<del>General Lee</del><add>Real</add> Street and sat down to write in his diary. It was Major Kean and this<lb/>
+is what he wrote: six days ago I was called to see a member of the 7th Cavalry train<lb/>
+and his wife who were sick at No. 20 General Lee Street (just a few houses away). It<lb/>
+was yellow fever. The next day Sargent Sherwood developed it and last night an<lb/>
+infantryman got it. "These cases have had no special connection with each other<lb/>
+and the origin of the disease is so far a mystery.</p>
+<p>Let us follow events as the diary of the Major unfolds them to us.<lb/>
+Tuesday, May 29: Gorgas came to see our yellow fever cases.....June 4: Your<lb/>
+new cases today, one being my orderly, Tester, who is very sick. June 6: Three<lb/>
+<pb n="3" id="f03638028"/>
+Hench--3--ds<lb/>
+new cases... Then the diary was ominously silent for a few days simply because its<lb/>
+physician owner was too busy to write in it. After that the diary revealed a long<lb/>
+list of names - names of soldiers and civilians, of fellow officers and their wives,<lb/>
+all living on the neighboring streets of Quemados, and all victims of yellow fever.<lb/>
+Reading between the rows of curt sentences in the diary we can almost re-live the grim<lb/>
+tragedy even now after 40 years.</p>
+<p>June 17: Poor Major E. is very low today - black vomit this morning and<lb/>
+again this afternoon. June 19: Major E. died at 12:38 yesterday afternoon and we<lb/>
+laid him away 6 hours later. Only the staff attended, all mounted. His wife has<lb/>
+yellow fever too and &ldquo;does not yet know of his death.&rdquo; A soldier dead and buried<lb/>
+within 6 hours, buried with military honors, yes, but with a haste all too revealing.</p>
+<p>Two days later the weary Major wrote this in his diary: &ldquo;10 A.M. June 21,<lb/>
+I am feeling wretched, temperature 101, pulse 100. Think I have yellow fever.....&rdquo;<lb/>
+And so it was. Physician, heal thyself, but how? How could this be stopped? Could<lb/>
+anyone lick yellow jack, <del><unclear><lb/>
+</unclear></del> Remember the date, it was June 21, 1900. Just four<lb/>
+days later on June 25 another army physician arrived in Havana, rushed to the bedside<lb/>
+of his friend, Major Kean, and in him saw his first living case of yellow fever. Later<lb/>
+that day this man, Major Walter Reed, met with three others on the veranda of the<lb/>
+officer's quarters at Columbia Barracks Post Hospital. The three tothers were Drs.<lb/>
+James Carroll, Aristides Agramonte and Jesse W. Lazear, and the four men thus ended<lb/>
+their first day's work as the members of the United States Army Special Yellow Fever<lb/>
+Board.</p>
+<p>There was plenty of material to work on. There were the patients in the<lb/>
+yellow fever wards of Las Animas Hospital to question and take cultures from; there<lb/>
+were also the dead in the morgue at Military Hospital No. 1 to examine and probe<lb/>
+for the mysterious cause of yellow fever. What was the cause anyhow? According to<lb/>
+some the cause was a miasma, a poisonous vapor arising from the tropic marshes and<lb/>
+<pb n="4" id="f03638029"/>
+Hench--4--ds<lb/>
+wafted abroad on its errand of destruction. Others, like the Italian scientist,<lb/>
+Sanarelli, said it was caused by a germ. This idea made more sense than the &ldquo;poisonous <unclear>a</unclear><lb/>
+air business&rdquo; and was certainly less ridiculous than the idea of Dr. Carlos Finlay<lb/>
+the kindly, old but slight &ldquo;touched&rdquo; Havana physician who had been trying to tell<lb/>
+everybody for 20 years that yellow fever was caused by mosquitos, of all things, and<lb/>
+by the common house mosquito at that - the culex fasciatus. The army commissioners<lb/>
+knew of these theories, but there was no sense wasting time on <unclear>miasma</unclear>, and as for<lb/>
+mosquitos hadn't Finlay inoculated over 100 volunteers without producing a single<lb/>
+undoubted case of yellow fever? Why, his own results proved how wrong he was. To<lb/>
+be sure, sixteen of his subjects had later gotten a little fever and albuminuria<lb/>
+but that wasn't enough to indicate frank yellow fever and anyhow even if they had had<lb/>
+yellow fever, they'd probably gotten it like everyone else did--somewhere about town.<lb/>
+No, the thing to do was to track down the germ responsible for the disease.</p>
+<p>Such was the plan adopted by the four Board members as they sat on the<lb/>
+officers' porch at Columbia Barracks Post Hospital planning their campaign of attack.<lb/>
+And, so far as we know, the plan seemed sound, at least to three of them. But the<lb/>
+fourth member, Dr. Lazear, may have had some private doubts. Was the mosquito theory<lb/>
+so crazy after all? After finishing his education at Washington and Jefferson, at<lb/>
+Johns Hopkins and Columbia Universities and at the <unclear>Hellevue</unclear> Hospital he studied<lb/>
+bacteriology in Europe where he learned much about the role of mosquitos in malaria which<lb/>
+had been demonstrated just 3 years before by Sir Ronald Ross. Returning to the<lb/>
+United States he had confirmed the work of Ross and therefore had a healthy respect<lb/>
+for the mosquito as a breeder of disease. Perhaps the mosquito did cause yellow<lb/>
+fever. But whatever his thoughts he subordinated them to those of the board as a<lb/>
+whole and joined them in their search for a germ. [These innuendos re Lazear's<lb/>
+earliest suspicious are based on some very interesting remarks by Mrs. Lazear in a<lb/>
+letter to me, which remarks were in turn based on statements in the early letters<lb/>
+which Dr. Lazear sent his wife. Mrs. Lazear's remarks are inconclusive and I must<lb/>
+fortify them by examining Lazear's original letters.]</p>
+<p>see<lb/>
+p 4<lb/>
+of<lb/>
+short<lb/>
+<unclear>mos.</unclear></p>
+<pb n="5" id="f03638030"/>
+<p>Hench--5--ds</p>
+<p>But the search for a germ soon ended in failure: none of the bodies of<lb/>
+the victims either before or after death consistently contained Sanarelli's or any<lb/>
+other responsible germ. How then did the disease spread from person to person? Major<lb/>
+Kean's careful records had shown that several weeks before, yellow fever had first<lb/>
+struck down the occupants of #20 General Lee Street. Persons in the contiguous houses<lb/>
+remained well but a few days later the disease struck at a house around the corner<lb/>
+(#102 Real St.) affecting people who had had no possible contact with the earlier<lb/>
+victims. Why had the agent of the disease thus hopped and skipped its way so<lb/>
+erratically down the street?</p>
+<p>In July, 1900 an epidemic of supposed &ldquo;malaria&rdquo; broke out among the Ameri-<lb/>
+can troops at Pinar del Rio barracks about 100 miles from Havana. On July 19 Agra-<lb/>
+<unclear>monte</unclear> went to investigate it, decided it was yellow fever, and sent for Reed. They<lb/>
+noted a curious thing. One of the victims was a soldier confined in a jail cell with<lb/>
+other soldiers who remained well. Having had no possible contact with the victims<lb/>
+outside of jail, how had he gotten the disease - not from his well comrades certainly,<lb/>
+and not through the walls. But there was the unscreened cell window--could a winged<lb/>
+agent have entered that way, bitten just one victim and flown away to leave the others<lb/>
+unharmed?</p>
+<p>Pondering these things when they met again on August first, the board<lb/>
+members agreed that the mosquito notion might make sense after all. Thus the search<lb/>
+for a germ was abandoned; the mosquito theory was to be seriously investigated. Since<lb/>
+no animal was then known to be susceptible to yellow fever the necessity for human<lb/>
+experiments was recognized at once and the board members agreed that they would each<lb/>
+voluntarily be bitten by mosquitos which were allowed to feed on the blood of<lb/>
+yellow fever victims. The Board called in Dr. Finlay who showed them larvae of the<lb/>
+suspected mosquitos and eagerly gave them some of these larvae and his reprints. How<lb/>
+delighted the courtly old gentleman must have been: for now for the first time in<lb/>
+20 years he, Finlay, was no longer a prophet crying in the wilderness. Now at last<lb/>
+had come scientists, open-minded enough to listen to his contentions and serious<lb/>
+<pb n="6" id="f03638031"/>
+Hench--6--ds<lb/>
+enough to try to prove them. It naturally fell to the lot of Lazear, eminently<lb/>
+qualified by his previous work with malarial mosquitos, to raise the appropriate larvae,<lb/>
+care for the hatched mosquitos and then, if possible, to get them &ldquo;infected&rdquo;. Lazear<lb/>
+accomplished the latter by taking the mosquitos from his laboratory at the Post<lb/>
+Hospital over to the yellow fever wards of Las Animas Hospital and letting them feed<lb/>
+off the blood of the sick patients. They were then to be carried back to his laboratory<lb/>
+and allowed to bite whatever Board member would volunteer for the experiment.</p>
+<p>While Lazear was carrying out these preliminary tasks with mosquitos<lb/>
+and Carroll and Agramonte were continuing, respectively, their bacteriologic and<lb/>
+pathologic studies, Reed had to absent himself, having been called to Washington to<lb/>
+finish an important report of research on typhoid fever which he and others had<lb/>
+done the previous year. During Reed's absence Lazear began the human experiments,<lb/>
+and between Aug. 11 and 25, he applied mosquitos, which he hoped were &ldquo;infected&rdquo;<lb/>
+to nine American soldiers including himself and Drs. Carroll and Pinto. But nothing<lb/>
+happened, and according to Agramonte, Lazear's colleagues became somewhat discouraged<lb/>
+with the mosquito theory. But Lazear remained optimistic and kept breeding and<lb/>
+infecting his mosquitos.</p>
+<p>We now know why these preliminary experiments failed. The virus of yellow<lb/>
+fever circulates in the peripheral blood of the yellow fever patient only during the<lb/>
+first three days of his illness. A mosquito cannot become infected unless it bites<lb/>
+a patient during these first three days. The virus then undergoes some anatomic<lb/>
+or developmental change within the body of the mosquito -- this takes 12 or more<lb/>
+days. So even an &ldquo;infected mosquito&rdquo; is harmless for the first 12 days after it<lb/>
+has bitten a yellow fever patient. But after 12 days or so, the virus has &ldquo;ripened&rdquo;<lb/>
+and if the mosquito (now not only &ldquo;infected&rdquo; or &ldquo;loaded&rdquo; but also &ldquo;ripe&rdquo;) bites a<lb/>
+person thereafter that person will develop yellow fever within 2 to 12 days.</p>
+<pb n="7" id="f03638032"/>
+<p>Hench--7--ds</p>
+<p>On August 27, Dr. Carroll, now more with the idea of disproving than of<lb/>
+proving the mosquito notion, allowed himself to be bitten by one of Lazear's mosquitos,<lb/>
+but this time it was not only &ldquo;loaded&rdquo; (i.e. &ldquo;infected&rdquo;) but also &ldquo;ripe&rdquo;, and on<lb/>
+Aug. 30 Dr. Carroll became sick. He thought he had malaria but the next day Lazear<lb/>
+and Agramonte recognized it as yellow fever and sent the rather surprised hero to the<lb/>
+yellow fever wards set up in tents across the railroad track from the main grounds<lb/>
+of Columbia Barracks. Lazear and Agramonte excitedly discussed the sudden turn of<lb/>
+events, and Lazear determined to find himself another volunteer that very day. Reed<lb/>
+was still in Washington and Agramonte wouldn't do, as he was probably an immune as<lb/>
+most Cubans were who had lived there for years. Should Lazear infect himself? Fate<lb/>
+decided the matter right then and there, fate in the person of Private William Dean<lb/>
+who was convalescing from a minor illness at the Barracks Hospital and whom Lazear<lb/>
+happened to meet. Would Private Dean allow himself to be bitten? Of course he would.<lb/>
+To be bitten by a little &ldquo;mosquito&rdquo;--what possible danger was there in that; this<lb/>
+notion that &ldquo;gnats&rdquo; caused yellow jack sounded pretty far fetched to him. But as<lb/>
+Private Dean accepted the mosquito's bite he performed the act which was to make him<lb/>
+<unclear>&ldquo;</unclear>Surprised Hero Number 2,&rdquo; an act which was to list his name among the minor immortals<lb/>
+and to earn for him a Congressional Medal, an annuity for life and a big memorial<lb/>
+bridge in Grand Rapids, Michigan--the Fulton Street or &ldquo;Dean Memorial Bridge&rdquo;. Six<lb/>
+days later (Sept. 6) he had yellow fever. Agramonte and Lazear were both pleased and<lb/>
+worried--pleased that their experiments seemed to be getting somewhere at last, but<lb/>
+worried because up to that time the board had no specific authorization to carry on<lb/>
+human experiments with soldiers. In this dilemna they cabled the results to Reed,<lb/>
+and in his little note book Lazear wrote up the case of Private Dean as simply &ldquo;the<lb/>
+case of XY.&rdquo;</p>
+<p>For reasons which are not quite clear the human experiments were temporarily<lb/>
+suspended; in all likelihood Reed, the senior member of the Board, suggested that they<lb/>
+await his impending return from Washington.</p>
+<pb n="8" id="f03638033"/>
+<p>Hench--8--ds</p>
+<p>At any rate, during the next week Agramonte continued his pathological<lb/>
+studies at the Division Laboratory at Military Hospital Number One, Carroll was still<lb/>
+convalescing, and Lazear continued to care for his mosquitos and infect them with the<lb/>
+blood of patients at Las Animas Hospital. Did this relative inactivity make Lazear<lb/>
+restless and anxious to do promptly something more positive and decisive? I shall<lb/>
+discuss this later. The official version of what happened during the next few days<lb/>
+follows:</p>
+<p>On Aug. 16 Dr. Lazear began to be sick. <del>He missed several meals but con-<lb/>
+fided in none of his colleagues, asked for no medical advice and kept hard at work</del>.<lb/>
+On the afternoon of the 18th he was too ill to continue and was seen by Dr. Ames<lb/>
+who made a diagnosis of yellow fever, the diagnosis being supported that evening by<lb/>
+Lt. Truby, the post surgeon at Columbia Barracks, and by Dr. Pinto, his associate.<lb/>
+The next day he was transferred to the little yellow fever tent hospital across the<lb/>
+railroad track that ran to La Plaza. While there he was visited by Dr. Carroll,<lb/>
+now for the first time up and about, and on another occasion by Dr. Gorgas. According<lb/>
+to both of these men Lazear told them that a few days before (presumably on Sept. 13)<lb/>
+while feeding his mosquitos on patients in the yellow fever ward at Las Animas<lb/>
+Hospital a stray mosquito had alighted on his hand; preoccupied with his job Lazear<lb/>
+allowed it to take its fill. &ldquo;So little importance did he attach to the incident<lb/>
+that he made no note of it&rdquo; and only related it after he was taken ill. From the<lb/>
+first Lazear was very ill and died on the evening of September 25, 1900, officially<lb/>
+listed as a victim of &ldquo;accidental yellow fever&rdquo; but none the less a true martyr<lb/>
+to science.</p>
+<p>Reed was much distressed and hastened back to Havana, to review carefully<lb/>
+what had been accomplished by the Board up to that time. It now seemed certain that<lb/>
+Finlay's theory was correct but the evidence so far obtained was unfortunately <hi>not</hi><lb/>
+unimpeachable. The case of Lazear was very suggestive but Lazear didn't even catch<lb/>
+or identify the mosquito which bit him. Carroll had been deliberately bitten but<lb/>
+he had not been quarantined and might have gotten his disease somewhere else. The<lb/>
+<pb n="9" id="f03638034"/>
+Hench--9--ds<lb/>
+case of Private Dean seemed foolproof. Being in the hospital he had not been near<lb/>
+any yellow fever patients, yet he had promptly developed the disease after the experi-<lb/>
+mental mosquito bite. But one case wouldn't prove the hypothesis to a skeptical<lb/>
+world. It was necessary to devise some experiments which would prove the theory<lb/>
+beyond all doubt and those which Reed now determined upon were clever, almost<lb/>
+diabolically clever, yet they were so &ldquo;simple, accurate and complete&rdquo; that the age-<lb/>
+long problem was solved within the next few weeks.</p>
+<p>At the suggestion of Major Kean Reed asked Gen. Leonard Wood, governor<lb/>
+General of Cuba, for money with which to set up an experimental camp and to pay what<lb/>
+American and Spanish volunteers might be secured. Fortunately, Wood was a physician,<lb/>
+and seeing at once the importance of the work he promptly gave Reed the necessary<lb/>
+money which Major Kean thereafter disbursed. Throughout the experiments these two<lb/>
+men, Gen. Wood and Major Kean, gave Reed most important executive support. (It is to<lb/>
+be regretted that Major, now General, Kean who was invited to be with us tonight<lb/>
+could not leave his home in Washington, D. C.) It was arranged that each volunteer<lb/>
+was to receive $100.00 for an unsuccessful experiment, $200.00 if he got the disease.<lb/>
+Yellow fever was being given away free with premiums of $200.00! The victims could<lb/>
+spend the $200.00 any way they wanted to - that is <hi>if</hi> they survived. And the <hi>if</hi> was<lb/>
+a rather big one for the mortality rate of epidemic yellow fever was about 40%.</p>
+<p>But before any paid volunteers were secured two crazy American soldiers<lb/>
+visited Major Reed and volunteered only on condition that they be allowed to do so<lb/>
+without pay and solely in the interest of medical science and humanity. These two<lb/>
+crazy Americans are our honored guests tonight. Legend has it that Major Reed, <unclear>prodoundly</unclear><lb/>
+impressed by their notion, rose and said, &ldquo;Gentlemen, I salute you!&rdquo; Unfortunately<lb/>
+for the legend both Mr. Kissinger and Mr. Moran have told me that this is not true,<lb/>
+the salute was not given nor the remark made. Reed was properly grateful but his<lb/>
+thoughts, <del><unclear></unclear></del> were doubtless leaping way beyond the actions<lb/>
+of the moment. But as Dr. Howard Kelly, the great Baltimore surgeon and biographer<lb/>
+of Reed, has written me: &ldquo;If Reed didn't salute them he should have.&rdquo; Mr. Kissinger<lb/>
+<pb n="10" id="f03638035"/>
+Hench--10--ds<lb/>
+and Mr. Moran, I am sure this audience shares those sentiments. Others quickly volun-<lb/>
+teered - American soldiers and Spanish immigrants - partly for the money, partly to get<lb/>
+the &ldquo;inevitable&rdquo; yellow fever over with under ideal conditions, but partly, I have no<lb/>
+doubt, to participate in high adventure. Although their motives were mixed, history<lb/>
+calls them all servants of humanity.</p>
+<p>Enough volunteers having been secured the special experimental camp was<lb/>
+established (Nov. 20) and named &ldquo;Camp Lazear&rdquo; in honor of their martyred comrade. The<lb/>
+camp was set up about one mile from Columbia Barracks in a fairly high open field, on<lb/>
+the San Jose Farm of Dr. Ignacio Rojas. There a few tents and two small specially<lb/>
+constructed buildings were erected. &ldquo;Building Number One&rdquo; (The Infected Clothing<lb/>
+Building) contained just one room, 14 x 20 feet in size. In this small room were<lb/>
+placed 3 beds and a stove to maintain a high tropical temperature, also mattresses,<lb/>
+pillows, underwear, pajamas, towels, sheets, blankets, etc., all soiled with the blood<lb/>
+and discharged from dying yellow fever patients. Into this room went Dr. Robert P.<lb/>
+Cooke, U.S. Army, and two volunteers, Privates Folk and Jernegan, to live and sleep<lb/>
+amidst foul, repulsive and possibly death-dealing surroundings for 21 nights. Remember<lb/>
+that it was still the general belief that persons could get the disease through contact<lb/>
+with the &ldquo;infected property&rdquo; of yellow fever victims. The matter was not yet settled<lb/>
+and had to be decided. These volunteers therefore truly faced death even though their<lb/>
+efforts proved that that notion was wrong. The conditions within their room were so<lb/>
+foul that shortly after their first entrance they rushed out into the fresh air; &ldquo;one<lb/>
+was so upset that his stomach rebelled; yet after a few minutes, with a courage and<lb/>
+determination worthy only of such a cause, they went back into the building and passed<lb/>
+a more or less sleepless night, in the midst of indescribable filth and overwhelming<lb/>
+stench.&rdquo; But none of them developed the disease, nor did any of the other volunteers<lb/>
+who later occupied the room (Privates Hanberry, Weatherwalk, Hildebrand and England).</p>
+<p>Meanwhile other experiments were proceeding. Private Kissinger and two<lb/>
+Spaniards (Benigno and Presedo) were bitten with infected mosquitos on two occasions<lb/>
+but nothing happened. The experimenters still hadn't discovered the proper &ldquo;timing&rdquo;<lb/>
+<pb n="11" id="f03638036"/>
+Hench--11--ds<lb/>
+necessary to infect a mosquito, ripen it and apply it successfully to the volunteers.<lb/>
+A third time they were bitten and now at last the harvest began to ripen with a<lb/>
+vengeance. On December 5, Mr. Kissinger developed the first case of <hi>deliberately<lb/>
+accepted controlled</hi> experimental yellow fever in history. Others rapidly developed<lb/>
+the experimental disease some after being bitten by infected mosquitos (Benigno,<lb/>
+Fernandez, Presedo, Martinez, and Privates Folk, West, Hanberry and Sountag), others<lb/>
+after receiving intravenous injections of blood from yellow fever victims (Privates<lb/>
+Jernegan, Olsen, Forbes and Andrus).</p>
+<p>In the meantime another choice little experiment, an extra special and<lb/>
+crucial one, was being cooked up for Mr. Moran who had survived two previous<lb/>
+unsuccessful experiments involving &ldquo;infected&rdquo; mosquitos which were apparently not yet<lb/>
+
+&ldquo;ripe&rdquo; enough. On Dec. 21 he entered one side of the small &ldquo;Building Number 2&rdquo;<lb/>
+(Infected Mosquito Bldg.") and exposed his body to the bites of 15 infected mosquitos<lb/>
+set free on his side of a screen partition separating him from two other volunteers<lb/>
+safe from mosquito bites. The little drama was repeated 3 times and on Christmas<lb/>
+day Mr. Moran developed yellow fever whereas those on the other side of the screen<lb/>
+did not. Thus it was proven that mosquitos and mosquitos alone could cause the disease.<lb/>
+Certainly his yellow fever was a glorious Christmas present to the Yellow Fever Board<lb/>
+and to all the world.</p>
+<p>Having solved their problem the Board disbanded camp (Mar. 1, 1901). So<lb/>
+successful was the devoted medical care given the volunteers by Dr. Ames, Truby and<lb/>
+their associates that not one died of his experimental illness. Now armed with precise<lb/>
+knowledge Gorgas within 3 months freed Havana of its age old scourge and later made<lb/>
+safe the Isthmus of Panama for the construction of the Panama Canal and the safe passage<lb/>
+of the commerce of the world.</p>
+<pb n="12" id="f03638037"/>
+<p>Hench--12--ds</p>
+<p>This story has fascinated me ever since I first heard it in medical school<lb/>
+and when Dr. Hutchison, preparing for this ceremony, suggested that I get in touch with<lb/>
+some of the participants, I hastened to do so. Having visited Mr. Kissinger and corre-<lb/>
+sponded with other survivors, I decided to visit Mr. Moran in Havana this spring to<lb/>
+clarify certain hazy details and contradictions in the official record and to visit the<lb/>
+site of Camp Lazear. Of the many interesting things that happened I will mention only<lb/>
+a few. Mr. Moran, Mrs. Hench and I visited the site of Columbia Barracks where the<lb/>
+Military City now is, also the site of Military Hospital Number One, now occupied by the<lb/>
+General Calixto Garcia (University) Hospital. We visited the small ward in Las Animas<lb/>
+Hospital where Lazear is said to have been bitten by the stray mosquito; the room has<lb/>
+been marked by a memorial sign. It was a great pleasure to meet Dr. Finlay's son and Dr.<lb/>
+Agramonte's daughter, also many of the staff of the Finlay Institute, among them, Drs.<lb/>
+Albertini and Angles, members of the old Havana Yellow Fever Commission which cooperated<lb/>
+with the American Yellow Fever Board in the matter of the clinical diagnosis of the<lb/>
+spontaneous and experimental cases.</p>
+<p>We also visited the spot which local tradition has, for at least 30 years,<lb/>
+identified as the site of Camp Lazear and which the Cuban government has purchased and<lb/>
+memorialized by a fence and sign. The Secretary for National Defense, His Excellency<lb/>
+Dr. Domingo Ramos informed me that the Cuban government hopes to erect here a memorial<lb/>
+to the American Commission, represented by the name of Lazear, to take the form of<lb/>
+an Institute for Rural Hygiene and to include also a reproduction of Camp Lazear. Such<lb/>
+a gracious gesture would indeed be appreciated by the American public and medical<lb/>
+profession, which in turn would do well to be better informed of the tremendous im-<lb/>
+portance of the pioneering contributions of Dr. Finlay.</p>
+<p>But unfortunately for my peace of mind I noted an old railroad track 65<lb/>
+feet from the supposed former site of one of Reed's experimental buildings. The presence<lb/>
+of this railroad track clashed sharply with my conception of &ldquo;the secluded spot far<lb/>
+from any habitation&rdquo; chosen by Reed for carefully controlled experiments. The doubts<lb/>
+which arose promptly in my mind were shared by Mr. Moran and when after investigation<lb/>
+from Mr. Royal S. Webster, Chief Engineer of the Havana Railroad, that the track was<lb/>
+over 60 years<lb/>
+<unclear></unclear> years old <unclear>we</unclear> quickly concluded that an unfortunate historical error had been<lb/>
+<pb n="13" id="f03638038"/>
+Hench--13--ds<lb/>
+perpetuated all these years. My restful vacation ruined, the next 10 days were among<lb/>
+the busiest in my life as Mr. Moran and I, with the generous assistance of Mr. Luis<lb/>
+B. Pogolotti, a Cuban engineer and real estate man, traced the sources of the error.<lb/>
+The location marked is not the site of Camp Lazear but approximately that of the<lb/>
+yellow fever tent hospital where Lazear died and to which the victims of experimental<lb/>
+yellow fever were later brought from Camp Lazear. You remember this was just across<lb/>
+the &ldquo;La Plaza railroad track&rdquo; from Columbia Barracks Post Hospital. The confusion of<lb/>
+local tradition is thus understandable, and the preservation of the spot where Lazear<lb/>
+died, even though erroneously marked, was a fortunate mistake.</p>
+<p><unclear>we</unclear> learned</p>
+<p>Continuing our search we finally re-discovered the true site of Camp<lb/>
+Lazear and met the widow and other close relatives of Dr. Rojas. They had not fully<lb/>
+appreciated the historical significance of the incidents which took place on their<lb/>
+farm 40 years ago and <unclear>knew</unclear> nothing of the &ldquo;false Camp Lazear&rdquo;. But their intimate<lb/>
+recollections fortified by old maps and the discovery of the actual records of the<lb/>
+leasing of the camp for &ldquo;Major Mr. Reed&rdquo; served to identify the general location of<lb/>
+Camp Lazear beyond all doubt. At the request of the Cuban government we are presenting<lb/>
+our documented evidence to them. Furthermore it is highly probable that the somewhat<lb/>
+altered but substantial remains of the &ldquo;Infected Clothing Building&rdquo; (Bldg.#1) have<lb/>
+also been found; unfortunately the &ldquo;Infected Mosquito Building&rdquo; is gone. Our efforts<lb/>
+to authenticate the remaining building after 40 years of neglect are in their final<lb/>
+stages, and negotiations to purchase it are being concluded. Perhaps it is not out of<lb/>
+place for me to express here and now the hope that the admirers and associates of<lb/>
+Finley, Reed, Lazear and their colleagues may join us in restoring and properly mem-<lb/>
+orializing this one of the few remaining visible symbols of their glorious achievement.<lb/>
+Perhaps some local group or senior class might consider it a happy idea to help us<lb/>
+present this humble but sturdy building to the Cuban government as a little bit<lb/>
+of let us say, &ldquo;Washington and Jefferson in Cuba.&rdquo;</p>
+<p>But an even more interesting fact came to light. Re-telling for my benefit<lb/>
+the quiet gossip of the hospital, and admitting that he had no proof for it, Mr.<lb/>
+<pb n="14" id="f03638039"/>
+Hench--14--ds<lb/>
+Moran gave me the first hint that Dr. Lazear's yellow fever might not have been<lb/>
+accidentally acquired after all. I pursued the matter elsewhere, and am tonight per-<lb/>
+mitted to tell you what has been heretofore known to very few persons and which appar-<lb/>
+ently was not known even by Mrs. Lazear up to last week. Dr. Lazear apparently died,<lb/>
+not of accidental yellow fever but of deliberate, self-induced experimental yellow<lb/>
+fever, a circumstance which assuredly gives new value to his scientific contributions<lb/>
+and martyrdom. The details of the story as told me by General (then Lieut.) Truby<lb/>
+agree essentially with those told me by Dr. Agramonte's daughter as she had heard it<lb/>
+&ldquo;frequently&rdquo; and confidentially from her father. Now that reasons for secrecy no<lb/>
+longer exist, it is with their express permission and with the approval of General<lb/>
+Kean, Walter' Reed's close friend that I can tell it to you for the first time in public<lb/>
+on this most appropriate occasion.</p>
+<p>You will recall that on the very day that Carroll got the first case of<lb/>
+experimental yellow fever Lazear and Agramonte eagerly sought another volunteer and<lb/>
+found one in Private Dean who also promptly developed the disease. The investigators<lb/>
+were naturally anxious to pursue their now successful work, but with Reed in Washington<lb/>
+and Carroll still in bed the development of yellow fever by either one of the remaining<lb/>
+two board members would have put tremendous responsibility and extra work on the lone<lb/>
+survivor. Therefore, according to Dr. Agramonte's daughter's version, her father and<lb/>
+Dr. Lazear tacitly agreed to postpone self experimentation at least until Reed's re-<lb/>
+turn. Let me now relate subsequent events as told me by Lieut. (now Gen.) Truby<lb/>
+who was commanding officer of Columbia Barracks Post Hospital (a story which will<lb/>
+appear in his autobiography.)</p>
+<p>"On August 16 Dr. Lazear began to be sick. He missed several meals but<lb/>
+confided in none of his colleagues, asked for no medical advise and kept hard at work.<lb/>
+On the afternoon of the 18th he was too ill to continue. Dr. Ames made a diagnosis<lb/>
+of yellow fever, the diagnosis being confirmed that evening by Dr. Pinto and myself.<lb/>
+When I told Lazear that he should be in the hospital under observation he offered<lb/>
+no objection as he had apparently made up his mind as to the diagnosis. He asked<lb/>
+<pb n="15" id="f03638040"/>
+Hench--15--ds<lb/>
+me to look after his property but had very little else to say. He was then carried<lb/>
+on a litter to the yellow fever tent hospital <del>by</del> across the La Playa railroad track<lb/>
+from the Post Hospital. Throughout his illness he was very reticent in answering<lb/>
+questions about himself or his experiments with mosquitos, but he admitted that he<lb/>
+had been bitten by one. He left with us no message for Reed, as I think he fully<lb/>
+expected to recover. Had he reported his illness promptly instead of working the<lb/>
+first two days his case might have been mild. When he died Lazear's house was<lb/>
+immediately sealed up and fumigated. I personally took charge of his property as re-<lb/>
+quired by Army Regulations. In the pocket of his uniform blouse, which he had recently<lb/>
+worn, was found a small notebook containing entries regarding his mosquito work.<lb/>
+(This notebook, most unfortunately, mysteriously disappeared after Reed's death.)</p>
+<p>"The funeral arrangements were in my hands. Owing to the depressing effect<lb/>
+of the numerous military funerals which we had had it was suggested by some that this<lb/>
+funeral be conducted as quietly as possible without the services of the band. I did<lb/>
+not concur in the suggestion and with the approval of others the funeral was conducted<lb/>
+with full military honors. Friends from the Post, officers from Department Headquarters,<lb/>
+including Major Kean, and the entire medical personnel of the Hospital were present.<lb/>
+As the cemetery was only a few hundred yards from the hospital on the road to La<lb/>
+Playa everyone walked except the nurses who were transported in ambulances. Officers,<lb/>
+enlisted men and nurses were all in white uniforms. It was a beautiful and spontaneous<lb/>
+demonstration of affection <del><unclear>b</unclear></del> for our lamented friend and co-worker.</p>
+<p>&ldquo;When Reed returned a few days later he was terribly depressed at Lazear's<lb/>
+death, not only because of his attachment and high regard for Lazear, but also because<lb/>
+this efficient assistant, having all but proven &lsquo;the theory&rsquo; was no longer present<lb/>
+to help finish the work required to satisfy the medical world that the mosquito was<lb/>
+the culprit. Lazear was the only member of the board experienced in entomology and<lb/>
+who had given much time to the study of mosquitos both in the United States and in<lb/>
+Italy. Reed realized at once how much he needed Lazear's help at that time. With<lb/>
+information given him by Lazear's efficient assistant, Hospital Steward Neate, added<lb/>
+<pb n="16" id="f03638041"/>
+Hench--16--ds<lb/>
+to that in Lazear's notebook Reed prepared Table III the crucial part of the Board's<lb/>
+&lsquo;Preliminary Note on the Etiology of Yellow Fever.&rsquo; The data on Carroll and Dean and on<lb/>
+those who did <hi>not</hi> <unclear>get</unclear> yellow fever were very clear, but Reed was much troubled as to<lb/>
+what he should say about Lazear's case. I have a distinct recollection that there were<lb/>
+some notations in Lazear's notebook which Reed thought were entries about mosquitos<lb/>
+which Lazear had applied to himself. Reed confided his suspicions to Kean and to me,<lb/>
+possibly also to Carroll and Agramonte. He felt that when Lazear was taken sick he<lb/>
+worried last his life insurance become forfeited if it became known that he had<lb/>
+deliberately infected himself with a fatal disease. Was this the reason for Lazear's<lb/>
+incomplete entries about himself in the notebook? Did he withhold facts to protect<lb/>
+his dear ones at this critical moment? Was this why he told Gorgas and Carroll the<lb/>
+story about his having been bitten by a mosquito at Las Animas Hospital? Reed be-<lb/>
+lieved that it was. A competent scientific investigator who had already produced<lb/>
+two cases of yellow fever, Lazear certainly would not knowingly let any mongrel<lb/>
+mosquito bite him at a yellow fever hospital, especially when he <hi>now knew</hi> the danger.<lb/>
+He was after information of tremendous importance and the only way to get it was to<lb/>
+be bitten by one of his own mosquitos hatched and infected under his own supervision.<lb/>
+But there was no way for Reed to prove this view and so the Preliminary Note simply<lb/>
+gave the story of the <hi>supposed</hi> infection by a mosquito at Las Animas Hospital.<lb/>
+Lazear had been making almost daily visits there and Reed finally decided to let it<lb/>
+appear that he was accidentally infected while in the performance of his official<lb/>
+duties as a member of the Board, a possibility of course. But all of us were con-<lb/>
+vinced that Lazear had placed the mosquitos on his arm just as he did on Carroll<lb/>
+in accordance with the agreement of the non-immune members of the Board.&rdquo;</p>
+<p>So concludes Dr. Truby's version. That of Dr. Agramonte's daughter throws<lb/>
+additional light on the affair. &ldquo;After Dr. Lazear had produced experimental yellow<lb/>
+fever in Dr. Carroll, he, Lazear, was conscience-stricken at the tremendous respon-<lb/>
+sibility he had assumed in jeopardizing his colleague's life. <unclear>Jo</unclear> confided his<lb/>
+worries to my father who tried to reassure him. Carroll himself had the notion<lb/>
+<pb n="17" id="f03638042"/>
+Hench--17--ds<lb/>
+that he might have gotten the disease, not from Lazear's mosquitos but in some other<lb/>
+way when he visited the autopsy room at Las Animas Hospital (Aug. 24) three days before<lb/>
+being bitten by Lazear's mosquitos. Lazear took comfort from Carroll's attitude; after<lb/>
+all, Carroll had gone in and out of Columbia Barracks several times and might have gotten<lb/>
+the disease accidentally. But the <unclear>sember</unclear> self-accusing thoughts of Lazear the humane<lb/>
+physician, must have been in conflict with those of Lazear the scientist hardly daring<lb/>
+to rejoice over his first successful experiment. Now for the first time truly aware<lb/>
+of the probable great danger of their experiments Lazear urged my father no longer<lb/>
+to take his supposed immunity for granted, and in turn it seemed best that Lazear also<lb/>
+avoid self-inoculation for the present. But Lazear passionately cherished his<lb/>
+&ldquo;loaded&rdquo; mosquitos, and they could only be kept alive by being fed human blood with<lb/>
+some regularity. Neither before nor at any time during his illness did Lazear admit<lb/>
+or confess to my father that he had experimented on himself, but father always believed<lb/>
+that Lazear had allowed himself to be bitten for any one of several reasons. Perhaps he<lb/>
+fed some weakened and starving insect, <add>for the moment</add> forgetting, or justifying the breaking of,<lb/>
+his <unclear>tacit</unclear> agreement with his colleague. Perhaps he entertained a subconscious desire for<lb/>
+atonement, or a desire to share Carroll's danger or failing that, a desire to divest<lb/>
+himself of his worry and sense of guilt by finding that his mosquitos were not<lb/>
+responsible for Carroll's illness after all. At any rate after he became sick, in<lb/>
+his lucid moments he made pathetic attempts to convince Carroll and Agramonte that<lb/>
+he had not experimented on himself, and tried to explain away his illness by<lb/>
+suggesting that he <hi>might have</hi> been bitten at Las Animas Hospital. But father was<lb/>
+of the opinion that the sanitary controls (wire netting, etc.) observed at the<lb/>
+hospital, especially for patients under quarantine for yellow fever, were such that<lb/>
+there were no yellow fever mosquitos straying about those wards, and the fact that<lb/>
+no epidemic of yellow fever occurred <hi>within</hi> the hospital supported him in this<lb/>
+contention. Their own experimental mosquitos were constantly guarded under lock and<lb/>
+key, and available only to Board members. Because of Lazear's concern for his<lb/>
+wife and children far away and because of his natural modesty he refused to offer him-<lb/>
+<pb n="18" id="f03638043"/>
+Hench--18--ds<lb/>
+self for applause or praise; having made his quiet and heroic gesture he carried<lb/>
+his secret to a better world.&rdquo;</p>
+<p>Out of respect for the unspoken wishes of their revered friend, Lazear's<lb/>
+colleagues have kept that secret all these years, Reed and others having carried it<lb/>
+to their graves. And in so doing they have eminently proved their loyalty to him. But<lb/>
+often it must have irked them to deprive Lazear of a greater fame and in two short<lb/>
+statements of Agramonte I sense a wistful desire to rectify matters. In a letter to<lb/>
+Dr. Finlay written in 1905 but just published last month he wrote enigmatically:<lb/>
+&ldquo;Lazear produced the first two cases of yellow fever unknown to the other members of<lb/>
+the Board&rdquo; (See Finlay's new book p. 222; Oxford Press, Sept. 1940), and at the banquet<lb/>
+in Havana given in honor of Drs. Gorgas and Kean in June 1902 Agramonte's unpublished<lb/>
+remarks included the following tribute: &ldquo;I shall never cease to thank the Almighty<lb/>
+Ruler of things for the insignificant part which He allowed me to play in this achieve-<lb/>
+ment. The one of us who from the very inception of our work so strenuously believed in<lb/>
+the mosquito theory--the one of us best fitted by his training in the line of our<lb/>
+investigation to successfully carry out the work, who in fact performed the first<lb/>
+successful inoculation unknown to his coworkers, Jesse W. Lazear, gave up his life in<lb/>
+the pursuit of knowledge which shalll immortalize his name. May he in the Regions<lb/>
+of the Unknown find the Glory that is his due which so unjustly has been withheld by<lb/>
+man on earth.&rdquo;</p>
+<p>In those days when man's inhumanity to man is so pathetically apparent, &ldquo;in<lb/>
+this dark age of tooth and claw,&rdquo; it is good to note the example of these men -- Finlay,<lb/>
+Reed, Lazear, Agramonte, Carroll, Cooke, Kissinger, Moran and the others who banded<lb/>
+together for high adventure, not to kill, or even to die for one country, but to die if<lb/>
+need be for their fellow men of all countries. It is such as they who reassure us of<lb/>
+the inherent decency and dignity of man.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,647 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01006001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Lecture on the Prophylaxis of Yellow Fever, by [Henry Rose Carter], [19--]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01006001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Ross, John</name>
+<name type="person">Ribas, [s.n.]</name>
+<name type="person">Parker, [s.n.]</name>
+<name type="person">Beyer, [s.n.]</name>
+<name type="person">Porthier, [s.n.]</name>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Connor, Michael E.</name>
+<name type="person">Lyster, Theodore C.</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Sao Paolo (Brazil)</name>
+<name type="place">Vera Cruz (Mexico)</name>
+<name type="place">Rio de Janeiro (Brazil)</name>
+<name type="place">Guyaquil (Ecuador)</name>
+<name type="place">Peru</name>
+<name type="place">Mexico</name>
+<name type="place">Central America</name>
+<name type="place">Brazil</name>
+<name type="place">Pernambuco (Brazil)</name>
+<name type="place">New Orleans (La.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>17 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">01006001</idno>
+<title>Lecture on the Prophylaxis of Yellow Fever, by [Henry Rose Carter], [19--]</title>
+</bibl>
+</head>
+<p>[Carter] discusses the prevention of yellow fever, including past experiments involving control of the human host vs. control of mosquitoes.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Lecture on the Prophylaxis of Yellow Fever, by [Henry Rose Carter], [19--]</head>
+<pb n="1" id="f01006001"/>
+<p>Yellow fever is contracted by man from the bite of a certain mos-<lb/>
+quito--itself infected by having fed on a man sick of that disease and<lb/>
+we know of no other way in which, in nature, it is contracted.</p>
+<p>Here are two propositions--one a positive statement of knowledge:<lb/>
+that yellow fever is conveyed by a certain mechanism: The other a state-<lb/>
+ment, positive, indeed, but of limitation of knowledge rather than of<lb/>
+knowledge itself.</p>
+<p>For the first there can be no question. The experiments<lb/>
+of Reed and his Coadjutors---------------at Quemados------------in 1900<lb/>
+of Guiteras &amp; John Ross------------------at Havana-------------- " 1901<lb/>
+of Ribas---------------------------------at Sao Paolo----------- " 1901<lb/>
+of Parker: Beyer &amp; Porthier--------------at Vera Cruz------------ " 1903<lb/>
+indeed, of all who have attempted to convey the infection in this way,<lb/>
+prove this. It is a positive proposition and admits of positive proof,<lb/>
+and that proof is definite and abundant.</p>
+<p>For the 2nd. proposition, I am in somewhat of a quandary:--To make<lb/>
+the direct negative statement: &ldquo;that yellow fever is conveyed in no other<lb/>
+way,&rdquo; would imply that we have investigated all other ways and found<lb/>
+them negative. This we have not done and hence the postulate is in its<lb/>
+present form.</p>
+<p>We have investigated a number of what were considered probable or<lb/>
+possible methods of conveyance--by experiment or by epidemiological<lb/>
+studies--and from the standpoint of the sanitarian, I believe we can--<lb/>
+for the Americas at least--make the direct negative statement: &ldquo;and is in<lb/>
+nature contracted in no other way.&rdquo;</p>
+<p>Space.</p>
+<p>Is this alternative life of the causative organism in man and the<lb/>
+mosquito a metaxeny? We have not the same knowledge of its life history<lb/>
+<pb n="2" id="f01006002"/>
+history<lb/>
+2<lb/>
+in its hosts as of the malaria parasite and it may be a question. I think<lb/>
+it is: Noguchi does not, yet is not absolutely clear about it.</p>
+<p>There are three participants in the Conveyance we have predicated:<lb/>
+(1) The Man infective to the Mosquito.<lb/>
+(2) The Mosquito infective to Man.<lb/>
+(3) The Man infected by the Mosquito.</p>
+<p>I must, to an extent, discuss them, but I can only give you such data<lb/>
+on each as is minimally necessary for you to understand the prophylaxis<lb/>
+of yellow fever.</p>
+<p>Space.</p>
+<p>1/ The Man Infective to the Mosquito.</p>
+<p>He is not infective for long. It is generally stated that the man<lb/>
+sick of yellow fever is not infective to mosquitoes after the 3rd. day of<lb/>
+illness. This is not proven. What is true is that no mosquito has been<lb/>
+proved infective to man which had fed only on a man more than 3 days ill.</p>
+<p>Not many tried--why?</p>
+<p>3 to 4 cases---say 10-15 insects.</p>
+<p>Stronger evidence than the above, also negative, is the following:<lb/>
+The Commission of the Pasteur Institute--working at Rio in 1903--injected<lb/>
+4 men with the blood of a man--the same man--sick 4 days of yellow fever:<lb/>
+None of them developed it therefrom. One was afterwards shown to be sus-<lb/>
+ceptible--the others were believed to be so. The injection of blood from<lb/>
+a patient in the first days of the attack had been shown--by Carroll and by<lb/>
+Guiteras--to be a very certain way of conveying yellow fever, and we might<lb/>
+admit that the blood of this man was not infective on the 4th. day, but<lb/>
+whether the experiment proves that the blood of all men is free from in-<lb/>
+fectivity on the 4th. day of the attack--judge you. This is all the evi-<lb/>
+dence we have.</p>
+<p>We may say, I think, that the evidence justifies the statement that<lb/>
+the patient is only infective for the first few days of the attack, but<lb/>
+I would not consider the end of the 3rd. day as a <hi>proven limit</hi>.</p>
+<pb n="3" id="f01006003"/>
+<p><hi>limit</hi>.</p>
+<p>3.</p>
+<p>Two attempts to infect Stegomyia from men in the stage of incuba-<lb/>
+tion have proven negative. Too few, I think, for any deduction. There<lb/>
+is epidemiological evidence--indeed proof--that a man can &ldquo;infect his en-<lb/>
+vironment&rdquo;--that is, the mosquitoes therein, in the first few hours of<lb/>
+his illness.</p>
+<p>There is no evidence for the existence of &ldquo;Carriers&rdquo; of yellow fever<lb/>
+infection. There is considerable of the contrary.</p>
+<p>2/ The Mosquito Infective to Man.</p>
+<p>(1) The mosquito incriminated is Aedes (Steg.) aegyptus. (History<lb/>
+of names: 26 aliases: this one probably last--Linnaeus 1762).</p>
+<p>Space.</p>
+<p>I say &ldquo;for the Americas at least.&rdquo; Epidemiological data exclude, I<lb/>
+think, any other vector as possible in America, but there is in Africa:<lb/>
+S. E. Asia and even in Hawaii, a mosquito of the same sub-genus--Aedes<lb/>
+(Stegomyia) scutellaris (or alba picta) very like aegyptus in its character-<lb/>
+istics--a little less domestic, not yet as completely weaned from knot-<lb/>
+holes and axils of leaves to man-made artificial containers as our American<lb/>
+species. There is not a particle of evidence incriminating this insect as<lb/>
+a vector of yellow fever, and not a particle to the contrary. It is, how-<lb/>
+ever, so like our known vector that one cannot but feel doubtful about it.</p>
+<p>Space.</p>
+<p>(2) It is generally stated that not less than 12 days must elapse<lb/>
+from the infecting feeding before the insect becomes infective to man.<lb/>
+Again a positibe statement of a negative proposition. That is true is that<lb/>
+no mosquito has been <hi>proved</hi> to be infective to man, in experimental work, un-<lb/>
+til at least 12 days have elapsed since feeding on the patient.</p>
+<p>Quite a fair number of mosquitoes have been tried, however, many more<lb/>
+than for the 3 day limit of time for the sick man. All with negative re-<lb/>
+sults.</p>
+<p>There is also a considerable amount of epidemiological evidence on<lb/>
+<pb n="4" id="f01006004"/>
+on<lb/>
+4.<lb/>
+this matter and I think we can say with a reasonable degree of confidence,<lb/>
+that a considerable time--minimally <hi>about</hi> 12 days, if you like--elapses<lb/>
+from the date a mosquito becomes infected before it is capable of convey-<lb/>
+ing infection to man." It is on the <hi>existence</hi> of this interval--without<lb/>
+predicating its exact length--that I base my opinion on the metaxeny of<lb/>
+the causativeorganism in man and mosquito.</p>
+<p>The existence of this interval was determined before that of the<lb/>
+conveyance of yellow fever. Indeed, its determination by epidemiological<lb/>
+studies led to the latter:--determined the direction of the Quemados ex-<lb/>
+periments.</p>
+<p>(3) Once infective, the mosquito stays so indefinitely--probably as<lb/>
+long as she lives--in one of the Quemados cases 59 days after the in-<lb/>
+fective feeding. This unlike, indeed in contrast with, what occurs in<lb/>
+the infected man.</p>
+<p>(4) She--the mosquito infective to man--feeds by day and by night--<lb/>
+preferably in daylight, in the early morning and the rather late after-<lb/>
+noon. This is true of both the newly developed Stegomyia imago and the<lb/>
+old ones. Those infective to man cannot be less than about 12 days old.</p>
+<p>The statement of Marchoux: Simond and Salembini--the Commission of<lb/>
+the Pasteur Institute working at Rio in 1903--that the insect after be-<lb/>
+coming old enough to be infective to man feeds only at night is, I think,<lb/>
+very generally discredited. They make the categorical statement: &ldquo;That<lb/>
+this transmission does not occur while the sun is above the horizon.&rdquo;</p>
+<p>It has been categorically disproved by the direct observations of<lb/>
+Seidelin and Summers-Conal--in 1915, I think--and by the more recent ones<lb/>
+of Gordon and Young at Manaos in 1921.</p>
+<p>It is certainly not in accordance with epidemiological data in this<lb/>
+country: the West Indies or Panama.</p>
+<p>Space.</p>
+<p>This affects sanitary measures, making a mosquito-bar a very minor<lb/>
+<pb n="5" id="f01006005"/>
+minor<lb/>
+5.<lb/>
+protection <hi>to the individual who uses it</hi>, and rendering nugatory the<lb/>
+&ldquo;Daylight Protection,&rdquo; the dependence on which has been responsible for the<lb/>
+infection of so many American warships and communities.</p>
+<p>Space.</p>
+<p>2/ The Man Infected by the Mosquito.<lb/>
+(a) Naturally he must be susceptible to the disease.<lb/>
+(b) The period of incubation--of 44 accurately observed cases--<lb/>
+has been:--the shortest: 3 days, - 2hrs: and the longest: 6 days 2hrs.--<lb/>
+that is 3 to 6 days.</p>
+<p>(C) Immunity to yellow fever is conferred by the attack.</p>
+<p>Naturally, every infection which recovers <hi>must</hi> confer immunity--<lb/>
+temporary or permanent, local or general--else it would not recover.</p>
+<p>Quite a number of recent writers, following the lead of the Commis-<lb/>
+sion of the Pasteur Institute, to which I have so often alluded--con-<lb/>
+sider this immunity produced by an attack as short-lived--ephemeral--<lb/>
+and subsequent attacks common--indeed the rule--on subsequent exposures.<lb/>
+I do not think so. I think <hi>the immunity conferred by an attack of yel-<lb/>
+low fever is a permanent one</hi>--that is, as permanent as that conferred<lb/>
+by small-pox or measles. This is again a negative proposition: that<lb/>
+men who have one attack do <hi>not</hi> have another--and is not such an easy<lb/>
+thing to prove. I have attempted to do so (Immunity to Yellow Fever:<lb/>
+Annals of Tropical Medicine &amp; Parisitology, April 1916) (Many typograph-<lb/>
+ical errors in the article as printed.)</p>
+<p>Space.</p>
+<pb n="6" id="f01006006"/>
+<p>Space.</p>
+<p>6.</p>
+<p>Prophylaxis of Yellow Fever.</p>
+<p>Individual and Community.</p>
+<p>Individual and Comparison with Malaria.</p>
+<p>For Malaria we have as measures for individual prophy-<lb/>
+laxis: segregation: screening and mosquito-bars: hand-<lb/>
+catching and quinine.</p>
+<p>Discuss.</p>
+<p>Screening and Mosquito-bars.</p>
+<p>Mosquito bars are of little use for the protection from<lb/>
+yellow fever of those who use them, because it is mainly<lb/>
+contracted in the day. Used to cover the sick man, they<lb/>
+are of value to others--by preventing infection of Ste-<lb/>
+gomyia.</p>
+<p>Screens are worth somewhat more--if one lives close to<lb/>
+other houses--in that they prevent entrance of mosqui-<lb/>
+toes infected elsewhere. Not much, however, to one lead-<lb/>
+ing the ordinary city life. Don't raise your Stegomyia<lb/>
+inside the screens, lest accidentally you get some in-<lb/>
+fected man in your town.</p>
+<p>Personal Prophylaxis.</p>
+<p>Of so little value that it scarcely deserves mention.</p>
+<p>Vaccination.</p>
+<pb n="7" id="f01006007"/>
+<p>from the earth.</p>
+<p>6 B.</p>
+<p>Vaccination with the killed culture of Leptospira icteroides I have<lb/>
+only mentioned incidentally, because I have little personal knowledge of<lb/>
+it and, for reasons into which I will not at present enter. I cannot satis-<lb/>
+factorily evaluate the data presented of its use with men. I have used it<lb/>
+and recommend it as a measure for individual prophylaxis to men exposed<lb/>
+to yellow fever. It can do no harm, there is evidence, not proof, of its<lb/>
+being to some extent protective &amp; besides we wish to get as much data <unclear>and<lb/>
+use as possible</unclear></p>
+<p>As a general sanitary measure I recommended--indeed pressed--its<lb/>
+use freely, especially in the small places <hi>liable</hi> to infection.</p>
+<p>A vaccination, if efficient and capable of general use, should be of<lb/>
+some sanitary value as an adjuvant even in a campaign by Control of the<lb/>
+Insect Host, but very much more so in small places in assisting Nature (the<lb/>
+fever) in lessening the number of people susceptible to yellow fever and<lb/>
+thus advancing the date when there are not enough to continue the life<lb/>
+of the causative organism.</p>
+<p>Unfortunately, I am unable to present you any reliable data of much<lb/>
+value from Peru. The work was heavy: the working corps undermanned and<lb/>
+but little attention was paid to scientific records, or indeed to any-<lb/>
+thing except the struggle immediately before us. As I said, we used<lb/>
+vaccination, but we depended on Control of Stegomyia Breeding Places.<lb/>
+<pb n="8" id="f01006008"/>
+Vaccination?</p>
+<p>7.</p>
+<p>2/ <hi>Community Prophylaxis</hi> may be:</p>
+<p>(A) Elimination of yellow fever from a community in which it<lb/>
+exists,</p>
+<p>(B) Prevention of introduction of yellow fever into a community<lb/>
+free from it.</p>
+<p>(A) <hi>Elimination of yellow fever</hi> from a community in which it exists.<lb/>
+For yellow fever to continue in a community it is in general necessary<lb/>
+that there exist in it at the same time <hi>men with yellow fever</hi>: <hi>active Ste-<lb/>
+gomyiae</hi>: <hi>men susceptible to yellow fever</hi>: the insects having access to<lb/>
+both classes of men.</p>
+<p>Space.</p>
+<p>A break in this chain for a short time will eliminate yellow fever.<lb/>
+Complete control over any one of the three factors will suffice to do so.<lb/>
+It is to break the first two links that sanitarians have worked. We will<lb/>
+see later the importance of the last one in Nature's method of elimination.</p>
+<p><hi>Sanitarians' Methods.</hi> Of the first two it seems, indeed, <hi>is</hi> more natural<lb/>
+to attempt the control of the human host. I say <hi>is</hi> in all confidence, be-<lb/>
+cause this was the method relied on in all the earlier attempts of yellow<lb/>
+fever eradication--the first of which was the brilliant work of Gorgas at<lb/>
+Havana. Gorgas at Havana and at Panama: Cruz at Rio: and Liceaga at Vera<lb/>
+Cruz all made this the principal point of attack. All, however, also used<lb/>
+control of Stegomyia breeding <hi>as an adjuvant thereto</hi>.</p>
+<p><hi>Method by Control of the Human Host</hi>. By this method all cases of yel-<lb/>
+low fever are to be isolated, as soon as they occur, from mosquitoes--pre-<lb/>
+ferably in screened cages in screened wards--until no longer infective to<lb/>
+them and such mosquitoes as have had access to them before isolation, de-<lb/>
+stroyed by fumigation. The detail is too well known to describe.</p>
+<p><hi>Difficulties of this Method</hi>. For this method it is a prerequisite<lb/>
+that the cases of yellow fever be found as they occur, and this is the dif-<lb/>
+<pb n="9" id="f01006009"/>
+dif-<lb/>
+8.<lb/>
+ficulty. In a place in which yellow fever is permanently endemic only a<lb/>
+small proportion of the cases are recognized--practically none in child-<lb/>
+ren, among whom it mainly occurs--and we can rarely, in such a community,<lb/>
+find so nearly all of the cases of yellow fever as to enable us to con-<lb/>
+trol the human host sufficiently to eliminate it. The disease can be<lb/>
+very much lessened by this method, but elimination would scarcely ever re-<lb/>
+sult. This was shown in Panama. We begun by relying on this method--<lb/>
+and failed.</p>
+<p>Space.</p>
+<p>The success at Havana: Vera Cruz: Rio and elsewhere we believe was<lb/>
+mainly due to the campaign which was waged simultaneously, as an adjuvant<lb/>
+to the above, against Stegomyia--i. e. <hi>to incidental control of the in-<lb/>
+sect host</hi>. At Panama it certainly was.</p>
+<p>Space.</p>
+<p>In such endemic centres then, I would rely solely <hi>on the control of<lb/>
+Stegomyia production</hi>. I would not even attempt to combine the methods.<lb/>
+In 1908 I wrote: &ldquo;Were the probliem to rid of yellow fever a town in the<lb/>
+Tropics in which it is endemic--say Guayaquil--I would concentrate all my<lb/>
+work on this mosquito: I would not isolate a man sick of yellow fever: I<lb/>
+
+would not fumigate a room (save possibly as a measure of protection to<lb/>
+those in its immediate neighborhood). As a measure of general sanitation--<lb/>
+helping to rid the town of yellow fever, their value would not pay for the<lb/>
+trouble they caused, if, indeed, they had any value at all for this purpose.&rdquo;</p>
+<p>Connor followed this method for Guayaquil and you all know the result.</p>
+<p>Space.</p>
+<p>The first campaign against yellow fever based <hi>solely</hi> on Control of Ste-<lb/>
+gomyia, was that of Converse at Iquitos in 1913: then Beverly at Buenaven-<lb/>
+tura in 1916: Connor in Guayaquil--the first work on a large scale--and our<lb/>
+Peruvian work in 1920 and 1921 and that in Mexico and Central America dur-<lb/>
+ing the same years. The principle of this method was pressed on the Brazil-<lb/></p>
+<pb n="10" id="f01006015"/>
+<p>Brazil-</p>
+<p>9.<lb/>
+ians in 1916 by myself and again by Lyster in 1920, but I do not know<lb/>
+how they handled the out-break in Pernambuco (1919)</p>
+<p>It is fair to say then, that this method: Control of the Insect<lb/>
+Host--by itself, uncomplicated, not combined with isolation of the sick<lb/>
+or with fumigation--is, for an endemic focus of yellow fever--not only<lb/>
+the method of election, but the <hi>only</hi> one a modern sanitarian would con-<lb/>
+sider and that is why I have not gone into the detail methods of Control<lb/>
+of the Human Host.</p>
+<p>Space. <unclear><del>of Control of the Human</del></unclear></p>
+<p>The same is <hi>in general</hi>--although not so exclusively--true for a gen-<lb/>
+eralized epidemic in the tropics.</p>
+<p>With a newly introduced infection the above may not apply--indeed<lb/>
+usually will not.</p>
+<p>Space.</p>
+<p><hi>Prophylaxis of Yellow Fever by Control of the Insect Host</hi>.</p>
+<p>To utilize this method of prophylaxis we need consider but three<lb/>
+points in the Entomology of our insect host.</p>
+<p>1/ It is, in Panama, 9 or 12 days from the egg to the imago, more<lb/>
+in cooler weater. In Piura in August it was 22 days minimally cool weather.</p>
+<p>2/ It is a small insect and a <unclear>#</unclear> 18 mesh wire screen is required to<lb/>
+prevent its passage.</p>
+<p>3 3/ It breeds in artificial (man-made) containers--a &ldquo;pot-breeder,&rdquo;<lb/>
+Theobald calls it--and hence in close proximity to man, in and about<lb/>
+whose dwellings it spends its life--the arche type of a domestic mosquito.</p>
+<p>For its breeding place the preference is for small collections of<lb/>
+clear water in a shady and rather dark place. It is, however, quite a-<lb/>
+daptable and readily takes the next best when the best is not available:<lb/>
+When there is nothing better, she takes to muddy water: to house gutters:<lb/>
+knot-holes in trees: small hollows in rocks: the axils of certain plants--<lb/>
+as colocasias and young bananas--and developes no little ingenuity in pro-<lb/>
+<pb n="11" id="f01006016"/>
+pro-<lb/>
+10.<lb/>
+viding for the continuation of the species.</p>
+<p>Space.</p>
+<p>There is a limit to its adaptability--we have not found it breeding--<lb/>
+from egg to pupa--in any collection of water with only <hi>earth</hi> sides.</p>
+<p>(Francis: Catacaos: Casa Grande)</p>
+<p>Complete breeding places: gutters in New Orleans.</p>
+<p>She does not breed in marshes: streams: ponds or woods: hence it is<lb/>
+not necessary to drain marshes: train streams: cut down jungle etc.</p>
+<p>(Sir Patrick Manson)</p>
+<p>With this knowledge of its breeding habits: of its size: of the length<lb/>
+of its life-cycle we can control its production and we can do it easily.<lb/>
+As with Anopheles, the attack is made on its breeding places. But we have<lb/>
+no draining of marshes: training of streams etc. These breeding places<lb/>
+are all near residences and practically all in artificial containers: water<lb/>
+jars: old tin cans: the bowl in which the table leg stands etc. In the<lb/>
+house and in the court they are various and numerous in the tropics.</p>
+<p>Space.</p>
+<p>We have then, only to get rid of water in artificial containers or pre-<lb/>
+vent access to it by the mosquito. For this we (1) remove the receptacle:<lb/>
+(2) put live fish in it; (3) empty it completely at least once a week: (4)<lb/>
+cover or screen it or (5) oil the water--also once a week.</p>
+<p>Any one of these methods properly carried out is efficient.</p>
+<p>(1) is the best always, where possible, and when impossible in its en-<lb/>
+tirety, as is usually the case, remove as many of them as possible, so as<lb/>
+to lessen the number we have to care for.</p>
+<p>Piura: Trujillo etc.</p>
+<p>The others according to circumstances.</p>
+<p>Large containers--as New Orleans cisterns: Guayaquil tanks.</p>
+<p><hi>Time element</hi> in epidemic--not so <unclear>importantiin</unclear> endemic focus.<lb/>
+<pb n="12" id="f01006017"/>
+endemic focus.<lb/>
+11.</p>
+<p>When the preferential breeding places are destroyed and the insect<lb/>
+takes to the out-of-the-way ones, a pan of water placed in a shady corner<lb/>
+of the court will attract her back from her knot-holes and leaf axils.<lb/>
+This is emptied at the weekly inspection and filled again. Howlett has<lb/>
+called this a &ldquo;trap breeding place.&rdquo;</p>
+<p>When water is emptied, Stegomyia larvae dive for the <unclear>bottomand</unclear>,<lb/>
+unless it be completely emptied, the last drops will be loaded with them.<lb/>
+It is best to scour the insice of the container with a broom or cloth or<lb/>
+allow it to dry, as they can live in very little water.</p>
+<p>Paita--straining water.</p>
+<p>General Method of examination of water.</p>
+<p>Method by pouring.</p>
+<p>Fish: History: Need not examine for larvae--only see if fish are<lb/>
+alive.</p>
+<p><hi>Critical Number of Stegomyia for Propagation of Yellow Fever</hi>:</p>
+<p>It is not necessary to <hi>eliminate</hi> the mosquito to <hi>eliminate</hi> yellow<lb/>
+fever. If the insects are brought below a certain number the disease will<lb/>
+die out. This is common sense, as well as observation.</p>
+<p>Obviously, this critical number with which the disease just holds<lb/>
+its own will vary for any place directly as the proportion of men immune<lb/>
+to yellow fever to the total population. Thus: if with 100 cases of yel-<lb/>
+low fever introduced into a community in which all were susceptible to yel-<lb/>
+low fever, the number of Stegomyia were such that exactly 100 men would be<lb/>
+infected from them, the disease would neither die out nor increase. This<lb/>
+would be the critical number of Stegomyia for this place and time. With<lb/>
+less than this, less than 100 men would be infected and the fever would<lb/>
+die out. If more, it would increase. Now if 1/4 of the inhabitants are<lb/>
+immune to yellow fever, obviously the same number of mosquitoes which in-<lb/>
+fected 100 men before would now infect only 75--1/4 of their bites going<lb/>
+to immunes, and hence wasted--and the disease would die out. The critical</p>
+<p><pb n="13" id="f01006010"/>
+critical<lb/>
+12.<lb/>
+number now would be 1/3 greater than formerly.</p>
+<p>Obviously then this critical number, below which the Stegomyia must<lb/>
+be brought to eliminate fever is less in a town as the proportion of sus-<lb/>
+ceptible people increase and <hi>more intensive</hi> work is required to eliminate<lb/>
+it from such a community, other things being equal, than from one in<lb/>
+which a large proportion of the population is immune. Such was White's<lb/>
+work in /05 in New Orleans.</p>
+<p>Pareja: No. of susceptible people lessened by vaccination.</p>
+<p><hi>Spontaneous Elimination of Yellow Fever.</hi></p>
+<p>I have said that the presence of &ldquo;men susceptible to yellow fever&rdquo;<lb/>
+was necessary for the continuance of yellow fever in a community and<lb/>
+spoken of the importance of this link in Nature's method of eliminating<lb/>
+the disease.</p>
+<p>Yellow fever <hi>has</hi> disappeared from a great number of towns in the<lb/>
+American and African Tropics in which no sanitary work has been done and<lb/>
+in which Stegomyia is abundant. I could give a score of instances.</p>
+<p>(Give instances.)</p>
+<p>I would explain this disappearance as due to the lack of susceptible<lb/>
+people sufficient to continue the life of the parasite--to the &ldquo;failure<lb/>
+of the human host.&rdquo;</p>
+<p>As an attack of yellow fever produces an immunity--certainly a tem-<lb/>
+porary one--the continuance of the disease lessens the number of suscep-<lb/>
+tible people in the community and unless others are supplied, would in<lb/>
+time leave no people susceptible to it and must <add>itself</add> disappear. <add>Even before that would occur it is easy to see that yellow fever would disappear</add> On account of<lb/>
+the small number left not being sufficiently available to infected Ste-<lb/>
+gomyia to continue the life of the causative organism. The infection,<lb/>
+then, having no resevoir host, dies out when its human host is sufficiently<lb/>
+exhausted.</p>
+<p>This would be less apt to occur in large towns or those receiving<lb/>
+an influx of susceptible people. In them the immigrants and the larger<lb/>
+<pb n="14" id="f01006011"/>
+larger<lb/>
+13<lb/>
+number of babies furnish the susceptible material necessary for the con-<lb/>
+tinuance of the parasite. And, indeed, it is only in such towns that<lb/>
+this has not occurred.</p>
+<p>Should the susceptible human material, immigrants and babies, be at<lb/>
+any time insufficient to continue the life of the parasite it would die<lb/>
+and the fever disappear, <hi>permanently unless reintroduced</hi>. Naturally, a<lb/>
+town thus freed of yellow fever will in time raise up a generation sus-<lb/>
+ceptible to it and if the disease be reintroduced. Stegomyia being still<lb/>
+present, there will be an epidemic, affecting those born since the immu-<lb/>
+nization of the town, and hence to an extent proportional to the interval<lb/>
+of freedom. This is a matter of common observation. I think.</p>
+<p>Paita: Buena Ventura.</p>
+<p>Spontaneous elimination of yellow fever is not rare and, unless re-<lb/>
+
+introduced, outbreaks do not recur in towns in which this occurred, even<lb/>
+on influx of strangers. When reintroduced epidemics appear among the in-<lb/>
+digenes, especially the youth, as well as strangers. These are reinfect-<lb/>
+ions, not recrudescences.</p>
+<p>It is worth contrasting these two methods for the elimination of<lb/>
+yellow fever. That by the control of the insect host is undoubtedly the<lb/>
+method of election for the sanitarian, while the method by which it is<lb/>
+eliminated in nature from endemic foci is by failure of the human host.<lb/>
+Less eligible, doubtless, but efficient and of uncalculable value to us<lb/>
+in our attempt to eliminate yellow fever from the earth.</p>
+<p>Contrast with malaria: Malaria confers minimal immunity and men <hi>are</hi><lb/>
+carriers: resevoir hosts. The fact that this spontaneous elimination of<lb/>
+yellow fever is so common is evidence that no animal generally and close-<lb/>
+ly associated with man in the tropics is a resevoir host to the causative<lb/>
+organism of yellow fever.</p>
+<p>Vaccination with the killed culture of Leptospira icteroides I have<lb/>
+only mentioned incidentally, because I have little personal knowledge of<lb/>
+it and, for reasons into which I will not at present enter, I cannot satis-<lb/>
+<pb n="15" id="f01006012"/>
+satis-<lb/>
+14.<lb/>
+factorily evaluate the data presented of its use with men. I have used it<lb/>
+and recommended it as a measure for individual prophylaxis to men exposed<lb/>
+to yellow fever. It can do no harm, and there is evidence of its protect-<lb/>
+ive effect, and, besides, we wish to get as much data on it as possible.<lb/>
+(As a general sanitary measure I recommended--indeed pressed--its use<lb/>
+freely, especially in the small places <hi>liable</hi> to infection).</p>
+<p>A vaccination, if efficient and capable of general use, should be of<lb/>
+some sanitary value, as an adjuvant, even in a campaign by Control of the<lb/>
+Insect Host, but very much more so in small places in assisting Nature<lb/>
+(the fever) in lessening the number of people susceptible to yellow fever<lb/>
+and thus advancing the date when there are not enough to continue the<lb/>
+life of the causative organism.</p>
+<p>Space.</p>
+<p>Unfortunately, I am unable to present you any reliable data of much<lb/>
+value from Peru. The work was heavy: the working corps undermanned and<lb/>
+but little attention was paid to scientific records, or, indeed, to any-<lb/>
+thing except the struggle immediately before us. As I said, we used vac-<lb/>
+cination, but we depended on control of stegomyia breeding places.</p>
+<pb n="16" id="f01006014"/>
+<p>breeding places.</p>
+<p>B/ <hi>Prevention of introduction</hi> of yellow fever into a community free<lb/>
+from it. This may be by (1) what are called--with little regard for<lb/>
+etymology--&ldquo;measures of Quarantine,&rdquo; or (2) rendering the place to be<lb/>
+protected incapable of propagating yellow fever--&ldquo;non-infectable.&rdquo;</p>
+<p>The 1st. is by preventing the entrance of infected men, sick or in<lb/>
+the stage of incubation, and of infected mosquitoes. Both harbor the<lb/>
+parasite and from both it may be transmitted to people in the community.<lb/>
+The methods of doing this are too well known to describe.</p>
+<p>Maritime Quarantine.</p>
+<p>Cordon Sanitaire.</p>
+<p>The 2nd. method is to free the community to be protected from Stegomyia.<lb/>
+If this be done, men, although infected, may be ignored (Peru) and infect-<lb/>
+ed mosquitoes (if arriving on a vessel) may be killed--or even if intro-<lb/>
+duced, since they could not breed in the community, would at most produce<lb/>
+a few primary cases of yellow fever--of little sanitary importance.</p>
+<p>This is evidently the method of election.</p>
+<p>Honolulu: Peru: Mexico etc.</p>
+<pb n="17" id="f01006013"/>
+<p>There are two postulates in the sanitation of yellow fever developed<lb/>
+since the mechanism of its conveyance became known, which I especially<lb/>
+wish to <hi>press</hi> on your attention:</p>
+<p>1/ In the elimination of yellow fever from endemic centers the<lb/>
+Method by Control of Stegomyia Breeding Places is the method of election<lb/>
+to the exclusion of all others.</p>
+<p>2/ That <hi>elimination</hi> of Stegomyiae is not necessary for the <hi>elimi-<lb/>
+nation</hi> of yellow fever. A sufficient <hi>reduction</hi> in the number of Stego-<lb/>
+myia will completely eliminate yellow fever.</p>
+<p>And here is one equally important in its epidemiology:</p>
+<p>3/ That in any community a sufficient supply of people susceptible<lb/>
+to yellow fever, either by immigration or by birth, is necessary to con-<lb/>
+tinue infection in that community--failing which it will die out.</p>
+<p>This is Nature's method for the elimination of yellow fever and is<lb/>
+common in small and moderate sized towns, receiving little immigration of<lb/>
+susceptible people. This we have called &ldquo;Elimination of Yellow Fever by<lb/>
+Failure of the Human Host.&rdquo;</p>
+<p>Once eliminated in <hi>any way</hi> yellow fever will not reappear unless re-<lb/>
+introduced:--the parasite reintroduced in one of its hosts.</p>
+<p>Space.</p>
+<p>&ldquo;Mechanism of the Spontaneous Elimination of Yellow Fever from<lb/>
+Endemic Centers.&rdquo; (Annals of Tropical Medicine &amp; Parisitology, Liverpool<lb/>
+(Journal, March 15, 1920: Vol Xlll, No. 4.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

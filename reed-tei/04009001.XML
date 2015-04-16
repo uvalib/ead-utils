@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04009001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from George A. Kellogg to Philip Showalter Hench, October 9, 1942</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kellogg, George A.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04009001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1942-10-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Hume, Edgar Erskine</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Stitt, Edward R.</name>
+<name type="person">Russell, Frederick F.</name>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">Hench, Mary</name>
+<name type="place">Chicago (Ill.)</name>
+<name type="place">San Antonio (Tex.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1942-10-09">October 9, 1942</date>
+<idno rend="suppress">04009001</idno>
+<title>Letter from George A. Kellogg to Philip Showalter Hench, October 9, 1942</title>
+</bibl>
+</head>
+<p>Kellogg informs Hench that Kean, Stitt, and Russell will receive the Gorgas award. He quotes part of the citation for Kean.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1942-10-09">
+<head>Letter from George A. Kellogg to Philip Showalter Hench, October 9, 1942</head>
+<pb n="1" id="f04009001"/>
+<opener>
+B<lb/>
+BISMARCK HOTEL<lb/>
+&middot; CHICAGO &middot;<lb/>
+<dateline>
+<date value="1942-10-09">Oct. 9, 1942</date>
+</dateline><lb/>
+<salute>Dear Phil,</salute>
+</opener>
+<p>Today I received Col.<lb/>
+Hunter's promised letter.<lb/>
+He was certainly cagey in<lb/>
+the manner in which he<lb/>
+phrased it. I'll have it<lb/>
+copied on Monday when I<lb/>
+get home and send you a<lb/>
+copy.</p>
+<p>I had a nice letter<lb/>
+from Col. Hume today saying<lb/>
+that the Executive Council of<lb/>
+the ass'n of military Surgeons<lb/>
+<pb n="2" id="f04009002"/>
+had approved of the three<lb/>
+recipients for the Gorgas medal<lb/>
+this year. Gen'l Kean, Admiral Stitt,<lb/>
+General Russell!</p>
+<p>Kean's citation reads in<lb/>
+part &ldquo;He was father, said Surgeon<lb/>
+General Ireland, of the three administrative<lb/>
+measures upon which the medical<lb/>
+Dept of the army rested in the<lb/>
+First World War - creation of the<lb/>
+medical Reserve Corps <add>(1908)</add>. Organization<lb/>
+at parent institutions of the Army's<lb/>
+base hospitals. (1916) Development<lb/>
+of the Field medical supply depots<lb/>
+of the army (1903)&rdquo; &ldquo;He has<lb/>
+done more for the advancement<lb/>
+of the interests of the Department<lb/>
+than any officer who ever<lb/>
+belonged to the corps.&rdquo;</p>
+<pb n="3" id="f04009003"/>
+<p>B<lb/>
+BISMARCK HOTEL<lb/>
+&middot; CHICAGO &middot;</p>
+<p>I've written Col. Hume about<lb/>
+the &ldquo;Epitome&rdquo; project and plan<lb/>
+to see him early next week.<lb/>
+I think he'll like it and helps<lb/>
+us.</p>
+<p>I certainly enjoyed my<lb/>
+stay at Camp Carson and<lb/>
+hope you may get to San Antonio<lb/>
+for the ass'n meeting November<lb/>
+5<hi rend="superscript">th</hi> in which case I'll see you.</p>
+<p>Give my best to your<lb/>
+swell wife - and you'll be<lb/>
+hearing from me.</p>
+<closer>
+<salute>Sincerely</salute>
+<signed>George K.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

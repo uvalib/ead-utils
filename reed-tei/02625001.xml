@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t02625001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Walter Reed to Theobald Smith, July 19, 1902</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Walter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02625001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1902-07-19</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Smith, Theobald</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Carroll, James</name>
+<name type="person">Welch, William Henry</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="place">Cuba</name>
+<name type="place">West Indies</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>4 pp.</extent>
+<date value="1902-07-19">July 19, 1902</date>
+<idno rend="suppress">02625001</idno>
+<title>Letter from Walter Reed to Theobald Smith, July 19, 1902</title>
+</bibl>
+</head>
+<p>Reed writes concerning B. Icteroides and hog cholera, and the observations of microorganisms. He notes the affected populations' presence in Cuba. He appreciates congratulations for his honorary Harvard degree.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1902-07-19">
+<head>Letter from Walter Reed to Theobald Smith, July 19, 1902</head>
+<pb n="1" id="f02625001"/>
+<opener>
+<dateline>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<date value="1902-07-19">July 19<hi rend="superscript">th</hi>, '02.</date>
+</dateline>
+<salute>My dear Doctor Smith,</salute>
+</opener>
+<p>on<lb/>
+returning to the city from<lb/>
+a short outing, I find<lb/>
+your kind favor of the 8<hi rend="superscript">th</hi><lb/>
+<unclear>Inst</unclear>. I am, of course, ex-<lb/>
+tremely interested in what<lb/>
+you tell me about the<lb/>
+agglutinative reactions<lb/>
+of B. Icteroides &amp; Hog-chol-<lb/>
+era- Carroll &amp; I, as you<lb/>
+know, in testing the blood<lb/>
+of yellow fever &amp; hog-cholera,<lb/>
+<pb n="2" id="f02625002"/>
+had found that whenever<lb/>
+a given specimen would<lb/>
+clump Icteroides, it would<lb/>
+affect Hog-cholera in like<lb/>
+man<add>ner</add>- with a culture of<lb/>
+hog-cholera from Welch's<lb/>
+laboratory, we got clump-<lb/>
+ing with Icteroides serum<lb/>
+in less dilution than with<lb/>
+B. icteroides- we only tes-<lb/>
+ted this particular serum<lb/>
+with this one culture of<lb/>
+hog-cholera- As to the sig-<lb/>
+nificance of this clumping,<lb/>
+I have <del>have</del> not doubted<lb/>
+the very close affinity of<lb/>
+these microorganisms, ever<lb/>
+<pb n="3" id="f02625003"/>
+since I found that B. Ic-<lb/>
+teroides (orig) when fed to<lb/>
+young swine would pro-<lb/>
+duce a fatal infection with<lb/>
+the acute lesions of hog-<lb/>
+cholera - Concerning your<lb/>
+inquiry whether there is viru-<lb/>
+lent hog-cholera in Cuba,<lb/>
+I think that I can safely<lb/>
+answer yes. Agrimonte<lb/>
+&amp; other physicians assured<lb/>
+me that this disease was<lb/>
+well known on the Island<lb/>
+&amp; that, in certain years,<lb/>
+it caused a high mortality<lb/>
+among swine- I did<lb/>
+not see the disease, as<lb/>
+I made no attempts to do<lb/>
+<pb n="4" id="f02625004"/>
+so. I think that you can<lb/>
+safely accept its presence<lb/>
+there- The domestic relations<lb/>
+between the lower classes &amp; the<lb/>
+swine <del>is</del> <add>are</add> as intimate as<lb/>
+can be found amongst dwel-<lb/>
+lers in the same house, &amp; of ten<lb/>
+in the same room. Whether<lb/>
+B. Icteroides produces a disease<lb/>
+sui generis in the West Indies<lb/>
+I cannot say -- It probably<lb/>
+is responsible for occasional<lb/>
+fatal infections with contin-<lb/>
+ued fever- Thank you so<lb/>
+much for your kind congrat-<lb/>
+ulations on the Harvard<lb/>
+degree- of course, I didn't<lb/>
+deserve it, but could not<lb/>
+altogether repress <del>the</del> a feeling of<lb/>
+pride in finding myself in such dis-<lb/>
+tinguished company-</p>
+<closer>
+<salute>Sincerely, yours,</salute>
+<signed>Walter Reed</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

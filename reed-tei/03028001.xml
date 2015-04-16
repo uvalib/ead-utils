@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t03028001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Aristides Agramonte to William Crawford Gorgas, May 9, 1916</title>
+<title type="gmd">[electronic resource]</title>
+<author>Agramonte, Aristides</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03028001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1916-05-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Gorgas, William Crawford</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1916-05-09">May 9, 1916</date>
+<idno rend="suppress">03028001</idno>
+<title>Letter from Aristides Agramonte to William Crawford Gorgas, May 9, 1916</title>
+</bibl>
+</head>
+<p>Agramonte informs Gorgas that all his reports about the Yellow Fever Commission are completely accurate and can be proven, and that he believes he will never receive proper recognition for his contribution. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1916-05-09">
+<head>Letter from Aristides Agramonte to William Crawford Gorgas, May 9, 1916</head>
+<pb n="1" id="f03028001"/>
+<opener>
+&check;<lb/>
+Dr. Aristides Agramonte<lb/>
+Calle <unclear>[unclear]</unclear> (entre 15 y 17)<lb/>
+Habana-Cuba<lb/>
+<dateline>
+<date value="1916-05-09">May the ninth,<lb/>
+1916.</date>
+</dateline><lb/>
+Brig. Gen. W. C. Gorgas, U. S. Army,<lb/>
+War Department,<lb/>
+Washington, D. C.<lb/>
+<salute>My dear General:</salute>
+</opener>
+<p>It was very nice of Col. Kean to have called your attent-<lb/>
+ion again to my work in connection with the Army Yellow-fever Commiss-<lb/>
+ion and I thank you also, for the interest you may take in the matter.</p>
+<p>You no doubt refer to my article published in <hi>&ldquo;The Scientific<lb/>
+Monthly&rdquo;, December number</hi>, and not as you say, to the paper I read at<lb/>
+the late PanAmerican Congress. <hi>If it can be done, it would please me to<lb/>
+have it filed, as you suggest, in my personal records</hi>, in the War De-<lb/>
+partment.</p>
+<p>In preparing that history of our work, I was very careful to verify<lb/>
+every statement by referring to the Military Orders, my notes, record-<lb/>
+books, etc. so that the date of every event can be<add> </add>certified to, if nece<add>s-</add><lb/>
+sary, as absolutely true, and you will notice that even the day of the<lb/>
+week is given, in some instances: I tried very hard to eliminate the<lb/>
+personal equation, in the wording as well as in the spirit of the paper,<lb/>
+that it might result a clear unbiased record of what took place and why.</p>
+<p>It was originally written for a magazine less scientific than the<lb/>
+&ldquo;Monthly&rdquo; hence the style and the few, more or less, sentimental state-<lb/>
+ments it contains, which, of course, would have been entirely out of<lb/>
+place in a purely scientific exposition of our work.</p>
+<pb n="2" id="f03028002"/>
+<p>(2)</p>
+<p>There is not a single item there detailed, that cannot be proven<lb/>
+by documents easily obtainable at the War Department or that are in my<lb/>
+possession.</p>
+<p>Now, I have no hopes of getting any special recognition either from<lb/>
+the American or the Cuban Governments. All governments are ungrateful<lb/>
+if not forgetful, and more praises, like prayers, are sung of the dead,<lb/>
+than notice taken of the living. Inasmuch <add>as</add> I remained and made my home<lb/>
+in Cuba, and an Cuban born, no doubt the Americans consider me an alien.<lb/>
+On the other hand, the Cuban big bugs believe generally, that our great<lb/>
+epoch-making demonstration took the wind out of Finlay's sails, that<lb/>
+his glory would have been greater, and would now appear greater, if no<lb/>
+mention were made of the U.S.Army Yellow fever Board, and I am de-<lb/>
+fending the importance of <del><unclear>[unclear]</unclear></del> its achievement at every opportunity,<lb/>
+even in my speech, at the foot of Finlay's statue, upon the occasion<lb/>
+of its unveiling.</p>
+<p>Thus the matter stands, unmoved if not forgotten, and any change,<lb/>
+to my benefit, would come to me as a great surprise.</p>
+<closer>
+<salute>Believe me, thankful,<lb/>
+and very cordially,<lb/>
+Yours,</salute>
+<signed>Aristides Agramonte</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

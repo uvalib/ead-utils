@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t01853001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Article: Articles on Yellow Fever: Its Nature, Diagnosis, Treatment, and Prophylaxis, and Quarantine Regulations Relating Thereto, by Walter Wyman, June 15, 1898</title>
+<title type="gmd">[electronic resource]</title>
+<author>Wyman, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01853001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1898-06-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Murray, Robert</name>
+<name type="person">Gage, L. J.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>8 pp.</extent>
+<date value="1898-06-15">June 15, 1898</date>
+<idno rend="suppress">01853001</idno>
+<title>Article: Articles on Yellow Fever: Its Nature, Diagnosis, Treatment, and Prophylaxis, and Quarantine Regulations Relating Thereto, by Walter Wyman, June 15, 1898</title>
+</bibl>
+</head>
+<p>Wyman introduces R. D. Murray's paper on yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1898-06-15">
+<head>Article: Articles on Yellow Fever: Its Nature, Diagnosis, Treatment, and Prophylaxis, and Quarantine Regulations Relating Thereto, by Walter Wyman, June 15, 1898</head>
+<pb n="1" id="f01853001"/>
+<p><add>Centennial year<lb/>
+Annual Report of the Supervising<lb/>
+Surgeon - General of the Marine Hospital<lb/>
+Service of the U. S. of the fiscal year 1898<lb/>
+(Articles on YF pp 287-454 incl)</add></p>
+<p>==============================</p>
+<p>ARTICLES ON YELLOW FEVER:<lb/>
+ITS NATURE, DIAGNOSIS, TREATMENT, AND PROPHYLAXIS, AND QUARANTINE<lb/>
+REGULATIONS RELATING THERETO.</p>
+<p>==============================</p>
+<p>285</p>
+<pb n="2" id="f01853002"/>
+<p>YELLOW FEVER, ITS NATURE, DIAGNOSIS, TREAT-<lb/>
+MENT, AND PROPHYLAXIS, AND QUARANTINE<lb/>
+REGULATIONS RELATING THERETO.<lb/>
+The following articles and letter of transmittal were published and<lb/>
+transmitted in book form to quarantine and health officers, and others:<lb/>
+LETTER OF TRANSMITTAL<lb/>
+TREASURY DEPARTMENT,<lb/>
+OFFICE OF THE SUPERVISING SURGEON-GENERAL,<lb/>
+MARINE-HOSPITAL SERVICE,<lb/>
+Washington, D. C., June 15, 1898.<lb/>
+To the Honorable<lb/>
+The SECRETARY OF THE TREASURY.<lb/>
+SIR:</p>
+<p>I transmit herewith, arranged for publication with your approval,<lb/>
+a number of articles by officers of the Marine-Hospital Service relating<lb/>
+to yellow fever.</p>
+<p>These articles have been prepared by my direction by the officers of<lb/>
+the service, whose valuable work in connection with yellow-fever<lb/>
+epidemics has made them particularly well qualified for conveying the<lb/>
+information herein contained.</p>
+<p>No similar work has ever been published, and while it is to be hoped<lb/>
+that with the advancement of scientific medicine a positive knowledge<lb/>
+of the true nature of yellow fever will before long be acquired, and<lb/>
+that the measures for its prevention will be more accurate and certain<lb/>
+through this acquired knowledge, yet the information herein given is<lb/>
+at the present time pertinent and necessary.</p>
+<p>It is proposed to transmit this volume not only to the medical officers<lb/>
+of the Marine-Hospital Service, but to State and local quarantine<lb/>
+officers and to others to whom a plain statement of the method of diag-<lb/>
+nosis of yellow fever, its treatment, and the measures for the preven-<lb/>
+tion of its introduction into the United States, and for its suppression<lb/>
+when it has passed the boundaries of this country, will be of immediate<lb/>
+value.</p>
+<p>I have the honor to remain, respectfully, yours,</p>
+<p>WALTER WYMAN,</p>
+<p><hi rend="italic">Supervising Surgeon-General, Marine-Hospital Service</hi>.</p>
+<p>Approved:<lb/>
+L. J. GAGE,<lb/>
+<hi rend="italic">Secretary</hi>.<lb/>
+287<lb/>
+</p>
+<pb n="3" id="f01853003"/>
+<p>CIRCULAR LETTER ON DIAGNOSIS OF YELLOW FEVER ADDRESSED<lb/>
+TO CERTAIN PHYSICIANS ON THE GULF COAST.</p>
+<p>----------</p>
+<p>By Surg. R. D. MURRAY.</p>
+<p>----------</p>
+<p>MOBILE, ALA., <hi rend="italic">May 28, 1898</hi>.</p>
+<p>DEAR DOCTOR: I have prepared a short letter on the<lb/>
+importance of early diagnosis of cases of yellow fever,<lb/>
+which I have arranged to send to every physician on the<lb/>
+coast. As you are associated with me officially I will repeat<lb/>
+to you what I have written them and add some arguments<lb/>
+to increase your usual interest and perhaps give you some<lb/>
+extra aids in prompt diagnosis.</p>
+<p>* * * * * * *</p>
+<p>DISCOVERY OF FIRST CASES ENABLES SUPPRESSION OF<lb/>
+EPIDEMICS.</p>
+<p>It is well known that first cases can be prevented from<lb/>
+conveying the disease. Every prevalence for years has<lb/>
+shown this, and the results of prompt and proper action at<lb/>
+Perkinston, Miss., and Franklin, La., and in other towns<lb/>
+during the past season should stimulate every physician to<lb/>
+&ldquo;catch on&rdquo; to the first cases. A man is not a scoundrel<lb/>
+because he suspects a case, nor a fiend because he finds a<lb/>
+first case. But a doctor is culpable if he slurs over a case<lb/>
+and hopes against his judgment in order to save his precious<lb/>
+record with a vacillating public. I can not quite agree<lb/>
+with Dr. Guiteras that we can inure our people to prompt<lb/>
+announcements of suspicion and actual cases, but I know<lb/>
+the people will fully trust us if our words and conduct are<lb/>
+apparently in behalf of their final interest.</p>
+<p>It is easy to call every illness &ldquo;yellow&rdquo; a month after<lb/>
+other towns have quarantined, but it is not easy to decide<lb/>
+on an individual case when no warning has been given and<lb/>
+no source of infection is read about every morning.</p>
+<p>289</p>
+<p>10918--19</p>
+<pb n="4" id="f01853004"/>
+<p>290<lb/>
+MARINE-HOSPITAL SERVICE.</p>
+<p>DO NOT BE DILATORY IN REPORTING FIRST CASES.</p>
+<p>It will not do to advocate the notion that any place is<lb/>
+free from the chance of infection, nor to insist that all the<lb/>
+old-time symptoms must be present, with a death or two<lb/>
+added, before one suffers with a twinge of honesty and<lb/>
+risks his present prosperity by doing what should be done<lb/>
+with a first case.</p>
+<p>Scares and false alarms are hurtful, but they do not<lb/>
+usually kill. I would as little trust an alarmist as one who<lb/>
+&ldquo;would die before he would report a suspicious case.&rdquo;<lb/>
+Duty to one's self, to one's family, and to all communities<lb/>
+demand careful observation of every fever case, with proper<lb/>
+action in case there is reason to suspect yellow fever. A<lb/>
+lot of &ldquo;rejected&rdquo; cases have spread the infection. It is<lb/>
+established that only yellow fever makes yellow fever, but<lb/>
+it is not so well known that a mild case of yellow fever is<lb/>
+as dangerous as a case that ends fatally in sixty hours. I<lb/>
+think the mild case much more dangerous than a &ldquo;genuine&rdquo;<lb/>
+one.</p>
+<p>&ldquo;MILD CASES&rdquo; ARE DANGEROUS DISEASE SPREADERS.</p>
+<p>Now, to quicken your senses, to increase your usefulness,<lb/>
+and to assist you in giving your best efforts to your people<lb/>
+I presume to give you some hints as to discovery of first<lb/>
+cases. I do not claim to be expert, but I have a long record<lb/>
+of lucky decisions which warrant me in speaking freely to<lb/>
+those who have been so fortunate as to have an abiding<lb/>
+place or a place called &ldquo;home.&rdquo; I am not infallible, but I<lb/>
+am in earnest in my desire to do good to others and to save<lb/>
+my people from the horrors of an epidemic and the provo-<lb/>
+cations of quarantine. Mild cases of yellow fever are the<lb/>
+mildest cases of disease that can be seen. Walking cases,<lb/>
+nursing cases, and transient cases are more common than<lb/>
+doctors realize. Mild cases transmit infection as easily<lb/>
+and effectually as bad cases, and thus make &ldquo;genuine&rdquo;<lb/>
+cases in the proper persons. Mild cases are not so quickly<lb/>
+apprehended as severe ones, but they can be isolated more<lb/>
+easily and at less expense than bad ones. Mild cases are<lb/>
+the cases to look out for.</p>
+<p>It is not true that a prevalence of the disease must be<lb/>
+begun by a death or black vomiting. It is true that a<lb/>
+walking case introduced the disease into a village last year<lb/>
+where the earmarks of yellow fever were shown the best,<lb/>
+and the results were worst in comparison with all other<lb/>
+infected towns of which there is a record.</p>
+<p>I do not believe in recrudescence or hibernation of the<lb/>
+fever in small towns or in the country, but many health<lb/>
+<pb n="5" id="f01853005"/>
+MARINE-HOSPITAL SERVICE.<lb/>
+291<lb/>
+officials do, and as there is a possibility that all is not<lb/>
+known of past epidemics and that there is much to be<lb/>
+learned yet of the yellow-fever pest, it behooves us to be<lb/>
+watchful--first, for the sake of our professional probity,<lb/>
+and second, in the interest of our people.</p>
+<p>I am reiterative in order to gain your attention. Pardon<lb/>
+me if I seem to be prolix.</p>
+<p>POINTS TO BE CAREFULLY NOTED.</p>
+<p>First. As to the region lately beset by the Cuban plague,<lb/>
+permit me to remind you of what the doctors think--i.e.,<lb/>
+that the disease recurs; this remark is to prepare you for<lb/>
+rumors that there is yellow fever in your practice or com-<lb/>
+munity <hi rend="italic">now!</hi> So be prepared to affirm or deny by the<lb/>
+card. Note taking is a good thing for doctors!</p>
+<p>Second. If there is reported yellow fever within the com-<lb/>
+munications of your place, suspect every case of febrile<lb/>
+disease but say nothing! Get to thinking! Here is the<lb/>
+chance for careful observation and some taking of notes.<lb/>
+Not long ago a physician blundered as to the date of his<lb/>
+first visit! His memory of the pulse, temperature, and<lb/>
+nausea was of same sort--his patient died.</p>
+<p>Third. If called to any person who sickened in the night<lb/>
+or early morning and complains of headache and malaise<lb/>
+or body and leg ache with some stomach distress, suspect<lb/>
+the case and make inquiry as to where he got it. A chill<lb/>
+is called for in the books, but one sufficiently severe to be<lb/>
+told of to you is rare; there will be a story of chilliness or <lb/>
+waking up in discomfort. Distress in the early morning is<lb/>
+a rule; a failure to eat a good breakfast is a bad omen, but<lb/>
+hints at a mild case. Fever of 101 to 103 with pulse of<lb/>
+110 to 120; cutting pain through the forehead, with aching<lb/>
+eyes; fullness of eyes with some pain and suffusion, gener-<lb/>
+ally with injection are probable signs. The back and<lb/>
+thighs will be sore in a severe case; there is some soreness<lb/>
+in the mildest cases. Severer cases will have pain in<lb/>
+back of neck and in calves. Ask few questions. Press<lb/>
+firmly and deeply over where you think the gall bladder<lb/>
+lies and you will generally elicit a squeak--don't men-<lb/>
+tion it! The face will be full and less mobile than in health<lb/>
+with a fullness of the upper lip rendering a smile less<lb/>
+gracious.* These signs depend somewhat on an acquaint-<lb/>
+ance with the person. The cheeks will be of a dusky red<lb/>
+color--more or less--and depending on the patient's color;</p>
+<p>--------------------------------------------------------------</p>
+<p>* Passed Assistant Surgeon White reports that he made two diag-<lb/>
+noses with the swollen upper lip as the first noticeable symptom.</p>
+<pb n="6" id="f01853006"/>
+<p>292<lb/>
+MARINE-HOSPITAL SERVICE.</p>
+<p>sometimes faintly purplish. Sweating will diminish these<lb/>
+face signs in a few hours. The injection of the sclerotics<lb/>
+will increase until after thirty-six hours some yellowing<lb/>
+may be observed; in children, the eyes will remain pearly<lb/>
+excepting the suffusion and the red streaks; some excep-<lb/>
+tions. Frequently pressure on the eye balls will cause<lb/>
+complaint--sure to do so in bad cases. Primary complete<lb/>
+or semi constipation is always present. I never heard of<lb/>
+a diarrh&oelig;ie person being attacked. The cases you hear of<lb/>
+will bear explanation or further inquiry.</p>
+<p>The circulation in the skin will be faulty; the skin may<lb/>
+be streaked by the passing finger or paled for a quarter of<lb/>
+a minute by pinching; this is a good sign, and best after<lb/>
+thirty-six hours. The skin will be moist, as a rule, and<lb/>
+will keep moist to the end, whether medicine is given or<lb/>
+not. In diagnosis early or for first cases don't look for yel-<lb/>
+low skin. The pain of back and legs will be in the muscles<lb/>
+and not in the bones and joints; you can make this point<lb/>
+by care; squeeze the thighs or calves. Note that unless<lb/>
+there is nausea or headache the person lies quiet. (Vide<lb/>
+dengue.) There will be less rapidity of the pulse than the<lb/>
+height of fever warrants, judging from lung disorders and<lb/>
+enteric fever. Do not blunder over one who smokes too<lb/>
+much, for his pulse will count less when he reduces his<lb/>
+daily quantity or has to quit smoking. Also, consider the<lb/>
+effect of your presence on your patient's excitability. The<lb/>
+pulse should be counted without the patient's knowledge.<lb/>
+After two and a half or three days the pulse will fall below<lb/>
+70 and later on lower yet; fright and irritations will pre-<lb/>
+vent the slow beating from being observed.</p>
+<p>The above signs are sufficient to warrant isolation and<lb/>
+disinfection of all discharges, clothing and discarded bed-<lb/>
+ding, even if there is no known fever within a thousand<lb/>
+miles. Also, warrant for sending for me if you need me.<lb/>
+Please note that these signs may be in minimum--any old<lb/>
+nurse can comprehend the maximums. After sixty hours<lb/>
+there should be some albumen in the urine--it is possible<lb/>
+for no urine to be procured and that no albumen is found.<lb/>
+In women urine is not reliable; in children it is difficult to<lb/>
+get. But it must be obtained. Do not confound albumen<lb/>
+with mucin and do not treat other symptoms lightly<lb/>
+because you do not get albumen.</p>
+<p>At this stage some brown mucus, or black discharges, or<lb/>
+&ldquo;bismuth&rdquo; stools may be looked for rather early in mild<lb/>
+cases--may be late in severe ones. This is only confirma-<lb/>
+tory; rather late for diagnosis. So with nausea and vomit-<lb/>
+ing. Mild cases suffer with distaste for usual food only.</p>
+<pb n="7" id="f01853007"/>
+<p>MARINE-HOSPITAL SERVICE.<lb/>
+293</p>
+<p>Of course there is anorexia from the beginning; usually<lb/>
+vomiting of the last food taken; bile will be vomited early<lb/>
+if the early nausea is not checked; no bile will be vomited<lb/>
+after about thirty-six hours if the patient has had proper<lb/>
+bowel actions.</p>
+<p>After vomiting of last food taken and a little bile the<lb/>
+vomit will usually be white, and will remain so until blood<lb/>
+oozes into the duodenum or stomach. As to black vomit-<lb/>
+ing, do not be hypercritical, the chances are vastly in favor<lb/>
+of yellow fever. Please notice the hiccough and retching,<lb/>
+and listen to the black fluid regurgitating through the<lb/>
+pylorus into the stomach. But this is rather late for<lb/>
+diagnosis of a first case, and is not applicable in mild cases.<lb/>
+Mild cases demand examination of the feces. Always con-<lb/>
+sider the chances of infection to and from your patient.</p>
+<p>DIFFERENTIAL DIAGNOSIS.</p>
+<p>Yellow fever is like a language; you should know some-<lb/>
+thing of others. Differentially considered, dengue has a<lb/>
+demonstrable rash in the fauces always, between the<lb/>
+shoulder blades, generally, and often over the big joints and<lb/>
+on the trunk. The pains of dengue are <hi rend="italic">in</hi> the bones and<lb/>
+joints. A dengue patient is in pain and can not lie still--<lb/>
+he don't want to get up. Yellow fever pains, except the<lb/>
+head, are in the muscles, and the patient after four or five<lb/>
+days is comfortable <hi rend="italic">in</hi> bed, but wants to get up and do a lot<lb/>
+of work. He gets up only to faint and return to bed. The<lb/>
+dengue patient gets up, but keeps on growling about his<lb/>
+pains. This is a late distinction, but it is valuable.</p>
+<p>Malaria is usually prodromed for some days by malaise,<lb/>
+loss of appetite, discontent, and a general tired feeling. It<lb/>
+nearly always attacks in the daytime or when the victim is<lb/>
+at his work, and is ushered in with a positive chill. Consti-<lb/>
+pation is the rule, but not so marked a feature as in yellow<lb/>
+fever. The malarial tongue is full--swelled--too big for the<lb/>
+mouth--tooth marked and heavy coated, with white edge<lb/>
+and yellow or dirty top area. A yellow-fever tongue is<lb/>
+rarely indented--if it is, there is malaria in the patient; it<lb/>
+soon shrinks and gets a red edge and red tip; the red tip<lb/>
+is diamond-shaped, the front of the diamond being made by<lb/>
+the edges. I do not know about the congestion of the ves-<lb/>
+sels under the tongue in yellow fever and the paleness of<lb/>
+same in malaria. You, may be, will have a chance to make<lb/>
+observations.</p>
+<p>Malarial vomiting is attended with more bile than is<lb/>
+usual in yellow fever; this is a guess-point in diagnosis, but<lb/>
+<pb n="8" id="f01853008"/>
+294<lb/>
+MARINE-HOSPITAL SERVICE.<lb/>
+the statement is true. Malarial attacks generally permit<lb/>
+the fever to decline without medicine and the fever will<lb/>
+not cease unless medicine is given. Another good point in<lb/>
+differentiation is the presence or absence of labial herpes<lb/>
+in convalescents, particularly in young persons; herpes<lb/>
+does not occur in yellow fever cases; it is common in mala-<lb/>
+ria. Of course, this is a late sign so far as the individual<lb/>
+is concerned, but it has aided me much in giving a hint as<lb/>
+to what the other sick one suffers with.</p>
+<p>As a hint for you to consider in deciding on the first case<lb/>
+permit me to say that the yellow fever patient gets up &ldquo;all<lb/>
+knocked out; was never so weak in my life after so short<lb/>
+a sickness;&rdquo; the dengue patient gets up &ldquo;sore and tired;<lb/>
+ache all over yet;&rdquo; the malarial patient is able to work<lb/>
+every other day. Another hint, but late for diagnosis: the<lb/>
+yellow fever patient is mentally alert; the dengue patient<lb/>
+complains much; the malarial don't care much. These<lb/>
+points do not apply to individual cases, but are valuable if<lb/>
+you have a number of patients to visit.</p>
+<p>I have given you sufficient reasons, symptoms, and signs<lb/>
+to either put you on your guard or to permit you to act for<lb/>
+the benefit of all. Yellow fever is not a &ldquo;bogey,&rdquo; neither<lb/>
+is it uncontrollable.</p>
+<p>I hope you will duly consider the <hi rend="italic">possibility</hi> of cases<lb/>
+occurring in your rounds and also the importance of early<lb/>
+action in first cases.</p>
+<p>I am at liberty to visit you on call by letter or telegram<lb/>
+at any time at no expense to you or your clients, and to the<lb/>
+best of my ability and the limit of my time I will be glad<lb/>
+to serve you.</p>
+<p>Please notice that rumors of fever are plenty here and<lb/>
+there, and consider that a prompt denial will oftentimes<lb/>
+prevent a panic; also a prompt notice will save lives by<lb/>
+permitting orderly exit from danger centers.</p>
+<p>The service has arranged to have samples of suspected<lb/>
+blood examined by the new agglutinative test by Dr. Archi-<lb/>
+nard, of New Orleans. Samples of malarial blood can be<lb/>
+examined in the hospital at Mobile. If you wish special<lb/>
+instructions please make request of me.</p>
+<p>In return for what I hope to do for you I request that<lb/>
+you send me, at least, a weekly report of health conditions<lb/>
+in your region and that you inform me in detail of all<lb/>
+rumors and suspected cases. As I am pretty well ac-<lb/>
+quainted with the town and people it is needful that I get<lb/>
+names and addresses. Sometimes it may be advisable for<lb/>
+me to go in person, and if I know the residence can save</p>
+<pb n="9" id="f01853009"/>
+<p>much time by going direct from depots.  Again, if I have<lb/>
+names I can from time to time refute the secondary rumor <lb/>
+without a doubt as to persons and places.<lb/>
+I fear I have tired you, but I am so desirous of enlisting<lb/>
+your aid and arousing your interest in this very important<lb/>
+matter that I am willing to be blamed for prolixity.<lb/>
+Command me in any way, personal or professional.<lb/>
+Yours, sincerely,</p>
+<p>R.D. MURRAY</p>
+<p><hi rend="italics">Surgeon, Marine-Hospital Service.</hi>,</p>
+</div1>
+</body>
+</text>
+</TEI.2>

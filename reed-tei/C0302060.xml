@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302060">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Yellow Fever in Jamaica, by B. E. Washburn, [1923] [Enclosed in C0302058]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Washburn, B. E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302060</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Gardner, W. J.</name>
+<name type="person">Hunter, John</name>
+<name type="person">Maunsell, S. E.</name>
+<name type="person">Anderson, Izett</name>
+<name type="person">Columbus, Christopher</name>
+<name type="place">Jamaica</name>
+<name type="place">West Indies</name>
+<name type="place">Kingston (Jamaica)</name>
+<name type="place">Cuba</name>
+<name type="place">St. Lucia</name>
+<name type="place">Barbados</name>
+<name type="place">Haiti</name>
+<name type="place">Santo Domingo (Dominican Republic)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1923-00-00">[1923]</date>
+<idno rend="suppress">C0302060</idno>
+<title>Report: Yellow Fever in Jamaica, by B. E. Washburn, [1923] [Enclosed in C0302058]</title>
+</bibl>
+</head>
+<p>Washburn describes the history of yellow fever epidemics in Jamaica, discussing the higher mortality rate for European military troops and treatments used prior to knowledge of the source of yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1923-00-00">
+<head>Report: Yellow Fever in Jamaica, by B. E. Washburn, [1923] [Enclosed in <xref id="C0302058">C0302058</xref>]</head>
+<pb n="1" id="fC0302060"/>
+<p>YELLOW FEVER IN JAMAICA<lb/>
+By-B. E. Washburn.</p>
+<p>----</p>
+<p>From the time of the discovery of Jamaica by Columbus in 1494<lb/>
+until the end of the nineteenth century narratives of epidemics of yellow<lb/>
+fever are prominent in all the histories and travel narratives of the<lb/>
+Island. Soon after its discovery, the Spaniards established colonies in<lb/>
+the Island and these flourished, with varying success, until the Island<lb/>
+was taken by the English in 1655.</p>
+<p>A record of the Spanish occupation is found in the <hi rend="underline">Archives<lb/>
+of Saville</hi>; yellow fever is not mentioned specifically in these <hi rend="underline">Archives</hi><lb/>
+but there is mention made of much sickness from tropical diseases among<lb/>
+the early settlers. In 1665, ten years after the English took possession<lb/>
+of the Island there was severe epidemic of yellow fever; so it is quite<lb/>
+likely that the tropical &ldquo;plagues&rdquo; of the Spaniards were also yellow<lb/>
+fever.</p>
+<p>In this epidemic of 1665 (related by W. J. Gardner in a <hi rend="underline">History<lb/>
+of Jamaica</hi>) of a regiment of 850 men who arrived in the year,within a few<lb/>
+weeks, not one-third were fit for duty, and among these only four of the<lb/>
+officers. Tradition says that 50 of these soldiers died on November 5th<lb/>
+and that the mortality was often as high as 20 a day. Gardner also gives<lb/>
+accounts of epidemics which began in November 1741 and October 1780, and<lb/>
+of the &ldquo;Big Epidemic&rdquo; of 1796.</p>
+<p>From 1665 up through the first quarter of the nineteenth century,<lb/>
+Jamaica was a Military Station of importance and was headquarters for the<lb/>
+English Army and Navy in the West Indies. The records of these give a<lb/>
+<pb n="2" id="fC0302061"/>
+- 2 -<lb/>
+very complete history of the Island; and they do not fail to relate<lb/>
+the part yellow fever played in working devastation to both military<lb/>
+and civil life. The disease seems to have been endemic in the Colony<lb/>
+during most of this period of about 150 years, with frequent epidemics<lb/>
+of great severity.</p>
+<p>Dr. John Hunter (in <hi rend="underline">Disease of the Army in Jamaica</hi>, 1788) gives<lb/>
+proof of the frighful mortality among the European troops. He states<lb/>
+that during the first year the 88th Regiment was in Jamaica that about one-<lb/>
+third of the men died, while in the second year nearly one-fifth of the<lb/>
+remainder died. In the 85th Regiment there died in the first year five-<lb/>
+twelveths of the troops, while during the next eleven months the deaths<lb/>
+amounted to more than one-eighth. The same high mortality rates were<lb/>
+found in other regiments. The 93rd Regiment, for example, was composed<lb/>
+of 404 men, within six months after reaching Jamaica upwards of one-half<lb/>
+had died, and of those remaining only 72 were fit for further service.<lb/>
+The 94th Regiment landed with 531 men and by the end of the first year<lb/>
+more than one-half of these were dead. Hunter states:</p>
+<p>&ldquo;In less than 3 years there died in the Island of Jamaica<lb/>
+3500 men, those that were discharged (as unfit for further<lb/>
+service) amounted to one-half of that number, which makes<lb/>
+in all 5250 men lost to the service in that short period<lb/>
+of time - without a man dying by the hands of the enemy&rdquo;.</p>
+<p>Coming to more recent times, Dr. S. E. Maunsell (in <hi rend="underline">contri-<lb/>
+butions</hi> to the <hi rend="underline">Medico-Military History of Jamaica</hi>, 1891) states that<lb/>
+the mortality among the European troops stationed in Jamaica during<lb/>
+the nineteenth century is as follows: From 1817 to 1836 the average<lb/>
+rate was 121.3 per 1000, and from 1837 to 1847 it was 63.07 per 1000.<lb/>
+After the latter date the mortality steadily decreased until in the<lb/>
+period between 1880 - 1889 the average annual mortality was only 11.36<lb/>
+<pb n="3" id="fC0302062"/>
+- 3 -<lb/>
+per 1000. These statistics give the deaths from all causes, but it<lb/>
+is stated that in the first named period the deaths from yellow fever<lb/>
+were 101.9 per 1000 and in the last 4.3 per 1000.</p>
+<p>According to Dr. Maunsell the mortality among civilians of<lb/>
+European birth was not so great as that of the troops, but they &ldquo;suf-<lb/>
+fered to a very great extent&rdquo;. This, he states, is due to the fact<lb/>
+that the military barracks were crowded and badly situated, especially<lb/>
+as regards adjoining swamps, and improperly constructed and ventilated.<lb/>
+Also the soldiers were not properly clad for life in the tropics, and<lb/>
+their food and water were often bad.</p>
+<p>Dr. Izett Anderson, writing in 1898 (in <hi rend="underline">Yellow Fever in the<lb/>
+West Indies</hi>) accounts for the decrease in the mortality rate from<lb/>
+yellow fever in the following terms:</p>
+<p>&ldquo;All this is now altered. Improved sanitary conditions<lb/>
+and surroundings of the barracks, strict attention to<lb/>
+the moral and physical well-being of the European soldier,<lb/>
+a clearer apprehension of the predisposing causes of dis-<lb/>
+ease, and improved methods of treatment, have led to a<lb/>
+steady diminuition of the death rate, as is shown by the<lb/>
+statistics. And as regards the civilian population the<lb/>
+same improvement also exists&rdquo;.</p>
+<p>Dr. Anderson also gives some interesting theories as to the<lb/>
+cause of yellow fever. Note the following:</p>
+<p>&ldquo;In Kingston during the past 25 years the soil has been ex-<lb/>
+tensively turned up on three occasions. In 1872 and 1873<lb/>
+the new water pipes were laid for the first time; and in<lb/>
+1897 drainage pipes were being laid. <hi rend="underline">On each of these<lb/>
+occasions there was a severe outbreak of yellow fever</hi><unclear>.&rdquo;</unclear></p>
+<pb n="4" id="fC0302063"/>
+<p>- 4 -</p>
+<p>(The italics are Dr. Anderson's).</p>
+<p>The following observations are recorded by Dr. Anderson:<lb/>
+Black and coloured races are not as liable to contract the disease<lb/>
+as the whites.</p>
+<p>Previous residence in the tropics diminishes liability to<lb/>
+contract the disease.</p>
+<p>Male adults are more susceptible, especially European soldiers<lb/>
+and sailors.</p>
+<p>Algid Cases occurred among the troops in Jamaica between 1834<lb/>
+and 1845.</p>
+<p>The best treatment for yellow fever according to Dr. Anderson,<lb/>
+is what is called the 20 and 24 treatment&rdquo;. That is, 20 grains of cal-<lb/>
+omel and 24 grains of quinine for a dose in the first stages of the fever.<lb/>
+This may be repeated as many as three times during the first 24 hours.<lb/>
+If the patient survives, plenty of rum and water should be given.</p>
+<p>Yellow fever made its last appearance in Jamaica in 1897 in<lb/>
+the form of an epidemic. For the 25 years prior to this only isolated<lb/>
+cases had occurred in the Colony. An account of this Epidemic of 1897<lb/>
+is given in the <hi rend="underline">Report of The Superintending Medical Officer for the<lb/>
+year ending March 31, 1898</hi>. The source of the infection is unknown; the<lb/>
+disease broke out in epidemic from during the Autumn and by the end of<lb/>
+the year 174 cases with 68 deaths had been reported. The infection<lb/>
+appeared in a number of places almost simultaneously and a state of<lb/>
+panic existed, especially in Kingston where there were 38 deaths.</p>
+<p>There were 40 cases with 21 deaths in the Kingston General<lb/>
+Hospital, while 29 cases with 15 deaths were reported from the Military<lb/>
+Camps.</p>
+<p>In the accounts of yellow fever epidemics in Jamaica no direct<lb/>
+<pb n="5" id="fC0302064"/>
+- 5 -<lb/>
+information is given as to the source of the infection. This is<lb/>
+undoubtedly due to the fact that neither the cause of the disease nor<lb/>
+the mode of transmission was known. In Jamaica, during the last (1897)<lb/>
+epidemic it seems to have been the opinion of the leading medical prac-<lb/>
+titioners that the cause was some emanation from the earth. It is likely,<lb/>
+however, that this last epidemic was brought from Cuba, for large numbers<lb/>
+of people of Spanish descent or political views fled to Jamaica from<lb/>
+Cuba prior to the Spanish-American War.</p>
+<p>Suring the eighteenth century English troops came to Jamaica<lb/>
+by way of St. Lucia and Barbados. Yellow Fever was more or less en-<lb/>
+demic in these two islands, especially in St. Lucia, during the time<lb/>
+and this is likely the source of the epidemics of this period. From<lb/>
+1800 to 1810, the time of the revolt against the French in Hayti, many<lb/>
+French families migrated to Jamaica; while earlier, when Jamaica was<lb/>
+still a Spanish Colony, there was constant communication with San Domingo<lb/>
+which then was Spanish headquarters in the Western World. It would seem<lb/>
+most likely that yellow fever came to Jamaica from the other English<lb/>
+Colonies and from Cuba and San Domingo.</p>
+<p>It was in 1898, immediately following the last epidemic in<lb/>
+Jamaica, and the same year as the publication of Dr. Izett <unclear>Anderson's</unclear><lb/>
+book on Yellow Fever, that Dr. Walter Reed and his associates discovered<lb/>
+the factors responsible for the spread of the disease. An application<lb/>
+of the principles laid down by Reed has caused yellow fever to disappear<lb/>
+from Jamaica and the most dreaded scourge of the past no longer handi-<lb/>
+caps the Colony.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

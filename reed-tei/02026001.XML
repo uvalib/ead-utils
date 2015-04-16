@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02026001"> 
+<teiHeader type="aacr2"> 
+<fileDesc> 
+<titleStmt> 
+<title type="245">Military Orders for John S. Neate, June 4, 1900</title> 
+<title type="gmd">[electronic resource]</title> 
+<author>Corbin, H. C.</author> 
+<respStmt> 
+<resp>Transcriptions and TEI markup</resp> 
+<name>Innodata Inc</name> 
+<resp>Images, project design, and management:</resp> 
+<name>Historical Collections &amp; Services<lb/> 
+Claude Moore Health Sciences Library<lb/> 
+University of Virginia Health System<lb/> 
+P.O. Box 800722<lb/> 
+Charlottesville, VA 22908-0722 
+</name> 
+<resp>TEI consultation:</resp> 
+<name>Electronic Text Center<lb/> 
+University of Virginia Library<lb/> 
+</name> 
+</respStmt> 
+</titleStmt> 
+<extent>ca. 15 kilobytes</extent> 
+<publicationStmt> 
+<publisher>Claude Moore Health Sciences Library of the 
+University of Virginia Health System</publisher> 
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace> 
+<idno>02026001</idno> 
+<availability> 
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p> 
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p> 
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt> 
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection 
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno> 
+</bibl> 
+</sourceDesc> 
+</fileDesc> 
+<profileDesc>
+<creation><date>1900-06-04</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Neate, John S. </term></keywords></textClass>
+</profileDesc>
+<revisionDesc> 
+<change><date></date> 
+<respStmt><resp></resp> <name></name></respStmt> 
+<item></item></change> 
+</revisionDesc> 
+</teiHeader> 
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Miles, Nelson Appleton</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Washington Barracks (Washington, D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1900-06-04">June 4,1900</date>
+<idno rend="suppress">02026001</idno>
+<title>Military Orders for John S. Neate, June 4, 1900</title>
+</bibl>
+</head>
+<p>Special Orders #130 transfers Neate to Quemados, Cuba to report to Reed. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-06-04">
+<head>Military Orders for John S. Neate, June 4, 1900</head>
+<pb n="1" id="f02026001"/>
+<p>FROM THE NATIONAL ARCHIVES</p>
+<p>spec order<lb/>
+Vol 1 - 1900 <lb/>
+<unclear>Neate</unclear></p>
+<p>SPECIAL ORDERS,<lb/>
+No. 130. }</p>
+<p>HEADQUARTERS OF THE ARMY,<lb/>
+ADJUTANT GENERAL'S OFFICE,<lb/>
+<hi rend="italic">Washington, June 4, 1900</hi>.</p>
+<p>1. Private <hi rend="italic">Henry T. Shoemaker</hi>, Company I, 14th Infantry,<lb/>
+Manila, Philippine Islands, is transferred to Company A. Bat-<lb/>
+talion of Engineers, stationed at that place, and will report to<lb/>
+the commanding officer thereof for duty. The expenses of the<lb/>
+transfer, if any, will be borne by the soldier.</p>
+<p>2. By direction of the Assistant Secretary of War, Private<lb/>
+<hi rend="italic">Perry G. Holsted,</hi> Company A, 14th Infantry, Army General<lb/>
+Hospital, Presidio of San Francisco, California, will be sent<lb/>
+to the Army and Navy General Hospital, Hot Springs, Arkan-<lb/>
+sas, reporting upon his arrival to the commanding officer for<lb/>
+treatment in the hospital. The commanding officer of the<lb/>
+hospital at the Presidio will forward by mail to the command-<lb/>
+ing officer of the hospital at Hot Springs the descriptive list<lb/>
+and account of pay and clothing of the soldier. Unless the<lb/>
+soldier is a proper subject for discharge for disability or<lb/>
+change of climate, the commanding officer of the hospital<lb/>
+will on conclusion of treatment send him to his proper sta-<lb/>
+tion, as required by Circular, No. 16, of December 8, 1892,<lb/>
+from this office.</p>
+<p>3. First Lieutenant <hi rend="italic">Henry M. Dichman</hi>, battalion adjutant,<lb/>
+7th U. S. Infantry, is relieved from duty with Company D, 7th<lb/>
+U. S. Infantry, at San Carlos, Arizona Territory, and will pro-<lb/>
+ceed to join his battalion at Seattle, Washington. The travel<lb/>
+enjoined is necessary for the public service.</p>
+<p>4. By direction of the Assistant Secretary of War, Private<lb/>
+<hi rend="italic">John Auer,</hi> Battery N, 5th Artillery, Fort Hamilton, New<lb/>
+York, having enlisted under false pretences, will be discharged<lb/>
+without honor from the Army by the commanding officer of his<lb/>
+station. Under paragraph 1386 of the Regulations this soldier<lb/>
+is not entitled to pay or allowances, and final statements shall<lb/>
+not be furnished him.</p>
+<p>5. By direction of the Assistant Secretary of War, Private<lb/>
+<hi rend="italic">Seldon J. Williams,</hi> Company A, 17th Infantry, Fort Sheridan,<lb/>
+Illinois, will be discharged without honor from the Army by<lb/>
+the commanding officer of that post, by reason of desertion.<lb/>
+This soldier is not entitled to travel-pay</p>
+<pb n="2" id="f02026002"/>
+<p>2</p>
+<p>6. By direction of the Assistant Secretary of War, Private<lb/>
+<hi rend="italic">William A. Hickey,</hi> Company C, 45th Infantry, U. S. Volun-<lb/>
+teers, U. S. Army General Hospital, Presidio of San Francisco,<lb/>
+California, will be discharged from the Army, by reason of<lb/>
+being unsuited to the service, by the commanding officer of<lb/>
+his station. This soldier is entitled to travel-pay.</p>
+<p>7. By direction of the Assistant Secretary of War, Recruit<lb/>
+<hi rend="italic">Charles Lorr, jr.,</hi> general service, Columbus Barracks, Ohio,<lb/>
+will be discharged from the Army by the commanding officer<lb/>
+of his station, by reason of being unsuited to the service. This<lb/>
+soldier is entitled to travel-pay.</p>
+<p>8. By direction of the Assistant Secretary of War, Private<lb/>
+<hi rend="italic">Adam J. Reitz,</hi> Hospital Corps, now at Jefferson Barracks,<lb/>
+Missouri, will be sent to Fort Columbus, New York, and will<lb/>
+report upon arrival to the commanding officer of that post,<lb/>
+who will furnish him transportation to Santiago, Cuba. Upon<lb/>
+his arrival at Santiago he will report to the commanding offi-<lb/>
+cer, U. S. Army General Hospital, for duty.</p>
+<p>9. Private <hi rend="italic">Luther Miller,</hi> Battery K, 5th Artillery, now at<lb/>
+Fort Myer, Virginia, is transferred to Troop H, 3d Cavalry,<lb/>
+stationed at that place, and will report to the commanding<lb/>
+officer thereof for duty.</p>
+<p>10. By direction of the Assistant Secretary of War, Private<lb/>
+<hi rend="italic">Bernard Kelly,</hi> Company C, 26th Infantry, U. S. Volunteers,<lb/>
+now in the hands of the civil authorities at Utica, New York,<lb/>
+will be discharged without honor from the Army, by reason<lb/>
+of desertion, by the officer in charge of the recruiting station,<lb/>
+No. 109 Bastable Building, Syracuse, New York. This soldier<lb/>
+is not entitled to travel-pay.</p>
+<p>11. By direction of the Assistant Secretary of War, the fol-<lb/>
+lowing-named enlisted men, supposed to be at the stations des-<lb/>
+ignated after their respective names, will be discharged, by way<lb/>
+of favor, from the Army by the commanding officers of their<lb/>
+respective stations:</p>
+<p>Private <hi rend="italic">George N. Glassbrook,</hi> Troop D, 6th Cavalry, Fort<lb/>
+Reno, Oklahoma Territory;</p>
+<p>Private <hi rend="italic">Dana D. Ong,</hi> Troop M, 6th Cavalry, Jefferson Bar-<lb/>
+racks, Missouri;</p>
+<p>Corporal <hi rend="italic">Patrick H. Fry,</hi> Battery M, 1st Artillery, Sullivans<lb/>
+Island, South Carolina;</p>
+<p>Private <hi rend="italic">Earle V. Carskadon,</hi> Light Battery D, 6th Artillery,<lb/>
+<pb n="3" id="f02026003"/>
+3<lb/>
+Army General Hospital, Presidio of San Francisco, California;<lb/>
+Private <hi rend="italic">Edward J. Collins,</hi> Company I, 5th Infantry, Fort<lb/>
+Sheridan, Illinois;</p>
+<p>Private <hi rend="italic">Edward S. Gregory,</hi> Hospital Corps, Fort McDowell,<lb/>
+California.</p>
+<p>These soldiers are not entitled to travel-pay.</p>
+<p>12. By direction of the Assistant Secretary of War, Hospital<lb/>
+<hi rend="italic"><hi>Steward John S. Neate</hi></hi>, Army Medical Museum, Washington,<lb/>
+District of Columbia, is transferred to Quemados, Cuba. He<lb/>
+will be sent to Fort Columbus, New York, and will report<lb/>
+upon arrival to the commanding officer of that post, who will<lb/>
+furnish him transportation to his new station. Upon his ar-<lb/>
+rival at Quemados he will report for duty to Major <hi rend="italic">Walter<lb/>
+Reed,</hi> surgeon, U. S. Army, president of the board of medical<lb/>
+officers at that place.</p>
+<p>13. By direction of the Assistant Secretary of War, Privates<lb/>
+<hi rend="italic">Hugo Muller,</hi> Fort Yates, North Dakota, and <hi rend="italic">Eugene O. Kutzleb,</hi><lb/>
+Hospital Corps, Sullivans Island, South Carolina, are detailed<lb/>
+as acting hospital stewards and assigned to duty at their re-<lb/>
+spective stations.</p>
+<p>14. By direction of the Assistant Secretary of War, Private<lb/>
+<hi rend="italic">Herman R. Kotsch,</hi> Hospital Corps, Army General Hospital,<lb/>
+Washington Barracks, District of Columbia, is transferred to<lb/>
+Fort Adams, Rhode Island. He will be sent to that post and<lb/>
+will report upon arrival to the commanding officer for duty.</p>
+<p>15. By direction of the Assistant Secretary of War, Privates<lb/>
+<hi rend="italic">Joseph W. Maguire</hi> and <hi rend="italic">Samuel R. Watson,</hi> Hospital Corps,<lb/>
+Josiah Simpson U. S. General Hospital, Fort Monroe, Virginia,<lb/>
+are transferred to the post hospital at Fort Monroe, Virginia.<lb/>
+They will be sent to that post and will report to the command-<lb/>
+ing officer for duty.</p>
+<p>16. By direction of the Secretary of War, leave of absence for<lb/>
+three months is granted Major <hi rend="italic">Charles McClure,</hi> paymaster,<lb/>
+U. S. Army.</p>
+<p>17. By direction of the Secretary of War, the leave of absence<lb/>
+on surgeon's certificate of disability granted Chaplain <hi rend="italic">Orville<lb/>
+J. Nave,</hi> U. S. Army, in Special Orders, No. 78, April 3, 1900,<lb/>
+from this office, is extended one month on account of sickness<lb/>
+and Chaplain <hi rend="italic">Nave</hi> is granted permission to go beyond sea.</p>
+<p>18. By direction of the Secretary of War, Major <hi rend="italic">William S.<lb/>
+Patten,</hi> quartermaster, U. S. Army, will proceed from this<lb/>
+<pb n="4" id="f02026004"/>
+4<lb/>
+city to New York City, New York, on official business pertain-<lb/>
+ing to the Quartermaster's Department, under such instructions<lb/>
+as he may receive from the Quartermaster General of the Army,<lb/>
+and on completion of this duty will return to his proper station.<lb/>
+The travel enjoined is necessary for the public service.</p>
+<p>19. The extension of the leave of absence on account of sick-<lb/>
+ness granted Captain <hi rend="italic">James B. Erwin,</hi> adjutant, 4th U. S.<lb/>
+Cavalry, in Special Orders, No. 118, May 19, 1900, from this<lb/>
+office, is further extended to include August 15, 1900, on sur-<lb/>
+geon's certificate of disability.</p>
+<p>20. By direction of the Secretary of War, paragraph 18,<lb/>
+Special Orders, No. 118, May 19, 1900, from this office, relating<lb/>
+to 1st Lieutenant <hi rend="italic">Clarence C. Williams,</hi> Ordnance Depart-<lb/>
+ment, U. S. Army, is revoked.</p>
+<p>21. By direction of the Secretary of War, 1st Lieutenant<lb/>
+<hi rend="italic">Clarence C. Williams,</hi> Ordnance Department, U. S. Army,<lb/>
+will make not to exceed four visits per month during the<lb/>
+months of June, July, and August, 1900, from New York City,<lb/>
+New York, to the works of E. I. Du Pont de Nemours and<lb/>
+Company, Wilmington, Delaware: not to exceed three visits<lb/>
+per month during the months of June, July, and August, 1900,<lb/>
+from New York City, New York, to the works of the Laflin<lb/>
+and Rand Powder Company, Pompton Lakes, New Jersey,<lb/>
+and not to exceed two visits per month during the months of<lb/>
+June, July, and August, 1900, from New York City, New York,<lb/>
+to the works of Lewis Nixon, South Amboy, New Jersey, on<lb/>
+official business pertaining to the Ordnance Department, and<lb/>
+on completion of this duty will return to his proper station after<lb/>
+each visit. The travel enjoined is necessary for the public<lb/>
+service.</p>
+<p>22. By direction of the Secretary of War, leave of absence<lb/>
+for two months, to take effect on or about June 9, 1900, is<lb/>
+granted Lieutenant Colonel <hi rend="italic">James P. Kimball,</hi> deputy surgeon<lb/>
+general, U. S. Army.</p>
+<p>23. By direction of the Secretary of War, Major <hi rend="italic">Frank R.<lb/>
+Keefer</hi>, surgeon, U.S. Volunteers, will proceed from San Fran-<lb/>
+cisco, California, to this city and report in person to the Surgeon<lb/>
+General of the Army. The travel enjoined is necessary for<lb/>
+the public service.</p>
+<p>BY COMMAND OF MAJOR GENERAL MILES:<lb/>
+H. C. CORBIN,<lb/>
+<hi rend="italic">Adjutant General.</hi></p>
+<p><unclear>Comdg</unclear> Genl Army.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

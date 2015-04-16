@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302048">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Henry Hanson to Frederick R. Russell, August 10, 1923 [Enclosed in C0302047]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hanson, Henry</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302048</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-08-10</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Russell, Frederick R.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Harding, [s.n.]</name>
+<name type="place">Bogota (Colombia)</name>
+<name type="place">Barranquilla (Colombia)</name>
+<name type="place">Peru</name>
+<name type="place">Cartagena (Colombia)</name>
+<name type="place">Colombia</name>
+<name type="place">Magdelena river (Colombia)</name>
+<name type="place">Barranca Bermeja (Colombia)</name>
+<name type="place">Bucaramanga (Colombia)</name>
+<name type="place">New York (N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1923-08-10">August 10, 1923</date>
+<idno rend="suppress">C0302048</idno>
+<title>Letter from Henry Hanson to Frederick R. Russell, August 10, 1923 [Enclosed in C0302047]</title>
+</bibl>
+</head>
+<p>Hanson writes Russell about his trip along the Magdalena River in Colombia in preparation for a clean up campaign to try and halt the spread of yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-08-10">
+<head>Letter from Henry Hanson to Frederick R. Russell, August 10, 1923 [Enclosed in <xref id="C0302047">C0302047</xref>]</head>
+<pb n="1" id="fC0302048"/>
+<opener>
+(1) Colombia<lb/>
+<hi rend="underline">COPY</hi><lb/>
+<dateline>
+Bogota, Colombia<lb/>
+<date value="1923-08-10">August 10, 1923.</date>
+</dateline><lb/>
+Col. F. F. Russell, General Director,<lb/>
+International Health Board,<lb/>
+New York City.<lb/>
+<salute>My dear Col. Russell:</salute>
+</opener>
+<p>We arrived in Bogota on the 7th after a hot trip up the river.<lb/>
+Although we were eight days making the trip from Barranquilla to this<lb/>
+place they tell us that we made a very quick trip for this time of the year.<lb/>
+This feature of the time consumed in moving from place to place, while it<lb/>
+may (theoretically) impede the progress of the fever, hampers us a great<lb/>
+deal in the distribution and shifting of our forces to meet emergencies which<lb/>
+may come up. It also makes it very difficult to keep up the supervision of<lb/>
+the work by supervising inspectors. Added to this is the surprisingly high<lb/>
+cost of everything which I have investigated so far. A campaign here such<lb/>
+as I conducted in Peru would cost at least twice what it cost there.</p>
+<p>While it is somewhat premature to predict what should be done and<lb/>
+to what points the prophylactic work ought to be extended, I am very much<lb/>
+inclined to think that Cartagena, the Port of Colombia and Barranquilla<lb/>
+should be included and thoroughly cleaned up. I gained this impression as<lb/>
+I came up the Magdelena and saw the large number of small villages along the<lb/>
+coast, which can easily serve as relaying points for the conduction of the<lb/>
+fever down to the coast. I can see nothing to prevent this from happening.<lb/>
+The peones travel from point to point, and it will be simply a matter of<lb/>
+luck if the fever is not carried down the river in this manner. The land<lb/>
+and ship quarantine of which you have been informed is a myth, and for my<lb/>
+part I do not place the least bit of reliance in these efforts, or rather<lb/>
+I should say supposed efforts.</p>
+<p>When we came up we went ashore at Barrnca Bermeja, where we were<lb/>
+told by both the Physician of the Tropical Oil and a Colombian Physician from<lb/>
+Bucaramanga that there was no yellow fever there, and yet the Garcia family<lb/>
+who were fellow passengers were told by relatives of theirs in the native<lb/>
+village that there had been quite a few cases of &ldquo;<hi rend="underline">pernicious fevers</hi>&rdquo; with<lb/>
+several deaths. On our return we will endeavor to investigate the nature of<lb/>
+these fevers.</p>
+<p>Yesterday we called at the laboratory of Samper &amp; Martinez and saw<lb/>
+some of their cultures of leptospira, and with the exception of the fact that<lb/>
+the organisms did not show the pronounced activity of those which Noguchi<lb/>
+has, I would be unable to say that they are not <hi rend="underline">Leptospira icteriodes</hi>. Mor-<lb/>
+phologically they appeared the same. They had one guinea pig which looked<lb/>
+very typical.</p>
+<p>I am remaining here until we have a full understanding about the<lb/>
+management of the campaign and have secured the necessary resolutions<lb/>
+authorizing us to take up the work in any place where it may seem advisable<lb/>
+to do so.</p>
+<pb n="2" id="fC0302049"/>
+<p>2.</p>
+<p>Today we attended the services in memory of Mr. Harding, at the<lb/>
+American Legation.</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>(Signed) Henry Hanson.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

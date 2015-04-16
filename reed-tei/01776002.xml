@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01776002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to the Adjutant General, May 27, 1880</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01776002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1880-05-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Adjutant General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Townsend, E. D.</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Richmond (Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1880-05-27">May 27, 1880</date>
+<idno rend="suppress">01776002</idno>
+<title>Letter from Walter Reed to the Adjutant General, May 27, 1880</title>
+</bibl>
+</head>
+<p>Reed requests one month of leave with permission to apply for an extension of two months. Several endorsements of the request dated May 27, 1880 to June 5, 1880 are included.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1880-05-27">
+<head>Letter from Walter Reed to the Adjutant General, May 27, 1880</head>
+<pb n="1" id="f01776002"/>
+<opener>
+Exchange Hotel,<lb/>
+Richmond, V<hi rend="superscript">a</hi><lb/>
+<dateline>
+<date value="1880-05-27">May 27<hi rend="superscript">th</hi> 1880.</date>
+</dateline><lb/>
+To the<lb/>
+Adjutant General, U.S.A.<lb/>
+Washington, D.C.<lb/>
+(<unclear>Thro'</unclear> Surgeon General, U.S.A.)<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>I have the honor to respectfully re-<lb/>
+quest that I may be granted a leave<lb/>
+of absence for the period of one (1) month,<lb/>
+with the permission to apply for an ex-<lb/>
+tension of two (2) months.</p>
+<closer>
+Very respectfully,<lb/>
+<salute>Your Obt Servant,</salute>
+<signed>Walter Reed,</signed>
+Ass't. Surg. U.S.A.<lb/>
+</closer>
+</div1>
+<div1 type="document" n="1880-05-27">
+<head>Endorsements, May 27 - June 5, 1880</head>
+<pb n="2" id="f01776003"/>
+<p><unclear>2321 - Seso 1880</unclear></p>
+<p>Richmond, Va.</p>
+<p>May 27, 80.</p>
+<p>Reed Walter,</p>
+<p>Asst Surg. U.S. Army,</p>
+<p>For leave of ab-<lb/>
+sence for one month with permission<lb/>
+to apply for an extension of two<lb/>
+months.</p>
+<pb n="3" id="f01776004"/>
+<p><unclear>A.G.O. June 1, '80</unclear></p>
+<p>Respectfully forward<lb/>
+to the Adjutant General<lb/>
+of the army with <unclear>rec-</unclear><lb/>
+mendation that leave<lb/>
+of absence for <unclear><hi>three</hi></unclear><lb/>
+<hi>months</hi> <unclear>be granted Asst.</unclear><lb/>
+Surgeon Walter Reed<unclear>.</unclear><lb/>
+He has just <unclear>completed</unclear><lb/>
+a tour of duty in <unclear>the</unclear><lb/>
+Department of <unclear>Arizo.</unclear></p>
+<p><unclear>J.K.B.</unclear></p>
+<pb n="4" id="f01776005"/>
+<p>2954 A.C.P. 1880.</p>
+<p>Richmond, V<hi rend="superscript">a</hi></p>
+<p>May 27<unclear><hi rend="superscript">th</hi></unclear> 1880.</p>
+<p><unclear><add>2959:a.</add> 3 G O. 1880</unclear></p>
+<p>____________________</p>
+<p>For papers<unclear>,</unclear> filed <unclear>herewith</unclear></p>
+<p>See <hi>3<hi rend="superscript">rd</hi> fold</hi> <unclear>[unclear]</unclear></p>
+<p>Reed, Walter,<lb/>
+Ass't. Surg U.S.A.</p>
+<p>____________________</p>
+<p><unclear>OK to July 1st, '94</unclear></p>
+<p>Respectfully requests<lb/>
+a leave of absence for<lb/>
+one (1) month, with per-<lb/>
+mission to apply for an<lb/>
+extension of two (2) months</p>
+<p>____________________</p>
+<p><unclear>Forwarded by Surg. Gen'l with</unclear><lb/>
+recommendation that three<lb/>
+months leave of absence be<lb/>
+granted.</p>
+<p>Noted</p>
+<p><unclear>G.S.</unclear></p>
+<p>S.O. <unclear><del>174</del> pm.</unclear> 9 June 5, '80.</p>
+<p><unclear><hi>E.C.</hi></unclear></p>
+<p><unclear>Reed A.G.O. June 2<hi rend="superscript">nd</hi> 1880.</unclear></p>
+<pb n="5" id="f01776006"/>
+<p><unclear>P.X. 1880</unclear></p>
+<p><unclear>G.P.-1880</unclear></p>
+<p><unclear><hi>Endorsement</hi></unclear></p>
+<p><unclear>[unclear]</unclear> General's Office</p>
+<p><unclear>une</unclear> 1, 1880.</p>
+<p>Respectfully for,<lb/>
+<unclear>[unclear]</unclear> to the <hi>Adjutant</hi><lb/>
+<unclear><hi>[unclear]</hi></unclear> of the Army<lb/>
+<unclear>[unclear] recommendation</unclear><lb/>
+<unclear>[unclear]</unclear> leave of absence<lb/>
+<unclear>[unclear]</unclear> <hi><unclear>three</unclear> months</hi><lb/>
+<unclear>anted</unclear> Assistant<lb/>
+<unclear>on</unclear> <hi>Walter Reed<unclear>.</unclear></hi><lb/>
+<unclear>[unclear]</unclear> has just<lb/>
+<unclear>leted</unclear> a tour of<lb/>
+<unclear>[unclear]</unclear> in the Department<lb/>
+<unclear>rizona.</unclear></p>
+<p><unclear>US Army</unclear></p>
+<p><hi>Surgeon General,</hi></p>
+<p><unclear>[unclear] months</unclear> leave approved<lb/>
+<unclear>[unclear] Secretary of war.</unclear><lb/>
+ED Townsend<lb/>
+Adjutant General</p>
+<p><unclear>B/80</unclear></p>
+<p>3043 <unclear>A.G.O. '75</unclear><lb/>
+<unclear>742 " '76</unclear><lb/>
+<unclear>3591 " '80</unclear><lb/>
+<unclear><hi>H0979.</hi></unclear> A.G.O. herein<lb/>
+272661. " "<lb/>
+281760<unclear>. " "</unclear><lb/>
+404591 " "<lb/>
+428701 " "<lb/>
+458717 " 6550 acp 82<lb/>
+107839 6937 " 82<lb/>
+107840 7084 " 85<unclear>,</unclear><lb/>
+307568 4586 " 90<lb/>
+143204 5877 " 90<lb/>
+172691 <unclear>6538</unclear> " 91<lb/>
+347032 3844 " 92<lb/>
+227463 3569 " 93<lb/>
+355044 4687 " 93<lb/>
+357672<lb/>
+383159<lb/>
+397314<lb/>
+463085<lb/>
+464333<lb/>
+464774<lb/>
+467<unclear>08</unclear>9<lb/>
+468586<lb/>
+472935</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,656 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02628025">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Surgeon General's Office Record Card for Walter Reed, November 1, 1902</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02628025</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1902-11-01</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Reed, Walter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="name">Cunningham, Lt.</name>
+<name type="name">Mitchell, S. Weir</name>
+<name type="name">Billings, John S.</name>
+<name type="name">Welch, William S.</name>
+<name type="name">Darnall, Carl R.</name>
+<name type="name">Dewitt, Calvin</name>
+<name type="name">Carroll, James</name>
+<name type="name">Borden, William C.</name></p>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Murfreesboro (N.C.)</name>
+<name type="place">Willets Point (N.Y.)</name>
+<name type="place">New York (N.Y.)</name>
+<name type="place">Harrisonburg (Va.)</name>
+<name type="place">Fort Yuma (Calif.)</name>
+<name type="place">Camp Lowell (Ariz.)</name>
+<name type="place">Camp Apache (Ariz.)</name>
+<name type="place">Richmond (Va.)</name>
+<name type="place">Warrenton (Va.)</name>
+<name type="place">Creedmoor (N.Y.)</name>
+<name type="place">Fort Ontario (N.Y.)</name>
+<name type="place">Fort McHenry (Md.)</name>
+<name type="place">Yorktown (Va.)</name>
+<name type="place">Gaithersburg (Md.)</name>
+<name type="place">Omaha (Neb.)</name>
+<name type="place">Fort Sidney (Neb.)</name>
+<name type="place">Fort Robinson (Neb.)</name>
+<name type="place">Mount Vernon Barracks (Ala.)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Fort Keogh (Mont.)</name>
+<name type="place">West Point (N.Y.)</name>
+<name type="place">Fort Snelling (Minn.)</name>
+<name type="place">St. Paul (Minn.)</name>
+<name type="place">Key West (Fla.)</name>
+<name type="place">Natural Bridge (Va.)</name>
+<name type="place">Puerto Principe (Cuba)</name>
+<name type="place">Fort. Thomas (Ky.)</name>
+<name type="place">Minneapolis (Minn.)</name>
+<name type="place">Tampa (Fla.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Washington Barracks (Washington, D.C.)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Indianapolis (Ind.)</name>
+<name type="place">Buffalo (N.Y.)</name>
+<name type="place">Fort H. G. Wright (N.Y.)</name>
+<name type="place">Philadelphia (Pa.)</name>
+<name type="place">Manila (Philippines)</name>
+<name type="place">Fort Myer (Va.)</name>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>15 pp.</extent>
+<date value="1902-11-01">November 1, 1902</date>
+<idno rend="suppress">02628025</idno>
+<title>Surgeon General's Office Record Card for Walter Reed, November 1, 1902</title>
+</bibl>
+</head>
+<p>These documents detail the entire military history of Reed. They also include announcements of Reed's death. The documents are dated November 1, 1902 through December 8, 1902. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1902-11-01">
+<head>Surgeon General's Office Record Card for Walter Reed, November 1, 1902</head>
+<pb n="1" id="f02628025"/>
+<p>K.</p>
+<p>2d Indorsement.<lb/>
+Nov. 1, 1901.<lb/>
+Resp. ret. to the A.G. of the Army.</p>
+<p>Maj. Walter Reed is a profes-<lb/>
+sor in the Army Med. School and<lb/>
+could not leave, at the time men-<lb/>
+tioned, to attend the health con-<lb/>
+vention in Michigan without seri-<lb/>
+ous interference with the course<lb/>
+of instruction prescribed. Twenty<lb/>
+young med. officers have been or-<lb/>
+dered to Washington to take this<lb/>
+course and Maj. Reed's presence<lb/>
+is absolutely necessary during<lb/>
+the entire month of Nov.</p>
+<p>G.M.S., S.G.<lb/>
+FC<lb/></p>
+<p>Military History of Major Wal-<lb/>
+ter Reed, Surg. U.S.A., so far as<lb/>
+shown by the records of the S.G.O.</p>
+<p>------------</p>
+<p>Maj. Walter Reed, Surg. U.S.A. was<lb/>
+appointed Asst. Surgeon, U.S.A., June<lb/>
+26, 1875, accepted July 3, 1875, and<lb/>
+was on duty as follows:</p>
+<p>At Murfreesborough, N.C., report<lb/>
+for duty and waiting orders from<lb/>
+July 3, 1875 to July 23, 1875;</p>
+<p>En route and on duty at Willet<add>s</add><lb/>
+Point, N.Y., from July 23, 1875 to<lb/>
+<pb n="2" id="f02628026"/>
+April 14, 1876, during which time<lb/>
+was on leave of absence from Oct.<lb/>
+8, 1875 to Oct. 15, 1875, and from Feb.<lb/>
+26, 1876 to March 6, 1876;</p>
+<p>Reported at New York City, N.Y.<lb/>
+general recruiting service to ac-<lb/>
+company troops to California April<lb/>
+15, 1876;</p>
+<p>Under and awaiting orders at<lb/>
+Harrisonburg, Va., and en route to<lb/>
+Dept. of California with recruits<lb/>
+from New York City, N.Y., from April<lb/>
+15, 1876 to May 21, 1876;</p>
+<p>En route to with recruits and on<lb/>
+temporary duty at Fort Yuma, Cal.,<lb/>
+June 1, 1876 to Aug. 5, 1876;</p>
+<p>En route to and on duty at Camp Low-<lb/>
+ell, Arizona, from Aug. 5, 1876 to Aug.<lb/>
+10, 1877, during which time was on<lb/>
+leave of absence from Oct. 10, 1876<lb/>
+to Dec. 7, 1876;</p>
+<p>En route to and on duty at<lb/>
+Camp Apache, Arizona, from Aug. 10,<lb/>
+1877 to May 10, 1880, during which<lb/>
+time was on detached service at<lb/>
+Stensons Ranch, Arizona Territory<lb/>
+March 9 to 15, 1878 - on leave of ab-<lb/>
+sence from April 2, 1879 to May 14,<lb/>
+1879 - in the field from May 29,<lb/>
+1879 to June 3, 1879 - in the field<lb/>
+<pb n="3" id="f02628027"/>
+with scouting party from Dec. 17,<lb/>
+1879 to Dec. 23, 1879;</p>
+<p>At Richmond, Va. En route to<lb/>
+and awaiting orders from May 10,<lb/>
+1880 to June 8, 1880;</p>
+<p>On leave of absence June 9,<lb/>
+1880 to Aug. 8, 1880.</p>
+<p>Promoted Asst. Surg. with the<lb/>
+rank of Capt. June 26, 1880;</p>
+<p>At Warrenton, Va., awaiting or-<lb/>
+ders Aug. 9, 1880 to Aug. 31, 1880;</p>
+<p>En route to Hdqrs. Dept. of the<lb/>
+East for orders from Sept. 1 to 3,<lb/>
+1880;</p>
+<p>At Creedmoor, L. I., on duty with<lb/>
+Rifle Team from Sept. 6, 1880 to Sept.<lb/>
+18, 1880;</p>
+<p>Awaiting orders at Hdqrs. Dept.<lb/>
+of the East Sept. 19 to 23, 1880;</p>
+<p>En route to and on duty at<lb/>
+Ft. Ontario, N.Y., from Sept. 23, 1880<lb/>
+to Feby. 23, 1881;</p>
+<p>At Ft. McHenry, Md., on detached<lb/>
+duty with troops and awaiting or-<lb/>
+ders from Feby. 24, 1881 to May 2,<lb/>
+1881;</p>
+<p>At Washington Barracks, D.C.,<lb/>
+from May 2, 1881 to Nov. 17, 1882,<lb/>
+during which time was en route to<lb/>
+and on duty with troops at York-<lb/>
+<pb n="4" id="f02628028"/>
+town, Va., from Oct. 1, 1881 to Nov.<lb/>
+12, 1881.</p>
+<p>Examined for promotion at<lb/>
+New York City, N.Y., and found quali-<lb/>
+fied March 1882. En route to and<lb/>
+on duty with troops in summer Camp<lb/>
+at Gaithersburg, Md., from June 23,<lb/>
+1882 to Nov. 2, 1882;</p>
+<p>En route to and at Hdqrs. Dept.<lb/>
+of the Platte for orders from Nov.<lb/>
+17, 1882 to Dec. 4, 1882;</p>
+<p>At Hdqrs. Dept. of the Platte,<lb/>
+Omaha, Neb., as attending Surgeon<lb/>
+from Dec. 4, 1882 to Jan. 1, 1883;</p>
+<p>At Ft. Omaha, Neb., from Jan. 2,<lb/>
+1883 to Oct. 4, 1883, during which<lb/>
+time was on leave of absence Sept.<lb/>
+30, 1883 to Oct. 3, 1883;</p>
+<p>At Ft. Sidney, Neb., from Oct. 5,<lb/>
+1883 to Aug. 4, 1884;</p>
+<p>At Ft. Robinson, Neb., from Aug.<lb/>
+8, 1884 to July 31, 1887, during which<lb/>
+time he was on leave of absence<lb/>
+from Dec. 3, 1885 to Jan. 26, 1886.<lb/>
+Sick at station March 6 to 18, 1886.</p>
+<p>En route to Mt Vernon Barracks<lb/>
+Ala., for duty July 31, to Aug. 5, 1887<lb/>
+at Mt. Vernon Barracks, Ala., Aug. 5,<lb/>
+1887 to Oct. 6, 1890, during which<lb/>
+time was on leave of absence Feb.<lb/>
+<pb n="5" id="f02628029"/>
+12 to 16, 1889 - on detached duty<lb/>
+with Lt. Cunningham 19th Inf. to<lb/>
+Govt. Hospital for the Insane Dec.<lb/>
+31, 1889 to Jan. 5. 1890. On leave of<lb/>
+absence from Sept. 8, 1890 to Octo-<lb/>
+ber 6, 1890.</p>
+<p>At Balto, Md., Attending Surg.<lb/>
+and Examiner of Recruits from Oct.<lb/>
+6, 1890 to Oct. 31, 1891, during which<lb/>
+time was en route to and on tem-<lb/>
+porary duty at Ft. Keogh, Montana,<lb/>
+and with troops in the field Bat-<lb/>
+talion 1st Cavalry from Dec. 16,<lb/>
+1890 to Jan. 29, 1891 - detached du-<lb/>
+ty Examining Board, West Point, N.Y.<lb/>
+June 6 to 19, 1891 - member Army<lb/>
+Med. Board, New York City, N.Y., Oct.<lb/>
+1 to 31, 1891.</p>
+<p>En route to and on duty at<lb/>
+Ft. Snelling, Minn., from Nov. 7, 1891<lb/>
+to Aug. 21, 1892, during which time<lb/>
+was on detached duty with Battal-<lb/>
+ion, 3d Inf., at Indian Reservation<lb/>
+from April 1, 1892 to April 19, 1892;</p>
+<p>At Hdqrs. Dept. of Dakota, St.<lb/>
+Paul. Minn., as Attending Surgeon<lb/>
+and Examiner of Receruits Aug. 21,<lb/>
+1892 to Aug. 31, 1893, during which<lb/>
+time was in temporary charge Med.<lb/>
+Director's Office from March 24 to<lb/>
+May 5, 1893. May 15 to 23, 1893, June<lb/>
+28 to 30, 1893, and July 1, 1893 to<lb/>
+3--958<lb/>
+Write nothing below this line.<lb/>
+<pb n="6" id="f02628030"/>
+July 15, 1893.</p>
+<p>En route to and on duty in<lb/>
+Surgeon General's Office, Curator<lb/>
+Army Med. Museum from Sept. 6, 1893<lb/>
+to date, during which time was ex-<lb/>
+amined for promotion and found<lb/>
+qualified Sept. 1893. Member Army<lb/>
+Med. Board Sept. 11, 1893 to Oct. 21,<lb/>
+1893, per paragraph 23, S.O. 192, A.G.<lb/>
+O., Aug. 23, 1893. Professor clinical<lb/>
+and sanitary microscopy and direct-<lb/>
+or pathological laboratory in com-<lb/>
+pliance with G.O. 78, A.G.O., Sept. 22<lb/>
+1893. Promoted Surgeon with the<lb/>
+rank of Maj. Dec, <hi>4</hi>. 1893. Member Ar-<lb/>
+my Med. Board Oct. 1 to 31, 1895, per<lb/>
+paragraph 2, S.O. 224, A.G.O., Sept. 25<lb/>
+1895. On detached duty en route to<lb/>
+and returning from Key West, Fla.,<lb/>
+July 22, 1896, to Aug. 7, 1896. Member<lb/>
+Army Med. Board Sept. 23, 1896 to Oct.<lb/>
+27, 1896, per paragraph 7, S.O. 196, A.<lb/>
+G.O., Aug. 20, 1896; Sept. 27, 1896 to<lb/>
+Nov. 6, 1897, per paragraph 1 S.O. 152<lb/>
+A.G.O., July 1, 1897; and May 2, 1898<lb/>
+to July 12, 1898, per paragraph 1,<lb/>
+S.O. 51, A.G.O., March 3, 1898, member<lb/>
+&ldquo;Cholera&rdquo; band board.</p>
+<p>On detached duty making an<lb/>
+inspection of camps and field hos-<lb/>
+<pb n="7" id="f02628031"/>
+pital Aug. 1, 1898 to Aug. 8, 1898.<lb/>
+Member typhoid fever board to in-<lb/>
+spect certain camps Aug. 20, 1898 to<lb/>
+Sept. 18, 1898. Member of board in-<lb/>
+vestigating causes of typhoid fev-<lb/>
+er Sept. 25 to 30, 1898. Same duty<lb/>
+as above on typhoid fever board<lb/>
+Oct. 1 to 10, 1898. Inspecting build-<lb/>
+ings at Natural Bridge, Va. from Oct<lb/>
+18 to 25, 1898. En route to, at, and<lb/>
+returning from inspection duty at<lb/>
+Puerto Principe, Cuba, from April 19<lb/>
+1899 to May 9, 1899. On detached du-<lb/>
+ty at Ft. Thomas, Ky., from Sept. 28<lb/>
+to 30, 1899. Delegate to American<lb/>
+Public Health Association at Min-<lb/>
+neapolis, Minn. Oct. 31, 1899 to Nov.<lb/>
+3, 1899. En route to, on duty at Tam-<lb/>
+pa, Fla., and Havana, Cuba, on investi-<lb/>
+gation as to use of electrozone as<lb/>
+a disinfectant and germicide in<lb/>
+Havana, and return to station March<lb/>
+7 to April 3, 1900.</p>
+<p>En route to and on duty as<lb/>
+member of board at Camp Columbia,<lb/>
+Cuba, investigation of diseases on<lb/>
+Island of Cuba, June 26, 1900 to Ju-<lb/>
+ly 31, 1900.</p>
+<p>En route to Surgeon General's<lb/>
+Office from detached duty in Cuba,<lb/>
+3--958<lb/>
+Write nothing below this line.<lb/>
+<pb n="8" id="f02628032"/>
+Aug. 1 to 9, 1900. En route to and<lb/>
+on detached duty in Cuba relative<lb/>
+to causes of yellow fever from Sep.<lb/>
+29, 1900 to Oct. 13, 1900. En route<lb/>
+to U.S. from Havana, Cuba, from Oct.<lb/>
+14 to 20, 1900. Delegate to Ameri-<lb/>
+can Public Health Association, In-<lb/>
+dianapolis, Ind. Oct. 21 to 27, 1900.</p>
+<p>En route to and returning<lb/>
+from detached duty in Cuba when in-<lb/>
+vestigating infectious diseases<lb/>
+prevalent on the Island of Cuba,<lb/>
+Nov. 1, 1900 to Feb. 12, 1901. Member<lb/>
+Army Med. Board from Feby. 11, 1901,<lb/>
+to present date, per paragraph 14,<lb/>
+S.O. 38, A.G.O., Feb. 14, 1901. Repre-<lb/>
+sented the Med. Dept. of the Army<lb/>
+at the meeting of the Pan American<lb/>
+Congress in Havana, Cuba, Feby. 1901.<lb/>
+Delegate to American Public Health<lb/>
+Association at Buffalo, N.Y., Sept.<lb/>
+16 to 20, 1901.</p>
+<p>G.M.S., S.G., U.S.A.<lb/>
+S.G.O., Jan. 2, 1902.<lb/>
+B.M.I.</p>
+<pb n="9" id="f02628033"/>
+<p>Major Walter Reed.<lb/>
+Surgeon, U.S. Army,<lb/>
+Army Med. Museum.</p>
+<p>Official copy of above sent to<lb/>
+the Officer-in-charge. Museum and<lb/>
+Library Division, S.G.O., for his<lb/>
+information.<lb/>
+B.M.I.<lb/></p>
+<p>Nov. 1, 1902.<lb/>
+To the Adjutant Gener-<lb/>
+al of the Army. Sir: I have the<lb/>
+honor to request that Major Walter<lb/>
+Reed, surgeon, U.S. Army, be ordered<lb/>
+to proceed to Fort H.G. Wright, Fish-<lb/>
+er's Island, N.Y., to investigate<lb/>
+and report upon the epidemic of ty-<lb/>
+phoid fever among the troops quar-<lb/>
+tered there during the recent man-<lb/>
+euvers in that vicinity, and upon<lb/>
+completion of this duty to return<lb/>
+to his proper station in this city.</p>
+<p>R.M.O'R., S.G., U.S.A.<lb/>
+B.M.I.</p>
+<p>N Nov. 24, 1902.</p>
+<p>C.O. Gen. Hosp. Wash Bks,<lb/>
+D.C. Nov 23. Reports death<lb/>
+of Major Walter Reed, Surg.<lb/>
+U.S.A., at that hospital at<lb/>
+five minutes after two<lb/>
+o'clock a.m. this date.</p>
+<p><hi>over</hi></p>
+<pb n="10" id="f02628034"/>
+<p>L Apr. 4, 1902<lb/>
+The President<lb/>
+and Faculty, Columbian<lb/>
+Univ., Wash., D.C., Mar. 27<lb/>
+Commend Major Walter Reed<lb/>
+for promotion and prefer-<lb/>
+ment on account of his<lb/>
+valuable services in con-<lb/>
+nection with the study<lb/>
+of yellow fever.<lb/>
+W.E.E.<lb/>
+<lb/></p>
+<p>L. 1ST ENDORSEMENT.<lb/>
+Apr. 5, 1902.<lb/>
+Respectfully for-<lb/>
+warded to the ADJUTANT GENER-<lb/>
+AL OF THE ARMY.</p>
+<p>G.M.S.<lb/>
+S.G.<lb/>
+U.S.A.<lb/>
+W.<lb/>
+<lb/></p>
+<p>M. Sept. 4, 1902.<lb/>
+Surg. Genl. Forwards Efficiency<lb/>
+Report of Maj. Walter Reed<lb/>
+for June 3rd 1902.<lb/>
+R</p>
+<p>Sept 5 '02 Noted<lb/>
+Noel<lb/>
+<lb/></p>
+<p>Nov. 1, 1902.<lb/>
+Major Walter Reed, Sur-<lb/>
+geon, U.S. Army, in addition to his<lb/>
+present duties, is hereby assigned<lb/>
+to duty as Librarian, in charge of<lb/>
+the Library of the S.G.O.</p>
+<p>R.M.O'R., S.G., U.S.A.</p>
+<p>3--958<lb/>
+Write nothing below this line.</p>
+<pb n="11" id="f02628035"/>
+<p>Primary cause of death,<lb/>
+was acute appendicitis,<lb/>
+immediate cause of death,<lb/>
+was asthenia.<lb/>
+B.<lb/>
+<lb/></p>
+<p>N. 1st Indorsement.</p>
+<p>Nov. 24, 1902.<lb/>
+Resp'y forwarded<lb/>
+to the ADJUTANT GENERAL, U.S. ARMY</p>
+<p>The death of Maj. Reed is a<lb/>
+heavy blow to the Army and to<lb/>
+American Medical Science.</p>
+<p>His services have already<lb/>
+proved almost priceless to the<lb/>
+nation, and had he been spared<lb/>
+even more might have been expect-<lb/>
+ed of him. His qualities as a<lb/>
+man so endeared him to his asso-<lb/>
+ciates that they feel his loss<lb/>
+as a personal calamity.</p>
+<p>R.M.O'R., S.G., U.S.A.<lb/>
+(JFHM)<lb/>
+<lb/></p>
+<p>N. TELEGRAM.</p>
+<p>November 23, 1902.<lb/>
+Walter L. Reed,<lb/>
+Nemorense 10th U.S. Infty. Manila</p>
+<p>Your father Coppino - died<lb/>
+to-day.</p>
+<p>O'Reilly<lb/>
+B.M.I.</p>
+<pb n="12" id="f02628036"/>
+<p>Write nothing above this line.</p>
+<p>TELEGRAM.</p>
+<p>Nov. 23, 1902.<lb/>
+Dr. S. Weir Mitchell,<lb/>
+1524 Walnut St., Philadelphia, Pa.</p>
+<p>Dr. Walter Reed died today.<lb/>
+Funeral Tuseday two o'clock.</p>
+<p>R.M. O'Reilly,<lb/>
+Surgeon General.<lb/>
+B.M.I.<lb/>
+<lb/>
+</p>
+<p>TELEGRAM.</p>
+<p>Nov. 23, 1902.<lb/>
+Lieut. Col. John S. Bil-<lb/>
+lings, Astor Library. New York.</p>
+<p>Major Walter Reed died to-<lb/>
+day. Funeral Tuesday two o'clock.</p>
+<p>O'Reilly,<lb/>
+Surgeon General.<lb/>
+B.M.I.<lb/>
+<lb/></p>
+<p>TELEGRAM.</p>
+<p>Nov. 23, 1902.<lb/>
+Prof. Wm. H. Welch, Johns<lb/>
+Hopkins University, Baltimore, Md.</p>
+<p>Dr. Walter Reed died to-day.<lb/>
+Funeral two p.m. Tuesday.</p>
+<p>R.M. O'Reilly,<lb/>
+Surgeon General<lb/>
+B.M.I.</p>
+<pb n="13" id="f02628037"/>
+<p>O. Nov. 25, 1902.</p>
+<p>W.H. Welch. Balto. Md. Nov.<lb/>
+24, 1902. <unclear>Tel.</unclear> &ldquo;Reed's death is a<lb/>
+great loss to the Army and the Country.<lb/>
+Shall attend the funeral&rdquo;.<lb/>
+R.<lb/>
+<lb/></p>
+<p>P. Nov. 25, 1902.<lb/>
+A.G. Forwards official copy of let.<lb/>
+tr C.O. Wash. Bks D.C.<lb/>
+Informing him that the Batt<hi rend="superscirpt">n</hi> of Engineers<lb/>
+and Band act as escort <unclear>[unclear]</unclear> the funeral<lb/>
+of Surgeon Reed 25<hi rend="superscript">th</hi> inst. <unclear>Command</unclear><lb/>
+to be at St. Thomas Episcopal Church at<lb/>
+2 p.m. Batt<hi rend="superscript">n</hi> escort remains to V<hi rend="superscript">a</hi> End<lb/>
+of aqueduct bridge where cavalry will relieve<lb/>
+them &amp;c.</p>
+<p>Q. Nov. 25, 1902.<lb/>
+A. G. Howards<lb/>
+Copy of tel. to C.O. Ft. Myer V<hi rend="superscript">a</hi>-<lb/>
+Mr. 24-02. Informing him that Sec. War<lb/>
+directs him furnish as escort for funeral<lb/>
+late Maj. Walter Reed Med. Dept. band and<lb/>
+at least 3 troops of Cavalry-four if Capt.<lb/>
+M<hi rend="sup">c</hi> Blains's funeral does not interfere<lb/>
+to be at V<hi rend="superscript">a</hi> End Aqueduct Bridge<lb/>
+about 3 p.m. Tuesday 25<hi rend="superscript">th-</hi> A</p>
+<pb n="14" id="f02628038"/>
+<p>R. Dec. 2. 1902<lb/>
+C. O., U.S. G.H.<lb/>
+Washington Bks. Nov. 30. 02.<lb/>
+Encloses bill for $ 6<hi rend="superscript">00</hi> due<lb/>
+that hospital under A.R.<lb/>
+1641 in case of the late Major<lb/>
+Walter Reed, from Nov. 17-<lb/>
+22. 1902., and requests that<lb/>
+the amount be remitted.</p>
+<p>1 enclos.<lb/>
+G.<lb/>
+<lb/></p>
+<p>R. 1st Indorsement.<lb/>
+Dec. 2, 1902.</p>
+<p>Respectfully returned to the<lb/>
+C.O., U.S.A. General Hospital, Wash. Bar-<lb/>
+racks, D.C., approved as within recom-<lb/>
+mended.</p>
+<p>R.M.O'R, S.G.<lb/>
+FH<lb/>
+<lb/></p>
+<p>Dec. 2, 1902.<lb/>
+ORDERS. Under<lb/>
+the provisions of paragraph<lb/>
+97 Army Regulations, 1901, a<lb/>
+Board of Survey to consist of<lb/>
+Colonel Calvin DeWitt, Asst.<lb/>
+Surgeon General, U.S. Army, Capt.<lb/>
+Carl R. Darnall, Asst. Surgeon, U.<lb/>
+S. Army, and 1st Lieut. James<lb/>
+Carroll, Asst. Surgeon, U.S. Army,<lb/>
+is hereby appointed to inven-<lb/>
+tory the public property or<lb/>
+funds for which the late Walter<lb/>
+Reed, Surgeon, U.S.A., was re-<lb/>
+sponsible and make the customary<lb/>
+returns.</p>
+<p>R.M.O'R. S.G. U.S.A. JGS</p>
+<p><unclear>N</unclear> Dec. 3, rec'd, <unclear>break</unclear> informally.</p>
+<p><unclear>H.</unclear></p>
+<pb n="15" id="f02628039"/>
+<p>Dec. 3, 1902.<lb/>
+Respectfully <unclear>re-</unclear><lb/>
+ferred to Major W.C. Borden,<lb/>
+Surgeon, U.S. Army, Commanding<lb/>
+U.S. General Hospital, Washing-<lb/>
+ton Barracks, D.C., for ex-<lb/>
+pression of opinion as to<lb/>
+whether the disease which the<lb/>
+late Major Walter Reed died<lb/>
+originated in service and in<lb/>
+line of duty.</p>
+<p>R.M.O'R. S.G. U.S.A. JGS<lb/>
+<lb/></p>
+<p>N' Dec. 8, 1902<lb/>
+C.O., G.H., Wash.<lb/>
+Bks., D.C., Dec. 6 Certifies<lb/>
+that the disease from<lb/>
+which Maj. Walter Reed,<lb/>
+Surg., died in that hosp.<lb/>
+Nov. 23, 1902, originated in<lb/>
+the service and in the<lb/>
+line of duty.<lb/>
+N.E.E.<lb/>
+<lb/></p>
+<p>N.</p>
+<p>2d Indorsement.<lb/>
+Dec. 8, 1902.<lb/>
+Reso. ret. to the A.G. of the Army,<lb/>
+inviting attention to enclosed<lb/>
+certificate of Maj. W.C. Borden,<lb/>
+Surg. U.S.A., Comdg. U.S. General<lb/>
+Hospital, Washington Barracks, D.C.<lb/>
+dated Dec. 6, 1902, as to origin of<lb/>
+disease from which Major Walter<lb/>
+Reed, Surg. U.S.A., died.</p>
+<p>R.M.O'R., S.G.</p>
+<p>FC</p>
+</div1>
+</body>
+</text>
+</TEI.2>

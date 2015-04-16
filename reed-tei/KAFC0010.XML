@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAFC0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Extract from Annual Report of the Secretary of War, 1902, by Elihu Root, [1902]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Root, Elihu</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAFC0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1902-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="place">Fort Howard (Md.)</name>
+<name type="place">Battery Lazear (Md.)</name>
+<name type="place">Baltimore (Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1902-00-00">1902</date>
+<idno rend="suppress">KAFC0010</idno>
+<title>Report: Extract from Annual Report of the Secretary of War, 1902, by Elihu Root, [1902]</title>
+</bibl>
+</head>
+<p>Root credits major figures in the fight against yellow fever and requests that higher ranks be given to them. He reports that a battery at Fort Howard in Baltimore has been named &ldquo;Battery Lazear.&rdquo; [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1902-00-00">
+<head>Report: Extract from Annual Report of the Secretary of War, 1902, by Elihu Root, [1902]</head>
+<pb n="1" id="fKAFC0010"/>
+<p>p. 10<lb/>
+p. 266<lb/>
+#1617</p>
+<p>EXTRACT FROM ANNUAL REPORT OF THE SECRETARY OF WAR, <hi>1902</hi></p>
+<p>Especial credit is due also to the Medical Department of the<lb/>
+Army, and particularly to <hi>Maj. Walter Reed and Maj. William C. Gor-<lb/>
+gas</hi> for their extraordinary service in ridding the island of yellow<lb/>
+fever, described in my last report; and to Dr. <hi>Jefferson R. Kean</hi> and<lb/>
+<hi>Dr. James Carroll for</hi> their share in that work.</p>
+<p>The brilliant character of this scientific achievement, its<lb/>
+inestimable value to mankind, the saving of thousands of lives, and<lb/>
+the deliverance of the Atlantic seacoast from constant apprehension,<lb/>
+demand special recognition from the Government of the United States.</p>
+<p>Dr. Reed is the ranking major in the Medical Department, and<lb/>
+within a few months will, by operation of law, become lieutenant col-<lb/>
+onel. I ask that the President be authorized to appoint him assis-<lb/>
+tant surgeon general with the rank of colonel, and to appoint Major<lb/>
+Gorgas deputy surgeon general with the rank of lieutenant colonel,<lb/>
+and that the respective numbers in those grades in the Medical De-<lb/>
+partment be increased accordingly during the period for which they<lb/>
+hold those offices.</p>
+<p>The name of Dr. Jesse W. Lazear, contract surgeon, who vol-<lb/>
+untarily permitted himself to be inoculated with the yellow fever<lb/>
+germ, in order to furnish a necessary experimental test in the course<lb/>
+of the investigation, and who died of the disease, should be written<lb/>
+in the list of the martyrs who have died in the cause of humanity.<lb/>
+As a slight memorial to his heroism a battery in the coast defense<lb/>
+fortification at Fort Howard, Baltimore, Md., has been named &ldquo;Bat-<lb/>
+tery Lazear&rdquo;.</p>
+<p>Elihu Root<lb/>
+Secretary of War</p>
+</div1>
+</body>
+</text>
+</TEI.2>

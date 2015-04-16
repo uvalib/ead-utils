@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N2895012">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, The Havana Daily Telegraph, August 27, 1907</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N2895012</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1907-08-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+
+<name type="person">Roosevelt, Teddy</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1907-08-27">August 27, 1907</date>
+<idno rend="suppress">N2895012</idno>
+<title>Newspaper clipping, The Havana Daily Telegraph, August 27, 1907</title>
+</bibl>
+</head>
+<p>National Sanitation - Some Objections.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1907-08-27">
+<head>Newspaper clipping, The Havana Daily Telegraph, August 27, 1907</head>
+<pb n="1" id="fN2895012"/>
+<opener>
+PAGE TWO.<lb/>
+__________________________________________________<lb/>
+THE HAVANA DAILY TELEGRAPH.<lb/>
+Published by The Daily Telegraph Company.<lb/>
+__________________________________________________<lb/>
+PUBLISHED EVERY DAY IN THE YEAR.<lb/>
+__________________________________________________<lb/>
+Entered at the Havana, Cuba, postoffice as second class matter.<lb/>
+__________________________________________________<lb/>
+Circulation Rates. Prices in United States Currency.<lb/>
+One Year, delivered by carrier or mail. .... .. .... $5.00<lb/>
+Six Months. delivered by carrier or mail.. .. .. .... 3.00<lb/>
+Three Months. delivered by carrier or mail .... 175<lb/>
+One Month, delivered by carrier or mail.. .... .... 75<lb/>
+__________________________________________________<lb/>
+Telephone No. 3257.<lb/>
+Cable, &ldquo;Telegraph.&rdquo;<lb/>
+OFFICE NO. 7 O'REILLY STREET.<lb/>
+__________________________________________________<lb/>
+<dateline>
+Havana, Cuba, <date value="1907-08-27">August 27, 1907.</date>
+</dateline>
+__________________________________________________<lb/>
+</opener>
+<p>NATIONAL SANITATION-SOME<lb/>
+OBJECTIONS.</p>
+<p>The Arabs say that one should not look a<lb/>
+gift horse in the mouth, and Christians<lb/>
+generally believed that blessings should be accepted in an humble and a grateful<lb/>
+spirit, wherefore it may seem ungracious to find any fault with so indubitable<lb/>
+a blessing as Governor Magoon's decree nationalizing the sanitation service of<lb/>
+the island. Yet, while the measure in its entirety is so very good, we can<lb/>
+not but question the wisdom (until we know why) of the clause providing that<lb/>
+the chief of sanitation and the members of the board shall be appointed by the<lb/>
+president for terms of four years.</p>
+<p>This term of office coincides with the presidential incumbency, and therefore<lb/>
+it seems that the sanitary department is to be political in character and its of-<lb/>
+fices to be part of the political &ldquo;pap&rdquo; which a presidential candidate may hold<lb/>
+out as a contingent fee to his supporters.</p>
+<p>Now, it seems to us that the department of sanitation should be as far<lb/>
+removed from politics as the judiciary, and after considerable pondering we find<lb/>
+ourselves unable to divine any reason for changing its personnel every four<lb/>
+years. Moreover, the decree expressly provides that the president may at any<lb/>
+time remove the chief of sanitation or any member of the board &ldquo;for cause.&rdquo; This<lb/>
+suggests that these officials should continue undisturbed in the discharge of<lb/>
+their duties so long as they properly discharge them, and there can scarcely be<lb/>
+any question but that one may grow old in the discharge of such duties, becom-<lb/>
+ing by experience each year more valuable and efficient. To make continuance<lb/>
+in such offices dependent upon the partisan possibilities occurring every four<lb/>
+years is diametrically opposed to the whole theory and practice of the civil ser-<lb/>
+vice system of which President Roosevelt, ever since he entered public life, has<lb/>
+been so consistent a champion. We confess, somewhat regretfully, that we are<lb/>
+not omniscient, and there may be some excellent reason for making tenure of<lb/>
+sanitary office dependent upon political, or rather party, exigencies, but we can<lb/>
+not find it, and would be grateful for enlightenment.</p>
+<p>What seems to us another flaw in the decree is the perpetuation of the de-<lb/>
+partment of &ldquo;Special Hygiene,&rdquo; by incorporating it in the National Board of<lb/>
+Sanitation. Why not abolish it? The excuses for such legalizing of vice, on<lb/>
+the score that the public health is thereby protected, while always lacking ethi-<lb/>
+cally, have been proven by experience to be invalid, even from a hygienic stand-<lb/>
+point. Eminent physicians in Havana declare that the protection thus afforded<lb/>
+does not protect. If this be true, why longer disgrace the city by making it a<lb/>
+procurer, deriving income from the vilest of traffics?--No, not the city now, but<lb/>
+the Cuban republic, since sanitation has been made national. Surely, it is not<lb/>
+fitting that any part of the president's salary should be paid by fallen women<lb/>
+for the privilege of plying their trade.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

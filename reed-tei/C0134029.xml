@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0134029">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter fragment from J. Martinez H. to [Henry Rose Carter], July 13, 1922</title>
+<title type="gmd">[electronic resource] </title>
+<author>H. Martinez, J.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0134029</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1922-07-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Henry Rose</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1922-07-13">July 13, 1922</date>
+<idno rend="suppress">C0134029</idno>
+<title>Letter fragment from J. Martinez H. to [Henry Rose Carter], July 13, 1922</title>
+</bibl>
+</head>
+<p>Martinez asserts the Book of Chilam Balam is not an accurate source of history.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1922-07-13">
+<head>Letter fragment from J. Martinez H. to [Henry Rose Carter], July 13, 1922</head>
+<pb n="1" id="fC0134029"/>
+<p>Book Martinez</p>
+<p>Part of Dr. Martinez' Letter of July 13&sol;22.</p>
+<p>*************************************************</p>
+<p>&ldquo;We must not insist on the accuracy of the Books of Chilam Balam<lb/>
+as a source of real history. The Tizimin, on folio 15, page 29, refers,<lb/>
+on the 4 ahau, to the same prediction: &ldquo;<hi rend="underline">xe-kik, u cuch katun</hi>&rdquo; (&ldquo;<hi rend="underline">blood<lb/>
+vomit is the outcome of the katun</hi>&rdquo;) &ldquo;<hi rend="underline">te tu uich can ahau katun vale, uchei<lb/>
+maya-cimlal, ocnal-kuchil</hi>,&rdquo; (<hi rend="underline">in the transcourse of the katun four ahau,<lb/>
+probably, took place the calamity or pestilence called</hi> &ldquo;<hi rend="underline">maya-cimlal</hi>,&rdquo; (&ldquo;the<lb/>
+pestilence of the Mayas&rdquo;), <hi rend="underline">and</hi> &ldquo;<hi rend="underline">ocnal-kuchil</hi>&rdquo; (when so many died that the<lb/>
+buzzards entered the houses to eat the corpses;) (&ldquo;such statement was<lb/>
+made by the High Priest); &ldquo;<hi rend="underline">bay bin uchpahal tu vuudz</hi> (1) <hi rend="underline">tu caten, ti cu<lb/>
+tal tu cuch-habil, bay yalci ahkin chilan tu cuch-katun can ahau vale,</hi>&rdquo;<lb/>
+(<hi rend="underline">so it will again take place, when it turns again, it is indicated in the<lb/>
+in the course of the yearly events, as was predicted by the High Priest, as<lb/>
+the coming events in the course of the katun four ahau, probably</hi>.&rdquo;</p>
+<p>(Red underlines, is the maya text: black underlines, my translation.)</p>
+<p>The same entry of the ritual is made on page 33, fol 17, which<lb/>
+seems to me a brief ritualistic recital of the first just mentioned.</p>
+<p>On page 99 of the Book of Chilam Balam of Chumayel, (Philadelphia<lb/>
+edition, University Museum. 1913) we have similar statement on which<lb/>
+<pb n="2" id="fC0134031"/>
+which<lb/>
+2<lb/>
+Bishop Carrillo laid so much stress (P. 19-20, &ldquo;Carta sobre la Historia<lb/>
+de la Biebre Amarilla, Merida. 1892&rdquo;), although this katun <hi rend="underline">four ahau<lb/>
+corresponds to the year of 1740</hi> according to this book.</p>
+<p>The Tizimin was copied in 1593, from some document or Codex then<lb/>
+in existence; others recopied the same document several times and in dif-<lb/>
+ferent epochs, making additions, errors, omissions, intercallations etc.</p>
+<p>If according to Landa, katun &ldquo;<hi rend="underline">11 ahau</hi>&rdquo; began in 1541, katun <hi rend="underline">4 ahau</hi><lb/>
+began A. D. 1480; in 1500, <hi rend="underline">2 ahau</hi>; in 1520, <hi rend="underline">13 ahau</hi>. A katun <hi rend="underline">4 ahau</hi><lb/>
+will take place or recur every 256 years (13 katuns of 7200 days). I<lb/>
+would suggest A. D. 2480 as the best probable date for the &ldquo;<hi rend="underline">xekik</hi>&rdquo; record.</p>
+<p>(1) P. S. I am afraid that the word <hi rend="underline">uadz</hi> (the fourth time) should be<lb/>
+<hi rend="underline">uudz</hi> as in this first instance no such fourth time of xekik is mentioned,<lb/>
+but <hi rend="underline">uudz</hi>, the doubling or sifting movement of the katun: <hi rend="underline">caten</hi> (again)<lb/>
+is written twice; it should not be read <hi rend="underline">can ten</hi> (the fourth time), but<lb/>
+caten (twice, again).</p>
+<p>(2) P. S. The calamity &ldquo;<hi rend="underline">maya-cimlal</hi>&rdquo; and its outcome &ldquo;<hi rend="underline">ona-kuchil</hi>,&rdquo; is<lb/>
+mentioned as an occurrence which happened in katun <hi rend="underline">4 ahau</hi> by the Tizimin<lb/>
+and Chumayel Chronicles, pages 142, 156, 168 of Brinton's book: &ldquo;The<lb/>
+<pb n="3" id="fC0134032"/>
+3<lb/>
+&ldquo;The<lb/>
+Maya Chronicles,&rdquo; Phila. 1882. All this evidence points out <hi rend="underline">xe-kik</hi> as<lb/>
+being the cause of the pestilence about 1480-1500. The 11 Chumayel<lb/>
+Chronicle points out as the 5th. year of 4 ahau about 1485.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

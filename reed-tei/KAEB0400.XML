@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAEB0400">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders, December 21, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Scott, Hugh L.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAEB0400</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-12-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Wood, Leonard</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1900-12-21">December 21, 1900</date>
+<idno rend="suppress">KAEB0400</idno>
+<title>Military Orders, December 21, 1900</title>
+</bibl>
+</head>
+<p>General Orders #6 states that the mosquito is responsible for malaria, yellow fever, and filarial infection, and that all military posts should take every precaution to eradicate the mosquito. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1900-12-21">
+<head>Military Orders, December 21, 1900</head>
+<pb n="1" id="fKAEB0400"/>
+<p>G. O. NO. 6, Hdqrs Dept. of Cuba.<lb/>
+Dec. 21, 1900</p>
+<p>NOTED: RETURNS, A.G.O.,<lb/>
+9</p>
+<p><unclear>Adjutant General's<lb/>
+OFFICE<lb/>
+JAN 7 1901<lb/>
+ROLLS DIVISION</unclear></p>
+<p>ORDERS, BOOKS, BLANKS, &amp; D.C.DIV.<lb/>
+REC'D DEC. 31 1900<lb/>
+ADJUTANT GENERALS OFFICE.</p>
+<p>GENERAL ORDERS, }<lb/>
+NO. 6. }</p>
+<p>HEADQUARTERS DEPARTMENT OF CUBA,<lb/>
+<hi rend="italic">Havana, December 21, 1900</hi>.</p>
+<p>The Chief Surgeon of the Department having reported<lb/>
+that it is now well established that malaria, yellow fever<lb/>
+and filarial infection are transmitted by the bites of mos-<lb/>
+quitoes, the following precautions will, upon his recom-<lb/>
+mendation, be taken for the protection of the troops against<lb/>
+the bites of these insects:</p>
+<p>1. The universal use of mosquito bars in all barracks and<lb/>
+especially in all hospitals, and also in field service when<lb/>
+practicable.</p>
+<p>2. The destruction of the larvae or young mosquitoes,<lb/>
+commonly known as &ldquo;wiggletails,&rdquo; or &ldquo;wigglers,&rdquo; by the<lb/>
+use of petroleum on the water where they breed.</p>
+<p>The mosquito does not fly far and seeks shelter when the<lb/>
+wind blows; so it is usually the case that each community<lb/>
+breeds its own supply of mosquitoes in water barrels, fire<lb/>
+buckets, post holes, old cans, cesspools, or undrained pud-<lb/>
+dles.</p>
+<p>An application of one ounce of kerosene to each fifteen<lb/>
+square feet of water, twice a month, will destroy not only<lb/>
+all the young, but the adult females who come to lay their<lb/>
+eggs. The water in cisterns or tanks is not affected for<lb/>
+drinking or washing purposes by this application if only it<lb/>
+is drawn from below and not dipped out.</p>
+<p>For pools or puddles of a somewhat permanent character,<lb/>
+draining or filling up is the best remedy.</p>
+<p>The Medical Department will furnish oil for the purpose<lb/>
+above mentioned.</p>
+<p>Post commanders will carefully carry out these precau-<lb/>
+tions.</p>
+<p>BY COMMAND OF MAJOR GENERAL WOOD:</p>
+<p>H. L. SCOTT,<lb/>
+<hi rend="italic">Adjutant General</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

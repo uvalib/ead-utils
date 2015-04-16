@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0309002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Hideyo Noguchi to Frederick F. Russell, August 18, 1925 [Enclosed in C0309001]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Noguchi, Hideyo</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0309002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1925-08-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Russell, Frederick F.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Beeuwkes, Henry</name>
+<name type="person">Connal, A.</name>
+<name type="person">Muller, Henry R.</name>
+<name type="place">Shandaken (N.Y.)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1925-08-18">August 18, 1925</date>
+<idno rend="suppress">C0309002</idno>
+<title>Letter from Hideyo Noguchi to Frederick F. Russell, August 18, 1925 [Enclosed in C0309001]</title>
+</bibl>
+</head>
+<p>Noguchi comments on the importance of determining mosquito infectivity and possible animal immunity in experiments on mosquito transmission of yellow fever in animals.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1925-08-18">
+<head>Letter from Hideyo Noguchi to Frederick F. Russell, August 18, 1925 [Enclosed in <xref id="C0309001">C0309001</xref>]</head>
+<pb n="1" id="fC0309002"/>
+<opener>
+<dateline>
+Shandaken, New York<lb/>
+<date value="1925-08-18">August 18, 1925</date>
+</dateline><lb/>
+<salute>My dear Doctor Russell:</salute>
+</opener>
+<p>Thank you for your letter containing a section of Dr. Beeuwkes's<lb/>
+diary. It is quite interesting to note that the clinical pictures of these<lb/>
+cases are not as clear cut as we would like to have. Among those cases seen<lb/>
+by Dr. Beeuwkes there is a particle of uncertainty in diagnosis. I am interested<lb/>
+to know if the guinea pigs used by Dr. Connal were young and freshly imported<lb/>
+from non-yellow fever countries. It does make a world of difference whether<lb/>
+suitable animals are being used in transmission experiments. It would be mis-<lb/>
+leading to emphasize the negative results without definitely stating the animal<lb/>
+material employed for such an experiment. Certainly nothing can be decided by<lb/>
+this sort of procedures.</p>
+<p>Regarding the mosquito transmission experiments, I am quite aware of<lb/>
+difficulty in obtaining a positive result unless many attempts are being re-<lb/>
+peated with fresh animals. When one animal remains without any reaction,<lb/>
+that particular animal is undoubtedly immune, so others must be tried. The<lb/>
+fundamental question in Mrs. Connal's experiment is whether or not that or those<lb/>
+mosquitoes are really infective even for human non-immunes. When you obtain<lb/>
+a positive transmission to a guinea pig there is no question that the mosquitoes<lb/>
+used were infective, but when you get a negative outcome, the infectivity of the<lb/>
+insects needs verification by some other mode of experimentation. Guinea pigs<lb/>
+are by no means very reliable for such determination. I would like to see some<lb/>
+volunteers tested out as had been done in Havana. For that matter, chimpanzees<lb/>
+may be used for such purposes, particularly because these apes are more readily<lb/>
+accessible to our need there. If I am to be there myself I would certainly<lb/>
+<pb n="2" id="fC0309003"/>
+Doctor Russell<lb/>
+August 18, 1925<lb/>
+2<lb/>
+carry out this program for determining the nature of the disease known<lb/>
+as yellow fever by some and denied by others. Of course, if Muller suc-<lb/>
+ceeds in isolating Leptospira Icteroides this settles the identity of the disease<lb/>
+with yellow fever in the new world. Or even the Pfeiffer reaction will<lb/>
+bring the question nearer its solution. ..........</p>
+<p>Please keep me informed of any development in the African<lb/>
+expedition.</p>
+<closer>
+<salute>With kindest regards, I am<lb/>
+Very sincerely yours,</salute>
+<signed>(Signed) Hideyo Noguchi</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

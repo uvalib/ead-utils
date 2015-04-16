@@ -1,0 +1,2008 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY t02954006 SYSTEM "t02954006.jpg" NDATA jpg>]>
+<TEI.2 id="t02954005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Article: Major James Carroll of the United States Army, Yellow Fever Commission, and the Discovery of the Transmission of Yellow Fever by the Bite of the Mosquito &lsquo;Stegomyia Fasciata,&rsquo; by John C. Hemmeter, 1908</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hemmeter, John C.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02954005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1908-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Horlbeck, Henry B.</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">Welch, William H.</name>
+<name type="person">Wasdin, Eugene</name>
+<name type="person">Meddings, H. D.</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Manson, Patrick</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Marchoux, M. M.</name>
+<name type="person">Fulton, John H.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Bullard, John R.</name>
+<name type="person">Fernandez, Nicanor</name>
+<name type="person">Benigno, Antonio</name>
+<name type="person">Presedo, Becente</name>
+<name type="person">Martinez, Jose</name>
+<name type="person">Folk, Levy E.</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Castillo, Pablo Ruiz</name>
+<name type="person">Alvarez, Jacinto Mendez</name>
+<name type="person">Jernegen, Warren G.</name>
+<name type="person">Olsen, William</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Moran, Manuel Guiterrez</name>
+<name type="person">Hamann, Paul.</name>
+<name type="person">Covington, Albert W.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">O'Reilly, Robert M.</name>
+<name type="person">Jenner, Edward</name>
+<name type="person">Corbin, H. C.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Cartwright, George</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Slocum, Herbert</name>
+<name type="person">Needham, Charles W.</name>
+<name type="person">Jordan, Edward O.</name>
+<name type="person">Donnally, H. H.</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Woolwich (London, England)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Cleveland (Ohio)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Blue Ridge Summit (Pa.)</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>44 pp.</extent>
+<date value="1908-00-00">1908</date>
+<idno rend="suppress">02954005</idno>
+<title>Article: Major James Carroll of the United States Army, Yellow Fever Commission, and the Discovery of the Transmission of Yellow Fever by the Bite of the Mosquito &lsquo;Stegomyia Fasciata,&rsquo; by John C. Hemmeter, 1908</title>
+</bibl>
+</head>
+<p>Hemmeter gives a chronological account of all the work done by Carroll with regard to yellow fever, and includes a series of letters written by Carroll to his wife, to Walter Reed, and to several others. Hemmeter attempts to rectify what he sees as a lack of proper recognition or reward to Carroll and his family for the part he played in determining the cause of yellow fever.</p>
+</div1>
+<div1 type="book">
+<p></p>
+</div1>
+</front>
+<body>
+<div1 type="chapter" n="1">
+<head>MAJOR JAMES CARROLL<lb/>
+OF THE UNITED STATES ARMY, YELLOW FEVER COMMISSION,<lb/>
+AND THE DISCOVERY OF THE TRANSMISSION<lb/>
+OF YELLOW FEVER BY THE BITE OF THE MOSQUITO<lb/>
+&ldquo;STEGOMYIA FASCIATA&rdquo;,</head>
+<pb n="5" id="f02954005"/>
+<byline>BY<lb/>
+<docAuthor>JOHN C. HEMMETER, M.D., PHIL. D., LL.D.</docAuthor>,<lb/>
+<hi rend="italic">Professor of physiology, University of Maryland, Baltimore</hi>.</byline>
+<p>----------</p>
+<p>A scientific and medical discovery so far reaching in the blessings<lb/>
+it bestows upon the human race, that it is not exceeded in this<lb/>
+respect by any other discovery in the history of medicine, has been made<lb/>
+by three American Army Surgeons. The names of these three men are<lb/>
+Major Walter Reed, Major James Carroll, both Surgeons in the United<lb/>
+States Army, and Dr. Jesse W. Lazear, Acting Assistant Surgeon, U.S.A.<lb/>
+A fourth member of the U. S. Army Yellow Fever Commission was<lb/>
+Dr. Aristides Agramonte, Acting Assistant Surgeon in the U. S. Army,<lb/>
+a Cuban by birth and, as I am informed by former Surgeon-General,<lb/>
+U. A. S., Geo. M. Sternberg, he was an immune. Dr. Agramonte is the<lb/>
+only one of the U. S. A. Yellow Fever Commission, who is still living.</p>
+<p>When we consider, that this Commission first came together in June, 1900,<lb/>
+all of its members being then vigorous and healthy young men, and that<lb/>
+the last American of this Commission, the third to die, departed this<lb/>
+life in September, 1907, from the indirect results of a severe attack of<lb/>
+yellow fever, experienced seven years ago, we will gain an insight into<lb/>
+the severity of the duties of these philanthropic pioneers of American<lb/>
+Medical Science. Dr. Jesse W. Lazear died on September 28, 1900. He<lb/>
+had been stung on September 13th by a mosquito, which chanced to<lb/>
+alight upon his hand. He believed this insect to be a &ldquo;common ordinary<lb/>
+brown mosquito&rdquo;, and not a &ldquo;Culex Fasciatus&rdquo;, but as he permitted this<lb/>
+insect to fill itself with his blood, there is no exageration in saying, that<lb/>
+he knowingly and willingly accepted all the chances of a voluntary<lb/>
+inocculation, which brought on a violent attack of yellow fever, that ended<lb/>
+his highly useful life in a hospital at Quemados, Cuba. His infection by<lb/>
+the mosquito took place in Las Animas Hospital, located in the outskirts<lb/>
+of Havanah.</p>
+<p>Major Walter Reed, U.S.A. who was the chief of the Yellow Fever Com-<lb/>
+mission, acted as chairman and head of affairs, died on November 22, 1902,</p>
+<p>1908.<lb/>
+5</p>
+<pb n="5a" id="f02954006"/>
+<p><figure entity="t02954006"></figure></p>
+<pb n="58" id="f02954058"/>
+<p>58</p>
+<p>in Washington, six days after an operation undertaken for appendicitis.</p>
+<p>Dr. Jas. Carroll, Major and Surgeon, U. S. A., with whom this article<lb/>
+deals more especially, died in Washington on the 16th of September, 1907,<lb/>
+after a protracted illness, which had given manifestations of a more or<lb/>
+less severe character for the last six or seven years. In fact, Carroll told<lb/>
+me personally during a banquet, which was given to Professor Paul Ehrlich,<lb/>
+of Frankfort A&sol;M, by Professor William H. Welsh, of Baltimore, &ldquo;I have<lb/>
+never been a well man since that awful attack of yellow fever in<lb/>
+August, 1900&rdquo;.</p>
+<p>We may justly conclude, that two of the three American members of<lb/>
+this Commission died as Martyrs, and the Chief of the Commission, Dr.<lb/>
+Walter Reed, though he was fortunate enough to escape an attack of<lb/>
+yellow fever, and as head of the Commission it has been suggested by<lb/>
+Professor Welch, was ordered not to submit personally to the sting of<lb/>
+the yellow fever mosquito; yet when we reflect, that appendicitis is<lb/>
+frequently caused by certain chronic catarrhs and microbic diseases of<lb/>
+the colon, acquired especially in the tropics, and by the vicissitudes of<lb/>
+an unaccustomed diet, as well as the exposure of travel, we may, without<lb/>
+much stretch of imagination, appreciate that the indirect cause of Reed's<lb/>
+early death, was the result of his work and exposures, when a member<lb/>
+of the U. S. A. Yellow Fever Commission.</p>
+<p>No such pilgrimage of three clinicians into a country, infected with a<lb/>
+dangerous disease and sealing with their lives a brilliant discovery, is<lb/>
+known to me in the entire history of medicine; and in making this<lb/>
+statement I do not depend entirely upon my own knowledge, for I have<lb/>
+consulted many specialists on the history of medicine; nor is the achieve-<lb/>
+ment of these three men, considered either from the purely scientific or<lb/>
+from the humanitarian aspect, exceeded by any other single medical<lb/>
+discovery, except perhaps the discovery of anaesthesia, which is also an<lb/>
+American achievement, or the discovery of protective vaccination by<lb/>
+Jenner; or of the Bacillus of Tuberculosis by Koch. The weight of this<lb/>
+assertion may be better understood by reading an article published by<lb/>
+Reed and Carroll in the New-York Medical Record, October 26, 1901,<lb/>
+entitled &ldquo;<hi rend="italic">The Prevention of Yellow Fever</hi>&rdquo;. From the statistics there<lb/>
+collected, covering a period from 1793 to 1900, there have not been less<lb/>
+than 500.000 cases of yellow fever in the United States within that period.</p>
+<p>In addition to this we cannot disregard the loss to commerce, interstate<lb/>
+and international transportation, and the direct financial losses. It is stated<lb/>
+by Horlbeck, Chairman of the Committee appointed in 1897, to investigate<lb/>
+the cause of Yellow Fever, that the total loss to the country caused by<lb/>
+the epidemic of 1878, was not less than $ 100.000.000.--</p>
+<pb n="59" id="f02954059"/>
+<p>59</p>
+<p>When Karl Lamprecht in his &ldquo;<hi rend="italic">Americana</hi>&rdquo;, &ldquo;Freiburg&rdquo; I&sol;B states that<lb/>
+all the achievements of the American Nation could be wiped out, as if<lb/>
+they never had occurred, and still the human race would be none the<lb/>
+worse, he makes a disparging assertion, not in agreement with the great<lb/>
+historians of his own country; but certain it is beyond all doubt, that the<lb/>
+work of the U. S. A. Yellow Fever Commission has produced a result,<lb/>
+viz, the discovery of the transmission of yellow fever by a specific<lb/>
+mosquito, the blessings of which will last forever. Nor could Lamprecht<lb/>
+at all have been a thorough student of American scientific endeavor,<lb/>
+when he asserts that the only outcome of American existence as a nation,<lb/>
+so far, has been &ldquo;a great experiment in democracy&rdquo;.</p>
+<p>The facts narrated in the following were obtained largely from Maj.<lb/>
+James Carroll himself during many interviews, and from the articles given<lb/>
+as references in the text.</p>
+<p>For a biography of Major Walter Reed and his scientific work the<lb/>
+reader is referred to the volume by Dr. Howard A. Kelly, entitled<lb/>
+&ldquo;Walter Reed and Yellow Fever, New York, 1906&rdquo;. About ten pages of<lb/>
+this book are devoted to a brief sketch of the life and work of Major<lb/>
+Carroll, and about eight pages to the much beloved and lamented<lb/>
+Dr. Jesse W. Lazear, who was a Baltimorean by birth, and a man of<lb/>
+exceptional personal magnetism, in addition to possessing rare scientific<lb/>
+versatility.</p>
+<p>Before and during the year of 1897 there were two views proposed<lb/>
+regarding the infectious or causative agent of yellow fever: One was by<lb/>
+Dr. (then Major-Surgeon) George M. Sternberg, who in 1897 was a<lb/>
+member of the first Yellow Fever Commission appointed by the United<lb/>
+States Government. For years Dr. Sternberg, later on Surgeon-General<lb/>
+of the United States Army, had made systematic investigations of the<lb/>
+bacteriology of yellow fever, in Vera Cruz, Rio de Janeiro, New Orleans<lb/>
+and other harbor cities of the south. It was impossible to continue his<lb/>
+research after he entered on the duties of Surgeon-General; but as a<lb/>
+result of his work up to that time he gained the view, that an organism,<lb/>
+the Bacillus &ldquo;<hi rend="italic">X</hi>&rdquo;, was the infectious agent. The second organism proposed<lb/>
+as the cause was the Bacillus Icteroides of Sanarelli (Semaine M&eacute;dicale,<lb/>
+Paris 1897, XVII, p. 253).</p>
+<p>Professor William H. Welch, of the Johns Hopkins University, has<lb/>
+expressed his views concerning the work of Surgeon-General Sternberg,<lb/>
+done since the first Yellow Fever Commission was appointed in 1879, as<lb/>
+follows, in the Medical News, June 21, 1902, p. 1198:</p>
+<p>&ldquo;His work with yellow fever would stand forever. He said it was a<lb/>
+common thing in these busy days to forget the steps, which led up to an<lb/>
+5<hi rend="superscript">*</hi><lb/>
+<pb n="60" id="f02954060"/>
+60<lb/>
+important discovery. All that Dr. Sternberg had done in the study of<lb/>
+yellow fever was necessary work, and it had to be done just in the<lb/>
+way, that he did it. The ground had first to be cleared; if it were not<lb/>
+so the discovery had not been possible, and later discoverers themselves<lb/>
+would have had to hunt out the large host of micro-organisms, which<lb/>
+Dr. Sternberg had described and laid aside. His careful work practically<lb/>
+resulted in the view, that a bacteriological origin of this disease could not<lb/>
+be claimed, and it was on apriori grounds, that he himself felt, that<lb/>
+Sanarelli's bacillus was not the cause of yellow fever. His study of other's<lb/>
+discoveries was most careful and most critical; it was not wasted endeavor&rdquo;.</p>
+<p>In the demise of Dr. James Carroll, Surgeon-Major, U.S.A., September<lb/>
+1907, there is lost to Medical Science a most brilliant investigator. Among<lb/>
+the many useful men, that have lived, there stand few, whose immense<lb/>
+contributions to the welfare of mankind equal that of James Carroll;<lb/>
+indeed it can be said, that as an example of keen insight, indefatigable<lb/>
+energy and superhuman generosity, this man was peer to any medical<lb/>
+pioneer.</p>
+<p>The efforts, by which he came to acquire the technical knowledge,<lb/>
+which made him famous, are best set forth in a plain simple statement<lb/>
+of his early life; and then all may know the ineffaceable trait of perse-<lb/>
+verance, which characterized every effort in his worthy life, the acceptance<lb/>
+of every duty as it came, and the fullest discharge thereof, with constant<lb/>
+steady strides towards his goal-achievement.</p>
+<p>Major Carroll was born in Woolwich, England, June 5, 1854. His<lb/>
+parents were James and Harriet Carroll. His early training was at the<lb/>
+Albion House Academy, Woolwich, England, until 1869. In 1874 he<lb/>
+enlisted as a private in the U. S. Army, and was progressively promoted<lb/>
+to Corporal, Sergeant and Hospital Stewart. Here was created his desire<lb/>
+for the study of medicine, and by dint of hard work and perseverance<lb/>
+he received the degree of Doctor of Medicine at the University of Mary-<lb/>
+land, Baltimore, in 1891. In 1888 Maj. (then Sergeant) Carroll married<lb/>
+Miss Jennie M. George Lucas, of Cleveland.</p>
+<p>After his graduation at the University of Maryland, Baltimore, in 1891,<lb/>
+Dr. Carroll studied Pathology and Bacteriology in a special course and<lb/>
+post graduate work under Professor William H. Welch at the Johns<lb/>
+Hopkins University until 1893. During the summer of this year he worked<lb/>
+independently at the World's Fair in Chicago in the Army Laboratory,<lb/>
+and it was not until September, 1893, that he met Dr. Reed, in the Army<lb/>
+Medical School, Washington, D. C., where he reported by order of Surgeon<lb/>
+General Sternberg, U. S. A. At this time Dr. Carroll was Lieut. Assistant<lb/>
+<pb n="61" id="f02954061"/>
+61<lb/>
+Surgeon, U. S. A., and in this capacity his first great work began. His<lb/>
+first order was to assist in the investigation of the statement of Sanarelli,<lb/>
+that he had demonstrated the specific etiologic organism of Yellow Fever.<lb/>
+This work was done in Cuba in 1897--1902, and with Reed and others<lb/>
+he found conclusively the error of Sanarelli, and at the same time dis-<lb/>
+proved Surg. Gen. Sternberg's theory, that the bacillus X was the specific<lb/>
+causative factor. Bacillus X of Sternberg was found to be an atypical Colon<lb/>
+Bacillus, and that of Sanarelli, the &ldquo;Bacilles Icteroides&rdquo;, to belong to the<lb/>
+hog cholera group. Concerning the publication of these findings, the<lb/>
+&ldquo;Medical News&rdquo;, April 29, 1900, editorily says: &ldquo;There remains open for<lb/>
+ambitious American Bacteriologists a very interesting problem of etiology<lb/>
+(referring to the cause of yellow fever), whose study the United States'<lb/>
+possession of Cuba and Porto Rico will greatly facilitate, and whose<lb/>
+importance can scarcely be overestimated. Any discoveries in the matter<lb/>
+will confer lasting fame upon the investigators&rdquo;.</p>
+<p>The report of Drs. Eugene Wasdin and H. D. Meddings, of U. S.<lb/>
+Marine Hospital Services in an official report: &ldquo;Report of Medical Officers<lb/>
+detailed by authority of President McKinley&rdquo;, adopted the ground occupied<lb/>
+by Sanarelli, and proclaimed in their report. &ldquo;That the micro-organism,<lb/>
+discovered by Prof. Guiseppe Sanarelli of the University of Bologna, Italy,<lb/>
+and by him named the &ldquo;Bacillus Icteroides&rdquo;, is the cause of yellow fever.&rdquo;</p>
+<p>The work at Quemados, Cuba, of Maj. Reed, Maj. Carroll (then Lieute-<lb/>
+nant), Dr. Jesse W. Lazear and Dr. Aristides Agramonte, appointed at<lb/>
+the suggestion of Surgeon-General Sternberg, as a Board of Army Medical<lb/>
+Officers, established by repeated autopsies, that the &ldquo;Bacillus Icteroides&rdquo;<lb/>
+was, when present, a secondary infection in yellow fever, but was present<lb/>
+in neither a single case of repeated examinations of the blood of living<lb/>
+cases of yellow fever, nor in the organs at autopsy of fatal cases of a<lb/>
+long series of cases, examined by them. Therefore, said they, &ldquo;Bacillus<lb/>
+Icteroides stands in no causative relation to yellow fever, but when present<lb/>
+should be considered as a secondary invader in this disease.&rdquo;</p>
+<p>At that time there stood rather prominently before the medical profes-<lb/>
+sion repeated assertions by Dr. Carlos J. Finlay, of Havana, Cuba, that<lb/>
+the mosquito was a possible agent in the transmission of yellow fever.<lb/>
+Dr. Finlay had no well defined idea as to the relation of the disease and<lb/>
+the mosquito, but suggested, that yellow fever was principally due to an<lb/>
+inflammation of the endothelium and intima of the blood vessels, and<lb/>
+that the penetration of the prosboscis of the mosquito into these vessels<lb/>
+resulted in infection of the prosboscis, and then an infected mosquito<lb/>
+might, by biting a non-immune, mechanically transfer the infection to the<lb/>
+party thus bitten.</p>
+<pb n="62" id="f02954062"/>
+<p>62</p>
+<p>Drs. Reed, Carroll and Lazear, then (1900), stationed at Columbia<lb/>
+Barracks, Cuba, directed their attention to Dr. Finlay's theory (advanced<lb/>
+nearly twenty years previously) but as nearly all of Dr. Finlay's experiments<lb/>
+to sustain his theory, had been performed in such a loose manner, that it<lb/>
+was not proper to attach much importance to them, because his results<lb/>
+might have been as well coincidental as rational, certainly nothing had<lb/>
+been proved; Professor William H. Welch is of the opinion, that Dr. Carlos<lb/>
+J. Finlay's efforts to prove his hypothesis were so contradictory, that they<lb/>
+tended rather to invalidate than strengthen his assertions.</p>
+<p>Now it appeared to those, who frequently, constantly and freely<lb/>
+discussed the possible theories of yellow fever infection, that the disease<lb/>
+of yellow fever bore a marked relationship to malaria in that it occurred<lb/>
+only, when mosquitoes were present, and under such conditions as suggested,<lb/>
+that the organism, whatever it might be, was possibly like malaria, in that it<lb/>
+underwent apparently some just such or similar life cycle with the mos-<lb/>
+quito as intermediate host. To no one in particular of these can all<lb/>
+the credit for this idea be given, as it seems, that the frequent daily inter-<lb/>
+change of ideas was so close, that the resolution to persue this line of<lb/>
+investigation was really an offspring of their conjoined suggestions.<lb/>
+Medicine owes to the brilliant discoveries of Sir Patrick Manson and<lb/>
+Major Ronald Ross, of the British Army, the first definite knowledge of<lb/>
+the part played by mosquitoes in the transmission of malaria, (see Nuttal's<lb/>
+paper, Johns Hopkins Hospital Report, 1899; also work by H. A. Kelly,<lb/>
+&ldquo;Walter Reed and Yellow Fever&rdquo;, p. 104--108). Dr. Agramonte, who was<lb/>
+stationed at Havana, did not share in these deliberations to investigate<lb/>
+in a systematic manner this method of infection. This method involved<lb/>
+as a primary step to test, whether or not the disease could be transmitted<lb/>
+by the mosquito. This fact, eliminated or established, was determined<lb/>
+upon, and with this determination arose the resolution to use human<lb/>
+beings as experimental subjects. In order to justify such a responsibility,<lb/>
+the Commission, at Carroll's suggestion, determined to show the tremen-<lb/>
+dous risk of selfsacrifice along with whomsoever they could procure<lb/>
+among the non-immune for such dangerous experiments.</p>
+<p>At this time August 4, 1900, Maj. Reed was recalled to the United<lb/>
+States from Cuba, and the real responsibility, both moral and medical,<lb/>
+fell upon Dr. James Carroll. Doubtless, had Dr. Reed remained upon the<lb/>
+island, he too would have offered himself as did his colleagues upon the<lb/>
+alter of self-experimentation in their pursuit of such much needed know-<lb/>
+ledge. The fact is, however, that he was in the United States, when these<lb/>
+tremendous strides towards the light, which revolutionized prophylaxis and<lb/>
+hygiene as concerns yellow fever, were made. A year later, in November<lb/>
+<pb n="63" id="f02954063"/>
+63<lb/>
+22, 1902, that most highly esteemed investigator, Maj. Reed, fell a victim<lb/>
+to a fatal attack of appendicitis, and his death, occurring in Washington,<lb/>
+D. C. at the time, that this work was going on, and closely following that<lb/>
+of the martyr Lazear, and illness of Maj. Carroll, led many of the laity<lb/>
+to the belief, that Reed died as a result of yellow fever, inflicted upon<lb/>
+himself in the interest of humanity. Such innoculation is suggested by<lb/>
+Samuel H. Adam's article in &ldquo;McClure's Magazine&rdquo; for June, 1906, where<lb/>
+he says, concerning yellow fever, &ldquo;Lazear died a martyr to humanity and<lb/>
+is remembered by one, when the lesser heroes of our Cuba battle-fields<lb/>
+are acclaimed by thousands. Carroll barely escaped with his life, and<lb/>
+Major Reed, shrinking from no peril, which his companions braved, came<lb/>
+through unscathed, by virtue of some natural immunity (?), only to die<lb/>
+of another illness the following year.&rdquo; The actual fact, however, remained,<lb/>
+that, virtually, Carroll was the hero of the hour. It was he, who first<lb/>
+proposed experiment on the human being himself; it was he, who offered<lb/>
+his arm in the laboratory on August 27, 1900 and permitted Dr. Lazear<lb/>
+to apply to it a mosquito, that had previously been known to have bitten<lb/>
+four severe cases of yellow fever; it was he, who was at the helm during<lb/>
+the crucial hour of the trial; it was he, who first actually demonstrated<lb/>
+by positive proof, that yellow fever is transmitted by the &ldquo;Stegomyia<lb/>
+Fasciata&rdquo;; it was he, who later on prevented acceptance of erroneous<lb/>
+ideas concerning the specific organism. Although these experiments were<lb/>
+continued in a large number of cases after Dr. Reed returned to Cuba<lb/>
+to manfully carry out the work, which Drs. Carroll and Lazear had begin,<lb/>
+he did not assume the risk of auto-innoculation. In explanation of this,<lb/>
+it has been suggested, that he had orders not to do so, as nothing could<lb/>
+be further accomplished by such human sacrifice of the Chief of the<lb/>
+Commission. So really this most heroic act of selfsacrifice was born in<lb/>
+the breast of Carroll, and as his example was so conspicuous it can scar-<lb/>
+cely be denied, that it served in no small way as an incentive to the many<lb/>
+other acts of philanthropic patriotism in the Army to be volunteers for<lb/>
+this dangerous service. In truth may it be said, that without this almost<lb/>
+incredible self-sacrifice of Carroll, the experiments would have been so<lb/>
+hampered, that it is doubtful whether any positive conclusions could have<lb/>
+been attained.</p>
+<p>The reports of the United States Yellow Fever Commission, because of<lb/>
+army rank, bear Dr. Reed's signature as senior officer; and such he was,<lb/>
+but Carroll was the man, whose marvelous heroism and accuracy, whose<lb/>
+persistency, whose indefatigable energy, stood more of the brunt of the<lb/>
+fight than any one man -- this not to detract in the slightest, however, from<lb/>
+the most valuable direction of Reed, and assistance of Lazear and Agramonte.</p>
+<pb n="64" id="f02954064"/>
+<p>64</p>
+<p>When Maj. Reed left Cuba for the first time after the initial visit of<lb/>
+the Commission to this island (Aug. 4, 1900), Carroll and Lazear began<lb/>
+their systematic investigation of Finlay's theory, that the mosquito was the<lb/>
+source of infection. Dr. Agramonte, by order of Maj. Reed, was not<lb/>
+apprised of this line of work. Dr. Finlay furnished the eggs, from which<lb/>
+were hatched the mosquitos first used in these experiments. These mos-<lb/>
+quitos were kept until maturity free from any source of contamination.<lb/>
+The men, who were to be experimented upon, were likewise kept in<lb/>
+quarantine, so as to guard against other sources of infection (vomits from<lb/>
+yellow fever patients being then regarded as a very dangerous source of<lb/>
+infection). Then Dr. Lazear infected nine healthy non-immunes, including<lb/>
+himself, with these mosquitoes, which had been allowed to bite yellow<lb/>
+fever patients. But either because the mosquitoes had not been kept suffi-<lb/>
+ciently long after their having thus bitten these patients, or had bitten<lb/>
+them too late or too early in the course of the disease, no experimental<lb/>
+cases of yellow fever developed from these experiments. Dr. Carroll,<lb/>
+nothing daunted, then had one mosquito bite a severe case of yellow<lb/>
+fever on the second day of the disease, and afterwarts three others at<lb/>
+intervals of 6, 8, and 10 days, and then allowed Dr. Lazear to apply the<lb/>
+mosquito to his own arm, <hi rend="italic">caused the first experimental form of this<lb/>
+disease to be produced, August</hi> 27, 1900. The illness of Dr. Carroll was<lb/>
+that of a typical severe case of yellow fever, charts of which can be<lb/>
+found in his subsequent reports. (See American Public Health Association<lb/>
+Reports 1900.) Troughout this critical illness of Dr. Carroll, Surg. Gen.<lb/>
+Sternberg was considerate enough of Mrs. Carroll and her five children<lb/>
+in Washington to keep them posted of Maj. Carroll's condition by daily<lb/>
+cable. Four days after Maj. Carroll's infection, Dr. Lazear, with four<lb/>
+infected mosquitoes, (one of which being the same that was used upon<lb/>
+Dr. Carroll), succeeded in producing another case, in a private soldier,<lb/>
+who, with full knowledge of the danger, and with free consent, allowed<lb/>
+himself to be used in the interest of these experiments.</p>
+<p>The following is quoted from &ldquo;A Brief Review of the Etiology of<lb/>
+Yellow Fever&rdquo;, New-York Medical Journal and Phil. Med. Journal (con-<lb/>
+sol.), February 6 and 13, 1904:</p>
+<p>&ldquo;The insect, which had been hatched and reared in the laboratory,<lb/>
+had been caused to feed upon four cases of yellow fever, two of them<lb/>
+severe and two mild. The first patient, a severe case, was bitten twelve<lb/>
+days before, the second, third and fourth patients had been bitten six,<lb/>
+four and two days previously, and their attacks were in character, mild,<lb/>
+severe, and mild, respectively. In writing to Dr. Reed on the night after<lb/>
+the incident I remarked jokingly, that if there were anything in the mos-<lb/>
+<pb n="65" id="f02954065"/>
+65<lb/>
+quito theory I should have a good dose; and so it happened. After having<lb/>
+slight premonitory symptoms for two days I was taken sick on August 31st,<lb/>
+and on September 1st I was carried to the yellow fever camp. My life<lb/>
+was in the balance for three days, and my chart shows on the fifth, sixth<lb/>
+and seventh days my urine contained eight-tenths and nine-tenths of moist<lb/>
+albumen. The tests were made by Dr. Lazear. I mention this particularly,<lb/>
+because the results obtained in this case do not agree with the twentieth<lb/>
+conclusion of Marchoux, Salimbeni and Simond, that the longer the<lb/>
+interval, that elapses after infection of the mosquito, the more dangerous<lb/>
+he becomes. Twelve days, the period above cited, is the shortest time, in<lb/>
+which the mosquito has been proved to be capable of conveying the<lb/>
+infection. It is my opinion, that the susceptibility of the individual bitten<lb/>
+is a much more potent factor in determining the severity of the attack,<lb/>
+than the duration of the infection in the mosquito, or the number of<lb/>
+mosquitoes applied. On the day that I was taken sick, August 31, 1900,<lb/>
+Dr. Lazear applied the same mosquito with three others to another<lb/>
+individual, who suffered a comparatively mild attack, and was well before<lb/>
+I left my bed. Thus it happened, that I was the first person, to whom<lb/>
+the mosquito was proved to convey the disease. On the 18th day of<lb/>
+September, five days after I was permitted to leave my bed, Dr. Lazear<lb/>
+was stricken and died in convulsions just one week later, after several<lb/>
+days of delirium with black vomit. Such is yellow fever.&rdquo;</p>
+<p>Dr. Lazear, while attending to his duties in a yellow fever hospital, was<lb/>
+accidentally bitten by a stray infected mosquito (he, while sick, called it<lb/>
+an &ldquo;ordinary brown mosquito&rdquo;), and fell prey to the disease on September<lb/>
+25, 1900. The attempt to give due credit to the magnificent altruism and<lb/>
+genius of these men would lead me to falter in the effort to eulogize<lb/>
+their work.</p>
+<p>But Dr. Henry D. Holton, in American Public Health Associations,<lb/>
+Presidential Address of 1902, struck a sympathetic chord in the hearts<lb/>
+of all humanitarian aesclepiads, when he says:</p>
+<p>&ldquo;The patriotism of the military as they spring to the defense of their<lb/>
+country, always deserves and receives the applause of the populace. Their<lb/>
+deadly conflict on the battlefield is made easy by martial music, the<lb/>
+booming of artillery, the rattle of the infantry fire, and the advancing<lb/>
+step of comrades. How much more should we recognize the course of<lb/>
+such devotees of science as Drs. Carroll and Lazear, who filled with a<lb/>
+great philanthropic love for humanity, calmly, quietly, without the cheers<lb/>
+or even the knowledge of the multitude, silently submitted themselves to<lb/>
+the test to determine in what way this pestilence was communicated. We<lb/>
+are told, &lsquo;Greater love hath no man than this, that a man lay down his<lb/>
+<pb n="66" id="f02954066"/>
+66<lb/>
+life for his friend&rsquo;. We find, that James Carroll and Jesse W. Lazear, fired<lb/>
+and impelled by their great love for their fellow men, did offer their<lb/>
+bodies as a sacrifice upon the alter of scientific investigation to the end,<lb/>
+that in the years to come, hundreds of thousands might escape this<lb/>
+pestilential death.....&rdquo;</p>
+<p>The practical result of all this work and sacrifice has been evidenced<lb/>
+this past summer, not a case of yellow fever has originated in Cuba for<lb/>
+the past fourteen months. The quarantine period has been shorter by three<lb/>
+months, thousands of lives and multitudes of treasures have been saved,<lb/>
+and a feeling of security has filled the communities of the southern portion<lb/>
+of the United States.</p>
+<p>Dr. Carroll, after his illness, returned to the United States, to recuperate<lb/>
+his health, until the middle of November 1900, when he again went to<lb/>
+Cuba to continue his work. In the meantime, basing his knowledge upon<lb/>
+Carroll's experiments, Dr. Reed published the second conclusion of the<lb/>
+Army Commission, i. e., &ldquo;The Mosquito serves as the intermediate host<lb/>
+for the parasite of yellow fever&rdquo;. Amer. Public Health Assoc. Meeting to<lb/>
+Indianapolis, Oct. 22--26, 1900.</p>
+<p>Upon Dr. Carroll's return to Cuba, he established a camp near Quemados<lb/>
+and named it, in honor of his dead comrade, &ldquo;Camp Lazear&rdquo;. Here he<lb/>
+continued his investigations as to the etiology of yellow fever, and in<lb/>
+February, 1901, the Commission were able, by such investigation, to<lb/>
+establish further valuable data, published as conclusions in &ldquo;Additional<lb/>
+Notes&rdquo;: On the etiology of yellow fever by Reed, Carroll and Agramonte<lb/>
+(Journal Amer. Medical Assoc., Feb. 16, 1901.)</p>
+<p>
+<list type="ordered">
+<item>&ldquo;1. The mosquito -- Culex Fasciatus -- or Stegomyia Fasciata, serves<lb/>
+as the intermediate host for the parasite of yellow fever.</item>
+<item>2. Yellow fever is transmitted to the non-immune individual by means<lb/>
+of the bite of the mosquito, that has previously fed on the blood of those,<lb/>
+sick with this disease.</item>
+<item>3. An interval of about twelve days or more after contamination<lb/>
+appears to be necessary before the mosquito is capable of conveying the<lb/>
+infection.</item>
+<item>4. The bite of the mosquito at an earlier period after contamination<lb/>
+does not appear to confer any immunity against a subsequent attack.</item>
+<item>5. Yellow fever can also be experimentally produced by the subcuta-<lb/>
+neous injection of blood taken from the general circulation during the<lb/>
+first and second days of this disease.</item>
+<item>6. An attack of yellow fever produced by the bite of the mosquito<lb/>
+confers immunity against the subsequent injection of the blood of an<lb/>
+individual suffering from the non-experimental form of the disease.<lb/>
+<pb n="67" id="f02954067"/>
+67</item>
+<item>7. The period of incubation in thirteen cases of yellow fever has varied<lb/>
+from 41 hours to 5 days and 17 hours.</item>
+<item>8. Yellow fever is not conveyed by vomits, and hence disinfection of<lb/>
+articles of clothing, bedding and merchandise, supposedly contaminated<lb/>
+by contact with those sick of this disease is unnecessary.</item>
+<item>9. A house may be said to be infected with yellow fever only, when<lb/>
+there are present within its walls contaminated mosquitoes capable of<lb/>
+conveying the disease.</item>
+<item>10. The spread of yellow fever can be most effectively controled by<lb/>
+measures directed to the destruction of mosquitoes and the protection of<lb/>
+the sick against the bites of these insects.</item>
+<item>11. While the mode of propagation of yellow fever has now been<lb/>
+definitely determined, the specific cause of this disease remains to be<lb/>
+discovered.&rdquo;</item>
+</list>
+</p>
+<p>Subsequently the U. S. Army Board submitted a report, &ldquo;<hi rend="italic">Experimental<lb/>
+yellow fever</hi>&rdquo;, by Reed, Carroll and Agramonte, American Medicine,<lb/>
+July 6. 1901, in which are described the clinical features of the experi-<lb/>
+mentally produced disease, and in &ldquo;<hi rend="italic">the prevention of yellow fever</hi>&rdquo;, by<lb/>
+Reed and Carroll, N. Y. Medical Record, October 26, 1901, they describe<lb/>
+the <hi rend="italic">Stegomyia fasciata</hi>, mode of life, habitat, breeding places together<lb/>
+with methods for its suppression.</p>
+<p>In 1901, during the summer, Dr. Carroll was again detailed to go to<lb/>
+Cuba for the purpose of continuing the investigation into the causation<lb/>
+and prevention of yellow fever. During this summer Dr. Carroll demon-<lb/>
+strated by experiments, that the etiologic agent for yellow fever would pass<lb/>
+through a Berkefield Filter, which would prevent the passage of the<lb/>
+&ldquo;Micrococcus aureus&rdquo;. He demonstrated its thermal death point at 55 C.,<lb/>
+when left at this temperature for ten minutes, although he could find<lb/>
+nothing, to which to ascribe the cause itself of the disease. He autopsied<lb/>
+a fatal case of experimental yellow fever (A case of Dr. John Guiteras),<lb/>
+the first fatal case experimentally produced, and found identical lesions<lb/>
+with non-experimental yellow fever.</p>
+<p>All of Dr. Carroll's work has been renewed and confirmed by U. S.<lb/>
+Marine Hospital Service at Vera Cruz, and by a Commission from the<lb/>
+Pasteur Institute working in Brazil (<unclear>&ldquo;</unclear>La Fi&egrave;vre Jaune&rdquo; by M. M. Marchoux,<lb/>
+etc. etc., Annales de l'Institute Pasteur, Nov. 1903) and to-day stands<lb/>
+practically as he reported -- unadded to and without correction.</p>
+<p>Under date of October 26, 1901, Maj. Reed, the head of the Yellow<lb/>
+Fever Commission, writes Dr. Carroll concerning that summer's work<lb/>
+saying:</p>
+<pb n="68" id="f02954068"/>
+<p>68</p>
+<p>&ldquo;My dear Doctor:</p>
+<p>I have just received your letter of the 22nd and hasten to congratulate<lb/>
+you on the thorough manner, in which you have accomplished the task<lb/>
+assigned you. The results could not have been better, and throw a flood<lb/>
+of light, on the etiology of yellow fever. We can now go ahead and sub-<lb/>
+mit a contribution on the etiology of yellow fever. This we must do<lb/>
+promptly after we have discussed all the later results.</p>
+<p>Again congratulations. Hoping to see you back soon.</p>
+<p>Sincerely yours (W. Reed).&rdquo;</p>
+<p>This they did in an article, &ldquo;<hi rend="italic">The etiology of yellow fever, a supple-<lb/>
+mental note</hi>&rdquo;, (American Medicine, February 22, 1902).</p>
+<p>This later piece of work, just like the first most important experiments,<lb/>
+all fell upon the shoulders of Carroll. That he well bore that responsibility<lb/>
+is best attested by the letter of Reed just cited, which at the same time<lb/>
+shows upon whom the real responsibility rested, and gave him credit for<lb/>
+the work done. In reporting this work as the first, Maj. Reed, of course,<lb/>
+by reason of his superior military rank as Army Surgeon, appears in the<lb/>
+Medical literature and Army medical reports, as being the head of the<lb/>
+Commission, which technically he was, though, as already pointed out,<lb/>
+Carroll was the man really behind the guns, and in actual personal charge<lb/>
+during the crucial tests, and at the Carroll Memorial Meeting of the Johns<lb/>
+Hopkins Assoc. for Med. history as Professor Wm. H. Welch has repea-<lb/>
+tedly said to me personally, &ldquo;<hi rend="italic">Carroll was the real hero of this memorable<lb/>
+commission</hi>&rdquo;.</p>
+<p>After the lamented death of Reed, November 1902, Dr. Carroll still<lb/>
+continued to take an active part in the study of yellow fever, and in<lb/>
+November 1903, he published an article setting forth in detail his work<lb/>
+investigating the &ldquo;Mixococcidium Stegomyiae&rdquo;, alleged by Working Party<lb/>
+No. 1, Yellow Fever Institute, U. S. Public Health and Marine Hospital<lb/>
+Service to be the specific cause of Yellow Fever. This organism Dr. Carroll<lb/>
+demonstrated to be a yeast fungus, and not at all related to the causation<lb/>
+of yellow fever. He found it present in mosquitoes fed on over-ripe bananas<lb/>
+purposely besmeared with yeast culture, but always absent, when mosquitoes<lb/>
+were fed on laboratory media as above described. See Journal Amer. Med.<lb/>
+Assoc., Nov. 28, 1903, entitled &ldquo;The Etiology of Yellow Fever&rdquo;, &ldquo;An<lb/>
+Addendum&rdquo;.</p>
+<p>During March 1903, in reply to Dr. Finlay's assertions, that the U. S. A.<lb/>
+Commission had not given him proper credit for the mosquito theory in<lb/>
+explaining the etiology of yellow fever, Dr. Carroll published an article<lb/>
+&ldquo;<hi rend="italic">The transmission of yellow fever</hi>&rdquo; (Journal American Medical Association,<lb/>
+<pb n="69" id="f02954069"/>
+69<lb/>
+May 23, 1903) in which a very accurate account of the work done by<lb/>
+Dr. Finlay and by the Commission is given, and in it Dr. Finlay is given<lb/>
+full credit for <hi rend="italic">advancing the theory of the mosquito as probable causative<lb/>
+factor</hi>, but shows the real work and proof to have been done by the<lb/>
+Army Commission by more precise and scientific methods.</p>
+<p>In commenting upon the work of the U. S. Army Commission, Dr. H.<lb/>
+H. Donally, George Washington University, Publ. November 1906, makes<lb/>
+the comment: &ldquo;The value of the work of Maj. Reed, the ranking medical<lb/>
+officer of the Commission, has been made so prominent since his death<lb/>
+as to appear to eclipse the essential work of his colleagues, Lazear and<lb/>
+Carroll, by whom was first actually demonstrated that the &ldquo;Stegomyia<lb/>
+Fasciata&rdquo; is the source of yellow fever infection.&rdquo; Thus it shows that<lb/>
+while Reed himself made no effort to take credit due to others, still the<lb/>
+very rank, that he held as superior tended to confuse those not intimate<lb/>
+with the real worn, and by whom done, and in this manner let the work<lb/>
+of Carroll be underestimated. Carroll himself knew this, though no public<lb/>
+expression of his ever insinuated it. However, his real feelings are gotten<lb/>
+at by reading a personal letter to the writer. Carroll and myself were<lb/>
+close personal friends, our friendship dating from the time, when Carroll<lb/>
+was at the University of Maryland an undergraduate, and later when he<lb/>
+was affectionately known as &ldquo;Jim&rdquo; Carroll. I had many personal interviews<lb/>
+with him and conversations concerning his experiences in Cuba, and, in<lb/>
+March 1907, I wrote to my friend informing him, that the degree of<lb/>
+Doctor of Laws, honoris causa, would be conferred upon him in May 1907,<lb/>
+at the One-Hundredth Anniversary of the University of Maryland, in<lb/>
+recognitions of his valuable contributions to science. The following is,<lb/>
+with one omission, a copy of his last letter to me, and I am told the<lb/>
+last he ever wrote, and the remark at the end of this letter, &ldquo;<hi rend="italic">Great is<lb/>
+the Truth, and it will prevail</hi>&rdquo;, had reference to the fact, that Carroll<lb/>
+knew, that I was in full possession of all the data of his life work, and<lb/>
+it was but a natural expression of gladness, that his fellowmen would<lb/>
+realize later on the real worth of his great sacrifice, for he himself had<lb/>
+never laid claim to recognition. What had come to him, came by sheer<lb/>
+force, and over the barrier of subordinate army rank. His last letter to<lb/>
+me was written partially in the recumbent position in bed. I had no<lb/>
+knowledge of the gravity of his illness, otherwise I would have visited<lb/>
+him in Washington and saved him the labor of letter writing.</p>
+<p>This is a copy of his last letter:</p>
+<pb n="70" id="f02954070"/>
+<p>70</p>
+<p>Washington, D.C., 1433 Clifton St., N.W., May 27, 1907.</p>
+<p>Dear friend Hemmeter:</p>
+<p>Of course you will have deemed me ungrateful and inappreciative of<lb/>
+the great honor to be conferred upon me by the Old University, my<lb/>
+honored <hi rend="italic">Alma Mater</hi>, but it is not so. I have been sick in bed since<lb/>
+February 17th, running a temperature every day, except for three days,<lb/>
+when it was temporarily controlled by aspirine. As I write now my<lb/>
+temperature is above 100 (2 P.M.) and rising, and I am sitting up con-<lb/>
+trary to the advice of my physician friends. Nevertheless I have felt all<lb/>
+along, that I would send nothing but an authograph reply, and this I<lb/>
+have delayed day after day in the hope, that I would soon gain sufficient<lb/>
+strength to write a long and satisfactory letter. The visit of my dear<lb/>
+friend, Dr. I. S. Stone, enabled me to rest more comfortably afterward,<lb/>
+because I felt, that he would explain the circumstances to you. I am sorry<lb/>
+to say that during the past four or five days my heart has needed a<lb/>
+little coaxing, for all attempts to sit up proved too much, though I felt<lb/>
+very well while lying down.</p>
+<p>With this explanation, I trust you will pardon my apparent rudeness<lb/>
+in thus delaying my response to your communication, that made me very<lb/>
+happy indeed. I assure you most sincerely that, apart from personal afflic-<lb/>
+tion, it gives me the deepest sorrow to feel, that I am forced to be absent<lb/>
+from such a happy and inspiring reunion. As it is, I feel that if I am<lb/>
+up and about with a serviceable though damaged heart within 30 days,<lb/>
+I shall have cause for further congratulations.</p>
+<p>Permit me to express to you as best I can my humble appreciation of<lb/>
+the high honor to be bestowed upon me, and to hope that at some future<lb/>
+date I may be able to express my gratitude in person.</p>
+<p>In one of your letters, you ask for a list of publications, which I<lb/>
+enclose. It will give me great pleasure to send you a set of such of the<lb/>
+reprints as I have.</p>
+<p>You ask me, whether I am infected as the result of our work. Certainly<lb/>
+I was. I was the first to propose, that we submit and the first to be<lb/>
+infected, though not the first to be bitten.</p>
+<p>I am sending by this mail a paper by my friend, Dr. H. H. Donally,<lb/>
+and this may be relied upon as accurate in every particular.</p>
+<p>There is no foundation for the statement, that Dr. Reed aided me very<lb/>
+materially in securing my medical education. As a matter of fact, he had<lb/>
+nothing whatever to do with it, and I was never associated with Dr. Reed<lb/>
+in any way until I met him at the Army Medical School in Washington<lb/>
+late in September 1893. The order for me to proceed there was issued<lb/>
+upon recommendation of Surgeon General Sternberg. At this time I had<lb/>
+<pb n="71" id="f02954071"/>
+71<lb/>
+obtained my medical degree, had taken my post-graduate courses in<lb/>
+bacteriology and pathology at the Hopkins (see Register 1891--1892 and<lb/>
+1892--1893) and had put in one summer working independently in the<lb/>
+Army Laboratory at the World's Fair in 1893, for which I hold a certificate.</p>
+<p><hi rend="italic">Great is the Truth and it will prevail</hi>!</p>
+<p>Believe me most gratefully,<lb/>
+Fraternally and sincerely yours,<lb/>
+(Signed) James Carroll.</p>
+<p>The Degree of Doctor of Laws -- &ldquo;Honoris causa&rdquo; was conferred on<lb/>
+Dr. James Carroll by his Alma Mater during the Centennial Celebration<lb/>
+of the University of Maryland May 30th to June 2nd, 1907. As he was<lb/>
+very sick at the time, it was the only degree conferred on an American<lb/>
+&ldquo;in absentia&rdquo;.</p>
+<p>The University of Iowa also conferred the same honorary degree upon him.</p>
+<p>In March 1907, Carroll's military rank was raised from Lieutenant<lb/>
+Surgeon to Major in the United States Army, by special Act of Congress.<lb/>
+This Act of Congress was undoubtedly prompted by the following recom-<lb/>
+mendation of the National Legislative Council of the American Medical<lb/>
+Association, published in the Journal of the American Medical Association,<lb/>
+January 20th, 1906:</p>
+<p>REPORT ON GOVERNMENT RECOGNITION OF THE SERVICES<lb/>
+OF DR. JAMES CARROLL.</p>
+<p>&ldquo;Dr. John S. Fulton, of Maryland, introduced the following:</p>
+<p>&ldquo;<hi rend="italic">Whereas</hi>, In the Year of our Lord Nineteen Hundred, a Yellow Fever<lb/>
+Commission was appointed by the Army of the United States to investigate<lb/>
+the causes of yellow fever and to devise means for its eradication, the<lb/>
+said Yellow Fever Commission consisting of Dr. Walter Reed, surgeon<lb/>
+in the Army of the United States, Dr. James Carroll, Dr. Jesse Lazear,<lb/>
+and Dr. Aristides Agramonte, acting assistant surgeons in the Army of<lb/>
+the United States; and</p>
+<p>&ldquo;<hi rend="italic">Whereas</hi>, The said Yellow Fever Commission, consisting of Dr. Walter<lb/>
+Reed, Dr. James Carroll and Dr. Aristides Agramonte (Dr. Jesse Lazear,<lb/>
+deceased), did then and there determine the cause of yellow fever, and<lb/>
+devise means for its prevention, by which means yellow fever was eradi-<lb/>
+cated from Havana and Cuba, and thousands of lives have been saved<lb/>
+in the United States and other parts of the Western Hemisphere; and</p>
+<p>&ldquo;<hi rend="italic">Whereas</hi>, Dr. Jesse Lazear, an acting assistant surgeon in the Army<lb/>
+of the United States, did subject himself to the bite of an infected mos-<lb/>
+quito, from which bite Dr. Jesse Lazear suffered death; and</p>
+<pb n="72" id="f02954072"/>
+<p>72</p>
+<p>&ldquo;<hi rend="italic">Whereas</hi>, Dr. James Carroll, an assistant surgeon in the Army of the<lb/>
+United States, did subject himself to the bite of a mosquito infected with<lb/>
+yellow fever, being the first attack ever experimentally produced; be it</p>
+<p>&ldquo;<hi rend="italic">Resolved</hi>, That the National Legislative Council of the American<lb/>
+Medical Association expresses its appreciation of the valuable work accom-<lb/>
+plished by the Yellow Fever Commission in the interest of humanity, the<lb/>
+material and bodily welfare of the people and of the Army of the United<lb/>
+States, and of the heroism and devotion of the aforesaid Major Walter<lb/>
+Reed (deceased), Dr. James Carroll, Dr. Aristides Agramonte and Dr. Jesse<lb/>
+Lazear (deceased); and be it further</p>
+<p>&ldquo;<hi rend="italic">Resolved</hi>, That this Council commend to the Government of the United<lb/>
+States adequate recognition of the gallant and meritorious services of the<lb/>
+said Dr. James Carroll, the only surviving member in the Army of the<lb/>
+United States of the said Yellow Fever Commission.&rdquo;</p>
+<p>This report was unanimously adopted by a standing vote.</p>
+<p>(<hi rend="italic">To be continued</hi>.)</p>
+<p>----------</p>
+<pb n="150" id="f02954150"/>
+<p>MAJOR JAMES CARROLL<lb/>
+OF THE UNITED STATES ARMY, YELLOW FEVER COMMISSION,<lb/>
+AND THE DISCOVERY OF THE TRANSMISSION<lb/>
+OF YELLOW FEVER BY THE BITE OF THE MOSQUITO<lb/>
+&ldquo;STEGOMYIA FASCIATA&rdquo;,</p>
+<p>BY<lb/>
+JOHN C. HEMMETER, M.D., PHIL. D., LL.D.,<lb/>
+<hi rend="italic">Professor of physiology, University of Maryland, Baltimore</hi>.</p>
+<p>----------</p>
+<p>(<hi rend="italic">Continuation</hi>.)</p>
+<p>The following quotation from the British Medical Journal, September 8th,<lb/>
+1906, will serve as an indication of the esteem in which the achievements<lb/>
+of the American Yellow Fever Commission are held in England:</p>
+<p>&ldquo;Major Ronald Ross's discovery, that malaria is conveyed by mosquitoes,<lb/>
+which act as an intermediate host, has not only led to successful measures<lb/>
+to practically eradicate malaria with its attendant evils, but has given the<lb/>
+clue to the cause of yellow fever and its treatment, etc. The first positive<lb/>
+proof, that the Stegomyia was the carrier of the infecting agent of yellow<lb/>
+fever, was given, when Carroll, in July 1900, offered himself for a test<lb/>
+experiment with a self-sacrifice worthy of all praise. He had a very narrow<lb/>
+escape, but Lazear, of the American Commission, and Myers, of Liverpool,<lb/>
+lost their lives. That the labors and said deaths of these heroic men were<lb/>
+not in vain is amply attested by the remarkable vigour and success, with<lb/>
+which the recent plague was stamped out, and the exemption secured by<lb/>
+Havana and other pest centers.&rdquo;</p>
+<p>In an editorial, the British Medical Journal, Sept. 8, 1906, proposes<lb/>
+that the Nobel prize be divided between Dr. James Carroll and Dr.<lb/>
+Aristides Agramonte. This at a date, when Carroll was still living:</p>
+<p>&ldquo;In regard to yellow fever, Panama affords as striking an object lesson<lb/>
+as Havana of the incalculable benefit to mankind, that had followed the<lb/>
+discovery of the cause of the disease and the manner of its transmission.<lb/>
+The glory of the work, which has had this striking consummation is shared<lb/>
+by several men. The credit of the conception belongs to Dr. Carlos Finlay,<lb/>
+who propounded the idea many years ago without attracting from the<lb/>
+<pb n="151" id="f02954151"/>
+151<lb/>
+profession any attention but an occasional contemptuous notice. More<lb/>
+fortunate than many true begetters of new truths, Dr. Finlay, at the<lb/>
+meeting of the Pan-American Medical Congress, held at Havana, in 1901,<lb/>
+was acclaimed by the assembly as the author of the discovery, which has<lb/>
+already been so fruitful of good effects. Dr. Carter was another pioneer<lb/>
+in the work, which was brought to completion by the American Commis-<lb/>
+sion. Ultimately death snatched the reward from the hands of Walter Reed<lb/>
+and Lazear, but Drs. Carroll and Agramonte still survive. It would, we<lb/>
+think, be a fitting acknowledgement of the work of these four men, if the<lb/>
+Nobel prize were divided among them. It will scarcely be denied by any<lb/>
+one conversant with the facts, that their work is of far greater importance<lb/>
+than that of several, to whom the prize has been awarded in the past few<lb/>
+years. The only original research work, whose practical results can be held<lb/>
+to compare with it, is that, which had brought malaria, that monster, which<lb/>
+till lately claimed so vast a tribute of human lives, within the control<lb/>
+of man.&rdquo;</p>
+<p>The following is quoted from the message of the President of the<lb/>
+United States to the Senate (59th Congress, Second Session Document<lb/>
+No. 10):</p>
+<p>&ldquo;On August 2, 1900, before the mosquitoes were ready for experiment,<lb/>
+Dr. Reed was called back to Washington to prepare for publication the<lb/>
+abstract of the report of the board, appointed in 1898 to investigate the<lb/>
+spread of typhoid fever in the volunteer camps in the United States, of<lb/>
+which board he was president.</p>
+<p>During Dr. Reed's absence the inoculations by means of the mosquito<lb/>
+were begun. On August 11th, Dr. Lazear made the first experiment, but<lb/>
+nine distinct inocculations on persons including himself and acting Assistant<lb/>
+Surgeon A. S. Pinto were unsuccessful. We know now, that these failures<lb/>
+were due to two facts -- first, that patients after the third day of the<lb/>
+disease cannot convey the infection to the mosquito, and second, that<lb/>
+after having bitten a yellow fever case, the mosquito cannot transmit the<lb/>
+disease until after an interval of at least twelve days. On August 27th<lb/>
+one mosquito was applied to Dr. Carroll, one which happened to fulfil<lb/>
+both of these conditions. The result was a very severe attack of yellow<lb/>
+fever, in which for a time his life hung in a balance. This was thus the<lb/>
+first experimental case. The fever developed on the 31st of August, on<lb/>
+which day Dr. Lazear applied the same mosquito, which bit Dr. Carroll<lb/>
+with three others to another person. This man came down with a mild<lb/>
+but well-marked case.</p>
+<p>The second member of the commission was Dr. James Carroll, that<lb/>
+time acting assistant surgeon, United States Army.</p>
+<pb n="152" id="f02954152"/>
+<p>152</p>
+<p>Dr. Carroll is now 52 years old. He entered the military service<lb/>
+June 9, 1874, and served as private, corporal, sergeant and hospital<lb/>
+stewart from that date to May 21, 1898, when he was appointed acting<lb/>
+assistant surgeon. He was appointed first lieutenant and assistant surgeon<lb/>
+in the Medical Corps, October 27, 1902, which rank he still holds.</p>
+<p>Dr. Carroll was Dr. Reed's truest assistant and coadjutor from the<lb/>
+inception of the work, which resulted in the discovery of the method of<lb/>
+propagation of yellow fever. As stated above, the third series of experi-<lb/>
+ments were performed by Dr. Carroll alone, Dr. Reed having been refused<lb/>
+permission to return to Cuba to complete his work.</p>
+<p>Dr. Carroll was the first experimental case of yellow fever, and he<lb/>
+suffered a very severe attack, to which he attributes a heart trouble, from<lb/>
+which he now suffers. At the time of undergoing this experiment he was<lb/>
+46 years old, an age from which the risk from this disease is very great,<lb/>
+as its mortality rapidly increases with age of patient. He had at that<lb/>
+time a wife and five children, who had no other means of support except<lb/>
+his pay as an acting assistant surgeon.</p>
+<p>It is recommended, that Congress be asked to pass a special act pro-<lb/>
+moting Dr. Carroll, on account of his services in connection with this<lb/>
+discovery and the courage shown by him in subjecting himself to experiment,<lb/>
+to the rank of lieutenant colonel, the number of medical officers in that<lb/>
+grade being increased by one for that purpose; also his name and effigy<lb/>
+should appear on the monument to Walter Reed.</p>
+<p>Dr. Jesse W. Lazear was the third member of the commission. Dr. Lazear<lb/>
+was a native of Baltimore and a graduate of Johns Hopkins University,<lb/>
+afterwards getting his professional degree at Columbia University and<lb/>
+Bellevue. At the time he incurred his death in the course of these<lb/>
+experiments, as above mentioned, he was 34 years old. He left a wife<lb/>
+and two young children, the younger a little son born a few months<lb/>
+before his death, whom he never saw. Mrs. Lazear received from Congress<lb/>
+a pension of $ 17 a month with $ 2 additional for each of two minor<lb/>
+children, until they reach the age of 16. Also a battery in Baltimore<lb/>
+harbor was, by direction of the Secretary of War, named in his honor.<lb/>
+It is believed that this recognition on the part of the nation for his<lb/>
+services is utterly inadequate. His widow's pension should be increased<lb/>
+to $ 100 per month, and steps should be taken to perpetuate his name<lb/>
+<unclear>in</unclear> connection with the Walter Reed monument above suggested.</p>
+<p>Dr. A. Agramonte was the fourth member of the yellow fever commis-<lb/>
+sion. He was a Cuban by birth, an immune to yellow fever, and having<lb/>
+been assigned other work, took no part in the first series of experiments<lb/>
+with regard to the conveyance of the disease by the mosquito, of which,<lb/>
+<pb n="153" id="f02954153"/>
+153<lb/>
+in fact, he was not at the time cognizant. Being an immune he ran no<lb/>
+risk in connection with this work, and it is believed, that his contributions<lb/>
+to it have been sufficiently recognized in the association of his name with<lb/>
+the other members of the commission, who brought about this great<lb/>
+discovery.</p>
+<p>Twenty-three of the men, who submitted themselves for experiment by<lb/>
+the board, contracted yellow fever, beginning with Dr. James Carroll, who<lb/>
+was taken sick August 31st, 1900, and ending with John R. Bullard, who<lb/>
+was taken sick October 23, 1901.</p>
+<p>Conspicuous among them was John J. Moran, a civilian clerk, employed<lb/>
+at the headquarters of General Fitzhugh Lee, at Quemados, who was one<lb/>
+of the earliest volunteers for the second set of experiments, and whose<lb/>
+action was dictated by the purest motives of altruism and self-devotion.<lb/>
+Mr. Moran disclaimed, before submitting to the experiments, any desire<lb/>
+for reward, and has never accepted any since, although he was offered<lb/>
+the $200, which the liberality of the military governor enabled the com-<lb/>
+mission to give to each experimental patient, the members of the board<lb/>
+excepted. Such was his modesty, that he has made no effort, so far as<lb/>
+known to this office, to make known his connection with these experiments<lb/>
+and reap the credit, which is so justly due him. Mr. Moran was a native<lb/>
+of Ohio. His present address is not known to this office. The first inoccu-<lb/>
+lations in the case of Mr. Moran were for some reason, unsuccessful, on<lb/>
+November 26th and 29th. He did not suffer an attack until after the third<lb/>
+inocculation on December 21st.</p>
+<p>The same remarks apply to the first experimental case of the second<lb/>
+set, Private John R. Kissinger, Hospital Corps, who volunteered at the<lb/>
+same time with Moran and equally disclaimed any desire for reward.</p>
+<p>Private Kissinger did not leave Cuba immediately after the experiments,<lb/>
+as did Mr. Moran, and therefore the military authorities were able to<lb/>
+reward him in some measure along with the other enlisted men, who<lb/>
+volunteered for these experiments. He was promoted acting hospital<lb/>
+steward, presented with a gold watch by the chief surgeon of the depart-<lb/>
+ment in the presence of all the medical officers and hospital corps men<lb/>
+on duty at the Columbia Barracks, and also received a present of $150<lb/>
+in cash. He took his discharge November 14, 1901, and has since (on<lb/>
+December 19, 1903) made application for pension. This was refused for<lb/>
+lack of evidence, that his ill-health was incident to the service.</p>
+<p>Of the other experimental cases, seven were Spanish immigrants, who<lb/>
+submitted to experiments purely for the money, which they were promised.<lb/>
+With regard to those, who were American soldiers, however, ten in number,<lb/>
+in addition to those already mentioned, it cannot be doubted that, although<lb/>
+1908.<lb/>
+11<lb/>
+<pb n="154" id="f02954154"/>
+154<lb/>
+they received pecuniary rewards, a desire to assist in what they appreciated<lb/>
+was a great and glorious work, together with a spirit of adventure, was<lb/>
+the most powerful motive. The same is true of the last experimental case,<lb/>
+Mr. John R. Bullard, a graduate of Harvard, where he was a distinguished<lb/>
+athlete and captain of the University crew. The names of these men, with<lb/>
+the dates of their attack, is appended with this report.&rdquo;</p>
+<p>Names of persons, who submitted to experimental inoculation of yellow fever,<lb/>
+Cuba, 1900--1901.</p>
+<p>
+<table rows="15" cols="2">
+<row>
+<cell><hi rend="italic">Infected by mosquitoes</hi>.</cell><cell>Taken sick.</cell>
+</row>
+<row>
+<cell>1. James Carroll . . . . . . . . . . . . . . </cell><cell>Aug. 31, 1900</cell>
+</row>
+<row>
+<cell>2. X.Y. (American soldier) . . . . . . . . . </cell><cell>Sept. 6, 1900</cell>
+</row>
+<row>
+<cell>3. John R. Kissinger . . . . . . . . . . . . </cell><cell>Dec. 8, 1900</cell>
+</row>
+<row>
+<cell>4. Nicanor Fernandez . . . . . . . . . . . . </cell><cell>Dec. 13, 1900</cell>
+</row>
+<row>
+<cell>5. Antonio Benigno . . . . . . . . . . . . . </cell><cell>Dec. 13, 1900</cell>
+</row>
+<row>
+<cell>6. Becente Presedo . . . . . . . . . . . . . </cell><cell>Dec. 15, 1900</cell>
+</row>
+<row>
+<cell>7. John J. Moran. . . . . . . . . . . . . .</cell><cell>Dec. 25, 1900</cell>
+</row>
+<row>
+<cell>8. Jose Martinez . . . . . . . . . . . . . .</cell><cell>Jan. 3, 1901</cell>
+</row>
+<row>
+<cell>9. Levi E. Folk . . . . . . . . . . . . . .</cell><cell>Jan. 23, 1901</cell>
+</row>
+<row>
+<cell>10. Clyde L. West. . . . . . . . . . . . . .</cell><cell>Feb. 3, 1901</cell>
+</row>
+<row>
+<cell>11. James L. Hanberry . . . . . . . . . . . . </cell><cell>Feb. 9, 1901</cell>
+</row>
+<row>
+<cell>12. Charles G. Sonntag . . . . . . . . . . . . </cell><cell>Feb. 10, 1901</cell>
+</row>
+<row>
+<cell>13. Pablo Ruiz Castillo . . . . . . . . . . . . . .</cell><cell>Sept. 19, 1901</cell>
+</row>
+<row>
+<cell>14. Jacinto Mendez Alvarez . . . . . . . . . . . . . .</cell><cell>Oct. 13, 1901</cell>
+</row>
+</table>
+</p>
+<p>
+<table rows="7" cols="2">
+<row>
+<cell><hi rend="italic">Infected by injection of blood</hi>.</cell><cell></cell>
+</row>
+<row>
+<cell>1. Warren G. Jernegen. . . . . . . . . . . . . .</cell><cell>Jan. 8, 1901</cell>
+</row>
+<row>
+<cell>2. William Olson. . . . . . . . . . . . . .</cell><cell>Jan. 11, 1901</cell>
+</row>
+<row>
+<cell>3. Wallace Forbes . . . . . . . . . . . . . .</cell><cell>Jan. 24, 1901</cell>
+</row>
+<row>
+<cell>4. John H. Andrus . . . . . . . . . . . . . .</cell><cell>Jan. 28, 1901</cell>
+</row>
+<row>
+<cell>5. Manuel Gutierrez Moran . . . . . . . . . . . . . .</cell><cell>Oct. 20, 1901</cell>
+</row>
+<row>
+<cell>6. John R. Bullard . . . . . . . . . . . . . .</cell><cell>Oct. 23, 1901</cell>
+</row>
+</table>
+</p>
+<p>
+<table rows="3" cols="2">
+<row>
+<cell><hi rend="italic">Infected by injections of filtered blood serum</hi>.</cell><cell></cell>
+</row>
+<row>
+<cell>1. P. Hamann, Twenty-third Battery Coast Artillery. .</cell><cell>Oct. 19, 1901</cell>
+</row>
+<row>
+<cell>2. A. W. Covington, Twenty-third Battery Coast Artillery</cell><cell>Oct. 19, 1901</cell>
+</row>
+</table>
+</p>
+<p><hi rend="italic">Exposed to Fomites</hi>.</p>
+<p>
+<list type="ordered"> 
+<item>1. Dr. R. P. Cooke, acting assistant surgeon.</item>
+<item>2. Levi E. Folk.</item>
+<item>3. Warren G. Jernegan.</item>
+<item>4. James L. Hanberry.<lb/>
+<pb n="155" id="f02954155"/>
+155</item>
+<item>5. Edward Wealherwalks (bitten once, negative; refused after Hanberry<lb/>
+came down).</item>
+<item>6. James Hildebrand (offered himself, but was declined on account of age).</item>
+<item>7. Thomas M. England.</item>
+</list>
+</p>
+<p>Major James Carroll died on the 16th of September 1907, in Washington.<lb/>
+He had informed me on several occasions, that he had not been a sound<lb/>
+man since that memorable experimental infection in August 1900, which<lb/>
+should constitute one of the most important discoveries in the history of<lb/>
+medicine. But his interest in the subject of yellow fever did not cease<lb/>
+with the discovery of the method of its transmission, for he continued to<lb/>
+make many later contributions to this important subject, as the appended<lb/>
+list of his publications will indicate. He was buried with military honors<lb/>
+usually accorded to a major of the United States Army. Scientific and<lb/>
+military men of the highest rank considered it an honor to act as pall<lb/>
+bearers and escorts at this funeral.</p>
+<p>The U. S. A. yellow fever commission has through the talents of Reed,<lb/>
+Carroll, and Lazear, contributed to humanity and to their country a<lb/>
+service, the value of which cannot be overestimated. This discovery was<lb/>
+made possible through the heroism of James Carroll. The United States<lb/>
+has been invaded by yellow fever 90 times, carrying death and destruction<lb/>
+into New Orleans, New York, Philadelphia, Memphis, Baltimore, Charle-<lb/>
+ston, Galveston, Portsmouth, and many smaller cities. In 1793 it wiped<lb/>
+out 10% of Philadelphia's population, and the epidemic of 1853 cost<lb/>
+New Orleans 8000 lives. In the message from the president of the U. S.<lb/>
+to the senate (59<hi rend="superscript">th</hi> congress, second session, document no. 10) dated<lb/>
+Dec. 5<hi rend="superscript">th</hi> 1906, it is stated, page 7, by surgeon general U. S. A. R. M.<lb/>
+O'Reilly, that the total disbursements of this great nation in the way of<lb/>
+rewards for those, who made possible this brilliant discovery amount to<lb/>
+$146 a month. Since Carroll's death this has been increased by $25 a<lb/>
+month, the pension of a widow of a major U. S. A. Prof. William<lb/>
+H. Welch, of the Johns Hopkins University, who was the distinguished<lb/>
+teacher of Major Carroll, in the same message, calls attention in a letter<lb/>
+to the secretary of war to the saving of thousands of lives through this<lb/>
+discovery, which would have been impossible without Carroll's great sacrifice.</p>
+<p>The English Government voted Sir William Jenner, the discoverer of<lb/>
+vaccination, various grants amounting to 30.000 pounds sterling. India<lb/>
+presented him with a subscription of 7.323 pounds. It is important to<lb/>
+call the attention of the committee on pensions in the senate and congress<lb/>
+to these liberal grants, for we believe, that it is the wish of the American<lb/>
+people to emulate them, lest the old accusation about the ingratitude of<lb/>
+11<hi rend="superscript">*</hi><lb/>
+<pb n="156" id="f02954156"/>
+156<lb/>
+republics shall again come true. The widow of Dr. Jesse Lazear, the third<lb/>
+member of the yellow fever commission, receives a pension of $17 a<lb/>
+month, with an additional $2 for each of the two minor children until<lb/>
+they reach the age of 16. The pension of the widow of Dr. Lazear, as<lb/>
+well as of the widow of Major James Carroll, should be increased to<lb/>
+$125 a month.</p>
+<p>There is however one very important and essential desideratum, which<lb/>
+I consider it my duty to emphasize in this connection, and that is, that<lb/>
+the life and work of Major James Carroll, as well as Dr. Jesse Lazear,<lb/>
+should be represented in a monument with a prominence equal to that<lb/>
+given to Major Walter Reed; for there can be no just distinctions made<lb/>
+between the merits of these three benefactors, and any comparisons aiming<lb/>
+to bring out personal preferences would be decidedly invidious. Applicable<lb/>
+to the life and work of all three is the beautiful sentiment of Horace,<lb/>
+&ldquo;<hi rend="italic">Integer vitae scelerisque purus</hi>&rdquo;<lb/>
+and there rarely has been an incident in the history of medicine, in which<lb/>
+the lives of three distinguished men were directly or indirectly sacrificed<lb/>
+for one great purpose -- thereby securing to each one of them a place<lb/>
+in the <hi rend="italic">Walhalla</hi> of American History.</p>
+<p>Horace's Monument.</p>
+<lg type="stanza">
+<l>I've reared a monument -- my own --</l>
+<l>More durable than brass;</l>
+<l>Yea, kingly pyramids of stone</l>
+<l>In height it doth surpass.</l>
+<l>Rain shall not sap, nor driving blast</l>
+<l>Disturb its settled base,</l>
+<l>Nor countless ages rolling past</l>
+<l>Its symmetry deface.</l>
+<l>I shall not wholly die. Some part,</l>
+<l>Nor that a little, shall</l>
+<l>Escape the dark Destroyers dart,</l>
+<l>And his grim festival.</l>
+<l>As long as, with his Vestals mute,</l>
+<l>Rome's Pontifex shall climb</l>
+<l>The Capitol, my fame shall shoot</l>
+<l>Fresh buds through future time.</l>
+</lg>
+<pb n="157" id="f02954157"/>
+<p>157</p>
+<lg type="stanza">
+<l>Where brawls loud Aufidus and came</l>
+<l>Parched Daunus erst, a horde</l>
+<l>Of mystic boors to sway, my name</l>
+<l>Shall be a household word.</l>
+<l>As one, who rose from mean estate,</l>
+<l>And first, with poet's fire,</l>
+<l>Aeolic song to modulate</l>
+<l>To the Italian lyre.</l>
+<l>Then grant, Melpomene, thy son</l>
+<l>Thy guerdon proud to wear,</l>
+<l>And Delphic laurels, duly won,</l>
+<l>Bind thou upon my hair.</l>
+</lg>
+<p>Inscription on Bronze Memorial Tablet to be erected in the Medical<lb/>
+Building of the University of Maryland in honor of <hi rend="italic">James Carroll</hi>, Major<lb/>
+and Surgeon U. S. Army. M.D. (1891) and LL.D. (1907) University of<lb/>
+Maryland LL.D. (1907) University of Nebraska, Professor of pathology<lb/>
+and bacteriology, Columbian Univ. Wash. D.C. Born in Woolwich, England<lb/>
+June 5th 1856. Died in Washington D.C. September 16th 1907.</p>
+<p>As a member of the army commission, which succeeded in demon-<lb/>
+strating the mode of conveyance of yellow fever, he became an<lb/>
+eminent contributor to science by his investigations and a heroic<lb/>
+benefactor of his country and of mankind by voluntary submission<lb/>
+to the bite of an infected mosquito, whereby he suffered from a<lb/>
+severe attack of yellow fever, produced for the first time by<lb/>
+experiment.</p>
+<p>&ldquo;Greater love hath no man shown than this, that a man lay down his<lb/>
+life for his friends.&rdquo;</p>
+<pb n="158" id="f02954158"/>
+<p>158</p>
+<p><hi rend="italic">List of Dr. Carroll's independent contributions to the literature of yellow fever</hi>.</p>
+<p>
+<list type="simple">
+<item>&ldquo;The Treatment of Yellow Fever&rdquo;, Jour. Amer. Med. Assoc. July 19, 1902.</item>
+<item>&ldquo;The Transmission of Yellow Fever&rdquo;, Jour. Amer. Med. Assoc. May 23, 1903.</item>
+<item>&ldquo;The Etiology of Yellow Fever an Addendum&rdquo;, Jour. Amer. Med. Assoc.<lb/>
+Nov. 28, 1902.</item>
+<item>&ldquo;Remarks on the History, Cause, and Mode of Transmission of Yellow<lb/>
+Fever, etc.&rdquo; Jour. Assoc. Military Surgeons, 1903.</item>
+<item>&ldquo;A Brief Review of the Etiology of Yellow Fever&rdquo;, N. Y. Med. Journ.<lb/>
+and Phil. Med. Jour. (consol) Feb. 6 and 13, 1904.</item>
+<item>&ldquo;Without Mosquitoes There Can Be No Yellow Fever&rdquo;, Amer. Medecine,<lb/>
+March 17, 1906.</item>
+</list>
+</p>
+<p><hi rend="italic">Contributions of Dr. James Carroll together with Dr. Walter Reed</hi>.</p>
+<p>
+<list type="simple">
+<item>1899 a. Bacillus icteroides and Bacillus cholerae suis. A preliminary note.<lb/>
+Med. News, N. Y., v. 74 (17) Apr. 29, pp. 513--514.</item>
+<item>1899 b. The specific cause of yellow fever. A reply to Dr. G. Sanarelli.<lb/>
+Med. News, N. Y., v. 75 (11), Sept. 9, pp. 321--329.</item>
+<item>1900. A comparative study of the biological characters and pathogenesis<lb/>
+of Bacillux x (Sternberg), Bacillus Icteroides (Sanarelli), and the<lb/>
+hog-cholera bacillus (Salmon and Smith). (Received for publication<lb/>
+Feb. 25.) J. Exper. M. (Balt), v. 5 (3), Dec. 15, pp. 215--270,<lb/>
+figs a--o, pl. 19, figs 1--3.</item>
+<item>1901. The Prevention of yellow fever. (Read at 29th Ann. Meeting, Am.<lb/>
+Pub. Health Ass., Buffalo, Sept. 16--21.) Med. Rec., N. Y. (1616),<lb/>
+v. 60 (17), Oct. 26, pp. 621--649, figs 1--10.</item>
+<item>1902. The etiology of yellow fever. A supplemental note. (Read at 3d<lb/>
+Ann. Meeting, Soc. Am. Bacteriologists, Chicago, Dec. 31, 1901<lb/>
+and Jan. 1, 1902.) Am. Med. Phila., v. 3 (8), Feb. 22, pp. 301--305,<lb/>
+charts 1--6.</item>
+</list>
+</p>
+<p><hi rend="italic">Publications of Dr. James Carroll together with Dr. Walter Reed<lb/>
+and Dr. Aristides Agrimonte</hi>.</p>
+<p>
+<list type="simple">
+<item>1901 a. The etiology of yellow fever. An additional note. (Read at Pan.-<lb/>
+Amer. Med. Cong., Havana, Cuba, Feb, 4--7.) J. A. Med. Ass.<lb/>
+Chicago, v. 36 (7), Feb. 16, pp. 431--440, charts 1--6.</item>
+<item>1901 b. Experimental yellow fever. Am. Med. Phila., v. 2 (1), July 6,<lb/>
+pp. 15--23, charts 1--8, tables 1--2.</item>
+</list>
+</p>
+<p><hi rend="italic">Publications of Dr. James Carroll together with Dr. Walter Reed,<lb/>
+Dr. Aristides Agrimonte and Dr. Jesse W. Lazear</hi>.</p>
+<p>
+<list type="simple">
+<item>1900. The etiology of yellow fever. A preliminary note. (Read at meeting<lb/>
+of Am. Pub. Health Ass., Indianapolis, Ind., Oct. 22--26.) Phila.<lb/>
+M. J. (148) v 5 (17), Oct. 27, pp. 790--796, tables 1--3, charts 1--2.</item>
+</list>
+</p>
+<pb n="159" id="f02954159"/>
+<p>159</p>
+<p>Headquarters of the Army,<lb/>
+Adjutant Generals Office,<lb/>
+Washington, May 24, 1900.</p>
+<p>Special Orders No. 22.</p>
+<p>Extract.</p>
+<p>X X X X X X X X X</p>
+<p>33. By direction of the Secretary of War, Major Walter Reed, surgeon<lb/>
+U. S. Army, and Acting Assistant Surgeon James Carroll, U. S. Army,<lb/>
+upon completion of the duty assigned them by the Commanding General,<lb/>
+Department of the East, will proceed to Camp Columbia, Quemados,<lb/>
+Cuba, on official business pertaining to the Medical Department, and<lb/>
+report their arrival and instructions to the Commanding General, Division<lb/>
+of Cuba; the Commanding General Department of Havana and Pinar<lb/>
+Del Rio and the Commanding Officer, Camp Columbia. The travel enjoined<lb/>
+is necessary for the public service.</p>
+<p>34. By direction of the Secretary of War a Board of Medical Officers<lb/>
+is appointed to meet at Camp Columbia, Quemados, Cuba for the purpose<lb/>
+of pursuing scientific investigations with reference to the infectious diseases<lb/>
+prevalent on the Island of Cuba.</p>
+<p>Detail for the Board:</p>
+<p>Major Walter Reed, Surgeon, U. S. Army.</p>
+<p>Acting Assistant Surgeon, James Carroll, U. S. Army.</p>
+<p>Acting Assistant Surgeon Jesse W. Lazear, U. S. Army.</p>
+<p>The Board will act under general instructions to be communicated to<lb/>
+Major Reed by the Surgeon General of the Army.</p>
+<p>By command of Major General Miles</p>
+<p>H. C. Corbin,<lb/>
+Adjutant General.</p>
+<p>A true copy.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+July 16, 1900.</p>
+<p>My Dear Jamie:</p>
+<p>Your letter of July 11, came with Mamas letter this morning. It was<lb/>
+very nicely written and I was glad to receive it. I am glad if David has<lb/>
+learned to ride so soon but I hardly think he could have done so in a<lb/>
+few minutes. Can he mount from the pedal? Can he dismount without<lb/>
+falling and can he turn a corner without running into somebody. I think<lb/>
+Papa will have to see David ride for himself, because you try to fool<lb/>
+your poor old Pop sometimes.</p>
+<pb n="160" id="f02954160"/>
+<p>160</p>
+<p>Now about your coming down here with David and Tracy. If you<lb/>
+fellows come, you will probably have to stay until the new year and while<lb/>
+you are down here, I will have to pay $1 a day for board for each of<lb/>
+you and $2 or $3 a month for washing, which would amount to about<lb/>
+$65 a month. Now if Mama will agree for me to pay that out of her<lb/>
+$100 all right and then she can pay your fare to New York and hotel<lb/>
+bill and carfare and transfer etc. And then there is yellow fever in this<lb/>
+country; they call it &ldquo;Yellow Jack&rdquo; because people, who have it, turn<lb/>
+yellow after they die. And when they are sick they give them nothing to<lb/>
+eat sometimes for a week, and I think you would not like that.</p>
+<p>And then what would Mama do, without you boys to look after her,<lb/>
+while Papa is away? And you would have to miss your school and music<lb/>
+lessons too. Papa wants you to learn all you can, while you are young,<lb/>
+because if you do not, when you grow up, you will not be able to do<lb/>
+great work or command large salary. Everything you learn now, my boy,<lb/>
+will make your life easier for you, when you become a man. Learn to<lb/>
+spell above all things; then study grammar and learn how to speak and<lb/>
+write, and study history and geography to know about people and coun-<lb/>
+tries. You ought to learn something now about China because the Chinks<lb/>
+have murdered a lot of white people, men, women and children and there<lb/>
+will be a big war over there soon.</p>
+<p>Good night my dear boy, and with love and kisses from your loving<lb/>
+Papa.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+July 24, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>Your letters written on the 18th and 19th telling me about the baby's<lb/>
+illness came yesterday and I have felt very miserable since. If her teeth<lb/>
+are the cause of the suffering, I am surprised, that you did not scratch<lb/>
+her gums yourself with the point of a knife soaked in carbolic acid and<lb/>
+then rinsed in boiled water. You know it sometimes gives relief and does<lb/>
+no harm. A few drops of nitre in water for her fever and to sleep at<lb/>
+night in the room downstairs with the doors and windows open and<lb/>
+frequent sponging is about all, that one can do. If she is weak a few<lb/>
+drops of good sherry in boiled water and sweetened ought to hold her<lb/>
+up. It is the usual attack, that all babies must go through and with care<lb/>
+I hope she will be all right. But I shall be dreadfully worried, until I<lb/>
+hear from you, and indeed until I learn, that she is better as I earnestly<lb/>
+hope she will be or is by this time.</p>
+<p>Yesterday, as the mail came in, I was about to leave for the camp at<lb/>
+<pb n="161" id="f02954161"/>
+This letter is wrongly dated &amp; wrongly placed, I am<lb/>
+sure. It showed be 1901 when the work of the board<lb/>
+was over &amp; when Carroll went back to Cuba to<lb/>
+do some supplementary work with Guiteras.<lb/>
+PS Hench<lb/>
+&darr;<lb/>
+161<lb/>
+Guanajay, 22 miles from here to determine the nature of some fevers<lb/>
+prevailing among the soldiers there. I left after lunch in a carriage with<lb/>
+4 mules and arrived after a pleasant drive in the evening. Today I returned<lb/>
+leaving at 4 this afternoon, and write before going to bed as to get the<lb/>
+letter off by tomorrow's mail. I have no heart to write much and only<lb/>
+wish, that I could be with you to attend to our dear little baby.</p>
+<p>I think, that our baby's are stronger and better cared for than the<lb/>
+average and ought to have a better chance of pulling through. With<lb/>
+kisses and love for the babies all.</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Blue Ridge Summit, Pa.<lb/>
+Tuesday, August 27, <del>1900</del><add>1901</add>.</p>
+<p>My Dear Carroll:</p>
+<p>I have your letters of the 18th and 22nd both of which reached me<lb/>
+by this mornings mail. It is needless to say, that both were of extreme<lb/>
+interest. Certainly Guiteras should be satisfied with his proof of the mos-<lb/>
+quito theory -- since out of seven cases with two fatal, is evidence, that<lb/>
+should even convince Wasden.</p>
+<p>I wrote you a few days ago advising against further experiments on<lb/>
+human beings in view of these fatal cases. From the tenor of your last<lb/>
+letter I see, however, that you have made all preparations to go ahead<lb/>
+with the observations as determined by us in Washington and I hardly<lb/>
+know, what to say -- I will suggest, that inasmuch as the injection of<lb/>
+blood as gives four positive results, that you limit your observations to<lb/>
+the injection of the filtered serum, without using controls injected with<lb/>
+unfiltered blood. If the filtrate proves negative, say in 3 or 4 cases, that<lb/>
+would decide the point conclusively. Of course since Guiteras denied you<lb/>
+the chance of obtaining blood, I suppose, that you must obtain your first<lb/>
+subject by means of the mosquito bite, unless there are cases in Havane.<lb/>
+What could have been Guiteras objection to your applying mosquitos to<lb/>
+his cases? X X X X X X X X X X X X X X<lb/>
+I am so glad, that you made an autopsy in one of the fatal cases. I shall<lb/>
+await your results with the greatest interest.</p>
+<p>Sincerely yours,<lb/>
+Walter Reed.</p>
+<p>Columbia Barracks, Quemados, Cuba.<lb/>
+Sept. 2, 1900.</p>
+<p>Dear Doctor Reed:</p>
+<p>I hasten to let you know about Carroll. Dr. Kean has just wired to<lb/>
+<pb n="162" id="f02954162"/>
+162<lb/>
+the Surgeon General, who, of course will inform you at once. I did not<lb/>
+cable to you, for I feared, that you might not be at the Museum, and<lb/>
+that the news might get to Mrs. Carroll in an improper form.</p>
+<p>He had a headache on Friday August 31, and in the evening I found<lb/>
+his temperature to be 102. Next morning, however the temperature was<lb/>
+98.4 and we thought all was well. I could find no malarial parasites.<lb/>
+Later in the day the temperature gradually mounted to 103.8, the pulse<lb/>
+falling from 90 to 80. This morning temperature is still high 103.5 and<lb/>
+there is a good trace of albumin in the urine. Headache and photophobia<lb/>
+are marked. He took two good purges on the 31st and on Sept. 1st. He<lb/>
+was taken to the isolation camp this morning. He seems much worried,<lb/>
+but is not restless at present. It was hard to keep him in bed at first.<lb/>
+I shall keep you informed. Dr. Gorgas was out this morning and I shall<lb/>
+ask him to come frequently.</p>
+<p>Most sincerely,<lb/>
+Jesse W. Lazear.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+Sept. 3, 1900.</p>
+<p>My Dear Mother:</p>
+<p>I have a very light case. No cause for alarm. A change this evening<lb/>
+for the better. Will keep you posted by every mail.</p>
+<p>Yours,<lb/>
+James.</p>
+<p>(This was written by his nurse mrs. Lena Wamer).</p>
+<p>September 7, 1900.<lb/>
+1:15 p.m.</p>
+<p>My Dear Carroll:</p>
+<p>Hip Hip Hurrah; God be praised for the news from Cuba today --<lb/>
+&ldquo;Carroll much improved -- Prognosis very good.&rdquo; X X X X<lb/>
+Really I can never recall such a sense of relief in all my life as the<lb/>
+news of your recovery gives me.</p>
+<p>X X X X X X X</p>
+<p>Reed.</p>
+<p>War Department,<lb/>
+Surgeon General's Office,<lb/>
+Army Medical Museum and Laboratory,<lb/>
+Washington, Sept. 7, 1900.</p>
+<p>My Dear Doctor Carroll:</p>
+<p>I cannot begin to tell you, how delighted I was to hear, through cable<lb/>
+from Dr. Kean, that you are better. Thank Heaven for that much. Do<lb/>
+<pb n="163" id="f02954163"/>
+163<lb/>
+pray keep up your courage and pull through. It is not necessary for me<lb/>
+to tell you, that I have been utterly wretched and unhappy over the news<lb/>
+of your sickness. Your many friends in Washington are so very anxious<lb/>
+about you. When I told Hagner this morning, that you were better, he<lb/>
+clapped his hands through the telephone and said &ldquo;Oh Doctor Reed I<lb/>
+never was so glad to hear anything in my life&rdquo;. Mrs. Carroll though<lb/>
+shocked bears the news like the brave woman, that she is. Your children<lb/>
+are all well, but know nothing of your sickness. Again, thank God for<lb/>
+your improvement. Keep up the good work. Love to Doctores Ames and<lb/>
+Dear Lazear, who have so nobly cared for you.</p>
+<p>Affectionately,<lb/>
+Reed.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+Thursday afternoon, Sept. 13, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>It seems impossible, that I have been sick in bed two weeks, and that<lb/>
+I have been so nearly passing in my checks. This is my first attempt at<lb/>
+writing and I am still very weak indeed, so weak that I cannot attempt<lb/>
+stand or change my position without assistance. But I have been disinfected<lb/>
+and have been taken back into my old quarters again, I Iook like a<lb/>
+scarecrow, I have lost much in weight, my beard is long and I am thoroughly<lb/>
+worn out. I shall pull up rapidly again. A steady life has saved me<lb/>
+X X X X feel too tired to write much more today.</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+Tuesday Sept. 18, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>I write to let you know, that I am picking up as rapidly as a person<lb/>
+could, gaining every day. I heard to day, that the Surgeon General leaves<lb/>
+Washington for about two weeks, and that Doctor Reed will probably<lb/>
+start in a day or two for here. It would do you good to see me eat at<lb/>
+every meal and I am growing stronger and stronger every day. I weighed<lb/>
+this morning and tipped the scales at 152-1&sol;2 pounds, which is only<lb/>
+seven pounds lighter than before I was taken sick.</p>
+<p>X X X X X X X</p>
+<p>Another case has come down here, since I have been reported<lb/>
+convalescent. He is Major Cartwright the chief quartermaster of the Depart-<lb/>
+ment. He is 38 years of age and has a temperature running about the<lb/>
+<pb n="164" id="f02954164"/>
+164<lb/>
+same as mine. He is probably not so strong as I was and at this stage<lb/>
+no one can tell, what the result will be. One thing is certain Jennie,<lb/>
+I am now entirely free from danger and incapable of contracting the disease.</p>
+<p>X X X X X X X</p>
+<p>Do not worry about me now Jennie. I am perfectly safe and it is<lb/>
+only a matter of a short time, when I will be back with you.</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Blue Ridge Summit, Pa.<lb/>
+Sept. 19, 1900.</p>
+<p>My Dear Carroll:</p>
+<p>A letter from Dr. Lazear dated Sept. 13 said, you were to return to<lb/>
+quarters on that day and that you were rapidly picking up strength. I<lb/>
+am so delighted to know, that you are once more yourself. Have you<lb/>
+decided whether you will return to the United States on leave of absence<lb/>
+or not? In conversation with Mrs. Carroll prior to your attack of yellow<lb/>
+fever she said, that if you have to return to Cuba, she would rather that<lb/>
+you stay until Xmas and then come home for good. In other words she<lb/>
+did not like the idea of your returning after you once got home. I shall<lb/>
+come down about the first of October and perhaps may still find you at<lb/>
+Columbia Barracks. I hope to see you wether there or in Washington,<lb/>
+before I sail. I think that we can all get back home by December 20th.<lb/>
+That is my present expectation. How does it feel to be an immune?</p>
+<p>Sincerely yours,<lb/>
+Walter Reed.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+Sunday, Sept. 23, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>I write this to let you know, that I am still alive and gaining strength.<lb/>
+I look forward to morrows mail for some news from Doctor Reed as I<lb/>
+have not heard a word from him and do not know, what to expect.<lb/>
+Agramonte left for New York yesterday with his wife and Doctor Lazear<lb/>
+is still very ill with about even chances for his recovery. Major Cartwright,<lb/>
+who was the next to take yellow fever after me, died this morning. I<lb/>
+asked for an autopsy and it was refused. Doctor John Guiteras, formerly<lb/>
+Professor of Pathology at the University of Pa. called to see me this<lb/>
+afternoon as also did Dr. Gorgas and Dr. Finley. Everybody is surprised<lb/>
+<pb n="165" id="f02954165"/>
+165<lb/>
+at the manner in which I am picking up flesh ad strength and all these<lb/>
+yellow fever experts remarked how strong I was upon my legs. Yellow<lb/>
+fever has no terrors for me now, because I am an immune and cannot<lb/>
+contract it again, which gives me a great feeling of comfort.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+September 28, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>I received no letter from you by the last mail, so I have none to<lb/>
+answer. I inclose one, that I received from Dr. Reed this morning so<lb/>
+that you can see the suggestion for me to remain down here until the<lb/>
+end of the year; I have written to him just as I feel, that I have put<lb/>
+on flesh rapidly, but I am very weak; yet I think that the sea trip and<lb/>
+short visit to the United States will build me up greatly. I am sick of<lb/>
+this Cuban diet and long for some American oysters and fruits. If it is<lb/>
+only for 10 days I can come back stronger and better able to work.</p>
+<p>Dr. Lazear died tonight after a week's illness. He was taken sick just<lb/>
+a week ago this evening 8:00 o'clock and died tonight at about the same<lb/>
+time, so I suppose, that I may regard myself as a lucky individual.</p>
+<p>As you will see from Dr. Reed's letter he expects to start October 1,<lb/>
+and will reach here about the 5th. I shall try and get back as soon as<lb/>
+possible after he reaches here.</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+Saturday, Sept. 29, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>Doctor Reed is coming down again. I received three letters from him<lb/>
+today and he tells me, he expects to sail from New York on the 28th<lb/>
+and to arrive at Cuba on Wednesday next X X X X</p>
+<p>Kean asked me to have everything in the laboratory disinfected, so it<lb/>
+would be safe for Dr. Reed to come and work in.</p>
+<p>X X X X X X X X</p>
+<p>A mosquito nearly killed me and another killed poor Lazear; the same<lb/>
+<pb n="166" id="f02954166"/>
+166<lb/>
+one, that bit me, was allowed to bite another man and he had a mild<lb/>
+attack of yellow fever. This is the most important part of our work and<lb/>
+Dr. Zeed tells me, that we must publish a small paper about it. Do not<lb/>
+mention this to any one for anything just yet, because it is to be kept a<lb/>
+profound secret. It is one of the discoveries of the century.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Camp Columbia, Quemados, Cuba.<lb/>
+Thursday, Sept. 28, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>There is not anything of special interest to mention today. I have spent<lb/>
+about half the day sitting on the porch and the other half looking over<lb/>
+Lazear's papers for notes pertaining to our work. There was quite a notice<lb/>
+in this mornings papers about Dr. Lazear, and your husband is mentioned<lb/>
+too. I mail you the paper X X X X By the way that<lb/>
+paper says, that I still have yellow fever. That is not so; I am entirely<lb/>
+well and nearly as strong as ever. I can go, where I please and I attended<lb/>
+dear Lazear's funeral yesterday. Last Sunday I performed an autopsy,<lb/>
+though I was really too weak to undertake it. But the case was really an<lb/>
+interesting one and if I had not done it, we would have lost a great deal.</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Post Hospital, Cuba.<lb/>
+November 20, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>I made my first trip to the City Hospital today, where I was greeted<lb/>
+very nicely by some of the Spanish physicians, one of whom patted me<lb/>
+approvingly on the back. The cases of yellow fever appear to be very<lb/>
+mild, so much so that our work may be interfered with. I applied two<lb/>
+mosquitos with a view to having them bite volunteers for further experi-<lb/>
+ments. I have gotten entirely over my attack of cold or grippe, whichever<lb/>
+it may have been, and feel perfectly well again.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<pb n="167" id="f02954167"/>
+<p>167</p>
+<p>Camp Columbia, Cuba.<lb/>
+Thursday, Nov. 22, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>I received your letters of the 15th and 17th yesterday.</p>
+<p>X X X X X X X X</p>
+<p>We have just returned from Havana, where Drs. Reed, Agramonte and<lb/>
+myself have been to see the Spanish Consul and General Wood's chief<lb/>
+officer. One of the Spanish papers has taken up the matter of our<lb/>
+experiments and accuses us of horrible cruelty in enticing Spanish<lb/>
+emigrants out to camp by hiring them as laborers, then locking them up<lb/>
+in a room at night and turning in a lot of infected mosquitoes to give<lb/>
+them yellow fever, without their knowing anything about it. As a matter<lb/>
+of fact we do take Spaniards and give them $ 1.00 a day and board and<lb/>
+we offer them a reward to be bitten, if they choose. No compulsion<lb/>
+whatever is to be used, and we have American volunteers for the same<lb/>
+work, who will be bitten and treated exactly as they are. The Consul<lb/>
+says, that so long as the men are of age and consent fully, it is nobody's<lb/>
+business. So we will go ahead. Do not speak of this to any one, because<lb/>
+we do not want it spread any more than is necessary, until after we have<lb/>
+finished.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Camp Columbia, Cuba.<lb/>
+Sunday, November 25, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>I received two letters from you yesterday one dated the 18th and the<lb/>
+other the 20th.</p>
+<p>X X X X X X X X</p>
+<p>I have just returned from paying a happy call with Doctor Reed. We<lb/>
+called on Mrs. Dr. Kean, who gave the card party with Mrs. Stark.<lb/>
+Captain Slocum, who was on General Lee's staff, was very nice, and he<lb/>
+is a neighbor to General Kean's and I was out on the porch with them.<lb/>
+He addressed me as &ldquo;Carroll&rdquo; and sat with his arm resting on the back<lb/>
+of the bench beside me. These people here are all intensely interested in<lb/>
+the yellow fever and mosquito question and all are awaiting the result of<lb/>
+our experiments.</p>
+<p>X X X X X X X X</p>
+<p>A very bitter paper has recently been published against us, so that we<lb/>
+<pb n="168" id="f02954168"/>
+168<lb/>
+must repeat our experiments, before we can go any further, because many<lb/>
+are trying to raise a laugh at our expense.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Cuba, Columbia Barracks, Nov. 25, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>I send you the Havana Post for yesterday and today. One states that<lb/>
+we are creating a sensation in Havana; the other that a party of<lb/>
+Cleveland physicians are coming down to attend the meeting of the<lb/>
+Medical Congress in Havana next month.</p>
+<p>X X X X X X X X</p>
+<p>We drove out to visit Santa Clara Battery, where the captain of the<lb/>
+Battery, to which Dr. Reeds son belongs, is stationed. He wanted to call<lb/>
+on him and incidentally we wanted to look for mosquitoes. We found<lb/>
+some breeding in the captains kitchen, and spent a pleasant afternoon.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>The description of a &ldquo;serum boil&rdquo; (abscess) in this letter and of an attack of &ldquo;Grippe&rdquo;<lb/>
+in a previous letter suggests, that Carroll was in feeble health even at this date Dec. 11,<lb/>
+1900 and several months after his so called recovery from yellow fever.<lb/>
+J. C. H.</p>
+<p>Camp Columbia, Cuba.<lb/>
+Tuesday, December 11, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>In a conversation with Dr. Reed he stated, that he thought we would<lb/>
+probably return to Washington about the middle or the end of February.<lb/>
+He is very much elated, because we have obtained a true case of yellow<lb/>
+fever from the bite of an experimental mosquito and this confirms our<lb/>
+former results. The idea is to read another paper before the Pan American<lb/>
+Congress, which meets in Havana this winter. The time of meeting has<lb/>
+been postponed from December 26 to February 5, so it will be neces-<lb/>
+sary to wait here until then. He acknowledges the great importance of<lb/>
+our work and said, it should entitle us to membership in any of the<lb/>
+European Medical Societies. In addition the U.S. Gov't should award a<lb/>
+sum of money for the work, but that is all speculation. I had him lance<lb/>
+a serum boil for me tonight, and I think my neuralgia will be better in<lb/>
+the morning. We have several more men, whom we expect to come down<lb/>
+from the bite of a mosquito and a great deal more of this work to do<lb/>
+<pb n="169" id="f02954169"/>
+169<lb/>
+before the report can be prepared. This is the great chance of my life<lb/>
+time -- it is a perfectly sure thing and some benefit must certainly follow.</p>
+<p>This should be our consolation for spending a lonely Xmas and a<lb/>
+year hence I hope our position will be much better than now. With love<lb/>
+and kisses to the boys, Mabel and yourself.</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Columbia Barracks, Cuba.<lb/>
+Saturday, December 15, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>Your letters of the 8th and 11th of December came today</p>
+<p>X X X X X X X X</p>
+<p>I do not think it wise for you to go to any one now, because if they<lb/>
+had the disposition to have done something, it could have been done<lb/>
+long before now. Now that I have risked my life and earned recognition<lb/>
+and fame by my own efforts, I prefer to trust to the friend, who assured<lb/>
+me, he would look after my interest and who has never failed me X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>An expression of hope of military advancement and recognition by the U. S.<lb/>
+Government.</p>
+<p>Columbia Barracks, Cuba.<lb/>
+Monday, December 17, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>Tracy was foolish not to have accepted Dr. Reed's offer of $ 200. We<lb/>
+have had four men bitten since and all have recovered after mild attacks<lb/>
+of yellow fever. Tracy did not see Dr. Lazear get the bite, that killed<lb/>
+him, though he did see him take one bite. Lazear only permitted an<lb/>
+insect, that had been applied to a very mild case to bite him. And<lb/>
+nothing followed that bite. The insect, that he applied to me, however,<lb/>
+had bitten four cases, all of them <hi rend="italic">very severe</hi> cases. My attack was a<lb/>
+severe one also. The bite, that killed Lazear, was from an insect flying<lb/>
+about the hospital ward, one that he knew nothing about, and from<lb/>
+which he expected nothing. The result you know.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>1908.<lb/>
+12</p>
+<pb n="170" id="f02954170"/>
+<p>170</p>
+<p>Columbia Barracks, Cuba.<lb/>
+Xmas Evening 1900.</p>
+<p>My Dear Jennie:</p>
+<p>I received your letter of the 20th yesterday X X X X X<lb/>
+X X X We have had another case of yellow fever come down<lb/>
+today. The poor fellow is quite sick. He is a white man, who volunteered<lb/>
+and is to receive $ 200. We simply turned some mosquitoes, that had<lb/>
+bitten another yellow fever patient two weeks before into a house and<lb/>
+then watched the mosquitoes bite him from another portion of the room,<lb/>
+which was partitioned off with wire gauze. After 4 days he has come<lb/>
+down and out of 5 persons, that we have bitten, every one has come<lb/>
+down at last. This means complete success for us and confusion for<lb/>
+Sanarelli. Our other paper has been published in the Journal of<lb/>
+Experimental Medicine and we have 250 reprints in Washington.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Columbia Barracks, Cuba.<lb/>
+Monday, December 30, 1900.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>I went to the city yesterday and drew $ 950 from the bank to pay<lb/>
+the men, upon whom we have experimented. Out of that I paid $ 129.00<lb/>
+for a watch chain and charm to be presented to one of these men for<lb/>
+his courage in submitting to the inoculation.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Columbia Barracks, Cuba.<lb/>
+January 23, 1901.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>We had another case come down today from the bite of a mosquito.<lb/>
+We are now able to produce cases of yellow fever to order.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<pb n="171" id="f02954171"/>
+<p>171</p>
+<p>Columbia Barracks, Cuba.<lb/>
+Thursday, January 31, 1901.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>A yellow fever editorial in the Post was very sarcastic and I had lots<lb/>
+of fun teasing Dr. Reed about it. X X X X X X X X</p>
+<p>Our paper will probably be ready next Monday, and then watch the<lb/>
+American papers. Tell the folks at home to do the same, especially the<lb/>
+New York papers, for it will attract some attention. I will send you the<lb/>
+Havana papers, so that you can read for yourself, what they say here.<lb/>
+We have spent a busy afternoon. The delegates to the Pan American<lb/>
+Congress have begun to arrive and this afternoon we entertained the<lb/>
+delegates from Mexico, who were very anxious to know something of our<lb/>
+work. They have a great deal of yellow fever at Vera Cruz and their<lb/>
+Government is anxious to stamp it out. One of the gentlemen is physician<lb/>
+to President Diaz; one is an eminent bacteriologist; one has seen more<lb/>
+yellow fever cases perhaps than any other man in the world, and another<lb/>
+is a military surgeon of high rank. The latter compliments me by saying<lb/>
+I was a hero and all were delighted, with what they saw. I send you the<lb/>
+Havana Post of today, which contains some allusions to our Commission.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Columbia Barracks, Cuba.<lb/>
+February 5, 1901.</p>
+<p>My Dear Jennie:</p>
+<p>I received your first letter this evening upon my return to the city,<lb/>
+where I have been all day listening to the discussion at the Congress.<lb/>
+Our paper appears to have been the event of the session and of course<lb/>
+my friend received the greatest praise. One of the Cuban physicians<lb/>
+raised the point, that it was wrong to experiment with human beings; to<lb/>
+this Reed stated in reply, that the first person to come down was a<lb/>
+member of the commission -- myself. That brought down the house,<lb/>
+such as it was.</p>
+<p>After the morning session Dr. Agramonte took Dr. Reed and myself<lb/>
+to his house for lunch, and it was a lunch. We began with green peas,<lb/>
+then radishes, Burgundy wine, then fish, after that fricasseed chicken,<lb/>
+then roast beef, with these came Spanisch claret, baked plantains, both<lb/>
+green and ripe; next came Neufchatel cheese with orange preserve and<lb/>
+this was followed by delicious pine apple and another very rich fruit,<lb/>
+12*<lb/>
+<pb n="172" id="f02954172"/>
+172<lb/>
+that I had not tasted before, the sabidillo; cigars and coffee finished a<lb/>
+very elegant meal; the table appointments were elegant and very fine<lb/>
+even to finger bowles.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Columbia Barracks, Cuba.<lb/>
+Sunday February 10, 1901.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>We have just brought down two more cases from mosquito bites and<lb/>
+it is well, that I remained here to take notes and observe them. One of<lb/>
+them looks as if it might be severe, but I hope he will recover. So far<lb/>
+we have not lost a case.</p>
+<p>X X X X X X X X</p>
+<p>In regard to the Medical Congres, our paper was the only one, that<lb/>
+attracted general attention and our work is regarded as being of the<lb/>
+greatest importance.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Camp Columbia, Cuba.<lb/>
+February 14, 1901.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>I believe, that I have found the parasite, but I have thought so a<lb/>
+number of times before, so I am going slow now. I am examining a<lb/>
+number of mosquitoes to be certain, before I make any assertions. Do<lb/>
+not mention it to any one.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>Columbia Barracks, Cuba.<lb/>
+February 21, 1901.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>I have seen something today, that leads me to believe, I am on the<lb/>
+<pb n="173" id="f02954173"/>
+173<lb/>
+track of the parasite. But time will be required to determine and I<lb/>
+must examine many insects before coming to any decision.</p>
+<p>X X X X X X X X</p>
+<p>Your affectionate husband,<lb/>
+James.</p>
+<p>War Department<lb/>
+Surgeon General's Office,<lb/>
+Army Medical Museum Library,<lb/>
+Washington, Feb. 26 1901.</p>
+<p>My Dear Doctor:</p>
+<p>I have yours of the 21st and am afraid this will not reach you in<lb/>
+time before your departure. I want you to bring the reprints of our<lb/>
+preliminary note, which I seem to have left behind unintentionally. There<lb/>
+were about a dozen of them. Be sure and get from Dr. Ames the map,<lb/>
+showing the Quamados epidemic, which he was kindly preparing for me.<lb/>
+I want it very much and he must have completed it by this time.</p>
+<p>X X X X We must present the clinical side of these cases to<lb/>
+the Association of American Physicians in May if possible. X X X<lb/>
+X I am tied down to the Army Examining Board. X X X X<lb/>
+You made no mistake by remaining in Cuba until March as February<lb/>
+has simply been atrocious. X X X X</p>
+<p>Sincerely yours,<lb/>
+Reed.</p>
+<p>Las Animas, Havana, Cuba.<lb/>
+Sept. 12, 1901.</p>
+<p>My Dear Jennie:</p>
+<p>X X X X X X X X</p>
+<p>I am looked upon as a bogey man down here but the mosquito is<lb/>
+mightier than the shot gun.</p>
+<p>X X X X X X X X</p>
+<p>Columbian University,<lb/>
+Washington, D.C.,<lb/>
+Office of the President.<lb/>
+May 24, 1904.</p>
+<p>Dr. James Carroll,<lb/>
+Washington, D.C.</p>
+<p>Dear Doctor:</p>
+<p>It gives me pleasure to inform you, that at a meeting of the Executive<lb/>
+Committee yesterday, you were appointed Professor of Pathology and<lb/>
+<pb n="174" id="f02954174"/>
+174<lb/>
+Bacteriology in the Department of Medicine and also to be in charge<lb/>
+of the Clinical Laboratory in the Hospital, and Dr. H. H. Donnelly was<lb/>
+appointed to assist you in the latter position.</p>
+<p>These appointments were made for the academic year 1904--5. Your<lb/>
+compensation will herafter be fixed.</p>
+<p>Very truly yours<lb/>
+Charles W. Needham.</p>
+<p>The New Willard, Washington.<lb/>
+April 21 (or 28) 1907.</p>
+<p>Doctor Edward O. Jordan,<lb/>
+Department of Bacteriology,<lb/>
+University of Chicago.<lb/>
+Chicago, Illinois.</p>
+<p>Dear Doctor Jordan:</p>
+<p>I owe you a letter of thanks for the kind letter of congratulation<lb/>
+received from you several weeks ago, and assure you of my sincere<lb/>
+appreciation.</p>
+<p>I am unable to look the letter up this evening as I have been on my<lb/>
+back in bed for 8 weeks, and this is the first day of the 9th week follo-<lb/>
+wing an attack resembling influenza, and which is accompanied by <hi rend="italic">an<lb/>
+endocarditis</hi>.</p>
+<p>As the endocarditis existed three years ago, it is difficult to say, what<lb/>
+role it plays in my present illness, but at any rate I have had a conti-<lb/>
+nuous fever, with a temperature at first intermittent and now remittent.</p>
+<p>Fortunately the infection appears to be somewhat mild, although very<lb/>
+persistent, and I am holding my own very well.</p>
+<p>Blood cultures have been made on two occasions each time with<lb/>
+negative results. Agglutination tests have been negative. The blood<lb/>
+shows no leucocytosis and the counts are practically normal. This of<lb/>
+course excluded the ordinary pus organisms and I still cling to the<lb/>
+possibility, that the infection may have been set up by the bacillus of<lb/>
+Pfeffer.</p>
+<p>I have written to Docter Ford of the Johns Hopkins, Doctor Ernst<lb/>
+of Harvard and Doctor Winslow of the Massachusetts Institute of Tech-<lb/>
+nology in my endeavors to secure a culture of this organism.</p>
+<p>My attention has been called to the fact, that Dr. Davis has recently<lb/>
+studied some cultures of B. Influenzae in your laboratory and as I do<lb/>
+not know him personally, I take the liberty to write and ask, if you will<lb/>
+kindly request him to forward me two or three type cultures of B.<lb/>
+<pb n="175" id="f02954175"/>
+175<lb/>
+Influenzae in order, that I may have them tested with my serum for<lb/>
+agglutination, and should the reaction be obtained, I fully intend to be<lb/>
+vaccinated with the cultures.</p>
+<p>Trusting you will not find it inconvenient to comply with this request,<lb/>
+I am with sincere regards,</p>
+<p>Very sincerely yours,<lb/>
+(Signed) James Carroll.</p>
+<p>P. S. Kindly ask Dr. Davis or whoever may send the cultures to forward<lb/>
+them by Express collect to me at my house address 1433 Clifton<lb/>
+Street, North west.</p>
+<p>Letter of James Cawoll,<lb/>
+May 1907.</p>
+<p>Dear Docotor Hemmeter:</p>
+<p>Of course you will have deemed me ungrateful and inappreciative of<lb/>
+the great honor to be confered upon me by the old University my hono-<lb/>
+red <hi rend="italic">Alma Mater</hi>. But it is not so; I have been sick in bed since Feb.<lb/>
+17th, running a temperature every day except for tree days, when it was<lb/>
+temporarily controlled by aspirine. As I write now my temperature is<lb/>
+above 100 (2 P. M.) and rising and I am sitting up contrary to the advice<lb/>
+of my physicians friends. Nevertheless I have felt all along, that I would<lb/>
+send nothing but an autograph reply and this I have delayed day after<lb/>
+day in the hope, that I would soon gain sufficient strength to write a<lb/>
+long and satisfactory letter. The visit of my dear friend, Dr. I. S. Stone,<lb/>
+enabled me to rest more comfortably afterward, because I felt, that he<lb/>
+would explain the circumstances to you. I am sorry to say, that during<lb/>
+the past four or five days my heart has needed a little coaxing for all<lb/>
+attempts to sit up proved too much, though I felt very well while lying<lb/>
+down. With this explanation I trust you will pardon my apparent<lb/>
+rudenes in thus delaying my response to a communication that made me<lb/>
+very happy indeed. I assure you most sincerely that, apart from the<lb/>
+personal affliction, it gives me the deepest sorrow to feel, that I am<lb/>
+forced to be absent from such a happy and inspiring reunion. As it is,<lb/>
+I feel, that if I am up about with a serviceable though damaged heart,<lb/>
+within 30 days, that I shall have cause for further congratulation.</p>
+<p>Permit me to express to you, as best I may, my humble appreciation<lb/>
+of the high honor to be bestowed upon me, and the hope, that at some<lb/>
+future date, I may be able to express my gratitude in person.</p>
+<p>I one of your letters you ask for a list of publications, which I inclose:<lb/>
+it will give me great pleasure to send you a set of such of the<lb/>
+reprints as I have.</p>
+<pb n="176" id="f02954176"/>
+<p>176</p>
+<p>You ask whether I was infected as the result of our <unclear>werk</unclear>. Certainly<lb/>
+I was; I was the first to propose, that we submit and the first to be<lb/>
+infected though not the first to be bitten.</p>
+<p>I am sending by this mail a paper by my friend Dr. H. H. Donnally<lb/>
+and this may be relied upon as accurate in every particular.</p>
+<p>There is no foundation in the report, that Dr. Reed aided me very<lb/>
+materially in securing my medical education. As a matter of fact he<lb/>
+had nothing whatever to do with it, and I was never associated with<lb/>
+Dr. Reed in anyway, until I met him at the Army Medical School in<lb/>
+Washington late in September 1893. The order for me to proceed<lb/>
+there was issued upon the recommendation of Surgeon General Sternberg.<lb/>
+At this time I had obtained my medical degree, had Hopkins (see<lb/>
+Register 1891--1892 and 1892--1893) and had put in one summer<lb/>
+working independently in the Army laboratory at the World's Fair in<lb/>
+1893, for which I hold a certificate.</p>
+<p>Great is the Truth and it will prevail.</p>
+<p>Believe me most gratefully,<lb/>
+Fraternally and Sincerely yours,<lb/>
+James Carroll.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

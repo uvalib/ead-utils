@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAFA0040">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Benjamin C. Gruenberg to J. F. Siler, April 4, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>Gruenberg, Benjamin C.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAFA0040</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-04-04</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Siler, J. F.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Hildebrand, James</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1928-04-04">April 4, 1928</date>
+<idno rend="suppress">KAFA0040</idno>
+<title>Letter from Benjamin C. Gruenberg to J. F. Siler, April 4, 1928</title>
+</bibl>
+</head>
+<p>Gruenberg inquires about Hildebrand's account of his participation in the yellow fever experiments. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1928-04-04">
+<head>Letter from Benjamin C. Gruenberg to J. F. Siler, April 4, 1928</head>
+<pb n="1" id="fKAFA0040"/>
+<opener>
+American Association for Medical Progress, Inc.<lb/>
+A NATIONAL LAY ORGANIZATION<lb/>
+370 SEVENTH AVENUE, NEW YORK CITY<lb/>
+TELEPHONE PENNSYLVANIA 1400<lb/>
+<hi rend="italic">Officers</hi><lb/>
+GEORGE MURNANE, <hi rend="italic">President</hi><lb/>
+EDWARD WIGGLESWORTH, <hi rend="italic">Secretary</hi><lb/>
+FREDERICK K. BARBOUR, <hi rend="italic">Treasurer</hi><lb/>
+-----<lb/>
+BENJAMIN C. GRUENBERG, <hi rend="italic">Managing Director</hi><lb/>
+EDWARD M. BARROWS, <hi rend="italic">Field Secretary</hi><lb/>
+EDITH AYRES COPELAND, <hi rend="italic">Executive Secretary</hi><lb/>
+<hi rend="italic">Honorary President</hi><lb/>
+HON. CHARLES EVANS HUGHES<lb/>
+<hi rend="italic">Honorary Vice-Presidents</hi><lb/>
+JAMES ROWLAND ANGELL, LL.D.<lb/>
+HIS EMINENCE DENIS CARDINAL DOUGHERTY<lb/>
+THE RIGHT REVEREND ALEXANDER MANN<lb/>
+ELLEN FITZ PENDLETON, LL.D.<lb/>
+ERNEST THOMPSON SETON<lb/>
+OWEN WISTER<lb/>
+<dateline>
+<date value="1928-04-04">4 April 1928</date>
+</dateline><lb/>
+Dr J F Siler, Lieut Col<lb/>
+Medical Corps<lb/>
+Office of the Surgeon General<lb/>
+War Department<lb/>
+Washington, D. C.<lb/>
+<salute>My dear Dr Siler:</salute>
+</opener>
+<p>I enclose copy of a letter which we received from<lb/>
+James Hildebrand, formerly a private in the United<lb/>
+States Hospital Corps, in answer to a general in-<lb/>
+quiry we sent out about survivors of the yellow fe-<lb/>
+ver experiments conducted in Cuba in 1901.</p>
+<p>Can you tell us whether the records of the experi-<lb/>
+ment bear out Hildebrand's account of his share in<lb/>
+them? We know that he took part in the Fo<add>m</add>ites ex-<lb/>
+periments and we are giving publicity to that fact,<lb/>
+but we had no knowledge that he was actually expo-<lb/>
+sed to mosquito bites as his letter states.</p>
+<p>We should appreciate as early information as you can<lb/>
+find time to give us as the Copeland-Wainwright bill,<lb/>
+whose provisions include a pension for Hildebrand,<lb/>
+will be up for hearing soon.</p>
+<closer>
+<salute>Sincerely yours,</salute>
+<signed>Benj C. Gruenberg</signed>
+Benj C. Gruenberg<lb/>
+Managing Director<lb/>
+BCG:M<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

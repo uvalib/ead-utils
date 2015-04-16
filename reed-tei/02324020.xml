@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02324020">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders for Robert P. Cooke and Lawrence [Walter L.] Reed, June 29, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Michie, Robert E. Lee</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02324020</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-06-29</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Cooke, Robert P.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="place">Quemados (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1900-06-29">June 29, 1900</date>
+<idno rend="suppress">02324020</idno>
+<title>Military Orders for Robert P. Cooke and Lawrence [Walter L.] Reed, June 29, 1900</title>
+</bibl>
+</head>
+<p>Special Orders #48 assigns Cooke to Pinar del Rio Barracks. Lawrence Reed is appointed to a court-martial hearing. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="military orders" n="1900-06-29">
+<head>Military Orders for Robert P. Cooke and Lawrence [Walter L.] Reed, June 29, 1900</head>
+<pb n="1" id="f02324020"/>
+<p>NOTED: RETURNS, A. G. O.,<lb/>
+9</p>
+<p>Adjutant General's<lb/>
+OFFICE.<lb/>
+JUL 16 1900<lb/>
+ROLLS DIVISION.<lb/>
+<unclear>[unclear]</unclear></p>
+<p>ORDERS, BOOKS, BLANKS &amp; D.C. DIV.<lb/>
+A. G. O.<lb/>
+RECD. JUL 12 1900</p>
+<p>FROM THE NATIONAL ARCHIVES<lb/>
+Vol 179 B 1900</p>
+<p>HEADQUARTERS DEPARTMENT OF HAVANA<lb/>
+AND PINAR DEL RIO.</p>
+<p><hi rend="italic">Quemados, Cuba, June 29, 1900</hi>.</p>
+<p>SPECIAL ORDERS, }<lb/>
+No. 48. }</p>
+<p>Cooke - L. Reed</p>
+<p>1. Acting Assistant Surgeon <hi rend="italic">George R. Plummer</hi>, U. S.<lb/>
+Army, is hereby relieved from the duty at Columbia Bar-<lb/>
+racks upon which he was detailed by paragraph 1, Special<lb/>
+Orders No. 36, c. s., these headquarters, and will rejoin<lb/>
+his former station, Battery No. 5, Artillery Defenses of<lb/>
+Havana.</p>
+<p>The travel enjoined is necessary for the public service.</p>
+<p>2. So much of paragraph 2, Special Orders No. 35, c. s.,<lb/>
+these headquarters, as relates to Private <hi rend="italic">Roy Garber</hi>, Hos-<lb/>
+pital Corps, U. S. Army, is hereby revoked.</p>
+<p>3. Corporal <hi rend="italic">W. E. Chance</hi>, Company A, 8th Infantry, is<lb/>
+relieved from special duty at these headquarters, to date<lb/>
+from June 19th. 1900.</p>
+<p>4. Private <hi rend="italic">Jerry R. Thomas</hi>, Troop B, 7th Cavalry, hav-<lb/>
+ing been tried by a general court-martial convened at Co-<lb/>
+lumbia Barracks. Cuba, and found guilty of desertion, in<lb/>
+violation of the 47th Article of War (one previous convic-<lb/>
+tion), was sentenced &ldquo;<hi rend="italic">To be dishonorably discharged the ser-<lb/>
+vice of the United States, forfeiting all pay and allowances due<lb/>
+him, and to be confined at hard labor, at such place as the re-<lb/>
+viewing authority may direct, for one (1) year</hi>.&rdquo;</p>
+<p>The sentence is approved. In view of the confinement<lb/>
+already served by the accused whilst undergoing trial, one<lb/>
+month of the confinement awarded is remitted.</p>
+<p>As mitigated the sentence will be duly executed, until<lb/>
+further orders, at Columbia Barracks, Cuba.</p>
+<p>5. Acting Assistant Surgeon <hi><hi rend="italic">Robert P. Cooke</hi>, U.</hi> S. Army,<lb/>
+having reported for duty at these headquarters, in compli-<lb/>
+ance with paragraph 1, Special Orders No. 99, c. s., Head-<lb/>
+quarters Division of Cuba, is assigned to duty at Pinar del<lb/>
+Rio Barracks, Cuba, and will report for duty accordingly.</p>
+<p>The travel enjoined is necessary for the public service.</p>
+<p>6. A general court-martial is hereby appointed to meet<lb/>
+at Columbia Barracks, Cuba, at 10 o'clock A. M., Monday,<lb/>
+July 2d, or as soon thereafter as practicable, for the trial<lb/>
+of such persons as may be properly brought before it.</p>
+<pb n="2" id="f02324021"/>
+<p>DETAIL FOR THE COURT.</p>
+<p>Major <hi rend="italic">B. K. Roberts</hi>, 2d Artillery;</p>
+<p>Captain <hi rend="italic">J. C. Gresham</hi>, 7th Cavalry;</p>
+<p>Captain <hi rend="italic">Charles Gerhardt</hi>, 8th Infantry;</p>
+<p>1st Lieutenant <hi rend="italic">F. H. Beach</hi>, 7th Cavalry;</p>
+<p>1st Lieutenant <hi rend="italic">W. H. Hart</hi>, 7th Cavalry;</p>
+<p>1st Lieutenant <hi rend="italic">M. C. Butler</hi>, 7th Cavalry;</p>
+<p>1st Lieutenant <hi rend="italic">E. J. Timberlake</hi>, 2d Artillery;</p>
+<p>1st Lieutenant <hi rend="italic">B. H. Merchant</hi>, 8th Infantry;</p>
+<p>1st Lieutenant <hi rend="italic">E. T. Collins</hi>, 8th Infantry;</p>
+<p>2d Lieutenant <hi rend="italic">B. H. Pope</hi>, 8th Infantry;</p>
+<p>2d Lieutenant <hi rend="italic">A. A. King</hi>, 7th Cavalry, judge advo-<lb/>
+cate.</p>
+<p>A greater number of officers cannot be assembled with-<lb/>
+out manifest injury to the service.</p>
+<p>The court is authorized to sit without regard to hours,<lb/>
+and is empowered to proceed with the business before it<lb/>
+with any number of members present not less than the<lb/>
+minimum prescribed by law.</p>
+<p>7. A general court-martial is hereby appointed to meet<lb/>
+at Pinar del Rio Barracks, Cuba, at 10 o'clock A. M.,<lb/>
+Monday, July 2d, or as soon thereafter as practicable, for<lb/>
+the trial of such persons as may be properly brought before<lb/>
+it.</p>
+<p>DETAIL FOR THE COURT.</p>
+<p>Major <hi rend="italic">J. J. O'Connell</hi>, 1st Infantry;</p>
+<p>Captain <hi rend="italic">N. P. Phister</hi>, 1st Infantry;</p>
+<p>Captain <hi rend="italic">T. B. Dugan</hi>, 7th Cavalry;</p>
+<p>Captain <hi rend="italic">W. M. Swaine</hi>, 1st Infantry;</p>
+<p>Captain <hi rend="italic">Charles E. Tayman</hi>, 1st Infantry;</p>
+<p>1st Lieutenant <hi rend="italic">C. H. Conrad</hi>, 7th Cavalry;</p>
+<p>1st Lieutenant <hi rend="italic">Campbell King</hi>, 1st Infantry;</p>
+<p>2d Lieutenant <hi rend="italic">Charles McClure</hi>, 1st Infantry;</p>
+<p>2d Lieutenant <hi><hi rend="italic">W. L. Reed</hi></hi>, 1st Infantry, judge advo-<lb/>
+cate.</p>
+<p>A greater number of officers cannot be assembled with-<lb/>
+out manifest injury to the service.</p>
+<p>The court is authorized to sit without regard to hours,<lb/>
+and is empowered to proceed with the business before it<lb/>
+with any number of members present not less than the<lb/>
+minimum prescribed by law.</p>
+<p>BY COMMAND OF BRIGADIER GENERAL LEE:</p>
+<p>R. E. L. MICHIE,<lb/>
+<hi rend="italic">Assistant Adjutant General</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

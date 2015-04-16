@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t02929006">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from John W. Ross to [Howard A.] Kelly, November 6, 1907</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Ross, John W.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02929006</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1907-11-06</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Kelly, Howard A.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Guiteras, Juan</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1907-11-06">November 6, 1907</date>
+<idno rend="suppress">02929006</idno>
+<title>Letter from John W. Ross to [Howard A.] Kelly, November 6, 1907</title>
+</bibl>
+</head>
+<p>Ross writes to Kelly to clarify his position in regards to an unnamed incident involving Carroll. He stresses that Gorgas was the commanding officer at the time of the incident.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1907-11-06">
+<head>Letter from John W. Ross to [Howard A.] Kelly, November 6, 1907</head>
+<pb n="1" id="f02929006"/>
+<opener>
+Copy<lb/>
+<dateline>
+Pasadena, California,<lb/>
+<date value="1907-11-06">November 6, 1907.</date>
+</dateline>
+<salute>Dear Dr. Kelly:-</salute>
+</opener>
+<p>Please accept my sincere thanks for your favor of the 26th<lb/>
+ultimo. I am very glad indeed that you are writing up the life<lb/>
+of our heroic friend Carroll.</p>
+<p>I have no objection to your publishing Carroll's letter,<lb/>
+provided you will introduce the enclosed foot-note which will<lb/>
+prevent any misunderstanding of Guit&eacute;ras' position, as well as<lb/>
+of my own. The foot-note, referred to, explains itself.</p>
+<p>Col. Gorgas, who was our Chief Surgeon at the time, and<lb/>
+on the ground, fully approved of my action in the matter. I<lb/>
+should have included the latter statement in the foot-note but<lb/>
+did not like to do so without first consulting Gorgas. I have<lb/>
+sent him a copy of your letter and of the foot-note; you will<lb/>
+probably hear from him upon the subject. Should you wish to<lb/>
+write to him for further particulars, his address is<lb/>
+Col. W. C. Gorgas, U. S. Army,<lb/>
+Isthmian Canal Commissioner,<lb/>
+<hi>Ancon</hi>, Canal Zone,<lb/>
+Isthmus of Panama.</p>
+<p>Again thanking you for your courtesy, I beg to remain,</p>
+<closer>
+<salute>Most truly yours,</salute>
+<signed>John W. Ross</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01674017">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Oath of Office given by Walter Reed, July 2, 1875</title>
+<title type="gmd">[electronic resource] </title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01674017</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1875-07-02</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Harrisonburg (Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1875-07-02">2 July, 1875</date>
+<idno rend="suppress">01674017</idno>
+<title>Oath of Office given by Walter Reed, July 2, 1875</title>
+</bibl>
+</head>
+<p>Reed signs an Oath of Office after being appointed to Assistant Surgeon in the Military Services of the United States. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="oath" n="1875-07-02">
+<head>Oath of Office given by Walter Reed, July 2, 1875</head>
+<pb n="1" id="f01674017"/>
+<p>OATH OF OFFICE.</p>
+<p>One to accompany the accept-ance of every commissioned<lb/>
+officer appointed or commis-sioned by the President, and<lb/>
+the oath Itself to be admin-istered to every officer mus-<lb/>
+tered into the service of the United States.</p>
+<p>I, Walter Reed, <hi rend="italic">having been appointed</hi><lb/>
+<hi rend="italic">a</hi>n Assistant Surgeon <hi rend="italic">in the</hi> MILITARY<lb/>
+SERVICE <hi rend="italic">of the</hi> United States, <hi rend="italic">do solemnly swear that I have</hi><lb/>
+<hi rend="italic">never voluntarily</hi> BORNE ARMS <hi rend="italic">against the United States since I</hi><lb/>
+<hi rend="italic">have been a citizen thereof; that I have voluntarily given no</hi> AID,<lb/>
+COUNTENANCE, COUNSEL, <hi rend="italic">or</hi> ENCOURAGEMENT <hi rend="italic">to persons engaged in</hi> ARMED HOSTILITY<lb/>
+<hi rend="italic">thereto; that I have neither sought, nor accepted, nor attempted</hi><lb/>
+<hi rend="italic">to exercise the functions of</hi> ANY OFFICE WHATEVER, <hi rend="italic">under any</hi><lb/>
+<hi rend="italic">authority, or pretended authority,</hi> IN HOSTILITY <hi rend="italic">to the United States;</hi><lb/>
+<hi rend="italic">that I have not yielded a voluntary</hi> SUPPORT <hi rend="italic">to any</hi> PRETENDED<lb/>
+GOVERNMENT, AUTHORITY, POWER, <hi rend="italic">or</hi> CONSTITUTION WITHIN <hi rend="italic">the United States,</hi><lb/>
+HOSTILE <hi rend="italic">or</hi> INIMICAL <hi rend="italic">thereto. And I do further swear that, to</hi><lb/>
+<hi rend="italic">the best of my knowledge and ability, I will</hi> SUPPORT <hi rend="italic">and</hi> DEFEND<lb/>
+<hi rend="italic">the</hi> CONSTITUTION OF THE UNITED STATES <hi rend="italic">against all enemies,</hi> FOREIGN <hi rend="italic">and</hi><lb/>
+DOMESTIC; <hi rend="italic">that I will bear true</hi> FAITH <hi rend="italic">and</hi> ALLEGIANCE <hi rend="italic">to the same;</hi><lb/>
+<hi rend="italic">that I take this obligation freely, without any mental reservation or</hi><lb/>
+<hi rend="italic">purpose of evasion; and that I will</hi> WELL <hi rend="italic">and</hi> FAITHFULLY <hi rend="italic">discharge the</hi><lb/>
+DUTIES <hi rend="italic">of the</hi> OFFICE <hi rend="italic">on which I am about to enter:</hi> So help me God.</p>
+<p>Walter Reed,</p>
+<p><hi rend="italic">Sworn to and subscribed before me, at</hi> Harrisonburg Va<lb/>
+<hi rend="italic">this</hi> 2<hi rend="superscript">nd</hi> <hi rend="italic">day of</hi> July <hi rend="italic">18</hi>75.</p>
+<p>J. S. <unclear>Hanisburger</unclear><lb/>
+Notary Public</p>
+<p>[A. G. O. No. 55.]</p>
+</div1>
+</body>
+</text>
+</TEI.2>

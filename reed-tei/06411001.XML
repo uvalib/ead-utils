@@ -1,0 +1,728 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY t06411003 SYSTEM "t06411003.jpg" NDATA jpg>]>
+<TEI.2 id="t06411001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Questionnaire: Questions to General Truby (December 1946) About His Book, by Philip Showalter Hench, December 1946</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hench, Philip Showalter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06411001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1946-12-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Truby, Albert E. </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Echeverria, Rafael T.</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="person">Lampson, Robin</name>
+<name type="person">Agramonte, Aristides </name>
+<name type="person">Saleeby, Najeeb M.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Lewis, Nellie</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">McCord, Lottie</name>
+<name type="person">Gillen, Ella M.</name>
+<name type="person">Hemmeter, John</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Myers, Walter</name>
+<name type="person">Durham, Herbert E.</name>
+<name type="person">Howard, L. O.</name>
+<name type="person">Havard, Valery</name>
+<name type="person">Kelly, Howard A.</name>
+<name type="person">McPherson, Rev.</name>
+<name type="person">Neate, John S.</name>
+<name type="person">Baldwin, T. A.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Kriesley, Pvt.</name>
+<name type="person">Kellogg, George A.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Cornwell, Dean</name>
+<name type="person">Peabody, James E.</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+<name type="place">Cuba</name>
+<name type="place">San Jose farm, Marianao (Cuba)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>16 pp.</extent>
+<date value="1946-12-00">December 1946</date>
+<idno rend="suppress">06411001</idno>
+<title>Questionnaire: Questions to General Truby (December 1946) About His Book, by Philip Showalter Hench, December 1946</title>
+</bibl>
+</head>
+<p>Hench provides as outline of questions for Truby about his book, &ldquo;Memoir of Walter Reed.&rdquo; Responses by both Truby and Hench are included for some of the questions.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1946-12-00">
+<head>Questionnaire: Questions to General Truby (December 1946) About His Book, by Philip Showalter Hench, December 1946</head>
+<pb n="1" id="f06411001"/>
+<p><unclear>1</unclear></p>
+<p>Please<lb/>
+<hi>return</hi></p>
+<p>QUESTIONS TO GENERAL TRUBY (DECEMBER, 1946) ABOUT HIS BOOK</p>
+<p>Questions regarding General Truby's book (page numbers).</p>
+<p>p.5--What was Stark like--brief description.</p>
+<p>p.8--Please describe Reed--approximate height, weight, coloring. Was he aloof,<lb/>
+serious and dignified with strangers and acquaintances but gay, friendly and<lb/>
+sentimental with relatives and close friends?</p>
+<p>p.9--Reed interested in malaria in 1898. Any evidence that he was also that early<lb/>
+<hi>especially</hi> interested in yellow fever, particularly in Finlay's theory?</p>
+<p>p.11--What was the approximate strength of the medical corps (regular army) <hi>during</hi><lb/>
+the Spanish--American War? About how many medical officers were in the vol-<lb/>
+unteer army? The latter were not all &ldquo;contract surgeons&rdquo; were they? Didn't<lb/>
+the volunteer army commission its medical officers? About how many &ldquo;contract<lb/>
+surgeons&rdquo; were hired during the S.--A. War and how were they used; were they<lb/>
+all assigned to regular army units or also to volunteer units?<lb/>
+<add>Dont work on this just a guess will do.</add></p>
+<p>p.12--(and p. 34)--Did the contract surgeons completely replace the temporary<lb/>
+(volunteer) medical officers after the war?</p>
+<p>p.17--Do you have a copy of the &ldquo;sanitary order for the command&rdquo;? If not, what<lb/>
+were its general contents?</p>
+<p>p.20--Description of Buena Vista Camp, December, 1898: &ldquo;short grass, an occasional<lb/>
+tree, no habitations.&rdquo; Was there anything (houses, et cetera) then on the<lb/>
+part which later became the western end of Camp Columbia? Were the 6 or 8<lb/>
+little huts (which later became the Y. F. huts) already there? I have been<lb/>
+told that these huts antidated Camp Columbia by some time, having been used<lb/>
+by the Spaniards for cases of contagious diseases. But they aren't on my 1898<lb/>
+map.</p>
+<p>p.26--In the table it mentions no U. S. troops in three of the six departments.<lb/>
+I take it that there were U. S. troops in these departments but that neither<lb/>
+the troops nor their medical problems nor medical officers concerned the story<lb/>
+of yellow fever. Correct?<lb/>
+<add>yes.</add></p>
+<p>p.27--I am not quite clear what various positions Gorgas held in Cuba. If you<lb/>
+can tell them to me offhand please do so; otherwise I can consult one of the<lb/>
+books on Gorgas' life.</p>
+<p>p.27--Please tell me a little more about electrozone. Wasn't there later a scandal<lb/>
+about it?<lb/>
+<add>a question of who'd pay the cost? (see question p 75)</add></p>
+<p>p.28--Just what was the Maestranza?</p>
+<p>p.30 (p. 28)--Which &ldquo;vacant Spanish barracks&rdquo;--where?</p>
+<p>p.31--&ldquo;a dungeon in the old fort&rdquo;--what old fort? La Fuerza, Morro, or Cabana?<lb/>
+Where?</p>
+<p>p.32--Do you have a copy of Circular 9? May I see the whole circular?</p>
+<pb n="2" id="f06411002"/>
+<p>2</p>
+<p>p.34--Major Echeverria is still a shadowy figure in my mind. Just who was he and<lb/>
+what did he do then and later? You recall that according to the &ldquo;day-book&rdquo;<lb/>
+of Doctor Rojas he was apparently a &ldquo;contact-man&rdquo; in the negotiations for<lb/>
+placing Camp Lazear on the San Jose Farm. What connection did he have with<lb/>
+Reed, Agramonte, etc?</p>
+<p>p.35--Was Ames always a contract surgeon? Was he ever commissioned in the volunteer<lb/>
+or regular army? (See answer later).<lb/>
+<add>See <hi>p 7 miscellaneous questions</hi></add></p>
+<p>p.36--Finlay's visit to you: How much &ldquo;missionary work&rdquo; was Finlay doing?<lb/>
+According to Lampson's book, Finlay button-holed almost every newcomer,<lb/>
+certainly the important American officers, to sell them his theory. How<lb/>
+correct?</p>
+<p>p.37--Did you discuss Finlay's reprint and theory with any Cuban doctors or with<lb/>
+any of your medical superiors--Gorgas, Kean, Reed, etc.--prior to the estab-<lb/>
+lishment of the yellow fever board? If so, what was their reaction?</p>
+<p>p.40--Reed's interest in the case of Private Smith: How much was Reed <hi>then</hi> inter-<lb/>
+ested in Finlay's theory? Did Reed meet Finlay then (May, 1899) or not until<lb/>
+June, 1900?</p>
+<p>p.40-41--Wasn't one of these visits of Reed (May or July, 1899) in regard to<lb/>
+electrozone? (No. The electrozone trip was March, 1900).</p>
+<p>p.42--Which &ldquo;fort&rdquo; (&ldquo;barracks of the fort&rdquo;)? As I understand it Morro and Cabana<lb/>
+were different forts. Correct?</p>
+<p>p.44--&ldquo;East of the post&rdquo;--what post?</p>
+<p>p.44--Was there anything at Camp Columbia prior to August, 1899?</p>
+<p>p.45--Please tell me in confidence what Colonel Baldwin was like? I will not quote<lb/>
+you. On page VIII Teneral Kean calls him a &ldquo;parlous person.&rdquo;</p>
+<p>p.46--Was the hospital C. O. always the same as the Post Surgeon?</p>
+<p>p.46--Were the Post Surgeon and the Hospital Detachment Commander the same or<lb/>
+different officers?</p>
+<p>p.47--Doctor Saleeby lived &ldquo;in the main post.&rdquo; Where? In the main part of Camp<lb/>
+Columbia?</p>
+<p>p.48--Had Pinto been in the army during the war? As officer or contract surgeon?</p>
+<p>p.48--What were &ldquo;Reed troughs?&rdquo;</p>
+<p>p.49--Who were the &ldquo;four to eight nurses under contract&rdquo;? Lambert has mentioned<lb/>
+four women (Mrs. Warner, Miss Lewis, Lottie McCord, and Mrs. Gillen), some<lb/>
+of whom were <hi>not</hi> trained nurses, I believe. Had they all served in the war?</p>
+<p>p.50--Most of the Second Division Hospital had been in tents, Hadn't it?</p>
+<p>Fig. 10 and p. 51--You identify huts &cross;115-116 as &ldquo;two-bed huts.&rdquo; According to<lb/>
+Lambert they were three-bed huts.<lb/>
+<add>but I think never more than<lb/>
+2 patients in each one.</add></p>
+<pb n="3" id="f06411003"/>
+<p><add>What<lb/>
+is this?</add></p>
+<p><figure entity="t06411003"></figure> This was an old watch tower<lb/>
+and fort near the beach and east<lb/>
+of La Playa about 100 yds. I do not<lb/>
+know its history.</p>
+<p>no longer here (Mar 1948)<lb/>
+PSH<lb/>
+</p>
+<pb n="4" id="f06411004"/>
+<p>3</p>
+<p>Fig. 10 (also Fig. 9, p. 45)--In Building 108 which rooms of each quarters were<lb/>
+the bedrooms and which the studies? Did the &ldquo;north&rdquo; row of rooms comprise<lb/>
+the officers' bedrooms or studies?</p>
+<p>P.52--&ldquo;The small office in the hospital&rdquo;--in what numbered building?</p>
+<p>p.52--Were there any <hi>buildings</hi>, homes, bath houses, etc. at La Playa in 1899-<lb/>
+1900? Did you walk or ride to La Playa? Was the railroad in use? Could<lb/>
+trains get under the little bridge that crossed the cut? If trains were<lb/>
+running along that spur between the yellow fever huts and the post-hospital<lb/>
+how often did they run? Did they run all night?<lb/>
+<add>&larr;</add></p>
+<p>p.53--The sick during 1899 were cared for in &ldquo;tent wards.&rdquo; Where and why? Why<lb/>
+not in the wooden buildings mentioned on Page, 50?</p>
+<p>p.54--When were what buildings built in Fig. 10?</p>
+<p>p.54--&ldquo;A few wooden shacks&rdquo;--(In Fig. 10 there are 8; 113-120; why do you only<lb/>
+mention six on page 54; 115-120?) Lambert insists there were only four<lb/>
+small yellow fever huts (113-116) and says he ought to know as he spent<lb/>
+months there (see later).<lb/>
+<add>See p. 3 <hi>miscellaneous</hi> questions also p 13</add></p>
+<p>p.55--When Lambert visited me this summer he got me all confused as to who was<lb/>
+treated in what numbered huts. He now disagress notably with the data on<lb/>
+page 55. Lambert now insists that Carroll, Dean, and Lazear were cared for<lb/>
+in the main hospital (&ldquo;officers' ward&rdquo;) and that Lazear died there. He says<lb/>
+the two buildings (115-116; <hi>not</hi> 117-118 were 10 &times; 16 feet and that 113-114<lb/>
+(not 115-116) were 7 &times; 9 feet. See later.<lb/>
+<add>See p. 5 <hi>miscellaneous</hi> questions espec p 8</add></p>
+<p>p.59--When you became Post Surgeon on September, 1899 did you also become C. O.<lb/>
+of the hospital? I suppose so.<lb/>
+<add>yes</add></p>
+<p>p.60--Could you without trouble name the medical officers (tabulated) in Cuba on<lb/>
+June 30, 1901? There couldn't have been many in Cuba aside from those in <lb/>
+Havana and at Camp Columbia.</p>
+<p>p.60--Where was Gorgas' office?</p>
+<p>p.61--What former departments were consolidated to make up the Department of Western<lb/>
+Cuba?</p>
+<p>p.64--Who was the Chief Quartermaster?</p>
+<p>p.69--Where had Stark been since page 40?</p>
+<p>p.70--Major Brown occupied &ldquo;the quarters&rdquo;--what quarters?</p>
+<p>p.73--The Cubans called it &ldquo;a yellow fever year.&rdquo; Where did you find this reference?<lb/>
+I am anxious to know. <add>Gen. Lee mentions at on p 10 of his annual Report<lb/>
+Aug 23, 1900 (which you gave me). I wonder where he got it.<lb/>
+you gave me this report</add></p>
+<p>p.73--Lazear also &ldquo;had time for research with special reference to yellow fever.&rdquo;<lb/>
+Important. What kind of research--with mosquitoes at this early stage? Can<lb/>
+you amplify?</p>
+<pb n="5" id="f06411005"/>
+<p>4</p>
+<p>p.73--According to my information Mrs. Lazear came with Doctor Lazear in February,<lb/>
+1900 on his first assignment. Is this your recollection?</p>
+<p>p.73--&ldquo;Numerous sightseeing trips.&rdquo; In one of Lazear's letters to his mother<lb/>
+about this time he mentioned going with Reed and others to visit Morro, etc.<lb/>
+Does Reed happen to be in the <hi>snapshots of yours</hi>? See later.<lb/>
+<add><hi>See # 8</hi> miscellaneous questions</add></p>
+<p>p.74--Did you have only two commissioned officers at the hospital on May 1?<lb/>
+(You and Stark?)</p>
+<p>p.75--How about the &ldquo;electrozone scandal&rdquo;?<lb/>
+<add>See also my query on p 27</add></p>
+<p>p.75--Reed's interest in Lazear. You remember Mrs. Lazear's story to me about the<lb/>
+conversation Lazear had with Reed in Lazear's quarters when Lazear said<lb/>
+&ldquo;Mabel, I have a convert to the mosquito theory. Doctor Reed also believes<lb/>
+in it&rdquo; (or words to that effect). Do you think Lazear's and Reed's tentative<lb/>
+acceptance of the Finlay theory were independently arrived at or did Lazear<lb/>
+&ldquo;convert&rdquo; Reed in March, 1900?</p>
+<p>p.76--&ldquo;With all of the visiting physicians&rdquo;--who; why were they visiting?</p>
+<p>p.76--How did Reed react to Finlay's theory? Did Finlay visit you all at the<lb/>
+hospital at that time or often? Did he try personally to interest or convince<lb/>
+Reed early in 1900 before the yellow fever board was actually formed? Did<lb/>
+Reed visit Finlay prior to the request for mosquito larvae and eggs?</p>
+<p>p.77--As I have told you Sternberg's letter of May 23, 1900 to the A. C. recommended<lb/>
+a medical board to pursue &ldquo;scientific investigations with reference to the<lb/>
+infectious diseases prevalent on the island of Cuba, and especially of yellow<lb/>
+fever.&rdquo; (I have a photograph of this original letter). The last five words<lb/>
+are crossed out and a pencilled footnote says &ldquo;stricken from S. O. at the<lb/>
+request of Mr. Jones, C. Clerk Surg. Genl's Office. J. W. P.&rdquo; (or D?). (I<lb/>
+imagine Jones was Chief Clerk.) I have never been able to find out just why<lb/>
+these important words were deleted. In any event they are not appear in<lb/>
+S. O. No. 122 A. G. O. Washington May 24, 1900.</p>
+<p>It is not surprising that the authors of the Sternberg biography insisted<lb/>
+(rightly and proudly) to use Sternbers's letter with the important words included<lb/>
+rather than to refer to the wording of S. O. 122.</p>
+<p>There is another mystery connected with this order. When Hemmeter wrote<lb/>
+his laudatory articles about Carroll he referred to (and printed) <hi>not</hi> S. O. 122<lb/>
+but S. O. No. 22 (also dated May 24, 1900) which strangely recommends only three<lb/>
+members to the board (Reed, Carroll, Lazear) and omits Agramonte's name. (See<lb/>
+Hemmeter's article, page 159 in Janus 1908; also Hemmeter's book, &ldquo;Master Minds of<lb/>
+Medicine,&rdquo; page 320, 1927).</p>
+<p>I must check with the A. G. O. and see whether there was an S. O. 22 pub-<lb/>
+lished as cited by Hemmeter (which ant<del>i</del><add>e</add>dated S. O. 122) or whether Hemmeter received<lb/>
+a copy of the order &cross;122 with the number erroneously given and the name of Agramonte<lb/>
+erroneously omitted. Do you know anything about these two mysteries (omissions of<lb/>
+the phrase about yellow fever and omission of Agramonte's name)?</p>
+<pb n="6" id="f06411006"/>
+<p>5</p>
+<p>p.78--Gorgas was made Sanitary Officer. Was this a higher position than that of<lb/>
+Chief Surgeon (which he had been) or was this a &ldquo;demotion&rdquo; or &ldquo;come down&rdquo;?<lb/>
+If so, why? Just when (what months) did Gorgas &ldquo;scour Havana?&rdquo;</p>
+<p>p.78--&ldquo;Thirty-two cases with eight deaths. Three cases in soldiers.&rdquo; Were there<lb/>
+three soldiers and 29 civilians affected? What civilians? Civilian employees<lb/>
+in Quemados; townsfolk?</p>
+<p>p.79--Just when was the &ldquo;post yellow fever hospital&rdquo; (the huts) opened?<lb/>
+<add>Some time in 1899?</add></p>
+<p>p.79--&ldquo;The infection---was traced to Quemados <hi>where the soldiers worked</hi>.&rdquo; Where?<lb/>
+In Lee's headquarters? Doing what?</p>
+<p>p.79--The &ldquo;Quemados patients&rdquo;--who? Army personnel?</p>
+<p>p.79--&ldquo;One nurse and one man&rdquo; died. Who?</p>
+<p>p.80--As I have said, Lambert does not (now) agree with you as to where Kean,<lb/>
+Carroll, and Lazear were cared for. As per my comment re p. 55 he insists<lb/>
+that Kean was cared for in a hut but Carroll, Dean, and Lazear were cared<lb/>
+for in the &ldquo;officers' ward&rdquo; (did you have one?) of the main hospital. But<lb/>
+if so, why would Kean be cared for in a hut and the others in the main hos-<lb/>
+pital? Change of policy? However Lambert admits he did <hi>not</hi> take care of<lb/>
+Carroll and Lazear so Lambert presumably could be wrong (and undoubtedly is).<lb/>
+<add>See pages 8-14, my miscellaneous questions to you</add></p>
+<p>p.82--&ldquo;Practically no supporters.&rdquo; Do you recall the attitudes of Cuiteras,<lb/>
+Albertini, etc.? Did you recall any specific conversations about the current<lb/>
+attitude on Finlay's theory?</p>
+<p>p.83--Was the board created by Civil Order &cross;5, created independently of the yellow<lb/>
+fever board (although it later helped the latter) or was it formed to correlate<lb/>
+its functions specifically with Reed's Board?</p>
+<p><add>&cross;</add>p.84--What is an Ayuntamiento--a burghess?</p>
+<p>p.84--&ldquo;Three dollar consultation fees.&rdquo; I have Finlay's monthly list of these<lb/>
+consultations. Later Gorgas (who apparently acted at first as an additional<lb/>
+unpaid consultant) requested that his name be added officially to the list<lb/>
+of consultants and that he be paid the usual fees. Indeed, I think he put<lb/>
+in a claim for back fees.</p>
+<p>p.85--Among the U. S. civilians and soldiers, their families etc. did the 1900<lb/>
+spring epidemic produce quiet fear, panic, etc.?</p>
+<p>p.86--Whom did Reed displace in the B. O. Q.?</p>
+<p>p.88--Reed's letter indicates that at this early date ( )he was not too<lb/>
+impressed with Finlay's work as he was pushing the bacteriologic work on Y. F.<lb/>
+Also he had not yet settled down to concentrate on Y. F.; he was also studying<lb/>
+malaria. Comment?</p>
+<pb n="7" id="f06411007"/>
+<p>In Hemmetors book &ldquo;Master Minds of Medicine&rdquo;<lb/>
+chapter XVI concerns H. R. Carter (p 337)</p>
+<p>On p 339 it says &ldquo;Lazear first spoke to<lb/>
+Dr Carter of <unclear>to</unclear> implying a living host<lb/>
+<unclear>&rarr;</unclear><lb/>
+I question this, AET</p>
+<p>meaning period of delay in occurance<lb/>
+of later cases of YF</p>
+<p>In Agramonte letter (Jul 3, <hi>1908</hi>) to Kean protesting<lb/>
+the injustice done him (by Kean) in the Senate Report<lb/>
+(Calender no. 462) on p 5 Agramonte wrote:<lb/>
+&ldquo;The enclosed Report, in that part cited from<lb/>
+Senate Document no. 118, Fifty Seventh Congress, second<lb/>
+session goes on to say that Reed's attention was called<lb/>
+to Carter's report of the <unclear>ormand</unclear>, miss, cases <hi>before</hi> the<lb/>
+first cases of the Board; the fact is that Reed's and<lb/>
+the Board's attention was attracted to Carter's<lb/>
+paper at the time <hi rend="underline">we</hi> were preparing the <add>while A. was in N.Y.</add> Preliminary<lb/>
+note and not before&rdquo;<lb/>
+<add>notice <hi>the date</hi> all Bunk A.E.T.</add></p>
+<p>Knowing of Agramonte's inaccuracies I would not<lb/>
+accept his statement alone but coupled with the statement<lb/>
+in Hemmeters book I suspect that it was <hi>Lazear<lb/>
+who first appreciated the significance of Carters work?</hi><lb/>
+&amp; perhaps it was he who called it to Reed's attention?<lb/>
+However Agramonte is wrong when he says that Reed didnt<lb/>
+know about Carters paper until he was writing the Prelim. Report<lb/>
+in Oct 1900 for in the Prelim. Report Reed wrote (Sen Doc p 59)<lb/>
+that he had discussed Carters paper with Durham &amp; Myers<lb/>
+who visited Reed about Jul 20, 1900 (your book p 90). according to<lb/>
+Reeds letter to his wife Durham &amp; Myers arrived Jul 19 &ldquo;for 10 days&rdquo;</p>
+<pb n="8" id="f06411008"/>
+<p>6</p>
+<p>p.88--&ldquo;Our baggage did not arrive on the Sedgwick.&rdquo; Would this suggest to you<lb/>
+that Reed had gone to Cuba on the Sedgwick (but not his baggage)?</p>
+<p>p.89--Was this Reed's first conversation with Finlay about his theory?</p>
+<p>p.89--&ldquo;Reed not interested in the mosquito theory at this time?&rdquo; I believe he was<lb/>
+interested but not yet impressed (see also p. 103). There is much to support<lb/>
+my belief, especially Lazear's letters to his wife.</p>
+<p>p.90--Why accept Sternberg's belated &ldquo;interpretation&rdquo; of how <hi>definitely</hi> he had<lb/>
+influenced Reed in view of Reed's remarks to Kean (unpublished, but precisely<lb/>
+recalled by Kean) and to Howard (published twice by Howard) to the effect<lb/>
+that Sternberg had <hi>not</hi> recommended the Finlay theory?<lb/>
+<add>See #1 miscellaneous questions</add></p>
+<p><add>See p. 94 <add>&amp; p 107</add> S.D. also. A.E.T.</add></p>
+<p>p.91--Who brought Carter's paper to Reed's attention and when?<lb/>
+<add>See Kean's answer p 5 question 15 Kean interview Nov 19. 1946</add></p>
+<p>p.92--Can you tell me more about Neate? Didn't he later become a &ldquo;doctor&rdquo;<lb/>
+(physician or veterinarian?) (Yes, see p. 94). Any survivors?</p>
+<p>p.92--Had Neate previously been N. C. O. in Reed's Washington lab.?</p>
+<p>p.93--&ldquo;Ten or twelve doctors in the mosquito room&rdquo; (Gorgas' story). Which mosquito<lb/>
+room--the one in Reed's Camp Columbia lab. or the one at Camp Lazear?</p>
+<p>p.94--How many were experimentally bitten by Pungens? Were Pungens mosquitoes in-<lb/>
+fected at various times? Why didn't Reed report these controls with Pungens?<lb/>
+Not enough controls? As a matter of fact Reed had little right to conclude<lb/>
+that the Aedes was the only mosquito capable of conveying Y. F. He didn't<lb/>
+really study other species. Actually Reed made no such exclusive conclusion<lb/>
+(see conclusion %1, Sen. Doc. 61, p. 87 and p. 118).</p>
+<p><unclear>[unclear]</unclear> p.95--I believe that Reed's visit to Pinar del Rio changed his attitude on Finlay's<lb/>
+theory from one of moderate disbelieving interest to one of willingness to<lb/>
+study and possibly accept it. Do you agree?</p>
+<p>p.96--There are either two anecdotes on the Stark boys or two different versions.<lb/>
+The one is as you give it here; the other is that they ran off with some of<lb/>
+Carroll's specimens, hid under the front porch and had to be bribed to come<lb/>
+out and surrender the specimens. Had you heard that one? Who told you the<lb/>
+one you cite?</p>
+<p>p.100-101--Just what trouble did the officers get into? More details?</p>
+<p>p.101--You and Reed sailed August 2. As you know Kelly dated Reed's departure as<lb/>
+August 4 and Lampson August 5. You of course are correct if your date is<lb/>
+from your diary.</p>
+<p>p.104--&ldquo;No volunteers at that time to feed them.&rdquo; This excuse doesn't seem valid<lb/>
+to me. If there were no non-immune volunteers to feed them why didn't they<lb/>
+merely feed them on <hi>immunes</hi>? (to keep the mosquitoes alive).</p>
+<p>p.104--Reed got permission from Wood. Do you know any details in addition to the<lb/>
+story of Kean? What evidence that Sternberg <hi>at this time</hi> approved human ex-<lb/>
+periments--<hi>prior</hi> to Reed's August 1900 visit to Washington?</p>
+<pb n="9" id="f06411009"/>
+<p>Ive found a cable from Sternberg to Kean<lb/>
+&ldquo;If Lazear seriously ill see that Carroll<lb/>
+gets his notes on YF investigations.&rdquo;</p>
+<p>A very important <hi>find</hi>. While I don't<lb/>
+remember the Cablegram, and probably never<lb/>
+knew about it, I feel after thinking about<lb/>
+this that Kean did tell me to get <del>any</del><lb/>
+<del>of</del> all of Lazear's papers. Anyway that<lb/>
+was done.</p>
+<p>AET</p>
+<pb n="10" id="f06411010"/>
+<p>p.106--Why did you report to Colonel Havard; what position did he then hold?<lb/>
+Where did you stay in Havana the night of September 17 before going to<lb/>
+Camp C. on September 18? Just curious.</p>
+<p>p.108--How many of you generally ate together at the Post Hospital officers mess?<lb/>
+How many tables? How many at a table? Who generally ate together?</p>
+<p>p.109--Lazear missed &ldquo;several meals.&rdquo; Consecutive meals? How could he miss sev-<lb/>
+eral meals and not be taken in hand promptly after missing one or two meals?</p>
+<p>p.109--&ldquo;Signs of distress&rdquo;--what signs; symptoms?</p>
+<p>p.109--Why was Lambert &ldquo;not available&rdquo;?<lb/>
+<add>See p 13 &ldquo;miscellaneous Questions&rdquo;<lb/>
+next to last paragraph</add></p>
+<p>Lazear's illness and death are of course one of the highlights of the<lb/>
+story. I would appreciate it greatly if you could reconstruct your visits to<lb/>
+Lazear, your probable conversations. Was he in bed undressed or lying on the bed<lb/>
+sick but dressed when you first called on him? &ldquo;He continued to work&rdquo;--where?<lb/>
+In the lab. or in his room? Did his room give evidence that he'd been writing notes<lb/>
+in his (lost) pocket note-book? Had he been trying to prepare any simple meals<lb/>
+in his own quarters? Any comments about notifying his wife that he was ill? (She<lb/>
+didn't even know he was sick till she received the telegram of his death).</p>
+<p>Could you please concentrate on these scenes and try to cloak my bare<lb/>
+facts with more details?</p>
+<p>p.110--Lazear's notes were &ldquo;<hi>secured</hi>.&rdquo; Actually by whom? Who got them from his<lb/>
+room? Why took care of them? Did you keep them until Reed arrived and<lb/>
+give them to him?</p>
+<p>p.110--Please tell me more details regarding the afternoon and evening of September<lb/>
+25, 1900. Did you see Lazear several times that day? Did Ames? Were there the<lb/>
+usual pre-mortem consultations and hopeless last-minute medical treatments? What<lb/>
+was the tenor of the officer's quarters, the mess-hall conversation? Where were<lb/>
+you when Lazear died? Was Lazear alone with a nurse when he died? Was Ames with<lb/>
+him? Who exactly notified you that Lazear was dead and what time? How did you get<lb/>
+the news to Kean? Did you phone him or go to see him? How did he probably<lb/>
+notify Washington and Mrs. Lazear (see his interview with me November 20, 1946).<lb/>
+Do you recall why Kean sent the wire in his name and why it wasn't sent in Havard's<lb/>
+name or through the Havana office, instead of the Quemados Headquarters? Do you<lb/>
+recall how the word was gotten to Mrs. Lazear (who wasn't at her Baltimore home<lb/>
+but in Boston)? Was Lazear's body embalmed or wasn't this done? I don't suppose<lb/>
+it lay &ldquo;in state&rdquo; anywhere. Where did the funeral procession start from?</p>
+<p>p.110--How and where did Carroll see Lazear while Lazear was ill? Wasn't Carroll<lb/>
+too sick (in quarters?) to see Lazear? (Carroll's family were not in Cuba were they?<lb/>
+He was writing his wife at home. See the Hemmeter papers). Would Carroll actually<lb/>
+be going to visit Lazear in Building 118?</p>
+<p>p.111--Baldwin &ldquo;graciously consented.&rdquo; He could be gracious? Do you recall the<lb/>
+tenor of your conversation with Baldwin?</p>
+<p>p.112--I assume the flag was draped on the coffin until the last moment. Then<lb/>
+what was done with it? Ultimate use?</p>
+<pb n="11" id="f06411011"/>
+<p>In Gen Keans lecture (May 2, <hi>1910</hi> &amp; May 22, <hi>1912</hi>) before<lb/>
+Army Med. School on &ldquo;Sanitary Work in Cuba - First<lb/>
+intervention&rdquo; (unpublished; I have a copy) Kean<lb/>
+says on p 7 &ldquo;I happened to be in Matanazes on Oct 3<lb/>
+when the transport came into port with Reed on board and I<lb/>
+went out to see him. It was there that <hi>I</hi> heard for the first<lb/>
+time the true story of XY which had been kept by <hi>Lazear</hi> a<lb/>
+close secret. <hi>He</hi> wrote it to Reed but it is my impression<lb/>
+that he told no one at Camp Columbia and I, altho A. Surgeon<lb/>
+of the Dept and living only half a mile from the hospital<lb/>
+knew nothing of the facts in the case&rdquo;</p>
+<p>In Hemmeters book (Master Minds of Medicine 1927) chapter XV<lb/>
+are several letters from Reed to Carroll while Carroll was ill &amp;<lb/>
+later convalescing. Lazear wrote Reed Sept 2 telling Reed Carroll had<lb/>
+YF but telling him nothing about the mosquito. Reeds letters to Carroll<lb/>
+dated Sept 7 (2 letters), &amp; Sept 19 indicate clearly Reed had no knowledge<lb/>
+of Lazears experiments on Carroll or Dean. But Carrolls letter of<lb/>
+Sept 29, 1900 to his wife mentions receiving 3 letters from Reed (not<lb/>
+given) Which indicates by now Reed had heard the source of<lb/>
+infection of both Carroll &amp; Lazear. Therefore Reed <hi>did</hi> know<lb/>
+something about Lazears work just before or after Lazears death &amp;</p>
+<pb n="12" id="f06411012"/>
+<p>8</p>
+<p>p.112--Who was the Post Chaplain and why couldn't he officiate?</p>
+<p>p.112--What time in the afternoon was the funeral?</p>
+<p>p.112--How many ambulances?</p>
+<p>p.112--&ldquo;Full military honors.&rdquo; What honors? Taps? Rifle salute? Any flowers?<lb/>
+Did minister McPherson use the Presbyterian burial service (I suppose so)<lb/>
+or did he use a military (non-sectarian) service? Did the army chaplains<lb/>
+have such a service in 1900?</p>
+<p>p.113--The Commanding Officer's anxiety. I assume that during your conversation<lb/>
+with him you (who knew the source of the three cases of Y. F. didn't you?)<lb/>
+kept a straight face and told him nothing. Were you instructed to do so<lb/>
+by Kean or on your own initiative? Were you worried lest Baldwin suspect<lb/>
+the true source of the &ldquo;epidemic&rdquo;? Did he ever find out?</p>
+<p>p.113--The &ldquo;anxiety&rdquo;--how expressed?</p>
+<p>p.114--You recall Lambert's idea that Lazear inoculated himself not by a mosquito<lb/>
+but by an injection of infected blood from Dean. Lambert thinks this because<lb/>
+Lazear got sick so soon, his incubation period being too quick for mosquito in-<lb/>
+oculation, so fast &ldquo;it must have been from a blood injection.&rdquo; Did you ever hear<lb/>
+this idea? Where could Lambert have gotten it? Sounds very doubtful!</p>
+<p>p.115--Reed learned of Lazear's death from Kean, not H<del><unclear>ow</unclear></del><add>av</add>ard according to Kean he <add>&check;</add><lb/>
+went alone to see Reed and does not think H<del><unclear>ow</unclear></del><add>av</add>ard went to Reed's ship but stayed ashore.<lb/>
+Comment?</p>
+<p>p.115--Reed had &ldquo;many questions to ask.&rdquo; Please try to recall some of them. Did<lb/>
+Neate know much?</p>
+<p>p.116--In Washington Reed had &ldquo;obtained some information about the cases of Carroll<lb/>
+and the soldier (XY); also of Lazear's illness&rdquo;. You infer that Reed already<lb/>
+knew that the cases of Carroll and XY were successful experiments. Isn't this<lb/>
+inference wrong? According to <hi>Lazear's letters to his wife didn't Lazear &ldquo;tell</hi><lb/>
+nobody&rdquo; (not even Reed) the source of the Y. F. in the first two successful cases?<lb/>
+Therefore although Reed had heard of Carroll's illness what evidence do we have<lb/>
+that Reed knew its source before he returned to Cuba? Reed's information received<lb/>
+in Washington must have been meager indeed. Perhaps he learned much from Kean at<lb/>
+Matanzas October 3.<lb/>
+No. Im wrong. See Note<lb/>
+Date important</p>
+<p>p.116--Guiteras had been unconvinced. Do you recall any statements of Guiteras?<lb/>
+I plan to look up what Guiteras might have written prior to 1900 about the<lb/>
+cause of Y. F. Do you know whether he ever wrote on it prior to 1900?</p>
+<p>p.116--&ldquo;Lazear had studied mosquitoes in Italy.&rdquo; Not according to the diary of<lb/>
+his mother who was with him. When in Italy Lazear was merely a sightseer.<lb/>
+I have found no evidence that Lazear studied mosquitoes in Italy. Where<lb/>
+did you get this reference? (From Agramonte--Senate Doc. p 25, I suppose.<lb/>
+But I'm sure Agramonte is wrong). Mrs. Lazear had no such recollection.<lb/>
+Evidently about Sept 20 or a little later x aet</p>
+<p>before Reed returned to Cuba. (Who informed Reed ??? Kean didn't<lb/>
+He didn't yet know it until Reed told him on Oct 3 about<lb/>
+Carroll and XY &amp; presumably also Lazear.</p>
+<pb n="13" id="f06411013"/>
+<p>9</p>
+<p>p.117--How do you know Lazear didn't work late at night? <del>I can't recall who wrote<lb/>
+that, do you?</del> Couldn't Lazear have been working on his <hi>notes</hi> at night?<lb/>
+That was the inference I got.<lb/>
+<add>See Mrs Warners note in Kelly's book p 228</add></p>
+<p>p.117--When did Andrus come from Guanajay (See p. 99)?</p>
+<p>p.120--If Dean had been b<del>e</del><add>i</add>tten three times instead of once wouldn't he have said<lb/>
+so in later newspaper interviews? I recall no such statement by Dean.<lb/>
+I have one or two clippings.</p>
+<p>p.121--&ldquo;To the barracks to see Dean.&rdquo; What barracks? In the main part of Camp<lb/>
+Columbia? About where in Fig. 8 next to p. 43?</p>
+<p>p.122--&ldquo;Pinto left immediately.&rdquo; Why? Wasn't he interested enough to listen in?<lb/>
+Wasn't he invited to listen in? Did Reed &ldquo;dismiss&rdquo; Pinto?</p>
+<p>p.122--&ldquo;I withdrew.&rdquo; Why?</p>
+<p>p.123--Can you recall any more details about the notations in Lazear's note-book?<lb/>
+Just who started the &ldquo;insurance story&rdquo;? Reed? Carroll? Where did the idea<lb/>
+<hi>originate</hi>? Mrs. Lazear told me he had no insurance.</p>
+<p>p.130--Carroll still very ill. What symptoms? Bedridden? Where quartered?</p>
+<p>p.134--The chief copy of the final draft of this Preliminary note of course was<lb/>
+sent to the editor of the Philadelphia Med. J. Undoubtedly Reed kept a<lb/>
+copy. I'll bet this historical copy is in George Carroll's possession!<lb/>
+I wonder what were the original conclusions 1 and 2 which were &ldquo;to be erased.&rdquo;</p>
+<p>p.135--Reed returned early in November. Kean says it was October 28.</p>
+<p>p.135--&ldquo;His first move was to see General Wood.&rdquo; On what date did you and Reed<lb/>
+visit Wood?</p>
+<p>p.137--I thought Cartwright, Peterson, and Page were on Lee's staff at Quemados.<lb/>
+I see they were <hi>on Wood's staff</hi> in Havana. Correct?</p>
+<p>p.140--You state that the two wooden buildings at Camp Lazear were built by the<lb/>
+Quartermaster Department. I am anxious to have this reference. Is there<lb/>
+any Q. M. Department record of this? I'd love to find it.</p>
+<p>p.141--&ldquo;Tongue and grooved lumbar was used.&rdquo; I assume this was American lumbar<lb/>
+supplied by the Q. M. C. as I understand Cubans didn't have such lumbar.<lb/>
+Even so Kean bought for Reed some (additional?) lumbar as shown by the old<lb/>
+check book (for the Camp Lazear fund) which Kean found last June and gave<lb/>
+to me. Many interesting items of expense listed therein.</p>
+<p>p.144--&ldquo;Several of us.&rdquo; Who?</p>
+<p>p.144--The quartermaster warehouses (what buildings on figure 12, page 57)?</p>
+<p>p.145--Finlay supplied the mosquito eggs for the Board's first work. Didn't someone<lb/>
+(you?) tell me that actually these eggs died or hatched and turned out not</p>
+<pb n="14" id="f06411014"/>
+<p>I see that in your original list you did have #14 listed as Jernegan.<lb/>
+Later Andrus wrote you that he thought #14 was Kreisley<lb/>
+Andrus stated that he had a photo of Jernegan which he had<lb/>
+sent Kellogg for Cornwalls painting &amp; Andrus did not<lb/>
+believe #14 resembled the photo of Jernegan</p>
+<p>Actually Andrus sent Kellogg the same photo of<lb/>
+Jernegan as that published by Peabody. (Kellogg &amp; Cornwell<lb/>
+gave me all their miscellaneous photos &amp; data after Cornwell<lb/>
+finished the painting. I have that photo of Jernegan. It is<lb/>
+the Peabody photo &amp; to my mind #14 <hi>is</hi> Jernegan<lb/>
+as Moran (&amp; your original advisor, whoever he was)<lb/>
+stated</p>
+<pb n="15" id="f06411015"/>
+<p>10</p>
+<p>to be the proper species. None were actually used and Lazear had to get<lb/>
+his first mosquitoes otherwise. Is this correct? I wonder who told me<lb/>
+this? It's somewhere among my 20 files on Y. F.!</p>
+<p>p.146--About when had Pinto returned after taking Carroll home (see p. 130)?</p>
+<p>p.147--Moran still <del><unclear>[unclear]</unclear></del><add>Vigorously</add> insists he volunteered before Kissinger did. He<lb/>
+is such an honest man. I have found his data infinitely more accurate than<lb/>
+Kissingers. I can't help but give his repeated statement enormous weight.</p>
+<p>p.148--I wonder why Jernegan's mosquito tests failed.</p>
+<p>p.148--&ldquo;<hi>Some of them</hi> even refused the gratuity.&rdquo; Only Moran constantly refused.<lb/>
+Kissinger did at first, later relented and received a watch and the balance<lb/>
+of the reward in money paid him by Kean.</p>
+<p>p.148--&ldquo;Reed would not ask our enlisted men to volunteer for the mosquito bites.&rdquo;<lb/>
+Why not? Who did? Someone did.</p>
+<p>p.151--What &ldquo;unforseen circumstances&rdquo;?</p>
+<p>p.152--&ldquo;To interfere with his plans.&rdquo; What plans?</p>
+<p>p.152--Your discussion with Reed. <hi>Please</hi> try to reconstruct your probably con-<lb/>
+versation or remembered bits of it.</p>
+<p>p.152--Carroll <hi>obviously</hi> still unable to work. Obvious in what way?</p>
+<p>p.153--I wish I could find the name of the courteous Spanish Consul. Do you know<lb/>
+it? Sometime I may write the Spanish Consulate in Havana.<lb/>
+&larr;</p>
+<p>p.154--Moran insists &cross; 14 (Fig. 24) is Jernegan. I believe it looks like <del>a newspaper</del><add>Peabody's</add><lb/>
+photo I have of Jernegan. Comment?<lb/>
+See p 17 Peabody reprint (Sent herewith)</p>
+<p>p.154--This detachment furnished <hi>most</hi> of the volunteers. From whence the others?<lb/>
+I guess it tells in Sen. Doc. 61, pp. 27-29 but data incomplete.</p>
+<p>p.155--Stark returned unexpectedly. When?</p>
+<p>p.157--&ldquo;Beautiful specimens&rdquo;--eggs?</p>
+<p>p.161--References to Doctors Bango, Sanches, and Moas?</p>
+<p>p.161--&ldquo;On December 11 one of the members---.&rdquo; Who?</p>
+<p>p.166--Reed was not keen to subject men to the risk of blood injections. Did Reed<lb/>
+suspect that Lazear had done this to himself (as Lambert suggests) and that<lb/>
+this method was more dangerous than the mosquito bites?</p>
+<p>p.173--&ldquo;Another non-immune member then volunteered.&rdquo; Who?<lb/>
+<add>Andrus.</add></p>
+<p>p.174--The non-immune changed his mind. Who? Why?</p>
+<p>p.177--Who were the Mexican delegates?</p>
+<pb n="16" id="f06411016"/>
+<p>11</p>
+<p>p.179--Goldwater should be Goldberger. I <del>haven't</del>found the original reference (I<lb/>
+know Kean quotes this but without the reference.)<lb/>
+<add>Y. F Institute Bull #16<lb/>
+July 1907 p 5</add></p>
+<p>p.181--Any official record or reference to this (May, 1900) Conference between<lb/>
+Sternberg and Reed?</p>
+<p>p.185--Gorgas continued disinfection until August 15, 1901. Kean has told me<lb/>
+(and written) this but where is the official reference?</p>
+<p>p.185--Gorgas organized mosquito brigades &ldquo;sometime in March.&rdquo; Reference?</p>
+<p>p.191--Why would a starvation regime &ldquo;condition a patient to battle the Y. F. virus&rdquo;?<lb/>
+In Y. F. the liver is affected. Modern therapy of liver disease involves<lb/>
+the use of much carbohydrate fluid and vitamins. I must find out if they<lb/>
+still starve yellow fever patients. Do they?</p>
+<p>p.196--&ldquo;John Chinaman.&rdquo; A Chinese private?</p>
+<p>p.198--&ldquo;One of the nurses has been quoted&rdquo;--<del>Who? Reference?</del> <add> Lena Warner told this<lb/>
+to Dr. Kelly. See p 229 his book</add></p>
+<p>p.198--&ldquo;If anyone annoyed Reed.&rdquo; In what way? Please detail.</p>
+<p>p.201--&ldquo;He had no secrets.&rdquo; But Baldwin and the Camp personnel were kept ignorant<lb/>
+weren't they? Who told the hospital personnel to keep mum when talking<lb/>
+to the main camp personnel?</p>
+<p>p.201--About how many reprints? How long a list? In other words how rare are the<lb/>
+original reprints? (I am finally about to photostat your reprint with<lb/>
+Reed's corrections. I have kept it carefully and will mail it insured and<lb/>
+very carefully wrapped.)</p>
+<p>p.207--Who was Doctor James? You recall Lambert mentioned him.</p>
+<p>p.212--&ldquo;A junior medical officer was constantly on duty.&rdquo; Why? Not enough nurses?<lb/>
+A special consideration for Reed? Were you with Reed the night he died?<lb/>
+Were you there when Kean and Blossom called? Do you recall any conversations<lb/>
+with Reed <hi>anytime</hi> during his final illness? I do wish you could.</p>
+<p>p.221--&ldquo;Every probability that Lazear was one of the first two.&rdquo; I agree but do<lb/>
+you have any evidence but a hunch?</p>
+<p>p.223--&ldquo;By command of General Lee&rdquo;--Why not Wood?</p>
+</div1>
+</body>
+</text>
+</TEI.2>

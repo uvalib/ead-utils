@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02713001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Article: How the Army Yellow Fever Board Conducted its Experiments upon Human Beings, by Alexander N. Stark, [1903]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Stark, Alexander N.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02713001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1903-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>6 pp.</extent>
+<date value="1903-00-00">1903</date>
+<idno rend="suppress">02713001</idno>
+<title>Article: How the Army Yellow Fever Board Conducted its Experiments upon Human Beings, by Alexander N. Stark, [1903]</title>
+</bibl>
+</head>
+<p>Stark presents a paper about the measures taken by Reed and his commission to prove it was the mosquito, and not fomites, that was responsible for the spread of yellow fever. Published in The University of Virginia Alumni Bulletin, vol. 3.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1903-00-00">
+<head>Article: How the Army Yellow Fever Board Conducted its Experiments upon Human Beings, by Alexander N. Stark, [1903]</head>
+<pb n="1" id="f02713001"/>
+<p><hi rend="italic">THE ALUMNI BULLETIN</hi>.<lb/>
+23</p>
+<p>group meetings. This is more than double the number engaged in<lb/>
+this work last year. And it is confidently expected that at least<lb/>
+a hundred and twenty-five men will avail themselves of these<lb/>
+privileges next session.</p>
+<p>In addition to this, a number of the students attend the Bible<lb/>
+classes in the city Sunday Schools.</p>
+<p>It has been a source of disappointment that it was necessary to<lb/>
+omit the usual course of lectures by Prof. Noah K. Davis; but it<lb/>
+is earnestly hoped that his health will be so far restored by next<lb/>
+Fall that he can resume this work, which in past years has been of<lb/>
+such great interest and helpfulness to very many men.</p>
+<p>The Bible Study Committee is also planning for the next session<lb/>
+a series of daily scripture readings for the use of those students<lb/>
+who feel that they cannot undertake the more thorough work of the<lb/>
+regular courses.</p>
+<p>It is difficult to get the students to attend the general religious<lb/>
+gatherings in very large numbers; but it will be readily seen that<lb/>
+it is the object of the association in this department of its work to<lb/>
+give every student the opportunity of doing some regular and<lb/>
+systematic study of the Sacred Scriptures.</p>
+<p>H. M. McI.</p>
+<p>----------</p>
+<p>HOW THE ARMY YELLOW FEVER BOARD CON-<lb/>
+DUCTED ITS EXPERIMENTS UPON<lb/>
+HUMAN BEINGS.</p>
+<p>-----</p>
+<p>In the Spring of 1900, the War Department convened a board<lb/>
+of medical officers to investigate thoroughly the manner in which<lb/>
+yellow fever was transmitted from man to man, and to discover if<lb/>
+possible the infecting agent. The board was composed of Major<lb/>
+Walter Reed, Surgeon U. S. A., and Acting Assistant Surgeons<lb/>
+James Carroll, Jesse W. Lazear, and Aristides Agramonte, all<lb/>
+being thoroughly conversant with bacteriology and pathology. This<lb/>
+board made its headquarters at the post hospital at Columbia Bar-<lb/>
+racks, Cuba, situated four miles to the westward of Havana upon<lb/>
+the gulf shore. Yellow fever was epidemic at this time in Cuba,<lb/>
+and exceptionally favorable conditions obtained for investigation.</p>
+<pb n="2" id="f02713002"/>
+<p>24<lb/>
+<hi rend="italic">THE ALUMNI BULLETIN</hi>.</p>
+<p>Many theories concerning the causative agent and the method of<lb/>
+transmission had been advanced for years, shrouding the dread<lb/>
+disease in mystery, and it behooved the board to carefully enter<lb/>
+fully into each theory and confirm or reject. It may be well here,<lb/>
+in the light of that which follows, to state that one theory, the<lb/>
+transmission by a peculiar and common variety of mosquito of the<lb/>
+culex order, had been advanced in the early eighties, by a very<lb/>
+gifted physician of Havana, Dr. Carlos Finlay, and promptly re-<lb/>
+jected with ridicule by the entire profession. The world had been<lb/>
+electrified later by the discovery of Professor Giuseppe Sanarelli,<lb/>
+of Bologna, of an organism in the blood and tissues of persons dead<lb/>
+of yellow fever, which he called bacillus icteroides, and claimed<lb/>
+that it was absolute in that it stood the test of Koch's postulates.<lb/>
+The bacteriological world is rather slow to accept dogmatic asser-<lb/>
+tions unless they are supported by ample experimental evidence,<lb/>
+and only a few bacteriologists of minor fame, among them being<lb/>
+Dr. Wasdin of the Marine Hospital Service, hastened to embrace<lb/>
+the new theory as gospel. Dr. Sternberg had years before isolated<lb/>
+an organism from yellow fever cadavers for which he claimed caus-<lb/>
+ative function, and which he called bacillus X.</p>
+<p>It remained for Reed and Carroll, after years of patient labor,<lb/>
+to disprove the claims of both the above eminent bacteriologists,<lb/>
+the organism of Sternberg being finally classed in the colon group<lb/>
+of bacilli, and the organism of Sanarelli in the hog cholera group<lb/>
+of bacilli, neither being capable of causing the lesions of yellow<lb/>
+fever. Armed with this knowledge the board was fully prepared<lb/>
+to begin their labors in a scientific manner. Though the mosquito<lb/>
+theory of Dr. Finlay had been ridiculed, it was thought possible<lb/>
+in the light of the recent discoveries regarding the role of the<lb/>
+mosquito in the transmission of malaria. Calling upon Dr. Finlay<lb/>
+the board was shown the gauzy winged, silver scaled insect, for<lb/>
+which he claimed such wonderful powers for evil, and was pre-<lb/>
+sented with a glass of larv&aelig; to experiment with. Under conditions<lb/>
+approaching the natural these larv&aelig; became full blown insects of<lb/>
+both sexes. It was known that the male members did not bite, and<lb/>
+they were eliminated from further experiments. Confined in test<lb/>
+tubes plugged with cotton, the females were fed upon a case of<lb/>
+yellow fever in Las Animas hospital, they readily settling upon an<lb/>
+exposed portion of the body when the plug was withdrawn and the<lb/>
+tube inverted. The insects were kept for three days with only a<lb/>
+<pb n="3" id="f02713003"/>
+26<lb/>
+<hi rend="italic">THE ALUMNI BULLETIN</hi>.<lb/>
+immune, advantage was taken of the fact that many Spanish immi-<lb/>
+grants were weekly arriving in Havana. General Leonard Wood,<lb/>
+Governor General of Cuba, fully realizing the importance of the<lb/>
+discovery and the necessity for absolute proof, placed funds at the<lb/>
+disposal of the board for the furtherance of its plans. Selecting<lb/>
+a tract of land a great distance from any habitation, two houses<lb/>
+were erected of plain lumber brought from the United States, and<lb/>
+at a distance from these were erected the tents of the personnel<lb/>
+who were to participate in the experiments. To comprehend the<lb/>
+results attained it is necessary that the interior arrangement of<lb/>
+one house, which we will call A, should be clearly understood.<lb/>
+This house contained one room about 18x12, and this room was<lb/>
+entered at one end by a plain wooden door and at the side through<lb/>
+a vestibule. Across the center of the room was stretched a fine<lb/>
+wire screen which touched at both ceiling and floor, and precluded<lb/>
+the passage of the smallest insect. The half at the further end,<lb/>
+entered by the vestibule, which had double screen doors, was lined<lb/>
+with cheese cloth. Small ventilating windows were covered with<lb/>
+the wire netting. In the cloth lined half a bed was placed, and in<lb/>
+the other half several. It had been proven to the satisfaction of<lb/>
+the board that an infected mosquito, after feeding upon a fever<lb/>
+case eleven days or more before, could infect a non-immune. Being<lb/>
+convinced that a room was infected by these insects alone, the house<lb/>
+was prepared as stated above. It will be observed that this room<lb/>
+had a common air space, being simply divided by fine wire mesh,<lb/>
+and it stood to reason that if mosquitoes were capable of infecting<lb/>
+a room the person on the side with them and susceptible would<lb/>
+succumb, while another on the empty side would not; and con-<lb/>
+versely, that if the infection was not due to the mosquitoes, the<lb/>
+wire mesh would afford no obstacle to the passage of the infection.<lb/>
+The room being in preparation, and the mosquitoes infected and at<lb/>
+the proper stages for conveying the disease, it was only necessary<lb/>
+to introduce an individual on each side of the screen, one being in<lb/>
+the half inhabited by the mosquitoes, and the other in the half free<lb/>
+from them. Several non-immune Spanish immigrants had been<lb/>
+secured, and the necessary experimental quota was made up of<lb/>
+volunteers from the United States Army Hospital Corps Detach-<lb/>
+ment, stationed at Columbia Barracks, Cuba. The two Americans<lb/>
+to volunteer first, without thought of reward and solely in the inter-<lb/>
+est of science, were Acting Hospital Steward John J. Moran and<lb/>
+<pb n="4" id="f02713004"/>
+<hi rend="italic">THE ALUMNI BULLETIN</hi>.<lb/>
+27<lb/>
+Private J. C. Kissenger. J. C. Kissenger was the first case in-<lb/>
+fected in the experimental camp. All these men were non-immune<lb/>
+and were quarantined for ten days under the most careful surveil-<lb/>
+lance, in order to refute any charge that might be afterward<lb/>
+brought up in regard to the care necessary in control of the experi-<lb/>
+ments. Four men were allowed to sleep in the part of the room<lb/>
+not containing mosquitoes, <hi rend="italic">which had been loosed in the other half</hi>.<lb/>
+In the mosquito half Kissenger undressed, and lay for half an hour<lb/>
+on a bunk while the board watched the hungry insects fasten upon<lb/>
+him. When they had gorged to their satisfaction and risen to the<lb/>
+ceiling, where they could be easily detected on the cheese cloth,<lb/>
+Kissenger dressed, and entered a tent, where he remained till, four<lb/>
+days and some hours afterward, he came down with a marked case<lb/>
+of fever. The four men all this time were sleeping in the other<lb/>
+half and were free from any sickness. Several non-immunes were<lb/>
+passed through the mosquito chamber and all had yellow fever.<lb/>
+The four men, after a period of quarantine, were then put in one<lb/>
+at a time and removed, and in due course of time each succumbed.<lb/>
+An immune then entered the chamber and caught the remaining<lb/>
+insects, which, when added to the number of dead ones found, gave<lb/>
+the total number originally loosed. The mosquitoes having been<lb/>
+removed, a non-immune several times slept on the cot without<lb/>
+result, and to prove that he was not an immune, he was bitten by<lb/>
+an insect in a test tube, after a period of quarantine, and suc-<lb/>
+cumbed. This procedure, therefore, proved that the infection was<lb/>
+resident in the mosquito, and that a house or room was infected<lb/>
+only from the fact that it contained infected mosquitoes. While<lb/>
+these experiments were being conducted, the second house, which<lb/>
+we will call B, was in use in a different manner, but with the same<lb/>
+end in view.</p>
+<p>For years it had been claimed that the disease had been trans-<lb/>
+mitted through the medium of fomites, which term simply means<lb/>
+wearing apparel and bedding. Based on this idea, disinfection<lb/>
+and quarantine have been rigidly enforced to the great detriment<lb/>
+of commerce, and with great inconvenience to the traveling public.<lb/>
+For some months the board had collected the soiled bed clothes,<lb/>
+bedding and garments, used in Las Animas hospital and other<lb/>
+institutions for the treatment of yellow fever, and had them packed<lb/>
+in chests, just as they were taken from the bed, regardless of filth.<lb/>
+These chests were placed in house B, and several non-immunes,<lb/>
+<pb n="5" id="f02713005"/>
+28<lb/>
+<hi rend="italic">THE ALUMNI BULLETIN</hi>.<lb/>
+headed by Dr. R. P. Cooke, a graduate of the University of Vir-<lb/>
+ginia, after a period of quarantine, entered the building, unpacked<lb/>
+the chests, made up the beds, put on the indescribably filthy linen,<lb/>
+and for three weeks lived in the reeking atmosphere without result.<lb/>
+A second draft of men went through the same experience without<lb/>
+result also. Now, to prove that these men were non-immunes,<lb/>
+some, after a period of quarantine, went into the mosquito chamber<lb/>
+where more insects had been loosed, and others were bitten by test-<lb/>
+tube insects, in each instance the disease being manifested. This<lb/>
+experiment thus proved that fomites were not concerned in the<lb/>
+transmission of the disease. Nature, in her wise conservatism,<lb/>
+does not seek two roads to attain her goal, and these experiments<lb/>
+proved that the mosquito, and that insect alone, was responsible<lb/>
+for the spread of yellow fever, and that quarantine against com-<lb/>
+merce was useless. Knowing that the infecting agent was in the<lb/>
+blood sucked by the mosquito, it seemed feasible to infect a non-<lb/>
+immune with blood drawn from a yellow fever patient. To this<lb/>
+end a cubic centimeter of blood was drawn from a fever patient,<lb/>
+under strict antiseptic precautions, and injected beneath the skin<lb/>
+of a non-immune, and with surprising promptness this individual<lb/>
+succumbed in less than three days. This experiment was repeated<lb/>
+thrice. Now, how could the infecting agent be in the blood and<lb/>
+capable of producing the disease if introduced subcutaneously, and<lb/>
+still escape detection by any known cultural or microscopic<lb/>
+means? The solution of the problem was found in the work of<lb/>
+Professors L&ouml;fler and Frosch on the foot-and-mouth disease, in<lb/>
+which they found that the organism was so minute that it was<lb/>
+capable of passing through a Pasteur-Chamberland filter aided by<lb/>
+a vacuum pump, and that, therefore, the organism was ultra-<lb/>
+microscopic. The board worked on this line, and having obtained<lb/>
+a filtrate from the blood of a fever patient, they injected it beneath<lb/>
+the skin of a non-immune, and found that he presented the usual<lb/>
+symptoms of yellow fever. Now the chemical poisons elaborated<lb/>
+by bacteria within the human being and called toxins are capable<lb/>
+of causing the same symptoms as if the bacteria were present in the<lb/>
+tissues, but the process would cease then and there, as the injection<lb/>
+of the blood of the second individual would prove harmless in a <lb/>
+third, showing that the toxin had lost its power. This was not<lb/>
+found true in the case of yellow fever blood filtrate, for the disease<lb/>
+was transmitted from one to the other in successive cases. This<lb/>
+<pb n="6" id="f02713006"/>
+<hi rend="italic">THE ALUMNI BULLETIN</hi>.<lb/>
+29<lb/>
+proved that the eye of man has never gazed upon the organism of<lb/>
+yellow fever, and never will till the optical instrument makers<lb/>
+perfect an objective of higher power than those now known. The<lb/>
+conclusions of the board have been almost universally acknowl-<lb/>
+edged, the only dissenters being a few actuated by an animus<lb/>
+unworthy of a scientist. Quarantine measures directed toward<lb/>
+the destruction of the mosquito will save thousands of dollars and<lb/>
+hundreds of lives, and the practical application of this principle<lb/>
+has made Havana enjoy an immunity never before known.</p>
+<p>A. N. STARK,<lb/>
+<hi rend="italic">Captain and Assistant Surgeon, U. S. A</hi>.</p>
+<p>----------</p>
+<p>GYMNASTIC TOURNEY.</p>
+<p>-----</p>
+<p>The tenth annual tournament was held in the gymnasium, Satur-<lb/>
+day evening, March 7th. And although the condition of the <lb/>
+weather was unfavorable, the galleries and stand were well filled<lb/>
+with appreciative spectators. Those present pronounced it an<lb/>
+exhibition surpassing even those of previous years. Each indivi-<lb/>
+dual, in his combinations of feats of strength or agility, displayed<lb/>
+perfect control of his body. The co&ouml;rdinated movements in diffi-<lb/>
+cult hand stands, sommersaults, leaps, and dives, showed a finished<lb/>
+character, and smacked less of the amateur than is usual with such<lb/>
+exhibitions.</p>
+<p>The number of contestants for first place on the flying trapeze<lb/>
+was unusually large, fourteen all told, Mr. Grant, of Charlottes-<lb/>
+ville, winning the heavy bar, and Mr. O. C. Shaner, of Lynchburg,<lb/>
+capturing the light bar. The side horse was won by Mr. J. S. Ad-<lb/>
+kisson, of Texas, who in all his work elicited the highest admira-<lb/>
+tion. Mr. Adkisson was also victorious in the flying rings and<lb/>
+parallel bars, closely followed by Mr. J. P. Boogher, of St. Louis.<lb/>
+Mr. E. Munger, of Alabama, easily won the horizontal bar, his<lb/>
+work on this apparatus, for the difficulty of combinations, and<lb/>
+their graceful executions, is conceded to have been the finest piece<lb/>
+of work in the contest. Mr. H. W. Hall won the tumbling event<lb/>
+and the Peters prize cup. Mr. Hall was also seen upon the<lb/>
+trapeze, and deserves favorable mention for work in that event.<lb/>
+Mr. C. M. Tunstall, of Norfolk, did excellent work on the parallel</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N1305001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, Arkansas Democrat, January 13, 1928</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N1305001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1928-01-13</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Ros, Ronald</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1928-01-13">January 13, 1928</date>
+<idno rend="suppress">N1305001</idno>
+<title>Newspaper clipping, Arkansas Democrat, January 13, 1928</title>
+</bibl>
+</head>
+<p>Great Medical Deeds</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1928-01-13">
+<head>Newspaper clipping, Arkansas Democrat, January 13, 1928</head>
+<pb n="1" id="fN1305001"/>
+<opener>
+Arkansas Democrat<lb/>
+-----------------<lb/>
+<dateline>
+<date value="1928-01-13">Jan 13, 1928</date>
+</dateline>
+</opener>
+<p>GREAT MEDICAL DEEDS.</p>
+<p>&ldquo;Sir Arthur Newsholme, former principal medical offi-<lb/>
+cer of the local government board of England, was asked to<lb/>
+list briefly the outstanding discoveries in preventive medicine<lb/>
+during the last 70 years,&rdquo; Dr. Morris Fishbein writes. His<lb/>
+list included the following:</p>
+<p>The discovery by Pasteur of the germs that cause dis-<lb/>
+ease.</p>
+<p>The discovery by Lister of antiseptic methods against<lb/>
+germs.</p>
+<p>The work of Robert Koch, who devised methods of grow-<lb/>
+ing germs and discovered the cholera organism and the germ<lb/>
+of tuberculosis.</p>
+<p>Among other discoverers of germs he mentions Loeffler,<lb/>
+who discovered the organism of glanders in 1882; Nicolauer,<lb/>
+the germ of tetanus in 1884; Weichselbaum, the germ of<lb/>
+meningitis in 1887, and Kitasato and Yersin, the germ of<lb/>
+plague in 1894.</p>
+<p>He does not forget that von Behring and Roux devel-<lb/>
+oped successfully the method of injecting antitoxin to com-<lb/>
+bat the poison of the diphtheria germ. He pays tribute to<lb/>
+our own Theobald Smith, whose splendid work blazed a new<lb/>
+path when he showed that the tick was responsible for spread-<lb/>
+ing Texas fever.</p>
+<p>He tells how some of the ailments of men can be laid at<lb/>
+the door of the mosquito and who made that discovery. Man-<lb/>
+son showed that &ldquo;Filaria&rdquo; was carried by the mosquito.<lb/>
+Ronald Ross showed that malaria was carried by the same<lb/>
+insect, and Walter Reed and <hi>Henry R. Carter</hi> showed that<lb/>
+yellow fever was spread by the mosquito.</p>
+<p>The work of Flugge, Haldane and Leonard Hill, who<lb/>
+demonstrated the importance of movement of air and of the<lb/>
+avoidance of excessive humidity in the ventilation of rooms,<lb/>
+also is mentioned. Ehrlich, inventor of salvarsan, of course,<lb/>
+is not overlooked.</p>
+<p>This is but a partial list of that wonderful galaxy of mi-<lb/>
+crobe hunters who have contributed so much to man's span<lb/>
+of life. But the life of every one of those scientists was filled<lb/>
+with a romance so interesting that an evening with one of<lb/>
+their biographies is an evening well spent.</p>
+<p>-----------------</p>
+</div1>
+</body>
+</text>
+</TEI.2>

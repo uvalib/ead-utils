@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0407002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from James P. Leake to Henry Rose Carter, Jr., December 10, 1946 [Enclosed in C0407001]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Leake, James P.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0407002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1946-12-10</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Jr., Henry Rose</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Williams, Jr., Louis L.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Gawne, Mrs.</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Birmingham (Ala.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1946-12-10">December 10, 1946</date>
+<idno rend="suppress">C0407002</idno>
+<title>Letter from James P. Leake to Henry Rose Carter, Jr., December 10, 1946 [Enclosed in C0407001]</title>
+</bibl>
+</head>
+<p>Leake requests information about Henry Rose Carter. Leake is assisting Hench in collecting material for his book.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1946-12-10">
+<head>Letter from James P. Leake to Henry Rose Carter, Jr., December 10, 1946 [Enclosed in <xref id="C0407001">C0407001</xref>]</head>
+<pb n="1" id="fC0407002"/>
+<opener>
+DIVISION OF INFECTIOUS DISEASES<lb/>
+FEDERAL SECURITY AGENCY<lb/>
+U. S. PUBLIC HEALTH SERVICE<lb/>
+NATIONAL INSTITUTE OF HEALTH<lb/>
+BETHESDA, MARYLAND<lb/>
+<dateline>
+<date value="1946-12-10">December 10, 1946</date>
+</dateline><lb/>
+Dr. Henry Rose Carter, Jr.<lb/>
+Woodward Building,<lb/>
+Birmingham, Alabama<lb/>
+<salute>Dear Doctor Carter:</salute>
+</opener>
+<p>I have just received a letter from Dr. Philip S. Hench, a professor<lb/>
+of medicine at Rochester and one of the owners of the Mayo Clinic, - and<lb/>
+have conferred about it by phone this morning with your good friend<lb/>
+Louis L. Williams, Jr., who as you may know is happily engaged in the<lb/>
+State Department in straightening out international health matters.</p>
+<p>Dr. Hench is writing a book on the work of Walter Reed and his associ-<lb/>
+ates. You may have noticed that it was Hench who stimulated General Truby<lb/>
+(recently in command at the Army Medical Center) to write his recently<lb/>
+published book on recollections of the 1900 investigational days in Cuba.<lb/>
+Hench writes that the Reed family and the Lazear family have made him the<lb/>
+repository of all their letters, etc. - he had dinner with General Reed<lb/>
+and his sister last week, also visited Mrs. Walter Reed (aged 90) at<lb/>
+Blue Ridge Summit, also Mrs. G. O. Gawne, a first cousin of Dr. Lazear.<lb/>
+He had previously visited Lazear's widow who died in February, and during<lb/>
+the summer of 1946, Lazear's son and daughters in California. His industry<lb/>
+of that sort seems indefatigable, and it occurs to Louis Williams and my-<lb/>
+self that this may be an opportunity to get the whole thing straight in a<lb/>
+way that would have pleased your father. What do you think of it?</p>
+<p>I know that one of the objects of your father in not publicizing to<lb/>
+a greater extent his own work was that no detraction in the slightest<lb/>
+should result toward the work of his good friend Walter Reed.</p>
+<p>Louis has told me that you have the presentation copy of the official<lb/>
+Cuban book on Finlay edited by Juan Guiteras with your father's pencilled<lb/>
+notes in the margin stating that your father carried the crucial mosquitoes<lb/>
+(or eggs or larvae) from Finlay to Lazear or Reed. And it is my impression<lb/>
+that if it had not been for your father there would have been no cooperation<lb/>
+between Finlay and Reed.</p>
+<p>If you do think well of the scheme and would be good enough to let me<lb/>
+borrow this book-and any other matter that you would think pertinent to<lb/>
+the general subject-I would have them photographed promptly for preserva-<lb/>
+tion of copies in the Public Health Service files, send copies to Dr.<lb/>
+Hench, and return the originals, with copies, to you. I also have copies<lb/>
+<pb n="2" id="fC0407003"/>
+- 2 -<lb/>
+of a letter which Walter Reed wrote to your father, and some other notes<lb/>
+which I would be glad to send you if you would like to have them. I have<lb/>
+hunted in vain through the Army Medical Library for your father's original<lb/>
+manuscript which he deposited there. It is lost.</p>
+<p>Hench believes, and it seems right, that he has discovered the site<lb/>
+of the original Camp Lazear near Havana, which was not the site marked<lb/>
+by the Cuban government. He wants to preserve the building No.1 which<lb/>
+he thinks he has identified and to erect a small museum over it, by 1950.</p>
+<closer>
+<salute>With best regards,<lb/>
+Sincerely,</salute>
+<signed>James P. Leake</signed>
+James P. Leake<lb/>
+Medical Director (Retired)<lb/>
+U.S. Public Health Service<lb/>
+JPL&sol;msb<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

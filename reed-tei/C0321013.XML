@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0321013">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from [Laura Armistead Carter] to Wade Hampton Frost, October 17, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Laura Armistead</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0321013</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-10-17</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Frost, Wade Hampton</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Taylor, John R.</name>
+<name type="person">Howard, L. O.</name>
+<name type="person">Goeldi, Emilio</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Van Wesep, H. B.</name>
+<name type="person">Stephens, J. W. W.</name>
+<name type="person">Morley, Sylvanus Griswold</name>
+<name type="person">Boyce, Rupert William</name>
+<name type="person">Pym, William</name>
+<name type="person">La Roche, Rene</name>
+<name type="person">Espinosa, Alonso De</name>
+<name type="person">Benzoni, Girolamo</name>
+<name type="person">Drake, Daniel</name>
+<name type="person">Diaz Del Castillo, Bernal</name>
+<name type="person">Ramusio, Giovanni Battista</name>
+<name type="person">Lancisi, [s.n.]</name>
+<name type="person">Busto y Blanco, Fernan del</name>
+<name type="person">de Mericourt, LeRoy</name>
+<name type="person">Beranger-Feraud, Laurent Jean Baptiste</name>
+<name type="person">Yglesias y Pardo, Luis</name>
+<name type="person">Rey, H.</name>
+<name type="person">Augustin, George</name>
+<name type="person">Martell, Dr.</name>
+<name type="place">Milan (Italy)</name>
+<name type="place">Yucatan (Mexico)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Fernando Po</name>
+<name type="place">Johns Hopkins School of Hygiene and Public Health (Baltimore, Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1928-10-17">October 17, 1928</date>
+<idno rend="suppress">C0321013</idno>
+<title>Letter from [Laura Armistead Carter] to Wade Hampton Frost, October 17, 1928</title>
+</bibl>
+</head>
+<p>[Carter] supplies additional references she has tracked down for the History of Yellow Fever regarding early epidemics that may have been yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1928-10-17">
+<head>Letter from [Laura Armistead Carter] to Wade Hampton Frost, October 17, 1928</head>
+<pb n="1" id="fC0321013"/>
+<opener>
+4: <hi>Re Arejula</hi>><lb/>
+11: a) H. Rey (b) Iglesias<lb/>
+<unclear>y Pardo</unclear>.<lb/>
+Book.<lb/>
+Bibliography<lb/>
+(Frost)<lb/>
+<hi>Arejula</hi><lb/>
+<dateline>
+The Westmoreland,<lb/>
+2122 California St., N. W.<lb/>
+Washington, D. C.<lb/>
+<date value="1928-10-17">October 17, 1928.</date>
+</dateline><lb/>
+<salute>Dear Jack:</salute>
+</opener>
+<p>1: Went to see Dr. L. O. Howard last Monday <hi>re</hi> Goeldi <hi>et al</hi><lb/>
+(see enclosed list). He was very kind and cordial, but had no personal<lb/>
+recollection of any of my unverified references and turned me over to<lb/>
+his Librarian, with whom I worked the remainder of the day. Went over<lb/>
+&ldquo;Os mosquitos no Par&aacute;&rdquo; again<del>,</del> <add>&amp;</add> everything <del>to</del><add>of</add> John R. Taylor's I could<lb/>
+get (from Howard's personal file,) I'd seen the rest at the S. G.'s<lb/>
+Library) indeed tried everything on my list, but without success. I<lb/>
+am, however, enclosing the &ldquo;nearest I could find&rdquo; to Father's statements<lb/>
+from both Goeldi and Taylor. Perhaps Goeldi's will <hi>do</hi>, though I didn't<lb/>
+think so when I went over it before. Mr. Van Wesep (Information, R. F.)<lb/>
+also sent me this ref. and one other as the best <hi>he</hi> could do with Goeldi.</p>
+<p>2: I have also written, and sent lists, (a) to J. W. W. Stevens and<lb/>
+(b) Morley. See enclosures.</p>
+<p>3: <hi>Re</hi> Ross, Sir Ronald (i.p. 20 and ii. p. 70) can't find statement<lb/>
+<hi>re</hi> cases reported <add>W. Africa as</add> y. f. probably severe malaria,<lb/>
+and agree with you that, unless found in print it had <hi>far</hi> better be left<lb/>
+be left out. Indeed, I think it would be better to do so <del>anyway</del> even<lb/>
+if we had found it, for he certainly would not enjoy being quoted to<lb/>
+th<del>e</del><add>at</add> effect <del>mentioned in Father's</del> MS. By the way, I hear that Boyce<lb/>
+(Trans. Soc. trop. med &amp; hygiene 1910-11. p. 38) states that light y. f.<lb/>
+has been attributed to malaria in W. Africa. Haven't had a chance to<lb/>
+verify it, however. Will do so, if you wish to have a &ldquo;Britisher&rdquo; agree-<lb/>
+ing with Guiteras.</p>
+<p>4:<hi>Re</hi> Arejula (ii. 51-52) Can't we cut out the literal quotations,<lb/>
+<del>just</del> leaving the statement that he is <del>&ldquo;</del>just bold enough to differentiate<lb/>
+between <hi>peste: epidemia</hi> and <hi>contagio</hi>?<del>&rdquo;</del> As you saw, the book is abominably<lb/>
+involved and I've put a <hi>lot</hi> of time on it already. Moreover its merely<lb/>
+a curiosity, not essential to <unclear>anything</unclear>. I do wish I could find the<lb/>
+<pb n="2" id="fC0321014"/>
+the<lb/>
+-2-<lb/>
+wretch&eacute;d quotations, and hardly believe that I could have missed them<lb/>
+had they been in the vol. cited.</p>
+<p>4) Enclosed is a real <del><unclear>[unclear]</unclear>:</del><add>satisfaction:</add> Pym, Sir Wm. (1815) <hi>ii. p. 87</hi> Father's<lb/>
+MSS. Father apparently used the 1848 edition for every other quotation<lb/>
+(we have his notes on it) and got <del>this</del><add>the one, <hi>re</hi> venesection, from the</add> 1815 ed. <hi>via</hi> La Roche (v.i. p. 468)<lb/>
+as did we. Of course, we had tried the other editions previously, but<lb/>
+had concentrated on that for 1848.</p>
+<p>5) ii. p. 79 ) Espinosa, Alonso de (1594) Eng. ed. (1907): author of<lb/>
+ii. p. 80 ) the two quotations on the enclosed white card, <unclear>ofichose</unclear><lb/>
+origin we were uncertain. Father must have used the<lb/>
+Eng. ed (1907), for which you already have library card<lb/>
+and verified quotation <hi>re</hi> the woman calling the Span.<lb/>
+6 and telling them to enter the land (ii. p. 79).</p>
+<p>6) Benzoni, Girolamo, Girolamo (1565) <unclear>o.k.<add>O. K.</add>[unclear]</unclear> save for date of <add>his being in</add> <del>going to</del><lb/>
+Yucatan (<hi>iii. i, 52 and iii.i.61</hi>) Eng. ed. Hakluyt Soc (1857) p.i.:<add>says:</add><lb/>
+&ldquo;hearing of those countries...called...the New World I determined<lb/>
+to go there. In the year <hi>1541</hi>...I started from Milan. &rdquo;He could<lb/>
+not then have been in &ldquo;Yucatan in <hi>1539</hi> and &sol;<hi>40</hi>.&rdquo; The original ed.,<lb/>
+which we used, is in the Rare Book Room, L. of C. and guaranteed<lb/>
+to put one's eyes out, if Drake or Bernal Diaz doesn't do it first!<lb/>
+Ramusio is pretty bad too. Printing at least has improved in a<lb/>
+not-altogether-evoluting-world!</p>
+<p><unclear>7)</unclear> I think you'll find Lancisi (1717) <hi>iii.ii.113</hi> satisfactory, tho', as<lb/>
+<del><unclear>[unclear]</unclear></del> in Alice in Wonderland we've got the statement <hi>re</hi> time mal-<lb/>
+aria is contracted &ldquo;contrariwise.&rdquo;</p>
+<p>7) <add>&ldquo;</add>Page<add>&rdquo; See Section</add> (iii,i. 106(f. n.) is hopeless. We've tried <add>Page-</add>Paget and cross-<lb/>
+indices and everything else we could think of. &ldquo;No can do!&rdquo;</p>
+<p>8): Faria e Sousa, Manuel de (1698) (<hi>iii,ii.33</hi>) Carter's ref. this page<lb/>
+is to wrong book. It should be the History of Portugal <hi>not<lb/>
+Africa portuguesa</hi>. Also, Barbot's ref. is to Eng. ed. p. 304. The<lb/>
+original ed. seems quite different--with not<add>h</add>ing on p. 304 <hi>re</hi><lb/>
+those wretch&eacute;d Jews.</p>
+<p>10) Two library cards <hi>re</hi> Busto y Blanco, F., quoted by Le Roy de Meri-<lb/>
+court. <unclear><del>No.1</del></unclear> No.i is considered better form as a library entry and,<lb/>
+if you like it, other similar library cards should be made to con-<lb/>
+form --i. e. &ldquo;Yglesias y Pardo, Ferrol 1874&rdquo; quoted by Beranger-<lb/>
+Feraud, Rey, H (1878) etc.</p>
+<p>11) Tentative library card for &ldquo;Yglesias y Pardo Ferrol, 1874, p.12.&rdquo;<lb/>
+(iii,i. p. 5) <hi>re</hi> infection Fernando-Po<lb/>
+1866 by <hi>Rosa del Turia</hi>, leaving Havana (Aug. 12 , Beranger-Feraud. p.142)<lb/>
+<hi>Aug. 2</hi> 1866, according to Doctor H. Rey, analyzing and commenting upon<lb/>
+<del>the</del> &ldquo;Iglesias y Pardo, Luis, Observationes teorico-practicas sobre las<lb/>
+fievres africanas de Fernando P&oacute;o, precidadas de una rese&ntilde;a historico-<lb/>
+<unclear>geographica</unclear> de la isla <unclear>Ferrol.</unclear> In-8. 1877. This in Arch<lb/>
+Med. <unclear>Nanvale.</unclear> 29, 1848. 401-409<lb/>
+<pb n="3" id="fC0321015"/>
+<add>-</add>13<del>1</del><add>-</add><lb/>
+11) con. Statements<hi>re</hi> infection &ldquo;Fernando-Po&rdquo; (B-Feraud: Rey and Augus-<lb/>
+tin) <add>who gives Rey as ref on p. 222</add> agree as to the date of unloading the deported criminels at Fernando-<lb/>
+Po (Oct. 3, 1866. B.-Ferau<del>d</del> <add>p. 142</add> gives &ldquo;<hi>166 criminels deport&eacute;s</hi>&rdquo;: Rey (p. 407)<lb/>
+&ldquo;<hi>pr&egrave;s de 200 criminels d&eacute;port&eacute;&sacute;</hi>.&rdquo;</p>
+<p>Rey, H (1878) op cit. p. <unclear>401-409</unclear>:..Contributions a la g&eacute;ographie m&eacute;di-<lb/>
+cale.</p>
+<p>L'ile de Fernande-Po. Dr Luis Iglesias y Pardo etc.</p>
+<p>p. 407: &ldquo;La <hi>fi&egrave;vre jaune &eacute;pid&eacute;mique</hi> a s&eacute;v&egrave;rement &eacute;prouv&eacute;, et &agrave; plusieurs<lb/>
+reprises, la colonie espagnole. En 1812, il y avait sur rade, trois<lb/>
+navires: la goelette <hi>Caridad</hi>, la fr&eacute;gate <hi>Isabel</hi> et un ponton, la <hi>Perla</hi>.<lb/>
+De ces trois &eacute;quipages 41 hommes et, dans le nombre, le m&eacute;dicin du ponton<lb/>
+sont emportes par cette fi&egrave;vre. Or, au mois d'aout de cette meme ann&eacute;e<lb/>
+etait arriv&eacute; &agrave; Fernando-Po le vapeur <hi>Ferrol<del>a</del><add><unclear>parti</unclear></add></hi>rti le 10 juin de la Havane,<lb/>
+avec 200 noirs congos emancip&eacute;s. En 1866, le 3 octobre, le navire<lb/>
+de commerce <hi>Rosa del Turia</hi>, parti de la Havane le 2 aout, d&eacute;barque pr&egrave;s<lb/>
+de 200 criminels d&eacute;port&eacute;s. Une nouvelle &eacute;pid&eacute;mie de <unclear>fi&eacute;vre</unclear> jaune &eacute;clate &agrave;<lb/>
+Fernando-Po; elle fut d&eacute;cor&eacute;e, il est vrai, du nom de fi&egrave;vre bilieuse pe<unclear>r</unclear><lb/>
+nicieuse.&rdquo;.....</p>
+<p>I'm giving the above quotation because the name of the ship, <hi>Ferrol</hi><lb/>
+seemed, before reading Rey's article, to have some bearing on the ref.<lb/>
+(iii,i, 105) to Yglesias y Pardo, Ferrol, 1874. You note, however, that<lb/>
+there a lot of ships mentioned here and that it would be quite natural<lb/>
+to find a ship of that name, <unclear>sailing</unclear> from <unclear><del>ta</del>ht<add>that</add></unclear> Spanish port. Also the<lb/>
+word &ldquo;Ferrol&rdquo; is added to Yglesias y Pardo in mentioning infections<lb/>
+carried by other ships, as our aforesaid &ldquo;<unclear>Rosa</unclear> del Turia.&rdquo; Dr. Martell,<lb/>
+of the Library of Congress, to whom we carried all our findings on the<lb/>
+subject says that he thinks the word &ldquo;<hi>Ferrol</hi>&rdquo; refers to the place of<lb/>
+publication of the book and that the title of Iglesias y Pardo's book,<lb/>
+ends with &ldquo;una reseha historico-geographica de la isla.&rdquo; Said &ldquo;isla&rdquo; be-<lb/>
+ing Fernando-Po. Of course the date given by Rey. H. for <del>I</del>Iglesias'<lb/>
+<unclear> [unclear]</unclear> vs 1874 (Beranger-Feraud and Augustin), but there may ha<lb/>
+<pb n="4" id="fC0321016"/>
+have<lb/>
+-4-<lb/>
+been an earlier edition, or they may have been wrong. At any rate,<lb/>
+I don't believe either of them knew what the <add>word</add> &ldquo;<hi>Ferrol</hi>&rdquo; meant and neither<lb/>
+did we, for that matter! I really think we have it now. At any rate<lb/>
+it is &ldquo;herewith respectfully referred.&rdquo;</p>
+<p>Heigho! Jack, I wish I had time to write you nice <hi>short</hi> letters<lb/>
+with everything in them that my long ones contain! It <hi>does</hi> take time,<lb/>
+however, to make things both clear and concise and I know you'd rather<lb/>
+get a diffuse communication and have me go back to work on references<lb/>
+than spare you a little &ldquo;wading&rdquo; through unnecessary remarks &ldquo;such as the<lb/>
+heathens use!&rdquo;</p>
+<p>I do hope you're getting some <unclear>gol<del>d</del><add>f</add></unclear> these beautiful afternoons.</p>
+<closer>
+<salute>With love to you all,<lb/>
+Most truly yours</salute>
+Dr. Wade H. Frost,<lb/>
+School of Hygiene and Public Health<lb/>
+615 North Wolfe Street,<lb/>
+Baltimore, Maryland.<lb/>
+<pb n="5" id="fC0321017"/>
+Goeldi, Emilio A. (1905)<lb/>
+Os mosquitos no Par&aacute;.....(1905) p<lb/>
+<lb/>
+iii p. 8: <hi>Re</hi> occasional occurrence aegypti larvae &ldquo;in street gutters, and<lb/>
+even pools in the street&rdquo;... <add>(Carter's MS)</add><lb/>
+(op. cit.) p. 15: Tanto quanto se sabe at&eacute;  <unclear>hoje</unclear> acerca da<lb/>
+larva da <hi>Stegomyia fasciata</hi>, vive ella em buracos, <unclear>pocos, depres&otilde;oes</unclear><lb/>
+do solo, etc., contendendo agua relativamente limpa.&rdquo; i. e.<lb/>
+<lb/>
+&ldquo;So far as is known at this hour concerning the Stegomyia<lb/>
+fasciata, it lives in pools, wells, depressions of the (in the) earth<lb/>
+etc. containing water relatively clear.<lb/>
+<lb/>
+(op. cit) pp. 28-9: Stegomyia...prefere mais a agua rela-<lb/>
+tivamente limpa, como costuma ser encontrada em depress&otilde;es de calhas<lb/>
+horizontaes de chuva nas casas, em barris, quintos, caldedeir&otilde;es nos<lb/>
+quintaes, no <unclear>corac&atilde;o</unclear> das folhas ainda enroscadas das bananeiras, de<lb/>
+bromelias, etc.<lb/>
+<lb/>
+&ldquo;Stegomyia...prefers water relatively pure, as is usually found<lb/>
+in the depressions of the horizontal rain gutters of houses, in barrels,<lb/>
+tanks, in the heart of the leaves yet folded of the bananas, of<lb/>
+Bromelias etc.&rdquo;<lb/>
+<lb/>
+Don't think much of either of the above, however, the one from<lb/>
+p. 15 <hi>might</hi> do. <hi>Que le parece</hi>?<lb/>
+<lb/>
+i. p. 8 Taylor, John R. (1903)<lb/>
+<lb/>
+<hi>R</hi>eoccasional occurrence aegypti larvae in &ldquo;street gutters<lb/>
+and even pools in the street.&rdquo;<lb/>
+<del>Reprint from La</del>&ldquo;Observations on the mosquitos of Havana, Cuba.&rdquo;<lb/>
+Reprint from La Revista de medicina tropical,<lb/>
+June 1903.&rdquo;<lb/>
+(op. cit) p. 5-7: &ldquo;Stegomyia fasciata. Theobald.<lb/>
+<lb/>
+&ldquo;<hi>Breeding places</hi>.<lb/>
+<lb/>
+&ldquo;Prefers to breed in still water such as is found in rain barrels,<lb/>
+<lb/>
+(a) tanks, water pitchers in rooms, in fact will deposit its eggs in any<lb/>
+receptacle containing water. We have also found them in small pools<lb/>
+made by the rain.&rdquo;<lb/>
+<lb/>
+Taylor also mentions (p. 8): &ldquo;Prefers small artificial collections of water<lb/>
+such as are found in rain-water barrels, water tanks...in fact any recep-<lb/>
+tacle containing water of not too great depth. Also breed in slow<lb/>
+(b) running streams and at the margins of rivers if free from fish.&rdquo; (News to<lb/>
+me, LAC)<lb/>
+<lb/>
+As you see, I had to get this <add><hi>re</hi> Taylor</add> from one of Dr. Howard's reprints, as<lb/>
+they didn't have the <hi>Revista</hi> at the <del>Beurea</del> Bureau of Entomology. If you<lb/>
+wish the first quotation, we can try for it at the S. G.'s Library. Couldn't<lb/>
+get it before. I think Taylor (a) is pretty good, even if he did not re-<lb/>
+fer specifically to pools in streets, don't you?<lb/>
+<lb/>
+Finlay, Carlos Juan (1912) <hi>Re</hi> his not having made categorical assertion<lb/>
+aegypti <unclear>c<del>ll</del><add>ou</add>ld</unclear> not fly at alt. above 4,000 ft. (op cit. p 160-1<add>-</add>give<add>s</add><lb/>
+experiments <hi>re</hi> limits of temperature &amp; altitude within which the &ldquo;Culex<lb/>
+mosquito&rdquo; is funcitionally active. Temp. limits--roughly 60 to 100 F.<lb/>
+Alt. sea-level to &ldquo;3,000 or 4,000 ft.&rdquo; (Op. cit--only it hasn't been<lb/>
+<unclear>[unclear]</unclear> <add>cited <unclear>[unclear]</unclear> p 250</add> also gives altitudes at which epidemics<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

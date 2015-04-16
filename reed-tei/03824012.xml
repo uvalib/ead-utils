@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03824012">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Translation [from Spanish] of letter from J.F. Rodriguez-Perez to Philip Showalter Hench, August 9, 1941</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Rodriguez Perez, J.F.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03824012</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1941-08-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Hench, Philip Showalter</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="hospital">Hospital No. 1 (General Calixto Garcia)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1941-08-09">August 9, 1941</date>
+<idno rend="suppress">03824012</idno>
+<title>Translation [from Spanish] of letter from J.F. Rodriguez-Perez to Philip Showalter Hench, August 9, 1941</title>
+</bibl>
+</head>
+<p>Rodriguez-Perez informs Hench that the Finlay Institute's copy of the history of Military Hospital No. 1 is the only one they have. He is not willing to lend it to Hench, but can have it copied. See <xref id="f03824011">Spanish</xref> orignial.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1941-08-09">
+<head>Translation [from Spanish] of letter from J.F. Rodriguez-Perez to Philip Showalter Hench, August 9, 1941</head>
+<pb n="1" id="f03824012"/>
+<opener>
+Translation:<lb/>
+<salute>Very distinguished Doctor:</salute>
+</opener>
+<p>I have received your kind letter of July 18 reminding me of your<lb/>
+visit to this library which caused me so much pleasure, when you were<lb/>
+in your investigations about the history and conquest of yellow fever.<lb/>
+I have tried to find for you a duplicate of the history of the Hospital<lb/>
+No. One of Galliol, 1903 but unfortunately I have not been able to get<lb/>
+it. The copy we have in our library is the only one and that is the<lb/>
+reason I am not able to send it to you as I would like to.</p>
+<p>Nevertheless, we can send you photostatic copies of the pages<lb/>
+which are of more interest to you.</p>
+<p>By separate mail I am sending you a copy of the &ldquo;Revista de<lb/>
+Medicina y Cirugia de la Habana&rdquo; of September 10, 1921. On page 554<lb/>
+there is an article about the old Hospital Number One which is now called<lb/>
+General Calixto Garcia. This number I am sending you of this journal<lb/>
+has a great historical value, but I am sending it to you as a present.</p>
+<closer>
+<salute>Yours truly,</salute>
+<signed>Dr. J. F. Rodriguez Perez<lb/>
+Director de la Seccion de Publicaciones<lb/>
+Cientificas y Biblioteca</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

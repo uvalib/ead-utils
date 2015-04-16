@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04733001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Following the Wandering Trail of the Conquerors of Yellow Fever, by Philip Showalter Hench, [1954]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04733001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1954-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Chaille, Stanford L.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Edmunds, Maj.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Godfrey, Guy Charles Moore</name>
+<name type="person">Maass, Clara Louise</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Rojas, Maria Teresa</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="place">The Prado, Havana (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Quemados de Marianao (Cuba)</name>
+<name type="place">Finca San Jose, Marianao (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Columbia Barracks, Havana (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">La Playa (Cuba)</name>
+<name type="place">Indianapolis (Ind.)</name>
+<name type="place">City Hall, Havana (Cuba)</name>
+<name type="place">Finlay Park, Havana (Cuba)</name>
+<name type="place">Colon Cemetery, Havana (Cuba)</name>
+<name type="place">Ministry of Health, Havana (Cuba)</name>
+<name type="place">Supreme Court Building, Havana (Cuba)</name>
+<name type="hospital">Columbia Barracks Post Hospital, Havana (Cuba)</name>
+<name type="hospital">Agramonte Hospital, Military City, Havana (Cuba)</name>
+<name type="hospital">Las Animas Hospital, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>5 pp.</extent>
+<date value="1954-00-00">[1954]</date>
+<idno rend="suppress">04733001</idno>
+<title>Following the Wandering Trail of the Conquerors of Yellow Fever, by Philip Showalter Hench, [1954]</title>
+</bibl>
+</head>
+<p>In this outline, Hench lists and describes sites associated with the conquerors of yellow fever located in and near Havana. One list arranges the sites in chronological sequence, the other in geographical sequence.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1954-00-00">
+<head>Following the Wandering Trail of the Conquerors of Yellow Fever, by Philip Showalter Hench, [1954]</head>
+<pb n="1" id="f04733001"/>
+<p>
+<list type="ordered">
+<head><hi>FOLLOWING THE WANDERING TRAIL OF THE CONQUERORS OF YELLOW FEVER</hi><lb/>
+An Outline by Dr. Philip S. Hench<lb/>
+Mayo Clinic, Rochester, Minn.</head>
+<item><hi>Arrangement</hi>: I. The trail as it wandered back and forth; the principal sites in<lb/>
+<hi>chronological</hi> sequence.</item>
+<item>II. The sites rearranged as one might see them in <hi>geographical</hi> sequence<lb/>
+in Havana and Quemados; i.e. as one might make an <hi>auto tour</hi> in <hi>one day</hi>.</item>
+</list></p>
+<p>
+<list type="ordered">
+<head>I. <hi>The Principal sites - Arranged chronologically</hi>.</head>
+<item>1. <hi>Finlay's home</hi> (1881), #156 Prado (in 1881 it was #52) where Dr. Finlay lived when he<lb/>
+developed (1879-1880) and first announced (1881) his mosquito theory and where<lb/>
+he made his earliest inoculations. (House now marked with a bronze tablet).</item>
+<item>2. <hi>Cabana Barracks</hi>: The site was on hill &ldquo;south&rdquo; (to the right) of old Cabana fortress<lb/>
+(as one looks across the harbor from La Fuerza or La Punta).</item>
+<item><p>3. <hi>Quinta San Jose,</hi> Calzada Real, between Calle Jose Miguel Gomez and Calle Villalon,<lb/>
+Quemados de Marianao. Old house first connected to the yellow fever story<lb/>
+by the U. S. (Chaille) Commission, 1879; this was where Finlay made several<lb/>
+inoculations on Jesuit priests (1883) and at its rear, Reed et al set up<lb/>
+Camp Lazear, November 1900.</p>
+<p>(&ldquo;Calzada Real&rdquo; is same as Calzada de Marianao.)</p></item>
+<item>4. <hi>Machina Pier</hi>, site of old Machina Wharf (San Pedro Street near San Francisco<lb/>
+Square), off which the MAINE sank, February 15, 1898.</item>
+<item>5. <hi>City Hall of Havana</hi>, Plaza de Armas (between Obispo Street and O'Reilly Street) -<lb/>
+before 1898 the palace of the Spanish Captains-General; in 1900 the head-<lb/>
+quarters of the U.S. Governor-General of Cuba, Leonard Wood.</item>
+<item>6. <hi>Supreme Court Building</hi> - Plaza de Armas at Tacon Street. In 1900 this was where<lb/>
+many of General Wood's headquarters staff were quartered and where so many<lb/>
+got sick (and later died); before 1900 the Segundo Cabo.</item>
+<item>7. Large old white building on Calzada Real (just &ldquo;west&rdquo; of Calle Adolfo Castillo),<lb/>
+Quemados de Marianao. In 1900 it was <hi>General Lee's headquarters</hi>; also the<lb/>
+office of Major Kean, his chief surgeon; also of Captain Stark, Acting<lb/>
+Chief Surgeon during Kean's convalescence from yellow fever, July 1900.<lb/>
+(Now a gasoline station and cheap restaurant.) Prior to 1900 it was called the<lb/>
+Quinta Duranon (or old Toledo House), so I was told.</item>
+<item>8. <hi>House: now 404 General Lee Street</hi> (in 1900, #20), (between Calzada Real and Marti<lb/>
+Street). This is where the 1900 epidemic of yellow fever first broke out,<lb/>
+Quemados de Marianao.</item>
+<item>9. <hi>House at #102 Calzada Real</hi> (same number now as in 1900) where yellow fever next<lb/>
+struck. The house is on Real (or Calzada de Marianao) between General<lb/>
+Lee Street and <unclear>Macoo</unclear> Street.</item>
+<item><p>10. Grounds of Cuban Army Hospital (Hospital Agramonte of Ciudad Militar), Quemados.<lb/>
+This is the very site where the Post Hospital of Columbia Barracks was in 1900.</p>
+<p>
+<table rows="3" cols="2">
+     <row>
+          <cell><hi>1900 Bldg. (Post Hosp.) was on or near (see rt.)</hi></cell>
+          <cell><hi>Present site of (Hosp. Militar)</hi></cell>
+     </row>
+     <row>
+          <cell>A. Medical officers' quarters where Reed, Carroll,<lb/>
+          Truby, etc. lived.</cell>
+          <cell>Just &ldquo;we st&rdquo; (beside)<lb/>
+          the &ldquo;clinica&rdquo;</cell>
+     </row>
+     <row>
+          <cell>B. Cottage of Dr. (and Mrs.) Lazear; 1900</cell>
+          <cell>just behind the Salon de Actos<lb/>
+          west wing.? (<del>Or in front of<lb/>
+          it in park)</del></cell>
+     </row>
+</table>
+<pb n="2" id="f04733002"/>
+<table rows="3" cols="2">
+     <row>
+          <cell>C. Lab. of Lazear and Reed, 1900</cell>
+          <cell>Just in front of <unclear>&ldquo;Farmacia</unclear><lb/>
+          y Dental&rdquo;</cell>
+     </row>
+     <row>
+          <cell>D. Captain Stark's house, 1900</cell>
+          <cell>Just &ldquo;west&rdquo; of La<del>n</del><add>va</add>nderia</cell>
+     </row>
+     <row>
+          <cell>E. Ward where Private Dean (XY) was a patient</cell>
+          <cell>Between Sala 4 and 5</cell>
+     </row>
+</table>
+</p>
+</item>
+<item>11. Old site of <hi>Military Hospital #1</hi> (1900 and before) where Agramonte worked in the<lb/>
+lab (and continued to do so even while a member of the Army Yellow Fever<lb/>
+Board) - now the <hi>old</hi> buildings of the <hi>Calixto Garcia Hospital</hi> on Principe<lb/>
+Hill near the Medical School, University of Havana. The Hospital is be-<lb/>
+tween Calle G and Calle Universidad.</item>
+<item>12. #_____ General Lee Street (in 1900 #16), where General Kean lived in summer of<lb/>
+1900 and where he developed yellow fever (Just opposite what is now #303).</item>
+<item>13. #303 General Lee Street (in 1900 #27) where <hi>Major Edmunds lived and died</hi> (and<lb/>
+where Kean caught his yellow fever) (across street from Major Kean's house)<lb/>
+&ldquo;Southeast&rdquo; corner of General Lee Street and Calle Rosendo Collazo (which<lb/>
+was Calle St. Frederico in 1900).</item>
+<item>14. Site of <hi>medical officers' quarters, Post Hospital, Columbia Barracks</hi> on &ldquo;north&rdquo;<lb/>
+porch of which Yellow Fever Board held its meetings. See #10-A above.</item>
+<item><p>15. &ldquo;<hi>Reed's laboratory</hi>&rdquo; where Lazear began (early July 1900) to raise mosquitos -<lb/>
+see 10-C above.</p>
+<p>X-1 Site of <hi>old quartel</hi>, <hi>Pinar del Rio</hi> (110 miles west of Havana) in which was the 15 -<lb/>
+bed <hi>carcel</hi> (prison-room) where Prisoner Haskins was the only one of 9 prisoners<lb/>
+to get yellow fever; visited by Agramonte July 19, by Reed July 21, by Lazear<lb/>
+during week of July 30: A turning point in the investigations. The quartel<lb/>
+blew up in 1910. It is now the site of two small twin school buildings, &ldquo;Frank-<lb/>
+lin Roosevelt School&rdquo; and &ldquo;School of Americas.&rdquo;</p></item>
+<item>16. <hi>General Lee's Headquarters</hi>, Calzada Real, Quemados, where Captain Stark (Acting<lb/>
+Chief Surgeon) reviewing Godfrey's reports, suspected that the &ldquo;malaria&rdquo;<lb/>
+at Pinar del Rio was yellow fever (see #7 above).</item>
+<item>17. Back to <hi>medical officers' quarters</hi>. Post Hospital, Columbia Barracks, where Army<lb/>
+Board decided to investigate Finlay's mosquito theory - see 10-A.</item>
+<item>18. <hi>#460 Aguacate Street</hi>, downtown Havana. In 1900 it was #110; where <hi>Dr. Finlay</hi> was<lb/>
+living then, and where Lazear went twice (once with Reed) to visit him and<lb/>
+got Finlay's mosquito larvae. (Finlay's home torn down and on this site<lb/>
+now is <hi>The Central Agency Limited</hi>. But I understand that Finlay's<lb/>
+(1900) home here was the exact counter-part of the old house next door<lb/>
+(except &ldquo;in reverse&rdquo;).</item>
+<item>between <unclear>Teneinte Rey<lb/>
+&amp; Muralla Se</unclear></item>
+<item>19. <hi>LaPlaya bathing beach</hi>, about 1 mile &ldquo;north&rdquo; of the former Columbia Barracks Post<lb/>
+Hospital (see #10 above) where Carroll went to &ldquo;cool off&rdquo; when he was<lb/>
+coming down with yellow fever (without knowing it) and where the medical<lb/>
+officers (1900) often went to swim and bathe.</item>
+<item>20. <hi>Ward</hi> where <hi>Private Dean</hi> (&ldquo;XY&rdquo;) was quartered (Lazear's second successful case).<lb/>
+See <unclear>#10vE</unclear>.</item>
+<item>21. <hi>Dr. Lazear's cottage</hi> where he took sick, September 16. See 10-B.</item>
+<pb n="3" id="f04733003"/>
+<item><unclear>XIX</unclear> -3 -</item>
+<item>22. <hi>Los Animas Hospital (entrance</hi> off Avenida de Menocal). Here is the little<lb/>
+yellow fever ward where Dr. Lazear is supposed to have been bitten (and where<lb/>
+in 1900 Miss Clara Maass, the nurse who volunteered for yellow fever<lb/>
+inoculations by Gorgas and Guiteras, died). It is now marked with a<lb/>
+bronze tablet on the <hi>outside</hi> wall.</item>
+<item><p>23. Site of the &ldquo;<hi>little yellow fever huts</hi>&rdquo;. This is where Major Kean was cared for,<lb/>
+where Dr. Lazear died, where all the volunteers who got experimental yellow<lb/>
+fever were <hi>cared</hi> for (by Dr. Ames and Nurse Gust Lambert) - 375 feet north<lb/>
+of where old LayPlaya railroad crosses Santa Rosa Street (at &ldquo;southwest&rdquo;<lb/>
+corner of Cuban &ldquo;Hospital Militar&rdquo; - See #10). This is now a small empty<lb/>
+field just across the LaPlaya railroad tracks from the Cuban Army Hospital<lb/>
+grounds. (and the site of the &ldquo;false Campamento Lazear.&rdquo;)</p>
+<p>It is where the &ldquo;eastern&rdquo; end of Calle Asuncion (Reparto Padre Zamora, Que-<lb/>
+mados de Marianao) hits the (abandoned) LaPlaya railroad track. The best<lb/>
+way to get there <hi>by car</hi> is (a) to turn &ldquo;north&rdquo; off Calzada Real onto General<lb/>
+Lee Street; turn left where Lee Street enters the hospital grounds, go &ldquo;west&rdquo;<lb/>
+along Santa Rosa Street and cross the single LaPlaya railroad track; one<lb/>
+block beyond track turn right (&ldquo;north&rdquo;) on Calle San Carlos (Rene Berndes), and<lb/>
+go one block to Asuncion; then get out of car and walk to right (&ldquo;east&rdquo;) to<lb/>
+small empty field (lot) beside railroad track;</p>
+<p>or (b) Find Paseo Cuatro de Septiembre (in Marianao), go &ldquo;north&rdquo; on it to<lb/>
+Asuncion, then turn right to the &ldquo;east&rdquo; end of Asuncion;</p>
+<p>or (c) Walk &ldquo;north&rdquo; (toward the sea) along the LaPlaya railroad <unclear>out</unclear> (track<lb/>
+was still there in 1952) about 375 feet: the 1900 grounds or the little<lb/>
+&ldquo;yellow fever wards&rdquo; (huts) began at the out and extended &ldquo;west&rdquo; (away from<lb/>
+the present Cuban army hospital grounds).</p></item>
+<item><p>24. Site of former <hi>U. S. Army Cemetery</hi> (now abandoned) where <hi>Dr. Lazear</hi> (and others)<lb/>
+<hi>buried</hi> in 1900; re-interred 1901. It is along the &ldquo;east&rdquo; side of the La<lb/>
+Playa railroad tracks a little farther &ldquo;north&rdquo; than the site of the yellow<lb/>
+fever huts. (Dr. Nogueira is now locating it).</p>
+<p>My old maps place it about 913 yards &ldquo;north&rdquo; of where Santa Rosa Street crosses<lb/>
+the LaPlaya railroad; it was just to the right side (&ldquo;east&rdquo;) of the railroad<lb/>
+track; i.e. between the LaPlaya railroad and the road (&ldquo;Road to LaPlaya&rdquo;)<lb/>
+which passes &ldquo;north&rdquo; through the &ldquo;western&rdquo; end of the Hospital Militar and<lb/>
+after curving a bit turns leftish and runs into Avenida Centrale and Gran<lb/>
+Boulevard to end at LaPlaya. The site of the cemetery may be about where<lb/>
+this &ldquo;hospital road to LaPlaya&rdquo;(?) passes the near end (south end) of the<lb/>
+military air-field, i.e. where the hospital touches the air-field. The<lb/>
+cemetery was between the LaPlaya railroad (on the left or &ldquo;west&rdquo;) and the old<lb/>
+&ldquo;road to LaPlaya&rdquo; which it faced (on the right or &ldquo;east&rdquo;).</p>
+<p>X-2.<hi>Matanzas Harbor</hi> (<hi>100</hi> miles east of Havana) where <hi>Reed's</hi> transport first stopped<lb/>
+(October 3, 1900) when he was returning to Cuba and where Kean met him and<lb/>
+told him details of Carroll and Dean. and Lazear</p></item>
+<item>25. <hi>Medical Officers' Quarters</hi>, Post Hospital, where Reed studied Lazear's notes<lb/>
+and &ldquo;rediscovered&rdquo; the &ldquo;secret of yellow fever&rdquo;, first &ldquo;<hi>discovered&rdquo; (but<lb/>
+not proven</hi>) by Finlay in 1881, <hi>discovered</hi> (and proved to himself and to<lb/>
+Reed, but not to the world) by Lazear (August 11 - September 16), and<lb/>
+<hi>re-discovered</hi>(and proven to the world) by Reed, Agramonte, Carroll, et al.<lb/>
+See #10</item>
+<pb n="4" id="f04733004"/>
+<item>- 4 -</item>
+<item>X-3. Indianapolis, Indiana: <hi>Old German House</hi> where Reed read the Board's <hi>first report</hi><lb/>
+on October 26, 1900.</item>
+<item>26. <hi>City Hall, Havana</hi>: - 2nd floor; fairly large room on the left front (left as one<lb/>
+looks at the building from the Plaza) which was <hi>General Wood's office</hi><lb/>
+and where Reed, with Kean, got from Wood permission and support to establish<lb/>
+&ldquo;Camp Lazear&rdquo;: - the small room on left was room of Wood's secretary - it<lb/>
+has a single (corner) window; next room with <hi>two windows</hi> and checker-board<lb/>
+flooring was General Wood's former office; it is now the Mayor's formal<lb/>
+office, (not his &ldquo;working office&rdquo;); next <hi>large</hi> room is the main reception<lb/>
+hall, Care-taker will let you in.</item>
+<item><p>27. <hi>Camp Lazear Site</hi>. Building #1 (preserved) behind the <hi>Finca</hi> San Jose - home of<lb/>
+Senora Rojas, daughter of Dr. Rojas who loaned (rented) farm to Reed;<lb/>
+Calzada Real, Quemados, at right corner of Calle Jose Miguel Gomez (on the<lb/>
+gate of the Finca is the sign &ldquo;San Jose&rdquo;. Be sure to visit the <hi>Finca</hi><lb/>
+(farm) or rather the present Quinta (house) San Jose. Senora Rojas has<lb/>
+her father's old 1900-1901 day-books with entries on Camp &ldquo;Lezar&rdquo;, Major<lb/>
+Mr. &ldquo;Read&rdquo; and &ldquo;Camp Lazear.&rdquo;</p>
+<p>But the Camp Lazear site is approached via Calle Jose M. Gomez (corner of<lb/>
+the Finca San Jose, on Calzada Real). The former site of Building #2<lb/>
+(blown down in 1926) was exactly 80 yards in front of Building #1. Site<lb/>
+of tents was to the <hi>right</hi> (in the empty field) of Building #1 as you stand<lb/>
+there and look to where Building #2 was, - i.e. the only empty land re-<lb/>
+maining there which is not yet quarried away!</p>
+<p>Also to be found are the ruins of the old lime-kiln and bath house of the<lb/>
+priests (<del><unclear></unclear></del> ruins of the one appears in one of the old Army photos of<lb/>
+Camp Lazear).</p></item>
+<item>28. &ldquo;<hi>Old Delmonico's Restaurant</hi>&rdquo; where dinner in honor of <add>Finlay</add><del>Lazear</del>, Reed, et al given<lb/>
+December 22, 1900 - second floor (in what is now the &ldquo;Nobel Academy&rdquo;) over<lb/>
+the &ldquo;Press Wireless office,&rdquo; Parque <unclear>Centrale</unclear> right next to D'Ingleterra<lb/>
+Hotel. Can walk up the stairs and look in the old restaurant site, now<lb/>
+<unclear>cut</unclear> up as rooms (offices) for the Nobel (Business) Academy.</item>
+<item>29. <hi>Pan-American Congress</hi> held in Havana, February 1901, before which Reed presented<lb/>
+in English (and Agramonte in Spanish) the Board's <hi>second</hi> paper. Sessions<lb/>
+were held in both the <hi>Marti</hi> and the <hi>Tacon Theaters</hi>. I have never been<lb/>
+able to find out in which one Reed and Agramonte gave this paper, but<lb/>
+believe it was in the Marti Theater, which still stands at the corner<lb/>
+of Zulueta and Dragunes. The old Tacon Theater (now the National Theater)<lb/>
+is swallowed up by the Centro Gallego Building (Parque Centrals) which<lb/>
+entirely surrounds it and with which it is now &ldquo;incorporated&rdquo; (in its very<lb/>
+center). But a bit of it can be seen by going to the (rear) Consulado<lb/>
+Street entrance (delivery-entrance) and through it into a small court-yard.<lb/>
+A sign on the inner wall identifies the old Tacon Theater. Here the opening<lb/>
+and closing sessions of the Pan-American Congress were held, and I think the<lb/>
+<hi>regular</hi> sessions were held in the (smaller) Marti Theater.</item>
+</list></p>
+<pb n="5" id="f04733005"/>
+<p>-5-</p>
+<p>II. <hi>Geographic Arrangement</hi>: To see in best sequence the places in I.<lb/>
+(Using the number in the first column, I have indicated them on a map of Havana)*</p>
+<p>
+<table rows="20" cols="3">
+<row>
+<cell>II. Geographic<lb/>
+Arrangement</cell><cell>I. Historical<lb/>
+(chronological)<lb/>
+Arrangement</cell><cell>Place to be seen</cell></row>
+<row>
+<cell>1</cell><cell>1</cell><cell>#156 Prado - Finlay's home in 1881</cell></row>
+<row>
+<cell>2<lb/>
+3</cell><cell>2<lb/>
+4</cell><cell>From harbor-drive at La Fuerza, to see<lb/>
+#2 - Cabana Barracks<lb/>
+#3 - Site where the MAINE sunk (off Machina Pier)</cell></row>
+<row>
+<cell>4</cell><cell>5 - 26</cell><cell>City Hall - in 1900 Headquarters of General Wood.</cell></row>
+<row>
+<cell>5</cell><cell>6</cell><cell>Supreme Court Building - in 1900 Quarters for Wood's staff.<lb/>
+between <unclear>Teniente Rey</unclear> &amp; <unclear>Muralla Sts</unclear></cell></row>
+<row>
+<cell>6</cell><cell>18</cell><cell>#460 Aguacate Street - Site of Finlay's 1900 home.</cell></row>
+<row>
+<cell>7 -</cell><cell>-</cell><cell>President's Palace - see Valderrama painting of Drs. Reed,<lb/>
+Lazear (and Carroll) calling on Dr. Finlay (and Albertini).</cell></row>
+<row>
+<cell>8</cell><cell>-</cell><cell>Centro Asturiano (Asturian Club) - to see bronze tablet to<lb/>
+Finlay, Gorgas, Delgado, Guiteras (profiles) and to Agramonte<lb/>
+and Lazear (names only).</cell></row>
+<row>
+<cell>9</cell><cell>29</cell><cell>Marti Theater where Reed and Agramonte read 2nd paper</cell></row>
+<row>
+<cell>10</cell><cell>29</cell><cell>Tacon Theater (now Nacional Theater inside Centro Gallego)<lb/>
+(Galician Club) - where Pan-American Congress held, Feb. 1901</cell></row>
+<row>
+<cell>11.</cell><cell>28</cell><cell>&ldquo;Old Delmonico's Restaurant&rdquo; (where Dec. 22, 1900 celebration for<lb/>
+Finlay, et al given: 2nd floor above Press Wireless, next to<lb/>
+Hotel D'Inglaterra.</cell></row>
+<row>
+<cell>12</cell><cell>-</cell><cell>Finlay Park: Statue of Finlay; busts of Lazear, Delgado,<lb/>
+Gorgas and Guiteras.</cell></row>
+<row>
+<cell>13</cell><cell>-</cell><cell>Ministry of Health (Sanidad) - in patio large statue of Finlay</cell></row>
+<row>
+<cell>14</cell><cell>27</cell><cell>Las Animas Hospital - where Lazear infected his mosquitos and<lb/>
+where presumably he was bitten; see bronze tablet on outside wall</cell></row>
+<row>
+<cell>15</cell><cell>11</cell><cell>Calixto Garcia Hospital: old buildings in rear were part of<lb/>
+Military Hospital #1 in 1900 - Agramonte's laboratory.</cell></row>
+<row>
+<cell>16</cell><cell>-</cell><cell>Colon Cemetery: Graves of Finlay, Delgado, Moran</cell></row>
+<row>
+<cell>17</cell><cell>-</cell><cell>Lions Club memorial to Finlay - just after crossing the<lb/>
+Miramar Bridge over Almensares River</cell></row>
+<row>
+<cell>18<lb/>
+19<lb/>
+20<lb/>
+21<lb/>
+22</cell><cell>7 - 16<lb/>
+10-14-14-20-21-25<lb/>
+8 - 9 - 12 -13-17<lb/>
+19<lb/>
+23</cell><cell>General Lee's (1900) headquarters, Calzada Real, Quemados<lb/>
+Hospital Militar (Cuban) - site of Post Hospital, Columbia Barracks<lb/>
+First houses where 1900 epidemic broke out: Gen. Lee St, Calzada<lb/>
+Real<lb/>
+LaPlaya<lb/>
+Site of yellow fever huts where Lazear died; beside LaPlaya<lb/>
+railroad track</cell></row>
+<row>
+<cell>23</cell><cell>24</cell><cell>Site of old U. S. Army Cemetery where Lazear buried, 1900</cell></row>
+<row>
+<cell>24</cell><cell>3 - 27</cell><cell>Finca San Jose: Quinta San Jose - where Camp Lazear Memorial<lb/>
+now is.</cell></row>
+</table></p>
+<p>* For sites in Quemados de Marianao, see Quemados map.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

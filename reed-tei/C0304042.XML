@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0304042">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Algernon Rose to Laura Armistead Carter, December 14, 1925</title>
+<title type="gmd">[electronic resource]</title>
+<author>Rose, Algernon</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0304042</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1925-12-14</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Laura Armistead</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Horne, Robert</name>
+<name type="place">London (England)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1925-12-14">December 14, 1925</date>
+<idno rend="suppress">C0304042</idno>
+<title>Letter from Algernon Rose to Laura Armistead Carter, December 14, 1925</title>
+</bibl>
+</head>
+<p>Rose expresses regret at the death of Henry Rose Carter, thanks Laura Armistead Carter for her contribution to the Servants' Christmas Box Fund in Carter's name, and expresses pleasure that the reports of the Authors' Club were of interest to Carter.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1925-12-14">
+<head>Letter from Algernon Rose to Laura Armistead Carter, December 14, 1925</head>
+<pb n="1" id="fC0304042"/>
+<opener>
+<hi>Authors' Club</hi>.<lb/>
+(Founded 1891 : Re-constructed 1908).<lb/>
+GENERAL COUNCIL.<lb/>
+<hi rend="italic">President</hi>-- THOMAS HARDY, O.M<unclear>.</unclear>, LL.D.<lb/>
+JOHN AYSCOUGH<lb/>
+RT. HON. SIR D. PLUNKET<lb/>
+BARTON, Bt., K.C.<lb/>
+ARNOLD BENNETT<lb/>
+POULTNEY BIGELOW<lb/>
+SIR EDWARD BRABROOK, C B.<lb/>
+RT. HON. VISCOUNT BURNHAM<lb/>
+C.H., D.Litt. &amp;c.<lb/>
+SIR HALL CAINE, K.B.E., C.H,<lb/>
+W. L. COURTNEY, LL.D.<lb/>
+REV. CANON A. C. DEANE.<lb/>
+REV. P. H. DITCHFIELD, F.S.A.<lb/>
+SIR ARTHUR CONAN DOYLE, LL.D.<lb/>
+THE LORD DUNSANY.<lb/>
+C. B. FRY.<lb/>
+MORICE GERARD<lb/>
+FRANCIS GRIBBLE<lb/>
+SIR ANTHONY HOPE HAWKINS<lb/>
+C. LEWIS HIND.<lb/>
+C. J. CUTCLIFFE HYNE.<lb/>
+SIR ERNEST KILPIN, K.C.M.G.<lb/>
+SIR GODFREY LAGDEN, K.C.M.G.<lb/>
+SIR OLIVER LODGE, F.R.S.<lb/>
+COMPTON MACKENZIE, O.B.E.<lb/>
+RT. HON. GEN. SIR F. NEVIL<lb/>
+MACREADY, Bt., G.C.M.G., K.C.B.<lb/>
+CHARLES MARRIOTT.<lb/>
+DR. J. MORGAN-DE-GROOT.<lb/>
+RT. HON. SIR GILBERT PARKER,<lb/>
+Bt., P.C., LL.D., D.C.L., Litt.D.<lb/>
+SIR ALEXANDER RICHARDSON.<lb/>
+MORLEY ROBERTS.<lb/>
+RT. HON. SIR J. RENNELL RODD.<lb/>
+G.C.B., G.C.M.G., &amp;c.<lb/>
+THE EARL OF RONALDSHAY,<lb/>
+G.C.S.I., G.C.I.E.<lb/>
+REV. A. H. SAYCE. D.Litt. &amp;c.<lb/>
+H. DE VERE STACPOOLE.<lb/>
+HALLIWELL SUTCLIFFE.<lb/>
+THE LORD TENNYSON. G.C.M.G.<lb/>
+Litt.D.<lb/>
+COL. SIR EDWARD T. THACKERAY,<lb/>
+K.C.B., <unclear>V.C.</unclear><lb/>
+HORACE ANNESLEY VACHELL.<lb/>
+E. H. LACON WATSON<lb/>
+PERCY WHITE.<lb/>
+LUCIEN WOLF.<lb/>
+SIR FRANCIS YOUNGHUSBAND.<lb/>
+K.C S.I., K.C.I.E., D.Sc.<lb/>
+SIR T. CATO WORSFOLD, Bt., LL.D., D.L. <hi rend="italic">(Hon. Solicitor)</hi>,<lb/>
+EXECUTIVE COMMITTEE (1925-26).<lb/>
+RT. HON. SIR GILBERT PARKER, BT. LL.D., D.C.L., Litt.D. <hi rend="italic">(Chairman)</hi><lb/>
+FRANCIS GRIBBLE. <hi rend="italic">(Deputy Chairman)</hi>.<lb/>
+ALDER ANDERSON.<lb/>
+THOMAS COBB.<lb/>
+HOLLOWAY HORN.<lb/>
+H. C. PLUMMER, F.R.S.<lb/>
+ERNEST H. SHORT.<lb/>
+EVERARD WYRALL.<lb/>
+A. POMEROY-CRAGG, J.P. <hi rend="italic">(Hon. Librarian)</hi>.<lb/>
+ALGERNON ROSE (HON. SECRETARY).<lb/>
+CHEQUES SHOULD BE MADE OUT TO &ldquo;FINANCIAL SECRETARY, AUTHORS' CLUB,&rdquo; AND CROSSED<lb/>
+BANK OF LIVERPOOL, &amp; MARTIN'S LTD.<lb/>
+TELEPHONE VICTORIA 3160 (12 LINES.)<lb/>
+TELEGRAMS: &ldquo;AZYRITES, (PARL.) LONDON.&rdquo;<lb/>
+CABLES: <unclear>&ldquo;</unclear>AZYRITES LONDON&rdquo;<lb/>
+<dateline>
+2, Whitehall Court,<lb/>
+London, S.W.1.<lb/>
+<date value="1925-12-14">Dec. 14, 1925.</date>
+</dateline><lb/>
+Miss L. A. Carter,<lb/>
+2121 California Street, N.W.,<lb/>
+WASHINGTON, D.C., U.S.A.<lb/>
+<salute>Dear Madam,</salute>
+</opener>
+<p>Permit me to thank you for your letter of the 30th<lb/>
+Novr. It was a matter of extreme regret to us to hear of the<lb/>
+death of your father, Surgeon-General Henry Rose Carter, a very<lb/>
+valued member of the Authors' Club.</p>
+<p>Not having your address, I sent<add>,</add> by wish of the<lb/>
+Committee<add>,</add> a vote of condolence to his &ldquo;next-of-kin&rdquo;, and I hope<lb/>
+that that message<add>,</add> of our sympathy with you in your sad bereavement<add>,</add><lb/>
+reached you.</p>
+<p>It is some consolation to hear that your father was<lb/>
+able to finish the chief part of his History of Yellow Fever, and<lb/>
+<pb n="2" id="fC0304043"/>
+Miss L. A. Carter.<lb/>
+to send the completed MS to the editor of the Bulletin before he<lb/>
+passed away.</p>
+<p>It is more than kind of you to send<add>,</add> in his name<add>,</add> a<lb/>
+Money Order for &pound;1 towards the Servants' Christmas Box Fund. I can<lb/>
+assure you that this touching tribute to his memory is very much<lb/>
+appreciated. His name has been placed in the card in the hall<lb/>
+and I enclose the receipt herewith.</p>
+<p>It is most thoughtful of you to inform us that the<lb/>
+reports of the fortnightly discussions in the Authors' Club were<lb/>
+of interest to Dr. Carter. The last dinner was to have been on<lb/>
+St. Andrew's Night, and we had arranged for a large gathering.<lb/>
+Sir Robert Horne was coming <add>as</add> the guest of the evening, but at the<lb/>
+last moment<add>,</add> the arrangements had to be cancelled<add>,</add> owing to the<lb/>
+sudden illness and death of his mother.</p>
+<p>We will send you the remaining reports for this year,<lb/>
+and I trust that<add>,</add> when they reach you<add>,</add> they will recall the regard<lb/>
+and affection with which your father was held by authors generally.</p>
+<closer>
+<salute>With renewed expressions of sympathy with you, I am,<lb/>
+dear madam,<lb/>
+Yours very truly,</salute>
+<signed>Algernon Rose.</signed>
+Hon. Secretary.<lb/>
+Encl<lb/>
+<pb n="3" id="fC0304044"/>
+<seg>PRINTED &amp; SOLD IN BOOKS BV H. J. RYMAN, LTD., LONDON.<lb/>
+<hi rend="italic">No</hi>.<lb/>
+Dec 14 <hi rend="italic">1925</hi><lb/>
+<hi rend="italic">Received from</hi> Miss L. A. Carter<lb/>
+<hi rend="italic">the sum of</hi> One <hi rend="italic">Pound<del>s</del></hi><lb/>
+--- <hi rend="italic">Shillings and</hi> -- <hi rend="italic">Pence</hi><lb/>
+Servant's Christmas<lb/>
+Box Fund.<lb/>
+&pound; 1-------<lb/>
+AUTHORS' CLUB.<lb/>
+WHITEHALL COURT.<lb/>
+C. Giles<lb/>
+<hi rend="italic">Financial Secretary</hi></seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

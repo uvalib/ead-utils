@@ -1,0 +1,867 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02832001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Essay: Remarks on the Epidemic of Yellow Fever in Baltimore, by James Carroll, [February 15], 1906</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carroll, James</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02832001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1906-02-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Baltimore (Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>7 pp.</extent>
+<date value="1906-02-15">[February 15], 1906</date>
+<idno rend="suppress">02832001</idno>
+<title>Essay: Remarks on the Epidemic of Yellow Fever in Baltimore, by James Carroll, [February 15], 1906</title>
+</bibl>
+</head>
+<p>Carroll gives a history of yellow fever in Baltimore and the debates that ensued among physicians as to whether yellow fever was contagious or not. Published in &ldquo;The Hospital Bulletin&rdquo; by The Hospital Bulletin Company of the University of Maryland.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1906-02-15">
+<head>Essay: Remarks on the Epidemic of Yellow Fever in Baltimore, by James Carroll, [February 15], 1906</head>
+<pb n="1" id="f02832001"/>
+<p>THE HOSPITAL BULLETIN<lb/>
+Feb 15, 1906<lb/>
+187</p>
+<p>the upper abdomen with pardonable pride, for it<lb/>
+has shed more lustre and light than has been done<lb/>
+in any other domain in the course of time.</p>
+<p>----------</p>
+<p>REMARKS ON THE EPIDEMIC OF YEL-<lb/>
+LOW FEVER IN BALTIMORE.</p>
+<p>BY JAMES CARROLL, M.D.,<lb/>
+&check;<lb/>
+<hi rend="italic">Surgeon U. S. A., Washington, D. C.</hi></p>
+<p><hi rend="italic">Mr. President and Gentlemen of the Alumni<lb/>
+Association:</hi></p>
+<p>Instead of a strictly technical theme, I have<lb/>
+chosen one that may be of more general interest,<lb/>
+and which formerly demanded the attention of<lb/>
+two of the most brilliant minds among the early<lb/>
+teachers of the University.</p>
+<p>Dr. Nathaniel Potter, a former pupil of Dr.<lb/>
+Benjamin Rush, and afterwards the first profes-<lb/>
+sor of theory and practice of medicine in the Uni-<lb/>
+versity, held in 1793, that yellow fever was not<lb/>
+contagious, and he communicated this opinion<lb/>
+to Dr. Rush in writing. According to his own<lb/>
+statement, he believed that he was the only person<lb/>
+in America who held that opinion, and in 1795 he<lb/>
+prepared to defend his belief in an inaugural thesis<lb/>
+to be read at the next commencement of the Uni-<lb/>
+versity of Pennsylvania of which he was a stu-<lb/>
+dent. He was dissuaded by Dr. Wistar on the<lb/>
+grounds of propriety and expediency. Dr. Potter<lb/>
+states that in 1797 Rush's contention that the dis-<lb/>
+ease was contagious was first publicly attacked<lb/>
+by Dr. John B. Davidge, one of the founders and<lb/>
+the first professor of surgery and obstetrics in this<lb/>
+school, whose paper was published in the <hi rend="italic">Federal<lb/>
+Gazette</hi>, of Baltimore, on the 30th day of Novem-<lb/>
+ber, 1797. Dr. Davidge subsequently enlarged his<lb/>
+paper and embodied it in a volume entitled &ldquo;Phy-<lb/>
+sical Sketches,&rdquo; published in Baltimore in 1814.<lb/>
+On account of the importance of this city as a<lb/>
+seaport, in almost constant intercourse with the<lb/>
+West Indies, yellow fever must have been intro-<lb/>
+duced a great many times, yet the only important<lb/>
+epidemic outbreaks of the disease took place in<lb/>
+1794, 1797, 1800 and 1819. It is notable that all<lb/>
+the outbreaks began at Locust Point, or about the<lb/>
+docks and wharves, and they can be traced di-<lb/>
+rectly or indirectly to the shipping. The rela-<lb/>
+tively high ground upon which the city stood,<lb/>
+and the distance from the city proper to the<lb/>
+wharves and shipping, explain why the interur-<lb/>
+ban residents suffered but little, while those living<lb/>
+upon the poorly drained, low-lying districts near<lb/>
+the river were compelled on such occasions to<lb/>
+flee for safety. It can be easily shown that<lb/>
+yellow fever was frequently confounded with ma-<lb/>
+laria; indeed, it was strongly contended that the<lb/>
+two diseases were one and the same, the differ-<lb/>
+ence being only in the degree of intensity. Then,<lb/>
+while many contended that the disease was im-<lb/>
+ported, and though their contentions could be sup-<lb/>
+ported by sworn testimony, there were others<lb/>
+among the leaders and teachers in the profession<lb/>
+who held, with Rush, that since the infection was<lb/>
+most prevalent in poorly drained localities, the<lb/>
+water and decomposing vegetable matter must be<lb/>
+necessary for the generation of the poison, which<lb/>
+was manifestly conveyed through the atmosphere.<lb/>
+The general restriction of the disease to the lo-<lb/>
+calities described, the observation that many per-<lb/>
+sons who visited those localities for only a few<lb/>
+hours became infected, while in other localities<lb/>
+no infection took place, even among those who<lb/>
+were intimately associated with the patients, prov-<lb/>
+ed the disease to be one of locality. With the ob-<lb/>
+servation that if the wind blew strongly from the<lb/>
+direction of the infected locality toward the city,<lb/>
+that within a few days the disease also extended<lb/>
+toward the city, it was concluded, with reason,<lb/>
+that the poison must exist in the atmosphere,<lb/>
+that it was transported by the winds, and that in-<lb/>
+fection could only result from the inhalation of this<lb/>
+poison, which was believed to be gaseous in nature.<lb/>
+This agreed with Sydenham's theory of the epi-<lb/>
+demic constitution of the atmosphere, which was<lb/>
+supported by Rush and his pupils, and which then<lb/>
+seemed to offer the only explanation of the record-<lb/>
+ed observations of centuries. If we admit the<lb/>
+mosquito as the sole carrier of the disease, we<lb/>
+will be prepared to acknowledge that their ob-<lb/>
+servations were, in the main points, strictly ac-<lb/>
+curate; that their reasoning was logical, and the<lb/>
+deductions fully justified by the premises. It<lb/>
+then becomes very easy to understand how the<lb/>
+disease became one of lowly situated and poorly<lb/>
+drained localities; how it was transmitted by the<lb/>
+atmosphere; how it failed to spread in certain lo-<lb/>
+cations, and how it disappeared upon the appear-<lb/>
+ance of a heavy frost. The observation was actu-<lb/>
+ally recorded by a Baltimore physician, that during<lb/>
+the epidemic, mosquitoes became an intolerable<lb/>
+pest, while but a short time before no mosquitoes<lb/>
+were observed. How beautifully this observation<lb/>
+<pb n="2" id="f02832002"/>
+188<lb/>
+THE HOSPITAL BULLETIN<lb/>
+agrees with our present knowledge that the yel-<lb/>
+low-fever-carrying mosquitoes can be conveyed on<lb/>
+vessels; that in the warmer season of the year<lb/>
+they will multiply on shore, gradually extending<lb/>
+from house to house, breeding in and about the<lb/>
+dwellings (for they are domesticated insects),<lb/>
+and that they become infected only after feeding<lb/>
+upon a patient. The importation of the mosquito<lb/>
+explains the appearance of this insect in places<lb/>
+where it usually does not exist: it explains the<lb/>
+occurrence of the earlier cases among persons who<lb/>
+either visited the vessels or wharves or docks, or<lb/>
+who lived in the vicinity of them. It also explains<lb/>
+why favorable localities were visited by the in-<lb/>
+fection only, as a rule, when they received ship-<lb/>
+ping; while localities equally favorable to the in-<lb/>
+fection, but far from the shipping, remained free<lb/>
+from it. Of course, the absence of the proper<lb/>
+mosquito explains the failure of the disease to<lb/>
+spread to any extent in the city proper. This stood<lb/>
+upon ground that was high and dry, and it was at<lb/>
+that time some distance from Fell's Point, the lo-<lb/>
+cation of Sugar House Wharf, where many of<lb/>
+the vessels from the West Indies probably made<lb/>
+their landing. Assuming that at the Sugar House<lb/>
+Wharf, cargoes of sugar were unloaded, we are<lb/>
+reminded that sugar is a favorite food for the<lb/>
+yellow-fever-mosquito, and that it can subsist on<lb/>
+this and water alone for months. Now Sugar<lb/>
+House Wharf was at Fell's Point, and most of the<lb/>
+outbreaks began at Fell's Point, where, presum-<lb/>
+ably, the largest number of mosquitoes was im-<lb/>
+ported.</p>
+<p>During the epidemic of 1794, 360 deaths were<lb/>
+recorded. Dr. Drysdale reported<hi rend="superscript">1</hi> that he saw his<lb/>
+first case just before death on the 7th of August,<lb/>
+at Bowley's Wharf, in the town, and on the 14th,<lb/>
+20th, 22d and 23d of the same month he saw five<lb/>
+additional cases at the same part of the wharf.<lb/>
+There were also at the same place some other<lb/>
+cases which did not come under his care. Dr.<lb/>
+Drysdale states that there was considerable sick-<lb/>
+ness at Fell's Point after the death of his first<lb/>
+case, and many deaths had occurred suddenly,<lb/>
+or after a short indisposition. An investigation<lb/>
+was made by three of the most respectable physi-<lb/>
+cians, who reported that the prevailing fever was<lb/>
+the common epidemic of the season which visited<lb/>
+the Southern and Middle States annually, viz.:<lb/>
+the bilious remittent fever. The number of cases</p>
+<p>----------</p>
+<p><hi rend="superscript">1</hi> <hi rend="italic">The Philadelphia Medical Museum</hi>, <unclear>1805, 1 26.</unclear> Letters written by<lb/>
+Dr. Drysdale to Dr. Rush.</p>
+<p>now rapidly increased, so that by September 25,<lb/>
+in about seven weeks, five physicians were attack-<lb/>
+ed and two of them died. The cases had become<lb/>
+so numerous that Dr. Coulter visited and pre-<lb/>
+scribed for more than 120 persons daily. By the<lb/>
+end of the month many families had sought refuge<lb/>
+in the country. During this time the city remained<lb/>
+unusually healthy, and although some persons in-<lb/>
+fected at the Point died in the city proper, in that<lb/>
+location the disease failed to spread.</p>
+<p>In his ninth letter of a series to Dr. Rush he<lb/>
+states that yellow fever was first discovered at<lb/>
+two points, remote from each other, viz.: at Bow-<lb/>
+ley's Wharf in the town, and at Fell's Point.<lb/>
+Many cases occurred throughout the town, but<lb/>
+these originated either from communication with<lb/>
+Bowley's Wharf or the Point, and the infection<lb/>
+could be distinctly traced to one of those two<lb/>
+places. Being puzzled to explain why the in-<lb/>
+fection was confined to those two places, he found<lb/>
+that the first cases on the Point were confined to<lb/>
+houses whose cellars were filled with stagnant,<lb/>
+putrid water, and he also found<unclear>'</unclear> black, putrid<lb/>
+and offensive water beneath the stores in which<lb/>
+the sick resided at Bowley's Wharf. Almost all<lb/>
+those who were first affected were new-comers.<lb/>
+Dr. Drysdale describes the Point as being low and<lb/>
+flat; its streets generally not paved; its alleys<lb/>
+filthy and the ground around it marshy in many<lb/>
+places. The frequent warm rains kept the noxious<lb/>
+places constantly moist under a hot sun. We can<lb/>
+easily recognize these as conditions favorable to<lb/>
+the multiplication of mosquitoes, and the domes-<lb/>
+tic habits of the <hi rend="italic">stegomyia</hi> mosquito would tend to<lb/>
+keep the infection rather closely confined to these<lb/>
+localities. He further makes the significant<lb/>
+statement that remittents were present from a very<lb/>
+early period. It is more than probable that many<lb/>
+of these remittents were true yellow fever, be-<lb/>
+cause under the belief then prevailing, that these<lb/>
+were simply the prevailing types of summer fever,<lb/>
+they would not be reported. It is also probable that<lb/>
+if occasional cases were known to have been yel-<lb/>
+low fever, some physicians would have concealed<lb/>
+them from the same motives that prevail today.<lb/>
+He could discover no satisfactory evidence of the<lb/>
+importation of the disease, though he states that<lb/>
+the &ldquo;Triumph&rdquo; arrived at the wharf about the last<lb/>
+of June, with almost all the crew indisposed, and<lb/>
+previously to this there lay at the wharf a schooner<lb/>
+whose captain had died on the voyage from the<lb/>
+West Indies. The fact alone, however, that ves-<lb/>
+<pb n="3" id="f02832003"/>
+THE HOSPITAL BULLETIN<lb/>
+189<lb/>
+sels from the West Indies came up to the wharf is<lb/>
+sufficient to indicate to us the source from which<lb/>
+the infection was received. The following sen-<lb/>
+tence toward the end of the ninth letter is of ex-<lb/>
+treme interest: &ldquo;Locusts were not more numer-<lb/>
+ous in the reign of Pharaoh than <hi rend="italic">mosquitoes<lb/>
+through the last few months:</hi> yet these insects<lb/>
+were very rare only a few years past, when a far<lb/>
+greater portion of Baltimore was a marsh.&rdquo; With<lb/>
+wonderful acuteness of observation he remarks<lb/>
+that some families at the Point avoided yellow fever<lb/>
+by carefully precluding all communication with<lb/>
+the sick, and that vessels also preserved their crews<lb/>
+in health by removing to a distance from the<lb/>
+wharf and preventing the sailors from going<lb/>
+ashore. As soon as one infected person came on<lb/>
+board he quickly infected all or most of the crew.<lb/>
+He instances one man who contracted the dis-<lb/>
+ease on shore and carried it on board the ship<lb/>
+&ldquo;Phoenix,&rdquo; whose crew was healthy. These all<lb/>
+became infected and five out of twelve died. As<lb/>
+the result of these observations he very naturally<lb/>
+concluded that in some instances the fever proved<lb/>
+contagious. These, and other cases cited, are<lb/>
+now so easily explained by the mosquito theory<lb/>
+that we cannot appreciate the perplexity of the<lb/>
+problem as it formerly presented itself for solu-<lb/>
+tion. The most accurate and careful observation<lb/>
+yielded results that were apparently contradictory.<lb/>
+All honor to Dr. Drysdale, whose tenth and last<lb/>
+letter of the series was written to Dr. Rush in<lb/>
+December, 1794.</p>
+<p>Some further interesting references to this epi-<lb/>
+demic were published by Dr. John B. Davidge<lb/>
+in 1798 and subsequently rewritten by him in a<lb/>
+treatise on yellow fever, published in 1813. He<lb/>
+makes the interesting statement that the yellow<lb/>
+fever first appeared in the last of August, but the<lb/>
+common bilious fever prevailed at Fell's Point<lb/>
+from June. A lady from Philadelphia was at-<lb/>
+tracked with yellow fever, on Charles street, and<lb/>
+she had black vomit, but no other person in the<lb/>
+family or neighborhood was attacked during the<lb/>
+whole season. He noted that the disease extend-<lb/>
+ed in the direction of the prevailing winds, and<lb/>
+that it was conveyed by a northeast wind all<lb/>
+along Federal Hill and the west end of the basin.<lb/>
+A considerable number of cases occurred in the<lb/>
+city and many who had attended the launching of<lb/>
+a frigate (near the water, of course), subsequent-<lb/>
+ly suffered from yellow fever, and several of them<lb/>
+died, but no single person in the city contracted<lb/>
+the disease from them.</p>
+<p>Concerning the prevalence of yellow fever in<lb/>
+Baltimore at that time (1798). Dr. Davidge<lb/>
+writes, &ldquo;A physician in conversation the other<lb/>
+day told me that he had met with the yellow fever,<lb/>
+in Baltimore, ever since he had lived in it, which<lb/>
+is fifteen or twenty years. It is violating all<lb/>
+obligations of decency and truth to say that it<lb/>
+is of recent date.&rdquo; This statement was probably<lb/>
+correct, for every importation of the disease is<lb/>
+not necessarily followed by an epidemic. In<lb/>
+Baltimore and other places where the mosquito,<lb/>
+<hi rend="italic">stegomyia fasciata</hi>, is not normally present, an<lb/>
+epidemic is not possible, after the introduction of<lb/>
+any number of cases, provided the mosquito be<lb/>
+absent. For the production of an epidemic the<lb/>
+introduction of infected mosquitoes alone during<lb/>
+the hot season may suffice, because the mosquitoes<lb/>
+deposit their eggs, and in a week or ten days<lb/>
+another brood will have become mature. The<lb/>
+insects of this new brood must bite a patient in<lb/>
+the first three or four days of the attack in order<lb/>
+that they may become infected. Should only one<lb/>
+or two infected insects be brought in and should<lb/>
+they die (as frequently happens) immediately<lb/>
+after depositing their eggs, then the disease would<lb/>
+appear only in the persons first bitten by them,<lb/>
+and these would have passed beyond the infective<lb/>
+period by the time the new brood had matured.<lb/>
+Should the infected insects, however, have re-<lb/>
+mained alive, and should they have bitten other<lb/>
+persons, at intervals of a few days in succession,<lb/>
+these persons would be in the proper stage of the<lb/>
+disease at the maturing of the new brood to en-<lb/>
+able them to become infected. When the proper<lb/>
+mosquito has been previously introduced into a<lb/>
+favorable locality in the proper season, or when<lb/>
+the mosquito, <hi rend="italic">stegomyia fasciata</hi>, is naturally pres-<lb/>
+ent, the introduction subsequently of a single case,<lb/>
+may produce an epidemic. The facts above<lb/>
+stated will readily explain the frequently reported<lb/>
+appearance of sporadic cases without the occur-<lb/>
+rence of secondary ones.</p>
+<p>We can now see that the immunity against the<lb/>
+disease enjoyed by the city proper evidently de-<lb/>
+pended upon its high and dry location, which ren-<lb/>
+dered the conditions unfavorable for the multipli-<lb/>
+cation of the mosquitoes that were imported. In<lb/>
+this regard Baltimore was more fortunate than<lb/>
+Philadelphia, which was lower and contained<lb/>
+more standing water. Hence, the mosquitoes<lb/>
+<pb n="4" id="f02832004"/>
+190<lb/>
+THE HOSPITAL BULLETIN<lb/>
+were more abundant and the disease spread uni-<lb/>
+formly. This led Dr. Rush to contend that the<lb/>
+disease must be contagious, while Dr. Davidge<lb/>
+held that the contagion was local, and existed only<lb/>
+in the air of certain spots, from where it might be<lb/>
+wafted by the winds in any direction. Dr.<lb/>
+Davidge aserted (p. 84) that they had the most<lb/>
+stubborn and irrefragable proofs, in those cases<lb/>
+occurring about the wharves and at Fell's Point,<lb/>
+that the disease was incapable of supporting<lb/>
+itself. When these cases were removed up into<lb/>
+the city their virulence died with them, those who<lb/>
+died: and, he writes, &ldquo;from those who recovered,<lb/>
+all mischief and supposed contagion evanesced<lb/>
+into empty air, which bore it to the pages of medi-<lb/>
+cal writers, and not to the bodies of healthy at-<lb/>
+tendants. This was the result in 1794 and 1797.&rdquo;</p>
+<p>The importance of this observation can hardly<lb/>
+be overestimated; it shows the sagacity and care<lb/>
+with which the epidemic was studied by these<lb/>
+devoted men. Dr. Davidge learned the truth, and<lb/>
+that truth unfortunately still remains today a<lb/>
+hidden mystery to many of our practitioners, not-<lb/>
+withstanding the recent absolute demonstration of<lb/>
+it beyond a shadow of a doubt.</p>
+<p>In connection with the now known mosquito<lb/>
+propagation of the disease, an observation record-<lb/>
+ed by Dr. Nathaniel Potter <hi rend="superscript">2</hi> in this outbreak of<lb/>
+1797 deserves mention. He tells us that previous<lb/>
+to the 17th of September the fever had been con-<lb/>
+fined to certain places and to such as had breathed<lb/>
+the air evolved from them; on that day a strong<lb/>
+southeast wind wafted the affluvia in a north-<lb/>
+west direction, and diffused it among the inhabi-<lb/>
+tants of the upper parts of Frederick, Gay, South<lb/>
+and Calvert streets, who became immediately im-<lb/>
+plicated in all the horrors of the fever.</p>
+<p>In 1800 there appeared the severest outbreak the<lb/>
+city has known. The mortality from yellow fever<lb/>
+is recorded to have been 1,197, or about one in<lb/>
+fifty of the population of 60,000. Again the disease<lb/>
+began at Fell's Point, on the borders of the Cove,<lb/>
+which extended from Jones' Falls to the interior.<lb/>
+The Faculty of Medicine of the city, after investi-<lb/>
+gation, reported to the Mayor that in their belief<lb/>
+the disease was not imported, but originated in<lb/>
+the Cove from the stagnation and putrefaction of<lb/>
+filth under a summer's sun. The first two cases<lb/>
+appeared on the 2d of May <hi rend="superscript">1</hi>, another on the 8th of</p>
+<p>----------</p>
+<p><hi rend="superscript"><unclear>2</unclear></hi> <hi rend="italic">Memoir on Contagion</hi>, by Nathaniel Potter, M. D., Baltimore,<lb/>
+1818, p. 20.</p>
+<p><hi rend="superscript"><unclear>1</unclear></hi> <hi rend="italic">Medical Repository</hi>, New York, 1801, Vol. IV, p. 351.</p>
+<p>June, one on the 9th, 10th and 13th; then from the<lb/>
+22d they became more numerous. It is unfortu-<lb/>
+nate that we have no detailed description of this<lb/>
+epidemic, the most disastrous the city has ever<lb/>
+experienced.</p>
+<p>A few cases are reported for the years 1802-<lb/>
+1805.</p>
+<p>The next important outbreak took place in 1819<lb/>
+following the arrival of an infected ship from<lb/>
+Havana.<hi rend="superscript">2</hi> In a letter to the editors of the <hi rend="italic">Medi-<lb/>
+cal Repository</hi>, Dr. Pierre Chatard,<hi rend="superscript">3</hi> of Baltimore,<lb/>
+writing October 19, cites the first cases as follows:<lb/>
+The fever commenced raging at Fell's Point in<lb/>
+the beginning of July, and never ceased there un-<lb/>
+til the end of October. It appeared also at<lb/>
+Smith's Dock toward the end of July, carrying<lb/>
+off five persons, whose names are given, and oth-<lb/>
+ers. The persons named had counting houses on<lb/>
+the dock or in the vicinity. No other cases ap-<lb/>
+peared at the dock for two months, at the end of<lb/>
+which time two more appeared. Dr. Chatard at-<lb/>
+tributes the absence of cases during this time to<lb/>
+the great quantity of lime that had been strewn<lb/>
+on the ground by order of the Mayor. The lime<lb/>
+was again applied and the cases ceased. At<lb/>
+Fell's Point the disease raged for three months<lb/>
+before it subsided. The greater part of the popu-<lb/>
+lation retired to the healthier portions of the city,<lb/>
+and many of them sickened and died there, but<lb/>
+none of their friends or relatives suffered in con-<lb/>
+sequence. We are told by Dr. Chatard that the<lb/>
+epidemic focus on the Point never exceeded<lb/>
+seven or eight thousand square feet. This in-<lb/>
+formation he regarded as precious because it<lb/>
+demonstrated the non-contagiousness of the dis-<lb/>
+ease and the value of a local quarantine.</p>
+<p>Among the most interesting records of this ep-<lb/>
+idemic are the letters and other documents pub-<lb/>
+lished by authority of the Mayor in 1820. These<lb/>
+contain the actual opinion and experiences of the<lb/>
+physicians, and they show a remarkable unanim-<lb/>
+ity in the belief among the Baltimore physicians<lb/>
+that the disease was non-contagious. The per-<lb/>
+sistency with which the infection originated and<lb/>
+remained in the vicinity of shipping, wharves,<lb/>
+etc., is generally commented on. Dr. Clendinen<lb/>
+reports that his first cases were located at the<lb/>
+southeast corner of Fell's Point, and several of<lb/>
+them appeared among foreigners on board the</p>
+<p>----------</p>
+<p><hi rend="superscript"><unclear>2</unclear></hi> <hi rend="italic">Carpenter on Yellow Fever</hi>, New Orleans, 1844, p. 18.</p>
+<p><hi rend="superscript"><unclear>3</unclear></hi> <hi rend="italic">Medical Repository</hi>, New York, Vol. 20, 1820, p. 261.</p>
+<pb n="5" id="f02832005"/>
+<p>THE HOSPITAL BULLETIN<lb/>
+191</p>
+<p>shipping, persons who had been healthy previous<lb/>
+to their arrival. This invasion by the disease of<lb/>
+healthy ships tied up to the wharves appeared to<lb/>
+be indisputable evidence of the poisoned condi-<lb/>
+tion of the atmosphere. Of course, it is hardly<lb/>
+necessary to say here that these vessels were sim-<lb/>
+ply invaded by infected mosquitoes. Dr. Clen-<lb/>
+dinen was a resident of the Point, and he states<lb/>
+that his family had suffered from the disease and<lb/>
+he had lost a student, an assistant physician, and<lb/>
+some of his best friends. Dr. Samuel B. Martin,<lb/>
+after enumerating 34 of his earlier cases, with<lb/>
+their location about the wharves and shipyards,<lb/>
+states: &ldquo;These will suffice, I think, to show the<lb/>
+course the disease took in its commencement,<lb/>
+traveling regularly along the course of the water<lb/>
+and infecting the streets in the vicinity thereof.<lb/>
+My most violent cases were near the water's edge<lb/>
+or contracted there.&rdquo;</p>
+<p>No mention of this epidemic would be complete<lb/>
+without a reference to the little book by Dr. Da-<lb/>
+vid M. Reese, entitled &ldquo;Observations on the Epi-<lb/>
+demic of 1819.&rdquo; a book which everyone interest-<lb/>
+ed in the subject should read. According to him,<lb/>
+some persons attributed the epidemic to the ar-<lb/>
+rival of the schooner &ldquo;Adventure&rdquo; from the West<lb/>
+Indies, laden with coffee, while others looked<lb/>
+with suspicious eyes upon the schooner &ldquo;Proser-<lb/>
+pine,&rdquo; laden with hides and coffee. Both vessels<lb/>
+were ordered to the quarantine ground, but were<lb/>
+soon permitted to return because, after a re-ex-<lb/>
+amination by the health officer, their cargoes were<lb/>
+found to be in a sound condition.</p>
+<p>Referring to the time when 1,016 cases had<lb/>
+been reported by the physicians, Dr. Reese states<lb/>
+that of all of these only twelve were supposed to<lb/>
+have originated in the city. He calls attention to<lb/>
+the remarkable fact that, in almost every instance<lb/>
+where a person visited the Point at night they con-<lb/>
+tracted the disease, while those who were there<lb/>
+only in the daytime escaped with impunity. He<lb/>
+further remarks that those of the Baltimore phy-<lb/>
+sicians who became infected suffered in conse-<lb/>
+quence of paying a visit by night to the source of<lb/>
+infection, or to the vicinity where the cause ex-<lb/>
+isted. Several physicians who had attended pa-<lb/>
+tients in the daytime in the very center of the<lb/>
+infection, and through the whole course of the<lb/>
+fever remained exempt, until by visiting the dis-<lb/>
+trict once in the night they contracted the dis-<lb/>
+ease. This accords perfectly with the mosquito<lb/>
+theory and with the twilight habits of <hi rend="italic">stegomyia<lb/>
+fasciata</hi>, the particular mosquito now known to<lb/>
+be concerned in the transmission of the disease. It<lb/>
+is also in accord with the experience of the Amer-<lb/>
+ican troops near Havana. Soldiers who visited<lb/>
+the city only between the hours of 9 A. M. and 4<lb/>
+P. M. remained free from the disease, while<lb/>
+among those who became infected there were but<lb/>
+few who did not acknowledge having spent a<lb/>
+night or a part of a night out of the barrack. Let<lb/>
+us now consider what evidence, if any, collected<lb/>
+by these closely observant Baltimore physicians<lb/>
+could be used to support the mosquito theory to-<lb/>
+day. Firstly, they recorded the presence of an<lb/>
+unusually large number of mosquitoes; secondly<lb/>
+they observed that the infection was localized in<lb/>
+the low, wet districts near the river and shipping;<lb/>
+thirdly, they noted that the infection was con-<lb/>
+tracted mostly at night; fourthly, they showed<lb/>
+that in the higher and drier ground of the city<lb/>
+proper the disease was absolutely non-conta-<lb/>
+gious; fifthly, they reported that the disease trav-<lb/>
+eled in the direction of the prevailing winds,<lb/>
+when these were strong and blew in one direc-<lb/>
+tion; and, sixthly, they were familiar with the<lb/>
+fact that yellow fever was most apt to prevail<lb/>
+when the mean temperature was high, and they<lb/>
+knew perfectly well that the disease was stamped<lb/>
+out by the frost. To this we can add nothing<lb/>
+more than the direct implication of the mosquito.<lb/>
+Of course, a mistake was made in the failure to<lb/>
+recognize the imported nature of the disease, and<lb/>
+strong protests were written against the quaran-<lb/>
+tine methods then in force against Baltimore by<lb/>
+Philadelphia, Wilmington and other places.<lb/>
+These quarantines were established in the belief<lb/>
+that the disease was contagious. The Baltimore<lb/>
+physicians, having the strongest proofs that it<lb/>
+was not, felt that they were treated with undue<lb/>
+severity. In a low-lying city like Philadelphia,<lb/>
+where mosquitoes were numerous, there was jus-<lb/>
+tification for the belief in contagion, so that,<lb/>
+while both were partly wrong in their opinions,<lb/>
+under the circumstances the method of quaran-<lb/>
+tine was a justifiable and proper one to adopt for<lb/>
+their safety. On the other hand, the lax quaran-<lb/>
+tine system at Baltimore was a source of danger,<lb/>
+still it was justifiable on the ground of the availa-<lb/>
+ble evidence to show that yellow fever was not<lb/>
+contagious and upon the belief then prevailing<lb/>
+that all infectious fevers were the result of pu-<lb/>
+trefaction. Hence, if a vessel were clean and her<lb/>
+cargo in good condition, it was assumed that she<lb/>
+<pb n="6" id="f02832006"/>
+192<lb/>
+THE HOSPITAL BULLETIN<lb/>
+could not harbor the seeds of the disease and she<lb/>
+was permitted to come into dock and unload.</p>
+<p>In the management of the epidemic the wise<lb/>
+policy was adopted of advising all persons to flee<lb/>
+the infected location and seek a residence upon<lb/>
+high ground without the range of the infection.<lb/>
+This the majority did, many going to the country<lb/>
+or remaining nearby, while some refused to leave<lb/>
+their habitations, and these latter furnished the<lb/>
+fuel for the continuance of the pestilence. This<lb/>
+epidemic is said to have cost the city 350 lives.</p>
+<p>The kindly concern shown for the welfare of<lb/>
+the destitute poor stands out brightly in the his-<lb/>
+tory of this outbreak. It became necessary to re-<lb/>
+move the healthy poor from Fell's Point and pro-<lb/>
+vide means of shelter and sustenance for them<lb/>
+until it was safe for them to return. A commit-<lb/>
+tee was appointed who visited a Mr. Owen Dor-<lb/>
+sey to solicit the use of a ropewalk owned by<lb/>
+him. This was granted free of charge and the<lb/>
+removal began. More room was soon needed,<lb/>
+and a Mr. Christopher Chapman gave up another<lb/>
+adjacent ropewalk, 1,000 feet long, for the pur-<lb/>
+pose. This was not sufficient and more than 100<lb/>
+tents and marquees were then pitched and filled.<lb/>
+Over 1,000 persons were received, made comfort-<lb/>
+able and supplied with provisions and every ne-<lb/>
+cessity. The corporation appropriated $1,000,<lb/>
+but this was returned, the donations of money and<lb/>
+supplies being ample for all purposes. Notwith-<lb/>
+standing the partial depopulation, business de-<lb/>
+pression, failure of some of the leading commer-<lb/>
+cial houses and one of the banks, over $4,000 in<lb/>
+cash were contributed and liberal donations of<lb/>
+food, clothing, etc., poured into the warehouses<lb/>
+designated to receive them. The neighboring<lb/>
+farmers contributed flour, fruit and vegetables,<lb/>
+as well as money, and Georgetown, D. C., con-<lb/>
+tributed $700. A soup-house was established at<lb/>
+the encampment, and this supplied over 100 gal-<lb/>
+lons of rich, wholesome soup daily. This enter-<lb/>
+prise was undertaken by three energetic gentle-<lb/>
+men--Messrs. Stewart, Mosher and Coale--and<lb/>
+through voluntary contributions of material and<lb/>
+labor the total outlay required was only $10. The<lb/>
+camp was maintained for 53 days, and when it<lb/>
+was broken up, on the 25th day of October, each<lb/>
+person was supplied with provisions for three<lb/>
+days. There were only six deaths in the encamp-<lb/>
+ment and five additional in the hospital of per-<lb/>
+sons who contracted the fever at the Point and<lb/>
+were carried from the camp to the hospital for<lb/>
+treatment. The sick among the poor were cared<lb/>
+for at the hospital at the expense of the city.<lb/>
+Food, luxuries and stimulants were provided for<lb/>
+distribution upon the order of any practicing<lb/>
+physician. It is estimated that by these means<lb/>
+several hundred lives were saved and the record<lb/>
+is one of which Baltimore should be proud. The<lb/>
+Mayor, Edward Johnson, was a man of Christian<lb/>
+character, high <unclear>coverage</unclear> and strong determina-<lb/>
+tion. Disregarding protests the Mayor and many<lb/>
+of the Board of Health visited the hospitals dur-<lb/>
+ing the height of the epidemic, and by their ex-<lb/>
+ample inspired others with confidence in the non-<lb/>
+contagious nature of the disease. Dr. Reese<lb/>
+wrote of him: &ldquo;Mr. Johnson is one of the few<lb/>
+individuals with whom, when <hi rend="italic">interest</hi> and <hi rend="italic">duty</hi><lb/>
+are in opposite scales, the latter will ever pre-<lb/>
+dominate.&rdquo;</p>
+<p>After this disastrous epidemic a few cases oc-<lb/>
+curred annually until 1805, and perhaps later.</p>
+<p>Ten cases are reported to have appeared at<lb/>
+Fort McHenry in 1868, and the disease was be-<lb/>
+lieved to come from infected vessels in quaran-<lb/>
+tine nearby. It is probable, as has been stated<lb/>
+by Dr. John Morris,<hi rend="superscript">1</hi> that sporadic outbreaks<lb/>
+were frequent at Fell's Point until 1855. In this<lb/>
+year Dr. Kemp, of the Board of Health, had the<lb/>
+infected district drained and cleaned. It is said<lb/>
+to have been free from the disease from then until<lb/>
+1876 (except during the suspension of commerce<lb/>
+during the Civil War), when a small outbreak of<lb/>
+the fever undoubtedly appeared, though the<lb/>
+cases were not officially reported.<hi rend="superscript">2</hi></p>
+<p>In this review of the epidemics at Baltimore,<lb/>
+the literature of which is very scant, I have con-<lb/>
+fined myself to a simple narration of the facts<lb/>
+which seem to be of general interest, and I hope<lb/>
+that some of you may be stimulated to read for<lb/>
+yourselves the records written by men of this<lb/>
+city, some of whom were teachers in our Univer-<lb/>
+sity and of whom you have every reason to be<lb/>
+proud.</p>
+<p>----------</p>
+<p><hi rend="superscript">1</hi> <hi rend="italic">History of the Epidemic in Baltimore in 1876. Reports of American<lb/>
+Public Health Association</hi>, Vol. IV, p. 244.</p>
+<p><hi rend="superscript">2</hi> <hi rend="italic">Baltimore Physician and Surgeon</hi>, Vol. VI, No. 2, 1876, p. 37.</p>
+<p>----------</p>
+<p>The management of the Baltimore General<lb/>
+Dispensary held the 106th annual meeting of the<lb/>
+organization, Thursday, January 18, 1906, and<lb/>
+elected Dr. Edward MacKenzie, class of 1884,<lb/>
+one of the physicians to the institution.</p>
+</div1>
+<div1 type="document" n="1906-02-15">
+<head>&ldquo;Remarks on the Epidemic of Yellow Fever in Baltimore&rdquo; by James Carroll, [February 15], 1906</head>
+<pb n="7" id="f02832007"/>
+<p>THE HOSPITAL BULLETIN 193</p>
+<p>THE HOSPITAL BULLETIN</p>
+<p>A Monthly Journal of Medicine and Surgery<lb/>
+EDITED BY<lb/>
+A COMMITTEE OF THE HOSPITAL STAFF.</p>
+<p>-----</p>
+<p>PUBLISHED BY THE<lb/>
+HOSPITAL BULLETIN COMPANY<lb/>
+of the University of Maryland.</p>
+<p>-----</p>
+<p>Business Address, . . . . . . . Baltimore, Md.</p>
+<p>Editorial Address, . . . . University of Maryland</p>
+<p>=================================================</p>
+<p>BALTIMORE, MD., FEBRUARY 15, 1906.</p>
+<p>=================================================</p>
+<p>EDITORIAL</p>
+<p>THE ORGANIZATION OF AN ALUMNI ASSOCIA-<lb/>
+TION OF THE UNIVERSITY IN NORTH CAROLINA.--<lb/>
+It has been suggested by one of the most<lb/>
+promising and active of the younger alumni<lb/>
+of the University residing in North Carolina--<lb/>
+Dr. J. L. Hanes, of Winston-Salem--that the<lb/>
+forthcoming meeting of the State Medical Society,<lb/>
+in Charlotte, would be a suitable occasion to or-<lb/>
+ganize an association of alumni of the University<lb/>
+residing in that State. At these annual meetings<lb/>
+of the State Society the University is largely rep-<lb/>
+resented, and it would be no difficult undertaking<lb/>
+to organize an association that would be a great<lb/>
+advantage to the University as well as of value<lb/>
+to the alumni. Next to the State of Maryland,<lb/>
+North Carolina sends annually to the University<lb/>
+the largest number of students. Not only in num-<lb/>
+bers, but in quality and character of material<lb/>
+the University has a right to feel proud of the<lb/>
+patronage which comes to her from the Old<lb/>
+North State. As a student body and as practi-<lb/>
+tioners of medicine the North Carolinians are a<lb/>
+loyal, manly and energetic lot of men, and do<lb/>
+full credit to the University and to their State<lb/>
+on all occasions. They measure up to the highest<lb/>
+standards as students, and after graduation re-<lb/>
+turn to their homes to become the leading physi-<lb/>
+cians and citizens of their State. The University<lb/>
+of Maryland has at this time between three<lb/>
+hundred and four hundred of her graduates liv-<lb/>
+ing in North Carolina, widely scattered over her<lb/>
+territory from mountain to seacoast, and where-<lb/>
+ever located are in the front rank. The loyalty<lb/>
+of these alumni to the University is shown in<lb/>
+many ways. They have kept alive the very best<lb/>
+traditions of their alma mater by the high stand-<lb/>
+ards they have made for themselves and by the<lb/>
+support they have given to every advance the<lb/>
+University has made. It is eminently important<lb/>
+that these alumni of the University should organ-<lb/>
+ize a State Alumni Association in which they can<lb/>
+come together to strengthen the ties of brother-<lb/>
+hood, which should exist between graduates of the<lb/>
+same institution, and to foster purposes which will<lb/>
+be advantageous both to the University and to<lb/>
+her alumni. If this work of organizing an Alumni<lb/>
+Association is taken up by some of our represent-<lb/>
+ative alumni in the State, we have no doubt<lb/>
+that a successful result will be accomplished.</p>
+<p>CLOSE OF VOLUME I OF THE BULLETIN.--With<lb/>
+the present issue, the BULLETIN completes its<lb/>
+first volume. Whatever doubts the promoters<lb/>
+of the BULLETIN may have had of its success in<lb/>
+the beginning of its career, these doubts have been<lb/>
+removed by the present conditions of its prosperity<lb/>
+From month to month it has appeared on time,<lb/>
+and has presented visible evidence of a substantial<lb/>
+growth and improved condition. The purpose<lb/>
+which called it into existence has been forwarded<lb/>
+to the best of its ability. It has aimed to be a repre-<lb/>
+sentative organ of the Medical Department of the<lb/>
+University of Maryland and of the alumni of<lb/>
+this department. In its columns it has tried to<lb/>
+publish matter that was instructive as well as<lb/>
+entertaining and pleasing to the alumni of the<lb/>
+University. Whilst not up to the highest stand-<lb/>
+ard of scientific and literary excellence, it has<lb/>
+aimed to be respectable and useful, newsy as well<lb/>
+as instructive.</p>
+<p>During the year copies have been mailed to<lb/>
+every alumnus whose postoffice address was<lb/>
+known, and personal mention has been made of the<lb/>
+alumni whenever possible or whenever an oc-<lb/>
+casion called for notice. It has been simply im-<lb/>
+possible to reach every alumnus or to refer to all<lb/>
+in a personal way, but no one has been overlooked<lb/>
+intentionally. In subsequent issues the BULLETIN<lb/>
+hopes to reach every graduate of the University<lb/>
+and to bring his name and work to the notice of<lb/>
+his old classmates.</p>
+<p>Whilst the BULLETIN has been cordially re-<lb/>
+ceived and patronized by a large number of the<lb/>
+alumni, it has one complaint to make, which re-<lb/>
+flects more upon the alumni than upon the BUL-<lb/>
+LETIN. We refer to the indifference which many<lb/>
+manifest in contributing to the reading matter<lb/>
+and to the personal notices which make up its<lb/>
+pages. The request has been made for such con-</p>
+</div1>
+</body>
+</text>
+</TEI.2>

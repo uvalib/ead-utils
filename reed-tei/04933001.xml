@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04933001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Biographical sketch of Walter Reed, by Emilie Lawrence Reed, [n.d.]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Emilie Lawrence</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04933001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>0000-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Vaughan, Victor C.</name>
+<name type="person">Shakespeare, Edward O.</name>
+<name type="person">Welch, William H.</name>
+<name type="place">Willets Point (N.Y.)</name>
+<name type="place">Camp Apache (Ariz.)</name>
+<name type="place">Philippines</name>
+<name type="place">Fort Lowell (Ariz.)</name>
+<name type="place">Baltimore (Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>10 pp.</extent>
+<date value="0000-00-00"></date>
+<idno rend="suppress">04933001</idno>
+<title>Biographical sketch of Walter Reed, by Emilie Lawrence Reed, [n.d.]</title>
+</bibl>
+</head>
+<p>This brief sketch gives details into Walter Reed's early military career out west.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="0000-00-00">
+<head>Biographical sketch of Walter Reed, by Emilie Lawrence Reed, [n.d.]</head>
+<pb n="1" id="f04933001"/>
+<p><add>from Mrs. Reed</add></p>
+<p>Dr. Reed received his commission in the Army on the 26th of<lb/>
+June, 1875. His first station was at Willett's Point where he served<lb/>
+until the following spring. He was then ordered for duty in Arizona.<lb/>
+He often laughed over his first interview with the Surgeon-General.<lb/>
+To a first Lieutenant of the Medical Corps its Chief is looked upon<lb/>
+with great awe, a being who had you completely under his power, to<lb/>
+extoll or condemn you at his will. After receiving his orders for Ari-<lb/>
+zona he went to Washington for the express purpose of having an inter-<lb/>
+view with &ldquo;his Highness&rdquo;, for there was a problem to be solved that<lb/>
+was very dear to his heart. He was engaged to be married and the time<lb/>
+for its consummation was even arranged. To take a young wife to a<lb/>
+country so rough and uncivilized, a country that he was in no way<lb/>
+familiar with, troubled his sensitive nature terribly--So there was<lb/>
+nothing left him but an interview with the Surgeon-General. He was<lb/>
+as brave as a soldier should be, but when after being ushered in and<lb/>
+introducing himself, there was a peremptory command in a very gruff<lb/>
+tone &ldquo;Sit down!&rdquo; the young officer quailed and immediately obeyed his<lb/>
+first orders. Then came the abrupt question &ldquo;What do you want?&rdquo; &ldquo;I<lb/>
+would like to know, General, if I can get <add>a</add> leave while I am in Arizone.<lb/>
+I am engaged to be married and would want to return.&rdquo; The voice was<lb/>
+gruffer still and the face more stern as he replied, &ldquo;Young man, if you<lb/>
+don't want to go to Arizone resign from the Service.&rdquo; Then the youth's<lb/>
+spirit arose, all fear fled, and it was man answering man--&ldquo;General,<lb/>
+I did not labor for my commission with the will I did to throw it away<lb/>
+so hastily, nor can you deprive me of it till I act so unworthily as<lb/>
+(1)<lb/>
+<pb n="2" id="f04933002"/>
+to cause dismissal.&rdquo; The old man liked the spirit that his subordi-<lb/>
+nate showed, and his manner changed at once. &ldquo;Have a cigar, Dr. Reed,<lb/>
+and let's talk it over,&rdquo; he said in quite a genial tone. &ldquo;This is the<lb/>
+advice I give you. Don't marry now--go to Arizona and no doubt some<lb/>
+soldier will become insane, you can bring him East, there will be your<lb/>
+chance for your wedding.&rdquo; The interview was over, but the advice<lb/>
+was not taken. The wedding took place, but the young officer went to<lb/>
+the frontier alone as he wished to ascertain first the hardships that<lb/>
+would have to be endured. in so far distant and wild a country.</p>
+<p>He often laughed in after years at the patience he would have<lb/>
+had to exercise, had he taken the Surgeon-General's advice, for he<lb/>
+had been married thirteen years before he was ordered to Washington<lb/>
+to escort an officer to St. Elizabeth's Asylum.</p>
+<p>Arizona seemed as remote twenty-five years ago as do the<lb/>
+Philippines now. He served four years there, part of the time at<lb/>
+Camp Apache, seven hundred miles from the railroad, the mail only ar-<lb/>
+rived once a week, and often letters from the East were en route six<lb/>
+weeks. Although there were savage bands of Indians near the Post, he<lb/>
+was never out in the field while there, and yet so many times he just<lb/>
+escaped danger, perhaps death. In moving from Fort <del>Rowell</del><add>Lowell</add> to Apache,<lb/>
+a journey of eleven days, where he and his wife and an escort of two<lb/>
+soldiers camped on a quiet plain one night, three days afterwards it<lb/>
+was a scene of frightful carnage--two hostile tribes met and a bloody<lb/>
+fight ensued. When his detail was over and he started East a brother<lb/>
+officer urged him to stop over at his Post, which was on the stage<lb/>
+line, and spend twenty-four hours with him, but his wife and baby boy<lb/>
+had been separated from him for many months, and he often said that<lb/>
+his eagerness to see them saved his life, for the stage that he would<lb/>
+(2)<lb/>
+<pb n="3" id="f04933003"/>
+have taken the next day was waylaid by the Navajoes and the driver<lb/>
+killed.</p>
+<p>During those four years there were three changes of station,<lb/>
+one taking twenty-two days of day traveling and camping out at night.<lb/>
+Dr. Reed always saw the ludicrous side of things, and there were many<lb/>
+laughable experiences that he had jotted down. Unfortunately, the<lb/>
+diary in one of the many subsequent moves was lost. The Indians near-<lb/>
+est the Post were friendly and he often went out to prescribe for the<lb/>
+sick, and was as painstaking with them as with any other patient, al-<lb/>
+though he well knew that the Medicine Man's word had much more weight<lb/>
+than his, and that the latter's drum and rattle would be persistently<lb/>
+beaten at the sick man's bedside after he had given a narcotic. These<lb/>
+Indians were very fond of him, and showed their good will by often bring-<lb/>
+ing as a present a haunch of venison. If no one was in the house to<lb/>
+receive it they would walk steathlily in and lay it on his wife's white<lb/>
+m<del>e</del><add>u</add>slin dressing table, or take a picture from the wall and hang it<lb/>
+there. It seems strange that with all of his Western service he was<lb/>
+never called to the field, yet he had only been a short while at the<lb/>
+Johns Hopkins when his services were needed out in the Dakotas in the<lb/>
+campaign against the Sioux.</p>
+<p>It was not that in any way he tried to escape hardships, for<lb/>
+where duty called him he was ever ready to go. It just so happened<lb/>
+that the Indians had given trouble and were quiet when he arrived at<lb/>
+a Frontier Post, or else soon after he would be ordered away. As soon<lb/>
+as war was declared between Spain and the United States, he went to<lb/>
+the Surgeon-General and urged that he be sent to the front, or if his<lb/>
+services were not needed in the Army, that he would like to offer him-<lb/>
+self to the Navy, but the Surgeon-General told him that he had other<lb/>
+(3)<lb/>
+<pb n="4" id="f04933004"/>
+work for him, and he felt greatly humiliated that he was kept at Wash-<lb/>
+ington doing, as he expressed it, office work, while nearly all of his<lb/>
+brother officers were actively engaged. And not until he was put on<lb/>
+the Typhoid Board, composed of Majors Vaughan, Shakespeare and himself,<lb/>
+of which he was the senior member, did he feel that enough duty had<lb/>
+been imposed upon him. That was a labor that engaged him earnestly<lb/>
+for two years, and the midnight work spent upon it was what first un-<lb/>
+dermined his health.</p>
+<p>As a Post Surgeon his courtesy, his genial ways and his over-<lb/>
+flowing spirits won him hosts of friends. His devotion to his patients<lb/>
+never flagged. Many times when an urgent call came, though he himself<lb/>
+was in bed with a high fever and being cared for by the Hospital<lb/>
+Steward, he would get up, ill as he was, sit down repeatedly while<lb/>
+dressing for lack of strength, and start out, though deep snow was on<lb/>
+the ground and the thermometer far below zero. Several times he was<lb/>
+so ill that he would have to lie down before being able to see the pa-<lb/>
+tient. So great was his devotion to little children that if the lit-<lb/>
+tle one's life was in danger, and he thought that through ignorance<lb/>
+his injunctions would not be properly carried out, he would plead with<lb/>
+his wife that it be brought home, but she, seeing that the home life<lb/>
+would eventually be gone and a hospital on a small scale would take its<lb/>
+place, would have to strenuously oppose it. The more humble the pati-<lb/>
+ent the greater was his care and devotion, for his big heart always<lb/>
+went out to those who walked in the lower sphere of life. I wish the<lb/>
+writer had access to a letter sent to the War Department about two<lb/>
+years ago. A poor old man whom Dr. Reed had befriended while he was<lb/>
+stationed in Alabama had seen in an Alabama paper a premature notice<lb/>
+(4)<lb/>
+<pb n="5" id="f04933005"/>
+of Dr. Reed's death. A more beautiful tribute was never paid a man--<lb/>
+and it touched Dr. Reed deeply when the Department forwarded it to him<lb/>
+while he was in Cuba. With all of his gentleness and milk of human<lb/>
+kindness, honor and justice were strongly impla<add>n</add>ted in his nature, and<lb/>
+he never allowed anyone, even a superior officer, to impose upon his<lb/>
+rights. No matter when the call came he responded. Once in western<lb/>
+Nebraska in the depths of winter when a blizzard had been raging and<lb/>
+the thermometer was below zero, a man came from twelve miles in the<lb/>
+country for him to go to his sick wife. He started at sunset in a<lb/>
+driving wind, there were no landmarks, only this vast plain of snow<lb/>
+that stretched miles and miles ahead of him, so no wonder that he be-<lb/>
+came lost and on his faithful horse wandered aimlessly about till mid-<lb/>
+night, when suddenly from behind a snowdrift a little beacon of light<lb/>
+appeared and he found the little hut he had for so many hours been in<lb/>
+pursuit of. The woman was quite ill and he did not leave her bedside<lb/>
+till late the next afternoon. Again he was lost, and did not reach his<lb/>
+own fireside till nearly eleven o'clock. <del>s</del><add>S</add>tiff with cold and weary from<lb/>
+the long ride, yet after the welcome home his face brightened and he<lb/>
+broke out into a merry laugh as he recalled his host of the day. While<lb/>
+sitting before a three-legged stove, waiting for the coffee to boil<lb/>
+(the odor emanating from it rudely telling that the dregs of many days<lb/>
+were within the pot) the old man drawled out, &ldquo;Well,Doc, I often feels<lb/>
+sorry for you folks at the Post, I know you gits lonely&rdquo;. The Post<lb/>
+consisted of four companies of Cavalry, Headquarters and the band, and<lb/>
+the railroad station was within sight. Dr. Reed was at the same time<lb/>
+inwardly commiserating the utter loneliness of this poor man and woman<lb/>
+in their remote desolation. In starting out on such trips his wife<lb/>
+(5)<lb/>
+<pb n="6" id="f04933006"/>
+would plead with him not to venture, that his life was too valuable<lb/>
+for such hazards. It was only under these circumstances that he<lb/>
+would not yield to her persuasions. In any other matter he would seek<lb/>
+her advice.</p>
+<p>Several times during his Post life he thought that the Com-<lb/>
+manding Officer was taking undue authority and at once appealed to<lb/>
+higher powers, knowing that he was in the right and that the unbiased<lb/>
+law would decide with him, and it always did. Once while a soldier was<lb/>
+still on sick report, the Commanding Officer saw him out taking a<lb/>
+walk and ordered him to duty, saying that if he was well enough to be out<lb/>
+<add>he was well enough to</add> work, Dr. Reed's anger was greatly aroused, and justly so, but he could<lb/>
+always control himself and rise superior to the occasion. Without a<lb/>
+spoken word to the Commanding Officer, he sent a written communication<lb/>
+through the Commanding Officer to Headquarters, asking would such in-<lb/>
+justice be allowed. The paper was promptly returned through the<lb/>
+proper channels with a severe reprimand to the Commanding Officer, and<lb/>
+as he read it and handed it to his adjutant to be forwarded to Dr.<lb/>
+Reed, his remark was, &ldquo;Blank the Doctors, Mr. Adjutant, we can never<lb/>
+get ahead of them.&rdquo;</p>
+<p>&ldquo;Next to Godliness, cleaniness&rdquo;--he carried it out to the<lb/>
+letter in his Hospitals. He took the greatest interest in them, and<lb/>
+and the Hospital Corps. His men quickly imbibed his enthusiasm and<lb/>
+his methods, consequently order and neatness prevailed. Drinking he<lb/>
+would not permit, and several Hospital Stewards have afterwards thanked<lb/>
+him so graciously for the pledge that he would keep them bound to<lb/>
+while under his service.</p>
+<p>His love for nature knew no bounds, and however barren the<lb/>
+(6)</p>
+<pb n="7" id="f04933007"/>
+<p>spot he would soon have a garden blossoming with flowers and laden<lb/>
+with vegetables for the Hospital.  It was a familiar sight to see him<lb/>
+after an early sick call going back home laden with flowers.  After<lb/>
+four years in Nebraska he looked upon Alabama, with its balmy sun-<lb/>
+shine and exquisite flowers as a well chosen spot, and it was there<lb/>
+that he converted a sandy waste into a most beautiful garden.  The mag-<lb/>
+nolia tree is indigenous to Southern Alabama, and wishing to trans-<lb/>
+plant two in his Hospital yard he took long walks through the woods<lb/>
+in order to find suitable ones.  A native seeing the trees after they<lb/>
+were set out went to him and begged that they might be uprooted as it<lb/>
+was firmly believed in that section of the country that if they lived<lb/>
+some member of his family would die within twelve months.  He was<lb/>
+absolutely free from supersitition and saying he would teach those peo-<lb/>
+ple a lesson, he scoured the woods till he found sufficient small trees<lb/> 
+to set out a whole row!  Under his careful supervision they all lived,<lb/>
+and no member of the family died, but it is not known if it killed the<lb/> 
+<add>?</add> supersition.  In 1889 while serving in Nebraska, he felt that having<lb/>
+been in the West for so long he wished to freshen himself by a course<lb/>
+at the Johns Hopkins.  So he applied for a leave, stating the purpose<lb/>
+of the leave; the reply came from Headquarters that if he would pay<lb/>
+the salary of a contract surgeon, his services would be spared.  His<lb/>
+disappointment was bitter, but fortune soon smiles, for under a new<lb/>
+regime so much interest was manifested in his application that he was <lb/>
+ordered on duty in Baltimore expressly that he might take his desired<lb/>
+course of study.</p>
+<p>During the winter he was at the Hopkins he made some of his<lb/> 
+warmest friends, and his remembrances of them and his work there were<lb/>
+(7)</p>
+<pb n="8" id="f04933008"/>
+<p>fraught with unalloyed pleasure.  Of his nine years work at the museum<lb/>
+there were many annoyances and interruptions.  His beloved teacher,<lb/>
+Prof. Welch, had opened the door of a new world to him, and his active <lb/>
+brain had grasped many things with avidity.  Consequently, when a new<lb/>
+idea would seize him and he was all eagerness to seek his laboratory and<lb/>
+begin investigations, it does not take even a man of science to see<lb/>
+how obnoxious Boards of Survey, Examining Boards, and all other sim-<lb/>
+ilar details were to him.</p>
+<p>When the word on yellow fever in Cuba was first discussed<lb/>
+by the surgeon-General, Dr. Reed not being an <del>immune</del><add>immune</add>his orders were<lb/> 
+not compulsory, but the suggestion once being made to him, he was all<lb/>
+eagerness to go, and remarked that he did not see why he should not<lb/>
+look upon the Surgeon-General's wishes as an order.  It was only the <lb/>
+thought of his wife and daughter that made him hesitate for one mo-<lb/>
+ment, for he fully realized that should he meet his death, how changed<lb/>
+would be their life, and for a while his love for them and his interest<lb/>
+in their welfare held him silent.  But a mind so imbued with the love<lb/>
+of research as was his could not be held back, and it was not long be-<lb/>
+fore he asked that the order be issued.  It read as a death knell to<lb/>
+his wife, and she knows to-day that the strain and anxiety that he un-<lb/>
+derwent when so many lives were at &ldquo;peril was the rift within the lute.&rdquo;<lb/>
+Bacon tells us of the vain glories of ambition, but when his great <lb/>
+work was accomplished it was only happiness that filled <add>his </add> soul for the <lb/>
+suffering he would spare humanity.  He rejoiced that he had not lived<lb/>
+in vain and that God had seen fit to make him an instrument of good.</p>
+<p>And now for one brief moment let us lift the scared veil that<lb/>
+screened his home life and step within the threshold.<lb/>
+(8)</p>
+<pb n="9" id="f04933009"/>
+<p>&ldquo;Love ever at my fireside,<lb/>
+And peace within my door,&rdquo;<lb/>
+was the motto of his selection.  The consideration and gentleness that<lb/>
+he showed to the world was intensified at home.  All that love, self-<lb/>
+sacrifice and devotion could bring, he laid upon the family altar and<lb/> 
+worshipped there.  In his City life he was too burdened with his many<lb/>
+duties to lay them aside in his office; his labor continued after<lb/>
+reaching home, and he took but little time for diversion.  But once in<lb/>
+the country at his little summer home that he loved so well, he threw<lb/>
+science to the winds and became a true child of nature.  He would<lb/>
+awaken with the birds, and often at five o-clock be out in the garden<lb/>
+with his hoe.  It was with true delight that he viewed his possessions, <lb/>
+he who for so many years had led a wanderer's life.  He who could plan<lb/>
+an investigation in the microscopic world that yeilded such results,<lb/>
+could also plan a home, and many wondered at the beautiful Country place<lb/>
+on the hillside that had grown out of a rocky field.  He often remark-<lb/>
+ed that he looked for his happiest years after retirement when he could<lb/>
+settle there.  But he is gone.  He gave his life to his country.<lb/>
+Science overmastered his heart, and the mind was too weighty for the<lb/> 
+fragile body that enfolded it and it crumbled.<lb/>
+<add>Please end with the following lines-
+</add><lb/>
+(9)<lb/></p>
+<pb n="10" id="f04933010"/>
+<p>
+&ldquo;I would the great world grew like thee<lb/>
+Who grewest not alone in power<lb/>
+And knowledge, but by year and hour<lb/>
+In reverence and in charity.&rdquo;</p>
+
+<p>The fame is quench'd that I foresaw<lb/>
+The head hath miss'd an earthly wreath<lb/>
+I curse not nature, no, nor death;<lb/>
+For nothing is that errs from law.</p>
+
+<p>We pass; the path that each man trod<lb/>
+Is dim, or will be dim, with weeds<lb/>
+What fame is left for human deeds<lb/>
+In endless ages.  It rests with God.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

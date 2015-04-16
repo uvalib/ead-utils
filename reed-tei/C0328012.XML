@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0328012">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Laura Armistead Carter to Wade Hampton Frost, March 9, 1920</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Laura Armistead</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0328012</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1920-03-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Frost, Wade Hampton</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Smiley, Mrs.</name>
+<name type="person">Brown, Grace</name>
+<name type="person">Darling, Samuel Taylor</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Noguchi, Hideyo</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Johns Hopkins School of Hygiene and Public Health (Baltimore, Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1920-03-09">March 9, 1920</date>
+<idno rend="suppress">C0328012</idno>
+<title>Letter from Laura Armistead Carter to Wade Hampton Frost, March 9, 1920</title>
+</bibl>
+</head>
+<p>Carter offers suggestions regarding the format of the bibliography for the History of Yellow Fever and asks him if he might be able to include Gorgas in the bibliography. She also questions Frost's inclusion in the text of Henry Rose Carter's supposed acceptance of Noguchi's leptospira.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1920-03-09">
+<head>Letter from Laura Armistead Carter to Wade Hampton Frost, March 9, 1920</head>
+<pb n="1" id="fc0328012"/>
+<opener>
+It is suggested that in case<lb/>
+of books of 1 vol., we retain<lb/>
+the abbreviation (p.). for page,<lb/>
+i.e. <hi>p.</hi> 470 (not 470)<lb/>
+Book, Bibliography,<lb/>
+Frost.<lb/>
+<dateline>
+The Westmoreland,<lb/>
+2122 California St., N. W.,<lb/>
+Washington, D. C.<lb/>
+<date value="1930-03-09">March 9, 1930.</date>
+</dateline><lb/>
+Dr. Wade H. Frost,<lb/>
+School of Hygiene and Public Health,<lb/>
+615 North Wolfe Street,<lb/>
+Baltimore, Maryland.<lb/>
+<salute>Dear Jack:</salute>
+</opener>
+<p><hi>Re</hi> your letter and enclosures of February 12th., of which at<lb/>
+the time I made brief and grateful ackno<del>la</del><add>wl</add>edgment: Miss Brown and I have<lb/>
+gone over the alphabetic typed copy of the bibliography for Section 1 very<lb/>
+carefully and I am returning to you your o<del>f</del><add>r</add>iginal draft and a new one, in-<lb/>
+corporating the following changes, submitted for your approval:<lb/>
+<list type="ordered">
+<item>(a) Heavy type (caps. are the best substitute on my typewriter)<lb/>
+for the author's name:</item>
+<item>(b) Slight indentation for first mention of date of publication.</item>
+<item>(b') Repetition of date of publication <add>of books</add> after name of printer (i.e.<lb/>
+imprint as well as on margin).</item>
+<item>(c) In making my second copy of the bibliography for Section 1, I<lb/>
+have included full names of authors appearing <hi>alone</hi> (using<lb/>
+initials only for joint authors) with</item>
+<item>(d) Dates of birth and death. This latter, of course, makes lit-<lb/>
+tle difference in Section 1, where most allusions are to<lb/>
+contemporaneous literature, but in other Sections of the<lb/>
+book, where, in some cases, MSS were not published until<lb/>
+200 or 300 years after they were written (e.g. Las Casas<lb/>
+etc.) the date of publication alone might well be mislead-<lb/>
+ing.</item>
+<item>(b'') Slight indentation for<lb/>
+each line of title, etc.<lb/>
+except the 1st.</item>
+</list></p>
+<p>The above changes are in accordance with the procedure in the<lb/>
+Bibliography of Howard, <del>K</del><add>D</add>yar and Knab (Mosquitoes of North and Central<lb/>
+America...v.1, p. 541 et seq. This is an excellent bibliography and we thought<lb/>
+it was the the one you probably had in mind in making your tentative copy.</p>
+<p>Note that while the library cards we sent you follow the capital-<lb/>
+ization of the Library of Congress, your typed alphabetic copy follows the<lb/>
+capitalization used by Howard, Dyar and Knab (i. e. nouns etc. lower cased<lb/>
+in title of book or article and capitals used in giving titles of the period-<lb/>
+icals containing the articles referred to. Also the names of the periodicals<lb/>
+are incurves ( )<del>.</del> <add>to differentiate between the title of the article and<lb/>
+that of the periodical in which it appears.</add></p>
+<p>As I understand it, we have decided not to have a bibliography<lb/>
+for each section, but to have one bibliography for the entire book. As<lb/>
+soon as Mrs. Smiley finishes typing whatever MS of the book you have ready<lb/>
+for her, could she not type (according to the form you have decided on) the<lb/>
+bibliography for the entire book, arranged alphabetically? This, even if there<lb/>
+be no time for you to go over the library cards first to make selections,<lb/>
+discards etc? It would be <hi>much</hi> easier for both you and ourselves to go over<lb/>
+and make corrections from such an approximation of the Bibliography as it will<lb/>
+eventually appear when set up, than to do so from individual library cards.<lb/>
+Also, it is work that will almost certainly have to done at least twice any-<lb/>
+way and to start it as soon as Mrs. Smiley has some spare time would material-<lb/>
+ly hasten the time of its completion.<lb/>
+<add>over.</add></p>
+<pb n="2" id="fc0328013"/>
+<p><hi>mem</hi>.</p>
+<p>Punctuation to be used after title of periodical<lb/>
+before imprint, comma or period? a period<lb/>
+has been used in case of books.</p>
+<p>In Howard, Dyar &amp; Knab comma seems to<lb/>
+have been used, would suggest using periods<lb/>
+in both cases.</p>
+<p>L. C. does not use a period with<lb/>
+parenthesis.</p>
+<p>L. A. C.</p>
+<pb n="3" id="fc0328014"/>
+<p>completion.<lb/>
+-2-</p>
+<p>Miss Brown and I have been, and are, proof reading the MS<lb/>
+you sent is. Its always a pleasure to go over any of Mrs. Smiley's work:<lb/>
+clear, accurate and very good to look at! Ordinarily we should have fin-<lb/>
+ished long since, but I have been sick and trying to straighten out some<lb/>
+involved personal affairs, so as you wrote that was no hurry it has been<lb/>
+a relief not to have to press matters under the particular circumstances.</p>
+<p><add>(W.S.T.)</add> Although I in no wise question your judgment in so doing, I am<lb/>
+sorry, with the data at my disposal, that you have thought fit to leave in<lb/>
+the text Father's acceptance of the Leptospira of Noguchi (Sec.1, p. 5, final<lb/>
+typed copy). It is true that Father did publicly accept the Leptospira,<lb/>
+&ldquo;on Noguchi's say-so,&rdquo; but it was always with personal reservations, which I<lb/>
+judge he discussed with you, as he did with me and as he mentioned at the<lb/>
+Jamaica meeting in 1924. Father also wrote (when bed-ridden) asking Dr.<lb/>
+Darling to come to see him for a further talk on the subject. Darling did<lb/>
+not come, although he was attending a medical meeting here at the time, and<lb/>
+Father was greatly disappointed. Also, as you know, Father's acceptance of<lb/>
+the Leptospira was never in any of themimeographed copies of Section 1, as<lb/>
+used by the I. H. B., although, as I told you, he did tell me, some months<lb/>
+before he di<del>d</del><add>e</add>d, that he thought it should be included in the book. Of<lb/>
+course, according to Colonel &ldquo;Ran&rdquo; Kean, the entire Medical Corps of the<lb/>
+Army was <hi>always</hi> highly sceptical about the Leptospira! Strange, how many<lb/>
+people, from present accounts, were sceptical of it and how easy it is to<lb/>
+&ldquo;Prophesy after the event!&rdquo;</p>
+<p><add>W.S.T.</add> By the way, can't we, in some way, include Gorgas in the biblio-<lb/>
+graphy? His and Father's friendship was an historic one and although Father<lb/>
+could, and did, evaluate the whole situation as w<add>e</add>ll as you do now, it would, I<lb/>
+think <add>it would</add> be a <add>great</add> pity to leave his name out of the book. Of course, the MS does<lb/>
+not go down to modern times in the historic sections (an excuse for omission)<lb/>
+and the only reference to Gorgas by name, which I at present recall, is of<lb/>
+his applying Ross' &ldquo;critical number&rdquo; of Anopheles to yellow fever (which, by<lb/>
+the way, as I remember, Father first did himself). Of course this would not<lb/>
+be a reference to original work, just to an application of similar work<lb/>
+in two fields. I do feel sure, however, t<del><unclear>[unclear]</unclear></del><add>hat</add> you can work Gorgas into the<lb/>
+bibliography and hope that you will.</p>
+<p>Of course, Jack, you're bound to know what a <hi>beautiful</hi> piece of wo<del>k</del><add>r</add>k<lb/>
+you're doing on the final editing of Father's MS. I have been more impressed<lb/>
+with it than I can tell you. I do hope to God that <del><unclear>[unclear]</unclear></del><add>there will</add> be no more<lb/>
+serious interruptions to your work on it until it goes to press! Its too<lb/>
+late for &ldquo;Te Deums&rdquo; now-a-days, but, Lord! what a thankful &ldquo;Nunc dimittis&rdquo;<lb/>
+one can still say!</p>
+<p>With much love to&ldquo;the Susans&rdquo; and most grateful appreciation and<lb/>
+affection to yourself,</p>
+<closer>
+<salute>Most truly yours,</salute>
+<signed>(Signed) Laura A. Carter.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

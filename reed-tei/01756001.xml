@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01756001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter fragment from Walter Reed to [Dorsey M. McPherson], October 20, 1879</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Walter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01756001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1879-10-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">McPherson, Dorsey M.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">McPherson, Dorsey</name>
+<name type="person">McGowan, Capt.</name>
+<name type="place">Fort Apache (A.T.)</name>
+<name type="place">Fort Thomas [s.l.]</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1879-10-20">October 20, 1879</date>
+<idno rend="suppress">01756001</idno>
+<title>Letter fragment from Walter Reed to [Dorsey M. McPherson], October 20, 1879</title>
+</bibl>
+</head>
+<p>Reed learns that McPherson will return to Fort Apache. Reed refers to other soldiers, and teases McPherson.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1879-10-20">
+<head>Letter fragment from Walter Reed to [Dorsey M. McPherson], October 20, 1879</head>
+<pb n="1" id="f01756001"/>
+<opener>
+<dateline>
+Apache, <date value="1879-10-20">Octr 20<hi rend="superscript">th</hi>, '79.</date>
+</dateline>
+<salute>My dear Son ....;</salute>
+</opener>
+<p>Your favor to hand, per ur-<lb/>
+-banity of Serg't. <unclear>Hemming</unclear>- The money was placed<lb/>
+within the grasp of W<hi rend="superscript">m</hi>, the Conqueror &amp; Scouter,<lb/>
+and the amount duly &ldquo;<hi>chalked</hi> off,&rdquo; as desired.<lb/>
+Am very glad to hear that you will get back<lb/>
+to Apache by middle of November - saw a letter<lb/>
+from the &ldquo;Daisy&rdquo; to Mr Staples, in which he<lb/>
+stated that he would be a Thomas on or<lb/>
+before the 10<hi rend="superscript">th</hi> of Novr- I think your re-<lb/>
+solves to virtuously abstain from all<lb/>
+murmurings of the spirit and commun-<lb/>
+-ings with &ldquo;old Satan&rdquo; are very wise,<lb/>
+and reflect credit upon your cranium.<lb/>
+Indeed, I should be very sorry to<lb/>
+think that my boy, Dorsey, was rip-<lb/>
+-ping around amongst the Oak's &amp;Pines<lb/>
+and swearing like a genuine &ldquo;tea-pot&rdquo;!<lb/>
+On the Contrary, in my mind's eye I see<lb/>
+you in a much more pleasing attitude-<lb/>
+viz: with the Anatomy of Herr Gray<lb/>
+spread before you; your chin grace-<lb/>
+fully reposing on the ball of your</p>
+</div1>
+</body>
+</text>
+</TEI.2>

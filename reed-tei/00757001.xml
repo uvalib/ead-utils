@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00757001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: Yellow Fever: Feasibility of its Eradication, by Wickliffe Rose, October 27, 1914</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00757001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1914-10-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">White, J.H.</name>
+<name type="person">Reed, Walter</name>
+<name type="place">Panama</name>
+<name type="place">Ecuador</name>
+<name type="place">Brazil</name>
+<name type="place">Guayaquil (Ecuador)</name>
+<name type="place">Manaos (Brazil)</name>
+<name type="place">Yucatan (Mexico)</name>
+<name type="place">Mexico</name>
+<name type="place">Africa</name>
+<name type="place">United States</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>19 pp.</extent>
+<date value="1914-10-27">October 27, 1914</date>
+<idno rend="suppress">00757001</idno>
+<title>Report Yellow Fever: Feasibility of its Eradication, by Wickliffe Rose, October 27, 1914</title>
+</bibl>
+</head>
+<p>Rose describes yellow fever trouble spots and eradication methods.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1914-10-27">
+<head>Report Yellow Fever: Feasibility of its Eradication, by Wickliffe Rose, October 27, 1914</head>
+<pb n="1" id="f00757001"/>
+<p>Mr.<lb/>
+Y. F.</p>
+<p>Wickliffe Rose</p>
+<p>YELLOW FEVER: FEASIBILITY OF ITS ERADICATION</p>
+<pb n="2" id="f00757002"/>
+<p>Introductory note.</p>
+<p>In conference with General Gorgas soon after my return<lb/>
+to Washington in July our discussion turned to the sanitary needs<lb/>
+and responsibilities resulting from the opening of the Panama<lb/>
+Canal. Radical changes have been wrought in trade relations;<lb/>
+countries and ports between which there has been little or no<lb/>
+exchange are to be brought into close relation. Pest-holes of<lb/>
+infection that have been relatively harmless because of their<lb/>
+isolation are going to be on or near the world's highway of<lb/>
+commerce and travel. This calls for a new sanitary map of a<lb/>
+large region affected by the canal and for a new sanitary<lb/>
+program to meet the changed conditions. The canal is our<lb/>
+enterprise undertaken and carried through in the interest of<lb/>
+civilization; naturally we are interested in the new sanitary<lb/>
+responsibilities growing out of it.</p>
+<p>I asked General Gorgas what he regarded as the more ur-<lb/>
+gent of these sanitary needs; and what, if anything, might be under-<lb/>
+taken with promise of definite and lasting results. He replied<lb/>
+without hesitation: &ldquo;The control of yellow fever&rdquo;.</p>
+<p>He emphasized the menace of such endemic centers as Man-<lb/>
+aos and Guayaquil, referred to what has been done for Rio Janeiro,<lb/>
+Vera Cruz, Havana and Panama as demonstrating that the disease<lb/>
+can be stamped out in such centers, and finally expressed the<lb/>
+strongest confidence in its complete eradication as a feasible<lb/>
+<pb n="3" id="f00757003"/>
+undertaking.</p>
+<p>In view of the anxiety which I have found throughout<lb/>
+the East on account of the possible introduction of yellow fever<lb/>
+into that region as a result of the Panama Canal, and in view of<lb/>
+General Gorgas' insistence as to the importance if the work and<lb/>
+as to the feasibility of its accomplishment, I have undertaken to<lb/>
+bring together and to exhibit in tentative outline the essential<lb/>
+facts concerning the present endemic centers of yellow fever and<lb/>
+the feasibility of undertaking its eradication. This summary<lb/>
+embodies the views of General Gorgas, Dr. Henry R. Carter and Dr.<lb/>
+J. H. White, who have cooperated in its preparation.</p>
+<p>Wickliffe Rose.</p>
+<pb n="4" id="f00757004"/>
+<p>YELLOW FEVER: FEASIBILITY OF ITS ERADICATION.</p>
+<p>I. <hi>Known foci of yellow fever<hi rend="superscript">x</hi></hi> The known foci of yellow<lb/>
+fever are:</p>
+<p>1. Guayaquil, Ecuador, population 80,000, always<lb/>
+endemic.</p>
+<p>2. Merida and <unclear>Campecha</unclear>, Yucatan, population 80,000 re-<lb/>
+garded as endemic and at present infected.</p>
+<p>3. Manaos, Brazil. Manaos has a population of 50,000<lb/>
+and, like Guayaquil, is known as one of the worst centers in the<lb/>
+world. Para, population 200,000, endemic center of long standing,<lb/>
+at present suspected on account of relation to Manaos.</p>
+<p>4. <unclear>Perambuco</unclear> and Bahia, Brazil. Pernambuco has a pop-<lb/>
+ulation of about 100,000 and Bahia a population of about 250,000. Known endemic centers.</p>
+<p>5. La Guayra, Venezuela, and probably some other ports<lb/>
+on the south shore of the Caribbean. This area is a suspected<lb/>
+focus of infection and calls for investigation.</p>
+<p>6. An African focus or group of foci on the West Coast<lb/>
+from Sierra Leone south to the Gulf of Guinea.</p>
+<p>II. <hi>The menace of yellow fever</hi>. Yellow fever may spread upon<lb/>
+the introduction of infection into any area where there are non-<lb/>
+immune people and where the stegomyia mosquito is prevalent.</p>
+<p>----------------------------------------------------------------------</p>
+<p><hi rend="superscript">x</hi> See map and Exhibit A.</p>
+<pb n="5" id="f00757005"/>
+<p>2.</p>
+<p>1. <hi>Distribution of the stegomyia</hi>. This mosquito is prev-<lb/>
+alent over practically all of the so-called &ldquo;wet tropics and sub-<lb/>
+tropical regions of the globe,&rdquo; a zone extending from about 38&deg; north<lb/>
+latitude to 38&deg; south latitude. (See map) The whole of this zone,<lb/>
+roughly speaking, may be considered &ldquo;infectible territory&rdquo;. The<lb/>
+stegomyia seems to prefer the coastal regions; it is not prevalent<lb/>
+in dry regions or in regions of high altitude.</p>
+<p>2. <hi>Infection may be carried long distances.</hi> The infec-<lb/>
+tion in the mosquito seems to last all her life. The mosquito has<lb/>
+been known to live in captivity for 154 days. Two of Dr. Reed's<lb/>
+mosquitos transmitted yellow fever on the 57th day after biting an<lb/>
+infected person. Dr. Carter reports seeing yellow fever develop on<lb/>
+board a sailing vessel 68 days out from Rio, its last port.</p>
+<p>The gradual disappearance of the wooden sailing ship tends<lb/>
+to lessen the danger of transporting infection. This was the car-<lb/>
+rier of yellow fever. The stegomyia bred in her tanks and water bar-<lb/>
+rels; if a case occurred on board, the ship was liable to transport<lb/>
+infected mosquitoes indefinitely. Ships of this type are still in<lb/>
+service. The steamer does not breed mosquitoes to any considerable<lb/>
+extent; but it does transport them. Its greater speed has<lb/>
+shortened enormously the passage between ports, and has thus<lb/>
+brought the foci of infection much nearer the free but infectible<lb/>
+areas.</p>
+<p>Yellow fever was transmitted from Havana to Leghorn, Italy,<lb/>
+<pb n="6" id="f00757006"/>
+3<lb/>
+in 1804, and to France in 1861. From Brazil it was carried to<lb/>
+Lisbon in 1723; and again to Portugal in 1850, 1851 and 1856.</p>
+<p>3. <hi>Menace to America</hi>. So far as our own country is con-<lb/>
+cerned, the fangs of yellow fever have been drawn. The eradica-<lb/>
+tion of the infection from Havana removed the chief source of<lb/>
+our danger. A case was reported two weeks ago in Texas, and<lb/>
+cases may continue to appear from time to time on our Southern<lb/>
+coast; but since the control of the recent epidemics in New<lb/>
+Orleans and Tampa the people of the states have lost their dread<lb/>
+of yellow fever as a scourge.</p>
+<p>But in the countries south of us it is still the source<lb/>
+of constant anxiety. The east coast of Brazil, the Amazon valley,<lb/>
+the Caribbean region, and the west coast from Peru to Mazatlan,<lb/>
+Mexico, are subjec to invasion at all seasons. Throughout this<lb/>
+region yellow fever is the subject of constant vigilance on the<lb/>
+part of quarantine officers, and is a serious handicap to commerce<lb/>
+and to the general economic development of these countries.</p>
+<p>4. <hi>Danger of transmitting yellow fever to the Orient.</hi><lb/>
+The opening of the Panama Canal has so changed the trade relations<lb/>
+of some yellow fever foci as to increase the dangers of transporting<lb/>
+yellow fever to infectible territory now free. Manson in 1903<lb/>
+was especially insistent on the risk of conveying infection to<lb/>
+the Far East as a result of the opening of the Canal. Dr. James,<lb/>
+<pb n="7" id="f00757007"/>
+4.<lb/>
+of the India Medical Service, who was employed by his Govern-<lb/>
+ment to make a thorough investigation of the subject, is dis-<lb/>
+posed to regard Manson's statement as an exaggeration of the<lb/>
+danger; but he reports the real menace as sufficiently great to<lb/>
+call for a permanent <unclear>uarantine</unclear> force to be maintained at Panama<lb/>
+and at Hong Kong or Singapore at the expense of the English<lb/>
+colonies in the East. He recommends to the Indian Government<lb/>
+a systematic attack on the stegomyia mosquito.</p>
+<p>Dr. J. J. Van Loghem, reporting on the subject in the in-<lb/>
+terest of the Netherlands East Indies, gives an impressive exhib-<lb/>
+it of facts to show that &ldquo;so long as yellow fever exists in Amer-<lb/>
+ica the danger remains for Asia&rdquo;. As a result of this report the<lb/>
+Government of the Netherlands addressed a communication to the<lb/>
+Government of the United States suggesting that our Government<lb/>
+take the initiative for the appointment of an international<lb/>
+commission for the purpose of elaborating a system of measures<lb/>
+to prevent the spread of yellow fever to the Pacific and South<lb/>
+Sea Islands by reason of the opening of the Panama Canal. Our<lb/>
+Government has communicated this suggestion to the governments<lb/>
+interested. The British government asks that action be postponed<lb/>
+until investigation into the habits of the stegomyia, undertaken<lb/>
+by the Imperial Bureau of Entomology, shall have been completed.<lb/>
+In the meantime I am advised by the Department of State that no<lb/>
+<pb n="8" id="f00757008"/>
+5.<lb/>
+further action seems likely during the present war in Europe.</p>
+<p>Of Manson's anxiety for the East, Dr. Carter says: &ldquo;I<lb/>
+think his opinion of the risk is exaggerated; yet I <hi>know</hi> that the<lb/>
+risk of conveyance to these countries <hi>is</hi> increased by the changes of<lb/>
+trade relations which will be thus brought about. Although I do<lb/>
+not count the risk of this conveyance great, yet the ill that<lb/>
+would follow if yellow fever was thus conveyed would be incalculable.<lb/>
+The epidemics resulting -- except in Japan -- would be uncontrolla-<lb/>
+ble; and I doubt if the disease would ever be eradicated from the<lb/>
+countries of southern Asia, which would thus be a continual menace<lb/>
+to the rest of the world. I count then that measures for the<lb/>
+eradication of yellow fever are especially advisable now on ac-<lb/>
+count of the opening of the Panama Canal. Especially are they<lb/>
+advisable in foci from which the risk of conveyance will be in-<lb/>
+creased by its opening.&rdquo;</p>
+<p>III. <hi>How yellow fever may be eradicated.</hi> The extermination of<lb/>
+yellow fever reduces itself to one essential thing: Destroying<lb/>
+the breeding places of the stegomyia mosquito in the endemic foci of<lb/>
+the infection.</p>
+<p>1. <hi>Concentrate all effort on endemic foci.</hi> Endemic<lb/>
+centers are the seed-beds without which there can be no epidemics. If<lb/>
+these seed-beds be destroyed, the disease will disappear from all<lb/>
+other points. Fortunately these seed-beds are few in numbers. No small<lb/>
+<pb n="9" id="f00757009"/>
+6.<lb/>
+aggregation of people can furnish endemic conditions unless having<lb/>
+an abnormally large visiting list of non-immune traders or<lb/>
+tourists. This for the reason that a constant supply of non-<lb/>
+immune material is needed to maintain the infection of the mosquito.<lb/>
+The mosquito derives its infection only from infected persons, and<lb/>
+lives to carry this infection not longer than from 30 to 180 days.<lb/>
+In large cities the necessary supply of non-immune material is kept<lb/>
+up by the birth of large numbers of children as well as by the<lb/>
+advent of visitors. There are at <unclear>precent</unclear> but five or six known<lb/>
+endemic foci, and these are the only points that need attention.</p>
+<p>2. <hi>To eradicate yellow fever in an endemic center concen-<lb/>
+trate all effort on exterminating the stegomyia mosquito.</hi> Dis-<lb/>
+regard the human host. Since two hosts, one human and one insect,<lb/>
+are necessary for the propagation of yellow fever, it is obvious<lb/>
+that perfect control of either is sufficient for the elimination<lb/>
+of this disease from a community.</p>
+<p>The control of the human host involves: (1) early diagno-<lb/>
+sis of cases; and (2) protection of these cases by screening for<lb/>
+about four days from mosquitoes. But in endemic centers where ser-<lb/>
+ious outbreaks cannot occur and where the people, therefore, do not<lb/>
+fear the disease, it has been found impossible to discover and get<lb/>
+control of the cases in the early stages. Dr. Carter, referring<lb/>
+to Gorgas' work on the Isthmus, says: &ldquo;The reason that the method<lb/>
+<pb n="10" id="f00757010"/>
+7<lb/>
+by control of the human host failed was because, under the con-<lb/>
+ditions that existed, it was impossible to carry it out. We could<lb/>
+not control the human host to the degree necessary for success.&rdquo;<lb/>
+For Havana he states that only about one-eighth of the adult cases<lb/>
+were diagnosed; and, according to Gorgas, cases among native<lb/>
+children are practically never diagnosed. &ldquo;I think&rdquo;, says Dr.<lb/>
+Carter, &ldquo;the most optimistic will admit that in such places con-<lb/>
+trol of the human host to a sufficient degree to eliminate yellow<lb/>
+fever is impossible - not difficult, but impossible. Our only hope<lb/>
+then, is to control the insect host, to destroy the stegomyia.&rdquo;</p>
+<p>3. <hi>Concentrate on breeding places</hi>. To exterminate the<lb/>
+stegomyia in any community destroy its breeding places. Fortunately<lb/>
+this is relatively easy. The stegomyia is a domestic mosquito;<lb/>
+it does not travel far and must live and breed near its human host.<lb/>
+It breeds only in artificial containers in clear water - cisterns,<lb/>
+rainbarrels, water-jars, tin-cans, etc. There is thus no necessity<lb/>
+for going afield, for draining marshes, for oiling ponds and streams.<lb/>
+We have simply to remove from the home premises all receptacles<lb/>
+which contain or may contain clear water long enough to breed<lb/>
+these mosquitoes. Where removal of such containers is impossible,<lb/>
+other measures such as screening to prevent their use as breeding<lb/>
+places may be adopted. This is the whole task; nothing else need</p>
+<pb n="11" id="f00757011"/>
+<p>8</p>
+<p>In order, therefore, to exterminate yellow fever we have<lb/>
+only to destroy the breeding places of the stegomyia in the<lb/>
+five or six endemic foci of infection.</p>
+<p>4. <hi>Attack the foci separately.</hi> The map exhibits six<lb/>
+separate endemic foci or groups of foci. The one reason in favor<lb/>
+of simultaneous work in all centers is to prevent one focus just<lb/>
+cleaned up from becoming infected from another. But a study of the<lb/>
+map and of the commercial relations makes it clear that the<lb/>
+relations of these six groups of foci are such as to lessen the<lb/>
+danger of carrying infection from one to another. Moreover, when<lb/>
+a community has been freed from yellow fever by destroying its<lb/>
+stegomyia <hi>it can not be infected again so long as it is kept free<lb/>
+from the mosquitoes</hi>. All the centers in one group - as the towns<lb/>
+on the southern shore of the Caribbean - should be attacked<lb/>
+simultaneously. But an independent focus, like Guayaquil, or an<lb/>
+independent group, like the south shore group, may be dealt with<lb/>
+without reference to the others. The extermination of yellow fever<lb/>
+in one of these areas would be a permanent achievement, and would<lb/>
+be quite worth the doing even though no further work should be<lb/>
+undertaken. This has been demonstrated by the work done at Havana,<lb/>
+Rio Janeiro and Vera Cruz.</p>
+<p>There are distinct advantages to be derived from working<lb/>
+these independent areas separately. It would give opportunity<lb/>
+to begin work on a small scale, say at the one most favorable<lb/>
+<pb n="12" id="f00757012"/>
+9.<lb/>
+point, and thus to try out working agencies and working methods.<lb/>
+As a result of experience at this one point the work would be<lb/>
+more effective at the next. There would be an advantage also in<lb/>
+being able to begin the work when one community is found willing<lb/>
+to have the work done and to assist in doing it. In the event<lb/>
+that any towns or countries should be hesitant about having the<lb/>
+work begun one or two effective demonstrations in other places<lb/>
+would probably change their attitude and secure the necessary<lb/>
+cooperation. To attack the endemic foci or groups of foci<lb/>
+separately is to follow the line of least resistance and of in-<lb/>
+creasing efficiency.</p>
+<p>IV. <hi>Organization of working agency</hi>. Our experience in Havana<lb/>
+and the Canal Zone has demonstrated that yellow fever can be<lb/>
+eradicated in a given focus of infection by destroying the breed-<lb/>
+ing places of the yellow fever mosquito. The rapidity and<lb/>
+thoroughness with which the work can be done is a mere question<lb/>
+of efficiency in working machinery. General Gorgas, Dr. Carter<lb/>
+and Dr. White agree on the following type of organization where<lb/>
+local conditions permit:</p>
+<p>1. <hi>A director</hi>: to be placed at the head of the work for<lb/>
+a given focus of infection; to be given authority under the general<lb/>
+supervision of the Commission and the local government to appoint<lb/>
+and dismiss subordinates and to make rules and regulations for the<lb/>
+<pb n="13" id="f00757013"/>
+10<lb/>
+conduct of the work: to be held responsible for results.</p>
+<p>2. <hi>A corps of sanitary officers</hi>: One for each 20,000 in-<lb/>
+habitants or important fraction thereof; which responsible to the<lb/>
+Director and having under his immediate charge a group of sanitary<lb/>
+districts.</p>
+<p>3. Under each sanitary officer five or six squads of in-<lb/>
+spectors, each squad under the direction of one of its members<lb/>
+who acts as foreman and has full charge of his squad, each member<lb/>
+of a squad to be assigned so many premises to keep free of mosqui-<lb/>
+toes by the various known methods; his work to be daily inspected<lb/>
+by the foreman of the squad; the work of the foreman in turn to be<lb/>
+under the supervision and constant inspection of the sanitary<lb/>
+officer.</p>
+<p>The city to be divided into small sanitary districts; in<lb/>
+making this division consideration to be given to population <unclear>local</unclear><lb/>
+conditions, convenience of administration; each district to be<lb/>
+assigned to one member of a squad of inspectors. The individual<lb/>
+inspector to go over his district once a week and see that no<lb/>
+mosquitoes are breeding on any premises; to see that all water<lb/>
+containers such as rain-barrels, tubs, buckets, jars, old tins,<lb/>
+etc. are properly cared for - destroyed, or regularly emptied and<lb/>
+scrubbed. The whole of this machinery to be so organised that the<lb/>
+records of detail work are brought each day under the inspection of<lb/>
+<pb n="14" id="f00757014"/>
+11.<lb/>
+V. <hi>Necessary administrative authority</hi>. There must be<lb/>
+authority to do this work - to inspect premises, to screen cisterns,<lb/>
+to empty water-jars, etc. This authority must be given by the<lb/>
+state or municipality. With proper ordinances passed, their en-<lb/>
+forcement will be largely a question of persistence and tact in<lb/>
+securing the cooperation of the people. But behind all voluntary<lb/>
+cooperation there must be recognised authority. General Gorgas<lb/>
+thinks adequate authority would probably be found in the existing<lb/>
+laws and sanitary regulations of the cities in which this work<lb/>
+needs to be done.</p>
+<p>VI. <hi>Time required to do the work</hi>. Dr. Carter estimates that<lb/>
+to create the organization and to bring it to a state of working<lb/>
+efficiency will require from three to six months; and that to<lb/>
+complete the work from this point will require three to four<lb/>
+months more.</p>
+<p>General Gorgas agrees that this is a liberal time allowance<lb/>
+for a community in which the Director of the work should be given<lb/>
+a free hand. In fact, he thinks with a free hand the work could<lb/>
+be done in a place like Guayaquil within six months. But in<lb/>
+actual practice he thinks it would probably be found necessary to<lb/>
+begin on a small budget, to work more slowly, and to take a longer<lb/>
+period of time within which to do the work. Taking all con-<lb/>
+tingencies into consideration two years would seem to be a safer<lb/>
+estimate of the time limit.</p>
+<pb n="15" id="f00757015"/>
+<p>12.</p>
+<p>VII. <hi>Probable cost</hi>. Dr. White, basing his estimate on his ex-<lb/>
+perience in New Orleans, places the maximum cost at about $2.00<lb/>
+per capita for one year. One-fourth of this cost he attributes<lb/>
+to the item of handling cases. But in this work it is proposed<lb/>
+to have nothing to do with the handling of cases. This leaves the<lb/>
+annual per capita cost at about $1.50. At this rate the annual<lb/>
+budget for a city like Guayaquil with a population of 80,000<lb/>
+would be $120,000.</p>
+<p>It is estimated that for a city having a population of<lb/>
+150,000 the annual per capita cost would probably drop to about<lb/>
+$1.25; and that for cities having a population of less than 50,000<lb/>
+it would increase accordingly.</p>
+<p>In counting the cost the water supply may be a prime factor.<lb/>
+If one has to be introduced as a preliminary measure, the cost of<lb/>
+this may be large. A water supply in pipes contributes much to<lb/>
+the success of the work. When impossible to provide it, the situa-<lb/>
+tion can be turned by preventing access of mosquitoes to water<lb/>
+containers.</p>
+<p>It would be expected in any case that a considerable propor-<lb/>
+tion of the cost would be borne by the state and local governments.<lb/>
+Just how far state and municipal governments can be relied upon to<lb/>
+supply funds for the work remains for negotiation with these govern-<lb/>
+ments to determine. Brazil contributed liberally to aid Rio Janeiro<lb/>
+<pb n="16" id="f00757016"/>
+13.<lb/>
+in getting rid of yellow fever; and for both Brazil and Rio<lb/>
+Janeiro the investment has paid and is still paying handsomely<lb/>
+in commercial returns.</p>
+<p>It would seem that Ecuador and Guayaquil might be brought<lb/>
+to take the same view of similar work for that city. Guayaquil<lb/>
+is an important port. It is 3 1/2 days from Panama, now on the<lb/>
+world's highway. But no ship arriving at Panama from the docks<lb/>
+at Guayaquil is permitted to dock or to land passengers until the<lb/>
+end of the sixth day out from Guayaquil. This means that every<lb/>
+such ship is being held up at Panama for 2 1/2 days at a cost to the<lb/>
+company of from $300 to $1500 a day. And this not on one, but<lb/>
+on every journey to this port. And all this because Guayaquil<lb/>
+is an endemic center of yellow fever.<hi rend="superscript">x</hi> The economic handicap<lb/>
+to Ecuador and Guayaquil resulting from this condition in the past<lb/>
+has been enormous; the opening of the canal has <unclear>made</unclear> this handicap<lb/>
+much greater. The one simple fact that stamping out yellow<lb/>
+fever in Guayaquil would bring that port 2 1/2 days nearer Panama<lb/>
+would seem to make the cost of the work to either state or<lb/>
+municipality an insignificant item. It is estimated that in<lb/>
+similar manner the cost to commerce on account of quarantine<lb/>
+against yellow fever in Merida, Yucatan, is about $60,000 annually -<lb/>
+----------------------------------------------------------------------<lb/>
+<hi rend="superscript">x</hi> At present it has plague also.<lb/>
+<pb n="17" id="f00757017"/>
+14.<lb/>
+an amount sufficient in two years to stamp out yellow fever at<lb/>
+this point.</p>
+<p>The situation just described exhibits also the interest which<lb/>
+steamship companies have in this work of eradicating yellow fever.<lb/>
+No disease provokes more prompt or more rigid quarantine than<lb/>
+yellow fever. The regular annual loss in money to the companies<lb/>
+whose ships call at these infected ports is enormous. The United<lb/>
+Fruit Company has found it good business to invest money in the<lb/>
+sanitation of their Central American ports of call. It would seem<lb/>
+not a vain expectation that the work properly organized and directed<lb/>
+would derive moral support, and, if necessary, financial aid, from<lb/>
+the navigation companies whose ships call at these infected ports.</p>
+<p>If it should be found necessary to appeal to still other<lb/>
+agencies, there are influential boards of trade whose interests are<lb/>
+touched by the prevalence of yellow fever at important ports. And<lb/>
+there are the possibilities of strong appeal to the organized<lb/>
+medical interests, commercial interests, and humanitarian interests<lb/>
+of the countries in which the endemic centers of infection are<lb/>
+located. There is also the possibility of international agreement<lb/>
+on a plan of action having for its purpose the complete control or<lb/>
+eradication of the disease.</p>
+<pb n="18" id="f00757018"/>
+<p>15.</p>
+<p>VIII. <hi>Where to begin</hi> Guayaquil and Manaos are known as the<lb/>
+two most dangerous seed-beds of yellow fever in the world. They are<lb/>
+regarded as the fountain heads from which the infection in many less<lb/>
+important places is being continually fed. General Gorgas, Dr. Carter<lb/>
+and Dr. White agree that if the cooperation of Guayaquil could be<lb/>
+secured, that city should be made the first point of attack. It<lb/>
+is the only focus of infection on the West Coast; it is a constant<lb/>
+menace to the canal and is the center from which the canal has<lb/>
+most to fear; it is the source of greatest danger to the Far East<lb/>
+and this danger has been greatly increased by opening the canal.<lb/>
+General Gorgas is especially insistent on making Guayaquil the<lb/>
+beginning point. He says, &ldquo;I should be in favor of making a start<lb/>
+at Guayaquil and Manaos. Guayaquil first and Manaos second. And<lb/>
+as many secondary points as we had money for. But I would feel<lb/>
+great confidence that yellow fever would disappear of itself after<lb/>
+we once got Manaos and Guayaquil under control.&rdquo;</p>
+<p>This judgment as to the results of controlling infection in<lb/>
+these two points would seem optimistic; it is highly improbable<lb/>
+that infection is being kept up in West Africa or even in Yucatan<lb/>
+or the south shore of the Caribbean from Manaos or Guayaquil. But<lb/>
+this aside, Guayaquil, because of its isolation from other centers,<lb/>
+because of its greater menace and of its wide-spread reputation as<lb/>
+a pest hole of yellow fever is clearly the logical point of attack.</p>
+<pb n="19" id="f00757019"/>
+<p>16.</p>
+<p>But there may be practical difficulties in the way of<lb/>
+making a beginning of the work at Guayaquil. Ecuador, we are<lb/>
+told, and especially the people of Guayaquil, do not like<lb/>
+Americans. Whether or not the city would contribute funds,<lb/>
+grant the necessary authority, or even permit the work to be<lb/>
+undertaken remains to be ascertained. The practical beginning<lb/>
+point is the community that offers conditions most favorable<lb/>
+for getting speedy and definite results.</p>
+<p>Washington, D.C.</p>
+<p>October 27, 1914.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0312022">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Extract: The Practice of Medicine in the Tropics, by Henry Rose Carter, 1922 [Enclosed in C0312017]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0312022</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1922-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Byam, Eber C.</name>
+<name type="person">Archibald, R. G.</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Beauperthuy, Louis-Daniel</name>
+<name type="person">Nott, Josiah C.</name>
+<name type="person">Faget, Jean Charles</name>
+<name type="place">London (England)</name>
+<name type="place">Quemados (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1922-00-00">1922</date>
+<idno rend="suppress">C0312022</idno>
+<title>Extract: The Practice of Medicine in the Tropics, by Henry Rose Carter, 1922 [Enclosed in C0312017]</title>
+</bibl>
+</head>
+<p>This extract suggests that Finlay first formulated the idea of mosquito conveyance of yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1922-00-00">
+<head>Extract: The Practice of Medicine in the Tropics, by Henry Rose Carter, 1922 [Enclosed in <xref id="C0312017">C0312017</xref>]</head>
+<pb n="1" id="fC0312022"/>
+<p>Extract from: &ldquo;The Practice of Medicine in the Tropics,&rdquo;<lb/>
+Edited by Byam &amp; Archibald,<lb/>
+Oxford Press: London, 1922.</p>
+<p>Section on Yellow Fever, by H. R. Carter, Assistant Surgeon General,<lb/>
+U. S. Public Health Service.</p>
+<p>Page 1233:</p>
+<p>&ldquo;The demonstration of the mechanism of the conveyance of yellow<lb/>
+fever by the Commission, of which Reed was Chairman, at Quemados in 1900<lb/>
+and 1901, and its immediate acceptance by the leaders in tropical medicine<lb/>
+everywhere, forms a brilliant chapter in experimental medicine.</p>
+<p>&ldquo;Finlay, basing his belief on epidemiological evidence, first for-<lb/>
+mulated the doctrine of mosquito conveyance in 1881 and was persistent in<lb/>
+pressing it, with some modifications, up to its demonstration by Reed's Com-<lb/>
+mission. The principles of the conveyance of a micro-organism by metaxeny<lb/>
+were not understood, or certainly the knowledge of them was not generally<lb/>
+disseminated at this time, and his idea was at first that this conveyance<lb/>
+was a mechanical transference of a micro-organism and later a mechanical<lb/>
+transference modified by a proliferation (and increase in virulence) of the<lb/>
+micro-organism in the fruit juices and sugars adhering to the hairs etc. of<lb/>
+the insects mouth parts, which furnished the culture medium. He did, how-<lb/>
+ever, formulate the doctrine of conveyance from the sick to the well<lb/>
+by a mosquito contaminated by feeding on the sick man, and even selected as<lb/>
+the vector the species of mosquito which does carry the infection. Nor were<lb/>
+his opinions more guesses or clairvoyance, as has been said. They were<lb/>
+based on epidemiological reasoning correlated with the biology of <add>a</add> certain<lb/>
+species of mosquito--not convincing to the rest of us it is true--but enough <add>to</add><lb/>
+&cross;&cross;<add>suggest</add> experimentation in proof or disproval. It is fair to admit that<lb/>
+his experiments were inconclusive; tending, indeed, to negative his contention.<lb/>
+This was due to his idea of mechanical conveyance not allowing enough time to<lb/>
+elapse <del>for</del><add>from</add> the infection of the mosquito to its feeding on the healthy man--<lb/>
+<add>i</add>. e. for the development of the parasite in its insect host. He fully appre-<lb/>
+[c]iated the consequences of his doctrine and laid down rules of procedure for<lb/>
+<add>In Father's handwriting on margin &ldquo;Compell&rdquo;</add><lb/>
+<pb n="2" id="fC0312023"/>
+Oxford Press (Con)<lb/>
+for<lb/>
+-2-<lb/>
+the control and elimination of yellow fever, which, had they been followed,<lb/>
+would have led to the same sanitary results we have since attained. He<lb/>
+was absolutely convinced of the truth of his doctrine, so much so that it is<lb/>
+a question if his faith in it was increased by the results of Reed's ex-<lb/>
+periments.</p>
+<p>Beauperthuy and Nott, the former especially, are frequently mentioned<lb/>
+as having formulated the same doctrine as Finlay, and before him. Beauper-<lb/>
+thuy taught that a mosquito by biting a well man produced the disease, the<lb/>
+insect getting the infection (or poison?) from the &lsquo;putrid&rsquo; mud and slime of<lb/>
+brackiah marshes. To him yellow fever was an intoxication; the source of<lb/>
+infection being the &lsquo;putrid&rsquo; marsh. Nott did not teach <hi>conveyance</hi> at all.<lb/>
+He thought a &lsquo;minute insect&rsquo;, living on or near the ground, entered the<lb/>
+body of a men and was <hi>itself</hi> the cause of yellow fever. Whether the pro-<lb/>
+gress of this &lsquo;insect&rsquo; was by grow<del>n</del>th, like mould, as Faget thought, or by<lb/>
+mechanical progression (legs or wings) is not stated. His idea is rather<lb/>
+the forerunner of the microbean origin of disease than of metaxeny. Neither<lb/>
+Beauperthuy nor Nott, ingenious as were their theories, are rivals of Finlay<lb/>
+in the promulgation of the doctrine of conveyance of yellow fever from the<lb/>
+sick to the well by the mosquito.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

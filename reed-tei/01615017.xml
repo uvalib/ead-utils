@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01615017">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Examination Paper: Surgery, by Walter Reed, [February 8, 1875]</title>
+<title type="gmd">[electronic resource] </title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01615017</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1875-02-08</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>7 pp.</extent>
+<date value="1875-02-08">[February 8, 1875]</date>
+<idno rend="suppress">01615017</idno>
+<title>Examination Paper: Surgery, by Walter Reed, [February 8, 1875]</title>
+</bibl>
+</head>
+<p>Reed writes a paper on surgery for qualification as an Army Surgeon. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1875-02-08">
+<head>Examination Paper: Surgery, by Walter Reed, [February 8, 1875]</head>
+<pb n="1" id="f01615017"/>
+<p><hi rend="underline">Surgery</hi></p>
+<p>I. Describe the operation for the relief of strangulated<lb/>
+femoral Hernia- give the anatomy of the parts<lb/>
+involved.</p>
+<p>I can best answer this question by first<lb/>
+giving the anatomy of femoral Hernia, &amp; afterward<lb/>
+describe the operation.</p>
+<p>Examining the femoral<lb/>
+region, from without inward, we remove first the<lb/>
+integument, <del>next</del> <add> 2<hi rend="superscript">nd</hi></add> the <hi rend="underline">superficial</hi> layer of the<lb/>
+<hi rend="underline">superficial</hi> fascia, <del>next</del> <add>3<hi rend="superscript">rd</hi></add> the <hi rend="underline">deep</hi> layer of the<lb/>
+superficial fascia (between these 2 layers of fas-<lb/>
+cia we find the superficial <del>femoral femoral</del> branches<lb/>
+of femoral artery) 4 <hi rend="underline">Fascia lata</hi>, consisting of<lb/>
+an <hi rend="underline">ant</hi><hi rend="superscript">r</hi>&amp; <hi rend="underline">ext</hi> <hi rend="superscript">l</hi>layer, called the <hi rend="underline">Iliac</hi> portion<lb/>
+&amp; are <hi rend="underline">int</hi><hi rend="superscript">l</hi> &amp; <hi rend="underline">post</hi><hi rend="sup">r</hi> layer, called the <hi rend="underline">pubic</hi> por-<lb/>
+tion. At the upper &amp; inner <unclear>pl.</unclear> of the thigh, a<lb/>
+short distance below pourparts ligament<lb/>
+we find an oval opening, the <hi rend="underline">saphenous</hi> ope-<lb/>
+ning, covered by a delicate fascia, the <del>fas-</del><lb/>
+<del>cia</del> cribriform fascia, which serves to close the<lb/>
+opening. The saphenous opening presents<lb/>
+<pb n="2" id="f01615018"/>
+externally a sharp, curved border, known as the<lb/>
+<hi rend="underline">falciforme</hi> <del><hi rend="underline">fascia</hi></del> <add>ligament</add> or ligament of Hey- which is<lb/>
+a part of the <hi rend="underline">Iliac</hi> portion of <hi rend="underline">fascia lata</hi>.<lb/>
+Removing the fascia lata, we expose a canal<lb/>
+about 1 inch in length, called the <hi rend="underline">Crural canal</hi>.<lb/>
+This canal passes below pourparts ligament &amp; ex-<lb/>
+tends from the abdominal cavity <del>below</del> above<lb/>
+(its upper opening being closed by the peritoneum)<lb/>
+to the Saphenous opening below. The boundaries<lb/>
+of this canal are in <hi rend="underline">front, Iliac fascia</hi> of fascia lata,<lb/>
+<hi rend="underline">behind</hi>, pubic pl. of fasc. lata-internally by Gim-<lb/>
+bernat's ligament &amp; the fascia lata &amp; externally, the<lb/>
+femoral vein, separated from canal by its <unclear>shoath-</unclear><lb/>
+<unclear>still</unclear> more externally we find the fem. artery &amp;<lb/>
+ant<hi rend="superscript">r</hi> Crural Nerve. Gimbernat's ligt. is the inner<lb/>
+boundary of the upper opening of crural canal. It<lb/>
+is a triangular ligament, its base directed outwards<lb/>
+&amp; apex inwards &amp; is that pt. of pourparts lig. which<lb/>
+is attached to the <hi rend="underline">pestineal line</hi>. &amp; femoral Hernia<lb/>
+in its descent from above, first pushes before it<lb/>
+the parietal layer of the peritoneum <add>&amp; a layer of areolar tissue</add> then enters<lb/>
+lying beneath the peritoneum<lb/>
+the crural canal, passes downward a short dist-<lb/>
+ance to the Saphenous opening, thence through the<lb/>
+opening, carrying cribriform fascia before it, &amp;<lb/>
+<pb n="3" id="f01615019"/>
+<del>&amp;</del> then<del>ce</del> curves upward toward the abdomen.<lb/>
+The <del>layers</del><add>coverings</add> of the Hernia from without inward are, 1. The<lb/>
+integument, 2. Superficial fascia, 3. Cribriform fascia,<lb/>
+4. Fascia lata. 5. Tranversalis fascia or fascia propia<lb/>
+(which closes upper pt. of the canal) 6. Peritoneum; and<lb/>
+these are accordingly the parts which are divided in the<lb/>
+operation for strangulated femoral Hernia.<lb/>
+In performing the operation a vertical incision<lb/>
+is made over the most prominent pl. of the <del>to</del><lb/>
+swelling, extending from pourparts lig. &amp; downward about<lb/>
+3 inches. The superficial fascia &amp; fascia lata are<lb/>
+in succession divided on a grooved direction,<lb/>
+when the sac is exposed. This is then taken up with<lb/>
+forceps &amp; a small incision made in it a groove<lb/>
+director is passed underneath it &amp; the sac<del>s</del><lb/>
+split up with a probe pointed bistoury. The<lb/>
+point of constriction is generally found at<lb/>
+Gimbernat's ligament. To divide this a probe<lb/>
+pointed bistoury is carefully passed up &amp;<lb/>
+the constriction divided in a direction <hi rend="underline">up-</hi><lb/>
+<hi rend="underline">ward</hi> &amp; <hi rend="underline">inward</hi>. The object in following<lb/>
+this line of incision is to avoid the <hi rend="underline">intl</hi><lb/>
+Epigastric Artery, which skirts the <hi rend="underline">outer</hi><lb/>
+&amp; <hi rend="underline">upper</hi> margin of the crural opening.<lb/>
+<pb n="4" id="f01615020"/>
+Even in following this line of incision, the <hi rend="underline">obtur</hi><lb/>
+ator artery is sometimes wounded. This is due<lb/>
+to an abnormal distribution of the artery.<lb/>
+Normally it is a branch of the ant<hi rend="superscript">r</hi> division of the<lb/>
+int<hi rend="superscript">l</hi> Iliac; but if sometimes arises from ext<hi rend="sup">l</hi><lb/>
+Iliac in common with the int<hi rend="sup">l</hi> Epigastric &amp;<lb/>
+in passing to the obturator opening, skirts<lb/>
+the upper &amp; inner margin of crural opening<lb/>
+&amp; in this case can scarcely avoid being wounded.<lb/>
+M<hi rend="superscript">r</hi> <unclear>Evichseu</unclear> has recommended that the edge of<lb/>
+bistoury be dulled so as to push the artery<lb/>
+before it. The obturator sometimes passes<lb/>
+along the <hi rend="underline">outer</hi> &amp; lower margin of the <del>canal</del><add>opening</add>,<lb/>
+but in this case would run no risk of being<lb/>
+wounded. The point of constriction is sometimes<lb/>
+found at the falciform ligament, a division of<lb/>
+which releases the gut.</p>
+<p>II. Describe the symptoms, and give the causes<lb/>
+prognosis, diagnosis and treatment of Pyaemia.</p>
+<p><del>Pyaemia</del>The development of Pyaemia is character-<lb/>
+ized by a well-pronounced chill, which is<lb/>
+subsequently reapeated frequently &amp; at irregular<lb/>
+intervals. During the chill, examination with<lb/>
+the thermometer shows an elevation of the tempera-<lb/>
+ture to 102&deg;, 103&deg;, &amp; even 105&deg; or more (according to <unclear>Billroth</unclear><lb/>
+<pb n="5" id="f01615021"/>
+as high as 107&deg;). The pulse is accelerated ranging from<lb/>
+100 to 140-quick &amp; compressible. The countenance is<lb/>
+flushed &amp; eyes somewhat infected. The chills are<lb/>
+followed by sweating, which is sometimes profuse &amp; ex-<lb/>
+hausting. The tongue is covered with a white coating<lb/>
+&amp; moist - later on it becomes dark, dry &amp; fissured.<lb/>
+There is thirst as the disease advances we observe<lb/>
+often that patient coughs &amp; expectorates rusty colored sputa<lb/>
+which shows supervention of pneumonia, either labai or lab-<lb/>
+ular. The breath is said to have a hay-like odor.The<lb/>
+conjunctiva &amp; surface of body becomes jaundiced, probably<lb/>
+due to metastatic abscesses in the liver. Diarrhoea is a<lb/>
+frequent symptom. Anorexia is present &amp; sometimes vom-<lb/>
+iting. Delirium supervenes &amp; is of a low, muttering kind.<lb/>
+The patient seems listless &amp; stupid. Sometimes great pain<lb/>
+in joints due to formation of metestatic abscesses. The pulse<lb/>
+becomes more rapid &amp; feeble, coma supervenes &amp; the pa-<lb/>
+tient dies. The predisposing <hi rend="underline">causes</hi> of pyemia are, over-<lb/>
+crowding of wounded patient in wards, a laid state of health<lb/>
+etc. The exciting cause is a <hi rend="underline">wound</hi> generally held that wounds<lb/>
+of bone where vessels remain patulous are most often<lb/>
+followed by pyemia. <hi rend="underline">Prognosis</hi> is very unfavorable - generally<lb/>
+causes death. <hi rend="underline">Diagnosis</hi>, from Intermittent &amp; Remittant fever<lb/>
+by the irregular course of the Chills from typhoid by greater<lb/>
+thermometrical range &amp; temperature does not follow the regular<lb/>
+course which is seen in typhoid. From <hi rend="underline">Hectic</hi> by greater range<lb/>
+<pb n="6" id="f01615022"/>
+of temperature by the greater gravity of the affection does not pre-<lb/>
+sent the regular evening exacerbation as seen in Hectic.<lb/>
+Sometimes confounded with Rheumatism, when the Joints are involved.<lb/>
+In pyaemia the joint affection generally passes to suppervation<lb/>
+in Rheumatism it does not - also notice the greater gravity<lb/>
+of affection, the irregular chills, diarrhoea etc.</p>
+<p><hi rend="underline">Treatment</hi> divided into <add>1<hi rend="superscript">st</hi></add> <hi rend="underline">preventive</hi>- avoid crowding of<lb/>
+wounded together give <hi rend="underline">free drainage</hi> &amp; suppurating wounds<lb/>
+keep the <hi rend="underline">wounds clean</hi> also sponges &amp; bandages in a<lb/>
+clean condition. 2<hi rend="superscript">nd</hi> when the disease is developed, the treat-<lb/>
+ment is not of much avail &amp; varies - the general indication<lb/>
+are to sustain patients strength by nourishing broths a stimu-<lb/>
+lants. Check diarrhoea if profuse give sulph. Quiniae<lb/>
+Gr. Tr-V every 3 hours, combined with opium-Carbolic <lb/>
+acid is sometimes given internally. I saw a patient recov-<lb/>
+er, who took <unclear>1 minium</unclear> carbol. acid every 3 hours for<lb/>
+more than one week. The Sulphites have been rec-<lb/>
+ommended. But in spite of all treatment the patient<lb/>
+generally dies.</p>
+<p>III. Give the causes, symptoms and treatment of<lb/>
+sympathetic Ophthalmia.</p>
+<p><hi rend="underline">Causes</hi>. Any severe inflammation of one eye may<lb/>
+give rise to sympathetic ophthalmia in the other.<lb/>
+<pb n="7" id="f01615023"/>
+Gonorrhoeal ophthalmia has been supposed to give rise<lb/>
+&amp; a sympathetic inflammation in the other eye. The opera-<lb/>
+tion for Cataract <add>of one eye</add> sometimes gives rise to sympa-<lb/>
+thetic op<add>h</add>thalmia in the other. Malignant tumors of<lb/>
+one eye are sometimes followed by the same<lb/>
+symptoms. A severe wound of the eye, especially<lb/>
+if the foreign body is not removed, is apt to cause<lb/>
+sympathetic trouble in the other eye &amp; even after<lb/>
+removal of the body, the injury which destroys<lb/>
+one eye may <del>be</del> lead to smypathetic ophth-<lb/>
+almia &amp; destroy the other.</p>
+<p>The symptoms are pain <add>in</add> eye, conjunctional &amp; sub-<lb/>
+conjunctional infection, photo<del>bia</del><add>phobia</add>, intra-occular tension<lb/>
+increased, &amp; unless trouble is arrested going on to<lb/>
+destruction of eye.</p>
+<p>The treatments is to subdue inflammation of<lb/>
+the eye giving rise to trouble, by counterirritation<lb/>
+around orbit - installation of atropia, keep<lb/>
+bowels open, etc. In case of morbid growths<lb/>
+in eye, or severe inflammation of <add>deep pts of</add> eye from<lb/>
+wound by foreign body. Enucliation of affected<lb/>
+eye will alone arresty the trouble.</p>
+<p>Respectfully submitted<lb/>
+Walter Reed.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

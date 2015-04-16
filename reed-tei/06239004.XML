@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06239004">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Aristides Agramonte to Jefferson Randolph Kean, August 4, 1911</title>
+<title type="gmd">[electronic resource]</title>
+<author>Agramonte, Aristides</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06239004</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1911-08-04</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1911-08-04">August 4, 1911</date>
+<idno rend="suppress">06239004</idno>
+<title>Letter from Aristides Agramonte to Jefferson Randolph Kean, August 4, 1911</title>
+</bibl>
+</head>
+<p>Agramonte informs Kean of Finlay's declining health. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1911-08-04">
+<head>Letter from Aristides Agramonte to Jefferson Randolph Kean, August 4, 1911</head>
+<pb n="1" id="f06239004"/>
+<opener>
+DR. ARISTIDES AGRAMONTE<lb/>
+CALLE K, ENTRE 15 Y 17<lb/>
+VEDADO, HABANA.<lb/>
+--<lb/>
+<dateline>
+Havana, <date value="1911-08-04">Aug. 4th, 1911.</date>
+</dateline><lb/>
+Lt. Colonel J. R. Kean, U. S. Army,<lb/>
+Washington, D. C.<lb/>
+<salute>My dear Col. Kean:</salute>
+</opener>
+<p>Have just returned from abroad and find your letter of<lb/>
+April 27th as well as copies of the compilations of the writings of the mem<del>o</del>bers of<lb/>
+the Yellow Fever Commission. I shall distribute them in due time.</p>
+<p>Am sorry to say that I find Dr. Finlay declining quite rapidly and his mental<lb/>
+condition is such as to preclude his taking interest in anything of a serious character.<lb/>
+It is very sad to see his gradual descent and physical deterioration.</p>
+<p>Dr. Guit&eacute;ras is at present in New York looking after the cholera question there<lb/>
+and sanitary matters here are very active from a <hi>political</hi> standpoint. The Commission<lb/>
+of Infectious Diseases has been deprived of its fees as well as several of the Members<lb/>
+of the Superior, (now National,) Health Board so that unless some action be taken at<lb/>
+the next Legislature, in November, we are all going to resign. I hope matters will be<lb/>
+straightened out to avoid this step which will certainly be in detriment of the admi-<lb/>
+nistration, but, as you know, the work of the Commission<add>,</add> at least, is one that entails<lb/>
+an actual expenditure of time and labour and therefore cannot be carried out <hi>gratis</hi><lb/>
+for an indefinite period of time.</p>
+<p>I would <del>have</del> like<del>d</del> to <add>have</add> see<add>n</add> some of my own publications appearing in the printed<lb/>
+matter you sent me<add>,</add> but the thing cannot be arranged now so that the least said about<lb/>
+it the better. Thank you very much for sending the copies and with best regards I<lb/>
+remain.</p>
+<closer>
+<salute>Yours very sincerely,</salute>
+<signed>Agramonte</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

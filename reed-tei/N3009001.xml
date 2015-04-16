@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N3009001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Newspaper clipping, Baltimore American, July 6, 1912</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N3009001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1912-07-06</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Jenkins, William T.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Kemp, William Miller</name>
+<name type="person">Stevens, A.H.</name>
+<name type="place">Philadelphia (Pa.)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">New York (N.Y.)</name>
+<name type="place">Boston (Mass.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1912-07-06">July 6, 1912</date>
+<idno rend="suppress">N3009001</idno>
+<title>Newspaper clipping, Baltimore American, July 6, 1912</title>
+</bibl>
+</head>
+<p>To Give Credit Where It Is Due</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1912-07-06">
+<head>Newspaper clipping, Baltimore American, July 6, 1912</head>
+<pb n="1" id="fN3009001"/>
+<opener>
+<dateline>
+<date value="1912-07-06">July-6 1912</date>
+</dateline>
+</opener>
+<p>__________________________________________________</p>
+<p>[B]ALTIMORE AMERICAN, SATU</p>
+<p>TO GIVE CREDIT<lb/>
+WHERE IT IS DUE</p>
+<p>--------</p>
+<p>DR. JENKINS TO WRITE BOOK<lb/>
+ON YELLOW FEVER.</p>
+<p>--------</p>
+<p>IS SEARCHING OLD RECORDS</p>
+<p>--------</p>
+<p>To Gather Facts Concerning Con-<lb/>
+vention Held Here Years Ago, at<lb/>
+Which Two Physicians Declared<lb/>
+That Yellow Fever Was Not<lb/>
+Contagious, But Was Infected<lb/>
+Through Some Other Means--He<lb/>
+Searches The American Files.</p>
+<p>--------</p>
+<p>Dr. William T. Jenkins at one time<lb/>
+health commissioner of New York city<lb/>
+and also health officer of that port, was<lb/>
+in the city yesterday searching for rec-<lb/>
+ords of the Second National Sanitary<lb/>
+Convention, which was held in Baltimore<lb/>
+in 1858. Dr. William Miller Kemp was<lb/>
+commissioner of health in Baltimore at<lb/>
+that time. He advanced a theory at that<lb/>
+congress that yellow fever was not con-<lb/>
+tagious. A resolution to that effect was<lb/>
+also offered by Dr. A. H. Stevens of<lb/>
+New York.</p>
+<p>From observations these doctors had<lb/>
+found that yellow fever was not trans-<lb/>
+mitted by contagion, and a search was<lb/>
+then started to discover in what manner<lb/>
+the disease was spread. Their theory<lb/>
+was proven correct in 1899 by Dr. Wal-<lb/>
+ter Reed, of the United States Army.<lb/>
+who, with a party of doctors, went to<lb/>
+Cuba to make a study of yellow fever.<lb/>
+It was at that time the startling discov-<lb/>
+[line missing]<lb/>
+sponsible for the transmission of yellow<lb/>
+fever. Dr. Jenkins will publish a book<lb/>
+in which he will give Drs. Kemp and<lb/>
+Stevens credit for being the first men<lb/>
+to advance the theory that yellow fever<lb/>
+was not contagious. Dr. Jenkins spent<lb/>
+yesterday morning going through old<lb/>
+files of The American.</p>
+<p>&ldquo;There have been four National Sani-<lb/>
+tary Conventions held in the United<lb/>
+States,&rdquo; said Dr. Jenkins. &ldquo;The first<lb/>
+was held in Philadelphia in 1857: the<lb/>
+second in Baltimore in 1858: the third in<lb/>
+New York in 1859, and the fourth in<lb/>
+Boston in 1860. At these conventions<lb/>
+many important questions were discussed.<lb/>
+It was not known at that time that yel-<lb/>
+low fever was transmitted by the mos-<lb/>
+quito. Dr. A. H. Stevens, a noted phy-<lb/>
+sician of New York and one of the au-<lb/>
+thorities on sanitation in the United<lb/>
+States, offered a resolution at the con-<lb/>
+vention in Baltimore in 1858, in which he<lb/>
+advocated the theory that yellow fever<lb/>
+was not contagious. Dr. William Miller<lb/>
+Kemp, who was the commissioner of<lb/>
+health in Baltimore at the time, was<lb/>
+also a strong believer in Dr. Stevens'<lb/>
+theory. They did not know then that<lb/>
+it was the mosquito that carried the<lb/>
+dreaded disease. But from scientific ob-<lb/>
+servations they were positive that there<lb/>
+were other means than contagion for<lb/>
+spreading the disease.</p>
+<p>&ldquo;To prove this theory Dr. Kemp was<lb/>
+present when a ship was unloaded in<lb/>
+Baltimore that came from an infected<lb/>
+port. Some of the workmen who unloaded<lb/>
+the ship contracted yellow fever. That<lb/>
+ship must have brought mosquitoes from<lb/>
+the infected port, and they transmitted<lb/>
+the disease to the workmen. Dr. Kemp<lb/>
+did not know at that time that the mos-<lb/>
+quito was responsible for the transmission<lb/>
+of the disease, but he was positive that<lb/>
+there were no infected persons aboard<lb/>
+that ship and that the workmen con-<lb/>
+tracted the disease through some means<lb/>
+that had not been discovered by the<lb/>
+medical profession.&rdquo;</p>
+<p>Dr. Jenkins thinks that the men who<lb/>
+first advanced the theory should have<lb/>
+credit for what they did, as well as the<lb/>
+men who afterward proved their theories<lb/>
+correct.</p>
+<p>&ldquo;When the fourth convention met in<lb/>
+Boston in 1860,&rdquo; continued Dr. Jenkins,<lb/>
+&ldquo;no means had been discovered by which<lb/>
+ships could be disinfected. Steam was<lb/>
+afterward [fo]und to be the means that<lb/>
+had lon[g][word missing] sought by the scientific<lb/>
+[w]orld. [words missing] Harris, of New York,<lb/>
+[line missing]<lb/>
+[words missing] of the convention<lb/>
+[words missing] 1860. At the same time<lb/>
+[words missing] perfecting the use of steam<lb/>
+[words missing] purposes. I am writing a<lb/>
+book in which it is my intention to<lb/>
+give credit to such American doctors as<lb/>
+Dr. William Miller Kemp. of Baltimore;<lb/>
+Dr. R. H. Stevens, of New York, who<lb/>
+first advocated the theory that yellow<lb/>
+fever was not contagious, and to Dr.<lb/>
+Elisha Harris, of New York, who intro-<lb/>
+duced steam as a means of disinfecting<lb/>
+ships.&rdquo;</p>
+<p>Dr. William T. Jenkins was born at<lb/>
+Holly Springs, Mass., October 25, 1855,><lb/>
+and was graduated from University of<lb/>
+Mississippi in 1878. He took a post-grad-<lb/>
+uate course at the New York University<lb/>
+in 1880, was appointed director of the<lb/>
+Merchant Marine Hospital Service for<lb/>
+Foreign Sailors in New York: health<lb/>
+commissioner of New York and officer<lb/>
+of the port, 1892 to 1894. He was coro-<lb/>
+ner's physician, 1881 to 1892. He is a<lb/>
+member of the County Medical Society<lb/>
+and Medical Association of New York.</p>
+<p>While officer of the port of New York<lb/>
+Dr. Jenkins had charge of the Cholera<lb/>
+Hospital during the epidemic a number<lb/>
+of years ago.</p>
+<p>-------------------</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,1470 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY t04715186 SYSTEM "t04715186.jpg" NDATA jpg>
+<!ENTITY t04715187 SYSTEM "t04715187.jpg" NDATA jpg>]>
+<TEI.2 id="t04715159">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Answers to questionnaire from Paul L. Tate to Philip Showalter Hench, July 27, 1954</title>
+<title type="gmd">[electronic resource]</title>
+<author>Tate, Paul L.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04715159</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1954-07-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Presnell, James F.</name>
+<name type="person">Godfrey, Guy Charles Moore</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Havard, Valery</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Amador, R. A.</name>
+<name type="person">Brumby, William M.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Maass, Clara Louise</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Lewis, Winifred</name>
+<name type="person">Lewis, Minnie</name>
+<name type="person">Holmes, [s.n.]</name>
+<name type="person">McCord, Lottie</name>
+<name type="person">Gillen, Ella M.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>26 pp.</extent>
+<date value="1954-07-27">July 27, 1954</date>
+<idno rend="suppress">04715159</idno>
+<title>Answers to questionnaire from Paul L. Tate to Philip Showalter Hench, July 27, 1954</title>
+</bibl>
+</head>
+<p>Tate gives detailed answers to the questions asked by Hench, including information about the main characters involved in the yellow fever experiments, details on the army nurses, and rumors around the camp.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1954-07-27">
+<head>Answers to questionnaire from Paul L. Tate to Philip Showalter Hench, July 27, 1954</head>
+<pb n="1" id="f04715159"/>
+<p><hi>Answers to questionnaire from Doctor Hench received by<lb/>
+Mr. Tate July 27, 1954</hi></p>
+<p>
+<list type="ordered">
+<item>1. My telephone number is: THornwell 3-8192</item>
+<item>2. I have a copy of our June 21st interview</item>
+<item>3. My wife's name is Lula Mae<lb/>
+We were married in Berkeley, California December 12, 1934<lb/>
+She was born in Cogsville, Kentucky, April 5, 1879</item>
+<item>4. We have no children</item>
+<item>5. I don't think I have anything original or of value. Will<lb/>
+look and write later about it</item>
+<item>6. Anything I may find that you wish I will be glad to send<lb/>
+it to you</item>
+<item>7. Not now</item>
+<item>8. No</item>
+<item>9. November 21, 1898 is correct</item>
+<item>10. It was called an Ambulance Section</item>
+<item>11. You are correct, it was A.A.S. J. P. Presnell<lb/>
+I cannot recall n<unclear><del>i</del><add>u</add>mber in</unclear> companies and troops at that time,<lb/>
+but much smaller than today. I think an infantry company had<lb/>
+120 men in two platoons<lb/>
+I Now remember A.A.S. William Alsen in addition to those I<lb/>
+named in interview insert, but have no recollection of Long,<lb/>
+Jackson or Lundy, though I do faintly remember the last name</item>
+<item>12. I have never seen a picture of Post Hospital at Pinar del Rio,<lb/>
+but would like to. The dimensions are described in your ques-<lb/>
+tionnarie and when I get to that will give you a good dis-<lb/>
+cription of it<lb/>
+<list type="ordered">
+<item>(a) My duties in 1899 I don't remember any special duties in<lb/>
+that year, but one event made such a pleasent impression on<lb/>
+my mind that I have not forgotten it. As it has no connection<lb/>
+with Yellow Fever I will try to be brief: One day, two others<lb/>
+and myself got a pass and decided to explore the countryside<lb/>
+instead of going to town. We followed a road we found, had a<lb/>
+bath under a miniture waterfall and wound up by stopping at a<lb/>
+hacienda we came to. At that time the Americans were looked<lb/>
+upon as saviors.--Nothing was too good for us (unfortunately<lb/>
+this feeling did not last long.) At that place few of them had<lb/>
+ever seen a soldado Americano, so they couldn't do too much<lb/>
+for us. A Cuban dinner at which was passed around brandy, (but<lb/>
+no American had ever drank such stuff as that with his after-<lb/>
+dinner coffee!) Then lots of Aquardiente, and at the finish of<lb/>
+the meal the old Madre rolled cigars for all from leaves hang-<lb/>
+ing in a rear shed. That was the famous cigar tobacco known<lb/>
+the world ove as the best. No king could have bought the cigars<lb/>
+<pb n="2" id="f04715160"/>
+(2)<lb/>
+we smoked that day--selected leaves from the world's best<lb/>
+tobacco--they didn't need Connecticut wrappers!<lb/>
+That night they took us in an Ox-Cart with 7 foot high<lb/>
+wooden wheels to the home of another family, to show-off the<lb/>
+great Americanos. By this time we had forgotten we belonged<lb/>
+to the army! We ate and smoked and drank again, and watched<lb/>
+the curious Cuban dances; men on side, women on the other,<lb/>
+dancing to the beat of drums. But, alas, we had not known<lb/>
+of the potency of these strange drinks until two days later.<lb/>
+Although we were &ldquo;leading the life of Riley&rdquo; we began to re-<lb/>
+alize there was such a thing as the U. S. Army, and that<lb/>
+they did not allow a one day pass to stretch into three days<lb/>
+without serious trouble for the stretcher. We hadn't the<lb/>
+slightest idea where our camp was. From help from our new<lb/>
+Cuban friends, whom we finally convinced that it was mucho<lb/>
+marlo for us to remain longer, we at last got back to camp<lb/>
+the third evening. I don't remember if I served time for that<lb/>
+episode, but I do know I was fined $30. and had to serve<lb/>
+three days extra without pay on my final discharge. But I<lb/>
+still maintain that it was a bargain. I have never had such<lb/>
+a good time since that cheap!</item>
+<item>(b) We lived in large tents, later elevated floors were put<lb/>
+in them</item>
+<item>(c) I have no recollection of time we went from tents to the<lb/>
+buildings</item>
+<item>(d) It was somewhere near where marked on <del>:</del><add>N</add>o. 1, but there<lb/>
+were no streets laid out when we were there.--Out in the<lb/>
+country beyond the limits of the town. I do not know or <unclear>dont't</unclear><lb/>
+remember where the Y.F. tent hospital was.</item>
+</list></item>
+<item>13. I cannot even make a guess of how many died suring 1899, but<lb/>
+I remember there was much Typhoid, malaria, dysentery, and,<lb/>
+even after we had vaccinated all the population we had a few<lb/>
+cases of smallpox of Cuban civilians that we brought out to<lb/>
+our camp to give proper treatment and prevent spread.</item>
+<item>14. I don't remember the date I became clerk. I was never an Army<lb/>
+clerk before serving with Godfrey in Fall of 1899. Just don't<lb/>
+know the date.</item>
+<item>15. As I remember Capt. Godfrey, he was about 5 ft. 9 in., about<lb/>
+150 lbs., fair complexion with pink cheeks, yellow to brownish<lb/>
+hair. Wore a neatly cut Van Dyke beard of dark golden color.<lb/>
+He did not take any great interest in the outfit personally,<lb/>
+but he was kindly. He was very kind to me. Though there were<lb/>
+five full Stewards there who should have know army paper work<lb/>
+and I know some of them did know, he had me do all the routine<lb/>
+and much special work, such as inventories and I &amp; C lists.<lb/>
+I received no extra <del>s</del><add>d</add>uty pay, as I did at Col. Bks. but was<lb/>
+excused from all military <unclear>duties and</unclear> allowed to do pretty much<lb/>
+as I pleased, as he knew my rolls, etc were always ready to<lb/>
+be signed on time.<lb/>
+As for his ability as a physician, of course, I don't know.<lb/>
+Now this is just gossip, but I have heard remarks there that<lb/>
+he would not have his two bars if his father had not been the<lb/>
+famous Major Godfrey, Indian fighter of the 7th Cavalry. After<lb/>
+the Y.F. episode I never heard any criticism of him.<lb/>
+One evening I was at an operation he was performing. Doctor<lb/>
+<pb n="3" id="f04715161"/>
+(3)<lb/>
+Presnell was assisting. There was an incision made, ex-<lb/>
+posing the patient's liver. Godfrey, with forceps took a<lb/>
+clip of cotton from a steaming hot sterilizer and was<lb/>
+bringing it down to insert in the incision. There was an<lb/>
+incredulous stare in Presnell's eyes as he watched, but<lb/>
+saying nothing. Just as the steaming pad was about to enter<lb/>
+the opening Presnell touched Godfrey on the shoulder.<lb/>
+Godfrey stopped and looked at him, fooled with the re-<lb/>
+tractors for a few moments as the pad cooled and then in-<lb/>
+seeted it and proceeded with his work.<lb/>
+Godfrey was interested in the disease-carrying properties<lb/>
+of dust, but not greatly enough to work seriously at it,<lb/>
+occassionally examining some dust on slides with the micro-<lb/>
+scope.<lb/>
+He made a discovery of how to stop bleeding from the axilla<lb/>
+caused by wound: Bring arm of wounded side back and bent<lb/>
+till elbow was at top of head and forearm near as possible<lb/>
+in line with spine. He used to practice it on me. I think<lb/>
+the principle of it was it flattened the subclavian artery<lb/>
+on the first rib, stopping flow to axilla. (This is not very<lb/>
+technical, but I guess you'll get what I mean!) Anyhow it<lb/>
+worked.<lb/>
+Godfrey was much interested in Cock-fighting, the native<lb/>
+sport of that section, but I believe few in the outfit<lb/>
+<add>k</add>new of this.<lb/>
+NOTE- I don't know if you wish this sort of material at<lb/>
+length, but I am answering questions as fully as I cam, to<lb/>
+give you the background. Of course this about Godfrey, I<lb/>
+would prefer to forget, as he was very good to me, so it<lb/>
+is written to you in confidence. I never heard of his<lb/>
+heroic deed you write of, but I am sure he was a brave<lb/>
+man physically.<lb/>
+2d paragraph: At that time I was not familiar with the<lb/>
+looks and acts of users of narcotics. Reading the note<lb/>
+of Agramonte, I recall the appearance of Godfrey's eyes<lb/>
+at times, and I would now guess it was caused by opium<lb/>
+or one of its derivatives. He did not commit suiside<lb/>
+until years after leaving Cuba--In the P.I. I heard</item>
+<item>16. Covered in No. 15</item>
+<item>17. Covered in No. 12</item>
+<item>18. I do not know</item>
+<item>19. I would <hi>guess</hi> there were very few and I don't know how<lb/>
+many died. I have no idea why they came there. I do not<lb/>
+think they came from Habana, but may have been deserters<lb/>
+from the Spanish Army.</item>
+<item>20. Have no recollection.</item>
+<item>21. I stated to you in interview that I thought quarantine<lb/>
+was put on just after Agramonte left, but it must have<lb/>
+been after July 21st when Stark ordered it. I cannot pos-<lb/>
+sibly remember dates exactly of happenings so long ago.</item>
+<item>22. Some ignored it. Remember nothing special about it. I<lb/>
+know that I went to town frequently and met other soldiers<lb/>
+<pb n="4" id="f04715162"/>
+(4)<lb/>
+there. We used to walk the main calle at night when there was<lb/>
+a sense of liveliness not present during the heat of day, when<lb/>
+all natives that could were taking their sieste. At night<lb/>
+many Cubans sat at little tables in front of bars and eating<lb/>
+places, playing dominos and sipping their drinks. We drank<lb/>
+crazy concoctions in bars where drunken flies circled about<lb/>
+you. The natives seemed to drink a lot, but I remember seeing<lb/>
+but one drunken Cuban. For a long time an American who could<lb/>
+not stand these strong drinks, and staggered, was a source of<lb/>
+curiosity to them.--They would point, and say in a surprised<lb/>
+manner, &ldquo;Mucho borracho!&rdquo; We would go into small groceries<lb/>
+each of which sold drinks at the end section, and buy imported<lb/>
+Norwegian sardines and Bermuda onions. Which at five centavos<lb/>
+and two centavos for a brandy made very cheap nourishment. We<lb/>
+loved these sardines and onions with hard Cuban rolls. One day<lb/>
+I was sitting in a bakery eating a delicious sweet pastry, when<lb/>
+a cavalry seargent passed, and said, &ldquo;Brother, if you went on<lb/>
+the back street and saw them making those things, you wouldn't<lb/>
+eat it!&rdquo; I told him they tasted so good, that was just the<lb/>
+reason I didn't want to see them made! Your questions bring<lb/>
+back many memories not connected with Y. F. so I'll stop this.</item>
+<item>23. I <hi>think</hi> that is correct.</item>
+<item>24. Don't remember exactly, but I think Godfrey appeared dazed and<lb/>
+uncertain at first and made excited replies to Agramonte, but<lb/>
+I can't remember a word he said. Later on he acted in a sort<lb/>
+of arrogant, defiant manner. That is why I am inclined to be-<lb/>
+lieve in this morphine theory--It would act that way.</item>
+<item>25. When he made the rounds with Reed he was moody and depressed.<lb/>
+Godfrey was with both Agramonte and Reed for lengthy periods<lb/>
+of time when, of course, I was not present. I regret there aee<lb/>
+so many things I don't remember. But after more than fifty<lb/>
+years of being occupied with ones own important happenings of<lb/>
+life, it is sometimes impossible to remember details. For in-<lb/>
+stance, when Godfrey went through the wards with Agramonte<lb/>
+and Reed they must have exchanged numerous remarks, and I of<lb/>
+course heard them, but not one word returns to my memory. Many<lb/>
+times when I say, I don't know, it means I cannot remember,<lb/>
+although at the time I did know.</item>
+<item>26. Don't remember how quick it was.</item>
+<item>27. There were no female nurses up to the time of the arrival of<lb/>
+Agramonte and Reed. I have forgotten if any came after that.<lb/>
+I have a dim idea of seeing female nurses toward the last, but<lb/>
+reall<add>y</add>. I don't believe there were any.</item>
+<item>28. I don't know.</item>
+<item>29. I don't remember how many. I think most deaths were Typhoid,<lb/>
+but though I was keeping the S.&amp;W. Report at that time I can-<lb/>
+not recall what was the cause of most deaths<lb/>
+I took no notes at post mortems. The main idea at that time in<lb/>
+the Hospital Corps was to help along men who showed appitude<lb/>
+in the medical service. When at litter drillmen were asked<lb/>
+questions on bandageing, handling of wounds and simple anatomy,<lb/>
+<pb n="5" id="f04715163"/>
+(5)<lb/>
+(bones, muscles, blood vessels, etc) It was thought best to<lb/>
+allow those showing interest to be allowed to attend post mor-<lb/>
+tems and operations that they might have a better understanding<lb/>
+of the human body than text books and lectures would show them.<lb/>
+About all I remember of that aspect of Y. Fever at Pinar del<lb/>
+Rio is covered in June 21st interview. If anything more comes<lb/>
+to memory I will bring it in.</item>
+<item>30. Agramonte probably made the post mortem with Godfrey on the<lb/>
+date mentioned. I know nothing to the contrary, but I was not<lb/>
+with them at the time. I will now skip to question 109.<lb/>
+I certainly do not believe that any obstacles were thrown in<lb/>
+Agramonta's way at Pinar del Rio. Godfrey had too little time<lb/>
+between being notified of investigation and Agramonta's arri-<lb/>
+val to do anything about it. He appeared dazed and upset at<lb/>
+first. If anything of that kind had happened I would have cer-<lb/>
+tainly known of it, and that would have been something I never<lb/>
+would have forgotten. Godfrey might have tried to wriggle out<lb/>
+of it with words of excuse, but he was too intelligent to not<lb/>
+fully cooperate.<lb/>
+I now refer to your notes on article by Agramonte in Scientific<lb/>
+magazine, Dec. 15, 1915, pages 210, 222, 224. I, of course, could<lb/>
+have no personal knowledge of this, but I simply don't believe<lb/>
+these statements.--They just don't read right.</item>
+<item>31. The stenographer failed to take it verbatim. I think you asked<lb/>
+me if I knew of anyone still living who came from Pinar del Rio<lb/>
+to Col. Bks. with me. I told you that John Morris was the only<lb/>
+one I knew of. That he had worked at Camp Lazear. That he was<lb/>
+senile, and gave address in Reading, Penn.</item>
+<item>32. I have seen Reed in uniform and in civvies, and have read so<lb/>
+many discriptions of him that I would be confused trying to<lb/>
+discribe his physical appearance. What very little I knew of<lb/>
+his personality I liked. I have seen him smile real humor-<lb/>
+ously. Mostly an expression of grave interest. No enlisted man<lb/>
+would accuse him of being &ldquo;High Brass.&rdquo;--He was too much of<lb/>
+the old time regular to have that pomposity. He was real--not<lb/>
+affected. He was erect and walked rapidly. From what I saw of<lb/>
+his relations with medical officers, although he was a real<lb/>
+military man it appeared to me that he thought of all officer<lb/>
+doctors regardless of rank, as physicians. Of course, being a<lb/>
+private, I was never with him for any long period and only saw<lb/>
+him when he was on duty, so don't know how he would act on dif-<lb/>
+fernt occasions. I never heard him swear but I'll bet 10 to 1<lb/>
+that he did when the occasion arose!</item>
+<item>33. I don't remember what notes, if any, I took. I used the old<lb/>
+Pittman shorthand, and I may have made and transcribed some<lb/>
+notes, but what they were and what became of them I have no<lb/>
+idea.</item>
+<item>34. I have no way of knowing.</item>
+<item>35. When we moved into the new Hospital Bldg. I worked in the<lb/>
+<pb n="6" id="f04715164"/>
+(6)<lb/>
+Pharmacy. In about a week Godfrey's office was completely furn-<lb/>
+ished, and he came down stairs one day and said he wanted me<lb/>
+for clerical work; that Head Steward Oscar Lind had recommended<lb/>
+me. I was clerk there until we left for Columbia Barracks.<lb/>
+Incidently, I became clerk there a few days after arrival and<lb/>
+remained so until I left for the States. And to show you that<lb/>
+you can't lose a job in the army, I was placed as clerk at the<lb/>
+big Fort Bayard, N. M. Hospital and Sanitorium, and held that<lb/>
+job with promotions for over three years, until final dis-<lb/>
+charge and then became a civilian clerk there.</item>
+<item>36. All deceased soldiers were temporarily buried there and bodies<lb/>
+later shipped to the States. At that time American military<lb/>
+dead were never permitted, if possible,to be buried on foreign<lb/>
+soil.</item>
+<item>37. All the yellow fever patients in hospital were removed to the<lb/>
+tent hospital but I am not certain where those tents were--I<lb/>
+could not locate it on amap. I will include Question 50 here:<lb/>
+That gives a good idea of the size of hospital. The two main<lb/>
+wings were in the front on level ground, which sloped down<lb/>
+from there. These two were hospital wards, as was the left<lb/>
+radial wing. The right radial wing was used as enlisted men<lb/>
+quarters. The kitchen paralled the hospital about 100 feet to<lb/>
+the rear of back wings, connected to hospital by a raised, cov-<lb/>
+ered passageway. The hospital sat on ground slanting to the<lb/>
+rear and right side, making the enlisted men's quarters about<lb/>
+eight feet above the ground. Pumps to strain water were under<lb/>
+this section. What is described as main hospital building in<lb/>
+question No. 50, was all part of same building, and the wings<lb/>
+radiated from it. In this section was the pharmacy. A stair-<lb/>
+way at <del>left</del><add>right</add> led to second floor, phone at head of stairs, and<lb/>
+to left C. O.'s office. (It was paneled in beautiful natural<lb/>
+grained wood) To right was non-coms rooms and a laboratory.<lb/>
+(2nd par. 50) I think that part of the First Infty. must have<lb/>
+occupied the buildings in picture you showed me of rear of<lb/>
+Quartel. I know nothing about it.</item>
+<item>38. There were many Spanish troops in Habana when we landed. Our<lb/>
+outfit was the first transport to go into the harbor, and<lb/>
+we landed the 5th N.Y. Vols. Infty. set up Provost Guard on<lb/>
+opposite side of street to side Spanish soldiers were doing<lb/>
+same duty. Some may have come from the fighting in Eastern<lb/>
+Cuba. I don't know if the former occupanys of the Quartel at<lb/>
+Pinar del Rio had been sent to the front in the East part of<lb/>
+the island or if they had been kept there to maintain order<lb/>
+until ready to evacuate the island. There were none there when<lb/>
+we arrived.</item>
+<item>39. I don't know when First Infty moved to Quartel. I think some<lb/>
+of them were in it and balance in structures I spoke of in<lb/>
+last paragraph 37, above.<lb/>
+I don't know how much of the 1st Infty. was there, but a good<lb/>
+many companies. If the History of the Famous First Division<lb/>
+were in the Berkeley library, I could get any of this infor-<lb/>
+mation. It is our crack division and fought in all wars except<lb/>
+Korea, (is now in Germany). This book tells where all companies<lb/>
+were at any time. Is in Congressional Library, of course.<lb/>
+<pb n="7" id="f04715165"/>
+(7)</item>
+<item>40. Well, it depends upon how one looks at it. The whole building<lb/>
+was a quartel, or barracks, but as the three windows were in<lb/>
+the guard house section, and we call that a carcel, or prison,<lb/>
+then the only way to put it would be to say that the three win-<lb/>
+dows were in the section of the quartel used as a carcel.</item>
+<item>41. The windows only were boarded up. The board partition was be-<lb/>
+tween the prisoner's quarters and the sentry room</item>
+<item>42. It was about 30 feet wide, I think. Very high to ceiling, 12<lb/>
+feet, I would say. Away up on the inside court wall were small (2)<lb/>
+barred windows. (this is where the infected mosquitoes evidently<lb/>
+came in.) I saw the place only a couple of times, inside.</item>
+<item>NOTE: In question 39 I referred to History of First Division, (The<lb/>
+Big Red 1, as they call it in the army today). Well, that book<lb/>
+is in U. Cal. Library, but--my mistake--it gives their service<lb/>
+in World War 1, only, so can't trace 1st Infty. from that. Sorry.</item>
+<item>43. I guess the Doughtery wagon had brought some medical officer<lb/>
+to the Quaetel and was awaiting him. There were plenty of camera-<lb/>
+fiends in those days, (was one myself before the war). Probably<lb/>
+driver or passenger wanted a picture of the Quartel and his<lb/>
+transport.<lb/>
+I don't know for sure, but I think that I heard the Doughtery<lb/>
+wagon was named after some officer who introduced it into the<lb/>
+army. Would have to delve through whole Library to find about<lb/>
+that. It was light compared to its carrying capacity and great<lb/>
+strength. Was counterpart of the modern Jeep.--Could go any-<lb/>
+where with enough mule-power to haul it. Generally drawn by 4<lb/>
+mules, but two for ordinary use.</item>
+<item>44. I am sure that the 1st Infty. had been in the campaign in East-<lb/>
+ern Cuba with the rest of the regular army and were there until<lb/>
+Col. Roosevelt of the 1st. Vol. Cav. (Rough Riders) got all<lb/>
+the General Officers to sign <del>all</del> his famous Round Robin, asking<lb/>
+that they be replaced with immune troops, or disease would do<lb/>
+what the Spanish Army failed to do--wipe them all out!<lb/>
+When troops were replaced and sent to the States, 1st Infty.<lb/>
+was with them. After recouperation in Southern States camps<lb/>
+and replacements, were sent back as part of Occupation Forces<lb/>
+in Cuba.<lb/>
+The War<del>d</del> Dept. must have felt that Pinar del Rio was important,<lb/>
+as they sent the best of the two services, the 1st. Infty. and<lb/>
+the 7th Cav. there, replacing the 5th N. Y. Vols. whom we came<lb/>
+in with.<lb/>
+At start of war there was an Indian outbreak somewhere in North<lb/>
+midwest U. S. and one regiment was retained to quell them. If<lb/>
+the 1st Infty. was not on this duty, then they were in the war<lb/>
+in Eastern Cuba.--There was no fighting in Western Cuba.<lb/>
+I have forgotten when they and 7th Cav. arrived at P. del R.<lb/>
+No, they couldn't get to the bandits.--Took Mountain Batteries<lb/>
+mule-bornetto do that. I never understood why there was not some<lb/>
+<pb n="8" id="f04715166"/>
+(8)<lb/>
+other way to get at them, but evidently not. I think they were<lb/>
+insurgents when the Spanish were there and continued their<lb/>
+raids for personal reasons when the Spaniards left, but I really<lb/>
+don't know. I have <add>read</add> that was the case after the Civil War in<lb/>
+our country.</item>
+<item>45. The answer is in your following paragraph. I know there were<lb/>
+but few troops when I left there--Probably Q.M. detachments to<lb/>
+clean up and ship material.</item>
+<item>46. I was clerk with Pinto from about Sept. 12th, (shortly after my<lb/>
+arrival) until about Sept. 20th, when Truby took over. Then Stark<lb/>
+returned and I was with him until sometime in Summer of 1901,<lb/>
+when he had a nervous breakdown, (Performing too many operations)<lb/>
+and went to the States. After Stark there were two. I think Keane<lb/>
+was C.O. for awhile, and then some other office whom I don't re-<lb/>
+member was in charge when I left, Aug. 11, 1901. It may have been<lb/>
+Major Harvard. But I don't know--I was not particularly interes-<lb/>
+ted after Stark left.</item>
+<item>47. I have never been sure if Jernegan was at Pinar del Rio. It seems<lb/>
+that he came down with me, but cannot distinctly remember, per-<lb/>
+haps that is because he was not there. I saw him often at Col-<lb/>
+umbia Barracks but recall little about him except that he was<lb/>
+tall, athletic and soldierly in bearing.</item>
+<item>48. Had no correspondence with any, as I went to Ft. Bayard, N.M.<lb/>
+and put in over three years there. Very much later I exchanged<lb/>
+letters off and on with Lambert. If you wish his letters I will<lb/>
+send what I have. I wrote to good old Morris at long intervals<lb/>
+to cheer the old fellow up, but his replies can't possibly be<lb/>
+termed letters.</item>
+<item>49. Although the authorities you mention had better facilities to<lb/>
+approximate population at Pinar del Rio than I had, I still don't<lb/>
+believe it had any where near 30,000 population. I would say<lb/>
+between 8,000 and 10,000, but nearer the first figure.</item>
+<item>50. Covered under Question 37</item>
+<item>51. I think it was DeLamar, No. 13 in Truby's book--Looks like him.<lb/>
+The book or I have the name wrong.</item>
+<item>52. Don't remember Arnold's first name or initials.</item>
+<item>53. I have studied pictures closely but have not slightest remem-<lb/>
+brance of topography at Camp Lazear. I saw no quarry. Such a<lb/>
+brief time there, I saw only some small buildings and tents.<lb/>
+Only natural object I remember are two trees, one a large Oak<lb/>
+we stopped under.</item>
+<item>54. Answer above applies here.<lb/>
+-----------------------------------------------<lb/>
+More when you return if I am answering questions as you wish<lb/>
+<add>This is poor typing but I know you would<lb/>
+not want me to make second copies.<lb/>
+Tate</add><lb/>
+<pb n="9" id="f04715167"/>
+(9)</item>
+<item>55 I don't remember volunteers saying anything about Camp Lazear<lb/>
+itself.--All personal talk. I guess many of them worked part<lb/>
+time, as Kean's check-book stubs shows extra pay for work, which<lb/>
+was probably policing grounds, cooking, guards, latrine digging,<lb/>
+etc. There would be plenty of work around a place such as that.<lb/>
+(You know the old army saying: &ldquo;If its there, pick it up; if you<lb/>
+can't move it, paint it; if it moves, salute it!&rdquo; Some men were<lb/>
+detailed there to work--I know Morris was, though he received<lb/>
+no extra pay, as the volunteers did.<lb/>
+There was no difference in the attitude towards each other of<lb/>
+the volunteers and those who did not volunteer. After Kissinger<lb/>
+there was no amazement or astonishment expressed as was in his<lb/>
+case, but the non-volunteers admired those who did so. We knew<lb/>
+that in most cases it was not sole<add>e</add>y for the money reward that<lb/>
+they volunteered, although the cash was a welcome and extra in-<lb/>
+ducement. ($100.-$200. was a <hi>lot of money</hi> in those days!)<lb/>
+I've heard some fellow laugh and say to a volunteer: &ldquo;You're<lb/>
+crazy--They couldn't get me for a thousand dollars!&rdquo; There was<lb/>
+no feeling of any kind between the men.--You just volunteered<lb/>
+or you didn't. Besides there were a few volunteers who were not<lb/>
+accepted. When it was found they could get sufficient men they<lb/>
+were more particular. One man, I've forgotten who he was, they<lb/>
+would not take because he was too fat.</item>
+<item>56 I could not possibly have any knowledge of where Ames slept at<lb/>
+night. I always understood that he had sleeping quarters at Camp<lb/>
+Lazear, where as officer in charge he had an office. It would<lb/>
+be only natural that there were some nights he would be obliged<lb/>
+by circumstances to sleep there. Then he also had sleeping<lb/>
+quarters in the Y.F. section I have heard. I know he had regular<lb/>
+quarters in officer's row, post hospital. I saw him at times<lb/>
+around the Post Hospital, but how much time he spent in each<lb/>
+place I don't know. He was a very busy man. Truby would not<lb/>
+have known for certain as he was not there at the time of Camp<lb/>
+Lazear.<lb/>
+I don't think Ames tried very hard to get on the Honor Roll,<lb/>
+judging soley by his disposition. I think he was a man who cared<lb/>
+very little for such things. Although, of course, as Contract<lb/>
+Doctor, he held rank of 2nd Lt. he d<del>o</del><add>i</add>dn't care anything about<lb/>
+rank or military usages, so far as I could see. He just thought<lb/>
+of himself as a physician and a public health officer, and had<lb/>
+to put up with the military part. He was quick to wish to leave<lb/>
+the army when it became routine work with no more mass cures to<lb/>
+be made, and get back to public health service.<lb/>
+I don't think he would make a practise of sleeping at any place<lb/>
+regularily, but stayed where his medical service would be most<lb/>
+required. I don't know why, but I do not think he slept much at<lb/>
+the Post Hospital while he was connected with the experiments.<lb/>
+His duties would have been at Camp Lazear and Y. F. Section, as<lb/>
+you stated, and where his duty was, there Ames would be.<lb/>
+Ames was not married at that time. Lambert told me that a nurse<lb/>
+there was in love with him, but she contracted lung disease and<lb/>
+<pb n="10" id="f04715168"/>
+(10)<lb/>
+went to Arizona, and at last report is living in California.</item>
+<item>57 Why I believe Ames had Yellow Fever:<lb/>
+<list type="ordered">
+<item>(a) About immunity: Doctor Amador, who certainly knew a lot<lb/>
+about the disease, having had it himself and treated many cases<lb/>
+of it, told me that he had Y. F. twice --The second time a very<lb/>
+mild attack, but distinctly yellow fever.</item>
+<item>(b) Doctor Brumby wrote that Ames told him in 1903, &ldquo;to be very<lb/>
+careful, or your 1878 immunity might not be any better than mine<lb/>
+was.&rdquo; An admittance that <del>he believed that</del> he did believe he had<lb/>
+the disease twice.</item>
+<item>(c) Lambert fairly lived with yellow fever for months. He thought<lb/>
+Ames had it. Ames first idea that he had malaria was disproved.</item>
+<item>(d) Capt. Stark was not only a wonderful surgeon, he was a skill-<lb/>
+ed physician and a highly intelligent man. Being commanding offi-<lb/>
+cer of the hospital and associating daily with these yellow fever<lb/>
+men, a smart, up-to-date man such as he was, undoubtedly knew<lb/>
+as much about diagnosis of this disease as anyone there. Anyone<lb/>
+who knew Stark knows he was not the kind that makes mistakes.<lb/>
+I attach a letter from Truby in which he gives his opinion of<lb/>
+Stark.</item>
+</list>
+Truby and Agramonte did not see Ames during his attack, and I<lb/>
+don't think Keane did. Stark <hi>did</hi> see him. Other people who doubt<lb/>
+Ames had Y. F. base their opinion sole<add>e</add>y on his chart, or repeat<lb/>
+statements of others. Of course, his case was mild, being a second<lb/>
+attack. So it appears logical to me that Ames did have Y. F.,<lb/>
+and everyone there believed it. Those personally acquainted with<lb/>
+the high sense of honor and integrity held by both Ames and Stark<lb/>
+would never doubt it. Stark was such a marvelous surgeon and<lb/>
+fine man, I expected him to go away up in the service. I asked<lb/>
+Truby what became of him. I enclose Truby's reply. Some of this<lb/>
+answers question 102, so will include that here.<lb/>
+I am in accord with most of what you say as it is so logically<lb/>
+presented as a physician would express it, but, I did not mean<lb/>
+to say that Lambert diagnosed Ames Y. F. I meant that he, too,<lb/>
+believed that Ames was immune, and when Ames said that he thought<lb/>
+he had malaria, Lambert, <unclear>despit<add>e</add></unclear> this, thought he had Y. F., which,<lb/>
+of course, was a marvelous guess. (Of course, this is all hearsay<lb/>
+as I know nothing factually about it.<add>)</add> But I still believe that<lb/>
+Ames did have a second, mild case of yellow fever.<lb/>
+In paragraph two of 102, that is a splendid discription of Lam-<lb/>
+bert's work. Like you, I don't believe that Lambert thought of<lb/>
+himself as an outcast <hi>at that time</hi> .--He could have been relieved<lb/>
+of that duty, but with his desire to stick with Ames. It was but<lb/>
+later in life, when he began to try for recognition for Ames<lb/>
+and later for himself, that this thing became his complete ob-<lb/>
+session and he began to believe that Keane and the Army were<lb/>
+in league against him. I have told him time and time again that<lb/>
+there was nothing against him, but that no matter what influence<lb/>
+he got to back him, it would end up against the fact that the<lb/>
+Act of Congress could not be reopened or any insertion made in<lb/>
+it. Told him to try in the right way to try to get recognition<lb/>
+through a seperate bill for himself and Ames alone, having no<lb/>
+<pb n="11" id="f04715169"/>
+(11)<lb/>
+connection with the 1929 Honor Roll, and he might achieve some-<lb/>
+thing. But nothing anyone can say has any effect on him. I have<lb/>
+written to many congressmen many times at his request, always<lb/>
+knowing it was useless, although I do believe that Ames and he<lb/>
+do deserve special recognition for their work.<lb/>
+This I especially believe when you mention the name of Miss Maass--<lb/>
+Clara Louise Maass. There was an experiment just a few months<lb/>
+later on, (June to August, 1901) where the experiments were, as<lb/>
+I understand it, to inject filtered Y.F. blood, to establish im-<lb/>
+munity. <hi>They had every reason to expect Yellow Fever to result,<lb/>
+and they had every opportunity to catch the first symptoms</hi>. -- Yet<lb/>
+Miss Maass and others died of yellow fever. Suppose <hi>those people<lb/>
+had handled the Reed volunteers instead of Ames and Lambert--How<lb/>
+would the experiment have ended?</hi> To my mind the records show<lb/>
+that there are just certain things about Y.F. treatment that no<lb/>
+one down there knew except Ames and his pupil, Lambert.<lb/>
+As you want my comment, I think your remarks regarding Lambert<lb/>
+are very fair and generous, splendidly presented, so that I cold<lb/>
+almost see Lambert again as a young man, as I knew him then.</item>
+<item>59 In our interview I had a dim remembrance of the bridge, and I<lb/>
+thought it was to left of center looking at it from across the<lb/>
+railroad.--But, I remembered I was looking at it from the far<lb/>
+right, and my &ldquo;idea&rdquo; was that my recollection would be of no<lb/>
+use, as standing to the right would seemingly throw the bridge<lb/>
+to the left in relation to other objects beyond it. An engineer<lb/>
+or photographer would be aware of this optical illusion, but an<lb/>
+ordinary person would not think of it, so I hesitated to say<lb/>
+that I thought the bridge was to left of center. Anyhow all these<lb/>
+words but lead up to the fact that I don't know.<lb/>
+Am answering 112. Pictures 22 and 23, being but part of the <del>sc</del><lb/>
+scene and taken from different angles make it difficult to har-<lb/>
+monize them in relation to each other and surrounding objects<lb/>
+unless one had actually been on the spot and remembered accura-<lb/>
+tely. The only thing I am sure of is that they are all pictures<lb/>
+of the Y.F. huts.<lb/>
+Going to 113.-From my 1900 memory I would say the buildings in<lb/>
+22 and 23 are Y. F. huts. That is one thing I don't have to guess.<lb/>
+And I feel sure you have identified the buildings and their re-<lb/>
+spective numbers correctly. The bridge again: I cant make my-<lb/>
+self see the end of a bridge at far left of 22, even with my<lb/>
+magnifier. Don't seem that end of bridge could be that close to<lb/>
+buildings. (Just my reaction--nothing certain). What is marked<lb/>
+bridge in 23 looks like it had too much hump in it to be end of<lb/>
+a bridge.<lb/>
+As for the statement that a big log was the first bridge.--It<lb/>
+would have had to be a very large log for that, and I don't be-<lb/>
+lieve trains could have run under it, if they were running the<lb/>
+trains at that time. I know the bridge was there but can give<lb/>
+no details of it. I was never in any of the huts. I know nothing<lb/>
+of the people pictured in 23.</item>
+<item>60<lb/>
+<list type="ordered">
+<item>(a) I saw Lazear but once, or maybe twice from a distance. You<lb/>
+know I arrived there Sept. 9th and he became ill about Sept. 16th.<lb/>
+I know only that older Corpsmen there thought highly of him.</item>
+<item>(b) I have spoken so much of Ames. He was a fine man in every<lb/>
+way. He was determined looking but very pleasant. He had, if I<lb/>
+may be excused an<del>d</del> old hackney, <del>of</del> a magnetic personality. Any<lb/>
+<pb n="12" id="f04715170"/>
+(12)<lb/>
+patient of his must have felt that he would surely recover. He<lb/>
+appeared easy-going, but was of a strong, determined mind when<lb/>
+he wanted a necessary thing done. I received this impression<lb/>
+from knowing him. Doctor Brumby writes that he was devoted to<lb/>
+public health, especially as <del>this</del> infectious diseases were con-<lb/>
+cerned. His life proved this, for wherever one found him, it<lb/>
+would be where some disease was, or threatened to be rampant.<lb/>
+He was a good-humored talker, but very serious about his work.</item>
+<item>(c) I was with Agramonte closely only twice. My impression of<lb/>
+him sums up that he was quite capable in his profession, shown<lb/>
+by his actions and manner, but very vain, even arrogant.</item>
+<item>(d) I have little memory of Carroll except that he was very<lb/>
+quiet. I have seen these men and heard them talk, but it is not<lb/>
+sufficient to base a personality sketch on. Of course I knew<lb/>
+more of Godfrey in Pinar del Rio, and Stark, especially, at Col-<lb/>
+umbia Bks. because I was with them for hours every day.</item>
+</list></item>
+<item>61 Ames spoke Spanish fluently as a native. Turn to 99.<lb/>
+99 Ames was born and brought up in New Orleans, where a lot of<lb/>
+Spanish was spoken. He worked long on the Mexican border, at<lb/>
+towns where Y. F. made its appearance, especially at Laredo,<lb/>
+Texas, and I suppose he perfected his Spanish as he went along.<lb/>
+The Spaniard who was longer recovering must have been Antonio<lb/>
+Benigno, as he was several days longer in being discharged than<lb/>
+was Vicente Presedo, according to the charts. Am answering these<lb/>
+questions without any actual knowledge of my own.<lb/>
+I enclose a picture of Ames and also photostat of New Orleans<lb/>
+newspaper of 1905, containing picture and article about Ames,<lb/>
+although you probably have this yourself.</item>
+<item>62 All I know of Col. Baldwin is that he was a strict disciplinarian<lb/>
+but he loved his outfit so much that when a competitive ball<lb/>
+game was scheduled and any of his good players happened to be<lb/>
+in the guard house, he always sprung them loose to get into the<lb/>
+game! He was a military man that did not believe in losing--even<lb/>
+a base-ball game.<lb/>
+I don't believe that there was any real conflict between Baldwin<lb/>
+and the Post Medical Officers. Of course you would have to walk<lb/>
+over his dead body to try any Y. F. experiments on any of his<lb/>
+men if he knew of it.<lb/>
+Of course there was no conflict of any sort between Hosp. Corps<lb/>
+me and the troops. We all went to the Post Exchange in camp to<lb/>
+get necessary toilet article, tobacco, etc etc. And if we did<lb/>
+not have a pass it was the only place we could buy beer. We would<lb/>
+sit in the Exchange and play games, read papers, etc. over a bot-<lb/>
+tle or so of beer. All of us had friends among the different ser-<lb/>
+vices over there.</item>
+<item>63 It is a strange thing, but I don't remember ever seeing a train<lb/>
+pass the camp on that railroad. I sometimes wonder if there were<lb/>
+trains run through to Playa at that time. The Spaniards rode<lb/>
+high and mighty before the war and the higher-ups had every lux-<lb/>
+ury and amusement, but after the war they got out, and the Cubans<lb/>
+were not very well fixed for amusements. I'm merely thinking<lb/>
+this. If trains were run, there were probably very few, and I<lb/>
+never happened to be there when one passed. But I have no remem-<lb/>
+brance of ever hearing a train, a whistle or a bell!<lb/>
+<pb n="13" id="f04715171"/>
+(13)<lb/>
+2nd par. I don't remember how long it took to go to Habana nor<lb/>
+how many trains. There were plenty of soldiers on them, but you<lb/>
+had to be good to get a pass, for Habana had everything there<lb/>
+that a soldier could think of! I could have a pass whenever I<lb/>
+wished, but I went there but once. I will tell you why in ques-<lb/>
+tion 64. We had to be back by 10 p.m. if we had but a one day<lb/>
+pass. The photo in Encl. 10-a looks like the train, but the one<lb/>
+I rode in had more cars. I am sure it was steam engine--I don't<lb/>
+think they had any electric trains there at that time.<lb/>
+Going back to 60 (c) I don't think I have any right to say that<lb/>
+Agramonte was arrogant. That was just an impression and I did <add>not</add><lb/>
+see him enough to say that.--It may have been just his Latin<lb/>
+temperament. I don't wish to do an injustice to anyone.</item>
+<item>64 My sole duty at Col. Bks. was as a clerk. I made out the Pay-<lb/>
+Rolls, Muster Rolls, S. &amp; W. Reports and book, filed Gen. and<lb/>
+Special Orders, etc. I received extra duty pay for this and<lb/>
+was excused from all drills, assemblies, etc. except Saturaday<lb/>
+inspection and general assemblies, where everyone turned out.<lb/>
+The only amusement of the men was playing cards and reading<lb/>
+especially at the Post Exchange. Got passes when they could to<lb/>
+go to town, where sole amusement were bar-rooms and gambling,<lb/>
+except Habana, where there was everything set out for a soldier<lb/>
+or sailor. I covered some of this in 62. We could buy special<lb/>
+food at the canteen, and there were many ball games.<lb/>
+After about January, 1901 I had little time for amusements.<lb/>
+On a certain time when I was talking to Capt. Stark, he remind-<lb/>
+ed me that we had no full stewards there. Said there was to be<lb/>
+an examination in a few months for Acting Stewards and he wanted<lb/>
+me to take the examination. Said he knew I could pass by brush-<lb/>
+ing up some on nursing, materi<add><unclear>[unclear]</unclear></add> medica and pharmacy and that I<lb/>
+knew all the rest. Then I could take the next exam. for Full<lb/>
+Steward.<lb/>
+So, from then on I was a very busy man. In between office work<lb/>
+I studied<add>,</add> and worked in pharmacy. At night I would work in vari-<lb/>
+ous wards as nurse to get practice of what I had learned in<lb/>
+text books. I had time for nothing else until the examination.<lb/>
+I don't suppose you will want all this personal stuff, so will<lb/>
+be brief. I passed written and vocal 98-8&sol;10%--highest man in<lb/>
+Cuba, was told. Contract doctors on Board made mistake of letting<lb/>
+me take examination after physical exam. showed I had Mitral in-<lb/>
+sufficiency. Surgeon General's office could not pass me, accord-<lb/>
+ing to regulations. Stark had a fit.--Burned up the wires to Sur-<lb/>
+geon General when he heard it.--No good.--Regulations are regu-<lb/>
+lations! So, in the Board's absence he cussed them collectively<lb/>
+and individually (and he was an expert)<unclear>.</unclear> He really wanted me to<lb/>
+pass, and took it as a personall matter<unclear>.</unclear> They gave me privilege<lb/>
+of returning to the States, any place I wished, but advised me<lb/>
+to go to Fort Bayard, N.M. as a patient, which I did. So that is<lb/>
+why I did not have much amusement at Col. Bks. But I enjoyed the<lb/>
+exams., especially the oral one, where they tried to stick me<lb/>
+with hard, diverse questions and couldn't do it. Oh, sure, I still<lb/>
+like to brag about that! And I was sure glad I went to the great<lb/>
+Fort Bayard for my best experiences in the army.</item>
+<item>65 Yes, there were early &ldquo;grapvine&rdquo; rumors at Pinar del Rio of the<lb/>
+experiments at Col. Bks. We heard that they were experimenting<lb/>
+<pb n="14" id="f04715173"/>
+(15)</item>
+<item>72 I was never at La Playa Beach, strange as it seems. On passes<lb/>
+I always went to town, and later on while studying for pro-<lb/>
+motion, never went anywhere.--No time to spare. I know that<lb/>
+officers from the post often rode there horseback. I never,<lb/>
+heard of any parties of enlisted men going there, and I don't<lb/>
+believe they did. Of course anyone going there from camp would<lb/>
+have walked. I am not certain that the trains were running there.</item>
+<item>73 I don't remember when the hospital men heard that Reed wanted<lb/>
+volunteers. No, I don't think that Ames asked anyone personally<lb/>
+to volunteer. But I remember two occassions when he talked to<lb/>
+a group of us on the steps between the two corps buildings. He<lb/>
+told us what a good thing it would be, and how safe as far as<lb/>
+life was concerned. He talked both humoresly and seriously, and<lb/>
+we all had such confidence in him that I think he influenced<lb/>
+more men to volunteer than anyone else. The general opinion<lb/>
+of those who considered doing so, was is it worth the risk.-<lb/>
+Most of these men at that time had no great fear of the disease<lb/>
+as we had at first. We had been with it too long. We saw that<lb/>
+many who nursed it never got it, and we considered that the<lb/>
+greatest risk. Most thought that they would not contract it,<lb/>
+but were leary of the mosquito test. We believed in that more<lb/>
+than contact. Some big doctors did not believe in the mosquito<lb/>
+theory, but I'll bet there was not an enlisted man there who<lb/>
+did not believe in it. It was funny to see men stop anything<lb/>
+to smack at a mosquito--any mosquito! If I remember right the<lb/>
+money offered for test was $100. for test;$200. if you got the<lb/>
+disease. (Ques. 75) Oh, they talked it over with me and every-<lb/>
+one else. I did talk with everyone of them except Kissinger<lb/>
+and Moran, as I had a reporter's curiosity at that time. Wish<lb/>
+I could remember indi<del>o</del><add>v</add>idual reactions. But I do recollect that<lb/>
+not one of these men took the test sol<add>ee</add>y for money. They were<lb/>
+not afraid they would die, though they well knew that risk was<lb/>
+there, but they hated the nasty, terrible sickness that would<lb/>
+follow if they contracted it. I think each men knew that he<lb/>
+was doing somethong for science and for mankind, and if it<lb/>
+had not been for that not one would have taken it. They all<lb/>
+hated this disease. This answers Ques. 76, and is a general<lb/>
+summary of my impression of the talks I had with them. I can-<lb/>
+not remember names or times, except Forbes, who was so certain<lb/>
+he would not take it, and told me disgustedly why not--and<lb/>
+then did.</item>
+<item>74 I have no independent recollection as to who volunteered first,<lb/>
+Kissinger or Moran, as I was not present at the place or the<lb/>
+time when they did so. I can give only my impressions held when<lb/>
+we learned of it.</item>
+<item>(79) I always understood and believed that Kissinger volunteered first.<lb/>
+I will follow this with Ques. 79, to explain why I believe this.<lb/>
+It is known that both of these men volunteered for experiment<lb/>
+without money <unclear>compens<add>sati</add>ion.</unclear> In this connection I see by Kean's<lb/>
+check-book stubs, which you sent to Truby, that Kissinger was<lb/>
+paid $200. as a gratuity while at Camp Lazear, in addition to<lb/>
+the $43. he received for labor. This was quite all right, and<lb/>
+deserved. He had volunteered to a no pay basis, but there was<lb/>
+no reason why he should not accept it when proffered. Especially<lb/>
+so that when after he volunteered, others led by his example<lb/>
+received $100. - $200. for same experiment.<lb/>
+Truby's report states that Moran refused gratuity, and none<lb/>
+<pb n="15" id="f04715174"/>
+(16)<lb/>
+appeared on check-stubs. But Moran received $266.67, ($100. per<lb/>
+month) as clerk while he was at Camp Lazear. While there could<lb/>
+not have been much clerical work there, it could be considered<lb/>
+a nice way to recompense him, and everyone would approve of his<lb/>
+accepting it.<lb/>
+I do not know if Moran preceded me as clerk at the hospital. He<lb/>
+may have been a member of the hospital corps there before be-<lb/>
+coming a civilian clerk at Habana, but I never heard of him or<lb/>
+met anyone there that knew of him before the experiment. The<lb/>
+only greatly talked of thing there among the enlisted men was the<lb/>
+volunteering of Kissinger.<lb/>
+Most of us were not afraid of yellow fever at that time, but<lb/>
+none of us were going around looking for it! No one seemed to<lb/>
+know just what these experiments would be. We all knew that mos-<lb/>
+quitoes had been applied to several officers there without any<lb/>
+result. We knew of the mosquito bites giving Carroll the fever<lb/>
+and also Lazear. (But there was much secrecy, you know) Very few<lb/>
+seemed to know much about Dean. That was before I arrived, but<lb/>
+<del>I</del> all I could get out of anyone was that he was a <unclear>cavalryman</unclear><lb/>
+who had been kicked on the knee by a horse and that Lazear had<lb/>
+applied a yellow fever mosquito to him <hi>in the ward</hi>, and he had<lb/>
+taken the disease.<lb/>
+<del>We</del> It was the general opinion that these experiments would be<lb/>
+injection of infected blood. So, when we heard of Kissinger's<lb/>
+act we were astounded. At that time he was a fine, boyish young<lb/>
+fellow with smooth, pink cheeks and large, guileless eyes.--The<lb/>
+last man any of us qould expect to volunteer of his own volition<lb/>
+for such trouble. And I tell you, we all thought he was a hero.<lb/>
+As Actg. Stw'd Burton said, &ldquo;He must be crazy--You'd have to be<lb/>
+to have courage enough to do that!&rdquo; I know the affair made a<lb/>
+great impression on me, and I remember more about it than any-<lb/>
+other experience in Cuba. One fellow said, &ldquo;I'm not scared of<lb/>
+yellow fever, or mosquitoes biting me, but damned if I'd let<lb/>
+them put any rotten blood in me from a man sick with yellow<lb/>
+fever!&rdquo; That man was Forbes, and yet shortly over a month later<lb/>
+he did volunteer for experiment, after listening to Ames talk to<lb/>
+a group of us, and he was given <hi>infected blood</hi>!<lb/>
+The second day after Kissinger volunteered the detachment was<lb/>
+seated at dinner in the mess hall when a man near the door saw<lb/>
+Kissinger approaching. He hurridly put us wise to the act, and<lb/>
+when Kissinger entered, he shouted; &ldquo;Attention! Hero Kissinger<lb/>
+is here!&rdquo; We all arose and stood at attention while two men es-<lb/>
+corted Kissinger to a <unclear>at</unclear> the end of the table. Then man after man<lb/>
+cried, &ldquo;Pass the hero the butter,&rdquo; Pass hero Kissinger the meat,&rdquo;<lb/>
+&ldquo;Pass our hero the pickles,&rdquo;, etc. etc. until he was surrounded<lb/>
+by piled up platters of food. He was blushing a rosy red, and was<lb/>
+so embarrased he couldn't eat. For <hi>he knew</hi> that this was the<lb/>
+Army Way of hiding the real sentiment we all felt by making a<lb/>
+joke of our deep appreciation we would not express in words.<lb/>
+Of course I could not know which of the two was the first to<lb/>
+volunteer. But it is curious that if Moran was first that he did<lb/>
+not get the mosquitoes first. Then after the first failures to<lb/>
+produce results, again Kissinger was first and two Spaniards<lb/>
+were bitten before Moran was used.<lb/>
+You state that Moran said, &ldquo;he had talked it over long into one<lb/>
+night with his room-mate, Kissinger . . .&rdquo; Now Kissinger <hi>may</hi><lb/>
+have been in Habana on pass and been in Moran's room, but this is<lb/>
+<hi>highly improbable</hi>. Anyway he could not have been a <hi>room-mate</hi>,<lb/>
+for Kissinger was on full duty at Columbia Barracks Hospital, and<lb/>
+<pb n="16" id="f04715175"/>
+(17)<lb/>
+had no room, but slept in the quarters with the rest of the<lb/>
+detachment<lb/>
+A few days after Kissinger volunteered we heard of Moran. If he<lb/>
+was in the hospital corps there before I came it is strange<lb/>
+that I never met anyone there who knew him. I never saw him at<lb/>
+the hospital.--The only one of the American volunteers I never<lb/>
+met. None of this proves that Kissinger was first and it is<lb/>
+written only as my personal recollections after dismissing from<lb/>
+my mind all I ever read or heard about it.</item>
+<item>77 Yes, I turned out with the entire detachment when Kissinger was<lb/>
+presented with a watch. I have forgotten if any other troops<lb/>
+were there--can't remember. But it was a formal little ceremony<lb/>
+where Kissinger stepped forward and received the engraved watch.</item>
+<item>80 I saw Dr. Finlay at the post hospital. He was a very kindly ap-<lb/>
+pearing, intellectual looking old gentleman. We were aware of<lb/>
+his theory. We read Habana newspapers and had the Cuban version<lb/>
+of all this. I had no personal contact with him, so know nothing<lb/>
+except what I have read.</item>
+<item>81 There was not much talk about Camp Lazear after the start. Am<lb/>
+pretty certain that we were all sold on the mosquito theory. We<lb/>
+did not believe much in the catching of yellow fever from another.<lb/>
+But, boy, we all watched those mosquitoes. No one had to prove<lb/>
+the mosquito theory to us!<lb/>
+----------------------------------------------------------------<lb/>
+That is all for this time. I have not yet received the Senate<lb/>
+Document nor the Pinar del Rio pictures.<lb/>
+If Doctor Hench's secretary (alc) opens this, could you send me<lb/>
+the above? Would especially appreciate the photos of P. del R.<lb/>
+<add>Tate</add><lb/>
+<add>Correction on Ques. 3 - My wife's maiden<lb/>
+name was Downey.</add><lb/>
+<pb n="17" id="f04715176"/>
+(18)<lb/>
+<add>Trubys letter to <unclear>Tate 1&sol;15&sol;00<lb/>
+stuck in hosp</unclear></add></item>
+<item>82 The man I names as Hardy was William McHardy. We always called<lb/>
+him Hardy. I know nothing of the affair except what I heard<lb/>
+McHardy say and what Lambert told me.</item>
+<item>83 This was when Ames was convalescing from yellow fever. I don't<lb/>
+know how long Ames remained in the yellow fever section, but I<lb/>
+think it was three or-four days before Stark transferred him to<lb/>
+quarters at the Post Hospital. A long time ago I think Lambert<lb/>
+told me it was Ames eighth day on the sick list when he broke<lb/>
+quararantine to get him to help Andrus.<lb/>
+There were no private rooms in the hospital, so he was in a room<lb/>
+in Officers Quarters. I remember one day hearing a private who<lb/>
+was working with Miss Lewis over there, say: &ldquo;These doctors are<lb/>
+all alike when they get sick.--There's Doctor Ames over there,<lb/>
+asking me to bring him back some ice cream when I return, and I<lb/>
+don't know if he is allowed ice cream or not. If I was working<lb/>
+for him I'd get hell if I brought a patient anything without his<lb/>
+knowing it!&rdquo; He grinned, and said, &ldquo;But being its Doc Ames I'm<lb/>
+goin' to get that ice cream to him!&rdquo;</item>
+<item>84 The female nurses of the Army Nurse Corps were: Lena Warner, (chief<lb/>
+nurse) Winifred Lewis; Minnie Lewis, (no relation) Miss Holmes; a<lb/>
+nurse, name forgotten, who was Stark's surgical nurse at opera-<lb/>
+tions; and, I think another one whose name I don't remember.<lb/>
+Lottie McCord and Miss Gillen, if I remember rightly, were both<lb/>
+practical nurses from New Orleans, supposed to be Y.F. immunes.<lb/>
+They arrived late in the experiment, at the time Andrus was sick.<lb/>
+They were not members of the Army Nurse Corps. (uncertain)<lb/>
+Duties: Lena Warner was Chief Nurse, but she did nursing at times,<lb/>
+but only if the patient was a high officer. During my time there<lb/>
+she nursed no yellow fever. I heard that she had nursed Major<lb/>
+Edmunds, of Lee's staff, who died. What others I never heard.<lb/>
+Miss Holmes had charge of receiving and surgical wards, ( the two<lb/>
+were together during my time there. (I will draw plan of wards<lb/>
+later on) She was the oldest and most experienced nurse there,<lb/>
+and a close friend of Lena Warner. Winifred Lewis nursed the sick<lb/>
+officers, when there were any, and at other times in Receiving<lb/>
+Ward. The others did duty at various times in the different wards.<lb/>
+Stark's nurse did no other duty except at operations--and there<lb/>
+were plenty of them.<lb/>
+I know of no female nurses bein on Y.F. cases while I was there<lb/>
+except on Lazear, Carroll, and Ames.<lb/>
+They lived in a Nurse's Quarters building, correctly located on<lb/>
+Truby's layout as 110.<lb/>
+No female nurses worked in the Y.F. section except Miss McCord<lb/>
+and Miss Gillen, who helped nurse Andrews.<lb/>
+I don't know who nursed the early cases who were replaced by<lb/>
+Schweiger. Truby also mentions Nels Rasmussen. At the time I be-<lb/>
+came clerk neither of these men were at Col. Bks. I am certain<lb/>
+(or feel sure) that Lambert alone nursed Kean, for I have read<lb/>
+a photostat of a letter from Kean, saying so. I don't know who<lb/>
+nursed Carroll, Lazear or Dean. Much of my information comes<lb/>
+from misty recollections of names on muster rolls, S. &amp; W. reports<lb/>
+and Spec. and Gen. Orders, which I handled, but I was not doing<lb/>
+this on some of the early cases you mention, so this may not be<lb/>
+very reliable information. The cases from Camp Lazear, <hi>I am sure</hi>,<lb/>
+were all nursed by Lambert only.<lb/>
+Truby in listing Hospital Detachment, mentions Stewards. We had<lb/>
+no man of Full Steward rank at the hospital at that time, and<lb/>
+<pb n="18" id="f04715177"/>
+(19)<lb/>
+but five acting Stewards.</item>
+<item>85 All these women were fine women personally, (including Lena).<lb/>
+They were well liked. As for ability:- The Female Nurse Corps<lb/>
+had not been in existence very long, and as nurses were plenti-<lb/>
+ful then, the department, I have heard, had a long waiting list<lb/>
+to select from. The standard of proficiency set was very high.<lb/>
+Had to be graduates of reputable hospital schools and have ser-<lb/>
+ved at least, two years, I believe, after graduation. So they<lb/>
+were all very proficient in their profession. They fitted in well<lb/>
+at Col. Bks. (and at Ft. Bayard, where there was a <hi>very large</hi><lb/>
+detachment of them). Some old-time medical commanders did not<lb/>
+want them at their hospitals, but that was their lack of knowledge<lb/>
+not the fault of the nurses.<lb/>
+Knowing that these women nurses would sometimes be in unusual<lb/>
+situations not met with in city hospitals, the rules governing<lb/>
+them were very strict. Nothing had to be proved against them--<lb/>
+they were fired on suspicion! --Caesar's wife had nothing on<lb/>
+them!<lb/>
+The only problem I saw concerning a female nurse at Col. Bks.<lb/>
+was caused by Head Nurse, Miss Warner. It happened this way:<lb/>
+Stark's surgical nurse one night at 10 p.m. walked to her quar-<lb/>
+ters, accompanied by a medical officer on way to his quarters.<lb/>
+They stopped briefly at the Nurse Quarters while he bade her<lb/>
+good-night. For this terrible act of indiescretion the chief<lb/>
+nurse confined the nurse to arrest in quarters the next day.<lb/>
+So, she assuredly came to operating room next morning to person-<lb/>
+ally <add>to</add> assist Stark on operations. I was there. Stark entered and<lb/>
+looked around. &ldquo;Where is my nurse,&rdquo; he asked. (He knew, because<lb/>
+earlier I had put the chief nurse report on his desk.) Miss War-<lb/>
+ner told him the trouble and that she would assist him herself.<lb/>
+Now this nurse of Starks was a wonder and a jewel. She was the<lb/>
+answer to a Surgeon's prayer. She knew every type of operation<lb/>
+nearly as well as the surgeon, and had all instruments, etc. re-<lb/>
+quired laid out, and handed Stark what he needed at the precise<lb/>
+moment without his calling for it. She was his third hand.<lb/>
+So, Stark was coldly mad. He knew the whole affair was just an<lb/>
+excuse to &ldquo;show-off&rdquo; to him. He said, &ldquo;Have you washed your hands?&rdquo;<lb/>
+&ldquo;Oh, yes sir.&rdquo; <add>&ldquo;</add>I mean surgically clean. Go over to the bowls<lb/>
+and wash those hands and arms.&rdquo; At the end of that operation, he<lb/>
+said, &ldquo;There will be no more today. I hope my nurse will be on<lb/>
+duty tomorrow.&rdquo; So that is all the nurse trouble I ever heard of<lb/>
+there. Stark's nurse was back the next day!</item>
+<item>86 As I said in 84, Schwieger and Rasmussen were not there when I<lb/>
+was in the office. The only man I know of detailed to Y. F. sec-<lb/>
+tion was Lambert. The members of the detachment thought nothing<lb/>
+particular about a man nursing yellow fever. Any nurse there<lb/>
+would have volunteered for such duty if needed, or any other kind<lb/>
+of disease, as most of them had done. But I am sure not one of<lb/>
+them would be &ldquo;crazy&rdquo; enough to work as long as Lambert did on one<lb/>
+type of bad job such as that. There would have been a strong pro-<lb/>
+test for relief!</item>
+<item>87 We knew from the start that there were experiments going on. We<lb/>
+even knew it in Pinar del Rio. Oh, yes, we all knew of the experi-<lb/>
+ments before Lazear died. We knew of Pinto and the others submit-<lb/>
+ting to mosquito bites. In the corps there are men in every ward,<lb/>
+<pb n="19" id="f04715178"/>
+(20)<lb/>
+office and department, and they can't help but know things, and,<lb/>
+like the servants in the old family castle, there are no secrets<lb/>
+they do not know. You have to talk in the mess hall and the quar-<lb/>
+ters, so what one knows, all know! But we all seemed to realize<lb/>
+that this was a family affair and not to be talked of outside our<lb/>
+own circle.</item>
+<item>88 During the yellow fever period of Col. Bks. it was absolutely<lb/>
+necessary to have a receiving ward seperate from the hospital<lb/>
+<unclear>prooper</unclear> in order to quickly isolate any fever case that might<lb/>
+turn up. After the crisis had passed, it was abandoned. When I<lb/>
+was there no suspicious cases were expected, and the receiving<lb/>
+ward was just a small part of the surgical ward divided from<lb/>
+it by a partition with a door. Miss Holmes had charge of both.<lb/>
+(See hospital layout I will draw and enclose.)</item>
+<item>89 I have read Senate Document 822 a long time ago, but have for-<lb/>
+gotten most of it, but know it contained errors. You said you<lb/>
+would send me a copy, but it has not arrived. (In sending second<lb/>
+batch of papers I thought perhaps your secretary would open them<lb/>
+while you were in Europe, so asked her to send it to me, also<lb/>
+pictures of Pinar hospital, which I <hi>would</hi> like to see. I don't<lb/>
+miss it though, as in my answers I don't want to get too much of<lb/>
+what others said, but give my own version where possible, poor<lb/>
+as it may be--and is, in most cases!</item>
+<item>90 I had no contact with Los Animas Hospital. The men did not believe<lb/>
+it possible that Lazear was bitten accidently. Heard much about it.<lb/>
+All there believed he saw the mosquito biting him and let it fill<lb/>
+up and had then forgotten about it until too late. That was the<lb/>
+general idea there at that time.</item>
+<item>91 I never saw enough of Reed to say anything about this on personal<lb/>
+knowledge. I do not believe that Reed was afraid of yellow fever<lb/>
+or anything else.--It just don't fit in with his looks and life.<lb/>
+I never heard anyone but Lambert doubt his bravery.<lb/>
+I heard that Andrus volunteered to take Reed's place when the<lb/>
+latter insisted on being inocculated when (England, is the way<lb/>
+I heard it) refused to take it. It may have been Weatherwalk,<lb/>
+but I remember talks of such a <hi>big guy</hi> backing down. England was<lb/>
+a big man, or rather a large man.--He became a <hi>big man</hi> later.<lb/>
+I remember but one post-mortem at Col. Bks.--Not a Y. F. case.<lb/>
+I remember it because he was a man who had been a coal miner 20<lb/>
+years before, at which time he joined the army, and we found his<lb/>
+appendix packed with coal-dust! He had died from a broken back.<lb/>
+I never heard anything derogatory about Reed from anyone except<lb/>
+in early letters from Lambert, and I think I knocked that out of<lb/>
+him, for in later letters he has said, that if Reed had lived he<lb/>
+and Ames would have received credit. (Which I don't doubt, for he<lb/>
+surely appreciated Ame's work.) But Lambert is one of the class<lb/>
+that think that the men who actually do the work <unclear><del>is</del><add>1st</add></unclear> entitled to<lb/>
+all the credit. I told him once, he being a high-steel worker,<lb/>
+that they could dump a million tons of steel in front of a million<lb/>
+steel workers and they couldn't build a steel garrage. That big<lb/>
+bridges and 39-story buildings were built first on paper and every<lb/>
+nut and bolt placed before they ever saw the steel. He agreed!</item>
+<item>92 I have given you a little about Kissinger. I think that at that<lb/>
+time he was a serious, altruistic young man, who, when he learned<lb/>
+<pb n="20" id="f04715179"/>
+(21)</item>
+<item>92 (cont) of the need for volunteers, before others did, decided on his<lb/>
+own accord to volunteer for the sake of medical science. Later in<lb/>
+life he became changed, of course. I heard that at one time he lost,<lb/>
+or nearly lost his pension because, &ldquo;he was a contribution cause<lb/>
+to his disability.&rdquo;! Then while working as a woodsman he lost the<lb/>
+use of his legs for quite awhile and his wife had to take in washing<lb/>
+to support the family. (Of course all this is hearsay. I knew nothing<lb/>
+of him in later life) When the 1929 Act was passed he again became<lb/>
+a hero, and through newspaper and magazine publicity he lost his<lb/>
+sense of values in his accounts. But in 1900, in Cuba, as a young<lb/>
+man, he <hi>was a hero</hi>.--The first of the volunteers. I don't think he<lb/>
+even knew there were to be any others. <add>escept possibly Moran</add><lb/>
+Moran, I know nothing of except what I have heard and read.<lb/>
+Andrus was a fine, friendly, intelligent young fellow. All there<lb/>
+liked him. I don't remember much about Jernegan and Hanberry. You<lb/>
+have my recollections regarding Lambert.</item>
+<item>93 I never before heard that Hanberry had deserted. It surely is a<lb/>
+curious thing that he should do that.<lb/>
+Forbes was listed as a deserter. But I knew Forbes very well, and<lb/>
+he was not the type of ever desert. He would fight anything out to<lb/>
+the end. I don't know how long he served in the army continuously<lb/>
+but he served a long time before the disappeared. When he dropped<lb/>
+from sight it was just a <hi>short time after he had reinlisted</hi> as a<lb/>
+<hi>Commissary Surgeant</hi>. A man, long in the army, holding that rank,<lb/>
+just does not desert. It <unclear>wouldn't</unclear> make sense. The probability is<lb/>
+that with plenty of his last discharge money in his pocket, he was<lb/>
+given knock-out drops in his drink in some saloon along the San<lb/>
+Francisco embarcadora, robbed, and dumped into the bay, as has<lb/>
+happened to so many others. The Coast Guard had no patrol boats in<lb/>
+the bay in those days, and his body would have been carried out to<lb/>
+sea by the tide. If he had deserted and was alive he would have<lb/>
+heard of the award of 1929 and would have been back before this to<lb/>
+collect the many thousands of accumulated dollars and gold medal<lb/>
+awaiting him. No, Forbes did not desert.</item>
+<item>94 One of my mistakes. I knew that it was not Amador, but Agramonte<lb/>
+who was sent to Pinar by chief surgeon, though I mistakenly under-<lb/>
+stood over phone that message was from office of Gorgas. I worked<lb/>
+so much with Amador that his name was in my mind. He was from<lb/>
+Panama and Agramonte from Cuba.<lb/>
+The doctor who suspected it was Y. F. at Pinar was Presnell, the<lb/>
+smartest, hardest worked doctor there at that time.</item>
+<item>95 I could not swear to the dates in court, but I am quite sure that<lb/>
+Agramonte arrived there on the 19th of July, and I think it was<lb/>
+two days later, July 21st that Reed came. I had no reason at the<lb/>
+time to remember those dates, but I <hi>am sure</hi> that there was a two<lb/>
+day interval before Reed arrived, and that they <hi>positively did not</hi>--<lb/>
+arrive together.<lb/>
+About my errors.--Oh, no, I'm not embarrassed about attention<lb/>
+being called to my errors. I am trying to remember events, not of<lb/>
+last week or month, but of more than fifty years ago. It would be<lb/>
+remarkable if one could remember all details after that period of<lb/>
+time. I just try my best, and that is why I ask and expect you to<lb/>
+try and check my answers. In some letters I may have made wrong<lb/>
+statements without thinking seriously. So<add>,</add> you just jump me.--You<lb/>
+want to get this material straight, and I want to help you where-<lb/>
+ever I am able.<lb/>
+<pb n="21" id="f04715180"/>
+(22)</item>
+<item>96 Speaking of mistakes--That was a real boner<unclear>!</unclear> Of course one could<lb/>
+not reach Camp Lazear the way I described it. I was thinking of the<lb/>
+Y.F. section across the tracks. I did not know how to get to Camp<lb/>
+Lazear, and regret I gave that impression. Was there but once--in<lb/>
+an ambulance.<lb/>
+When we went to town we always turned left into La Plaza Road, and,<lb/>
+as you say, the Y.F. huts were on our right, far over.</item>
+<item>97 Regarding Lena Warner. I once told Truby of a copy of an address<lb/>
+she had made before some medical society in Missouri, and Truby<lb/>
+asked me to send it to you. I did so and suppose you have it. But<lb/>
+&check; once I had a copy of a publication of hers, (which I have lost)<lb/>
+that beat that one by a mile. In it, she described, while at some<lb/>
+post in Cuba, where the Major in charge would not operate on a man<lb/>
+who had appendicitis. She persuaded a contract doctor there to op-<lb/>
+erate, in a tent, unbeknown to the Major. She directed the operation<lb/>
+as the doctor had little experience. They had scraped up the instru-<lb/>
+ments for it from various places. It was successful. Now this was<lb/>
+signed by Lena Warner. That was a tall tale out of this world! I<lb/>
+wish I had that copy to send you, for you would then approach any<lb/>
+statement of hers with wary suspicion. I have no copy of Kell'ys<lb/>
+book, but I have read it, and did not believe the Warner statements<lb/>
+in it. Lena was a fine nurse and an entertaining talker, but she<lb/>
+missed her real vocation<unclear>,</unclear>-She should have been a fiction writer.<lb/>
+I have forgotten exactly what she said, quoted in Kelly's book,<lb/>
+about Reed leaving the mess table. But it occurs to me, what was<lb/>
+a female chief nurse doing in an officer's mess room?--That is if<lb/>
+she said she witnessed this occurrence.</item>
+<item>98 Besides my regular work on Washington Evening Star I also did some<lb/>
+space work for the Sunday Chronicle, but after enlisting it never<lb/>
+crossed my mind to write anything for publication. Perhaps it is<lb/>
+well that I did not, for it is possible the Star would have been<lb/>
+quick to see news in what I would have written. They might have<lb/>
+given their unloved contemporary, the Post, a tilt about the latter's<lb/>
+assault on the experiment. Soldier's letters were not censored in<lb/>
+those days. I have an idea that the higher-ups would have taken a<lb/>
+dim view of my publicity, and I would probably have been banished<lb/>
+to the most remote isle of the Phillippines! But I had not a line<lb/>
+in the Star until on their 100th anniversary, 1952, I wrote them an<lb/>
+article describing the &ldquo;Triangle&rdquo; in Washington as it was fifty to<lb/>
+sixty years ago. As a <unclear>reported</unclear> in those days that was my old hunting<lb/>
+ground. They accepted and paid nicely for the whole article but<lb/>
+could only get half of it on the honored spot o<unclear><del>r</del><add>n</add></unclear> the editorial page,<lb/>
+after digging up an<del>d</del> old photo of part of the Triangle before it was<lb/>
+razed in 1930 to make way for the election of the magnificent Govt.<lb/>
+Buildings that now occupy that historic spot. (I have never seen<lb/>
+them) So, they honored their old reporter after an absence of more<lb/>
+than fifty years.<lb/>
+I don't think I have anything in the way of letters that would in-<lb/>
+terest you or be of value. Have a lot of letters from Lambert, but<lb/>
+they repeat over and over what you already know. If you wish, I will<lb/>
+look over them and see if any are of interest. Many letters from<lb/>
+Truby, but contain nothing new to you about Y.F. Letters from John<lb/>
+Morriss are mere ramblings and I don't keep them, but I still write<lb/>
+the old boy to cheer him up. Have several issues of FOG HOR<unclear>N</unclear>, issued<lb/>
+<pb n="22" id="f04715181"/>
+(23)<lb/>
+by Letterman Hospital, containing articles and pictures of Truby,<lb/>
+but you no doubt have them. Pho<del>y</del><add>t</add>ostat of Reed's letter to Truby about<lb/>
+first experiment. Photo of Lambert standing at grave of victims of<lb/>
+Maine, in Habana, 1900. Picture (photo) of Lambert and Hanberry at<lb/>
+tablet in Columbia, S. C. Many newspaper pictures of Lambert taken<lb/>
+in late years, etc<unclear>.</unclear> If you wish any of these above, advise me and I<lb/>
+will send any or all. By the way, I suppose you know of the book of<lb/>
+photostatic material that Brumby and Lambert assembled, bound, and<lb/>
+sent copies to various big universities and colleges that had medical<lb/>
+schools. As I had written many letters to congressmen for them to get<lb/>
+honor fo<add>r</add> Ames and Lambert, (one of which was borrowed from my Cong-<lb/>
+ressman by Hon. Barratt O'Hara, of Illinois, who quoted it in his<lb/>
+speech Feb. 20, 1951, Maine Day, and it was printed in Congrassional<lb/>
+Record) Letter to Mayor of New Orleans, etc. They had copies of these<lb/>
+letters in their book. (I have copies of these and Cong. Record).<lb/>
+So they wished to give me a copy of the book. I told them I had no<lb/>
+children alive to pass it on to, so did not wish to waste a book that<lb/>
+cost so much money and labor for them to produce. Confidently, I did<lb/>
+not want a copy because of its many inaccuracies and <unclear>pre<del>dij</del><add>jud</add>ucied</unclear> man-<lb/>
+ner of presentation.--Things I had told them previously were not facts.<lb/>
+But they sent me a copy anyway to dispose of as I wished. I presented<lb/>
+it to the Medical Library of U. C. at San Francisco, with complimants<lb/>
+of Texas Medical Association, through Brumby and Lambert. I was later<lb/>
+told by Doctor Sanders, Med. Historian and Librian, that it was much<lb/>
+called for, especially by doctors and student wishing to see the<lb/>
+Y.F. charts, all of which it contained. The book was bound long so<lb/>
+as not to bend the charts. So all I possess of that is a few extra<lb/>
+sheets sent me before publication.</item>
+<item>99 Answered under No. 61.</item>
+<item>100 I have answered most of these questions under 84 and others. From<lb/>
+McHardy's raving about the affair, I think Ames had been brought<lb/>
+into his quarters, and Lambert and Hardy were the recipients of<lb/>
+Stark's anger. Of course, Miss Lewis over<del>g</del><add>h</add>eard it.</item>
+<item>101 When I wrote Brumby that Agramonte, &ldquo;in no way helped the experiment and<lb/>
+was seldom there,&rdquo; I did not mean it that way: I think I was comparing<lb/>
+the value of his work as a member of the board with that of Ames who<lb/>
+was not a member. I am not qualified to pass on Agramonte's work. I<lb/>
+know he was appointed by Reed to the bacteriologic and pathologic<lb/>
+work for the Board, and he without doubt performed all duties assig-<lb/>
+ned to him. But the fact that he was holding another job in Habana<lb/>
+made it physically impossible for him to often be at the scene of<lb/>
+operations at Col. Bks., so, luckily for the experiment, Lazear was<lb/>
+brought there. Agramonte doing duty in Habana, and absent once even<lb/>
+from there while Reed was absent in the States, makes him not so<lb/>
+important a member of the Board. Unfortunately for him the need for<lb/>
+his type of work, post mortems, etc. declined as the mosquito theory<lb/>
+advanced. But it was not his fault that his usefulness declined.<lb/>
+That is why, I think, that Truby once wrote, that the experiment<lb/>
+could have proceeded without him. Just take a sample instance: He<lb/>
+was able to take a leave of absence. It would have been impossible<lb/>
+and disasterous to the experiment if Ames had taken such a leave.<lb/>
+Agramonte, nor any Mizzuri could <add>not</add> have taken his place. He could not<lb/>
+leave if he wished.--His service was too valuable and important to<lb/>
+the experiment.--Agramonte's was not. I don't remember his self</item>
+</list>
+</p>
+<pb n="23" id="f04715184"/>
+<p>(26)<lb/>
+<hi>References to Enclosures</hi></p>
+<p>
+<list type="ordered"> 
+<item>1. Used in answers 12-d; 37</item>
+<item>2. 15-2nd par. 21 - 30 - 95</item>
+<item>3. 41 - 43)</item>
+<item>4. 42 ) and seperate notations below</item>
+<item>5. 42 )</item>
+<item>6. 53</item>
+<item>7. 54</item>
+<item>8. 54 - 55 - 81</item>
+<item>9. Don't know what objects in foreground are.-Looks like might be<lb/>
+rocks from quarry.</item>
+<item>10. 63</item>
+<item>11. 70</item>
+<item>12. 70</item>
+<item>13. 70</item>
+<item>14. 70</item>
+<item>15. 59 - 88 - 107 Minor errors.- Most of those paths were there,<lb/>
+but less defined than in picture. Nowhere do I see the two main<lb/>
+paths of limestone edged with small rocks. They ran from near<lb/>
+center of Hospital to center of Officers' Quarters, and the other<lb/>
+one from nears Corps Quarters to Nurses' Quarters, crossing each<lb/>
+other in center of grounds. Some of the buildings appear too near<lb/>
+the La Palaya road, but I see from picture of original, in Truby's<lb/>
+book they were in correct position. Other rem<del>e</del><add>a</add>rks, last para-<lb/>
+graph page 25.</item>
+<item>16. 96</item>
+<item>17. 96</item>
+<item>18. 107</item>
+<item>19. 111 I was not often in the rear of the Officers' Quarters, so<lb/>
+when I looked at the photo, I thought it was the front, and be-<lb/>
+came mixed! Then I saw it was a rear photo, and is correct, so<lb/>
+far as I can judge. There appears to be a building between and<lb/>
+in front of the two buildings <unclear>pictures,</unclear> where no building should<lb/>
+be. Parhaps that is another example of photography of that time.--<lb/>
+far-off buildings appear near.--Maybe the building shown is end<lb/>
+of ward where office was.--It would be just in about that line<lb/>
+of view.</item>
+<item>20 111</item>
+<item>21 111</item>
+<item>22 112 - 113- 59</item>
+<item>23 59<lb/>
+Photos received later from your secretary, Mrs. Crissman</item>
+<item>3-(C) Referred to above and in June interview</item>
+<item>4-(D) As above and June interview. Is rear inside of court.</item>
+<item>5-(E) " " " " " I now see clearly that the buildings<lb/>
+with the roof ventilators were built to Army specifications as<lb/>
+that was their construction style at that time. They were, with-<lb/>
+out doubt quarters for part of the 1st Infty, as I <unclear>Sur<del>n</del><add>m</add>ised</unclear> in<lb/>
+our June interview.</item>
+<item>##(B) Have walked down that calle many times.</item>
+<item>(A) I now recognize that this is the square in Pinar del Rio, though<lb/>
+some improvements have been made since I saw it, and I remember<lb/>
+the church in the rear. I sat on one of those benches one eve-<lb/>
+ning listening to the concert of a military band. A young girl<lb/>
+slid out from the shadows and hastily seated herself at the end<lb/>
+of my bench. She was very young and very pretty despite the white<lb/>
+covering of rice powder, thick on her face. Her dark eyes were<lb/>
+<pb n="24" id="f04715185"/>
+(27)<lb/>
+bright with excitement as she glanced quickly at the band and<lb/>
+the scattered throng. From side glances I saw she often looked<lb/>
+at me with interest. As I was in starched white uniform with<lb/>
+brass buttons and blue cap she knew I was an American soldier,<lb/>
+and she had probably never been so near one before. I repressed<lb/>
+the impulse to speak to her for fear she would fly off like a<lb/>
+freightened bird. Abruptly she arose and was instantly lost in<lb/>
+the shadows and then I saw her reappear, running rapidly down<lb/>
+the lighted calle. She was probably some young girl, kept in<lb/>
+strict seclusion as were all of the better class, who had found<lb/>
+a chance to elude her mother or governess for a short time and<lb/>
+had the greatest adventure of her young life.</item>
+<item>(F) You showed me a small photo of these tents last June. It seems<lb/>
+curious, but I just cannot remember where these tents were situ-<lb/>
+ated. I know that a detachment of the men hastily erected them,<lb/>
+but have racked my brains but can't remember where. It must have<lb/>
+been away over from the front of the hospital, as I can not think<lb/>
+of any other place suitable for them</item>
+<item>(G) This reminds me of my first rainy season in Pinar. Deep mud, and<lb/>
+alongside the road in the graveyard, parts of bodies protruding<lb/>
+from the ground, where they had not been buried deep enough when<lb/>
+taken from their rented coffins before the rains.</item>
+<item>NOTE: There were so many questions relative to the 1st Infantry, that<lb/>
+I wrote the Commander of the First Division Association for ad-<lb/>
+vise as to where I could get information regarding 1st Infan-<lb/>
+try. To my great surprise I learned that great and one of the<lb/>
+oldest regiments was not a unit if the First Division. So, I wrote<lb/>
+to Adjt. General Army. Letter was referred to Archivist U. S.<lb/>
+I received reply attached. The history referred to I would like<lb/>
+to read myself, but it is not in the Berkeley Library.</item>
+<item>INSERT In June interview, last paragraph Question 8, page 9, I neglected<lb/>
+to relate the finale of this incident: After Sgt. Lind had made<lb/>
+the sarcastic remarks referred to he dismissed the detachment,<lb/>
+but quickly shouted, &ldquo;As you were!&rdquo; and said: &ldquo;You boys have just<lb/>
+<unclear>shownthat</unclear> you are an honor to the Army, and I want to say that<lb/>
+I am damn proud to be serving with you. Detachment dismissed!&rdquo;<lb/>
+(30)</item>
+</list>
+</p>
+<pb n="25" id="f04715186"/>
+<p><figure entity="t04715186"></figure> <unclear>*</unclear><lb/></p>
+<p>Not to scale - just to show my recollection of use of wards<lb/>
+shortly before I left. They were used differently at<lb/>
+different times. Wide board walks around each bldg.<lb/>
+with railings by overhang roof all around. Wide steps<lb/>
+with railings at each bldg. Covered walk from cen-<lb/>
+ter bldg. to receiving ward <unclear>by</unclear> to operating room.* Photo in<lb/>
+Truby's book was taken at end of <unclear>Conv.</unclear> Ward. I have<lb/>
+large copy of that photo.</p>
+<pb n="26" id="f04715187"/>
+<p>(re ques. 42)</p>
+<p><figure entity="t04715187"></figure> Not to scale - Just rough general idea and I<lb/>
+remember it.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

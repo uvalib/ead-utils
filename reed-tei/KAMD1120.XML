@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD1120">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Thomas M. England to Jefferson Randolph Kean, November 2, 1929</title>
+<title type="gmd">[electronic resource]</title>
+<author>England, Thomas M.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD1120</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1929-11-02</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Saleeby, Najeeb M.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Repetti, John J.</name>
+<name type="person">de Poorter, Lieven</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Carroll, James</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Amador, R. A.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Allen, Freeman</name>
+<name type="person">James, Harry M.</name>
+<name type="person">Horr, Edward F.</name>
+<name type="person">Bispham, William N.</name>
+<name type="person">Mazzuri, Paul</name>
+<name type="person">Barnet, E. B.</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">La Playa (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1929-11-02">November 2, 1929</date>
+<idno rend="suppress">KAMD1120</idno>
+<title>Letter from Thomas M. England to Jefferson Randolph Kean, November 2, 1929</title>
+</bibl>
+</head>
+<p>England compiles a list of medical officers on duty at Camp Columbia and places check marks by the names of individuals he is certain were involved with yellow fever. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1929-11-02">
+<head>Letter from Thomas M. England to Jefferson Randolph Kean, November 2, 1929</head>
+<pb n="1" id="fKAMD1120"/>
+<opener>
+WAR DEPARTMENT<lb/>
+OFFICE OF THE ASSISTANT SECRETARY<lb/>
+WASHINGTON, D. C.<lb/>
+<dateline>
+Room 2505 Munitions Bldg.<lb/>
+<date value="1929-11-02">November 2, 1929.</date>
+</dateline><lb/>
+Colonel Jefferson R.Kean,<lb/>
+Army Medical Museum,<lb/>
+Washington, D.C.<lb/>
+<salute>Dear Colonel Kean:</salute>
+</opener>
+<p>I received you note at 4.30 yesterday afternoon and<lb/>
+this morning I have compiled a list of the medical officers on duty at<lb/>
+Camp Columbia, Cuba, I will mark the ones that I remember having to<lb/>
+do with yellow fever&ldquo;F.Y.&rdquo;</p>
+<p>
+<list type="simple">
+<item><add>3</add> Truby, Albert E. &check;</item>
+<item><add>10</add> Pinto, Alva S. &check;</item>
+<item><add>18</add> Saleeby, Najib M. &check;</item>
+<item><add>2</add> Kean, Jefferson R.</item>
+<item><add>11</add> Repetti, John J.</item>
+<item>de Poorter, Lieven</item>
+<item><add>4</add> Stark, Alexander N. &check;</item>
+<item><add>8</add> F.Y. Lazear, Jesse W.</item>
+<item><add>9</add> F.Y. Ames, Roger P.</item>
+<item><add>7</add> F.Y. Carrol, James</item>
+<item><add>1.</add> F.Y. Reed, Walter</item>
+<item><add>12</add> Amador, Raoul * &check;</item>
+<item>F.Y. <add>13</add> Cook, Robert P.</item>
+<item><add>14</add> Allen, Freeman</item>
+<item><add>5</add> Bispham, William N.</item>
+<item><add>15</add> James, Harry M.</item>
+<item><add>16</add> <unclear>Mazzuri</unclear>, Paul &check;</item>
+<item><add>6</add> Horr, Edward F.</item>
+<item><add>17</add> Barnett, Enrique B.</item>
+</list>
+</p>
+<p>* I remember Dr. Amador was sanitary inspector and made inspec<del>t</del>-<lb/>
+tions of Quemados, Marianao, La Playa, and the surrounding farms for<lb/>
+evidences of yellow fever or the yellow fever mosquitoes. I do not<lb/>
+remember him having anything to do with the patients. As you know<lb/>
+I was not in position to know the duties of all of the above men, so<lb/>
+I have just marked the ones I am certain of.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>Thomas M. England</signed>
+Thomas M. England.<lb/>
+Capt., Med. Adm. Corps.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

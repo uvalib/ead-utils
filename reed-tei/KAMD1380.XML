@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD1380">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Speech: Scientific Achievements of the Army Medical Corps, Heroes of the Conquest of Yellow Fever, by [Jefferson Randolph Kean], [n.d.]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD1380</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>0000-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Ireland, Merritte W.</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Carroll, James</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Russell, Frederick F.</name>
+<name type="person">Siler, J. F.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Shakespeare, Edward O.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Hamann, Paul</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Covington, Albert W.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Bullard, John R.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="place">Puerto Rico</name>
+<name type="place">Philippines</name>
+<name type="place">Manila (Philippines)</name>
+<name type="place">France</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>8 pp.</extent>
+<date value="0000-00-00"></date>
+<idno rend="suppress">KAMD1380</idno>
+<title>Speech: Scientific Achievements of the Army Medical Corps, Heroes of the Conquest of Yellow Fever, by [Jefferson Randolph Kean], [n.d.]</title>
+</bibl>
+</head>
+<p>This document covers the accomplishments of the Army Medical Corps, including the conquest of yellow fever. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="0000-00-00">
+<head>Speech: Scientific Achievements of the Army Medical Corps, Heroes of the Conquest of Yellow Fever, by [Jefferson Randolph Kean], [n.d.]</head>
+<pb n="1" id="fKAMD1380"/>
+<p>Scientific Achievements of the Army Medical Corps<lb/>
+Heroes of the Conquest of Yellow Fever.</p>
+<p>Memo for<lb/>
+an address for<lb/>
+Gen. Ireland</p>
+<p>President and Members of the Illinois State Medical Association, Ladies and<lb/>
+Gentlemen:</p>
+<p>When I received the gracious and friendly <add>invitation</add> of your Secretary to meet you here<lb/>
+tonight it seemed at first impossible that I would be able to leave Washington<lb/>
+in the middle of the short session of Congress when I must at all times be ready<lb/>
+to answer the calls of Congressional Committees for information which bears upon<lb/>
+the needs of the Army. But when I observed that this meeting was intended to<lb/>
+do honor not to individuals merely, but to the Corps as a whole, and not only to<lb/>
+commemorate the glorious episode of the conquest of yellow fever but to embrace<lb/>
+also the more recent fine accomplishments of the service of which I am at present<lb/>
+the Chief, I felt that the call to me was imperative and must be obeyed.</p>
+<p>A Spanish officer who resided for some years in Washington used to refer to the<lb/>
+war of 1898 as the &ldquo;pleasantest of all wars&rdquo;. He referred of course to the absence<lb/>
+of hatred between the opposing combattants and the kindly sympathy which we showed<lb/>
+towards our Spanish prisoners of war of which he was one. This war though it was<lb/>
+marked by no bitterness and little bloodshed had far reaching and permanent results.<lb/>
+For our country it brought it out of its attitude of isolation and introspection<lb/>
+and made it a world power. For the Medical Department of the Army with which we<lb/>
+are especially concerned tonight, it rudely awoke us from an easy life of small<lb/>
+things and thrust upon us large responsibilities in strange environments and distant<lb/>
+lands. To this call all that was best in the medical service responded nobly,<lb/>
+and some among them &ldquo;seized the skirts of happy chance&rdquo; and because our benefactors<lb/>
+by accomplishments which you have shown a generous desire to celebrate tonight.</p>
+<p>The Army Medical School had been established in 1891 by General Sternberg who and<lb/>
+has been called the Father of Bacteriology in America, I think I may say, the<lb/>
+<pb n="2" id="fKAMD1390"/>
+-2-<lb/>
+first of our Surgeon Generals who had made a name in the field of scientific<lb/>
+research. Within its first decade while yet a small tree the School began to<lb/>
+bring forth rich fruits. From its chair of bacteriology Reed and his assistant<lb/>
+Carroll went forth to fight the dragon of yellow fever. One of its young men<lb/>
+who had studied:-</p>
+<p>(1) Parasitology under Stiles, (who then gave lectures to its classes) was after<lb/>
+the war stationed in<lb/>
+a small town in Porto Rico where he observed among the country population<lb/>
+the devast ting blight of tropical anaemia. He recognised in the intestinal<lb/>
+discharges of these people a microscopic parasite, the hookworm, which was<lb/>
+at that time not known to have invaded our hemisphere. Knowledge in young Bailey<lb/>
+Ashford bred active, and he instituted the first organized campaign against<lb/>
+this enemy of the poor, which, so far as I am aware, had ever been instituted.<lb/>
+Of the vast fruitfulness of his work in Porto Rico, which later was extended to<lb/>
+our Southern States and under the Rockefeller Institute to many lands you are<lb/>
+all doubtless aware.</p>
+<p>(2) I am sure that nome of you have forgotten the terrible ravages of typhoid<lb/>
+fever in our mobilization camps in the Spanish war. This epidemic was studied<lb/>
+with fruitful results by a Board of which Walter Reed was the chairman, but<lb/>
+it was not until Major Frederick Russell improved the method of Wright of the<lb/>
+British Army and perfected a vaccine which was highly protective without<lb/>
+excessivily severe reactions that this minacious of diseases which slew our<lb/>
+young men and maidens in their prime and was the greatest menace to the<lb/>
+efficiency of armies could be controlled. So effective was this great triumph<lb/>
+of preventive medicine that introduced into our army in 1909, by 1912 typhoid<lb/>
+fever had disappeared from our military hospitals.</p>
+<pb n="3" id="fKAMD1400"/>
+<p>-3-</p>
+<p>(3) The attention of our profession is now being called to the appearance<lb/>
+of a severe fever called undulant fever the infection of which occurs in cattle,<lb/>
+goats and swine and is not infrequently transmitted to mankind. It is worthy<lb/>
+of note that the first endemic focus of this disease in the United States was<lb/>
+discovered, recognized and reported twenty two years ago by two young army<lb/>
+doctors, undergraduates of the Army Medical School.</p>
+<p>It was then called Malta fever. Their report may be found in (Jour. A.U.S. or<lb/>
+Report Surgeon General).</p>
+<p>(4) In our Philippine possessions our medical officers encountered a strange<lb/>
+disease beri-beri which paralized the limbs and caused many deaths. Among our<lb/>
+Filopino Scouts it was by far the greatest cause of disability and death. The<lb/>
+studies of Ashburn Vedder, <add>Siler and others</add> demonstrated that it was a<lb/>
+deficiency disease in which a certain constituent now known as Vitamin C was<lb/>
+lacking, and it could be quickly cured and prevented by simple changes in the<lb/>
+dietary.</p>
+<p>(5) Dengue fever occasionally invades our Southern States and though not a<lb/>
+fatal disease is a very painful one. In Manila it is the greatest cause of<lb/>
+admissions to hospitals. Its epidemiology has been studied by Army Medical<lb/>
+Boards and one of my assistants Colonel Silver, at present in my office, has<lb/>
+by a remarkable system of experiments following closely the procedure of Reed,<lb/>
+and like him making use of the generous self devotion of our soldiers, has<lb/>
+demonstrated that it is a non fetal foster brother of yellow fever, transmitted<lb/>
+by the same mosquito and with the same incubation period and similar clinical<lb/>
+features.</p>
+<p>(6) During the World War the Medical Department in France encountered a formidable<lb/>
+fever which attacked the soldiers of our allies in the trenches called trench<lb/>
+fever. To study it the Chief Surgeon called upon Colonel Richard Strong who<lb/>
+<pb n="4" id="fKAMD1410"/>
+-4-<lb/>
+had been formerly in the Medical Corps (and had been a student at the Army<lb/>
+Medical School under Major Reed)</p>
+<p>That familiar but not popular companion of the soldier in the field, called by<lb/>
+our boys the cootie was under suspicion of carrying this disease and Strong<lb/>
+determined to follow step by step the procedure of Reed's classical experiments.<lb/>
+Volunteers were needed and were called for from an ambulance company of the<lb/>
+Medical Department. Their commander had them fall in, explained to them the<lb/>
+lives and painful illness that might result from the infection but the importance<lb/>
+to the Army of determining its cause and method of prevention. He then said that<lb/>
+any men who were willing to offer themselves should step one pace to the front.<lb/>
+The entire company stepped forward. Does not this show the vitality of the<lb/>
+glorious tradition of the yellow fever volunteers of 1900, (one of whom we have<lb/>
+with us here tonight). &ldquo;As one lamp lights another, nor grows less<lb/>
+So nobleness enkindleth nobleness.&rdquo;</p>
+<p>Perhaps you may not unjustly suspect me of imitating the young children who<lb/>
+when they have strawberries for supper carefully save the biggest until the<lb/>
+last. So I have delayed to mention until now that triumph of preventive<lb/>
+medicine which, so far as our safety and happiness are concerned, is the<lb/>
+greatest since Jenner's discovery of vaccination, the conquest of yellow fever.<lb/>
+This came about as you all know in two phases: The first was the brilliant and<lb/>
+dramatic demonstration by Reed of how that dreaded and mysterious disease was<lb/>
+transmitted. The second was the wonderful campaign of Gorgas and his Lieutenants<lb/>
+in which with unwearied patience, admirable skill in the adaption of the agencies<lb/>
+available to the new warfare and an unshakeable determination and faith that<lb/>
+ridicule and doubt could not discourage an opposition in high places defeat,<lb/>
+gave us first Havana cleansed of the ancient plague and then, after long years<lb/>
+of conflict, the Isthumus free from the curse of centuries and made a safe<lb/>
+<pb n="5" id="fKAMD1420"/>
+-5-<lb/>
+pathway for the commerce of the world.</p>
+<p>When Reed was sent to Cuba by General Sternberg in June 1900 taking with him his<lb/>
+laboratory assistant Carroll, the other two members of this famous commission<lb/>
+were already there wearing the uniform of the Army and busy in its service.<lb/>
+Agrimusite was at the head of the Army Medical Laboratory in Havana. His<lb/>
+classmate in graduation at Columbia Medical School in New York, the gifted<lb/>
+and accomplished Lazear was on duty at Columbia Barracks, the Army Headquarters,<lb/>
+a few miles southwest of Havana. Lazear by Postgraduate study of malaria<lb/>
+in Italy and at John Hopkins was admirably fitted for the work with mosquitoes<lb/>
+which was to furnish the clues which solved the mystery of the double trap<lb/>
+of the infection afterward spoken of as extrinsic and intrinsic incubation.</p>
+<p>And while the Board sits on an August day discussing the way in which the<lb/>
+problem could be attacked let us say a word of tribute to Dr. Carlos Finlay<lb/>
+born of Scotch parents but a native of the West Indies, who for fifteen years<lb/>
+had argued on epidemiological grounds that yellow fever was transmitted by the<lb/>
+common household mosquito of those regions. He was a gentle and lovable old<lb/>
+man, learned in the science of medicine, but a dreamer whose dream came true,<lb/>
+but he could not demonstrate it so that others could see it. A Moses he<lb/>
+was, who saw the promised land from Pisgah's height, but to him it was not<lb/>
+given to leave the desert of sterile theory and lead the children of science<lb/>
+into the productive land of demonstrated fact. At this critical time Reed was<lb/>
+called north in a flying trip to rescue the precious records of the Typhoid<lb/>
+Board whose loss was threatened by the death of Dr. Shakespeare. When he<lb/>
+returned a month later Carroll and the cavalryman Private Dean, known in<lb/>
+the records as XY were convalescent from experimental yellow fever and<lb/>
+Lazear was dead. But he had left behind him the precious notes from which<lb/>
+<pb n="6" id="fKAMD1430"/>
+-6-<lb/>
+Reed unraveled the hidden secret of the centuries. The evidence was however<lb/>
+incomplete, the controls were defective. What was then to be done? All<lb/>
+efforts to infect laboratory animals had failed. The dread responsibility of<lb/>
+experiment on human beings had to be faced or nothing would be accomplished,<lb/>
+and Lazear would have died in vain. Fortunately at that time the Governor<lb/>
+of Cuba was a great man and one who held at the same time two commissions. He<lb/>
+was a Major General of Volunteers and he was a Captain of the Medical Corps<lb/>
+in the Regular Army. So to Leonard Wood went Walter Reed and received his<lb/>
+approval and promise both of moral and pecuniary support. But this was not<lb/>
+quite enough, he also have in so dubious an enterprise where the charge<lb/>
+of murder might be laid at his door he wished like a good medical soldier<lb/>
+to have the approval of his Chief the Surgeon General. There was another<lb/>
+reason why he wished to hasten north. Curiously enough there was another<lb/>
+commission of American Medical Officers who had for over a <del>y</del> year been<lb/>
+studying the cause of yellow fever in Havana and had arrived at a diametrically<lb/>
+opposite conclusion from Reeds commission, for they were about to report<lb/>
+to the American Public Health Association which was to meet in this city of<lb/>
+Indianapolis, that the cause of yellow fever was the Sanarelli bacillus.<lb/>
+The Academy of Medicine of France had already accepted Sanarelli's organism<lb/>
+and if the American Public Health Association should become committed to it,<lb/>
+the acceptance of the truth which he hoped to prove would be indeed made<lb/>
+hard for him. So again he hastened northward, saw the Surgeon General, came<lb/>
+to Indianapolis and routed in a fiery debate the advocate<del>d</del><add>s</add> of Sanarelli.<lb/>
+In three weeks he was back in Cuba. General Wood gave the promised money, he<lb/>
+built Camp Lazear in a lonely valley at a distance from all infections.<lb/>
+Agrimusite bred and infected mosquitos and all was ready except the men who<lb/>
+should face the dread experiment. He had planned to get Spanish immigrants<lb/>
+<pb n="7" id="fKAMD1440"/>
+-7-<lb/>
+who were then pouring into Havana and furnish[i]ng non<del>0</del><add>-</add>immune fuel for the flames<lb/>
+of pestalence, but difficulties arose, the secret got out and the papers of<lb/>
+Havana uttered indignant protests against the cruel exploitation of these<lb/>
+simple peasants by heartless American scientists. At this fateful emergency<lb/>
+came forward two men, young Americans who knew well the risk they ran and also<lb/>
+the vast importance to humanity of the question at issue. These two men<lb/>
+John J. Moran, Field Clerk at Headquarters and Private John R. Kissinger,<lb/>
+Hospital Corps whom we have with us here tonight, stepped into the breach<lb/>
+without desire of reward when the chance came to do a great an heroic and<lb/>
+noble act. They simply stepped forward and did it simply, modestly and<lb/>
+without heroics. After them came twelve other American soldiers who suffered<lb/>
+attacks of yellow fever and four who went through the <add>long</add> and repuls<add>ive</add><lb/>
+<del>in</del> experience, and, as it then deemed, the <add>more</add> dangerous one of<lb/>
+sleeping in the fouled infected bedding. With them <del>were <add>also</add> certain</del> Spaniards<lb/>
+also who <add><unclear>later</unclear></add> endured the test for the gold that was offered them, and the not<lb/>
+less prized immunity from future attacks. Will you permit me to read the names<lb/>
+of these brave men which with the memory of their services to humanity we<lb/>
+should carry in our hearts.</p>
+<p>Yellow Fever Roll of Honor.</p>
+<pb n="8" id="fKAMD1450"/>
+<p>Jas. F. Hanberry - Father, W.E. Hanberry, Denmark, South Carolina<lb/>
+P. Hamann - Father, August Hamann, Moline, Ill.<lb/>
+Levi E. Folk, Home address, 374 S. 3rd Street, Columbus, Ohio.<lb/>
+Wallace Forbes, home address, 1523 Irving Ave., Minneapolis, Minn.<lb/>
+John H. Andrus, Father, Seth C. Andrus, Elmira, New York.<lb/>
+Thos. M. England, Captain M.A.C., 1323 Clifton St., Washington, D.C.<lb/>
+A. W. Covington, R.F.D., #3 Cohocton, New York.<lb/>
+John R. Kissinger, R.F.D. #8, Huntington, Ind.<lb/>
+Clyde L. West, 225 - 3rd St., N.W., Washington, D.C.</p>
+<p>John J. Moran<lb/>
+John R. Bullard<lb/>
+W<hi rend="superscript">m</hi> H. Dean<lb/>
+Warren G. Jernegan<lb/>
+Charles G. Sonntag<lb/>
+Dr. R. P. Cooke<lb/>
+James Hildebrand<lb/>
+Edward Weatherwalks</p>
+</div1>
+</body>
+</text>
+</TEI.2>

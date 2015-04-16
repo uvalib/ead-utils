@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03602004">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Robert P. Cooke to Philip Showalter Hench, September 12, 1940</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Cooke, Robert P.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03602004</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1940-09-12</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Hench, Philip Showalter</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="person">Kissinger, John R.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1940-09-12">September 12, 1940</date>
+<idno rend="suppress">03602004</idno>
+<title>Letter from Robert P. Cooke to Philip Showalter Hench, September 12, 1940</title>
+</bibl>
+</head>
+<p>Cooke sends Hench his recollections of the experiments at Camp Lazear. He says that it was so long ago that his memory fails him as to many details.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1940-09-12">
+<head>Letter from Robert P. Cooke to Philip Showalter Hench, September 12, 1940</head>
+<pb n="1" id="f03602004"/>
+<opener>
+<dateline>
+Lexington ???<lb/>
+<date value="1940-09-12">Sept 12<hi rend="superscript">th</hi> 1940</date>
+</dateline>
+D<hi rend="superscript">r</hi> Philip S. Hench<lb/>
+Rochester Minn.<lb/>
+<salute>Dear Doctor Hench:</salute>
+</opener>
+<p>As <unclear>requested</unclear> in your letter of <unclear>Sept</unclear> 6<hi rend="superscript">th</hi><lb/>
+I enclose a <unclear>short</unclear> and, <unclear>I fear</unclear>, poorly<lb/>
+<unclear>written</unclear> <xref id="f03602005">story</xref> of the Walter Reed experimen.<lb/>
+tal work on Yellow Fever in which<lb/>
+I participated to the <unclear>extent Ill. forth</unclear>.</p>
+<p>It has been so long ago that<lb/>
+my memory fails me as <unclear>to many</unclear><lb/>
+details - As I state our <unclear>squad</unclear><lb/>
+was the first to enter one of the buildings<lb/>
+of this I think my memory is correct.<lb/>
+Kissinger's case was the first controlled<lb/>
+experiment in which <unclear>there</unclear> could be no doubt<lb/>
+that it was solely due to the <unclear>bets</unclear> of an<lb/>
+<unclear>infeclis insect</unclear> and the onset of his<lb/>
+attack was about four days after we<lb/>
+entered the other building - <unclear>Whether</unclear> he<lb/>
+<unclear>slept</unclear> all this time, prior to <unclear>the. onset</unclear><lb/>
+I don't recall. Hoping this little <unclear>story</unclear><lb/>
+may be of some <unclear>help</unclear>, to you I am</p>
+<closer>
+<salute>Sincerely Yours</salute>
+<signed>Robert P. Cooke</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

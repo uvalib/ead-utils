@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0127048">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Henry Rose Carter to Laura Armistead Carter, September 10, 1911</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0127048</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1911-09-10</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Laura Armistead</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Curry, D.P.</name>
+<name type="person">Hearn, [s.n.]</name>
+<name type="person">Dulsky, [s.n.]</name>
+<name type="person">Carter, Marian</name>
+<name type="person">Burwell, [s.n.]</name>
+<name type="person">Hamman, Louis</name>
+<name type="person">Watson, Dr.</name>
+<name type="place">Louisville (Ky.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1911-09-10">September 10, 1911</date>
+<idno rend="suppress">C0127048</idno>
+<title>Letter from Henry Rose Carter to Laura Armistead Carter, September 10, 1911</title>
+</bibl>
+</head>
+<p>Carter explains the difficulties of being a navy wife and criticizes his daughter's possible suitors.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1911-09-10">
+<head>Letter from Henry Rose Carter to Laura Armistead Carter, September 10, 1911</head>
+<pb n="1" id="fC0127048"/>
+<opener>
+On my return I found 3 letters requiring answer from the <del>Is</del><lb/>
+Isthmus - Curry: Hearn &amp; Dulsky &amp; the 1<hi rend="superscript">st</hi> two apropos <unclear>de sicion</unclear> a<lb/>
+nuisance.<lb/>
+I send a <xref id="N0127052">clipping</xref> from the<lb/>
+Outlook - which is partly but only<lb/>
+partly true<lb/>
+<unclear>Hasten</unclear> la Vista<lb/>
+H.R.C.<lb/>
+UNITED STATES PUBLIC HEALTH AND MARINE-HOSPITAL SERVICE,<lb/>
+OFFICE OF MEDICAL OFFICER IN COMMAND.<lb/>
+<dateline>
+Louisville, Ky<lb/>
+<date value="1911-09-10">Sept 10 19<del>0</del><add>1</add>1.</date>
+</dateline><lb/>
+<salute>My Dear Little Daughter,</salute>
+</opener>
+<p>You weren't much bigger <del><unclear>in last Thurs</unclear></del><add>when you</add><lb/>
+wrote your letter than when you were out &ldquo;in<lb/>
+the Dark Night&rdquo; &ldquo;with <unclear>henny</unclear> Papa&rdquo; &ldquo;and a Big<lb/>
+Dog&rdquo;,- I think <hi>he</hi> ought to be <hi>all</hi> capitals,<lb/>
+and I wish I had stayed over Monday, you would<lb/>
+have had no bother at all, I am inclined to<lb/>
+think this trouble came from your nervous<lb/>
+condition (physical &amp; pschycical) rather than the<lb/>
+reverse-this is despite of Freud.</p>
+<p>Of course there have got to be Naval Officers<lb/>
+&amp; therefore I presume women have got to<lb/>
+Marry them. Yet I sh'd say that it by no means<lb/>
+an ideal life the navy women lead.  A<lb/>
+life that one would require very cogent<lb/>
+reasons to elect. I do not agree with you that the<lb/>
+man is useful only during war, because<lb/> 
+his<lb/>
+<pb n="2" id="fC0127049"/>
+===================<lb/>
+United States Public Health and Marine-Hospital Service,<lb/>
+OFFICE OF MEDICAL OFFICER IN COMMAND.<lb/>
+---------, 190 .<lb/>
+---------Surgeon.<lb/>
+===================<lb/>
+SUBJECT:<lb/>
+===================<lb/>
+NO. OF INCLOSURES,....................<lb/>
+===================<lb/>
+readiness to fight efficiently is at all times<lb/>
+useful to prevent war. His work is<lb/>
+always useful &amp; most useful where<lb/>
+by his efficiently he renders war<lb/>
+<hi>w</hi>ith the U.S inadvisable to another country.<lb/>
+But his wife's position seems to me<lb/>
+cruelly hard &amp; only a perfect willingness<lb/>
+to <del>life</del> live single - like Marian Carter - or - <unclear><del>a-gr</del></unclear>an<lb/>
+absorbing passion would render - it endurable<lb/>
+Do you remember your little piece &ldquo;I will<lb/>
+not love you <del>k</del>new.&rdquo; That seems to express<lb/>
+<hi>w</hi>hat I think on the subject - as I think it did you  of <unclear>Feeling</unclear>.<lb/>
+Also of all the naval men I have seen Mr. Bur-<lb/>
+well was the only one as a man - not consider-<lb/>
+ing the disadvantage of his occupation -I <del>tho</del> ever<lb/>
+thought was your-equal-in your-class so to<lb/>
+speak. I had no special objection to Mr. F. <del>nor</del> in-<lb/>
+deed <del>what was told of</del> his shooting the stock on<lb/>
+the Reina Mercedes was, especially as he never<lb/>
+said a word of it, <del>was</del> a gallant action, a very<lb/>
+gallant action, &amp; if you had really cared for<lb/>
+him I would not have opposed you. Yet I would<lb/>
+have<lb/>
+<pb n="3" id="fC0127050"/>
+have been sorry &amp; <hi>very</hi> doubtful if you would<lb/>
+have been happy. I don't think you would<lb/>
+have been. <del>He</del> First his occupation &amp; 2<hi rend="superscript">d</hi>, while<lb/>
+he was a man, which <del>none</del><add>few</add> of the others showed<lb/>
+themselves, yet he was not a man of refinement<lb/>
+nor of real elevation of feeling <add>(&amp; he was most uncommonly queer)</add>. Burwell was<lb/>
+both. My own opinion is that the distance of<lb/>
+time thows a certain glamour <del>of</del><add>over</add> him &amp; any<lb/>
+girl naturally likes a man who shews openly<lb/>
+that he greatly admires her, especially if he<lb/>
+be a manly man. You did very wisely in not<lb/>
+letting - or - making - yourself care for him. If<lb/>
+you had &amp; had accepted him I think it would<lb/>
+have been a <add>great</add> pity &amp; the odds heavily a-<lb/>
+gainst your leading a happy life. Unless<lb/>
+you did, or lied most successfully, I would have<lb/>
+<hi>n</hi>ot been happy either<lb/>.</p>
+<p>We purpose to leave on the <hi>28<hi rend="superscript">th</hi></hi> in the morning<lb/>
+&amp; to lay over - at S. Francisco from 2.08 P.M. Oct 2 to<lb/>
+10:30 A.<hi>M. Oct 4</hi><lb/></p>
+<p><del>Do you know I think the <unclear>agr</unclear></del><lb/>
+<pb n="4" id="fC0127051"/>
+===================<lb/>
+PUBLIC HEALTH AND MARINE-HOSPITAL SERVICE.<lb/>
+OFFICE OF MEDICAL OFFICER IN COMMAND.<lb/>
+---------, 190 .<lb/>
+---------Surgeon.<lb/>
+===================<lb/>
+SUBJECT:<lb/>
+===================<lb/>
+No. of Inclosures,....................<lb/>
+===================<lb/>
+So I hope you will get here<lb/>
+about the 20 - or - 19. in the evening<lb/>
+Sunday is the best day to travel<lb/>
+as the Pullmans are not crowded<lb/>
+that day. If you could leave Satur-<lb/>
+day night you would have a <del>pleaster</del><lb/>
+pleasanter trip than<lb/>
+any other day. Saturday however is the 17<hi rend="superscript">th</hi>. Monday<lb/>
+<hi>is</hi> the most crowded day in the week.<lb/>
+We will finish the packing <add>except trunk, Tuesday</add>. I think but<lb/>
+leave somethings for your judgement. I will<lb/>
+engage the sleeping berths tomorrow &amp; write<lb/>
+to <unclear>Truster,</unclear> at Angel Island, to get my state-<lb/>
+rooms: - Have to send check. Also will take down<lb/>
+about 100 lbs of books to see if I can sell them<lb/>
+&amp; leave about 250 to 300 lbs more behind<lb/>
+-unpacked. We take no crockery &amp; <hi>very</hi> few winter<lb/>
+<hi>clothes</hi> - those by freight. Take a very few books<lb/>
+good night my dear. Commend me to Drs Hamman &amp;<lb/>
+Watson &amp; to the chief nurse, &amp; should you see her Miss Rio-<lb/>
+<hi>p</hi>elle.</p>
+<p><del><unclear>[unclear]</unclear></del></p>
+</div1>
+</body>
+</text>
+</TEI.2>

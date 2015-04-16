@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0330008">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Laura Armistead Carter to Ruth V. Reed, March 22, 1930</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Laura Armistead</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0330008</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1930-03-22</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Reed, Ruth V.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Connor, Michael E.</name>
+<name type="person">Monroe, Willys M.</name>
+<name type="person">Russell, Frederick F.</name>
+<name type="place">Brazil</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">New York (N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1930-03-22">March 22, 1930</date>
+<idno rend="suppress">C0330008</idno>
+<title>Letter from Laura Armistead Carter to Ruth V. Reed, March 22, 1930</title>
+</bibl>
+</head>
+<p>Carter thanks Reed for the assistance she has provided and asks Reed to supply correct names to be used in the bibliography of the History of Yellow Fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1930-03-22">
+<head>Letter from Laura Armistead Carter to Ruth V. Reed, March 22, 1930</head>
+<pb n="1" id="fc0330008"/>
+<opener>
+Book, Bibliography<lb/>
+Reed, Miss Ruth V.<lb/>
+<dateline>
+The Westmoreland,<lb/>
+2122 California St., N. W.,<lb/>
+Washington, D. C.<lb/>
+<date value="1930-03-22">March 22, 1930.</date>
+</dateline><lb/>
+<salute>My Dear Miss Reed:</salute>
+</opener>
+<p>Your most welcome and much appreciated letter of March 7th.,<lb/>
+would have been answered long since, but for a combination of work<lb/>
+and illness, about which it is not worth while to take up your time<lb/>
+with details.</p>
+<p>Suffice it to say, I am <hi>very</hi> glad to get the extract from Dr.<lb/>
+Connor's letter in Brazil (<hi>re &ldquo;aljibes&rdquo;</hi> etc.) and am very grateful<lb/>
+to you and Dr. Russell for seeking this further information, as I am<lb/>
+sure Dr. Frost will be too.<unclear><del>when</del></unclear></p>
+<p>Will you do me yet another favor..i. e. give me the <hi>full</hi><lb/>
+names of (a) Dr. M. E. Connor and (b) Dr. W. M. Monroe? We want<lb/>
+them for the completed Bibliography, in order to make it uniform.</p>
+<p>With deepest appreciation of your kind help, I remain</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>Laura A. Carter</signed>
+Miss Ruth V. Reed,<lb/>
+International Health Division,<lb/>
+The Rockefeller Foundation,<lb/>
+61 Broadway,<lb/>
+New York, N. Y.<lb/>
+<seg>
+P. S. I hope that Dr. Russell is still having the benefit of<lb/>
+a change of scene in Europe. Nobody could make him stop work!<lb/>
+L.A.C.<lb/>
+</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01674005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to C. H. Crane, February 18, 1875</title>
+<title type="gmd">[electronic resource] </title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01674005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1875-02-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Crane, C. H.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Crane, C. H.</name>
+<name type="place">Brooklyn (New York, N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1875-02-18">February 18, 1875</date>
+<idno rend="suppress">01674005</idno>
+<title>Letter from Walter Reed to C. H. Crane, February 18, 1875</title>
+</bibl>
+</head>
+<p>Reed declines an appointment as Acting Assistant Surgeon, United States Army. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1875-02-18">
+<head>Letter from Walter Reed to C. H. Crane, February 18, 1875</head>
+<pb n="1" id="f01674005"/>
+<opener>
+No. 235 South 9<hi rend="superscript">th</hi> st.<lb/>
+<del>Office of the Sanitary Superintendent<lb/>
+No. 66 Court Street</del><lb/>
+<dateline>
+Brooklyn, <date value="1875-02-18">February 18<hi rend="superscript">th</hi> 1875.</date>
+</dateline><lb/>
+C. H. Crane, M.D.<lb/>
+Asst. Surgeon General U.S.A.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>Your let-<lb/>
+ter notifying me of my success before<lb/>
+the Army Medical Board has been<lb/>
+received. In reply, I would respect-<lb/>
+fully state that in as much as I am,<lb/>
+at present, pleasantly situated and<lb/>
+am engaged in business matters which<lb/>
+I desire to bring to a proper termination<lb/>
+before entering the Service, I respectfully<lb/>
+decline the offer of the position of Act-<lb/>
+ing Asst. Surgeon, U.S.A.</p>
+<closer>
+<salute>I remain,<lb/>
+Very respectfully,<lb/>
+Your obt. Servant,</salute>
+<signed>Walter Reed, M.D.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

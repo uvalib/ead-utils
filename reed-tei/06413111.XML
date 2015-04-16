@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06413111">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to Pedro Nogueira, September 9, 1947</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06413111</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1947-09-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Nogueira, Pedro </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Andrus, John H.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Marianao (Cuba)</name>
+<name type="hospital">Las Animas Hospital (Havana)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1947-09-09">September 9, 1947</date>
+<idno rend="suppress">06413111</idno>
+<title>Letter from Jefferson Randolph Kean to Pedro Nogueira, September 9, 1947</title>
+</bibl>
+</head>
+<p>Kean informs Nogueira that there were no deaths through human experimentation at Camp Lazear. However, Andrus caused Reed great anxiety because he had a severe case of yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1947-09-09">
+<head>Letter from Jefferson Randolph Kean to Pedro Nogueira, September 9, 1947</head>
+<pb n="1" id="f06413111"/>
+<opener>
+Copy.<lb/>
+2804 N Street N. W.<lb/>
+Washington 7, D. C.<lb/>
+Air mail.<lb/>
+<dateline>
+<date value="1947-09-09">9 Sept. '47-</date>
+</dateline><lb/>
+Dr. Pedro Nogueira<lb/>
+Maoti 219 Marianao Cuba<lb/>
+<salute>Dear Dr Nogueira</salute>
+</opener>
+<p>It gives me pleasure to receive today<lb/>
+your letter of Sept. 7<hi rend="superscript">th</hi> with regard to the experimental<lb/>
+cases of yellow fever at Camp Lazear in 1900-1901.<lb/>
+I am glad to say that no death occurred among<lb/>
+the patients who submitted to these experiments.<lb/>
+One of them Private Andrus, American Soldier, caused<lb/>
+Major Walter Reed much anxiety, as his case was severe<lb/>
+and recovery slow, having been complic<del>c</del>ated by the<lb/>
+development of a large carbuncle. It was a blood infection case<add>*</add><lb/>
+Dr. Espin may have confused these cases with another<lb/>
+series of experimental cases of yellow fever con-<lb/>
+ducted at Las Animas Hospital in Havana at<lb/>
+a later date, under the direction of Major <add>later Maj. Gen.</add> W. C. Gorgas<lb/>
+M.C. US Army and Dr. Carlos Finlay, Chairman of the Yellow<lb/>
+Fever Commission. These cases were instituted because<lb/>
+Major Gorgas believed <add>as he told me,</add> that the Camp Lazear cases hav-<lb/>
+ing caused no mortality indicated that a milder<lb/>
+type of disease was produced than was the case with<lb/>
+yellow fever acquired in a natural way. These experi-<lb/>
+ments were brought to a sudden end when three<lb/>
+deaths occurred in seven cases <add>this was</add> in August 1901.</p>
+<closer>
+<salute>Yours very sincerely</salute>
+<signed>Jefferson R Kean</signed>
+Brig. Gen. Retd.<lb/>
+<add>* Not from a mosquito but from blood taken from Private Forbes a mosquito infected case.</add><lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

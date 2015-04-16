@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302066">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Yellow Fever in Porto Rico, by Walter C. Earle, [1923] [Enclosed in C0302058]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Earle, Walter C.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302066</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">del Valle, Pedro</name>
+<name type="person">Gutierrez, Pedro</name>
+<name type="person">Ashford, Dr.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Lebredo, Mario G.</name>
+<name type="place">San Juan (P.R.)</name>
+<name type="place">Cuba</name>
+<name type="place">Santo Domingo (Dominican Republic)</name>
+<name type="place">Mexico</name>
+<name type="place">Arecibo (P.R.)</name>
+<name type="place">Spain</name>
+<name type="place">Puerto Rico</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1923-00-00">[1923]</date>
+<idno rend="suppress">C0302066</idno>
+<title>Report: Yellow Fever in Porto Rico, by Walter C. Earle, [1923] [Enclosed in C0302058]</title>
+</bibl>
+</head>
+<p>Earle describes the history of yellow fever in Puerto Rico prior to the American occupation and includes a table with a summary of deaths due to yellow fever in various years.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1923-00-00">
+<head>Report: Yellow Fever in Porto Rico, by Walter C. Earle, [1923] [Enclosed in <xref id="C0302058">C0302058</xref>]</head>
+<pb n="1" id="fC0302066"/>
+<p>Yellow Fever in Porto Rico</p>
+<p>The following briefly summarizes the history of yellow fever prior<lb/>
+to the American occupation. The source (1) does not indicate from whence the<lb/>
+disease came nor its mortality when here. In 1813 a report on yellow fever for<lb/>
+the education of the people was made by the city council of San Juan. In 1816<lb/>
+there was a severe epidemic of a disease which was thought probably to be yellow<lb/>
+fever, and which affected mainly Ponce. Nothing further is found until 1865<lb/>
+when it is merely mentioned that an epidemic of yellow fever existed. In 1877<lb/>
+there was an epidemic affecting among other places San Juan. This lasted on into the year<lb/>
+of 1878. The following table gives a summary of the deaths due to yellow fever<lb/>
+from 1890-1899 with the per cent of total deaths due to that cause. Most of the<lb/>
+cases are reported from San Juan, Mayaguez, and other seaport towns.</p>
+<p>
+<table rows="11" cols="3">
+<row>
+<cell>Year</cell><cell>Total<lb/>Deaths Due<lb/>To Yellow<lb/>Fever</cell><cell>%<lb/>of Deaths<lb/>Due to<lb/>All Causes</cell>
+</row>
+<row><cell>1890</cell><cell>152</cell><cell>0.57</cell>
+</row>
+<row><cell>1891</cell><cell>97</cell><cell>0.41</cell>
+</row>
+<row><cell>1892</cell><cell>185</cell><cell>0.78</cell>
+</row>
+<row><cell>1893</cell><cell>133</cell><cell>0.60</cell>
+</row>
+<row><cell>1894</cell><cell>116</cell><cell>0.47</cell>
+</row>
+<row><cell>1895</cell><cell>360</cell><cell>1.40</cell>
+</row>
+<row><cell>1896</cell><cell>76</cell><cell>0.30</cell>
+</row>
+<row><cell>1897</cell><cell>9</cell><cell>0.03</cell>
+</row>
+<row><cell>1898</cell><cell>23</cell><cell>0.07</cell>
+</row>
+<row><cell>1899</cell><cell>0</cell><cell>0.00</cell>
+</row>
+</table>
+</p>
+<p>Dr. Pedro del Valle (2) states<lb/>
+that in 1895 while he was in charge of the<lb/>
+military hospital in San Juan there was a<lb/>
+severe epidemic in which approximately<lb/>
+out of 600 soldiers attacked 400 died.<lb/>
+The cases were introduced from Cuba by<lb/>
+ships sailing between Cuba and Spain. The<lb/>
+disease spread gradually throughout the<lb/>
+island running its course until all<lb/>
+susceptibles had been attacked. It was<lb/>
+gradually found that people in the coast towns were much less susceptible to<lb/>
+the disease than those in the inland towns, probably because they had had an<lb/>
+attack of the disease previously. It was his opinion as well as that of Drs.<lb/>
+Gutierrez and Ashford that yellow fever has never been endemic here but has been<lb/>
+brought in chiefly from Cuba. Dr. Juan Guiteras (3) states that yellow fever<lb/>
+ceased to exist in Porto Rico after strict quarantine was enforced and ships<lb/>
+<pb n="2" id="fC0302067"/>
+- 2 -<lb/>
+coming from Cuba with sick soldiers aboard were prohibited from stopping at<lb/>
+San Juan. Dr. Del Valle confirms this and states that previously practically<lb/>
+the only steamship communication was with Cuba, Santo Domingo, and indirectly<lb/>
+with Mexico. In former times the Spanish Transatlantic Steamship Co. was a<lb/>
+powerful organization and when a ship of that company was quarantined at San Juan<lb/>
+for yellow fever a complaint was made to the Governor. Offering the excuse that<lb/>
+yellow fever was endemic here anyway the Governor would release the ship from<lb/>
+quarantine and the cases would be brought ashore to introduce an epidemic. Since<lb/>
+strict quarantine has been established shortly before and since the American<lb/>
+occupation there have been no authentic cases of yellow fever in the island. In<lb/>
+1901 (4) one case was reported from Arecibo but did not result fatally nor were<lb/>
+there any further cases. (5) It was thought by the doctor who investigated the<lb/>
+case that a wrong diagnosis had been made. In October and November of 1915 a<lb/>
+number of cases with fever of short duration and a slight eruption appeared in<lb/>
+San Juan and were diagnosed as yellow fever by the doctor in the military hospital.<lb/>
+The diagnosis could not be confirmed by his associates but since he persisted in<lb/>
+calling the cases yellow fever, Drs. Gorgas, Carter, and Mariano Lebredo were<lb/>
+called in to investigate. They did not believe that the cases were yellow fever<lb/>
+and thought that dengue was a more likely diagnosis. Other doctors reported<lb/>
+numerous similar cases at that time as yellow fever but in none of them could<lb/>
+the diagnosis be confirmed. Not even a suspicious case has been reported since<lb/>
+then.</p>
+<p>(Signed) Walter C. Earle.</p>
+<pb n="3" id="fC0302068"/>
+<p>References.</p>
+<p>(1) Report of Military Governor of Porto Rico. 1900 pp. 555-589.<lb/>
+pp. 616-620.</p>
+<p>(2) Dr. Del Valle was in charge of the military hospital in San Juan<lb/>
+previous to the American occupation and has been in the quarantine station<lb/>
+San Juan since that time.</p>
+<p>(3) Boletin Official de la Secretaria de Sanidad y Beneficencia de Cuba. 1917<lb/>
+Ano.viii- Tomo xvii.&ldquo; Recientes Observaciones sobre la Fiebre Amarillo.&rdquo;<lb/>
+Juan Guiteras.</p>
+<p>(4) Report of Governor of Porto Rico 1901.</p>
+<p>(5) Report of Governor of Porto Rico 1916.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

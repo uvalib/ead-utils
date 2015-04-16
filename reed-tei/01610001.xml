@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01610001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Walter Reed to Emilie B. Lawrence, November 23, 1874</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Walter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01610001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1874-11-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Lawrence, Emilie B.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship">YES</term>
+<term type="Disease">YES</term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion">YES</term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Lawrence, Emilie Blackwell</name>
+<name type="person">Reed, Christopher</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>16 pp.</extent>
+<date value="1874-11-23">November 23, 1874</date>
+<idno rend="suppress">01610001</idno>
+<title>Letter from Walter Reed to Emilie B. Lawrence, November 23, 1874</title>
+</bibl>
+</head>
+<p>Reed is worried that he may be writing Emilie Lawrence too frequently. He is sick but will persevere to take his medical exam.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1874-11-23">
+<head>Letter from Walter Reed to Emilie B. Lawrence, November 23, 1874</head>
+<pb n="1" id="f01610001"/>
+<opener>
+<dateline>
+No. 115 Lee Ave.<lb/>
+Brooklyn,<lb/>
+<date value="1874-11-23">Nov. 23<hi rend="superscript">rd</hi> 74.</date>
+</dateline>
+<salute>Miss Lawrence,</salute>
+</opener>
+<p>It is the<lb/>
+hour of morning, but such<lb/>
+a morning! The sun has<lb/>
+hid his face, as if to in-<lb/>
+dicate his unwillingness<lb/>
+to longer shine on an<lb/>
+ungrateful world: a heavy<lb/>
+fog hangs, like a pall, over<lb/>
+the &ldquo;City of Churches&rdquo;; the<lb/>
+winds sigh mournfully, as<lb/>
+they pass, bearing on their<lb/>
+bosom the sighs and pe-<lb/>
+titions of earth's poor, friend-<lb/>
+less creatures, and repeat-<lb/>
+ing the oft-told story of<lb/>
+&ldquo;Man's inhumanity to Man&rdquo;;<lb/>
+the rain-drops descending<lb/>
+<pb n="2" id="f01610002"/>
+thick and fast from the<lb/>
+dark, overhanging clouds<lb/>
+complete the scene; a<lb/>
+scene as uninviting as<lb/>
+it well could be.<lb/>
+Who, at such a time, would<lb/>
+neglect to thank his Maker<lb/>
+for the provision of a com-<lb/>
+fortable home against the<lb/>
+&ldquo;contending elements,&rdquo; or<lb/>
+<del>would</del> fail to breath a<lb/>
+silent prayer that He,<lb/>
+who &ldquo;tempers the winds to<lb/>
+the shorn lambs,&rdquo; would<lb/>
+also protect the houseless,<lb/>
+homeless wanderer.</p>
+<p>Several causes<lb/>
+have contributed to my<lb/>
+delay in writing.<lb/>
+First, this thought<lb/>
+occurred to me -- In<lb/>
+writing so often, am<lb/>
+I not laying too great<lb/>
+a burden on you? Or, in other<lb/>
+<pb n="3" id="f01610003"/>
+words, am I not converting<lb/>
+into labor what should<lb/>
+otherwise serve as a source<lb/>
+of recreation? I am certain<lb/>
+that the same thought has<lb/>
+occurred to you more<lb/>
+than once. Now to speak<lb/>
+plainly, I would not have<lb/>
+the correspondence become<lb/>
+irksome to you for the<lb/>
+whole world and all that<lb/>
+therin is. I hope you under-<lb/>
+stand me, for I would not<lb/>
+have you misconstrue my<lb/>
+meaning. Pray don't think<lb/>
+that I have drawn such<lb/>
+a conclusion from anything<lb/>
+contained in your letters,<lb/>
+for such is not the case.<lb/>
+My only reason for alluding<lb/>
+to the subject <del>w</del> is due to<lb/>
+my anxiety lest I may be<lb/>
+taxing your time too much<lb/>
+by writing so frequently.<lb/>
+<pb n="4" id="f01610004"/>
+I know that it must con-<lb/>
+sume much valuable time, &amp;<lb/>
+now that you have a former<lb/>
+school-mate with whom you<lb/>
+can pass so many pleas-<lb/>
+ant hours, your time will<lb/>
+be doubly valuable. This<lb/>
+solution of the problem has<lb/>
+occurred to me. Permit me<lb/>
+to answer your letters as<lb/>
+promptly as I choose, and<lb/>
+in return, reply when it<lb/>
+is most suitable to you,<lb/>
+and in no way allow your<lb/>
+other pursuits to be inter-<lb/>
+fered with. I anticipate<lb/>
+the arrival of your letters<lb/>
+with much pleasure, but I<lb/>
+would not have you con-<lb/>
+clude from this that the<lb/>
+longer the anticipation, the<lb/>
+greater the pleasure, &amp;<lb/>
+hence not write at all.<lb/>
+<pb n="5" id="f01610005"/>
+Anticipation long continued<lb/>
+brings suspense and<lb/>
+suspense is, of all<lb/>
+things, the least to<lb/>
+be endured -- &ldquo;Hope deferred<lb/>
+maketh the heart sick.&rdquo;<lb/>
+You cannot now fail to<lb/>
+fully comprehend my<lb/>
+words. And yet, I regret<lb/>
+that I have mentioned the<lb/>
+subject. I am afraid you<lb/>
+will begin to think that I<lb/>
+am tiring of the correspon-<lb/>
+dence. By thus thinking, you<lb/>
+could <add>not</add> do me greater injury.<lb/>
+By all that is good and true,<lb/>
+such are not my feelings,<lb/>
+nor would I do aught to<lb/>
+interrupt what has been<lb/>
+to me so extremely agree-<lb/>
+able. But I know, Miss<lb/>
+Lawrence, that human na-<lb/>
+ture is so peculiar, and that<lb/>
+<pb n="6" id="f01610006"/>
+we are so apt to magnify<lb/>
+mole-hills into mountains.<lb/>
+In fact were it anyone else<lb/>
+than yourself, I should tear<lb/>
+up this letter and begin<lb/>
+anew. As it is, I have such<lb/>
+confidence in your good<lb/>
+sense that I am well-pur-<lb/>
+suaded <del>that</del> you <add>will</add> attribute<lb/>
+my words <del>soely</del> <add>solely</add> to a desire<lb/>
+to prevent the correspondence<lb/>
+from becoming burdensome<lb/>
+to you. If you do not approve<lb/>
+of my proposition<del>s</del>, by all<lb/>
+means, say so, and I will<lb/>
+lend a ready ear to any<lb/>
+suggestions you have to<lb/>
+make, even though you<lb/>
+should tell me &ldquo;to mind my<lb/>
+own business.&rdquo; I would be<lb/>
+only <add>too</add> <del>to</del> happy to hear<lb/>
+that you do not con-<lb/>
+sider my letters too<lb/>
+frequently written.<lb/>
+<pb n="7" id="f01610007"/>
+My second excuse is but the<lb/>
+repetition of the same, old<lb/>
+story -- <hi>ill-health</hi> -- Alas! I am<lb/>
+so harrassed! What to do<lb/>
+surpasses the &ldquo;infinite of<lb/>
+thought.&rdquo; At no time of my<lb/>
+life did I ever appreciate<lb/>
+more forcibly the statement<lb/>
+that, &ldquo;time and tide wait<lb/>
+for no man-&rdquo; <hi>I must study --</hi><lb/>
+not a moment to lose -- and<lb/>
+it is this same studying<lb/>
+that has all along delayed<lb/>
+my convalescence. Sick!<lb/>
+Why I haven't drawn an<lb/>
+unsound breath for years!<lb/>
+but <hi>now</hi>, when I need all<lb/>
+my strength, lo! it fails<lb/>
+me! Is it not enough to<lb/>
+disturb the smooth current<lb/>
+of one's thoughts? It is like<lb/>
+attempting to climb a hill<lb/>
+with too great a burden.<lb/>
+<pb n="8" id="f01610008"/>
+But what am I do? Health<lb/>
+or no health I <hi>must</hi> stand<lb/>
+my examination in January.<lb/>
+Language would fail to<lb/>
+describe my chagrin and<lb/>
+mortification, were I to be<lb/>
+prevented from so doing<lb/>
+by reason of sickness.<lb/>
+Somebody would call me<lb/>
+fickle, and accuse me of<lb/>
+not carrying out my pur-<lb/>
+poses, and this I am de-<lb/>
+termined shall not be<lb/>
+said- I have been fickle<lb/>
+years ago, but I have put<lb/>
+aside childish things, and,<lb/>
+at present, I do not aban-<lb/>
+don my plans, unless some<lb/>
+good reason offers. Of<lb/>
+course, I would not persist<lb/>
+in doing one thing when<lb/>
+I found that by abandoning<lb/>
+it, I might gain a better.<lb/>
+<pb n="9" id="f01610009"/>
+Still, I believe that when<lb/>
+a person determines<lb/>
+to accomplish an end,<lb/>
+that he should put<lb/>
+forth all honest effort, nor<lb/>
+turn aside unless for the<lb/>
+best of reasons; and if<lb/>
+he meets with defeat, let<lb/>
+him accept it like a man,<lb/>
+remembering that many <del>a</del><lb/>
+better men have found<lb/>
+themselves in a like sit-<lb/>
+uation. At all events, I shall<lb/>
+pursue my course till<lb/>
+every prop is knocked from<lb/>
+under me -- &ldquo;Sufficient unto<lb/>
+the day is the evil therof.&rdquo;</p>
+<p>And now to repent<lb/>
+of my misdoings, if such<lb/>
+they can be called.<lb/>
+Miss Emilie (patience! what<lb/>
+have I said? Your name es-<lb/>
+caped me before I was<lb/>
+<pb n="10" id="f01610010"/>
+aware of it- I don't like to begin<lb/>
+another sheet &amp; write it all over<lb/>
+again -- it is such a labor -- besides<lb/>
+will you not permit me to<lb/>
+be less formal and call you<lb/>
+Miss Emilie?) I was going to<lb/>
+say, I am ever so sorry if<lb/>
+my reference to you in my<lb/>
+last letter occassioned you<lb/>
+sadness. I need a lecture,<lb/>
+I know, for speaking so<lb/>
+boldly- You remember that<lb/>
+the poet has said; &ldquo;it is<lb/>
+the heart and not the brain<lb/>
+that unto the highest doth<lb/>
+<del>attend</del> attain;&rdquo; and I sup-<lb/>
+pose he might have sub-<lb/>
+stituted &ldquo;boldest&rdquo; for &ldquo;highest&rdquo;<lb/>
+with equal truth and propriety.<lb/>
+I am sure you<lb/>
+consider me extremely<lb/>
+rude -- in fact, I<lb/>
+feel just like a bear!<lb/>
+But you know I never should<lb/>
+<pb n="11" id="f01610011"/>
+have paid you such com-<lb/>
+pliments, had I not firmly<lb/>
+believed every word I uttered.<lb/>
+Compliments! why I did not<lb/>
+look upon them as such!<lb/>
+Cans't thou add aught to<lb/>
+the rainbow's hues? But<lb/>
+stop! or I will again give<lb/>
+occassion for displeasure.<lb/>
+Your modesty I truly appre-<lb/>
+ciate, and I can imagine in<lb/>
+a small degree with what<lb/>
+indignation you received my<lb/>
+remarks. I have been more<lb/>
+than once complimented, but<lb/>
+<hi>always by my own relations</hi>-<lb/>
+My brother Kit was accus-<lb/>
+tomed to speak of me flat-<lb/>
+teringly to various young-<lb/>
+ladies, and I always retal-<lb/>
+iated by persistently refus-<lb/>
+ing to become acquainted<lb/>
+with these ladies, well-knowing<lb/>
+<pb n="12" id="f01610012"/>
+that I should appear as a<lb/>
+perfect ignoramus. However,<lb/>
+this question, like most others,<lb/>
+has two sides and quite dif-<lb/>
+ferent ones- If, by compli-<lb/>
+menting, you convey a wrong<lb/>
+impression of a person's<lb/>
+abilities, it is surely doing<lb/>
+an injustice; but if you<lb/>
+state facts that are plainly<lb/>
+visible to anyone, that is<lb/>
+quite another matter- The<lb/>
+latter part of the foregoing<lb/>
+sentence would aptly apply<lb/>
+to yourself, while the first<lb/>
+part might be justly<lb/>
+hurled at the witless head<lb/>
+of your unworthy servant.<lb/>
+You were right in not at-<lb/>
+tributing to me the title of<lb/>
+&ldquo;flatterer.&rdquo; No, Miss Emilie,<lb/>
+I <del>am</del> do not flatter any<lb/>
+one.</p>
+<pb n="13" id="f01610013"/>
+<p>Flattery is as much to be<lb/>
+deprecated as to speak<lb/>
+disparagingly of one.<lb/>
+I always endeavour<lb/>
+to avoid either extreme. I<lb/>
+never expect to find perfection<lb/>
+in any one's character -- that<lb/>
+is impossible -- all have<lb/>
+faults -- all, imperfections --<lb/>
+Still, in this day of rapid<lb/>
+progress, when young ladies<lb/>
+(and gentlemen too) are wont<lb/>
+to give more attention to<lb/>
+outward appearances than<lb/>
+to inward culture; when it is<lb/>
+so rare to find one who<lb/>
+combines culture of <del>the</del> mind<lb/>
+with those other, lesser ac-<lb/>
+complishments (which though<lb/>
+not so important, are yet<lb/>
+considered necessary) it is<lb/>
+but natural that we should<lb/>
+pay our respects and admi-<lb/>
+<pb n="14" id="f01610014"/>
+ration to such sterling worth<lb/>
+as oft as we meet with it.<lb/>
+Since, however, you desire me<lb/>
+to avoid alluding to you in such<lb/>
+strains, I must submit, though<lb/>
+not cheerfully- You can quiet<lb/>
+my pen but not my brain.</p>
+<p>So the doctor's happi-<lb/>
+ness is complete? I congrat-<lb/>
+ulate him <del>wilth</del> <add>with</add> all my heart<lb/>
+and wish him all possible<lb/>
+joy and success in life. I<lb/>
+know of no man who should<lb/>
+be more contented. Sur-<lb/>
+rounded by loving friends,<lb/>
+living in a &ldquo;goodly land,&rdquo;<lb/>
+amongst a pleasant people,<lb/>
+supplied with a sufficiency<lb/>
+of this world's goods, in the<lb/>
+beginning of manhood when<lb/>
+life is so full of<lb/>
+hope, an honored<lb/>
+member of the noblest<lb/>
+profession on this round<lb/>
+<pb n="15" id="f01610015"/>
+globe, and, added to all<lb/>
+these things, blessed with<lb/>
+a sweet, young wife! What<lb/>
+more could mortal ask?<lb/>
+<del>for?</del> When I look on so<lb/>
+bright a picture and then<lb/>
+turn my thoughts to the future<lb/>
+and consider my bachelor-<lb/>
+days, I feel a little out of<lb/>
+humor, to say the least-<lb/>
+How dark the horizon!<lb/>
+not a ray to cheer me on;<lb/>
+no hand <del>that</del> extended that<lb/>
+I may grasp in mine and<lb/>
+feel a new interest in life;<lb/>
+no &ldquo;eye to mark my coming<lb/>
+and look brighter when I<lb/>
+come;&rdquo; no smile to greet me<lb/>
+when the day's work is done;<lb/>
+no gentle voice to give<lb/>
+encouragement amid life's<lb/>
+sore trials! Such, such is<lb/>
+mine!! &ldquo;So mote it be,&rdquo; since<lb/>
+<pb n="16" id="f01610016"/>
+thus it must be. There is noth-<lb/>
+ing like philosophically accep-<lb/>
+ting the inevitable.<lb/>
+Others have trod the lonely road,<lb/>
+And why not I as well;<lb/>
+Others have sunk beneath the load,<lb/>
+I'll fall where others fell!<lb/>
+If I cannot obtain the<lb/>
+prize I seek, this should not<lb/>
+cause me to wish my friends<lb/>
+the same misfortune- In fact,<lb/>
+it is the bachelor's peculiar<lb/>
+duty and privelege to look,<lb/>
+with an approving eye, on<lb/>
+all his married friends, and to<lb/>
+wish them long life and hap-<lb/>
+piness -- a kind of general<lb/>
+adviser, though not &ldquo;master<lb/>
+of the situation.&rdquo; There were<lb/>
+many other things I had intended<lb/>
+speaking<del>s</del> of, but want of space forbids,</p>
+<closer>
+<salute>I remain,<lb/>
+very truly, your friend,</salute>
+<signed><hi>Walter Reed</hi></signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KACA0070">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from George A. Kellogg to Jefferson Randolph Kean and Cornelia Knox Kean, September 23, 1942 [Enclosed in KACA0090]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kellogg, George A.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KACA0070</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc> 
+</fileDesc>
+<profileDesc>
+<creation><date>1942-09-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Kean, Cornelia Knox</name>
+<name type="person">Hume, Edgar Erskine</name>
+<name type="place">Colorado Springs (Colo.)</name>
+<name type="place">Camp Carson (Colo.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1942-09-23">September 23, 1942</date>
+<idno rend="suppress">KACA0070</idno>
+<title>Letter from George A. Kellogg to Jefferson Randolph Kean and Cornelia Knox Kean, September 23, 1942 [Enclosed in KACA0090]</title>
+</bibl>
+</head>
+<p>Kellogg speaks of correspondence with Hench and is making arrangements for the design of the Gorgas Medal. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1942-09-23">
+<head>Letter from George A. Kellogg to Jefferson Randolph Kean and Cornelia Knox Kean, September 23, 1942 [Enclosed in <xref id="KACA0090">KACA0090</xref>]</head>
+<pb n="1" id="fKACA0070"/>
+<opener>
+GEORGE A. KELLOGG<lb/>
+41 EAST 42<hi rend="superscript">ND</hi> STREET<lb/>
+NEW YORK, N.Y.<lb/>
+<dateline>
+<date value="1942-09-23">Sept. 23, '42</date>
+</dateline><lb/>
+<salute>My dear General and Mrs Kean,</salute>
+</opener>
+<p>Enclosed find some photos,<lb/>
+I can't say too much for<lb/>
+any of them. The one of Mrs<lb/>
+Reed is particularly bad but<lb/>
+I think you will be interested<lb/>
+in seeing them anyway.</p>
+<p>I had a letter from<lb/>
+Phil Hench yesterday. I'm<lb/>
+leaving next Sunday to see<lb/>
+him at Colorado Springs<lb/>
+(Camp Carson) where my younger<lb/>
+brother is also a Lt. Colonel, Chief<lb/>
+<pb n="2" id="fKACA0080"/>
+GEORGE A. KELLOGG<lb/>
+41 EAST 42<hi rend="superscript">ND</hi> STREET<lb/>
+NEW YORK, N.Y.<lb/>
+Surgeon for General Hospital # 50.<lb/>
+I hope he (my brother) is not<lb/>
+called out before I can get<lb/>
+there.</p>
+<p>Col. Edgar E. Hume is<lb/>
+coming in to see me this<lb/>
+morning. John Wyeth and Bro.,<lb/>
+has agreed to sponsor the<lb/>
+Gorgas Medal and I have<lb/>
+suggested designs to show<lb/>
+Col. Hume on my desk.</p>
+<p>We, Robin and I, enjoyed<lb/>
+our visit with you so much.<lb/>
+Please accept our kindest<lb/>
+regards.</p>
+<closer>
+<salute>Sincerely</salute>
+<signed>George Kellogg</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

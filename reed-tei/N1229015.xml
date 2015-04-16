@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="N1229015">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Journal article, Journal of the American Medical Association, September 26, 1925</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>N1229015</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1925-09-26</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper">YES</term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Ross, Ronald</name>
+<name type="place">University of Virginia, Charlottesville (Va.)</name>
+<name type="place">University of Maryland, Baltimore (Md.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Panama Canal Zone</name>
+<name type="place">Central America</name>
+<name type="place">South America</name>
+<name type="place">Peru</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>Newspaper clipping</abbr>
+<extent>1 pp.</extent>
+<date value="1925-09-26">September 26, 1925</date>
+<idno rend="suppress">N1229015</idno>
+<title>Journal article, Journal of the American Medical Association, September 26, 1925</title>
+</bibl>
+</head>
+<p>Officials Attend Dr. H.R. Carter Rites</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1925-09-26">
+<head>Journal article, Journal of the American Medical Association, September 26, 1925</head>
+<pb n="1" id="fN1229015"/>
+<opener>
+Wednesday<lb/>
+THE EVENING STAR, W<lb/>
+<dateline>
+<date value="1925-09-16">Sept 16/25</date>
+</dateline>
+</opener>
+<p>OFFICIALS ATTEND<lb/>
+DR. H. R. CARTER RITES</p>
+<p>----------</p>
+<p>Former Assistant Surgeon General<lb/>
+of U. S. P. H. S. to Be Laid<lb/>
+to Rest Today.</p>
+<p>----------</p>
+<p>Funeral services for Dr. Henry R.<lb/>
+Carter, former assistant surgeon<lb/>
+general of the United States Public<lb/>
+Health Service, who died Monday,<lb/>
+were conducted in St. Margaret's<lb/>
+Episcopal Church at 10 o'clock today.<lb/>
+Archdeacon Sterling Claiborne of<lb/>
+Sewanee, Tenn., and Rev. Dr. Herbert<lb/>
+Scott Smith, rector of St. Mar-<lb/>
+garet's, officiated. Interment will be<lb/>
+in Ashland, Va., late this afternoon.</p>
+<p><unclear></unclear><lb/>
+Gen. Hugh S. Cumming. United<lb/>
+States Public Health Service: Asst.<lb/>
+Surg. Gen. B. J. Lloyd, United States<lb/>
+Public Health Service; W. S. Terri-<lb/>
+berry, assistant surgeon general,<lb/>
+United States Public Health Service,<lb/>
+retired; Public Health Surgeon Jo-<lb/>
+seph Goldberger, George W. McCoy,<lb/>
+W. H. Frost and J. G. Townsend, Dr.<lb/>
+John Minor, Brig. Gen. Robert E.<lb/>
+Noble. U. S. A., retired; Dr. D. P.<lb/>
+Penhallow, Dr. J. E. F. Thorps and<lb/>
+Dr. J. P. Leake.</p>
+<p>Active pallbearers were surgeons<lb/>
+of the Public Health Service: R. R.<lb/>
+Sayers. W. T. Harrison, R. E. Dyer,<lb/>
+E. C. Ernest, J. H. Linson and R. C.<lb/>
+Williams.</p>
+<p>---------------------</p>
+<p>A French woman is winning success<lb/>
+in restoring old laces and tapestry<lb/>
+by needlework.</p>
+<p>A weather and shipping bulletin is<lb/>
+<unclear>to</unclear> be broadcast from English coast<lb/>
+<unclear></unclear></p>
+</div1>
+</body>
+</text>
+</TEI.2>

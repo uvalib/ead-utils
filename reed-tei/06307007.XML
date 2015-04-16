@@ -1,0 +1,623 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06307007">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Philip Showalter Hench to Albert E. Truby, November 2, 1941</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hench, Philip Showalter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06307007</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1941-11-02</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Truby, Albert E. </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Abbott, A. C.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Pinto, A. S.</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Reed, Blossom [Emilie M.]</name>
+<name type="person">Durham, Herbert E.</name>
+<name type="person">Myers, Walter</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Carroll, James</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Ferguson, [s.n.]</name>
+<name type="person">Parks, [s.n.]</name>
+<name type="person">Peterson, Matthew</name>
+<name type="person">Peterson, Mrs.</name>
+<name type="person">Page, Frederick M.</name>
+<name type="person">Halstead, [s.n.]</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Hemmeter, John</name>
+<name type="person">Agramonte, Miss</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Baker, Chauncey B.</name>
+<name type="person">Hagedorn, Hermann</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">England, Thomas M.</name>
+<name type="person">Presedo, Becente</name>
+<name type="person">Martinez, Jose</name>
+<name type="person">Roper, Laura Wood</name>
+<name type="person">Albertini, A. Diaz</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Rawlins, [s.n.]</name>
+<name type="person">Horr, Edward F.</name>
+<name type="person">Kellogg, George A.</name>
+<name type="person">Fishbein, Morris</name>
+<name type="person">Love, Albert G.</name>
+<name type="person">Carroll, Jennie</name>
+<name type="place">San Francisco (Calif.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Matanzas (Cuba)</name>
+<name type="hospital">Columbia Hospital (Cuba)</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>10 pp.</extent>
+<date value="1941-11-02">November 2, 1941</date>
+<idno rend="suppress">06307007</idno>
+<title>Letter from Philip Showalter Hench to Albert E. Truby, November 2, 1941</title>
+</bibl>
+</head>
+<p>Hench sends Truby suggestions for corrections or additions to Truby's manuscript on the story of the yellow fever experiments. He mentions several enclosures, which are not included with this document. An addendum from Hench to Truby on November 10, 1941 is included, as well as a transcription of a letter from James Carroll to his wife.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1941-11-02">
+<head>Letter from Philip Showalter Hench to Albert E. Truby, November 2, 1941</head>
+<pb n="1" id="f06307007"/>
+<opener>
+Copy <hi>for</hi> Gen Kean<lb/>
+<dateline>
+<date value="1941-11-02">November 2, 1941</date>
+</dateline>
+<salute>My dear General Truby:</salute>
+</opener>
+<p>I am so sorry that I could not get the following comments to<lb/>
+you sooner but your manuscript reached me at a (for me) very difficult time. I<lb/>
+was in the throes of finishing our annual Rheumatism Review which had to be in<lb/>
+the hands of the Editor of the Annals of Internal Medicine yesterday. By long<lb/>
+hours of work and many headaches I got it off and am just now free to do justice<lb/>
+to your splendid manuscript. It is so very interesting and, without meaning to<lb/>
+reflect on the first interesting version, this copy is a tremendous improvement<lb/>
+over the first one from an editorial and reader's standpoint. As I wrote you it<lb/>
+so fascinated me I read it at one sitting from 10 P.M. to about 2 A.M. one night.</p>
+<p>Permit me to send some comments many of which may be of little<lb/>
+or no value, I am afraid, but I hope you will find some helpful, and you will of<lb/>
+course disregard the others.</p>
+<p><hi>Title page.--</hi>May I suggest that you give further thought to<lb/>
+provide a more arresting title. Some suggestions might be &ldquo;Memories of <hi>my</hi> service<lb/>
+in Cuba and of Walter Reed's work, etc.&rdquo; or &ldquo;Memories of an army physician (1899-1906)<lb/>
+with Walter Reed in Cuba&rdquo; or &ldquo;Personal recollections of Walter Reed and the con-<lb/>
+quest of yellow fever&rdquo; or &ldquo;Memories of an army physician in Cuba during the conquest<lb/>
+of yellow fever&rdquo; with a subtitle &ldquo;With some personal recollections of Walter Reed&rdquo;<lb/>
+etc. You may regard some of these titles as more presumptious than your original<lb/>
+title but they are more intriguing and arresting and your reader will consider the<lb/>
+title fully warranted in my opinion.</p>
+<p>P. 1.--Since this is frankly an autobiography may I suggest that<lb/>
+in your initial sentence you plunge right in instead of &ldquo;sliding in sideways&rdquo;; by<lb/>
+that I mean that to me the first sentence would be improved by being rewritten thus:<lb/>
+&ldquo;At the beginning of the year 1898 I was a resident physician------etc.</p>
+<p>P. 2.--You emphasize and underscore &ldquo;doctors <hi>in good standing</hi>&rdquo;<lb/>
+for reasons which do not become clear till one reads page 3. But until the reader<lb/>
+reads page 3 he will not appreciate the emphasis and may read into your sentence an<lb/>
+unhappy connotation that there were then so many physicians in bad standing that one<lb/>
+had to go out and hunt for someone in good standing. Could you not avoid this im-<lb/>
+plication by saying, &ldquo;two physicians <hi>in good standing</hi>--I emphasize this for reasons<lb/>
+which will become obvious....etc.&rdquo;</p>
+<p>P. 7.--Dr. Abbott's course in what? (I see you state what on p.8;<lb/>
+better replace this data or part of it to p. 7.</p>
+<p>P. 9.--Why not say, &ldquo;Capt. A.M. Stark, whom I was to meet so often<lb/>
+later in Cuba, was recorder of the Board. He took us....&rdquo; etc. This answers the<lb/>
+question that some readers will have. &ldquo;What Capt. Stark? The one who was later<lb/>
+in Cuba?&rdquo;</p>
+<p>Chapter I. By all means include this chapter. But one thing I<lb/>
+can't understand. In view of the great needs of the army medical corps (as shown<lb/>
+so well on your page 45) why was it so hard for qualified young physicians to get<lb/>
+into the corps? How many army physicians were there in 1899?</p>
+<p>P. 12.--These of us (my generation) who see so little typhoid<lb/>
+would like to know what was &ldquo;the normal (Cuban) civilian death rate.&rdquo;</p>
+<pb n="2" id="f06307008"/>
+<p>- 2 -</p>
+<p>P. 14.--&ldquo;The first ship carrying U. S. troops&rdquo;--wouldn't it be well<lb/>
+to make it clear that these were troops coming <hi>after the fighting</hi> to occupy the<lb/>
+island? Many readers will be very hazy about the dates of the war, occupation,<lb/>
+etc.</p>
+<p>P. 15.--Can you not insert the date when a British army was wiped out<lb/>
+by sickness in Cuba? Wouldn't almost any detailed history of Cuba in the San<lb/>
+Francisco library give the date?</p>
+<p>P. 18.--&ldquo;Trouble was brewing in Havana.&rdquo; The reader at p. 18 would not<lb/>
+know what trouble until he reads p. 19.</p>
+<p>P. 19.--Will the nonmilitary reader accept the term &ldquo;foot-marched&rdquo;?</p>
+<p>P. 23.--Shouldn't you make clear that Belascoain was a street?</p>
+<p>Many such terms, undefined for the reader, might well be clarified.</p>
+<p>P. 25. Col. Randall--what branch of service?</p>
+<p>P. 26.--&ldquo;New cases&rdquo;--&ldquo;serious cases&rdquo;. Of what? typhoid or yellow fever?</p>
+<p>P. 26.--Wouldn't it be well to tell here more clearly what and where<lb/>
+Military Hospital #1 was? Many readers will not know the relationship (physical<lb/>
+and professional) between it and Columbia Hosp., Las Animas Hosp., etc.</p>
+<p>P. 29.--&ldquo;...he urged that the mosquito was the agent&rdquo; etc. Better to<lb/>
+say, &ldquo;he stated his belief that....etc.&rdquo; or &ldquo;he insisted that....&rdquo;.</p>
+<p>I think this would be an excellent place (in view of the continuing con-<lb/>
+troversy) for you, an eye- and war-witness, to here amplify clearly the attitude of<lb/>
+Cuban medicine in 1899 toward Finlay and his ideas.</p>
+<p>P. 32.--The remarks inserted in brackets are out of their time relation-<lb/>
+ships hence should be inserted in brackets or parentheses.</p>
+<p>P. 32.--&ldquo;It was Major Reed....&rdquo; Suggest adding &ldquo;who had arrived in Havana..&rdquo;</p>
+<p>P. 33.--Suggest change to &ldquo;....the hospital Terry which was approaching<lb/>
+Havana&rdquo; or &ldquo;which ran between Havana and New York(?).&rdquo;</p>
+<p>P. 34.--I have suggested a few changes as marked.</p>
+<p>P. 35.--Suggested title for Chapter IV--&ldquo;We move the troops away from<lb/>
+yellow fever.&rdquo; All along I think you should <hi>personalize</hi> your titles even if it<lb/>
+is slightly &ldquo;distasteful&rdquo; to you. It is better for the reader, and once you've<lb/>
+decided to write your book, you must put false modesty aside.</p>
+<p>P. 36.--You use the term &ldquo;Columbia Barracks&rdquo; before using &ldquo;Camp Columbia.&rdquo;<lb/>
+Was it called Columbia Barracks when you moved there? If so shouldn't you say:<lb/>
+&ldquo;When the 7th army corps <hi>had</hi> occupied this site from __________ to late Spring, 1899<lb/>
+(p. 40) it had become known as Camp Columbia and was known by that name long after<lb/>
+the camp tents had been replaced in _________ by wedden barracks.</p>
+<p>P. 36.--Wouldn't <add>it</add> be well to say &ldquo;sloping gradually to the Gulf of Mexico<lb/>
+whichwas about I mile to the north (or northwest)?&rdquo;</p>
+<pb n="3" id="f06307009"/>
+<p>- 3 -</p>
+<p>Inserts after p. 39.--Should the 1902 map be placed ahead of the 1907<lb/>
+map? I see you've drawn in buildings 121 and 122 on the 1902 and the 1907 maps.<lb/>
+In your &ldquo;key&rdquo; next to page 40 you identify bldgs. 86-87-88 but they aren't shown<lb/>
+on the portion of the 1902 map which is above the key.</p>
+<p>P. 40.--I can verify Dr. Pinto's recollection that the Second Division<lb/>
+Hosp. was on the site later used for Camp Columbia. I wanted to know this and<lb/>
+finally checked it on the old maps in the map department in the Military Hospital,<lb/>
+Havana (present site of Columbia Barracks).</p>
+<p>P. 41.--&ldquo;The sick were cared for in <hi>tent wards</hi>.&rdquo; Where? I thought that<lb/>
+they (that is the average run of your cases, not the y.f. cases) were cared for in<lb/>
+bldgs. 91-92-93, i.e. the wooden wards.</p>
+<p>P. 43. &ldquo;A long temporary building&rdquo;-----why not insert in parentheses the<lb/>
+key number referring to this bldg.? Was it bldg. 122?</p>
+<p>P. 45.--Shouldn't some of the data in paragraph 2 be given in Chapter I<lb/>
+instead of here?</p>
+<p>P. 46.--&ldquo;At Military Hosp. #1, too far away.....&rdquo; etc. As I stated before,<lb/>
+you haven't yet given the uninformed reader an idea of its physical and professional<lb/>
+relationship to Camp Columbia, the city of Havana, etc.</p>
+<p>P. 46.--Should you say &ldquo;the strength of troops in the Department of <hi>Cuba</hi><lb/>
+was 3009 of which 1716 were at Columbia Barracks.&rdquo; Is this correct?</p>
+<p>P. 46.--Nonmedical readers won't know that &ldquo;rate per M&rdquo; means rate per<lb/>
+thousand.</p>
+<p>P. 48.--Shouldn't the last paragraph be postponed for use later?</p>
+<p>P. 49.--I would identify the &ldquo;bachelor's bldg.&rdquo; with its key number and<lb/>
+tell why it was so called and distinguish it from &ldquo;bachelor's row&rdquo;. I did not<lb/>
+realize for a long time that &ldquo;bachelor's row&rdquo; didn't mean the row of <hi>rooms</hi> in the<lb/>
+bachelor's bldg. Many such things confuse the reader who wasn't there in 1900.</p>
+<p>P. 52.--The Cubans called it &ldquo;a yellow fever year&rdquo;--even before it broke<lb/>
+out. Why? Explain more fully.</p>
+<p>P. 59.--Did you know that later in Panama, Lambert and Moran had a serious<lb/>
+personal disagreement. Will tell you of it when I visit S.F. this spring. Can<lb/>
+Lambert's present statements all be accepted without question?</p>
+<p>P. 65.--Dr. Pinto says Durham and Myers were in Havana &ldquo;early in July,&rdquo;<lb/>
+on page 66 you merely say &ldquo;July&rdquo;. In the letters of Reed copies of which his daughter,<lb/>
+Blossom, showed me is one dated July 19, 1900 which starts out &ldquo;Yesterday we had the<lb/>
+pleasure of entertaining Drs. Durham and Myers, two English physicians who have been<lb/>
+sent out by the School of Tropical Medicine to study yellow fever. They are going<lb/>
+to Brazil, and came down to Havana just to make our acquaintance and to ascertain<lb/>
+what, if anything we had discovered. We have placed our laboratories at their dis-<lb/>
+posal during the ten days they will be in Havana. (D. and M. stayed at the La<lb/>
+Florida Hotel.)&rdquo; etc. Reed's previous letter home was dated July 13 and made no<lb/>
+mention of Durham or Myers. Reed's next letter was dated July 30. Can't one assume<lb/>
+that D. and M. arrived in Havana on or about July 18 and left about July 28? Reed<lb/>
+makes no mention of them in his letter of July 30 which describes his plans to leave<lb/>
+Havana on the Rawlins about July 31 or Aug. 1.</p>
+<pb n="4" id="f06307010"/>
+<p>- 4 -</p>
+<p>This seems to be borne out by statements made in a letter Reed sent from<lb/>
+Quemados July 24, 1900 to Gen. Sternberg in which he wrote &ldquo;Drs. Durham and Meyers<lb/>
+(sic) arrived about a week ago........They sail for New York on Saturday next.&rdquo;<lb/>
+My 1900 calendar would indicate this to be Sat. July 28. In a letter Reed wrote<lb/>
+from Washington to Maj. Kean in Cuba <hi>June 5, 1901</hi> he wrote, &ldquo;Durham has come to<lb/>
+town.&rdquo; This gives the date of a later visit to the U. S., of course.</p>
+<p>P. 71. Are you sure that &ldquo;Agramonte returned&rdquo; to Havana from Pinar del<lb/>
+Rio and that Reed went back with him? Your version contradicts that of Agramonte<lb/>
+(Scientific Monthly, Dec. 1915, page 217-218). Unfortunately for your version Agra-<lb/>
+monte's is uphold by published telegrams sent by Stark from Quemados. One dated<lb/>
+July 20 to Agramonte thanks Agramonte for his <hi>telegraphic</hi> report; another dated<lb/>
+July 21 from Stark to Agramonte (at Pinar) says, &ldquo;Take charge of cases. Reed goes on<lb/>
+morning train.....etc.&rdquo; Obviously Agramonte stayed at Pinar, Reed went there to<lb/>
+meet him and arrived at Pinar July 21. Your date July <hi>31</hi> is I assume taken from the<lb/>
+Senate Document 822 page 93 line 11 which in turn was taken from Reed's article in<lb/>
+Medical Record <hi>60</hi>: 201-209; Aug. 10, 1901. But this date July 31 was an error<lb/>
+(Gen. Kean agrees with me in this) and you will note that 4 lines later (Sen. Dec.<lb/>
+p. 93 line 15) Reed used the date July 21. In Senate Document page 25 note Agramonte's<lb/>
+additional statement that he &ldquo;was joined there [in Pinar] by Maj. Reed a couple of<lb/>
+days later.&rdquo;</p>
+<p>You have warned me to be careful about accepting Agramonte's statements but<lb/>
+in this instance the copies of Stark's telegrams seem to certify Agramonte's statements.</p>
+<p>P. 82.--You don't tell here (or on page 80) the date of your arrival at<lb/>
+Columbia Barracks.</p>
+<p>P. 83.--Dr. Pinto says Carroll was in the first hut south of Ames' quarters.<lb/>
+Lazear was not put in these quarters but the next one to it. Does that mean that<lb/>
+Carroll was in bldg. 116 and Lazear in #118? The word &ldquo;south&rdquo; doesn't look right.<lb/>
+See 1902 map (preceding page 40) and what was &ldquo;the next one to&rdquo; Ames' quarters?<lb/>
+This is sentimentally an important point. If we know this we could even now identify<lb/>
+the very spot where Lazear died.</p>
+<p>P. 83.--There were &ldquo;Lazear's quarters&rdquo;?--in the bachelor's quarters, in the<lb/>
+bachelor's row? His wife wasn't there at this time; had he given up his quarters<lb/>
+in bldg, 106?</p>
+<p>P. 85.--You say: &ldquo;..the body of Dr. Lazear was the last yellowfever case<lb/>
+from the Post or Quemados to be interred in our cemetery.&rdquo; I think this is wrong.<lb/>
+From the National Archives I got the list of interments and disinterments at the<lb/>
+Post Cemetery between 1899 and Jan. 1901. Lazear was buried Sept. 26, 1900 (in-<lb/>
+terment #138). Civilian clerk Ferguson was buried the same day, Private Parks 2 days<lb/>
+later and at least 13 more privates, clerks, etc. were buried between Oct. 1 and<lb/>
+Dec. 22. These included Maj. and Mrs. Peterson (Oct. 18), Capt. Page (Oct. 27) and<lb/>
+Hospital Steward Halstead (Nov. 23). At least some of these had yellow fever.<lb/>
+<unclear>Via</unclear> Truby 11&sol;<hi>20</hi>&sol;41</p>
+<p>P. <del>88</del><add>84</add>.--Dr. Pinto says: &ldquo;Ames was very much disturbed and spoke to me<lb/>
+several times about <hi>Carroll not having visited Lazear during his sickness</hi>.&rdquo; But<lb/>
+on page 84 although you say Gorgas and Kean were the only ones <hi>from the outside</hi><lb/>
+(better clarify) who saw Lazear, Lazear &ldquo;told both Gorgas and <hi>Carroll</hi> etc.&rdquo; Thus<lb/>
+your last statement seems to contradict that of Dr. Pinto. Did Carroll visit Lazear<lb/>
+<hi>after</hi> Lazear became sick but <hi>before</hi> Lazear was taken to sick-quarters?</p>
+<p>P. 88.--I am much surprised by your statement that Reed didn't know of<lb/>
+Lazear's death on Sept. 25 until he learned it Oct. 3 from Ha<del>r</del>vard and Kean at<lb/>
+Matanzas. You say Reed's transport had &ldquo;sailed from <hi>New York</hi> on Sept. 25th.&rdquo;<lb/>
+But Gen. Kean (to my delight) gave me a letter written to him by Dr. Reed. It is<lb/>
+<pb n="5" id="f06307011"/>
+- 5 -<lb/>
+dated Sept. 25, 1900 and was written on the stationary of the War Dept; Surgeon<lb/>
+General's office, <hi>Washington</hi>. Of course it need not have been mailed from Washington<lb/>
+but it seems to have been as Reed said &ldquo;I have now only just returned from my outing<lb/>
+in the hills of Pa. and am so distressed to hear that Lazear is down with yellow fever.<lb/>
+The General handed me your cable <hi>yesterday afternoon</hi> as soon as I entered <hi>his office</hi>.<lb/>
+I shall await your <hi>next</hi> with much anxiety....&rdquo; &ldquo;I have engaged passage on the Crook<lb/>
+which sails next Friday 28th and should reach Havana on October 2nd or 3rd.&rdquo; General<lb/>
+Kean's diary says he met Reed Wed. Oct. 3 at Matanzas when the Crook stopped there.<lb/>
+Apparently Reed reached Havana Oct. 4. Kean's diary does not indicate that Reed did<lb/>
+not yet know of Lazear's death. It merely reads &ldquo;He is much grieved over Lazear's<lb/>
+death.&rdquo; (I have checked a 1900 calendar - Oct. 3, 1900 was Wed.)</p>
+<p>Reed's letters to the Adj. Gen. reporting his whereabouts (in National<lb/>
+Archives) report that he was:</p>
+<p>Sept. 1 - Sept. 25, 1900--Curator Army Med. Museum.</p>
+<p>Sept. 26 - Sept. 30--enrouts from Washington to Havana (report dated Nov. 10,<lb/>
+1900 from Havana)</p>
+<p>Oct. 1 - 13--at Camp Columbia (report dated S G O Oct. 31)</p>
+<p>Oct.14-- 20--enroute U. S.</p>
+<p>These may have been his <hi>formal</hi> whereabouts but he seems not to have left<lb/>
+and arrived just as here stated.</p>
+<p>In his Scientific Monthly article page 219 Agramonte said that &ldquo;Reed was<lb/>
+detained longer than he expected and could not return to Cuba until early in October<lb/>
+several days after Lazear's death.&rdquo;</p>
+<p>Obviously when Reed wrote to Kean on Sept. 25 he had not yet heard of<lb/>
+Lazear's death but it certainly seems that he did <hi>not</hi> leave from New York on Sept.<lb/>
+25 and that he <hi>did</hi> hear of Lazear's death before he left the U. S. Perhaps he didn't<lb/>
+hear the <hi>details</hi> of Lazear's death until he met Maj. Kean at Matanzas.</p>
+<p>P. 90.--The description in your first manuscript of Reed's eager study<lb/>
+of Lazear's notebook seemed to me (as I remember it) more dramatic than your present<lb/>
+version given in the last paragraph of this page. Haven't you changed your first<lb/>
+description, &ldquo;softened it down&rdquo;? Perhaps you haven't changed it at all and my<lb/>
+memory plays me a trick. Perhaps it was my first <hi>reading</hi> (rather than your first<lb/>
+version) that was more dramatic to me.</p>
+<p>P. 91.--Did you ask Pinto to criticize Agramonte's version of Dean's<lb/>
+inoculation as given in Scientific Monthly, Dec. 1915, page 210 (note the supposed<lb/>
+conversation between Dean and Lazear) and Agramonte's essentially similar statements<lb/>
+elsewhere; in Annals Int. Med. Aug. 1928, Vol. 2, page 149, where Agramonte says &ldquo;as<lb/>
+several mosquitoes took blood from (Dean's) forearm I noted on a slip of paper the<lb/>
+necessary data&rdquo; also in Military Surgeon, Nov. 1930, Vol. 67, page 561 a similar<lb/>
+statement. I think I sent you a copy of Agramonte's scathing letter to Hemmeter<lb/>
+dated Feb. 2, 1913 in which Agramonte wrote &ldquo;As the mosquito filled with blood, I<lb/>
+came to the door and asked the man (Dean) when he had been away from camp the last<lb/>
+time, to which he answered, &lsquo;Oh, about two months.&rsquo; This is how the second case was<lb/>
+produced and all else is pure fancy.&rdquo; Are you going to comment on this oft-repeated<lb/>
+version? You know of A's other statements which I uncovered which indicated that<lb/>
+A. knew nothing of at least the first and probably the first two inoculations until<lb/>
+Lazear told him afterwards. It seems to me you should check this carefully with<lb/>
+Pinto and if he supports your views you should somehow (diplomatically if possible)<lb/>
+contradict this oft-repeated version. It isn't fair to us who weren't there<lb/>
+<pb n="6" id="f06307012"/>
+- 6 -<lb/>
+(historians of the future) to have to contradict this entirely without the support<lb/>
+of those of you who were there and who refute it. Or let me put it another way.<lb/>
+You could help us greatly by somehowi stating your difference of opinion. I realize<lb/>
+you hate to get into an argument but I believe you can state your belief in terms<lb/>
+which will not be offensive to Miss Agramonte and her friends. You know of course<lb/>
+of Kissinger's version that Dean was an impolite scoffing soldier who had kidded<lb/>
+Lazear and that Lazear later put the mosquitoes on Dean while the latter slept. Are<lb/>
+you going to disregard this version entirely also and not deny it?</p>
+<p>P. 96.--&ldquo;Lazear's statement to him (Carroll).&rdquo; But this contradicts<lb/>
+Pinto's statement which you apparently intend to insert on page 88.</p>
+<p>P. 98.--&ldquo;Agramonte absent from Havana&rdquo;.... Are you absolutely sure?<lb/>
+Despite Carroll's letter to his wife suggesting that Agramonte was absent from<lb/>
+Havana when Lazear died it seems difficult to believe it and both <hi>Mrs. Lazear</hi> and<lb/>
+Miss Agramonte refuse to believe it. As both pointed out it is most difficult to<lb/>
+believe that with Reed away, Carroll still convalescing and Lazear sick that Agra-<lb/>
+monte could have gotten permission to leave also. In Agramonte's article in<lb/>
+Military Surgeon, Nov. 1930 page 562 he says about Lazear's illness: &ldquo;Carroll was<lb/>
+yet convalescing and Reed was still in Washington striving to return to Havana.<lb/>
+I need not tell you of the sleepless nights, the worry and the heart pangs of that<lb/>
+week. In the short intervals of respite from his fever and delerium Lazear assured<lb/>
+<hi>us</hi>.......etc. On Sept. 26 <hi>we</hi> buried him&rdquo; etc.</p>
+<p>In Mrs. Lazear's letter to me Feb. 14, 1941 she said &ldquo;I certainly think<lb/>
+it's a mistake about Dr. Agramonte being away from Cuba at the time of my husband's<lb/>
+death, for one reason especially, that in everything Dr. Agramonte wrote, he actually<lb/>
+stated he was there. Then I feel sure that two of the doctors would not have been<lb/>
+allowed to go away at the same time, and as you know Dr. Reed was in this country.....<lb/>
+There is a possibility Dr. Carroll made a slip and meant to write someone else's name.&rdquo;</p>
+<p>In a letter to Mrs. Lazear written July 15, 1930 (I have photostat)<lb/>
+Agramonte wrote: &ldquo;He was my classmate, as you may know, and every moment of our<lb/>
+contact at Camp Columbia is still vivid in my mind, until the moment of his passing<lb/>
+away at the hospital, <hi>which day I shall never forget as long as I live</hi>.&rdquo;</p>
+<p>Since you and I have both noted other definite errors in Carroll's letters<lb/>
+(see your page 100) is it not possible Carroll mispoke here also? I plan to check<lb/>
+Agramonte's record of service (absences, departures, etc.) if I can find it in Wash-<lb/>
+ington. I found that of Reed but I wonder if contract surgeons had to report as<lb/>
+carefully as did regular officers. But somewhere in Washington Agramonte's leaves<lb/>
+are certainly available. I intend to go to Washington in January. If you will tell<lb/>
+me where to go for this data I'll go there.</p>
+<p>P. 99.--I enclose Carroll's letter to his wife as published by Hemmeter<lb/>
+in Janus but as stated above I think it errs. It is true that in his letter to<lb/>
+Hemmetor Agramonte neglected to deny this statement of Carroll, but A. was denying<lb/>
+what H. was saying and not what C. said; furthermore A. said to K. that he was<lb/>
+answering only &ldquo;the most flagrant errors,&rdquo; and by no mea<add>n</add>s all of them.</p>
+<p>P. 100.--Small correction made.</p>
+<p>P. 101.--In Reed's letter to sternberg, Oct. 22, 1900, you copy it as<lb/>
+published----&ldquo;from the history of T. C. Y&rdquo;. From a study of old handwriting I<lb/>
+think I can explain that. Obviously it should read &ldquo;from the history of XY.&rdquo; What<lb/>
+happened was that Reed wrote the X this way <unclear>[unclear]</unclear> which someone read as T.G.</p>
+<pb n="7" id="f06307013"/>
+<p>- 7 -</p>
+<p>P. 103.--Is it &ldquo;Dougherty wagon&rdquo; or &ldquo;doherty wagon&rdquo;? I've seen it<lb/>
+spelled both ways.</p>
+<p>P. 105.--Was Gen. Baker's article ever published? I'm very glad to<lb/>
+get this story and the toast mentioned on page 107. I mentioned this toast in my<lb/>
+Hygeia article having gotten it from Hagedorn who did <hi>not</hi> mention Gen. Baker or give<lb/>
+the source of the story.</p>
+<p>P. 108.--I am very anxious to know how much you yourself actually had to do<lb/>
+with the construction of Camp Lazear. I think you told me you helped considerably.<lb/>
+How often did you visit it, alone or with Reed, during its construction? Did you<lb/>
+yourself inspect the <hi>inside</hi> of Bldgs. 1 or 2? Could you give me a letter amplifying<lb/>
+your remark about my photos of the inside of bldg. 1. You wrote me that without<lb/>
+doubt we'd found Bldg. 1. A letter from you would help me with doubters.</p>
+<p>P. 115.--Folk's name is misspelled.</p>
+<p>P. 119.--&ldquo;Ames was selected to run the camp&rdquo;--&ldquo;he continued to live in a<lb/>
+tent at Camp Lazear.&rdquo; I know that on page 71 Senate Doc. Reed, Carroll and Agramonte<lb/>
+said: &ldquo;The personnel of this camp (Lazear) consisted of two medical officers, Dr.<lb/>
+Roger P. Ames--in immediate charge.&rdquo; But Moran emphatically disputed this to me<lb/>
+more than once. He said that Ames stayed at Columbia Barracks all the time taking<lb/>
+care of the cases of experimental yellow fever at the yellow fever huts. Moran never<lb/>
+saw Ames at Camp Lazear while he (Moran) was there. Cooke was the only officer there<lb/>
+but since Cooke was a volunteer for experiments there was really no resident physician<lb/>
+in charge at Camp Lazear constantly. But Reed came out at least twice daily. That is<lb/>
+Moran's version to me. Could it be that Ames was not in residence at Camp Lazear<lb/>
+while Moran was there but was there later after Moran got yellow fever and was removed<lb/>
+to the yellow fever huts? Surely we could check this with Andrus, England or others.</p>
+<p>P. 122.--I think the title is fine. Suggest spelling it correctly but use<lb/>
+it in quotes anyhow.</p>
+<p>P. 132.--You say that &ldquo;from Dec. 15 until Dec. 25 no cases developed in<lb/>
+camp since no volunteers were bitten. This hiatus in the experimental work was to<lb/>
+show that the camp was not infected.&rdquo; I've never seen this explanation in any of the<lb/>
+Board's papers. I wonder if it is correct. I'm inclined to think not. The &ldquo;hiatus&rdquo;<lb/>
+was probably accidental. Presedo was bitten Dec. 11 and got sick Dec. 15. &ldquo;About<lb/>
+this time there was a panic among the Spanish volunteers. Many of them fled and quit<lb/>
+the camp.&rdquo; See Reed's paper as cited on p. 99, Senate Doc., also Agramonte's Scientific<lb/>
+Monthly article page 235. &ldquo;Our artificial epidemic of yellow fever was temporarily<lb/>
+suspended while a new batch of susceptible material was brought in, observed and<lb/>
+selected.&rdquo; In other words the hiatus was accidental (lack of volunteers) and not<lb/>
+deliberate. As a matter of fact Martinez was bitten on Dec. <hi>17</hi> (without results).</p>
+<p>P. 133.--&ldquo;I with other nonimmunes&rdquo;--you saw a copy of my letter to Miss<lb/>
+Wood as to my researches on who and how many these nonimmunes were. Statements are<lb/>
+contradictory but I think my letter to Miss Wood is correct. There were probably five<lb/>
+persons present besides Moran. (See copy of my Sept. 19, 1941 letter to Miss Wood).</p>
+<p>P. 140.--Was this Andrus?</p>
+<p>P. 144.--Are you going to sidestep the controversy entirely? You may be<lb/>
+the last living eye-witness to write his experiences. Regardless of your distaste<lb/>
+<pb n="8" id="f06307014"/>
+- 8 -<lb/>
+for the controversy don't you owe it to present and future readers to straighten them<lb/>
+out on certain facts of which youare so sure and certain opinions which you hold so<lb/>
+firmly? I think you should and can do it diplomatically.</p>
+<p>Let me say again what a privilege it has been to read the manuscript. I<lb/>
+do hope you will send it to publishers with a larger clientele than that of the<lb/>
+Carlisle Army Bulletin but at any rate <hi>it must be published</hi>. As you have instructed<lb/>
+me I am sending your manuscript to Gen. Kean with <hi>two</hi> carbons of this letter in<lb/>
+case he wants to keep one and to make notes for you on the other. I am sending to<lb/>
+you some data Gen. Kean loaned me and asked me to send you to return to him when you<lb/>
+have studied it.</p>
+<p>May I append a list of photographs which I think would be good illustra-<lb/>
+tions to your book. Probably you could obtain them all from the army files.</p>
+<p>
+<list type="ordered">
+<item>1. To illustrate chapter 1 - Photo of old Army Medical School as of 1898.<lb/>
+Photo of your examining board?</item>
+<item>2. For page 14 - photo of entrance to Havana Harbor as of 1898. Think I<lb/>
+have seen such a photo (U.S. Army Signal Corps) in official reports<lb/>
+of Gov. Gen. of Cuba.</item>
+<item>3. For page 15.--Wreck of Maine (Signal corps photo).</item>
+<item>4. P. 18 - Hotel Trocha as of 1941 (if you wish my negative). Your con-<lb/>
+temporaries might like to see the old hotel for old times' sake.</item>
+<item>5. P. 20 - Old army photo showing transfer of Cuba from Spanish to U.S.<lb/>
+rule. Photo of departing Spanish soldiers. Have seen these in<lb/>
+Gov. Gen'l's reports.</item>
+<item>6. P. 24 - Small photo of old fort and Spanish Barracks at La Punts.</item>
+<item>7. P. 25 - Would you like my negative (1941) of Albertini and Moran or<lb/>
+Miss Agramonte's photo of Finlay, Guiteras, Albertini et al.</item>
+<item>8. P. 38.- Group or individual photos of your chief colleagues at Columbia<lb/>
+Barracks (several aren't in the group on the stairs).</item>
+<item>9. P. 76. Photo of Rawlins from Gov. Gen. Report.</item>
+<item>10. Insert somewhere your photo of Dr. and Mrs. Lazear et al. I hope you<lb/>
+can get the model at Carlisle photographed properly.</item>
+</list>
+</p>
+<closer>
+<salute>Very sincerely,</salute>
+<hi>Enclosures:</hi><lb/>
+1. Copy of my letter to Miss Wood, Sept. 19, 1941.<lb/>
+2. Agramonte's Scientific Monthly Dec. 1915 article.<lb/>
+3. Agramonte's letter to Hemmeter, Feb. 2, 1913.<lb/>
+4. 1899 map I found in Havana. Hope you can read it with a magnifying glass.<lb/>
+I think you already have a photo of the 2nd Division Hospital; I think I<lb/>
+sent you one; use it by all means.<lb/>
+</closer>
+</div1>
+<div1 type="document" n="1941-11-02">
+<head>Letter from Philip Showalter Hench to Albert E. Truby, November 10, 1941</head>
+<pb n="9" id="f06307015"/>
+<opener>
+Addendum to Gen. Truby:<lb/>
+<dateline><date value="1941-11-02">
+November 10, 1941</date>
+</dateline>
+</opener>
+<p>In your letter of September 3, 1941 you suggest that when I go to<lb/>
+Washington in January I search for the original official records of the sick<lb/>
+and wounded at Columbia Post Hospital from Aug. 1900 to March 1901 with case<lb/>
+reports of Dean, etc. Where would I be likely to find these, in the Surgeon<lb/>
+General's office?</p>
+<p>Remember my offer to lend you an English translation (I had it bound)<lb/>
+of Dominguez' book. Would you like to read it soon?</p>
+<p>Gen. Kean informs me that the Captain who in June to Oct. 1901 signed<lb/>
+some of the sanitary reports of the Post Hospital was Capt. Edward F. Horr, Vol.<lb/>
+Med. Officer on duty at Columbia Barracks for ashort time.</p>
+<p>Kellogg and I checked with the Pension Bureau the spelling of the<lb/>
+names--the correct spelling are Ols<hi>o</hi>n and Weatherwalk<hi>s</hi> although certain &ldquo;official&rdquo;<lb/>
+documents spell them Ols<hi>e</hi>n and Weatherwal<hi>k</hi>.</p>
+<p>I see I haven't commented on your suggestion to submit your manuscript<lb/>
+to Fishbein. I do not know how often the A.M.A. publishes nontechnical books,<lb/>
+very rarely I believe. &ldquo;The Life of Sternberg&rdquo; is about the only one I know of in<lb/>
+recent years. But it would certainly do no harm to submit it to Fishbein. He might<lb/>
+give some <hi>very</hi> valuable suggestions.</p>
+<p>Did Gen. Kean tell you of Lambert's recent attempts (1940) to get on<lb/>
+the roll of honor? He has been trying to get on since 1928. Col. Love in a<lb/>
+letter to Gen. Kean (July 8, 1940) said that the House Committee had reported<lb/>
+favorably on the bill. I don't know what occurred thereafter.</p>
+<closer>
+<signed>P.S.H.</signed>
+</closer>
+</div1>
+<div1 type="letter" n="1941-11-02">
+<head>Letter from James Carroll to Jennie Carroll, September 23, 1900</head>
+<pb n="10" id="f06307016"/>
+<opener>
+Letter of Dr. Carroll to his wife published by Hemmeter in Janus 1908 page 164-165<lb/>
+
+Camp Columbia, Quemados, Cuba<lb/>
+<dateline>Sunday, <date value="1900-09-23">Sept. 23, 1900</date>
+</dateline>
+<salute>My dear Jennie:</salute>
+</opener>
+<p>I write this to let you know that I am still alive and gaining<lb/>
+strength. I look forward to morrow's (sic) mail for some news from Doctor<lb/>
+Reed as I have not heard a word from him and do not know what to expect.<lb/>
+Agramonte left for New York yesterday with his wife and Doctor Lazear is<lb/>
+still very ill with about even chances for his recovery. Mayor Cartwright<lb/>
+who was the next to take yellow fever after me, died this morning. I asked<lb/>
+for an autopsy and it was refused. Doctor John Guiteras, formerly Professor<lb/>
+of Pathology at the University of Pa. called to see me this afternoon as also<lb/>
+did Dr. Gorgas and Dr. Finley (sic). Everybody is surprised at the manner in<lb/>
+which I am picking up flesh ad (sic) strength and all these yellow fever<lb/>
+experts remarked how strong I was upon my legs. Yellow fever has no terrors<lb/>
+for me now, because I am an immune and cannot contract it again, which gives<lb/>
+me a great feeling of comfort....................</p>
+<closer>
+<salute>Your affectionate husband</salute>
+<signed>James</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

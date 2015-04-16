@@ -1,0 +1,944 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY KAME0070 SYSTEM "KAME0070.jpg" NDATA jpg>
+<!ENTITY KAME0100 SYSTEM "KAME0100.jpg" NDATA jpg>
+<!ENTITY KAME0120 SYSTEM "KAME0120.jpg" NDATA jpg>
+<!ENTITY KAME0130 SYSTEM "KAME0130.jpg" NDATA jpg>
+<!ENTITY KAME0140 SYSTEM "KAME0140.jpg" NDATA jpg>
+<!ENTITY KAME0150 SYSTEM "KAME0150.jpg" NDATA jpg>
+<!ENTITY KAME0160 SYSTEM "KAME0160.jpg" NDATA jpg>
+<!ENTITY KAME0170 SYSTEM "KAME0170.jpg" NDATA jpg>
+<!ENTITY KAME0180 SYSTEM "KAME0180.jpg" NDATA jpg>
+<!ENTITY KAME0210 SYSTEM "KAME0210.jpg" NDATA jpg>
+<!ENTITY KAME0220 SYSTEM "KAME0220.jpg" NDATA jpg>
+<!ENTITY KAME0240 SYSTEM "KAME0240.jpg" NDATA jpg>
+<!ENTITY KAME0280 SYSTEM "KAME0280.jpg" NDATA jpg>
+<!ENTITY KAME0280 SYSTEM "KAME0280.jpg" NDATA jpg>
+<!ENTITY KAME0280 SYSTEM "KAME0280.jpg" NDATA jpg>
+<!ENTITY KAME0290 SYSTEM "KAME0290.jpg" NDATA jpg>
+<!ENTITY KAME0310 SYSTEM "KAME0310.jpg" NDATA jpg>
+<!ENTITY KAME0320 SYSTEM "KAME0320.jpg" NDATA jpg>]>
+<TEI.2 id="KAME0070">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Pamphlet: Health Heroes, Walter Reed, by Grace T. Hallock and C. E. Turner, 1926</title>
+<title type="gmd">[electronic resource]</title>
+<author>Hallock, Grace T.</author>
+<author>Turner, C. E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAME0070</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1926-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Reed, Lemuel S.</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Rush, Benjamin</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Camp Apache (Ariz.)</name>
+<name type="place">Charlottesville (Va.)</name>
+<name type="place">New York (N.Y.)</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Cuba</name>
+<name type="place">Philadelphia (Pa.)</name>
+<name type="place">Mobile (Ala.)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">John Hopkins University</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>26 pp.</extent>
+<date value="1926-00-00"></date>
+<idno rend="suppress">KAME0070</idno>
+<title>Pamphlet: Health Heroes, Walter Reed, by Grace T. Hallock and C. E. Turner, 1926</title>
+</bibl>
+</head>
+<p>This pamphlet describes the yellow fever experiments as one of the greatest detective stories of all time. The villain of yellow fever was the mosquito and fomites were proven innocent. The term, executing the sentence, is used to describe the campaign to rid Cuba of mosquitoes. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+<div1 type="book"> 
+<pb n="1" id="fKAME0070"/>
+<p>Hallock G. T. &amp; Turner (C. E.)</p>
+<p>HEALTH<lb/>
+HEROES</p>
+<p><figure entity="KAME0070"></figure> WALTER REED</p>
+<p>METROPOLITAN LIFE INSURANCE COMPANY</p>
+<p><hi rend="italic">Pacific Coast Head Office<lb/>
+San Francisco</hi></p>
+<p>HOME OFFICE<lb/>
+NEW YORK</p>
+<p><hi rend="italic">Canadian Head Office<lb/>
+Ottawa</hi></p>
+<p>Box 715</p>
+<p>C P H</p>
+</div1>
+<pb n="2" id="fKAME0080"/>
+<titlePage> 
+<docTitle> 
+<titlePart>HEALTH HEROES<lb/>
+WALTER<lb/>
+REED</titlePart>
+</docTitle> 
+<byline><hi rend="italic">By</hi><lb/>
+<docAuthor>GRACE T. HALLOCK</docAuthor>, formerly Associ-<lb/>
+ate Director Division of Publications<lb/>
+<hi rend="italic">American</hi> CHILD HEALTH <hi rend="italic">Association</hi><lb/>
+<hi rend="italic">and</hi><lb/>
+<docAuthor>C. E. TURNER</docAuthor>, Associate Professor<lb/>
+of Biology and Public Health, Massa-<lb/>
+chusetts Institute of Technology<lb/>
+[New York, Metropolitan life insurance co., 1926]<lb/>
+ARMY MEDICAL LIBRARY<lb/>
+B 715<lb/>
+WASHINGTON, D. C., U.S.A.</byline>
+<pb n="2a" id="fKAME0090"/>
+<docDate>COPYRIGHT, 1926<lb/>
+BY GRACE T. HALLOCK AND C. E. TURNER</docDate>
+</titlePage>
+</front>
+<body>
+<div1 type="chapter" n="1">
+<head>WALTER REED</head>
+<pb n="3" id="fKAME0100"/>
+<p><figure entity="KAME0100"></figure></p>
+<p>THE struggle against yellow fever began more than 200<lb/>
+years ago. It ended when a master detective unmasked<lb/>
+the villain that carried the fever from one person to an-<lb/>
+other. The master detective was WALTER REED, and he<lb/>
+was helped by a handful of brave American soldiers who<lb/>
+offered their lives in the conquest of this disease.</p>
+<p>WALTER REED was born in Virginia, on September 13,<lb/>
+1851. His father, the Rev. LEMUEL SUTTON REED, was a<lb/>
+Methodist minister. The first years of his life were spent<lb/>
+in Farmville, Prince Edward County. When he was very<lb/>
+young he began to show signs of the love of knowledge,<lb/>
+the force of character, the self-control and the sense of<lb/>
+honor that marked him through his whole life. Many<lb/>
+stories are told which show his interest in learning new<lb/>
+facts and his fairness and honesty in every relationship<lb/>
+with the boys who were his companions.</p>
+<p>When WALTER was 10 years old the Civil War began.<lb/>
+In 1865 SHERIDAN'S raiders swept through the part of Vir-<lb/>
+ginia where WALTER lived, and carried off all the livestock<lb/>
+they could find. WALTER, his brother CHRISTOPHER and<lb/>
+other boys in the neighborhood, were detailed by their<lb/>
+parents to hide the horses. The boys found a place in the<lb/>
+bend of a river, hidden by trees, which seemed so safe that<lb/>
+one day they went swimming, leaving the horses tied in<lb/>
+the hiding place. While they were gone a band of raiders<lb/>
+was led to the spot by an unfaithful servant and both the<lb/>
+horses and the boys were captured. As the boys were<lb/>
+too young to be of any use as prisoners, the raiders let<lb/>
+them go. But the horses were never heard of again.</p>
+<p>3</p>
+<pb n="4" id="fKAME0110"/>
+<p>METROPOLITAN LIFE INSURANCE COMPANY</p>
+<p>----------------------------------------</p>
+<p>In 1866, the REED family moved to Charlottesville,<lb/>
+Virginia. A year later WALTER entered the University<lb/>
+of Virginia by special permission, as he was only 16 years<lb/>
+old and below the age of admission. He wanted to take<lb/>
+the complete University course but two of his brothers<lb/>
+were already planning to do that, and WALTER knew his<lb/>
+father couldn't stand the additional expense. Therefore<lb/>
+he asked the faculty of the University whether he would<lb/>
+be given the degree of Doctor of Medicine if he could pass<lb/>
+the examinations. The faculty consented, thinking it was<lb/>
+a safe promise. For a boy so young, they considered the<lb/>
+undertaking impossible. As REED left the room after<lb/>
+gaining the faculty's consent he bowed to the chairman<lb/>
+and said:</p>
+<p>&ldquo;Gentlemen, I hold you to your promise.&rdquo;</p>
+<p>WALTER began at once to study medicine, and nine<lb/>
+months later he graduated, third in his class. He was not<lb/>
+yet 17 years old, the youngest student ever graduated<lb/>
+from the medical school at Charlottesville. Medical<lb/>
+courses in those days were much shorter than they are<lb/>
+now, but even so, the standard at the University of Vir-<lb/>
+ginia was a high one for that time, and only a clever stu-<lb/>
+dent and a hard worker could have made the record<lb/>
+WALTER did.</p>
+<p>After his graduation he went to Bellevue Hospital<lb/>
+Medical College in New York, and received the degree of<lb/>
+M. D. from it a year later. After some hospital experience<lb/>
+he was appointed a district physician in one of the poorer<lb/>
+parts of New York. Later, at the age of 22 he was made<lb/>
+one of the five inspectors of the Board of Health in Brook-<lb/>
+lyn.</p>
+<p>In 1874 REED decided to enter the army as a surgeon.<lb/>
+One reason was that he wanted a future that would be</p>
+<p>-----</p>
+<p>An expanded life of WALTER REED by the authors of this story will be published in 1927 by D. C.<lb/>
+Health and Company, New York City.</p>
+<p>4</p>
+<pb n="5" id="fKAME0120"/>
+<p>HEALTH HEROES--WALTER REED</p>
+<p>----------------------------------------</p>
+<p><figure entity="KAME0120"></figure> <hi rend="italic">Hostile Indians were a constant menace</hi></p>
+<p>secure so he could carry on scientific research. Another,<lb/>
+as he admitted long afterward, was that he had fallen in<lb/>
+love with EMILIE LAWRENCE, and wanted an assured in-<lb/>
+come, so he could ask her to marry him.</p>
+<p>The examinations for a commission in the Army<lb/>
+Medical Corps were very hard. Part of a letter to Miss<lb/>
+LAWRENCE describes his struggles in brushing up for<lb/>
+these examinations. He said:</p>
+<p>The more I read, the greater the task looms up before me till<lb/>
+I stand appalled at the work that must be done, and almost think<lb/>
+all I ever knew has forsaken me. But one thing I will not permit<lb/>
+to forsake me is my courage, and if effort will avail anything, it<lb/>
+shall not fail me in this case. I went over to New York a few<lb/>
+days ago and had a long talk with the Recorder of the Examining<lb/>
+Board. To my utter astonishment he informed me that candi-<lb/>
+dates must stand an examination in Latin, Greek, mathematics<lb/>
+and history, in addition to medical subjects. Horror of horrors!<lb/>
+Imagine me conjugating an irregular verb, or telling what x plus<lb/>
+y equals, or what year Rome was founded, or the battle of Mara-<lb/>
+thon fought!</p>
+<p>In February, 1875, he passed his examinations bril-<lb/>
+liantly; and in June he received his commission. He was<lb/>
+married on April 25, 1876, and then left for his station in<lb/>
+Arizona. This assignment was the beginning of eighteen<lb/>
+years' garrison duty.</p>
+<p>-----</p>
+<p>Cover portrait of WALTER REED in 1874 from <hi rend="italic">Walter Reed and Yellow Fever</hi>, by the courtesy of the<lb/>
+Norman Remington Company.</p>
+<p>5</p>
+<pb n="6" id="fKAME0130"/>
+<p>METROPOLITAN LIFE INSURANCE COMPANY</p>
+<p>----------------------------------------</p>
+<p><figure entity="KAME0130"></figure> <hi rend="italic">The trail was never so long nor the<lb/>
+night so dark as to stop</hi> WALTER REED</p>
+<p>The life at army<lb/>
+posts in the West was<lb/>
+then hard and desolate,<lb/>
+and hostile Indians<lb/>
+were a constant<lb/>
+menace. At Camp<lb/>
+Apache, in Arizona,<lb/>
+Dr. REED was 700<lb/>
+miles from a railroad;<lb/>
+mail arrived only once a week, and letters from the East<lb/>
+were often six weeks on the way.</p>
+<p>In those days in the West the medical officer at the<lb/>
+Post was the only doctor for miles around. But when a<lb/>
+call came from a settler for medical assistance, &ldquo;the trail<lb/>
+was never so long or the night so dark&rdquo; as to stop WALTER<lb/>
+REED. With only such medicine and instruments as he<lb/>
+could stuff into his saddle-bags he rode forth in the blazing<lb/>
+heat of summer or the blinding blizzards of winter to at-<lb/>
+tend a child choking with diphtheria, to set a broken bone,<lb/>
+or to bring a baby into the world.</p>
+<p>In 1890 he was assigned to duty in Baltimore and this<lb/>
+appointment gave him opportunity to make special studies<lb/>
+in bacteriology at Johns Hopkins University. Three years<lb/>
+later he was appointed Professor of Bacteriology in the<lb/>
+Army Medical School in Washington. REED was now a<lb/>
+Major and between 1893 and 1900, when he started the<lb/>
+investigation of yellow fever, his most important work<lb/>
+was the study of typhoid fever in army camps during the<lb/>
+Spanish American War. One of the conclusions of this<lb/>
+study was that the common house fly is a typhoid carrier.</p>
+<p>In 1900, Major WALTER REED, Dr. JAMES CARROLL,<lb/>
+Dr. A. AGRAMONTE, and Dr. JESSE W. LAZEAR, were ap-<lb/>
+pointed as a board of medical officers to investigate acute<lb/>
+infectious diseases, and especially questions relating to<lb/>
+yellow fever, on the Island of Cuba.</p>
+<p>6</p>
+<pb n="7" id="fKAME0140"/>
+<p>HEALTH HEROES--WALTER REED</p>
+<p>----------------------------------------</p>
+<p>The History of Yellow Fever</p>
+<p>The earliest record of yellow fever says it occurred in<lb/>
+Central America in 1596. Then it was heard of in New<lb/>
+England among the Indians, in 1618. It appeared in the<lb/>
+Island of St. Lucia, in 1664, where it killed over 1,411 of a<lb/>
+population of 1,500 soldiers. In 1665, in the same place,<lb/>
+200 of 500 sailors died of it. New York was visited by<lb/>
+it for the first time in 1668; Boston in 1691 and Phila-</p>
+<p><figure entity="KAME0140"></figure> Important Points on the<lb/>
+Trail of the YELLOW<lb/>
+FEVER MOSQUITO with<lb/>
+Time Table of First Visits</p>
+<p>7</p>
+<pb n="8" id="fKAME0150"/>
+<p>METROPOLITAN LIFE INSURANCE COMPANY</p>
+<p>----------------------------------------</p>
+<p><figure entity="KAME0150"></figure> <hi rend="italic">In the summer of 1793 all the roads leading from Philadelphia were<lb/>
+crowded with people fleeing to the country for safety</hi></p>
+<p>delphia in 1695. In 208 years there were 95 invasions of<lb/>
+our territory by yellow fever. From 1793 on there were<lb/>
+not less than 100,000 deaths from it. New Orleans, Phila-<lb/>
+delphia, Memphis, Charleston, Norfolk, Galveston, New<lb/>
+York, Baltimore and many other cities suffered a tremen-<lb/>
+dous loss of life.</p>
+<p>In the terrible epidemic of 1793 in Philadelphia, all<lb/>
+the streets and roads leading from the city were crowded<lb/>
+with families flying to the country for safety. So many<lb/>
+doctors were sick or had died of yellow fever that &ldquo;at one<lb/>
+time there were only three physicians who were able to<lb/>
+visit patients, and at this time there were probably not<lb/>
+less than 6,000 persons ill with the fever.&rdquo; Dr. RUSH,<lb/>
+then a physician in Philadelphia, relates that a cheerful<lb/>
+countenance was scarcely to be seen in the city for six<lb/>
+weeks. Once in entering the house of a poor man, he met<lb/>
+a child of 2 years who smiled in his face, and he says, &ldquo;I<lb/>
+8<lb/>
+<pb n="9" id="fKAME0160"/>
+HEALTH HEROES--WALTER REED<lb/>
+----------------------------------------<lb/>
+was strangely affected by this sight. Few persons were<lb/>
+met in the streets except those who were in quest of a<lb/>
+physician, a nurse, or the men who buried the dead. The<lb/>
+hearse alone kept up the remembrance of the noise of<lb/>
+carriages or carts in the street.&rdquo;</p>
+<p>For more than 200 years, learned men searched for the<lb/>
+clues that would tell them how to prevent the crime of<lb/>
+yellow fever which was repeated year after year. The<lb/>
+strange part of the story is that they found the clues and<lb/>
+described them many times, but they didn't have sufficient<lb/>
+knowledge to trace the villain. It lived in the community<lb/>
+undisturbed, and went its criminal way unchecked, until<lb/>
+the master detective, using the very same clues that puz-<lb/>
+zled everyone else, came along and pointed it out.</p>
+<p>The first thing Major REED and his associates decided<lb/>
+to do when they reached Cuba, was to sift the evidence<lb/>
+that seemed to point to an insect-carrier of the disease.</p>
+<p><figure entity="KAME0160"></figure> <hi rend="italic">How to identify the mosquito carriers<lb/>
+of malaria (Anopheles)</hi></p>
+<p>Insects, like flies and<lb/>
+mosquitoes, had al-<lb/>
+ready been convicted<lb/>
+of carrying certain<lb/>
+other diseases.<lb/>
+WALTER REED him-<lb/>
+self had proved that<lb/>
+flies spread typhoid<lb/>
+fever; and an English<lb/>
+army surgeon, Dr.<lb/>
+Ross, had discovered<lb/>
+that the parasite of<lb/>
+malaria gets into the<lb/>
+blood of a human being through the bite of an <hi rend="italic">Anopheles</hi><lb/>
+mosquito and in no other way. Another species of mos-<lb/>
+quito had been <hi rend="italic">suspected</hi> of carrying yellow fever. There<lb/>
+were many clues that pointed to it as the guilty party.</p>
+<p>9</p>
+<pb n="10" id="fKAME0170"/>
+<p>METROPOLITAN LIFE INSURANCE COMPANY</p>
+<p>----------------------------------------</p>
+<p>The First Clue</p>
+<p>In almost all the old accounts of yellow fever epidem-<lb/>
+ics, mosquitoes were mentioned as being very troublesome.<lb/>
+Dr. O'HALLORAN, describing an outbreak of the disease<lb/>
+in Barcelona, Spain, in 1821 wrote, &ldquo;It is worthy of re-<lb/>
+mark that during the month (July) the flies and mosquitoes<lb/>
+were infinitely multiplied.&rdquo; Dr. DRYSDALE, a Baltimore<lb/>
+physician, writing of an epidemic said: &ldquo;Locusts were<lb/>
+not more numerous in the reign of PHARAOH than mos-<lb/>
+quitoes through the last few months; yet these insects<lb/>
+were very rare only a few years past, when a far greater<lb/>
+portion of Baltimore was a marsh.&rdquo; Thus it appears that<lb/>
+the suspect was at the scene of the crime.</p>
+<p>The Second Clue</p>
+<p>Epidemics always started in the low wet regions or<lb/>
+near the docks. All epidemics in Baltimore broke out at<lb/>
+Locust Point, a low-lying section almost surrounded by<lb/>
+water, or about the docks and wharves.</p>
+<p><figure entity="KAME0170"></figure> <hi rend="italic">People employed on the wharf near the<lb/>
+schooner Sally were taken with<lb/>
+violent fevers</hi></p>
+<p>The report of the<lb/>
+epidemic in Mobile,<lb/>
+Alabama, in 1819<lb/>
+says the first cases<lb/>
+were among the<lb/>
+people employed on<lb/>
+the wharves. &ldquo;A<lb/>
+number of carpenters<lb/>
+and sailors employed<lb/>
+about the wharf and<lb/>
+who were much on<lb/>
+board the schooner<lb/>
+<hi rend="italic">Sally</hi> filled with stag-<lb/>
+nant water, and<lb/>
+about the steam saw-<lb/>
+10<lb/>
+<pb n="11" id="fKAME0180"/>
+HEALTH HEROES--WALTER REED<lb/>
+----------------------------------------</p>
+<p><figure entity="KAME0180"></figure> <hi rend="italic">Yellow fever spread quickly in<lb/>
+narrow streets</hi></p>
+<p>mill, where there was<lb/>
+a pond of like offen-<lb/>
+sive water, were<lb/>
+taken with violent<lb/>
+fevers.&rdquo; Dr. RUSH<lb/>
+in describing the out-<lb/>
+break of the 1793<lb/>
+epidemic in Phila-<lb/>
+delphia says: &ldquo;Upon<lb/>
+inquiry, it appears<lb/>
+that the first persons<lb/>
+who died with this<lb/>
+fever, . . . had been<lb/>
+previously exposed<lb/>
+to the atmosphere of<lb/>
+the wharf.&rdquo; As the<lb/>
+mosquito breeds in<lb/>
+still water, here was another clue pointing to it as a<lb/>
+carrier of yellow fever.</p>
+<p>The Third Clue</p>
+<p>In the high and dry parts of a city the disease was not<lb/>
+contagious. In many epidemics people from low-lying<lb/>
+sections fled to the higher part of the city or to the coun-<lb/>
+try districts. Although many of these people came down<lb/>
+with yellow fever after they had left their homes, the dis-<lb/>
+ease did not spread to other people in the new neighbor-<lb/>
+hood.</p>
+<p>This clue pointed to the thought that yellow fever<lb/>
+must be carried in some other way than directly from one<lb/>
+person to another. It made a great many intelligent ob-<lb/>
+servers think this, but the only explanation they could<lb/>
+give was that the disease must be present in the <hi rend="italic">air</hi> of cer-<lb/>
+tain districts and not in others.</p>
+<p>11</p>
+<pb n="12" id="fKAME0190"/>
+<p>METROPOLITAN LIFE INSURANCE COMPANY</p>
+<p>----------------------------------------</p>
+<p>The Fourth Clue</p>
+<p>Another clue strengthened the idea that the disease<lb/>
+was air-borne. Some people noticed that the fever spread<lb/>
+in the direction of the prevailing wind. Whenever the<lb/>
+wind blew strongly in a certain direction, yellow fever<lb/>
+broke out in its path. When the air was still, the infec-<lb/>
+tion was content to pay its calls in the houses of an al-<lb/>
+ready infected neighborhood. As the mosquito is a great<lb/>
+lover of home, and never travels far unless it gets a free<lb/>
+ride on the wind, or on a ship, this clue explains why yel-<lb/>
+low fever spread so quickly in narrow streets, and broke<lb/>
+out at a distance from the wet low-lying districts of a city<lb/>
+only when the villain of the drama was carried there by<lb/>
+wind.</p>
+<p>The Fifth Clue</p>
+<p>Yellow fever flourished when the weather was hot<lb/>
+but was stamped out by frost. Mosquitoes, also, are<lb/>
+active in hot weather and disappear after a frost. Here<lb/>
+was another important clue, but it didn't mean anything<lb/>
+except that &ldquo;heat was a very common exciting cause of the<lb/>
+disorder,&rdquo; until suspicion was thrown on the mosquito.<lb/>
+It is easy to explain facts that seem mysterious as soon as<lb/>
+the villain of a detective story is uncovered. Then it seems<lb/>
+strange that the important clues which pointed to the<lb/>
+guilty person as clearly as a signboard points out a road,<lb/>
+could have been misunderstood.</p>
+<p>Anyone who has studied the life history of the mos-<lb/>
+quito, can see how the spread of yellow fever tallies with<lb/>
+the mosquito's habits. But it is one thing to <hi rend="italic">suspect</hi> a<lb/>
+villain, and another thing to <hi rend="italic">prove</hi> the suspicion to be true.<lb/>
+Someone had already suspected that the mosquito carries<lb/>
+yellow fever, but had been unable to prove it. This per-<lb/>
+son was Dr. CARLOS J. FINLAY, of Havana, who had ad-<lb/>
+vanced the mosquito theory in 1881.</p>
+<p>12</p>
+<pb n="13" id="fKAME0200"/>
+<p>HEALTH HEROES--WALTER REED</p>
+<p>----------------------------------------</p>
+<p>WALTER REED and his associates decided to investi-<lb/>
+gate this theory not only because they had observed that<lb/>
+the mosquito's habits tally with the spread of the disease,<lb/>
+but also because of one peculiar fact about the infection<lb/>
+of houses. This fact was the length of time that it takes<lb/>
+to change a non-infected house to an infected one.</p>
+<p>The Sixth Clue</p>
+<p>A picture story of what happens when a case of<lb/>
+yellow fever breaks out in a house is given on the follow-<lb/>
+ing page.</p>
+<p>In this picture it is shown that A's house was <hi rend="italic">not</hi> in-<lb/>
+fected with yellow fever for fifteen days after A came down<lb/>
+with the fever, because people could go there and not<lb/>
+take it. But after the fifteen days were up, everyone<lb/>
+who went there took the disease in from one to six days.</p>
+<p>What were the germs doing, and where were they,<lb/>
+before they finally infected the house? WALTER REED sus-<lb/>
+pected they were being entertained in the stomach of a<lb/>
+mosquito, and stayed there until they were capable of<lb/>
+passing on the disease through the mosquito's bite.</p>
+<p>As yellow fever cannot be given to animals, the only<lb/>
+way of investigating it was to experiment on human be-<lb/>
+ings. This meant a tremendous responsibility for the<lb/>
+members of the Board. They agreed they must experiment<lb/>
+on themselves as well as on the men who volunteered for<lb/>
+inoculation. Think of the high courage of the men who<lb/>
+took this great responsibility, and the gallantry of the<lb/>
+American soldiers who accepted the risk of suffering, or<lb/>
+even death. These men were heroes in the greatest war<lb/>
+of all, the war against disease.</p>
+<p>The First Experiments</p>
+<p>The first experiments were made in August, 1900.<lb/>
+Eleven persons were subjected to the bite of mosquitoes<lb/>
+13<lb/>
+<pb n="14" id="fKAME0210"/>
+METROPOLITAN LIFE INSURANCE COMPANY<lb/>
+----------------------------------------</p>
+<p><figure entity="KAME0210"></figure> <hi rend="italic">A picture story of the infection of a house with yellow fever</hi></p>
+<p>14</p>
+<pb n="15" id="fKAME0220"/>
+<p>HEALTH HEROES--WALTER REED</p>
+<p>----------------------------------------</p>
+<p>of the species <hi rend="italic">A&euml;des aegypti</hi> (formerly called <hi rend="italic">Stegomyia<lb/>
+fasciata</hi>) after these mosquitoes had already bitten patients<lb/>
+with well-marked cases of yellow fever. Of these eleven<lb/>
+persons, two developed the disease. One of the positive<lb/>
+cases was that of Dr. JAMES CARROLL, a member of the<lb/>
+Board. Both cases recovered. In one of these cases, it was<lb/>
+proved that the infection could have been received in no<lb/>
+other way than by the bite of the mosquito. A third case<lb/>
+developed later, accidentally.</p>
+<p>On September 13, 1900, Dr. JESSE W. LAZEAR, while<lb/>
+visiting a yellow fever hospital, was bitten. He deliber-<lb/>
+ately allowed the mosquito, which had settled on the back<lb/>
+of his hand, to remain until it had satisfied its hunger.<lb/>
+Five days after the bite he came down with yellow<lb/>
+fever of which he died, a true martyr to science. From<lb/>
+these three positive cases WALTER REED and his associates<lb/>
+came to the conclusion that the mosquito serves as the<lb/>
+intermediate host for the parasite of yellow fever.</p>
+<p><figure entity="KAME0220"></figure> <hi rend="italic">Camp Lazear (near Quemados)</hi></p>
+<p>15</p>
+<pb n="16" id="fKAME0230"/>
+<p>METROPOLITAN LIFE INSURANCE COMPANY</p>
+<p>----------------------------------------</p>
+<p>To prove this definitely, it was necessary to carry on<lb/>
+experiments in such a way as to make it impossible for the<lb/>
+men experimented on to get yellow fever accidentally.</p>
+<p>The Experiments at Camp Lazear</p>
+<p>Major REED and his associates took a piece of ground<lb/>
+about six miles from Havana and built a camp there which<lb/>
+they named Camp Lazear after their dead comrade. The<lb/>
+camp site was well drained, and freely exposed to sun-<lb/>
+light and winds. In this camp men were quartered who<lb/>
+had never had yellow fever and who were therefore called<lb/>
+non-immunes. These men were American soldiers who<lb/>
+bravely volunteered for the experiment, and Spanish im-<lb/>
+migrants who gave their services for pay.</p>
+<p>If a person is going to have yellow fever, he develops<lb/>
+it within six days after exposure. Therefore, if the men<lb/>
+were kept in quarantine for two weeks without develop-<lb/>
+ing the disease, this fact would show they had not be-<lb/>
+come infected before they entered camp. Things were<lb/>
+now so arranged that if a mosquito was allowed to bite a<lb/>
+man and the man afterward developed yellow fever the<lb/>
+Board would know the disease was due to the bite and to<lb/>
+nothing else.</p>
+<p>KISSINGER and MORAN</p>
+<p>When it became known in the American troops in<lb/>
+Cuba that soldiers were wanted for yellow fever experi-<lb/>
+ments, JOHN R. KISSINGER and another young man from<lb/>
+Ohio, JOHN J. MORAN, volunteered. Major REED talked<lb/>
+the matter over with them explaining the risk of suffering<lb/>
+and even of death. They held to their purpose. Major<lb/>
+REED told them they would be rewarded with a sum of<lb/>
+money. They both refused any compensation. Then<lb/>
+REED touched his hat and said, &ldquo;Gentlemen, I salute you.&rdquo;<lb/>
+16</p>
+<pb n="17" id="fKAME0240"/>
+<p>HEALTH HEROES--WALTER REED</p>
+<p>----------------------------------------</p>
+<p>KISSINGER volunteered, to use his own words, &ldquo;Solely in<lb/>
+the interest of humanity and the cause of science.&rdquo;<lb/>
+Major REED'S comment on this young man was: &ldquo;In my<lb/>
+opinion this exhibition of moral courage has never been<lb/>
+surpassed in the annals of the army of the United States.&rdquo;</p>
+<p>KISSINGER was bitten on December 5, 1900, by mos-<lb/>
+quitoes which had bitten yellow fever patients from fif-<lb/>
+teen to twenty days before. Four days later he had a<lb/>
+well-marked case of yellow fever, from which he recovered.<lb/>
+In all, thirteen men at Camp Lazear were infected by<lb/>
+means of the bites of contaminated mosquitoes, and the<lb/>
+disease developed in ten. Fortunately they recovered.<lb/>
+No one else in the camp of thirty or forty men became ill.</p>
+<p>The Mosquito Proved Guilty</p>
+<p>As a result of these experiments it was found that<lb/>
+yellow fever could be carried from one person to another<lb/>
+only by the bite of a female <hi rend="italic">A&euml;des aegypti</hi> mosquito that<lb/>
+had bitten a yellow fever patient in the first three days of<lb/>
+his illness, and had then been kept for at least twelve days<lb/>
+before it was allowed to bite a human being who had</p>
+<p><figure entity="KAME0240"></figure> <hi rend="italic">Building at Camp Lazear where fomites<lb/>
+experiments were carried on</hi></p>
+<p>never had yellow<lb/>
+fever. If that plan<lb/>
+were followed, the<lb/>
+person bitten would<lb/>
+generally come down<lb/>
+with the disease<lb/>
+within six days. It<lb/>
+now became clear as<lb/>
+to why it took so long<lb/>
+for a case of yellow<lb/>
+fever to infect a<lb/>
+house. Mosquitoes<lb/>
+had to bite the<lb/>
+17<lb/>
+<pb n="18" id="fKAME0250"/>
+METROPOLITAN LIFE INSURANCE COMPANY<lb/>
+----------------------------------------<lb/>
+patient during the first three days of his illness, then<lb/>
+twelve days had to go by before they could pass on the<lb/>
+disease by biting another person. But after that interval<lb/>
+of twelve days they were a menace to everyone who<lb/>
+entered the immediate neighborhood.</p>
+<p>Another Suspect</p>
+<p>In a detective story not only must the villain be<lb/>
+proved guilty but all other suspects must be proved in-<lb/>
+nocent. Almost everyone at that time thought yellow<lb/>
+fever was carried by fomites, that is, by excretions of<lb/>
+yellow fever patients in the articles of clothing, bedding,<lb/>
+or other materials that had been contaminated by con-<lb/>
+tact with people who had the disease. That belief<lb/>
+resulted in the destruction of a great deal of valuable<lb/>
+property supposed to be infected, and worked a real<lb/>
+hardship on merchants trading in infected ports.</p>
+<p>Fomites Proved Innocent</p>
+<p>WALTER REED and his associates now set to work to<lb/>
+prove that fomites did not carry the disease. For this<lb/>
+purpose a small frame house consisting of one room 14 &times; 20<lb/>
+feet was erected at Camp Lazear. It was tightly built and<lb/>
+the doors and windows were so placed as to admit as little<lb/>
+sunlight and air as possible. A coal-oil stove kept the<lb/>
+temperature at ninety degrees during the day and the at-<lb/>
+mosphere was provided with moisture. The room was<lb/>
+thus kept like the hold of a ship in the tropics, warm,<lb/>
+dark, and moist.</p>
+<p>The building was now ready for the experiment.<lb/>
+Three large boxes filled with sheets, pillow slips, blankets,<lb/>
+etc., contaminated by contact with cases of yellow fever,<lb/>
+were placed inside; and on November 30, 1900, Dr.<lb/>
+R. P. COOKE, acting Assistant Surgeon, United States<lb/>
+18<lb/>
+<pb n="19" id="fKAME0260"/>
+HEALTH HEROES--WALTER REED<lb/>
+----------------------------------------<lb/>
+Army and two privates of the Hospital Corps, all non-<lb/>
+immune young Americans entered the building. They<lb/>
+unpacked the boxes, giving each article a thorough shaking<lb/>
+in order to fill the air with the specific agent of yellow<lb/>
+fever if it was contained in these fomites. They then made<lb/>
+the beds with the soiled bed clothing and slept in them.<lb/>
+Various contaminated articles were hung about the bed<lb/>
+in which Dr. COOKE slept. For twenty nights this room<lb/>
+was occupied by these non-immunes. They packed up<lb/>
+the soiled articles every morning and unpacked them at<lb/>
+night, but not one of the men developed yellow fever.</p>
+<p>From December 21, 1900 to January 10, 1901, the<lb/>
+room was again occupied by two non-immune young<lb/>
+Americans. These men slept every night in the soiled<lb/>
+garments and on the bedding used by yellow fever pa-<lb/>
+tients throughout their entire attacks. They also re-<lb/>
+mained perfectly well. The experiment was repeated a<lb/>
+third time with the same results. This experiment ex-<lb/>
+plained why people had been able to wash the bedding<lb/>
+and clothing of yellow fever patients without taking the<lb/>
+disease. It absolutely cleared the fomites of suspicion.</p>
+<p>How a House is Infected with Yellow Fever</p>
+<p>Since it was proved that a house could not be infected<lb/>
+with the yellow fever by fomites, the question now arose:<lb/>
+&lsquo;How <hi rend="italic">does</hi> a house become infected?&rdquo; To answer that<lb/>
+question with certainty, a second building was erected<lb/>
+similar to the first, except that it was well-ventilated. It<lb/>
+was screened so that mosquitoes could not get in or out.<lb/>
+The room was then divided by a wire netting that ex-<lb/>
+tended from top to bottom and allowed the air to pass<lb/>
+freely from one side to the other. Therefore, if there were<lb/>
+any germs or &ldquo;miasms&rdquo; floating in the air that could cause<lb/>
+yellow fever they would be found on both sides of the<lb/>
+19<lb/>
+<pb n="20" id="fKAME0270"/>
+METROPOLITAN LIFE INSURANCE COMPANY<lb/>
+----------------------------------------<lb/>
+screen. To show that the building was uninfected, four<lb/>
+men slept in it for two weeks, two on each side of the net-<lb/>
+ting. They remained perfectly well. &ldquo;Now,&rdquo; said Major<lb/>
+REED, &ldquo;I am going to infect one side of this room with yel-<lb/>
+low fever and not the other side.&rdquo; He took out the<lb/>
+two men from one side and set free there fifteen <hi rend="italic">A&euml;des</hi><lb/>
+mosquitoes that had previously bitten yellow fever pa-<lb/>
+tients. Then, JOHN J. MORAN entered the mosquito-<lb/>
+infested space for a short time on three successive days.<lb/>
+Four days after his first visit JOHN MORAN came down<lb/>
+with a well-developed case of yellow fever from which he<lb/>
+recovered. During each of his visits, two other non-<lb/>
+immunes remained in the building on the other side of the<lb/>
+wire netting, and they slept there for eighteen nights.<lb/>
+They remained in perfect health. Therefore REED con-<lb/>
+cluded that as the air on both sides of the wire screen par-<lb/>
+titions was exactly the same, it must have been the pres-<lb/>
+ence of contaminated mosquitoes that infected the side<lb/>
+in which MORAN contracted yellow fever, and the absence<lb/>
+of mosquitoes that made the other side perfectly healthful.</p>
+<p>How an Infected House is Disinfected</p>
+<p>WALTER REED then said: &ldquo;Now that I have shown<lb/>
+you a house infected with yellow fever, I will demonstrate<lb/>
+how it can be disinfected and rendered safe.&rdquo; He caught<lb/>
+the mosquitoes and put them back in their jars. Then he<lb/>
+said that the building was disinfected. The two men re-<lb/>
+turned to the side that had been infected and they and<lb/>
+the two on the other side continued to live there in per-<lb/>
+fect health.</p>
+<p>Passing Sentence on the Villain</p>
+<p>The experiments of Camp Lazear proved beyond the<lb/>
+shadow of doubt that the <hi rend="italic">A&euml;des aegypti</hi> mosquito is the<lb/>
+20<lb/>
+<pb n="21" id="fKAME0280"/>
+HEALTH HEROES--WALTER REED<lb/>
+----------------------------------------</p>
+<p><figure entity="KAME0280"></figure> 1 All four men remain well. Therefore the<lb/>
+building is not infected with yellow fever</p>
+<p><figure entity="KAME0280"></figure> 2 J. Moran enters side B, is bitten and has yellow<lb/>
+fever in four days. The men in side A remain well.<lb/>
+Therefore the presence of contaminated mos-<lb/>
+quitoes infected side B.</p>
+<p><figure entity="KAME0280"></figure> 3 Men sleep on both sides of wire netting as<lb/>
+before without taking yellow fever. Therefore<lb/>
+side B has been disinfected by removing<lb/>
+mosquitoes</p>
+<p><hi rend="italic">only</hi> carrier of yellow<lb/>
+fever. One of the<lb/>
+greatest detective<lb/>
+stories of all times, a<lb/>
+story that lasted for<lb/>
+over 200 years, was<lb/>
+now ended by this<lb/>
+discovery of the vil-<lb/>
+lain. Sentence was<lb/>
+passed on the <hi rend="italic">A&euml;des<lb/>
+aegypti</hi> mosquito in<lb/>
+these words of WAL-<lb/>
+TER REED: &ldquo;The<lb/>
+spread of yellow fever<lb/>
+can be most effectu-<lb/>
+ally controlled by<lb/>
+measures directed to<lb/>
+the destruction of<lb/>
+mosquitoes and the<lb/>
+protection of the sick<lb/>
+against these insects.&rdquo;</p>
+<p>Executing the<lb/>
+Sentence in<lb/>
+Havana</p>
+<p>W. C. GORGAS,<lb/>
+then a Major in the<lb/>
+medical corps, United<lb/>
+States Army, and<lb/>
+Chief Sanitary Chief Sanitary Officer<lb/>
+of Havana set the ex-<lb/>
+ample for vigorous<lb/>
+and energetic meas-<lb/>
+ures against the mos-<lb/>
+quito.</p>
+<p>21</p>
+<pb n="22" id="fKAME0290"/>
+<p>METROPOLITAN LIFE INSURANCE COMPANY</p>
+<p>----------------------------------------</p>
+<p>The female mosquito lays her eggs in still water.<lb/>
+About thirty-six hours later these eggs hatch into larv&aelig;,<lb/>
+also called &ldquo;wigglers&rdquo; or &ldquo;wiggle-tails.&rdquo; The wiggler<lb/>
+moves about actively, feeds much of the time, and breathes<lb/>
+air which it secures by thrusting its breathing tube up<lb/>
+through the surface of the water. After six or seven days<lb/>
+it changes into a pupa or &ldquo;tumbler.&rdquo; In this stage it<lb/>
+is an air-breather but it does not feed, and after thirty-six<lb/>
+hours or more it is again changed and comes forth as the<lb/>
+perfect winged insect.</p>
+<p><figure entity="KAME0290"></figure> <hi rend="italic">Stages in life of yellow fever mosquito</hi>:<lb/>
+(1) Eggs deposited in a close-lying mass<lb/>
+(enlarged) (2) Full-grown &ldquo;wiggler&rdquo; (en-<lb/>
+larged) (3) Pupa (enlarged) (4) Female<lb/>
+adult mosquito, the carrier of<lb/>
+yellow fever (enlarged)</p>
+<p>When the campaign<lb/>
+started in February<lb/>
+1901, all houses and<lb/>
+yards in Havana were<lb/>
+examined and all tin<lb/>
+cans, empty bottles and<lb/>
+similar trash, which<lb/>
+were generally found<lb/>
+filled with rain-water<lb/>
+and full of yellow fever<lb/>
+mosquito wigglers, were<lb/>
+carted off. Openings in<lb/>
+cisterns were covered<lb/>
+with mosquito netting.<lb/>
+The Health Department<lb/>
+fitted covers over rain-<lb/>
+water barrels and a<lb/>
+wooden spigot was<lb/>
+placed in the lower part<lb/>
+of the barrel so that<lb/>
+water could be drawn<lb/>
+off without lifting the<lb/>
+cover. As the <hi rend="italic">A&euml;des<lb/>
+aegypti</hi> mosquito lives and breeds almost entirely in or<lb/>
+near houses these measures were very effective.</p>
+<p>22</p>
+<pb n="23" id="fKAME0300"/>
+<p>HEALTH HEROES--WALTER REED</p>
+<p>----------------------------------------</p>
+<p>When a yellow fever case was reported, employees of<lb/>
+the Health Department went to the house and screened<lb/>
+it so that no mosquitoes could get out or in. Then they<lb/>
+fumigated the house to kill the mosquitoes inside.</p>
+<p>As a result of this general mosquito hunt, yellow fever<lb/>
+decreased rapidly, and since September 1901 not a single<lb/>
+case has developed in the city. That historic month was<lb/>
+the first in which Havana had been free of yellow fever in<lb/>
+150 years. Later, GORGAS repeated this performance in<lb/>
+the Canal Zone with the result that the United States was<lb/>
+able to build the Panama Canal. Since then the example<lb/>
+of General GORGAS has been followed wherever the <hi rend="italic">A&euml;des<lb/>
+aegypti</hi> had a hiding place.</p>
+<p>The mosquitoes that frequent the United States and<lb/>
+Canada now probably belong to the harmless tribes of<lb/>
+that innumerable race. But it is well to remember that<lb/>
+all mosquitoes are a great pest, and that the <hi rend="italic">Anopheles</hi><lb/>
+mosquito is still spreading malaria. For the sake of com-<lb/>
+fort and of health everyone should make war on them just<lb/>
+as General GORGAS did.</p>
+<p>The Death of WALTER REED</p>
+<p>The master detective in this story Major WALTER<lb/>
+REED, died of acute appendicitis on November 23, 1902,<lb/>
+in Washington. It is good to know that before he died he<lb/>
+saw the great city of Havana delivered from her ancient<lb/>
+foe, and the way made clear for the saving of his own be-<lb/>
+loved country from a great plague.</p>
+<p>A Tale That Is Told</p>
+<p>Yellow fever is now practically extinct. The story<lb/>
+of its horrors is a tale that is told. But what a tale!<lb/>
+It starts with the men of Spain who carried the little<lb/>
+winged death in their golden galleons. It tells how our<lb/>
+23<lb/>
+<pb n="24" id="fKAME0310"/>
+METROPOLITAN LIFE INSURANCE COMPANY<lb/>
+----------------------------------------<lb/>
+shores were invaded by air ninety-five times in 208 years,<lb/>
+before an aeroplane was even heard of. It tells of the help-<lb/>
+less suffering and miserable death of thousands of men,<lb/>
+women, and children. It sings of the high adventure of<lb/>
+brave men who offered their lives in the conquest of<lb/>
+this disease.</p>
+<p><figure entity="KAME0310"></figure></p>
+<p>REFERENCES</p>
+<p>This story of WALTER REED and the Conquest of Yellow Fever is<lb/>
+based on the following books:</p>
+<p><hi rend="italic">Yellow Fever, a Compilation of Various Publications</hi>, containing the<lb/>
+original articles of Major WALTER REED, Dr. JAMES CARROLL,<lb/>
+and General W. A. GORGAS, on the yellow fever experiments.<lb/>
+Government Printing Office, Washington, D. C., 1911.</p>
+<p><hi rend="italic">Walter Reed and Yellow Fever</hi>, by HOWARD A. KELLY, the Norman<lb/>
+Remington Co., Baltimore, Maryland, 1923.</p>
+<p><hi rend="italic">An Account of the Bilious Remittant Yellow Fever as it Appeared in<lb/>
+the City of Philadelphia in the Year 1793</hi>, by BENJAMIN RUSH,<lb/>
+M. D., 1794.</p>
+<p>24</p>
+<pb n="24a" id="fKAME0320"/>
+<p><figure entity="KAME0320"></figure> 1 MADISON AVENUE<lb/>
+NEW YORK</p>
+<p>M. L. I. CO. PRESS--(a) 434 LW--PRINTED IN U.S.A.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

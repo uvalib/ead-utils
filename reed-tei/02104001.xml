@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02104001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from J. F. Dunshie to the Chief Surgeon, August 25, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Dunshie, J. F.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02104001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-08-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Chief Surgeon</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Walker, Samuel</name>
+<name type="person">Courtney, John E.</name>
+<name type="person">Vance, Harry</name>
+<name type="person">Gallinania, Loius</name>
+<name type="person">Smith, George H.</name>
+<name type="person">Davidson, William</name>
+<name type="person">Haines, Sylvester</name>
+<name type="place">Guanajay Barracks (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1900-08-25">August 25, 1900</date>
+<idno rend="suppress">02104001</idno>
+<title>Report from J. F. Dunshie to the Chief Surgeon, August 25, 1900</title>
+</bibl>
+</head>
+<p>Dunshie lists the cases of yellow fever at Guanajay Barracks, Cuba. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1900-08-25">
+<head>Report from J. F. Dunshie to the Chief Surgeon, August 25, 1900</head>
+<pb n="1" id="f02104001"/>
+<opener>
+Post Hospital, Guanajay Barracks, Cuba,<lb/>
+<dateline>
+<date value="1900-08-25">August 25, 1900</date>
+</dateline><lb/>
+To the<lb/>
+Chief Surgeon, Dept Western Cuba,<lb/>
+Quemados, Cuba.<lb/>
+Duplicate<lb/>
+<salute>Sir,</salute>
+</opener>
+<p>In compliance with paragraph 119, Manual for the Medical<lb/>
+Department, I have the honor to report the following list of patients that<lb/>
+have had and are new suffering from Yellow Fever at this Post.</p>
+<p>1- On Wednesday, July 4th. Pvt. Samuel Walker, Co. &ldquo;I&rdquo; 1st. U.S. Infty. was admit-<lb/>
+ted to receiving tent at Post Hospital, Guanajay Barracks with some tem-<lb/>
+perature; he complained of pains in head, back of neck, back and was vomit-<lb/>
+ing at time of admission. On July 6th albumen was found in<lb/>
+his urine in large quan<add>t</add>ities; that and other symptoms enabled the Surgeon<lb/>
+in charge to make a diagnosis of Yellow Fever; then upon the recommanda-<lb/>
+tion of the Post Commander he was moved to Civil Hospital in Guanajay <unclear><del>&sol;</del></unclear> C<lb/>
+City <unclear><del>,</del></unclear> where there had been a case of Yellow Fever under treatment some<lb/>
+time previous. The patient was moved with the object of preven-<lb/>
+ting infection of Hospital and Post and the spread of the disease.<lb/>
+Doctor Louis Gallinania, a thouroughly competent Cuban Physician, who is in<lb/>
+charge of said Hospital,treated the above named soldier until the time of<lb/>
+his death which was July 9th at 3.30 P.M.</p>
+<p>The company quarters in which his Company was stationed was cleared of<lb/>
+all bedding and company property, and the interior of building white wash-<lb/>
+ed. The bedding etc. was disinfected in a solution of Mercury<lb/>
+Bichloride.</p>
+<p>All efforts on the part of the Surgeon and Post authorities to trace the<lb/>
+origin of the disease proved fruitless. Soldier was inclined to<lb/>
+intemperance and probably concealed some of his movements during the few<lb/>
+days prior to his being taken sick.</p>
+<p>Although he denied emphattically that he had visited any of the houses<lb/>
+of prostitution where women from the infected district of Havana are at<lb/>
+times temporarily quartered, it was the opinion of the Surgeon and others<lb/>
+that he had done so and very probably contracted the disease during one<lb/>
+of his visits to some one of said houses.</p>
+<p>2-On July 20th Sergt. George Smith, Co. &ldquo;I&rdquo; 1st. U.S. Infty. was admitted to<lb/>
+receiving tent at Post Hospital, Guanajay Barracks, with a temperature of <unclear>I00</unclear><lb/>
+100f. He complained of severe head ache and pains in back, legs ect.</p>
+<p>Albumen was found in urine July 20 in large quan<add>t</add>ity. When admitted<lb/>
+patient was suffering from a severe case of Generrhea. He had<lb/>
+visited the City of Havana, Cuba a few days before he was taken sick and<lb/>
+probably contracted the Yellow Fever at that place. Patient<lb/>
+remained in Hospital until July 29th, at which time he was returned to<lb/>
+quarters and returned to duty August 5th. 1900.</p>
+<p>3-On July 20th, 1900, Pvt. William Davidson, Co. &ldquo;I&rdquo;? 1st. U.S. Infty. was admitt<lb/>
+ed to receiving tent at Post Hospital, Guanajay Barracks, with a tempera-<lb/>
+ture of 100f. He complained of severe pains back of head, eyes, back<lb/>
+and legs. No albumen was found in his urine. Patient had been in<lb/>
+the City of Havana, Cuba a few days before he was taken sick and probably<lb/>
+contracted the disease at that place. He remained in Hospital<lb/>
+until July 29 at which time he was returned to quarters and returned to<lb/>
+<pb n="2" id="f02104002"/>
+--2--<lb/>
+duty August 5, 1900.</p>
+<p>4- On July 21st, 1900 Pvt. Arthur Fastheff, Co &ldquo;M&rdquo; 1st. U.S. Infty., a patient in<lb/>
+hospital had a temperature of 103f. at 4 o'clock P.M. he was first admitted<lb/>
+to Post Hospital July 9th &sol; suffering from Generrhea and Chancreids. He<lb/>
+was circumcised July 16th and had been confined to his bed from this time<lb/>
+to date of first temperature. On July 21st Patient complained of<lb/>
+severe pains in head and general pains or soreness all over body.</p>
+<p>He was removed from ward after examination of blood had been made for<lb/>
+Malarial Plasmodium, and placed in a receiving tent. Albumen appeared<lb/>
+in his urine in large quan<add>t</add>ity July 25th, urine was examined daily and urine<lb/>
+appeared in more and less quan<add>t</add>ities at each examination.</p>
+<p>On July 30th. patient became delirious and remained in that condition <unclear><del>unt</del></unclear><lb/>
+until 5 o'clock August 5th. 1900, at whitch time death occurred</p>
+<p>5- On July 21st. Pvt Harry b Watson, Co. &ldquo;M&rdquo; 1st. U.S. Infty., a patient in<lb/>
+Hospital had a temperature of 102 f. at 4 o'clock P.M. He was taken from<lb/>
+the ward and placed in a receiving tent and urine examined.. No album<lb/>
+men was found but other symptoms warranted diagnosis of yellow fever<lb/>
+being made. Patient complained of severe pains in head and <unclear><del>ANGs</del></unclear>.<lb/>
+He was first admitted to Hospital July 16th. suffering from Diarrhoea and<lb/>
+probably contracted disease in the Hospital. He has now entire-<lb/>
+ly recovered and is waiting transportation to join his organization.</p>
+<p>6- On July 21st. Pvt. John D. Schweiger, Hospital Corps was admitted to<lb/>
+receiving tent with a temperature of 102.6f. He complained of<lb/>
+pains in head and soreness of legs and was vomiting when admitted to<lb/>
+Hospital. Albumen was found in his urine on July 26th. and in-<lb/>
+creased in quan<add>t</add>ity for three or four days, then began to decrease.<lb/>
+Pvt. Schwieger had been on duty as nurse at the Post Hospital up to the<lb/>
+time of being taken sick and probably contracted the disease while on<lb/>
+duty. His temperature became normal July 31st. and he is now rapid-<lb/>
+ly recovering and will be able for duty in a few days.</p>
+<p>7- On July 21st Pvt Nels Rasmussen, Hospital Corps was taken sick and place<lb/>
+in the receiving tent. His temperature on being admitted was 101f.<lb/>
+and he was vomiting, but had no pains except a severe head ache.</p>
+<p>No albumen was found in his urine. His highest temperature<lb/>
+was 102.8f July 22, and decreased steadily until normal was reached July<lb/>
+27. Patient was returned to duty August 9th. 1900.</p>
+<p>8- On July 28 Pvt Owen Mercer, Co. &ldquo;I&rdquo;, 1st U.S. Infty. was admitted to receiv-<lb/>
+ing tent at Post Hospital, Guanajay Barracks, with a temperature of 99.4f. He complained of severe head ache and Constipation. TTemperature in-<lb/>
+creased until August 8th. when 103.8f. was reached; after this temperature de<lb/>
+decreased. Albumen first appeared July 31st and increased for <unclear>s</unclear><lb/>
+for several days. Patient is this date normal and recover-<lb/>
+ing rapidly.</p>
+<pb n="3" id="f02104003"/>
+<p>9-- On July 28th Act. Hosp. Steward Claude M. Cook, Hosp Corps, was admitted<lb/>
+to receiving tent with a temperature of 103f. He complained of pains<lb/>
+in head, back of eyes and kidneys. Albumen first appeared in urine<lb/>
+July 31st and increased in quantity for three days then quantity began to<lb/>
+decrease. Steward Cook had been on duty at the Hospital contin-<lb/>
+uosly and had not been away from the Post and it is probable that he<lb/>
+contracted the disease while on duty connected with the Hospital.<lb/>
+He is now fully recovered and returned to duty this date.</p>
+<p>10-- On August 7th Pvt John E Courtney, Hosp. Corps, was admitted to<lb/>
+receiving tent with a temperature of 101f. He was suffering pains<lb/>
+in head, back and lower portion of legs. Albumen found in urine Augus<lb/>
+8th. Patient is now rapidly recovering and will be able for duty in<lb/>
+a few days.</p>
+<p>11-- On August 7th Sergt. Sylvester Haines, Co, &ldquo;I&rdquo; 1st. U.S. Infty. was admit-<lb/>
+ted to receiving tent at Hospital with a temperature of 102.8f. He was<lb/>
+suffering severe pains in head and back and was vomiting when admitted<lb/>
+No albumen was found in his urine. Patient is now doing well<lb/>
+and will be out of the Hospital in a few days.</p>
+<p>12-- On July 16, 1900 Pvt. Harry Vance, Co? &ldquo;M&rdquo; 1st U.S. Infty. was admitted to<lb/>
+Post Hospital, Guanajay Barracks, Cuba with a duoble fracture of lower Jaw<lb/>
+He was kept in General Ward with other patients untill July 24th, when<lb/>
+all patients were taken from the wards and placed in tents.<lb/>
+On August 7 at 7 o'clock he complained of severe head ache,, temperature<lb/>
+was taken and found to be 101 f. He was put in a seperate tent and urine<lb/>
+examined and albumen found. Later in the day he complained of severe<lb/>
+pains in back and lower portions of legs. His highest tempera-<lb/>
+ture was<lb/>
+On August 14th patient had a severe attack of Uremic Coma, due to suppres-<lb/>
+sion of Urine. His temperature at this date is normal and he wi<lb/>
+will be ready for duty in a short time.</p>
+<p>No <add>new</add> cases of yellow fever nor temperatures <add>since</add> August 7, 1900.</p>
+<closer>
+<salute>Respectfully submitted,</salute>
+<signed>J.F. Dunshie</signed>
+Ac&sol;Asst. Surgeon, U.S. Army,<lb/>
+Surgeon.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

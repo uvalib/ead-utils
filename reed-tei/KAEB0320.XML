@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAEB0320">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to Jefferson Randolph Kean, September 24, 1901</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAEB0320</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1901-09-24</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Carroll, James</name>
+<name type="person">Hoff, Major</name>
+<name type="person">Brown, [s.n.]</name>
+<name type="person">Smart, Col.</name>
+<name type="person">DeWitt, Calvin</name>
+<name type="person">O'Reilly, Robert M.</name>
+<name type="person">Pope, [s.n.]</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Reed, Landon</name>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Buffalo (N.Y.)</name>
+<name type="place">Fort Reno (Okla.)</name>
+<name type="place">Fort Logan H. Root (Ark.)</name>
+<name type="place">Little Rock (Ark.)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>8 pp.</extent>
+<date value="1901-09-24">September 24, 1901</date>
+<idno rend="suppress">KAEB0320</idno>
+<title>Letter from Walter Reed to Jefferson Randolph Kean, September 24, 1901</title>
+</bibl>
+</head>
+<p>Reed expresses great appreciation for Kean's recommendation that he apply himself to become Surgeon General, but says he will not join the ranks of those who &ldquo;beg&rdquo; for promotion. He informs Kean of Lawrence Reed's upcoming wedding, then recommends that Camp Lazear be discontinued. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1901-09-24">
+<head>Letter from Walter Reed to Jefferson Randolph Kean, September 24, 1901</head>
+<pb n="1" id="fKAEB0320"/>
+<opener>
+<hi>Private</hi><lb/>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<dateline>
+<date value="1901-09-24">Sept. 24,<lb/>
+1901</date>
+</dateline><lb/>
+<salute>My dear Major Kean:</salute>
+</opener>
+<p>That<lb/>
+I have woefully neglected<lb/>
+you goes without saying, and<lb/>
+it is needless for me to add<lb/>
+that I am heartily ashamed<lb/>
+of myself. But really, my<lb/>
+dear Commandante, when yours<lb/>
+of Sept. 1<hi rend="superscript">st</hi> came, I was so<lb/>
+&ldquo;balled up&rdquo; with the work<lb/>
+of the board and in trying, at<lb/>
+the same time, to make ready<lb/>
+a paper on &ldquo;The prevention<lb/>
+of yellow fever&rdquo; which Car-<lb/>
+rol &amp; I wanted to present<lb/>
+<pb n="2" id="fKAEB0330"/>
+at Buffalo on Sept<hi rend="superscript">r</hi> 16<hi rend="superscript">th</hi>, that,<lb/>
+be it to my very great dis-<lb/>
+credit recorded, I put aside<lb/>
+your letter, after enjoying its<lb/>
+contents very much, and thus<lb/>
+neglected the pleasures and<lb/>
+fruits of friendship for the<lb/>
+every day, dry and dust<add>y</add><del>ing</del><lb/>
+things of this wretched, hust-<lb/>
+ling world. For all of this<lb/>
+I now ask your knightly<lb/>
+pardon. And now as if to<lb/>
+emphasize my neglect and for-<lb/>
+getfulness, here comes your<lb/>
+other letter of Sept. 16<hi rend="superscript">th</hi>, which<lb/>
+touches me very, very deeply,<lb/>
+Commandante mio Carrissimo.<lb/>
+How shall I reply to it?<lb/>
+I have even slept on it<lb/>
+<pb n="3" id="fKAEB0340"/>
+over night and yet I don't<lb/>
+know what to say. To know that<lb/>
+I have your friendship and<lb/>
+good wishes in such a matter<lb/>
+is a real and unfeigned delight.<lb/>
+I cannot thank you and other<lb/>
+friends sufficiently for the kind<lb/>
+words that have been written<lb/>
+and spoken. These repay me<lb/>
+a thousand times for anything<lb/>
+that I may have done to help<lb/>
+along the fight against the<lb/>
+common enemy - &ldquo;pallida mors&rdquo;.<lb/>
+But, my commandante mio,<lb/>
+when you and others ask me<lb/>
+to enter into a bitter struggle<lb/>
+for the Surgeon Generalcy, you<lb/>
+ask me to do what my better<lb/>
+sense tells me to avoid.<lb/>
+Please understand that I<lb/>
+have no false modesty about<lb/>
+this matter, or lack of<lb/>
+<pb n="4" id="fKAEB0350"/>
+ambition to reach the highest<lb/>
+position in the Medical Dept.<lb/>
+Like my good friend, Major<lb/>
+Hoff, I believe that every one<lb/>
+of us should take such inter-<lb/>
+est in the welfare and good<lb/>
+name of his Department as to<lb/>
+wish to became its head sooner<lb/>
+or later; &amp; so if I said that I<lb/>
+had no such ambition, I<lb/>
+would not be speaking<lb/>
+candidly. Then, again, I be-<lb/>
+lieve that the work accom-<lb/>
+plished in Cuba, which means<lb/>
+more <del>to </del><add>for</add> the health and commer-<lb/>
+cial interests of our country<lb/>
+than we can now estimate, <add>deserves some reward</add>.<lb/>
+I believe that I speak nothing<lb/>
+but the truth, when I say that<lb/>
+if the man who captured Agui-<lb/>
+naldo deserved a Brigadier -<lb/>
+Generalcy in the line, the<lb/>
+<pb n="5" id="fKAEB0360"/>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+2) man who captured &ldquo;yellow<lb/>
+Jack&rdquo; deserves a similar<lb/>
+promotion, at least, in the<lb/>
+staff! But I only say this<lb/>
+to you as one of my best<lb/>
+friends. It does not mean<lb/>
+that I should enter the strug-<lb/>
+gle with Brown, Smart,<lb/>
+Dewitt, O'Reilly, Pope, Hoff,<lb/>
+etal. Indeed to do so, would<lb/>
+be utterly repulsive to my<lb/>
+better feelings, for I am<lb/>
+so old fashioned as to be-<lb/>
+lieve that the office should<lb/>
+seek the man and not the<lb/>
+man be compelled to beg<lb/>
+for the office. So, my dear<lb/>
+Commandante, if General Wood<lb/>
+who is so well able to judge,<lb/>
+<pb n="6" id="fKAEB0370"/>
+has spoken in a most com-<lb/>
+plimentary way of the value <add>of</add><lb/>
+the work done in Cuba, I<lb/>
+feel profoundly grateful<lb/>
+to him; but for this very<lb/>
+reason, I could never go<lb/>
+to him and ask him to rec-<lb/>
+ommend me for promotion.<lb/>
+If it came from him unsolic-<lb/>
+ited, then I, like any other man,<lb/>
+would feel very much flat-<lb/>
+tered, but I would rather<lb/>
+die a thousand deaths than<lb/>
+to be put in the attitude<lb/>
+of a beggar! Please don't<lb/>
+misunderstand me. You must<lb/>
+know that I regard Gen. Wood<lb/>
+as representing the very highest<lb/>
+type of the American citizen<lb/>
+and that I have valued &amp; still<lb/>
+<pb n="7" id="fKAEB0380"/>
+value his friendship very<lb/>
+highly, and am proud to reckon<lb/>
+<del>myself</del><add>him</add> amongst my friends. On more<lb/>
+than one occasion I have had<lb/>
+reason to believe that he regards<lb/>
+me highly as a friend and a<lb/>
+medical officer of the Army.<lb/>
+Two years ago, I begged him<lb/>
+to become a candidate for<lb/>
+the Surgeon Generalcy, as I<lb/>
+considered him as the one man<lb/>
+who could do most for our Corps;<lb/>
+but it doesn't follow that he<lb/>
+has an equally good opinion<lb/>
+of me. If he has, then I am<lb/>
+sure that, at the proper time,<lb/>
+he will <del>do</del><add>so</add> express him-<lb/>
+self, without any suggestion<lb/>
+of mine. If he does not, then<lb/>
+it would show that he prefers<lb/>
+some one else. I agree with<lb/>
+<pb n="8" id="fKAEB0390"/>
+that his influence will be very<lb/>
+great with the administration.<lb/>
+Indeed, I do not doubt that he<lb/>
+will select the next Surgeon<lb/>
+General, and for my part, just<lb/>
+so he doesn't select D<hi rend="sup">r</hi>. Pope, I<lb/>
+am certain that I shall not<lb/>
+be disturbed in the least.</p>
+<p>Please give much love to your<lb/>
+dear wife. I cannot believe<lb/>
+that she is a day over eighteen!<lb/>
+What a happy man you should<lb/>
+be to possess such an angelic.<lb/>
+creature. Kiss the dear babies.<lb/>
+You will soon receive Lawrence's Wed-<lb/>
+ding Cards, as he will be married<lb/>
+at Fort Reno, Okla, on Oct. 28. Mar-<lb/>
+ries a Georgetown girl. Miss Black-<lb/>
+ford. He is now on temporary duty at<lb/>
+Fort Logan H. Root, Little Rock, Ark.<lb/>
+I saw dear old Gorgas at Buffalo, and<lb/>
+went on a toot with him. I see no<lb/>
+reason for holding on longer to Camp<lb/>
+Lazear. Send Carroll home.</p>
+<closer>
+<salute>Always,<lb/>
+very dear Commandante, affectionately,</salute>
+<signed>Reed.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

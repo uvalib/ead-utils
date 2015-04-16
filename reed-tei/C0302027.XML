@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2; 
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum; 
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub; 
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302027"> 
+<teiHeader type="aacr2"> 
+<fileDesc> 
+<titleStmt> 
+<title type="245">English translation [from Spanish] of letter from Miguel Galindo to the Secretary General in Charge of the Department of Public Health, Mexico, September 6, 1923 [Enclosed in C0302020]</title> 
+<title type="gmd">[electronic resource]</title> 
+<author>Galindo, Miguel</author> 
+<respStmt> 
+<resp>Transcriptions and TEI markup</resp> 
+<name>Innodata Inc</name> 
+<resp>Images, project design, and management:</resp> 
+<name>Historical Collections &amp; Services<lb/> 
+Claude Moore Health Sciences Library<lb/> 
+University of Virginia Health System<lb/> 
+P.O. Box 800722<lb/> 
+Charlottesville, VA 22908-0722 
+</name> 
+<resp>TEI consultation:</resp> 
+<name>Electronic Text Center<lb/> 
+University of Virginia Library<lb/> 
+</name> 
+</respStmt> 
+</titleStmt> 
+<extent>ca. 15 kilobytes</extent> 
+<publicationStmt> 
+<publisher>Claude Moore Health Sciences Library of the 
+University of Virginia Health System</publisher> 
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace> 
+<idno>C0302027</idno> 
+<availability> 
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p> 
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p> 
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date> 
+</publicationStmt> 
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc> 
+<profileDesc>
+<creation><date>1923-09-06</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Secretary General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc> 
+<change><date></date> 
+<respStmt><resp></resp> <name></name></respStmt> 
+<item></item></change> 
+</revisionDesc> 
+</teiHeader> 
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Corona, Luis Villalobos</name>
+<name type="person">Herrera, Jose M.</name>
+<name type="person">Hurtado, Ciro</name>
+<name type="person">Richardson, H. B.</name>
+<name type="place">Manzanillo (Mexico)</name>
+<name type="place">Colima (Mexico)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1923-09-06">September 6, 1923</date>
+<idno rend="suppress">C0302027</idno>
+<title>English translation [from Spanish] of letter from Miguel Galindo to the Secretary General in Charge of the Department of Public Health, Mexico, September 6, 1923 [Enclosed in C0302020]</title>
+</bibl>
+</head>
+<p>Galindo writes about his examination of the body of the man suspected of dying from yellow fever in Colima, Mexico. He states that he does not believe that yellow fever was the cause of death and asks that the results of an examination of a liver specimen be communicated to him as Sanitary Delegate for the region.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-09-06">
+<head>English translation [from Spanish] of letter from Miguel Galindo to the Secretary General in Charge of the Department of Public Health, Mexico, September 6, 1923 [Enclosed in <xref id="C0302020">C0302020</xref>]</head>
+<pb n="1" id="fC0302027"/>
+<opener>
+Translated from the Spanish<lb/>
+<dateline>
+<date value="1923-09-06">9-6-23</date>
+</dateline><lb/>
+HRM<lb/>
+TO THE SECRETARY GENERAL IN CHARGE OF THE DEPARTMENT OF<lb/>
+PUBLIC HEALTH, MEXICO, D.F.<lb/>
+</opener>
+<p>I have the honor to inform you on the suspected case of yellow<lb/>
+fever which I reported in my telegram on the 21st of this month:</p>
+<p>Proceeding from Manzanillo where he had left on the 13th,<lb/>
+Luis B. Corona arrived in this city suffering from no disease; but later<lb/>
+he felt pains in the abdomen and legs, and soon thereafter fever develop-<lb/>
+ed. The fever rose on each third day. On the sixth day he was given a<lb/>
+saline purgative which caused abundant yellowish fetid and mucous evacua-<lb/>
+tions, containing small traces of blood. This alarmed his family and it<lb/>
+was decided to call for a doctor - Dr. Jo&sacute;e Ma. Herrera.</p>
+<p>Dr. Herrera confirmed the above mentioned characteristics of the<lb/>
+evacuations; pulse 130, temperature 38 C., abdomen soft to palpation and<lb/>
+tympanic to percussion; hypertrophy of the liver and spleen, perfect men-<lb/>
+tality; damp tongue having a dirty and uniform color; gums showed no<lb/>
+changes. The patient did not complain of any disturbances other than those<lb/>
+caused by the frequent evacuations. Arsenas quinine was prescribed.</p>
+<p>After the administration of this drug, the evacuations became<lb/>
+markedly hemorrhagic. On the 20th, Dr. Ciro Hurtado was summoned to see<lb/>
+the patient. Dr. Hurtado found the patient with very weak pulse and in<lb/>
+a very unrestful state, moving from side to side, with high temperature,<lb/>
+and almost in a state of agony. He died three hours after Dr. Hurtado<lb/>
+had seen him. The latter was informed that after Corona's death, the<lb/>
+cadaver bled from the nose, and the body was markedly yellowish in color.<lb/>
+The death certificate was issued as suspected yellow fever.</p>
+<p>The undersigned was informed of this matter by Mr. Richardson.<lb/>
+We immediately went to the patient's home; we took note of pertinent data.<lb/>
+We were told that the cadaver had been taken to the cemetery. We went<lb/>
+<pb n="2" id="fC0302028"/>
+- 2 -<lb/>
+there arriving just as he was being buried.</p>
+<p>I do not think that the appearance of the cadaver was that of<lb/>
+yellow fever; Mr. Richardson agreed with me on this point. The hands<lb/>
+had the usual yellowish color seen in cadavers; the face was swollen;<lb/>
+there was ecchymosis of the eyelids, and abundant nasal hemorrhages. The<lb/>
+autopsy showed profuse intestinal hemorrhages, fetid gases, pale liver,<lb/>
+the cross section of which was hard and icteric. A fragment was collected<lb/>
+which Mr. Richardson sent to your Department for study.</p>
+<p>The undersigned will appreciate it very much and begs that the<lb/>
+result of the examination of the specimen be communicated to him for his<lb/>
+own knowledge and perfection in the fulfillment of his duty as a Sanitary<lb/>
+Delegate.</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>Miguel Galindo (Stamp)</signed>
+Sanitary Delegate.<lb/>
+Colima, August 23, 1923.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

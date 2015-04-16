@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03144001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Henry Binley to Emilie Lawrence Reed, February 17, 1928</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Binley, Henry</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03144001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1928-02-17</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Reed, Emilie Lawrence</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+
+<name type="person">Peabody, James E.</name>
+<name type="person">Reed, Walter</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1928-02-17">February 17, 1928</date>
+<idno rend="suppress">03144001</idno>
+<title>Letter from Henry Binley to Emilie Lawrence Reed, February 17, 1928</title>
+</bibl>
+</head>
+<p>Binley writes to Emilie Lawrence Reed regarding a lecture by Peabody on yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1928-02-17">
+<head>Letter from Henry Binley to Emilie Lawrence Reed, February 17, 1928</head>
+<pb n="1" id="f03144001"/>
+<opener>
+<dateline>
+9 Westchester Ave.<lb/>
+White Plains, N. Y.<lb/>
+<date value="1928-02-17">Feb. 17.1928.</date>
+</dateline>
+Mrs. Walter Reed<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Madam:</salute>
+</opener>
+<p>Just a few lines to let you know that<lb/>
+I have recently had the pleasure of listening to a<lb/>
+very interesting illustrated talk of our fellow citizen<lb/>
+Prof. Jas. E. Peabody on the subject of Yellow Fever.</p>
+<p>I was indeed chagrined to learn that so<lb/>
+little had been <add>done</add> by our Government, for <hi>the heroes</hi><lb/>
+who so valiantly offered their lives in the prosecution<lb/>
+of so great and so wonderfully successful an undertaking</p>
+<p>Personally I can do but little in making up<lb/>
+for our government inadequacy; but I do wish in<lb/>
+this letter to assure you of my personal appreciation<lb/>
+of such heroism as was shown by your husband.</p>
+<p>I am glad movements are being made<lb/>
+calling upon our government to adequately show<lb/>
+its appreciation of such heroic services.</p>
+<closer>
+<salute>Sincerely yours</salute>
+<signed>Henry Binley</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

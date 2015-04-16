@@ -1,0 +1,880 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00918008">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report: Yellow Fever, by Henry Rose Carter, [19--]</title>
+<title type="gmd">[electronic resource]</title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00918008</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+
+<p>
+<term type="Armed_Forces"></term>
+<term type="Biography"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Brazil</name>
+<name type="place">West Africa</name>
+<name type="place">Mexico</name>
+<name type="place">Venezuela</name>
+<name type="place">Panama</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>25 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">00918008</idno>
+<title>Report: Yellow Fever, by Henry Rose Carter, [19--]</title>
+</bibl>
+</head>
+<p>Detailed report on the history of yellow fever by H.R. Carter which includes areas such as geographical distribution, etiology, conveyance, pathology, clinical history, diagnosis, prognosis, treatment, and prophylaxis.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Report: Yellow Fever, by Henry Rose Carter, [19--]</head>
+<pb n="1" id="f00918008"/>
+<opener>
+For<lb/>
+Nelson Loose-Leaf<lb/>
+Medicine<lb/>
+Yellow Fever.<lb/>
+H. R. Carter,<lb/>
+Assistant Surgeon General, U. S. Public Health Service.<lb/>
+</opener>
+<p><hi>Definition:</hi> A fever of one paroxysm, characterized by prostra-<lb/>
+tion: jaundice: albuminuria and passive hemorrhages: normally a tropi-<lb/>
+cal disease and, under some conditions, communicable from man to man.</p>
+<p><hi>Geographical Distribution</hi>: At present yellow fever is confined<lb/>
+to a few localities in the Americas and to West Africa. Guayaquil and<lb/>
+places within its area of infection: part of Central America: Yucatan<lb/>
+and its area of infection: a few places in Brazil, and possibly in<lb/>
+Venezuela, are all the foci left in America: In Africa, <add>yellow fever has been reported within recent years.</add> in part of<lb/>
+the coast and hinterland of the Gulf of Guinea and the coast to the<lb/>
+South of it.</p>
+<p><hi>Etiology</hi>: A communicable disease is of necessity an infection<lb/>
+and for its etiology we must study (1) the causative microorganism and<lb/>
+(2) the mechanism of its conveyance from man to man.</p>
+<p>(1) The latest claimant for the role of the causative organism<lb/>
+is the Leptospira icteroides of Noguchi. The writer is inclined to<lb/>
+believe the claim just, but at the present writing (July 30/19) he<lb/>
+cannot say that it is proven. Whatever it be, the causative organism<lb/>
+exists in the blood serum of a man in the early part of an attack of<lb/>
+yellow fever and in the saliva of a mosquito infective with that<lb/>
+disease. It is a filterable virus.</p>
+<p>(2) Its mechanism of conveyance is known. It may be thus for-<lb/>
+mulated: <hi>Yellow fever is contracted by man from the bite of a mos-<lb/>
+quito infected by having fed on a man sick of that disease and it has<lb/>
+not been proven to be contracted naturally in any other way.</hi></p>
+<pb n="2" id="f00918009"/>
+<p>-2-</p>
+<p>The affirmative part of this &ldquo;Creed&rdquo; is <hi>proven</hi>--first by Reed's<lb/>
+Commission and confirmed by many others. The negative part as ex-<lb/>
+pressed is true. For the implication contained in it--i. e. that in<lb/>
+nature yellow fever is contracted in no other way, we cannot deny<lb/>
+that some other atrium besides a puncture of the skin is <hi>possible</hi> un-<lb/>
+til all others are tried; nor that for this <del>some</del> atrium some suctorial<lb/>
+insect other than a mosquito may act as a vecor until all others are<lb/>
+experimented with; yet such as are commonly associated with man in re-<lb/>
+gions in which yellow fever does not spread when introduced: fleas:<lb/>
+bed-bugs etc. may be excluded. So for a host, infective to the mosquito;<lb/>
+none, other than man, has been demonstrated.</p>
+<p>There are three factors in the <del>C</del><add>c</add>onveyance: (1) the man infective<lb/>
+to the mosquito: (2) the mosquito vector and (3) the man receiving the<lb/>
+infection.</p>
+<p>(1) <hi>The man infective to the mosquito</hi>. It is generally stated<lb/>
+that a man with yellow fever is infective to a mosquito only during<lb/>
+the first three days of his illness. This is not proven. What is<lb/>
+true is this: While a number of mosquitoes--in the hands of various<lb/>
+experimentors--have been proven to be infected by feeding on men dur-<lb/>
+ing these first three days, none have been so proven from feeding<lb/>
+after that period. The negative experiments, however, are not numer-<lb/>
+our enough to be determinative. Of greater weight is an experiment<lb/>
+of the Pasteur Commission in which blood from 4 men sick of yellow<lb/>
+fever (3 of them 4 days and one 8) failed to induce yellow fever in<lb/>
+4 men, all believed to be susceptible to the disease and one of whom<lb/>
+was so proven. The injection of blood from a man in the first days<lb/>
+of yellow fever had been a very certain method of inducing that disease.</p>
+<pb n="3" id="f00918010"/>
+<p>-3-</p>
+<p>Attempts to infect with the blood of men in the stage of incu-<lb/>
+bation have been negative. They are too few to be determinative--<lb/>
+two only.</p>
+<p>Do human &ldquo;carriers&rdquo; without symptoms, but infective to mosqui-<lb/>
+toes exist? This is most important from a sanitary standpoint. Some<lb/>
+recent writers so believe and <add>hold</add> that such carriers are common and are<lb/>
+an important factor in the spread of the disease. I know of no evi-<lb/>
+dence, except analogy, for this belief and there is considerable a-<lb/>
+gainst it. (Foot note)</p>
+<p>_________________________________________________<lb/>
+(Foot note) Immunity to Yellow Fever. Carter. Annals Tropical Medi-<lb/>
+cine and Parisitology. Vol. X: No. 1: April 1916. (End of foot note).<lb/>
+__________________________________________________</p>
+<p>(2) <hi>The Mosquito Vector</hi>. The only mosquito proven to have<lb/>
+conveyed yellow fever is the Stegomyia calopus--in American nomencla-<lb/>
+ture Aedes calopus. The others that have been investigated have given<lb/>
+negative findings. From analogy we would suspect some other species of<lb/>
+the same genus would prove vectors and that no other genus would. We<lb/>
+can exonerate these found associated with man in regions in which yel-<lb/>
+low fever will not spread when introduced.</p>
+<p>The conveyance is a true metaxony--the insect not becoming in-<lb/>
+fective until some time after the meal of infecting blood. The short-<lb/>
+est time recorded for this interval--the &ldquo;extrinsic incubation of yel-<lb/>
+low fever&rdquo; is 12 days in the case of Carroll, of the Reed Commission.<lb/>
+It is generally longer--two weeks and over--and varies inversely with<lb/>
+the temperature as is the case with the same phenomenon in malaria.</p>
+<p>Once infective, the mosquito remains so apparently during her<lb/>
+active life--in one case infected a man 59 days after the infecting<lb/>
+meal. The evidence is strongly against the parasite surviving the<lb/>
+hibernation of the image--when the latter hibernates--in the U. S.,<lb/>
+<pb n="4" id="f00918011"/>
+-4-<lb/>
+and also against the transmission of the parasite from an infected fe-<lb/>
+male to its progeny. <add>If either occurs it in with extreme rarity.</add></p>
+<p>It is the &ldquo;day mosquito&rdquo; of the South of the U. S. and is a<lb/>
+small; very active and most annoying insect. It is easily recognized;<lb/>
+at rest by its markings, in flight by its characteristic attitude.<lb/>
+The larvae has a <add>short,</add> barrel-shaped syphon and sinks to the bottom--when<lb/>
+feeding--slowly and with a wriggling motion. On account of its size,<lb/>
+the screen to exclude it completely should be 18 meshes to the inch, w<lb/>
+while 16 meshes is sufficient against Anopheles. It feeds by prefer-<lb/>
+ence in the afternoon and early morning hours, avoiding the middle of<lb/>
+the day, but this seems rather a question of light than time of day,<lb/>
+as in a darkened place they will bite at mid-day. Seidelin has shown<lb/>
+that it also feeds at night.</p>
+<p>It breeds by preference in clear--not necessarily clean--water<lb/>
+in artificial containers--a &ldquo;pot breeder&rdquo;--and when these are lacking<lb/>
+will take knot holes in trees: holes in rocks etc. In Panama we did<lb/>
+not regard production from the axils of leaves--where they bred, how-<lb/>
+ever--as of sanitary importance. It is essentially a house mosquito,<lb/>
+breeding only about houses and spending the life mainly in them. Its<lb/>
+distance of flight is small, not usually over 75 or 100 yds. Its cy-<lb/>
+cle of development from the egg to the imago exceeds a week--10 to<lb/>
+12 days and over. It hibernates--where it does hibernate--mainly in<lb/>
+the eggs, laid above water, as is common with other A&euml;des.</p>
+<p>Its geographical distribution is very wide. It has been carried<lb/>
+by vessels--breeding in their water supply mainly--to all the ports<lb/>
+of the world. Where conditions were suitable for its propagation it<lb/>
+has propagated--temporarily or in permanence as the climate allowed.<lb/>
+Hence its wide distribution. Its origen is unknown.</p>
+<pb n="5" id="f00918012"/>
+<p>-5-</p>
+<p>(3) <hi>The Man Receiving the Infection</hi>. Naturally, he must be<lb/>
+susceptible to yellow fever. On natural insusceptibility I have no<lb/>
+data. It must be rare. As is the case in other infections, immunity<lb/>
+is produced by an attack of yellow fever. That this immunity is only<lb/>
+temporary--almost ephemeral--and that repeated recurrent attacks are<lb/>
+common is held by a number of observers. The writer and American<lb/>
+(U. S.) observers generally, hold that this immunity is generally per-<lb/>
+manent--as much so as that from measles or smallpox. (Foot note)</p>
+<p>__________________________________________________<lb/>
+(Foot note) Immunity to Yellow Fever H. R. Carter. Annals Tropical<lb/>
+Medicine &amp; Parisitology. Vol. X: No. 1: April 11/16. (End of foot note).<lb/>
+__________________________________________________</p>
+<p>The period of incubation in man is from 3 to 6 days. Of 44 cases<lb/>
+contracted naturally--either experimentally or from a definite single<lb/>
+exposure--the <add>shortest incubation</add> <del>minimum one</del> was two hours less than three days and the<lb/>
+longest <del>(one)</del> 2 hours more than 3 days. The reports of long periods<lb/>
+of incubation--13 to 17 days--are open to criticism.</p>
+<p>Pathology.</p>
+<p>The appearances at autopsy are not always determinative: Never-<lb/>
+theless the autopsy is generally both characteristic and distinctive.</p>
+<p><hi>Gross Appearances.</hi></p>
+<p><hi>The body</hi> is yellow with ecchymoses in loose connective tissue--<lb/>
+like a jaundiced man with scurvy. There is marked lividity in the<lb/>
+dependent parts. Stains of black vomit about the mouth are common.</p>
+<p><hi>The incision</hi> is dry--practically no blood. If made immediately<lb/>
+after death this is not true. The blood apparently remains fluid long-<lb/>
+er than usual after death and therefore collects in the dependent por-<lb/>
+tions of the body and of organs more than is usual, thus leaving the<lb/>
+higher portions bloodless.</p>
+<pb n="6" id="f00918013"/>
+<p>-6-</p>
+<p><hi>Liver</hi>. <add>The</add> Surface that presents is yellow (&ldquo;box-wood&rdquo;) or mottled<lb/>
+yellow and brown (&ldquo;cafe-au-lait&rdquo;). Sharp-edged: firm and of normal<lb/>
+size. Incision of this surface is nearly bloodless, and with oil<lb/>
+globules floating up in it. The earlier death occurs the less mark-<lb/>
+ed the fatty degeneration and the more marked the areas of hyperaemia--<lb/>
+brown areas. The dependent portion of the liver may be engorged with<lb/>
+blood.</p>
+<p><hi>The stomach</hi> practically always contains black vomit. The mucous<lb/>
+membrane is blood-stained with small erosions and punctate hemorrhages.<lb/>
+In the duodenum these are even more common than in the stomach.</p>
+<p><hi>The kidneys</hi> are hyperaemic and yellowish with ecchymoses under<lb/>
+the capsules and occasionally in the cortex.</p>
+<p>There are changes in other organs: intestines: lungs (stressed<lb/>
+by Noguchi): bladder: heart and central nervous system. These are<lb/>
+mainly hemorrhagic infiltrations--generally small, but of considera-<lb/>
+ble size in the lungs--and yellow discoloration.</p>
+<p><hi>Microscopic Appearances.</hi></p>
+<p><hi>The liver</hi> shows areas of intense congestion and necrobiosis al-<lb/>
+nating with fatty degeneration. The latter is characteristic of yel-<lb/>
+low fever even if not distinctive. The earlier the death the less<lb/>
+marked this change. In fulminant cases it has found to be ab-<lb/>
+sent.</p>
+<p><hi>Kidney</hi>. There is general congestion, but the characteristic le-<lb/>
+sion is in the epithelium of the tubules. This--necrosis: fatty de-<lb/>
+generation and exfoliation--is especially marked in the convoluted<lb/>
+tubules.</p>
+<p>The macroscopic diagnosis of yellow fever at autopsy rests on<lb/>
+the appearance of the body: the bloodlessness of the incision: the<lb/>
+<pb n="7" id="f00918014"/>
+-7-<lb/>
+color: consistency: bloodlessness and fatty degeneration of the liver:<lb/>
+the presence of black vomit in the stomach: the evidences of hemor-<lb/>
+rhages from the mucous membrane of that organ and duodenum: the jaun-<lb/>
+dice and parenchymatous degeneration of the kidneys and hemorrhages in-<lb/>
+to the other organs examined. All tissues are yellow.</p>
+<p>Microscopically, on the necrosis and fatty degeneration of the<lb/>
+cells of the liver and the epithelium of the kidney. A case presenting<lb/>
+these appearances may be called typical.</p>
+<p>Clinical History.</p>
+<p>Yellow fever shows two well marked stages (1) a stage of active<lb/>
+congestion and (2) a stage of stasis.</p>
+<p>(1) <hi>Stage of active congestion.</hi> The attack is usually sudden,<lb/>
+although not invariably so. It begins like other acute fevers: some-<lb/>
+times with a chill; more usually a distinct chill is absent. About<lb/>
+one half the cases begin at night--58 out of 110. This is at times<lb/>
+of diagnostic value against malaria, which rarely does so. There is<lb/>
+marked malaise: pains in the head and in the muscles of the back and<lb/>
+and of the limbs. Both malaise and pain are greater than one would<lb/>
+expect from the temperature--&ldquo;when a patient with 102&deg; is as ill as he<lb/>
+should be with 104&deg;, suspect yellow fever.&rdquo; Headache is well nigh<lb/>
+universal. Insomnia is universal. The headache is not always severe.<lb/>
+nor are the other pains. Again they, especially those in the back,<lb/>
+may be excruciating--the &ldquo;coup-de-barre&rdquo; of the French writers. As<lb/>
+a rule the severity of the onset is of prognostic significance, but<lb/>
+not invariably so. Nausea and vomiting mark the onset more commonly<lb/>
+than with other fevers. Blood may be found in this vomit. It is<lb/>
+blood from the pharynx or posterior nares swallowed and of no prognos-<lb/>
+tic significance. Constipation, easily overcome, is the rule.</p>
+<pb n="8" id="f00918015"/>
+<p>-8-</p>
+<p><hi>The facies</hi> at this stage is characteristic,<add>- I don't say distinctive - but absolutely characteristic</add>. The man is in pain<lb/>
+and <hi>very</hi> restless. There is intense active congestion of the skin<lb/>
+and mucous membranes, hence the &ldquo;flushed face,&rdquo; the &ldquo;moist, injected<lb/>
+eyes,&rdquo; the &ldquo;swollen lips,&rdquo; the &ldquo;bright red gums&rdquo; etc. of the older<lb/>
+writers. The tongue is bright red, pointed and with white fur down the<lb/>
+middle through which red papillae show, or it may be bare. Bleeding<lb/>
+from the nose or naso-pharynx may occur and if swallowed gives the<lb/>
+&ldquo;early black vomit&rdquo; mentioned. Guiteras lays stress on a yellow tinge<lb/>
+of the conjunctiva even on the first day and counts it of diagnostic<lb/>
+importance. I have recognized this in children, but yellow conjunc-<lb/>
+tivae are so common in men in the tropics that <add>for them</add> I cannot rely on <add>the presence of</add> this<lb/>
+sign <add>as diagnostic</add>. Except in severe cases, jaundice is rarely made out definitely<lb/>
+until the 3rd, day.</p>
+<p>{Just like Dengue-<lb/>
+{very like <unclear>Measles some cases</unclear> of Inf. in children</p>
+<p><unclear>Faget -y not from bile</unclear></p>
+<p>(2) <hi>Stage of stasis</hi>. On the 3rd. or 4th. day the picture<lb/>
+changes. Active congestion ceases and is replaced by a venous stasis.<lb/>
+The face is still red, but a dusky pallor replaces the bright red of<lb/>
+the first stage with, it may be, a yellowish background showing through.<lb/>
+It is no longer swollen--relaxed rather. The eye is still red, but<lb/>
+dry and sticky with tortuous veins showing. Jaundice now shows--first<lb/>
+seen in the conjunctiva. Pressure with the finger tips will show it<lb/>
+as a yellow background on the face or chest. It increases and may be-<lb/>
+come intense. The gums are not bright red now, but wine color: swol-<lb/>
+len and spongy with a very bright line around the teeth, from which<lb/>
+drops of blood may exude on slight pressure or spontaneously. The<lb/>
+tongue is still red and pointed, but darkened and with heavier fur.<lb/>
+The &ldquo;t&acirc;che&rdquo; of the older writers is quite characteristic. Draw the nail<lb/>
+or finger tip lightly along the skin of the side of the chest. The<lb/>
+white mark left will be obliterated very slowly and the red line<lb/>
+<pb n="9" id="f00918016"/>
+-9-<lb/>
+which replaces it will remain for some time. The mark too is apt to<lb/>
+show yellowish rather than white and to be interrupted rather than<lb/>
+continuous<del><unclear></unclear></del>.</p>
+<p>Nausea and vomiting may now supervene. The latter is now a<lb/>
+symptom of gravity. The epigastrium is tender--at times acutely so.<lb/>
+It may require the bed clothes to be held off by a frame. The liver<lb/>
+is also sometimes tender, but less acutely so.</p>
+<p>Albuminuria usually shows on the 3rd. day. If earlier it is of<lb/>
+bad prognosis. If not showing by the 5th. day rarely will it be<lb/>
+found.</p>
+<p><hi>Light and moderate cases</hi>. The pains of the first stage disap-<lb/>
+pear on the advent of the stage of stasis. The distress and rest-<lb/>
+lessness are gone. The patient can sleep now and rest without sleep-<lb/>
+ing, and truly he needs rest. He is very tired: utterly relaxed: lies<lb/>
+flat on his back: slides down from his pillow and is perfectly still.<lb/>
+His mind is clear. He answers intelligently, but slowly and in as<lb/>
+few words as possible: does not speak voluntarily on account of the<lb/>
+exertion required. Some go at once into convalescence passing quick-<lb/>
+ly through this stage. Others, severer, have several days of this<lb/>
+extreme prostration with the tender stomach and nausea and, maybe,<lb/>
+vomiting, and then get well rapidly.</p>
+<p><hi>Severe cases.</hi> For these this is assuredly not a &ldquo;stage of<lb/>
+calm.&rdquo; The pains in the head continue, the others may lessen or<lb/>
+cease. Restlessness continues, made more distressing by the feeling<lb/>
+of extreme fatigue. Epigastric pain and tenderness are frequently<lb/>
+extreme: nausea comes on followed by vomiting and the contraction of<lb/>
+the stomach in this effort and in a <unclear>belching</unclear>-hiccough--frequently<lb/>
+present--is excruciatingly painful, provoking <unclear>outery</unclear> from the suf-<lb/>
+<pb n="10" id="f00918017"/>
+-10-<lb/>
+ferer. The vomit is highly acid, otherwise that normal to a stomach<lb/>
+free from food. If it continues, black vomit supervenes: first as<lb/>
+specks of altered blood--&ldquo;fly-wings&rdquo;--and then the full &ldquo;coffee-<lb/>
+grounds&rdquo; vomit or even florid blood.</p>
+<p>Other hemorrhages show. The gums bleed on slight pressure or<lb/>
+spontaneously and ecchymoses appear in loose tissue and at the seat<lb/>
+of bruises, even slight ones, or where a counter-irritant has been<lb/>
+applied. Jaundice shows in the beginning of this stage<del>,</del> or even be-<lb/>
+fore it begins, first in the conjunctiva, and may become intense.</p>
+<p>The urine is highly albuminous. It becomes scanty and at times<lb/>
+well nigh suppressed. Absolute anuria is rare, but a diminution suf-<lb/>
+ficient to be a grave factor in causing death is the rule in fatal<lb/>
+cases. Greatly diminished urine is of the gravest import--much more<lb/>
+so than the amount of albuminuria, which, indeed, is of no great sig-<lb/>
+nificance. I have never seen macroscopic blood in the urine. It does<lb/>
+occur microscopically.</p>
+<p>Death is usually preceeded by coma and occurs quite frequently<lb/>
+in a convulsion. The great majority of deaths occur on the 6th. and<lb/>
+7th. days. The majority on the 6th. Fulminant cases die quickly<lb/>
+and a few cases pass into the &ldquo;typhoid state&rdquo; and die after two weeks<lb/>
+illness, or even longer.</p>
+<p><hi>The facies</hi> of <add>the</add> stage of stasis is not only characteristic, but<lb/>
+distinctive, and in cases of moderate severity is very generally suf-<lb/>
+ficient for diagnosis.</p>
+<p>Convalescence, even of severe cases, is rapid. All, even the<lb/>
+light cases, are <hi>very</hi> weak at first, but this is of short duration<lb/>
+with them and not long in the severe ones. Recovery is as rapid as<lb/>
+the prostration was profound. It is also complete. Yellow fever<lb/>
+<pb n="11" id="f00918018"/>
+-11-<lb/>
+does not produce anemia and the writer knows of no serious sequelae<lb/>
+usually occurring. (Foot note)</p>
+<p>__________________________________________________<lb/>
+(Foot note) Myocardial degeneration from too early exertion has<lb/>
+been ascribed to it and is possible enough in cases--rare, however--<lb/>
+in which the heart muscle undergoes fatty degeneration. (End of foot<lb/>
+note.)<lb/>
+__________________________________________________</p>
+<p>The blood picture seems to be neither characteristic nor dis-<lb/>
+tinctive, either in the leucocyte count or the differential count.<lb/>
+Mild cases, at least, show leucopemia and a low count of polymorphs,<lb/>
+both usually less marked than in dengue. Darling finds &ldquo;nothing con-<lb/>
+stantly distinctive&rdquo;--<del>so</del><add>as</add> does Guiteras. Noguchi gives a slight leuco-<lb/>
+cytosis on the first day followed by a marked leucopenia as the rule;<lb/>
+occasionally a marked leucocytosis for several days. Differential<lb/>
+counts show a high percentage of polymorphonuclears. Chambers and<lb/>
+Castellani give leucocytes from 2,000 to 20,000: O'Brien, as the re-<lb/>
+sult of many counts at Guayaquil--where Noguchi also worked--gives<lb/>
+polymorphs 96%--44%: mononuclears 1%--24%: lymphocytes 1.6%--29%. Cer-<lb/>
+tainly &ldquo;nothing constantly distinctive.&rdquo;</p>
+<p>Analysis of O'Brien's counts shows increase of polymorphonu-<lb/>
+clears associated with the severity of the attack. In light cases<lb/>
+they were well below normal: In recovering cases, maybe high in the<lb/>
+beginning, they diminished as the patient recovered. In dying cases<lb/>
+they were generally high, increasing toward death.</p>
+<p>Four features of the clinical history require elaboration:<lb/>
+Albuminuria: Pulse and Temperature: Jaundice and Hemorrhages.</p>
+<p><hi>Albuminuria</hi>. Examine the urine when you first see the patient.<lb/>
+If he have albuminuria independently of this illness, you may be misled<lb/>
+if you do not know it. Use the ordinary heat and nitric acid and the<lb/>
+cold nitric acid tests. The more delicate tests show albuminuria in<lb/>
+so many conditions that they are less suitable for yellow fever.</p>
+<pb n="12" id="f00918019"/>
+<p>-12-</p>
+<p>There are two points in the albuminuria of yellow fever which<lb/>
+serve to distinguish it from the albuminuria of high temperature of<lb/>
+the ordinary infections.</p>
+<p>1/ <hi>It is out of all proportion to the temperature</hi>. The yellow<lb/>
+fever toxin seems to have a selective action on the kidney out of<lb/>
+proportion to its pyretic effect. When a young man whose temperature<lb/>
+has lasted three days and not exceeded--say 101&deg;.5 shows a fair a-<lb/>
+mount of albumen we suspect yellow fever. When with temperature<lb/>
+of 102&deg; of a little longer duration it fills 25% of the test tube,<lb/>
+this is not the albumen of an ordinary infection.</p>
+<p>2/ <hi>It increases as the temperature falls.</hi> In moderate cases<lb/>
+the temperature reaches its maximum on the 1st. or 2nd. day and<lb/>
+begins to fall. In such cases albumen usually shows on the 3rd.<lb/>
+day and increases decidedly on the 4th. and 5th. or longer. The<lb/>
+writer has seen a case with a temperature of 101&deg; on the 5th. day<lb/>
+in which the albumen had to be <hi>shaken</hi> from the test tube.</p>
+<p>These two points should differentiate the albuminuria of yel-<lb/>
+low fever from that of the usual infections.</p>
+<p><hi>Pulse and temperature.</hi> In the very beginning the pulse is as<lb/>
+high as, usually higher than, correlation with the temperature<lb/>
+would require. Then begins a nearly constant fall. Not <hi>quite</hi> con-<lb/>
+stant, because when the temperature rises decidedly the pulse may<lb/>
+also rise, but less high than the usual correlation between them<lb/>
+would require. &ldquo;The pulse falls away from the temperature&rdquo; (<hi>during<lb/>
+the stage of active congestion.</hi>) This is Faget's Law. It is <hi>not</hi><lb/>
+simply &ldquo;a pulse lower than the temperature would indicate&rdquo; or &ldquo;a<lb/>
+pulse falling as the temperature rises.&rdquo; The portion of the ordi-<lb/>
+nate included between the curves of pulse and temperature tends to<lb/>
+<pb n="13" id="f00918020"/>
+-13-<lb/>
+increase from hour to hour. Faget claims it only for the first<lb/>
+stage of yellow fever<add>- which is correct</add>. &ldquo;A falling pulse in the first stage: a low<lb/>
+pulse in the second,&rdquo; says Touatre--evidently for recovering cases.<lb/>
+It is a most valuable sign, not pathognomic it may be, but charac-<lb/>
+teristic. A low pulse in the second stage makes a good prognosis.<lb/>
+A fairly severe case showed a pulse of 30 in convalescence, doing<lb/>
+well and recovering. The prognostic interpretation of the chart is<lb/>
+considered elsewhere.</p>
+<p><hi>Jaundice</hi>. Marked jaundice is not a feature of the first stage.<lb/>
+In the stage of stasis--the third day and later--jaundice shows in<lb/>
+nearly all cases, first in the conjunctivae and then generally.<lb/>
+<hi>All</hi> grave cases are jaundiced at this stage and practically all deep-<lb/>
+ly jaundiced. In light ones it is rather more common, I think, and<lb/>
+not unfrequently deeper<del>,</del> in convalescence than during the illness.<lb/>
+The color is less deep than in blackwater fever and is modified by<lb/>
+both the passive congestion of the skin--&ldquo;bronzed&rdquo;--and the ecchy-<lb/>
+moses in loose tissue. &ldquo;The dead are always yellow.&rdquo;</p>
+<p><hi>Hemorrhages</hi>. Bleeding during the first stage from the nose--<lb/>
+very common in children--naso-pharynx and from the female genitalia<lb/>
+is due to the active congestion of this stage and is in no wise dis-<lb/>
+tinctive--occurring in dengue and some other diseases from the same<lb/>
+cause. Entirely different are the hemorrhages of the stage of sta-<lb/>
+sis. <hi>They</hi> <unclear>are</unclear> distinctive. They are usually observed first in the<lb/>
+gums. Examine the gums when you first see your patient so that you<lb/>
+may know the condition of his gums in health. The gums in the be-<lb/>
+ginning of the fever, although bright red, are of normal consistency.<lb/>
+On the 3rd. or 4th. day they are soft: spongy and bleeding on slight<lb/>
+pressure. Do not press the gums with the finger. This may cause<lb/>
+<pb n="14" id="f00918021"/>
+-14-<lb/>
+the gums of some people to bleed even in health. Press the lip<lb/>
+lightly against the gum with your finger. Rarely will this cause<lb/>
+bleeding, except in yellow fever. Women, and girls well under pu-<lb/>
+berty, bleed from the genitalia. Over puberty this is invariable.<lb/>
+Hemorrhages into the stomach and duodenum show as black vomit or as<lb/>
+&ldquo;black vomit stools.&rdquo; The effort of vomiting increases gastric hem-<lb/>
+orrhage, which leads to vomiting again, thus forming a vicious cir-<lb/>
+cle. In bad cases blood exudes from the gums spontaneously: the<lb/>
+same for the nose: pharynx and, less frequently, from the urethra<lb/>
+and ears. Ecchymoses appear in loose connective tissue--as under<lb/>
+the conjunctiva and in places bruised in his delirium. &ldquo;Everything<lb/>
+is congested in the beginning, everything bleeds at the end,&rdquo; says<lb/>
+Touatre.</p>
+<p>It is a bad death, as bad as hydrophobia or small-pox.</p>
+<p>The three conditions: Jaundice: Hemorrhages and Albuminuria<lb/>
+are so distinctive that the nosology of diseases showing these<lb/>
+symptoms will usually include yellow fever when that disease oc-<lb/>
+curs and is not reported--whether not recognized or by design.</p>
+<p>Diagnosis.</p>
+<p>If the Leptospira icteroides is proven to be the causative or-<lb/>
+ganism, we have--what we have so wanted--a laboratory diagnosis of<lb/>
+yellow fever. In its absence cases occur which. taken singly, are<lb/>
+impossible of certain diagnosis--many in the first stage and some<lb/>
+in any stage. Especially is this true of children and of blacks.<lb/>
+Generally diagnosis is possible in an adult white in the stage of<lb/>
+stasis. There is little difficulty in the diagnosis of cases oc-<lb/>
+curring in groups--i. e. epidemics--some always show typical symptoms.</p>
+<p>The differential diagnosis of yellow fever is implied in its<lb/>
+<pb n="15" id="f00918022"/>
+-15-<lb/>
+clinical history and will not be gone into. One will be most often<lb/>
+called on to distinguish it from malarial fever or dengue. From<lb/>
+the first one should, or at least may, be able to distinguish it<lb/>
+by the facies even in the beginning of the first stage. Malarial<lb/>
+fever plus acute alcoholism, however, may well lead to error. The<lb/>
+presence of the plasmodium is, of course, positive for malarial in-<lb/>
+fection. <hi>It does not negative yellow fever.</hi> The facies of dengue<lb/>
+and yellow fever in the first stage are, to the writer, <hi>identical</hi><lb/>
+and the symptoms so similar that in this stage differentiation of<lb/>
+a light (or even moderate) case of yellow fever from dengue is fre-<lb/>
+quently not possible. In the second stage it should be.</p>
+<p>Spirochetosis ictero-haemorrhagica (Weil's Disease) is very like<lb/>
+yellow fever in its symptomatology. Its parasite too is morpholo-<lb/>
+gically very similar to the Leptospira icteroides of Noguchi--<del>evi-<lb/>
+dently allied organisms.</del> <add>even if not identical</add>.<lb/>
+Individual cases may be impossible of differentiation except<lb/>
+by laboratory findings. Epidemics can, I think, always be made out.<lb/>
+Herpes labiales is said to be common in Weil's Disease. It is no<lb/>
+part of the symptomatology of yellow fever.</p>
+<p>Prognosis.</p>
+<p>Yellow fever is vonsidered a disease of high mortality and in<lb/>
+general this is true. Not always, however. The variation of gravi-<lb/>
+ty in different epidemics is so great that one cannot speak of an<lb/>
+average mortality. Unquestionably, as many light cases are missed,<lb/>
+the recorded mortality is greater than the truth. Especially is<lb/>
+this true of times past. The epidemic of /97 gave in the U. S. an<lb/>
+<unclear>estimated</unclear> mortality of from 6% to 10%. In Panama (1904 and /05)<lb/>
+<pb n="16" id="f00918023"/>
+-16-<lb/>
+practically all Americans sick in any way were carefully examined<lb/>
+for yellow fever and hence few were missed. The reported mortal-<lb/>
+ity was about 16 2/3%.</p>
+<p><hi>Conditions Affecting Prognosis</hi>.</p>
+<p>(1) Yellow fever is far milder among negroes than among whites:<lb/>
+Chinese: Japanese or American Indians, among whom I can see no dif-<lb/>
+ference in its severity.</p>
+<p>(2) <hi>Age</hi>. It is far milder in children than in adults of the<lb/>
+same race. The mortality of old people is very high.</p>
+<p>(3) <hi>Habits</hi>. The mortality is high among alchoholics and those<lb/>
+with gastric or renal disorders.</p>
+<p><hi>Symptoms Affecting Prognosis.</hi></p>
+<p>1/ A violent onset is usually of bad omen, but not invariably<lb/>
+so.</p>
+<p>2/ <hi>Urine.</hi> Early albuminuria (1st. or 2nd. day) is of bad<lb/>
+prognosis. So is scanty and decreasing urine. The amount of al-<lb/>
+bumen is of much less importance. The great majority of deaths<lb/>
+are associated with suppression of use, so &ldquo;with a pint per day<lb/>
+the prognosis is good.&rdquo;</p>
+<p>3/ <hi>Jaundice.</hi> Early deep jaundice is of bad prognosis: asso-<lb/>
+ciated with dripping gums I have seen none recover.</p>
+<p>4/ <hi>Pulse and temperature</hi>. A pulse rising after having fallen,<lb/>
+if the temperature does not rise, is of bad prognosis. The cross-<lb/>
+ing of the rising pulse curve with the curve of temperature is <add>known as</add><lb/>
+&ldquo;le noeud fatal&rdquo; <del>of the old</del> <add>by some</add> writers. As the Spainish say: &ldquo;the<lb/>
+fever makes its own cross&rdquo;-on the chart.</p>
+<p>5/ <hi>Black vomit</hi> is a grave sign, but not necessarily fatal.<lb/>
+Like jaundice, the earlier in the stage of stasis the vomit appears<lb/>
+<pb n="17" id="f00918024"/>
+-17-<lb/>
+the graver the prognosis--showing on the 3rd. or the beginning of<lb/>
+the 4th. day of the disease it is fatal.</p>
+<p>Markedly hemorrhagic manifestations of any kind are of bad au-<lb/>
+gury and the earlier they show the graver. Blood passing by the<lb/>
+bowel, however--&ldquo;black vomit stools&rdquo;--is of far less gravity than<lb/>
+blood vimited, as the act of vomiting both provokes further hemor-<lb/>
+rhage and is extremely exhausting. If there be marked hemorrhagic<lb/>
+symptoms, however, anywhere and the patient lives long enough, he<lb/>
+will have black vomit.</p>
+<p><del>(6)</del> &ldquo;Walking cases,&rdquo; in my experience, all die. Moving the patient<lb/>
+after the first two days of illness gravely increases risk, de-<lb/>
+pending, of course, on how it is done, as does any exertion or agi-<lb/>
+tation. Feeding too soon has caused many deaths.</p>
+<p><del>(7)</del> The acute stage of the infection is short-lived and does its<lb/>
+damage quickly. If the patient be not fatally injured therein he<lb/>
+should recover. &ldquo;If not in very bad condition on the 5th. day,<lb/>
+the prognosis is good.&rdquo;</p>
+<p>Treatment.</p>
+<p>There is no specific treatment for yellow fever and yet in few<lb/>
+diseases is the care of the patient more important. It rests on<lb/>
+the tripod: (1) absolute rest: (2) no food during the acute stage<lb/>
+and (3) as much water as can be taken.</p>
+<p>(1) The patient should be put to bed and stay there. He can<lb/>
+be moved, if necessary, during the first 24 or 48 hours; after this<lb/>
+with grave risk. He should exert himself the least possible--use a<lb/>
+bed-pan and not lift his head to drink. Too much stress cannot be<lb/>
+laid on absolute rest--physical: mental and emotional. It is es-<lb/>
+sential.</p>
+<pb n="18" id="f00918025"/>
+<p>-18-</p>
+<p>(2) No food is needed for the first three days, longer than that<lb/>
+<hi>may</hi> harm weak people and children--it probably will not for two days<lb/>
+longer. I have never seen a death from witholding food: many a one<lb/>
+from giving it. In case of doubt withold it. When food is given,<lb/>
+milk is not the best: The stomach is acid and, even with lime wa-<lb/>
+ter, milk forms curds and causes pain and vomiting. Rice water: the<lb/>
+juice of oysters: chicken soup: the yolk of a hard boiled egg<del>,</del> crum-<lb/>
+bled<del>,</del> are all better than milk. The appetite comes back before it<lb/>
+is safe to satisfy it.</p>
+<p>(3) Drink as much water as can be borne without vomiting--small,<lb/>
+frequent sips. Weakly alkaline water, natural or artificial, is<lb/>
+best and best taken cold. This is grateful to a tender (and acid)<lb/>
+stomach. Vichy (Celestins) was much esteemed in New Orleans.<lb/>
+What is wanted, however, is <hi>water</hi>--to prevent the kidney block--<lb/>
+and if it cannot be taken in sufficient quantity by the mouth,<lb/>
+give it by enema--plain water not saline. I have not used the con-<lb/>
+tinuous drip, but it should be good. All to whom I have seen water<lb/>
+given by hypodermoclysis have died.</p>
+<p><hi>Medication.</hi> But little is needed and perturbative medication<lb/>
+does harm. A laxative should be given in the beginning if the bow-<lb/>
+els are bound, as is the rule. The writer has treated cases in<lb/>
+which this was not done and is very sure of its advisability. Calo-<lb/>
+mel--gr.11--followed by a mild saline is his preference, but, it be-<lb/>
+ing important to get quick action, the saline or the C. C. Pills of<lb/>
+the Pharmacopeia may be given at once. He has seen no special ad-<lb/>
+vantage in castor oil, rather the contrary.</p>
+<p>Only one laxative should be required, but unless the bowels move<lb/>
+daily an enema should be given to accomplish this. Sometimes there<lb/>
+<pb n="19" id="f00918026"/>
+-19-<lb/>
+is a troublesome proctitis most annoying at night. An evening ene-<lb/>
+ma gives relief.</p>
+<p>For high temperature use cold sponging. This is grateful to<lb/>
+the patient.</p>
+<p><hi>Treatment of Special Symptoms.</hi> For the headache of the first<lb/>
+stage phenacetine gives relief. I have given it in many cases and<lb/>
+seen no ill results. By lessening pain, which is frequently se-<lb/>
+vere, it should conserve the patient's strength. I have given mor-<lb/>
+phia a very few times for the excruciating rachalgia--the &ldquo;coup-de-<lb/>
+barre&rdquo;--and received it in my own case, always with advantage, I<lb/>
+think. The kidneys show <del>in</del><add>no</add> involvement yet and this severe pain<lb/>
+does harm. For the excessively tender stomach always relieve the<lb/>
+pressure of the bedding by a frame. Some relief is given by an ice<lb/>
+bag--a <hi>very</hi> light one--and some by alkaline water. If it be severe<lb/>
+and if the hiccoughing-belch comes on--a precursor of black vomit--<lb/>
+nothing equals <unclear>cocoaine</unclear>. A half (or even a whole) grain in a min-<lb/>
+ute capsule washed down with a minimal amount of water acts like<lb/>
+magic. Morphia--gr. 1/16-1/12--hypodermatically is, unless the<lb/>
+urine forbids, a most valuable adjuvant in this condition. This<lb/>
+small dose has been efficient, possibly because elimination was at<lb/>
+a low ebb.</p>
+<p>To prevent black vomit is better than to try to stop it. The<lb/>
+contraction of the stomach increases the flow of blood into the<lb/>
+stomach inducing more vomiting and making a vicious circle extreme-<lb/>
+ly exhausting to the patient. To prevent it, or to check it when<lb/>
+it has begun--<hi>if there be much pain in the stomach</hi>--the <unclear>cocoaine</unclear> may<lb/>
+be tried as above, with or without morphia. The gastric tenderness<lb/>
+is the indication for <unclear>cocoaine</unclear>.</p>
+<pb n="20" id="f00918027"/>
+<p>-20-</p>
+<p>In any case, the solicitation of a bowel movement--by calomel<lb/>
+and an enema--is claimed to be of value as inducing normal peris-<lb/>
+talsis and turning the contents of the stomach and duodenum down-<lb/>
+ward. I have sometimes thought it was. In this condition abso-<lb/>
+lute rest is doubly indicated.</p>
+<p>Prophylaxis.</p>
+<p>(A) Personal Prophylaxis consists in avoiding the bites of in-<lb/>
+fected mosquitoes: hence (1) avoid houses and parts of the town in<lb/>
+which yellow fever exists and (2) protect oneself from <hi>all</hi> Stego-<lb/>
+myia because one does not know all the infected places. A screen-<lb/>
+ed house (18 mesh wire) is a great protection, <hi>provided Stegomyia<lb/>
+are not bred in it.</hi> &ldquo;Daylight-communication&rdquo; with infected places<lb/>
+has failed to prevent infection in the U. S. It seems to have been<lb/>
+successful as between Rio and Petropolis. There is, of course, less<lb/>
+risk per hour in mid-day than in the early morning and afternoon<lb/>
+and less for a few hours than for the whole twenty-four, and espe-<lb/>
+cially less in the business offices--where men do not lie sick--<lb/>
+than in residences. Possibly this last is a prime factor in the les-<lb/>
+sened risk. Yellow fever--and much of it--was contracted during<lb/>
+office hours (8 A. M. to 5 P. M.) in the Executive Building in Pana-<lb/>
+ma.</p>
+<p>(B) Community Prophylaxis may be either by</p>
+<p>(1) The prevention of the introduction of yellow fever into a<lb/>
+community free from it, or</p>
+<p>(2) Freeing a community from yellow fever in which it exists.</p>
+<p>(1) The prevention of the introduction of yellow fever may be<lb/>
+(a) by methods of quarantine by which the parasite is excluded or<lb/>
+<pb n="21" id="f00918028"/>
+-21-<lb/>
+(b) rendering the place incapable of propagating the parasite when<lb/>
+introduced.</p>
+<p>(a) The first aims to exclude men infected (not necessarily<lb/>
+sick) with yellow fever, and infected mosquitoes--both containing<lb/>
+viable parasites. Space is lacking to describe the methods for so<lb/>
+doing.</p>
+<p>(b) The second is to free the place from Stegomyia. If this<lb/>
+be done, the introduction of infected men may be ignored. <add>The introduction of</add> In-<lb/>
+fected mosquitoes might cause some cases of fever, but since they<lb/>
+could not breed in this place there would be no spread of it after<lb/>
+their deaths and it would be of little sanitary importance. This<lb/>
+is unquestionably the method of election.</p>
+<p>Places in which on account of climatic conditions Stegomyia do<lb/>
+not breed naturally are already in this condition and need no quar-<lb/>
+antine. The same is true of all ports in the season when Stegomyia<lb/>
+is inactive.</p>
+<p>(2) <hi>Freeing a place from yellow fever in which it exists</hi>.<lb/>
+For yellow fever to continue in a community the<del>a</del>re are necessary<lb/>
+three things (a) the parasite; (b) the vector and (c) men suscep-<lb/>
+tible to yellow fever; with both the parasite and the man accessible<lb/>
+to the mosquito. Practically--although not quite accurately--we<lb/>
+say that (a) men sick of yellow fever: (b) active Stegomyia and (c)<lb/>
+susceptible men--the mosquitoes having access to both classes of<lb/>
+men--are necessary and sufficient for the continuance of yellow fev-<lb/>
+er. A break in this chain even for a short time will eliminate<lb/>
+yellow fever. It is to break the first two links that sanitarians<lb/>
+have striven. <del>Yet</del> The removal of the third one is Nature's method.</p>
+<p>The sanitarian then has choice of two methods</p>
+<p>:</p>
+<pb n="22" id="f00918029"/>
+<p>-22-</p>
+<p>(a) Control of the human host,</p>
+<p>(b) Control of the insect host,<lb/>
+and, of course, a combination of the two: They are not in-<lb/>
+compatible.</p>
+<p>For the first, it is necessary to find the cases of yellow<lb/>
+fever as they occur, isolate them from mosquitoes and kill such<lb/>
+mosquitoes as have fed on them before isolation.</p>
+<p>For the second, get rid of, or no diminish the number of Ste-<lb/>
+gomyia that they can no longer continue the fever.</p>
+<p>This is done by attacking their breeding places. Since these<lb/>
+are practically in artificial containers and collections of clear<lb/>
+water near houses, we do this by (1) removing the containers: (2)<lb/>
+emptying them completely once a week: (2) screening them and (4)<lb/>
+rendering the water in them unfit for breeding by adding coal oil<lb/>
+once a week, or by some other method. These methods are given in<lb/>
+the order of their desireability.</p>
+<p>When these preferential breeding places are destroyed the mos-<lb/>
+quitoes will oviposit in the most unexpected ones and careful<lb/>
+search must be made for such places. A pan of water placed in a<lb/>
+dark shady nook in the court or house will entice most of them to<lb/>
+oviposit in it and is to be emptied at the weekly inspection.</p>
+<p>The first method was the one first tried--or rather relied on--<lb/>
+at Havana: Panama and elsewhere. The breeding places of Stegomyia<lb/>
+were attacked at the same time, but as an adjuvant rather than as<lb/>
+the essential measure. It is, however, now generally agreed by<lb/>
+sanitarians that this method is ill adapted for such places. For<lb/>
+large towns, in which yellow fever is endemic, we cannot find a suf-<lb/>
+ficient proportion of the cases of yellow fever--especially those<lb/>
+<pb n="23" id="f00918030"/>
+-23-<lb/>
+in children--sufficiently early to eliminate yellow fever. The<lb/>
+disease can be controlled--diminished--in this way, but elimination<lb/>
+would rarely occur. Gorgas holds, as I think do we all, that the<lb/>
+result at Havana was primarily due to the control of the insect host<lb/>
+undertaken as an adjuvant to the main work. This was the case at<lb/>
+Panama. For such towns the second method is unquestionably the<lb/>
+method of election, or a combination of the two may be used, but<lb/>
+placing one's reliance on the second method. (Foot note)</p>
+<p>__________________________________________________<lb/>
+(Foot note) Yellow Fever. Supplement No. 19, U. S. Public Health<lb/>
+Reports. (End of foot note).<lb/>
+__________________________________________________</p>
+<p>The first method is far more applicable to small places and to<lb/>
+places in which yellow fever is not endemic. In these it will fre-<lb/>
+quently eliminate the disease and quickly.</p>
+<p>The first method was used alone at McHenry, Miss., 1898 (Haralson<lb/>
+and Carter): the second at Iquitos, Peru, 1913 (Converse) and Buena-<lb/>
+ventura, Colombia, 1916 (Beverly), but in the sanitary work for the<lb/>
+elimination of yellow fever from <del>all</del> large places a combination of<lb/>
+these methods has <add>always</add> been used (Havana: New Orleans: Panama: Rio etc.)</p>
+<p>It is not necessary to <hi>eliminate</hi> Stegomyia to eliminate yellow<lb/>
+yellow fever. A reduction below a certain number is sufficient.<lb/>
+This &ldquo;critical&rdquo; number varies, for a given town and season, directly<lb/>
+with the proportion of the number of people immune to yellow fever<lb/>
+to the total population of the town and hence may be quite large in<lb/>
+an endemic focus of yellow fever. Obviously, in such a place even<lb/>
+a moderate amount of mosquito reduction may result in the elimina-<lb/>
+tion of yellow fever.</p>
+<p><hi>Spontaneous Elimination of Yellow Fever.</hi> It is quite usual to<lb/>
+find that towns in the tropics in which yellow fever has been en-<lb/>
+<pb n="24" id="f00918031"/>
+-24-<lb/>
+demic; in which no sanitary work has been done and in which Stego-<lb/>
+myia are abundant, are free from that disease. Not only that none<lb/>
+is reported, but that none exists there.</p>
+<p>We believe that this is due to a break in the third link of the<lb/>
+conditions necessary to continue the disease in a community--i. e.<lb/>
+the lack of the susceptible people required to continue the life of<lb/>
+the parasite.</p>
+<p>Since an attack of yellow fever gives an immunity to that<lb/>
+disease, its continuance (endemicity) in a town would in time ex-<lb/>
+haust the susceptible material necessary for its propagation and<lb/>
+if new people do not come in the disease will die out in that town,<lb/>
+just as does measles and influenza. This can happen even if the<lb/>
+immunity be temporary, but the <hi>degree</hi> of the exhaustion of the sus-<lb/>
+ceptible material within any given time and hence the <hi>chance</hi> of<lb/>
+elimination of the fever would be greater as the immunity is more<lb/>
+lasting: greatest if it be permanent.</p>
+<p>It is then the immigration of susceptible people and the birth<lb/>
+of indigenous babies--as old Blair says: &ldquo;truly are they new-comers&rdquo;--<lb/>
+that keep up the supply of susceptible people and hence the fever.<lb/>
+This is consistent with the <add>observed</add> fact that it is in the smaller and mod-<lb/>
+erate sized towns and those with little immigration that this spon-<lb/>
+taneous elimination of yellow fever has occurred. In the large and<lb/>
+prosperous towns in the track of commerce: Havana: Rio: Panama:<lb/>
+Guayaquil etc. this did not occur, or has not occurred.</p>
+<p>The fact of the disappearance of yellow fever under the con-<lb/>
+ditions stated is beyond dispute. The explanation of its mechan-<lb/>
+ism here given is believed to be correct. The writer has called<lb/>
+it the &ldquo;Elimination of Yellow Fever by Failure of the Human Host.&rdquo;<lb/>
+<pb n="25" id="f00918032"/>
+-25-<lb/>
+It is Nature's method of elimination. Its sanitary importance is<lb/>
+obvious. (Foot note)</p>
+<p>__________________________________________________<lb/>
+(Foot note). Disappearance of Yellow Fever by Failure of the<lb/>
+Human Host. H. R. Carter. Transactions Society Tropical Medicine<lb/>
+&amp; Hygiene. (London) June/17. (End of foot note)<lb/>
+__________________________________________________</p>
+<p>The great diminution of yellow fever which has occurred in the<lb/>
+Americas during the past 60 or 70 years is due to (1) the dimin-<lb/>
+ished commercial <del>(</del>and <del>hence</del> strategical<del>)</del> importance of the Carib-<lb/>
+bean Sea, greatly lessening the movement of susceptible people in<lb/>
+the area adjacent thereto: (2) the substitution of steam vessels<lb/>
+with closed water tanks for sailing vessels with water supply open<lb/>
+to breeding Stegomyia and (3) the destruction, by sanitary measures,<lb/>
+of the great permanent foci of Havana: Panama: Rio etc., which had<lb/>
+previously reinfected again and again such smaller places as had<lb/>
+naturally freed themselves from yellow fever.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0134019">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Check from the Mercantile Bank of the Americas to Henry Rose Carter, March 8, 1921</title>
+<title type="gmd">[electronic resource] </title>
+<author>Mercantile Bank of the Americas</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0134019</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1921-03-08</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Henry Rose</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Lima (Peru)</name>
+</p>
+</div1>
+<div1 type ="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value ="1921-03-08">March 8, 1921</date>
+<idno rend ="suppress">C0134019</idno>
+<title>Check from the Mercantile Bank of the Americas to Henry Rose Carter, March 8, 1921 [Linked to C0134020, C0134021, C0134022, C0134023]</title>
+</bibl>
+</head>
+<p>Carter receives a two hundred dollar check.</p>
+</div1>
+</front>
+<body>
+<div1 type="check" n="1921-03-08">
+<head>Check from the Mercantile Bank of the Americas to Henry Rose Carter, March 8, 1921 [Linked to <xref id="C0134020">C0134020</xref>, <xref id="C0134021">C0134021</xref>, <xref id="C0134022">C0134022</xref>, <xref id="C0134023">C0134023</xref>]</head>
+<pb n="1" id="fC0134019"/>
+<p>DUPLICATE<lb/>
+<hi rend="italic">N<hi rend="underline">o</hi></hi>. <hi>34215</hi></p>
+<p><hi rend="italic">Lima, Per&uacute;</hi> <hi rend="underline"> MARCH 8TH <hi rend="italic">19</hi>21</hi><lb/>
+<hi rend="italic">On presentation of this cheque (Original unpaid) pay to</hi><lb/>
+<hi rend="italic">the order of </hi> <hi rend="underline">H. R. CARTER</hi>.<lb/>
+<hi rend="italic">the sum of </hi> <hi rend="underline">TWO HUNDRED 00/100</hi><lb/>
+<hi rend="italic">Dollars</hi><lb/>
+<hi rend="italic">United States Currency value received and charge the same to</hi><lb/>
+<hi rend="italic">$</hi> <hi rend="underline">200.00</hi></p>
+<p>BANCO MERCANTIL AMERICANO DEL PER&Uacute;</p>
+<p><hi rend="underline"><unclear>L M Phillips</unclear></hi><lb/>
+ASST. MANAGER<lb/>
+<hi rend="underline"><unclear>M. Suslerd</unclear></hi><lb/>
+ACCOUNTANT</p>
+<p>TO THE<lb/>
+MERCANTILE BANK OF THE AMERICAS INC.<lb/>
+NEW YORK</p>
+<p>BMAP<lb/>
+DEL</p>
+<p>005 CENTAVOS<lb/>
+REPUBLICA PERUANA<lb/>
+COMPANIA RECAUDADORA DE IMPUESTOS<lb/>
+1921<lb/>
+1922<lb/>
+<unclear>&cent; 2 &cent;</unclear><lb/>
+AMERICAN BANK <unclear>NOTE</unclear> CO NEW YORK</p>
+<p><unclear>BANCO MERCANTIL AMERICANO DEL PERU</unclear></p>
+<p>LIT. T. SCHEUCH, LIMA.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04005014">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from John R. Taylor to Philip Showalter Hench, July 21, 1942</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Taylor, John R.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04005014</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1942-07-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Hench, Philip Showalter</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Guiteras, Juan</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1942-07-21">July 21, 1942</date>
+<idno rend="suppress">04005014</idno>
+<title>Letter from John R. Taylor to Philip Showalter Hench, July 21, 1942</title>
+</bibl>
+</head>
+<p>Taylor writes that he will not be able to meet with Hench. However, he feels that his knowledge of the yellow fever experiments would have been of interest to Hench and so offers his services in the future.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1942-07-21">
+<head>Letter from John R. Taylor to Philip Showalter Hench, July 21, 1942</head>
+<pb n="1" id="f04005014"/>
+<opener>
+<dateline>
+548 Grand Ave<lb/>
+Upper Darby<lb/>
+Pennsylvania<lb/>
+<date value="1941-07-21">July 21<hi rend="superscript">st</hi> 1942</date>
+</dateline>
+Dr Phillip S. Hench.<lb/>
+Mayo Clinic<lb/>
+Rochester, Minn.<lb/>
+<salute>Dear Dr Hench</salute>
+</opener>
+<p>I received the photographs which you<lb/>
+returned and everything is satisfactory.</p>
+<p>While I am glad to know that your services<lb/>
+are to be available to the Army, I regret that the<lb/>
+indications are I will not have the pleasure of<lb/>
+meeting you. The amount of data <add>which I possess</add> on the various<lb/>
+experiments on the cause of yellow fever for<lb/>
+many years past, and my personal contact with<lb/>
+many of the workers, including Reed, Carroll,<lb/>
+Agramonte, Gorgas, Finlay, Guiteras and others<lb/>
+would have been of interest to you.</p>
+<p>Congratulations to you on the award of the<lb/>
+Heberden Medal for 1942.</p>
+<p>It has been a pleasure to know you, if<lb/>
+only by correspondence, and if I can be of<lb/>
+any service to you at any time, call on me.</p>
+<closer>
+<salute>Your sincerely</salute>
+<signed>John R. Taylor</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

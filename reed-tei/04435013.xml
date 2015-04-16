@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04435013">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Text of Speech: The Historic Role of the Finca San Jose and Camp Lazear (Quemados de Marianao) in the Conquest of Yellow Fever by Carlos Finlay, Walter Reed and their Associates, by Philip Showalter Hench, December 3, 1952</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04435013</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1952-12-03</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion">YES</term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Batista y Zaldivar, Fulgencio</name>
+<name type="person">Delgado, Claudio</name>
+<name type="person">Recio, Alberto</name>
+<name type="person">Nogueira, Pedro</name>
+<name type="person">Roderiguez Exposito, Cesar</name>
+<name type="person">Andreu, Jose R.</name>
+<name type="person">Ramos, Domingo</name>
+<name type="person">Chaille, Stanford L.</name>
+<name type="person">Pedroso family</name>
+<name type="person">Finlay, Carlos E.</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="person">Rojas, Maria Teresa Loma viuda de</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Ames, Jessie Daniel</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Benigno, Antonio</name>
+<name type="person">Kissinger, John R.</name>
+<name type="place">United States</name>
+<name type="place">Cuba</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">San Jose farm, Marianao (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Marianao (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="hospital">Columbia Barracks Post Hospital</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>10 pp.</extent>
+<date value="1952-12-03">December 3, 1952</date>
+<idno rend="suppress">04435013</idno>
+<title>Text of Speech: The Historic Role of the Finca San Jose and Camp Lazear (Quemados de Marianao) in the Conquest of Yellow Fever by Carlos Finlay, Walter Reed and their Associates, by Philip Showalter Hench, December 3, 1952</title>
+</bibl>
+</head>
+<p>In this speech, delivered at the dedication of Camp Lazear, Hench stresses the Cuban-American cooperation underlying the conquest of yellow fever. He discusses the Havana Yellow Fever Commission of 1879 and the choice of the Finca San Jose as an experimental site because of its yellow fever immunity. He describes Finlay's mosquito hypothesis and experiments, and the lack of support for his theory. Hench then outlines the work of Lazear and the Reed Commission, quotes Reed and Finlay, and concludes with praise for both the Cubans and Americans. See <xref id="f04435001">Spanish</xref> translation.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1952-12-03">
+<head>Text of Speech: The Historic Role of the Finca San Jose and Camp Lazear (Quemados de Marianao) in the Conquest of Yellow Fever by Carlos Finlay, Walter Reed and their Associates, by Philip Showalter Hench, December 3, 1952</head>
+<pb n="1" id="f04435013"/>
+<p><hi>THE HISTORIC ROLE OF THE FINCA SAN JOSE AND &ldquo;CAMP LAZEAR&rdquo; (QUEMADOS DE MARIANAO)<lb/>
+IN THE CONQUEST OF YELLOW FEVER BY CARLOS FINLAY, WALTER REED AND THEIR ASSOCIATES</hi></p>
+<p>(To be condensed and presented at the Dedication of<lb/>
+&ldquo;Camp Lazear,&rdquo; Habana, Cuba, December 3, 1952)<lb/>
+by<lb/>
+Dr. Philip S. Hench<lb/>
+The Mayo Clinic<lb/>
+Rochester, Minnesota</p>
+<p>Man is a forward looking creature with a backward looking mind. For in-<lb/>
+spiration to solve the problems of today he often fruitfully turns to the dramatic<lb/>
+events of the past. Thus he may search and wander over the face of the earth until<lb/>
+that exciting moment when he can stop, and with the thrill of rediscovery, exclaim:<lb/>
+&ldquo;<hi>This</hi> place - this is the <hi>very</hi> spot. <hi>Here</hi> is where it happened!&rdquo;</p>
+<p>But too often he merely marks an &ldquo;X&rdquo; on a map and goes on his way. Ladies<lb/>
+and gentlemen, that must not, and will not happen here because high officials of<lb/>
+your government and distinguished Cuban physicians wish the world to remember always<lb/>
+that from this ancient Finca San Jose 52 years ago there was delivered to all the<lb/>
+world the confirmation of a truth - a brilliant truth which changes despair into hope<lb/>
+and gave the promise of life to countless millions.</p>
+<p>President Batista, my countrymen are greatly honored that you and your<lb/>
+countrymen choose to preserve and dedicate &ldquo;Camp Lazear.&rdquo; In a most gracious and<lb/>
+friendly manner you are uniting forever the honored names of several of my country-<lb/>
+men with that of your own beloved and eminent humanitarian, Carlos Finlay, and of<lb/>
+his associate, Claudio Delgado.</p>
+<p>It is fitting that this be done because, individually and collectively,<lb/>
+they worked mightily, all at the risk of life and one at the cost of life, to defeat<lb/>
+a common foe and to serve a common cause. To you, sir, and to others who have<lb/>
+created this &ldquo;Cuban-American memorial,&rdquo; to Dr. Saladrigas, Dr. Recio, Dr. Nogueira,<lb/>
+Dr. Rodriguez, Dr. Andreu, Dr. Ramos and their associates, my countrymen and I ex-<lb/>
+tend our most sincere thanks.</p>
+<p><hi>Cuban-American Cooperation Underlying the Conquest of Yellow Fever</hi></p>
+<p>Yellow fever was conquered by the amazing cooperation of your countrymen<lb/>
+and mine. The central desire of those concerned was to serve mankind, if necessary<lb/>
+above and beyond the call of duty. The drama developed in various places but its<lb/>
+<pb n="2" id="f04435014"/>
+Page 2<lb/>
+unifying locale was the Finca San Jose.</p>
+<p><hi>The Havana Yellow Fever Commission of 1879</hi></p>
+<p>Cubans are famous for their generosity. Your willingness to share what<lb/>
+you have is an old attribute. For 140 years you graciously permitted my countrymen<lb/>
+and others to export from this fair land a generous amount of yellow fever. Frowning<lb/>
+on such &ldquo;free enterprise&rdquo; the U. S. Government established in 1879 a &ldquo;Havana Yellow<lb/>
+Fever Commission&rdquo; to study yellow fever here with you. Its stated purpose was &ldquo;to<lb/>
+serve not one but all nations.&rdquo; Its members included Prof. Chaille, chairman,<lb/>
+Dr. Sternberg whom you honor today, and Dr. Guiteras.</p>
+<p><hi>Auxiliary Spanish Commission</hi></p>
+<p>To cooperate with the American Commissioners your government formed a<lb/>
+&ldquo;Spanish Commission&rdquo; which included Dr. Finlay. This was his first official sanitary<lb/>
+work.</p>
+<p><hi>Curious Immunity of the Finca San Jose, 1872-1883</hi></p>
+<p>The American Commission set out to discover (among other things) where, in<lb/>
+or around Habana, yellow fever rarely developed. Soon they were directed to Marianao.</p>
+<p>Senor Alcade, you will be pleased to know that the American Commission<lb/>
+called Marianao &ldquo;the cleanest, most attractive and beautiful town in Cuba.&rdquo; An in-<lb/>
+teresting discovery was made. Although yellow fever was endemic in Quemados and<lb/>
+Marianao one place here was practically immune, the lovely Finca San Jose, owned<lb/>
+for 200 years by the distinguished Pedroso family from which the Jesuit fathers had<lb/>
+rented it in 1872. So long as the Jesuits remained at the finca (1872-1883) none<lb/>
+developed yellow fever although it was all around them.</p>
+<p><hi>Influence of Chaille Report (1879) on Dr. Carlos Finlay</hi></p>
+<p>Thanks to the help of your countrymen, the Chaille report summarized clearly<lb/>
+all the known climatic, atmospheric and other factors. One could find therein every-<lb/>
+thing about yellow fever, everything that is, but its cause.</p>
+<p>Hence the thinking of the world's sanitarians remained largely unchanged.<lb/>
+Nevertheless, the report served <unclear>is</unclear> purpose because, fortunately for the world it in-<lb/>
+fluenced strongly the receptive mind of just one man - Carlos Finlay (as he and his<lb/>
+son often mentioned later).</p>
+<pb n="3" id="f04435015"/>
+<p>Page 3</p>
+<p>For 21 years (1858-1879) Dr. Finlay had related yellow fever to an alkaline<lb/>
+atmosphere, but now he considered his long-held theory &ldquo;utterly indefensible&rdquo; (his own<lb/>
+words). Accepting the American Commission's opinion that &ldquo;the poison of yellow fever<lb/>
+was a living organism&rdquo; of unknown nature and source Dr. Finlay began to build on this<lb/>
+nebulous fundament a superstructure which eventually excited the admiration of the<lb/>
+world.</p>
+<p><hi>Dr. Finlay's Mosquito Hypothesis - Its First Phase, 1880-1881</hi></p>
+<p>As if guided by an unerring &ldquo;divining rod&rdquo; of his own making he excluded<lb/>
+thousands of bacterial and insect-possibilities, concluded that the agent must be a<lb/>
+winged, blood-sucking insect of yellow-fever localities and chose the culex mosquito<lb/>
+as the culprit. With characteristic modesty he later labelled this epoch-making<lb/>
+cerebration &ldquo;a simple reasoning,&rdquo; an example of magnificent understatement by a<lb/>
+genius. Then in 1881 he inoculated his first seven patients.</p>
+<p><hi>Dr. Finlay's Experiments at the Finca San Jose, 1883</hi></p>
+<p>In 1883 the Finca San Jose once more became closely identified with<lb/>
+the conquest of yellow fever. The Jesuits were still enjoying its mysterious, unex-<lb/>
+plained immunity. What better place to demonstrate the malevolence of Finlay's mos-<lb/>
+quitos than here where, for at least 11 years, no yellow fever had developed. During<lb/>
+that summer Finlay inoculated five volunteers over there in the Quinta San Jose (Dr.<lb/>
+Hench points to the Quinta); one was Padre Urra whose results gave Finlay the most<lb/>
+satisfaction.</p>
+<p><hi>An Indifferent World</hi></p>
+<p>In 1894, after 13 years of work Finlay became discouraged. Among 90 patients<lb/>
+inoculations were &ldquo;positive&rdquo; in only 18 per cent. Despite his 44 papers on the mos-<lb/>
+quito theory Dr. Delgado was apparently his only medical convert. Finlay concluded<lb/>
+that therapeutic inoculations were a &ldquo;troublesome&rdquo; procedure, &ldquo;not likely to gain<lb/>
+adherents&rdquo; (Finlay's Selected Works, p. 232). But when he proposed to control yellow<lb/>
+fever by preventing contacts between mosquitos and patients or non-immunes this too was<lb/>
+ignored. Even the European discovery, 4 years later, that mosquitos caused malaria<lb/>
+brought Finlay no governmental or medical support.</p>
+<pb n="4" id="f04435016"/>
+<p>Page 4</p>
+<p>Why were his inductive reasoning and experimental evidence disregarded so<lb/>
+universally? His son, Dr. Charles E. Finlay gave us the best explanation: (1) Dr.<lb/>
+Finlay was too far ahead of his time, and (2) the objective of his inoculations was<lb/>
+&ldquo;not demonstrative&rdquo; but primarily therapeutic. He tried less to demonstrate experi-<lb/>
+mental yellow fever than to produce prolonged post-inoculation &ldquo;immunity.&rdquo; To him the<lb/>
+relative, rather than absolute, isolation of his volunteers before and after inocula-<lb/>
+tion seemed sufficient, practical and more convenient. But because Finlay's volunteers<lb/>
+were <hi>not</hi> strictly quarantined those few who soon developed yellow fever were believed<lb/>
+(by every official and physician except Finlay and Delgado) to have somehow gotten<lb/>
+spontaneous yellow fever in the ordinary, unknown way.</p>
+<p>It would appear that whenever a choice involving patients had to be made<lb/>
+Dr. Finlay chose always to be, first - a physician, the considerate humanitarian<lb/>
+therapeutist; only thereafter would he be a &ldquo;cold,&rdquo; impersonal experimentalist. A<lb/>
+gentle kindly religious man, he could make no other decision. But this admirable<lb/>
+attribute brought him years of neglect, delayed and inadequate recognition and the<lb/>
+loss of a <unclear>clear-cut</unclear>, exclusively personal victory. I suspect that in the last analysis,<lb/>
+after recognition was attained he considered the price not exorbitant. Had he had the<lb/>
+chance to do it all over again he might well have made the same hard choices.</p>
+<p><hi>The Habana Yellow Fever Epidemic of 1900</hi></p>
+<p>As the 20th century dawned a new vicious epidemic of yellow fever developed.<lb/>
+Many American soldiers were still at Camp Columbia; some had private quarters in Que-<lb/>
+mados. Yellow fever began to appear a few blocks from where we now are, first at 102<lb/>
+Real Street (still the same number), next at 20 General Lee Street (now #404).</p>
+<p><hi>Dr. Jesse W. Lazear -- Finlay's Second Convert</hi></p>
+<p>On May 23, 1900 Dr. Jesse Lazear, a young laboratory expert at Columbia<lb/>
+Barracks Post Hospital, captured for his own microscopic inspection six mosquitoes<lb/>
+in the room of the yellow fever patient at 20 General Lee Street (Ref. Lazear's hand-<lb/>
+written laboratory notebook). Lazear, familiar with malarial mosquitos, was obviously<lb/>
+impressed by Finlay's work and was apparently about to become Finlay's second convert.</p>
+<pb n="5" id="f04435017"/>
+<p>Page 5</p>
+<p><hi>The United States Army Yellow Fever Board, 1900</hi></p>
+<p>During May and June 1900 the epidemic spread rapidly in Habana, Quemados<lb/>
+and elsewhere. Because of the emergency affecting American troups in Cuba, Surgeon<lb/>
+General Sternberg in Washington created (May 24) the U. S. Army Yellow Fever Board;<lb/>
+here was a chance to investigate the dubious claims being made for the latest &ldquo;yellow<lb/>
+fever germ.&rdquo; Appointed were Major Walter Reed and Dr. James Carroll who were in<lb/>
+Washington, and Drs. Agramonte and Lazear who were in Cuba. Dr. Aristides Agramonte,<lb/>
+a Cuban physician experienced in yellow fever research, was one of the U. S. Army's<lb/>
+contract surgeons.</p>
+<p><hi>The Board's First Investigations - Early Failures with Bacteria</hi></p>
+<p>To the Board as a whole, meeting first at Camp Columbia on June 25,<lb/>
+Finlay's mosquito theory was just one of several they planned to investigate. Al-<lb/>
+though late in June Lazear received from Finlay eggs of his culex mosquito and proceeded<lb/>
+to breed them, a search for Sanarelli's &ldquo;yellow fever germ&rdquo; received top priority and<lb/>
+consumed 5 fruitless weeks.</p>
+<p>&ldquo;<hi>Perhaps Dr. Finlay is Right</hi>!&rdquo;</p>
+<p>Late in July the epidemic spread to Pinar del Rio. There Agramonte, Reed<lb/>
+and Lazear made a crucial observation. A soldier in a prison-cell sickened and died<lb/>
+of yellow fever; his cell-mates exposed to the same food and atmosphere, remained well.<lb/>
+Could a winged agent have entered between the bars of the open window,<lb/>
+bitten one man and gone away? Perhaps Dr. Finlay <hi>was</hi> right after all!</p>
+<p>Back at Camp Columbia the Board intensified their study of Finlay's mosquitos,<lb/>
+received further encouragement from Finlay and volunteered themselves for the first<lb/>
+inoculations. On August 2 Reed was ordered to Washington temporarily, to finish the<lb/>
+report of a three-man medical commission of which he had been a member and whose<lb/>
+chairman had died.</p>
+<p><hi>Early Experiments at Columbia Barracks Post Hospital - Failures, Then Sudden Success<lb/>
+Death of the Martyr, Dr. Jesse W. Lazear</hi></p>
+<p>In August Lazear inoculated nine American volunteers, including himself,<lb/>
+with infected mosquitoes; nothing happened. Then suddenly he produced experimental<lb/>
+<pb n="6" id="f04435018"/>
+Page 6<lb/>
+yellow fever in Carroll and Private Dean. A few days later he himself developed<lb/>
+the disease and died (September 25) of what was officially recorded as accidental yellow<lb/>
+fever but which was (according to recently discovered data) almost certainly secret,<lb/>
+self-induced yellow fever.</p>
+<p><hi>New, Crucial Details of the Man-Mosquito Formula</hi></p>
+<p>Reed hastened back to Habana (October 4), depressed by Lazear's death,<lb/>
+elated by apparent results, but puzzled by the sudden &ldquo;success&rdquo; after early failures.<lb/>
+Studying intently the records, especially Lazear's pocket-notebook Reed discovered the<lb/>
+critical differences between the timings of the successful and unsuccessful inoculations.<lb/>
+Explained at last were the difficulties which Finlay, Reed and their colleagues had<lb/>
+had, the reason for the unpredictability of previous results.</p>
+<p>Under usual conditions mosquitos only become &ldquo;infected&rdquo; if they bite yellow<lb/>
+fever patients during the first three days before the &ldquo;poison&rdquo; disappears from their<lb/>
+blood. Next the poison has to &ldquo;ripen&rdquo; within the mosquito for 12 days or more before<lb/>
+the mosquito's bite is harmful.</p>
+<p><hi>Again, The World's Indifference and Ridicule</hi></p>
+<p>The Board's &ldquo;Preliminary Report&rdquo; (late Oct.) was received with the same<lb/>
+indifference and ridicule which Drs. Finlay and Delgado had endured so long. A<lb/>
+Washington editorial called it &ldquo;silly, nonsensical rigamarole&rdquo;. The skeptical world<lb/>
+was no more receptive to, or impressed by, Reed than it had been by Finlay because<lb/>
+the Board's 3 &ldquo;successful inoculations&rdquo; were only relatively controlled without<lb/>
+&ldquo;strict quarantine&rdquo; (in the experimental sense).</p>
+<p><hi>&ldquo;Camp Lazear&rdquo; on the Finca San Jose</hi></p>
+<p>To provide incontrovertible proof the Board decided to establish an ex-<lb/>
+perimental station under strictest quarantine. Rejecting other prospective sites, Reed<lb/>
+chose the Finca San Jose, leasing this part of the finca from Dr. Ignacio Rojas and<lb/>
+his wife the former Maria Lomas, viuda de Pedroso. Although most appropriate, Reed's<lb/>
+choice of this already-historic place was apparently quite coincidental. Thus for<lb/>
+the third time (1879, 1883, 1900) the Finca San Jose became the locale for important<lb/>
+observations on yellow fever (Nov. 20, 1900 - March 1, 1901).</p>
+<pb n="7" id="f04435019"/>
+<p>Page 7</p>
+<p><hi>Drama at &ldquo;Camp Lazear&rdquo;: &ldquo;Buildings Number One and Two&rdquo;</hi></p>
+<p>The experimental station named &ldquo;Camp Lazear&rdquo; for their martyred colleague<lb/>
+comprised several tents for the soldier-volunteers and two small specially constructed<lb/>
+casetas. The tents were over there (pointing); this &ldquo;old warrior&rdquo; is &ldquo;Caseta One.&rdquo;<lb/>
+&ldquo;Caseta Two,&rdquo; blown down in 1926, was over there (pointing) 80 yards from &ldquo;Caseta<lb/>
+One&rdquo; and facing it.</p>
+<p>Most of you know of the dramatic experiments performed here. In this caseta<lb/>
+No. 1 brave volunteers slept on foul-smelling bedding soiled with blood and vomitus<lb/>
+from yellow fever patients. Although the volunteers (one of whom was Dr. Cooke who<lb/>
+died just last month) expected to develop yellow fever, none did because there were<lb/>
+no mosquitos.</p>
+<p>Caseta No. 2 was divided by a fine wire screen. On one side John Moran<lb/>
+exposed himself to 15 infected mosquitos and promptly developed yellow fever;<lb/>
+volunteers who stayed long hours on the other (mosquito-less) side remained well.<lb/>
+You of Habana knew Johnny Moran well for he lived here an honored citizen for many<lb/>
+years and died here September 1950. He was my esteemed friend whom I often visited<lb/>
+here.</p>
+<p>Thirteen more American and Spanish volunteers, named on the bronze tablets,<lb/>
+developed yellow fever here during various experiments. James L. Hanberry, the only<lb/>
+surviving volunteer, is prevented by illness from being your guest today.</p>
+<p>Once ill, the volunteers were removed immediately from Camp Lazear to<lb/>
+6 small yellow fever casetas across the La Playa railroad track from the old Columbia<lb/>
+Post Hospital. Most fortunately, all these brave volunteers survived, thanks to the<lb/>
+expert care of Dr. Roger Ames whose widow has come all the way from North Carolina to<lb/>
+be with you today.</p>
+<p><hi>Dr. Finlay's Visits to Camp Lazear, Nov. 1900 - Feb. 1901</hi></p>
+<p>Dr. Finlay himself made no experiments at the &ldquo;Camp Lazear part&rdquo; of the<lb/>
+Finca San Jose. But he came here often as a member of the Habana Board of Experts<lb/>
+to confirm the diagnoses of experimental yellow fever, and as a friend of Reed, Carroll<lb/>
+and Agramonte to watch developments. Thus he adorned with his presence not only the<lb/>
+Quinta San Jose (1883) but also Camp Lazear (1900 - 1901).</p>
+<pb n="8" id="f04435020"/>
+<p>Page 8</p>
+<p><hi>Time to Celebrate</hi></p>
+<p>The problem solved, the U. S. Army Board disbanded Camp Lazear March 1, 1901<lb/>
+(although they kept the lease till October 1901). Now using methods suggested by<lb/>
+Finlay and others, Gorgas within three months freed Habana of its age-old pestilence.</p>
+<p>Senor Presidente, ladies and gentlemen, I wish that after these memorable<lb/>
+ceremonies we could all go down to the Parque Central of Habana, enter the door of<lb/>
+the narrow building next to the Hotel Inglaterra, and climb the 32 steps to a long<lb/>
+narrow room on the second floor above what is now the &ldquo;Press Wireless of Cuba.&rdquo;</p>
+<p>Let us imagine we are doing this tonight and the time is 7 p.m., Saturday,<lb/>
+December 22, 1900. The room is brightly lit for this is Delmonico's Restaurant, and<lb/>
+here are gathered a distinguished company of 60 Cuban and American governmental and<lb/>
+medical personalities. All have come here to honor Dr. Finlay.</p>
+<p>As Major Reed takes a seat near the guest of honor, two strong emotions<lb/>
+compete within him for ascendency. In his mind is anxiety. Just today a Washington<lb/>
+newspaper ridiculed him and his colleagues, calling them &ldquo;medical amateurs,&rdquo; and<lb/>
+sarcastically dismissing the mosquito hypothesis as ridiculous speculation.</p>
+<p>But what concerns Reed is the men he left at Camp Lazear this afternoon.<lb/>
+Just yesterday that brave Irish lad, 24 year old Johnny Moran exposed himself to the<lb/>
+the infected mosquitos in Caseta No. 2. And eleven more young volunteers are waiting<lb/>
+their turn to match their physical and spiritual courage against death by yellow fever.<lb/>
+Will any of them have to die like Lazear?</p>
+<p>Yes, the Major has reason for concern. the planned experiments are by<lb/>
+no means finished; it may take three more months to obtain enough proof to satisfy<lb/>
+the most critical scientists.</p>
+<p>But in Reed's heart is a humble joy, a thankfulness impossible to suppress<lb/>
+because recent results practically guarantee a successful conclusion. Hence the<lb/>
+propriety of tonight's pre-Christmas celebration. Reed's gratitude is properly directed<lb/>
+to many, to his loyal, indefatigable colleagues, Drs. Carroll and Agramonte,<lb/>
+to Kissinger, Moran, Hanberry, &ldquo;Cookie&rdquo;, Benigno (whom Reed affectionately called<lb/>
+&ldquo;Sweet-Potato&rdquo;: &ldquo;Boniato&rdquo;), and the other volunteers (&ldquo;Gentlemen, I salute you&rdquo;) but<lb/>
+especially to three others: -</p>
+<pb n="9" id="f04435021"/>
+<p>Page 9</p>
+<p>To the young martyr, Jesse Lazear: &ldquo;He was a splendid, brave fellow, and I<lb/>
+lament his loss more than words can tell; but his name will live in the history of<lb/>
+those who have benefited humanity... It is my own earnest wish that whatever credit may<lb/>
+be hereafter given to the work of the American Commission in Cuba during the past year,<lb/>
+the name of my late colleague, Dr. Lazear, may be always associated therewith.&rdquo;</p>
+<p>To his mentor and friend, Dr. Finlay: &ldquo;We here desire to express our sincere<lb/>
+thanks to Doctor Finlay who accorded us a most courteous interview, and has gladly<lb/>
+placed at our disposal his several publications relating to yellow fever during the<lb/>
+past 19 years; and also for the ova of the species of mosquito with which he had made<lb/>
+his several inoculations...To Dr. Finlay must be given full credit for the theory of<lb/>
+the propagation of yellow fever by means of the mosquito...&rdquo;</p>
+<p>To his Maker: &ldquo;I thank God...the prayer that has been mine for 20 or more<lb/>
+years that I might be permitted in some way or sometime to do something to alleviate<lb/>
+human suffering, has been answered.&rdquo;</p>
+<p>Answered too, is the 20 year old prayer of the honored guest, Dr. Finlay.<lb/>
+The banquet is now ending and he has just been given a bronze statuette, a small token<lb/>
+of esteem, a fine souvenir of this wonderful evening. How proud and happy he has a<lb/>
+right to be.</p>
+<p>It is almost midnight. Listen quietly as Doctor Finlay responds briefly,<lb/>
+graciously, feelingly: &ldquo;Twenty years ago, guided by indications which I deemed cer-<lb/>
+tain, I sallied forth into an arid and unknown field; I discovered therein a stone,<lb/>
+rough in appearance; I picked it up and with the assistance of my efficient and<lb/>
+faithful co-laborer, Dr. Claudio Delgado, polished and examined it carefully, ar-<lb/>
+riving at the conclusion that we had discovered a rough diamond. But nobody would<lb/>
+believe us, till years later there arrived a commission, composed of intelligent men,<lb/>
+experts in the required kind of work, who in a short time extracted from the rough<lb/>
+shell the stone <add>to</add> whose brilliancy none can now be blind.&rdquo; (Carlos Finlay, Dec. 22, 1900).</p>
+<p>* * * * * * * * * *</p>
+<p>As Dr. Finlay sat down, the applause began. It has never ceased: 52 years<lb/>
+later it still continues, as our presence here today testifies, and the Cuban-American<lb/>
+friendship and cooperation, so felicitously expressed on that long-ago night, that too<lb/>
+will never diminish!</p>
+<pb n="10" id="f04435022"/>
+<p>Page 10</p>
+<p>Of the 25 principal men whose hopes were fulfilled at Camp Lazear, three<lb/>
+were Cubans (Drs. Finlay, Delgado, Agramonte), four were Spaniards, one was English,<lb/>
+one was Irish and 16 were Americans. Some were humbly born; some reached high<lb/>
+estate; some were civilians, others were soldiers, professionals and volunteers; some<lb/>
+were Catholic, some were Protestant, some were Hebrews. And here on this hemisphere's<lb/>
+23rd parallel they afforded a supreme demonstration of the potential brotherhood of<lb/>
+man.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

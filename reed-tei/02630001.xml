@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02630001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report of the Surgeon General, September 6, 1902</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02630001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1902-09-06</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Havard, Valery</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Forwood, William H.</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1902-09-06">September 6, 1902</date>
+<idno rend="suppress">02630001</idno>
+<title>Report of the Surgeon General, September 6, 1902</title>
+</bibl>
+</head>
+<p>This report documents yellow fever cases in the Army for the fiscal year ending June 30, 1902.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1902-09-06">
+<head>Report of the Surgeon General, September 6, 1902</head>
+<pb n="1" id="f02630001"/>
+<p>REPORT<lb/>
+OF<lb/>
+THE SURGEON-GENERAL.</p>
+<p>----------</p>
+<p>WAR DEPARTMENT, SURGEON GENERAL'S OFFICE,<lb/>
+<hi rend="italic">Washington, D. C., September 6, 1902</hi>.</p>
+<p>SIR: In rendering this report I have the honor to submit first, a<lb/>
+statement of disbursements made during the fiscal year ended June 30,<lb/>
+1902.</p>
+<p>FINANCIAL STATEMENT, 1902.<hi rend="superscript"><hi rend="italic">a</hi></hi></p>
+<p><hi rend="italic">Medical and hospital department, 1902</hi>.</p>
+<p>
+<table rows="35" cols="3">
+<row>
+<cell cols="1-2">Appropriated by act approved March 2, 1901 .......................</cell><cell>$2,000,000.00</cell>
+</row>
+<row>
+<cell>Sales to Quartermaster's Department ................</cell><cell>$588.00</cell><cell></cell>
+</row>
+<row>
+<cell>Sales to civil government, Philippine Islands .........</cell><cell>23,206.69</cell><cell></cell>
+</row>
+<row>
+<cell>Sales to States and Territories for use of National Guards</cell><cell>2, 266.64</cell><cell></cell>
+</row>
+<row>
+<cell>Other refundments during the year (including transfer<lb/>
+settlement by Treasury Department to adjust appro-<lb/>
+priations, $619.31) ................................</cell><cell>902.59</cell><cell></cell>
+</row>
+<row>
+<cell></cell><cell>--------------</cell><cell>26,963.92</cell>
+</row>
+<row>
+<cell></cell><cell></cell><cell>--------------</cell>
+</row>
+<row>
+<cell cols="1-2">Total to be accounted for ...................................</cell><cell>2,026,963.92</cell>
+</row>
+<row>
+<cell></cell><cell></cell><cell>==============</cell>
+</row>
+<row>
+<cell>Disbursed during the year:</cell><cell></cell><cell></cell>
+</row>
+<row>
+<cell>Expenses of medical supply depots ..............</cell><cell>$493.02</cell><cell></cell>
+</row>
+<row>
+<cell>Medical supplies ...............................</cell><cell>286,804.37</cell><cell></cell>
+</row>
+<row>
+<cell>Medical attendance and medicines ...............</cell><cell>11,240.50</cell><cell></cell>
+</row>
+<row>
+<cell>Medical expenses of recruiting ..................</cell><cell>48,875.64</cell><cell></cell>
+</row>
+<row>
+<cell>Pay of nurses .................................</cell><cell>3,975.95</cell><cell></cell>
+</row>
+<row>
+<cell>Pay of other employees .........................</cell><cell>122,170.48</cell><cell></cell>
+</row>
+<row>
+<cell>Washing of hospital linen ......................</cell><cell>40,960.43</cell><cell></cell>
+</row>
+<row>
+<cell>Expressage ....................................</cell><cell>127.60</cell><cell></cell>
+</row>
+<row>
+<cell>Notary fees ....................................</cell><cell>93.90</cell><cell></cell>
+</row>
+<row>
+<cell></cell><cell>--------------</cell><cell>517,741.89</cell>
+</row>
+<row>
+<cell cols="1-2">Transferred by Treasury settlements to adjust appropriations ......</cell><cell>333.54</cell>
+</row>
+<row>
+<cell>Balances on hand June 30, 1902:</cell><cell></cell><cell></cell>
+</row>
+<row>
+<cell>In United States Treasury and in transit thereto ..</cell><cell><hi rend="superscript"><hi rend="italic">b</hi></hi>$1,436,615.30</cell><cell></cell>
+</row>
+<row>
+<cell>In hands of disbursing officers--</cell><cell></cell><cell></cell>
+</row>
+<row>
+<cell>New York City .............................</cell><cell>30,701.85</cell><cell></cell>
+</row>
+<row>
+<cell>Washington, D.C ..........................</cell><cell>11,661.20</cell><cell></cell>
+</row>
+<row>
+<cell>St. Louis, Mo. (and in transit thereto) ........</cell><cell>13,862.83</cell><cell></cell>
+</row>
+<row>
+<cell>San Francisco, Cal ..........................</cell><cell>7,551.57</cell><cell></cell>
+</row>
+<row>
+<cell>Havana, Cuba ..............................</cell><cell>676.81</cell><cell></cell>
+</row>
+<row>
+<cell>Manila, P. I ................................</cell><cell>10,737.94</cell><cell></cell>
+</row>
+<row>
+<cell>Iloilo, P. I .................................</cell><cell>64.92</cell><cell></cell>
+</row>
+<row>
+<cell>Pekin, China ...............................</cell><cell>16.07</cell><cell></cell>
+</row>
+<row>
+<cell></cell><cell>--------------</cell><cell>1,511,888.49</cell>
+</row>
+<row>
+<cell></cell><cell></cell><cell>--------------</cell>
+</row>
+<row>
+<cell>Total accounted for ........................................</cell><cell></cell><cell>2,026,963.92</cell>
+</row>
+</table>
+</p>
+<p><hi rend="superscript"><hi rend="italic">a</hi></hi> The disbursements in this statement include settlements with public creditors<lb/>
+made by the accounting officers of the Treasury and charged by them to these<lb/>
+appropriations.</p>
+<p><hi rend="superscript"><hi rend="italic">b</hi></hi> Of this amount $1,000,000 was transferred July 1, 1902, to the appropriation<lb/>
+&ldquo;Medical and hospital department, 1903,&rdquo; by virtue of the act approved June 30,<lb/>
+1902.</p>
+<p>5</p>
+<pb n="2" id="f02630053"/>
+<p>REPORT OF THE SURGEON-GENERAL OF THE ARMY. 55</p>
+<p>which arrived May 1, 1 case of smallpox occurred before reaching<lb/>
+Honolulu, H. I., and was transferred to the quarantine station at that<lb/>
+port. There was no spread of the infection from this case.</p>
+<p>INFLUENZA.</p>
+<p>Of this disease 2,608 cases were reported from the Army, equivalent<lb/>
+to 28.20 cases per thousand of strength. Only 1 of these cases was<lb/>
+fatal. Most of the cases, total number 2,295, equaling 86.56 per<lb/>
+thousand of the strength, occurred in the United States.</p>
+<p>DENGUE.</p>
+<p>Dengue, on the contrary, was almost absent from the United States,<lb/>
+Cuba, and Porto Rico, but quite prevalent in the Philippines, giving<lb/>
+31.67 cases per thousand of strength in the division.</p>
+<p>DIPHTHERIA.</p>
+<p>This disease was not prevalent in the Army during the year. The<lb/>
+total number of cases was 27, 2 of which were fatal. Sixteen of the<lb/>
+cases occurred in the United States, and 11, with the 2 fatal cases, in<lb/>
+the Philippines. No case occurred in Cuba or Porto Rico.</p>
+<p>YELLOW FEVER.</p>
+<p>In the Army as a whole only 14 cases, 1 of which was fatal, were<lb/>
+reported during the year. All of these occurred in Cuba prior to the<lb/>
+precautionary measures taken in consonance with the important dis-<lb/>
+covery made by Maj. Walter Reed, surgeon, U. S. Army, and his asso-<lb/>
+ciates, concerning the propagation of the disease by the bites of infected<lb/>
+mosquitoes. Since prophylactic measures based on Major Reed's dis-<lb/>
+covery have been instituted no case of this dread disease has been<lb/>
+reported from the army in Cuba, and the reports from the civilian<lb/>
+population have been equally satisfactory. The importance of Major<lb/>
+Reed's work can not be overestimated. He has shown how the human<lb/>
+race may be freed from the scourge of yellow fever as Jenner showed<lb/>
+how it might be freed from the deadly ravages of smallpox.</p>
+<p>At the Pan-American Sanitary Congress held in the city of Habana,<lb/>
+Cuba, February 15 to 20, 1902, the Army Medical Department was<lb/>
+represented by Lieut. Col. Valery Havard, deputy surgeon-general,<lb/>
+Maj. William C. Gorgas, and Maj. J. R. Kean, surgeons, U. S. Army.</p>
+<p>The American republics represented by duly accredited delegates<lb/>
+were the United States (delegates from the Army and the Marine-<lb/>
+Hospital Service), Cuba, Mexico, Argentina, Colombia, Costa Rica,<lb/>
+Santo Domingo, Ecuador, Nicaragua, Paraguay, and Uruguay. Besides<lb/>
+the official delegates, the congress was also attended by many of the<lb/>
+best representatives of the profession in Cuba, as well as by several<lb/>
+architects and sanitary engineers.</p>
+<p>The papers read and discussed during the sessions covered a large<lb/>
+field of interesting and fruitful subjects and testified to the earnestness<lb/>
+and thoroughness with which, in spite of many difficulties, the work<lb/>
+of the congress was organized and carried out by the executive<lb/>
+committee.</p>
+<pb n="3" id="f02630054"/>
+<p>56 REPORT OF THE SURGEON-GENERAL OF THE ARMY.</p>
+<p>The most interesting and important session was doubtless that of<lb/>
+February 19, devoted to the history of yellow fever and especially the<lb/>
+recent discoveries concerning the nature and mode of transmission of<lb/>
+the disease. It soon appeared that the experiments carried out by<lb/>
+Major Reed's commission and subsequently by other distinguished<lb/>
+physicians in the city of Habana, were known to all the delegates and<lb/>
+that the inevitable conclusions would be accepted. Colonel Havard,<lb/>
+after his paper on the transmission and prevention of yellow fever<lb/>
+had been read and discussed, presented in open session, so that all<lb/>
+present--delegates and others--might vote upon it, a resolution on the<lb/>
+mosquito as causative agent of yellow fever. All voted in the affirma-<lb/>
+tive with only two exceptions--two negative votes cast by physicians<lb/>
+(not delegates) of obscure standing in the community. The resolution<lb/>
+was as follows:</p>
+<p>Accepting as an established fact that the mosquito (<hi rend="italic">Stegomyia fasciata</hi>) so far as<lb/>
+known is the only agent capable of transmitting yellow fever, and that consequently<lb/>
+the prophylaxis should consist in the destruction so far as possible of the mosqui-<lb/>
+toes of that species and the use of the most effective means to prevent their access to<lb/>
+yellow-fever patients.</p>
+<p>In the evening of that day the delegates met to consider the official<lb/>
+resolutions prepared by an especial committee. The resolution just<lb/>
+cited having been adopted without a dissenting voice, a motion was<lb/>
+made to add to it a clause embodying the practical deduction naturally<lb/>
+flowing from it, namely, that quarantine regulations in their applica-<lb/>
+tion to yellow-fever cases should be based upon the doctrine which it<lb/>
+enunciates. This motion was combated by the delegates from the<lb/>
+United States Marine-Hospital Service as well as by Dr. Porter, sec-<lb/>
+retary of the Florida board of health, and lost, a result as illogical as<lb/>
+it was unexpected.</p>
+<p>TYPHOID FEVER.</p>
+<p>Of this disease 594 cases were reported during the year, with 78<lb/>
+deaths and 5 discharges for disability. The cases were equivalent to<lb/>
+6.42 and the deaths to 0.84 per thousand of the strength of the Army.<lb/>
+The admission rate for this disease in the United States, 9.43, was<lb/>
+higher than in the Philippines, where it was 5.29 per thousand men,<lb/>
+and in Cuba, where it was only 3.21. In Porto Rico it was 10.41.<lb/>
+During the decade 1890-1899 the mean annual rates of admission and<lb/>
+death per thousand of strength were respectively 20.49 and 2.29, but<lb/>
+these rates are excessively high, as they include the great prevalence<lb/>
+of the disease in the camps of the Spanish-American war in 1898.<lb/>
+Going back to the decade 1888-1897 we find the mean annual admission<lb/>
+rate 4.95 and the death rate 0.55 per thousand of strength. During<lb/>
+the past year, therefore, the disease was considerably more prevalent<lb/>
+than during the years of peace prior to 1898.</p>
+<p>It is probable that the records give an underestimate of the number<lb/>
+of cases of typhoid, as 1,805 cases of fever, equivalent to 19.52 cases<lb/>
+per thousand men, were reported as undetermined. None of these<lb/>
+undetermined cases proved fatal. In the Philippines the rate of admis-<lb/>
+sion was 25.38 per thousand men, and in the United States 8.22, the<lb/>
+higher rate in the Pacific islands being probably due to a want of facili-<lb/>
+ties for making use of the Widal reaction.</p>
+<p>An epidemic of typhoid fever occurred at Fort Clark, Tex., Octo-<lb/>
+ber 1 to December 20, 1901, and was reported by Capt. T. S. Bratton,</p>
+</div1>
+</body>
+</text>
+</TEI.2>

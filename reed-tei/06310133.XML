@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06310133">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to Albert E. Truby, August 9, 1942</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06310133</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1942-08-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Truby, Albert E. </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kean, Cornelia Knox</name>
+<name type="person">Hench, Philip Showalter</name>
+<name type="person">Siler, J. F.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Cornwell, Dean</name>
+<name type="person">Havard, Valery</name>
+<name type="person">Carroll, James</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Osler, William</name>
+<name type="place">West Point (N.Y.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="hospital">Walter Reed (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1942-08-09">August 9, 1942</date>
+<idno rend="suppress">06310133</idno>
+<title>Letter from Jefferson Randolph Kean to Albert E. Truby, August 9, 1942</title>
+</bibl>
+</head>
+<p>Kean writes that he has started his memoir. In a postscript, Kean explains Gorgas was excluded from the yellow fever painting because Gorgas did not initially believe in the mosquito theory.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1942-08-09">
+<head>Letter from Jefferson Randolph Kean to Albert E. Truby, August 9, 1942</head>
+<pb n="1" id="f06310133"/>
+<opener>
+C<hi rend="subscript">2</hi><lb/>
+B<hi rend="subscript">5</hi><lb/>
+2804 N St. N. W.<lb/>
+Washington D.C.<lb/>
+<dateline>
+Sunday morning<lb/>
+<date value="1942-08-09">Aug. 9, 1942.</date>
+</dateline>
+<salute>My dear Truby</salute>
+</opener>
+<p>Please tell your bonny wife<lb/>
+that we have had a big easterly rain and<lb/>
+on Friday-no-on Wednesday I sat down and<lb/>
+wrote the first paragraph of the memoir, being<lb/>
+mindful of my promise to her on the 31<hi rend="superscript">st</hi><lb/>
+The max. that day was <hi>73</hi>&deg;. But the delightful<lb/>
+change of temperature had started a whole<lb/>
+lot of other activities besides the Introduction<lb/>
+and for a couple of days there was a succes-<lb/>
+sion of callers, jobs and <hi>must do</hi> things to<lb/>
+keep me busy. Yesterday I refused to leave my<lb/>
+desk until it was finished, read over with<lb/>
+Cornelia for errors and comments and finally<lb/>
+copied. At 6.10 pm I laid down my pen and<lb/>
+took a good drink of Magnider's 5 year old<lb/>
+Bourbon. Cornelia's first criticism was that<lb/>
+Dr. Hench was mentioned before you were, but<lb/>
+I think she modified her opinion when I went<lb/>
+over it and showed her that the first two pages<lb/>
+were introductory and that I thought the review<lb/>
+of the entire episode which he has brought about<lb/>
+adds appreciably to the value of your work.<lb/>
+<pb n="2" id="f06310134"/>
+2<lb/>
+I think we all agree that the last dra[f]<lb/>
+memoir is a decided improvement over<lb/>
+first one and many of the suggestions are du[e]<lb/>
+to the <del>s</del><add>r</add>esearche<del>s</del><add>d</add> that his questionnaires and<lb/>
+letters caused us to make. If however you<lb/>
+feel that there is too much Hench in it, you have<lb/>
+my permission to cut out the second page after<lb/>
+the 3<hi rend="superscript">rd</hi> line. I think however that it is quite<lb/>
+desirable that the readers of your memoir<lb/>
+should understand that a general revision of<lb/>
+the entire work of the Reed Board is in pro-<lb/>
+gress to which your memoir contribu<del>s</del><add>t</add>es essen-<lb/>
+tial facts and points of view which could be<lb/>
+obtained from no other source.</p>
+<p>I am conscious of owing you a letter on two<lb/>
+but hope you will forgive me as I had<lb/>
+another bout at Walter Reed and had no<lb/>
+writing material there and went into Episto-<lb/>
+lary bankruptcy when I came home. I<lb/>
+was much interested to see Siler's letter to you<lb/>
+advising the use of <hi>Aedes Egypti (Culex Fasciatus)</hi><lb/>
+I had wondered what you should do about that.<lb/>
+Also I was interested in your reply to him<lb/>
+giving the news of Jack from West Point.<lb/>
+How they do work those boys! I have heard<lb/>
+from my grandson three times but he give very<lb/>
+few details. Mrs. Kean wants to be remembered<lb/>
+to you both. We are both very well and hope you both are likewise.</p>
+<closer>
+<salute>With cordial regards</salute>
+<signed>J. R. Kean</signed>
+</closer>
+</div1>
+<div1 type="letter" n="1942-08-09">
+<head>Letter from Jefferson Randolph Kean to Albert E. Truby, August 11, 1942</head>
+<pb n="3" id="f06310135"/>
+<opener>
+2404 N St. N. W. Washington D.C.<lb/>
+<dateline>
+<date value="1942-08-11">Aug 11, 1942</date>
+</dateline><lb/>
+Post Script No 3.<lb/>
+<salute>Dear Truby:</salute>
+</opener>
+<p>I forgot one thing I intended to say<lb/>
+in my letter to you of Sunday until the envelope<lb/>
+was sealed &amp; ready to mail.</p>
+<p>Some one asked me why Gorgas was not among<lb/>
+the Yellow Fever Conquerors and it is a very<lb/>
+natural question. The answer is of course that on<lb/>
+the date celebrated in Cornwell's painting Gorgas was<lb/>
+not a believer in the mosquito theory and had no<lb/>
+share in the work of Ree<del>s</del><add>d</add>'s Board except in the perform-<lb/>
+ance of his duty to see the cases. The conversion of<lb/>
+Gorgas and its date is a matter of interest and it is<lb/>
+not clearer and correctly stated in any of the biographies<lb/>
+or sketches. The facts are as follows and they are clearly<lb/>
+stated by Gorgas himself. He told me about Feb. 1<hi rend="superscript">st</hi> 1901,<lb/>
+just before I left for Washington, that he know that<lb/>
+Reed had succeeded in causing attacks of yellow fever<lb/>
+by the bites of infected mosquitos but he did not believe<lb/>
+that it was the only way <hi>or even the ordinary way of<lb/>
+conveying the disease</hi>. He make the same statement in<lb/>
+the same words as his mental attitude, when Reed<lb/>
+read his paper &amp; announced the eleven conclusions<lb/>
+of the Y. F. Board on Feb. 4 1901, in his (Gorgas's) Final<lb/>
+Report as Chief Sanitary Officer of Havana dated July 12,<lb/>
+1902. (Senate Doc. No. 822 p. 236) The 10<hi rend="superscript">th</hi> conclusion in Reed's<lb/>
+paper was &ldquo;The spread of yellow fever can be most<lb/>
+(over)<lb/>
+<pb n="4" id="f06310136"/>
+2.<lb/>
+effectually controlled by measures directed to the<lb/>
+destruction of mosquitos and the protection of the<lb/>
+sick against the bites of these insects.&rdquo; Gorgas said<lb/>
+he had very little hope of accomplishing much in<lb/>
+this way, but he says the work was begun on <hi>Feb</hi>. 4.<lb/>
+This was manifesty a clerical error; (Reed gives the date<lb/>
+as Feb. 15) but Gorgas goes on to say that with only<lb/>
+6 deaths from March to September 1901 the result convin-<lb/>
+ced the sanitary department that the mosquito not<lb/>
+only could convey the disease but that it was the<lb/>
+ordinary way. Reed's fomites experiments, which<lb/>
+were of enormous importance, yet seemed (seemed)<lb/>
+to make no impression on Gorgas and he does not<lb/>
+mention them in his report. Altho. Havard's<lb/>
+Circular No. 5 Dept. of Cuba <add>forbidding disinfectious for Y.F.</add> was issued April 17<lb/>
+Gorgas evidently did not consider it as applying<lb/>
+to the Sanitary Department and continued to<lb/>
+disinfect bedding, clothing etc. until <hi>Aug. 15, 1901</hi>,<lb/>
+when he wrote to Reed that he had stopped it.<lb/>
+So I think we can use that as the date of the <del>con</del><lb/>
+acceptance by Gorgas of the eleven conclusions of the<lb/>
+Reed Board. As that was a year lacking 12 days,<lb/>
+after the date of Carroll's infection which is celebrated<lb/>
+by Cornwell's painting, it is quite clear why Gorgas<lb/>
+could not appear in that group as one of the Con-<lb/>
+querors. The date of beginning the mosquito warfare<lb/>
+is an evidence of General Wood's belief, not of<lb/>
+Gorgas's. Now mind you <add>I</add> am not criticising Gorgas<lb/>
+for being somewhat conservative. Osler says that a healthy<lb/>
+scepticism is an important attitude of the scientific mind<lb/>
+but his complete ignoring of conclusion 8 I cannot understand.</p>
+<closer>
+<salute>Cordially yours</salute>
+<signed>J. R. Kean</signed>
+<seg>I do not recall whether this attitude of Gorgas was mentioned<lb/>
+in your memoir.
+</seg></closer>
+</div1>
+</body>
+</text>
+</TEI.2>

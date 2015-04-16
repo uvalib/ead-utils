@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t06220005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Yellow Fever and Smallpox Table [in Spanish]: Mortalidad de las Viruelas y de Fiebre Amarilla, [1879?]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06220005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1879-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+
+<name type="place">Habana, Cuba</name>
+<name type="hospital">Hospital Civil</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1879-00-00">[1879?]</date>
+<idno rend="suppress">06220005</idno>
+<title>Yellow Fever and Smallpox Table [in Spanish]: Mortalidad de las Viruelas y de Fiebre Amarilla, [1879?]</title>
+</bibl>
+</head>
+<p>This table charts deaths from smallpox and yellow fever in Havana, from 1870-1879.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1879-00-00">
+<head>Yellow Fever and Smallpox Table [in Spanish]: Mortalidad de las Viruelas y de Fiebre Amarilla, [1879?]</head>
+<pb n="1" id="f06220005"/>
+<p>MORTALIDAD de las viruelas y de la fiebre amarilla de los<lb/>
+diez &uacute;ltimos a&ntilde;os en la Habana.</p>
+<p>VERANO.</p>
+<p><unclear>(1)</unclear></p>
+<p>
+<table rows="43" cols="9">
+<row>
+<cell rows="1-2"></cell><cell cols="2-3">JULIO.</cell><cell cols="4-5">AGOSTO.</cell><cell cols="6-7">SETBRE.</cell><cell cols="8-9">SUMA.</cell></row>
+<row>
+<cell>1879.</cell><cell>Viruelas</cell><cell>Fiebre<lb/>
+amarilla</cell><cell>Viruelas</cell><cell>Fiebre<lb/>
+amarilla</cell><cell>Viruelas</cell><cell>Fiebre<lb/>
+amarilla</cell><cell>Viruelas</cell><cell>Fiebre<lb/>
+amarilla</cell></row>
+<row>
+<cell>1......</cell><cell>.........</cell><cell>11</cell><cell>1</cell><cell>19</cell><cell>.........</cell><cell>7</cell><cell>1</cell><cell>37</cell></row>
+<row>
+<cell>2.. ...</cell><cell>1</cell><cell>8</cell><cell>.........</cell><cell>21</cell><cell>1</cell><cell>7</cell><cell>2</cell><cell>36</cell></row>
+<row>
+<cell>3......</cell><cell>1</cell><cell>7</cell><cell>1</cell><cell>20</cell><cell>1</cell><cell>9</cell><cell>3</cell><cell>36</cell></row>
+<row>
+<cell>4......</cell><cell>2</cell><cell>7</cell><cell>.........</cell><cell>16</cell><cell>1</cell><cell>14</cell><cell>3</cell><cell>37</cell></row>
+<row>
+<cell>5......</cell><cell>.........</cell><cell>10</cell><cell>1</cell><cell>19</cell><cell>.........</cell><cell>11</cell><cell>1</cell><cell>40</cell></row>
+<row>
+<cell>6......</cell><cell>4</cell><cell>14</cell><cell>.........</cell><cell>6</cell><cell>2</cell><cell>6</cell><cell>6</cell><cell>26</cell></row>
+<row>
+<cell>7......</cell><cell>.........</cell><cell>9</cell><cell>3</cell><cell>8</cell><cell>........</cell><cell>7</cell><cell>3</cell><cell>24</cell></row>
+<row>
+<cell>8......</cell><cell>1</cell><cell>18</cell><cell>1</cell><cell>11</cell><cell>1</cell><cell>.........</cell><cell>3</cell><cell>29</cell></row>
+<row>
+<cell>9......</cell><cell>1</cell><cell>14</cell><cell>2</cell><cell>13</cell><cell>.........</cell><cell>7</cell><cell>3</cell><cell>34</cell></row>
+<row>
+<cell>10......</cell><cell>3</cell><cell>21</cell><cell>.........</cell><cell>14</cell><cell>.........</cell><cell>6</cell><cell>3</cell><cell>41</cell></row>
+<row>
+<cell>11......</cell><cell>2</cell><cell>21</cell><cell>1</cell><cell>14</cell><cell>2</cell><cell>6</cell><cell>5</cell><cell>41</cell></row>
+<row>
+<cell>12......</cell><cell>1</cell><cell>21</cell><cell>.........</cell><cell>9</cell><cell>.........</cell><cell>5</cell><cell>1</cell><cell>35</cell></row>
+<row>
+<cell>13......</cell><cell>1</cell><cell>15</cell><cell>1</cell><cell>14</cell><cell>.........</cell><cell>4</cell><cell>2</cell><cell>33</cell></row>
+<row>
+<cell>14......</cell><cell>3</cell><cell>16</cell><cell>1</cell><cell>19</cell><cell>1</cell><cell>3</cell><cell>5</cell><cell>38</cell></row>
+<row>
+<cell>15......</cell><cell>2</cell><cell>11</cell><cell>.........</cell><cell>13</cell><cell>.........</cell><cell>5</cell><cell>2</cell><cell>29</cell></row>
+<row>
+<cell>16......</cell><cell>.........</cell><cell>16</cell><cell>.........</cell><cell>17</cell><cell>2</cell><cell>2</cell><cell>2</cell><cell>35</cell></row>
+<row>
+<cell>17......</cell><cell>1</cell><cell>16</cell><cell>1</cell><cell>16</cell><cell>.........</cell><cell>4</cell><cell>2</cell><cell>36</cell></row>
+<row>
+<cell>18... ..</cell><cell>1</cell><cell>15</cell><cell>3</cell><cell>16</cell><cell>.........</cell><cell>1</cell><cell>4</cell><cell>32</cell></row>
+<row>
+<cell>19......</cell><cell>.........</cell><cell>10</cell><cell>.........</cell><cell>21</cell><cell>.........</cell><cell>4</cell><cell>.........</cell><cell>35</cell></row>
+<row>
+<cell>20......</cell><cell>2</cell><cell>16</cell><cell>2</cell><cell>10</cell><cell>.........</cell><cell>5</cell><cell>4</cell><cell>31</cell></row>
+<row>
+<cell>21......</cell><cell>1</cell><cell>16</cell><cell>.........</cell><cell>11</cell><cell>.........</cell><cell>6</cell><cell>1</cell><cell>33</cell></row>
+<row>
+<cell>22......</cell><cell>.........</cell><cell>16</cell><cell>........</cell><cell>15</cell><cell>.........</cell><cell>4</cell><cell>.........</cell><cell>35</cell></row>
+<row>
+<cell>23......</cell><cell>.........</cell><cell>17</cell><cell>.........</cell><cell>6</cell><cell>.........</cell><cell>5</cell><cell>.........</cell><cell>28</cell></row>
+<row>
+<cell>24......</cell><cell>.........</cell><cell>18</cell><cell>.........</cell><cell>15</cell><cell>1</cell><cell>3</cell><cell>1</cell><cell>36</cell></row>
+<row>
+<cell>25......</cell><cell>1</cell><cell>18</cell><cell>2</cell><cell>16</cell><cell>1</cell><cell>1</cell><cell>4</cell><cell>35</cell></row>
+<row>
+<cell>26......</cell><cell>3</cell><cell>17</cell><cell>1</cell><cell>13</cell><cell>1</cell><cell>2</cell><cell>5</cell><cell>32</cell></row>
+<row>
+<cell>27......</cell><cell>.........</cell><cell>12</cell><cell>1</cell><cell>9</cell><cell>.........</cell><cell>4</cell><cell>1</cell><cell>25</cell></row>
+<row>
+<cell>28......</cell><cell>1</cell><cell>19</cell><cell>2</cell><cell>11</cell><cell>.........</cell><cell>5</cell><cell>3</cell><cell>35</cell></row>
+<row>
+<cell>29......</cell><cell>1</cell><cell>26</cell><cell>1</cell><cell>6</cell><cell>.........</cell><cell>4</cell><cell>2</cell><cell>36</cell></row>
+<row>
+<cell>30......</cell><cell>.........</cell><cell>16</cell><cell>........</cell><cell>8</cell><cell>.........</cell><cell>1</cell><cell>.........</cell><cell>25</cell></row>
+<row>
+<cell>31......</cell><cell>.........</cell><cell>24</cell><cell>1</cell><cell>11</cell><cell>.........</cell><cell>.........</cell><cell>1</cell><cell>35</cell></row>
+<row>
+<cell>Suma...</cell><cell>33</cell><cell>475</cell><cell>26</cell><cell>417</cell><cell>14</cell><cell>148</cell><cell>73</cell><cell>1040</cell></row>
+<row>
+<cell>1878...</cell><cell>63</cell><cell>504</cell><cell>32</cell><cell>374</cell><cell>24</cell><cell>179</cell><cell>119</cell><cell>1057</cell></row>
+<row>
+<cell>1877...</cell><cell>9</cell><cell>249</cell><cell>9</cell><cell>285</cell><cell>5</cell><cell>234</cell><cell>23</cell><cell>768</cell></row>
+<row>
+<cell>1876...</cell><cell>10</cell><cell>675</cell><cell>4</cell><cell>250</cell><cell>.........</cell><cell>97</cell><cell>14</cell><cell>1022</cell></row>
+<row>
+<cell>1875...</cell><cell>47</cell><cell>187</cell><cell>31</cell><cell>144</cell><cell>19</cell><cell>102</cell><cell>97</cell><cell>433</cell></row>
+<row>
+<cell>1874...</cell><cell>108</cell><cell>361</cell><cell>110</cell><cell>416</cell><cell>75</cell><cell>186</cell><cell>293</cell><cell>963</cell></row>
+<row>
+<cell>1873...</cell><cell>6</cell><cell>416</cell><cell>3</cell><cell>127</cell><cell>2</cell><cell>35</cell><cell>11</cell><cell>578</cell></row>
+<row>
+<cell>1872...</cell><cell>10</cell><cell>68</cell><cell>7</cell><cell>70</cell><cell>1</cell><cell>59</cell><cell>18</cell><cell>197</cell></row>
+<row>
+<cell>1871...</cell><cell>46</cell><cell>234</cell><cell>32</cell><cell>138</cell><cell>8</cell><cell>72</cell><cell>86</cell><cell>444</cell></row>
+<row>
+<cell>1870...</cell><cell>63</cell><cell>112</cell><cell>49</cell><cell>201</cell><cell>24</cell><cell>91</cell><cell>136</cell><cell>404</cell></row>
+</table></p>
+<p>RESUMEN DEL VERANO DE</p>
+<p>
+<table rows="12" cols="3">
+<row>
+<cell></cell><cell>VIRUELAS.</cell><cell>FIEBRE AMARILLA.</cell></row>
+<row>
+<cell>1870......</cell><cell>136</cell><cell>404</cell></row>
+<row>
+<cell>1871......</cell><cell>86</cell><cell>444</cell></row>
+<row>
+<cell>1872......</cell><cell>18</cell><cell>197</cell></row>
+<row>
+<cell>1873......</cell><cell>11</cell><cell>578</cell></row>
+<row>
+<cell>1874......</cell><cell>293</cell><cell>963</cell></row>
+<row>
+<cell>1875......</cell><cell>97</cell><cell>433</cell></row>
+<row>
+<cell>1876......</cell><cell>14</cell><cell>1022</cell></row>
+<row>
+<cell>1877......</cell><cell>23</cell><cell>768</cell></row>
+<row>
+<cell>1878......</cell><cell>119</cell><cell>1057</cell></row>
+<row>
+<cell>1879......</cell><cell>73</cell><cell>1040</cell></row>
+<row>
+<cell>Media......</cell><cell>87</cell><cell>690.'6</cell></row>
+</table></p>
+<p>NOTA--El 12 de Setiembre falleci&oacute; de fiebre amarilla en el Hos-<lb/>
+pital Civil de hombres un negro carabal&iacute; nombrado L&iacute;mbano, como<lb/>
+de 43 a&ntilde;os de edad.</p>
+<p>A. G. del Valle.</p>
+<p>&ldquo;Gaceta M&eacute;dica de la<lb/>
+Habana&rdquo; - <unclear>Tomo. 2&deg;n.&deg;1.</unclear><lb/>
+N&otilde;viembre de 1879--</p>
+<p><unclear><hi>J. R. A.</hi></unclear></p>
+</div1>
+</body>
+</text>
+</TEI.2>

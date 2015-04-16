@@ -1,0 +1,638 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAGA0080">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report to the Provisional Governor, by Carlos J. Finlay, October 31, 1907</title>
+<title type="gmd">[electronic resource]</title>
+<author>Finlay, Carlos J.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGA0080</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc> 
+</fileDesc>
+<profileDesc>
+<creation><date>1907-10-31</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Provisional Governor</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Ludlow, William</name>
+<name type="person">Fernandez, Juan Santos</name>
+<name type="person">Delgado, Claudio</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Furbush, [s.n.]</name>
+<name type="person">Barnet, E. B.</name>
+<name type="person">Estrada Palma, Tomas</name>
+<name type="person">Thomason, H. D.</name>
+<name type="person">Lopez del Valle, Jose A.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cuba</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>12 pp.</extent>
+<date value="1907-10-31">October 31, 1907</date>
+<idno rend="suppress">KAGA0080</idno>
+<title>Report to the Provisional Governor, by Carlos J. Finlay, October 31, 1907</title>
+</bibl>
+</head>
+<p>Finlay discusses the creation and function of the Superior Board of Health, which included establishing new sanitary ordinances. He continues by discussing the two most severe outbreaks of disease in Cuba since 1901: smallpox and yellow fever. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1907-10-31">
+<head>Report to the Provisional Governor, by Carlos J. Finlay, October 31, 1907</head>
+<pb n="1" id="fKAGA0080"/>
+<p><hi rend="italic">Havana, Cuba, October 31, 1907</hi>.</p>
+<p>TO THE PROVISIONAL GOVERNOR.</p>
+<p>SIR:</p>
+<p>In accordance with instructions received from your Office,<lb/>
+I have the honor to report as follows the operations of the San-<lb/>
+itary Department from the beginning of the Provisional Gov-<lb/>
+ernment of Intervention up to the present date.</p>
+<p>For a better understanding of these operations, I have found<lb/>
+it necessary to begin by a statement of its organization and its<lb/>
+operations since the establishment of the Republic.</p>
+<p>Appended hereto is the report of the Administrative Officer<lb/>
+giving the internal organization of the Office, and a statement<lb/>
+of the work performed during the year by its several divisions.</p>
+<p>I. ORGANIZATION.</p>
+<p>No national sanitary organization existed in Cuba at the<lb/>
+time of the American military government, and the very excel-<lb/>
+lent sanitary work done during that period, not only in Havana<lb/>
+where the brilliant results were readily appreciated but also in<lb/>
+other less important localities, must be credited to the individual<lb/>
+effort of the military surgeons and engineers, working each<lb/>
+along his own lines under local commanders.</p>
+<p>The first law looking to any national organization was pro-<lb/>
+mulgated by Military Order No. 159, only three days before the<lb/>
+establishment of the Cuban Republic, and the necessary steps to<lb/>
+carry it into effect were left entirely to the new government.</p>
+<p>In May 1902 the Havana Sanitary Department which had<lb/>
+been under the charge of Major W. C. Gorgas since 1900, and<lb/>
+included besides the municipality of Havana those of Santiago<lb/>
+de Las Vegas, Marianao and Guanabacoa, was made over to the<lb/>
+Cuban authorities, and a Chief Sanitary Officer, as prescribed<lb/>
+by M. O. No. 159, was nominated, and also a &ldquo;Jefe Ejecutivo&rdquo;<lb/>
+whose functions were similar to those previously held by Dr.<lb/>
+<pb n="2" id="fKAGA0090"/>
+462<lb/>
+Furbush in the American Department. The vacancies left in<lb/>
+the sanitary office by the withdrawal of American employees<lb/>
+were mostly filled by Cuban employees who had been working<lb/>
+under the former and had been recommended for such promo-<lb/>
+tion; and during the next seven months the Havana sanitary<lb/>
+department, pending the appointment of a Superior Board of<lb/>
+Health, was maintained pretty much on the same footing and<lb/>
+worked along the same lines as had been adopted since 1901 by<lb/>
+Major W. C. Gorgas. In the mean time the other municipali-<lb/>
+ties of the Island depended entirely for their sanitary control on<lb/>
+local health officers appointed by each &ldquo;Ayuntamiento&rdquo; and<lb/>
+only responsible to the latter for the fulfillment of their duties.</p>
+<p>In January 1903 the Superior Board was finally appointed,<lb/>
+and proceeded to appoint local Sanitary Officers and local<lb/>
+Boards of Health for the different municipal districts, in ac-<lb/>
+cordance with the rules set down in M. O. No. 159. When ne-<lb/>
+cessary, they were reminded of their obligation to report prompt-<lb/>
+ly to the Central Office the existence of infectious diseases or of<lb/>
+unsanitary conditions which the Ayuntamiento was unable or<lb/>
+disinclined to remedy. In such cases the Chief Sanitary Officer,<lb/>
+on his own responsibility or by decision of the Superior Board,<lb/>
+after verifying the grounds for such denunciations by means of<lb/>
+its Provincial Inspectors or by special delegates sent from Hava-<lb/>
+na, would adopt such measures as might remedy the evil or pre-<lb/>
+vent the propagation of infection, appealing to the Secretar&iacute;a de<lb/>
+Gobernaci&oacute;n when special appropriations were needed or to ob-<lb/>
+tain from the Ayuntamientos the cooperation which they are<lb/>
+expected to give to the Sanitary Department. When serious un-<lb/>
+sanitary conditions were reported requiring the intervention of<lb/>
+other Secretar&iacute;as (Obras P&uacute;blicas, for instance) the matter had<lb/>
+to be referred with our recommendations to the Secretar&iacute;a de<lb/>
+Gobernaci&oacute;n, pointing out the urgency of the case, and if no ac-<lb/>
+tion had been taken within a reasonable length of time, attention<lb/>
+would be again called to the matter, this being the limit of our<lb/>
+authority in such events.</p>
+<p>Accurate statistical data being required for our monthly<lb/>
+and annual reports, the local officers were requested to send<lb/>
+them with regularity. But for our statistics of deaths and re-<lb/>
+gistered births it was found much more satisfactory to obtain<lb/>
+them through the Secretar&iacute;a de Justicia from the registrars<lb/>
+(Jueces Municipales) of the different Judicial wards. Blank<lb/>
+forms of death certificates, in duplicate, were supplied by the<lb/>
+<pb n="3" id="fKAGA0100"/>
+463<lb/>
+Superior Board to every practising physician, and after their<lb/>
+presentation to the registrar, the latter would mail to the San-<lb/>
+itary Department the duplicate bearing the same number under<lb/>
+which the original had been filed at his office.</p>
+<p>By this means we were assured aginst the possibility that<lb/>
+any of the death certificates would be omitted in our own files.</p>
+<p>A Commission of medical experts had been created in Ha-<lb/>
+vana by General Ludlow in 1899 for the official diagnosis of<lb/>
+yellow fever; and subsequently, under General Wood's admi-<lb/>
+nistration, the attributes of this Commission had been extended<lb/>
+so as to include other infectious diseases. The valuable services<lb/>
+obtained from this Commission having been duly appreciated by<lb/>
+the Cuban Government, the Cuban Sanitary Department has<lb/>
+continued to utilize them; and two smaller boards for the diag-<lb/>
+nosis of doubtful cases, were also instituted at Santiago de Cuba<lb/>
+and Cienfuegos, in 1903, by the Chief Sanitary Officer.</p>
+<p>A Maritime Sanitary Service had also been created by Gov-<lb/>
+ernor General Wood for the whole Island, but this department<lb/>
+was entirely independent from the Land Sanitary Service, and<lb/>
+under the Cuban Government it was placed under the orders of<lb/>
+the Secretar&iacute;a de Hacienda. In January, 1903, when the Supe-<lb/>
+rior Board of Health was appointed, both the Land and the<lb/>
+Maritime Services were placed under the direction of the Chief<lb/>
+Sanitary Officer. The two services thus consolidated seemed to<lb/>
+work very smoothly and to give very satisfactory results; but in<lb/>
+1904 an unlooked for decision of the Cuban Congress ordered<lb/>
+that the two services should again be separated and the Maritime<lb/>
+replaced under the Secretar&iacute;a de Hacienda.</p>
+<p>One of the important duties assigned to the Superior Board<lb/>
+by M. O. No. 159 included the framing of a set of Sanitary Ordi-<lb/>
+nances in accordance with those which had been introduced in<lb/>
+other countries.</p>
+<p>This was an arduous task requiring sound judgment and<lb/>
+familiarity with local conditions, and the elaboration of a pre-<lb/>
+liminary plan for these ordinances was entrusted to Dr. E. B.<lb/>
+Barnet. His plan was completed in the course of the following<lb/>
+year and each of its articles was carefully discussed by the mem-<lb/>
+bers of the Superior Board. Finally, after a minute revisal by<lb/>
+the Secretar&iacute;a de Gobernaci&oacute;n, the Ordinances were put in force<lb/>
+by a decree of President Estrada Palma. As was to be expect-<lb/>
+ed, several articles when they were carried into practice were<lb/>
+found to require some alterations; but on the whole they have<lb/>
+<pb n="4" id="fKAGA0110"/>
+464<lb/>
+been well received and they have proved of great assistance to<lb/>
+the Sanitary Department.</p>
+<p>During the interval between the proclamation of the Re-<lb/>
+public in 1902 and the appointment of the Superior Board of<lb/>
+Health in January 1903, the previous unsanitary conditions<lb/>
+which had at that time been temporarily remedied were much<lb/>
+changed for the worse owing to the lack of a properly organized<lb/>
+service in the different municipalities, excepting a few of the<lb/>
+larger towns.</p>
+<p>Under these circumstances even the every day work of rou-<lb/>
+tine sanitation in Cuba had to be largely extemporaneous, and<lb/>
+apart from the personal qualifications of the local Health Offi-<lb/>
+cers it was greatly handicapped by the fact that all the expenses<lb/>
+and salaries including that of the Health Officer under the or-<lb/>
+ders of the Superior Board had to be provided for in the Muni-<lb/>
+cipal Budget.</p>
+<p>A more congenial because more feasable portion of the func-<lb/>
+tions of the Department was the defense of the Republic against<lb/>
+the development or propagation of infectious diseases. For diph-<lb/>
+theria we were well prepared, inasmuch as for several years an<lb/>
+excellent anti-diphtheric serum had been prepared in Havana,<lb/>
+thanks to the praiseworthly initiative of a distinguished member<lb/>
+of the medical profession, Dr. Juan Santos Fern&aacute;ndez, President<lb/>
+of the Academy of Sciences, and since the installation of the<lb/>
+National Laboratory the same serum has been prepared and<lb/>
+kept on hand by the Sanitary Department for free distribution<lb/>
+among the poor. And by its use the disease has always been<lb/>
+prevented from assuming epidemic proportions in Cuba.</p>
+<p>Our principal concern, however, was for the preservation<lb/>
+of the Island against a return of either of the two worst infec-<lb/>
+tious diseases from which Cuba had been delivered since 1901<lb/>
+during the American Military Intervention, namely, small pox<lb/>
+and yellow fever.</p>
+<p>II. OPERATION UNDER THE REPUBLIC.</p>
+<p>With regard to small-pox we have succeeded beyond our<lb/>
+own expectation notwithstanding the continuous passenger traf-<lb/>
+fic between this Island and countries where the disease prevails.<lb/>
+Our means of defense has been the prompt and extensive vac-<lb/>
+cination whenever doubtful cases of varicella are reported,<lb/>
+prompt isolation of imported cases and suspects, and an abund-<lb/>
+<pb n="5" id="fKAGA0120"/>
+465<lb/>
+ant supply of the excellent vaccine which is prepared by this<lb/>
+Department under the able direction of Dr. Laguardia. It is<lb/>
+however to be regretted that the law prescribing obligatory vac-<lb/>
+cination to all non-immunes is but very imperfectly complied<lb/>
+with except in moments of alarm when the Sanitary Depart-<lb/>
+ment obliges all non-immunes in the neighborhood to submit to<lb/>
+it under the penalty prescribed by the law.</p>
+<p>Regarding yellow fever also we had felt quite proud of our<lb/>
+success in having prolonged the immunity obtained by Major<lb/>
+W. C. Gorgas since September 1901 by an additional period of<lb/>
+3&frac12; years, ending in October 1905. The first break in this aston-<lb/>
+ishing record of yellow fever immunity during 4 consecutive<lb/>
+years in one of the worst epidemic foci of former times must, I<lb/>
+think, be attributed to a combination of unfortunate circum-<lb/>
+stances for which both the Maritime and the Land Sanitary<lb/>
+Services are to some extent responsible. Trusting in their form-<lb/>
+er methods which had proved successful in dealing with Vera-<lb/>
+cruz, Tampico and other infected ports of Central America, the<lb/>
+Maritime Department had been allowing a passenger steamer<lb/>
+which plies between Havana and New Orleans and had been tied<lb/>
+to an infected wharf at that port, to enter the port of Havana<lb/>
+and to land forthwith its immune passengers without exacting<lb/>
+that the vessel should be previously fumigated. Taking into ac-<lb/>
+count the shortness of the trip (2 days) the risk incurred is self<lb/>
+evident, and there is reason to believe that the two first cases<lb/>
+which developed in October 1905 in this city, had received their<lb/>
+infection on the wharf where the New Orleans passengers were<lb/>
+landed. But what aggravated the situation and made it possible<lb/>
+for a serious outbreak to develop from these two cases was the<lb/>
+unpreparedness of our Department notwithstanding the fact<lb/>
+that a serious epidemic was known to have existed for some time<lb/>
+at New Orleans, and its remissness in adopting special precau-<lb/>
+tions for securing the prompt notification of all non-immunes<lb/>
+with fever. The first case, attacked October 17, 1905, at San Mi-<lb/>
+guel No. 14, and the second one, attacked October 23rd at Agui-<lb/>
+la No. 115, were probably infected on the wharf or in the Pas-<lb/>
+sengers' Landing Station, as shown in my report attached to the<lb/>
+Havana Bulletin of December 1905 and in my Annual Report<lb/>
+for that year. But these cases were never reported and the cau-<lb/>
+ses of their death had been attributed on the death certificates to<lb/>
+&ldquo;nephritis and uremia&rdquo; in one case and to &ldquo;icterus gravis&rdquo; in<lb/>
+the other. They were only discovered by the Department to-<lb/>
+<pb n="6" id="fKAGA0130"/>
+466<lb/>
+wards the middle of November. In consequence of this delay<lb/>
+non-immunes visiting the two infected houses or simply standing<lb/>
+on the sidewalk before their doors or windows had time to be-<lb/>
+come secondarily infected and were no doubt the origin of the<lb/>
+subsequent other foci which soon began to appear in different<lb/>
+parts of the city. The details of this epidemic outbreak have<lb/>
+been published in the reports mentioned above. Altogether bet-<lb/>
+ween the 17th, of October and the 7th of February, 76 cases with<lb/>
+26 deaths originated in Havana, while outside of this city only<lb/>
+eight cases with one death were recorded. After a period of<lb/>
+three full months without any new case, there was every reason<lb/>
+to believe that the disease had once more been stamped out; and<lb/>
+indeed this was true, for the city of Havana, where no new case<lb/>
+was recorded thereafter until the month of June (evidently a re-<lb/>
+infection); and also for the other foci outside of this district,<lb/>
+except the district of Bolondr&oacute;n, where the last known case (a<lb/>
+fatal one) had been attacked January 29th. And to this un-<lb/>
+fortunate exception was undoubtedly due the revival of the epi-<lb/>
+demic in 1906, the consequences of which are still felt at the<lb/>
+present day.</p>
+<p>The patient attacked on the 29th of January at Bolondr&oacute;n,<lb/>
+on the Magdalena estate, had been isolated, as soon as his case<lb/>
+was recognized, in a screened room improvised in one of the<lb/>
+wings of the barracks where all the laborers had their quar-<lb/>
+ters. After his death on the 4th of February, the whole build-<lb/>
+ing as well as all the others on the plantation had been thorough-<lb/>
+ly fumigated, and no other case has occurred on that estate up<lb/>
+to the present day.</p>
+<p>It is presumed however, in view of subsequent events, that<lb/>
+some infected mosquito, being driven away from the Magdale-<lb/>
+na by the sulphur fumes in the interval between the successive<lb/>
+fumigations, must have taken refuge in a contiguous estate nam-<lb/>
+ed &ldquo;Olano&rdquo; in which the next reported case originated in May.</p>
+<p>A retrospective inquiry has in effect brought to light the<lb/>
+following facts: On the 24th of March, one of the non-immune<lb/>
+labourers of the Olano plantation had been taken sick with a<lb/>
+fever which had lasted several days, but the patient never con-<lb/>
+sulted a physician, and only surmises can be formed regarding<lb/>
+the nature of his illness. On the 19th of April another non im-<lb/>
+mune labourer belonging to that estate and living in the same<lb/>
+barracks as the preceding patient, was likewise attacked with a<lb/>
+fever which obliged him to keep in bed during several days, and<lb/>
+<pb n="7" id="fKAGA0140"/>
+467<lb/>
+having developed jaundice, he went to the Civil Hospital of Ma-<lb/>
+tanzas for treatment. There, in the absence of any other symp-<lb/>
+tom, the case was pronounced &ldquo;catarrhal jaundice&rdquo;. But a<lb/>
+third Spanish labourer working on that estate, a cousin of the<lb/>
+former, who had been taking care of him during the acute stage<lb/>
+of his illness, was also attacked with fever on the 7th of May,<lb/>
+and having gone to the Matanzas Civil Hospital, developed a<lb/>
+fatal case of yellow fever and died on the 8th. This case was<lb/>
+duly reported and the diagnosis of yellow fever was confirmed<lb/>
+in the autopsy.</p>
+<p>A special yellow fever service was immediately established<lb/>
+for the three contiguous districts of Bolondr&oacute;n, Uni&oacute;n de Reyes<lb/>
+and Alacranes, as described in my Monthly Report for May<lb/>
+1906, and apart from a second case which was discovered by our<lb/>
+special commissioners on the first day of their arrival at Olano,<lb/>
+attacked on the 19th, no other case occurred thereafter on that<lb/>
+estate nor within the zone during the two months that this<lb/>
+special service was maintained.</p>
+<p>During the following month (June) the only four cases on<lb/>
+the Island occurred in the city of Havana, having been attack-<lb/>
+ed, respectively, one on the 2nd, of June at Muralla 93, one on<lb/>
+the 5th, at Amistad 98, one in the Plaza del Vapor building on<lb/>
+Reina street on the 12th, and the fourth at O'Reilly No. 31 on<lb/>
+the 13th. The origin of these four cases has not been discovered,<lb/>
+but it is natural to suppose that they were in some way connect-<lb/>
+ed with the focus at Olano, inasmuch as there is much traffic bet-<lb/>
+ween Havana and the infected districts of Bolondr&oacute;n and Uni&oacute;n<lb/>
+de Reyes. Thanks to the active measures which were taken, fur-<lb/>
+ther reinfection of the city had been apparently avoided, no<lb/>
+other case having developed in Havana until August 7th. In<lb/>
+July the only known case occurred at Col&oacute;n, but in August<lb/>
+there were four new cases at Alacranes. The difficulty expe-<lb/>
+rienced at this time in tracing up these scattered cases to their<lb/>
+respective sources may have been partly caused by secret move-<lb/>
+ments of political emissaries connected with the revolutionary<lb/>
+uprising which soon followed. And to the same cause must be<lb/>
+attributed the fact that in the month of September, in the midst<lb/>
+of the general confusion which prevailed, although every new<lb/>
+case was promptly dealt with and no secondary ones developed<lb/>
+in the same houses nor in their immediate neighborhood, the<lb/>
+number of invasions rose to 7 in Havana, 2 in Guanabacoa, 1 at<lb/>
+Alacranes, and 2 at Cruces. To the first of these latter cases must<lb/>
+<pb n="8" id="fKAGA0150"/>
+468<lb/>
+be attributed the serious epidemic outbreak which followed and<lb/>
+which even now has not been entirely extinguished.</p>
+<p>The origin of this aggravation bore some similarity to that<lb/>
+of our first infection in October 1905, namely, the existence of<lb/>
+an unreported case at Cruces, only revealed to the Central Of-<lb/>
+fice through the certificate of death, and under circumstances<lb/>
+which only permitted the adoption of adequate measures at a<lb/>
+time when already secondary infections had been initiated.</p>
+<p>The patient was a Spanish boiler maker who was taken sick<lb/>
+at Cruces September 15th and died on the 18th. The certificate<lb/>
+of death truly stated its cause but the facts about the case were<lb/>
+only obtained at the end of the month, and when already a se-<lb/>
+condary case had declared itself and there was every likelihood<lb/>
+that others would soon be heard of in different localities, even<lb/>
+though their true source might not be confessed by the patients.</p>
+<p>III. REORGANIZATION UNDER THE PROVISIONAL GOVERNMENT<lb/>
+OF THE UNITED STATES.</p>
+<p>As soon as the threatening situation originated at Cruces<lb/>
+and the necessity for immediate action had been realized by the<lb/>
+Sanitary Department, the sanction of the Provisional Governor<lb/>
+was readily obtained to proceed without hesitation and to estab-<lb/>
+lish at Cruces a special yellow fever service along the same lines<lb/>
+as the one formerly established at Uni&oacute;n de Reyes, Bolondr&oacute;n<lb/>
+and Alacranes.</p>
+<p>Precisely at this critical moment the Adviser to the Sanita-<lb/>
+ry Department arrived and assumed without delay the func-<lb/>
+tion which had formerly belonged to the Secretary of Goberna-<lb/>
+ci&oacute;n, by which he would constitute the indispensable link bet-<lb/>
+ween the Department and the Governor; with the important<lb/>
+difference, however, that his whole attention could be devoted<lb/>
+to our Department, so that there would no longer be any delay<lb/>
+in obtaining due authorization for immediate action when such<lb/>
+was needed. It was fortunate also that with his personal record<lb/>
+both in the United States and in Cuba, where his services had<lb/>
+been appreciated during the first Intervention, he could not be<lb/>
+otherwise than a <hi rend="italic">persona grata</hi> for the Cubans.</p>
+<p>After a careful discussion of all the details for the organi-<lb/>
+zation of the special service which was contemplated for Cruces,<lb/>
+final arrangements were made for an energetic campaign in an-<lb/>
+ticipation of coming events. As had been foreseen, the expect-<lb/>
+<pb n="9" id="fKAGA0160"/>
+469<lb/>
+ed onslaught did come, and we must be thankful that with the<lb/>
+new reorganization of the Department we were able to meet it<lb/>
+and to almost extinguish the epidemic outbreak that followed<lb/>
+within a couple of months. The promptness with which every<lb/>
+step could now be taken was an important factor in our success;<lb/>
+but due credit must also be given to an important innovation<lb/>
+which Major Kean introduced, based on Colonel Gorgas' expe-<lb/>
+rience in Panama. This innovation consisted in giving much<lb/>
+greater importance than had been done before to the mainten-<lb/>
+ance of a constant campaign for the extermination of mosqui-<lb/>
+toes and the prevention of breeding places inside of dwellings<lb/>
+as well as in the open; and to do so at all times whether or not<lb/>
+cases of yellow fever existed in the locality. And for this pur-<lb/>
+pose, under the Adviser's directions, an efficient service has been<lb/>
+organized in Havana to secure constant vigilance and systematic<lb/>
+inspections and reinspections for all the dwellings in this city<lb/>
+and its surroundings, so as to obtain immediate information of<lb/>
+the existence of mosquito breeding places with the assurance<lb/>
+that these would be effectually destroyed. And strict injunc-<lb/>
+tions have been sent to all local sanitary officers to do the same,<lb/>
+as far as it may be feasible, within their respective districts.</p>
+<p>The number of cases of yellow fever recorded in Cuba dur-<lb/>
+ing the last three months of 1906 (October 1 to December 31)<lb/>
+has been 80, 16 of which have proved fatal; and their distribu-<lb/>
+tion has been as follows: Havana 50 (with 6 deaths) G&uuml;ines 1<lb/>
+case (fatal) Nueva Paz 4 cases (2 fatal) Marianao 1 case (cur-<lb/>
+ed). In Uni&oacute;n de Reyes, Matanzas Province, 3 cases (all fatal);<lb/>
+Cruces (Santa Clara Province) 15 cases (7 fatal); Santa Clara,<lb/>
+3 cases (2 fatal); Rodas, 1 case (fatal); Isabela de Sagua, 1 case<lb/>
+(cured).</p>
+<p>But during the next 7 months (January 1 to July 31, 1907)<lb/>
+only 15 cases with 3 deaths were recorded in the Island, none of<lb/>
+them in Havana. They were distributed as follows: January<lb/>
+2, one case (fatal) at Santa Clara; March 31, one case (cured)<lb/>
+on the Central Nueva Paz, in the district of that name; May 16<lb/>
+to 31, 5 cases in all; one at San Nicol&aacute;s (fatal) in the district of<lb/>
+G&uuml;ines; two on the Central G&oacute;mez Mena, near San Nicol&aacute;s, but<lb/>
+belonging to the district of Nueva Paz; one (a mild case) at<lb/>
+Ranchuelo, near Cruces. In June there were 3 cases in all (none<lb/>
+of them fatal); one in the town of San Nicol&aacute;s, one on the cen-<lb/>
+tral G&oacute;mez Mena, and one at Uni&oacute;n de Reyes. In July there were<lb/>
+<pb n="10" id="fKAGA0170"/>
+470<lb/>
+5 cases (one of them fatal); they occurred, 3 of them at Uni&oacute;n<lb/>
+de Reyes (cured), one in the town of San Nicol&aacute;s (cured) and<lb/>
+one (fatal) in Matanzas, attacked on the 28th.</p>
+<p>The immunity observed in Havana during these seven<lb/>
+months is all the more remarkable from the fact that several<lb/>
+patients whose infection could be clearly traced back to other<lb/>
+localities had either been taken sick on their arrival at Havana<lb/>
+or had come soon after their invasion to be treated at the &ldquo;Quin-<lb/>
+tas&rdquo; to which they were subscribed. And it cannot be doubted<lb/>
+that the scarcity of stegomyias which has been obtained by per-<lb/>
+sistent mosquito work was largely responsible for this fortunate<lb/>
+result.</p>
+<p>During the three following months ending October 31, the<lb/>
+yellow fever situation was much aggravated in the three prov-<lb/>
+inces of Santa Clara, Matanzas and Havana.</p>
+<p>Early in August an epidemic outbreak commenced in Cien-<lb/>
+fuegos, the origin of which has not been discovered, but there is<lb/>
+reason to surmise that at that time not more than one month had<lb/>
+elapsed since the original source of the infection had developed.<lb/>
+Considerable alarm was aroused when the first cases were dis-<lb/>
+covered owing to the fact that they had been reported by the<lb/>
+Military Surgeon in charge of the U. S. troops encamped at<lb/>
+Cienfuegos; but it soon was ascertained that at least two previ-<lb/>
+ous cases reported as influenza had already existed. and it is<lb/>
+probable that some others may have escaped detection during<lb/>
+the month of July.</p>
+<p>A very complete yellow fever service was promptly estab-<lb/>
+lished at Cienfuegos under the direction of Dr. Thomason,<lb/>
+Ass't. Surgeon, U. S. A., delegated by the Adviser of the De-<lb/>
+partment, who organized at once a very efficient service with<lb/>
+Drs. Custodio and Delgado under his orders. An antimosquitoe<lb/>
+campaign on the same lines observed in Havana was instituted,<lb/>
+and careful fumigations on a new plan, in which canvas is used<lb/>
+for enveloping a whole house or even several contiguous ones.<lb/>
+In the course of two months the disease was already well in hand<lb/>
+and only sporadic cases developed thereafter, the infection being<lb/>
+considered practically extinguished at the date of this report.</p>
+<p>In the city of Havana, on the other hand, only five cases<lb/>
+with one death have occurred during the same period of time.</p>
+<p>For the statistical details of yellow fever cases and deaths,<lb/>
+<pb n="11" id="fKAGA0180"/>
+471<lb/>
+classified by provinces, districts and months, reference is made<lb/>
+to charts in Appendix No. 1.</p>
+<p>During this protracted campaign against yellow fever, not-<lb/>
+able defects in our sanitary organization have become painfully<lb/>
+apparent. There was no independence of the local Health Offi-<lb/>
+cer from the city authorities and the local bosses. He was, there-<lb/>
+fore, not sufficiently in touch with the Central Sanitary auth-<lb/>
+orities. The means at his disposal were lamentably in-adequate.<lb/>
+The Ayuntamientos had been very illiberal in their budgets for<lb/>
+sanitary expenses. The result of this was that the merest threat<lb/>
+of epidemic dangers brought out at once the utter helplessness<lb/>
+of the local Officer. He had to appeal on every occasion, great<lb/>
+or small, to the central authorities, with great detriment to his<lb/>
+prestige in the community, and much loss of time in the doing<lb/>
+of things.</p>
+<p>The Government of Intervention has had a great opportuni-<lb/>
+ty in remedying these evils, and the Supervisor of the Depart-<lb/>
+ment, Major J. R. Kean, has had his ability as an organizer put<lb/>
+to the test. The result has been a Public Health Law, promulga-<lb/>
+ted in August of the present year, nationalizing the Health ser-<lb/>
+vices.</p>
+<p>This law gives the appointment of the local Health Officers<lb/>
+to the Central authorities, and supplies each office with the<lb/>
+means to maintain in action an effective sanitary organization.<lb/>
+Thus, every emergency will find in each municipality a well<lb/>
+prepared nucleus capable of rapid expansion with the assistance<lb/>
+of the National Power.</p>
+<p>It is to be hoped that the present organization will bring<lb/>
+about gradually a complete exemption of the Health office from<lb/>
+the influence of local politics.</p>
+<p>If this national organization can be completed by the bring-<lb/>
+ing under one head of the Maritime Quarantine with the Na-<lb/>
+tional Health Department, a great advance will have been made<lb/>
+towards the perfected system that prevails in most countries, and<lb/>
+towards which the United States are successfully endeavoring<lb/>
+to direct their more recent national legislation in matters of Pub-<lb/>
+lic Health.</p>
+<p>Another wish frequently expressed by this Department,<lb/>
+must find once more expression in this report. I refer to the<lb/>
+necessity of carrying into effect the plans that have been pre-<lb/>
+pared for the effective sewerage of the city of Habana. The<lb/>
+importance of this scheme in the general sanitation of the city<lb/>
+<pb n="12" id="fKAGA0190"/>
+472<lb/>
+is obvious. There is reason to believe that improper sewerage<lb/>
+has a bearing upon the rate of mortality from tuberculosis. The<lb/>
+special importance of this question of sewerage in a tropical<lb/>
+city, exposed to the several mosquitoe-borne diseases, cannot be<lb/>
+over estimated. Reference has been made to this subject in my<lb/>
+annual reports, and a special resolution to the same effect was<lb/>
+presented by Dr. Guiteras and approved by the Superior Board<lb/>
+of Health at a meeting held April 25th of the present year.</p>
+<p>The great advantages obtained by the nationalization of<lb/>
+the Sanitary Department have already been very perceptible,<lb/>
+and together with the other important improvements introdu-<lb/>
+ced into the service, encourage the hope that by the end of the<lb/>
+year the yellow fever will once more be effectually stamped out.</p>
+<p>I would be doing a great injustice to the Sanitary Depart-<lb/>
+ment and to its personnel if I failed to claim for them in this<lb/>
+report the credit to which they are entitled.</p>
+<p>However regrettable may have been the deficiencies in the<lb/>
+first organization of the Department, it must be remenbered that<lb/>
+this work had to be done by men who were all entirely new to<lb/>
+it; and the fact remains that notwithstanding all these deficien-<lb/>
+cies they have accomplished a feat which is unequalled, namely,<lb/>
+the maintaining of the Island of Cuba free from yellow fever<lb/>
+during three years and a half consecutively, though in each of<lb/>
+these years many imported cases had to be handled.</p>
+<p>Great credit must be given to the exceptional qualifications<lb/>
+of some of the heads of the different sections as well as to the<lb/>
+personal pride felt by every one of our employees in maintain-<lb/>
+ing the excellent service which has been obtained.</p>
+<p>I need only mention the names of Dr. Guiteras, as Director<lb/>
+of Las Animas Hospital and President of the Commission on<lb/>
+Infectious Diseases; of Dr. Barnet, to whose share has fallen the<lb/>
+most difficult task of organizing and maintaining the different<lb/>
+services and as one of the most efficient members of the Superior<lb/>
+Board of Health, and of Dr. L&oacute;pez del Valle, whose incessant<lb/>
+activity and personal qualifications must be regarded as an im-<lb/>
+portant factors in the success which we have had in extinguish-<lb/>
+ing the various foci of infection as soon as they appeared.</p>
+<p>Very respectfully,</p>
+<p>CARLOS J. FINLAY,<lb/>
+<hi rend="italic">City Sanitary Officer</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

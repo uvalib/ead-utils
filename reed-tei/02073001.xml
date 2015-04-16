@@ -1,0 +1,494 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02073001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from William M. Black to the Adjutant General, July 30, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Black, William M.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02073001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-07-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Adjutant General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Rowe, G. C.</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>17 pp.</extent>
+<date value="1900-07-30">July 30, 1900</date>
+<idno rend="suppress">02073001</idno>
+<title>Report from William M. Black to the Adjutant General, July 30, 1900</title>
+</bibl>
+</head>
+<p>Black responds to Reed's report on the Electrozone Plant in Havana, Cuba and wants to correct errors. He includes two reports by G. C. Rowe entitled &ldquo;Review of the Most Salient Points of Dr. Reed's Report&rdquo; and &ldquo;Electrozone Plant.&rdquo; [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1900-07-30">
+<head>Report from William M. Black to the Adjutant General, July 30, 1900</head>
+<pb n="1" id="f02073001"/>
+<opener>
+File under Reed - Electrozone<lb/>
+(Black)<lb/>
+Division of Cuba,<lb/>
+Office of Chief Engineer.<lb/>
+<dateline>
+Havana, <date value="1900-07-30">July 30, 1900.</date>
+</dateline>
+The Adjutant General,<lb/>
+Division of Cuba.<lb/>
+<salute>Sir:-</salute>
+</opener>
+<p>I have the honor to submit the following comments on the report<lb/>
+made by Major Walter Reed, Surgeon, U. S. Army, on the Electrozone<lb/>
+Plant in this City, under date of April 20th.</p>
+<p>Major Reed's well known reputation as a bacteriologist, and<lb/>
+his known care in experiments, entitle his opinion as to the germici-<lb/>
+dal qualities of Electrozone to great weight, and there can be no<lb/>
+doubt as to the results he obtained from his experiments.</p>
+<p>In his comments on the plant, however, there are certain<lb/>
+statements which are misleading and which should be corrected.</p>
+<p>The enclosed report from Mr. Rowe, in charge of the plant<lb/>
+(Inclosure &ldquo;A&rdquo;), shows that during the time in which Dr. Reed was<lb/>
+making his tests, the plant was run at a decided disadvantage. Mr.<lb/>
+Rowe states that Dr. Reed was informed of this, but if so it evidently<lb/>
+made little or no impression. At this <add>present</add> time, with 24 hours run, there<lb/>
+is an average daily product of 35,000 gallons of Electrozone, of<lb/>
+which 4000 gallons are of 100 grs. strength and 31,000 gallons of 150<lb/>
+grains strength, at a cost of 2.5 mills and 2.75 mills per gallon<lb/>
+respectively. For a fuller statement of results and cost, attention<lb/>
+is invited to the enclosed extract from the annual report (Inclosure<lb/>
+&ldquo;B&rdquo;).</p>
+<p>It seems beyond a doubt that at the time of Dr. Reed's visit,<lb/>
+<pb n="2" id="f02073002"/>
+- 2 -<lb/>
+a lack of judgment, if not carelessness, was shown in the management<lb/>
+of the plant, and that Electrozone was sent out below the required<lb/>
+strength. If such was the case, the blame should be placed on the<lb/>
+personnel, where it belongs.</p>
+<p>In Table II of Dr. Reed's report, under the head of<lb/>
+strength of current, &ldquo;1000 gallons of sea water&rdquo; should read &ldquo;2000<lb/>
+gallons of sea water&rdquo;.</p>
+<p>The statements regarding the relative cost of chloride of<lb/>
+lime disinfectant and of electrozone are also in error.</p>
+<p>The cost of chloride of lime here has varied from four<lb/>
+to seven cents per pound, the last obtained being four cents.<lb/>
+Last year, at times, the higher rate had to be paid. The chloride<lb/>
+of lime as obtained here commercially contains 23.06 % of available<lb/>
+chlorine, - not 35 %, the theoretical strength given by Dr. Reed. Dr.<lb/>
+Reed's attention was invited by me to this increased cost and de-<lb/>
+creased strength when here. Hydrochloric acid costs here six cents<lb/>
+per pound.</p>
+<p>Again, Dr. Reed's estimate of deterioration of plant<lb/>
+is 10 % per annum. Accepting these figures, it is certainly wrong<lb/>
+in making a comparison of relative costs of electrozone and of other<lb/>
+disinfectants to charge in the entire cost of the plant to one year.</p>
+<p>Page <unclear><del>7</del><add>21</add></unclear> of the report should then be amended to read as<lb/>
+follows:-</p>
+<p>&ldquo;It is believed that the following calculations will<lb/>
+<pb n="3" id="f02073003"/>
+- 3 -<lb/>
+&ldquo;closely approximate the relative cost of Chlorinated lime and Electro-<lb/>
+&ldquo;zone as disinfectants:</p>
+<p>
+<table rows="2" cols="2">
+<row><cell>&ldquo; To 1 lb. of chloride of lime (7000 grains)</cell><cell>4 cents.</cell></row>
+<row><cell>&ldquo; 1 " of hydrochloric acid,</cell><cell>6 cents.</cell></row>
+</table>
+</p>
+<p>&ldquo; 7000 grains of chloride of lime containing 23.06 %, or 1614.2 grains<lb/>
+&ldquo; of available chlorine, would make 11.06 gallons of a disinfectant,<lb/>
+&ldquo;having a strength of 0.250 % or 146 grains of chloride per gallon.<lb/>
+&ldquo;Debucting 1.06 gallons as loss of chlorine in making the preparation,<lb/>
+&ldquo;we have:-</p>
+<p>
+<table rows="4" cols="2">
+<row><cell>To 10 gallons of disinfectant, 1 lb. of lime,</cell><cell>4 cents.</cell></row>
+<row><cell>" " " " 1&sol;2 " hyd. acid,</cell><cell>3 "</cell></row>
+<row><cell></cell><cell>-------------</cell></row>
+<row><cell>Total,</cell><cell>7 cents.</cell></row>
+</table>
+</p>
+<p>&ldquo; or at a cost of 7 mills per gallon, or, for 24000 gallons a cost of<lb/>
+&ldquo;$168.00 per day.</p>
+<p>&ldquo; Since July 1, 1899, to March 31, 1900, - 234 working days - the<lb/>
+&ldquo;total expenditure would have been $39,312.00 for sufficient chloride<lb/>
+&ldquo;of lime and hydrochloric acid to have supplied a disinfectant having<lb/>
+&ldquo;146 grains of available chlorine per gallon.</p>
+<p>&ldquo; On the other hand, we have the following:-</p>
+<p>
+<table rows="5" cols="2">
+<row><cell>&ldquo; 1&sol;10 of plant,</cell><cell>$ 7,500.</cell></row>
+<row><cell>&ldquo; Int. at 6 % for 9 mos.,</cell><cell>3,375.</cell></row>
+<row><cell>&ldquo; Daily expenses, $37. for 234 working days,</cell><cell>8,658.</cell></row>
+<row><cell></cell><cell>--------------------</cell></row>
+<row><cell></cell><cell>$ 19,533.</cell></row>
+</table>
+</p>
+<p>&ldquo; as the cost of supplying daily for 234 working days, 24,000 gallons<lb/>
+<pb n="4" id="f02073004"/>
+- 4 -<lb/>
+&ldquo;of Electrozone, having no particular standard of strength as regards<lb/>
+&ldquo;available chlorine, but certainly of a less strength (see table 1)<lb/>
+&ldquo;than <unclear>[unclear]</unclear>150 %.&rdquo;</p>
+<p>This would have been a more fair statement of the<lb/>
+status than that given in the report, although it is not believed<lb/>
+nor proved that the strength through the year averaged less than<lb/>
+.150 %.</p>
+<p>It is not believed to be necessary to apologize<lb/>
+for the erection of the plant. The conditions in Havana fully war-<lb/>
+ranted the action taken. The death rate and the reports of total<lb/>
+sick show conclusively that the various measures taken were effective, -<lb/>
+and the supply and use of Electrozone is one. I do regret that I<lb/>
+did not expend a slightly greater sum for the plant, so as to have<lb/>
+installed engines and boilers of greater first cost, but of a type<lb/>
+more economical in running expenses.</p>
+<closer>
+<salute>Very respectfully,</salute>
+<signed>W. M. Black</signed>
+Major, Corps of Eng'rs U. S. A.<lb/>
+Chief Engineer.<lb/>
+</closer>
+</div1>
+<div1 type="document" n="1900-07-05">
+<head>Report: Review of the Most Salient Points of Dr. Reed's Report, by G. C. Rowe, July 5, 1900</head>
+<pb n="5" id="f02073005"/>
+<p>Inclosure &ldquo;A.&rdquo;</p>
+<p><hi>COPY</hi>.</p>
+<p>Electrozone Plant, July 5th, 1900.</p>
+<p>REVIEW OF THE MOST SALIENT POINTS OF DR. REED'S REPORT.</p>
+<p>Electrozone is put to seven different uses in the City of<lb/>
+<unclear>Havana</unclear>, viz: sewer disinfection; house disinfection by the Sani-<lb/>
+tary Department; disinfection of fresh earth on public and private<lb/>
+works; street disinfection by sprinkling; disinfection and deodoriz-<lb/>
+ing of the &ldquo;Night Soil&rdquo; carts, rendering them inoffensive; disin-<lb/>
+fection of Stables by private owners; and last but not least in<lb/>
+relation to the greatest good to the greatest number, it is used as<lb/>
+a medicine by the people, both as an antiseptic wash and as an inter-<lb/>
+nal drug for various stomach and intestinal diseases. That Elec-<lb/>
+trozone is not superflous in sprinkling the street is evinced<lb/>
+by the quick cessation of bad odors in the muddy streets where it<lb/>
+is applied.</p>
+<p>The low tests taken by Dr. Reed are the result of the re-<lb/>
+duxtion in the capacity of the plant on the days in which Dr. Reed<lb/>
+made his test, first by Dr. Reed himself, and 2nd by the visit of<lb/>
+Secretary Root. Dr. Reed required one dynamo out of the four<lb/>
+nearly every day in order to make solutions of various strengths;<lb/>
+many of these solutions were in the neighborhood of 200 gr. per gal;<lb/>
+and a solution of over 300 gr. per gal. was produced for Scy.<lb/>
+Root's visit. This reduction in the amount of power used on the<lb/>
+same output in gallons naturally caused a reaction upon the strength<lb/>
+of the Electrozone produced.</p>
+<p>While Dr. Reed did not use any of the machinery on the date<lb/>
+of his first visit, Monday March 11th, still his visit was announced<lb/>
+<pb n="6" id="f02073006"/>
+- 2 -<lb/>
+in the morning early and one dynamo was at once reserved for making<lb/>
+Electrozone of a special strength upon which the visitor might form<lb/>
+an opinion favorable to Electrozone; and this reservation of the<lb/>
+dynamo was made in spite of the fact that the day was Monday and the<lb/>
+output was always increased about 4 or 5 thousand gallons, and to<lb/>
+meet this demand we were accustomed to start an hour earlier every<lb/>
+Monday. After the first two or three visits from Dr. Reed, we be-<lb/>
+gan running 9 hours per day instead of 8 as the necessary comple-<lb/>
+ment to his reduction of our available forces.</p>
+<p>Thus it can readily be seen that Dr. Reed's tests<lb/>
+were not a sample of every day's run under normal conditions.</p>
+<p>In Table 2 of Major Reed's report, he mentions<lb/>
+&ldquo;3000 to 3500 Amp. acting upon 1000 gal. of sea water for 8 hours&rdquo;.<lb/>
+He should have said 2000 gal. of sea water.</p>
+<p>At the time of this test, Major Reed was informed that<lb/>
+our regular fireman was sick and the substitute, being unaccustomed<lb/>
+to our boilers, was unable to maintain more than 60 lbs. boilers<lb/>
+pressure, while under normal conditions, our regular fireman keeps<lb/>
+from 90 to 100 lbs. constantly. Hence Dr. Reed's observation in<lb/>
+regard to the amperage of the remaining three sets was wholly one<lb/>
+<unclear>of</unclear> an occasion. The attendant of the vats and dynamos was instructed<lb/>
+to keep the load on Major Reed's dynamo constant at 3000 Amp., and<lb/>
+it was with difficulty that he did it, as the varying steam pres-<lb/>
+sure necessitated the taking the entire load off some of the other<lb/>
+machines at times, and at other times loading them up again to<lb/>
+prevent the current from going above 3000 Amp. on his machine.</p>
+<pb n="7" id="f02073007"/>
+<p>- 3 -</p>
+<p>The fact that 3000 Amp. was selected as the current for<lb/>
+Major Reed's experiment does not mean that that is the power of<lb/>
+the dynamos, but rather that 3000 Amp. is the normal working load<lb/>
+when both engines are working at their best. The dynamos could<lb/>
+run on 4500 Amprs. if the engines could pull that load. As it is<lb/>
+the load always runs above 3000 Amp. on the remaining three machines<lb/>
+when one is thrown out for the purpose of cleaning the electrodes.<lb/>
+This increase on the three working dynamos amounts to 1000 Amp.<lb/>
+apiece, thus compensating for the 3000 Amp. thrown out.</p>
+<p>While Major Reed mentions the fact that the trial run of<lb/>
+the entire plant made Mar. 27 was conducted during a heavy rain<lb/>
+storm, he does not mention the effect that the abnormal atmospheric<lb/>
+conditions had upon our fires. In spite of the fact that the<lb/>
+regular fireman was at his post and working like a Trojan he could<lb/>
+not make the short chimney keep up a good draught so that the<lb/>
+regular working pressure of 100 lbs. was impossible.</p>
+<p>Dr. Reed's attention was called to this and he was<lb/>
+asked to postpone his trial until more favorable weather. This<lb/>
+dependence on the atmospheric conditions has since been overcome by<lb/>
+installing a mechanical draught system which enables us to maintain<lb/>
+the regular working pressure under all conditions.</p>
+<p>While Prof. Woolf claims that the theoratical value of<lb/>
+the Amp. Hour is 20 gr. of available chlorine per set of electrodes,<lb/>
+he does not say that it is ever attainable in practice.</p>
+<p>According to Bunsen; &ldquo;the force of the current must al-<lb/>
+ways be great enough to surmount the affinities of the elements<lb/>
+<pb n="8" id="f02073008"/>
+- 4 -<lb/>
+in the compound&rdquo;. From this it is readily seen that if a pair of<lb/>
+electrodes were supplied with a force just equal to that of the<lb/>
+affinities of the elements we wish to separate no action would re-<lb/>
+sult.</p>
+<p>The additional force that is afterwards applied to do<lb/>
+chemical work represents the difference between the theorecal<lb/>
+equivalent and the practical attainment. As the result of our<lb/>
+practice of 12 gr. per Amp. Hour - or more nearly 12.22 - was ob-<lb/>
+tained by a calculation involving the quantity of 3000 Amp. working<lb/>
+for three hours, for one tank only, Dr. Reed's statement is likely<lb/>
+to be erroneously construed as he failed to multiply this result<lb/>
+by two, or even to mention that the same amount of work was done<lb/>
+in the other tank.</p>
+<p>--------------------------------------------------</p>
+<p>Report on chlorine solution produced by the action of<lb/>
+Hydrochloric Acid upon a solution of Calcium Hypochlorite:</p>
+<p>Test No. 1, June 9th, 1900.</p>
+<p>Chloride of Lime taken from the bottom of a barrel at Los<lb/>
+Fosos, 1 lb. of Lime was dissolved in 10 gal. of water, resulting in<lb/>
+a milky solution smelling strongly of Hypochlorous acid. Many small<lb/>
+lumps remained floating on top of the liquid, remaining perfectly<lb/>
+dry until mashed between the thumb and finger.</p>
+<p>Test by the arsenous acid method gave 230% or 134.55 gr.<lb/>
+per gal. for the solution, or a total of 1345.5 gr. of available<lb/>
+Cl. in the pound of lime taken; which gives 19.22% of available<lb/>
+chlorine contained in the dry lime. This solution was comparatively<lb/>
+<pb n="9" id="f02073009"/>
+- 5 -<lb/>
+stable. Test taken every two hours showed no appreciable diminution<lb/>
+of available Cl. until the end of 14 hours when the percentage of<lb/>
+available Cl. in the solution was found to be .227% or 132.48 gr.<lb/>
+per gal. This solution was alkaline to litmus and was not very ac-<lb/>
+tive in bleaching qualities as it bleached blue litmus only after<lb/>
+long exposure.</p>
+<p>Test No. 2. June 15th, 1900.</p>
+<p>One lb. of a second sample taken, made a solution, in five<lb/>
+gal. of water, that contained 252.54 gr. per gal. of available Cl.,<lb/>
+making the percentage of available Cl. in the dry chloride 18.08.</p>
+<p>To the 5 gal. of solution made with the above sample, 5 gal.<lb/>
+of water containing 1&sol;2 lb. of commercial hydrochloric acid was<lb/>
+added. Free chlorine was copiously evolved, the odor of which<lb/>
+was so strong as to cause the attendant stirring the mixture to leave<lb/>
+his place for fear of being suffocated. After the bubbles of chlorine<lb/>
+gas had ceased to escape, the solution was tested and found to con-<lb/>
+tain only 109.71 gr. of Cl. per gal; less than half it had before,<lb/>
+indicating that considerable Cl. had been lost by adding the acid.<lb/>
+The bleaching properties were more pronounced, the Cl. acted so<lb/>
+promptly that it appeared to be in a nascent state. The milky color<lb/>
+of the Hypochlorite solution was entirely dispelled by the addition<lb/>
+of the hydrochloric acid and a clear green liquid was the result.</p>
+<p>The green color was due entirely to free chlorine gas in<lb/>
+solution as was afterwards proven by allowing sunlight to fall upon<lb/>
+a test tube containing some of the solution when hydrochloric acid<lb/>
+was produced with the liberation of oxygen.</p>
+<pb n="10" id="f02073010"/>
+<p>- 6 -</p>
+<p>As the ten gallons of solution was found to be still<lb/>
+slightly alkaline to litmus 1&sol;4 lb. more of HCl was added with the<lb/>
+usual result of much foaming and free chlorine. The resulting<lb/>
+solution was acid to litmus and the available chlorine was only<lb/>
+105.57 grs. per gal.</p>
+<p>Test No. 3, June 25th, 1900.</p>
+<p>A sample of Calcium Hypochlorite taken from a newly<lb/>
+opened barrel in Los Fosos was found to contain 23.06 % of available<lb/>
+Chlorine. (The U. S. Pharmacopoeia specified that, <unclear>&ldquo;.35 grm.</unclear><lb/>
+of Chlorinated lime be titurated with 50 cc of water and carefully<lb/>
+transferred, together with the <hi>washings</hi>, into a flask, &ldquo;in making<lb/>
+the test for available chlorine in the commercial chloride, and<lb/>
+further says that it should contain 35%. Owing to the insoluble<lb/>
+nature of a part of the chloride of lime, and the fact that the dis-<lb/>
+infectant required must be a solution, the chloride contained in the<lb/>
+<hi>washings</hi> must be considered as non available. Hence the tests made<lb/>
+were of the available chlorine that went into solution, and not<lb/>
+the total amount of available chlorine contained in the dry lime.<lb/>
+This partly accounts for the low percentage found.)</p>
+<p>One pound of this 23.06 % Hypochlorite was dissolved in<lb/>
+ten gallons of water. Test gave 161.42 gr. per Gal. or .276 %.<lb/>
+Three-fourths of a Lb. of hydrochloric acid was then added and the<lb/>
+solution tested after effervescence had ceased. The following<lb/>
+shows loss of available chlorine in mixing, as well as loss after mix-<lb/>
+ing, compared with loss in Electrozone.</p>
+<p>-------------------------------------------------------------------------</p>
+<pb n="11" id="f02073011"/>
+<p>- 7 -</p>
+<p>
+<table rows="50" cols="6">
+<row><cell cols="1-3">CHLORINE WATER.</cell><cell cols="4-6">ELECTROZONE.</cell></row>
+<row><cell>Time.</cell><cell>%</cell><cell>gr. per gal.</cell><cell>Time.</cell><cell>%</cell><cell>gr.per gal.</cell></row>
+<row><cell>June 25,</cell><cell>before</cell><cell>adding HCl.</cell><cell>June 25th.</cell><cell></cell><cell></cell></row>
+<row><cell cols="1-6">-----------------------------------------------------------------------------------------</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell></cell><cell>in sun.</cell><cell></cell></row>
+<row><cell>8 P.M.</cell><cell>.276</cell><cell>161.42</cell><cell>3 P.M.</cell><cell>.316</cell><cell>184.23</cell></row>
+<row><cell></cell><cell cols="2-3">after adding HCl.</cell><cell></cell><cell>in sun.</cell><cell></cell></row>
+<row><cell>8 P.M.</cell><cell>.255</cell><cell>149.04</cell><cell>5 P.M.</cell><cell>.305</cell><cell>178.02</cell></row>
+<row><cell>10 P.M.</cell><cell>.252</cell><cell>146.97</cell><cell>7 P.M.</cell><cell>.301</cell><cell>175.95</cell></row>
+<row><cell>12 P.M.</cell><cell>.244</cell><cell>142.83</cell><cell>9 P.M.</cell><cell>.298</cell><cell>173.88</cell></row>
+<row><cell>June 26th.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>2 A.M.</cell><cell>.241</cell><cell>140.76</cell><cell>11 P.M.</cell><cell>.294</cell><cell>171.81</cell></row>
+<row><cell>4 A.M.</cell><cell>.237</cell><cell>138.69</cell><cell>1 A.M.</cell><cell>.291</cell><cell>169.74</cell></row>
+<row><cell>6 A.M.</cell><cell>.230</cell><cell>134.65</cell><cell>3 A.M.</cell><cell>.284</cell><cell>165.60</cell></row>
+<row><cell>8 A.M.</cell><cell>.220</cell><cell>128.34</cell><cell>5 A.M.</cell><cell>.280</cell><cell>162.63</cell></row>
+<row><cell>10 A.M.</cell><cell>.202</cell><cell>117.99</cell><cell>7 A.M.</cell><cell>.276</cell><cell>161.46</cell></row>
+<row><cell>12 M.</cell><cell>.177</cell><cell>103.50</cell><cell>9 A.M.</cell><cell>.273</cell><cell>159.39</cell></row>
+<row><cell>2 P.M.</cell><cell>.120</cell><cell>70.38</cell><cell>11 A.M.</cell><cell>.269</cell><cell>157.32</cell></row>
+<row><cell>4 P.M.</cell><cell>.085</cell><cell>49.68</cell><cell>1 P.M.</cell><cell>.266</cell><cell>155.25</cell></row>
+<row><cell>6 P.M.</cell><cell>.071</cell><cell>41.40</cell><cell>3 P.M.</cell><cell>.259</cell><cell>151.40</cell></row>
+<row><cell>8 P.M.</cell><cell>.067</cell><cell>39.33</cell><cell>5 P.M.</cell><cell>.255</cell><cell>149.04</cell></row>
+<row><cell>10 P.M.</cell><cell>.064</cell><cell>37.26</cell><cell>7 P.M.</cell><cell>.248</cell><cell>144.90</cell></row>
+<row><cell>12 M.</cell><cell><unclear>.066</unclear></cell><cell>26.91</cell><cell>9 P.M.</cell><cell>.241</cell><cell>140.76</cell></row>
+<row><cell>June 27th.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
+<row><cell>2 A.M.</cell><cell>.046</cell><cell>26.91</cell><cell>11 P.M.</cell><cell>.241</cell><cell>140.76</cell></row>
+<row><cell>4 A.M.</cell><cell>.042</cell><cell>24.84</cell><cell>1 A.M.</cell><cell>.237</cell><cell>138.69</cell></row>
+<row><cell>6 A.M.</cell><cell>.039</cell><cell>22.77</cell><cell>3 A.M.</cell><cell>.237</cell><cell>138.69</cell></row>
+<row><cell>8 A.M.</cell><cell>.024</cell><cell>14.49</cell><cell>5 A.M.</cell><cell>.234</cell><cell>136.62</cell></row>
+<row><cell>10 A.M.</cell><cell>.000</cell><cell>00.00</cell><cell>7 A.M.</cell><cell>.234</cell><cell>136.62</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M.</cell><cell>.230</cell><cell>134.55</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>11 A.M.</cell><cell>.223</cell><cell>130.41</cell></row>
+<row><cell cols="1-3">Or a total loss of</cell><cell>1 P.M.</cell><cell>.220</cell><cell>128.34</cell></row>
+<row><cell cols="1-3">chlorine in 37 hours.</cell><cell>3 P.M.</cell><cell>.216</cell><cell>126.27</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell cols="4-6">3 hour periods:-</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>6 P.M.</cell><cell>.209</cell><cell>122.13</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 P.M.</cell><cell>.205</cell><cell>120.06</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>12 M.</cell><cell>.202</cell><cell>117.99</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>3 A.M.</cell><cell>.198</cell><cell>115.92</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>6 A.M.</cell><cell>.195</cell><cell>113.85</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M.</cell><cell>.188</cell><cell>109.71</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell cols="4-6">June 29th, 24 hour periods.</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M. June 29</cell><cell>.166</cell><cell>97.29</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M. " 30</cell><cell>.142</cell><cell>82.80</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M. July 1</cell><cell>.134</cell><cell>68.66</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M. " 2</cell><cell>.0887</cell><cell>51.75</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M. " 3</cell><cell>.0745</cell><cell>43.47</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M. " 4</cell><cell>.0640</cell><cell>37.26</cell></row>
+<row><cell></cell><cell></cell><cell></cell><cell>9 A.M. " 5</cell><cell>.0497</cell><cell>28.98</cell></row>
+<row><cell></cell><cell></cell><cell cols="3-4">Total time 9 3&sol;4 days.</cell><cell></cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell cols="3-6">N.B. After making this last test it<lb/>was observed that by shaking a bottle of this<lb/>strength, a solution of .078% or 45.54 gr. per gal.<lb/>was produced.</cell></row>
+</table>
+</p>
+<pb n="12" id="f02073012"/>
+<p>- 8 -</p>
+<p>At 12 M. the next day after the above mentioned chlorine solution<lb/>
+was made the sun light shone in the open barrel in which it was stand-<lb/>
+ing, thereby enabling the free chlorine to decompose the water and form<lb/>
+hydrochloric acid; which was sufficiently plentiful to redden blue lit-<lb/>
+mus at 2 P.M. As soon as the available Cl. was all gone, which hap-<lb/>
+pened in about 39 hours, a sample was placed in a bottle having a glass<lb/>
+stopper and set aside to be used in determining the percentage of HCl<lb/>
+present. This I was enabled to do July 6th upon receipt of a normal<lb/>
+solution of caustic soda from the City chemist.</p>
+<p>The solution contained in the above mentioned bottle con-<lb/>
+tained .272 % of real hydrochloric acid thus showing that nearly all<lb/>
+the available Cl. had gone to form hydrochloric acid.</p>
+<p>The market price of Chloride of lime and hydrochloric<lb/>
+acid in Havana and the resulting price of the disinfectant is as fol-<lb/>
+lows:</p>
+<p>
+<table rows="2" cols="2">
+<row><cell>Chloride of lime,</cell><cell>4 &cent; per lb. (given by property clerk Eng. Dpt.)</cell></row>
+<row><cell>Hydrochloric acid, 27.9%</cell><cell>6 &cent; " " (from Dr. Johnson's Drug Store)</cell></row>
+</table>
+</p>
+<p>Assuming that all the freshly opened barrels of lime contain 23.06 % of<lb/>
+available chlorine the following calculation will apply.</p>
+<p>
+<table rows="2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

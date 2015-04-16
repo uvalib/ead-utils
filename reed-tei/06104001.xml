@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t06104001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from William Crawford Gorgas to Ronald Ross, August 9, 1906</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Gorgas, William Crawford</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06104001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1906-08-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Ross, Ronald</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Finlay, Carlos</name>
+<name type="person">Sanarelli, Dr.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1906-08-09">August 9, 1906</date>
+<idno rend="suppress">06104001</idno>
+<title>Letter from William Crawford Gorgas to Ronald Ross, August 9, 1906</title>
+</bibl>
+</head>
+<p>Gorgas suggests that Finlay and Carter be nominated for the Nobel Prize. In the postscript, Gorgas writes an autograph note for Carter.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1906-08-09">
+<head>Letter from William Crawford Gorgas to Ronald Ross, August 9, 1906</head>
+<pb n="1" id="f06104001"/>
+<opener>
+C O P Y .<lb/>
+<dateline>
+<date value="1906-08-09">August 9, 1906.</date>
+</dateline>
+Dr. Ronald Ross,<lb/>
+Liverpool School of Tropical Medicine,<lb/>
+Liverpool, England.<lb/>
+<unclear></unclear><lb/>
+<salute>Dear Doctor Ross:</salute>
+</opener>
+<p>You recollect that when you were here you spoke to me about cer-<lb/>
+tain letters which I was to write you, concerning Dr. Finley and Dr. Carter, and<lb/>
+their relation to the discovery of the part the mosquito plays in yellow fever.<lb/>
+You thought at the time that you would propose them for the Nobel Prize. I<lb/>
+merely mention it to remind you. It seems to me that the prize might very<lb/>
+well be given to America in this connection. It would somewhat balance the<lb/>
+<unclear>fact</unclear> that it had been given to Sanarelli for his work which has turned out since<lb/>
+to have so little foundation in fact.</p>
+<p>This work, it seems to me, is way and beyond in importance many of<lb/>
+the subjects that have received prizes in the last few years. In fact the<lb/>
+only original research work whose practical results at all compare with it, is<lb/>
+your work with regard to the mosquito and malaria.</p>
+<closer>
+<salute>Yours very sincerely,</salute>
+Dear Carter<lb/>
+I send you this extract in order that you may be <unclear>braced</unclear><lb/>
+up in case those old Norwegians should show any<lb/>
+sense. I'll let you know what your friends think of you<lb/>
+<signed>W. C. Gorgas</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

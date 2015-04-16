@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302007">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Hideyo Noguchi to Frederick F. Russell, July 30, 1923 [Enclosed in C0302006]</title>
+<title type="gmd">[electronic resource] </title>
+<author>Noguchi, Hideyo</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302007</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-07-30</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Russell, Frederick F.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Olivier, [N.]</name>
+<name type="person">Bauvallet, Dr.</name>
+<name type="place">Shandaken (N.Y).</name>
+<name type="place">French West Africa</name>
+<name type="place">West Africa</name>
+<name type="place">Segou</name>
+<name type="place">Grand Bassam</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1923-07-30">July 30, 1923</date>
+<idno rend="suppress">C0302007</idno>
+<title>Letter from Hideyo Noguchi to Frederick F. Russell, July 30, 1923 [Enclosed in C0302006]</title>
+</bibl>
+</head>
+<p>Noguchi has reviewed the letters and reports that Russell sent him regarding the use of serum vaccine for yellow fever in West Africa and believes the serum to be beneficial.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-07-30">
+<head>Letter from Hideyo Noguchi to Frederick F. Russell, July 30, 1923 [Enclosed in <xref id="C0302006">C0302006</xref>]</head>
+<pb n="1" id="fC0302007"/>
+<opener>
+<hi rend="underline">COPY</hi><lb/>
+<dateline>
+Shandaken, N. Y.<lb/>
+<date value="1923-07-30">July 30, 1923</date>
+</dateline><lb/>
+<salute>Dear Dr. Russell:</salute>
+</opener>
+<p>Your letter of July 12, with copies of letter of Governor General<lb/>
+N. Olivier, of French West Africa, has been received in due time. In going<lb/>
+over the reports appended by the Governor General, I gather that no real trial<lb/>
+has been possible in Segou owing to the passing off of the epidemic after the<lb/>
+use of the icteroides vaccine. In Grand Bassam, however, I notice, as we al-<lb/>
+ready knew from earlier communications of Dr. Bauvallet himself, that the<lb/>
+greater part of population received two vaccine injections and that the general<lb/>
+effect was more or less marked and some had sterile abcesses. The description<lb/>
+of the general reactions in English translation is somewhat more severe than in<lb/>
+the original French text. Of 5 cases treated with serum 2 were given too late<lb/>
+to be of any therapeutic value, 1 case given in time was fatal, but the cause<lb/>
+of the fever was not affirmed by autopsy, a point rather important in view of<lb/>
+great clinical confusion that may occur in fibrile jaundice cases met with in<lb/>
+West Coast of Africa. At all events, Dr. Bauvallet reported the cause of death<lb/>
+in this case as due to anaphylaxis. The remaining two cases and one additional<lb/>
+mentioned as the 9th. person who was vaccinated once, but subsequently developed<lb/>
+yellow fever (within 5 days from the time of vaccination) the administration of<lb/>
+the serum caused a very decided favorable change in the clinical picture of the<lb/>
+disease and all recovered promptly. In my opinion the serum was beneficial in<lb/>
+these cases as was regarded so by Dr. Bauvallet himself.</p>
+<p>Thanking you for keeping me in touch with the situation in West Africa,<lb/>
+I am</p>
+<closer>
+<salute>Yours sincerely,</salute>
+<signed>(Signed) Hideyo Noguchi</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

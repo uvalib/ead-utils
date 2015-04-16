@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAEH0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Biographical sketch: Walter Reed: A Memoir, by Walter D. McCaw, 1904</title>
+<title type="gmd">[electronic resource]</title>
+<author>McCaw, Walter D.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAEH0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1904-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Welch, William H.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Sanarelli, Giuseppe</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>11 pp.</extent>
+<date value="1904-00-00">1904</date>
+<idno rend="suppress">KAEH0010</idno>
+<title>Biographical sketch: Walter Reed: A Memoir, by Walter D. McCaw, 1904</title>
+</bibl>
+</head>
+<p>McCaw outlines Reed's career, especially his work with yellow fever, and concludes by requesting a monument to Walter Reed in Washington, D.C. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1904-00-00">
+<head>Biographical sketch: Walter Reed: A Memoir, by Walter D. McCaw, 1904</head>
+<pb n="1" id="fKAEH0010"/>
+<p>WALTER REED.<lb/>
+A MEMOIR.<lb/>
+W. D. M<hi rend="superscript">c</hi>Caw.</p>
+<pb n="2" id="fKAEH0020"/>
+<p>WALTER REED.<lb/>
+A MEMOIR.</p>
+<p>WASHINGTON, D. C.<lb/>
+PUBLISHED BY THE WALTER REED MEMORIAL ASSOCIATION.<lb/>
+1904.</p>
+<pb n="3" id="fKAEH0030"/>
+<p>WALTER REED.<lb/>
+A MEMOIR.<lb/>
+W.D. M<hi rend="superscript">c</hi>Caw.<lb/>
+-------</p>
+<p>It is given to but few scientific men to lay bare a secret of nature<lb/>
+materially affecting the prosperity of nations, and the lives, fortunes<lb/>
+and happiness of thousands. Fewer still succeed in so quickly<lb/>
+convincing brother scientists and men in authority of the truth of<lb/>
+their discoveries that their own eyes behold the glorious result of<lb/>
+their labor.</p>
+<p>Of the fifty-one years of Walter Reed's industrious, blameless<lb/>
+life, twelve only were spent in the study of the special branch of<lb/>
+science in which he became famous, but his name now stands<lb/>
+with those of Jenner, Lister and Morton, as among the benefac-<lb/>
+tors of humanity.</p>
+<p>Walter Reed was born in Gloucester County, Virginia, Septem-<lb/>
+ber 13, 1851, the son of the Rev. Lemuel Sutton Reed and Pharaba<lb/>
+White, his wife.</p>
+<p>The circumstances of his family were modest, and some of the<lb/>
+years of his boyhood were spent in a much troubled section of the<lb/>
+south during the great civil war. He acquired, however, a good<lb/>
+preliminary education, and at an age when most boys are still in<lb/>
+the schoolroom, he began the study of medicine at the University of<lb/>
+Virginia, graduating as M. D. in 1868, when only seventeen years<lb/>
+old.</p>
+<p>A second medical degree was received later from Bellevue Med-<lb/>
+ical College, New York, and then came terms of service in the<lb/>
+Brooklyn City Hospital, and the City Hospital, Blackwell's Island.</p>
+<p>Before the age of twenty-one, Reed was a district physician in<lb/>
+New York city, and at twenty-two one of the five inspectors of the<lb/>
+Board of Health of Brooklyn.</p>
+<p>He entered the Army of the United States as Assistant Surgeon<lb/>
+with the rank of First Lieutenant, in 1875, and for the next eigh-<lb/>
+<pb n="4" id="fKAEH0040"/>
+4<lb/>
+teen years, with the usual varying fortunes of a young medical<lb/>
+officer of the army, he served in Arizona, Nebraska, Dakota, and<lb/>
+in the Southern and Eastern States.</p>
+<p>According to the exigencies of the service he was moved fre-<lb/>
+quently from station to station, everywhere recognized by men of<lb/>
+his own age as a charming and sympathetic companion, and by<lb/>
+older officers as an earnest and intelligent physician, whose in-<lb/>
+dustry, fidelity to duty, and singularly clear judgment, gave<lb/>
+brilliant promise for the future. In the poor cabins and dugouts<lb/>
+of the pioneers in the sparsely settled districts where he served<lb/>
+his flag, Reed was ever a messenger of healing and comfort. At<lb/>
+that time army posts on the frontier were usually remote and<lb/>
+with small garrisons. The young medical officer, generally the<lb/>
+only one at the station, was called upon by the settlers for miles<lb/>
+around. Without help, and with only such instruments and<lb/>
+medicines as could be hastily stuffed in his saddle-bag, he was<lb/>
+summoned to attend a fractured thigh, a child choking with<lb/>
+diphtheria, or, most trying of all, a complicated child-birth.</p>
+<p>Such experience schools well in self-reliance, and in the forma-<lb/>
+tion of quick and accurate observation.</p>
+<p>For a man like Reed, already an earnest student, no better<lb/>
+preparation could perhaps have been had. His earlier army serv-<lb/>
+ice must have singularly tended to develop in him the very<lb/>
+qualities most necessary to his final success. To the end of his life<lb/>
+it was noticeable that even when he had long given up the practice<lb/>
+of medicine for the work of the laboratory, he was nevertheless<lb/>
+unexcelled at the bedside for rapid unerring diagnosis and sound<lb/>
+judgment in treatment. So also were the series of experiments<lb/>
+which robbed yellow fever of its terrors especially remarkable for<lb/>
+simplicity, accuracy, and completeness, or they never would have<lb/>
+so quickly convinced the world of their truth. Too much rever-<lb/>
+ence for accepted teachings, and too little experience in grappling<lb/>
+with difficulties unassisted, and they might never have been con-<lb/>
+ceived or carried out.</p>
+<p>In 1890, he was assigned to duty in Baltimore and remained<lb/>
+there over a year. Here he had the great advantage of working<lb/>
+in the laboratories of Johns Hopkins University and the happiness<lb/>
+of winning the close friendship of his distinguished teacher, Prof.<lb/>
+William H. Welch.</p>
+<pb n="5" id="fKAEH0050"/>
+<p>5</p>
+<p>In 1893, Reed was promoted surgeon with the rank of Major,<lb/>
+and in the same year was detailed in Washington as Curator of<lb/>
+the Army Medical Museum and Professor of Bacteriology at the<lb/>
+newly organized Army Medical School. Here he worked in-<lb/>
+dustriously at his specialty and wrote many valuable mono-<lb/>
+graphs, all characterized by accuracy and originality. His<lb/>
+excellent judgment made him especially valuable in inves-<lb/>
+tigating the causes of epidemic diseases at military posts, and in<lb/>
+making sanitary inspections. He was, therefore, frequently<lb/>
+selected for such work, which with his duties as teacher and<lb/>
+member of examining boards, occupied much of the time that<lb/>
+he would otherwise have spent in his laboratory. Here again<lb/>
+it seems that duties which must often have been irksome were<lb/>
+specially fitting him for his culminating work.</p>
+<p>During the Spanish-American war the camps of the volunteer<lb/>
+troops in the United States were devastated by typhoid fever, and<lb/>
+Major Reed was selected as the head of a board to study the causa-<lb/>
+tion and spread of the disease. This immense task occupied more<lb/>
+than a year's time. With the utmost patience and accuracy the<lb/>
+details of hundreds of individual cases were grouped and studied.<lb/>
+The report of the commission, now in course of publication by the<lb/>
+Government, is a monumental work which must always serve as<lb/>
+a basis for future study of the epidemiology of typhoid fever.</p>
+<p>The most original and valuable work of the board is the proof<lb/>
+that the infection of typhoid fever is spread in camps by the com-<lb/>
+mon fly, and by contact with patients and infected articles, cloth-<lb/>
+ing, tentage and utensils, as well as by contaminated drinking<lb/>
+water.</p>
+<p>In June, 1900, Major Reed was sent to Cuba as president of a<lb/>
+board to study the infectious diseases of the country, but more<lb/>
+especially yellow fever. Associated with him were Acting As-<lb/>
+sistant Surgeons James Carroll, Jesse W. Lazear, and A. Agra-<lb/>
+monte.</p>
+<p>At this time the American authorities in Cuba had for a year<lb/>
+and a half endeavored to diminish the disease and mortality of<lb/>
+the Cuban towns, by general sanitary work, but while the health<lb/>
+of the population showed distinct improvement and the mortality<lb/>
+had greatly diminished, yellow fever apparently had been en-<lb/>
+tirely unaffected by these measures. In fact, owing to the large<lb/>
+number of non-immune foreigners, the disease was more fre-<lb/>
+<pb n="6" id="fKAEH0060"/>
+6<lb/>
+quent than usual in Havana and in Quemados near the camp of<lb/>
+American troops, and many valuable lives of American officers<lb/>
+and soldiers had been lost.</p>
+<p>Reed was convinced from the first that general sanitary measures<lb/>
+alone would not check the disease but that its transmission was<lb/>
+probably due to an insect.</p>
+<p>The fact that malarial fever, caused by an animal parasite in<lb/>
+the blood, is transmitted from man to man through the agency<lb/>
+of certain mosquitoes had been recently accepted by the scientific<lb/>
+world; also several years before, Dr. Carlos Finlay, of Havana, had<lb/>
+advanced the theory that a mosquito conveyed the unknown<lb/>
+cause of yellow fever, but did not succeed in demonstrating the<lb/>
+truth of his theory.</p>
+<p>Dr. H. R. Carter, of the Marine Hospital Service, had written a<lb/>
+paper showing that although the period of incubation of yellow<lb/>
+fever was only five days, yet a house to which a patient was carried<lb/>
+did not become infected for from fifteen to twenty days.</p>
+<p>To Reed's mind this indicated that the unknown infective<lb/>
+agent has to undergo a period of incubation of from ten to fifteen<lb/>
+days, and probably in the body of a biting insect.</p>
+<p>Up to this time the most generally accepted theory as to the<lb/>
+causation of yellow fever was that of Sanarelli, who claimed tha<unclear>t</unclear><lb/>
+the Bacillus icteroides discovered by him was the specific agent<lb/>
+of the disease. Major Reed, in association with Dr. Carroll, had,<lb/>
+however, already demonstrated that this bacillus was one widely<lb/>
+disseminated in the United States, and bore no special relation to<lb/>
+yellow fever.</p>
+<p>In June, July and August, 1900, the commission gave their<lb/>
+entire attention to the bacteriological study of the blood of yellow<lb/>
+fever patients, and the post-mortem examination of the organs of<lb/>
+those dying with the disease. In twenty-four cases where the<lb/>
+blood was repeatedly examined, as well as in eleven carefully<lb/>
+studied autopsies, Bacillus icteroides was not discovered, nor was<lb/>
+there any indication of the presence in the blood of a specific<lb/>
+cause of the disease.</p>
+<p>Application was made to General Leonard Wood, the Military<lb/>
+Governor of Cuba, for permission to conduct experiments on<lb/>
+non-immune persons, and a liberal sum of money requested for<lb/>
+<pb n="7" id="fKAEH0070"/>
+7<lb/>
+the purpose of rewarding volunteers who would submit them-<lb/>
+selves to experiment.</p>
+<p>It was indeed fortunate that the military governor of Cuba was<lb/>
+a man who by his breadth of mind and special scientific training<lb/>
+could readily appreciate the arguments of Major Reed as to the<lb/>
+value of the proposed work.</p>
+<p>Money and full authority to proceed were promptly granted,<lb/>
+and to the everlasting glory of the American soldier, volunteers<lb/>
+from the army offered themselves for experiment in plenty, and<lb/>
+with the utmost fearlessness.</p>
+<p>Before the arrangements were entirely completed, Dr. Carroll, a<lb/>
+member of the commission, allowed himself to be bitten by a mos-<lb/>
+quito that twelve days previously had filled itself with the blood<lb/>
+of a yellow fever patient. He suffered from a very severe attack,<lb/>
+and his was the first experimental case. Dr. Lazear also experi-<lb/>
+mented on himself at the same time, but was not infected. Some<lb/>
+days later, while in the yellow fever ward, he was bitten by a mos-<lb/>
+quito and noted the fact carefully. He acquired the disease in its<lb/>
+most terrible form and died a martyr to science, and a true hero.</p>
+<p>No other fatality occurred among the brave men who, in the<lb/>
+course of the experiments, willingly exposed themselves to the<lb/>
+infection of the dreaded disease.</p>
+<p>A camp was especially constructed for the experiments about<lb/>
+four miles from Havana, christened Camp Lazear in honor of the<lb/>
+dead comrade. The inmates of the camp were put into most rigid<lb/>
+quarantine and ample time was allowed to eliminate any possibility<lb/>
+of the disease being brought in from Havana.</p>
+<p>The personnel consisted of three nurses and nine non-immunes,<lb/>
+all in the military service, and included two physicians.</p>
+<p>From time to time Spanish immigrants, newly arrived, were<lb/>
+brought in directly from the immigrant station; a person not<lb/>
+known to be immune was not allowed to leave camp, or if he did<lb/>
+was forbidden to return.</p>
+<p>The most complete record was kept of the health of every man<lb/>
+to be experimented upon, thus eliminating the possibility of any<lb/>
+other disease than yellow fever complicating the case.</p>
+<p>The mosquitoes used were specially bred from the eggs and kept<lb/>
+in a building screened by wire netting. When an insect was<lb/>
+wanted for an experiment it was taken into a yellow fever hospi-<lb/>
+<pb n="8" id="fKAEH0080"/>
+8<lb/>
+tal and allowed to fill itself with the blood of a patient; afterward<lb/>
+at varying intervals from the time of this meal of blood it was<lb/>
+purposely applied to non-immunes in camp.</p>
+<p>In December five cases of the disease were developed as the<lb/>
+result of such applications; in January, three, and in February,<lb/>
+two, making in all ten, exclusive of the cases of Drs. Carroll and<lb/>
+Lazear. Immediately upon the appearance of the first recognized<lb/>
+symptoms of the disease, in any one of these experimental cases,<lb/>
+the patient was taken from Camp Lazear to a yellow fever hospital,<lb/>
+one mile distant. Every person in camp was rigidly protected<lb/>
+from accidental mosquito bites, and not in a single instance did<lb/>
+yellow fever develop in the camp, except at the will of the experi-<lb/>
+menters.</p>
+<p>The experiments were conducted at a season when there was<lb/>
+the least chance of naturally acquiring the disease, and the mos-<lb/>
+quitoes used were kept active by maintaining them at a summer<lb/>
+temperature.</p>
+<p>A completely mosquito-proof building was divided into two<lb/>
+compartments by a wire screen partition; infected insects were<lb/>
+liberated on one side only. A brave non-immune entered and re-<lb/>
+mained long enough to allow himself to be bitten several times.<lb/>
+He was attacked by yellow fever, while two susceptible men in<lb/>
+the other compartment did not acquire the disease, although<lb/>
+sleeping there thirteen nights. This demonstrates in the simplest<lb/>
+and most certain manner that the infectiousness of the building<lb/>
+was due only to the presence of the insects.</p>
+<p>Every attempt was made to infect individuals by means of<lb/>
+bedding, clothes, and other articles that had been used and soiled<lb/>
+by patients suffering with virulent yellow fever.</p>
+<p>Volunteers slept in the room with and handled the most filthy<lb/>
+articles for twenty nights, but not a symptom of yellow fever was<lb/>
+noted among them, nor was their health in the slightest degree<lb/>
+affected. Nevertheless they were not immune to the disease, for<lb/>
+some of them were afterward purposely infected by mosquito bites.<lb/>
+This experiment indicates at once the uselessness of destroying<lb/>
+valuable property for fear of infection. Had the people of the<lb/>
+United States known this one fact a hundred years ago, an enor-<lb/>
+mous amount of money would have been saved to householders.</p>
+<pb n="9" id="fKAEH0090"/>
+<p>9</p>
+<p>Besides the experimental cases caused by mosquito bite, four<lb/>
+non-immunes were infected by injecting blood drawn directly from<lb/>
+the veins of yellow fever patients in the first two days of the<lb/>
+disease, thus demonstrating the presence of an infectious agent in<lb/>
+the blood at this early period of the attack.</p>
+<p>Even the blood serum of a patient, passed through a bacteria<lb/>
+proof filter, was found to be capable of causing yellow fever in<lb/>
+another person.</p>
+<p>The details of the experiments are most interesting, but it<lb/>
+must here suffice to briefly sum up the principal conclusions of<lb/>
+this admirable board of investigators of which Reed was the mas-<lb/>
+ter mind:<lb/>
+<list type="ordered">
+<item>1. The specific agent in the causation of yellow fever<lb/>
+exists in the blood of a patient for the first three days of his<lb/>
+attack, after which time he ceases to be a menace to the<lb/>
+health of others.</item>
+<item>2. A mosquito of a single species, Stegomyia fasciata, in-<lb/>
+gesting the blood of a patient during this infective period is<lb/>
+powerless to convey the disease to another person by its<lb/>
+bite until about twelve days have elapsed, but can do so<lb/>
+thereafter for an indefinite period, probably during the re-<lb/>
+mainder of its life.</item>
+<item>3. The disease can not in nature be spread in any other<lb/>
+way than by the bite of the previously infected Stegomyia.<lb/>
+Articles used and soiled by patients do not carry infection.</item>
+</list>
+</p>
+<p>These conclusions pointed so clearly to the practical method of<lb/>
+exterminating the disease that they were at once accepted by the<lb/>
+sanitary authorities in Cuba, and put to the test in Havana,<lb/>
+where for nearly a century and a half, by actual record, the dis-<lb/>
+ease had never failed to appear annually.</p>
+<p>March In <hi>February</hi>, 1901, the Chief Sanitary Officer in Havana,<lb/>
+Major W. C. Gorgas, Medical Department, U. S. Army, instituted<lb/>
+measures to eradicate the disease, based entirely on the con-<lb/>
+clusions of the commission. Cases of yellow fever were required<lb/>
+to be reported as promptly as possible, the patient was at first<lb/>
+rigidly isolated, and immediately upon the report a force of men<lb/>
+<pb n="10" id="fKAEH0100"/>
+10<lb/>
+from the sanitary department visited the house. All the rooms<lb/>
+of the building and of the neighboring houses were sealed and<lb/>
+fumigated to destroy the mosquitoes present. Window and door<lb/>
+screens were put up, and after the death or recovery of the pa-<lb/>
+tient, his room was fumigated and every mosquito destroyed. A<lb/>
+war of extermination was also waged against mosquitoes in gen-<lb/>
+eral, and an energetic effort was made to diminish the number<lb/>
+bred by draining standing water, screening tanks and vessels,<lb/>
+using petroleum on water that could not be drained, and in the<lb/>
+most systematic manner destroying the breeding places of the<lb/>
+insects.</p>
+<p>When the warm season returned a few cases occurred, but by<lb/>
+September, 1901, the last case of yellow fever originated in<lb/>
+Havana, since which time the city has been entirely exempt from<lb/>
+the terrible disease, that had there kept stronghold for a hundred<lb/>
+and fifty years. Cases are now admitted into Havana from Mex-<lb/>
+ican ports, but are treated under screens with perfect impunity,<lb/>
+in the ordinary city hospitals. The crusade against the insects<lb/>
+also caused a very large decrease in malarial fevers.</p>
+<p>The destruction of the most fatal epidemic disease of the west-<lb/>
+ern hemisphere, in its favorite home city is but the beginning of<lb/>
+the benefit to mankind that may be expected to follow the work<lb/>
+of Reed and his associates. There can be no manner of doubt<lb/>
+should Mexico, Brazil, and the Central American Republics,<lb/>
+where the disease still exists, follow strictly the example set by<lb/>
+Havana, that yellow fever will become extinct and the United<lb/>
+States forever freed from the scourge, that has in the past slain<lb/>
+thousands of our citizens and caused the loss of untold<lb/>
+treasure.</p>
+<p>More recent investigations into the cause and spread of yellow<lb/>
+fever have only succeeded in verifying the work of Reed and his<lb/>
+commission in every particular and in adding very little to our<lb/>
+knowledge of the disease.</p>
+<p>Later researches by Guiteras in Havana, by the Public Health,<lb/>
+and Marine Hospital Service in Vera Cruz, and lastly by a dele-<lb/>
+gation from the Pasteur Institute of Paris in Rio de Janeiro, all<lb/>
+confirm in the most convincing manner, both the accuracy and<lb/>
+comprehensiveness of the conclusions of the American commis-<lb/>
+sion. It has been well said that Reed's experiments &ldquo;will al-<lb/>
+ways remain as models in the annals of scientific research, both<lb/>
+<pb n="11" id="fKAEH0110"/>
+11<lb/>
+for the exactness with which they were adapted to the points to<lb/>
+be proved, and the precautions taken that no experiment should<lb/>
+be vitiated by failure to exclude all possible sources of error.&rdquo;</p>
+<p>Appreciation of Reed's work was instant in the scientific<lb/>
+world. Honorary degrees from Harvard University and the Uni-<lb/>
+versity of Michigan were conferred upon him, learned societies<lb/>
+and distinguished men delighted to honor him, and after his<lb/>
+death Congress voted a special pension to his widow.</p>
+<p>To the United States the value of his services cannot be esti-<lb/>
+mated. Ninety times has yellow fever invaded the country,<lb/>
+carrying death and destruction, leaving poverty and grief.</p>
+<p>New Orleans, Memphis, Charleston, Galveston, Portsmouth,<lb/>
+Baltimore, Philadelphia, New York, and many smaller towns<lb/>
+have been swept by the disease.</p>
+<p>The epidemic of 1853 cost New Orleans eight thousand lives,<lb/>
+that of 1793 wiped out ten per cent. of Philadelphia's population.</p>
+<p>The financial loss to the United States in the one epidemic of<lb/>
+1878 was estimated as amounting to fifteen million three hun-<lb/>
+dred and thirty-five thousand dollars, but suffering, panic, fear,<lb/>
+and the tears of widows and orphans, can never be estimated.<lb/>
+Now, however, if yellow fever should again cross our southern<lb/>
+border, there need be no disturbance of commerce or loss of prop-<lb/>
+erty in the slightest degree comparable with that which epidemics<lb/>
+in the past have caused.</p>
+<p>The death of Major Reed took place November 23, 1902, in<lb/>
+Washington, from appendicitis. It is gratifying to think that,<lb/>
+although his country and the scientific world were deprived of one<lb/>
+from whose future services more benefit to humanity might reason-<lb/>
+ably be expected, nevertheless he was privileged before his life's<lb/>
+close to know that his discovery had been tested, and that a great<lb/>
+city was freed from her ancient foe, to know that his conscientious<lb/>
+work had contributed immeasureably toward the future prospects<lb/>
+of an infant republic, and even more to the welfare of his own<lb/>
+beloved country, whose flag he had served so faithfully.</p>
+<p>In the National Capital and in the great cities of the United<lb/>
+States, there are stately monuments to the country's great ones.<lb/>
+Statues of warriors, statesmen and patriots stand as silent wit-<lb/>
+nesses of a people's gratitude. Is there not room for the effigy of<lb/>
+Walter Reed, who so clearly pointed out to his fellow man the<lb/>
+way to conquer America's worst plague?</p>
+<p>WALTER D. McCAW.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

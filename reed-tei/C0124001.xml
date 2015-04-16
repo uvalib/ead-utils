@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0124001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Military Orders from Walter Wyman to Henry Rose Carter, January 28, 1899</title>
+<title type="gmd">[electronic resource] </title>
+<author>Wyman, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0124001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1899-01-28</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Henry Rose</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Brooke, John R.</name>
+<name type="person">Ludlow, William</name>
+<name type="person">Black, Col.</name>
+<name type="person">Rosenau, M. J.</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Puerto Rico</name>
+<name type="hospital">Marine-Hospital Service</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1899-01-28">January 28, 1899</date>
+<idno rend="suppress">C0124001</idno>
+<title>Military Orders from Walter Wyman to Henry Rose Carter, January 28, 1899</title>
+</bibl>
+</head>
+<p>Wyman places Carter in charge of all quarantine matters in Cuba, except for the province of Santiago.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1899-01-28">
+<head>Military Orders from Walter Wyman to Henry Rose Carter, January 28, 1899</head>
+<pb n="1" id="fC0124001"/>
+<opener>
+<hi rend="italic">In answering this Letter, please refer to the initials in upper left-hand corner</hi><lb/>
+<unclear>PHB</unclear><lb/>
+McE<lb/>
+Treasury Department.<lb/>
+Office of the Supervising Surgeon-General<lb/>
+Marine-Hospital Service,<lb/>
+<dateline>
+Washington, D.C., <date value="1899-01-28">January 28, 1899.</date>
+</dateline><lb/>
+Surgeon H. R. Carter,<lb/>
+U. S. Marine-Hospital Service,<lb/>
+Washington, D.C.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>Having arrived in Washington in accordance with telegraphic<lb/>
+orders of January 23, 1899, you are hereby ordered to proceed to<lb/>
+Habana, Cuba, <hi rend="sup">x</hi> and thence to other portions of the island, the<lb/>
+province of Santiago excepted, at such times as may be suitable.<hi rend="sub">x</hi><lb/>
+I have to inclose herewith a copy of General Orders No. 15, is-<lb/>
+sued from the Headquarters of the Army, Adjutant-General's Of-<lb/>
+fice, in Washington, dated January 20, 1899, embracing an order<lb/>
+signed by the President relating to quarantine in Cuba and<lb/>
+Porto Rico. You are hereby directed to organize the service con-<lb/>
+templated in this Executive Order in the ports of Cuba, the<lb/>
+provinve of Santiago excepted.</p>
+<p>You are directed first to call <hi rend="sup">xx</hi> upon Major-General John R.<lb/>
+Brooke, U.S.A., Governor of the Island of Cuba, with a view to<lb/>
+securing his cooperation in the measures about to be instituted.<lb/>
+Thereafter you will call upon each of the military governors of<lb/>
+the several provinces of the island and also the military offi-<lb/>
+<pb n="2" id="fC0124002"/>
+--2--<lb/>
+cers in command of the several ports, particularly General<lb/>
+William Ludlow in command of the city of Habana, and Colonel<lb/>
+Black, who has also been detailed by the President for duty in<lb/>
+that city.</p>
+<p>You will provide for the organization of the quarantine<lb/>
+service first in the ports mentioned in the Executive Order,<lb/>
+with the exception of Santiago to which port and province Pass-<lb/>
+ed Assistant Surgeon M. J. Rosenau has been detailed.</p>
+<p>You are informed that the disinfecting barge Protector is<lb/>
+to be towed within a few days to the harbor of Habana, and that<lb/>
+the Bureau, in order to save time, has advertised for proposals<lb/>
+to furnish some eight steam disinfecting chambers with boilers<lb/>
+and formaldehyd attachments for use at the quarantine stations<lb/>
+in Cuba. You will make a specific report to the Bureau concern-<lb/>
+ing each port, recommending the kind of plant necessary, i.e.,<lb/>
+whether floating or stationary, and if stationary its location,<lb/>
+giving diagram so far as possible in illustration thereof.</p>
+<p>You are informed that a disbursing officer of the Epidemic<lb/>
+Fund is to be appointed by the Secretary of the Treasury for the<lb/>
+Island of Cuba. This disbursing officer will be directed to pay<lb/>
+bills certified to by the regular quarantine officers appointed<lb/>
+at the respective ports, when these officers are regularly com-<lb/>
+missioned officers of the Service, or by yourself.</p>
+<p>While the Marine-Hospital Service is given the control of<lb/>
+quarantine matters, including the payment of quarantine expendi-<lb/>
+<pb n="3" id="fC0124003"/>
+--3--<lb/>
+tures, it is the desire of the Bureau that the military govern-<lb/>
+ors of the several ports, as well as the military governors of<lb/>
+the provinces, should be consulted with regard to the equipment<lb/>
+and running expenses of the respective ports.</p>
+<p>You will keep the Bureau fully informed by correspondence,<lb/>
+or cable if necessary, of your procedures under this order,<lb/>
+writing a letter at least once a week and oftener if necessary.</p>
+<p>That there may be no misunderstanding in the matter, you<lb/>
+are informed that you are in charge of all quarantine matters in<lb/>
+behalf of the Bureau in Cuba, with the exception of the Province<lb/>
+of Santiago, the port of Habana included. With regard to this<lb/>
+latter port, your attention is especially directed to the matter<lb/>
+of the landing of troops from transports, and some measure de-<lb/>
+void of danger from infection of Yellow Fever should be devised<lb/>
+for such landing. Your attention is called in particular to the<lb/>
+necessity of perfecting arrangements at Habana for preventing<lb/>
+the conveyance of Yellow Fever from that port of the United<lb/>
+States. These arrangements should be made and put in operation<lb/>
+as soon as practicable.</p>
+<closer>
+<salute>Respectfully yours,</salute>
+<signed>Walter Wyman</signed>
+Supervising Surgeon-General, M.H.S.<lb/>
+lCS<lb/>
+Inclosure.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

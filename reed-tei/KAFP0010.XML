@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAFP0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to Louise Young Kean, October 5, 1906</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAFP0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1906-10-05</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Louise Young</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Baker, Chauncey B.</name>
+<name type="person">Runcie, Major</name>
+<name type="person">Laine, Dr.</name>
+<name type="person">McIntyre, Captain</name>
+<name type="person">Slocum, Herbert</name>
+<name type="person">Rodriguez, Alejandro</name>
+<name type="person">Bullard, Dick</name>
+<name type="person">Neville, Major</name>
+<name type="person">Pena, Jose M.</name>
+<name type="person">Kean, Martha</name>
+<name type="person">Kean, Robert H.</name>
+<name type="person">Vaughan, John N.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Ladd, Maj.</name>
+<name type="person">Magoon, Charles E.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Key West (Fla.)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="hospital">Las Animas (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1906-10-05">October 5, 1906</date>
+<idno rend="suppress">KAFP0010</idno>
+<title>Letter from Jefferson Randolph Kean to Louise Young Kean, October 5, 1906</title>
+</bibl>
+</head>
+<p>Kean writes his first letter home to his wife after his arrival in Cuba. He describes where he is living and how he has set up his office, as well as sends greetings from many of their acquaintances living in Cuba. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1906-10-05">
+<head>Letter from Jefferson Randolph Kean to Louise Young Kean, October 5, 1906</head>
+<pb n="1" id="fKAFP0010"/>
+<opener>
+<dateline>
+Havana <date value="1906-10-05">Oct. 5<hi rend="superscript">th</hi> 1906.</date>
+</dateline><lb/>
+<salute>My dearest Louise</salute>
+</opener>
+<p>We arrived yesterday morning after a<lb/>
+smooth trip in the night from Key West and<lb/>
+were met by a Launch with the indispensable<lb/>
+Steinhart and Capts Butt &amp; Cole - and Major<lb/>
+Runcie who took Baker off to his house.<lb/>
+Steinhard took possession of Capt McIntyre<lb/>
+&amp; me &amp; installed us at the Inglaterra in a<lb/>
+bridal chamber where Mac is installed and<lb/>
+a second room which contains my bed &amp;<lb/>
+the bath tub! I let McIntyre use my tub &amp; he<lb/>
+lets me look out of his front window &amp; so<lb/>
+the modus vivendi is established. This elegance<lb/>
+mind you is not at our own expense for we<lb/>
+for the present are to have either actual ex-<lb/>
+penses or a per diem to cover them - thank<lb/>
+God. So bankrupcy is not added to the<lb/>
+grief of parting from the dearest of wives.<lb/>
+I breakfasted with the Laine's &amp; reported to<lb/>
+the Secy who gave me a very <unclear>complimentary</unclear><lb/>
+order to Dr Finlay to act as his &ldquo;aide&rdquo;<lb/>
+in the same sense that Slocum was General<lb/>
+Alejandro Rodriguez' assistant. It is to me<lb/>
+<pb n="2" id="fKAFP0020"/>
+a very satisfactory relation as I am very fond<lb/>
+of the old Doctor who is really a dear old<lb/>
+man tho. I cannot understand more than<lb/>
+half of what he tells me. I dined with Ladd<lb/>
+<unclear>Crewdon</unclear> &amp; Mr Vaughan at the Dos Hermanos<lb/>
+and Vaughan spend most of dinner send-<lb/>
+ing nice messages to you. He asked if you<lb/>
+still looked like you were fifteen - and<lb/>
+Ladd hastened to assure him that you did<lb/>
+Mrs Vaughan is in the states &amp; he is going up<lb/>
+for her tomorrow. He said they were going<lb/>
+to ask you to come back with <add>them</add><unclear>.</unclear> I told<lb/>
+him he had better not as you would<lb/>
+certainly take him up. We then rode up<lb/>
+&amp; down the Prado &amp; the <unclear>malecon</unclear> in O's<lb/>
+beautiful French auto for a while, stopped<lb/>
+at the Miraman got a drink &amp; chatted<lb/>
+with the gang that soon gathered. - Baker<lb/>
+Capt. Shirley &amp; Horten &amp; Mr Greenwood - &amp; then<lb/>
+I strolled up the Prado to the Inglaterra<lb/>
+&amp; to bed after chatting in the portico with Mr.<lb/>
+Davis of the N. Y. Times until I got cool.<lb/>
+<pb n="3" id="fKAFP0030"/>
+3.<lb/>
+I have not told you half the things I did or<lb/>
+rather the people I saw, all the Beneficencia<lb/>
+people &amp; Dick Bullard &amp; Major Neville of the<lb/>
+Marines who is camped at Columbia Bks &amp;<lb/>
+little Posy. All wanted to be remembered to<lb/>
+you and to know if you were coming down.<lb/>
+This morning I went to Las Animas &amp; to the<lb/>
+Palace. I have secured Pe&ntilde;a (you remember<lb/>
+Dr Pe&ntilde;a) to be my interpreter &amp; assistant.<lb/>
+He is all the special office force I will have<lb/>
+at present. I suppose I can use a Cuban<lb/>
+typewriter from the immense office force<lb/>
+of the Junta Superior de Sanidad if I<lb/>
+need one. Do you know in looking<lb/>
+around for a place to put my desk I<lb/>
+discovered that my old office was va-<lb/>
+cant and I am now installed there<lb/>
+with the soft east wind blowing on me<lb/>
+from across the bay.</p>
+<p>After Breakfast - I have unpacked my blanket<lb/>
+roll and got out some good North American pens<lb/>
+instead of these sharp Cuban things that I never<lb/>
+could write with. I have also Pe&ntilde;a installed in<lb/>
+<pb n="4" id="fKAFP0040"/>
+4<lb/>
+a desk behind me and am beginning to<lb/>
+feel really at home. Pe&ntilde;a puzzled me just<lb/>
+now by asking for my official title. I<lb/>
+told him that he would have to give me time<lb/>
+to make up one &amp; have it approved.<lb/>
+There are only three mails a week now<lb/>
+which is the reason why you will have<lb/>
+quite a delay in getting this my first letter<lb/>
+written from Cuba. They go Tuesday Thursday<lb/>
+&amp; Saturday. I will write to the Chief by this<lb/>
+mail also but you must go down to<lb/>
+see him and exchange news as I<lb/>
+am subject to so many interruptions<lb/>
+that I fear his letter will be short<lb/>
+I will send him a copy of the Secy's<lb/>
+letter to Dr Finlay fixing my status for<lb/>
+the present. Which I will ask him to<lb/>
+show you &amp; give you a copy of<lb/>
+Goodbye dear heart, I miss you constantly<lb/>
+and will I know do so more and more.<lb/>
+Give my love to the children &amp; to Carrie if she<lb/>
+has come. I will send Martha &amp; Bob some<lb/>
+postals soon. These cigar bands were given me by<lb/>
+<pb n="5" id="fKAFP0050"/>
+5<lb/>
+Mr Merchant the vice President of Mr<lb/>
+Vaughans bank, the Banco Nacional de<lb/>
+Cuba - you see they have his initials in<lb/>
+them being made to order.</p>
+<p>I hope tomorrow boat will bring a letter<lb/>
+from you. You have received by cable<lb/>
+sent by McIntyre the news of my safe<lb/>
+arrival.</p>
+<p>I had a long talk with Dr Guiteras this<lb/>
+morning at Las Animas and he invited<lb/>
+me to come &amp; live with him there. I may<lb/>
+do so for a while as his family is away<lb/>
+but as long as McIntyre is at the Ingla-<lb/>
+terra I will probably stay there with him<lb/>
+but his stay will I think be short<lb/>
+Ladd too says he is going home soon.<lb/>
+The Secy will go the middle of the month<lb/>
+when Magoon is safely installed.</p>
+<p>With much love</p>
+<closer>
+<salute>Your devoted husband</salute>
+<signed>Randolph</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01724001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Inspection Report from J. C. McKee to the Surgeon General, 1877</title>
+<title type="gmd">[electronic resource]</title>
+<author>McKee, J. C.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01724001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1877-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Reed, Walter</name>
+<name type="place">Camp Lowell (Ariz.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="hospital">Camp Lowell (Ariz.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1877-00-00">1877</date>
+<idno rend="suppress">01724001</idno>
+<title>Inspection Report from J. C. McKee to the Surgeon General, 1877</title>
+</bibl>
+</head>
+<p>McKee reports to the Surgeon General that Reed has his hospital in &ldquo;most excellent condition.&rdquo; He also mentions Reed's personal qualities that have won him the confidence of all. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1877-00-00">
+<head>Inspection Report from J. C. McKee to the Surgeon General, 1877</head>
+<pb n="1" id="f01724001" />
+<p><hi rend="underline">Walter Reed.</hi></p>
+<p><hi rend="underline">2086 S.G.O.-1877- Inspection Report: <unclear>med.</unclear></hi> Div. J. C. McKee<lb/>
+Dept. Arizona</p>
+<p><hi rend="underline">Camp Lowell A.T.</hi><unclear>. . .</unclear> &ldquo;Asst. Surgeon Walter Reed<lb/>
+U.S. Army, in charge - has, I am pleased to say, his<lb/>
+hospital in most excellent condition, as the above<lb/>
+report shows. He is of unexceptionable habits, studious,<lb/>
+careful and conscientious in the discharge of his<lb/>
+duty, having the respect and confidence of the<lb/>
+officers, their families and enlisted men&rdquo;.<unclear>..</unclear></p>
+<p>THE NATIONAL ARCHIVES OF THE UNITED STATES * 1934 *<lb/>
+<unclear>OFFICER</unclear><lb/>
+<unclear>SCRIPTA</unclear><lb/>
+<unclear>MANET</unclear></p>
+<p>THE NATIONAL ARCHIVES<lb/>
+Washington, D. C.</p>
+<p>RECORDS OF THE WAR DEPARTMENT, Office of the Surgeon<lb/>
+General, Register of Medical Officers, Vol. 6.</p>
+<p>Three Centimeters</p>
+</div1>
+</body>
+</text>
+</TEI.2>

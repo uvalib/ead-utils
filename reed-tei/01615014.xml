@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01615014">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Examination Paper: Hygiene, by Walter Reed, [February 8, 1875]</title>
+<title type="gmd">[electronic resource] </title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01615014</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1875-02-08</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1875-02-08">[February 8, 1875]</date>
+<idno rend="suppress">01615014</idno>
+<title>Examination Paper: Hygiene, by Walter Reed, [February 8, 1875]</title>
+</bibl>
+</head>
+<p>Reed writes a paper on hygiene for qualification as an Army Surgeon. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1875-02-08">
+<head>Examination Paper: Hygiene, by Walter Reed, [February 8, 1875]</head>
+<pb n="1" id="f01615014"/>
+<p><hi rend="underline">Hygiene</hi>.</p>
+<p>I. Mention the principal places in which specific<lb/>
+Yellow Fever prevails as an Endemic,<lb/>
+and the conditions necessary for its propoga-<lb/>
+tion beyond these localities.</p>
+<p>Among the principal places, in which yellow<lb/>
+fever prevails as an Endemic disease, may be<lb/>
+mentioned Havana, <unclear>Denievara</unclear> (British Gui<add>a</add>na) New<lb/>
+Orleans, etc- These are among the principal towns which<lb/>
+I call to mind, but the disease is Endemic throughout<lb/>
+the Island of Cuba, St. Dowings, Hayti, etc.- also<lb/>
+along the Coast of Peru in South America.</p>
+<p>The <hi rend="underline">conditions necessary for its propogation</hi>-<lb/>
+Under this head it may be stated that the disease<lb/>
+may be carried from these localities by land &amp;<lb/>
+by water- Either by germs clinging to clothing<lb/>
+or in cargo of ship- or by a person who is<lb/>
+is at the time sick of the disease being trans-<lb/>
+ported to a <del>heal</del> non-infected <add>locality</add>- Even under<lb/>
+these circumstances, that the disease may be<lb/>
+propagated in the next locality, there must be<lb/>
+a warm temperature, combined with mois-<lb/>
+<pb n="2" id="f01615015"/>
+ture- Sanitarians also consider that the condit-<lb/>
+ion of a city, as to filth &amp; drainage, has a<lb/>
+marked effect on the spread of the disease-<lb/>
+Instance the scarcity of the disease in<lb/>
+New Orleans, under military Law-<lb/>
+It might be stated, in this connection, that<lb/>
+the disease is not considered as of a con-<lb/>
+tagious nature, except by a few., &amp; that there<lb/>
+must <add>be</add> certain conditions in <add>a</add> locality (which I<lb/>
+have above referred to) in order that the<lb/>
+disease should spread- The disease does<lb/>
+not often prevail beyond 40&deg; North. A cold<lb/>
+snap generally check its course.</p>
+<p>II State your views with regard to the value<lb/>
+of quarantine regulations to prevent its<lb/>
+introductions into places beyond the yellow<lb/>
+fever zone.</p>
+<p>It is generally held that quaran-<lb/>
+tine regulations are of very great value<lb/>
+to prevent the introduction of the disease;<lb/>
+that by thorough disinfection of all infected<lb/>
+clothing &amp; the strict quarantine of patients<lb/>
+the introduction of yellow fever may be<lb/>
+<pb n="3" id="f01615016"/>
+certainly prevented. Infected ships must also<lb/>
+be quarantined- These are the views set forth<lb/>
+in the Annual Report of the Health Officer<lb/>
+of this City &amp; Endorsed by the profession.</p>
+<p>Respectfully submitted,<lb/>
+Walter Reed</p>
+</div1>
+</body>
+</text>
+</TEI.2>

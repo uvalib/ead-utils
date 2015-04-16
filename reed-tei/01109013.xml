@@ -1,0 +1,340 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01109013">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Michael E. Connor to Henry Rose Carter, June 5, 1923</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Connor, Michael E.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01109013</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1923-06-05</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Carter, Henry Rose</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion">YES</term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Hernandez, Dr.</name>
+<name type="person">Iglesias, Dr.</name>
+<name type="person">Noguchi, Hideyo</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Pierce, Dr.</name>
+<name type="person">Russell, Frederick F.</name>
+<name type="person">Walcott, Alan</name>
+<name type="person">Scannell, Dr.</name>
+<name type="person">Perrin, Dr.</name>
+<name type="place">Guayaquil (Ecuador)</name>
+<name type="place">Merida (Mexico)</name>
+<name type="place">Panama</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Mexico</name>
+<name type="place">Veracruz (Mexico)</name>
+<name type="place">Tampico (Mexico)</name>
+<name type="place">Peru</name>
+<name type="place">Villahermosa (Mexico)</name>
+<name type="place">Tabasco (Mexico)</name>
+<name type="place">Yucatan (Mexico)</name>
+<name type="place">Central America</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>4 pp.</extent>
+<date value="1923-06-05">June 5, 1923</date>
+<idno rend="suppress">01109013</idno>
+<title>Letter from Michael E. Connor to Henry Rose Carter, June 5, 1923</title>
+</bibl>
+</head>
+<p>Connor comments on Carter's paper on the epidemiology of yellow fever. Connor discusses his work on malaria and yellow fever in Mexico.  He mentions the resignation of Guiteras.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-06-05">
+<head>Letter from Michael E. Connor to Henry Rose Carter, June 5, 1923</head>
+<pb n="1" id="f01109013"/>
+<opener>
+PODERI EJECUTIVO FEDERAL<lb/>
+MEXICO<lb/>
+DEPARTAMENTO<lb/>
+DE<lb/>
+SALUBRIDAD PUBLICA.<lb/>
+----<lb/>
+COMISION ESPECIAL PARA LA CAMPA&Ntilde;A<lb/>
+CONTRA LA FIEBRE AMARILLA.<lb/>
+----<lb/>
+JEFATURA EN COLIMA.<lb/>
+SEXTA ZONA.<lb/>
+----<lb/>
+<dateline>
+Colima, Col., <date value="1923-06-05">June 5-1923</date>
+</dateline>
+<salute>My dear Doctor Carter:</salute>
+</opener>
+<p>I have twice read your Epidemiology<lb/>
+section of your forthcoming work on yellow fever.<lb/>
+If I may criticize it will be to point out that I could<lb/>
+find no reference to the fact that yellow fever in<lb/>
+endemic centres, such as cities and fair sized towns, is<lb/>
+as a general rule circumscribed. It was in Guayaquil and<lb/>
+I think it was in Merida and as I remember the situation<lb/>
+the same is true for Panama. Of Havana I have no personal<lb/>
+knowledge and have never seen a spot-map of cases record-<lb/>
+ed in that city.</p>
+<p>I am enclosing my section on epi-<lb/>
+demiology which I have in mind to develope into an artic-<lb/>
+le on yellow fever in Mexico to be read at the annual<lb/>
+yellow fever convention during the latter part of this<lb/>
+year.</p>
+<p>I am wondering if it will take up<lb/>
+too much of your time to read over the enclosed notes and<lb/>
+to let me have your criticism of same. There is nothing<lb/>
+new in these notes and my thought all through has been to<lb/>
+emphasize certain points in the epidemiology of yellow fe-<lb/>
+ver which I have learned from experience that the average<lb/>
+Latin physician overlooks. I think you will agree with me<lb/>
+that for the most part physicians in Latin America when<lb/>
+occupying a position in the Health Department regards the<lb/>
+work in coonection therewith as of minor importance and<lb/>
+will rarely if ever take the time to read up on the subject<lb/>
+and this is especially true regarding epidemiology.</p>
+<p>The paper which I have in mind will<lb/>
+briefly relate the history of yellow fever in Mexico foll-<lb/>
+owed by the epidemiology of this infection then some facts<lb/>
+concerning the aedes egypti concluding the article with a<lb/>
+description of the anti-larvae measures as practised in the<lb/>
+present campaign.</p>
+<pb n="2" id="f01109014"/>
+<p>Dr. Carter</p>
+<p>-2-</p>
+<p>June 5-1923</p>
+<p>Your suggestion to treat Lejias (aguas de ceniza) with<lb/>
+a soap solution is a practical one and will be tried out in the<lb/>
+Colima area and brought to the attention of our men in other Zones<lb/>
+where Lejia is in general use.</p>
+<p>I wonder if I wrote you that Doctor Hernandez of Merida,<lb/>
+Yucatan, and Doctor Iglesias of Veracruz have been granted fellow-<lb/>
+ship by our Board for technical training at the Institute under<lb/>
+Noguchi. This training will consist for the most part in making<lb/>
+practical demonstrations in Pfeiffer tests. Unfortunately, we<lb/>
+have not been able as yet to find a physician for the Tampico<lb/>
+area that would be accept&aacute;ble to Doctor Noguchi for training but<lb/>
+we hope that Doctor Perrin of Mexico City will handle this detail<lb/>
+for us and the plan is to forward to him serum from cases in which<lb/>
+the Pfeiffer test is to be applied.</p>
+<p>I agree with you that antimalarial work generally in con-<lb/>
+nection with the yellow fever campaign over as large an area as we<lb/>
+have here in Mexico is not practicable, notwithstanding that the<lb/>
+antimalarial measures which our men in Veracruz and Tampico have<lb/>
+carried out have on the whole been very successful.</p>
+<p>I really believe that the Yellow Fever Council should re-<lb/>
+view our present campaign and a programm<unclear><del>e</del></unclear> be developed for the future,<lb/>
+more especially now that Colombia and possibly Venezuela are a real<lb/>
+menace for reinfection of this country.</p>
+<p>In the last year there seems to have developed in the mind<lb/>
+of some of the Politicians in Mexico that the present campaign is be-<lb/>
+ing continued for the benefit of the few. The trouble perhaps is due<lb/>
+to their regarding Guayaquil and Peru as typical examples of yellow<lb/>
+fever infected areas and reason that the rapidity with which the work<lb/>
+advanced should be duplicated in Mexico. It may be that the Consejo<lb/>
+have similar thoughts. Scannel writes me that Doctor Stubbs of Tampico<lb/>
+a long time resident in this country, and Miembro Asociado of the Com-<lb/>
+isi&oacute;n Especial, has stated that it will require twenty years to erad-<lb/>
+icate yellow fever from Mexico. It is these little things coming up<lb/>
+first in one section of the country and later in another section and<lb/>
+finally concentrating in a definite programme amongst the Politicians<lb/>
+to hold up appropriations for the work, this year the appropriation<lb/>
+for the Departamento de Salubridad Publica was long held up in the<lb/>
+Congress and it was only a few weeks ago that the budget for yellow<lb/>
+fever and malaria work amounting to $800,000 pesos was approved.</p>
+<p>Personally I am sorry that Doctor Guiteras has resigned from<lb/>
+the Yellow Fever Council. He is a fearless man and would be a factor<lb/>
+for good on any Council. No doubt he was influenced by <del>who</del> Labredo<lb/>
+against Noguchi's Leptospira but the opposition serves as a stimulant<lb/>
+to urge other workers in the same field of endeavour to prove or dis-<lb/>
+prove the results of Noguchi's investigations.</p>
+<pb n="3" id="f01109015"/>
+<p>Dr. Carter</p>
+<p>-3-</p>
+<p>June 5-1923</p>
+<p>Regarding the legend of San Juan Bautista now Villaher-<lb/>
+mosa it appears that the city itself was noninfectible territory be-<lb/>
+cause of its complete water system serving an abundance of water to<lb/>
+all habi<del>a</del>tations at all hours of the day or night and this system re-<lb/>
+mained in good condition and served the public from 1865 down to 1915,<lb/>
+this is according to the older residents of Villahermosa that I have<lb/>
+talked with. The water system has now been abandoned due to bad man-<lb/>
+agement of the Socialists. I have seen the plant and I was impressed<lb/>
+by it. There are a number of other small places in Tabasco that could<lb/>
+be classed as noninfectible areas from a campaign viewpoint but other-<lb/>
+wise no.</p>
+<p>I think you have done well to bring up the point that an<lb/>
+animal may have been a reservoir host for the yellow fever infection.<lb/>
+This has long been in the minds of some investigators and while the<lb/>
+evidence for this belief is negative as yet, the suspicion shoudl be<lb/>
+cleared up if it is possible to do so.</p>
+<p>Since my first visit to Yucatan and meeting up with the<lb/>
+archeologists there who are studying the monuments of the ancient<lb/>
+peoples the thought has been cons<del>a</del>tantly with me that our Board might<lb/>
+consider, if the matter was brought up to them, detailing a Paleopath-<lb/>
+ologist to work with the Archeologists and attempt to discover what<lb/>
+diseases afflicted the older races. The Archeologists tell me that<lb/>
+this field of research has never been properly developed and it is<lb/>
+their belief that rich knowledge awaits the concientous and patient<lb/>
+worker in this branch of research medicine.</p>
+<p>From now on the &lsquo;Jingo Press&rsquo; of Mexico will be carrying<lb/>
+sensational articles relative to the presence of yellow fever in this<lb/>
+and other parts of the Republic. Of course no attention should be giv-<lb/>
+en to these rumors but the Depa<add>r</add>tamento believes, and I agree with them<lb/>
+that all reports of yellow fever_should be investigated and an earnest<lb/>
+effort is made to do this. The &lsquo;El Mundo&rsquo; to which you referred <del>to</del> in<lb/>
+your letter is a sensational periodical and does lend itself, according<lb/>
+to rumors, in aiding certain interests.</p>
+<p>I think you have done a great service in advising the<lb/>
+Surgeon General that the reports of the Comisi&oacute;n Especial will be un-<lb/>
+biased. Unfortunately your service sometimes has representatives here<lb/>
+who never make an inspection of the areas over which they are supposed<lb/>
+to maintain at least a nominal supervision. Therefore it is difficult<lb/>
+for us to actually show these men how the campaign is being carried on.<lb/>
+Pierce noted this when he was here, and I have the impression that he<lb/>
+will embody the observation in his report to the Surgeon General, in<lb/>
+fact, I understand he proposes to recommend that our men here act as<lb/>
+connecting links for the U. S. Public Health Service and the Departameno<lb/>
+de Salubridad Publica. I recommended against this plan to Doctor Russ-<lb/>
+ell for fear that it would involve our men in decisions on quarantine<lb/>
+matters and as you know none of our men here at the present time have<lb/>
+enough quarantine experience to permit them to act as advisors on these<lb/>
+questions.</p>
+<pb n="4" id="f01109016"/>
+<p>Dr. Carter</p>
+<p>-4-</p>
+<p>June 5-1923</p>
+<p>Doctor Walcott for the present is supervising the Sanitary<lb/>
+Inspectors in Merida and will remain there until the return of Doc-<lb/>
+tor Hernandez when I have in mind transferring Walcott, if agreable to<lb/>
+Doctor Scannell, to Tampico for the express purpose of making daily<lb/>
+rounds ofnthe hospitals and sanitariums in that city.<lb/>
+Doctor Walcott as you know is essentially a clinical man and the<lb/>
+above detail will admit of his applying his diagnostic ability.</p>
+<p>Doctor Scannel writes me thatvin the event no case of<lb/>
+yellow fever developes in his area prior to August he will expect to be<lb/>
+detailed away from Mexico on the grounds that his services will no<lb/>
+longer be required. I wish I could agree with him and in a recent<lb/>
+letter to him I expressed the hope that the work in the Tampico Zone<lb/>
+would hold his interest until October at least at which time we will<lb/>
+be in a position to know more definitely the real conditions existing<lb/>
+in his area. I will bring to Tampico in August your Mss. on the his-<lb/>
+tory of yellow fever, at that time requesting him, when he will have<lb/>
+finished reading it to undertake getting it back to you.</p>
+<p>Referring again to the chapter on epidemiology I wish that<lb/>
+it were possible to convey to you the great service that you have<lb/>
+rendered workers in the yellow fever field by writing on this phase<lb/>
+of yellow fever infection and placing the same at our disposal for<lb/>
+use.</p>
+<p>It is the most complete work on the epidemiology of yellow fever I<lb/>
+have ever read and if I may make a suggestion it will be that our<lb/>
+Board would advise its men to study this chapter on epidemiology<lb/>
+and not merely read it because to use a slang expression &ldquo;There is<lb/>
+meat in every line of the article&rdquo;.</p>
+<p>This letter brings to you the sincere thanks for all<lb/>
+kindly consideration which you have always shown me and the hope<lb/>
+that your prayer for the elimination (not controll<del>ed</del>) of yellow fever<lb/>
+from Mexico and Central America this year be realized.</p>
+<closer>
+<salute>With continued good wishes, I am<lb/>
+as always, very sincerely yours,</salute>
+<signed>M E Connor</signed>
+Dr. H. R. Carter,<lb/>
+2121 California Street, N. W.<lb/>
+Washington, D. C.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

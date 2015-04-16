@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+
+<TEI.2 id="t01652001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Walter Reed to Emilie B. Lawrence, September 23, 1875</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Reed, Walter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01652001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1875-09-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Lawrence, Emilie B.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship">YES</term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Bettie</name>
+<name type="person">Reed, Mary</name>
+<name type="person">Reed, Lemuel</name>
+<name type="person">Lawrence, Hannah</name>
+<name type="place">Murfreesboro (N.C.)</name>
+<name type="place">oaklands [S.l.]</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>8 pp.</extent>
+<date value="1875-09-23">September 23, 1875</date>
+<idno rend="suppress">01652001</idno>
+<title>Letter from Walter Reed to Emilie B. Lawrence, September 23, 1875</title>
+</bibl>
+</head>
+<p>Reed pledges to abstain from irony in his future correspondence with Emilie Lawrence.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1875-09-23">
+<head>Letter from Walter Reed to Emilie B. Lawrence, September 23, 1875</head>
+<pb n="1" id="f01652001"/>
+<opener>
+<dateline>
+Willet's Point,<lb/>
+New York Harbor,<lb/>
+<date value="1875-09-23">Sept. 23<hi rend="superscript">rd</hi>, 75.</date>
+</dateline>
+<salute>My precious E.;</salute>
+</opener>
+<p>Several<lb/>
+times, to-day, I have asked<lb/>
+myself whether I was awake<lb/>
+or dreaming, and, each<lb/>
+time, concluded that I <hi>must<lb/>
+be dreaming</hi>. I was sitting<lb/>
+quietly in my room, this<lb/>
+morning, leisurely turning<lb/>
+over the leaves of a<lb/>
+favorite author, when<lb/>
+suddenly my door-bell<lb/>
+sounded, and in came<lb/>
+an &ldquo;Orderly&rdquo; with a letter.<lb/>
+<pb n="2" id="f01652002"/>
+I examined the hand-writing<lb/>
+on the envelope<del>d</del>, &amp; then the<lb/>
+envelope itself, both of<lb/>
+which seemed familiar-<lb/>
+&ldquo;but still the wonder grew&rdquo;-<lb/>
+I then opened it &amp; read<lb/>
+&ldquo;Oakland, Septr 19<hi rend="superscript">th</hi>,&rdquo;- Said<lb/>
+I, &ldquo;it must be, and yet, can it<lb/>
+be possible&rdquo;? I began to<lb/>
+read- The sentences were<lb/>
+smooth &amp; well-turned-<lb/>
+a little farther on, when<lb/>
+suddenly &ldquo;<hi>zip</hi>-&rdquo; an arrow<del>s</del><lb/>
+flies- Thinks I, &ldquo;can I<lb/>
+be mistaken&rdquo;? I had scarce-<lb/>
+ly uttered <add>the words</add> when, &ldquo;<hi>whiz</hi>,&rdquo;<lb/>
+another flies by me, and<lb/>
+another &amp; another- &ldquo;Ah,&rdquo; said<lb/>
+I, &ldquo;none other than my little<lb/>
+&ldquo;B.,&rdquo; and on turning to the<lb/>
+last page, there was your<lb/>
+<pb n="3" id="f01652003"/>
+own dear signature! To be<lb/>
+sure, I may consider, and<lb/>
+<hi>do</hi> consider, myself as being<lb/>
+highly honored. Accept my<lb/>
+profoundest bow! <hi>Continue</hi><lb/>
+the good work, so well be-<lb/>
+gun! It may be a little irk-<lb/>
+some at first, but you<lb/>
+will soon get used to it,<lb/>
+and then <hi>I</hi> shall be made<lb/>
+<hi>so happy</hi>! And you thought<lb/>
+of a cold &amp; stormy night of<lb/>
+last september? Ah! <hi>well<lb/>
+do I remember</hi> it! Poor,<lb/>
+sick boy, his <add>heart</add> going &ldquo;pit a<lb/>
+pat-&rdquo;; his tongue paral<add>i</add>zed!-<lb/>
+And there sat the angel<lb/>
+whom he worshiped -- cold,<lb/>
+formal, calm-! what did<lb/>
+she <del>he</del> care for him!<lb/>
+Nothing! A friend? scarcely-<lb/>
+<pb n="4" id="f01652004"/>
+An acquaintance? Yes, and noth-<lb/>
+ing more- Well, times <hi>do</hi> change.<lb/>
+<hi>Then</hi>, it was &ldquo;Miss Lawrence&rdquo;-<lb/>
+but <hi>now</hi> -- Oh! glorious <hi>now</hi> --<lb/>
+it is, &ldquo;my own precious Em-<lb/>
+ilie&rdquo;! And can it be that<lb/>
+our hearts have been thus<lb/>
+drawn together, only to be<lb/>
+torn apart in the Future?<lb/>
+Let those who have no trust<lb/>
+in humanity, &amp; who look<lb/>
+always on the dark side,<lb/>
+say &ldquo;yes&rdquo;- but I <hi>will not,<lb/>
+I cannot</hi> believe it! I know<lb/>
+that there is much happiness<lb/>
+in store for us, if we will<lb/>
+only seek it- and knowing<lb/>
+this, I shall faithfully act<lb/>
+my part; trusting that Heav-<lb/>
+en may smile upon us &amp; that,<lb/>
+each day, our hearts may be<lb/>
+brought into a closer, sweeter<lb/>
+<pb n="5" id="f01652005"/>
+communion-</p>
+<p>I was a little <del>but</del> surprised<lb/>
+at your reference to my<lb/>
+style of writing- Have you<lb/>
+&ldquo;sheathed your swords&rdquo;? If<lb/>
+so, my perception must be<lb/>
+dull, as I had not observed<lb/>
+it- Think again, &amp; you will, I<lb/>
+think, see your mistake- At<lb/>
+least, I have a few letters,<lb/>
+of <hi>recent</hi> date, that contain<lb/>
+much that is &ldquo;ironical-&rdquo; Still<lb/>
+it is only playful &amp; innocent,<lb/>
+&amp; I so understood it- and<lb/>
+desired &amp; thought that the<lb/>
+same construction should<lb/>
+be put on mine. Neverthe-<lb/>
+less, I will not be surpas-<lb/>
+sed in <hi>obedience</hi>, &amp; from<lb/>
+this time forth shall ab-<lb/>
+stain from all ironical<lb/>
+indulgences; provided <hi>you</hi><lb/>
+<pb n="6" id="f01652006"/>
+will do likewise- There is one<lb/>
+sentence in your last letter,<lb/>
+my darling, which I beg that<lb/>
+you will change- In fact,<lb/>
+your language <add>is</add> too vigorous<lb/>
+altogether- You say that I<lb/>
+alluded to Miss Bettie Reed<lb/>
+in a &ldquo;<hi>disrespectful</hi>&rdquo; manner --<lb/>
+That I do not like- inasmuch<lb/>
+as I am <add>not</add> accustomed to speak<lb/>
+&ldquo;disrespectfully&rdquo; of ladies- Re-<lb/>
+ally, my darling Emilie, you<lb/>
+forget that a person's in-<lb/>
+tentions may be quite dif-<lb/>
+ferent from the construction<lb/>
+which others may put<lb/>
+upon them. I am not seek-<lb/>
+ing to apologize for any<lb/>
+expressions which I may<lb/>
+have used toward the<lb/>
+said young lady,- on the<lb/>
+<pb n="7" id="f01652007"/>
+other ,<add>hand</add>, I am willing to be held<lb/>
+responsible for all my words-<lb/>
+I can call her Miss &ldquo;Betsy<lb/>
+Jane,&rdquo; without being &ldquo;dis-<lb/>
+respectful&rdquo;- I am <add>not</add> trying to lec-<lb/>
+ture you, my little B. but <add>I</add><del>as</del><lb/>
+wish to remove a false<lb/>
+impression from your mind-<lb/>
+an impression which has<lb/>
+lead you to judge me more<lb/>
+severely than you should,<lb/>
+and which, if not removed,<lb/>
+should rightly lower me<lb/>
+in your estimation. When<lb/>
+I next see you, I will allude<lb/>
+to this, more at length. I<lb/>
+had a long letter from Ma,<lb/>
+to-day- You know that she<lb/>
+had been quite sick, I<lb/>
+presume- she said that she<lb/>
+had neglected to answer<lb/>
+<pb n="8" id="f01652008"/>
+your letter, but would write<lb/>
+soon- She is a dear, good<lb/>
+mother, &amp; thinks that you are<lb/>
+the greatest girl in America-<lb/>
+and <hi>she is quite right-</hi>!<lb/>
+She wanted to know if I wrote<lb/>
+to you very often, &amp; whether<lb/>
+you answered all my letters.<lb/>
+Just think of that! As if she<lb/>
+had never been young &amp; as<lb/>
+if my illustrious father did<lb/>
+not write to her, at least,<lb/>
+twice a day! of course, I'll have<lb/>
+to tell her that you do an-<lb/>
+swer them all, since you have<lb/>
+done so <hi>very</hi> recently- Present<lb/>
+my kindest regards to Mrs. <unclear>Frank</unclear>,<lb/>
+and tell her, that I shall en-<lb/>
+deavour to comply with her wish-<lb/>
+es by coming to M.'boro, very soon-<lb/>
+Remember me, also, to Mrs. Harold<lb/>
+&amp; your mother-</p>
+<closer>
+<salute>Believe me, darling,<lb/>
+As ever, your fond &amp; devoted</salute>
+<signed>Walter</signed>
+<seg>
+P.S. Do not, at once, say that I am<lb/>
+<hi>sensitive</hi>; but rather attribute<lb/>
+my plain speech to a jealous<lb/>
+desire to allude to <del>any</del> <add>no</add>one,<lb/>
+(lady or gentleman) in other<lb/>
+language than such as<lb/>
+would merit <hi>your entire<lb/>
+approbation</hi>-<lb/>
+yrs. W.R.
+</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02628020">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Record of Death and Interment for Walter Reed, November 23, 1902</title>
+<title type="gmd">[electronic resource]</title>
+<author>Borden, William C.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02628020</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1902-11-23</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Reed, Walter</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Borden, William C.</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Arlington National Cemetery (Arlington, Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1902-11-23">November 23, 1902</date>
+<idno rend="suppress">02628020</idno>
+<title>Record of Death and Interment for Walter Reed, November 23, 1902</title>
+</bibl>
+</head>
+<p>This routine form filed upon the death of any military personnel is for Walter Reed. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1902-11-23">
+<head>Record of Death and Interment for Walter Reed, November 23, 1902</head>
+<pb n="1" id="f02628020"/>
+<p>No. 2.</p>
+<p>RECORD OF DEATH AND INTERMENT.</p>
+<p>
+<table rows="7" cols="2">
+<row><cell>Name of person interred............</cell><cell>Walter Reed</cell></row>
+<row><cell>Rank, company, and regiment......</cell><cell>Major Surgeon, U. S. Army</cell></row>
+<row><cell>Conjugal condition (and if married }<lb/>the residence of the widow)..... }</cell><cell>Married:- 1603, 19<hi rend="superscript">th</hi> St. N. W.<lb/>Washington D. C.</cell></row>
+<row><cell>Cause of death................... }<lb/>" " " Immediate }</cell><cell>Acute appendicitis.<lb/>Asthenia.</cell></row>
+<row><cell>Date of death and burial............</cell><cell>Died 2105 A.M. Nov. 23, 1902.<lb/>Officers' Division,<lb/>So. Section.</cell></row>
+<row><cell>Number and locality of the grave...</cell><cell>Arlington Cemetery, Va., Grave No 1864</cell></row>
+<row><cell>Remarks........................</cell><cell></cell></row>
+</table>
+</p>
+<p>November 23, 1<del>8</del><add>9</add>02</p>
+<p><hi rend="italic">To the <del>post Adjutant,</del></hi> Adjutant General.</p>
+<p><hi rend="italic">Sir:</hi></p>
+<p><hi rend="italic">I have the honor to report the death of the above-named <del>soldier (<unclear>D P Billions</unclear>)</del><add>Officer</add><lb/>
+and to request that the necessary steps be taken for his interment</hi>.</p>
+<p><hi rend="italic">Respectfully</hi>,</p>
+<p>W. C. Borden</p>
+<p>MAJOR &amp; SURGEON, U. S. ARMY<lb/>
+COMMANDING HOSPITAL<lb/>
+<hi rend="italic">Surgeon, U. S. Army</hi>.</p>
+<p><hi rend="italic">Station</hi>, U. S. A. GENERAL HOSPITAL,<lb/>
+<unclear>[unclear]</unclear></p>
+<p><hi rend="italic">Date</hi>, NOV 23, 1902</p>
+<p>This copy of Record is to be transmitted to the Adjutant General of the Army immediately after the place of burial and the number<lb/>
+of the grave have been ascertained and registered. The above notification is to remain attached.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

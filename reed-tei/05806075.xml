@@ -1,0 +1,731 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t05806075">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">&ldquo;The Tale of a Guinea Pig,&rdquo; 2<hi rend="superscript">nd</hi> draft, by John H. Andrus, [1942]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>05806075</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1942-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Carroll, James</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Forbes, Wallace W.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Albertini, A. Diaz</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Olson, William</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">West, Clyde L.</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Sonntag, Charles G.</name>
+<name type="person">Hamann, Paul</name>
+<name type="person">Covington, Albert W.</name>
+<name type="person">Bullard, John R.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Weatherwalks, Edward</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">England, Thomas M.</name>
+<name type="place">New Orleans (La.)</name>
+<name type="place">Cuba</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Columbia Barracks, Havana (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="hospital">Columbia Barracks Post Hospital, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>17 pp.</extent>
+<date value="1942-00-00">[1942]</date>
+<idno rend="suppress">05806075</idno>
+<title>&ldquo;The Tale of a Guinea Pig,&rdquo; 2<hi rend="superscript">nd</hi> draft, by John H. Andrus, [1942]</title>
+</bibl>
+</head>
+<p>In a second draft of his manuscript, Andrus describes the yellow fever experiments and discusses his participation as a volunteer.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1942-00-00">
+<head>&ldquo;The Tale of a Guinea Pig,&rdquo; 2<hi rend="superscript">nd</hi> draft, by John H. Andrus, [1942]</head>
+<pb n="1" id="f05806075"/>
+<p>1</p>
+<p>2nd draft</p>
+<p><hi>T h e  T a l e  o f  a  G u i n e a  P i g</hi><lb/>
+By John H. Andrus.</p>
+<p>The doctor scrubbed a place on my arm with antiseptic, inser-<lb/>
+ted a hypodermic needle, slowly pressed the plunger and I was<lb/>
+richer by one cubic centimeter of blood, taken but a moment be-<lb/>
+fore from a vein of a fellow-soldier, Wallace Forbes. At that<lb/>
+time he was at the height of a pronounced case of yellow fever.<lb/>
+Forbes had been inoculated with the disease by the injection of<lb/>
+one-half cubic centimeter of blood from a case, acquired nat-<lb/>
+urally, that had proven fatal.</p>
+<p>The &ldquo;shot&rdquo; was given me at 12:15 p.m. Jan. 25, 1901. Then I<lb/>
+stepped into an ambulance and was driven to Camp Lazear to await<lb/>
+developments. Six days later Major Walter Reed, in a letter to<lb/>
+the Surgeon-General of the Army, George M. Sternberg, wrote of<lb/>
+my case:</p>
+<p>&ldquo; . . . I am very uneasy about the non-immune soldier<lb/>
+who got the same amount of blood at the same time&rdquo; (as<lb/>
+four mosquito-made immunes - of whom more later). &ldquo;He<lb/>
+seems to have acquired a very serious infection, his<lb/>
+temperature running along the 104&deg; line now for three<lb/>
+days . . . Should he die I shall regret that I ever<lb/>
+undertook this work. The responsibility for the life<lb/>
+of a human being weighs upon me very heavily just at<lb/>
+present and I am dreadfully melancholic. Everything<lb/>
+is being done for him that we know how to do.&rdquo;</p>
+<p>(Extract from page 227, biography of General Sternberg.)</p>
+<pb n="2" id="f05806076"/>
+<p>2</p>
+<p><hi>Who</hi>, <hi>What</hi>, <hi>Why</hi>, <hi>When</hi>, <hi>Where</hi>?</p>
+<p>It may be in order at this point to explain why the lives of<lb/>
+men were jeopardized by deliberately inoculating them with such<lb/>
+a dread disease.</p>
+<p>In those days yellow fever was so well up on the list of<lb/>
+great scourges that foreign countries, and sections of our own<lb/>
+country where it was epidemic, were rigidly quarantined. The<lb/>
+disease had invaded the United States more than 90 times. Vic-<lb/>
+tims were numbered in thousands and monetary loss in millions.<lb/>
+While New Orleans, with 41,348 deaths, had been hardest hit,<lb/>
+few of our southern cities escaped.</p>
+<p>Cuba was thought to be the breeding ground where the epidem-<lb/>
+ics which invaded this country originated. In Havana alone,<lb/>
+between 1853 and 1900, there had been 35,952 yellow fever deaths.</p>
+<p>Deaths from disease in the Army, during the Spanish-American<lb/>
+War - especially from typhoid fever - were alarmingly high.<lb/>
+Now, that it was necessary to maintain an army of occupation in<lb/>
+Cuba, there was additional danger from tropical diseases. This<lb/>
+danger was emphasized in a statement by Major Walter Reed and<lb/>
+Dr. James Carroll:</p>
+<p>&ldquo;During our occupation of the Island of Cuba, (July<lb/>
+to December, 1900), with every precaution brought into<lb/>
+exercise to ward off the disease, there have occurred<lb/>
+among the officers and men of the Army 1,575 cases of<lb/>
+yellow fever and 231 deaths.&rdquo;</p>
+<p>The Surgeon-General of the Army appointed a Board on Tropical<lb/>
+Diseases - with special emphasis on yellow fever. This Board,<lb/>
+composed of Major Walter Reed and Acting Assistant Surgeons,<lb/>
+<pb n="3" id="f05806077"/>
+3<lb/>
+(contract doctors), James Carroll, Jesse W. Lazear and Aristides<lb/>
+Agramonte, met at Columbia Barracks, Cuba, June 25, 1900.</p>
+<p><hi>The</hi> &ldquo;<hi>Mosquito Theory</hi>&rdquo;</p>
+<p>While the Board was convinced that several theories were<lb/>
+groundless, Major Reed decided to investigate a theory originally<lb/>
+advanced by Dr. Carlos J. Finlay, of Havana, in 1881, that yellow<lb/>
+fever is transmitted by mosquito-bite. In spite of more than<lb/>
+100 experiments on human beings, between 1881 and 1895, <unclear>Dr.</unclear> Finlay<lb/>
+had been unable to demonstrate it so as to convince the medical<lb/>
+profession.</p>
+<p>Human beings were used in the experiments for the reason that<lb/>
+animals, ordinarily used in such work, can not be given the dis-<lb/>
+ease. Major Reed and Doctors Carroll and Lazear agreed to sub-<lb/>
+mit themselves to inoculation. Dr. Agramonte, the Cuban member<lb/>
+of the Board, was believed to be immune.</p>
+<p>While Major Reed was in the United States, on official business,<lb/>
+Dr. Carroll was inoculated by an infected mosquito, Aug. 27, 1900,<lb/>
+and had a very severe attack of yellow fever. While this was the<lb/>
+Board's first successful inoculation, it was not accepted as con-<lb/>
+clusive as Dr. Carroll had been within the epidemic zone several<lb/>
+times during the period of incubation.</p>
+<p>The second case was Private William H. Dean, Troop B, Seventh<lb/>
+Cavalry. He was bitten by the same mosquito that had infected<lb/>
+Dr. Carroll, four days before, and by three other mosquitoes.<lb/>
+He had a very mild attack.</p>
+<pb n="4" id="f05806078"/>
+<p>4</p>
+<p><hi>A Martyr to Science</hi></p>
+<p>The third case was that of Dr. Jesse W. Lazear. It cost the<lb/>
+life of a highly educated young scientist on the threshold of<lb/>
+what promised to be a brilliant career. The official version of<lb/>
+Dr. Lazear's inoculation is based upon what he said after he be-<lb/>
+came ill. In substance it is that Sept. 13, 1900, he visited<lb/>
+the yellow fever hospital, at Havana, to collect blood from yel-<lb/>
+low fever patients for study. A mosquito settled on the back of<lb/>
+his hand and he deliberately allowed it to remain until it had<lb/>
+satisfied its hunger. (He had previously been bitten by a con-<lb/>
+taminated insect without after effects.) He became ill Sept. 18th.<lb/>
+and died Sept. 25th.</p>
+<p>General Albert E. Truby, (retired), was a lieutenant and the<lb/>
+Post Surgeon at Columbia Barracks at the time Major Reed was there.<lb/>
+There was very evident mutual respect and esteem between the dis-<lb/>
+tinguished scientist and the young officer. In his forthcoming<lb/>
+&ldquo;Memoir of Walter Reed and the Great Yellow Fever Episode&rdquo;, General<lb/>
+Truby will reveal that several of Dr. Lazear's associates - inclu-<lb/>
+ding Major Reed - believed, but could not prove, that Dr. Lazear<lb/>
+inoculated himself by infected mosquitoes the same as he had inocu-<lb/>
+lated Carroll and Dean. It was thought probable that, after Dr.<lb/>
+Lazear became sick, he worried lest his life insurance be canceled<lb/>
+if it became known that he deliberately infected himself with a<lb/>
+fatal disease. The General presents many reasons and circumstances<lb/>
+to support this belief.</p>
+<p>A tablet to Dr. Lazear's memory, in the amphitheater of Johns<lb/>
+Hopkins Hospital, bears this inscription:</p>
+<p>&ldquo;With more courage than the devotion of a soldier,<lb/>
+he risked and lost his life to show how a fearful pesti-<lb/>
+lence is communicated and how its ravages may be prevented.&rdquo;</p>
+<pb n="5" id="f05806079"/>
+<p>5</p>
+<p>While immeasurably sadd<add>e</add>ned by Dr. Lazear's death, the Board<lb/>
+decided to continue &ldquo;mosquito theory&rdquo; experiments and, at the<lb/>
+same time, to investigate an entirely different theory.</p>
+<p><hi>Wrong for a Hundred Years</hi></p>
+<p>For more than a hundred years it had been the generally accep-<lb/>
+ted belief that yellow fever was transmitted by infected clothing,<lb/>
+bedding, furniture, etc. (Fomites.) This belief was so firmly<lb/>
+implanted that it was the custom of health and quarantine officers<lb/>
+to destroy or thoroughly disinfect such articles in, or from,<lb/>
+sections where yellow fever prevailed, whether it had been contam-<lb/>
+inated by contact with yellow fever sufferers or not. Was this<lb/>
+belief based on fact? Major Reed had to know.</p>
+<p>There was erected, at Camp Lazear, a one-room frame building,<lb/>
+14 x 20 feet, It was poorly ventilated by intent and <hi>solid wood</hi><lb/>
+shutters excluded germ-killing sunlight.</p>
+<p>Three groups of men, in turn, occupied this building. The<lb/>
+first group 20 nights, the second group 21 nights and the third<lb/>
+group 20 nights. Each night they unpacked three large packing<lb/>
+boxes filled with sheets, pillow-slips and blankets purposely<lb/>
+soiled with black vomit and other highly disagreeable matter,<lb/>
+from contact with yellow fever patients. A new supply of con-<lb/>
+taminated bedding was used for each group. Their beds were made<lb/>
+with this soiled bedding and the rest was thoroughly shaken and<lb/>
+distributed around the room. Each morning the boxes were re-<lb/>
+packed. The men occupied a nearby tent during the day. At <unclear>the</unclear><lb/>
+end of their ordeal each group was quarantined five days and <unclear>re<lb/>
+turned</unclear> to duty none the worse for their experience.</p>
+<p>This experiment proved the uselessness of destroying <unclear>valuable</unclear><lb/>
+property for fear of infection. Had it been known <unclear>by<lb/>
+<del>Lazear's death.</del></unclear><lb/>
+<pb n="6" id="f05806080"/>
+6<lb/>
+the people of the United States, during the last hundred years,<lb/>
+millions of dollars worth of property could have been saved.</p>
+<p>(The names of those who underwent these experiments are given<lb/>
+on the accompanying &ldquo;Roll of Honor&rdquo;.)</p>
+<p><hi>Inoculation by Mosquito-Bite</hi></p>
+<p>Having proved that the disease could <hi>not</hi> be transmitted by<lb/>
+infected clothing, the Board proved that it <hi>could</hi> be caused, at<lb/>
+will, by the bite of an Aedes Aegypti mosquito twelve days after<lb/>
+she had fed on a yellow fever sufferer and, from then on, as<lb/>
+long as the mosquito lived.</p>
+<p>It is highly probable that Dr. Finlay did not <unclear>discover</unclear> that<lb/>
+there must be a twelve-day incubation period before an infected<lb/>
+mosquito can transmit the disease. This may account for his<lb/>
+inability to demonstrate his theory in spite of more than 100<lb/>
+experiments.</p>
+<p>In the work of Major Reed's Board seven American volunteers<lb/>
+were given yellow fever by mosquito-bite. (Nine if Drs. Carroll<lb/>
+and Lazear are included.) While some of the earlier attempts<lb/>
+were negative and several inoculations necessary to produce the<lb/>
+disease, the later infections produced yellow fever <add>right</add> on schedule.</p>
+<p><hi>Infection by Blood-Inoculation</hi></p>
+<p>The reason for the inoculation of seven American volunteers<lb/>
+by the injection of infected blood is difficult for a layman to<lb/>
+understand. These experiments were useful in establishing that<lb/>
+yellow fever is transmitted <hi>naturally</hi> by no means other than by<lb/>
+mosquito-bite.</p>
+<p>They showed that the specific agent <unclear>which</unclear> caused the disease<lb/>
+is present in the blood at least during the first three days of<lb/>
+<pb n="7" id="f05806081"/>
+7<lb/>
+the attack. That its passage through an intermediate host - a<lb/>
+mosquito - although this seems to be natures method - is not<lb/>
+necessary to the life-cycle of the virus.</p>
+<p>Blood-inoculation showed that the disease is caused by a virus<lb/>
+in that it cannot be seen by microscope or grown as a culture.<lb/>
+That the infecting agent is too minute to be seen by the micro-<lb/>
+scope was determined by infecting two of the volunteers with<lb/>
+blood which had been filtered through a bacteria-proof filter.</p>
+<p>When I was inoculated by the injection of yellow-fever-infected<lb/>
+blood, the same quantity of the same blood was injected into four<lb/>
+of those who had recovered from yellow fever caused by mosquito-<lb/>
+inoculation. The fact that I, a non-immune, contracted the dis-<lb/>
+ease while the mosquito-made immunes did not was conclusive<lb/>
+evidence that my illness was true yellow fever and not malaria or<lb/>
+some other disease in which many symptoms are the same.</p>
+<p>Incidentally, every diagnosis after Dec. 1, 1900, was made by<lb/>
+experts independent of Major Reed's Board. Usually by the Board<lb/>
+of Yellow Fever Experts of the City of Havana - Doctors Juan<lb/>
+Guiteras, Carlos J. Finlay, A Diaz Albertini and Major W. C.<lb/>
+Gorgas.</p>
+<p>A special reason for my inoculation will appear later.</p>
+<p><hi>I am Detailed With the Board</hi></p>
+<p>Early in October, 1900, the Post Surgeon, Lieut. Truby, had<lb/>
+me detailed for duty with Major Reed's Board to replace a man<lb/>
+brought from the Major's laboratory, in Washington, whose en-<lb/>
+listment had expired.</p>
+<p>who</p>
+<p>Major Reed and Dr. Carroll were bacteriologists. They set<lb/>
+up a laboratory in one of the buildings on the grounds of the<lb/>
+Post Hospital at Columbia Barracks. Both spent a great deal of<lb/>
+<pb n="8" id="f05806082"/>
+8<lb/>
+time at microscopes in a vain effort to find the micro-organism<lb/>
+responsible for yellow fever. Most of my work was in this labor-<lb/>
+atory where I had hundreds of captive mosquitoes. Many of them<lb/>
+had been matured from pupae or larvae which I had obtained from<lb/>
+receptacles containing stagnant water. Also it was my job to<lb/>
+&ldquo;raise&rdquo; mosquitoes from eggs.</p>
+<p>Major Reed and Dr. Carroll talked of plans for the work of the<lb/>
+Board and of progress as they were busy at their microscopes and<lb/>
+I with my &ldquo;pets&rdquo;. They paid no more attention to me than to the<lb/>
+furniture. I heard them discuss the Major's desire to have<lb/>
+Lieut. Albert E. Truby appointed to fill the vacancy on the Board<lb/>
+caused by Dr. Lazear's death. The Major had discussed this with<lb/>
+Lieut. Truby and he had agreed to submit to inoculation. At<lb/>
+that time there was such a shortage of medical officers available<lb/>
+that the assignment was postponed and, in the end, not made.</p>
+<p>Both Major Reed and Dr. Carroll expressed gratitude at their<lb/>
+good fortune in having the services of the yellow fever specialist,<lb/>
+Dr. Roger Post Ames. Major Reed voiced the belief that a single<lb/>
+death among the volunteers would frighten others into withdrawing<lb/>
+and thus halt the work. On one occasion Major Reed told Dr.<lb/>
+Carroll that Dr. Ames' male nurse, Gust <unclear>E/.</unclear> Lambert, had volunteer-<lb/>
+ed for inoculation. Both agreed that Lambert was too valuable,<lb/>
+assisting Dr. Ames, to risk breaking up the combination.</p>
+<p>Dr Ames' remarkable success is emphasized by the fact that, fol-<lb/>
+lowing establishment of the &ldquo;mosquito theory&rdquo; by Major Reed,<lb/>
+another board, under the leadership of Dr. Juan Guiteras, under-<lb/>
+took further experiments in Havana. Three deaths among seven<lb/>
+volunteers brought the experiments to an abrupt halt.</p>
+<pb n="9" id="f05806083"/>
+<p>9</p>
+<p><hi>I Hear a Discussion</hi></p>
+<p>When Major Reed and Dr. Carroll reached the laboratory one<lb/>
+morning they continued a discussion that had evidently been going<lb/>
+on for some time. It appeared that a patient with experimental<lb/>
+yellow fever, (Forbes), had reached the stage where his blood<lb/>
+should be taken to infect the next subject and that the volunteer<lb/>
+they had expected to use had backed out. Major Reed insisted<lb/>
+that he was going to have himself inoculated. Dr. Carroll<lb/>
+pleaded with him to change his mind, pointing out that the Major's<lb/>
+age was against him and that a <unclear><hi>recent illness</hi></unclear> had left him in no<lb/>
+condition to fight yellow fever. The Major said that if Dr.<lb/>
+Finlay's latest theory was correct he would be in no danger.</p>
+<p>what</p>
+<p>I got only a vague idea of the &ldquo;new theory&rdquo; at that time but,<lb/>
+later, found this explanation: In the New York Medical Record<lb/>
+of May 27, 1900, Dr. Finlay modified his original theory ...</p>
+<p>&ldquo;... to include the important circumstance that the<lb/>
+faculty of transmitting <add>the</add> yellow fever germ need not be<lb/>
+limited to the parent insect, directly contaminated<lb/>
+by stinging a yellow fever patient (or perhaps by con-<lb/>
+tact with or <unclear>feeding</unclear> upon his discharges), but may be<lb/>
+likewise inherited by the next generation of mosquitoes<lb/>
+issued from the contaminated parent.&rdquo;</p>
+<p>Major Reed pointed out that he had allowed several such &ldquo;next<lb/>
+generation&rdquo; mosquitoes to feed on his hands. (The hemoglobin<lb/>
+of the blood seems necessary for the maturation of the ova of<lb/>
+the female mosquito and she cannot deposit her eggs until she<lb/>
+has <add>had</add> a meal of blood.)</p>
+<pb n="10" id="f05806084"/>
+<p>10</p>
+<p>I had allowed a great many mosquitoes, hatched from the eggs<lb/>
+of infected insects, to feed on my blood. The Major and Dr.<lb/>
+Carroll had &ldquo;fed&rdquo; a few. This was to determine whether they,<lb/>
+in turn, would deposit eggs - whether eggs they did deposit would<lb/>
+hatch - and whether the new generation was normal. (Infection<lb/>
+with yellow fever seemed to have no effect on the insect.)</p>
+<p>The Major said that if Dr. Finlay's new theory was correct he<lb/>
+would have contracted yellow fever. On the other hand, if he<lb/>
+was inoculated with blood and got the disease, it would indicate<lb/>
+that he was not a natural immune and that the modified theory was<lb/>
+erroneous. He admitted, when pinned down by Dr. Carroll, that<lb/>
+he did not think there was anything in it.</p>
+<p>They continued to discuss the Major's proposed infection, inter-<lb/>
+mittently, until he left the laboratory in something of a temper<lb/>
+with the declaration <unclear>that he</unclear> would be would be inoculated &ldquo;tomorrow&rdquo;<lb/>
+and that there was no use discussing it farther.</p>
+<p>I did some very serious thinking that night.</p>
+<p><hi>I Become a Guinea Pig</hi></p>
+<p>Next morning Dr. Carroll was first to reach the laboratory.<lb/>
+I asked him if I would not do as well as the Major for the inocula-<lb/>
+tion. He said &ldquo;no&rdquo; with apparent regret, pointing out that the<lb/>
+Major was determined to use this as a means of testing Dr. Finlay's<lb/>
+modified theory. I reminded him that I had &ldquo;fed&rdquo; many more <unclear>mos-<lb/>
+quitoes</unclear>, hatched from the eggs of <add>infected</add> insects, by allowing them to<lb/>
+take blood from my hands and wrists than the Major had. He knew<lb/>
+it was true.</p>
+<p>When the Major arrived, Dr. Carroll sent me on an errand. Upon<lb/>
+my return, the Major asked me if I realized what I was letting<lb/>
+<pb n="11" id="f05806085"/>
+11<lb/>
+myself in for. I told him I had nursed yellow fever when sta-<lb/>
+tioned at Guanajay Barracks and had seen men die of it. He asked<lb/>
+why I was volunteering and seemed satisfied with my answer. I do<lb/>
+not know what I told him but one thing is certain, I did <hi>not</hi> tell<lb/>
+him that I had any idea of &ldquo;saving&rdquo; the Major. I knew something<lb/>
+of what proof of the &ldquo;mosquito theory&rdquo; would mean to mankind.<lb/>
+I knew that Major Reed was the mainspring that made the Board tick<lb/>
+and that if he was sick of yellow fever and had a slow recovery -<lb/>
+as Dr. Carroll had - the work of the Board would all but stop.<lb/>
+Then, too, there is something in my makeup that has always made me<lb/>
+willing to &ldquo;die &ldquo;for any&rdquo; dear old Siwash&rdquo; in which I became very<lb/>
+interested.</p>
+<p>And here, as said in the movies, is where we came in. I had<lb/>
+been inoculated and was on my way to Camp Lazear - remember?<lb/>
+There I was assigned to a small tent, at liberty to go where I<lb/>
+pleased within the camp, while the &ldquo;bugs&rdquo; with which I had been<lb/>
+infected set up housekeeping and raised families in my blood stream.</p>
+<p>One of the first things I did was to write home. I told my<lb/>
+mother that I had been detailed to accompany a troop of the Seventh<lb/>
+Cavalry on a practice march into the interior of the Island and<lb/>
+would not be able to write again for two or three weeks. I didn't<lb/>
+feel too good about this. I wanted to leave things so that the<lb/>
+folks at home would not worry when they did not hear from me for a<lb/>
+while and that was the most reasonable explanation that occurred<lb/>
+to me. I did not like the <unclear>idea</unclear> of lieing in my letter for I real-<lb/>
+ized that it might be the last letter I would ever write home.</p>
+<p>Time passed slowly. I knew, from what I had heard about prev-<lb/>
+ious experimental cases, that there is a wide variation in the time<lb/>
+<pb n="12" id="f05806086"/>
+12<lb/>
+between <unclear>inoculation</unclear> and the chill that heralds the disease.<lb/>
+I don't think I worried much - certainly not enough to interfere<lb/>
+with my appetite. I had a bad quarter-hour, however, when I<lb/>
+heard that Dr. Ames was sick and, himself, in the hospital. He<lb/>
+had doctored all of the experimental cases and had lost but one -<lb/>
+Dr. Lazear.</p>
+<p><hi>I Learn More About Yellow Fever</hi></p>
+<p>At 1:15 p.m., Jan. 28 - just three days and one hour after my<lb/>
+inoculation - the chill I had been awaiting arrived. At first<lb/>
+I thought my imagination was playing tricks on me for at noon my<lb/>
+temperature and pulse had been normal and I had enjoyed my dinner.<lb/>
+I finally decided that <unclear>my</unclear> imagination had never been quite that<lb/>
+vivid and suggested that my temperature be taken. The official<lb/>
+record says: &ldquo;... At 3 p.m. temperature was 103.6&deg;, pulse 120.</p>
+<p>His eyes were intensely congested and the face deeply<lb/>
+suffused... The patient was restless and complained of<lb/>
+occipital headache and back ache... Skin hot and dry...<lb/>
+The height of the primary paroxysm was reached at 3:30<lb/>
+p.m...temperature 104.2&deg;, pulse 120... The subsequence<lb/>
+was one of severe yellow fever. There was no remis-<lb/>
+sion of the fever until the fourth day... The skin of<lb/>
+the face and .. part of the neck was timted&rdquo; (yellow)<lb/>
+&ldquo;on the fourth day. This rapidly became intensified<lb/>
+and general... Secondary fever lasted 30 hours...<lb/>
+Marked fluctuations of temperature continued until the<lb/>
+eleventh day... Recovery was slow and much delayed by<lb/>
+the development of a carbuncle&rdquo;.</p>
+<pb n="13" id="f05806087"/>
+<p>13</p>
+<p>These extracts show that the record was a combination of the<lb/>
+curtness of a soldier and the precision of a scientist. It gave<lb/>
+no hint of Major Reed's fear that I might die, and the resulting<lb/>
+melancholy, expressed in his letter to the Surgeon-General quoted<lb/>
+near the beginning of this article.</p>
+<p>The &ldquo;carbuncle&rdquo; referred to provided opportunity for <unclear>Dr/.</unclear> Ames<lb/>
+and Lambert to demonstrate why Major Reed regarded them so highly.<lb/>
+When my carbuncle had reached a stage where it was tormenting me,<lb/>
+the <unclear><hi>doctor who was</hi></unclear> pinch hitting for Dr. Ames did nothing about it.<lb/>
+This worried Lambert and he went to the hospital where Dr. Ames<lb/>
+was sick and, <unclear>waiting</unclear> until his nurse was out of the room, told<lb/>
+him about me. Dr. Ames had Lambert and another Hospital Corps<lb/>
+man carry him, on his bed, to my bedside where he opened my car-<lb/>
+buncle.</p>
+<p>Pinto?</p>
+<p><hi>Twenty-seven Years Later</hi></p>
+<p>From the time I left the Army, in 1902, until 27 years later,<lb/>
+my yellow fever experience was but an interesting memory. Then,<lb/>
+on Feb. 28, 1929, Congress awarded gold medals and inclusion on<lb/>
+an honor roll - published annually in the Army Register - to the<lb/>
+four members of the Board, the 14 American volunteers who had<lb/>
+yellow fever by inoculation and the four who underwent the infec-<lb/>
+ted bedding experiment but did not have yellow fever.</p>
+<p>An annuity of $1500, for life, was awarded the 17 volunteers<lb/>
+then <unclear>living. and</unclear> to the widow of one volunteer who had died before<lb/>
+the bill was enacted. Annuities have not been granted to the<lb/>
+widows of volunteers who have died since. The widows of deceased<lb/>
+Board members were receiving <unclear>annuities</unclear> through previous legislation.<lb/>
+(The names which appear on the honor roll will be given later.)</p>
+<pb n="14" id="f05806088"/>
+<p>14</p>
+<p><hi>What It Has Meant</hi></p>
+<p>Major Walter Reed died Nov. 23, 1902, only two-and-a-half<lb/>
+years after the first meeting of the Board. Within this brief<lb/>
+time he saw remarkable results in the saving of lives and prop-<lb/>
+erty due to the findings of his Board.</p>
+<p>What the verdict of &ldquo;guilty&rdquo; against the mosquito meant is<lb/>
+shown by what it accomplished in the yellow fever stronghold,<lb/>
+Havana. From 1853 to 1900 Havana had recorded an average of<lb/>
+767 yellow fever deaths per year. In 1900, before the &ldquo;theory&rdquo;<lb/>
+was accepted and mosquito-extermination started, there were 1240<lb/>
+cases in Havana with 306 deaths. Then, in 1901, Major W. C.<lb/>
+Gorgas - who later became famous as Chief Sanitary Officer on<lb/>
+the construction of the Panama Canal - directed the extermination<lb/>
+of mosquitoes. In 1901 - before there had been time for exter-<lb/>
+mination to become fully effective - there were but 30 cases in<lb/>
+Havana and <unclear>olly</unclear> six deaths. The monthly record for the two years:<lb/>
+<table rows="5" cols="15">
+<row>
+<cell>Year</cell><cell></cell><cell>Jan</cell><cell>Feb</cell><cell>Mar</cell><cell>Apr</cell><cell>May</cell><cell>Jun</cell><cell>Jul</cell><cell>Aug</cell><cell>Sep</cell><cell>Oct</cell><cell>Nov</cell><cell>Dec</cell><cell>Total</cell></row>
+<row>
+<cell>1900</cell><cell>Cases</cell><cell>24</cell><cell>8</cell><cell>11</cell><cell>5</cell><cell>5</cell><cell>19</cell><cell>96</cell><cell>219</cell><cell>269</cell><cell>308</cell><cell>214</cell><cell>62</cell><cell>1240</cell></row>
+<row>
+<cell></cell><cell>Deaths</cell><cell>7</cell><cell>5</cell><cell>4</cell><cell>0</cell><cell>2</cell><cell>5</cell><cell>30</cell><cell>49</cell><cell>52</cell><cell>74</cell><cell>54</cell><cell>24</cell><cell>306</cell></row>
+<row>
+<cell>1901</cell><cell>Cases</cell><cell>0</cell><cell>0</cell><cell>4</cell><cell>1</cell><cell>4</cell><cell>0</cell><cell>4</cell><cell>8</cell><cell>6</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>30</cell></row>
+<row>
+<cell></cell><cell>Deaths</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>6</cell></row>
+</table></p>
+<p>No case of yellow fever ocurred in Havana between 1901 and 1905.<lb/>
+In 1902 the Cuban Republic was established and, in 1905, yellow<lb/>
+fever again invaded Cuba due to the neglact of mosquito <del><unclear></unclear></del><add>prevention.</add></p>
+<p>In Oct., 1906, it became necessary to send American troops to<lb/>
+Cuba to restore order and representative government. With yellow<lb/>
+fever again epidemic in Cuba the lives of American soldiers were<lb/>
+in jeopardy. Then Major Reed's old friend, Major Jefferson R.<lb/>
+Kean, (whom we had known as Chief Surgeon at Mariano, in 1900),<lb/>
+demonstrated anew the value <unclear>of his</unclear> dead colleague's work. He<lb/>
+drove yellow fever from the Island by directing warfare against<lb/>
+<pb n="15" id="f05806089"/>
+15<lb/>
+the mosquito, just as Major Gorgas had done five years before.</p>
+<p>As far as known there has been no yellow fever in Havana<lb/>
+since 1908.</p>
+<p><hi>General Wood's Evaluation</hi></p>
+<p>General Leonard Wood was Governor-General of Cuba at the time<lb/>
+Major Reed's Board did its work there. The General was an Army<lb/>
+physician before he became a line officer. He fully understood<lb/>
+what proof of the &ldquo;mosquito theory&rdquo; would mean. He authorized<lb/>
+the inoculation of soldiers who volunteered and lent every en-<lb/>
+couragement, including an appropriation which made the full in-<lb/>
+vestigation possible.</p>
+<p>At a <unclear>memorial meeting</unclear> of scientific men, in Washington,<lb/>
+shortly after Major Reed's death, General Wood said:</p>
+<p>&ldquo;I know no other man on this side of the world who<lb/>
+has done so much for humanity as Dr. Reed. His dis-<lb/>
+covery resulted in saving more lives annually than<lb/>
+were lost in the Cuban war, and saves the commercial<lb/>
+interests of the world greater financial loss each<lb/>
+year than the cost of the Cuban war.&rdquo;</p>
+<p>&ldquo;He came to Cuba at a time when one-third of the<lb/>
+officers of my staff died of yellow fever, and we<lb/>
+were discouraged at the failure of our efforts to<lb/>
+control the disease. In the months when the disease<lb/>
+was ordinarily worst the disease was checked and<lb/>
+driven from Havana. That was the first time in<lb/>
+nearly 200 years that the City had been rid of it.&rdquo;</p>
+<p>&ldquo;The value of his discovery cannot be apprecia-<lb/>
+ted by persons who are not familiar with the conditions<lb/>
+of tropical countries. Hereafter it will never be<lb/>
+<pb n="16" id="f05806090"/>
+16<lb/>
+possible for yellow fever to gain such headway that<lb/>
+quarantine will exist from the mouth of the <del><unclear></unclear></del><add>Potomac</add><lb/>
+to the mouth of the Rio Grande. Future generations<lb/>
+will appreciate fully the value of Dr. Reed's services.<lb/>
+His was the originating, directing and controlling<lb/>
+mind in this work and the others were assistants only.&rdquo;</p>
+<p>In the 41 years since Major Reed's Board held its initial<lb/>
+meeting, all that Major Reed hoped and much that General Wood<lb/>
+predicted has come true.</p>
+<p>I have never had a moments regret for having enacted the<lb/>
+role of guinea pig - on the contrary - I have always considered<lb/>
+it a high privilege to have been allowed a humble part in<lb/>
+&ldquo;<unclear>The Conquest</unclear> of Yellow Fever&rdquo;.</p>
+<pb n="17" id="f05806091"/>
+<p>17</p>
+<p>. . . . . . . . . <hi>R O L L  O F  H O N O R</hi> . . . . . . . . .</p>
+<p>An act of Congress, approved Feb. 28, 1929, awarded a gold<lb/>
+medal and an annuity of $1500, for life, for each of the fol-<lb/>
+lowing and further provided: "..in special recognition of the<lb/>
+high public service rendered and disabilities contracted in<lb/>
+the interest of humanity and science as voluntary subjects<lb/>
+for experimentation during the yellow fever investigations in<lb/>
+Cuba, the Secretary of War be directed to publish annually in<lb/>
+the Army Register a roll of honor on which shall be carried<lb/>
+the following names:<lb/>
+<list type="simple">
+<head><hi>M E M B E R S  O F  T H E  B O A R D</hi></head>
+<item>Major WALTER REED - Chairman of the Board</item>
+<item>Dr. JAMES CARROLL - <unclear>Han</unclear> experimental yellow fever</item>
+<item>Dr. JESSE W. LAZEAR - Died of yellow fever</item>
+<item>Dr. Aristides Agramonte - Thought to be immune</item>
+</list></p>
+<p>
+<table rows="20" cols="6">
+<row>
+<cell cols="1-6">VOLUNTEERS INOCULATED WITH YELLOW FEVER</cell>
+</row>
+<row>
+<cell></cell><cell>Name of Volunteer</cell><cell>Mosquito<lb/>
+Inocu-<lb/>
+lation</cell><cell>Blood<lb/>
+Inocu-<lb/>
+lation</cell><cell>Infec-<lb/>
+ted<lb/>
+Bedding</cell><cell>Date<lb/>
+Taken</cell></row>
+<row>
+<cell>1</cell><cell>William H. Dean (XY)</cell><cell>x</cell><cell></cell><cell></cell><cell>9-6-1900</cell></row>
+<row>
+<cell>2</cell><cell>John R. Kissinger *</cell><cell>x</cell><cell></cell><cell></cell><cell>12-8-1900</cell></row>
+<row>
+<cell>3</cell><cell>John J. Moran</cell><cell>x</cell><cell></cell><cell></cell><cell>12-25-1900</cell></row>
+<row>
+<cell>4</cell><cell>Warren G. Jernegan *</cell><cell>Negative</cell><cell>x</cell><cell>o</cell><cell>1-8-1901</cell></row>
+<row>
+<cell>5</cell><cell>William Olson *</cell><cell></cell><cell>x</cell><cell></cell><cell>1-11-1901</cell></row>
+<row>
+<cell>6</cell><cell>Levi E. Folk *</cell><cell>x</cell><cell></cell><cell>o</cell><cell>1-23-1901</cell></row>
+<row>
+<cell>7</cell><cell>Wallace Forbes *</cell><cell></cell><cell>x</cell><cell></cell><cell>1-24-1901</cell></row>
+<row>
+<cell>8</cell><cell>John H. Andrus *</cell><cell></cell><cell>x</cell><cell></cell><cell>1-28-1901</cell></row>
+<row>
+<cell>9</cell><cell>Clyde L. West *</cell><cell>x</cell><cell></cell><cell></cell><cell>2-3-1901</cell></row>
+<row>
+<cell>10</cell><cell>James L. Hanberry *</cell><cell>x</cell><cell></cell><cell>o</cell><cell>2-9-1901</cell></row>
+<row>
+<cell>11</cell><cell>Charles G. Sonntag *</cell><cell>x</cell><cell></cell><cell></cell><cell>2-10-1901</cell></row>
+<row>
+<cell>12</cell><cell>Paul Hamann</cell><cell></cell><cell>x</cell><cell></cell><cell>10-19-1901</cell></row>
+<row>
+<cell>13</cell><cell>A. W. Covington</cell><cell></cell><cell>x</cell><cell></cell><cell>10-19-1901</cell></row>
+<row>
+<cell>14</cell><cell>John R. Bullard</cell><cell></cell><cell>x</cell><cell></cell><cell>10-23-1901</cell></row>
+<row>
+<cell cols="1-6">INFECTED BEDDING VOLUNTEERS</cell></row>
+<row>
+<cell>15</cell><cell>Dr. Robert P. Cooke</cell><cell cols="3-6">From Nov. 30, to Dec. 19, 1900.<lb/>
+- 20 days</cell></row>
+<row>
+<cell>4</cell><cell>Warren G. Jernegan *</cell></row>
+<row>
+<cell>6</cell><cell>Levi E. Folk *</cell></row>
+<row>
+<cell>10</cell><cell>James L. Hanberry *</cell><cell cols="3-6">From Dec. 21, 1900<lb/>
+to Jan. 10, 1901 - 21 days</cell></row>
+<row>
+<cell>16</cell><cell>Edward We<add>a</add>therwalks *</cell></row>
+<row>
+<cell>17</cell><cell>James Hildebrand *</cell><cell cols="3-6">From Jan. 11,<lb/>
+to Jan. 31, 1901 - 20 days</cell></row>
+<row>
+<cell>18</cell><cell>Thomas M. England *</cell></row>
+</table></p>
+<p>After submitting to the infected bedding experiment, without<lb/>
+getting the disease, Jernegan (4) was twice inoculated by mos-<lb/>
+quitoes but escaped infection; then inoculated by blood which<lb/>
+caused a sharp attack of yellow fever - the only volunteer to<lb/>
+take all three experiments. Folk (6) and Hanberry (10) were<lb/>
+inoculated by mosquitoes. We<add>a</add>therwalks (16), bitten by 12<lb/>
+mosquitoes, was not ill. Hildebrand (17) was refused inoc--<lb/>
+ulation because of his age.</p>
+<p>__________________________________________________</p>
+<p>Names are from the official roll. Arrangement is writer's.<lb/>
+* indicates member of Hospital Corps detachment.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

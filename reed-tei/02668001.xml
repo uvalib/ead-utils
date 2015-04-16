@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02668001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Article fragment: The Military Government of Cuba, by Leonard Wood, [March, 1903]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Wood, Leonard</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02668001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1903-03-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Ludlow, William</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Santiago (Cuba)</name>
+<name type="place">Santa Clara (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1903-03-00">March, 1903</date>
+<idno rend="suppress">02668001</idno>
+<title>Article fragment: The Military Government of Cuba, by Leonard Wood, [March, 1903]</title>
+</bibl>
+</head>
+<p>Wood gives a history of the American occupation in Cuba and discusses the yellow fever outbreak and consequent investigation by Reed and Lazear. Article appears in &ldquo;The Annals of the American Academy.&rdquo; Only pages 16 and 17 are included.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1903-03-00">
+<head>Article fragment: The Military Government of Cuba, by Leonard Wood, [March, 1903]</head>
+<pb n="1" id="f02668001"/>
+<p>Leonard Wood - &ldquo;The Military Government of Cuba<lb/>
+Annals of the American Academy of Political &amp; Social Science - March 1903<lb/>
+(whole article 7 pp. These are pp. numbered 16-17)</p>
+<p>16<lb/>
+<hi rend="italic">The Annals of the American Academy</hi></p>
+<p>quent spread of the disease among neighboring individuals was pre-<lb/>
+vented. With yellow fever, the situation was different. The old<lb/>
+theories in regard to the treatment of this dread disease were the<lb/>
+theories upon which we worked in our endeavors to check yellow<lb/>
+fever in Cuba during the first two years of our occupation. We<lb/>
+believed that it was a filth disease largely and due to unsanitary con-<lb/>
+ditions. Practically, the results obtained by this method of pro-<lb/>
+cedure were <hi rend="italic">nil</hi>, so far as controlling the disease was concerned. It<lb/>
+did result, however, in better sanitation, in reducing the general<lb/>
+death rate, etc., but yellow fever appeared and continued in spite of<lb/>
+our vigorous cleaning measures.</p>
+<p>A most virulent epidemic broke out in Santiago during the sum-<lb/>
+mer of 1899, and was controlled only by the most extreme measures,<lb/>
+involving the removal of all non-immunes from the city, closing of<lb/>
+all infected houses and liberal cleaning of the city with fire and dis-<lb/>
+infectants, and the isolation of all persons with the fever. All<lb/>
+infected material was burned, vaults and cesspools were cleaned and<lb/>
+saturated with kerosene and fired. Disinfection was carried to the<lb/>
+extent of sprinkling the streets with a solution of corrosive subli-<lb/>
+mate. Triple disinfection at suitable intervals was carried out in all<lb/>
+infected houses. Regulations were promulgated to the effect that<lb/>
+all infected houses should be subsequently inhabited by immunes<lb/>
+only. Ships were forbidden to approach the piers, and non-<lb/>
+immune passengers were prohibited from landing in the city. Head-<lb/>
+quarters and troops were sent to high ground fifteen miles inland.<lb/>
+These measures were effective, as above stated, in removing all<lb/>
+susceptible persons and in checking the disease, which was finally<lb/>
+stamped out. Non-immunes were not allowed to return until the<lb/>
+yellow fever season had passed. When this epidemic broke out,<lb/>
+Santiago was as clean as a town can be kept. There was absolutely<lb/>
+nothing in the condition of the city itself to account for the outbreak<lb/>
+of the yellow fever. Methods such as were employed in Santiago<lb/>
+are feasible in small towns or in cities of 40,000 to 50,000 people,<lb/>
+as in Santiago, in times of great emergency, but they could not be<lb/>
+effectually employed in a city the size of Havana without seriously<lb/>
+and permanently injuring the commerce and industry of such a city.</p>
+<p>In the spring and summer of 1899 there were few deaths from<lb/>
+yellow fever in the city of Havana. General Ludlow had inaugurated<lb/>
+a most thorough and efficient system of cleaning the city, and it was<lb/>
+[168]<lb/>
+<pb n="2" id="f02668002"/>
+<hi rend="italic">The Military Government of Cuba</hi><lb/>
+17<lb/>
+believed that such measures would be effective in keeping out the<lb/>
+fever. As a matter of fact, however, the fever was continually<lb/>
+present during this period, but there was in Havana comparatively<lb/>
+little non-immune material.</p>
+<p>In the fall, however, Spanish immigration began, and during<lb/>
+the fall and winter approximately 12,000 Spanish immigrants<lb/>
+arrived at the port of Havana, about one-half of this number remain-<lb/>
+ing in the city. The result was that in December there was, for<lb/>
+that period of the year, a serious outbreak of yellow fever which<lb/>
+lasted throughout the winter and increased in the spring and summer<lb/>
+months and, although it was kept within bounds by most thorough<lb/>
+and systematic house to house inspection and careful supervision<lb/>
+of all sick persons, combined with the immediate removal to the<lb/>
+yellow fever hospitals of all persons, without regard to class or posi-<lb/>
+tion, who were taken sick with the disease, still there were in Havana<lb/>
+approximately 1,400 cases of yellow fever during this summer. The<lb/>
+existence of this condition in a perfectly clean city, compelled those<lb/>
+who looked beneath the surface to realize that the spread of yellow<lb/>
+fever could not be controlled simply by cleaning and disinfecting<lb/>
+methods.</p>
+<p>During the summer of 1900, the fever appeared in the garrisoned<lb/>
+towns of Pinar del Rio and Santa Clara. The sanitation of these<lb/>
+towns was under military supervision, and there was nothing in the<lb/>
+condition of the towns themselves to account for the outbreak of the<lb/>
+fever. Troops had to be sent out into camp and rigid local quaran-<lb/>
+tine measures inaugurated. In this manner the spread of yellow<lb/>
+fever was checked. The loss of officers during these epidemics was<lb/>
+very serious, and there was also considerable loss of life among the<lb/>
+enlisted men and civilians. In short, the situation was one of great<lb/>
+discouragement. It was perfectly evident that we could control the<lb/>
+disease in the small towns by controlling the local non-immunes and<lb/>
+cutting off intercourse with infected districts, or, in extreme meas-<lb/>
+ures, doing as has been done in Jamaica, that is, to send the non-<lb/>
+immunes to the mountains above the fever level.</p>
+<p>Affairs were in this condition when a systematic investigation<lb/>
+of yellow fever was undertaken by Drs. Reed, Carroll and Lazaer.<lb/>
+These officers took up the work in a very thorough and conscientious<lb/>
+manner, starting at the point previously reached by Dr. Findlay.<lb/>
+They accepted Dr. Findlay's idea that yellow fever was transmitted<lb/>
+[169]</p>
+</div1>
+</body>
+</text>
+</TEI.2>

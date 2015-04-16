@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0121001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from George Farrar Patton to Henry Rose Carter, August 9, 1898</title>
+<title type="gmd">[electronic resource] </title>
+<author>Patton, George Farrar</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0121001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1898-08-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Henry Rose </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Wyman, Walter</name>
+<name type="place">Camp Fontaine Bleau (La.)</name>
+<name type="place">McHenry (La.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value ="1898-08-09">August 9, 1898</date>
+<idno rend ="suppress">C0121001</idno>
+<title>Letter from George Farrar Patton to Henry Rose Carter, August 9, 1898</title>
+</bibl>
+</head>
+<p>Patton, on behalf of the Louisiana State Board of Health, thanks the U.S. Marine Hospital Service for their assistance in stamping out yellow fever at Camp Fontaine Bleau and McHenry.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1898-08-09">
+<head>Letter from George Farrar Patton to Henry Rose Carter, August 9, 1898</head>
+<pb n="1" id="fC0121001"/>
+<opener>
+BOARD OF HEALTH<lb/>
+EDMOND SOUCHON, M.D.<lb/>
+-:PRESIDENT.:-<lb/>
+G. FARRAR PATTON, M.D.<lb/>
+-:SECRETARY.:-<lb/>
+STATE OF LOUISIANA<lb/>
+COR.CARONDELET AND COMMON STS.<lb/>
+<unclear>J.J. Hooper, N.O.</unclear><lb/>
+<dateline>
+New Orleans, <date value="1898-08-09">August 9th., 1898.</date>
+</dateline><lb/>
+Dr. H. R. Carter, U.S.M.H.S.<lb/>
+City.<lb/>
+<salute>Dear Sir :-</salute>
+</opener>
+<p>I beg to transmit to you the following resolutions adopted by the<lb/>
+Louisiana State Board of Health, at its meeting held 8th., inst.--</p>
+<p>&ldquo; Resolved, That the Louisiana State Board of Health hereby tenders<lb/>
+" its thanks to the U.S. Marine Hospital Service for valuable and<lb/>
+" much appreciated assistance recently rendered at Camp Fontaine-<lb/>
+" Bleau, and in railroad inspections.&rdquo;</p>
+<p>&ldquo; Resolved, That this Board hereby expresses the highest admiration<lb/>
+" of the splendid work done by the U.S. Marine Hospital Service in<lb/>
+" co-operating with the Mississippi State Board of Health in stam-<lb/>
+" ping out the yellow fever at McHenry by hard work and modern sani-<lb/>
+" tary methods, which achievement will have incalculable beneficial<lb/>
+" results in the future.&rdquo;</p>
+<p>&ldquo; Resolved, That a copy of these resolutions be sent to the Super-<lb/>
+" vising Surgeon General, U.S.M.H.S., Dr. Walter Wyman, and to<lb/>
+" Dr. H. R. Carter, Surgeon U.S.M.H.S.&rdquo;</p>
+<closer>
+<salute>Very Truly Yours</salute>
+<signed>G. Farrar Patton M.D.</signed>
+Secretary Louisiana State Board of Health.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

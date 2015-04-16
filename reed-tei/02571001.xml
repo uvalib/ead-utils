@@ -1,0 +1,758 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t02571001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Memoirs of a Human Guinea Pig, by John J. Moran, [19--]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02571001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education">YES</term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Moran, John J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Cleveland, Grover</name>
+<name type="person">Clarke, Ida</name>
+<name type="person">Clarke, John H.</name>
+<name type="person">Hanna, Marcus A.</name>
+<name type="person">Wilson, Woodrow</name>
+<name type="person">Logan, Mrs. John A.</name>
+<name type="person">Todd, Capt.</name>
+<name type="person">Arthur, Major</name>
+<name type="person">Deshon, George D.</name>
+<name type="person">Hastings, Dr.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Edmunds, Major</name>
+<name type="person">Cartwright, Major</name>
+<name type="person">Peterson, Major</name>
+<name type="person">Peterson, Mrs.</name>
+<name type="person">Lazear, Jesse</name>
+<name type="person">Finlay, Carlos</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Sternberg, George M.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Hanberry, James</name>
+<name type="person">Goldberger, Dr.</name>
+<name type="person">Hildebrand, James</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Wyman, Walter</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">New York (N.Y.)</name>
+<name type="place">Lough Mask, Galway County (Ireland)</name>
+<name type="place">United States</name>
+<name type="place">Columbiana County (Ohio)</name>
+<name type="place">Rogers (Ohio)</name>
+<name type="place">Columbus (Ohio)</name>
+<name type="place">Youngstown (Ohio)</name>
+<name type="place">Beaver Falls (Pa.)</name>
+<name type="place">Pittsburg (Pa.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Fort Meyer (Va.)</name>
+<name type="place">Washington Barracks (D.C.)</name>
+<name type="place">Fort Mott (N.J.)</name>
+<name type="place">Fort Wood, Beloe's Island (N.Y.)</name>
+<name type="place">Cuba</name>
+<name type="place">Camp Young, Guanajay, Pinar del Rio (Cuba)</name>
+<name type="place">Guanajay Barracks (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Marianao (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Virginia</name>
+<name type="place">South Carolina</name>
+<name type="place">Panama</name>
+<name type="publication">Youngstown Vindicator</name>
+<name type="hospital">Hospital Alfonso XIII (Cuba)</name>
+<name type="hospital">Military Hospital No. 1 (Cuba)</name>
+<name type="hospital">Hospital Calixto Garcia (Cuba)</name>
+<name type="hospital">Las Animas Hospital, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>13 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">02571001</idno>
+<title>Memoirs of a Human Guinea Pig, by John J. Moran, [19--]</title>
+</bibl>
+</head>
+<p>This is Moran's account of his experience with the Yellow Fever Commission as a human test subject.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="19**-00-00">
+<head>Memoirs of a Human Guinea Pig, by John J. Moran, [19--]</head>
+<pb n="1" id="f02571001"/>
+<opener>
+8054-g<lb/>
+<hi>MEMOIRS OF A HUMAN GUINEA PIG</hi>
+<dateline>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE<lb/>
+Army Medical Museum and Library,<lb/>
+WASHINGTON.<lb/>
+</dateline>
+</opener>
+<p>This is to certify that the bearer, Mr. John J. Moran, is a man of excellent<lb/>
+habits and can be implicitly entrusted to perform whatever duty may be assigned<lb/>
+him. He was in my employment for several months, as clerk and typewriter,<lb/>
+and during this time performed his duties in the most satisfactory and painstaking<lb/>
+manner. A man who volunteered, as he did, without hope of any pecuniary reward,<lb/>
+but solely in the interests of humanity and medical science, to enter a building<lb/>
+purposely infected with yellow fever, and thereby contracted an attack of the disease,<lb/>
+should need no word of recommendation from any one.</p>
+<p>I feel confident, therefore, that he will give entire satisfaction to any one<lb/>
+who may give him employment.</p>
+<p>WALTER REED<lb/>
+Surg., U. S. A.</p>
+<p>Feb. 20, 1901.</p>
+<p>oooOooo</p>
+<p>The above letter was written by Major Reed, in his own hand, in the saloon<lb/>
+of the &ldquo;S. S. MORRO CASTLE&rdquo;, of the Ward Line, enroute to New York, while<lb/>
+I sat near him to receive that prized document. That letter is now in the treasure<lb/>
+room of the University of Virginia as a relic of one of its most distinguished<lb/>
+graduates in medicine. I gave it to the University at the suggestion of my friend<lb/>
+and benefactor, General Jefferson Randolph Kean, Medical Corps, U. S. Army-<lb/>
+Retired, also a Virginia graduate and life long friend of Major Reed, following<lb/>
+my offer of the letter to General Kean. I have deemed it appropriate to begin<lb/>
+my memoirs with this letter, so that the reader may know I am not drawing on<lb/>
+my imagination in the chapters to follow. Although I was but one of eighteen<lb/>
+volunteers, I had the great honor and privilege of serving Major Reed in a confidential<lb/>
+capacity during several months.</p>
+<p>As to my own personality, I will not burden the reader with a recital of the<lb/>
+trials and tribulations which fell to my lot as a boy. Suffice it to say that I was<lb/>
+born in a small village on the shores of Lough Mask, Galway County, Ireland,<lb/>
+March 15, 1876, Gaelic being my mother tongue and the language of my modest<lb/>
+parents. I first learned the English alphabet in the National Schools of Ireland,<lb/>
+<pb n="2" id="f02571002"/>
+-2-<lb/>
+any my first words in English, the teaching of Gaelic being suppressed, considered<lb/>
+by the conquerors of Erin as a dialect. However, prohibition of its use could not<lb/>
+be extended to the firesides of the Irish peasantry, the language being kept alive<lb/>
+until it was fully restored in the first quarter of the 20th Century. I bear no ill<lb/>
+will towards the present generation of Englishmen for the harsh treatment their<lb/>
+forefathers imposed on the land of my birth, for centuries. Few of the present<lb/>
+generation of Englishmen are proud of British rule in Ireland up to the end of the<lb/>
+19th Century. No nation can force its culture down the throats of the people of<lb/>
+other countries without reaping its consequences. Like the English themselves, the<lb/>
+Irish were never born to be slaves.</p>
+<p>Arriving in the U. S. during the second term of President Cleveland, full of<lb/>
+boyish enthusiasm for a dreamed-of education in the Land of Liberty and Promise,<lb/>
+alas and alack I was to have a rude awakening, my adopted country being then in<lb/>
+the throes of an economic depression of nation-wide proportions. With loss of<lb/>
+employment of my big brother, upon whose assistance I was counting, the plans<lb/>
+for my education went haywire. I soon became aware of the fact that I was an unwelcome<lb/>
+guest in my sister-in-law's house, with two children of her own to care for, so<lb/>
+I determined, very much against my brother's wishes, to become self supporting<lb/>
+instead of being a burden to him and, perhaps, a bone of contention. So far as I<lb/>
+was concerned, the family peace would not find me a disturbing factor. My case<lb/>
+was sad but I did not feel bitter because of being thrown on my own resources in-<lb/>
+stead of going to school with boys of my own age. Naturally, a boy of ten could not<lb/>
+expect to earn more than enough to provide the bare necessities of life, but I went<lb/>
+about it with bravery and determination.</p>
+<p>I shall skip the next ten miserable years and start from April 24, 1897, when<lb/>
+I graduated from a small commercial college in Columbiana County, Ohio, named<lb/>
+Mount Hope College, with the, to me, imposing degree of Bachelor of Commercial<lb/>
+Science. During my two years there I devoted my time intensely to accounting and<lb/>
+penmanship, learning to write in a fine Spencerian hand, which has stood me in good<lb/>
+stead ever since. Those two years gave me a new outlook on life. The town of<lb/>
+Rogers depended on the college and the surrounding farms for its existence. Aside<lb/>
+from the occasional student reunions, social life in the town was practically nil.<lb/>
+It was an ideal place for absorbing the class of knowledge which the small but well<lb/>
+versed faculty was prepared to impart. Some years later the college closed, the<lb/>
+faculty moving in a body to a larger field, Columbus, the state capital.</p>
+<p>I returned to Youngstown only to bid goodbye to my brother and the Clarke family,<lb/>
+especially Dr. Ida Clarke, for whom I had served as office boy and companion on her<lb/>
+rounds, practice limited to women and children. She was a pioneer among her sex,<lb/>
+as an M. D., in those days. The Clarke family was one of the most prominent in<lb/>
+Youngstown, John H. Clarke, the doctor's brother, being one of the leaders of the<lb/>
+Democratic party in the state and owner of the Youngstown VINDICATOR, organ of<lb/>
+the party. Some years later he was the party candidate for the U. S. Senate,<lb/>
+against Marcus A. Hanna. Ohio was then overwhelmingly Republican, hence it was<lb/>
+not at all strange that he was defeated. He was a brilliant and able lawyer, a great<lb/>
+<pb n="3" id="f02571003"/>
+-3-<lb/>
+orator and an eloquent one. During the Wilson regime he became an associate<lb/>
+justice of the U. S. Supreme Court, resigning to campaign the Union for entry<lb/>
+of the United States into the League of Nations. He died in 1945, in his 88th year,<lb/>
+never having married. Neither had his sister Ida. Their influence and my associa-<lb/>
+tion with them left their mark on me, although my determination to study medicine,<lb/>
+contrary to the advice of both, cooled their interest in me. None the less, I revere<lb/>
+their memory.</p>
+<p>Bidding good bye to Youngstown and resolving to forget my years of misery<lb/>
+there, I became a soldier of fortune, my first stop being Beaver Falls, Pa., where<lb/>
+I registered at the Central Hotel, intending to stay there for a few days only,<lb/>
+Pittsburg being my destination. Evidently my neat and legible signature attracted<lb/>
+the attention of the owner-manager, who engaged me in conversation while I did not<lb/>
+suspect for a moment that he had a purpose in so doing. Seeing that he was interested<lb/>
+and being very proud of my sheepskin, I showed it to him. He informed me that the<lb/>
+hotel was minus a desk clerk, room clerk and cashier, a triple combination embodied<lb/>
+in one man and who would not be overworked at that. Would I accept the position?<lb/>
+The salary would be $30.00 a month, with room, board and laundry. Yes, I would<lb/>
+try if for a month, not being too sure that my services would be satisfactory. I<lb/>
+attended strictly to business, never watching the clock. By the time the month<lb/>
+rolled by I knew I had made a hit with my employer. Mine was a humdrum life, none<lb/>
+the less, in that small town, and with only a sprinkling of guests at the hotel I knew<lb/>
+that we were operating at a loss. I worried more than the owner, who was apparently<lb/>
+unconcerned. When the month was up I told him I was leaving. Was it a matter of<lb/>
+salary? If so, he would increase it to $50.00 a month. However, my mind was already<lb/>
+made up and while I expressed my appreciation, I told him that my original destination<lb/>
+was Pittsburgh. I could not draw a salary from a constantly losing business. All<lb/>
+through life I have been governed by a similar line of conduct and acutely sensitive<lb/>
+to the ups and downs of my employers. Only a few years ago, I was reprimanded<lb/>
+for attempting to refuse an increase in salary as manager of a subsidiary company<lb/>
+which was operating at a loss. I accepted under pressure.</p>
+<p>My next stop was Pittsburgh, where I thought I would take root. One day<lb/>
+there, however, was sufficient for me. Its black canopy of smoke and soot would<lb/>
+darken my days, so I thought, while I longed to see the sun's rays. That pall of<lb/>
+smoke lasted through the night. Next morning I carried my one piece of baggage<lb/>
+to the railroad station and bought a one-way ticket to Washington, with no regrets<lb/>
+that I was not to become one of the &ldquo;Smokey City's&rdquo; proud residents. Ah, what a<lb/>
+difference! This, indeed, was a smokeless city and a beautiful one, with its wide<lb/>
+avenues and tree-lined walks, a &ldquo;City of Magnificent Distances&rdquo; and planned as a<lb/>
+fitting seat of government for a nation which would eventually reach a population of<lb/>
+250 million souls.</p>
+<p>It was in Washington that my preparatory education for becoming a human guinea<lb/>
+pig was to germinate. Through a letter of recommendation from the Clarke family,<lb/>
+I called on Mrs. John A. Logan, widow of the Union general of that name, formerly<lb/>
+of Youngstown, but then a Washington resident. She gave me a note of introduction<lb/>
+to Captain Todd, commanding a troop of the 5th Cavalry at Fort Myer, Virginia,<lb/>
+<pb n="4" id="f02571004"/>
+-4-<lb/>
+bordering on the District of Columbia. Boarding a street car, bright and early<lb/>
+one morning, I got off at the entrance to the military reservation, heading for the<lb/>
+Adjutant's office. Immediately I met an officer of whom I inquired as to the way<lb/>
+to headquarters. Pointing to a flag pole with the Stars and Stripes proudly waving<lb/>
+from its top, he informed me that regimental headquarters was the building directly in<lb/>
+front. Before I had advanced a dozen steps, he called out to me, saying &ldquo;young man,<lb/>
+come back here a moment&rdquo;, he meeting me half way.</p>
+<p>&ldquo;Are you, by chance, going to enlist in the Army?&rdquo; I replied in the affirmative,<lb/>
+telling him I had a note of introduction from Mrs. Logan to Captain Todd, commanding<lb/>
+officer of Troop B, Fifth Cavalry. &ldquo;I am Major Arthur, Post Surgeon. Won't you<lb/>
+come down to my office for a few minutes. You will have plenty of time since the<lb/>
+captain is now out drilling his troop&rdquo;. The Post Hospital was less than fifty yards<lb/>
+away, so we reached it in no time. &ldquo;Why have you picked the Cavalry? Yes, I know,<lb/>
+you like horses. Have you ever thought of the advantages open to you in the Hospital<lb/>
+Corps?&rdquo; As a matter of fact I had not, not even being aware that there was such a<lb/>
+corps. Major Arthur was an effective recruiting officer, deeply interested in the<lb/>
+Army Medical Corps. &ldquo;While you are in the Hospital Corps, you may have an<lb/>
+opportunity to study medicine, perhaps graduate without leaving the Army and become<lb/>
+a commissioned officer&rdquo;. I suppose it was all fair enough. The Cavalry lost a<lb/>
+recruit. Some day they would get one of his corpsmen. I never presented Mrs.<lb/>
+Logan's note.</p>
+<p>The following day, with a note from Major Arthur to Captain George D. Desnon,<lb/>
+commandant of the Hospital School of Instruction, Washington Barracks, D.C., I<lb/>
+was sworn into the military service, becoming a private in the Hospital Corps, the<lb/>
+exact date being July 3, 1897, remaining at the School for the full six months' course<lb/>
+of drill and study. Most of my companions at the school had had previous military<lb/>
+training and for a few months I was hazed for my greenness. The school commandant,<lb/>
+however, was well satisfied with my progress and impressed by my exemplary<lb/>
+conduct and discipline. He was a West Point graduate who had resigned to study<lb/>
+medicine, re-entering the Army as 1st Lieutenant in the Medical Corps. He was<lb/>
+an ideal commandant for the School of Instruction. Upon completion of the course<lb/>
+he gave me an excellent rating, which had much to do with my promotion to Acting<lb/>
+Hospital Steward (Sergeant) within the first year of my service.</p>
+<p>In January, 1898, I was ordered to Fort Mott, a new artillery post on the<lb/>
+Jersey side of the Delaware River. In less than three months the U. S. declared<lb/>
+war on Spain and the Army of 25,000 men was multiplied, resulting in my promotion,<lb/>
+my record at the School of Instruction having much to do with it. In those days the<lb/>
+Hospital Corps had but three ranks, viz: Private, Acting Hospital Steward and<lb/>
+Hospital Steward, the latter ranking with Master Sergeant. In July I was trans-<lb/>
+ferred to Bedloe's Island (Fort Wood), in the shadow of the Statue of Liberty, where<lb/>
+the Army had set up a convalescent hospital for the sick and wounded veterans of<lb/>
+the Cuban campaign. All the time, I had been trying to get to Cuba but lacked the<lb/>
+influence to be nominated, finally succeeding in January, 1899, when the short-<lb/>
+lived war was over and the Spanish troops were being evacuated.</p>
+<pb n="5" id="f02571005"/>
+<p>-5-</p>
+<p>My first station in Cuba was at the &ldquo;Hospital Alfonso XIII&rdquo;, presently changed<lb/>
+to &ldquo;Military Hospital No. 1&rdquo;, later to &ldquo;Hospital Calixto Garcia&rdquo;, in memory of<lb/>
+General Calixto Garcia, one of Cuba's military heroes, the name which the hospital<lb/>
+bears to this day. It was there that I learned my first words in Spanish from the<lb/>
+corpsmen who were awaiting evacuation. They were words which I could not speak<lb/>
+today in the presence of respectable, Spanish-speaking, dames and expect to get<lb/>
+away with it. As a matter of fact, I have rarely used them after I learned their<lb/>
+meaning. The Spaniards laughed their heads off, giving me to understand that they<lb/>
+admired my accent and would &ldquo;muy pronto&rdquo; (very soon) become proficient in the<lb/>
+language of Cervantes. In the intervening years I have made considerable progress<lb/>
+in that direction.</p>
+<p>My next assignment was at Camp Young, near Guanajay, in the province of<lb/>
+Pinar del Rio, where I came to grips, for the first time, with pernicious malaria<lb/>
+and 20-frain doses of quinine sulphate, several times daily, which left me deaf for<lb/>
+a period of ten days but finally overcame the fever. For a time I feared that my<lb/>
+hearing would become permanently impaired, but it did not, I am happy to state.<lb/>
+When Guanajay Barracks was ready for our occupancy, Camp Young was abandoned<lb/>
+and I became one of the personnel of the post hospital there. Sensing that the Post<lb/>
+Surgeon (a captain) &ldquo;had it in for me&rdquo;, and would have me court-martialed for the<lb/>
+slightest infraction of Army Regulations, I very quietly managed to be transferred<lb/>
+to another Post. Even a summary court martial would have sufficed to bar me from<lb/>
+that much coveted qualification of &ldquo;Character: EXCELLENT&rdquo;, upon discharge from<lb/>
+the Army. Fortunately, I was able to weather that danger, thanks to the Chief<lb/>
+Surgeon of the Department, Major Jefferson R. Kean, to whom my plight was made<lb/>
+known by his chief clerk, Hospital Steward Hastings. Why I was persecuted by<lb/>
+Captain Q. I have never been able to fathom. Perhaps he resented my Irish brogue.</p>
+<p>My transfer to the Post Hospital, Columbia Barracks, on the outskirts of<lb/>
+Havana, brought me intimately close to the site of my subsequent activities as a<lb/>
+human guinea pig and my attack of experimental yellow fever. While carrying on<lb/>
+his investigations, Major Reed had his office, laboratory and living quarters within<lb/>
+the hospital grounds, his combination office and bedroom being in the long frame<lb/>
+building known as &ldquo;Officers' Quarters&rdquo;. I was furtunate enough to be assigned<lb/>
+to the operating room as assistant to Captain Alexander N. Stark, Post Surgeon,<lb/>
+who performed all surgical operations, a Virginian and a Virginia graduate, a<lb/>
+fine fellow and one who appreciated much more his medical degree than his military<lb/>
+rank. Once he remarked to me &ldquo;Moran, any man with enough influence can become<lb/>
+a captain, but not a doctor&rdquo;, or words to that effect. It was while with him that I<lb/>
+definitely decided to become a medico, encouraged by him in every manner. It<lb/>
+was he who told me that the entry examinations at U. Va. were not rigid but that<lb/>
+one had to know his anatomy and materia medica to obtain the degree of M.D. there.</p>
+<p>Having served out my three years' period of enlistment, I was honorably<lb/>
+discharged on July 2, 1900, with &ldquo;Character: EXCELLENT. Services: HONEST<lb/>
+AND FAITHFUL&rdquo;, the highest qualifications applicable to a model soldier upon<lb/>
+discharge from our Army. The following day, I donned civilian clothes for the<lb/>
+<pb n="6" id="f02571006"/>
+-6-<lb/>
+first time in three years. It is not at all strange that the transition from soldier<lb/>
+to civilian was a little bewildering during the first few weeks, considering that<lb/>
+three years of military life and discipline, with all its implications, could not be<lb/>
+shed forthwith. Much of that life was automatic but most of it would serve me<lb/>
+well in civil life, as I have discovered in the intervening 48 years. I am convinced<lb/>
+that two or three years in the Army can profitably form a part of any young man's<lb/>
+education, regardless of his station in life. Self-control and obedience to orders<lb/>
+are attributes as necessary in civil life as they are in the armed forces.</p>
+<p>On July 3, 1900, I was employed as a field clerk on the staff of General Fitzhugh<lb/>
+Lee, commanding the Department of Western Cuba, at a salary of $100.00 a month,<lb/>
+liberal enough in those days, when the purchasing power of the dollar was five times<lb/>
+what it is today. The expense incidental to the purchase of civilian clothes and<lb/>
+arranging for room and board led to misgivings, to be overcome in good time,<lb/>
+however. The matter of room rent was presently solved by Captain Stark, by<lb/>
+permitting me to retain the room I had when I was in uniform, now in company with<lb/>
+Kissinger who succeeded me in the operating room. As a civilian, I was not, of<lb/>
+course, entitled to quarters within the hospital grounds, it being a concession on<lb/>
+the part of Captain Stark in order that my savings could be augmented by an addi-<lb/>
+tional fifteen dollars per month which a room in the town of Marianao would cost me.<lb/>
+The use of an Army cot was the sole expense to the government, hence my acceptance.</p>
+<p>During July and August, yellow fever was rampant in Havana and its suburbs.<lb/>
+Two officers on General Lee's staff, Major Edmunds and Major Cartwright, Inspector<lb/>
+General and Chief Quartermaster, respectively, succumbed to the dread disease.<lb/>
+The Chief Surgeon, Major Jefferson R. Kean, also contracted the disease, but<lb/>
+happily recovered. The epidemic was in full swing throughout the Island of Cuba.<lb/>
+The clerk who worked next to me in the office was absent from his desk one morning.<lb/>
+A week later he was in his grave, a victim of yellow fever. Major Peterson, one of<lb/>
+General Wood's staff officers, became a victim. His wife, living in a Havana hotel,<lb/>
+committed suicide, following her husband's death. The situation created a near-<lb/>
+panic atmosphere.</p>
+<p>At this time, a board of medical officers appointed by the Surgeon General<lb/>
+of the Army, headed by Major Walter Reed, was investigating yellow fever and<lb/>
+other tropical diseases in Cuba. At first their efforts were confined to isolate<lb/>
+the yellow fever microbe, supposedly to be found in the blood and serum of yellow<lb/>
+fever patients and victims. That wary and deadly agent, however, passed through<lb/>
+the finest laboratory filter and could not be trapped. What to do next! Major Reed<lb/>
+and Dr. Lazear opined that Dr. Finlay's discredited mosquito theory should be<lb/>
+tested, not so the other two members of the board. As president of the Board,<lb/>
+Major Reed lost no time in visiting the old gentleman. Finlay, skeptical at first,<lb/>
+was elated when he became convinced that Dr. Reed's visit was not one of<lb/>
+curiosity and ridicule. He gladly gave him a supply of minute, black objects,<lb/>
+cylindrical in shape. They were the eggs of his pet type of mosquito, then known<lb/>
+as CULEX FASCIATUS, later changed to STEGOMYIA and now definitely known as<lb/>
+AEDES AEGYPTI.</p>
+<p>Aug. 1<hi rend="superscript">st</hi><lb/>
+1900</p>
+<pb n="7" id="f02571007"/>
+<p>-7-</p>
+<p>Reed left Havana on Aug 2<hi rend="superscript">nd</hi><lb/>
+1900 and did not return<lb/>
+until Oct. 4<hi rend="superscript">th</hi> 1900.</p>
+<p>With his precious package of potential death Major Reed took the eggs to his<lb/>
+laboratory to be hatched, first sign of life being the larvae or &ldquo;wigglers&rdquo;,<lb/>
+later becoming full grown mosquitoes. Dr. Lazear had more than a passing knowledge<lb/>
+of mosquitoes and was given charge of nursing them along, placing them in test<lb/>
+tubes, feeding them and giving each a number for future identification, numbers<lb/>
+which were to be extremely important later on, once the insects had fed on a<lb/>
+yellow fever case. The entire history of each mosquito, from the test tube to the<lb/>
+grave, was labeled or tagged around it, much as date of the biting and stage of<lb/>
+the disease and its severity, designated by the terms &ldquo;mild&rdquo;, &ldquo;severe&rdquo; and &ldquo;fatal&rdquo;.<lb/>
+No detail or incident in its life was too trivial to be made of record.</p>
+<p>Adventure knocked at my door that October afternoon as I crossed the parade<lb/>
+grounds of the Post Hospital. I suspect that it was by design rather than accident<lb/>
+that Dr. Roger Post Ames accosted me, with a cheery &ldquo;Hello, Johnny, what's<lb/>
+new over at Headquarters?&rdquo; Some days later I discovered that he was Major Reed's<lb/>
+missionary and scout for contacting potential candidates for experimental yellow<lb/>
+fever. Being a contract surgeon (Acting Assistant Surgeon), he was neither fish<lb/>
+nor flesh from a military point of view, having no Army rank. He wore an<lb/>
+officer's uniform, with no rank insignia, but he was customarily accorded a<lb/>
+salute from enlisted men, ungrudgingly given because of his profession. He<lb/>
+fraternized freely with the non-commissioned officers and was generally liked<lb/>
+by all Hospital Corpsmen.</p>
+<p>In an apparently casual manner, Dr. Ames led up to the clinching point and my<lb/>
+own major weakness of hoarding and saving money for my medical education, a<lb/>
+plan with which he was entirely familiar, having diplomatically suggested that I<lb/>
+keep Tulane in mind, his own Alma Mater. Did I know that Major Reed was offering<lb/>
+a bonus or money award of $500.00 for volunteers for a series of experiments<lb/>
+which he was planning? No, it was all news to me and would he kindly explain.<lb/>
+That invitation was right down his alley, just as he shrewdly expected. I was<lb/>
+No. 1 on his list of promising candidates. He knew that $500.00 would be a godsend<lb/>
+to me and, furthermore, a fitting start for a young man bent on studying medicine.<lb/>
+Neither of us gave very much thought to a possible death lurking in the background.<lb/>
+&ldquo;All right, Doc, I will sleep over it and let you know tomorrow.&rdquo; Repeating to<lb/>
+myself what he told me: &ldquo;Just think, Johnny, what that $500.00 will mean to you&rdquo;,<lb/>
+I wended my way to my room, having already made up my mind that I would go in<lb/>
+for the experiments.</p>
+<p>Sept 25<hi rend="superscript">th</hi><lb/>
+1900</p>
+<p>During August and September the Board had been more or less marking time,<lb/>
+due to the absence of Major Reed, called to Washington in order to wind up a<lb/>
+report of another board of medical officers, of which he was also a member, a duty<lb/>
+which consumed the better part of August and September. His return to Cuba was<lb/>
+precipitated by the <hi>death of Dr. Lazear</hi>, who had succumbed to yellow fever, a<lb/>
+voluntary or accidental victim of the disease, contracted while infecting mosquitoes<lb/>
+in the yellow fever ward of Las Animas Hospital, in Havana. It appears that Dr.<lb/>
+Lazear was doing some quiet but effective experimenting with a few of his multiplied<lb/>
+family of insects, pending the return of Major Reed. It is safe to assume that he<lb/>
+<pb n="8" id="f02571008"/>
+-8-<lb/>
+had no premonition of being marked by the Grim Reaper as a victim of the yellow<lb/>
+scourge, the mysteries of which he was endeavoring to fathom. He died on September<lb/>
+<hi>28</hi>, 1900, in his 34th year, a martyr to science, death cutting short a life of<lb/>
+brilliant promise and accomplishment, at the same time depriving Reed of the<lb/>
+counsel of one of his most trusted associates. His absent chief was stunned and<lb/>
+saddened by his untimely death.</p>
+<p>A few hours after my talk with Dr. Ames I broke the news to my roommate,<lb/>
+Private John R. Kissinger of the Hospital Corps, informing him that I was &ldquo;going<lb/>
+in&rdquo; for the experiments, but without the bonus. He thought I was a fool for<lb/>
+renouncing it and, in no uncertain fashion, told me so. Most people, I suppose,<lb/>
+would think I was playing to the grand stand, but I had made up my mind and that<lb/>
+was all there was to it. When it came to moral courage, Kissinger was not found<lb/>
+wanting. He, too, was going to volunteer and without any money reward. I tried<lb/>
+to dissuade him, arguing that our cases were different, since I was to study medicine<lb/>
+while he had no such ambition. We discussed the matter until the wee small hours<lb/>
+of the morning, it being understood that we would make it a joint venture, turning<lb/>
+in for a bare four hours' sleep when the bugle call awakened me with a start. In<lb/>
+those days I had been accustomed to sleep a full eight hours, five more than I had<lb/>
+slept on that memorable night.</p>
+<p>True to our pact we, the two Johns, walked across the parade grounds to<lb/>
+Officers' Quarters, next morning, headed for Major Reed's combination bedroom<lb/>
+and private office, timing ourselves so as to give him time to have breakfast but<lb/>
+bent on seeing him before leaving for Havana or some other destination, both of<lb/>
+us being anxious to strike the iron while it was hot. Neither of us wanted to risk<lb/>
+the danger of getting cold feet. Unperturbed, but momentarily confused, upon<lb/>
+seeing two young men in front of his open door, both strangers to him, one in<lb/>
+uniform and the other in civvies, the Major bade us &ldquo;Good morning. What can I<lb/>
+do for you?&rdquo;</p>
+<p>The moment was tense, the Major being the coolest of the three. Kissinger<lb/>
+was waiting for me to speak, quite naturally, since I was never tongue-tied if my<lb/>
+audience was limited to six, while Kissinger was always a good listener. Here<lb/>
+was I, then, momentarily tongue-tied, probably due to the respect and awe which<lb/>
+the distinguished Major inspired in me, now all ears. While the silence appeared<lb/>
+to last for minutes, as a matter of fact it lasted only for seconds until I managed<lb/>
+to blurt out our mission there, having forgotten the few, but terse and to the<lb/>
+point, words I had been memorizing for the ordeal. The Major's surprise was<lb/>
+complete and so reflected in his countenance. He never expected such rapid-fire<lb/>
+action as confronted him, there and then, in the persons of two human guinea pigs.<lb/>
+I am sure he had his doubts on being able to line up any considerable number of<lb/>
+volunteers for his experiments.</p>
+<pb n="9" id="f02571009"/>
+<p>-9-</p>
+<p>The gleam in his eyes was eloquent of the pleasure and satisfaction he felt,<lb/>
+emphasized through the rubbing of the palms of his hands together, a habit of his<lb/>
+when pleased, as I afterwards learned when I could claim a certain intimacy with<lb/>
+him. He was about to speak when Kissinger, now grown bolder, forestalled him,<lb/>
+saying &ldquo;That is not all, Sir. We are volunteering without the bonus or money<lb/>
+award which we understand you are offering&rdquo;. Doubt clouded his face for a moment.<lb/>
+&ldquo;That is correct, Major,&rdquo; I managed to add. &ldquo;We are doing it for medical science&rdquo;,<lb/>
+later recorded as &ldquo;humanity and science&rdquo; and &ldquo;medical science and humanity&rdquo;. I<lb/>
+was principally interested in medical science, although not unaware of the human<lb/>
+aspect of whatever sacrifices might be in store for me. That was Surprise Number<lb/>
+2 for Major Walter Reed, Medical Corps, U. S. Army. He was frankly jubilant,<lb/>
+surprise giving place to elation. The gesture and words attributed to him later,<lb/>
+and fathered by him, did not take place at the time, viz: Standing at rigid attention<lb/>
+and raising his right hand to the visor of his cap, he said &ldquo;Gentlemen, I salute you&rdquo;.<lb/>
+In a quiet and modulated voice he informed us that we were gladly accepted for<lb/>
+the experiments and that we could elect between the &ldquo;Infected Clothing and the<lb/>
+&ldquo;Infected Mosquito&rdquo; tests. There and then, we both chose the mosquito test.</p>
+<p>Major Reed wanted no fatalities among his human guinea pigs, hence we would<lb/>
+be obliged to undergo a stiff physical examination to determine the existence or<lb/>
+non-existence of any organic weakness which might affect a maximum resistance to<lb/>
+that highly mortiferous scourge, yellow fever. His plans to use human guinea pigs<lb/>
+were very quietly prepared, premature publicity being carefully avoided, the<lb/>
+Major being duly mindful of the hue and cry which the anti-vivisectionists might<lb/>
+bring down on his innocent head and that of his chief in Washington, Surgeon<lb/>
+General George M. Sternberg of the Army. The anti-vivisectionists were a powerful<lb/>
+group in those days. Suppose a half dozen lives should be sacrificed in order to save<lb/>
+untold thousands, would not the series of experiments he planned be amply justified?<lb/>
+I, as one of the possible victims, was ready to affirm that they were.</p>
+<p>Encouraged by his initial success with Kissinger and myself, Dr. Ames found<lb/>
+rich soil for his missionary work in the Hospital Corps Detachment of 35 to 40<lb/>
+men stationed at the Post Hospital, a dozen or more falling in line for the<lb/>
+experiments. Two sets of experiments were to be carried out simultaneously at<lb/>
+Camp Lazear, then being prepared for our reception. At least twelve of the eighteen<lb/>
+volunteers whose names appear on the ROLL OF HONOR were members of the<lb/>
+Hospital Corps. Surely their moral bravery, with no headlines to exalt their<lb/>
+heroism, will favorably compare with the physical bravery of soldiers of the line.<lb/>
+Congress thought so, 29 years later, by the Act of February 28, 1929, under which<lb/>
+the names of the eighteen volunteers were placed on the Roll of Honor of the War<lb/>
+Department and published annually in the Official Army Register, &ldquo;defining in<lb/>
+appropriate language the part taken by each of these persons in the yellow fever<lb/>
+investigations in Cuba&rdquo;. Following is an example of those entries, copied from the<lb/>
+Army Register for 1947:</p>
+<pb n="10" id="f02571010"/>
+<p>-10-</p>
+<p>MORAN, JOHN J. B-Ireland 15 Mar. 76. Capt. Q.M.C.N.A.<lb/>
+27 May 18; hon. dis. 1 Oct. 19. -- pvt. and actg. hosp. stewd.<lb/>
+Hosp. Corps 3 July 97 to 2 July 00. B. C. S. Mount Hope<lb/>
+College 96.</p>
+<p>JOHN J. MORAN was employed as a clerk at the department<lb/>
+headquarters at Marianao, Cuba. He there did clerical work for<lb/>
+Major REED and became interested in the work of the Yellow<lb/>
+Fever Board. He and Kissinger were the first to volunteer for<lb/>
+the conclusive series of experiments at Camp Lazear. He was<lb/>
+bitten on November 26 and 29, by infected mosquitoes, but without<lb/>
+result. On December 21, 1900, he twice visited the infected<lb/>
+mosquito room, and again next day, and was repeatedly bitten.<lb/>
+On Christmas day he became ill, and suffered a well marked and<lb/>
+severe attack of yellow fever. MORAN refused to accept the bonus<lb/>
+which was given by the Governor of Cuba to each volunteer, stating<lb/>
+that he was glad to be able to do this service to humanity. He was<lb/>
+discharged from the service, July 2, 1900, with character excellent.<lb/>
+He served for some years at Panama during the construction of the<lb/>
+Canal, and was commissioned a captain in the United States Army<lb/>
+(Emergency Forces) during the World War.</p>
+<p>To the efforts of one man, more than all others combined, was due this belated<lb/>
+recognition for the four members of the Yellow Fever Board and the eighteen volun-<lb/>
+teers. That man is General Jefferson Randolph Kean, Medical Corps, U. S. Army,<lb/>
+(Retired), who unselfishly devoted himself to their cause, year in and year out,<lb/>
+over a period of twenty-five years, until the Act of February 29, 1929, became law.<lb/>
+That Act awarded each of the 22 men participating in the experiments a special gold<lb/>
+Medal of Honor, an annuity or gift of $1,500.00 for the rest of their natural lives,<lb/>
+extensive to the widows of those who had passed on. At the date this is being<lb/>
+written, three of the 22 are still alive, including the author, the other two being<lb/>
+Dr. Robert P. Cooke, of Virginia, and James L. Hanberry, of South Carolina.<lb/>
+The only change that has been made in the Register entries since 1930 has been<lb/>
+notation of date and place of death of those living at the time the ROLL OF HONOR<lb/>
+was first published. Which of the three survivors will make the entries permanent?<lb/>
+I, as one of the three, have no aspirations for that honor.</p>
+<p>On November 20, 1900, Camp Lazear was ready for occupancy. It was enclosed<lb/>
+by a barbed wire fence, having the double purpose of keeping intruders out and the<lb/>
+&ldquo;prisoners&rdquo; in, with a military guard to enforce the edict. To all intents and purposes<lb/>
+we were prisoners, my own sojourn there being exceptionally long, due to the fact<lb/>
+that I was being &ldquo;saved&rdquo; by Major Reed for his fool-proof test in the mosquito room<lb/>
+and its fifteen hungry insects, all infected. He had his doubts as to whether or not I<lb/>
+was naturally immune to yellow fever, based on no results from the two previous<lb/>
+efforts. Surely, he thought, there would be at least one insect among the fifteen<lb/>
+to lay me low. Time proved that he was right.</p>
+<pb n="11" id="f02571011"/>
+<p>-11-</p>
+<p>Had it not been that four or five hours daily of my time was devoted to typing<lb/>
+papers, reports and letters for Major Reed, life at Camp Lazear for me would have<lb/>
+been much more monotonous during those 35 days on that isolated farm, with no<lb/>
+house in sight, no visitors except Major Reed and his two living associates, with<lb/>
+an occasional, privileged, visitor of his profession, among whom I recall Dr. Finlay<lb/>
+who had for a dozen years or more vainly endeavored to prove to the medical world<lb/>
+that his pet mosquito was the culprit in the spread of yellow fever, only to be<lb/>
+ridiculed by his Cuban colleagues and the medical fraternity in general. In less<lb/>
+than two months Major Reed converted his theory into a reality. I think the following<lb/>
+few words of Dr. Goldberger, of the U. S. Public Health Service, fittingly and<lb/>
+eloquently sum up the joint venture of Finlay and Reed:</p>
+<p>&ldquo;The work of Walter Reed converted<lb/>
+a discredited hypothesis into<lb/>
+an established doctrine&rdquo;</p>
+<p>The Hammond typewriter was the Army's standard in those days. Then, as today,<lb/>
+I typed with my two index fingers, the rest being all thumbs. At that I could turn<lb/>
+out good copy, although at times I tore up a whole sheet because it did not come up<lb/>
+to my own standard of neatness and perfection. Major Reed once surprised me<lb/>
+tearing up a whole sheet of a paper on yellow fever, telling me that perfection was<lb/>
+next to impossible on a machine. I copied from his longhand draft, never lacking<lb/>
+commas and dots, in addition to being perfectly legible. I knew my man was a<lb/>
+stickler for neatness but at the same time he was tolerant. A few words of praise<lb/>
+from him, for a task well done, more than compensated for the additional time and<lb/>
+trouble of retyping a sheet showing evidence of erasing. Such light office duties<lb/>
+allowed me ample time for reading and sitting in, from time to time, at the continuous<lb/>
+and inevitable game of poker which has always played a part in the leisure hours of<lb/>
+a soldier. The camp personnel and the guinea pigs had much time to kill during my<lb/>
+stay there, the latter having no duties to perform whatsoever, except to eat and<lb/>
+sleep. Such chores as they elected to assist on was altogether voluntary.</p>
+<p>Although Camp Lazear boasted of a respectable number of tents and a storehouse<lb/>
+for supplies, its existence and interest revolved around two little frame buildings,<lb/>
+each 20 by 14 feet, known as &ldquo;Building No. 1&rdquo; and &ldquo;Building No. 2&rdquo;, the former<lb/>
+being adapted for the &ldquo;Infected Clothing&rdquo; tests and the latter for the &ldquo;Infected<lb/>
+Mosquito&rdquo; tests. Did any of the human guinea pigs think, or even dream, that they<lb/>
+were actors in an episode that was destined to become a milestone in preventitive<lb/>
+medicine and medical history? I do not think so. Major Reed and his associates,<lb/>
+being men of science and mature in years, no doubt realized it. With one exception,<lb/>
+we were all under 30 years of age and the exception (Hildebrand) was rejected by<lb/>
+Major Reed for the mosquito test because he was much older than the other volunteers.<lb/>
+Hildebrand had taken the infected clothing tests but remained hale and hearty. He<lb/>
+could have called it a day, as two of his companions did, but he wanted to have the<lb/>
+<pb n="12" id="f02571012"/>
+-12-<lb/>
+real thing. He was one of the men who helped to prove that the burning of infected<lb/>
+bedding and clothing had not, in reality, the least value in combating yellow fever,<lb/>
+up to that time considered a contagious disease. The first trio, Dr. Cooke, Folk and<lb/>
+Jernegan, to sleep 20 nights in Building No. 1 on sheets, pillow slips and convalescent<lb/>
+suits used and worn by severe and fatal cases of yellow fever, some of which were<lb/>
+saturated with &ldquo;black vomit&rdquo;, knocked that hitherto accepted theory into a cocked<lb/>
+hat for all time. What a disappointment to those who, up to the eleventh hour,<lb/>
+tried to ridicule and discredit the mosquito theory!</p>
+<p>Even during the experiments at Camp Lazear and the successful inoculation of<lb/>
+Kissinger, via the mosquito route, the most bitter opponents of the mosquito theory<lb/>
+were the doctors of the U. S. Public Health &amp; Marine Hospital Service on duty in<lb/>
+Havana, ably seconded by their chief in Washington, Surgeon General Walter Wyman.<lb/>
+They made every effort to torpedo Major Reed's plans and to have pressure brought<lb/>
+to bear on Reed in Cuba, the Surgeon General of the Army, to the end of calling a<lb/>
+halt on his plans for experimentation at the proposed Camp Lazear. They had been<lb/>
+so saturated for years in the conviction that yellow fever was a contagious disease<lb/>
+that an insect carrier could find no place in their imagination. Thanks to General<lb/>
+Wood, the Military Governor of Cuba, a captain in the Medical Corps of the Army<lb/>
+prior to the outbreak of the Spanish War, Major Reed was armed with the means to<lb/>
+carry out his plans, General Wood supplying $10,000.00 from Insular Funds, as<lb/>
+an initial appropriation, with promise of more, for camp equipment and other necessary<lb/>
+expenses, including bonuses or money awards for the human guinea pigs. Worthy<lb/>
+of mention as an outstanding exception among his colleagues of the Public Health<lb/>
+Service was Major Henry R. Carter, later Director of Hospitals on the Panama<lb/>
+Canal, under Colonel Gorgas. Unlike the latter, and others of the Public Health<lb/>
+Service, Major Carter was as keen for the mosquito theory as were Doctors Reed<lb/>
+and Lazear. He was the kind of man whose opinion could not be stilled through<lb/>
+&ldquo;orders from higher up&rdquo;, a man with an open mind.</p>
+<p>I became aware of the fight carried on against General Sternberg and Major<lb/>
+Reed through letters I had written for the latter to his chief. I did not need to<lb/>
+see the letters written by the General to his subordinate, the Major's replies to<lb/>
+them bearing eloquent testimony as to the nature and extent of the underground<lb/>
+attack being made against them. I was honor bound to respect the confidential<lb/>
+nature of so much of the correspondence as was entrusted to me. Now, that 48<lb/>
+years have gone by and with death having claimed the principal actors in the drama,<lb/>
+I feel at liberty to divulge the confidence and trust placed in me by Major Reed.<lb/>
+But few knew at the time the bitterness of the attacks which tacit acceptance of the<lb/>
+mosquito theory had set in motion.</p>
+<p>Major Reed's plans were as near fool-proof as possible. He was well aware<lb/>
+that the skeptics would leave no stone unturned to discredit the experiments and<lb/>
+that any loophole would be sure to subject his findings to attack. His every move,<lb/>
+therefore, was cautiously made, leaving nothing to chance, not alone because of the<lb/>
+<pb n="13" id="f02571013"/>
+-13-<lb/>
+skeptics but for his own satisfaction. Genial and God-fearing man that he was,<lb/>
+he was none the less a cool and calculating scientist. In my own case he meditated<lb/>
+on natural immunity to yellow fever and the no results following the mosquito bites<lb/>
+of November 26th and 29th, respectively. At that time, dates of biting and stage<lb/>
+of the disease were fine points yet to be arrived at, including period of incubation.</p>
+<p>When Major Reed terminated his mission in Cuba, on or about February 15,<lb/>
+1901, the following conclusions became part of his findings: Feeding of the mosquito<lb/>
+on a case of yellow fever had to take place during the first three or four days of the<lb/>
+attack. The mosquito so infected could not transmit the disease to a non-immune<lb/>
+until twelve to fourteen days thereafter, during which period the yellow fever virus<lb/>
+or germ was incubating within the insect. After that period the insect would be a<lb/>
+menace to every non-immune while it lived, and mosquitoes were known to have<lb/>
+lived as long as 80 days, under favorable conditions, such as temperature and<lb/>
+feeding. Such infected mosquitoes could silently carry death to untold numbers<lb/>
+throughout their life cycle. The yellow fever carrier is inderently a domestic insect,<lb/>
+usually doing its feeding in the dark and biding its time until the victim is wrapped<lb/>
+in the arms of Morpheus, seeing not being one of the senses essential to its existence.<lb/>
+Its only fatal weakness is that of overloading on human blood, if not disturbed,<lb/>
+sometimes indulged in almost to the bursting point, thus making it indolent and an<lb/>
+easy prey to a slap from its victim. It is entirely possible that one or more of<lb/>
+the mosquitoes which bit me in November &ldquo;ripened&rdquo; or matured some days later<lb/>
+on, thus reaching the infectious stage. I did not follow them through to the end of<lb/>
+their careers, nor have I been able to discover their subsequent activities in<lb/>
+Major Reed's records. I have a keen recollection, however, that their performance<lb/>
+on me was a disappointment to Major Reed and myself, happily overcome when<lb/>
+fifteen of their tribe gave me yellow fever as a Christmas gift in the last days of<lb/>
+the 19th Century.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

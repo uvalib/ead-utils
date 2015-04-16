@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0321027">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Laura Armistead Carter to Wade Hampton Frost, October 25, 1928</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Laura Armistead</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0321027</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1928-10-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Frost, Wade Hampton</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Bacot, A.</name>
+<name type="person">Brown, Grace</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Noble, Robert E.</name>
+<name type="person">McGregor, Malcolm</name>
+<name type="person">Fowler, J. K.</name>
+<name type="person">Churchill, Awnsham</name>
+<name type="person">Churchill, James</name>
+<name type="person">Morley, Sylvanus Griswold</name>
+<name type="person">Howard, L. O.</name>
+<name type="person">Frost, Susan Haxall</name>
+<name type="person">Parrish, Susan Frost</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Newark (N.J.)</name>
+<name type="place">Australia</name>
+<name type="place">Johns Hopkins School of Hygiene and Public Health (Baltimore, Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1928-10-25">October 25, 1928</date>
+<idno rend="suppress">C0321027</idno>
+<title>Letter from Laura Armistead Carter to Wade Hampton Frost, October 25, 1928</title>
+</bibl>
+</head>
+<p>Carter informs Frost about the aegypti mosquito eggs, her work tracking down references, and her desire to make sure all the references in the bibliography conform with one another for the History of Yellow Fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1928-10-25">
+<head>Letter from Laura Armistead Carter to Wade Hampton Frost, October 25, 1928</head>
+<pb n="1" id="fC0321027"/>
+<opener>
+See carbon of<lb/>
+of this letter as<lb/>
+rewritten<lb/>
+Book<lb/>
+Bibliography<lb/>
+Frost<lb/>
+<dateline>
+The Westmoreland,<lb/>
+2122 California St., N. W.<lb/>
+Washington, D. C.<lb/>
+<date value="1928-10-25">October 25, 1928.</date>
+</dateline><lb/>
+<salute>Dear Jack:</salute>
+</opener>
+<p>In reply to your letter of October 22<add><hi rend="superscript">nd</hi></add> I would state</p>
+<p>(1): That you are correct in your understanding <hi>re</hi> Bacot's<lb/>
+report viability of aegypti eggs after 8 months not being under pre-<lb/>
+cisely same circumstances as stated in our MS (i, <add>p. 12)</add>.<lb/>
+Miss Brown and I rewrote the Bacot cards, which are all taken <del>form</del><lb/>
+from the Fourth and Final Report of the British West African Com-<lb/>
+mission<del>.</del> <add>for which you have library card.</add> This <add>report</add> contains the &ldquo;Summary of Conclusions&rdquo; of the Third<lb/>
+Investigators report, containing results of Bacot's work on life<lb/>
+history &ldquo;Stegomyia fasciata&rdquo; from 1914 to 1916 (?) The Library of<lb/>
+the S. G. does not possess this Third Report, never received it. I <add>know this<lb/>
+from having</add> found correspondance between Father and Noble (when he was Librarian)<lb/>
+on the subject. We have then<add>,</add> copied from the Fourth and final re-<lb/>
+port<add>:</add> both the references <hi>re</hi> (i. p. 10) effect of soap on aegypti<lb/>
+larvae and (i. p. 12 (a and b) <unclear><add>(our bib. card)</add></unclear>) ) <hi>re</hi> viability aegypti eggs<add>:</add> <del>with:</del>(<hi>b</hi>)<lb/>
+account of the way in which they fi<del>an</del><add>na</add>lly reached Malcolm MacGregor.<lb/>
+We also made out a card for MacGregor (1915) giving his own account<lb/>
+of how the eggs came into his hands <add>(from sir James Fowler)</add></p>
+<p>Of course, we should have <hi>much</hi> preferred seing Bacot's origi-<lb/>
+nal report in vol. iii. Father did see it. He states this in his<lb/>
+correspondance with Gen. Noble. However, the S. G's Library can<lb/>
+give us no suggestions as to <add>how to</add> get a copy. Miss Brown, however, says<lb/>
+that the 1st. 2nd. and 4th. and final reports were presented to <del>h</del>the<lb/>
+S. G's Library by the Prudential Insurance Co. of America,<lb/>
+Newark, N. J.<lb/>
+and suggests that we might write them and see if they could tell us<lb/>
+<pb n="2" id="fC0321028"/>
+us<lb/>
+-2-<lb/>
+where we could see a copy, or that possibly they might lend us one<lb/>
+themselves. Do you think it is worth while? And, if so, wouldn't<lb/>
+they be more apt to lend it to you than to us? I'm not trying to<lb/>
+shirk writing letters <add>(</add>much as I hate 'em!<add>)</add> its just that one wants<lb/>
+to be sure of getting what one goes after.</p>
+<p>For the latter part of your paragraph <hi>re</hi> vol. iii <add>Investigators reports.</add> I don't think<lb/>
+its a different class of publication from the other reports as J. and <add>vols.</add><lb/>
+A. Churchill of London also published <add>the paper backed copies of</add> the Fourth and Final Report and<lb/>
+i and ii. These (i and ii) are also published in the Y. F. Bureau<lb/>
+Bulletins. I am enclosing data on the missing Investigators Report (v. iii)</p>
+<p>2): Would it be asking too much if, in the future, when you re-<lb/>
+turn bibliographic cards for further information, you have Miss Fred-<lb/>
+erick enclose <add>or send a copy of</add> the library card also; or else copy all data on library<lb/>
+card on the bibliographic card? It would save us a <hi>lot</hi> of time in<lb/>
+looking things up, <del><unclear>[unclear]</unclear></del> You see, on account of the time<lb/>
+element involved, we only put enough data on our bibliographic cards<lb/>
+to identify them with the library cards, and without the latter we<lb/>
+have to duplicate a good deal of our work</p>
+<p>3): I am enclosing library and bibliographic card for Father's<lb/>
+article read in Australia (1923). Haven't given<del><unclear>[unclear]</unclear></del> pagination <add>(Father's MS)</add> on bib-<lb/>
+liographic card as I assume you have it, and I would have to go through<lb/>
+the MS to find it. If you haven't it, of course, I'll be glad to get<lb/>
+it for you, but I assume you have a bibliographic card with the pagina-<lb/>
+tion.</p>
+<p>4): By the way, this is dealing in &ldquo;futures,&rdquo; but before the<lb/>
+bibliography <del>(library cards)</del> is typed, may Miss Brown and I please go<lb/>
+over <add>the library cards</add> with you? We are extremely anxious to do this both in<lb/>
+order to learn your wishes concerning certain of the cards and also to<lb/>
+<pb n="3" id="fC0321029"/>
+to<lb/>
+-2-<lb/>
+rewrite any that may not conform to a uniform order of proceedure.<lb/>
+Please don't think I'm getting &ldquo;set&rdquo; in my ways from my very small ex-<lb/>
+perience of working in libraries, and with librarians, but I'm sure<lb/>
+you agree with me that the &ldquo;manner&rdquo; as well as the &ldquo;matter&rdquo; counts, al-<lb/>
+though &ldquo;differing in degree.&rdquo;</p>
+<p>5): I am enclosing a note from Morley, in answer to my inquiry<lb/>
+<hi>re</hi> filling in our outline maps etc. Not very satisfactory, but better<lb/>
+than I had hoped, if he even gets someone else interested in part of the<lb/>
+work. No data on the bibliographic refs. I asked him for. However, we<lb/>
+got the one on the Book of the Jew ourselves.</p>
+<p>6): No news from L. O. Howard's librarian <hi>re</hi> the references she<lb/>
+asked me to turn over to her</p>
+<p>Don't hesitate to ask us to do anything in the world we can for<lb/>
+you. You've got the really hard part of the work and even the smallest<lb/>
+thing we can do to make it easier will be a privelege.</p>
+<p>With much love to the Susans,</p>
+<closer>
+<salute>Most truly yours,</salute>
+<signed>Laura A. Carter</signed>
+Enclosures.<lb/>
+Dr. Wade H. Frost,<lb/>
+School of Hygine and Public Health,<lb/>
+615 North Wolfe Street,<lb/>
+Baltimore, Md.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

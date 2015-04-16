@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302040">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from [Henry Rose Carter] to Frederick F. Russell, September 17, 1923</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302040</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-09-17</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Russell, Frederick F.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Stevenel, [s.n.]</name>
+<name type="place">Ivory Coast</name>
+<name type="place">Gulf of Guinea</name>
+<name type="place">West Africa</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1923-09-17">September 17, 1923</date>
+<idno rend="suppress">C0302040</idno>
+<title>Letter from [Henry Rose Carter] to Frederick F. Russell, September 17, 1923</title>
+</bibl>
+</head>
+<p>[Carter] thanks Russell for sending him a translation of an article by Stevenel about the spirochetosis observed in the Ivory Coast.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-09-17">
+<head>Letter from [Henry Rose Carter] to Frederick F. Russell, September 17, 1923</head>
+<pb n="1" id="fC0302040"/>
+<opener>
+<hi rend="underline">File</hi> I. H. B.<lb/>
+Africa<lb/>
+&sol;LC<lb/>
+<dateline>
+Badin Hospital,<lb/>
+Badin, N. C.,<lb/>
+<date value="1923-09-17">September 17, 1923.</date>
+</dateline><lb/>
+Dr. F. F. Russell, General Director,<lb/>
+International Health Board,<lb/>
+61 Broadway, New York, N. Y.<lb/>
+<salute>Dear Doctor Russell:</salute>
+</opener>
+<p>I want to thank you for the translation of <xref id="C0302041">Stevenel's article</xref><lb/>
+on the spirochetosis observed on the Upper Ivory Coast (Gulf of Gui-<lb/>
+nea).</p>
+<p>While his histories are not given very fully. I would have<lb/>
+been inclined to regard yellow fever as a not improbable diagnosis.I<lb/>
+am inclined to doubt if anyone trained solely in the Americas can be<lb/>
+depended on for the differential diagnosis of yellow fever from some of<lb/>
+the spirochetal diseases reported from West Africa simply from clinical<lb/>
+history. <add>He might not even if he saw the cases</add> I wonder is it possible that the spirochete found is L. ic-<lb/>
+teroides, though one does not like to suggest the presence of aegypti<lb/>
+when the reporter failed to find them.</p>
+<p>By the way is 20 spirochetes in one field a &ldquo;small number?&rdquo;</p>
+<p>I hope and expect to be able to return to Washington about the<lb/>
+end of the month and shall be extremely glad to see you any time after<lb/>
+my return when you happen to be in Washington.</p>
+<closer>
+<salute>Very truly yours,</salute>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

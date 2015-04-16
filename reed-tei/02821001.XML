@@ -1,0 +1,1065 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02821001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Public Health Papers and Reports Volume XXXI Part 1 Presented at the Thirty-third Annual Meeting of the American Public Health Association, Boston, Massachusetts, September 25-29, 1905</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02821001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1905-09-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Carroll, James</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Liceaga, Eduardo</name>
+<name type="place">Boston (Mass.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>23 pp.</extent>
+<date value="1905-09-25">September 25, 1905</date>
+<idno rend="suppress">02821001</idno>
+<title>Public Health Papers and Reports Volume XXXI Part 1 Presented at the Thirty-third Annual Meeting of the American Public Health Association, Boston, Massachusetts, September 25-29, 1905</title>
+</bibl>
+</head>
+<p>Proceedings of the 31<hi rend="superscript">st</hi> meeting of the American Public Health Association, including &ldquo;Lessons to be Learned from the Present Outbreak of Yellow Fever in Louisiana&rdquo; by James Carroll, &ldquo;Some New Points in the Etiology and Symptomatology of Yellow Fever&rdquo; by Juan Guiteras, &ldquo;Yellow Fever in Mexico&rdquo; by Eduardo Liceaga, and the &ldquo;Official Report of the Proceedings....&rdquo;.</p>
+</div1>
+<div1 type="book">
+<p></p>
+</div1>
+<pb n="i" id="f02821001"/>
+<titlePage> 
+<docTitle> 
+<titlePart>PUBLIC HEALTH<lb/>
+PAPERS AND REPORTS<lb/>
+VOLUME XXXI<lb/>
+PART I<lb/>
+LIBRARY<lb/>
+<unclear>Indexed</unclear><lb/>
+S. G. O.</titlePart> 
+</docTitle> 
+<byline>PRESENTED AT THE THIRTY-THIRD ANNUAL MEETING OF THE<lb/>
+American<lb/>
+Public Health Association<lb/>
+BOSTON, MASSACHUSETTS</byline>
+<docDate>SEPTEMBER 25, 26, 27, 28, 29<lb/>
+1905<lb/>
+LIBRARY<lb/>
+SURGEON GENERAL'S OFFICE<lb/>
+MAY-31-<unclear>1905.</unclear><lb/>
+-----------<lb/>
+193138.</docDate>
+<docImprint>COLUMBUS, OHIO:<lb/>
+PRESS OF F. J. HEER<lb/>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div1 type="chapter" n="1">
+<head>LESSONS TO BE LEARNED FROM THE PRESENT OUT-<lb/>
+BREAK OF YELLOW FEVER IN LOUISIANA.</head>
+<pb n="272" id="f02821002"/>
+<byline>BY <docAuthor>JAMES CARROLL</docAuthor>, ASSISTANT SURGEON, U. S. ARMY, WASHINGTON, D. C.</byline>
+<p>&check;</p>
+<p>The present seems to be a suitable occasion to invite attention to<lb/>
+several points in connection with the epidemic occurrence of yellow<lb/>
+fever in the United States at the present as well as at other times. In<lb/>
+the discussion of the symposium on yellow fever at the meeting of the<lb/>
+Association in Washington, in 1903, the writer called attention<hi rend="superscript">1</hi> to the<lb/>
+necessity during the epidemic season for requiring physicians, in cities<lb/>
+where yellow fever is prevailing or likely to prevail, to report promptly<lb/>
+to the authorities all cases of fever of any kind, coming to their notice.<lb/>
+This is necessary in order that there may be no delay in the institution<lb/>
+of proper measures to protect the community against extension of the<lb/>
+disease if it be yellow fever, for this extension will almost surely take<lb/>
+place in the more southern latitudes if the patients are not protected<lb/>
+from mosquitoes at the outset. If all cases of undetermined fever were<lb/>
+promptly reported and at once protected from mosquitoes<hi rend="superscript">2</hi> it would<lb/>
+hardly be possible for the disease to spread if it were yellow fever; on<lb/>
+the other hand, where the physician waits for the appearance of black<lb/>
+vomit the golden opportunity passes by, for it has been shown that in<lb/>
+practically all cases the disease cannot be communicated after the fourth<lb/>
+day of the fever. For this reason the diagnosis should be anticipated,<lb/>
+and all febrile patients should be immediately protected from mosqui-<lb/>
+toes until it is shown by actual demonstration that they are not cases<lb/>
+of this disease. Epidemics do not follow every introduction of yellow<lb/>
+fever; mosquitoes becoming infected may die before they bite a non-<lb/>
+immune, or the patients may happen to be treated in a locality free<lb/>
+from <hi rend="italic">Stegomyia</hi>. A group of cases of yellow fever occurring without<lb/>
+black vomit usually receives the designation <hi rend="italic">bilious remittent fever</hi>, a<lb/>
+diagnosis that should be erased from our text books. Bilious remit-<lb/>
+tent fever, acute in type and of short duration, appearing in the United<lb/>
+States, is yellow fever, and it should be so regarded. Bilious remittent<lb/>
+fever was formerly regarded as a type of malarial remittent, but that</p>
+<p>----------</p>
+<p><hi rend="superscript">1</hi>Report of the Proceedings of the American Public Health Association,<lb/>
+Vol. XXIX, p. 291.</p>
+<p>Since this paper was read, I have been informed by Dr. E. Liceaga, presi-<lb/>
+dent of the Superior Board of Health of Mexico, that the line of procedure<lb/>
+indicated is now being followed in his country.</p>
+<p>272</p>
+<pb n="273" id="f02821003"/>
+<p><hi rend="italic">YELLOW FEVER IN LOUISIANA</hi>.<lb/>
+273</p>
+<p>was before the use of the microscope was found to be necessary for a<lb/>
+positive diagnosis of malarial infection. We know now that malarial<lb/>
+fever is not a disease of cities, but of outlying districts, while the<lb/>
+bilious remittent fever, so-called, has been recorded in the cities, in<lb/>
+epidemic form, and in such intimate association with yellow fever that<lb/>
+by some, the diseases were declared identical, and by others, the latter<lb/>
+was said to be only a modification of the former. Most interesting<lb/>
+and important in this connection is the statement cited by La Roche<hi rend="superscript">3</hi><lb/>
+in his chapter on bilious remittent fever, that &ldquo;The morbid appearances<lb/>
+revealed on dissection are the same in remittent as in yellow fevers.&rdquo;<lb/>
+This statement, however, was not wholly accepted by him, for he calls<lb/>
+attention to the bronzed appearance of the liver in certain remittents,<lb/>
+a condition that we know results only from malarial pigmentation.<lb/>
+Now that we can so easily differentiate malarial remittent and typhoid<lb/>
+fevers from yellow fever the diagnosis is much less difficult, except<lb/>
+where yellow fever occurs as a complicating infection.</p>
+<p>Our confreres in Havana have demonstrated to us that it is possible<lb/>
+to prevent the epidemic occurrence of yellow fever, even while occa-<lb/>
+sionally admitting cases of the disease into the heart of a city in which<lb/>
+the climatic and other conditions are known to be most favorable for<lb/>
+its extension in epidemic form, and in which there are more susceptible<lb/>
+persons now than ever before. The method suggested here is in many<lb/>
+respects similar to, and is based upon, the one adopted during the<lb/>
+American occupation of Havana.</p>
+<p>Since then it has been sufficiently demonstrated in 1903 and again in<lb/>
+1905, that under the lax system heretofore and now in vogue, yellow<lb/>
+fever can easily secure a firm foothold in certain of the southern states<lb/>
+and escape recognition until it has passed almost completely beyond<lb/>
+control. On both the occasions cited the outbreak was suppressed or<lb/>
+limited only by the intervention of the general government, which<lb/>
+through the energetic action of the United States Public Health and<lb/>
+Marine Hospital Service, finally succeeded in checking two epidemics<lb/>
+that threatened to become little less than national calamities. Great<lb/>
+credit is due to those officials for the success that was attained in spite<lb/>
+of the extreme delicacy of the situation and the passive opposition<lb/>
+encountered from many quarters.</p>
+<p>Our experiences in Cuba have shown that for the exclusion and sup-<lb/>
+pression of yellow fever absolute hygienic control is necessary, not<lb/>
+only of the people at large but of the patients as well, and especially<lb/>
+of the practicing physicians. The aim of modern medicine is the pre-</p>
+<p>----------</p>
+<p><hi rend="superscript">3</hi> Yellow Fever, La Roche, Philadelphia, 1855, Vol. 1, p. 590.</p>
+<p>18</p>
+<pb n="274" id="f02821004"/>
+<p>274<lb/>
+<hi rend="italic">YELLOW FEVER IN LOUISIANA</hi>.</p>
+<p>vention of disease rather than its cure, and the safety and welfare of<lb/>
+the thousands of persons exposed demand that the proper measures be<lb/>
+instituted and rigidly enforced. No valid argument can be brought<lb/>
+forward to show why the United States should not be kept as free from<lb/>
+outbreaks of yellow fever as the city of Havana, its former endemic<lb/>
+home, has been, during the past four years.</p>
+<p>To attain this result the following requirements seem to be essential:</p>
+<p>
+<list type="ordered">
+<item>1. Our physicians, or at least those who are in control, must disa-<lb/>
+buse their minds of the impression that black vomit necessarily occurs<lb/>
+in the majority of cases of yellow fever.</item>
+<item>2. During the epidemic season, viz.: from May 1 to October 31, and<lb/>
+in the epidemic zone, physicians should be required to report to the<lb/>
+health authorities, immediately, all cases of fever of any kind that<lb/>
+come under their observation, whether among their patients or not, and<lb/>
+failure to do so should be made punishable under the law.</item>
+<item>3. The board of health should be authorized to appoint, with proper<lb/>
+compensation, a commission of three experts, all of whom should be<lb/>
+men of high reputation as diagnosticians. It should be the duty of this<lb/>
+commission to visit without delay all cases of fever reported to the<lb/>
+health authorities, and the onus of diagnosis should rest upon the com-<lb/>
+mission and not upon the attending physicians. They (the commis-<lb/>
+sion) should visit each patient daily until the diagnosis is established<lb/>
+or the patient sent to a hospital, and they should forward promptly<lb/>
+to the health department a written report at each visit. The commission<lb/>
+should determine whether or not the patient shall be treated as a possi-<lb/>
+ble case of yellow fever and their decision should be final and obligatory<lb/>
+upon all concerned.</item>
+<item>4. All patients presenting the symptoms of yellow fever, and all<lb/>
+cases not diagnosed but remaining under suspicion, should be promptly<lb/>
+removed for treatment to a hospital especially located and provided<lb/>
+with wire screens and mosquito nets, and the whole or a portion of<lb/>
+which has been set apart for that purpose. The yellow fever wards<lb/>
+or hospital should be under the direct control of the senior diagnosis<lb/>
+commission and the patients should be treated by physicians appointed<lb/>
+only on their recommendation and acting under their direction.</item>
+<item>5. In exceptional cases, to be determined by the commission, patients<lb/>
+under observation awaiting diagnosis could be treated in their homes<lb/>
+beneath mosquito netting, and in rooms properly protected with wire<lb/>
+screens, until the nature of the case had been finally settled to the sat-<lb/>
+isfaction of the commission.</item>
+</list>
+</p>
+<p>The commission and not the attending physician should be held re-<lb/>
+sponsible for the enforcement of all clinical measures necessary for the<lb/>
+<pb n="275" id="f02821005"/>
+<hi rend="italic">YELLOW FEVER IN LOUISIANA</hi>.<lb/>
+275<lb/>
+protection of the community, and they should be empowered to employ<lb/>
+such help as seemed in their judgment to be required. They should<lb/>
+also be assisted at times by sub-commissions appointed on their rec-<lb/>
+ommendation.</p>
+<p>Under such a system, conscientiously carried out, the occurrence of<lb/>
+an epidemic of yellow fever in any city would become an impossibility.<lb/>
+Objection cannot be made on the ground of expense if the members of<lb/>
+the diagnosis commission are paid only for every visit to a patient;<lb/>
+under such an arrangement the cost to the city would be trifling when<lb/>
+compared with the losses now sustained by individuals and the whole<lb/>
+community through the failure of practicing physicians to recognize<lb/>
+and report mild cases of the disease. And herein lies the crucial point.<lb/>
+The diagnosis must be anticipated and the proper precautionary meas-<lb/>
+ures be taken before the disease has fully declared itself. Diagno-<lb/>
+ses of malarial remittent, and above all of bilious remittent fever,<lb/>
+must not be accepted as conclusive until the presence of malarial<lb/>
+or other parasites has been demonstrated to the satisfaction of the<lb/>
+members of the diagnosis commission. Attention was called two<lb/>
+years ago<hi rend="superscript">4</hi> to the fact that over and over again, since the time of<lb/>
+Benjamin Rush, yellow fever has stalked abroad in our cities, un-<lb/>
+recognized, under the guise of bilious remittent fever. The time<lb/>
+has come when a diagnosis of bilious remittent fever should no longer<lb/>
+be accepted for there is no such disease <hi rend="italic">per se</hi>. We may have mala-<lb/>
+rial fever complicated with jaundice, but this should not change<lb/>
+the diagnosis of malaria any more than an accompanying icterus would<lb/>
+change a diagnosis of typhiod fever. Similarly, a complication of mala-<lb/>
+ria no longer justifies the diagnosis of typho-malarial fever, and that<lb/>
+term has properly been discarded. In numerous instances it is stated in<lb/>
+the records of the older epidemics of yellow fever that the disease was<lb/>
+preceded by, or began as, a bilious remittent fever, just as in more<lb/>
+recent times physicians have believed that typhoid fever began as<lb/>
+malarial fever. The conclusion is equally untenable in both cases, and<lb/>
+the deduction is obvious that cases of so-called bilious remittent fever<lb/>
+must be regarded and treated as cases of yellow fever, unless a satis-<lb/>
+factory specific cause for the condition can be demonstrated beyond a<lb/>
+doubt. It is proper to mention here, that in every one of the twenty-<lb/>
+two cases of yellow fever purposely inoculated by the Army Board in<lb/>
+Cuba, a diagnosis of bilious remittent fever would have been justified<lb/>
+if it had not been known that they were produced from true cases of</p>
+<p>----------</p>
+<p><hi rend="superscript">4</hi> Journal of the Association of Military Surgeons, 1903, (No. 4), Vol. XIII,<lb/>
+pp. 193, 199 and 200.</p>
+<pb n="276" id="f02821006"/>
+<p>276<lb/>
+<hi rend="italic">YELLOW FEVER IN LOUISIANA</hi>.</p>
+<p>yellow fever, for, although some of them were severe, black vomit was<lb/>
+absent from all.</p>
+<p>It may seem unnecessarily severe to require physicians, under pen-<lb/>
+alty, to report all cases of fever coming under their observation, but no<lb/>
+other means will attain the desired results, and the enormous interests<lb/>
+at stake demand that the methods instituted be thorough and that they<lb/>
+be rigidly carried out. The appointment of a board of diagnosis as has<lb/>
+been suggested will relieve the attending physician from the odium that<lb/>
+accompanies a diagnosis of yellow fever in a doubtful case, and the<lb/>
+board, fully appreciating the responsibility that rests upon them, may<lb/>
+be relied upon to do their duty. During the discussion upon yellow<lb/>
+fever before this Association at its meeting in Washington, two years<lb/>
+ago, already referred to, in my remarks, which were badly misquoted,<hi rend="superscript">5</hi><lb/>
+I urged the necessity for requiring physicians, under a penalty, to re-<lb/>
+port all cases of fever in order that they might be examined by a board<lb/>
+of experts (as was done in Cuba), and treated as cases of yellow fever<lb/>
+until the diagnosis was established. Only last month in a conversa-<lb/>
+tion upon this subject with a physician from a large city in Texas, he<lb/>
+laughingly remarked. &ldquo;We never report our cases of yellow fever until<lb/>
+we have about a dozen of them!&rdquo;</p>
+<p>The present epidemic in and about New Orleans only serves to em-<lb/>
+phasize the necessity for such regulations as are here suggested, and<lb/>
+this necessity is further emphasized by the statement in the public press<lb/>
+of September 5, that &ldquo;Inspector Brady attributed the continued spread<lb/>
+of the disease to the unwillingness or inability of physicians to diagnose<lb/>
+mild cases of yellow fever, and that physicians of standing and ability<lb/>
+look for black vomit before making a diagnosis.&rdquo; I have elsewhere<hi rend="superscript">6</hi><lb/>
+cited the occurrence of the same difficulty at Key West in 1899, and<lb/>
+I again assert that these physicians may be thoroughly conscientious<lb/>
+and able men, but they are baffled by the differences between the aspects<lb/>
+of the disease as they actually find it and as they have been taught by<lb/>
+the best authorities to expect to find it. It is the manifest duty of local<lb/>
+health authorities therefore to relieve the physician of the burden of<lb/>
+diagnosis and to leave that and the adoption of protective measures<lb/>
+to the board of expert diagnosticians.</p>
+<p>In this connection I beg to be permitted to call attention to the pres-<lb/>
+ent situation at Jackson Barracks, a station of two batteries of coast<lb/>
+artillery, in New Orleans. By the 7th day of the present month a</p>
+<p>----------</p>
+<p><hi rend="superscript">5</hi> Reports of the Proceedings of American Public Health Association, Vol.<lb/>
+XXIX, 1904, p. 291.</p>
+<p><hi rend="superscript">6</hi> Journal of the Association of Military Surgeons, 1903, Vol. XIII, No.<lb/>
+4, p. 201.</p>
+<pb n="277" id="f02821007"/>
+<p><hi rend="italic">YELLOW FEVER IN LOUISIANA</hi>.<lb/>
+277</p>
+<p>number of cases of yellow fever had appeared in the neighborhood and<lb/>
+seven of them in a block that approached within one hundred feet of<lb/>
+the officers' quarters. Still the garrison has not been removed and up<lb/>
+to the present time no single case has occurred among them; even<lb/>
+should a case or two appear an epidemic is not feared. The reason<lb/>
+for this is simply that the medical officers know that it is absolutely<lb/>
+within their power to prevent any epidemic extension of the disease;<lb/>
+they are constantly on the alert and all cases of fever are handled in<lb/>
+the beginning as though they might be yellow fever.</p>
+<p>Again at Fort McIntosh, in Laredo, Texas, in 1903 there were only<lb/>
+five cases of yellow fever in a command of one hundred and eleven<lb/>
+officers and men, while in the town along side them over one thou-<lb/>
+sand cases and more than one hundred deaths occurred. It was found<lb/>
+that the five men who became infected had violated orders by visiting<lb/>
+the town at night without wearing the prescribed mosquito head-nets,<lb/>
+leather gauntlets and leggings.</p>
+<p>If, in the presence of cases of yellow fever among and around them,<lb/>
+garrisons of soldiers can be protected from the infection in anything<lb/>
+like epidemic form, it necessarily follows that the same measures and<lb/>
+the same degree of vigilance will protect a community, provided the<lb/>
+physicians do their full duty, and they are properly assisted by the<lb/>
+authorities. The subject is one involving the lives and interests of<lb/>
+thousands of innocent persons and the secret of success lies in eternal<lb/>
+vigilance with the determination to allow no case, however mild and<lb/>
+doubtful, to escape the fullest precautions.</p>
+</div1>
+<div1 type="chapter" n="2">
+<head>SOME NEW POINTS IN THE ETIOLOGY AND SYMPTOM-<lb/>
+ATOLOGY OF YELLOW FEVER.</head>
+<pb n="278" id="f02821008"/>
+<byline>BY <docAuthor>JUAN GUITERAS</docAuthor>, M. D., HAVANA, CUBA.</byline>
+<p>Proc Am Pub H. A 33 meet<lb/>
+Boston Sept 1905</p>
+<p>&check;</p>
+<p>MR. PRESIDENT AND MEMBERS OF THE ASSOCIATION: -- I am very<lb/>
+sorry that I have not a carefully prepared paper to present to the Asso-<lb/>
+ciation; but my duties in New Orleans, Pensacola, and through the<lb/>
+South, have prevented me. I can therefore only put together some<lb/>
+rather desultory remarks concerning new points that have been brought<lb/>
+out in the struggle with yellow fever during the present year or by<lb/>
+investigators in distant parts.</p>
+<p>The French Commission from the Pasteur Institute, working in Rio<lb/>
+Janeiro, report that they have produced a case of yellow fever by<lb/>
+applying to a non-immune a mosquito that had been raised from eggs<lb/>
+laid by an infected mosquito. This brings up the question of the<lb/>
+transmission of yellow fever by the progeny of infected mosquitoes.<lb/>
+This is entirely a new point and of great interest, as you may well<lb/>
+imagine. We thought that we had settled this matter in Havana in<lb/>
+the negative. Dr. Carroll, speaking for the American Commission,<lb/>
+and myself, speaking for the work I did at Las Animas Hospital, came<lb/>
+to the conclusion that this was not so, that is, that an infected mosquito<lb/>
+did not transmit infection to its progeny through the eggs. Though<lb/>
+neither the American Commission nor myself carried out any special<lb/>
+experiments in this direction, our experience, however, in the course<lb/>
+of other experiments shows that the mosquitoes raised from infected<lb/>
+insects were inoffensive. As a matter of fact, the majority of the<lb/>
+mosquitoes we had to deal with, all the <hi rend="italic">Stegomyias</hi> which we worked<lb/>
+with in the laboratory at Las Animas Hospital were the progeny of<lb/>
+infected mosquitoes. We started with infected mosquitoes and raised<lb/>
+generation after generation from them. These were constantly fed by<lb/>
+non-immune persons, by assistants in the laboratory, and by several<lb/>
+men I had there ready to be bitten by mosquitoes. They were all non-<lb/>
+immunes. We did not take any special note of this fact, but, in a<lb/>
+general way, we were impressed with the non-transmissibility of the<lb/>
+disease through the eggs to the progeny. There is, then, experimental<lb/>
+proof of some value against the views of Marchoux and Simond, of<lb/>
+the French Commission. Furthermore, these gentlemen have had<lb/>
+positive results in one case alone, and, as they were working in infected<lb/>
+278<lb/>
+<pb n="279" id="f02821009"/>
+<hi rend="italic">ETIOLOGY AND SYMPTOMATOLOGY OF YELLOW FEVER</hi>.<lb/>
+279<lb/>
+territory, it is quite possible that this man was bitten accidentally by an<lb/>
+infected mosquito. There is another argument which I believe is of<lb/>
+great importance against the transmission of the disease by the pro-<lb/>
+geny. It seems to me it would have been really impossible for us to<lb/>
+have eradicated yellow fever as we did in Havana if the views of<lb/>
+Marchoux were correct. During the memorable campaign in that<lb/>
+city the cases were quite often not seen until the second or third day of<lb/>
+the disease, so that they surely had the opportunity of laying eggs<lb/>
+before being killed; and the infected mosquitoes that were actually<lb/>
+producing infections, they were laying eggs with but little hindrance,<lb/>
+for, it must be remembered, that during that campaign the reduction<lb/>
+in the number of <hi rend="italic">Stegomyias</hi> in the city was scarcely appreciable.<lb/>
+Really, if the French Commission be right, the problem becomes appall-<lb/>
+ing, impossible of solution. We got rid of yellow fever in Havana<lb/>
+very easily, and at little expense comparatively; this would have been,<lb/>
+it appears to me, impossible if the progeny of infected mosquitoes had<lb/>
+been also infected.</p>
+<p>Another interesting point to which Marchoux and Simond, of the<lb/>
+Pasteur Institute, called attention is one that has already been studied<lb/>
+in this country. They seem to have ignored our work, or they are not<lb/>
+familiar with it. They believe they have discovered a new source of<lb/>
+infection of yellow fever in young children affected with mild forms of<lb/>
+the disease. This is old. Dr. Blair, of Guiana, a great student of yel-<lb/>
+low fever; Dr. Chaill&eacute;, of New Orleans, and myself, in Key West<lb/>
+and Havana, have shown previously that this was an important source<lb/>
+of infection of yellow fever; that there were a great many cases of<lb/>
+mild, unrecognized yellow fever amongst children; and that these were<lb/>
+frequently unsuspected sources of infection. In fact, it was a study of<lb/>
+this problem of yellow fever in young children in the yellow fever zone<lb/>
+that led me to call attention to and to insist upon the fact of the great<lb/>
+danger of mild cases of yellow fever. I have been insisting upon this<lb/>
+point for many years, not only in the case of young children but also in<lb/>
+adults, especially the colored population, who are apt to have mild<lb/>
+cases of the disease. These I have always considered as the most dan-<lb/>
+gerous transmitters of the infection.</p>
+<p>I shall now take up some new diagnostic signs of yellow fever.<lb/>
+We are all convinced of the importance of an early diagnosis of<lb/>
+yellow fever, and I wish briefly to call attention to points of interest<lb/>
+and of importance in enabling us to make an early diagnosis even in<lb/>
+mild cases of the disease; of course, acknowledging that there are<lb/>
+some cases in which an exact diagnosis is not possible, with our pres-<lb/>
+ent means, and without our knowledge of the parasite of the disease.<lb/>
+<pb n="280" id="f02821010"/>
+280<lb/>
+<hi rend="italic">ETIOLOGY AND SYMPTOMATOLOGY OF YELLOW FEVER</hi>.<lb/>
+These special symptoms we have brought out in recent work on yellow<lb/>
+fever in Cuba, and which have been confirmed in New Orleans, are:<lb/>
+In the first place, a high percentage of hemoglobin in the blood of yel-<lb/>
+low fever patients. That is a very important diagnostic sign of the<lb/>
+disease, especially as distinguishing it from typhoid fever, malaria and<lb/>
+influenza, three diseases that are frequently confounded with yellow<lb/>
+fever. In influenza, typhoid fever and malaria, the percentage of hem-<lb/>
+oglobin is low -- 70, 75, 80 perhaps. In yellow fever we have a high<lb/>
+percentage of hemoglobin, very often 100, sometimes above 100, during<lb/>
+the first three, four and five days of the disease, and rarely below 90.<lb/>
+If the percentage of hemoglobin should go below 80, and the case<lb/>
+should turn out to be one of yellow fever, we find almost always<lb/>
+some complication or the patient has been suffering previously from<lb/>
+malaria.</p>
+<p>Another diagnostic point has been of considerable help to me during<lb/>
+the present epidemic, especially in Florida, where we were confronted<lb/>
+with the existence of an epidemic of dengue, and where the question<lb/>
+came up quite frequently as to whether yellow fever was or was not<lb/>
+present. I refer to the diazo-reaction of Ehrlich. The diazo-reaction of<lb/>
+Ehrlich is an important diagnostic sign in typhoid fever in the first<lb/>
+days of the disease. It may be present in other infectious diseases,<lb/>
+but I doubt if it be ever present in uncomplicated yellow fever. On<lb/>
+two occasions my mind has been completely relieved as to the exis-<lb/>
+tence of yellow fever during the past summer in the South by find-<lb/>
+ing the Ehrlich diazo-reaction in the urine. I was able from my ex-<lb/>
+perience in Havana to exclude at once yellow fever. The Ehrlich<lb/>
+reaction was found occasionally in severe cases of dengue.</p>
+<p>Another diagnostic point that I wish to refer to is the albuminuria.<lb/>
+We all know that albumin in the urine is a very characteristic symptom<lb/>
+of yellow fever, but our judgment should be careful as to the interpre-<lb/>
+tation that is to be given to the presence of albumin in the urine. After<lb/>
+a careful study in Havana of many kinds of fever, we have found that<lb/>
+albumin in the urine is more common in other acute infectious diseases<lb/>
+than we thought. Albumin in the urine is common in influenza; it is<lb/>
+quite common in typhoid fever; it is not so common, but is occasionally<lb/>
+found, in cases of malaria. Albumin is found in the urine in cases of<lb/>
+dengue. That is an important point. Some have been inclined to<lb/>
+think that as long as we find albumin in the urine we have yellow fever,<lb/>
+and not dengue.</p>
+<p>The special point I wish to bring out is that the quantity of albumin<lb/>
+in yellow fever is entirely out of proportion to the other symptoms<lb/>
+present.</p>
+<pb n="281" id="f02821011"/>
+<p><hi rend="italic">ETIOLOGY AND SYMPTOMATOLOGY OF YELLOW FEVER</hi>.<lb/>
+281</p>
+<p>Let us take up the question from the point of view of dengue, which<lb/>
+is perhaps the most interesting. If you have a patient taken sick, with<lb/>
+a temperature of 104 degrees or more, and if the high temperature<lb/>
+should persist for forty-eight hours or longer, you are very apt to find<lb/>
+some albumin in the urine in dengue. But in yellow fever such tem-<lb/>
+perature is indicative of severe infection. A temperature of 104<lb/>
+degrees, lasting over forty-eight hours, in yellow fever, means a very<lb/>
+grave case, perhaps a fatal case, and such a patient is sure to have a<lb/>
+large quantity of albumin in the urine and to be in a very critical con-<lb/>
+dition about the sixth day, when the case of dengue will be getting<lb/>
+well. A case of yellow fever beginning with such high temperatures<lb/>
+will present the characteristic symptoms in a pronounced manner.</p>
+<p>Let me say a few words in connection with the methods of disinfec-<lb/>
+tion that are being employed in New Orleans. From the beginning,<lb/>
+understand clearly that there is a fundamental distinction to be drawn<lb/>
+between the battle that is being fought in New Orleans and the battle<lb/>
+that was fought in Havana. There is a fundamental difference between<lb/>
+the two problems, and it is this: In Havana we attacked yellow fever<lb/>
+at the beginning of the epidemic, a time when it should be attacked<lb/>
+always. We began our operations in February. In Havana we had<lb/>
+an epidemic of yellow fever, beginning every year in February and<lb/>
+increasing in March, April and May, to the full development in August<lb/>
+and September. In 1901 we began to attack this epidemic at the begin-<lb/>
+ning of February, when there were only two or three cases. On the<lb/>
+other hand, in New Orleans they began to attack the disease in the<lb/>
+midst of the epidemic. This has never been done successfully, namely,<lb/>
+to attack yellow fever and try to stop it in the midst of a great epidemic.<lb/>
+This has been done this year in New Orleans, and with wonderful suc-<lb/>
+cess. The epidemic has been checked; it has been brought to a stand-<lb/>
+still, although the authorities had to attack the epidemic under such<lb/>
+unfavorable conditions in the midst of a very large non-immune popu-<lb/>
+lation; probably the largest that was ever exposed to yellow fever<lb/>
+within the limits of a city. New measures were, therefore, necessary<lb/>
+to meet the circumstances and exigencies of the epidemic. In New<lb/>
+Orleans they have attempted to destroy all mosquitoes in the city.<lb/>
+They are fumigating all houses, whether they contain infected mos-<lb/>
+quitoes or not. Housewives have taken charge of this. It is perhaps<lb/>
+the only way to deal with the disease under the conditions prevailing<lb/>
+in New Orleans.</p>
+<p>In Havana, on the other hand, we did not fumigate any houses except<lb/>
+those that were infected, and those immediately adjoining. We ap-<lb/>
+plied the specific measures for the treatment of epidemics of yellow<lb/>
+<pb n="282" id="f02821012"/>
+282<lb/>
+<hi rend="italic">ETIOLOGY AND SYMPTOMATOLOGY OF YELLOW FEVER</hi>.<lb/>
+fever; we killed the infected mosquitoes, and no others; that is, mos-<lb/>
+quitoes about the patients and those which were supposed to have<lb/>
+bitten patients.</p>
+<p>Now, is it necessary to follow the example of New Orleans? I am<lb/>
+a little doubtful. I know that we are not able as yet to draw conclu-<lb/>
+sions, but I was rather impressed with the fact that the attempt to do<lb/>
+this great thing of disinfection of a city, of killing mosquitoes every-<lb/>
+where, rather weakened action against infected mosquitoes. A great<lb/>
+deal of energy was spent in fumigating the whole city that perhaps<lb/>
+might have been better employed if concentrated upon the infected<lb/>
+mosquitoes only.</p>
+<p>Another thing noticeable was that, after this great display of energy<lb/>
+it was rather discouraging to find that no immediate results followed.<lb/>
+The fever did not disappear rapidly. It was very discouraging, and<lb/>
+there was an inclination to cast some doubt on the efficacy of the mos-<lb/>
+quito doctrine. The final success, however, may justify the process.</p>
+<p>Another point to which I desire to call attention as new in the strug-<lb/>
+gle against yellow fever is the use of steam under high pressure for the<lb/>
+destruction of mosquitoes. That has not been used heretofore. The<lb/>
+method was suggested and carried out by Dr. Berry, of the Marine<lb/>
+Hospital Service. A fire engine was brought to the houses to be dis-<lb/>
+infected, and in certain places which were difficult to seal, as in court-<lb/>
+yards and in stairways, a jet of steam was thrown against the walls<lb/>
+and about the locality. In this way many insects were destroyed by<lb/>
+the direct action of the superheated steam and by the force of the<lb/>
+stream mechanically. That is an interesting departure.</p>
+<p>Coming to one of the suggestions that was made by Dr. Carroll, as<lb/>
+to the existence or appointment of a commission to make a diagnosis<lb/>
+of yellow fever, no more important suggestion can be made, and I<lb/>
+wish to speak decidedly in favor of it. It is the plan I adopted in<lb/>
+Havana during the American intervention. We had such a com-<lb/>
+mission then, and it is still in existence. This commission visits<lb/>
+all cases of suspicious disease, and the opinion of the commis-<lb/>
+sion is final as to whether a case is one of yellow fever or not.<lb/>
+There is, however, something more important than this commis-<lb/>
+sion, and that is the general education of the people. Take, for<lb/>
+instance, such a commission as Dr. Carroll wishes to have ap-<lb/>
+pointed. Do you know what would have happened in New Orleans<lb/>
+early this spring or this summer if there had been such a commission?<lb/>
+The commission would not have been called in to see the suspicious<lb/>
+cases. They would have been afraid to call it, because the people were<lb/>
+not properly educated. It is necessary to educate the people, so that<lb/>
+<pb n="283" id="f02821013"/>
+<hi rend="italic">ETIOLOGY AND SYMPTOMATOLOGY OF YELLOW FEVER</hi>.<lb/>
+283<lb/>
+the appearance of the first case of yellow fever may be reported at<lb/>
+once without causing any excitement. Then, and only then, will capital<lb/>
+cease to object to the timely reporting of cases of yellow fever.</p>
+<p>It is to be regretted that some commercial interests in the South have<lb/>
+thought that it was to their advantage to create the impression that<lb/>
+yellow fever had made its appearance in Havana. For a while they<lb/>
+succeeded in frightening Galveston and Mobile into quarantining<lb/>
+against Havana. It is a pity, because Havana stood as a great object<lb/>
+lesson to the South, and just when the South was beginning to believe<lb/>
+in and profit from this lesson these foolish people have raised a cloud<lb/>
+of doubt around the brilliant results that have been obtained, and are<lb/>
+obtaining, in Havana.</p>
+</div1>
+<div1 type="document" n="1905-09-25">
+<head>YELLOW FEVER IN MEXICO.</head>
+<pb n="284" id="f02821014"/>
+<byline>BY <docAuthor>DR. EDUARDO LICEAGA</docAuthor>, MEXICO CITY, MEXICO.</byline>
+<p>Proc Am Pub H. A. - 33 meet<lb/>
+Boston Sept 1905</p>
+<p>&check;</p>
+<p>As in former years, I come to give the Association an account of the<lb/>
+course which the yellow fever has taken in the Republic of Mexico<lb/>
+from the beginning of the year until the 31st of August, in order to<lb/>
+continue thus the report which I brought to the meeting which took<lb/>
+place in Havana in the month of January of the present year.</p>
+<p>Although at first sight it would seem useless to again present the<lb/>
+doctrine of the transmission of yellow fever, which has been accepted<lb/>
+by the scientific world, I believe myself obliged to do so, for upon that<lb/>
+doctrine is founded the procedure which we are following in Mexico<lb/>
+in order to do away with the disease.</p>
+<p>In order to transmit the yellow fever the concurrence of these three<lb/>
+elements is needed: a yellow fever patient; a mosquito of the genus<lb/>
+<hi rend="italic">Stegomyia</hi>, which bites the patient, and a person not immune to receive<lb/>
+the bite of the mosquito.</p>
+<p>The problem of fighting the yellow fever consist then, in separating<lb/>
+these three elements, and I am going to demonstrate the way in which<lb/>
+these problems are solved in Mexico.</p>
+<p>ISOLATION OF THE PATIENTS.</p>
+<p>In order to separate a patient, the first thing to know is that the<lb/>
+patient exists, and in order to find him we proceed in the following<lb/>
+manner: In each village where there is yellow fever or it is feared<lb/>
+that it will develop, we organize a <hi rend="italic">Sanitary Brigade</hi>. Some of its<lb/>
+members busy themselves in making a register of all the people who<lb/>
+are not immune and who live in the locality. In this register a note<lb/>
+is made of the age, sex, and nationality of each person and the place<lb/>
+of his residence. The Sanitary Agents who form part of this brigade,<lb/>
+divide the city or town, in which the fight is waged against yellow<lb/>
+fever in such a way as to be able to visit the non-immunes daily. When<lb/>
+one of these is found to have fever, whatever its origin may be, the<lb/>
+patient is separated immediately, being put in a room whose windows<lb/>
+have been provided with fine wire screens which will prevent the en-<lb/>
+trance of the mosquitoes, and a double door also of wire is provided,<lb/>
+and so arranged that when the outside door is opened the inside one<lb/>
+will automatically close and vice-versa. This can be done by means<lb/>
+284<lb/>
+<pb n="285" id="f02821015"/>
+<hi rend="italic">YELLOW FEVER IN MEXICO</hi>.<lb/>
+285<lb/>
+of a chain of a certain length which unites the two doors. This is<lb/>
+much more satisfactory than covering of the beds with mosquito net-<lb/>
+ting, for the latter has to be opened frequently in order to observe the<lb/>
+patient, to give him medicine, food, etc., and each time the curtain is<lb/>
+opened you run the risk of letting a mosquito in, or should the curtain<lb/>
+accidentally come in contact with the patient's body the mosquito can<lb/>
+bite the patient from the outside of the curtain; whereas if the patient<lb/>
+is in a room from which the mosquitoes have been previously driven<lb/>
+out, and where they cannot come in again, the contact with the patient<lb/>
+is impossible. This means of separation has another advantage, that<lb/>
+is, that you may put in the same room a patient who has already been<lb/>
+proved to have yellow fever and another whom they only suspect of<lb/>
+having it, without the latter being liable to catch the disease.</p>
+<p>As we have just seen, in our plan of campaign we do not wait until<lb/>
+we are satisfied of the existence of yellow fever, but we isolate the<lb/>
+patient from the first day that any fever appears, and consequently we<lb/>
+isolate him during the first three days, which are the dangerous ones,<lb/>
+and those in which the mosquitoes become infected. Experience has<lb/>
+demonstrated the sufficiency of the methods we have adopted for the<lb/>
+isolation of the sick.</p>
+<p>DISINFECTION OF THE HOME OCCUPIED BY THE PATIENT.</p>
+<p>During the time which elapses between the moment in which a<lb/>
+person takes the yellow fever and that in which it is discovered by our<lb/>
+agent, he may have been bitten by the mosquitoes and infected them,<lb/>
+so that they are ready to spread the disease. In order to prevent this<lb/>
+danger we proceed to disinfect the house as soon as it is left empty<lb/>
+by the patient. The disinfection in this case has for its only object the<lb/>
+destruction of the mosquitoes. In order to accomplish this we close<lb/>
+the room as it is ordinarily closed, pasting manila paper over all cracks,<lb/>
+and after this has been done we proceed to burn sulphur in the pro-<lb/>
+portion of twenty grams per the cubic meter of capacity. The sulphur<lb/>
+must be spread in a thin layer so that all will be burned. In this prac-<lb/>
+tice, which is so common and known to all, we have introduced another<lb/>
+innovation which seems to me of great importance, and it is this: As<lb/>
+it is very difficult to know whether the disinfection has been complete<lb/>
+or not, we take some mosquitoes which have not been infected and<lb/>
+which have been taken from the exterior of the room and put them in<lb/>
+the farthest room from the one in which the sulphur is burned. These<lb/>
+mosquitoes are put in open vessels, or which are only closed with a<lb/>
+coarse cloth, so that it will allow the sulphurous acid to penetrate into<lb/>
+<pb n="286" id="f02821016"/>
+286<lb/>
+<hi rend="italic">YELLOW FEVER IN MEXICO</hi>.<lb/>
+the vessel and prevent the mosquito from getting out. These mosqui-<lb/>
+toes serve us as witnesses. If, at the close of the disinfection, these<lb/>
+mosquitoes which were in unfavorable conditions to suffer from the<lb/>
+action of the sulphurous acid are found dead, we have proof that all<lb/>
+the others in the same room and under more favorable conditions for<lb/>
+receiving the sulphurous acid are dead also. If, on the contrary, we<lb/>
+find them alive, it is a proof that the disinfection was not well done<lb/>
+and that it will have to be repeated.</p>
+<p>Already in the last meeting, I explained the way in which the huts,<lb/>
+which in our country are called &ldquo;jacales,&rdquo; are disinfected. I will there-<lb/>
+fore not have to repeat it now, and it will be all sufficient to state this<lb/>
+fact, that there is not a house which cannot be made perfectly free of<lb/>
+the mosquito.</p>
+<p>In disinfecting Pullman cars, other railroad cars or any limited space<lb/>
+where there are delicate objects which can be damaged we used for-<lb/>
+maldehyde.</p>
+<p>In dry goods stores, where the sulphur, the pyrethrum and even the<lb/>
+formaldehyde might alter the color of the merchandise we have used<lb/>
+hydrocyanic acid, the result of which is as satisfactory as that of the<lb/>
+sulphur and has not the objectionable effect that this presents of injur-<lb/>
+ing the merchandise, but on the other hand it cannot be used except by<lb/>
+a person who is very skillful in its use.</p>
+<p>DESTRUCTION OF THE MOSQUITO LARVAE.</p>
+<p>Another group of the sanitary agents is employed in making a daily<lb/>
+house to house inspection of the cisterns which supply the families with<lb/>
+water. If the deposit is found to contain larvae it is emptied and the<lb/>
+place in which the water flows is covered with petroleum; the deposit<lb/>
+is washed and the inside surface is searched in such a way that not a<lb/>
+larvae is left alive, then it is filled with pure water and is covered with<lb/>
+a close fitting lid, with a wire netting, or with a layer of petroleum.<lb/>
+All the other deposits of water are covered with petroleum whatever<lb/>
+their size, even when they are very small.</p>
+<p>As you have just heard, those methods in which we have introduced<lb/>
+innovations over those adopted in other countries are the following:</p>
+<p>
+<list type="ordered">
+<item>I. Making a register of the persons not immune.</item>
+<item>II. Visiting the houses daily so that the patient can be discovered<lb/>
+the same day that the disease begins.</item>
+<item>III. The disuse of the mosquito curtains, because their use is insuf-<lb/>
+ficient to isolate the patient and the placing of patients in rooms whose<lb/>
+windows are screened and which have double doors of wire netting.<lb/>
+<pb n="287" id="f02821017"/>
+<hi rend="italic">YELLOW FEVER IN MEXICO</hi>.<lb/>
+287</item>
+<item>IV. In order to convince ourselves that the disinfection has been<lb/>
+complete we put mosquitoes in the house under favorable conditions<lb/>
+so that they can be reached by the action of the disinfectant. If, at<lb/>
+the close of the disinfection the test mosquitoes are dead, we can be<lb/>
+sure that the disinfection was well done.</item>
+<item>V. We have the means of making impossible the escape of the mos-<lb/>
+quito from the disinfected houses even if these are only huts whose<lb/>
+walls and roofs are made of grass, or of branches or of any other pen-<lb/>
+etrable material.</item>
+</list>
+</p>
+<p>To prevent the disease from attacking a place where there are <hi rend="italic">Ste-<lb/>
+gomyia</hi>, we have proceeded in the following manner:</p>
+<p>In all towns of this class we establish an inspection upon the arrival<lb/>
+of the trains, and in other places where passengers reach the town on<lb/>
+horseback, on foot or in carriages. Each passenger who is to remain<lb/>
+in the locality is examined and is kept under watch by our sanitary<lb/>
+agents, or by the police for five days after his arrival. In the places<lb/>
+already invaded by the yellow fever, the same inspection is made of all<lb/>
+the passengers who take the trains and they are prevented from leaving<lb/>
+if they are ill and if they are not immune and have fever. Could not<lb/>
+the passengers take the trains between the points where the inspections<lb/>
+are made? The sanitary agent travels continually on the trains which<lb/>
+traverse the infected districts, which are at present the small towns in<lb/>
+the state of Veracruz and the towns traversed by the Tehuantepec<lb/>
+Railroad, so that agents travel between Veracruz and Tierra Blanca;<lb/>
+from Cordova to Tierra Blanca; from Tierra Blanca to Santa Lucre-<lb/>
+cia; from Coatzacoalcos to Santa Lucrecia; from Santa Lucrecia to<lb/>
+Tehuantepec and Salina Cruz. If a patient is found on any of these<lb/>
+routes he is taken to the nearest hospital and at night the Pullman or<lb/>
+railroad car in which the patient traveled is disinfected.</p>
+<p>Having thus organized our system of inspection we have followed<lb/>
+it in Yucatan, notwithstanding the fact that since the 27th day of the<lb/>
+month of November last not a single case of yellow fever has been<lb/>
+found either in Merida, in Progreso or in any of the other towns of the<lb/>
+state above mentioned. There has not been a single case of yellow<lb/>
+fever in Veracruz since December 29th, 1904, up to July 4th of this<lb/>
+year. In spite of the vigilance which we have exercised it is possible<lb/>
+that a patient who did not arrive by the railroad nor by the most fre-<lb/>
+quented roads has clandestinely entered the town and was able to re-<lb/>
+main hidden; and as he was not on the <hi rend="italic">Register</hi> he was not visited by<lb/>
+the sanitary agent. This is the only explanation which we can give of<lb/>
+the appearance of this disease in the harbor of Veracruz. We have es-<lb/>
+tablished a sanitary brigade and a lazaret in Tehuantepec, notwithstand-<lb/>
+<pb n="288" id="f02821018"/>
+288<lb/>
+<hi rend="italic">YELLOW FEVER IN MEXICO</hi>.<lb/>
+ing the fact that the last case that originated in the town was observed<lb/>
+on the 5th of December last, since another case which was found in<lb/>
+April 26, was imported from Santa Lucrecia. Another service is estab-<lb/>
+lished in Salina Cruz where the last case registered was on October<lb/>
+27, 1904. Lastly, in Tierra Blanca where a small focus was formed.<lb/>
+Tierra Blanca is a village at the junction of the three branches of the<lb/>
+Veracruz and Pacific Railroad. The village is composed of persons<lb/>
+not immune who are employes and workmen on the railroad. As the<lb/>
+village is cosmopolitan, and very poor and dirty, it has been truly diffi-<lb/>
+cult to completely extinguish the disease, and for that reason a brigade<lb/>
+has been established there.</p>
+<p>In the other places of the small infected zone, when isolated cases<lb/>
+appear a physician and sanitary agents of some experience are sent<lb/>
+immediately to proceed with the house to house inspection and to dis-<lb/>
+infect wherever it is necessary and to destroy the mosquito larvae.</p>
+<p>There were 635 cases and 197 deaths registered in the Republic from<lb/>
+January 1 to August 31, 1905.</p>
+<p>The success which has been reached in Mexico in the struggle against<lb/>
+yellow fever and the certainty that in a not far distant future the dis-<lb/>
+ease will be completely extinguished as has been done in the island of<lb/>
+Cuba, can be easily seen from the statements already made.</p>
+</div1>
+<div1 type="chapter" n="3">
+<head>OFFICIAL REPORT OF THE PROCEEDINGS OF THE THIR-<lb/>
+TY-THIRD ANNUAL MEETING OF THE AMERICAN PUB-<lb/>
+LIC HEALTH ASSOCIATION.</head>
+<pb n="373" id="f02821019"/>
+<p>&check;</p>
+<p>MONDAY, SEPTEMBER 25, 1905.</p>
+<p>The Laboratory Section held its meetings at the Fenway, under the<lb/>
+Chairmanship of Dr. Wm. H. Park, of New York.</p>
+<p>TUESDAY, SEPTEMBER 26, 1905 -- FIRST DAY.</p>
+<p>MORNING SESSION.</p>
+<p>The Association met at the Young Men's Christian Association Hall,<lb/>
+and was called to order at 10 A. M. by the President, Dr. F. F. Wes-<lb/>
+brook, of Minneapolis, Minnesota.</p>
+<p>THE PRESIDENT.-- The first order of business is the reading of the<lb/>
+minutes of the last meeting.</p>
+<p>DR. HENRY D. HOLTON, of Vermont.-- Inasmuch, Mr. President,<lb/>
+as these minutes have been printed and probably read by all of the<lb/>
+members, I move that the reading of them be dispensed with. Sec-<lb/>
+onded by Dr. Montizambert, and carried.</p>
+<p>THE PRESIDENT.-- We will now listen to a report of the Executive<lb/>
+Committee by the Secretary.</p>
+<p>THE SECRETARY.-- The Executive Committee has only to report<lb/>
+this morning a list of applicants for membership which has been<lb/>
+acted upon by the Executive Committee favorably and recommended<lb/>
+to the Association for election.</p>
+<p>The Secretary then read a list of the applications for membership<lb/>
+which were recommended by the Executive Committee to the Associa-<lb/>
+tion for election, and, on motion of Dr. John Guiteras, the Secretary<lb/>
+was instructed to cast the unanimous ballot of the Association for the<lb/>
+names mentioned, which he did, and they were declared duly elected.</p>
+<p>THE PRESIDENT.-- We will now listen to a report by the Chairman<lb/>
+of the Local Committee of Arrangements, Dr. Durgin, of Boston.</p>
+<p>REPORT OF THE LOCAL COMMITTEE OF ARRANGEMENTS.</p>
+<p>DR. SAMUEL H. DURGIN, of Boston.-- Your Local Committee wishes<lb/>
+to announce, that on Wednesday morning we had an invitation from<lb/>
+373<lb/>
+<pb n="444" id="f02821020"/>
+444<lb/>
+<hi rend="italic">PROCEEDINGS -- THIRTY-THIRD ANNUAL MEETING</hi>.<lb/>
+a very important subject, and we are supposed to take interest in every<lb/>
+line of sanitary work, it would seem appropriate to take some action<lb/>
+which will go before the public in proper form. I would move, there-<lb/>
+fore, Mr. President, that a committee be appointed to present at the<lb/>
+next session a resolution expressing the feelings of this Association to<lb/>
+the effect that the bill now pending before Congress, and which has been<lb/>
+referred to by General Woodhull, be approved by the Association.</p>
+<p>The American Medical Association is endeavoring to make itself felt,<lb/>
+politically and otherwise, and while perhaps we cannot always agree<lb/>
+as to certain things or methods, at the same time, we should express<lb/>
+ourselves as a strong body of sanitarians. Perhaps by expressing our-<lb/>
+selves in the form of a resolution regarding the bill to which General<lb/>
+Woodhull has referred, and which we would all like to see passed, we<lb/>
+may gain some advantages in the next ten years.</p>
+<p>The resolution was seconded by Dr. Liston H. Montgomery, and was<lb/>
+referred to the Executive Committee.</p>
+<p>The President appointed on this Committee General Alfred A. Wood-<lb/>
+hull, Dr. H. M. Bracken, and Dr. Gardner T. Swarts.</p>
+<p>Dr. James Carroll, of Washington, D. C., then read a paper entitled<lb/>
+&ldquo;The Lessons to be Learned from the Present Outbreak of Yellow<lb/>
+Fever in Louisiana.&rdquo; (See paper, page 272.)<lb/>
+&check;</p>
+<p>Dr. Eduardo Liceaga, of Mexico, read a paper on &ldquo;Yellow Fever in<lb/>
+Mexico.&rdquo; (See paper, page 284.)</p>
+<p>Dr. Juan Guiteras, of Havana, Cuba, followed with &ldquo;Remarks on<lb/>
+Some New Points in the Etiology and Prevention of Yellow Fever.&rdquo;<lb/>
+(See paper, page 278.)<lb/>
+&check;</p>
+<p>At the conclusion of the reading of the papers on yellow fever, the<lb/>
+Committee, appointed to draft resolutions in connection with yellow<lb/>
+fever in the South, presented the following report, which was referred<lb/>
+to the Executive Committee:</p>
+<p>WHEREAS, The results obtained during the present epidemic of yel-<lb/>
+low fever in New Orleans, by the methods of mosquito extermination<lb/>
+and by the prevention of the access of the mosquito to the patients,<lb/>
+have been far in advance of the results obtained by the older methods;</p>
+<p>WHEREAS, It has been possible by the new methods to hold in check<lb/>
+and to gradually reduce an epidemic that has taken a firm foothold in<lb/>
+the midst of the largest non-immune population that was ever exposed<lb/>
+to yellow fever; therefore, be it</p>
+<p><hi rend="italic">Resolved</hi>, (1) That the Association sees in these results a further<lb/>
+confirmation of the view that yellow fever is naturally transmitted<lb/>
+only by the bite of an infected mosquito.</p>
+<p>(2) That the Association is of opinion that an efficient plan of<lb/>
+<pb n="445" id="f02821021"/>
+<hi rend="italic">PROCEEDINGS -- THIRTY-THIRD ANNUAL MEETING</hi>.<lb/>
+445<lb/>
+defense against the propagation of yellow fever, at the beginning of<lb/>
+an epidemic, can be easily established upon the basis of this doctrine.</p>
+<p>(3) That the successful carrying out of such plans depends upon<lb/>
+a thorough understanding of the mosquito doctrine by the people, and<lb/>
+the support that they may give to the prompt and frank reporting and<lb/>
+to the proper handling of the first cases and of all suspicious cases.</p>
+<p>(4) The Association wishes further to congratulate the Public<lb/>
+Health and Marine Hospital Service for the brilliant work done by<lb/>
+Dr. Joseph H. White and his colleagues in New Orleans, and to urge<lb/>
+upon all concerned that the said service be called upon to take charge<lb/>
+permanently of maritime quarantine along the Gulf Coast.</p>
+<p>Regarding the visit of the President to New Orleans, the Associa-<lb/>
+tion would urge that the contemplated trip be postponed.</p>
+<p>Whilst it is true that the epidemic will be very much under control<lb/>
+by the 24th of October, so that there will be but little danger of infec-<lb/>
+tion, this danger would certainly be enhanced by the public life and<lb/>
+inability to surround themselves with proper safeguards that would<lb/>
+prevail in the case of the President. If the President were called to<lb/>
+New Orleans by some public duty connected with the epidemic -- if<lb/>
+he were, for instance, to reside in the yellow fever hospital and have<lb/>
+some special duty to perform in visiting the sick -- it would be very<lb/>
+easy to guarantee his safety from infection; but with a number of<lb/>
+public functions to perform, entertainments to receive, and numerous<lb/>
+places to visit, the Association does not believe that an absolute secu-<lb/>
+rity can be promised at a time when there may still be in existence a<lb/>
+number of active, infected mosquitoes.</p>
+<p>The Association is also of opinion that the large influx of strangers<lb/>
+that would attend the visit of the President would result in a tem-<lb/>
+porary increase of the number of cases.</p>
+<p>(Signed) JOHN GUITERAS, <hi rend="italic">Chairman</hi>,</p>
+<p>PRESTON H. BAILHACHE,</p>
+<p>JAMES CARROLL,</p>
+<p>E. LICEAGA,</p>
+<p>WM. BAILEY.</p>
+<p>DISCUSSION OF THE PAPERS ON YELLOW FEVER.</p>
+<p>DR. LISTON H. MONTGOMERY, of Chicago.-- Dr. Guiteras in his re-<lb/>
+marks spoke of the authorities in New Orleans trying to exterminate<lb/>
+every mosquito, but he thought, if I understood him correctly, that this<lb/>
+detracted considerably from their work, and that they should concen-<lb/>
+trate their action or attack upon the infected mosquito. How can that<lb/>
+be determined? Would it not be better to exterminate all mosquitoes,<lb/>
+whether they are the harmless or infected ones?<lb/>
+&check;</p>
+<p>DR. JOHN GUITERAS, of Havana, Cuba.-- I expressed the idea that<lb/>
+considerable energy was being diverted from the proper and best chan-<lb/>
+nels. In answer to the question of Dr. Montgomery, I will say that it<lb/>
+<pb n="446" id="f02821022"/>
+446<lb/>
+<hi rend="italic">PROCEEDINGS -- THIRTY-THIRD ANNUAL MEETING</hi>.<lb/>
+is easy to determine which are infected mosquitoes from those that are<lb/>
+not. Infected mosquitoes are those found in the houses of patients, and<lb/>
+we should kill them. The yellow fever mosquito is a weak mosquito; it<lb/>
+is apt to stay in the same room, and certainly in the same house.</p>
+<p>DR. JAMES CARROLL, of Washington, D. C.-- Dr. Guiteras has taken<lb/>
+it for granted, without full justification, it seems to me, that my idea<lb/>
+was that this commission I have suggested should go down and stamp<lb/>
+out such an epidemic as prevails in New Orleans at present. I intended<lb/>
+nothing of the kind. I spoke of preventive rather than curative meas-<lb/>
+ures, and the idea I had in my mind was that if a commission, appointed<lb/>
+at the proper time, could take up the work in a proper way and prevent<lb/>
+or control the extension of the disease, at the season when the cases<lb/>
+were fewest, it would accomplish a great deal. This measure was sug-<lb/>
+gested by me upon the ground that if such a commission were in exist-<lb/>
+ence, and the proper laws were enacted, it would require physicians to<lb/>
+report their cases of yellow fever early, so that the disease could be<lb/>
+readily controlled, and then there would be no possibility of its further<lb/>
+extension.</p>
+<p>In regard to educating the people, did we wait for their education<lb/>
+before laws were enacted requiring proper disinfection to prevent the<lb/>
+extension of diphtheria? It has taken five years, and that has not been<lb/>
+sufficiently long to educate the physicians in some of our states up to the<lb/>
+point of believing in the mosquito theory fully, and it seems to me it<lb/>
+would be much less important to wait for the education of the people<lb/>
+when it takes some physicians more than five years to accept the mos-<lb/>
+quito theory. Reasoning on this basis, how many more years will it<lb/>
+require to educate the people up to that point? This is a matter of<lb/>
+protection of the lives and welfare of the people, and their personal ideas<lb/>
+and idiosyncrasies are not to be considered. We know absolutely that<lb/>
+if these measures are taken in proper time, any extension of the disease<lb/>
+can be prevented, and the only thing to do, in my opinion, is to take<lb/>
+such measures and thereby see to it, when the disease is found to exist,<lb/>
+or when the cases are at a low ebb, that proper measures are taken, and<lb/>
+that the possibility of any further extension of the disease be removed.<lb/>
+In this way the disease can be eventually stamped out, and once it is<lb/>
+stamped out, it is done with forever unless there is a fresh importation.</p>
+<p>On motion, the Association adjourned until 10 A. M., Friday.</p>
+<pb n="447" id="f02821023"/>
+<p><hi rend="italic">PROCEEDINGS -- THIRTY-THIRD ANNUAL MEETING</hi>.<lb/>
+447</p>
+<p>SEPTEMBER 29 -- FOURTH DAY.</p>
+<p>MORNING SESSION.</p>
+<p>The Association met at 10:10 A. M., and was called to order by the<lb/>
+President.</p>
+<p>THE PRESIDENT.-- We will listen to the Report of the Executive<lb/>
+Committee by the Secretary.</p>
+<p>THE<unclear>.</unclear> SECRETARY.-- The Executive Committee has acted favorably<lb/>
+upon the resolutions in regard to yellow fever in New Orleans, except<lb/>
+as regards advising the President not to visit that city, and recommends<lb/>
+their adoption by the Association A sub-committee will report upon<lb/>
+this part of the resolutions. (See resolutions on page 444.)</p>
+<p>THE PRESIDENT.-- You have heard the recommendations of the Ex-<lb/>
+ecutive Committee concerning these resolutions on yellow fever. What<lb/>
+is your pleasure?</p>
+<p>DR. WILLIAM BAILEY, of Louisville, Kentucky.-- I move that the<lb/>
+resolutions be adopted. Seconded and carried.</p>
+<p>The Secretary read a resolution offered by Dr. J. Ewing Mears (see<lb/>
+resolution, page 424), and said: The Executive Committee finds that a<lb/>
+similar resolution was recently adopted by the Association, and there-<lb/>
+fore it deems it unnecessary to take further action at this time.</p>
+<p>THE PRESIDENT.-- Will you confirm the action of the Executive<lb/>
+Committee, or do you wish to adopt this resolution?</p>
+<p>DR. HENRY D. HOLTON.-- I move that the action of the Executive<lb/>
+Committee be concurred in.</p>
+<p>Seconded by Professor Brewer, and carried.</p>
+<p>THE SECRETARY.-- The following resolution are offered as repre-<lb/>
+senting the sense of the American Public Health Association:</p>
+<p>RESOLVED, That this Association, recognizing the extreme value of<lb/>
+a properly organized and efficiently administered medical department<lb/>
+as an essential part of any army, cordially approves the proposal for<lb/>
+the greater efficiency of that department in the army of the United<lb/>
+States, as embodied in a bill brought before the fifty-eighth Congress<lb/>
+(Senate, 4838; H. R., 13998, fifty-eighth Congress, second session),<lb/>
+and earnestly recommends favorable action upon such a measure when<lb/>
+it may again be brought up for consideration;</p>
+<p><hi rend="italic">Resolved</hi>, That an official copy of these resolutions be transmitted<lb/>
+to the committees on military affairs of the Senate and of the House<lb/>
+of Representatives of the United States, and to the surgeon-general,<lb/>
+United States army.</p>
+<p>(Signed) ALFRED A. WOODHULL,<lb/>
+H. M. BRACKEN,<lb/>
+GARDNER T. SWARTS,<lb/>
+<hi rend="italic">Committee</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01117013">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Henry Hanson to Henry Rose Carter, September 9, 1923</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Hanson, Henry</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01117013</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1923-09-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Carter, Henry Rose</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Dunn, L.H.</name>
+<name type="place">Bucaramanga (Colombia)</name>
+<name type="place">Barranquilla (Colombia)</name>
+<name type="place">Bogata (Colombia)</name>
+<name type="place">Medellin (Colombia)</name>
+<name type="place">Ebejico (Colombia)</name>
+<name type="place">Colombia</name>
+<name type="place">Peru</name>
+<name type="place">Magdelena River (Colombia)</name>
+<name type="place">Cucuta (Colombia)</name>
+<name type="place">Maracaibo (Venezuela)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>2 pp.</extent>
+<date value="1923-09-09">September 9, 1923</date>
+<idno rend="suppress">01117013</idno>
+<title>Letter from Henry Hanson to Henry Rose Carter, September 9, 1923</title>
+</bibl>
+</head>
+<p>Hansen writes about his work in Colombia. He has seen no yellow fever in Bucaramanga, although the Stegomyia index is high there as well as along the Magdelena River. He discusses other diseases he has encountered there and notes Dunn's work with mosquitoes.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-09-09">
+<head>Letter from Henry Hanson to Henry Rose Carter, September 9, 1923</head>
+<pb n="1" id="f01117013"/>
+<opener>
+I. H. B. Hanson<lb/>
+REPUBLICA DE COLOMBIA<lb/>
+DIRECCION NACIONAL DE HIGIENE<lb/>
+-----<lb/>
+CAMPA&Ntilde;A SANITARIA<lb/>
+CONTRA LA FIEBRE AMARILLA<lb/>
+-----<lb/>
+FUNDACION ROCKEFELLER<lb/>
+Junta Internacional de Sanidad<lb/>
+<unclear>Direccion Categoria</unclear> &ldquo;INTERCOM&rdquo;<lb/>
+----<lb/>
+DR. HENRY HANSON<lb/>
+DIRECTOR<lb/>
+DR. F. A. MILLER<lb/>
+DIRECTOR ASSISTANTE<lb/>
+L. H. DUNN<lb/>
+ENTOMOLOGO E INSPECTOR SUPERVIGILANTE<lb/>
+-----<lb/>
+<dateline>
+Bucaramanga,<lb/>
+<date value="1923-09-09">September 9, 1923.</date>
+</dateline>
+<salute>My dear Doctor Carter:</salute>
+</opener>
+<p>At last we are in Bucaramanga after nearly<lb/>
+two months of continuous travel. We would have reached here earlier<lb/>
+had it not been for the fact that I had to wait a week in Barran-<lb/>
+quilla, for my trunks and that when we left Bogata, we went to<lb/>
+Medellin and Ebejico to investigate some cases of illness which<lb/>
+President Nel Opsina thought might be yellow fever. The latter<lb/>
+possibility we soon ruled out by not finding a single breeding<lb/>
+place in either Medellin or Ebejico (of Stegomyia). In addition<lb/>
+the histories which we obtained when we got right down to the<lb/>
+place where the sick were, were not such as to correspond with<lb/>
+yello fever, but more like pernicious malaria of which they<lb/>
+seemed to have some cases in among the &ldquo;quebradas&rdquo; which could<lb/>
+not very well be called valleys. It is an extremely rough country<lb/>
+so much so that down in the lower part about Ebejico (which is at<lb/>
+an elevation of about 3600ft) the hills are high and rough and<lb/>
+truly mountainous in character.</p>
+<p>The highest point in the range which we crossed in going<lb/>
+from Medellin to Ebejico is a little over 9000ft, and the entire <lb/>
+distance between the two places, of about 25 miles has practically<lb/>
+no stretch of road which can be called level. It is either a con-<lb/>
+tinuous intermittent ascent or descent, and extremely tiring to<lb/>
+both the animals and the riders. In the climb to the first posada<lb/>
+on the return from Ebejico, we had over three hours of continuous<lb/>
+climbing, and then we were not at the top. The climate both at<lb/>
+Medellin and Ebejico was quite ideal, but unfortunately we have<lb/>
+no work at such places so there is no opportunity for us to enjoy<lb/>
+such comforts. The climate in the sections where we will have the<lb/>
+most to do in Colombia is extremely uncomfortable, and one longs<lb/>
+for the comforts of the Peruvian climate.</p>
+<p>So far we have been in Bucaramanga six days, and I have not<lb/>
+yet seen a case in which I will accept the diagnosis of yellow<lb/>
+fever. There have been several reported, of which I have seen about<lb/>
+five or six, but none of these have symptoms of genuine yellow<lb/>
+fever. I have seen some cases of relapsing fever, where I have been<lb/>
+able to demonstrate the spirillum in the stained blood smear, but<lb/>
+I am still waiting for a case with the symptomcomplex which I will<lb/>
+admit as yellow fever. There evidently is a great deal of the re-<lb/>
+lapsing fever. Some of the so called cases of yellow fever which I<lb/>
+have seen in the 4th, 5th, 6th, 8th and 11th days have neither shown<lb/>
+the stage of congestion nor the stage of stasis. Neither redness of<lb/>
+the eyes in the early cases nor the yellowness of the convalescent.<lb/>
+Albumen in the urine has been absent, as well as the red and bleed-<lb/>
+<pb n="2" id="f01117014"/>
+Dr. H.R. Carter<lb/>
+2<lb/>
+Sept. 9, 1923.<lb/>
+bleeding gums, nor has there been the characteristic relation<lb/>
+between pulse and temperature, nor the bradycardia of the con-<lb/>
+valescent.</p>
+<p>The average <hi>Stegomyia</hi> (Aedes aegypti) house breeding in-<lb/>
+dex, for the month of August was:</p>
+<p>Bucaramanga 10.7%</p>
+<p>Giron 3.0%</p>
+<p>Rio Negro 2.6%</p>
+<p>Florida 1.8%</p>
+<p>Piedecuesta 1.0%,</p>
+<p>Hence the only place in which the fever could continue propagating<lb/>
+would be here. In the last few days, for the days work the highest<lb/>
+we have found has been 8% one day, the other days it has been 5.6%<lb/>
+and 6%, which is reaching the index of termination of the fever,<lb/>
+especially for a country like this where there undoubtedly are many<lb/>
+immunes in the population.</p>
+<p>The charts of cases which Dr. Lopez and Dr. Henao showed me<lb/>
+aat Puerto Berrio and at Medellin of cases of fever which had<lb/>
+occurred in that section, some were quite suggestive of yellow fever<lb/>
+while others were not such as we obtained in the epidemic on the<lb/>
+Pacific Coast.</p>
+<p>The Stegomyia index is high at all points along the Magde-<lb/>
+lena River, and inasmuch as this is a campaign for elimination<lb/>
+and the assurance of such a result I think we better attack the<lb/>
+<hi>Stegomyia</hi> at all the key points on the river, as well as on the<lb/>
+coast. We can do this at a moderately reasonable cost, I think<lb/>
+$12000.00 monthly will do the job. This will mean $6000.00 monthly<lb/>
+for each party concerned, i.e., the Government and the I.H B., be-<lb/>
+sides the overhead which is <del><unclear></unclear></del> borne by the I.H.B.</p>
+<p>Next week I am sending Dr. Serpa to Cucuta to begin the<lb/>
+complete investigation there, and to start the Stegomyia work, and<lb/>
+to carry it on while the rest of us organize the permanent working<lb/>
+forces here and after that we go down the Magdelena, to the coast.<lb/>
+From there I expect to go to Cucuta by way of Maracaibo, to inspect<lb/>
+and further organize Dr. Serpa's work in case I find it necessary.</p>
+<p>It has been very difficult to secure the necessary fish in<lb/>
+this, the Bucaramanga, sector but I am hoping that we shall find it<lb/>
+quite different in the valley of the Magdelena.</p>
+<p>There are quite a number of rumors of fever, in different<lb/>
+parts, such as Puerto Santos, Lebrija, etc., which we will look into<lb/>
+on our way back to the Magdelena. I saw some cases of illness in<lb/>
+Puerto Santos on the way here, but they were very clearly malaria,<lb/>
+or possibly both malaria and relapsing fever.</p>
+<p>I have seen several cases of what they call espundia here,<lb/>
+which I think are elephantiasis, especially the cases of that kind<lb/>
+which I saw at Ebejico.</p>
+<p>Since arriving here Mr. Dunn has been putting in his time<lb/>
+in breeding out the mosquitoes, which the inspectors have brought<lb/>
+in, the main object being to confirm the actual existence of the<lb/>
+Aedes Aegypti, besides collecting and identifying the others. Of<lb/>
+the others we have found, a species of Uraneotanea, Anopheles<lb/>
+Argyritareus, Culex Quinqifasciatus etc.</p>
+<p>The waiter in our hotel took sick night before last, and<lb/>
+today while looking for malaria in his blood I found found the<lb/>
+spirilum of relapsing fever. The clinical picture corresponds.</p>
+<p>With all good wishes to you and Laura,</p>
+<closer>
+<salute>Sincerely</salute>
+<signed>Henry Hanson</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

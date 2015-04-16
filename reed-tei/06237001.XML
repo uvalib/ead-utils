@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t06237001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from [Jefferson Randolph Kean] to C. H. Ellis, June 18, 1909</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>06237001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1909-06-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Ellis, C. H. </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Wood, Leonard</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1909-06-18">June 18, 1909</date>
+<idno rend="suppress">06237001</idno>
+<title>Letter from [Jefferson Randolph Kean] to C. H. Ellis, June 18, 1909</title>
+</bibl>
+</head>
+<p>[Kean] informs Ellis about the military service of John R. Kissinger and gives details of Kissinger's participation in the yellow fever experiments.  Included is a note by Truby. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1909-06-18">
+<head>Letter from [Jefferson Randolph Kean] to C. H. Ellis, June 18, 1909</head>
+<pb n="1" id="f06237001"/>
+<opener>
+<unclear>OFFICE</unclear> OF SURGEON GENERAL<lb/>
+<unclear>[unclear]</unclear><lb/>
+71980<lb/>
+G.<lb/>
+1909<lb/>
+WAR DEPARTMENT<lb/>
+Kissinger<lb/>
+G<lb/>
+WAR DEPARTMENT,<lb/>
+OFFICE OF THE SURGEON GENERAL,<lb/>
+<dateline>
+WASHINGTON. <date value="1909-06-18">June 18, 1909</date>
+</dateline><lb/>
+Dr. C. H. Ellis, Manager,<lb/>
+United Fruit Company,<lb/>
+New Orleans, La.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>I am directed by the Surgeon General to acknowledge receipt<lb/>
+of your letter of June 15 asking for information with reference to<lb/>
+John R. Kissinger, formerly a private, Hospital Corps. U.S. Army.</p>
+<p>The records of this office show that John R. Kissinger en-<lb/>
+listed in the Hospital Corps. U.S. Army, November 15, 1898, at Indian-<lb/>
+apolis, Ind., having previously served in Co. &ldquo;D&rdquo;. of the 157th<lb/>
+Indiana Volunteer Infantry.</p>
+<p>While serving at Columbia Barracks, Cuba, he volunteered for<lb/>
+duty at Camp Lazear, the experimental camp which Major Walter Reed,<lb/>
+Surgeon, U.S. Army, the head of US Board for the study of yellow<lb/>
+fever had established for the purpose of experimenting in inocula-<lb/>
+tion. <hi>He was, from the report of Dr. Reed, the first volunteer to <add>?</add><lb/>
+be bitten by an infected mosquito at that camp</hi>. He was first bitten<lb/>
+on November 20, 1900, and the result of this bite being negative.<lb/>
+was again bitten on December 5th, in consequence of which he suf-<lb/>
+fered an attack of yellow fever of moderate severity.</p>
+<p>Upon recovery from this attack, he was, for his courageous conduct<lb/>
+in this matter promoted Acting Hospital Steward on recommendation of<lb/>
+the Chief Surgeon of the Department, and also presented with a gold<lb/>
+<unclear>watch</unclear> and chain and a sum of money, by authority of the Military Gov-<lb/>
+ernor of Cuba. The gold watch, suitably inscribed, was publicly pre-<lb/>
+<pb n="2" id="f06237002"/>
+OFFICE OF SURGEON GENERAL<lb/>
+<unclear>[unclear]</unclear><lb/>
+71980<lb/>
+<unclear>[unclear]</unclear>
+WAR DEPARTMENT<lb/>
+-2-<lb/>
+sented to him by the Chief Surgeon of the Division of Cuba, and in the<lb/>
+presence of the Medical Officers and Hospital Corps Detachment at<lb/>
+Columbia Barracks. He was also given three months furlough. His<lb/>
+application therefor being endorsed by Major Walter Reed as follows:<lb/>
+&ldquo;This application meets with my most earnest approval. Acting Hos-<lb/>
+pital Steward Kissinger volunteered on November 20, 1900, without<lb/>
+hope of any pecuniary reward, but solely for the benefit of humanity<lb/>
+and medical science, to be infected by mosquitoes that had purposely<lb/>
+been contaminated by biting cases of yellow fever. In this way he<lb/>
+contracted, on Dec. 8, 1900, a well pronounced attack of yellow fever<lb/>
+from which he is now convalescing. The moral courage exhibited by this<lb/>
+soldier in submitting himself to experimentation is unsurpassed in the<lb/>
+annals of the United States.&rdquo;</p>
+<p>The writer of this letter was associated with these experiments<lb/>
+in an <unclear>administrative way, as</unclear> the funds given by General Leonard Wood<lb/>
+for <unclear>conducting them was</unclear> placed in his hands for disbursement. As<lb/>
+Chief Surgeon of <unclear>the Military</unclear> Department in which the experiments <unclear>were</unclear><lb/>
+being conducts, he had also personal knowledge of the facts connected<lb/>
+with these experiments and is therefore in a position to state of his<lb/>
+personal knowledge that Private Kissinger submitted to these experi-<lb/>
+<unclear>&check;</unclear> ments without any expectation or desire for financial reward and the<lb/>
+watch and small sum of money (about $100), which was given a number of<lb/>
+months afterwards,  was of the nature of a testimonial rather than<lb/>
+a reward. His case is a very deserving one and this office hopes<lb/>
+that he may receive the financial assistance, of which it is understood<lb/>
+he is in great need.</p>
+<p>The President of the United States in a special message dated</p>
+<p>This statement of Reed's<lb/>
+should be publisted in your<lb/>
+book as I dont know if<lb/>
+has ever been publisted. It<lb/>
+clears up the &ldquo;reward&rdquo; claims</p>
+<p>The Statement P. 98 Sen. Doc.<lb/>
+is too brief.</p>
+<p>AET</p>
+<pb n="3" id="f06237003"/>
+<p>-3-</p>
+<p>The White House, Dec. 5, 1906, called the attention of Congress to the<lb/>
+propriety of recognizing the services of the men who took part in the<lb/>
+yellow fever experiments. His message was printed in Senate Document<lb/>
+No. 10, 59th Congress, Second Session.</p>
+<p>Mr. Higginson's letter is returned herewith.</p>
+<closer>
+<salute>Respectfully,</salute>
+<signed><unclear>J R Kean</unclear></signed>
+Lt. Colonel, Medical Corps, U.S. Army.<lb/>
+(1 encl)<lb/>
+&uarr; J R Kean<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

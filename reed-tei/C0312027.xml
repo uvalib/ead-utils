@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0312027">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Resolution of the Southern Medical Association on Henry Rose Carter, [1925] [Enclosed in C0312026]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Flannagan, Roy K.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0312027</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1925-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="person">Carter, Laura Armistead</name>
+<name type="person">Flannagan, Roy K.</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="place">Richmond (Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1925-00-00">[1925]</date>
+<idno rend="suppress">C0312027</idno>
+<title>Resolution of the Southern Medical Association on Henry Rose Carter, [1925] [Enclosed in C0312026]</title>
+</bibl>
+</head>
+<p>This resolution expresses the sorrow of the organization at Carter's passing and acknowledges Carter's intellectual ability, leadership and personal qualities, as well as his enormous contributions to the field of public health.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1925-00-00">
+<head>Resolution of the Southern Medical Association on Henry Rose Carter, [1925] [Enclosed in <xref id="C0312026">C0312026</xref>]</head>
+<pb n="1" id="fC0312027"/>
+<opener></opener>
+<p>HENRY ROSE CARTER</p>
+<p>-----</p>
+<p>WHEREAS, we, the members of the Section on Public Health of the<lb/>
+Southern Medical Association in joint session with the National Malaria<lb/>
+Committee have learned with deep regret of the death of our associate,<lb/>
+Dr. Henry Rose Carter, who after a long illness passed away on<lb/>
+September 14, 1925, in the seventy-third year of his age; therefore<lb/>
+be it</p>
+<p><hi>Resolved</hi>, That we express our great sorrow in this loss of an<lb/>
+outstanding leader in public health, and a colleague whose remarkable<lb/>
+breadth and accurateness of knowledge, and whose keen intellect, sound<lb/>
+judgment, and untiring energy have won him the respect and admiration<lb/>
+of the scientific world; whose leadership in quarantine reform and in<lb/>
+successful warfare on yellow fever and malaria in this and other<lb/>
+countries of the world has made him an honored figure in the history<lb/>
+of disease control; and whose lovable personal qualities of sincerity,<lb/>
+friendliness, frankness, simplicity, and consideration of his fellow<lb/>
+workers, and whose disregard of rank, glory, and recognition for himself<lb/>
+have immeasurably endeared him to his associates; and be it</p>
+<p><hi>Resolved</hi>, further, That the secretary of the Section be instructed to<lb/>
+transmit a copy of this resolution to Miss Laura Carter and to the<lb/>
+Surgeon General of the U. S. Public Health Service, and that the reso-<lb/>
+lution be entered in the minutes of the Section.</p>
+<closer>
+<signed>Roy K. Flannagan</signed><lb/>
+Secretary, Public Health Section<lb/>
+Southern Medical Association</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

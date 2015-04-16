@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00764033">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from J.W. Kerr to Henry Rose Carter, March 8, 1915</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Kerr, John W.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00764033</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1915-03-08</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Carter, Henry Rose</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="person">Ezdorf, R.H. von</name>
+<name type="place">Anne Arundel County (Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1915-03-08">March 8, 1915</date>
+<idno rend="suppress">00764033</idno>
+<title>Letter from J.W. Kerr to Henry Rose Carter, March 8, 1915</title>
+</bibl>
+</head>
+<p>Kerr describes rural sanitation investigations and malaria surveys. He requests Carter's assistance.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1915-03-08">
+<head>Letter from J.W. Kerr to Henry Rose Carter, March 8, 1915</head>
+<pb n="1" id="f00764033"/>
+<opener>
+J.R.S.<lb/>
+OFFICE OF THE SURGEON GENERAL<lb/>
+IN REPLYING<lb/>
+ADDRESS THE SURGEON GENERAL<lb/>
+U. S. PUBLIC HEALTH SERVICE<lb/>
+<dateline>
+TREASURY DEPARTMENT<lb/>
+BUREAU OF<lb/>
+THE PUBLIC HEALTH SERVICE<lb/>
+WASHINGTON<lb/>
+<date value="1915-03-08">March 8, 1915.</date>
+</dateline>
+<salute>Dear Doctor Carter:-</salute>
+</opener>
+<p>In accordance with a request from Dr. Fulton,<lb/>
+State Health Officer of Maryland, Anne Arundel County<lb/>
+has been selected as one of the counties where Dr.<lb/>
+Lumsden will carry on rural sanitation investigations<lb/>
+during the coming summer. It is Dr. Fulton's desire,<lb/>
+and the Surgeon-General had previously mentioned it<lb/>
+to him, to make some malaria surveys in certain portions<lb/>
+of the county. I have talked the matter over with<lb/>
+Dr. Lumsden and we thought you might be willing to make<lb/>
+some suggestions as to this phase of the summer's work<lb/>
+in Anne Arundel County. It is probable that one<lb/>
+of the young officers who has worked with von Ezdorf,<lb/>
+or is now with him, can be assigned to this work, but<lb/>
+I would of course be glad if you could spend a few days<lb/>
+in the field with him if it is practicable. I would<lb/>
+like to know particularly when such a study should be<lb/>
+begun in that latitude and its probable extent.</p>
+<closer>
+<salute>Sincerely yours,</salute>
+<signed><unclear>J. W. Kerr</unclear></signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

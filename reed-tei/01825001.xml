@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t01825001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Post-Epidemic Disinfection, by Walter Wyman, October 11, 1897</title>
+<title type="gmd">[electronic resource]</title>
+<author>Wyman, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01825001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1897-10-11</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1897-10-11">October 11, 1897</date>
+<idno rend="suppress">01825001</idno>
+<title>Report: Post-Epidemic Disinfection, by Walter Wyman, October 11, 1897</title>
+</bibl>
+</head>
+<p>This circular letter gives disinfection instructions to be instigated after a yellow fever epidemic. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1897-10-11">
+<head>Report: Post-Epidemic Disinfection, by Walter Wyman, October 11, 1897</head>
+<pb n="1" id="f01825001"/>
+<p>POST-EPIDEMIC DISINFECTION.</p>
+<p>------------</p>
+<p>CIRCULAR LETTER RELATING TO RECORDS.</p>
+<p>TREASURY DEPARTMENT,<lb/>
+OFFICE OF THE SUPERVISING SURGEON-GENERAL<lb/>
+MARINE-HOSPITAL SERVICE,<lb/>
+<hi rend="italic">Washington, D. C., October 11, 1897</hi>.</p>
+<p><hi rend="italic">To the Medical Officers of the Marine-Hospital Service, Acting Assistant<lb/>
+Surgeons, and State and Municipal Health Officers:</hi></p>
+<p>Anticipating the work of post epidemic disinfection, which will be<lb/>
+necessary to prevent the recurrence of yellow fever next season, your<lb/>
+attention is called to the importance of keeping a record of each per-<lb/>
+son contracting yellow fever, and the street number of each house<lb/>
+where the fever occurs.</p>
+<p>WALTER WYMAN,<lb/>
+<hi rend="italic">Supervising Surgeon-General, Marine-Hospital Service</hi>.</p>
+<p>--------------</p>
+<p>CIRCULAR LETTER RELATING TO POST EPIDEMIC DISINFECTION<lb/>
+AND AERATION.</p>
+<p>TREASURY DEPARTMENT,<lb/>
+OFFICE OF THE SUPERVISING SURGEON-GENERAL<lb/>
+MARINE-HOSPITAL SERVICE,<lb/>
+<hi rend="italic">Washington, D. C., December 1, 1897</hi>.</p>
+<p><hi rend="italic">To Commissioned Officers of the Marine-Hospital Service, Acting Assistant<lb/>
+Surgeons, and State and Municipal Health Officers:</hi></p>
+<p>Referring to circular letter issued by this Bureau October 11, 1897,<lb/>
+in which attention was called to the importance of keeping a record of<lb/>
+the name of each person contracting yellow fever, and the street and<lb/>
+number of each house where yellow fever occurred, I have to state that<lb/>
+inasmuch as the fever has disappeared in the South, it is now deemed<lb/>
+necessary to begin the work of post epidemic disinfection. In order<lb/>
+that the same may be uniform and thorough in its character the follow-<lb/>
+ing plan is recommended:</p>
+<p>HOUSE-TO-HOUSE INSPECTION.</p>
+<p>
+<list type="ordered">
+<item>(<hi rend="italic">a</hi>) The medical officer in command shall make, or cause to be made,<lb/>
+house-to house inspection of all infected localities, and obtain complete<lb/>
+<pb n="2" id="f01825002"/>
+426<lb/>
+MARINE-HOSPITAL SERVICE.<lb/>
+lists (giving number and street when practicable) of all buildings,<lb/>
+whether private dwellings, public houses, or hospitals, in which yellow<lb/>
+fever occurred or where suspicious disease existed during the past<lb/>
+summer and fall--the city or town to be divided into districts.</item>
+<item>(<hi rend="italic">b</hi>) This inspection should be made by competent sanitary officers,<lb/>
+under direction of the medical officer in command, and every part of<lb/>
+the premises must be carefully inspected, including the rooms, base-<lb/>
+ments, cellars, passages, closets, and garrets, the sinks, drains, cess-<lb/>
+pools, latrines, privies or water-closets, the stables, sheds, outhouses,<lb/>
+pens, etc.</item>
+<item>(<hi rend="italic">c</hi>) The inspection is not only for the purposes of disinfection, but<lb/>
+also is intended to place each house and its surroundings in a perfectly<lb/>
+sanitary condition, and includes the inspection of all streets, alleys,<lb/>
+and byways.</item>
+<item>(<hi rend="italic">d</hi>) The inspection should include an examination into the water<lb/>
+supply, and particularly as to the proximity of wells, cisterns, and<lb/>
+springs to the privies, stables, pens, and other suspicious surroundings.</item>
+</list>
+</p>
+<p>LIST OF YELLOW FEVER SUFFERERS AND SUSPECTS.</p>
+<p>Make a complete list of all persons exposed to, or who may have con-<lb/>
+tracted the disease, with the result in each case.</p>
+<p>
+<list type="ordered">
+<item>(<hi rend="italic">a</hi>) If death resulted, where buried and under what precautions.</item>
+<item>(<hi rend="italic">b</hi>) If recovered or removed to another domicile in the same city,<lb/>
+town, or place (or if departed from the neighborhood), ascertain all<lb/>
+facts and make note of the same in order that it may be determined<lb/>
+what action shall be taken in each case.</item>
+</list>
+</p>
+<p>GENERAL DISINFECTION.</p>
+<p>
+<list type="ordered">
+<item>(<hi rend="italic">a</hi>) It is recommended that after the inspection above provided for<lb/>
+has been made the medical officer shall designate a competent sanitary<lb/>
+officer to perform the thorough disinfection and cleansing of all houses<lb/>
+and premises which he may have decided require the same, said disin-<lb/>
+fection to begin as soon as practicable after the inspection referred to<lb/>
+has been made in any locality.</item>
+<item>(<hi rend="italic">b</hi>) It is recommended that the removal of all refuse, garbage, and<lb/>
+other deleterious matter be included in the work of disinfection, and<lb/>
+that all articles of little value, such as old rags and other accumula-<lb/>
+tions of worthless material, be destroyed, whether found in dwellings<lb/>
+or &ldquo;slop-shops.&rdquo;</item>
+<item>(<hi rend="italic">c</hi>) It is recommended that the inspectors inform all parties whose<lb/>
+houses are visited that no injury to their houses or contents will<lb/>
+result from the disinfection contemplated, that even the most delicate<lb/>
+fabrics can now be rendered free from contagion by a harmless process<lb/>
+of disinfection, and that it is absolutely necessary for the protection of<lb/>
+themselves and the community in which they live.</item>
+</list>
+</p>
+<pb n="3" id="f01825003"/>
+<p>MARINE-HOSPITAL SERVICE.<lb/>
+427<lb/>
+DISINFECTION OF HOUSES.</p>
+<p>
+<list type="ordered">
+<item>(<hi rend="italic">a</hi>) The use of formaldehyd generators or lamps is recommended for<lb/>
+the disinfection of houses and their contents. The details of their<lb/>
+management for generating and applying formaldehyd gas should be<lb/>
+fully understood by the sanitary officers in charge of the work.</item>
+<item>(<hi rend="italic">b</hi>) All the contents of the houses, including wearing apparel of<lb/>
+every description, should be spread about the rooms; bedding or mat-<lb/>
+tresses not used by the sick should be placed upon the chairs or tables,<lb/>
+or, better still, hung up in the yards and beaten; soiled bedding and<lb/>
+mattresses used by the sick should be steamed or destroyed; trunks,<lb/>
+closets, and bureau drawers, and all closed receptacles should be<lb/>
+opened and their contents exposed.</item>
+</list>
+</p>
+<p>AERATION.</p>
+<p>Both before and after disinfection the houses should be opened and<lb/>
+thoroughly aired--&ldquo;chilled,&rdquo; if the weather is favorable--and later on<lb/>
+all the rooms, closets, etc., should be exposed to several hours of airing<lb/>
+during freezing weather, and repeated at intervals during the winter.</p>
+<p>DISINFECTION OF STABLES, PENS, ETC.</p>
+<p>The use of bichloride of mercury solution, 1:500, or carbolic acid<lb/>
+solution, 50 parts to 1,000 parts (applied by means of a spray), is deemed<lb/>
+sufficient if all exposed surfaces are completely saturated. Privies may<lb/>
+be disinfected by chloride of lime or strong solution of carbolic acid.</p>
+<p>WALTER WYMAN,<lb/>
+<hi rend="italic">Supervising Surgeon-General</hi>.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

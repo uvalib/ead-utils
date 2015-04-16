@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t01617001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Essay: Biography, by Walter Reed, February 8, 1875</title>
+<title type="gmd">[electronic resource] </title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01617001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1875-02-08</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="place">Gloucester (Va.)</name>
+<name type="place">Flatbush (Long Island, N.Y.)</name>
+<name type="place">Charlottesville (Va.)</name>
+<name type="place">New York (N.Y.)</name>
+<name type="place">Randalls Island (N.Y.)</name>
+<name type="hospital">Infants Hospital (Randall's Island, New York, N.Y.)</name>
+<name type="hospital">King's County Hospital (Flatbush, Long Island, N.Y.)</name>
+<name type="hospital">Brooklyn City Hospital (Brooklyn, New York, N.Y.)</name>
+<name type="hospital">Eastern Dispensary (New York, N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value ="1875-02-08">February 8, 1875</date>
+<idno rend="suppress">01617001</idno>
+<title>Essay: Biography, by Walter Reed, February 8, 1875</title>
+</bibl>
+</head>
+<p>Reed writes an autobiography for the Army Examination Board.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1875-02-08">
+<head>Essay: Biography, by Walter Reed, February 8, 1875</head>
+<pb n="1" id="f01617001"/>
+<p><hi>WBB</hi></p>
+<p>February 8<hi rend="superscript">th</hi> 1875,<lb/>
+Rooms of Army Exam. Board</p>
+<p><hi rend="underline">Biography</hi>.</p>
+<p>I was born in Glou-<lb/>
+cester County, V<hi rend="superscript">a</hi> on the 13<hi rend="superscript">th</hi> day of Septem-<lb/>
+ber, 1851 &amp; have resided in the State of V<hi rend="superscript">a</hi> <del>going<lb/>
+all of my life</del> to within 6 years past. During<lb/>
+my residence in that state, I enjoyed the<lb/>
+usual opportunities of school education.<lb/>
+I entered what may be designated as <del>the
+
+</del><add>a</add><lb/>
+common school at the age of 6, and was<lb/>
+in <add>regular</add> attendance on such school, at dif-<lb/>
+ferent places in the state, till about the<lb/>
+age of 13. At this time, I entered a &ldquo;High<lb/>
+School&rdquo; in the town of Charlottesville, V<hi rend="superscript">a</hi>,<lb/>
+where I pursued more advanced studies,<lb/>
+such as Latin, Greek, Mathematics, etc.<lb/>
+This course was somewhat preparatory<lb/>
+to entering the University of V<hi rend="superscript">a</hi>, situated<lb/>
+in the same town. <del>At the</del> Accordingly<lb/>
+at the age of 16, I <del>entered</del> entered as a<lb/>
+student at the University of V<hi rend="superscript">a</hi> &amp; during<lb/>
+<pb n="2" id="f01617002"/>
+the following session (1867-8) was a member<lb/>
+of the Senior Latin &amp; Greek classes. I did<lb/>
+not graduate in either branch of my studies.<lb/>
+At the commencement of the following ses-<lb/>
+sion, Oct<hi rend="superscript">r</hi> 1<hi rend="superscript">st</hi>, 1868, I began the study of med-<lb/>
+icine, at this University &amp; was graduated,<lb/>
+July 1<hi rend="superscript">st</hi>, 1869. During the following Sept<hi rend="superscript">r</hi><lb/>
+I came to the City of New York &amp; matric-<lb/>
+ulated as a student of Medicine at the<lb/>
+Bellevue Hosp<hi rend="superscript">l</hi> Medical College. During<lb/>
+my attendance on lectures, at this college,<lb/>
+in December 1869, I stood a competitive<lb/>
+examination, for the position of Ass't. Physi-<lb/>
+cian, Infants Hosp<hi rend="superscript">l</hi>, Randall's Island, N.Y.<lb/>
+City, and was appointed as such, January 1<hi rend="superscript">st</hi><lb/>
+1870. This position I held till April<lb/>
+1<hi rend="superscript">st</hi> 1871. Was there appointed Ass't. Physi-<lb/>
+cian, King's Co. Hosp<hi rend="superscript">l</hi>, Flatbush, L. Island,<lb/>
+&amp; remained till August 1<hi rend="superscript">st</hi> 1871, at which<lb/>
+time I resigned, &amp; having stood a comp<del>pet</del><lb/>
+petitive exam<hi rend="superscript">n</hi>, was appointed, Resident<lb/>
+Surgeon, Brooklyn City Hosp<hi rend="superscript">l</hi>, Brooklyn,<lb/>
+N. York, which position I retained till<lb/>
+August 1<hi rend="superscript">st</hi>, 1872. At this time I was<lb/>
+<pb n="3" id="f01617003"/>
+appointed, District Physician, under the Dep't. of Public Charity<lb/>
+of New Y., a Attending Physician, Eastern Dispensary, New York,<lb/>
+which positions I retained till March 1<hi rend="superscript">st</hi> 1873.</p>
+<p>In June 1873, I was appointed Ass't. Sanitary Inspt<hi rend="superscript">r</hi><lb/>
+Brooklyn Board of Health, and remain as such at<lb/>
+present. I would respectfully state that during<lb/>
+my service as &ldquo;Resident Surgeon,&rdquo; Brooklyn City Hosp<hi rend="superscript">l</hi><lb/>
+I had the opportunity of daily observing &amp; treating<lb/>
+cases of Acute Surgery, &amp; also many Medical Cases.</p>
+<p>Respectfully submitted,<lb/>
+Walter Reed.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

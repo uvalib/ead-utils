@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00423001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Henry M. Hurd to Charlotte C. Sweitzer, April 14, 1904</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Hurd, Henry M.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00423001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1904-04-14</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Sweitzer, Charlotte C.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Paton, Dr.</name>
+<name type="person">Eliot, Charles William</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Lazear, Jesse W.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>3 pp.</extent>
+<date value="1904-04-14">April 14, 1904</date>
+<idno rend="suppress">00423001</idno>
+<title>Letter from Henry M. Hurd to Charlotte C. Sweitzer, April 14, 1904</title>
+</bibl>
+</head>
+<p>Hurd discusses the support of Johns Hopkins Hospital by Rockefeller. The Lazear memorial tablet is finished and the balance of the funds will go to Mabel Lazear.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1904-04-14">
+<head>Letter from Henry M. Hurd to Charlotte C. Sweitzer, April 14, 1904</head>
+<pb n="1" id="f00423001"/>
+<opener>
+<dateline>
+JOHNS HOPKINS HOSPITAL.<lb/>
+<date value="1904-04-14">April 14, 1904</date>
+</dateline>
+<salute>Dear Mrs. Sweitzer,</salute>
+</opener>
+<p>It is very kind<lb/>
+of you to remember our satisfaction<lb/>
+in securing through Mr. Rockefeller<lb/>
+the means of continuing the<lb/>
+work of the Hospital both as a<lb/>
+charitable institution and as an<lb/>
+adjunct to a large medical<lb/>
+school. Unless this generous<lb/>
+gift had been made the coming<lb/>
+two years would have brought<lb/>
+great anxieties and a serious<lb/>
+cutting down of necessary<lb/>
+work. We are very grateful<lb/>
+to the many friends who<lb/>
+<pb n="2" id="f00423002"/>
+been interested in our misfortunes<lb/>
+and who have shown so much<lb/>
+pleasure in our bettered prospects.</p>
+<p>You may be interested<lb/>
+to learn that D<hi rend="superscript">r</hi>. Paton has at<lb/>
+last arranged for the memorial<lb/>
+tablet for your son's memory<lb/>
+and has formed the plan<lb/>
+to send the balance of the<lb/>
+fund to Mrs. Lazear to<lb/>
+be used for her children.<lb/>
+The delay has been due<lb/>
+to causes beyond his control.</p>
+<p>The inscription for the tablet<lb/>
+has been prepared by<lb/>
+President Eliot of Havana<lb/>
+who has been warmly<lb/>
+interested in the memorial<lb/>
+<pb n="3" id="f00423003"/>
+tablet from the first.</p>
+<p>With many thanks for your letter</p>
+<closer>
+<salute>Sincerely yours</salute>
+<signed>Henry M. Hurd</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

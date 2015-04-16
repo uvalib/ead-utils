@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAGA0770">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report of Provisional Administration from December 1<hi rend="superscript">st</hi> 1907 to December 1<hi rend="superscript">st</hi> 1908, by Charles E. Magoon, [1909]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Magoon, Charles E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGA0770</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1909-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Cuba</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>5 pp.</extent>
+<date value="1909-00-00">1909</date>
+<idno rend="suppress">KAGA0770</idno>
+<title>Report of Provisional Administration from December 1<hi rend="superscript">st</hi> 1907 to December 1<hi rend="superscript">st</hi> 1908, by Charles E. Magoon, [1909]</title>
+</bibl>
+</head>
+<p>Magoon discusses the creation of the Nationalized Sanitary Department, which has caused the final extinction of yellow fever. He also mentions the violation of the quarantine restrictions by the United States. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1907-12-01">
+<head>Report of Provisional Administration from December 1<hi rend="superscript">st</hi> 1907 to December 1<hi rend="superscript">st</hi> 1908, by Charles E. Magoon, [1909]</head>
+<pb n="1" id="fKAGA0770"/>
+<p>REPUBLIC OF CUBA</p>
+<p>--------</p>
+<p>REPORT OF PROVISIONAL ADMINISTRATION<lb/>
+FROM DECEMBER 1ST. 1907 TO DECEMBER 1ST. 1908<lb/>
+BY<lb/>
+CHARLES E. MAGOON,<lb/>
+PROVISIONAL GOVERNOR.</p>
+<p>HAVANA<lb/>
+----<lb/>
+RAMBLA AND BOUZA, PRINTERS AND STATIONERS<lb/>
+33 AND 35 OBISPO STRET.<lb/>
+1909</p>
+<pb n="2" id="fKAGA0780"/>
+<p>141</p>
+<p>DEPARTMENT OF<lb/>
+AGRICULTURE,<lb/>
+INDUSTRY AND<lb/>
+COMMERCE.</p>
+<p>The Department of Agriculture, Industry and Commerce<lb/>
+has realized good service to further<lb/>
+the ends for which it was created.<lb/>
+The Section of Agriculture has<lb/>
+issued numerous publications for the spread of knowledge per-<lb/>
+taining to the manner of extending and improving Cuban crops.<lb/>
+Such publications have also been issued by the Agricultural Ex-<lb/>
+periment Station. The Agricultural Exposition held last year,<lb/>
+in connection with the Carnival Festivities, was participated in<lb/>
+by the Section of Agriculture and the Experiment Station and<lb/>
+made a gratifying success. The Section was also active during<lb/>
+the year in distributing vaccine for the inoculation of cattle.</p>
+<p>The Section of Industry and Commerce has been engaged<lb/>
+in initiating work for the first industrial census of Cuba. The<lb/>
+Office of Immigration and Colonization has furnished useful in-<lb/>
+formation to immigrants arriving in the country and has found<lb/>
+places for almost 10,000 immigrants during the past year.</p>
+<p>The Division of Forests and Mines has completed a map of<lb/>
+Santiago de Cuba, showing the soil and surface conditions, has<lb/>
+assisted in the division of sixteen of the old estates in common<lb/>
+in the eastern Provinces and has demarcated 105 mines.</p>
+<p>The Bureau of Trademarks and Patents has had an unusual<lb/>
+amount of routine work which has been despatched with greater<lb/>
+promptness than before, by reason of the introduction of the<lb/>
+card index system and other new methods. The most important<lb/>
+work accomplished was the classification of the records and the<lb/>
+preparation of three albums of trademarks.</p>
+<p>The efficiency of the Weather Bureau was increased by its<lb/>
+transfer to a new building especially erected for the purpose at<lb/>
+an advantageous location on the heights overlooking Havana<lb/>
+Bay. The Service has been extended and close relations established<lb/>
+with the United States Weather Bureau. The temporary Fish<lb/>
+Commission attached to this office has satisfactorily resolved<lb/>
+questions which had arisen between the authorities and fisher-<lb/>
+men with respect to the utilization of fisheries on the Cuban<lb/>
+Coast.</p>
+<p>The most important sanitary features of the past year have<lb/>
+been:</p>
+<p>SANITARY<lb/>
+DEPARTMENT.</p>
+<p>1st. The control and final extinction<lb/>
+of yellow fever throughout the territory of the Republic, and,</p>
+<pb n="3" id="fKAGA0790"/>
+<p>142</p>
+<p>2nd. The steady progress which has been made by the Na-<lb/>
+tionalized Sanitary Department in municipal sanitation through-<lb/>
+out the Island.</p>
+<p>Yellow fewer, which had claimed thousands of victims in<lb/>
+Spanish times, particularly in the cities of Havana and Santia-<lb/>
+go, was suppressed under the Military Government of the<lb/>
+United States. There were no further cases until October 1905,<lb/>
+when it reappeared in Havana, later spreading to other parts of<lb/>
+the Island. One of the tasks of the Provisional Administration<lb/>
+was to combat and extirpate it. Energetic measures, which<lb/>
+necessarily involved the expenditure of large sums of money,<lb/>
+were taken to secure this result. Since effective preventive work<lb/>
+in the municipalities outside of Havana was not practicable so<lb/>
+long as such measures were administered through local sanitary<lb/>
+authorities, the whole sanitary service was nationalized. The<lb/>
+work of fumigation and mosquito prevention was pushed with<lb/>
+such success that in the month of February, 1908, the dread<lb/>
+disease was practically banished from the Island.</p>
+<p>Of the seventy-nine cases of yellow fever reported during<lb/>
+the year, fifty-three occurred between the first of November,<lb/>
+1907, and the eighteenth of February, 1908, and are to be con-<lb/>
+sidered as the aftermath of last year's outbreak. Since the latter<lb/>
+date, there has been a local outbreak in the Department of Orien-<lb/>
+te which was promptly brought under control, but no case has<lb/>
+occurred in the five other provinces of the Island, with the ex-<lb/>
+ception of a single sporadic case in Havana on September 7th,<lb/>
+the origin of which has never been satisfactorily determined.<lb/>
+The last case in Havana previous to this one had occurred on<lb/>
+January 30th. The case of September 7th did not, however,<lb/>
+create a focus of infection and was not followed by any<lb/>
+secondary case, although all the non-immunes in that district<lb/>
+of the city were carefully watched for the appearance of<lb/>
+such cases. No case has occurred anywhere in the Island<lb/>
+since that date. In spite of the fact that, with the exception<lb/>
+of this sporadic case in Havana late in the season, yellow<lb/>
+fever did not appear anywhere in Cuban territory except in the<lb/>
+most eastern of the six provinces, where it was easily brought<lb/>
+under control, and would have only justified local quarantine, a<lb/>
+general quarantine was declared against the whole Island by the<lb/>
+United States Public Health and Marine Hospital Service and<lb/>
+was maintained against the three western provinces for a period<lb/>
+<pb n="4" id="fKAGA0800"/>
+143<lb/>
+of four months and against the central provinces of Santa Cla-<lb/>
+ra and Camag&uuml;ey for a period of five months, during which time<lb/>
+no case of yellow fever occurred in any of these provinces. This<lb/>
+quarantine was declared at a time when no case of yellow fever<lb/>
+had appeared in the Island for seven weeks. Events have there-<lb/>
+fore justified the representations which were made by this Gov-<lb/>
+ernment at the time it was declared that the quarantine was<lb/>
+without reason and was a violation of the sanitary agreement<lb/>
+existing between Cuba and the United States. Such a procedure<lb/>
+seems also a poor requital of the earnest and successful efforts<lb/>
+which have been made by the Cuban people to establish good<lb/>
+sanitary conditions in the Island, in which the Sanitary Depart-<lb/>
+ment has spent during the two years of the Provisional Govern-<lb/>
+ment $1,130,000.00 in the campaign against yellow fever.<lb/>
+There has been spent in addition $2,200,000.00 on general sani-<lb/>
+tary work. The Department of Public Works has during the<lb/>
+same time spent over three and a half millions of dollars on mu-<lb/>
+nicipal sanitary services, not including permanent sanitary works<lb/>
+such as systems of water supply, sewerage and drainage. It is<lb/>
+therefore a very conservative statement to say that the Provi-<lb/>
+sional Government has spent more than one-tenth of the nation-<lb/>
+al income on sanitation.</p>
+<p>The thorough character of the campaign against yellow<lb/>
+fever as well as the system of sanitary inspections generally is<lb/>
+shown by the report of the Local Health Officer of Havana. The<lb/>
+city is divided into fifty-two districts, each under an inspector<lb/>
+who makes house to house inspections and is held to a strict re-<lb/>
+sponsibility that no unsanitary conditions, and especially no<lb/>
+breeding places for mosquitoes are overlooked in these inspec-<lb/>
+tions. This inspection extends from roof to cellar and includes<lb/>
+the premises as well as the house. 584,222 house inspections of<lb/>
+this character were made during the past year, being an average<lb/>
+of more than eighteen inspections for each house in the city dur-<lb/>
+ing that period. 1065 deposits of water containing the larvae<lb/>
+of mosquitoes were found in these inspections, and an expert<lb/>
+examination of the larvae showed that 589 of them were the<lb/>
+larvae of stegomyia, the yellow fever carrying variety. This<lb/>
+variety of mosquito is now so rare in Havana that it is believed<lb/>
+that it is impossible for yellow fever to spread if introduced into<lb/>
+the city. With the completion of the sewer system and the aboli-<lb/>
+tion of the cesspools which now exist in connection with almost<lb/>
+<pb n="5" id="fKAGA0810"/>
+144<lb/>
+every house, the prevention of mosquitoes breeding will be great-<lb/>
+ly facilitated, and it is believed that it will be easy to keep the<lb/>
+stegomyia mosquitoes permanently below the yellow fever limit<lb/>
+--that is, below the limit of the number at which the spread of<lb/>
+yellow fever becomes practicable.</p>
+<p>The year has been marked by a steady and progressive de-<lb/>
+velopment of the municipal sanitary services which are now con-<lb/>
+ducted by the National Sanitary Department in all the towns o<unclear>f</unclear><lb/>
+the Island of over one thousand inhabitants, 137 in number, be<unclear>-</unclear><lb/>
+sides special services in a few of the more important village<unclear>s</unclear><lb/>
+having a less population. The activity of this development <unclear>is</unclear><lb/>
+shown by the fact that equipment and supplies to the value <unclear>of</unclear><lb/>
+$349,326.00 have been purchased and issued to the various m<unclear>u-</unclear><lb/>
+nicipalities exclusive of Havana. In the latter city the service <unclear>of</unclear><lb/>
+street cleaning and removal of garbage has been left temporari<unclear>ly</unclear><lb/>
+under the administration of the Department of Public Wor<unclear>ks.</unclear><lb/>
+I am informed by the Chief Sanitary Officer that this develo<unclear>p-</unclear><lb/>
+ment of municipal sanitation has resulted in a marked dimin<unclear>u-</unclear><lb/>
+tion in the National death rate, and I am satisfied that it <unclear>has</unclear><lb/>
+given great satisfaction to the Cuban people.</p>
+<p>REPORT</p>
+<p>The victory over yellow fever leaves the Sanitary Dep<unclear>art-</unclear><lb/>
+ment free to devote itself to the still greater and more import<unclear>ant</unclear><lb/>
+war against tuberculosis. This has, however, not been negle<unclear>cted</unclear><lb/>
+during the past year, which has seen the completion of the sa<unclear>na-</unclear><lb/>
+torium for tuberculosis, La Esperanza, with accommodations <unclear>for</unclear><lb/>
+sixty patients, and the completion of the new, handsome <unclear>and</unclear><lb/>
+commodious building in Havana at the corner of Zulueta <unclear>and</unclear><lb/>
+Apodaca Streets, which is occupied conjointly by the dispen<unclear>sary</unclear><lb/>
+for tuberculosis and the Tamayo dispensary for general dise<unclear>ases</unclear><lb/>
+The principal needs of this campaign are the establishmen<unclear>t of</unclear><lb/>
+at least two additional sanatoriums, one in the mountains <unclear>[unclear]</unclear><lb/>
+Santa Clara Province and the other in the province of Orie<unclear>[unclear]</unclear><lb/>
+and the creation of dispensaries for tuberculosis in each of <unclear>the</unclear><lb/>
+larger cities of the Island. A feature essential to efficient w<unclear>[unclear]</unclear><lb/>
+in these dispensaries which has not yet been introduced <unclear>[unclear]</unclear><lb/>
+Cuba, is the introduction of trained visiting nurses who <unclear>[unclear]</unclear><lb/>
+visit the homes of the patients under treatment, to see that <unclear>[unclear]</unclear><lb/>
+carry out the instructions which they have received, and to <unclear>[unclear]</unclear><lb/>
+their homes in as good sanitary condition as may be practic<unclear>[unclear]</unclear></p>
+</div1>
+</body>
+</text>
+</TEI.2>

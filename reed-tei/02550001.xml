@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t02550001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Jefferson Randolph Kean to [Walter Reed], November 9, 1901</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Kean, Jefferson Randolph</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02550001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1901-11-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Reed, Walter</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kean, Cornelia Knox</name>
+<name type="person">Slocum, Capt.</name>
+<name type="person">Slocum, Mrs.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Roosevelt, Col.</name>
+<name type="person">Welch, William H.</name>
+<name type="person">Councilman, Dr.</name>
+<name type="person">Borden, William C.</name>
+<name type="person">Kean, Bobbie</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Carroll, James</name>
+<name type="person">Church, Mr.</name>
+<name type="person">Crozier, Capt.</name>
+<name type="person">Vaughan, Victor C.</name>
+<name type="person">Shakespeare, Edward O.</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Santiago (Cuba)</name>
+<name type="place">Manzanille (Cuba)</name>
+<name type="place">Paris (France)</name>
+<name type="place">Puerto Principe (Cuba)</name>
+<name type="place">Ann Arbor (Mich.)</name>
+<name type="publication">Army and Navy Journal</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>6 pp.</extent>
+<date value="1901-11-09">November 9, 1901</date>
+<idno rend="suppress">02550001</idno>
+<title>Letter from Jefferson Randolph Kean to [Walter Reed], November 9, 1901</title>
+</bibl>
+</head>
+<p>Proposing strategy to advance Reed's candidacy for Surgeon General; Results of Carroll's experiments - organism passes through filter; includes typescript of article from the Army and Navy Journal in favor of Reed's promotion.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1901-11-09">
+<head>Letter from Jefferson Randolph Kean to [Walter Reed], November 9, 1901</head>
+<pb n="1" id="f02550001"/>
+<opener>
+<dateline>
+Menendez Steamship Line,<lb/>
+&ldquo;Reina de los Angeles&rdquo;,<lb/>
+En route Cienfuegos to Santiago,<lb/>
+<date value="1901-11-09">November 9th, 1901.</date>
+</dateline>
+<salute>My dear &ldquo;Comandante&rdquo;:</salute>
+</opener>
+<p>Your two letters came at least a week ago,<lb/>
+but I have been so much occupied that I have not had a chance to<lb/>
+write to you, though I have thought much ever the plan of campaign<lb/>
+and various things which were in your letter.</p>
+<p>I left Havana Thursday morning, with Mrs. Kean, Captain and<lb/>
+Mrs. Slocum and some other jolly people, on an inspection tour to<lb/>
+Santiago, and will take advantage of my leisure time to send you a<lb/>
+letter from Manzanille.</p>
+<p>I <del>would much rather</del><add>am much flattered</add>  that you would leave your affairs for the<lb/>
+future in my humble hands. I think we have plenty of time in which<lb/>
+to announce your candidacy, and will wait until I have another talk<lb/>
+with General Wood before doing so. The General is also bound for<lb/>
+Santiago on his yacht the &ldquo;Kanawha&rdquo;, and I expect to see him there,<lb/>
+and go with him around the Island.</p>
+<p>There was one thing in your letter which seemed to me both a<lb/>
+mistake and illogical, and that was that you should not write him<lb/>
+and thank him for his support. You say in the same sentence that<lb/>
+you are not supposed to know what he has told me, and yet ask me<lb/>
+to thank him for you. I think you should by all means write to him.<lb/>
+<pb n="2" id="f02550002"/>
+-2-<lb/>
+You know that Henry IV said that Paris was well worth a mass, and<lb/>
+that Brigadiership certainly calls for thanks. Remember that these<lb/>
+be the days of the strenuous life, and both General Wood and<lb/>
+Colonel Roosevelt are strenuous fellows, who will probably think<lb/>
+none the worse of a man for trying to get his deserts. <hi>Palman<lb/>
+qui meruit ferat</hi> is our motto, but our candidate must not only do<lb/>
+his stunt and deserve the prize, but must afterwards stand before<lb/>
+the judges and put out his hand for the palm. Ye strenuous men<lb/>
+will not think well of the athlete who walks home after the race<lb/>
+and leaves word that his prize may be sent after him. From all<lb/>
+of which you will see, my dear Comandante, that I think the constant<lb/>
+breathing of the balmy ether of scientific life has made you a<lb/>
+little--will you excuse the word if I say, finical in your attitude<lb/>
+in this matter. Your work deserves the prize, and I see no reason<lb/>
+why you should not let your light so shine before men that they may<lb/>
+recognize the fact, as do we all who know you and your work.</p>
+<p>I think the General will go north about the end of the month,<lb/>
+and I hooe you will not fail to call on him. I would also venture<lb/>
+to suggest that you get him to take you to see the President.<lb/>
+There is nothing <del>lige</del> like having a man know you personally if you<lb/>
+want him to remember you. I think it is important that you should<lb/>
+know the President, and that General Wood should speak to him<lb/>
+before he binds himself by any promises to anyone else. He is at<lb/>
+times, as we all know, a somewhat impulsive man, who is apt to do<lb/>
+these things. If you meet him, and the General speaks to him in<lb/>
+<pb n="3" id="f02550003"/>
+-3-<lb/>
+your behalf, I think we can say with Commodore Vanderbilt, &ldquo;The<lb/>
+public be damned&rdquo;. Still, I think we should take them into our<lb/>
+confidence after a little while, and get the valuable support of<lb/>
+your professional friends. Is there any reason why you should<lb/>
+not write to Professor Welch, tell him of your aspirations and<lb/>
+ask his support? And so with <add>Dr.</add> Councilman and some of your friends<lb/>
+in New York. Every little helps, as the old woman said upon an<lb/>
+occasion which you will remember, and which I am too delicate to<lb/>
+mention. If you will put your confounded modesty in your <del><unclear></unclear></del><lb/>
+pocket long enough to do this, I think it will help. Shall I write<lb/>
+to Borden, who seems to be a sponge-holder of yours, and consult him?<lb/>
+I would like to do so if you do not object.</p>
+<p>Mrs. Kean is very well, and is hugely enjoying this trip. It<lb/>
+is the first time she has ever seen separated from the children,<lb/>
+and although she was wild to go, it was quite a wrench for her to<lb/>
+separate herself from Bobbie, who is now getting to be at the<lb/>
+attractive age, and is a fine little lad. She will be gone from<lb/>
+home a couple of weeks, but if I have to follow General Wood around<lb/>
+by the north coast, I fear I will not be home for three weeks or more.</p>
+<p>Please give my cordial regards to your Se&ntilde;ora, also to Carroll,<lb/>
+whose work down here seems to have been most valuable, and to open<lb/>
+up new vistas of fascinating interest. What sort of an organism<lb/>
+can it be which can pass through a Pasteur filter? It must be <add>the</add> most<lb/>
+<del>monacular</del><add>molecular</add> in its smallness, and far beyond the reach of the micro-<lb/>
+scope. Why don't you and he turn over the kids at the school to<lb/>
+someone <del>is</del> else and come down here to continue this vastly import-<lb/>
+<pb n="4" id="f02550004"/>
+-4-<lb/>
+ant work? A serum-therapy may now perhaps be easy to find, but if<lb/>
+you waste your winter teaching your doctors the difference between<lb/>
+a plasmodium and a vacuale, some other fellow may get on to it.</p>
+<p>Good-by, my dear and very eminent scientist. Believe me, ever,</p>
+<closer>
+<salute>Your sincere friend,</salute>
+<signed>J.R. Kean.</signed>
+To Major Walter Reed<lb/>
+Surgeon USArmy<lb/>
+Army Medical Museum<lb/>
+Washington, D.C.<lb/>
+</closer>
+</div1>
+<div1 type="document" n="1901-11-09">
+<pb n="5" id="f02550005"/>
+<p>I sent this <unclear>ertest</unclear> little notice off to the<lb/>
+Army &amp; Navy Journal just before I left Havana<lb/>
+for Puerto Principe- It appeared in the issue of<lb/>
+Dec. 14<hi rend="superscript">th</hi> and I hope meets your approval<lb/>
+The heading &amp; signature were added by her <unclear>church</unclear><lb/>
+<unclear>WR</unclear></p>
+<p>Much of the clan and spirit of the French Revolution<add>ary</add>-armies<lb/>
+has been ascribed to the fact that every soldier felt that the Marshal's<lb/>
+baton might be reposing at the bottom of his knapsack. This feeling<lb/>
+has already been produced to no small extent in the staff corps of the<lb/>
+army by the remarkable leap to the head of his corps of Captain<lb/>
+Crozier of the Ordinance - a promotion which has been generally<lb/>
+announced as the first step of a policy of &ldquo;revit<del>i</del><add>a</add>lizing&rdquo; the staff<lb/>
+corps. In the Medical corps especially, which has its full share<lb/>
+of able and ambitious officers, and for which a new head has to be<lb/>
+selected in the next half-year, there is quite a wide-spread stimu-<lb/>
+lation of ambitions and a tendency to search knapsacks for a<lb/>
+concealed baton.</p>
+<p>Among a dozen names which are now being mentioned in connection<lb/>
+with the surgeon-generalcy, it is claimed by the friends of Major<lb/>
+Walter Reed that his name should stand first on the list of <add>the</add> men who<lb/>
+have done things. It is, in fact, impossible to match in the annals<lb/>
+of the Medical corps of our military services, or even perhaps in<lb/>
+those of the Medical profession in America, a performance of such<lb/>
+vast and far-reaching importance as the demonstration<del>s</del> last year by<lb/>
+Dr. Reed of the transmission of yellow fever by the mosquito.<lb/>
+Professor Wel<del>s</del><add>c</add>h, of John Hopkins', who is the leading Pathologist of<lb/>
+America, has already announced that no event in medical history so<lb/>
+important to mankind has occurred since the discovery of vaccination.<lb/>
+General Wood is said to have stated that it is worth to the United<lb/>
+States the cost of the Spanish-American war. If this be a just<lb/>
+<pb n="6" id="f02550006"/>
+measure of the value of this discovery - and certainly in such a matter<lb/>
+there are few better judges than General Wood - it would seem that<lb/>
+among the many officers to whom the war has brought the general's<lb/>
+stars, Major Reed should have a place.</p>
+<p>Major Reed is now in the prime of life, being forty-eight years<lb/>
+of age, and is nearing the head of the list of majors in his corps.<lb/>
+His name was well known among scientific and professional men before<lb/>
+his work of last year made him famous. His investigation in connection<lb/>
+with Dr. Victor C. Vaughn, of Ann Arbor, and Dr. Shakespeare of the<lb/>
+causes of the spread of typhoid fever in military camps in 1898<lb/>
+was a work of immense labor and most enlightening results, and would,<lb/>
+in another country, have been certain to have brought him some<lb/>
+reward.</p>
+<p>If the rule of the future is to be that promotion will be for<lb/>
+results accomplished, rather than for length of service, it would seem<lb/>
+that the claims of Major Reed could not be overlooked.</p>
+<p>Dec 1891<lb/>
+Dec 1901?<lb/>
+B</p>
+</div1>
+</body>
+</text>
+</TEI.2>

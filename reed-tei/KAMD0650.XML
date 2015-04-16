@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0650">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Extract from Surgeon General's Annual Report, 1909</title>
+<title type="gmd">[electronic resource]</title>
+<author>unknown</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0650</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1909-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Fauntleroy, P. C.</name>
+<name type="person">Church, Dr.</name>
+<name type="person">Thomason, H. D.</name>
+<name type="person">Allen, John H.</name>
+<name type="person">Bevans, J. L.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1909-00-00">1909</date>
+<idno rend="suppress">KAMD0650</idno>
+<title>Report: Extract from Surgeon General's Annual Report, 1909</title>
+</bibl>
+</head>
+<p>The report concludes that improved sanitation efforts between 1906 and 1909 left Cuba entirely free of yellow fever. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1909-00-00">
+<head>Report: Extract from Surgeon General's Annual Report, 1909</head>
+<pb n="1" id="fKAMD0650"/>
+<p>Extract from Surgeon General's Annual Report, 1909, page 135:</p>
+<p>Sanitary affairs in Cuba have been during the period of intervention<lb/>
+under the administrative control of Maj. J. R. Kean, Medical Corps, assist-<lb/>
+ed by four medical officers detailed from the army of Cuban pacification,<lb/>
+viz, Maj. P. C. Fauntleroy, Maj. J. R. Church, and Capts. John H. Allen and<lb/>
+Henry D. Thomason. Capt. J. L. Bevans was also assigned to duty with the<lb/>
+provisional government in connection with the administration of hospitals<lb/>
+and charitable institutions. The intervention in September, 1906, found<lb/>
+the sanitary administration of the Cuban cities outside of Havana in a state<lb/>
+of great neglect, due to lack of funds and of proper organization and meth-<lb/>
+ods. Yellow fever had also been reintroduced into the island and had<lb/>
+spread widely into the small towns and sugar centrals of the interior, dif-<lb/>
+fering in this respect from its former habit of clinging to the larger sea-<lb/>
+port towns. This change of behavior was due to the great increase in the<lb/>
+number of nonimmunes among the country population and to the increased fa-<lb/>
+cilities for travel. The method of combating the disease formerly devised<lb/>
+by Gorgas for Havana were extended to other foci of infection and modified<lb/>
+to suit changed conditions. Political conditions required the distribution<lb/>
+of the American troops in the various cities, where they were much exposed<lb/>
+to this infection; yet so perfect was the cooperation between the medical<lb/>
+service of the army and the sanitary authorities that outbreaks of yellow<lb/>
+fever among our soldiers have been few and promptly checked. Since Feb-<lb/>
+ruary 18, 1908, there has been no case of yellow fever in the whole island<lb/>
+west of Santiago, except one mysterious case in Havana in September, and<lb/>
+the outbreak in the extreme eastern end of the island was easily controlled.<lb/>
+Yet the freedom of all Cuba except the most eastern of the six provinces<lb/>
+from the disease throughout the summer did not save the island from a<lb/>
+<pb n="2" id="fKAMD0660"/>
+-2-<lb/>
+blanket quarantine by the United States, and this in spite of an interna-<lb/>
+tional sanitary treaty to which both nations are parties, which provides<lb/>
+among other things for the localization of quarantine.</p>
+<p>The termination of the provisional government on January 28, 1909,<lb/>
+left the island entirely free from yellow fever, and it has so remained.<lb/>
+The sanitary department was also completely reorganized, and the quaran-<lb/>
+tine service and department of charities consolidated with it into a de-<lb/>
+partment of health and charities, at the head of which is a secretary, who<lb/>
+is a member of the cabinte. The sanitary service of all municipalities<lb/>
+was nationalized by being placed in charge of sanitary officers appointed<lb/>
+by the President. The expenses of the municipal sanitary services are<lb/>
+paid from the national treasury, and each municipality, in consideration<lb/>
+thereof, pays into the treasury one-tenth of its income. Uniformity of<lb/>
+method of administration and adequate financial support being secured by<lb/>
+the admirable sanitary law promulgated by the provisional governor, the<lb/>
+Republic of Cuba has in sanitary administration advanced to the front<lb/>
+rank among the nations.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

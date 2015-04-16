@@ -1,0 +1,1463 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04208002">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Memorandum from Philip Showalter Hench, March 1948</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04208002</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1948-03-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education">YES</term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion">YES</term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+
+<name type="person">Moran, John J.</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Nogueira, Pedro</name>
+<name type="person">De Kruif, Paul</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Peabody, James E.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Neate, John S.</name>
+<name type="person">Andreu, Jose</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Grau, President</name>
+<name type="person">Rojas, Maria Teresa Loma viuda de</name>
+<name type="person">Rojas, Lidia</name>
+<name type="person">Cabrera, Julia Lomas</name>
+<name type="person">Macia, Adrian</name>
+<name type="person">Zunzunegui, Julian</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Alvarez, Joaquin Maria</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Edwards, Major</name>
+<name type="person">Maass, Clara Louise</name>
+<name type="person">Fernandez, Fernando Lopez</name>
+<name type="person">McCoy, Frank R.</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Finlay, Frank</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Delgado, [s.n.]</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Ramos, Domingo</name>
+<name type="person">Albertini, A. Diaz</name>
+<name type="person">Tillisch, Jan</name>
+<name type="person">Phillips, R. Hart</name>
+<name type="person">Presno, Jose A.</name>
+<name type="person">O'Reilly, Robert M.</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Leon, Estela Agramonte Rodriguez</name>
+<name type="person">Valderrama, Esteban</name>
+<name type="person">Haskins, Arthur</name>
+<name type="person">Carbonell, Felipe Ponce</name>
+<name type="person">Colete, Honorato</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Marianao (Cuba)</name>
+<name type="place">San Jose farm (Cuba)</name>
+<name type="place">Camp Columbia (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="hospital">Las Animas Hospital (Cuba)</name>
+<name type="hospital">Military Hospital No. 1 (Cuba)</name>
+<name type="hospital">Calixto Garcia Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>26 pp.</extent>
+<date value="1948-03-00">March 1948</date>
+<idno rend="suppress">04208002</idno>
+<title>Memorandum from Philip Showalter Hench, March 1948</title>
+</bibl>
+</head>
+<p>Hench discusses, in detail, his trip to Cuba. He writes that Moran and Nogueira were of great help to him. Moran stated that he was the first to volunteer for the experiments. Hench describes his visit to Camp Lazear, the Finca San Jose, Camp Columbia, Las Animas Hospital, General Wood's old headquarters, the site of the 1901 Pan-American Medical Congress, Finlay's home, and the Finlay Institute.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1948-03-00">
+<head>Memorandum from Philip Showalter Hench, March 1948</head>
+<pb n="1" id="f04208002"/>
+<p><hi>CONFIDENTIAL MEMORANDUM OF TRIP TO CUBA,</hi> <date value="1948-03-02"><hi>March 2 - 11, 1948</hi>.</date>
+Philip S. Hench</p>
+<p>On March 1, Mary and I left Palm Beach for Miami and the boat to Havana,<lb/>
+arriving at Havana early Tuesday morning, March 2. The sunrise-sky was lightly<lb/>
+overcast as we entered the <hi>harbor</hi> but I took photos and movies, especially of<lb/>
+<hi><unclear>LaFuerza</unclear> and the adjacent City Hall</hi> (General Wood's old headquarters, 1900).</p>
+<p>1-2<lb/>
+3</p>
+<p>On arrival at the Hotel Nacional we found messages from Johnny Moran,<lb/>
+and from Drs. Pedro Nogueira and Felipe Carbonell. These men were invaluable to<lb/>
+me and showered us with courtesies and kindness.</p>
+<p>I will discuss my Havana trip, not in calendar sequence, but according to<lb/>
+persons, places and incidents.</p>
+<p>1. <hi>John J. Moran</hi>: &ldquo;Johnny&rdquo; is not well. Last fall he almost died from<lb/>
+complications due to duodenal ulcer. He is recovering fairly well but is still on<lb/>
+a strict diet and lies down for an hour's rest after each meal. Hence he was unable<lb/>
+to accept my invitations to dine here and there. Before I arrived he had written me<lb/>
+that he didn't expect to be able to go around with me (constantly as he had on pre-<lb/>
+vious visits) or to help me much. But we couldn't keep him down! He went with me<lb/>
+practically everywhere, only taking time off for his meals and siesta. He was a<lb/>
+great help as always even though he is failing.</p>
+<p>He fears the need of an operation and refuses to have it done in Havana.<lb/>
+I urged him to return to the Mayo Clinic after his (possible) visit to Washington<lb/>
+May 12 (meeting of the International Congress on Tropical Medicine at which he is<lb/>
+to be an invited guest and at which I will give an address on the Conquest of Yellow<lb/>
+Fever). I asked him to be my house guest and assured him I would see to it that he<lb/>
+would pay nothing either for medical and surgical care or even for hospital expenses.<lb/>
+But he refuses to come, for the following reason which I finally wormed out of him.</p>
+<p>He receives monthly $125.00 from the government, $135.00 from the Sun Oil<lb/>
+Company (retirement pension), a total of $260.00. Due to inflation (and things cost<lb/>
+about 15 per cent more in Cuba than in the United States, as we soon found out) it<lb/>
+costs him about twice that much to live. He is using up his savings at a rate such<lb/>
+that he frankly says they will be exhausted in about two years. He &ldquo;can't afford&rdquo; to<lb/>
+live longer than that! He hopes to die before his savings are exhausted so that his<lb/>
+insurance will be left in toto for Mrs. Moran (no children), &ldquo;just enough for her to<lb/>
+live on in relative <unclear>domfort</unclear>&rdquo;. He is a proud Irishman and won't accept help. I sug-<lb/>
+gested very discretely that perhaps he could cut down on expenses. (They have quite<lb/>
+a nice apartment and a <unclear>maid.</unclear>) But that seemed out of the question as no Cuban &ldquo;lady&rdquo;<lb/>
+ever does her own house work. It just isn't done and they say maid service is cheap<lb/>
+anyhow.</p>
+<pb n="2" id="f04208003"/>
+<p>- 2 -</p>
+<p>Apropos of this, he hopes to come to Washington in May. I understand that<lb/>
+at least his expenses (perhaps not Mrs. Moran's) will be paid. But he hates to accept<lb/>
+even his own expenses, won't come without her and doesn't want to ask for hers. So<lb/>
+even if he is well, he may not come. He expects to finish the rigorous dietary regime<lb/>
+April 1 and be thereafter on a lenient schedule consistent with travel.</p>
+<p>Despite his condition he came along with Dr. Nogueira and me on several<lb/>
+occasions when we didn't actually need him (though I was delighted to have him).<lb/>
+Obviously he was having great fun with it all and I imagine that, after I left, he<lb/>
+missed the hurly burly of my 10 days' visit.</p>
+<p>About two years ago he was stimulated by de Kruif to write his story; if<lb/>
+it was satisfactory, &ldquo;sufficiently dramatic and of book-length&rdquo;, de Kruif hinted that<lb/>
+he'd help him get it published. (Knowing something about de Kruif's greater interest<lb/>
+in the dramatic than in truth, I warned Moran not to commit himself irrevocably to de-<lb/>
+Kruif. I promised to help in any way I could.) Moran wrote a few pages in a fighting<lb/>
+mood, &ldquo;to put the Cuban Finlay-lovers and Reed-disregarders in their place&rdquo;. He sent<lb/>
+these samples to General Kean and to me. Independently, we both urged him to change<lb/>
+his tactics. We urged him to tell his story in a straight-forward, non-combative<lb/>
+manner. After a false start he did so and spent several months (June - September 1947)<lb/>
+writing about 50 pages single spaced, about 600 words to a page. He &ldquo;put his whole<lb/>
+heart into it&rdquo;, as he said. But then de Kruif told him it wasn't book-length and<lb/>
+withdrew from the matter. Moran was so upset that he destroyed the manuscript in<lb/>
+October 1947. When I heard this, I was sick at heart. I repeatedly asked if he<lb/>
+didn't have a carbon copy, remnants of pencil-notes, etc. He insisted grimly that<lb/>
+he'd destroyed the only copy. He'd made no extra copy. He'd typed it himself, page<lb/>
+by page, correcting each page as he went along, ending with only one copy. He said<lb/>
+it had taken him about two hours just to tear up the manuscript, page by page, into<lb/>
+shreds. He believes the nervous effort and disappointment which this episode involved<lb/>
+was the cause of his breakdown last fall. When I asked if he thought he could ever<lb/>
+rewrite it he almost shouted, &ldquo;No&rdquo;. He said &ldquo;Anyhow there was nothing in it you don't<lb/>
+already know&rdquo;. (I'm sick about this. If he<add>'d</add> <hi>only</hi> let me help. If he'd only let me<lb/>
+know the situation. I'm sure that his story included some details of interest, not<lb/>
+clear to me. The only way I can repair the damage is to subject him to some more<lb/>
+question-periods which he can take calmly and leisurely.)</p>
+<p>I did ask him a few questions. He recognized the old photo of the group of<lb/>
+men under the tree at Camp Lazear, identified Kissinger and Cooke; also the photo of<lb/>
+the yellow fever huts (from Mrs. Reed's scrapbook) which he verified despite Lambert's<lb/>
+uncertainty thereon. But he insisted that not all the sick volunteers were cared for<lb/>
+in the huts. He insists that some were cared for in tents. "There were <unclear>no</unclear> tents there<lb/>
+in November 1900. But in December when he developed yellow fever he was removed to<lb/>
+the &ldquo;yellow fever hospital&rdquo; and cared for alone in one of two hospital tents set end<lb/>
+to end. A nurse had her desk in the second tent. The tents had flooring.</p>
+<p>As to the volunteering of Kissinger and himself, he repeated to me quietly<lb/>
+and firmly his &ldquo;first version&rdquo;. He insists that he talked the matter over with Kis-<lb/>
+singer one night, told Kissinger he (Moran) was going to volunteer the next morning<lb/>
+and did so, going to Reed alone. &ldquo;If Kissinger had already volunteered, he made no<lb/>
+mention of it that evening to me throughout our long conversation!&rdquo; Of course Kis-<lb/>
+singer also insisted he went alone; they must have gone alone and separately. Both<lb/>
+were essentially honest men and the only way honest men could differ about such a<lb/>
+thing is by having gone alone and each having honestly thought he was first. However,<lb/>
+<pb n="3" id="f04208004"/>
+- 3 -<lb/>
+I've spent hours with each man and Moran's memory and <hi>credibility</hi>, his care in the<lb/>
+details he <hi>knew</hi>, his refusal to go beyond what he knew and remembered, and my veri-<lb/>
+fication of just about 95% of what Moran has <unclear>told</unclear> me (but only about 50 per cent of<lb/>
+what Kissinger told me) makes me believe firmly that Moran went first even though<lb/>
+Kissinger was first of the two to be bitten and first to become ill. Moran has always<lb/>
+felt bad about the fact that, though he volunteered first, Reed gave Kissinger the<lb/>
+honor of being bitten first. When one points out that those who believe Kissinger<lb/>
+volunteered first support their belief by Reed's honors to Kissinger (the ceremony<lb/>
+of presenting the watch; the words written by Reed about Kissinger - &ldquo;This example<lb/>
+of courage....etc.&rdquo;) Moran has been loath to reply. (I've discussed this purposely<lb/>
+on several widely-spaced occasions as if I hadn't discussed it before.) But each<lb/>
+time he has finally shrugged and said &ldquo;Colonel, remember by that time I was a civilian;<lb/>
+Kissinger was still in uniform. It was &lsquo;better for the service&rsquo; to let one still in<lb/>
+uniform get the greater notice. Except in this one thing which I have always been<lb/>
+hurt about but which I rarely discuss, Major Reed was wonderful to me. Let's skip it!&rdquo;</p>
+<p>But I kept at him. As I did in 1941, I reminded him that there were two<lb/>
+published versions of his own volunteering. In a mimeographed and widely-disseminated<lb/>
+letter written by Moran July 7, 1929, to Dr. Peabody, Moran had claimed to have gone<lb/>
+to Reed alone and <hi>volunteered first</hi>. But in his manuscript written for me about<lb/>
+1939 or 1940 and in one or two short published interviews after 1930, etc., he stated<lb/>
+<hi>that he and Kissinger had volunteered together</hi>. When, in 1941, I showed him these<lb/>
+two written statements and asked then for an explanation, he was at first quite upset,<lb/>
+a bit antagonistic and non-cooperative (the <hi>only</hi> time he's ever been that way). He<lb/>
+became grim and said &ldquo;Doctor, you can make your own conclusions; you know me. You've<lb/>
+heard my story. You know whether I'm a liar. I've absolutely nothing more to say.<lb/>
+Handle my contradiction any way you want to. The matter is closed.&rdquo; After much<lb/>
+coaxing and after pointing out that he owed it to himself (not to me) to straighten<lb/>
+out the matter he finally said &ldquo;Well, I know I went first. I will never let my<lb/>
+disappointment with Major Reed in this one matter become a matter for discussion or<lb/>
+debate. If he accepted me first but used Kissinger first, he had his reasons, and<lb/>
+regardless of how I feel and although I suspect what those reasons were, I will not<lb/>
+be maneuvered into a distasteful argument. Let the published record stand. Now the<lb/>
+reason I've been caught in a contradiction is this. <hi>I went first</hi>. Kissinger went<lb/>
+later, just exactly when I don't know, but probably a day or so later. Had Kissinger<lb/>
+already gone before I told him that night I was going, wouldn't he have told me? My<lb/>
+story to Dr. Peabody in 1929 and my early remarks to various people that I had volunteered<lb/>
+first were <hi>correct</hi>. But as Kissinger and others began to claim more and more that<lb/>
+he'd gone first my pride was hurt. Thereafter when I was asked about the matter it<lb/>
+became increasingly embarrassing. I refused to join in a hateful debate with Kissinger<lb/>
+or anyone else. By that time, thanks to Dr. Kelly's book and various stories and<lb/>
+plays, the legend that we had gone together (&ldquo;Gentlemen, I salute you...&rdquo;, etc.) was<lb/>
+firmly believed and widely known. It gave me a way out of my dilemma. So thereafter<lb/>
+I always &lsquo;agreed&rsquo; with this (second) version. Hence my story to you.&rdquo;</p>
+<p>After he'd explained to me the contradiction in this manner which to me<lb/>
+sounds logical and consistent with the facts and with the characters of those in-<lb/>
+volved, I begged him to type out for me a brief memorandum to that effect &ldquo;for the<lb/>
+benefit of future historians&rdquo;. He became silent again. After awhile he reverted to<lb/>
+his defensive attitude and said firmly, &ldquo;No, Doctor, I've told you my story. I've<lb/>
+told you the explanation. I've never discussed this argument with anyone else. I'm<lb/>
+through. Write what you want. If you wish to believe I've lied, so be it. The<lb/>
+matter is <hi>closed</hi>&rdquo;. No polite persistence on my part could budge him. This is the<lb/>
+only thing he's ever refused me. He feels very deeply about it. So in 1941 I dis-<lb/>
+cussed the matter no further.</p>
+<pb n="4" id="f04208005"/>
+<p>- 4 -</p>
+<p>Toward the end of the present visit, I carefully approached this subject<lb/>
+again and asked him if he hadn't perhaps thought the matter over again; wouldn't he<lb/>
+relent and for his own sake, for the sake of his own position in the eyes of <unclear>others</unclear><lb/>
+who might uncover the contradiction and not handle it fairly, wouldn't he just jot<lb/>
+down a paragraph for me, just sign a little statement about it. Again the smile left<lb/>
+his face, he became quiet and a bit distant. Again his remarks and conclusions were<lb/>
+the same. He said, &ldquo;Colonel, that is one thing I refuse to do. I've told you my<lb/>
+honest opinion and the reasons for my actions and my apparent contradiction. To<lb/>
+argue the matter, to sign a statement would put me into a debate with such fine men as<lb/>
+General Kean and General Truby who, I know, have their honest opinion as to who<lb/>
+volunteered first. Also if I argued the point it would appear inferentially that I<lb/>
+was criticizing Major Reed because he didn't use me first, give me also a watch, etc.<lb/>
+This I absolutely refuse to do. <hi>I know I volunteered first</hi>. Nobody can rob me of<lb/>
+that personal satisfaction. If you have studied the record as well as I think you<lb/>
+have, you know there is another distinction I have over Kissinger of which I am proud.<lb/>
+I never took <hi>any reward</hi> from Major Reed. You know that Kissinger changed his mind re-<lb/>
+garding the reward and was persuaded that he was foolish to refuse. You know he did<lb/>
+take a watch and some money. (Confirmed to me by General Kean - P.S.H.) Colonel, I<lb/>
+know what I know. What I've told you is the truth and I <hi>believe</hi> that you <hi>know</hi> I went<lb/>
+first. But I simply can't do more. As far as I'm concerned the matter is closed. I<lb/>
+will continue to say that Kissinger and I went together even though he is now dead and<lb/>
+I could say otherwise. Make of this whatever you want. That's all I have to say.&rdquo;</p>
+<p>Well, there it is. My own conclusion after 11 years of study and thought:<lb/>
+Moran volunteered first but for reasons which seemed good and honorable to Reed,<lb/>
+Kissinger was used first and honored officially by Reed and others somewhat more<lb/>
+than Moran. It may well be that Moran was so insistent in his refusal for reward<lb/>
+that Reed et al took Moran &ldquo;at his word&rdquo; a little more than Moran actually wanted<lb/>
+(as it turns out). <hi>Not one single published statement</hi> by Reed or anyone else (except<lb/>
+Kissinger's late statements made when he was more or less helpless and dependent on<lb/>
+the hero-business for comforts) <hi>proves</hi> that Moran volunteered second or that he didn't<lb/>
+volunteer first. I conclude that the world doesn't care much who went first. They<lb/>
+both offered all they had. In the eyes of the world their worth is equal. It is<lb/>
+probably best that the legent of their joint-volunteering be allowed to continue with-<lb/>
+out too much effort to correct it.</p>
+<p>Now for a few other matters: The wood from the tree at the false camp site<lb/>
+which I had cut in 1940 and stored by Moran in the Sun Oil Company building was long<lb/>
+since thrown out.</p>
+<p>I told Moran of my mild uncertainty as to General Truby's identification of<lb/>
+the building portrayed in his book (p. 87) as Reed's &ldquo;surgery&rdquo; or laboratory. Moran<lb/>
+wasn't absolutely sure of the identity but said it looked enough like Reed's lab that<lb/>
+he wouldn't contradict General Truby. He wasn't concerned about the fact that the building<lb/>
+would have had to have been moved to be (in my opinion) Reed's lab. He had no definite<lb/>
+opinion on that. &ldquo;Perhaps they did move it&rdquo;. First he and Neate lived in the building;<lb/>
+later when he (Moran) became a civilian clerk and was succeeded by Kissinger, Moran was<lb/>
+allowed to continue to live in the lab building with Neate <hi>and</hi> Kissinger. &ldquo;The little<lb/>
+building had at least 6 rooms&rdquo; (surprising to me).</p>
+<p>Moran is a grand fellow; a noble Irishman; a great credit to the U. S.<lb/>
+Army. May he live and flourish!</p>
+<pb n="5" id="f04208006"/>
+<p>- 5 -</p>
+<p>2. <hi>Dr. Pedro Nogueira</hi>: Before going to Havana this time, knowing of<lb/>
+Johnny Moran's failing health and recalling how invaluable he had been to me on<lb/>
+previous visits, acting as my guide, interpretor, counsellor and sponsor, I wondered<lb/>
+what I would ever do without him. The Lord provides!</p>
+<p>On December 6, 1944, I wrote Dr. Jose A. Presno, then Minister of Public<lb/>
+Health and Sanitation, trying to enlist him in my effort to preserve Camp Lazear.<lb/>
+He never answered my letter. But 2 1/2 years later, to my surprise and delight Dr.<lb/>
+Pedro Nogueira, then General Director of Sanitation of the Republic of Cuba, wrote<lb/>
+me that my old letter to Dr. Presno had come to his attention, that he had consulted<lb/>
+the current Minister of Sanitation, Dr. Jose Andreu, that they both approved my plans<lb/>
+and that he (Dr. Nogueira) wanted to help. I corresponded with Dr. Nogueira several<lb/>
+times, telling him more about our plans but informing him that American contributions<lb/>
+were contingent upon certain actions of the Cuban Government and/or medical profes-<lb/>
+sion which would have to join us in our efforts and help especially in the future<lb/>
+care of the memorial.</p>
+<p>We made little progress, chiefly for the same old reason: By the time I<lb/>
+get anywhere with one Cuban politician he is out of office and another is in. Andreu<lb/>
+lost his job as Minister and became merely a Cuban senator. Nogueira was out as<lb/>
+Director of Cuban Sanitation and was now merely in charge of Sanitation and Public<lb/>
+Health in Marianao. But Nogueira is still Nogueira, a dynamo if I ever saw one. He<lb/>
+is a very keen, pleasantly aggressive physician about 35 or thereabouts. Perhaps he<lb/>
+is best described as &ldquo;the Hench of Cuba&rdquo;; by that I mean simply that he has become<lb/>
+completely enamored of the story of the Conquest of Yellow Fever and has determined<lb/>
+to get the complete story and publish it in Cuba. He made Finlay his first hero,<lb/>
+but soon saw that he must include the Americans. So he has gone to considerable pains<lb/>
+to learn all he can about their work. Unknown to me, he has corresponded quite a bit<lb/>
+with Generals Kean and Truby, with the Surgeon General's Library and the Library of<lb/>
+Congress. He has collected a mass of data and is obviously a most sincere and<lb/>
+earnest student. He is worthy of every bit of help we can give him. He seems<lb/>
+completely reliable.</p>
+<p>He has 3 jobs. First, he is &ldquo;health officer&rdquo; for Marianao; secondly, he<lb/>
+is medical director of a large company that exterminates pests (as such they service<lb/>
+a great many hotels and restaurants and Dr. Nogueira seems to be known everywhere!).<lb/>
+Lastly, he seems to practice a little private medicine but he doesn't let this inter-<lb/>
+fere with his fun! During my ten days in Havana he was practically 100% at my service.<lb/>
+He insisted on turning over his jobs to assistants. He came for me daily with car<lb/>
+and chauffeur about 8 or 9 a.m., took me everywhere, got me in every place, smoothed<lb/>
+the way and performed the most incredible &ldquo;miracles&rdquo; for me. Things I hadn't been<lb/>
+able to locate, facts I hadn't been able to verify during 11 years of study and two<lb/>
+previous trips to Cuba he made it his business to find out for me and with amazing<lb/>
+success. As a result of his former governmental position and of his effervescent<lb/>
+personality, all doors were open to him. Even though he is now in partial political<lb/>
+eclipse, as he is not a Grau-ist, he is tremendously popular and potent.</p>
+<p>He is completely in favor of my plans for a Cuban-American museum; has no<lb/>
+patience with the &ldquo;100% pro-Finlayites&rdquo;, and did and will do <hi>everything</hi> he can.<lb/>
+Nothing seemed too much for him to do. Did I mention Pinar del Rio, 110 miles away?<lb/>
+&ldquo;OK, I'll take you there any day!&rdquo; And so it went. What a fellow. He is hoping to<lb/>
+attend the Washington Conference in May and very anxious to meet General Kean. I<lb/>
+hope I can introduce him also to the Reed's. He deserves the confidence of us all.<lb/>
+(He was a patient at the Clinic a couple years ago but I didn't know it and was not<lb/>
+here. He seems very grateful to the Clinic and that is one reason he was so kind to<lb/>
+<pb n="6" id="f04208007"/>
+- 6 -<lb/>
+me, but the <hi>main</hi> reason is his great interest in the yellow fever story. As<lb/>
+I first specialized in the American side and branched out to include the whole<lb/>
+story including Finlay et al, he first concerned himself with the Finlay story<lb/>
+(which he has worked up magnificently) and then was not content without learning<lb/>
+the American side. His English is pretty good, at least satisfactory although<lb/>
+he yells it (as one so often does when talking to a foreigner) and sputters some<lb/>
+as he yells! But then my Spanish is almost nil!</p>
+<p>Although I had not requested it, Dr. Nogueira had gotten me an op-<lb/>
+portunity to meet the Cuban President (Dr. Grau) the day I was to arrive. Be-<lb/>
+cause I had to see several people (Macia and others) before I was prepared to<lb/>
+see the President I wrote Dr. Nogueira asking him to cancel my March 2 appoint-<lb/>
+ment with Grau or postpone it till later in my visit. This he did. But what<lb/>
+all Dr. Nogueira did for me will be apparent as this memorandum proceeds.</p>
+<p>3. <hi>Camp Lazear</hi>: Not having seen it since 1941, I was most anxious to<lb/>
+see how Building No. 1 had survived the years and the bad tornado of October 1944.<lb/>
+It has withstood time and the elements remarkably well. When Moran and I first<lb/>
+saw it in 1940 (before we were certain it was Building No. 1) it had additions<lb/>
+on each side and in the rear; this was the main reason we didn't fully suspect<lb/>
+its identity then. The addition on the left was removed after my visit of 1940<lb/>
+and before my visit of 1941. Since then the addition on the right has been re-<lb/>
+moved so that the old shack now begins to look like <hi>its original self</hi>. The ad-<lb/>
+dition on the <hi>rear (the kitchen) remains.</hi> (See photos). The house is sagging<lb/>
+more than ever but shows little change outside. But the tenants (squatter-types<lb/>
+of the lower economic scale) have let the floor deteriorate badly. In the par-<lb/>
+titioned right half used as the bedroom about one third of the floor is gone and<lb/>
+it is a miracle that the bed which covers the missing floor just doesn't go on<lb/>
+through to the ground. Otherwise the shack looks about as before except that several<lb/>
+of the inner slats of the original &ldquo;tongued and grooved boards&rdquo; have disappeared.<lb/>
+These inner boards not having been replaced, the outer original weather-stripping<lb/>
+is now visible here and there <hi>from within (photo)</hi>. Reed's old sliding panel re-<lb/>
+mains but since the tornado of 1944 the old <hi>outside shutters</hi> have been nailed<lb/>
+together, probably a good thing.</p>
+<p>4<lb/>
+5</p>
+<p>6<lb/>
+7a</p>
+<p>The tenant, an elderly obese woman, smiled broadly on my arrival with<lb/>
+Moran and Nogueira. She'd heard I was in town and remembered me well, as she<lb/>
+feared when I was there in 1941 that she would be evicted from the &ldquo;historic<lb/>
+shack&rdquo;. She told us that ever since then she'd been repeatedly bothered by<lb/>
+visiting groups and by others who came singly and would try to swipe a panel<lb/>
+of wood. She didn't know whether they wanted a souvenir or just fire-wood.<lb/>
+(The little shack has been photographed in Havana newspapers several times<lb/>
+and various governmental and medical groups have visited it.)</p>
+<p>The adjacent lime-stone quarries are being enlarged and are still<lb/>
+being worked; thus the contour of the immediate vicinity continues to change and<lb/>
+become rougher. The field right in front of Building No. 1 is still being culti-<lb/>
+vated, corn mostly. I was so rushed for time I did not have time to look again<lb/>
+for the broken concrete which in 1941 marked the previous site of Building No. 2.<lb/>
+The old ruins of the lime kiln, etc., (seen in the 1900 Army photos), pretty well<lb/>
+gone in 1941, have deteriorated further.</p>
+<p>In 1947 Nogueira wrote me that President Grau planned to place a<lb/>
+marker on Building No. 1 or on the wall of adjacent Quinta San Jose (and another<lb/>
+one on Finlay's old home on the Prado). The latter was placed but no marker on<lb/>
+the shack or wall of the Finca San Jose. Later the Havana Lion's Club con-<lb/>
+<pb n="7" id="f04208008"/>
+- 7 -<lb/>
+sidered erecting a little monument somewhere at the Finca San Jose, but they<lb/>
+decided it was too far out of the way and wouldn't be seen sufficiently to<lb/>
+satisfy their self-interest so they finally erected a <hi>marker to Finlay</hi> in the<lb/>
+middle of the main street to Marianao just across the Almendares River (<hi>photo)</hi>.</p>
+<p><unclear>7b-e-d</unclear></p>
+<p>Last fall the Cuban Government did officially designate the shack as<lb/>
+a &ldquo;National Monument&rdquo; (and true to Cuban habit, the Havana newspapers photo-<lb/>
+graphed it and labelled it &ldquo;the caseta where <hi>Finlay</hi> did his work&rdquo;). But no<lb/>
+money was set aside for its protection.</p>
+<p>The neighborhood has been built up more, with more small homes for<lb/>
+working men; the neighborhood is still a poor one, a site &ldquo;unsatisfactory&rdquo; for<lb/>
+memorializing according to those more interested in impressive surroundings than<lb/>
+in <unclear>accuracy of location</unclear>.</p>
+<p>4. <hi>Quinta San Jose and the Rojas Family</hi>: When I visited Havana in<lb/>
+1941, the Rojas family used their town house chiefly and only used the Quinta<lb/>
+San Jose as a summer home. Shortly thereafter Senora Rojas, her daughter and<lb/>
+their companion (Miss Cabrera) moved permanently to the Quinta and began to<lb/>
+renovate and improve it. Senora Rojas died about 2 months ago. Senorita Rojas<lb/>
+and her secretary-companion, Miss Cabrera, live there alone with various servants.<lb/>
+They have greatly beautified the interior, also the exterior of the <hi>house (photos</hi>).<lb/>
+They were most cordial and sought to be as helpful as possible. When governmental<lb/>
+officials began to visit the Finca rather often <add>and</add> to talk about a &ldquo;National Monument&rdquo;<lb/>
+they were worried lest the government appropriate the whole Finca and oust them<lb/>
+from the Quinta. But as nothing had happened they were losing their worries.<lb/>
+Nevertheless, they were anxious to know the extent of my plans and were relieved<lb/>
+to know I had no designs on the Quinta itself. I did not have time to look up<lb/>
+Sr. Zunzunegui, the former tenant of the caseta. But he still lives nearby and<lb/>
+with Sr. Macia, runs the quarries.</p>
+<p>8-9</p>
+<p>5. <hi>Site of old yellow fever huts (the false Camp Lazear)</hi>. In 1940<lb/>
+the little memorial fence and sign by the tree, though modest, were impressive.<lb/>
+In 1941, after the Cubans had finally accepted my 1940 report, the sign was<lb/>
+down, the fence partly down. Now the abandonment is complete. The tree <unclear>blow</unclear><lb/>
+down in the tornado of October 1944. Everything is gone; not even the tree trunk<lb/>
+or roots are visible. We could only identify the spot by locating the nearby<lb/>
+house shown in my 1940-1941 photos, and a new house is being built between it and<lb/>
+the former memorial site (<hi>photo</hi>). The little Carnino railroad station is gone;<lb/>
+the railroad spur to La Playa abandoned.</p>
+<p>10</p>
+<p>6. The fact that the 1908 map shows a <unclear><hi>Cemetery</hi><lb/>
+at or</unclear> near the site of the old Hospital <unclear>Corral</unclear><lb/>
+used by the 2 Div. Hosp. is most <unclear>conclusive</unclear><lb/>
+to my mind that in 1908 <unclear>as</unclear> in 1900 the same<lb/>
+<del><unclear></unclear></del><add><unclear>Plot</unclear></add> was <unclear>utilized.</unclear> The <unclear>army</unclear> map would<lb/>
+not show a Cuban Cemetery I <unclear>think</unclear>. So this<lb/>
+must have been the <unclear>Post</unclear> Cemetery.</p>
+<p>I doubt if the distance from the morgue<lb/>
+to the Cemetery could have been as far<lb/>
+as a half mile. I <unclear>therefore feel</unclear><lb/>
+the answer is shown on the 1908 map.</p>
+<p><unclear>A E T</unclear></p>
+<pb n="8" id="f04208010"/>
+<p>- 8 -<lb/>
+Chavez) if anyone knew where the old U. S. Army Cemetery of 1900 had been, Nogueira<lb/>
+said he knew and pointed to the spot on the air map. The others agreed. They in-<lb/>
+sisted the land had been rented as a cemetery for 99 years. After the Americans had<lb/>
+removed their dead in 1900 - 1901, a civilian cemetery had been set aside in the next<lb/>
+plot. The American plot was left undisturbed. Later the civilian cemetery was<lb/>
+abandoned and the dead disinterred. But &ldquo;because of <unclear>superstition</unclear>&rdquo; nobody will buy<lb/>
+the land to live on and it remains unused, overgrown with brush.</p>
+<p>11-12</p>
+<p>Nogueira drove me to the site (photos). It is on the correct (left) side<lb/>
+of the old LaPlaya road beyond Camp Columbia but at the very corner of the old cemetery<lb/>
+the new road to LaPlaya (coincident up to that point with the old road) curves to the<lb/>
+left, bounding the golf club grounds. Thus the old U. S. Army Cemetery (according to<lb/>
+Nogueira) is now just between the old road and the new road to La Playa. It is actually<lb/>
+on the last rise of ground between old Camp Columbia and the sea.</p>
+<p>Nogueira was in a hurry that morning and I forgot to measure on the car<lb/>
+meter the distance from the vicinity of the &ldquo;railroad triangle&rdquo; and the &ldquo;cemetery<lb/>
+site&rdquo;. It seemed a little long to me but Nogueira insisted it was only a 1/4 mile<lb/>
+or a little further. He was &ldquo;absolutely certain&rdquo; of the spot because when seeking<lb/>
+its site a couple of years ago he had had it located for him by Dr. Joaquin Maria<lb/>
+Alvarez who had lived in Marianao since 1892 and had pointed out the site as that<lb/>
+of the &ldquo;American Military Cemetery&rdquo; of 1900. Very close by the present site but across<lb/>
+the &ldquo;new road&rdquo; and just inside the grounds of the golf club, remains the little old<lb/>
+building that was the Acevedo railroad stop on the Marianao-LaPlaya railroad. It<lb/>
+was at this station that people got off the train to attend funerals in both the<lb/>
+military and civilian cemeteries. (I believe the American cemetery abandoned in 1901<lb/>
+was re-used during the Second American Intervention, 1906 - 1909.) Dr. Alvarez told<lb/>
+Nogueira precisely about these funerals and was &ldquo;absolutely positive&rdquo;. Dr. Nogueira<lb/>
+himself recalls attending funerals in this location as a boy and getting off at the<lb/>
+old Acevedo station.</p>
+<p>I had no further opportunity to verify the location from other sources. I<lb/>
+have photographic and map locations of it and can check it on my next trip to Cuba.<lb/>
+If the site proves to be just about 900 - 950 yards from the track-junction (by the<lb/>
+false site) undoubtedly that is the spot. Certainly the site pointed out to me (and<lb/>
+photographed by me) is mighty close to the actual spot. But the old cemetery may<lb/>
+have been closer to the Post-Hospital than the site pointed out to me this time.</p>
+<p>7. <hi>&ldquo;Camp Columbia&rdquo; (Ciudad Militar)</hi>: This has been notably built up (but<lb/>
+not expanded in area) since my visit of 1941. Many new small and large buildings. A<lb/>
+monumental tower on the &ldquo;southern&rdquo; border (mid-street) built by Batista, now stands in<lb/>
+a little circle named by the new regime &ldquo;Finlay Place&rdquo;. A large new hospital building<lb/>
+built by Batista on the new hospital grounds (old site of the Camp Columbia Post Hos-<lb/>
+pital) on &ldquo;this side&rdquo; (east side) of the LaPlaya railroad spur is empty, unused as a<lb/>
+hospital because Batista's successors don't consider it &ldquo;suitable&rdquo; (political rivalry!).</p>
+<p>8. <hi>Quemados de Marianao</hi>. The old LaPlaya railroad spur (from Quemados to<lb/>
+LaPlaya) is just about gone. The railroad out and tracks still remain from the &ldquo;track<lb/>
+junction&rdquo; to just beyond the &ldquo;north&rdquo; border of Ciudad Militar, but the track and <unclear>cut</unclear><lb/>
+disappear just &ldquo;north&rdquo; of the bridge (near the north border of Ciudad Militar) over<lb/>
+the old track, i.e., where the golf club grounds begin. Here the old track site has<lb/>
+been destroyed and is lost in the grounds of the golf club except that the old track<lb/>
+site is still marked by the remains of the old Acevedo railroad station, now not far<lb/>
+inside the wall of the golf club (to be seen on the air-map).</p>
+<pb n="9" id="f04208011"/>
+<p>- 9 -</p>
+<p>The street numbers have been changed recently (since 1941) on several<lb/>
+streets in Quemados, including the numbers of the houses on General Lee Street.<lb/>
+<hi>Old Number 20 General</hi> Lee Street (where the 1900 yellow fever epidemic broke out)<lb/>
+is now #404, but just above the new marker (#404) is the smudged remains where the<lb/>
+old marker #20 used to be and the outline of &ldquo;20&rdquo; can be seen fairly clearly (see<lb/>
+<hi>photos</hi>). <hi>House #27</hi> General Lee Street (where General Kean used to live and later<lb/>
+where he visited the dying Major Edwards) is now #303; but here (as frequently else-<lb/>
+where) both the new and old markers are used so that the old marker 27 is above the<lb/>
+new marker <hi>303 (photos)</hi>. Number 102 Calle Real is still as it was in 1940 - 1941<lb/>
+(and indeed just about as it was in 1900, so I'm told); its number is unchanged. I<lb/>
+passed the old Quinta Duranon (old Toledo House), General Lee's old headquarters,<lb/>
+used as a school in 1941, but I didn't have time to stop. The street across from<lb/>
+the old house is built up; the present park is one block further &ldquo;west&rdquo;.</p>
+<p>13<lb/>
+14<lb/>
+15<lb/>
+16</p>
+<p>9. <hi>Las Animas Hospital</hi>: The old hospital buildings are being almost com-<lb/>
+pletely replaced. The old wooden building (2 story) which was the superintendent's<lb/>
+office in 1900 and which was still there in 1940 and 1941 was torn down last year;<lb/>
+the basement ruins remain. Most of the old small separated pavillions of 1900<lb/>
+(there in 1940 and 1941) have already been torn down and over the whole grounds new<lb/>
+one story pavillions are being built (more connected than the old ones). One of the<lb/>
+few remaining old pavillions is the &ldquo;Salle Guiteras&rdquo;, in 1900 the yellow fever &ldquo;ward&rdquo;,<lb/>
+later (as in 1940 - 1941) the contagious (typhoid) ward. But it is doomed. New con-<lb/>
+struction now encroaches and the place is currently a mess (<hi>see photos</hi>).</p>
+<p>17</p>
+<p>The one large room (small ward) on the left end of this Salle Guiteras was<lb/>
+the one marked with wooden plaques in 1936 as that in which Lazear had been bitten<lb/>
+in 1900 and in which Miss Maass had died in 1901. I have never been satisfied to<lb/>
+believe that both these events (fortuitously for historians) actually occurred in<lb/>
+the same room. Despite the wall markers I saw in 1940 and 1941, I've suspected that<lb/>
+the hospital authorities really didn't know or care exactly in what room these two<lb/>
+events occurred. They might have known where Miss Maass died, but how could they have<lb/>
+known in which of the half dozen rooms of the Salle Guiteras Lazear was bitten? I've<lb/>
+suspected it was simply &ldquo;convenient&rdquo; to put both plaques in one room. On previous<lb/>
+visits I was unable to settle the matter; I was merely told by hospital authorities<lb/>
+that &ldquo;the room was properly marked&rdquo;.</p>
+<p>The markers placed on the wall &ldquo;temporarily&rdquo; on September 28, 1936, were<lb/>
+simply made of heavy cardboard, printed and cut out to resemble roughly a bronze<lb/>
+plaque, and fastened onto board. They were to have been replaced by bronze markers<lb/>
+by the Finlay Institute. This has never been done and sometime recently they were<lb/>
+both taken down. <hi>I found them</hi> stuck behind a desk in the receiving office of the<lb/>
+hospital (I shall ask the Director to save them).</p>
+<p>18</p>
+<p>On Washington's birthday, February 22, 1948, the &ldquo;Sociedad Columbista<lb/>
+Pan Americana&rdquo; did place on the <hi>outside</hi> wall of this room a new bronze plaque to the<lb/>
+memory of Lazear, &ldquo;hero and martyr of science who gave his life to prove the theory<lb/>
+of the noted Cuban physician Carlos J. Finlay...&rdquo; <hi>(photos)</hi>. I know of no plans to<lb/>
+erect a permanent bronze marker to Miss Maass (I think I will write Mrs. <unclear>Chenowith</unclear><lb/>
+and her friends who marked Miss Maass' grave.) Fortunately the errors on the old<lb/>
+Lazear wall-sign (His name had been given as James; his death as on September 28)<lb/>
+had been corrected on the new bronze marker. As I understand it, the Salle Guiteras<lb/>
+will soon be destroyed; presumably the new Lazear marker will be placed on one of<lb/>
+the new buildings.</p>
+<p>19</p>
+<p>I tried to locate the old clinical chart and record of Miss Maass. The<lb/>
+Clerks searched for it in vain. Next day the Director of Las Animas Hospital, Dr.<lb/>
+Fernando Lopez Fernandez, very courteously telephoned me and tried to make a date<lb/>
+<pb n="10" id="f04208012"/>
+- 10 -<lb/>
+to visit me at the hotel. But I had only one more day in town and had filled up<lb/>
+the day. Despite this he came to the hotel and left me a letter and photographs of<lb/>
+the only Maass items they've been able to locate. They can't find the clinical<lb/>
+record and fever chart (these may well be in the National Archives in Washington;<lb/>
+old U. S. Army Nurse's records; was she an Army nurse or a contract nurse?), but they<lb/>
+have three items, apparently handwritten unsigned copies of three letters written<lb/>
+by Ross (name omitted) &ldquo;Surgeon, U. S. Navy, Director&rdquo; about Miss Maass; one on August<lb/>
+24, 1901 to her sister, Miss Sophie Maass; one of August 25 to the Chief Sanitary<lb/>
+Officer, Havana, notice of her death; one of September 27, 1901 to the Secretary<lb/>
+of War, Washington.</p>
+<p>20-24</p>
+<p>10. <hi>General Wood's Old Headquarters (Governor-General's Palace of 1900)</hi>:<lb/>
+Because of General Kean's dramatic description of the meeting here between Reed and<lb/>
+Wood (Kean present) when Reed requested Wood's moral, financial and official help to<lb/>
+carry on the work at Camp Lazear, I've been anxious to locate General Wood's old<lb/>
+office, photograph it inside, locate it in outside photos, etc. Recently in Washing-<lb/>
+ton, General Kean tentatively identified it as windows 2-3-4 from the left in front,<lb/>
+second floor. Just before going to Florida I was in Washington and visited General<lb/>
+Frank McCoy who was General Wood's aide in Havana in 1900. He tentatively identified<lb/>
+Wood's room as windows 2 and 3, possibly also window 4. 20-23</p>
+<p>Dr. Nogueira took Moran and me to meet the official in charge of the building,<lb/>
+now the City Hall and we arranged to return on an afternoon when the rooms would be<lb/>
+empty so we could photograph whatever we wished. Doctor Nogueira knew the Mayor<lb/>
+quite well. Later we returned and took <hi>several photos</hi>. We were told that the building<lb/>
+had been notably altered sometime after 1900 when the Cubans took over. The stucco<lb/>
+which covered the old outside walls in 1900 had been removed to reveal the natural<lb/>
+beauty of the old original stone walls. Presumably the inside floors and wall panelling<lb/>
+upstairs had been changed. But everyone we talked to insisted the walls themselves<lb/>
+and the original size of the rooms had not been changed. They identified windows<lb/>
+2 <hi>and 3 (from the left front, second floor</hi>) as those of the American Governor-General's<lb/>
+old office and <hi>this office</hi> has always been the office of the governors, later the<lb/>
+President (before the present palace was built) and in recent years the mayor's<lb/>
+ceremonial office since it became the City Hall.</p>
+<p>20-26</p>
+<p>23-24<lb/>
+27</p>
+<p>I wanted to check the &ldquo;Vista from the <hi>embrasure of Wood's</hi> office&rdquo;. General<lb/>
+Kean described the scene with Reed and Wood talking together in the embrasure.<lb/>
+&ldquo;Looking out between them I could see Morro Castle and the blue waters of the harbor,<lb/>
+and on our left the ancient fort LaFuerza...&rdquo; (Mil. Surg. March 1928, page 300).</p>
+<p>28</p>
+<p>As I suspected from my study of maps, Morro Castle could not be seen from<lb/>
+the window. It should have been stated &ldquo;...I could see the Cabanas Fortress, the<lb/>
+harbor and on our left LaFuerza (and the Segundo Cabo)&rdquo;. (<hi>see photos</hi>) Moran and<lb/>
+I recreated the scene and were photographed according to our interpretation. We<lb/>
+took photographs of the front of the building, of the <hi>inside court</hi> yard, and the<lb/>
+lovely <hi>old stairs leading</hi> from the court yard (patio) up to the mayor's office<lb/>
+(<unclear>General'</unclear> Wood's old Office). We took other photos <hi>inside the old</hi> room, at the em-<lb/>
+brasure, and from the <hi>balcony outside</hi> the room overlooking the Plaza with the<lb/>
+<hi>Segundo Cabo</hi> and LaFuerza (roof behind trees) on the left, the Cabanas fortress on the<lb/>
+heights across the narrow harbor entrance.</p>
+<p>28-29<lb/>
+25-26<lb/>
+27-28<lb/>
+29</p>
+<p>30-34</p>
+<p>We then casually dropped into the outer office of the Mayor's working office<lb/>
+(as contrasted to the above <hi>formal</hi>, ceremonial office) on the mezzanine. Dr. Nogueira<lb/>
+knew the mayor very well. When Dr. Nogueira went in to tell the mayor he wanted to<lb/>
+present me to him there was much <unclear>scurrying</unclear> and talking which I couldn't understand.<lb/>
+<pb n="11" id="f04208013"/>
+- 11 -<lb/>
+But in a minute or so Dr. Nogueira called for Mr. Moran and me to come in. The Mayor<lb/>
+explained that he had wanted to go upstairs and receive me ceremoniously in the of-<lb/>
+ficial office but that Dr. Nogueira had insisted on bringing me right in. He was<lb/>
+quite cordial, a very pleasant young man who said I could do anything I wanted and<lb/>
+have anything I wanted in the City Hall.</p>
+<p>11. <hi>City Historian</hi>: We then went to the Oficina del Historiador de la<lb/>
+Ciudad in the Plaza de la Catedral and met the City Historian, Dr. <unclear>Emilio Roig de<lb/>
+Leuchsenring</unclear> who showed me certain (minor) Finlay items, gave me a copy of his book<lb/>
+&ldquo;La Habana - <unclear>Apuntes</unclear> Historicos&rdquo; and confirmed what we had already been told, that when<lb/>
+the old Governor-General's Palace (later the Presidential Palace, now the City Hall)<lb/>
+had been reconstructed or &ldquo;restored&rdquo; in 1930 the coverings of walls, floors, etc., had<lb/>
+been altered but no change had been made in the actual walls or size of the front rooms<lb/>
+with which we were concerned. The first (smaller) room on the left (second floor) was<lb/>
+used by the Mayor's Assistant, the next room (windows 2 and 3) by the Mayor, the large<lb/>
+center room (windows 4-5-6) was and still is the large reception hall, a large formal<lb/>
+salon.</p>
+<p>12. <hi>Site of (1901) Third Pan American Medical Congress</hi>: This Congress was<lb/>
+held in Havana February 4 - 7, 1901. Sessions were held in the Tacon Theatre and in<lb/>
+the Marti Theatre. I got a copy of the Proceedings of this Congress before which Reed<lb/>
+read their second report (Agramonte read also a Spanish translation). The official<lb/>
+Proceedings and the newspaper accounts do not tell exactly where the different individual<lb/>
+meetings of the Congress were held and I couldn't find out from Dr. Presno or others<lb/>
+whether Reed read the paper in the Tacon or in the Marti Theatre. Since the opening and<lb/>
+closing ceremonial sessions were specifically mentioned as having been held in the Tacon<lb/>
+Theatre, I suspect that the day-to-day sessions were held in the smaller Marti Theatre<lb/>
+(ask Generals Kean, Truby, McCoy.). The <hi>Tacon Theatre</hi> was later bought by the <unclear><hi>Centro</hi><lb/>
+Gallego</unclear> and was completely remodeled as it <hi>now appears</hi> in the Central Park and the<lb/>
+large building now includes the National Theatre. The <hi>old Marti Theatre</hi> still remains,<lb/>
+its exterior relatively unchanged except that a one story &ldquo;front&rdquo; extending to the<lb/>
+street and containing stores, has been erected. I took new, and obtained old, photos<lb/>
+of these two theatres (as they were in 1900). I know nothing <unclear>re</unclear> the above<lb/>
+<unclear>A E T</unclear></p>
+<p>35<lb/>
+36</p>
+<p>13. <hi>Delmonico's Restaurant</hi>: On December 22, 1900, the medical profession<lb/>
+of Havana and certain U. S. Army chiefs honored Dr. Finlay at a banquet in this restaurant.<lb/>
+Dr. Presno located it for Dr. Nogueira and me. The banquet was held in the private<lb/>
+dining room on the second floor of the restaurant which was in the Central Park just<lb/>
+between the Inglaterra Hotel (still there) and the Hotel Telegrafo (building still<lb/>
+there but no longer a hotel). The old Delmonico Restaurant was in the building now<lb/>
+occupied by the Press Wireless of Cuba downstairs and the Cuban Commercial Institute<lb/>
+upstairs (<hi>photo)</hi>. 37</p>
+<p>14. <hi>Finlay's old house (office and home) at 52 Prado</hi>: Dr. Nogueira has tried<lb/>
+to locate the various places in Havana where Finlay lived. Apparently Finlay moved<lb/>
+often, every few years. Until late in life, Finlay rented homes, owned none. He moved<lb/>
+so often that Dr. Nogueira jokingly told Finlay's son (Mr. Frank Finlay) that he<lb/>
+wondered if old Dr. Finlay hadn't paid his rent regularly! When Finlay was making<lb/>
+some of his early inoculations he lived at 52 Prado, 2 or 3 blocks from the sea-end<lb/>
+of the Prado. Dr. Nogueira located this as now numbered 156 Prado. He obtained the<lb/>
+names of all those who rented this house from the time of Finlay till the present and<lb/>
+confirmed <hi>156 Prado</hi> as the old 52 Prado (see list of renters given me by Dr. Nogueira).<lb/>
+Recently a <hi>simple bronze tablet</hi> was placed on the front of the building by the government.<lb/>
+<pb n="12" id="f04208014"/>
+- 12 -<lb/>
+(Mr. Frank Finlay was invited to the ceremony but didn't attend as he dislikes<lb/>
+President Grau). I visited the old house, saw the front room downstairs which Dr.<lb/>
+Nogueira thought had probably been Finlay's old office, the rest being the living quar-<lb/>
+ters (<hi>photos</hi>). 38-39</p>
+<p>38</p>
+<p>39</p>
+<p>15. <hi>Finlay Park</hi>: I revisited this Park just in front of the Public Health<lb/>
+Building (Ministerio de Salubridad y Asistencia Social de la Habana) and confirmed my<lb/>
+memory of previous visits. <hi>The central statue</hi> is simply marked &ldquo;Al Dr. Finlay&rdquo;. The<lb/>
+<unclear>41 42 43</unclear><lb/>
+four small busts (2 on each side) are of <hi>Gorgas</hi>, <hi>Delgado</hi>, <hi>Guiteras</hi> and Lazear, identi-<lb/>
+fied merely by name. Reed is not included and no marker mentioning Reed or the work<lb/>
+of the Army Board appears on the central statue to Finlay or elsewhere.</p>
+<p>40<lb/>
+41-43</p>
+<p>44</p>
+<p>16. <hi>Finlay Statue in patio of the Ministerio de Salubridad</hi>. I re-photographed<lb/>
+this and confirmed my memory that here again there is no mention of Reed or any of the<lb/>
+U. S. Army Board.</p>
+<p>17. <hi>Finlay Institute</hi>: We visited the Institute. They have no translations<lb/>
+of Finlay's papers and were unable to locate in their library the <unclear>documented</unclear> illustrated<lb/>
+notebook prepared by me in 1940 - 1941 at the request of Dr. Domingo Ramos, (then<lb/>
+Minister of Defense), proving the true location of Camp Lazear which I gave to Dr. Ramos<lb/>
+and which he in turn handed over (in my presence) to the librarian of the Finlay<lb/>
+Institute &ldquo;for permanent safe-keeping&rdquo;. The Director and the Librarian suspect that<lb/>
+Dr. Ramos later re-claimed my document for his own use and probably has it at his<lb/>
+own home or office. I'm sorry about this as I wanted my copy available for any who<lb/>
+might be interested. I may make another one sometime, or publish an abstract of it<lb/>
+in a Cuban medical journal or Cuban newspaper or magazine. The present Director is<lb/>
+Dr. LeRoy (?). The librarian is Dr. Jose A. Rodriguez.</p>
+<p>18. <hi>Dr. Albertini</hi>: Died in 1945 or 1946. His widow is still living (address?)<lb/>
+I did not get to visit her this time (She may have data of interest).</p>
+<p>19. <hi>Family of Dr. Guiteras</hi>: No descendents live in Havana. The nearest<lb/>
+relative (according to Dr. Nogueira) is his sister-in-law, Hortensia Aranguren, Viuda de<lb/>
+Guiteras, Maceo #48, Matanzas, Cuba.</p>
+<p>20. <hi>Air-Views of Quemados</hi>: I have been anxious to obtain air-views of<lb/>
+Quemados which might show Camp Lazear (Finca San Jose), the new Military Hospital and<lb/>
+Ciudad Militar, the railroad track to LaPlaya, etc. Last fall I asked officials in the<lb/>
+Photographic Department of the National Geographic Society in Washington, D. C. if I<lb/>
+could have copies of certain fine air views of Havana. They refused: &ldquo;It is our<lb/>
+policy never to lend to anyone else any of our photographs&rdquo;. They said they had no<lb/>
+air views of Quemados or Marianao. They referred me to the Publicity Department of<lb/>
+the U. S. Navy, who gave me two views of downtown Havana.</p>
+<p>Through Dr. Jan Tillisch of the Mayo Clinic, formerly a medical officer in<lb/>
+the U. S. Army Air Force, I contacted Dr. John MacDonald and other officials of Pan<lb/>
+American Airways in Miami and in Havana. They gave me several excellent views of<lb/>
+Havana, none of Quemados &ldquo;which has no special interest&rdquo;. They took me to the Cuban<lb/>
+Tourist Commission in Havana which gave me a few more views but not of Quemados.</p>
+<p>I then went to Mrs. R. Hart Phillips, long-time Havana correspondent for the<lb/>
+New York Times who told me that a private pilot had taken photos of Marianao for the<lb/>
+owners of the Benitoa Construction Company. Unfortunately the pilot (<unclear>Leo ?</unclear> Hamburg)<lb/>
+got in trouble and is in Miami in temporary political exile and the films could not<lb/>
+<pb n="13" id="f04208015"/>
+- 13 -<lb/>
+be located now.</p>
+<p>Mrs. Phillips suggested I ask the Cuban Air Force to take the desired air<lb/>
+views: &ldquo;Why not? Their photographers have to keep in practice. Once the Cuban<lb/>
+Army practically staged a revolution for the New York Times! I'm sure they will<lb/>
+take the photos for you.&rdquo; So Dr. Nogueira took me first to meet Colonel (Dr.) Jose<lb/>
+Randin, Chief of the Medical Department and the military hospital at Ciudad Militar<lb/>
+whom I'd met in 1940 or 1941. He took us in his car to the adjacent air field and<lb/>
+the headquarters of the Cuban Army Air Force where we met Lt. Colonel Camilo G.<lb/>
+<unclear>Chevez</unclear>, one of the ranking officers of the Army Air Force. They had one air-view<lb/>
+(perpendicular) or &ldquo;air map&rdquo; of the Ciudad Militar and immediate environs. This showed<lb/>
+splendidly the site of the old Columbia Barracks, part of the railroad spur to LaPlaya,<lb/>
+the possible site of the old U. S. Army and Cuban Civilian cemetery, etc. They gave<lb/>
+me two copies. Colonel Chavez promptly called in a pilot and ordered him to take for<lb/>
+me the desired views.</p>
+<p>When after several days I heard nothing more of those (new) air views, I de-<lb/>
+cided to try to locate the views taken for the Benitoa Company. So Mr. Moran and I<lb/>
+visited young Antonio Perez Benitoa, son of Jose Perez Benitoa, a nice looking, well<lb/>
+educated young fellow (American educated) who incidentally is the husband of Batista's<lb/>
+daughter (That's presumably how his father's company has prospered and grown so much.).<lb/>
+Anyhow, he was very courteous and spent some time hunting for the desired views. He<lb/>
+located several which, while not ideal, show what I want. The negatives are not in<lb/>
+their possession. Mr. Benitoa freely loaned me all the originals I wanted. (Some of<lb/>
+the original prints are rather gray and poor, but I've had them copied and the small<lb/>
+copies are surprisingly good. (Send copies to Generals Kean and Truby, possibly to<lb/>
+others).</p>
+<p>Later, just as I was leaving Havana for the boat, Dr. Nogueira's chauffeur<lb/>
+hastily delivered to me an air panel (4 views pasted together) showing the land between<lb/>
+LaPlaya and the Hippodrome (near old Camp Lazear). Unfortunately I could not get the<lb/>
+Air Force officer to take exactly what I wanted. I asked for tangential views (under-<lb/>
+standable to laymen). He insisted that perpendicular views were &ldquo;much better&rdquo;, so they<lb/>
+took mostly the latter; they are good and will be useful but not for publication in my<lb/>
+book and unfortunately the Finca San Jose is just on the very edge of the last air view<lb/>
+and although the Quinta and much of the Finca are shown, the site of the caseta (Building<lb/>
+No. 1) is just cut off. (I gave one to Mr. Moran and he said he's show it to the<lb/>
+Colonel and request better views).</p>
+<p>Meanwhile Dr. Carbonell, having heard of my desire for air views, found that the<lb/>
+Ministry of Public Works (Ministerio Obras Publicas) had an aerial survey of Havana and<lb/>
+environs. He took me to see Mr. Honorato Colete, one of the chiefs there. I was promised<lb/>
+prints of the region I wanted, but here again they are perpendiculars, not tangential<lb/>
+shots, an air-map rather than air-views.</p>
+<p>Since my return home I've received 2 fine air-panels and 3 or 4 very good<lb/>
+tangential air views of Quemados de Marianao, showing the relationships between Camp<lb/>
+Lazear, the Military City and Military Hospital, General Lee's Headquarters, La Playa,<lb/>
+etc. Will try to get copies to lend General's Kean and Truby.</p>
+<p>21. <hi>Old Military Hospital No. 1</hi>: The site of this old hospital on Principe<lb/>
+Hill is now occupied by the Calixto Garcia Hospital across from the Havana Medical<lb/>
+School. In the rear of the new buildings of the Hospital there were in 1940 - 1941<lb/>
+several old small one-story pavillions, believed by some (but not by one old-timer)<lb/>
+to be originals from the 1900 days. I wanted to visit the superintendent and find out<lb/>
+about this and the old location of Agramonte's (1900) lab (see old maps) but didn't<lb/>
+<pb n="14" id="f04208016"/>
+-14 -<lb/>
+get time. The present Director of Calixto Garcia Hospital is Dr. Amador Guerra. Will<lb/>
+do this by correspondence.</p>
+<p>22. <hi>Dr. Domingo Ramos</hi>: He is now on the &ldquo;outs&rdquo; politically, and was out of<lb/>
+town. Although Dr. Ramos did do some of the things he promised me in 1941, that he'd<lb/>
+do with regard to the true identity of Camp Lazear, his accomplishments have been<lb/>
+mostly &ldquo;negative&rdquo;. Having accepted finally my proof that the site falsely marked as<lb/>
+&ldquo;Campanento Lazear&rdquo; was the site of the &ldquo;yellow fever wards&rdquo; he has allowed the memorial<lb/>
+sign and fence to disappear. He may have helped get the caseta named a &ldquo;National<lb/>
+Monument&rdquo; last year but he's done nothing else and he did <hi>not</hi> keep several important<lb/>
+promises to me nor did he ever return a whole batch of photographs he asked me for<lb/>
+(some were my only copies) even though I've written him twice.</p>
+<p>Dr. Nogueira and Mr. Moran both warned me this time that Dr. Ramos could not<lb/>
+be relied on too much, that he promises much, &ldquo;makes grand-stand gestures&rdquo; for political<lb/>
+effect but doesn't follow through.</p>
+<p>23. <hi>Dr. Presno and the National Academy of Sciences</hi>: He is one of the<lb/>
+&ldquo;grand old men&rdquo; of the Cuban medical profession, has been for years President of the<lb/>
+Academy of Sciences, and was, in 1944, Minister of Public Health and Sanitation.<lb/>
+However politics worried him so much he resigned and is now out of politics. In Decem-<lb/>
+ber 1944 I wrote him when he was Minister of Public Health. I tried to interest him in<lb/>
+Camp Lazear but he never answered my letter (something of a habit with Cuban politicos).</p>
+<p>However, I wanted certain old books and certain data from the National<lb/>
+Academy of Sciences and Dr. Nogueira got the Chief Curator (?), Mr. Lorenzo Guerra, to<lb/>
+help locate things for me. In the Academy they have (locked up) separate drawers (one<lb/>
+for each member) containing the original handwritten manuscripts (and other data, re-<lb/>
+prints, communications, etc.). I examined the drawers assigned to Agramonte, Albertini,<lb/>
+Finlay, etc. We could <hi>not</hi> locate the manuscript of Finlay's original (1881) paper. The<lb/>
+earliest one there was the one of March 1883, and since this is the earliest one, a<lb/>
+photo of which Finlay's son was able to give me in 1941, I suspect the original cannot<lb/>
+be located. I could find no letters between Finlay and Reed <unclear>stal</unclear>.</p>
+<p>The librarian was miraculously able to locate for me (to purchase) a copy of<lb/>
+the 1881 transactions in which Finlay's first paper appeared, also the Proceedings of<lb/>
+the 3rd Pan-American Congress.</p>
+<p>Dr. Presno told the Curator I was to be allowed to examine everything I<lb/>
+wanted to see.</p>
+<p>According to Dr. Presno, Dr. Guiteras presided at the Delmonico banquet for<lb/>
+Finlay. (Presno was present). Reed was present but did not speak. The only part taken<lb/>
+by Dominguez-Roldan was that as chairman of the committee to select a gift. Dominguez<lb/>
+did present the statuette to Finlay. We located the remarks of Dr. Guiteras, published<lb/>
+originally in a newspaper (La Discusion, December 24, 1900) and republished in the Revista<lb/>
+de Medicina y Cirurgia, V:590-592; 1900.</p>
+<p>Dr. Finlay spoke extemporaneously and his remarks were only briefly reported<lb/>
+(but see Finlay's son's book p 35 and paper in New Orleans Med. Journal, Nov. 1916).</p>
+<p>Dr. Presno could tell me nothing definite about the time or persons present<lb/>
+when Finlay gave Reed the mosquito eggs.</p>
+<pb n="15" id="f04208017"/>
+<p>- 15 -</p>
+<p>24. <hi>Dr. Finlay's medical diary:</hi> Dr. Nogueira confided to me a rather<lb/>
+exciting &ldquo;secret&rdquo;, the recent discovery of Finlay's &ldquo;diary&rdquo;, a collection of about<lb/>
+11 handwritten notebooks begun in January 1882. I do not know whether Finlay's son,<lb/>
+Dr. Charles E. Finlay, knew of these diaries; if he did, so far as I can find out,<lb/>
+he did not mention them in his book about his father, published in English in 1940,<lb/>
+in Spanish in 1942. Since there are many interesting and important data in these<lb/>
+record-books, I strongly suspect that Dr. Charles Finlay did not know of them. Before<lb/>
+the latter died he gave many souvenirs of his father to the National Academy of<lb/>
+Sciences (<unclear>the</unclear> other data are in the National Museum).</p>
+<p>Dr. Charles E. Finlay died 2 - 4 years ago. In January 1944, the widow sent<lb/>
+to the National Academy of Sciences these eleven notebooks which as I understand it, she<lb/>
+found &ldquo;with a pile of other books&rdquo;. (When I later visited the only remaining son,<lb/>
+Frank Finlay, he said he hadn't ever heard of the books. But he stressed the fact that<lb/>
+since he (<unclear>Frank</unclear>) was not a physician and Charles E. had been, all his father's medical<lb/>
+data had naturally gone to Charles. He (Frank) had nothing (medical) of his father<lb/>
+except the usual family photographs. (He knew nothing of Finlay's 1881 manuscript or of<lb/>
+when Finlay gave the mosquitoes to Reed et al.)</p>
+<p>I examined carefully at least four of these note-books, those of 1882 - 1884,<lb/>
+those of 1900 - 1901. I found much interesting data (e.g., notes stating when Finlay<lb/>
+had sent or taken reprints or typed copies of his ideas on mosquitoes to several U. S.<lb/>
+Army officers such as Colonel O'Reilly, and their non-committal replies to Finlay). Much<lb/>
+of the data is in English, some in Spanish or French, a little in German. Several<lb/>
+hand-written (first versions?) papers appear in these notebooks; it may well be that some<lb/>
+were never published.</p>
+<p>I think this represents an important medico-historical &ldquo;find&rdquo;, a hand-written<lb/>
+record of many years of Finlay's jottings. It's too bad Volume I starts in 1882 and I<lb/>
+was interested to note that during the months Reed and colleagues were working in Cuba<lb/>
+Finlay wrote few notes. Perhaps he was too busy with his own work and with watching<lb/>
+the U. S. Board's work. Despite these omissions I think it highly important to obtain<lb/>
+microfilm of these note-books, complete. I told Dr. Presno I'd arrange to have this<lb/>
+done either at the Mayo Clinic or at the Surgeon General's Library (There is no machine<lb/>
+for micro-film in Cuba; photostats of every page would be too costly - possibly 2000<lb/>
+pages at 75 cents a page!) I promised Dr. Presno I'd personally pay for 4 or 5 copies<lb/>
+of the microfilm: two for the National Academy (one to keep, one to lend?), one for<lb/>
+Dr. Nogueira, one for me, one for the Surgeon General's Office. I stressed the impor-<lb/>
+tance of such films in case the original books were lost, stolen, burned, etc.</p>
+<p>Dr. Presno, having heard of my plans for a Cuban-American medical museum at<lb/>
+Camp Lazear, and having approved then most heartily (he almost had tears in his eyes and<lb/>
+spoke of it as most &ldquo;sympatico&rdquo;) at <add><unclear>first</unclear></add> heartily approved and said I should call for the<lb/>
+books the day I was to leave Havana. I prepared a special container and the books were<lb/>
+to be given by me to Dr. Nogueira in Washington, May 12 when he attends the Congress;<lb/>
+in this way they were to be in our hands constantly. But unfortunately Dr. Presno got<lb/>
+&ldquo;cold feet&rdquo;, wondered whether he alone should assume this responsibility and apparently<lb/>
+called a couple of the Academy's Directors who didn't entirely favor the idea so I had<lb/>
+to leave without the books, a <unclear>real</unclear> disappointment.</p>
+<p>However our plan is this. Dr. Nogueira will try to persuade them to let<lb/>
+<hi>him</hi> bring them to Washington in May; he will be in the U. S. a month. I will try to<lb/>
+have the Librarian of the Surgeon-General's Library send to Dr. Presno a <hi>formal</hi> request<lb/>
+to microfilm the books &ldquo;so that Americans may know as much as possible about Finlay's<lb/>
+great work&rdquo;, etc., etc.</p>
+<pb n="16" id="f04208018"/>
+<p><hi><unclear>Not</unclear> correctly quoted</hi><lb/>
+late in June or early July<lb/>
+<unclear><hi>A E T</hi></unclear></p>
+<p>Finlay was stressing the fact<lb/>
+that he gave the mosquitoes to<lb/>
+Lazear and, I think, neglected<lb/>
+to say who else was present.<lb/>
+As Lazear was working with<lb/>
+malaria &amp; <unclear>anopheles</unclear> at the time<lb/>
+he no doubt requested the<lb/>
+mosquitoes as stated by Finlay<lb/>
+<unclear><hi>A E T</hi></unclear></p>
+<pb n="17" id="f04208019"/>
+<p>- 16 -</p>
+<p>Only a handful of people knew of these books: Dr. Presno, the Librarian and<lb/>
+his assistant, Dr. Nogueira, a couple others and myself. Two Cuban doctors heard of<lb/>
+them, examined them casually and departed. According to the Curator, only Dr. Nogueira<lb/>
+and I have studied them.</p>
+<p>I came across one note which makes me wonder whether Dr. Finlay didn't<lb/>
+also keep a <hi>non-medical</hi> diary. In Volume XV (September 25, 1898 - November 3, 1899) on<lb/>
+page 348 (date about mid-June 1899) Finlay referred to &ldquo;my day book (diary)&rdquo;.</p>
+<p>I cannot interpret this note with certainty and neither Mr. Frank Finlay<lb/>
+nor Dr. Presno nor Dr. Nogueira knew of any other diary. But it seems strange to me<lb/>
+that a man as methodical as Finlay could have made so few entries and comments about<lb/>
+the work of Reed et al as it proved his own theory and idea of 19 years! Dr. Nogueira<lb/>
+has spent several evenings at the home of Dr. Charles Finlay's widow going over what<lb/>
+relatively few data she still has; they allow him to examine it at their home when they<lb/>
+are present. Dr. Nogueira hadn't suspected there might be still another (non-medical)<lb/>
+diary nor had he gotten from the family or from the data examined so far any suspicion<lb/>
+of such a diary.</p>
+<p>25. <hi>Meeting of Finlay with Reed et al</hi>. We do not know exactly when Reed<lb/>
+and his colleagues decided to concentrate on the Finlay theory or just when the mos-<lb/>
+quito eggs were obtained from Finlay. According to Agramonte (Scientific Monthly, 1915)<lb/>
+members of the Board (not identified by Agramonte) visited Finlay during &ldquo;the first<lb/>
+week of August, 1900&rdquo;; it was on or about August 1, according to Agramonte (Scientific<lb/>
+Monthly 1915, p-219) and Lampson (p-429). <hi>But Lampson states that Finlay visited Reed</hi><lb/>
+June 26 (trying to sell Reed the mosquito theory) and General Truby insists that the<lb/>
+Board visited Finlay in mid-July (Truby P-89) because Truby remembers that mosquitoes<lb/>
+were being bred in Reed's laboratory as early as mid-July. I do not consider<lb/>
+<unclear>Lampson</unclear> an authority<lb/>
+<unclear>but</unclear> he may have heard this from Reed, his <unclear>teacher.</unclear></p>
+<p>All the usual stories state that &ldquo;the Board&rdquo; or &ldquo;members of the Board&rdquo; went to<lb/>
+see Finlay early in August. (see Senate <unclear>Doc</unclear>. p-209. etc.) But Finlay himself stated<lb/>
+(in a reference that seems to have escaped American writers: Selected Works, footnote<lb/>
+on P-411) that &ldquo;The experiments made by Drs. Reed, Carroll, Agramonte and Lazear were<lb/>
+started in June 1900, with a brood hatched from eggs of the identical insect which, at<lb/>
+Dr. Lazear's request, I had handed to him.&rdquo;</p>
+<p>Note that it doesn't say when Finlay gave Lazear the eggs. But from this<lb/>
+note and Truby's comment I believe that sometime in June Lazear <unclear><add>&amp; other members <hi>A E T</hi></add></unclear> visited Finlay and<lb/>
+received the Board's first batch of mosquito eggs. (Was Reed along? <add>Yes</add> I doubt it or<lb/>
+Finlay would have said so). Lazear kept breeding these mosquitoes and it was probably <unclear>to</unclear><lb/>
+these which Truby recalls having seen in mid-July. But at this time the mosquito work<lb/>
+was an issue (in slow progress) secondary in importance (<unclear><hi>at least in Reed's mind) to</hi></unclear><lb/>
+the bacteriological work. But after the Pinar del Rio visit, Reed, Agramonte, Lazear<lb/>
+and Carroll all agreed to concentrate on the mosquito work, <unclear>as</unclear> the bacteriology <unclear>that<lb/>
+were</unclear> finished</p>
+<p><unclear><hi>no</hi></unclear></p>
+<p>Reed was about to return to the U. S. But before doing so he and Lazear<lb/>
+(and Carroll?? I think not.) went early in August to get some (more?) mosquito eggs<lb/>
+from Finlay and it was this latter visit of which writers speak. I don't recall that<lb/>
+any American writer has mentioned Lazear's visit to Finlay. Almost immediately after<lb/>
+the early August visit of Reed and Lazear to Finlay Reed left (August 2) for Washing-<lb/>
+ton (Truby, P-101).</p>
+<p>Reed himself, in Senate Document 822, page 66, mentions only one interview<lb/>
+(&ldquo;a most courteous interview&rdquo;) with Finlay.</p>
+<pb n="18" id="f04208020"/>
+<p>- 17 -</p>
+<p>Nor do we know exactly who went with Reed (in August) to visit Finlay.<lb/>
+Miss Agramonte told me she thought her father might have gone with Reed as an inter-<lb/>
+preter, but she wasn't sure. This doesn't satisfy me as Finlay spoke English fluently<lb/>
+and needed no interpreter. Furthermore, although Agramonte later claimed to have been<lb/>
+in on this or that event of the Board, he never precisely claimed to have been on the<lb/>
+visit between Reed and Finlay. Whenever Agramonte wrote of this visit he sidestepped the<lb/>
+issue as to just when it was and who were there. Nor did Carroll (who later claimed<lb/>
+plenty) ever actually state he was a party to this visit. Hence I would conclude that<lb/>
+neither Carroll nor Agramonte went with Reed. It would be most logical for Lazear to<lb/>
+have accompanied Reed; Lazear was the only Board member familiar with mosquitoes<lb/>
+(malaria, etc.).</p>
+<p>In 1940 Dr. Albertini told me that he had happened to be visiting Finlay the<lb/>
+day Reed came for the eggs. According to Albertini, Finlay's young son Charles was<lb/>
+also in his father's office (110 Aguacato Street) and the visitors were Reed and Lazear<lb/>
+and &ldquo;possibly Carroll&rdquo;. When Albertini spoke at the placement of the Lazear and Maass<lb/>
+wall plaques at Las Animas Hospital in September 1936, Albertini mentioned this visit<lb/>
+(Reed et al to Finlay) and described it as I have stated (he gave me a copy of his<lb/>
+remarks). But when I told Albertini I doubted that Carroll was present Albertini hedged<lb/>
+a bit and said he thought Carroll was present but that his memory on this might be wrong;<lb/>
+he did not recall the presence of Agramonte.</p>
+<p>When I tried this time to clarify this point, nobody could help me. Drs.<lb/>
+Presno and Nogueira and Mr. Frank Finlay knew nothing definite. But recently a mural<lb/>
+depicting this visit was set up in the Presidential Palace. It depicts Finlay, his<lb/>
+son Charles, Albertini, Reed, Lazear <hi>and</hi> Carroll and the painter, Mr. Esteban Valderrama,<lb/>
+presumably spent much time authenticating the time (stated by him as August 1), place<lb/>
+and participants. So Nogueira, Moran and I visited Volderrama. At first he insisted<lb/>
+that he had proof of the date and the visitors but when I told him of my doubts and<lb/>
+asked what the proof was he became excited, voluble and apparently annoyed that I<lb/>
+should &ldquo;challenge&rdquo; his version. I had a terrible time pinning him down on any point. The<lb/>
+desk, microscope, etc., were of course copied from the originals in the museums mentioned.<lb/>
+I couldn't get an adequate explanation of why Valderrama had painted so prominently on<lb/>
+the wall of Finlay's office the Magna Carta. Apparently this was not actually in Finlay's<lb/>
+office but put in &ldquo;because Finlay was so proud of his English ancestry&rdquo;. His father was<lb/>
+Scotch-English but he habitually told the Spanish he was not a Cuban but an American.</p>
+<p>There exist apparently no photos of the outside or inside of Finlay's old<lb/>
+home at #110 (now #460) Aguacato Street where this <unclear>event occurred</unclear>. (A new building is<lb/>
+now on the site; Dr. Charles Finlay took Moran and me to it in 1941) but the building<lb/>
+next to Finlay's home was identical to Finlay's except &ldquo;in reverse&rdquo;. Valderrama visited<lb/>
+the interior of this &ldquo;house next door&rdquo; and copied the hallway, inside of door and front<lb/>
+room.</p>
+<p>As to the presence of Carroll, Valderrama insisted that Albertini had assured<lb/>
+him (and Nogueira) without equivocation that Carroll was present. As to the date<lb/>
+(August 1) Valderrama finally located his &ldquo;proof&rdquo; - a letter from Dr. Ang<del>e</del>les (September<lb/>
+8, 1940) answering a question sent him by Dr. Dominguez. The letter was difficult to<lb/>
+interpret because after the first sentence or two Angeles put the rest (about the date<lb/>
+of the Finlay-Reed meeting) in quotes but failed to tell whom he was quoting; he gave no<lb/>
+reference. Valderrama had assumed Ang<del>e</del>les was quoting someone else (some American report,<lb/>
+Volderrama thought) but when I told him I'd never found such a report Valderrama sug-<lb/>
+gested that Ang<del>e</del>les was putting his own answer to Albertini in quotes. Since Albertini<lb/>
+<pb n="20" id="f04208021"/>
+- 18 -<lb/>
+and Angles are now both dead one can only surmise what was meant or &ldquo;quoted&rdquo;. But I've<lb/>
+learned by experience that one cannot rely on <hi>anything</hi> that Dr. Angles said about the<lb/>
+yellow fever work. When I interviewed him in 1940 or 1941 he was utterly confused, quite<lb/>
+mixed up as to events, dates and places and yet quite stubbornly sticking to his state-<lb/>
+ments even when I showed him that by the official records he was in error and that his<lb/>
+memory was mis-serving him. (He wrote General Kean some data which were also much in<lb/>
+error.) Indeed in my experience, Dr. Angles was unfortunately the most mistaken man<lb/>
+of all I've interviewed as to the yellow fever story. Hence if Valderrama has no better<lb/>
+authority than poor old Dr. Angles we cannot accept the date of August 1 or the presence<lb/>
+of Carroll as in any way certain.</p>
+<p>Later I visited Volderrama's rather good mural in the Presidential Palace;<lb/>
+the card of identity boldly proclaims the date of the event as &ldquo;August 1, 1900&rdquo; and<lb/>
+of course, includes Carroll but states that Agramonte was &ldquo;absent&rdquo;.</p>
+<p>(Valderrama promised to send me a photographic copy of his mural; also a<lb/>
+copy of Ang<del>e</del>les' letter. Incidentally a reprint of my Hygeia article on &ldquo;Conquerors<lb/>
+of Yellow Fever&rdquo; was in his possession and he had used it for background data.)</p>
+<p>26. <hi>Visit to Pinar del Rio:</hi> Dr. Nogueira drove Mary and me to Pinar del<lb/>
+Rio, about 110 miles west of Havana. We thoroughly enjoyed the trip into <unclear>rural</unclear> Cuba<lb/>
+and the <hi>scenes along the Central Highway</hi>, the patches of trees arching completely over<lb/>
+the highway, the oxen drawn carts in the fields, the thatch-covered <unclear>bohios</unclear>, etc.<lb/>
+About two thirds of the way to Pinar we came to the &ldquo;mountains&rdquo; to which the road ran<lb/>
+parallel.</p>
+<p>45-46-47</p>
+<p>I wanted to see if the old Cuartel of 1900 was still there, the quarters<lb/>
+used as headquarters of the American troops in which cuartel was the prison-cell in which<lb/>
+Private Haskins had contracted the fatal yellow fever (his cell mates escaping it).<lb/>
+It was this case, studied in person by Agramonte, later by Reed and Lazear, which<lb/>
+made the Board decide to drop everything else and concentrate on the mosquito theory.</p>
+<p>We met Dr. <hi>Arturo de la Torre</hi>, President of the local medical society, and<lb/>
+Dr. Maximo Martinez, Health officer for Pinar del Rio. They took us all around and<lb/>
+showed us the sites I was looking for, entertained us for lunch and later at the new<lb/>
+<hi>country club,</hi> and told us the following.</p>
+<p>48-49</p>
+<p>The old Cuartel blew up in May 18, 1910 as a result of a dynamite explosion,<lb/>
+an accident while dynamite stored therein, was being transported to the railroad. The<lb/>
+Cuartel was on a high spot of ground and faced Ave. Retiro. The site is now occupied<lb/>
+by a school which occupies only three sides of the large block formerly occupied by<lb/>
+the Cuartel. The <hi>school buildings</hi> are one storied, built like a U. (I think in reality<lb/>
+the &ldquo;school&rdquo; is considered to be two schools; the one on the right is called the<lb/>
+&ldquo;Franklin Roosevelt School&rdquo;, that on the left is called (I think) the &ldquo;School of the<lb/>
+Americas&rdquo;, high sounding names for very modest little buildings.) In the large open<lb/>
+central paved area (<hi>school &ldquo;yard&rdquo;</hi>) stands a <hi>small shaft</hi> in memory of the (named) 49<lb/>
+persons killed in the explosion. (Halley's comet was visible those nights in May 1910;<lb/>
+the rumor had gotten around among the ignorant Cubans, especially the negroes, that<lb/>
+Halley's commet would strike the earth anytime. When the town folk heard the explosion<lb/>
+about 3 p.m. May 18, 1910, there was a near-panic as many believed the comet had hit<lb/>
+the earth!)</p>
+<p>50-51<lb/>
+52-53<lb/>
+54</p>
+<p>Neither Drs. Torre nor Martinez (relatively young men) knew where <add>in</add> the Cuartel<lb/>
+the prison had been nor exactly where the Post Hospital had been. We visited Senor<lb/>
+Daniel Portilla, an ancient Pinar citizen who had had yellow fever about 1870. He also<lb/>
+didn't know where the prison had been but after conversation among the group it was<lb/>
+decided that the Post Hospital (no longer there) had been about one block behind the<lb/>
+<pb n="21" id="f04208022"/>
+- 19 -<lb/>
+55-56<lb/>
+old building (destroyed 1923) now occupied by the site of the Sanitorio de la Espanola<lb/>
+57<lb/>
+(built about 1925), in other words at the end of the Calle Santa Filomena. (If this<lb/>
+is so the Post Hospital buildings may well be those in the right background of the<lb/>
+old 1900 photo taken from the roof (northwest corner) of the old Cuartel; send back to<lb/>
+Dr. Cooke for further consideration.) They marked the spot on a large map given me and<lb/>
+we visited the various sites. <hi>Several of the old</hi> buildings shown in my old Army photos<lb/>
+of Pinar del Rio are still standing and I photographed them.</p>
+<p>58-61</p>
+<p><unclear>Venales</unclear> Valley near Pinar - 62-68</p>
+<p>27. <hi>Miss Agramonte (Senora Estella Agramonte Rodriguez Leon)</hi>. On my previous<lb/>
+visits I had found Agramonte's daughter (only child) quite cordial, very talkative and<lb/>
+seemingly willing (up to a point) to help me as much as her busy life would permit.<lb/>
+Although she is a wife and mother she is too energetic to be content with that and<lb/>
+also teaches and takes courses herself on this and that. She <hi>told</hi> me quite a few things<lb/>
+in 1940 - 1941, but I had to keep after her (to an almost impolite degree) to hunt up<lb/>
+her father's papers and let me see them. In 1940 she did find a few things and let me<lb/>
+photostat them. By 1941 she hadn't had time yet to hunt up the other items she'd men-<lb/>
+tioned in 1940 and which were in a trunk at their old home (elsewhere).</p>
+<p>Miss Agramonte was obviously sensitive for her father's reputation. After<lb/>
+1900, Dr. Agramonte had found himself in a peculiar position; &ldquo;smack between&rdquo; the pro-<lb/>
+Finlayites and the pro-Reed-ites. The Americans considered him an immune Cuban who ran<lb/>
+no risks and participated in the Board's work in only a minor way. When Finlay began<lb/>
+to feel &ldquo;neglected&rdquo; after 1902 and speak up for himself and claim that he <hi>had</hi> produced<lb/>
+yellow fever, Carroll wrote a rather (unnecessarily) bitter paper against Finlay,<lb/>
+whereupon the pro-Finlayites began to dislike strongly all the surviving U. S. Board<lb/>
+members. Because Agramonte in later papers defended the Board's position, even though he<lb/>
+wrote a strong defense of Finlay and protested the vehemence of Carroll's attack, the<lb/>
+Cubans considered him a &ldquo;traitor&rdquo; to the Cuban pro-Finlay view. Hence Agramonte found<lb/>
+himself really a member of neither the American nor the Cuban &ldquo;camp&rdquo;. According to<lb/>
+Miss Agramonte, her father's life in Havana became gradually so unhappy that he was<lb/>
+glad to accept the New Orleans (University of Louisiana) job about 1930. Miss Agramonte<lb/>
+has always resented bitterly (as did her father) Carroll's later claim that he (Carroll)<lb/>
+did this and that and that Agramonte did so little and was presumably actually kept by<lb/>
+Reed in ignorance of the first part of the Board's work.</p>
+<p>In 1940 - 1941, Miss Agramonte let me know that she would let no Cuban see<lb/>
+any of her father's data, but she gave me permission to &ldquo;use anything I've given you<lb/>
+any way you wish&rdquo;.</p>
+<p>When I visited her this time I found it difficult to pin her down to a definite<lb/>
+appointment; she was &ldquo;so busy&rdquo; and &ldquo;hadn't found much for me&rdquo;. Finally I saw her, talked<lb/>
+things over in a general way and then saw her for two - three hours later. She had<lb/>
+located some data but not much because most of her father's data were packed helter-<lb/>
+skelter in a trunk, everything having been mixed up by some previous packer.</p>
+<p>At first, despite the apparent cordiality, I found our talk a bit difficult.<lb/>
+She was forever on the vorge of showing me the stuff she had on the desk in front of<lb/>
+her but never seemed to get at it; just talk, talk. She seemed reluctant to &ldquo;open up&rdquo;<lb/>
+and to let <hi>me</hi> examine the <unclear>data</unclear>, even in her presence. Finally, rather cautiously, as<lb/>
+if she'd lost her confidence in me, she showed me some relatively <unclear>unimportant</unclear> items,<lb/>
+slowly, one by one. Time was passing and I had only an hour to be with her and could<lb/>
+not return this trip. I was really getting worried and disappointed. Up to now she'd<lb/>
+made no attempt even to answer the questions or show me the data I'd asked about in<lb/>
+letters written to her in preparation for my 1948 visit.</p>
+<pb n="22" id="f04208023"/>
+<p>- 20 -</p>
+<p>Finally I decided to force the issue. I told her that the attitude in many<lb/>
+American medical circles was still that her father's contribution had been rather<lb/>
+minimal. At first she didn't rise to this bait. Then I let her have it. I said<lb/>
+&ldquo;You know your father's own writings contain several important contradictions and without<lb/>
+your help I simply can't straighten things out.&rdquo; &ldquo;What contradictions&rdquo; she said. &ldquo;You<lb/>
+wrote me of one or two but I don't think there were any contradictions. What do you mean?&rdquo;<lb/>
+I gave her both barrels and told her that her father's earlier writings (&ldquo;Lazear pro-<lb/>
+duced the first two cases unbeknown to the other members of the Board&rdquo;) flatly contra-<lb/>
+dicted his 1915 popular article. &ldquo;You know, your father was on leave and wasn't even<lb/>
+in Havana when Lazear died despite the 1915 article and your father's letter to Mrs.<lb/>
+Lazear, presumably recalling the last moments of Lazear's life&rdquo;.</p>
+<p>This finally got her; she didn't believe me and said she's found evidence to<lb/>
+prove he was not on leave, but she still didn't show me the evidence. But when I showed<lb/>
+her Agramonte's leave slips signed in his own signature she became concerned and more<lb/>
+willing to cooperate. To make a long story short, she finally examined with me the<lb/>
+small pile of letters and documents she'd located. We found some very interesting items<lb/>
+chief among which were Agramonte's own records of breeding and infecting the mosquitoes,<lb/>
+and letters indicating that the &ldquo;leave&rdquo; which Agramonte took (and officially signed up<lb/>
+for) about September 24, 1900, was actually not a leave but was taken on orders from<lb/>
+General Wood to get laboratory supplies in New York City for the University of Havana<lb/>
+Medical School. Since the trip was on Cuban, not U. S. Army, business, Agramonte was<lb/>
+told to sign up as if on leave, that his expenses could not be paid out of U. S. Army<lb/>
+funds but would be paid out of Insular funds.</p>
+<p>When I told Miss Agramonte that I had found absolutely no record of all this<lb/>
+in the Agramonte personnel file in the Archives Building, she was really concerned. Then<lb/>
+I promised that if she would let me borrow much of this data and photostat and photograph<lb/>
+it, I would send copies not only to &ldquo;certain interested Americans&rdquo; (which I did not name;<lb/>
+I meant Generals Kean and Truby) but would see to it that copies were called to the at-<lb/>
+tention of the War Department and given them (and to the Archives Building) for permanent<lb/>
+filing in Agramonte's file.</p>
+<p>This really pleased her, relieved her and changed the whole attitude of our<lb/>
+interview. In the next half hour we accomplished more than I had in the first 2 1/2 hours<lb/>
+of jockeying. She allowed me to bring back home many items to copy and said &ldquo;I see<lb/>
+you and I are fighting the same fight. You can do whatever you want with this material,<lb/>
+copy and quote whatever you want. You are the only one to whom I've ever given that<lb/>
+permission. We will discuss later how best to return the material to me, perhaps by<lb/>
+mail, perhaps through the Cuban embassy in Washington. But if so, I want the material<lb/>
+sealed. I don't trust any Cubans to see this material. They might use it to discredit<lb/>
+father even more.&rdquo;</p>
+<p>Finally we discussed Agramonte's curious Scientific Monthly article (December<lb/>
+1915) which describes so much in detail, much that we know never happened, even though<lb/>
+Agramonte claims that everything therein was absolutely true. I let her down by pro-<lb/>
+posing the only explanation I can think of. It is difficult for me to believe that<lb/>
+Agramonte deliberately and consciously lied in that article. He may well have<lb/>
+&ldquo;<unclear>reminisced</unclear>&rdquo; and &ldquo;remembered&rdquo; (more or less innocently) things that never happened.<lb/>
+But as one examines this article it isn't written like one written by a physician,<lb/>
+nor does it sound like any of Agramonte's other papers. It has a newspaper-article<lb/>
+quality. It is written in a dramatic fashion and for heightened effect it is not told<lb/>
+in calendar sequence but opens in the middle of the story so as to start with a punch<lb/>
+(a common and good journalistic trick) and later goes back to the beginning. I con-<lb/>
+clude that Agramonte probably sketched the story (dates, etc.) to a professional writer<lb/>
+who pepped it up, and probably took many liberties with the truth and either put these<lb/>
+<pb n="23" id="f04208024"/>
+- 21 -<lb/>
+over on the unsuspecting author or &ldquo;persuaded&rdquo; him that the dramatized popular version<lb/>
+really was harmless even if it took liberties with actual facts. Perhaps Agramonte<lb/>
+never thought that medical historians would find this popular article or take it too<lb/>
+seriously.</p>
+<p>Whether or not this explanation is correct, it was wise to give some such to<lb/>
+Miss Agramonte, to give her a &ldquo;way out&rdquo;, to let her keep her trust in her father, to<lb/>
+give her someone else than her father to blame for the provable contradiction. I<lb/>
+urged her to search for any correspondence between her father and the editor of the<lb/>
+the Scientific Monthly to see if <unclear>my</unclear> explanation and suspicions could be proven.</p>
+<p>She seemed pleased at the thought and we parted in the friendly spirit of<lb/>
+&ldquo;comrades in the same cause&rdquo;. (I've had the papers copied and will distribute them<lb/>
+to the War Department (A.G.O.), Archives Building and to Generals Kean and Truby soon;<lb/>
+also I'll call them to the attention of the Reed and Lazear families.</p>
+<p>28. <hi>Old Havana newspapers</hi>: In 1940 - 1941, the old newspaper files in the<lb/>
+<hi>National Library in La Fuerza</hi> were &ldquo;not available for examination&rdquo; as they were stored<lb/>
+in old boxes, crates, etc., and not filed. I did find a few in the Bibliotica de la Soci-<lb/>
+edad Economica.</p>
+<p>67</p>
+<p>This trip we located most of the old papers I'd tried so hard to find (The<lb/>
+files in the Library of Congress and elsewhere are very incomplete.). But still the<lb/>
+files of the Havana Post are missing, not in the National Library or in the (new)<lb/>
+building of the Economic Library. The Havana Post building burned down sometime after<lb/>
+1900 and all their own early files are lost. The National Library has no facilities<lb/>
+for photo-reproduction. One either laboriously takes the old (brown friable) files<lb/>
+out (with a library attendent) to be photostated commercially or takes a photographer<lb/>
+to the library, props the paper on a table out on the roof and tries to get satisfactory<lb/>
+photos. Unfortunately to save time, I tried the latter with inadequate results (pages<lb/>
+much too reduced in size and too hazy to enlarge well). Will try to have Moran or<lb/>
+Nogueira help me get photostats. But we did locate and photo the &ldquo;Horrible if true&rdquo;<lb/>
+articles in La Discussion which caused such a furore; also I located an article which<lb/>
+told of Reed's visit to the Spanish Consul (got his name which we confirmed by visiting<lb/>
+the current Spanish Consul in Havana) who gave Reed his moral support to inoculate<lb/>
+Spanish volunteers; also article on the Delmonico banquet and on the Pan-American<lb/>
+Congress.</p>
+<p>29. <hi>Old photos of Havana</hi>: I located some very interesting and old ones in<lb/>
+the files of the American Photo Company (255 Neptune Street) and at Swan's bookstore<lb/>
+(Obispo 255).</p>
+<p>30. <hi>Adrian Macia</hi>. Sr. Macia, a wealthy civil engineer and architect, owns<lb/>
+that part of the Finca San Jose on which Camp Lazear was and where the caseta still<lb/>
+stands. He operates the place as a lime quarry.</p>
+<p>In 1940 he was very cordial toward my plans, said he would more or less<lb/>
+&ldquo;give&rdquo; me or sell me at a nominal price enough land for the memorial. As a token of<lb/>
+faith he actually deeded me the caseta (for practically nothing) with the proviso<lb/>
+that I accomplish my project within a certain time limit. Then came the war, the<lb/>
+time limit expired and the caseta reverted to his ownership.</p>
+<p>Meanwhile various governmental and medical persons visited the caseta; it<lb/>
+was written up, photographed and discussed in newspapers and on the radio. As nothing<lb/>
+was done to memorialize the spot, certain people presumed that Mr. Macia was holding<lb/>
+out for a fancy price. (I was warned of this by Mr. Moran who feared that Macia was<lb/>
+preparing to &ldquo;hold me up&rdquo;.) Indeed (as Macia told me) such remarks were printed in<lb/>
+<pb n="24" id="f04208025"/>
+- 22 -<lb/>
+the newspapers and caused him so much embarrassment that he once almost wrote a re-<lb/>
+joinder, but decided to ignore the attacks. He made it clear to visitors that he<lb/>
+was still willing to &ldquo;give&rdquo; the caseta to the government or to anyone who had proper<lb/>
+plans for memorializing the spot.</p>
+<p>Last year the Grau government proclaimed the caseta a &ldquo;National Monument&rdquo;<lb/>
+but set aside no money for its preservation. I showed Macia sketches of my ideas for a<lb/>
+little museum. He approved them and we discussed costs. If we build merely a little<lb/>
+museum according to my sketch the little building should be 20 by 15 meters (66 x 50 feet).<lb/>
+He estimated (on the high or liberal side) that at $90.00 a square meter (for building<lb/>
+costs at 1948 prices in Cuba) such a building would cost about $31,000 (66 x 50 = 3300<lb/>
+square meters x $90.00 = $30,700.00).</p>
+<p>As for the land, 1000 square meters is sufficient (he estimates) for a small<lb/>
+museum and he will give this amount of land for nothing. But if we want to buy the<lb/>
+whole remains of Camp Lazear so that we can have a little park in front of the museum<lb/>
+10,000 square meters will be required and he will sell it at 40 or 50 cents a square<lb/>
+meter (a low price by current standards) or for not more than $5,000.00. This amount<lb/>
+of land will include enough to make a road extend to the caseta from Calle L. Valdes<lb/>
+Carrera (or from Calle Rafael Martinez). Hence the total cost for the project (Cuban-<lb/>
+American museum; Camp Lazear and caseta) would be $31,000.00 for building, $5,000.00<lb/>
+for the land = $36,000.00 (not including museum displays).</p>
+<p>Mr. Macia was most gracious and sympathetic to the project and to me, but he<lb/>
+told me frankly he's had &ldquo;trouble&rdquo; ever since I'd discovered the caseta. He said &ldquo;I<lb/>
+often wished I didn't have anything to do with the place and after various people came<lb/>
+to me I decided it was best for me not to go to the place at all so I haven't visited<lb/>
+the caseta for months!&rdquo;</p>
+<p>But &ldquo;while the physicians argue over what treatment to use the patient dies&rdquo;;<lb/>
+while various people (myself, the Cuban government, individual civilians, etc.) argue<lb/>
+over what kind of a memorial to erect, the caseta slowly crumbles! Hence I proposed<lb/>
+to Mr. Macia that the caseta be protected at once by an enveloping galvanized iron cover-<lb/>
+all. He estimated the original cost of such a cover at &ldquo;not more than $1,000.00&rdquo;<lb/>
+(remember, he's an architect himself) and said the salvage value would be at least<lb/>
+40 - 50 per cent, meaning that the wooden uprights and the galvanized iron could later<lb/>
+be salvaged for $400 - $500, so that the ultimate cost would only be $500 - $600.<lb/>
+Whereupon I said I would myself at once pay the cost of this construction and he<lb/>
+said he's supervise it for me.</p>
+<p>At last, I thought, we were getting somewhere! But then Mr. Moran said,<lb/>
+&ldquo;Sr. Macia, will the fact that the government has made the caseta a national monu-<lb/>
+ment interfere with the erection of this protecting cover?&rdquo; I had of course assumed<lb/>
+that Macia know this, but that since nobody was protecting the caseta and since the<lb/>
+government had not bought a single inch of land, not even that on which the caseta<lb/>
+stood, it would be perfectly all right if <hi>someone</hi> protected it at no cost to the<lb/>
+Cuban government. But when Macia heard this (which curiously, he had not known) he threw<lb/>
+up his hands and said, &ldquo;Well, if it's been declared a National Monument, I won't touch<lb/>
+it! I wouldn't dare pull a nail out or put one in!&rdquo;</p>
+<p>In other words we were worse off than if the government had not termed it<lb/>
+a &ldquo;National Monument&rdquo;! That about ended the discussion but he promised to cooperate<lb/>
+in any way possible.</p>
+<p>31. <hi>Nogueira's support re Camp Lazear:</hi> Without my request or consent, Dr.<lb/>
+Nogueira had decided I should meet President Grau right away as soon as I arrived and<lb/>
+<pb n="25" id="f04208026"/>
+- 23 -<lb/>
+tell him briefly of my plans so as to enlist Grau's support at once. So Nogueira<lb/>
+had gotten an appointment for me to meet the President the very day I arrived and<lb/>
+so wrote me at Palm Beach. But I wasn't prepared to meet Grau as I wanted first<lb/>
+to see the condition of the building and see Macia about costs in case Grau were to<lb/>
+ask me just how much I (and other Americans) were willing to do. So I wired Nogueira<lb/>
+to cancel my first date and we'd try to get another one.</p>
+<p>In a way this was unfortunate because the day of my appointment happened to<lb/>
+be just two days before the start of the 7 day political conference to nominate the gov-<lb/>
+ernment's candidate for the next presidency. Having passed up my appointment we had<lb/>
+difficulty in arranging another, as Grau and all other politicos were in a frenzy of<lb/>
+conferences, etc. Day after day the President's secretary told Nogueira &ldquo;I think to-<lb/>
+morrow we can do it&rdquo;. (Manana, Manana!) Then finally a date was set for 2 days be-<lb/>
+fore I was to leave Cuba. This suited me fine as I preferred to work out my plans<lb/>
+more completely before seeing him.</p>
+<p>Meanwhile Dr. Nogueira took me to meet Dr. Andreu a physician (so many Cuban<lb/>
+physicians are in politics, including the President, Dr. Grau who is also a physician)<lb/>
+who last year was the Cuban &ldquo;Minister of Public Health and Social Assistance&rdquo;, a cabinet<lb/>
+officer who had written me in April 1947 telling me the government had named the caseta<lb/>
+a &ldquo;National Monument&rdquo; and expressing pleasure at my interest therein. (Apparently he'd<lb/>
+had a a lot to do with this). Since 1947, however, Andreu is out of the Cabinet and is<lb/>
+now merely a senator but is one of the leaders of his own political party. Our meeting<lb/>
+with Dr. Andreu was brief. He expressed his continued interest and support but apologized<lb/>
+that he had to have a &ldquo;conference&rdquo;. His ante room was occupied by 8 or 10 men, one of<lb/>
+which was the man who a few days later was nominated to be a presidential candidate, so<lb/>
+we bowed out and they went in. (Apparently when Dr. Andreu isn't too busy &ldquo;politicking&rdquo;<lb/>
+he will continue to be helpful to our plans.)</p>
+<p>I've learned (the hard way) not to rely much on Cuban politicos so I decided<lb/>
+to get support from a more stable group, the Cuban medical profession. It was for this<lb/>
+purpose we visited Dr. Presno, the previous Minister of Public Health and Sanitation,<lb/>
+still the President of the Academy of Sciences of Havana. As mentioned above he was<lb/>
+apparently much in favor of the whole thing and considered my idea to erect a <hi>Cuban</hi>-<lb/>
+American memorial to honor <hi>Finlay</hi> as well as the Americans a most &ldquo;sympathetic&rdquo; idea.</p>
+<p>He asked me to send him a formal outline of my plan, sketches, etc., and said<lb/>
+he would bring the matter up before a regular meeting of the Academy of Science and have<lb/>
+them formally back the project and officially request that the Cuban government set aside<lb/>
+funds for the memorial, its erection and upkeep. Since Presno is still a powerful<lb/>
+figure and since the Academy of Science is itself a <unclear>quasi-governmental</unclear> agency, Presno's<lb/>
+support should (if necessary) accomplish much. However it should be remembered that<lb/>
+all these three supporters of mine though previously and recently in high governmental<lb/>
+office are at the moment &ldquo;out of favor&rdquo; or at least out of office, but still &ldquo;close&rdquo; to<lb/>
+the government.</p>
+<p>32. <hi>Carbonell's support re Camp Lazear:</hi> In January 1942, Dr. Felipe Carbonell,<lb/>
+a Cuban physician, read my article on &ldquo;Conquerors of Yellow Fever&rdquo; in the Mayo Clinic<lb/>
+Proceedings and got stirred up. Through a friend he put out my story over the Salas<lb/>
+Radio Station, then went to see the President who instructed the (then) Minister of<lb/>
+Health to bring the matter before the &ldquo;Council of Ministera&rdquo;. Dr. Carbonell wrote me<lb/>
+of all this in 1942. Apparently things dragged on and I don't know how much Carbonell<lb/>
+and how much Andreu (or Nogueira) had to do with the designation (5 years later) of the<lb/>
+caseta as a &ldquo;National Monument&rdquo;.</p>
+<pb n="26" id="f04208027"/>
+<p>- 24 -</p>
+<p>Apparently Carbonell's interest did not die but lay dormant and when I wrote<lb/>
+him of this impending visit his interest revived. On our arrival at the Hotel Nacional<lb/>
+we found a note from him. That evening we were at Moran's and Carbonell, not finding<lb/>
+us at the hotel, came around there to discuss the situation. Despite his obvious real<lb/>
+interest and desire to &ldquo;do something now&rdquo; I found he didn't know Dr. Nogueira. Later<lb/>
+Moran explained the situation. Carbonell is <hi>not</hi> a politician but is a close friend of<lb/>
+the politicians now in power; in other words, he belongs to the &ldquo;ins&rdquo; whereas Nogueira,<lb/>
+Andreu and Presno belong to the &ldquo;outs&rdquo;.</p>
+<p>With Carbonell so interested I saw no reason to tell him too much of what<lb/>
+Nogueira et al were trying to do. I decided I'd enlist agents in both political camps.<lb/>
+Carbonell insisted he wanted me to meet the President very soon but the next few days<lb/>
+Carbonell was occupied helping to entertain the King and Queen of the Belgians who were<lb/>
+in Havana. Carbonell speaks fluent French, studied in France, is of an old Cuban family<lb/>
+and apparently a potential but not an actual &ldquo;socialite&rdquo;.</p>
+<p>A few days later he saw us and told us just what Nogueira had, that the<lb/>
+President was completely immersed in politics and had publicly cancelled (as noted<lb/>
+in the newspapers) certain non-political conferences and all non-political appoint-<lb/>
+ments until after the party debates. Carbonell was personally grieved at his inability<lb/>
+to take me &ldquo;at once&rdquo; to Grau. He is a close friend of Grau's daughter and expected to<lb/>
+walk me right in. He too got a tentative appointment for the day before I was to leave.<lb/>
+But because of a fierce political row and their inability to settle on a government can-<lb/>
+didate, the political (party chiefs) convention was extended two days, which meant that<lb/>
+their appointment to go with me to see Grau was set for the day after I was to leave<lb/>
+Cuba. They asked me to postpone our departure but I thought this unwise. Sufficient<lb/>
+ground work had been laid and I saw no reason to stay. I believed I could work as<lb/>
+effectively through Nogueira, Presno, Andreu and Carbonell, possibly more effectively<lb/>
+through them if I seemed more objective and less personal.</p>
+<p>So Carbonell suddenly decided to take Mary and me to visit the Vice President,<lb/>
+a friend of his. We had a nice dinner with Carbonell and then went to the Vice Presi-<lb/>
+dent's home. He, Raul de Cardenas, was a very pleasant man, wanted the whole background<lb/>
+of my interest in the story and followed the whole tale closely. He thought the whole<lb/>
+thing a fine idea, &ldquo;most gracious&rdquo; on my part, etc., etc. When I said that I only re-<lb/>
+quested one thing <hi>now</hi>, the opportunity to pay for the protecting cover for the caseta,<lb/>
+he and Carbonell insisted that the Cuban government wouldn't think of allowing that.<lb/>
+They appreciated greatly the (previously stated) willingness of the Mayo Clinic to<lb/>
+contribute something to the venture to honor Finlay as well as Reed, Lazear et al;<lb/>
+they considered my immediate offer of $1000.00 most &ldquo;sympatico&rdquo; (that word again) but<lb/>
+suggested that the money that I or the Clinic or other Americans gave might go to the<lb/>
+&ldquo;widows of the volunteers.&rdquo; I reminded them that it was not enough to raise money to<lb/>
+erect the memorial but it would have to be endowed to have it protected and that if<lb/>
+the government didn't do this, it must be done by joint Cuban-American gifts probably<lb/>
+under the authority of some Cuban medical agency. But the Vice-President &ldquo;believed&rdquo;<lb/>
+that the government would merely have the memorial (already a National Monument) kept<lb/>
+up in the usual way under the care of the Ministry of Public Works. He said he per-<lb/>
+sonally would discuss the project with the President and with the Minister of Public<lb/>
+Works as soon as the &ldquo;political debate&rdquo; was over.</p>
+<p>Next day, our next to the last day in Cuba, Carbonell took me to the Ministry<lb/>
+of Public Works. The Minister's ante room was a bedlam, another bunch of politicians<lb/>
+jabbering away. The Minister's secretary took us in at once, asked me if I couldn't<lb/>
+possibly wait over &ldquo;just two days&rdquo; and see the Minister then. When I politely refused,<lb/>
+he asked to see my sketch which Carbonell had mentioned. We went over the thing<lb/>
+briefly and I made new suggestions.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

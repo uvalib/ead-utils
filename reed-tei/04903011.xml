@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04903011">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Gustaf E. Lambert to Philip Showalter Hench, January 11, 1955</title>
+<title type="gmd">[electronic resource]</title>
+<author>Lambert, Gustaf E.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04903011</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1955-01-11</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Hench, Philip Showalter </term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Howard, Sidney Coe</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Dean, William H.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Brumby, William M.</name>
+<name type="person">Moran, John J.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Hanberry, James L.</name>
+<name type="person">Andrus, John H.</name>
+<name type="person">Truby, Albert E.</name>
+<name type="person">Tate, Paul L.</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Finlay, Frank</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Standlee, Mary</name>
+<name type="place">Hazelcrest (Ill.)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Memphis (Tenn.)</name>
+<name type="place">New York (N.Y.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1955-01-11">January 11, 1955</date>
+<idno rend="suppress">04903011</idno>
+<title>Letter from Gustaf E. Lambert to Philip Showalter Hench, January 11, 1955</title>
+</bibl>
+</head>
+<p>Lambert finds fault with the movie Yellow Jack, and criticizes Carroll and Agramonte while praising Ames.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1955-01-11">
+<head>Letter from Gustaf E. Lambert to Philip Showalter Hench, January 11, 1955</head>
+<pb n="1" id="f04903011"/>
+<opener>
+<dateline>
+Hazelcrest <date value="1955-01-11">Jan 11- 55</date>
+</dateline><lb/>
+Dr Philip Hench<lb/>
+<salute>Dear Sir</salute>
+</opener>
+<p>Thanks for adviceing me about the yellow jack, I<lb/>
+saw it, and did not think very much of it, because<lb/>
+one of the most important men in the work was not<lb/>
+even mentioned. Sidney Howard had Dr Ames in<lb/>
+the play. Howard made one mistake when picking<lb/>
+heroes for the play, he should have taken the first mos-<lb/>
+quito case and the first blood which would have been<lb/>
+Dean and Jernegan. When Dr Ames inoculated Jernegan<lb/>
+I helped in a small way after he drew blood from Martinez<lb/>
+he told me to take some cotton and alcohol and clean<lb/>
+a spot under left shoulder I don't know if he thought I<lb/>
+rubbed to hard or to long but he said a little gruffly I did<lb/>
+not tell you to take the hide off I only told you to clean<lb/>
+a spot. Perhaps the Dr. was a little nervous if the man had<lb/>
+died, couldn't he have been <unclear>blaimed</unclear> for murder? If as<lb/>
+it has been stated he was just the physician but I think<lb/>
+Dr Ames did more for experiment then either Dr Carroll<lb/>
+or Agramonte. Dr Carroll looked for the microb on two<lb/>
+different occations but failed, Agramonte did the same<lb/>
+at n<hi rend="superscript">o</hi>1. Dr Ames was the only one who fed mosquitos<lb/>
+in the hospital Dr Carroll tried once but quit when<lb/>
+the spaniard kicked <add>him</add> off the bed. In Dr Brumbys book<lb/>
+there in a letter written by Moran in 1907 wherein he says<lb/>
+(to Dr Ames) &ldquo;you were the only one who spoke to me<lb/>
+&ldquo;about taking part in experiment&rdquo; so he did not volunteer<lb/>
+to Maj. Reed, and did not get the salute given in the play.<lb/>
+I have a sworn affidavit from Hanberry wherein he states<lb/>
+that Dr Ames induced him and sontag to take experiment<lb/>
+and inoculated them. Not a physicians work. I think Ames<lb/>
+got all the men to volunteer except Andrus and the<lb/>
+spaniards. If Maj. Reed had tried to start experiment<lb/>
+at Las Animas at time described on page 236 in book<lb/>
+<pb n="2" id="f04903012"/>
+C2<lb/>
+B7<lb/>
+Walter Reed and yellow fever, or at Pinar del Rio<lb/>
+page 94 Gen. Trubys book, &ldquo;no doubt Tate have given you<lb/>
+a better picture of what happened there&rdquo; I wonder how many<lb/>
+men would have volunteered as human guinea pigs. When<lb/>
+we started yellow fever hospital at quemados, the men in<lb/>
+their barracks could look down and see ambulance deliver<lb/>
+patients but they never saw one delivered at the death house<lb/>
+which was only 150 feet from their quarters, and they no doubt<lb/>
+thought that yellow fever could not be very bad if Dr Ames took<lb/>
+care of the patients. The play showed Maj Gorgas attending<lb/>
+the patients which he did not do even Maj Reed never gave<lb/>
+any advice in the treatment to the boys he left that to Dr Ames<lb/>
+when Andrus was so sick Maj. Reed saw him and heard his<lb/>
+groans and cries of pain but made no recommendations<lb/>
+how to relieve him but wrote Surg Gen, If this man should<lb/>
+die I never will forgive myself for taking up this work<lb/>
+&ldquo;Page 176 Gen Trubys book&rdquo; at that time I broke quarantine<lb/>
+and carried Ames down to take care of Andrus, I hope<lb/>
+providence will punish whoever it is that have been<lb/>
+the cause of robbing Dr Ames of the credit due him!<lb/>
+I read article in Army medical journal I liked it especially the<lb/>
+part where she wrote some persons had claimed credit for<lb/>
+things they did not do. Agramonte says in his little book that<lb/>
+Maj Reed asked to take over the mosquitos when Lazear died, that<lb/>
+was false the morning Lazear was burried Dr Ames come<lb/>
+down to hospital and said yellow fever commission has been<lb/>
+broken up Maj. Reed is in Washington Lazear is dead Carroll is<lb/>
+sick and this morning Agramonte took his suit case and went<lb/>
+to New York. In Havana I visited Mr Frank Finlay I mentioned<lb/>
+Agramontes name, Finlay just said <hi rend="underline">The Fraud</hi> he then told me<lb/>
+that Agramonte had made application for, or had intimated<lb/>
+that he was entitled to the noble price. For what? I have a<lb/>
+letter from Gen Truby stating that Agramonte was of very little<lb/>
+help to Maj Reed. I think he showed himself a heel when he<lb/>
+did not even attend Dr Lazears funeral. Carroll claimed cre-<lb/>
+dit that did not belong to him when he wrote the pamplet<lb/>
+treatment of yellow fever, he only added champagne and appol-<lb/>
+linaris which we did not <unclear>have</unclear> Dr Ames had learned his<lb/>
+treatment through years of practice but Carroll called it his.<lb/>
+<pb n="3" id="f04903013"/>
+C2<lb/>
+B7<lb/>
+If he had finished by stating, &ldquo;This was the treatment<lb/>
+used by Dr Ames he would have told the truth<lb/>
+when Hanberry sent me the inclosed clipping he asked who was this<lb/>
+guy? And what did you do with all the champagne we were supposed<lb/>
+to have? <unclear>Mazzuai</unclear> was detailed to pinch hit for Dr Ames when he<lb/>
+was sick, but he came down only 4 times during the 7 days Ames<lb/>
+were gone, and then stood outside the door asking, how is patient?<lb/>
+I have in my scrap book three clippings where persons claim they<lb/>
+nursed Maj. Reeds patients. When visiting Memphis at one<lb/>
+time the niece of Lena Warner gave me copy of a speech<lb/>
+given by Lena before a school, in it she claimed some very<lb/>
+ridiculous things, had orderly (Farbes) when Lazear took sick she<lb/>
+gathered up all books and papers and gave them to Maj. Reed<lb/>
+<hi>next day</hi> but the most astounding thing of all she nursed<lb/>
+97 cases of yellow fever for Maj. Reed. Yes Mrs Standler were<lb/>
+right some persons have claimed credits to which they had<lb/>
+no claim I have a letter from Gen. Truby wherein he states<lb/>
+that Ames used Lena very little after Lazears death. She did<lb/>
+nurse Cartwright but he died. I thought of sending speech<lb/>
+to Gen Truby but Tate had written me about the Gen having<lb/>
+a stroke and was ill I did not want to agrivate him by<lb/>
+reading the lies</p>
+<closer>
+<salute>Respectfully</salute>
+<signed>Gust E Lambert</signed>
+17092-Lincoln Str<lb/>
+Hazelcrest Ill<lb/>
+Phone (now) Harvey 7464<lb/>
+<pb n="4" id="f04903014"/>
+<seg>
+P.S.<lb/>
+I went to Hines Hospital and had cataract removed<lb/>
+I can now see good. If I could only get some relieve<lb/>
+for my arthritis I would be as good as new Doctor please<lb/>
+tell me if the baths at Hot spring will benefit a man after<lb/>
+he have passed 80 and, if it is true that only officers can get<lb/>
+into the government hospital now. I thank you for the informa-<lb/>
+tion<lb/>
+Lambert<lb/>
+Clipping from New Orleans paper<lb/>
+</seg>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

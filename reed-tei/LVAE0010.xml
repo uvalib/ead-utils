@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="LVAE0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to Laura Reed Blincoe, December 18, 1897</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>LVAE0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">Walter Reed. Letters, 1874-1901. Accession 23783. Personal papers collection. The Library of Virginia, Richmond, Va. 23219.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1897-12-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Blincoe, Laura Reed</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Reed, Lemuel S.</name>
+<name type="person">Reed, Mary</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1897-12-18">December 18, 1897</date>
+<idno rend="suppress">LVAE0010</idno>
+<title>Letter from Walter Reed to Laura Reed Blincoe, December 18, 1897</title>
+</bibl>
+</head>
+<p>Reed appreciates the care given his father Lemuel S. Reed by his sister. He discusses an African-American nurse for his father, a visit by his nephew Olin Blincoe, and other family news. [Courtesy of the Library of Virginia]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1897-12-18">
+<head>Letter from Walter Reed to Laura Reed Blincoe, December 18, 1897</head>
+<pb n="1" id="fLvae0010"/>
+<opener>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<dateline>
+<date value="1897-12-18">Dec. 18, '97</date>
+</dateline><lb/>
+<salute>My darling Sister:</salute>
+</opener>
+<p>You must<lb/>
+pardon my delay in an-<lb/>
+swering yours of Dec. 4,<lb/>
+I have tried forty times<lb/>
+to get the opportunity of<lb/>
+answering, but have slipped<lb/>
+up every time. You must<lb/>
+apologize for me to dear<lb/>
+Pa for my almost utter<lb/>
+neglect in writing to him;<lb/>
+I think of him many times<lb/>
+<pb n="2" id="fLvae0020"/>
+every day, and knowing that<lb/>
+he is in good hands, I<lb/>
+try not to worry about<lb/>
+him. Am so glad that he<lb/>
+is getting along fairly<lb/>
+well - If he gets that<lb/>
+Darkey Nurse, I should<lb/>
+like to hear the conversa-<lb/>
+tions between them! They<lb/>
+could well be worth<lb/>
+recording, &amp; some of them<lb/>
+would brighten Harper's<lb/>
+Drawer, I am sure!<lb/>
+By all means, get the<lb/>
+Darkey Nurse!<lb/>
+<pb n="3" id="fLvae0030"/>
+Your boy, Olin, has<lb/>
+been to see us -- came<lb/>
+Sunday afternoon on<lb/>
+his wheel &amp; spent an<lb/>
+hour - He looked<lb/>
+well &amp; seemed con-<lb/>
+tented with his posi-<lb/>
+tion. Will take dinner<lb/>
+with us tomorrow,<lb/>
+when we hope to<lb/>
+become better ac-<lb/>
+quainted with him.<lb/>
+I have told him not<lb/>
+to expect any calls from<lb/>
+me, as I am so busy<lb/>
+<pb n="4" id="fLvae0040"/>
+till April 18<hi rend="superscript">th</hi> -</p>
+<p>Give Pa, Ma &amp;<lb/>
+Annie much love-<lb/>
+Try to brace Pa up all<lb/>
+you can - Discuss prize<lb/>
+fighting with him - He<lb/>
+seemed to enjoy that more<lb/>
+than anything else when<lb/>
+I was there! unless it<lb/>
+was my &ldquo;<hi>bossing</hi> him&rdquo;!<lb/>
+I think that he appreciated<lb/>
+the latter immensely!<lb/>
+I used to make him go to<lb/>
+sleep whether he wanted <add>to</add> or<lb/>
+not, &amp; didn't give him any<lb/>
+<hi>powder</hi> either! With lots<lb/>
+of love,</p>
+<closer>
+<salute>your affectionate bro,</salute>
+<signed>Walter R.</signed>
+23783 e<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

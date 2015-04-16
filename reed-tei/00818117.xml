@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00818117">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Henry Rose Carter to J. McKeen Cattell, December 2, 1919</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Carter, Henry Rose</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00818117</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1919-12-02</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Cattell, James McKeen</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">LePrince, Mr.</name>
+<name type="person">Griffitts, Mr.</name>
+<name type="person">Finlay, Carlos</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1919-12-02">December 2, 1919</date>
+<idno rend="suppress">00818117</idno>
+<title>Letter from Henry Rose Carter to J. McKeen Cattell, December 2, 1919</title>
+</bibl>
+</head>
+<p>Carter informs Cattell that he published two papers on the incubation of yellow fever, which were the basis of Reed's experiments with the Yellow Fever Commission.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1919-12-02">
+<head>Letter from Henry Rose Carter to J. McKeen Cattell, December 2, 1919</head>
+<pb n="1" id="f00818117"/>
+<opener>
+Mis:<lb/>
+Original work.<lb/>
+<dateline>Baltimore, Md.<lb/>
+<date value="1919-12-02">December 2, 1919.</date>
+</dateline>
+Professor J. McKeen Cattell,<lb/>
+Garrison-on-Hudson, N. Y.<lb/>
+<salute>Dear Doctor Cattell:</salute>
+</opener>
+<p>I am enclosing a Circular Letter from the Bureau. I do not<lb/>
+know whether it applies to anything I have done or not. I must<lb/>
+leave you to be the judge.</p>
+<p>I published two papers on The Extrinsic Incubation of Yellow<lb/>
+Fever in 1900, which were the basis of Read's Quemados experiments<lb/>
+and on which <add><unclear>Major Ross</unclear></add> Sir) Ronald Ross made application for the Nobel Prize<lb/>
+for Medical Research jointly for myself and Carlos Finlay of Havana.</p>
+<p>In 1916, associated with LePrince and Griffitts, some observations<lb/>
+were published on the occurrence and biology of certain species of<lb/>
+Anopheles mosquitoes--of no great importance entomologically, but of<lb/>
+very great importance in the control of malaria.</p>
+<p>I do not know whether the first would be considered an &rdquo;investiga-<lb/>
+tion in an exact science.&ldquo; The second probably is, but is of very<lb/>
+much smaller importance. especially <unclear>pananenomological stand</unclear><lb/>
+point</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>Assistant Surgeon General</signed>.
+1 enclosure.<lb/>
+Assistant Surgeon General H. R. Carter,<lb/>
+U. S. Marine Hospital,<lb/>
+Baltimore, Md.<lb/>
+Please return Circular Letter for filing.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

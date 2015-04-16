@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302056">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from [Henry Rose Carter] to Kenneth F. Maxcy, September 18, 1923</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302056</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-09-18</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Maxcy, Kenneth F.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<term type="Photograph"></term>
+<name type="person">Stott, [s.n.]</name>
+<name type="person">Koch, [s.n.]</name>
+<name type="person">Watson, Malcolm</name>
+<name type="person">Celli, [s.n.]</name>
+<name type="person">Mayne, Bruce</name>
+<name type="person">Sella, [s.n.]</name>
+<name type="person">LePrince, Joseph A.</name>
+<name type="person">Griffitts, T. H. D.</name>
+<name type="person">Kemp, [s.n.]</name>
+<name type="person">Ozard, [s.n.]</name>
+<name type="place">Fiumicine (Italy)</name>
+<name type="place">Spain</name>
+<name type="place">Chester (S.C.)</name>
+<name type="place">Bridgewater (N.C.)</name>
+<name type="place">Virginia</name>
+<name type="place">Badin (N.C.)</name>
+<name type="place">Malay States</name>
+<name type="hospital">Badin Hospital, Badin (N.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1923-09-18">September 18, 1923</date>
+<idno rend="suppress">C0302056</idno>
+<title>Letter from [Henry Rose Carter] to Kenneth F. Maxcy, September 18, 1923</title>
+</bibl>
+</head>
+<p>[Carter] discusses theories and scientific studies on immunization from malaria by quinine and on the blood supplies of particular types of mosquitoes.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-09-18">
+<head>Letter from [Henry Rose Carter] to Kenneth F. Maxcy, September 18, 1923</head>
+<pb n="1" id="fC0302056"/>
+<opener>
+Malaria<lb/>
+Maxcy<lb/>
+&sol;LC<lb/>
+Badin Hospital,<lb/>
+Badin, N. C.,<lb/>
+<dateline>
+<date value="1923-09-18">Sept. 18, 1923.</date>
+</dateline><lb/>
+<salute>Dear Doctor Maxcy:</salute>
+</opener>
+<p>This is just a note in more or less answer to your letter.</p>
+<p>1&sol; I don't recollect the work you alluded to by Stott on re-<lb/>
+lapses in malaria. In the early part of 1916, I read one--I think<lb/>
+two--articles by Stott and someone else, in a British or Indian medi-<lb/>
+cal journal, giving some rather elaborate observations on the use of<lb/>
+quinine to immunize against malaria (the so-called &ldquo;quinine prophylaxis<lb/>
+by the Italian method<unclear>&rdquo;</unclear>). <add>He used alternate units as controls</add> The result was decidedly against its value<lb/>
+and the <hi rend="underline">implied</hi> deduction was that almost the only--or only--value it<lb/>
+had was not to the men taking it--i. e. that it did not immunize them,<lb/>
+but by preventing parasites in their cutaneous circulation anopheles<lb/>
+cannot be infected from them and thus it protects the others who did not<lb/>
+take it: insshort acting as long as it was taken like Koch's method--<lb/>
+(the sterilization of carriers).</p>
+<p>This theory is in direct contradiction to the fining of many<lb/>
+carriers among those taking quinine this way: by Malcolm Watson in the<lb/>
+Malay States: Ozard and others in Venezuela and in short I think of all<lb/>
+who have examined them.</p>
+<p>In this connection, when I was writing my little brocheur on im-<lb/>
+munization from malaria by quinine, I had some correspondance with<lb/>
+Celli and, at my instance, he agreed to have a blood index taken of a<lb/>
+large number who had received his treatment and, if possible, compare<lb/>
+it with the men under the same conditions who had not. I thought there<lb/>
+was no place so good as Italy for investigating the effect of this immu-<lb/>
+<pb n="2" id="fC0302057"/>
+immu- 2<lb/>
+nizing treatment on the existence of carriers (with parasites in the cu-<lb/>
+taneous circulation infective to Anopheles) as Italy. Unfortunately<lb/>
+he died not long afterwards and I have seen no report of any such<lb/>
+work.</p>
+<p>Mayne (who was &ldquo;Mitzmain&rdquo; then) told me that he knew Stott per-<lb/>
+sonally and by reputation and that he was not regarded as very reliable.</p>
+<p>Sell<del>er</del><add>a</add> is a very much smaller man than Celli and has recently<lb/>
+done some work at Fiumicine in Italy and at ---- in Spain. His obser-<lb/>
+vations on relapse are, I think, of small value.</p>
+<p>Komp advised me recently that some observations have been made<lb/>
+tending to show that punctipennis habitually gets its blood supply<lb/>
+from other than human sources. LePrince: Griffitts and myself had the<lb/>
+same idea in 1914-15, led thereto by finding them so much more fre-<lb/>
+quently in stables: chicken houses: pig pens etc. than in residences.<lb/>
+We found, however, so much <add>&ldquo;</add>porch biting<add>&rdquo;</add> of men by punctipennis in &sol;15<lb/>
+and &sol;16 that we carried it no further. Field observations (at Chester<lb/>
+S. C.: Bridgewater, N. C. and some places in Virginia) show that puncti-<lb/>
+pennis--Headlee to the contrary:--do produce epidemics of malaria,<lb/>
+though I still think are less efficient than A. quad. or A. crucians.<lb/>
+The data Komp gives (the determination of the source of the blood found<lb/>
+in the insects) offers, however, a good index as to the proportion of<lb/>
+human and other blood they actually have taken.</p>
+<p>With kindest regards, I remain</p>
+<closer>
+<salute>Very truly yours,</salute>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

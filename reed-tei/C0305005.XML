@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0305005">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter fragment from [Henry Rose Carter] to Mary Clayborne Carter, [19--]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0305005</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>19**-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Carter, Mary Clayborne</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy">YES</term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion">YES</term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Quiroz, Simona</name>
+<name type="person">Quiroz, Dr.</name>
+<name type="person">Reygada, Francesca</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Gorgas, Marie D.</name>
+<name type="person">Zayas, Alfredo</name>
+<name type="person">Hendrix, [s.n.]</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Byam, W.</name>
+<name type="person">Reed, Walter</name>
+<name type="person">Frendl, [s.n.]</name>
+<name type="person">Osler, William</name>
+<name type="person">Thayer, William S.</name>
+<name type="person">Welch, William H.</name>
+<name type="person">Salmon, Dr.</name>
+<name type="person">Salmon, Daniel E.</name>
+<name type="person">McCullough, [s.n.]</name>
+<name type="person">Ross, Ronald</name>
+<name type="person">Cruz, Oswaldo</name>
+<name type="person">Connor, Michael E.</name>
+<name type="person">Hanson, Henry</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Finlay, Carlos E.</name>
+<name type="person">Meyers, Walter</name>
+<name type="person">Durham, Herbert E.</name>
+<name type="place">Paita (Peru)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">India</name>
+<name type="place">United States</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="19**-00-00">[19--]</date>
+<idno rend="suppress">C0305005</idno>
+<title>Letter fragment from [Henry Rose Carter] to Mary Clayborne Carter, [19--]</title>
+</bibl>
+</head>
+<p>[Carter] writes Mary Clayborne Carter about Gorgas, the Finlay controversy, and how the discovery of the mosquito as the vector of transmission for yellow fever relied on the work of many contributors.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="19**-00-00">
+<head>Letter fragment from [Henry Rose Carter] to Mary Clayborne Carter, [19--]</head>
+<pb n="1" id="fC0305005"/>
+<opener>
+<salute>Dear Mary</salute>
+</opener>
+<p>It is Easter Sunday, On the same <add>day </add>of 1920, although it was<lb/>
+in March. I was able to tell Simona Quiroz, at Payta, that bar-<lb/>
+ring accidents, Dr Q., would recover - this being the 6<hi rend="superscript">th</hi> day of his<lb/>
+fever, I remember her gratitude, as if <hi>I</hi> had done it! The night before<lb/>
+about 2 P.M. I had gone to see a child of the Alcalde, <unclear>Franencia</unclear><lb/>
+Reygada by name - stopped <hi>3</hi> kind of medicine &amp; removed 4<lb/>
+large mustard plasters &amp; fed her ice until she went to<lb/>
+sleep, I think, maybe, I did save <hi>her</hi> life, but by what I stopped<lb/>
+rather than <add>by</add> what I did. That isn't long ago. Yet it seems ages<lb/>
+since I boarded the Hullaga at Payta on April 3 the<lb/>
+<hi>s</hi>ame year &amp; saw Gorgas for the last time.</p>
+<p>Mrs Gorgas returned from Havana Friday where she had<lb/>
+been as the guest 1<hi rend="superscript">st</hi> of the Am Minister &amp; 2<hi rend="superscript">nd</hi>of the Presi-<lb/>
+<hi>d</hi>ente. Alfredo Zayas, whom I used to know.</p>
+<p>I am glad that Mr. Hendrix accepted some of the quasi sug-<lb/>
+gestions I made in &ldquo;Gorgas in Habana&rdquo;. He put in a compli-<lb/>
+ment, to Finlay instead of speaking slightly of him as he<lb/>
+had it. Indeed he left out <hi>all</hi> of the objectionable parts,<lb/>
+but it still has three fundimantal error's of state-<lb/>
+<hi>m</hi>ent, which I hope will not be in the book.</p>
+<p>I made no change in his text, authors are nearly as tem-<lb/>
+premental as Artists (Prima Donnas &amp; c) &amp; I felt sure<lb/>
+that he would not like that. I marked <add>it</add>with a very soft pen-<lb/>
+cil &amp; very lightly (1): 2: (3) &amp; c &amp; wrote on <del>a</del> separate sheets <hi>infor-<lb/>
+mation</hi> on the subject of these clauses, <hi>marked <add>in th</add> the same<lb/>
+way</hi>. So that, he would know what were the <hi>facts</hi> &amp;<lb/>
+<del>could me</del> could make such changes as t<del>he</del><add>his</add> <del><unclear>[unclear]</unclear></del><lb/>
+added knowledge justified. He readily expunged all ob-<lb/>
+jectionable matter from his paper. Owing<lb/>
+Owing<lb/>
+<pb n="2" id="fC035006"/>
+2m,<lb/>
+Owing to some Rochefeller publication what I don't know<lb/>
+young Carlos Finlay <add>sometime ago</add> wrote a letter to the N.Y. Times<lb/>
+about the refusal of credit <del>to his</del> due his father from the Ar-<lb/>
+my Board, &amp; Mrs Gorgas, says there is a perfect <hi>Cult</hi><lb/>
+of F. in Cuba now, leading to a strong Anti-American<lb/>
+feeling. This of course is foolish, yet Finlay did not receive<lb/>
+credit from the Reed Board which was due him, &amp; I sus-<lb/>
+pect that <hi>I</hi>, myself, in my article on Y. Fever <del>In</del>in &ldquo;The<lb/>
+Practice of Medicine in the Tropics&rdquo; - got out by<lb/>
+the Oxford Press of London &amp;, N York <del>is</del><add>gave</add> the first <del>on</del><lb/>
+proper appreciation of Finlay's work in any <hi>book</hi>,<lb/>
+except by a Cuban, Col Byam, the editor, objected to<lb/>
+putting it in, &ldquo;as the scheme called for nothing historical&rdquo;<lb/>
+I advised him, that, &ldquo;unless this <del>could</del><add>can</add>go in, I would ask him<lb/>
+to return the rest of the M.S. also,&rdquo;</p>
+<p>Frankly, I doubt if Finlay's work <add>greatly</add> influenced the direction of<lb/>
+Reed's experiments. He <hi>said</hi> that they did not in any way. I can<lb/>
+not think this quite true however.</p>
+<p>This, the <hi>nature</hi> of the experiments, (on men) were determined,<lb/>
+by my paper (the one I wrote at North River in the winter of<lb/>
+1898 when Carter and I Chloroformed &ldquo;Basic&rdquo; &amp; took the great<lb/>
+splinter out of his foot). This <del>in act</del><add>is</add> stated by Reed in his first<lb/>
+Report. &amp; is generally accepted by French &amp; British writers &amp;<lb/>
+by the leader's of American Medicine - like Osler, Welche<lb/>
+Thayer &amp; C. Moreover, &amp; of greater importance <hi>I</hi>know it <hi>my-<lb/>
+self</hi>, &amp; count myself to have been greatly blessed<lb/>
+&amp; am very thankful to God to have had a part <del>and</del><lb/>
+and an essential part - in a work so beneficial to<lb/>
+men. Of course the beginning of the discovery da-<lb/>
+tes back to Dr. Salmon Chief of the <add>US</add> Vetenarian Bureau<lb/>
+in <hi>about</hi> 1890-5, then (&amp; to a less extent) to<lb/>
+<pb n="3" id="fC0305007"/>
+to McCallough of Hopkins thence Ronald Ross' <add>1895 to</add> 1898 in India<lb/>
+then myself 189<del>2</del><add>3</add> to 18<del>8</del><add>9</add>9 in the U.S. Finally the Capstone<lb/>
+was put in the arch by Reed 1899-1900. The <hi>negative</hi><lb/>
+proof by Gorgas, Cruz: Connor &amp; Hanson &amp; many man since<lb/>
+that date. It is not <del>given to may</del> often given to any<lb/>
+one man to begin &amp; entirely complete a great discov-<lb/>
+<hi>e</hi>ry.</p>
+<p>About <del>Fil</del> Finlay I will say this however that if I had, in<lb/>
+1999 read all he had written I would have <hi>urged vehe-<lb/>
+mently</hi> experiments on men and called for volunteers<lb/>
+<hi>to</hi> determine the truth of his theory of conveyance</p>
+<p>Similarly if I had known of Ross' malaria work, when I pub-<lb/>
+lished my article, (it was sent on in Jan 1999) I would have<lb/>
+claimed definitely <del>instead of suggesting</del>, that y. f &amp; Malaria<lb/>
+were conveyed by the same mechanism - instead of<lb/>
+suggesting that Texas Cattle Fever &amp; Y. F. were convey-<lb/>
+ed the same way. That, <del>R</del> Lazear: Reed: Durham &amp;<lb/>
+Walter Mayer (the last <hi>2</hi> from Liverpool School of Tropical<lb/>
+medince in Havana en route to Para when mayer quickly died<lb/>
+of y. fever) <del>all made <hi>this</hi> deduction of</del> knowing <add>of</add> Ross's<lb/>
+work, <hi>all</hi> made this deduction. i.e., &ldquo;that the mechanism<lb/>
+of the conveyance of Malaria &amp; of y.f. were the same or sim-<lb/>
+ilar&rdquo;. Shows I think, that <del>a kn</del>with a knowledge of Ross's findings<lb/>
+my work gave the key to the problem &amp; <hi>determined</hi> the direc-<lb/>
+tion of Reed's experiments, which were <hi>absolutely</hi> conclu-<lb/>
+sive that y. f. was conveyed from the sick to the well by the<lb/>
+<add>bite of a</add> stegomyia mosquito, itself infected by feeding on the sick</p>
+</div1>
+</body>
+</text>
+</TEI.2>

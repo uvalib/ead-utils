@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01124022">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Report Extract [in French]: Rapport sur l'&eacute;pid&eacute;mie de fi&egrave;vre jaune &agrave; Grand Bassam, by [s.n.] Bauvallet, October 25, 1922</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01124022</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1922-10-25</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French">YES</term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Noguchi, Hideyo</name>
+<name type="place">Bassam (Ivory Coast)</name>
+<name type="place">French West Africa</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>3 pp.</extent>
+<date value="1922-10-25">October 25, 1922</date>
+<idno rend="suppress">01124022</idno>
+<title>Report Extract [in French]: Rapport sur l'&eacute;pid&eacute;mie de fi&egrave;vre jaune &agrave; Grand Bassam, by [s.n.] Bauvallet, October 25, 1922</title>
+</bibl>
+</head>
+<p>Bauvallet reports on the use of Noguchi serum and vaccine to treat yellow fever cases in Bassam, Ivory Coast. </p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1922-10-25">
+<head>Report Extract [in French]: Rapport sur l'&eacute;pid&eacute;mie de fi&egrave;vre jaune &agrave; Grand Bassam, by [s.n.] Bauvallet, October 25, 1922 (See <xref id="f01124025">English translation</xref>.)</head>
+<pb n="1" id="f01124022"/>
+<p>COPY<lb/>
+EXTRAIT d' un Rapport de M. le Docteur<lb/>
+BAUVALLET concernant l'emploi du s&eacute;rum<lb/>
+et du vaccin de NOGUCHI (I) pendant<lb/>
+l'&eacute;pid&eacute;mie de Bassam (C&ocirc;te d'Ivoire)<lb/>
+Afrique Occidentale Fran&ccedil;aise en 1922<lb/>
+Grand Bassam le <date value="1922-10-25">25 Octobre 1922</date>
+RAPPORT sur l'&eacute;pid&eacute;mie de fi&egrave;vre jaune &agrave;<lb/>
+Grand Bassam (18 Ao&ucirc;t au 8 Septembre 1922)<lb/>
+__________________________________________________<lb/>
+__________________________________________________</p>
+<p>Le m&eacute;decin de Bassam, ville plus particuli&egrave;rement expos&eacute;e aux contagions,<lb/>
+s'&eacute;tait mis d&egrave;s 1921 en relation personnelle avec Monsieur HIDEYO NOGUCHI de<lb/>
+l' Institut ROCKEFELLER et avait re&ccedil;u de lui, conserv&eacute; en glaci&egrave;re une certaine<lb/>
+quantit&eacute; de vaccin et de s&eacute;rum antiamaryliques depuis le d&eacute;but de 1922.</p>
+<p>Au commencement de l'&eacute;pid&eacute;mie une circulaire informe les Bassamois que,<lb/>
+en raison des r&eacute;sultats publi&eacute;s par l'&eacute;minent biologiste japonais des vaccinations<lb/>
+seront faites aux volontaires.</p>
+<p>Du 18 au 24 Ao&ucirc;t, 140 curop&eacute;ens sur une population de 200 environ sont<lb/>
+vaccin&eacute;s avec des cultures tu&eacute;es de Leptospira Ict&eacute;roides provenant du lot 15;<lb/>
+date de pr&eacute;paration 9 d&eacute;cembre 1921; 131 re&ccedil;oivent 2 injections de 2 c3 &agrave; 6 jours<lb/>
+d'intervalle suivant la technique indiqu&eacute;e par l'auteur; 9 ne se pr&eacute;sentent pas &agrave;<lb/>
+la 2m&eacute; injection.</p>
+<p>La presque totalit&eacute; des vaccin&eacute;s pr&eacute;sentent dans la soir&eacute;e de la Ire<lb/>
+injection re&ccedil;ue entre 8 et 10 heures la r&eacute;action suivante: fi&egrave;vre <unclear>l&eacute;g&eacute;re</unclear> avec<lb/>
+courbature, rachialgie plus ou moins marqu&eacute;e, esquisse typique du coup de barre.<lb/>
+C'est l'intensit&eacute; de cette rachialgie qui fait que 8 sur les 9 vaccin&eacute;s refusent<lb/>
+la 2&eacute;me injection. Le 9&eacute;me de ces monovaccin&eacute;s fait l'objet d'une mention<lb/>
+sp&eacute;ciale dans la suite de ce travail.</p>
+<p>4 vaccin&eacute;s ont pr&eacute;sent&eacute; au bout de 15 &agrave; 20 Jours, au point d'inocula-<lb/>
+tion, et malgr&eacute; un massage syst&eacute;matique aussit&ocirc;t apr&egrave;s la p&eacute;n&eacute;tration de vaccin<lb/>
+sous la peau, des abc&egrave;s st&eacute;riles signal&eacute;s par NOGUCHI comme dus &agrave; la pr&eacute;sence<lb/>
+<pb n="2" id="f01124023"/>
+2.<lb/>
+d'agar-agar dans le milieu de culture. Ces abc&egrave;s ont gu&eacute;ri par somples<lb/>
+<unclear>ventousages</unclear> et n(ont pas d&eacute;termin&eacute; d'escarres.</p>
+<p>Concurremment la s&eacute;roth&eacute;rapie avec le s&eacute;rum NOGUCHI conserv&eacute; &agrave; une<lb/>
+temp&eacute;rature inf&eacute;rieure de 4&deg; cent est tent&eacute;e chez tous les malades, en plus du<lb/>
+traitement purement symptomatique classique.</p>
+<p>Les r&eacute;sultats de cette s&eacute;roth&eacute;rapie sont indiqu&eacute;s c8-dessous.</p>
+<p>Cas N&deg; I - Le diagnostic de fi&egrave;vre jaune ne devient indisoutable qu'au<lb/>
+moment du vomissement noir. Le malade re&ccedil;oit imm&eacute;diatement, &agrave; I6h30 60 c3 de<lb/>
+s&eacute;rum intraverneux. La mort survient &agrave; I7h43; injection <unclear>pratiqu&eacute;e</unclear> in extremis,<lb/>
+apr&egrave;s le 3&eacute;me jour de la maladie et indiqu&eacute;e par NOGUCHI comme inefficace dans<lb/>
+ces conditions.</p>
+<p>Cas N&deg; 2 - D&eacute;but de la maladie dans la soir&eacute;e du 18 Ao&ucirc;t. A tr&egrave;s forte<lb/>
+fi&egrave;vre. Temp&eacute;rature de 39&deg;9 indiqu&eacute;e par le malade. Signal&eacute; seulement le 19 au<lb/>
+matin et isol&eacute; &agrave; l'Ambulance; coup de barre; congestion de la face, &eacute;pigastralgie,<lb/>
+urines rares sans albuminrie. Temp&eacute;rature 39&deg;4. Recoit 60c3 de s&eacute;rum &agrave; 8 h 30.<lb/>
+Defervescence et diur&egrave;se dans l'apr&egrave;s midi - Gu&eacute;rison.</p>
+<p>Cas N&deg; 3 - A une forte fi&egrave;vre dans la nuit du 17 an 18. Est vue le 18<lb/>
+&agrave; 9 heures. Temp&eacute;rature 39&deg;2. Forte courbature lombaire, crampes dans les jambes,<lb/>
+vomissements bilieux avec &eacute;pigastralgie interne. Pr&eacute;sence d'albumine dans les<lb/>
+urines. Re&ccedil;oit 60c3 intraveineux. La temp&eacute;rature tombe &agrave; 38&deg;6 dans l'apr&egrave;s midi.<lb/>
+Dimunition des vomissements, apparition d'un subict&egrave;re qui persiste jusqu'au 24<lb/>
+Ao&ucirc;t disparition de l'albumine. Defervescence - Gu&eacute;rison.</p>
+<p>Cas N&deg; 4 - Malade depuis le 15 Ao&ucirc;t - n'appelle pas le m&eacute;decin; le mari<lb/>
+pense &agrave; une fi&egrave;vre d'acclimatement. Isol&eacute;e seulement le 17 Au soir apr&egrave;s le cas<lb/>
+N&deg; I Malgr&eacute; que la symptomatologie fasse penser &agrave; un acc&egrave;s palustre. Le 19, le<lb/>
+diagnostic devient manifeste, h&eacute;morrhagies ut&eacute;rines peu abondantes, &eacute;pigastralgie,<lb/>
+vomissements bilieux, facies vultueux, prostration, subict&egrave;re, albumine dans les<lb/>
+urines qui sont rares. Re&ccedil;oit 60 C" de s&eacute;rum I.V. Le 20, ict&egrave;re g&eacute;n&eacute;ralis&eacute;<lb/>
+<pb n="3" id="f01124024"/>
+3.<lb/>
+prostration encore plus marqu&eacute;e, suffusions sanguines sous-cutan&eacute;es; anurie<lb/>
+totale. Re&ccedil;oit une deuxi&egrave;me injection intraveineuse de 60c3 de s&eacute;rum. Emet<lb/>
+quelques gouttes d'urines fortement albumineuses peu apr&egrave;s l'injection. Meurt<lb/>
+&agrave; <unclear>I9hIO</unclear> Traitement seroth&eacute;rapique tardif et inefficace.</p>
+<p>Cas N&deg; 5 - S'alite le 21 vers 10 h. Aussit&ocirc;t vu et isol&eacute; &agrave; l'Ambulan-<lb/>
+ce. Pas de coup de barre, &eacute;pigastralgie, vomissements bilieux, congestion de la<lb/>
+face. La temp&eacute;rature se maintient toute la journ&eacute;e du du 21 entre 39&deg;,2 et 39&deg;,6.<lb/>
+Nuit agit&eacute;e, le 22 39&deg;,8 &agrave; 7 heures. Re&ccedil;oit 60c3 de s&eacute;rum, done moins de 4h apr&egrave;s<lb/>
+le d&eacute;but de la maladie. Les vomissements persistent, so teintent de sang. Le<lb/>
+d&eacute;c&eacute;s survint &agrave; <unclear>ISh45</unclear>. Insucc&egrave;s incomplet, autopsie non pratiqu&eacute;e, faute de temps.</p>
+<p>Mention sp&eacute;ciale doit &ecirc;tre faite d'un cas, celui du 9&eacute;me monovaccin&eacute;<lb/>
+dont nous avons parl&eacute; plus haut.</p>
+<p>M. B. locataire de l'Atlantic - Hotel et voisin de Mr. X. et Y... re&ccedil;oit<lb/>
+2c3 de vaccin le 22 Ao&ucirc;t, ne se pr&eacute;sente pas &agrave; la 2&eacute;me injection le 23. Questionn&eacute;<lb/>
+par t&eacute;l&eacute;phone sur les raisons de l'absence de Mr. B. &agrave; la vaccination, le<lb/>
+tenancier de l'Atlantic H&ocirc;tel declare avec r&eacute;ticence que Mr. B. n'est pas bien.<lb/>
+Le malade est vu &agrave; I0h30. N'a eu aucune r&eacute;action apr&egrave;s la Ire vaccination, s'est<lb/>
+trouv&eacute; fi&eacute;vreux, dans la nuit du 27 au 28 et courbatur&eacute;. N'a pas pris sa temp&eacute;rature.<lb/>
+Pr&eacute;sent: temp&eacute;rature 39&deg;,2, coupe de barre, crampes dans les jambes facies<lb/>
+congestionn&eacute; qui contraste avec la paleur habituelle, liser&eacute; gingival nacr&eacute;<lb/>
+(sympt&ocirc;me relev&eacute; dans ce cas seulement) Vomit Albumine dans les urines. Est isol&eacute;<lb/>
+&agrave; l'Ambulance et re&ccedil;oit &agrave; I3h 60c3 de s&eacute;rum I.V. Pr&eacute;sente instantan&eacute;ment une r&eacute;-<lb/>
+action s&eacute;rique intense, prurit; &eacute;ryortie g&eacute;n&eacute;ralis&eacute;, &eacute;tat syncopal tr&egrave;s grave.<lb/>
+Une injection I.V. d'un milligramme d'Adr&eacute;naline fait disparaitre les ph&eacute;nom&egrave;nes<lb/>
+anaphylactiques. La d&eacute;fervescence et la cessation des sympt&ocirc;mes inqui&eacute;tants se<lb/>
+produisent dans la nuit.</p>
+<p>(I) - <unclear>Ce</unclear> s&eacute;rum et ce vaccin avaient &eacute;t&eacute; adress&eacute;s directement &agrave; M. BAUVALLET par<lb/>
+l'Institut Rockefeller &agrave; qui ce m&eacute;decin a fait l'envoi de pi&egrave;ces anatomiques.</p>
+</div1>
+</body>
+</text>
+</TEI.2>

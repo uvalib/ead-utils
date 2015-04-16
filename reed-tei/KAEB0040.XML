@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAEB0040">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Walter Reed to George Miller Sternberg, June 12, 1894</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Walter</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAEB0040</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1894-06-12</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Sternberg, George Miller</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Flexner, Simon</name>
+<name type="person">Barker, Lewellys Franklin</name>
+<name type="place">Washington (D.C.)</name>
+<name type="hospital">Johns Hopkins Hospital (Md.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1894-06-12">June 12, 1894</date>
+<idno rend="suppress">KAEB0040</idno>
+<title>Letter from Walter Reed to George Miller Sternberg, June 12, 1894</title>
+</bibl>
+</head>
+<p>Reed sends Sternberg a list of his contributions to medical literature, in response to Sternberg's earlier request, and expresses his appreciation for being nominated for membership in the Association of American Physicians. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1894-06-12">
+<head>Letter from Walter Reed to George Miller Sternberg, June 12, 1894</head>
+<pb n="1" id="fKAEB0040"/>
+<opener>
+1 -<lb/>
+WAR DEPARTMENT,<lb/>
+SURGEON GENERAL'S OFFICE,<lb/>
+ARMY MEDICAL MUSEUM AND LIBRARY,<lb/>
+WASHINGTON.<lb/>
+<dateline>
+<date value="1894-06-12">June 12, 1894</date>
+</dateline><lb/>
+<salute>Dear Dr. Sternberg:</salute>
+</opener>
+<p>In response<lb/>
+to your request made a<lb/>
+few days ago, I enclose a<lb/>
+short list of contributions to<lb/>
+medical literature.</p>
+<p>You will<lb/>
+see that I have really done<lb/>
+nothing to entitle me to<lb/>
+membership in the Associa=<lb/>
+tion of American Physicians,<lb/>
+but, if good luck &amp; health at=<lb/>
+tend, I hope to contribute<lb/>
+<pb n="2" id="fKAEB0050"/>
+something to the good cause<lb/>
+before the next meeting of the<lb/>
+Association. I trust that D<hi rend="sup">rs</hi><lb/>
+Flexner and Barker, of the Hop=<lb/>
+kins, will be the fortunate<lb/>
+individuals, this time.</p>
+<p>I beg to<lb/>
+assure you, my dear Doctor,<lb/>
+that I appreciate very much<lb/>
+your consideration and courtesy<lb/>
+in suggesting my name as<lb/>
+a member.</p>
+<closer>
+<salute>Sincerely, yours,</salute>
+<signed>Walter Reed.</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

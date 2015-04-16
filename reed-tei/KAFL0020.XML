@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAFL0020">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Marie D. Gorgas to Leonard Wood, February 6, 1922 [Enclosed in KAFL0010]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Gorgas, Marie D.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAFL0020</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1922-02-06</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Wood, Leonard</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Clarke, Col.</name>
+<name type="person">Wood, Louise Adriana</name>
+<name type="person">Goethals, George W.</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1922-02-06">February 6, 1922</date>
+<idno rend="suppress">KAFL0020</idno>
+<title>Letter from Marie D. Gorgas to Leonard Wood, February 6, 1922 [Enclosed in KAFL0010]</title>
+</bibl>
+</head>
+<p>Gorgas asks Wood to write the preface to the biography she is writing about her husband. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1922-02-06">
+<head>Letter from Marie D. Gorgas to Leonard Wood, February 6, 1922 [Enclosed in <xref id="KAFL0010">KAFL0010</xref>]</head>
+<pb n="1" id="fKAFL0020"/>
+<opener>
+The Highlands,<lb/>
+<dateline>
+Washington, D.C., <date value="1922-02-06">February 6, 1922</date>
+</dateline><lb/>
+<salute>My dear General Wood:</salute>
+</opener>
+<p>You and Dr. Gorgas were so intimately associated in Havana<lb/>
+- so much of his success was due to your confidence and belief in him,<lb/>
+and in his ability, that I intended to ask you to write the preface to<lb/>
+his biography which I am writing.</p>
+<p>Your letter however which Colonel Clarke gave me not only<lb/>
+refutes the misleading statements made by General Goethals, but will<lb/>
+answer too I think for the preface. It is a splendid tribute, remarkably<lb/>
+well expressed.</p>
+<p>I am very grateful, and know that your letter will add<lb/>
+greatly to the value of my book, which would not be complete without<lb/>
+a word from you.</p>
+<p>Doubleday, Page and Company have the contract. The book<lb/>
+will probably not come out until fall, although certain chapters may<lb/>
+be published in serial form in connection with the &ldquo;Gorgas Memorial.&rdquo;</p>
+<p>You are such a busy man and have constant demands on your<lb/>
+time, so I hesitate to ask you to write anything more. But if any lit-<lb/>
+tle items of the Havana days occur to you, do jot them down and send me.<lb/>
+Dr. Gorgas always said that you made him. Does that carry any respon-<lb/>
+sibility?</p>
+<p>With love to Mrs. Wood and best wishes for a happy New Year,</p>
+<closer>
+<salute>Very sincerely yours,</salute>
+<signed>(Sgd.) MARIA D. GORGAS</signed>
+February the sixth.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

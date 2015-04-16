@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="C0302003">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Henry Rose Carter to Manuel Perez Beato, June 21, 1923</title>
+<title type="gmd">[electronic resource] </title>
+<author>Carter, Henry Rose</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0302003</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability> 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1923-06-21</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Perez Beato, Manuel</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name>
+ </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="person">LeRoy y Cassa, Jorge</name>
+<name type="place">Cuba</name>
+<name type="place">Veracruz (Mexico)</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1923-06-21">June 21, 1923</date>
+<idno rend="suppress">C0302003</idno>
+<title>Letter from Henry Rose Carter to Manuel Perez Beato, June 21, 1923</title>
+</bibl>
+</head>
+<p>Carter writes Beato for information about malignant fevers occurring in Cuba in 1620.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1923-06-21">
+<head>Letter from Henry Rose Carter to Manuel Perez Beato, June 21, 1923</head>
+<pb n="1" id="fC0302003"/>
+<opener> 
+------- F. F. Russell,<lb/>
+Book<lb/>
+Cuba<lb/>
+<dateline>
+2121 California St., N. W.,<lb/>
+Washington, D. C.,<lb/>
+<date value="1923-06-21">June 21, 1923.</date>
+</dateline>
+&sol;LC<lb/>
+Dr. Manuel Perez Beato,<lb/>
+Escuela Profesional de Artes y Oficio,<lb/>
+Belascoain Calle,<lb/>
+Habana,<lb/>
+Cuba.<lb/>
+<salute>Dear Doctor Beato:</salute>
+</opener>
+<p>Dr. Jorge Le-Roy y Cassa has kindly given me your address as<lb/>
+that of one who could possibly give me some information on the ma-<lb/>
+lignant fevers, which occurred in Cuba in 1620, or, if not, could<lb/>
+advise me where I could get such data. P<del>a</del><add>e</add>zuela simply mentions<lb/>
+their occurrence.</p>
+<p>Cuba, indeed, seemed to have been far more healthful than the<lb/>
+other islands or the coasts of any part of the mainland until the<lb/>
+the great epidemic of 1761, which quite certainly came from Vera<lb/>
+Cruz.</p>
+<closer>
+<salute>With highest regards, I remain<lb/>
+Very truly yours.</salute>
+Assistant Surgeon General H. R. Carter,<lb/>
+2121 California Street, N. W.,<lb/>
+Washington, D.C.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0830">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Jefferson Randolph Kean to Howard A. Kelly, April 28, 1927</title>
+<title type="gmd">[electronic resource]</title>
+<author>Kean, Jefferson Randolph</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0830</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1927-04-28</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Kelly, Howard A.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Porter, Joseph Y.</name>
+<name type="person">Hemmeter, John</name>
+<name type="person">Noguchi, Hideyo</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1927-04-28">April 28, 1927</date>
+<idno rend="suppress">KAMD0830</idno>
+<title>Letter from Jefferson Randolph Kean to Howard A. Kelly, April 28, 1927</title>
+</bibl>
+</head>
+<p>Kean discusses the roles of Reed, Carroll, and Noguchi, in investigating yellow fever. Kean supports Wood's assessment that Reed was the guiding and controlling mind behind the experiments, and the others were mere assistants. Kean states that new evidence shows Noguchi never cultivated the yellow fever organism.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1927-04-28">
+<head>Letter from Jefferson Randolph Kean to Howard A. Kelly, April 28, 1927</head>
+<pb n="1" id="fKAMD0830"/>
+<opener>
+from J. R. Kean<lb/>
+<dateline>
+<date value="1927-04-28">28 April, 1927.</date>
+</dateline><lb/>
+Dr. Howard A. Kelly,<lb/>
+1406 Eutaw Place,<lb/>
+Baltimore, Maryland.<lb/>
+<salute>My dear Dr. Kelly:</salute>
+</opener>
+<p>I am just back from a sojourn at Walter Reed<lb/>
+where Keller has been putting some repairs on my abdominal<lb/>
+wall and I find your little note to Garrison (which I en-<lb/>
+close) on my desk. I knew Dr. Porter very well as I was<lb/>
+stationed for more than two years in Key West just before<lb/>
+the Spanish War and we have had a rather active correspon-<lb/>
+dence within the last year which touched on the yellow<lb/>
+fever matter and was suggested by his sending me his little<lb/>
+autobiographical sketch called &ldquo;Looking backward over fifty<lb/>
+years of health work in Florida&rdquo;. It appeared in the<lb/>
+Florida Medical Society between July, 1925 and January,<lb/>
+1926.</p>
+<p>Dr. Porter makes no claim in this sketch or in<lb/>
+any of his correspondence that I have seen to have contri-<lb/>
+buted anything towards the discovery that yellow fever was<lb/>
+transmitted by mosquitoes. He gave credit to Reed, where<lb/>
+it belongs, on all occasions. Colonel Garrison has just<lb/>
+been talking to me about some suggestions made by Dr. Hemme-<lb/>
+ter in his book that Major James Carroll deserves more credit<lb/>
+than is usually given him in this matter. I was, as you<lb/>
+know, the disbursing officer of the Commission and was in<lb/>
+a position to have first hand knowledge about the whole work<lb/>
+and I know that General Leonard Wood stated the facts in the<lb/>
+case <unclear>with</unclear> his customary clearness and accuracy when he said<lb/>
+that he was in a position to know and he knew that in this<lb/>
+work Reed was the guiding and controlling mind and that the<lb/>
+others were assistants merely.</p>
+<p>I showed this in a review which I was requested<lb/>
+by the publishers to write of the last edition of your book,<lb/>
+Walter Reed and Yellow Fever. This review was never pub-<lb/>
+lished and the Editor wrote me that it had been lost. By<lb/>
+the way, I think when you get out another edition you will<lb/>
+have to leave out Noguchi's claim to be one of the Big Four<lb/>
+in yellow fever discoveries. Major Gallonder tells me that<lb/>
+the evidence is <unclear>[unclear]</unclear> about complete that Noguchi has been<lb/>
+<pb n="2" id="fKAMD0840"/>
+- 2 -<lb/>
+working with the spirochete of Weil's Disease and has<lb/>
+not actually cultivated yellow fever organism at all.<lb/>
+This explains something which I could never understand<lb/>
+which was that Noguchi could cultivate the organism in<lb/>
+laboratory animals whereas the experiments of Reed's<lb/>
+Board to do so were not successful.</p>
+<closer>
+<salute>With best wishes, I am<lb/>
+Very sincerely yours,</salute>
+<signed>J. R. KEAN</signed>
+Colonel, U.S. Army, Retired<lb/>
+Editor.<lb/>
+JRK&sol;W</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02712001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Arthur V. Medgo to Theodore Roosevelt, January 8, 1903</title>
+<title type="gmd">[electronic resource]</title>
+<author>Medgo, Arthur V.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02712001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1903-01-08</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Roosevelt, Theodore</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Emilie Lawrence</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>2 pp.</extent>
+<date value="1903-01-08">January 8, 1903</date>
+<idno rend="suppress">02712001</idno>
+<title>Letter from Arthur V. Medgo to Theodore Roosevelt, January 8, 1903</title>
+</bibl>
+</head>
+<p>A preamble to the bill about to be presented to Congress grants Emilie Lawrence Reed a yearly pension of $4,000. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1903-01-08">
+<head>Letter from Arthur V. Medgo to Theodore Roosevelt, January 8, 1903</head>
+<pb n="1" id="f02712001"/>
+<opener>
+Filed with 2909 acp <unclear>[unclear]</unclear><lb/>
+Philadelphia,<lb/>
+Jan 8, 1903<lb/>
+Arthur V. Medgo.<lb/>
+Vice President.<lb/>
+To the President:<lb/>
+copy of preambles<lb/>
+and resolutions urg-<lb/>
+ing the passage of<lb/>
+a bill giving Mrs.<lb/>
+Reed, widow of<lb/>
+Major Walter Reed,<lb/>
+Surgeon, a pension<lb/>
+of $4000 a year.<lb/>
+[unclear] Mr. <unclear>[unclear]</unclear><lb/>
+Received from War Dept.<lb/>
+<unclear>[unclear]</unclear> DIVISION<lb/>
+REC'D<lb/>
+JAN 14<lb/>
+1903<lb/>
+<unclear>[unclear]</unclear><lb/>
+<pb n="2" id="f02712002"/>
+COLL &middot; MED &middot; PHILAD &middot; INSTITIA &middot; D &middot; MDCCLXXXVII<lb/>
+<unclear>[unclear]</unclear><lb/>
+OFFICE OF THE SECRETARY.<lb/>
+College of Physicians of Philadelphia.<lb/>
+<hi>ackd 1&sol;10&sol;1903</hi><lb/>
+<hi>war</hi><lb/>
+<dateline>
+PHILADELPHIA, <date value="1903-01-08">January 8, 1903.</date>
+</dateline><lb/>
+To<lb/>
+His Excellency Theodore Roosevelt,<lb/>
+President of the United States<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>At a stated meeting of the College of Physicians of<lb/>
+Philadelphia, held on the 7th inst., the following preambles and<lb/>
+resolutions were adopted:</p>
+<p>&ldquo;WHEREAS, the late Major Walter Reed, Surgeon U. S. Army, has<lb/>
+left his family in very straitened circumstances and</p>
+<p>&ldquo;WHEREAS, Major Reed's scientific researches by which he dis-<lb/>
+covered the means through which Yellow Fever was spread by the<lb/>
+Mosquito, have practically abolished Yellow Fever in Cuba so that<lb/>
+it is now free from this scourge for the first time in 170 years,<lb/>
+have revolutionized our methods of Quarantine against the disease,<lb/>
+and are worth many millions of dollars to our Commerce, in addition<lb/>
+to the saving of thousand of lives, therefore</p>
+<p>&ldquo;RESOLVED, by the College of Physicians of Philadelphia that<lb/>
+the bill about to be introduced into Congress giving Mrs. Reed a<lb/>
+pension of $4000- a year is heartily urged upon our Senators and<lb/>
+Representatives in Congress as a most desirable and commendable<lb/>
+recognition of Major Reed's splendid work for his country and for<lb/>
+science.</p>
+<p>&ldquo;RESOLVED, that a copy of these preambles and resolutions be<lb/>
+sent <unclear>e</unclear> President of the United States and the Committees on<lb/>
+Pensions of the Senate and House of Representatives.&rdquo;</p>
+<p>From the minutes.</p>
+<closer>
+<salute>Respectfully,</salute>
+<signed>Arthur V. Medgo</signed>
+Vice President<lb/>
+attest,<lb/>
+Thomas R. Neilson,<lb/>
+Secretary.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

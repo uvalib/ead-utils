@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAMD0540">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Satrice Custodief to Jefferson Randolph Kean, October 22, 1907</title>
+<title type="gmd">[electronic resource]</title>
+<author>Custodief, Satrice</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAMD0540</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1907-10-22</date></creation>
+<langUsage><language id="eng">Spanish</language></langUsage>
+<textClass><keywords><term type="recipient">Kean, Jefferson Randolph</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish">YES</term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="person">Delgado, Claudio</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>4 pp.</extent>
+<date value="1907-10-22">October 22, 1907</date>
+<idno rend="suppress">KAMD0540</idno>
+<title>Letter from Satrice Custodief to Jefferson Randolph Kean, October 22, 1907</title>
+</bibl>
+</head>
+<p>The author gives a status report on the work being carried out in Havana. He reports that homes have been fumigated, and an inn fined for a violation of sanitation ordinances.  He laments the lack of resources available to complete projects and comments on the poor quality of materials.  Finally, he reports a work-related injury.[In Spanish] [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1907-10-22">
+<head>Letter from Satrice Custodief to Jefferson Randolph Kean, October 22, 1907</head>
+<pb n="1" id="fKAMD0540"/>
+<opener>
+REPUBLIC OF CUBA<lb/>
+-------<lb/>
+UNDER THE PROVISIONAL ADMINISTRATION<lb/>
+OF THE UNITED STATES<lb/>
+-----<lb/>
+NATIONAL DEPARTMENT OF SANITATION<lb/>
+OFFICE OF SPECIAL COMMISIONER<lb/>
+<dateline>
+Cienfuegos <date value="1907-10-22">22 de Octubre de 1907.</date>
+</dateline><lb/>
+Dr. J. R. Kean.<lb/>
+Consultor Sanitario.<lb/>
+Habana.<lb/>
+<salute>My dear Major Kean:-</salute>
+</opener>
+<p>Tengo el honor de dar cuenta &aacute; Vd. del estado<lb/>
+de los trabajos en esta Ciudad.</p>
+<p>Ayer se ha terminado la fumigaci&oacute;n<lb/>
+de todo el batey del Central &ldquo;Soledad&rdquo; y su colonia &ldquo;Belmonte&rdquo; y<lb/>
+del Central &ldquo;Carolina&rdquo;. A este &uacute;ltimo Ingenio he mandado personal<lb/>
+de Bryson para que practique el saneamiento de los barracones, por<lb/>
+informarme el Dr. Delgado que los visit&oacute; que se impon&iacute;a tomar esa<lb/>
+medida. Los trabajos del Central &ldquo;Soledad&rdquo; resultan importantes por<lb/>
+el gran n&uacute;mero de casas que forman su batey. Dichas casas fueron to-<lb/>
+das inspeccionadas y petrolizadas.</p>
+<p>En la Ciudad el &uacute;ltimo trabajo de fumigaci&oacute;n que me resta es<lb/>
+el block de la fonda &ldquo;La Armada&rdquo;, por el caso de Rogelio Castro Rey<lb/>
+y quedar&aacute; terminado hoy.</p>
+<p>Sobre este caso ha ocurrido una informaci&oacute;n maliciosa por par-<lb/>
+te del enfermo, &aacute; virtud de instigaciones del Due&ntilde;o de la fonda y po-<lb/>
+sada &ldquo;La Armada&rdquo;, q<del>i</del><add>u</add>ien dijo al citado enfermo que diera su proceden-<lb/>
+cia como de Rodas. Toda la trama se ha aclarado perfectamente con la<lb/>
+informaci&oacute;n hecha por el Jefe Local de Sanidad de Rodas y por la de-<lb/>
+claraci&oacute;n hecha en el dia de hoy al Dr. Delgado por el ya mencionado<lb/>
+Rogelio Castro Rey.</p>
+<pb n="2" id="fKAMD0550"/>
+<p>(2)</p>
+<p>Con ese motivo, he instruido el oportuno expediente al due&ntilde;o de<lb/>
+la citada fonda y posada &ldquo;La Armada&rdquo;, por infracci&oacute;n del Art&iacute;culo<lb/>
+170 de las Ordenanzas Sanitarias, para que se le imponga la penalidad<lb/>
+que corresponda, consecuente con lo dispuesto en el Decreto del Hono-<lb/>
+rable Gobernador Provisional.</p>
+<p>En Caonao y en Punta Gorda, tengo personal de Bryson<lb/>
+haciendo trabajos de drenaje.</p>
+<p>Respecto &aacute; la inspecci&oacute;n de Distritos, es cosa convenida<lb/>
+con el Dr. Thomason, que por cuenta de esta Oficina se procediera &aacute; ta-<lb/>
+par los barriles y otros dep&oacute;sitos de agua, de la clase realmente pobre.<lb/>
+Con es<del>d</del><add>e</add> motivo, le indiqu&eacute; la necesidad de pedir &aacute; esa <hi>dos rollos</hi> de te-<lb/>
+la met&aacute;lica de <hi>cobre</hi>, por no haber en esta localidad existencia de tela<lb/>
+met&aacute;lica de ninguna clase. Como a&uacute;n no he recibido dicha tela met&aacute;lica,<lb/>
+nada he podido hacer en este sentido. Y lo siento, porque considero<lb/>
+esa medida de mucha utilidad, como complemento de nuestra labor en esta<lb/>
+ciudad.</p>
+<p>Muchas de las &oacute;rdenes relativas &aacute; este particular no se<lb/>
+cumplen por carecer realmente de recursos los interesados, y otras se<lb/>
+cumplen de una manera deficiente por obtener la baratez en el trabajo.<lb/>
+Esto di&oacute; lugar &aacute; que acord&aacute;ramos la medida &aacute; que me refiero anterior-<lb/>
+mente.</p>
+<p>Estoy ahora ensayando un sistema para poner las lonas en los tejados<lb/>
+<pb n="3" id="fKAMD0560"/>
+(3)<lb/>
+que evite la rotura de tejas, &uacute;nico inconveniente que puede se&ntilde;alar-<lb/>
+se al procedimiento de las lonas, resuelto el cual, podremos decir<add>,</add><lb/>
+que hemos llegado al ideal sanitario en los trabajos de fumigaci&oacute;n,<lb/>
+puesto qu&eacute; nos permite hacerlos en el exterior de las casas, logrando<lb/>
+&aacute; s&iacute; que los mosquitos no se escapen durante los trabajos realizados<lb/>
+en el interior de las mismas. He encontrado en la pr&aacute;ctica algunas<lb/>
+dificultades para colocar las lonas en los tejados con el <unclear>procedimien-<lb/>
+de</unclear> elevarlas por medio de aparejos, dependiendo unas de las lonas<add>,</add> por<lb/>
+no ser &eacute;stas lo suficiente resistentes y necesitar de ciertos deta-<lb/>
+lles su confecci&oacute;n, que la pr&aacute;ctica han puesto de manifiesto. Otras<lb/>
+dificultades dependen del aparato en s&iacute;, que entiendo debe modificar-<lb/>
+se desde el punto de vista de su simplificaci&oacute;n. De una y otra cosa<lb/>
+me estoy ocupando, y ya los &uacute;ltimos toldos que se han hecho lo tienen<lb/>
+todo previsto y espero que me dar&aacute;n mejor resultado que los primeros.</p>
+<p>La calidad de los primeros toldos que hemos usado no satis-<lb/>
+facen por completo mis deseos. Los &uacute;ltimos son ya mejores, pero entien-<lb/>
+do que debemos aspirar &aacute; que sean de mejor calidad los que se confec-<lb/>
+cione<add>n</add> para lo futuro. En &eacute;sta fu&eacute; lo &uacute;nico que encontramos en canti-<lb/>
+dad que nos permitiera atender &aacute; las necesidades del servicio con la<lb/>
+urgencia que la situaci&oacute;n sanitaria de esta ciudad demandaba. He dado<lb/>
+una muestra de lona &aacute; la casa que nos ha confeccionado los toldos, y<lb/>
+&eacute;sta se ha comprometido &aacute; pedirla &aacute; los <del>e</del><add>E</add>stados Unidos en cantidad pa-<lb/>
+ra una docena de toldos que espero tener pronto listos en condiciones<lb/>
+ventajosas para el servicio.</p>
+<p>Ayer, tuve al disgusto de que se cayera un obrero de un te-<lb/>
+<pb n="4" id="fKAMD0570"/>
+(4)<lb/>
+jado, <unclear>empleado</unclear> en los trabajos de colocaci&oacute;n de toldos, sufriendo una<lb/>
+fuerte contusi&oacute;n y fen&oacute;menos agudos de conmoci&oacute;n cerebral. Desde los<lb/>
+primeros momentos me hice cargo de &eacute;l dis<del>o</del><add>p</add>oniendo, su traslado al Hos-<lb/>
+pital, donde solicit&eacute; que no se omitiera nada para su mejor cuidado y<lb/>
+asistencia.</p>
+<p>Ya hemos recibido el dinero pedido y se est&aacute;n pagando Die-<lb/>
+tas y gastos de material.</p>
+<p>Me ocupo en estos momentos de recopilar todos los datos de<lb/>
+nuestros trabajos en &eacute;sta ciudad, &aacute; virtud de un escrito recibido del<lb/>
+Capit&aacute;n Thomason que as&iacute; me lo interesa.</p>
+<closer>
+<salute>Sinceramente de Vd.</salute>
+<signed><unclear>Satrice Custodief</unclear></signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

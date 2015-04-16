@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03511001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from John Dickson to Albert E. Truby, October 9, 1939</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Dickson, John</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03511001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1939-10-09</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Truby, Albert E.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Reed, Walter</name>
+<name type="person">Reed, Walter Lawrence</name>
+<name type="place">Washington (D.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1939-10-09">October 9, 1939</date>
+<idno rend="suppress">03511001</idno>
+<title>Letter from John Dickson to Albert E. Truby, October 9, 1939</title>
+</bibl>
+</head>
+<p>Dickson requests that Truby review a biography of Walter Reed, which is to be included in the "National Cyclopedia of American Biography."</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1939-10-09">
+<head>Letter from John Dickson to Albert E. Truby, October 9, 1939</head>
+<pb n="1" id="f03511001"/>
+<opener>
+JAMES T. WHITE &amp; CO.<lb/>
+PUBLISHERS<lb/>
+(Founded in 1873)<lb/>
+<dateline>
+THE NATIONAL CYCLOPEDIA OF AMERICAN BIOGRAPHY<lb/>
+THE FOREMOST BIOGRAPHICAL AUTHORITY OF THE UNITED STATES<lb/>
+70 FIFTH AVENUE NEW YORK<lb/>
+<date value="1939-10-09">October 9, 1939.</date>
+</dateline>
+TELEPHONES {<unclear>ALOCWOUN 4.7390</unclear><lb/>
+{<unclear>ALOCWOUN 4.7391</unclear><lb/>
+EDITORIAL DEPARTMENT<lb/>
+FROM GEN. ALBERT E. TRUBY<lb/>
+Gen. Albert E. Truby,<lb/>
+145 Laurel Street,<lb/>
+San Francisco, Calif.<lb/>
+<salute>Dear Gen. Truby:</salute>
+</opener>
+<p>We have prepared a biography of Dr.<lb/>
+Walter Reed for publication in this Cyclopedia and submitted<lb/>
+a copy of it to his son, Maj. Gen. W. L. Reed, in Washington,<lb/>
+asking him to make such corrections in the article as might<lb/>
+be necessary to have it entirely accurate.</p>
+<p>Gen. Reed has now returned the manu-<lb/>
+script to us, suggesting that we forward it to you because<lb/>
+of your &ldquo;intimate and accurate knowledge of my father's work.&rdquo;</p>
+<p>We are, therefore, sending the copy<lb/>
+on to you and trust you will assist us by going over it and<lb/>
+indicating any changes or additions which you may consider<lb/>
+desirable.</p>
+<p>Thank you for your assistance.</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>JOHN DICKSON<lb/>
+Managing Editor</signed>
+<unclear>C</unclear><lb/>
+JD pbc<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

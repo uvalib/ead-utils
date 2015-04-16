@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t02158001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from William Ludlow to the Adjutant General, October 27, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Ludlow, William</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02158001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-10-27</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Adjutant General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics">YES</term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Wood, Leonard</name>
+<name type="person">Brooke, Roger</name>
+<name type="place">Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1900-10-27">October 27, 1900</date>
+<idno rend="suppress">02158001</idno>
+<title>Letter from William Ludlow to the Adjutant General, October 27, 1900</title>
+</bibl>
+</head>
+<p>Ludlow defends his position against Wood's charges of concealing facts about yellow fever in Havana. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1900-10-27">
+<head>Letter from William Ludlow to the Adjutant General, October 27, 1900</head>
+<pb n="1" id="f02158001"/>
+<opener>
+1744 G Street, N.W.<lb/>
+WAR COLLEGE BOARD<lb/>
+Washington, D.C.<lb/>
+<dateline>
+<date value="1900-10-27">October 27, 1900</date>
+</dateline><lb/>
+To the<lb/>
+Adjutant General, U.S.A.,<lb/>
+Washington, D.C.<lb/>
+<salute>Sir:</salute>
+</opener>
+<p>As a matter of official record I enclose certain publica-<lb/>
+tions and correspondence, growing out of recent interviews with<lb/>
+General Wood by newspaper correspondents, viz: a <xref id="N2158005">clipping</xref> from the<lb/>
+New York Evening Post of October 23; my note of October 24 to<lb/>
+General Wood; an extended <xref id="N2158004">interview</xref> with him in the Evening Post of<lb/>
+October 24; his reply, dated October 25, to my note of the 24th,<lb/>
+which reached me October 26, subsequent to his departure from the<lb/>
+City; and my further letter to him of October 27;- there are also<lb/>
+two <xref id="N2158005">clippings</xref> from the Evening Post of October 26, covering brief<lb/>
+statements from General Brooke and me.</p>
+<p>I am not concerned with explanations of the existing<lb/>
+epidemic of yellow fever in Havana, or elsewhere in Cuba, having no<lb/>
+responsibility in the Island and no more knowledge of current<lb/>
+events there than I may derive from newspapers, but I am concerned<lb/>
+with the refutation of any declaration or intimation of suppression<lb/>
+or perversion of any material fact pertaining to my former official<lb/>
+responsibility, and I desire to characterize as wholly false and<lb/>
+pernicious the imputation that the data as to yellow fever were in<lb/>
+any wise concealed or kept secret during my administration.</p>
+<p>It was with the purpose of giving him the opportunity to<lb/>
+make public correction or the misstatements attributed to him that<lb/>
+my note to General Wood was made, and my expectation in the matter<lb/>
+would have been met by an explicit and frank denial to me and to<lb/>
+the press that he had either made such an accusation or believed it<lb/>
+to be true.</p>
+<p>His reply, I regret to say, does not do this, and in draft-<lb/>
+ing it, as well as in his interview of the 24th,<lb/>
+he has overlooked certain facts that must be officially known<lb/>
+<pb n="2" id="f02158002"/>
+-2-<lb/>
+to him, and certainly should have been fully considered when<lb/>
+the ignoring of them leads to erroneous and misleading statements<lb/>
+reflecting injuriously upon other officers.</p>
+<p>The facts are these:</p>
+<p>1. The utmost endeavor was made to enforce with penalties any<lb/>
+concealment of a suspicious case of infectious or contagious disease<lb/>
+of any kind. All such were to be immediately reported by telephone<lb/>
+or messenger to the Chief Sanitary Officer. All cases were im-<lb/>
+mediately investigated and due measures taken, by isolation or removal<lb/>
+of patient and thorough disinfection of premises and belongings.</p>
+<p>2. A special yellow fever board was appointed of Army sur-<lb/>
+geons and civil physicians of high standing for the express purpose<lb/>
+of investigating and diagnosing cases and prescribing disposition.</p>
+<p>3. Daily reports were made by the Chief Sanitary Officer to<lb/>
+my office and forwarded to General Brooke, giving all particulars<lb/>
+of cases, etc., and these data were open to public inspection and<lb/>
+use and at the disposal of the press in all three offices.</p>
+<p>4. Every month a printed report of vital statistics, of the<lb/>
+form enclosed, was issued and widely distributed in the United<lb/>
+States as well as in the Island, giving accurate and authentic parti-<lb/>
+culars, and effecting full publicity as to all the data in question.</p>
+<p>5. In addition, the annual reports gave the consolidated<lb/>
+statistics in full, with analyses and discussions.</p>
+<p>It would be difficult to provide a more effective and gen-<lb/>
+eral means of distributing valid information in a matter of so much<lb/>
+public interest, and in fact publicity was neither avoidable nor<lb/>
+avoided.</p>
+<p>The yellow fever had ceased to be a matter of serious con-<lb/>
+cern, either to ourselves or to our friends in the United States.<lb/>
+The command was free from it. Civil cases, due to the heavy non-<lb/>
+immune importations, were entirely under control, no case being per-<lb/>
+mitted to give rise to another, and the general conditions were<lb/>
+<pb n="3" id="f02158003"/>
+-3-<lb/>
+so far satisfactory as to be matter of congratulation instead of<lb/>
+apprehension. There was no &ldquo;panic&rdquo; of any kind, nor any &ldquo;deluge<lb/>
+of anxious letters&rdquo; from the United States or elsewhere.</p>
+<p>There was and could be no objection to the publication<lb/>
+of this information, and official means were used to secure it.<lb/>
+It was refused to no one, and the newspaper correspondents could<lb/>
+have reported it every day had they thought it of sufficient inter-<lb/>
+est and importance to cable.</p>
+<p>General Wood has the right to protect himself from hostile<lb/>
+criticism by any legitimate means at his disposal, but exceeds both<lb/>
+his rights as an individual, and his obligations due to his service,<lb/>
+in seeking to defend himself by impugning the administration of<lb/>
+others and furnishing the material for public misrepresentation.</p>
+<p>As this matter has been given so much publicity, I desire<lb/>
+that this communication be laid before the Secretary of War and be<lb/>
+made of record in the War Department.</p>
+<closer>
+<salute>Your obedient servant,</salute>
+<signed>William Ludlow.</signed>
+Brigadier General, U.S.A.<lb/>
+8 Enclosures.<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

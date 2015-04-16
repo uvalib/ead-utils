@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t01603001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report: Inventory and Inspection Report of Ambulances, March 5, 1863</title>
+<title type="gmd">[electronic resource]</title>
+<author>Knorr, John A.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01603001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1863-03-05</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Baldwin, M. R.</name>
+<name type="place">Bell Plain (Va.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>3 pp.</extent>
+<date value="1863-03-05">March 5, 1863</date>
+<idno rend="suppress">01603001</idno>
+<title>Report: Inventory and Inspection Report of Ambulances, March 5, 1863</title>
+</bibl>
+</head>
+<p>This document reviews the condition of the four horse ambulances of the 1<hi rend="sup">st</hi> Division Ambulance Corp.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1863-03-05">
+<head>Report:Inventory and Inspection Report of Ambulances, March 5, 1863</head>
+<pb n="1" id="f01603001"/>
+<p>INVENTORY AND INSPECTION REPORT <hi rend="italic">of</hi> Ambulances <hi rend="italic">for which </hi> <unclear>Leun't</unclear> M. R. Baldwin A.A.<unclear>Q.M.</unclear> <del><hi rend="italic">Reg't</hi></del> Div. <unclear>Amb.</unclear> Corps 1<hi rend="italic">st</hi> Div 1<hi rend="italic">st</hi>, <unclear>A.C.</unclear><lb/>
+<hi rend="italic">is responsible, and which has been inspected and reported on by</hi> John A. Knorr <unclear>Leun't</unclear> Col &amp; <unclear>A A G</unclear> 1<hi rend="italic">st</hi> Div 1<hi rend="superscript">st</hi> Corps</p>
+<p>
+<table rows="7" cols="8">
+<row><cell cols="1-6">INVENTORY.</cell><cell cols="7-8">INSPECTION REPORT.</cell></row>
+<row><cell cols="1-8">----------------------------------------</cell></row>
+<row><cell>ARTICLES.</cell><cell>No.</cell><cell>Quantity and Quality.</cell><cell>How long in use.</cell><cell>How long in<lb/>possession.</cell><cell>From whom received.</cell><cell>Condition.</cell><cell>Disposition.</cell></row>
+<row><cell cols="1-8">----------------------------------------</cell></row>
+<row><cell><unclear>Four Horse</unclear> Ambulances</cell><cell>1</cell><cell>One <unclear>Four Horse</unclear> Ambulance</cell><cell>>Nine months</cell><cell>3 &frac12; months</cell><cell><unclear>Leun't Rob't A. Bord</unclear></cell><cell><unclear>tenants written<lb/>gone<lb/>top broken and bushing</unclear></cell><cell>To be turned in to Capt <unclear>Pithin</unclear> Depot Q.U.</cell></row>
+<row><cell>" " "</cell><cell>1</cell><cell>" " "</cell><cell>" "</cell><cell>" "</cell><cell>" " "</cell><cell><unclear>Same running Gear</unclear></cell><cell><unclear>worthless</unclear>   Same</cell></row>
+<row><cell>" " "</cell><cell>1</cell><cell>" " "</cell><cell>" "</cell><cell>" "</cell><cell>" " "</cell><cell><unclear>Tenants broker<lb/>out of repair</unclear></cell><cell>Same.</cell></row>
+</table>
+</p>
+<p>Approved<lb/>
+G.R. Paul<lb/>
+Brig Gen Comdg Div</p>
+<p>The above is a correct inventory of Quartermaster's Property for which I am responsible, and<lb/>
+which, in my opinion, requires the action of an Inspector.</p>
+<p>(TO BE MADE IN TRIPLICATE.)</p>
+<p>M. R. Baldwin<lb/>
+Lt. <unclear>A.A.Q.M.</unclear> 1<hi rend="superscript">st</hi> Div. Amb. Corps<lb/>
+1<hi rend="superscript">st</hi>. A.C.</p>
+<p>I CERTIFY that I have examined each article set forth in the Inventory hereto attached, and<lb/>
+its condition is as stated in the remarks opposite to it in the above Inspection Report.</p>
+<p>STATION: Bell Plain, Va<lb/>
+DATE: March 5<hi rend="superscript">th</hi>, 1863.<lb/>
+John A. Knorr<lb/>
+<unclear>Leun't Col &amp; A.A.G.</unclear></p>
+<pb n="2" id="f01603002"/>
+<p><hi>Medical</hi></p>
+<p>INVENTORY AND INSPECTION REPORT<lb/>
+OF<lb/>
+Ambulances.<lb/>
+<hi rend="italic">Pertaining to</hi> 1<hi rend="superscript">st</hi> Div Amb.<lb/>
+Corps 1<hi rend="superscript">st</hi> A.C.<lb/>
+<hi rend="italic">for which</hi> <unclear> Leun't</unclear> M. R. Bal-<lb/>
+dwin in charge of Corp<lb/>
+<hi rend="italic">is responsible</hi>.<lb/>
+Respectfully forwarded to the<lb/>
+Chief Quartermaster<lb/>
+Army of the Potomac<lb/>
+Brig. Gen. USA<lb/>
+J J. <unclear>Dana</unclear><lb/>
+Lt Col &amp; <unclear>Chf of Gen</unclear><lb/>
+&amp; Army Corps<lb/>
+40</p>
+<p>Approved<lb/>
+<unclear>[unclear] Myers</unclear><lb/>
+Lt. Col &amp;<unclear>[unclear]</unclear>
+March 9&sol;63</p>
+<pb n="3" id="f01603003"/>
+<p>From Mary Benjamin<lb/>
+1942<lb/>
+Item 3294 in one of her<lb/>
+1942 <hi>Collectors</hi> (I failed<lb/>
+to note which)</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="C0328032">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Laura Armistead Carter to Wade Hampton Frost, September 3, 1930</title>
+<title type="gmd">[electronic resource]</title>
+<author>Carter, Laura Armistead</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>C0328032</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Papers of Henry Rose Carter [manuscript] ; HEALTHSCI MS-10.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1930-09-03</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">Frost, Wade Hampton</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Morley, Sylvanus Griswold</name>
+<name type="person">Martinez Hernandez, Juan</name>
+<name type="person">Carter, Henry Rose</name>
+<name type="person">Frost, Susan Haxall</name>
+<name type="person">Parrish, Susan Frost</name>
+<name type="person">Weckerly, C. A.</name>
+<name type="person">Johnson, N. B.</name>
+<name type="person">Burnham, F. Irvine</name>
+<name type="place">Baltimore (Md.)</name>
+<name type="place">Washington (D.C.)</name>
+<name type="place">Yucatan (Mexico)</name>
+<name type="place">Library of Congress (Washington, D.C.)</name>
+<name type="place">Cozumel (Mexico)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>1 pp.</extent>
+<date value="1930-09-03">September 3, 1930</date>
+<idno rend="suppress">C0328032</idno>
+<title>Letter from Laura Armistead Carter to Wade Hampton Frost, September 3, 1930</title>
+</bibl>
+</head>
+<p>Carter is not worried about Frost's revisions to the fifth chapter of the book. She explains that Henry Rose Carter's first interest would be to get his argument clear rather than eloquent.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1930-09-03">
+<head>Letter from Laura Armistead Carter to Wade Hampton Frost, September 3, 1930</head>
+<pb n="1" id="fc0328032"/>
+<opener>
+<dateline>
+The Westmoreland,<lb/>
+2122 California St., N. W.,<lb/>
+Washington, D. C.,<lb/>
+<date value="1930-09-03">September 3, 1930.</date>
+</dateline><lb/>
+Dr. Wade H. Frost,<lb/>
+4710 Keswick Road,<lb/>
+Roland Park, Baltimore, Maryland.<lb/>
+<salute>Dear Jack:</salute>
+</opener>
+<p>Your letter, dated August 28th., reached me yesterday.</p>
+<p>No, I am not at all &ldquo;worried&rdquo; at the idea of your further revision<lb/>
+of Chapter V. In fact it would have been &ldquo;the other way 'round.&rdquo; I have al-<lb/>
+ways felt uneasy about that chapter, not in its fundamental argument, but, to<lb/>
+quote yourself, in the way &ldquo;it appears on superficial reading,&rdquo; and have feared<lb/>
+that archaeologists (other than Morley and Martinez Hernandez) might start a<lb/>
+lot of unnecessary argument over a matter not essential to the real epidemiologi-<lb/>
+cal argument for Yucatan. I am then relieved at the thought of your further<lb/>
+&ldquo;checking up&rdquo; of this chapter and not only &ldquo;judge,&rdquo; but <hi>know</hi> that Father's<lb/>
+<add>&ldquo;</add>first interest<add>&rdquo;</add> would be &ldquo; in getting his argument clear rather than eloquent.&rdquo;<lb/>
+should you find it necessary to sacrifice one ofor the other. Personally, I<lb/>
+feel perfectly confident of your handling both sides of this matter.</p>
+<p><hi>Re</hi> the additional data you desire, from European records, concerning<lb/>
+the smallpox in Yucatan in 1520--its introduction into Cozumel by <unclear>Narxaez,</unclear> its<lb/>
+geographic spread and mortality: I have taken steps to collect, on my desk<lb/>
+at the Library of Congress, all of the authors you suggested <add>(</add>not in the Rare<lb/>
+Book Room<add>)</add> and will also, of course, follow any &ldquo;side lines&rdquo; that may develope.<lb/>
+Hope to be able to send you the result within a few days.</p>
+<p>In the interim, in addition to the oft-quoted extract from Diaz del<lb/>
+Castillo, you have verbatim accounts of the &ldquo;first&rdquo; appearance of smallpox on<lb/>
+the bibliographic cards for Motolinia, Toribio de <unclear>( )</unclear> and Mendieta, Ger&oacute;-<lb/>
+nimo de (1870); These bib. cards for <hi>iii.i. p. 22</hi> of Father's MS. As you may<lb/>
+recollect, I took them over to you on myllast trip to Baltimore, in order that<lb/>
+you might check Father's statement as to whether it was Motolinia or Molina, who<lb/>
+was in agreement with Mendieta in calling the epidemic of 1531 &ldquo;<hi>sarampion</hi>&rdquo;<lb/>
+(measles). It was Motolinia. While having <unclear>these</unclear> cards made out, I thought it<lb/>
+well to preface the statements <hi>re</hi> &ldquo;sarampion&rdquo; with those on the smallpox of<lb/>
+1520. This because I remembered your saying last January that you would like<lb/>
+any procurable data on this subject. I think, however, that Mendieta quite<lb/>
+certainly copied his account from that of Motolinia, parts of it, as you<lb/>
+may have noticed, being almost identical.</p>
+<p>Hope to have the maps within a few days. They are beautifully and<lb/>
+very carefully done. The xvith. Century map (for Ojeda, Nicuesa <hi>et al</hi>) de-<lb/>
+serves especial <unclear>commendation</unclear>, as Father (in that part of his book formerly<lb/>
+known as Section iii, part i, Continued) mentions places for which many con-<lb/>
+temporaneous maps have had to be searched and the MS itself carefully con-<lb/>
+sulted. This, on account of the paucity of names used by the Spaniards in<lb/>
+designating places in the New World and their consequent repetition at far<lb/>
+distant points. I expect then, that Mr. Burnham's bill will be considerably<lb/>
+higher, both actually and proportionately, than that sent in by Mr. Johnson,<lb/>
+for the partly finished maps we had to discard, and for which I am, as I told<lb/>
+you, ready to <del>pay</del> repay the I. H. D., <del><unclear>[unclear]</unclear></del> Mr. Weckerley'<del>s</del> illness, and<lb/>
+consequent inability to do the work himself (or to check it) was the real<lb/>
+cause of trouble<del>.</del><add>,</add> <add>but the matter <hi>was</hi> in my hands, <unclear>&ldquo;pour<lb/>
+faux de mieux.&rdquo;</unclear></add></p>
+<p>With love to &ldquo;the Susans,&rdquo; I remain</p>
+<closer>
+<salute>Most truly yours,</salute>
+<signed>Laura A. Carter</signed>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

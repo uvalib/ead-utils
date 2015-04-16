@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t04005008">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from Philip Showalter Hench to Peter W. Suarez, July 15, 1942</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Hench, Philip Showalter</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04005008</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1942-07-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Suarez, Peter W.</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Dominguez, Francisco</name>
+<name type="person">Finlay, Carlos J.</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1942-07-15">July 15, 1942</date>
+<idno rend="suppress">04005008</idno>
+<title>Letter from Philip Showalter Hench to Peter W. Suarez, July 15, 1942</title>
+</bibl>
+</head>
+<p>Hench informs Suarez that he will return the Dominguez manuscript on Finlay to the publisher who loaned it to Hench. Hench explains his interest in yellow fever.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1942-07-15">
+<head>Letter from Philip Showalter Hench to Peter W. Suarez, July 15, 1942</head>
+<pb n="1" id="f04005008"/>
+<opener>
+<dateline>
+<date value="1942-07-15">July 15, 1942</date>
+</dateline>
+Mr. Peter W. Suarez<lb/>
+c/o American Car and Foundry Export Co.<lb/>
+30 Church Street<lb/>
+New York, N. Y.<lb/>
+<salute>My dear Mr. Suarez:</salute>
+</opener>
+<p>I am so sorry to hear of the death of Dr. Francisco Dominguez.<lb/>
+I had the pleasure of meeting him and talking to him at some length in the<lb/>
+Finlay Institute last year.</p>
+<p>I am delighted indeed to know that some arrangements are going to<lb/>
+be made to publish in English Dr. Dominguez' interesting manuscript on Dr.<lb/>
+Dr. Finlay. I appreciated Dr. Dominguez' permission to see this manuscript.<lb/>
+Inasmuch as the Waverly Press loaned me this manuscript I think it best to<lb/>
+return it to them, and I will send them a carbon copy of this letter so that<lb/>
+they will expect to hear from you or Mrs. Dominguez directly. Please keep<lb/>
+me informed as to the progress made in having this manuscript published.<lb/>
+Permit me to send you by separate post a reprint which will explain in<lb/>
+part my interest in the wonderful story of the conquest of yellow fever.<lb/>
+I have had the pleasure of visiting Havana twice and of meeting Dr. Finlay's<lb/>
+son and family as well as other personages connected with the yellow fever<lb/>
+experiments.</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>P. S. Hench, M. D.</signed>
+psh:ds<lb/>
+<seg>P.S. I find that Mr. Robert S. Gill, The Williams and Wilkins<lb/>
+Co. was the person with whom I had correspondence regarding this manuscript<lb/>
+and who sent it to me; therefore I am returning it to him.<lb/>
+</seg>
+Copy to Mr. Robert S. Gill<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

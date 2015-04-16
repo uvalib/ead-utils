@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t00910001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from L.M. Fisher to Henry Rose Carter, June 20, 1921</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Fisher, L.M.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>00910001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1921-06-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Carter, Henry Rose</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+<name type="person">Griffitts, Dr.</name>
+<name type="place">Wateree River, Fairfield County (S.C.)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>3 pp.</extent>
+<date value="1921-06-20">June 20, 1921</date>
+<idno rend="suppress">00910001</idno>
+<title>Letter from L.M. Fisher to Henry Rose Carter, June 20, 1921</title>
+</bibl>
+</head>
+<p>Fisher reports on the malaria situation in South Carolina.  He discusses his malaria control work funded by the Rockefeller Foundation.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1921-06-20">
+<head>Letter from L.M. Fisher to Henry Rose Carter, June 20, 1921</head>
+<pb n="1" id="f00910001"/>
+<opener>
+L. M. FISHER<lb/>
+ASSOCIATE SANITARY ENGINEER<lb/>
+U. S. P. H. S.<lb/>
+DIRECTOR<lb/>
+State Board of Health<lb/>
+of South Carolina<lb/>
+DIVISION OF MALARIA CONTROL<lb/>
+Executive Committee<lb/>
+ROBERT WILSON, JR., M. D., CHM., CHARLESTON<lb/>
+R. A. MARSH, M. D. " " " EDGEFIELD<lb/>
+C. C. CAMPBELL, M. D. " " ASHEVILLE<lb/>
+E. A. HINES, M. D. " " " " SENECA<lb/>
+W. J. SURDELL, M. D. " " " LUGOFF<lb/>
+WM. EGLESTON, M. D. " " HARTSVILLE<lb/>
+W. W. <unclear>DODSON</unclear>, PH. D. " " GREENVILLE<lb/>
+W. M. LESTER, M. D. " " " COLUMBIA<lb/>
+S. M. WOLFE, ATTY GEN. " " COLUMBIA<lb/>
+W. V. SUTHERLAND, COMP. GEN. " COLUMBIA<lb/>
+---------<lb/>
+JAMES A. HAYNE, M. D.<lb/>
+SECRETARY AND STATE HEALTH OFFICER<lb/>
+<dateline>
+COLUMBIA <date value="1921-06-20">June 20, 1921.</date>
+</dateline>
+Dr. H. R. Carter, Asst. Surgeon General<lb/>
+U. S. Public Health Service<lb/>
+2121 California Avenue, N. W.<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Dr. Carter:</salute>
+</opener>
+<p>Complying with your letter of a few days<lb/>
+ago, I am sending you a copy of my letter of June 2nd<lb/>
+which contains figures with reference to malaria pre-<lb/>
+valence along Wateree river, in Fairfield County.<lb/>
+Since writing you, we took a census of some fifty houses<lb/>
+further away from the river toward Ridgeway, and find<lb/>
+the following results:</p>
+<p>
+<table rows="4" cols="3">
+<row>
+<cell>YEAR</cell><cell>POPULATION</cell><cell>NO. CASES</cell></row>
+<row>
+<cell>1919</cell><cell>254</cell><cell>1</cell></row>
+<row>
+<cell>1920</cell><cell>263</cell><cell>3</cell></row>
+<row>
+<cell>1921</cell><cell>276</cell><cell>5</cell></row></table></p>
+<p>We took this second census in a section<lb/>
+of the country where we believe the river could not have<lb/>
+effected the malaria rate. This gives us a control, and<lb/>
+when the two groups are compared it leads one to infer<lb/>
+that the pond may have effected the occurence of malaria<lb/>
+to a greater distance than has been considered likely<lb/>
+heretofore. Both censuses were taken by the same person<lb/>
+in the same way.</p>
+<p>At the request of the Power Company, I<lb/>
+recently made a trip to the pond and found practically<lb/>
+no breeding at the present time. The pond is about<lb/>
+seven feet below the crest of the dam. The water is all<lb/>
+drawn out of the shallows and the edges are clean. I<lb/>
+could see very few top minnows. I imagine that many of them<lb/>
+have been eaten by game fish, since there does not appear to<lb/>
+be much protection for them. The timber has been cut out<lb/>
+of the pond, with the exception a small strip in<lb/>
+Dutchman creek, up to the high water mark. The pond no<lb/>
+doubt looks entirely different when it is full, and the<lb/>
+<pb n="2" id="f00910002"/>
+-2-<lb/>
+gage readings at the Power houses show that from about<lb/>
+July 20th on, the pond was full until about the twelth of<lb/>
+October. At times, from two to four feet of water passed<lb/>
+over the crest of the dam for days at a time.</p>
+<p>I have not made any recommendations to the<lb/>
+Company as to what should be done. This Power project is<lb/>
+a particular favorite with Mr. Duke who owns the Southern<lb/>
+Power Company. Men from all over the world come to visit<lb/>
+the plant. The Company is proud of it and the way it is<lb/>
+operated, and wants to feel just as proud of the way they<lb/>
+handle the malaria problem as they are of the other<lb/>
+features. They want to employ a man to do this work. I<lb/>
+had in mind suggesting to them that a number of fish<lb/>
+hatcheries be established just a little below high water<lb/>
+mark; so that when the pond rises, these little hatcheries<lb/>
+will be flooded out and the top minnows can scatter all<lb/>
+through the shallow portion of the pond. When the pond<lb/>
+goes down, the hatcheries should be cleaned of game<lb/>
+fish and restocked with minnows. Possibly by employing a<lb/>
+small force of men the fish could be given enough assist-<lb/>
+ance to effect a pretty high degree of control. Mr. Duke<lb/>
+has built a fine road from Great Falls to Wateree, thirty<lb/>
+six miles along the pond. The Great Falls Farm Company<lb/>
+a subsidiary of the Southern Power Company, is planning to<lb/>
+build about fifty houses for a Farming colony this year,<lb/>
+the contract already having been le<del>f</del>t. The plan is to<lb/>
+develope the agricultural possibilities along the pond.<lb/>
+The land is owned by the Company for a distance of approxi-<lb/>
+mately one mile from the high water mark.</p>
+<p>With reference to the situation at Chester,<lb/>
+the pond Griffith referred to is a swimming pond about six<lb/>
+miles from the town. The owner permits no fishing at all.<lb/>
+He lives at the pond which is only about one-half mile<lb/>
+in diameter and is well stocked with fish. We examined<lb/>
+it on several occasions during the summer, and found very<lb/>
+few larvae, and I think there was very little if any pro-<lb/>
+duction. He also operates a small grist mill which gives<lb/>
+a beneficial fluctuation in the water level. We carefully<lb/>
+went over our records and eliminated all the cases which<lb/>
+might have been typhoid.</p>
+<p>Replying to your inquiry as to what I am doing<lb/>
+in this state, I am directing the cooperative malaria<lb/>
+control demonstration work, and am trying to build up a<lb/>
+division of malaria control in the State Board of Health,<lb/>
+for which purposes the Rockefeller people gave us $5,000<lb/>
+in addition to the money appropriated for demonstration<lb/>
+work. It was in connection with the latter feature of<lb/>
+<pb n="3" id="f00910003"/>
+-3-<lb/>
+the work, that I became involved in the Wateree pond<lb/>
+project, since a large number of complaints were received<lb/>
+by the State Board of Health with reference to the amount<lb/>
+of malaria prevailing along the river.</p>
+<p>I am training two young men who graduated last<lb/>
+year, and expect to add another one to our force before<lb/>
+long. We are looking after the maintenance work at Bam-<lb/>
+berg, Chester and Hartsville, and are working at the<lb/>
+towns of Fairfax and Beaufort. I think we will be able<lb/>
+to induce one or two other towns to take up the work<lb/>
+sometime during the summer.</p>
+<closer>
+<salute>Very truly yours</salute>
+<signed>L.M. Fisher<lb/>
+Associate Sanitary Engineer</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

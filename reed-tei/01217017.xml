@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t01217017">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Letter from S.B. Grubbs to Henry Rose Carter, December 12, 1924</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author>Grubbs, S.B.</author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>01217017</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1924-12-12</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term type="recipient">Carter, Henry Rose</term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever"></term>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>1 pp.</extent>
+<date value="1924-12-12">December 12, 1924</date>
+<idno rend="suppress">01217017</idno>
+<title>Letter from S.B. Grubbs to Henry Rose Carter, December 12, 1924</title>
+</bibl>
+</head>
+<p>Grubbs writes that he has no knowledge of any plague epidemic aboard a ship.</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1924-12-12">
+<head>Letter from S.B. Grubbs to Henry Rose Carter, December 12, 1924</head>
+<pb n="1" id="f01217017"/>
+<opener>
+Book<lb/>
+Plague<lb/>
+OFFICE OF<lb/>
+MEDICAL OFFICER IN CHARGE<lb/>
+U. S. QUARANTINE STATION<lb/>
+<dateline>
+TREASURY DEPARTMENT<lb/>
+UNITED STATES<lb/>
+PUBLIC HEALTH SERVICE<lb/>
+ROSEBANK<lb/>
+STATEN ISLAND, N.Y.<lb/>
+<date value="1924-12-12">December 12, 1924.</date>
+</dateline>
+SBG:DCH<lb/>
+Dr. H. R. Carter,<lb/>
+2122 California St., N.W.,<lb/>
+Washington, D. C.<lb/>
+<salute>Dear Doctor Carter:</salute>
+</opener>
+<p>Replying to your letter of November 29th, 1924,<lb/>
+I have no personal knowledge of bubonic plague on the<lb/>
+high seas that could be called an epidemic, nor do I know<lb/>
+of any pneumonic plague aboard ship.</p>
+<p>All the officers on this station have been<lb/>
+questioned and none of them know of any such occurrence.</p>
+<closer>
+<salute>Very truly yours,</salute>
+<signed>S. B. Grubbs,<lb/>
+Surgeon, U.S.P.H.S.,<lb/>
+MEDICAL OFFICER IN CHARGE</signed>.
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

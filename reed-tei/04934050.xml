@@ -1,0 +1,886 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="t04934050">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Biographical sketch: Life and Letters of Dr. Walter Reed by His Daughter, by Blossom [Emilie M.] Reed, [n.d.]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Reed, Blossom [Emilie M.]</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>04934050</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>0000-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term></term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Reed, Emilie Lawrence</name>
+<name type="person">Reed, Lawrence [Walter L.]</name>
+<name type="person">Wood, Leonard</name>
+<name type="person">Lee, Fitzhugh</name>
+<name type="person">Gorgas, William Crawford</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Guiteras, Juan</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Albertini, A. Diaz</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Sternberg, George Miller</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Havana (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>25 pp.</extent>
+<date value="0000-00-00"></date>
+<idno rend="suppress">04934050</idno>
+<title>Biographical sketch: Life and Letters of Dr. Walter Reed by His Daughter, by Blossom [Emilie M.] Reed, [n.d.]</title>
+</bibl>
+</head>
+<p>This manuscript discusses Walter Reed's yellow fever experiments in Cuba and provides letters written by Reed.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="0000-00-00">
+<head>Biographical sketch: Life and Letters of Dr. Walter Reed by His Daughter, by Blossom [Emilie M.] Reed, [n.d.]</head>
+<pb n="1" id="f04934050"/>
+<p>LIFE &amp; LETTERS OF DR. WALTER REED BY HIS DAUGHTER, BLOSSOM REED</p>
+<p><del>(The last</del> <add>(</add>copy of the last part from 1900 on loaned to me<lb/>
+by Mr. Kellogg)</p>
+<p>I was just nineteen when my blessed father passed away. Those were<lb/>
+nineteen years of golden sunshine, and the memories I have carried in my<lb/>
+heart daily since his death, have been the reward given me, for the loss of<lb/>
+my idol and my hero.</p>
+<p>During the latter part of his life, we owned a country home at<lb/>
+Blue Ridge Summit, Pa. Father always had a vegetable garden, flower garden,<lb/>
+and chickens.</p>
+<p>In the summer of 1900, father went to Cuba to study the cause of<lb/>
+yellow fever. Columbia Barracks, a military reservation about eight miles<lb/>
+from the city of Havana was selected for the experimental station. The<lb/>
+officers who formed the Yellow Fever Commission were Major Walter Reed, Dr.<lb/>
+James Carroll, Dr. Aristides Agramonte, and Dr. Jesse W. Lazear. During<lb/>
+these summer months of 1900, his letters to mother from Cuba were taken up<lb/>
+with how we should take care of ourselves and many orders to the gardener<lb/>
+about the gardens. He alluded very little to yellow fever in his letters, as<lb/>
+it was a constant worry to my mother. His first letter written in June on a<lb/>
+Transport is as follows:</p>
+<p>At sea off the Jersey Coast<lb/>
+Thursday, 9 P. M.</p>
+<p>As I told you and little daughter that you might think of me as<lb/>
+the sickest dog in the bunch: I now want to tell you how splendidly I have made<lb/>
+out this far. We left New York at 10 A. M. I have not been sea sick a bit this<lb/>
+time. The sea is quiet tho the vessel moves considerably. I had a good lunch<lb/>
+and ate a very hearty dinner. Dr. Carroll and I have the best stateroom on the<lb/>
+<add>PSHench<lb/>
+pp 77-100 of Miss Reeds ms<lb/>
+I think this should be June 21, 1900 P.S.H.</add><lb/>
+<pb n="2" id="f04934051"/>
+-2-<lb/>
+ship, because I happen to be the ranking officer aboard, and staterooms go by<lb/>
+rank. There are several officers aborad--Major Petterson <unclear>&check;</unclear> of the Commissary<lb/>
+Department, Major Dunn and wife of the Judge Advocate Department, and Lieutenant<lb/>
+Wilcox. I expect to enjoy the trip very much as the bromide appears to be<lb/>
+doing its work beautifully. The Sedgwick is of 5000 tons and was formerly the<lb/>
+City of Chester. She is a fast boat and quite fast</p>
+<p>A little North of Jupiter Inlet<lb/>
+Florida Coast, Sunday 11 A. M.</p>
+<p>My darling children can see that there is something of a gap between<lb/>
+my first attempt at writing and this my second. Friday evening, I promenaded<lb/>
+the deck with the Captain although the boat was pitching a good deal. When I<lb/>
+retired at nine o'clock, I found that Dr. Carroll had given up the fight and<lb/>
+I suppose that his example had some effect on me. When I awoke Saturday<lb/>
+morning, there was a sensation of two or three tons of brick in the region of<lb/>
+my stomach and an entire loss of appetite. The boat was rolling and the orange<lb/>
+that I ate began to roll, too, until it rolled out: I stayed in my birth all<lb/>
+day yesterday. Read some, slept more and &ldquo;fed the fishes&rdquo; as the occasion<lb/>
+seemed to require: This morning I have had an orange, a cup of black coffee<lb/>
+and dry toast. Now, I have come on deck to enjoy the delightful breeze. I<lb/>
+think I can make out very well till tomorrow, when we reach Havana. At 8:30<lb/>
+this morning I thought of my darling wife and daughter sitting down to break-<lb/>
+fast in our little mountain home we love so dearly, and oh! how I did want<lb/>
+some of those fresh strawberries, and oh! for just one cup of that good coffee!<lb/>
+That would make me well immediately. Do write and tell me how the things<lb/>
+grow. Both flowers and vegetables for I shall take such interest in them.<lb/>
+Bless your darling hearts, how father looks forward to seeing you again,<lb/>
+Sunday, 1 P. M.</p>
+<p>We are now skirting along the Florida coast running parallel at a<lb/>
+distance of about <hi>two hundred miles</hi>. How refreshing the sight of beach and<lb/>
+<add>Peterson?<lb/>
+should be June 24<lb/>
+?<lb/>
+20 miles?<lb/>
+2 miles?<lb/>
+<hi>2 miles</hi></add><lb/>
+<pb n="3" id="f04934052"/>
+-3-<lb/>
+foliage is after 48 hours at sea. The strip of green seen over the water is<lb/>
+so pleasant a prospect. Nestling here and there amongst the pines, I can see<lb/>
+many pretty homes. Twice this morning we have seen a beautiful rain passing<lb/>
+up the coast just parallel with the shore, and each time felt its refreshing<lb/>
+coolness. The weather thus far has been delightful. The gong has sounded for<lb/>
+lunch but I won't go down! I will have my lunch on deck, for I am afraid the<lb/>
+sight of so much food would turn me up side down! How dear little daughter<lb/>
+would enjoy seeing the schools of flying fish, as they suddenly rise out of<lb/>
+the water and go hurrying along, apparently to get rid of the ship. Thursday<lb/>
+afternoon a school of porpoise made sport for us for quite a while, as they went<lb/>
+rolling and diving and chasing after each other. Tell daughter that as I write<lb/>
+the Captain's little fox terrier stands and gazes wistfully at me as if she<lb/>
+wanted to get in my lap. I'll write more before we reach Havana.</p>
+<p>Not quite in sight of Cuba<lb/>
+Monday morning, 7:30 o'clock</p>
+<p>Well, sweetest children on earth, here is father up at this hour and<lb/>
+on the saloon deck, after having sucked a lemon dry, swallowed a glass of<lb/>
+cracked ice and shaved himself in the most approved style. What do you think<lb/>
+of such an outburst of energy? Pretty good for a man who isn't much of a sailor:<lb/>
+The day passed off beautifully yesterday. Delicious breezes, slightly clouded<lb/>
+skies, and a fringe of green on the starboard side of Florida's coast. We did<lb/>
+not leave it till late in the afternoon, and even after night came on we still<lb/>
+saw its bright houses so that I did not feel so very far from our dear home<lb/>
+and its precious inhabitants. We sat on deck till 10:30 P. M. Saw a steamer<lb/>
+with all lights set, making for a Northern port, on one side and a U. S.<lb/>
+Revenue Cutter, with her big search light, on the other, looking for smugglers<lb/>
+along the Florida Keys. I then went below and by means of an electric fan<lb/>
+and a wind scoop, in each of our two port-holes, managed to woo a good breeze<lb/>
+which stayed with us the whole night, so that we slept well and both feel<lb/>
+<add>should be June 25</add><lb/>
+<pb n="4" id="f04934053"/>
+-4-<lb/>
+refreshed this morning! The sea is still very quiet so there is no motion<lb/>
+to our ship. The weather is warmer than at our dear little mountain home,<lb/>
+and I expect we will find it still warmer when we reach the shore. We expect<lb/>
+to enter the Harbor about 10 A. M., and I am so anxious to get my letter in the<lb/>
+12 o'clock mail, in which case my darling wife and daughter will get it by<lb/>
+Thursday evening. How is every thing at our darling little home. I know<lb/>
+the strawberries must be at their best and the pansies and asters are just<lb/>
+blooming. I would give a dollar for a glass of that delicious water! 9:15 A. M.<lb/>
+Moro Castle is just sighted, so that we will be at anchor about 11 A. M. The<lb/>
+Cuban coast is looming up very prettily and I must bring my &ldquo;efforts&rdquo; to a<lb/>
+close. We will report to General Leonard Wood this forenoon, and then go out<lb/>
+to Quemados this afternoon. I am very well. Love and a thousand kisses to<lb/>
+my precious girls.&rdquo;</p>
+<p>An outline of the camp and raising of money needed for their experi-<lb/>
+ments is well told in a paper written by General Jefferson Randolph Kean, one<lb/>
+of my father's closest friends:</p>
+<p>&ldquo;The yellow fever board, or commission as it is usually called,<lb/>
+was created by War Department order, May 24, 1900, and was composed of Maj.<lb/>
+Walter Reed and three acting assistant surgeons--James Carroll, Aristides<lb/>
+Agramonte, and Jesse W. Lazear. The two latter were already on duty in Cuba<lb/>
+when Reed arrived there on June 25.</p>
+<p>A severe epidemic was in progress in Habana and at the neighboring<lb/>
+town of Marianao, where Gen. Fitzhugh Lee has his headquarters. He was in<lb/>
+command of the two Provinces of Habana and Pinar del Rio which include the<lb/>
+western and of the island, but the city of Habana was excepted from his<lb/>
+command and was under another general. Major Gorgas was the health officer<lb/>
+of the city, and I was the chief surgeon of General Lee's Command, and had<lb/>
+sanitary control of the outside country. I had been taken with yellow fever<lb/>
+<pb n="5" id="f04934054"/>
+-5-<lb/>
+on June 21 and was ill when Reed landed on the morning of June 25, and he<lb/>
+hastened to visit me in the hospital at Camp Columbia. It pleases me to think<lb/>
+that in my person he saw the first case of the dread disease with which his<lb/>
+fame will be forever associated. The board was given quarters and laboratory<lb/>
+space in a barrack-like wooden building belonging to the hospital and some<lb/>
+half mile from General Lee's headquarters....</p>
+<p>Reed was called back to the United States during the first week in<lb/>
+August on account of the death of Doctor Shakespeare, to put in order the<lb/>
+manuscripts of the typhoid fever board and the experiments began in his absence. . . .</p>
+<p>I had at that time returned from a short sick leave in the States and<lb/>
+was chief surgeon at Gen. Fitzhugh Lee's headquarters. When Reed mentioned to me<lb/>
+on October 11 his intention to go to Habana next day to get General Wood's per-<lb/>
+mission to go to the United States, I offered to get transportation and take<lb/>
+him down. Accordingly, through the courtesy of the adjutant General, Major<lb/>
+Michie, I got permission to use General Lee's find horses and carriage, and so<lb/>
+we drove down in great style. When we were on the road I urged him to ask<lb/>
+General Wood for a considerable sum of money to pay the expenses of a series of<lb/>
+experiments and give liberal bonuses to Spanish immigrants who I was sure<lb/>
+could be induced in that way to volunteer, especially as they came to Cuba with<lb/>
+always the probability of having yellow fever. He did not commit himself as<lb/>
+to what he would do, and I awaited the interview with keen interest.</p>
+<p>General Wood received us graciously, as he knew us both well and had<lb/>
+taken a course of study under Reed. They stood facing each other in the<lb/>
+embrasure of a window of the palace looking out on the Plaza de las Armas and<lb/>
+to me, a silent observer, it was a most dramatic scene with all the setting of<lb/>
+a great historic moment. Looking out between them I could see Morro Castle<lb/>
+and the blue waters of the harbor and on our left the ancient Fort la Fuerza,<lb/>
+built by the gallant De Soto before he sailed northward to find his grave in<lb/>
+the turbid current of the Mississippi. The two men offered a singular contrast<lb/>
+<pb n="6" id="f04934055"/>
+-6-<lb/>
+in their appearance. General Wood, massive, leonine, impassive; Reed, slender,<lb/>
+alert, with mobile features and sparkling blue eyes as he told the story of the<lb/>
+three cases and summed up the evidence. Then, after a moment's pause he said<lb/>
+very earnestly, &ldquo;General Wood, will you give me $10,000 to continue and complete<lb/>
+these experiments?&rdquo; General Wood's reply came almost without hesitation--&ldquo;I<lb/>
+have this morning signed a warrant for that amount to aid the police in the<lb/>
+capture of criminals, and surely this work is of more importance to Cuba than<lb/>
+the catching of a few thieves. I will give you $10,000 and if that proves<lb/>
+insufficient I will give you $10,000 more.&rdquo;</p>
+<p>We said good day to the military governor and with joyous hearts<lb/>
+betook ourselves to the Paris restaurant, were we celebrated this happy<lb/>
+outcome with a good luncheon, and I pledged his success and future fame with<lb/>
+a bottle of Rioja Clarete. . .</p>
+<p>When Reed applied for the promised money, General Wood told him that<lb/>
+he would place it for disbursement in Kean's hands, as he was an officer permanently<lb/>
+on duty there and Reed would be saved the worry of it. So this was done, and I<lb/>
+acquired in a subordinate and business way a connection with this famous board.</p>
+<p>The building of his experimental station, Camp Lazear, where the<lb/>
+tests should be made was at once begun, and Spanish immigrants were readily<lb/>
+found who for a handsome sum were willing to be bitten by the &ldquo;little Flies,&rdquo;<lb/>
+and if they were taken sick to be nursed by the senioritas Americanas, as they<lb/>
+called the nurses. A most dramatic episode of this period was the volunteering<lb/>
+of Moran and Kissinger to be the first victims of the experimentation.<lb/>
+Kissinger was in fact the first case--a noble offer which has been often and<lb/>
+fully told. These were followed by other American soldiers from the Hospital<lb/>
+Corps, so that between the Americans and the Spaniards the supply of subjects<lb/>
+for experiment was ample. The Spaniards furnished Reed much amusement,<lb/>
+especially a jolly young Spaniard peasant named Antonio Benigno, but whom Reed<lb/>
+<pb n="7" id="f04934056"/>
+-7-<lb/>
+called Boniato, which means a sweet potato, on account of his fondness for<lb/>
+that vegetable. His contract with Reed in Spanish, signed by both, hangs on<lb/>
+the wall of my office. He was first to recover, and when I took his reward<lb/>
+to him I got it in $10 and $20 gold pices. The poor Spaniard had never seen<lb/>
+such great coins or so much money, and his joy was that of a child with a new<lb/>
+toy.</p>
+<p>On July 8, 1900, father writes the following letter to mother:</p>
+<p>Columbia Barracks<lb/>
+Quemados, Cuba</p>
+<p>I felt certain that when you read that paragraph about yellow fever<lb/>
+at Quemados, in the Evening Star paper, you would cut it out and send it to me,<lb/>
+and ask what in the world it meant! I have said nothing about yellow fever,<lb/>
+because I didn't want to give you any worry, especially as I wasn't myself<lb/>
+taking any risks whatever. There have been two or three cases in Quemados<lb/>
+since our arrival. One a member of the Hospital Corps, and another a female<lb/>
+nurse, both of whom were nursing Mrs. Edmonds, who was down with the disease<lb/>
+in an infected house in Quemados. These cases are now convalescing. Dr. Kean<lb/>
+is over his attack and should be in New Jersey by this time, as he left Havana<lb/>
+several days ago. Dr. Carroll and I have been studying some cultures which<lb/>
+were made from the blood of yellow fever, but there isn't a particle of danger<lb/>
+in this. Please don't pay any attention to anything you see in the papers.<lb/>
+I couldn't be in a safer place on the Island than in Camp Columbia. By<lb/>
+General Lee's order, all Americans had already moved out of Quemados before we<lb/>
+got here. No soldier is allowed to enter the town, and no case has occurred<lb/>
+here for about two weeks. The last, I am told was that of a Spanish boy who<lb/>
+lived about two miles from here. When I get the disease, I promise that a<lb/>
+cablegram shall be promptly sent you. In the meanwhile, please don't worry one<lb/>
+particle. We are not going into infected houses, nor to see patients with the<lb/>
+<pb n="8" id="f04934057"/>
+-8-<lb/>
+disease. We will confine our work to material that Dr. Argomonte brings us.<lb/>
+At present there are about a dozen cases in Havana, but none of them at our<lb/>
+disposal. So please rest easy as far as I am concerned. So you think, sweet-<lb/>
+heart that I get up too early? Well, I go to bed so early and the mornings<lb/>
+are so beautiful that I can't resist the temptation. You mustn't forget that<lb/>
+we have breakfast at 7 A. M. ! I am trying to get my laboratories in as good<lb/>
+shape as possible. When I return watch out or I'll be out cutting asparagus<lb/>
+at five in the morning!</p>
+<p>Camp Columbia<lb/>
+Quemados, Cuba<lb/>
+July 13, 1900</p>
+<p>I wrote to little daughter, on yesterday, her birthday. I thought<lb/>
+of you both a great deal and wondered how you were spending the day. I hope<lb/>
+very pleasantly. You observe, dear Miss Wind-beaten Farmer Lady, that I am not<lb/>
+writing at 5:30 A. M. but at 2:30 P. M. That very early rising did pretty<lb/>
+well for a week or so, but I found that it didn't enable me to accomplish any<lb/>
+more than by the old system of getting up at 6:45. I retire at 9:30. Break-<lb/>
+fast at 7:30 and get to the laboratory, distance about 75 yards, say at 8:15<lb/>
+A. M. Where I stay till 11:30 and then come home for lunch. Have I ever<lb/>
+described my quarters to you? I really can't remember that I have done so. I<lb/>
+have two rooms each 10 by 15 and a partition about 71&sol;2 feet high, so as to have<lb/>
+good circulation of air. My front room looks north to the sea. A large door,<lb/>
+and good size windows with glass sash and heavy wooden shutters. The rear<lb/>
+rooms have only wodden shutters. In my front room, I have a long wooden table,<lb/>
+stretching nearly across the room, which answers for my writing desk, and for<lb/>
+official papers. Here also sits my lamp. On the other side is a long shelf<lb/>
+on which I put my books. In the back I have a good hospital bed with mosquito<lb/>
+bar and a small wooden table for my wash stand, good shelves for my under-<lb/>
+clothes and a place for my clothes to hang. With a couple of comfortable<lb/>
+folding chairs, you thus see, that I am living quite like a bachel<del>l</del>or, and that<lb/>
+as my wants are few, I cannot complain of a lack of necessary comforts. Dr.<lb/>
+<pb n="9" id="f04934058"/>
+-9-<lb/>
+Carroll, Lazear, and I went in on the 7 P. M. train to Havana in order to pay<lb/>
+our respects to General Wood and came out on the 9 P. M. getting home in time<lb/>
+for my &ldquo;early to bed.&rdquo;</p>
+<p>Camp Columbia<lb/>
+Quemados, Cuba<lb/>
+July 19, 1900</p>
+<p>Yesterday, we had the pleasure of entertaining Drs. Durleam and<lb/>
+Myers, two English physicians, who have been sent out by the school of Tropical<lb/>
+Medicine to study yellow fever. They are going to Brazil, and came down to<lb/>
+Havana just to make our acquaintance, and to ascertain what, if anything we had<lb/>
+discovered. I enjoyed meeting them very much, as they were two of the most<lb/>
+typical Englishmen one could possibly meet. We have placed our laboratories<lb/>
+at their disposal during the ten days they will be in Havana. I send my sweet<lb/>
+Farmer lady a little sweetpea which grows in large numbers on the Parade. They<lb/>
+look very pretty in the early morning. I hope ours are doing well and giving<lb/>
+pretty bouquets for the center table. Now I wish that some of the nice rain<lb/>
+that is falling this afternoon, could be sprinkling down on your garden and<lb/>
+lawn. We have splendid showers nearly every afternoon and could spare lots of<lb/>
+moisture for the drier parts of the earth. Some of the storms which pass out at<lb/>
+sea, a few miles from the shore, are superbly grand: The play of lightning is<lb/>
+something wonderful to see. Last evening just before dinner we took a drive<lb/>
+over the new Military road to Vedado and were chased home by a storm coming<lb/>
+from sea-ward. This morning we will drive out to Havana in order to return the<lb/>
+call of our English conferers, who are stopping at La Florida Hotel. While there<lb/>
+I must go to the Chief quartermaster's office and find out when the next trans-<lb/>
+port will leave for New York. I have heard that one would leave on July 25th,<lb/>
+which would bring it here July 30th. If so I would probably sail the next day<lb/>
+and reach New York about August 4th. Wouldn't that be jolly? I hope it is so,<lb/>
+as I want to see my precious children so soon again.</p>
+<p><add>Durham? yes - but<lb/>
+(apparently Reed's recall was NOT a hurried affair PSH)<lb/>
+This is my impression too - apparently he asked for it <unclear>lw</unclear></add></p>
+<pb n="10" id="f04934059"/>
+<p>-10-</p>
+<p>Camp Columbia<lb/>
+July 30, 1900</p>
+<p>I packed my trunk this afternoon and took it to Havana in order to<lb/>
+have it and its contents thoroughly disinfected preparatory to boarding the<lb/>
+Transport Rawlines, on Wednesday. You never say anything like the care with<lb/>
+which every piece of wearing apparel is subjected to steam or Formalin, for<lb/>
+fear that yellow jack may be conveyed to the United States. Of course, it was<lb/>
+absurd to disinfect my baggage, but no exceptions are made. Wednesday morning<lb/>
+the contents of my valise will also be put in the big sterilizer. We will reach<lb/>
+New York, Monday 6th, and be held over in quarantine till Tuesday afternoon.<lb/>
+After visions of fried chicken and waffles, I simply had to turn into bed so as<lb/>
+to hurry Tuesday along as much as possible. Those pansies that my darling wife<lb/>
+sent me were very sweet and pretty, and I appreciate them so much. But I am<lb/>
+more anxious to see them with my own eyes as they grow at our dear country home.<lb/>
+Tomorrow or next day I will begin my homeward sea voyage, and I hope without<lb/>
+being very sea sick this time. Adios: He returned to Cuba early in October.<lb/>
+He writes from the Transport:</p>
+<p>Havana Harbor<lb/>
+Monday Afternoon,<lb/>
+5 P. M.</p>
+<p>We have just passed the El Morro, Cabanas and several other Spanish<lb/>
+fortifications and are now at anchor near the floating dry dock. The city of<lb/>
+Havana from the shore is certainly very beautiful, but as I write I see the<lb/>
+wreck of the Maine not more than 400 yards away, and it makes my very blood<lb/>
+boil. The whole Island wasn't worth the loss of those brave men and that<lb/>
+gallant ship. Our journey down was very pleasant, but your old husband couldn't<lb/>
+stand the motion of the ship. I ate quite a hearty dinner, but half an hour<lb/>
+later, that dinner was lost forever! Friday I passed a miserable day but better<lb/>
+Saturday and Sunday. Everybody aboard the ship was as kind as possible, but that<lb/>
+<add>? Rawlins<lb/>
+Insert see over<lb/>
+Should be Oct 3, 1900 PSH</add></p>
+<pb n="11" id="f04934060"/>
+<p><unclear>C<hi rend="subscript">1</hi><lb/>
+B<hi rend="subscript">3</hi></unclear></p>
+<p>Don't forget the fried chicken character &amp; hot waffles!&rdquo;</p>
+<p>Father returned the early part of August to<lb/>
+<unclear>Washington</unclear> so that he might complete a report with<lb/>
+Drs Vaughan &amp; Shakespeare <unclear>upon</unclear> &ldquo;Typhoid<lb/>
+fever in the Army&rdquo;. He returned to Cuba early in<lb/>
+October ---- etc</p>
+<pb n="12" id="f04934061"/>
+<p>-11-<lb/>
+couldn't remove that everlasting <hi rend="underline">goneness</hi>! I have made up my mind that I am<lb/>
+not a good sailor! The Harbor here is very pretty with the ships of the various<lb/>
+nations, at anchor, and the little Cuban sailboats gliding here and there. The<lb/>
+surrounding hills are very graceful and pretty. Coming in from the sea, the<lb/>
+shore line and interior was very striking with its fringe of green and blue<lb/>
+mountains; but again I see the wreck of the Maine. Certainly every American ship<lb/>
+that enters this Harbor, should sail around the wreck, dip its colors and fire<lb/>
+a salute! I never saw anything that so touched my inner nature, as the sight of<lb/>
+those bare ribs of iron and her foremast sticking out of the water. What a<lb/>
+monument our countrymen should place there! Well, we will go ashore <hi rend="underline">tomorrow</hi><lb/>
+and I will expect to see our dear boy. I am so anxious to see him again. The<lb/>
+boat that takes the mail is along side and I must close my letter.</p>
+<p>Columbia Barracks<lb/>
+Quemados, Cuba<lb/>
+October 6, 1900</p>
+<p>&ldquo;Now you mustn't have any fear about my being here <hi rend="underline">now</hi> any more than<lb/>
+you did in <hi rend="underline">June</hi>, for there is much less danger <hi rend="underline">now</hi>. <hi rend="underline">Then</hi> we had an epidemic<lb/>
+next door to us, <hi rend="underline">now</hi> it's no nearer than Havana, 6 miles away. Honestly,<lb/>
+lovie dear, could you ever have respected and loved me if I had proved myself to<lb/>
+be a moral coward? I don't believe when you come to consider the matter care-<lb/>
+fully, but that you will yet say that I did the right and proper thing.<lb/>
+Certainly my conscience would have never rested easily. Dr. Lazear contracted<lb/>
+the disease at the yellow fever hospital in Havana by letting an infected<lb/>
+mosquito bite him. He saw the insect on his hand and deliberately let it get its<lb/>
+fill of blood in order to test our theory. Five days later he had his chill,<lb/>
+followed by high fever. His case was a very severe one from the beginning, his<lb/>
+death occurring on the sixth day thereafter. He was a splendid brave fellow and<lb/>
+I lament his loss more than words can tell, but his death was not in vain. His<lb/>
+name will live in history of those who have benefited humanity. The dangerous<lb/>
+part of the work is now over and there is no need for you, my sweetheart, to<lb/>
+continue to worry about me.&rdquo;<lb/>
+<add>&rarr; this was Oct 4 1900<lb/>
+25 July 6&sol;19<unclear><hi rend="superscript">th</hi></unclear></add></p>
+<pb n="13" id="f04934062"/>
+<p>-12-</p>
+<p>In December, he writes of his first case of yellow fever.</p>
+<p>Columbia Barracks, Quemados, Cuba<lb/>
+December 9, 1900</p>
+<p>&ldquo;It is with a great deal of pleasure that I hasten to tell you that we<lb/>
+have succeeded in producing a case of unmistakable yellow fever by the bite of the<lb/>
+mosquito. Our first case in the experiment camp developed at 11:30 last night,<lb/>
+commencing with a sudden chill followed by fever. He had been bitten at 11:30<lb/>
+December 5th, and hence his attack followed just three and a half days after<lb/>
+the bite. As he had been in our camp 15 days before being inoculated and had<lb/>
+had no other possible exposure, the case is as clear as the sun at noon-day and<lb/>
+sustains brilliantly and conclusively our conclusions. Thus, just 18 days from<lb/>
+the time we began our experimental work, we have succeeded in demonstrating this<lb/>
+mode of propagation of the disease, so that the most doubtful and sceptical must<lb/>
+yield. Rejoice with me, sweetheart, as, aside from the antitoxin of diphtheria<lb/>
+and Koch's discovery of the tubercle bacillus, it will be regarded as the most<lb/>
+important piece of work, scientifically, during the 19th century. I do not<lb/>
+exaggerate, and I could shout for very joy that heaven has permitted me to<lb/>
+establish this wonderful way of propagating yellow fever. It was Finlay's theory,<lb/>
+and he deserves great credit for having suggested it, but as he did nothing to<lb/>
+prove it, it was rejected by all, including General Sternberg. Now we have put<lb/>
+it beyond cavil, and its importance to Cuba and the United States cannot be<lb/>
+estimated. Major Kean says that the discovery is worth more than the cost of<lb/>
+the Spanish War, including l<del>o</del><add>i</add>ves lost and money expended. He is almost beside<lb/>
+himself with joy and will tell General Wood when he goes to town in the morning.<lb/>
+Tomorrow afternoon we will have the Havana Board of Experts, Drs. Guiteras,<lb/>
+Albertini, and Finlay, come out and diagnose the case. I shan't tell them how<lb/>
+the infection was acquired until after they have satisfied themselves concerning<lb/>
+the character of the case, then I will let them know. I suppose that old Dr.<lb/>
+<pb n="14" id="f04934063"/>
+-13-<lb/>
+Finlay will be delighted beyond bounds, as he will see his theory at last fully<lb/>
+vindicated. 9:30 P. M. Since writing the above our patient has been doing well.<lb/>
+His temperature, which was 102.5 degrees at noon, has fallen to 101 degrees, and<lb/>
+his severe headache and backache have subsided considerably. Everything points,<lb/>
+as far as it can at this stage, to a favourable termination, for which I feel so<lb/>
+happy.&rdquo;</p>
+<p>Two days later he writes:</p>
+<p>December 11, 1900</p>
+<p>&ldquo;Our patient, concerning whom I wrote you in my last, is doing very<lb/>
+well. We had Dr. John Guiteras, Dr. Finlay, and Dr. Albertini out here to see<lb/>
+him yesterday afternoon. They were all immensely interested and Dr. Albertini<lb/>
+did not hesitate to say &ldquo;yellow fever.&rdquo; The others too regarded the case as one<lb/>
+of probable yellow fever, but desired to see how his temperature and pulse would<lb/>
+run during the next few dyas. Dr. Amador, an<del>d</del> expert in yellow fever, says the<lb/>
+disease is undoubtedly yellow fever. Of course, I can't blame anyone from with-<lb/>
+holding a diagnosis until they are satisfied, but from my standpoint it is very<lb/>
+amusing. The case is as plain as the nose on a man's face, but as Dr. -----<lb/>
+has pronounced in an interview our theory as being very &ldquo;wild and improbable,&rdquo;<lb/>
+of course he wants to be &ldquo;let down easy,&rdquo; for he must surrender. He will come<lb/>
+round in a few days. Dr. Gorgas also saw the patient and pronounced the case as<lb/>
+so suspicious that had it occurred in Havana he would not have hesitated to send<lb/>
+him to the yellow fever hospital. Ah! wonderful is nature, and I thank God<lb/>
+that he has allowed poor unworthy me to look a little way into this secret.<lb/>
+Six months ago, when we landed on this island, absolutely nothing was known<lb/>
+concerning the propagation and spread of yellow fever--it was all an unfathomable<lb/>
+mystery--but today the curtain has been drawn--its mode of propagation is<lb/>
+established and we know that a case minus mosquitoes is no more dangerous than<lb/>
+one of chills and fever! Hurrah! I will write to Dr.----- is a few days about<lb/>
+<add>who?<lb/>
+who</add><lb/>
+<pb n="15" id="f04934064"/>
+-14-<lb/>
+the case. Of course he will at once write an article to say that for 20 years<lb/>
+he has considered the mosquito as the most probable cause of yellow fever. That<lb/>
+would be just in order for him to do. Dr. ----- of the Marine Service has written<lb/>
+a very discourteous reply to our Preliminary Note in the same Journal that our<lb/>
+article appeared in. . . . Dr. Cobb, of the same service, has also written a<lb/>
+very courteous and interesting answer to our paper, in which he proves to his own<lb/>
+satisfaction that the mosquito can't possibly propagate the disease, and says<lb/>
+that it would be dreadful after all the years of disinfection that his service<lb/>
+has done if this theory should be what we have claimed for it. And so the ball<lb/>
+rolls on!&rdquo;</p>
+<p>Columbia Barracks<lb/>
+Quemados, Cuba<lb/>
+December 14, 1900</p>
+<p>&ldquo;I was kept so busy yesterday, I could not get an opportunity to write<lb/>
+to my precious invalid. In the first place the occurrence of a second case of<lb/>
+yellow fever in our camp within three and a half days of the bite of a mosquito,<lb/>
+made me of course very happy. This time one of the Spaniards was its victim.<lb/>
+This is his second day and I am glad to say that he is doing very well. Our<lb/>
+first case, the brave young soldier, we consider out of danger. Drs. Guiteras,<lb/>
+Finlay, and Albertini have pronounced both cases to be unmistakable yellow fever.<lb/>
+Of course they could not do otherwise, as the symptoms and cause of the disease<lb/>
+are absolutely characteristic. Tonight a third case promises to develop, as<lb/>
+his temperature is 104 4&sol;5 degrees already. He began to complain on yesterday,<lb/>
+his fifth day, just as X. Y. did, and I feel certain that his symptoms will be<lb/>
+better developed tomorrow. As we have only bitten five individuals so far and<lb/>
+it is too early to speak of one of them yet, me thinks we are doing pretty well<lb/>
+for this season of the year. So far our men in the infected clothing building<lb/>
+are well and hearty, and as they have spent fourteen nights, therein, we feel<lb/>
+encouraged accordingly. To say that Dr. Guiteras and other physicians are<lb/>
+profoundly impressed is to express the situation very mildly. You can imagine,<lb/>
+<add>who? <unclear>Wasdin</unclear>, probably</add>
+<pb n="16" id="f04934065"/>
+-15-<lb/>
+my sweetheart, how happy I feel over this absolute demonstration of our con-<lb/>
+clusions. Nothing could be more satisfactory and the results have been obtained<lb/>
+sooner than we had hoped for. I shall now write to General Sternberg, and tell<lb/>
+him of the good news as I know, he too, will be greatly delighted. You might<lb/>
+just mention to anyone that we feel very much encouraged! Today has been 83 degrees<lb/>
+in the shade, can you beat that for December.</p>
+<p>Camp Columbia, Cuba<lb/>
+December 16, 1900</p>
+<p>Here I sit writing with the thermometer at 75 degrees at 9 P. M. I<lb/>
+couldn't possibly find time to write yesterday. The day was so busily occupied<lb/>
+with the affairs of our experimental station that I was kept on the jump all day long.<lb/>
+I had to smile at the advice that my darling wife was giving me about not trying<lb/>
+to experiment now, but to postpone until next summer, &ldquo;when the mosquitoes have<lb/>
+more vigor.&rdquo; When I read that, our fourth man's eyes were getting redder and his<lb/>
+temperature higher, and as far as I was able to judge, the insect appeared to be<lb/>
+getting in his work very well! What do you think of that for winter experimentation?<lb/>
+Four out of five inoculated coming down promptly? Oh! my! but the last week has<lb/>
+been an eventful one for your old husband! And what is perfectly delightful, the<lb/>
+first three may be considered out of danger, while the fourth only sick 24 hours<lb/>
+is doing as well as could be expected at this stage of the disease. This morning,<lb/>
+we again had the experts out from Havana, and it was very amusing to see our three<lb/>
+Spaniards all in a row as it were, occupying their three beds, and looking (at<lb/>
+least two of them) quite contented over the near prospect of $200.00 in good<lb/>
+American gold. Our experiments have opened the eyes of all around. I sent a cable<lb/>
+to General Sternburg, yesterday, and another today. I should not be surprised if<lb/>
+he fell out of his chair! I wonder if the good news has made my precious wife<lb/>
+better! I am so anxious to hear. My that last letter was as blue as indigo! How<lb/>
+could I talk or arrange about coming home, my darling, when I had my hands so<lb/>
+<pb n="17" id="f04934066"/>
+-16-<lb/>
+very full of most important work? Indeed, I don't want to come here next summer,<lb/>
+if I can possibly get out of it. I had much rather finish now and have done with<lb/>
+it. As the matter stands now, I don't see how I can possibly finish my present<lb/>
+work till the last of next month, and then comes the Pan American Medical Congress<lb/>
+which meets February 5th. We should certainly present a short report to the<lb/>
+Congress, as it would be of the highest importance to do so. Several hundred<lb/>
+physicians from South American, Mexico, and many prominent men from the United<lb/>
+States will be here, and I am sure that we should not lose the opportunity of<lb/>
+bringing to their prompt attention these most important observations on yellow<lb/>
+fever. The paper will attract more attention than any other that will be presented.<lb/>
+I say this in all modesty. It's even more important to have ascertained how this<lb/>
+disease is propogated than to find the parasite that causes it. Our observations<lb/>
+completely revolutionize the opinions heretofore held on the subject, and must<lb/>
+be of the greatest benefit to the United States and to this Island. Americans<lb/>
+will no longer dread to come here, now that they will know how to avoid the<lb/>
+infection. It makes me very unhappy to know that my sweet wife is so wretched mentally<lb/>
+and physically. If I could leave tomorrow, I would gladly do so, but common sense<lb/>
+and my judgment tell me not to do so. Monday morning--17th. Dr. Ames has just<lb/>
+reported that our fourth case is doing splendidly, temperature has fallen to 99 3&sol;5<lb/>
+degrees. Isn't that glorious? Four cases and no deaths, but my sweet wife said<lb/>
+that they would all die, and that the country would turn against me and that I<lb/>
+would be everlastingly disgraced! &ldquo;Go long,&rdquo; my darling, and stop trying to make<lb/>
+your old husband come home! I am going to see General Wood this morning with<lb/>
+Major Kean, in order to tell him concerning our success. Some how, or other, I<lb/>
+feel very happy this morning and wish that you and little daughter were here.&rdquo;</p>
+<p>After father's very affectionate endings to all of his letters, he never<lb/>
+failed in one of them to send a kiss to my much adored cat.</p>
+<pb n="18" id="f04934067"/>
+<p>-17-</p>
+<p>Columbia Barracks<lb/>
+Quemados, Cuba<lb/>
+December 18, 1900</p>
+<p>&ldquo;I got two long and very sweet letters from my darling &ldquo;Miss Invalid,&rdquo;<lb/>
+yesterday, and read them as I rode out to the experimental station, and how I laughed<lb/>
+over them! Not exactly over the one of the twelfth of December--for that letter<lb/>
+was a sort of doleful contribution to epistolary composition, but over the second<lb/>
+one of the 13th, which was written after you had read of our success with &ldquo;los<lb/>
+mosquitos,&rdquo; and which was a very, very sweet letter indeed. If my sweet wife and<lb/>
+my precious daughter are proud of me, then I don't care much what the rest of the<lb/>
+world thinks. You would have been delighted, indeed, had you been here, this<lb/>
+afternoon when we had sixteen of Havana's chief physicians out to see and examine<lb/>
+our yellow fever cases. It was to me extremely interesting to see how cauticus they<lb/>
+were, at first, for some of them came, evidently already much prejudiced; but as<lb/>
+the examination went on, they were compelled to admit, and did after awhile admit<lb/>
+that the cases were none other than genuine yellow fever. Just one of the sixteen<lb/>
+thought that perhaps our mildest case was doubtful, but the other fifteen<lb/>
+acknowledged that the four cases were cases of yellow fever. Our last case, which<lb/>
+was taken sick December 15th was just entering his fourth day, and was so plain that<lb/>
+it could not be disputed. It was indeed a great victory for us. As they left the<lb/>
+ward and indeed while there, you never heard such talking! La <unclear>lingua</unclear> es-panola<lb/>
+had free vent for once! Our last case is quite sick, but I think he will pull<lb/>
+through alright. Now that the mental strain of the past few weeks, is over, I<lb/>
+feel splendidly and &ldquo;sleep like a top!&rdquo; I am now taking it very slowly and<lb/>
+enjoying every day. The recovery of my purposely made sick patients has naturally<lb/>
+made me feel happy and more thankful than I can express. Just to think that<lb/>
+Christmas is almost here. How the time fairly flies! December will be gone<lb/>
+before we know it. From the bottom of my heart father wishes his darling wife<lb/>
+and daughter a merry, merry Christmas and a happy, happy New Year.&rdquo;</p>
+<pb n="19" id="f04934068"/>
+<p>-18-</p>
+<p>Columbia Barracks<lb/>
+December 23, 1900</p>
+<p>&ldquo;Yesterday I received your darling letter and was so delighted to hear<lb/>
+that you are &ldquo;feeling well again.&rdquo; Last evening I attended quite a swell banquet<lb/>
+in Havana given to Dr. Finlay by some seventy or eighty physicians of Havana.<lb/>
+It was a very recherche affair and extremely enjoyable. Everything was in Spanish.<lb/>
+The Governor General was there. The toasts were all in Spanish and the speeches,<lb/>
+while flattering to Dr. Finlay, for his conception of the theory, gave us full<lb/>
+credit for the discovery. It is to me surprising and extremely satisfactory<lb/>
+to see how very quickly the profession of Havana have accepted our results. I<lb/>
+have seen in the Washington Post, General Sternberg's statement about the cablegram<lb/>
+from me. I suppose that the Post will now have another silly editorial on the<lb/>
+subject. I have allowed the men who have spent twenty nights in our infected<lb/>
+clothing house to come out, and they are now in quarantine. Two other soldiers<lb/>
+are now occupying the house and sleeping not only in the same beds and between the<lb/>
+same sheets on which our yellow fever patients have rested during their attacks, but<lb/>
+they sleep in the <hi rend="underline">very shirts</hi> that our patients wore throughout their entire sickeness!<lb/>
+If anything should give them the disease, this should succeed! Don't you think so?<lb/>
+Infected clothing and bedding has been a horrible nightmare during these past three<lb/>
+hundred years, but me thinks it will die out very early in the next century!<lb/>
+Yellow fever can no more be transmitted in that way than can Intermittent fever! How<lb/>
+General Sternberg and hosts of others could have believed in the contagiousness of<lb/>
+clothing, I cannot possibly see. They are simply accepting the statements of others<lb/>
+who had nothing on which to base such statements. A little careful testing of this<lb/>
+theory has served to knock it completely into smithereens. I thank God that I did<lb/>
+not accept anybody's opinion on this subject, but determined to put it to a<lb/>
+thorough test with human beings in order to see what would happen. My own observations<lb/>
+<pb n="20" id="f04934069"/>
+-19-<lb/>
+at Pinar del Rio convinced me that infected bedding was indeed a myth. Actual<lb/>
+trial has proven that I was right and that what the medical profession believed<lb/>
+was wrong! So you have dared to send me a fruit cake, how sweet of my dearest<lb/>
+wife to think of her Mr. Mosquito! I shall be glad when Christmas has come and<lb/>
+gone and New Year has come, for then only a few weeks will elapse before I can turn<lb/>
+my face homeward to my precious girls, whom I want to see more than words can<lb/>
+tell.&rdquo;</p>
+<p>Columbia Barracks, Cuba<lb/>
+December 26,</p>
+<p>&ldquo;And now I must tell you something about my latest experiment and how<lb/>
+it is turning out. You already know that I have constructed two houses. Each 14<lb/>
+by 20 feet. Both tightly sealed inside, and so screened both as to windows and by<lb/>
+double doors that no flying insect can get either in, if he comes from the outside;<lb/>
+or out, if he or she is once put within. Building number one has only one large<lb/>
+room. In this my nonimmune individuals sleep every evening and by day rest in a<lb/>
+tent nearby and take things calmly. Dr. Cooke and two hospital Corps men have just<lb/>
+come out of quarantine. After spending twenty nights in Building number one in the<lb/>
+midst of very much soiled yellow fever bedding. Two other young Americans are<lb/>
+now sleeping there in beds and clothing that our yellow fever cases have just<lb/>
+vacated. So much for building number one. Building number two stands across a<lb/>
+little valley or depression about eighty yards from number one. The room 14 by<lb/>
+20 feet is not only sealed but is lined throughout with cheese cloth, so as to be<lb/>
+very tight. It has two fixed fine wire screen windows and is protected by double<lb/>
+wire screen doors so that when one enters, he first opens a solid door, and then<lb/>
+finds himself in a small vestibule. Next he opens a wire screen door swung on spring<lb/>
+hinges and finds himself in a second vestibule. Having closed this door behind him,<lb/>
+he now opens a second screendoor and finds himself in the room proper. This room<lb/>
+is divided entirely across from floor to ceiling and from wall to wall by a wire screen,<lb/>
+<add>Should n't this be Dec 25-</add><lb/>
+<pb n="21" id="f04934070"/>
+-20-<lb/>
+so that there is a larger room 15 by 14 the &ldquo;mosquito&rdquo; or &ldquo;infected&rdquo; room, as<lb/>
+I call it and a smaller room 10 by 14 the non-infected room. This latter is entered<lb/>
+by an entirely separate door, whereas the &ldquo;infected&rdquo; room can only be entered through<lb/>
+the screen doors before mentioned. On the 21st at 11:35 A. M., we liberated 15<lb/>
+infected mosquitoes in the large room, and at 11:55 A. M., a young American entered<lb/>
+the room and lay on the bed marked &ldquo;A&rdquo; for thirty minutes during which time several<lb/>
+mosquitoes bit him. I stood with Dr. Carroll and Dr. Ames on the other side of<lb/>
+the screen at the place marked &ldquo;B&rdquo; and saw the insect light and begin work within<lb/>
+five minutes from the time he entered. The same afternoon at 4:15 o'clock, he again<lb/>
+went in and was again bitten, remained twenty minutes. Bed marked &ldquo;B&rdquo; is being<lb/>
+occupied by a non-immune who sleeps within one foot of the screen, breathing the<lb/>
+same air as in room with bed &ldquo;A&rdquo; (infected room). This young non-immune is quite<lb/>
+well, but the young fellow who went in on the 21st was suddenly <hi>stricken today</hi> at<lb/>
+noon, (just <hi>four days</hi> after he entered and was bitten) with a sharp attack of what<lb/>
+promises to be yellow fever! The board of experts will see him tomorrow and make<lb/>
+their diagnosis. His temperature, this evening, is 104 degrees and all his<lb/>
+symptoms point plainly to yellow fever. Could any experiment be more striking?<lb/>
+A common room, divided by a wire screen, and having the same air, infected on one<lb/>
+side and not infected on the other side of the screen <unclear>!!</unclear> This, my darling, is what<lb/>
+I call the &ldquo;argumentum ad hominem.&rdquo; Don't worry about the mosquitoes getting out<lb/>
+for they are tightly locked and the key is in my pocket. About three days from<lb/>
+now, I shall let a young Spaniard go in, and then no more. Non-immunes will<lb/>
+continue to sleep on the other side every night! Don't tell this to anyone. I<lb/>
+have not told anybody but your darling self. It won't be long before the year<lb/>
+1900 will have passed. I can't say that I will be real sorry to have it go, since<lb/>
+it has kept me away from my precious girls. I do hope I can be with you more in<lb/>
+1901. I went to the Starke's to see the Christmas tree which Mrs. Stark<del>e</del> and Mrs.<lb/>
+Kean had prepared for the children. In addition to presents for the children, there<lb/>
+was a present for Dr. Kean, Dr. Stark<del>e</del>, Captain Slocum, Major Dunn, Dr. Allen, and<lb/>
+myself. What do you suppose mine was? A big mosquito with these lines attached:<lb/>
+<add>25<hi rend="superscript">th</hi>?<lb/>
+or 26<hi rend="superscript">th</hi><lb/>
+25 according<lb/>
+to Moran</add></p>
+<pb n="22" id="f04934071"/>
+<p>-21-</p>
+<p>&ldquo;Over the plains of Cuba,<lb/>
+Roams the mosquito wild<lb/>
+No one can catch or tame her,<lb/>
+For she is nature's child.<lb/>
+With yellow jack she fills herself,<lb/>
+And none her pleasure mar,<lb/>
+Till Major Reed does capture her,<lb/>
+And puts her in a jar!<lb/>
+And now alas! for Culex<lb/>
+She has our sympathy,<lb/>
+For since the Major spotted her,<lb/>
+She longs to be a flea!&rdquo;</p>
+<pb n="23" id="f04934072"/>
+<p>-22-</p>
+<p>The reading of these lines by Mrs. Slocum &ldquo;brought down the house,&rdquo; and<lb/>
+I had to accept Miss Culex with many blushes.&rdquo;</p>
+<p>Columbia Barracks,<lb/>
+December 28, 1900</p>
+<p>&ldquo;If these holiday gayeties don't come to a cessation pretty soon, I for<lb/>
+one will be completely used up! Last night we all went down to attend the Governor<lb/>
+General's ball and didn't get home until one o'clock this morning. I wish that you<lb/>
+could have been at the palace last night to have seen the style and dress of the<lb/>
+Cuban ladies. They really looked very pretty and were dressed quite ele<del>v</del><add>g</add>antly.<lb/>
+There must have been a thousand people there, making altogether a very brilliant<lb/>
+scene. Music for dancing was furnished by a military band stationed in the park<lb/>
+outside. I enjoyed watching the people as they passed in and out and especially the<lb/>
+dancing of the Cubans. I met a good many people that I knew. Today, the morning<lb/>
+was taken up with a visit from half a dozen doctors who wished to see our last<lb/>
+case of yellow fever and to visit our camp. Am glad to say our patient is doing<lb/>
+very well and promises to make a good recovery. I shall now begin on our paper for<lb/>
+the Pan American Congress as I want plenty of time in which to write it. I don't<lb/>
+know how I shall feel when I stand before an audience of several hundred foreigners,<lb/>
+but guess that I can manage to hold my own. About one thousand are expected, but<lb/>
+I don't think that so many will come. The days will soon pass by. Now that will<lb/>
+bring me to you and little daughter.</p>
+<p>December 31, 1900</p>
+<p>&ldquo;There goes the nine o'clock gun, fired from Morro Castle. We hear<lb/>
+it here very plainly on a quiet night as this is not only a quiet night, but it is<lb/>
+a most beautiful moon-lit night, just such a one as we might have at our dear little<lb/>
+mountain home in June, with the thermometer standing in my room at 77 degrees! It<lb/>
+is impossible to think of such a balmy warm night as being the 31st of December!<lb/>
+What a country for a heavenly climate this is! But I, also, hear the buglers<lb/>
+<pb n="24" id="f04934073"/>
+-23-<lb/>
+blowing tattoo, and I must check for a while this letter. Heaven be with you my<lb/>
+precious girls, and with my dear boy, while the moon creeps on through the night!<lb/>
+God keep them all well and give them happiness through the New Year! 11:50 P.M.,<lb/>
+December 31, 1900. Only ten minutes of the old century remains, lovie dear. Here<lb/>
+I have been sitting reading that most wonderful book, La Roche on yellow fever,<lb/>
+written in 1853. Forty seven years later it has been permitted to me and my<lb/>
+assistants to lift the impenetrable veil that has surrounded the causation of this<lb/>
+most dreadful pest of humanity, and to put it on a rational and scientific basis.<lb/>
+I thank God that this has been accomplished during the latter days of the old<lb/>
+century! The prayer that has been mine for twenty or more years, that I might be<lb/>
+permitted in some way or sometime to do something to alleviate human suffering<lb/>
+has been answered. 12 o'clock, Midnight: A thousand happy New Years to my<lb/>
+&check; precious, <hi rend="underline">thrice precious</hi> wife and daughter. Hark: there go the twenty four buglers<lb/>
+all in concert. Sounding &ldquo;Taps&rdquo; for the old year! How beautifully it floats through<lb/>
+the midnight air, and how appropriate. Good night my sweet joys, a thousand sweet<lb/>
+dreams of father and dear brother! Kisses and love and love and kisses for my<lb/>
+&check; precious, <hi rend="underline">thrice precious</hi> girls in these first minutes of the 20th century!&rdquo;</p>
+<p>I regret that a number of letters written during January 1901 have been<lb/>
+given away and father's last letter from Cuba is dated February 5, 1901:</p>
+<p>Columbia Barracks<lb/>
+Quemados, Cuba<lb/>
+February 5, 1901</p>
+<p>&ldquo;So you have really marked January off of your list! Well, so did I,<lb/>
+sweetheart, and it makes me very happy to think that if all goes well and the ship<lb/>
+isn't delayed by storms, I ought to be drawing very near to Washington by this<lb/>
+time next week. My state room is all engaged and I have nothing to do but pack<lb/>
+my trunk and say goodby to a few kind people and I am off for wife and baby bunting.<lb/>
+<add>sic</add><lb/>
+<pb n="25" id="f04934074"/>
+-24-<lb/>
+Today the paper was read and met with a most favorable reception. The attention<lb/>
+during the reading was all I could have asked for and applause at its conclusion,<lb/>
+long and hearty. A resolution expressive of the high appreciation in which our<lb/>
+work was held, together with the thanks, was unanimously adopted. I received<lb/>
+dozens of the warmest kind of hand shakes from Cuban, Spanish, Mexican, South<lb/>
+American and North American Physicians, men whom I had not even met. The hall was<lb/>
+crowded and even the doors packed with listeners. It was indeed a signal triumph<lb/>
+for our work. But, sweetheart, I don't care for that, and I'm not going to forget<lb/>
+&ldquo;when the boat sails,&rdquo; for I care more for what my sweet wife and daughter think<lb/>
+and say, than for the applause of all the rest of the world! This will probably<lb/>
+be the last letter before I leave this sunny island, and I'll get home almost as<lb/>
+soon as this does. Take care of your darling selves, and meet me with a smile.&rdquo;</p>
+<p>After his return to Washington, he devoted the greater part of his time<lb/>
+in teaching as professor of bacteriology and clinical microscopy at the Army<lb/>
+Medical School and professor of bacteriology and pathology at the Columbian Univer-<lb/>
+sity. In the summer of 1902, Harvard University bestowed on him the honorary degree<lb/>
+of <add>A. M.</add> M.A., and from the University of Michigan the degree of L.L.D. After an acute<lb/>
+attack of appendicitis, he died on November 23, 1902. In Arlington, overlooking<lb/>
+the Potomao River is his grave. On his tomb is a bronze tablet bearing the in-<lb/>
+scription that was selected by the Surgeon General and his staff!</p>
+<p>Walter Reed, M. D. of the University of Virginia.</p>
+<p>A. M. of Harvard University,<lb/>
+LL. D. of the University of Michigan,<lb/>
+Professor of Bacteriology, Army Medical School<lb/>
+and<lb/>
+Columbian University, Washington, D. C.</p>
+<p>&ldquo;He gave to man control over that dreadful scourge, Yellow Fever.&rdquo;</p>
+</div1>
+</body>
+</text>
+</TEI.2>

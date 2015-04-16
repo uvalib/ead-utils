@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="t02033001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Report from Alexander N. Stark to the Surgeon General, June 15, 1900</title>
+<title type="gmd">[electronic resource]</title>
+<author>Stark, Alexander N.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>02033001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1900-06-15</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="receipient">Surgeon General</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health">YES</term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito"></term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine"></term>
+<term type="Yellow_Fever">YES</term>
+<term type="Photograph"></term>
+<name type="person">Sherwood, Charles E.</name>
+<name type="person">Balentine, James W.</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">King, Mrs. Henry S.</name>
+<name type="person">Teeter, E. A.</name>
+<name type="person">Edmunds, Major</name>
+<name type="person">Ames, Roger Post</name>
+<name type="person">Reilly, [s.n.]</name>
+<name type="person">Schenck, [s.n.]</name>
+<name type="person">Walker, [s.n.]</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">McNeer, [s.n.]</name>
+<name type="person">Fanning, [s.n.]</name>
+<name type="person">Colbey, [s.n.]</name>
+<name type="person">Obrien, Anne E.</name>
+<name type="person">Girault, Phoebe</name>
+<name type="person">Ledlie, Kate S. M.</name>
+<name type="person">Gillen, Ella M.</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="hospital">Post Hospital (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>7 pp.</extent>
+<date value="1900-06-15">June 15, 1900</date>
+<idno rend="suppress">02033001</idno>
+<title>Report from Alexander N. Stark to the Surgeon General, June 15, 1900</title>
+</bibl>
+</head>
+<p>Stark gives a detailed report on the outbreak of yellow fever in Quemados, Cuba and Columbia Barracks, Cuba. Stark claims that Mrs. Henry S. King is the first case of yellow fever. A Medical Board with Ames, Lazear, and three Cubans is created to investigate the outbreak. Stark highly commends the doctors and staff at Post Hospital. [Courtesy of the National Archives and Records Administration]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1900-06-15">
+<head>Report from Alexander N. Stark to the Surgeon General, June 15, 1900</head>
+<pb n="1" id="f02033001"/>
+<opener>
+Starks first report on the Quemados<lb/>
+epidemic - summer 1900 June 15, 1900<lb/>
+(see Howard's report of June 18<lb/>
+<dateline>
+POST HOSPITAL COLUMBIA BARRACKS<lb/>
+<date value="1900-06-15">June 15th, 1900.</date>
+</dateline><lb/>
+TO THE<lb/>
+SURGEON GENERAL, U.S. ARMY,<lb/>
+WASHINGTON, D.C.<lb/>
+<salute>SIR:-</salute>
+</opener>
+<p>I have the honor to submit the following special report upon<lb/>
+an outbreak of yellow fever in the town of Quemados, Cuba, and Columbia<lb/>
+Barracks.</p>
+<p>On Monday, May 21st, 1900, two local physicians of Quemados reported<lb/>
+to the Chief Surgeon of the Department that they were in attendance<lb/>
+upon a suspicious case of fever at number 20 General Lee St., the pa-<lb/>
+tient being a packer in the 7th Cavalry corral at Columbia Barracks.<lb/>
+By Tuesday night it was definitely decided that the case was genuine<lb/>
+yellow fever. On Wednesday morning, May 23rd, the patient and his wife<lb/>
+were removed to the infectious wards at Columbia Barracks.</p>
+<p>In addition to the two removed, the house was occupied by a Sig-<lb/>
+nal Sergeant, his wife and little daughter, an American dentist, several<lb/>
+young clerks, and the lessee of the house, also an American, all of whom<lb/>
+were promptly placed in quarantine.</p>
+<p>On Wednesday, May the 23rd, Sergeant Sherwood developed suspicious<lb/>
+symptoms. On Thursday, May 24th, he was removed to the infectious wards<lb/>
+at Columbia Barracks. The dentist and other occupants of the house <unclear><add>save Mrs. Sherwood &amp; daughter</add></unclear>, were<lb/>
+removed to other quarters for observation, their effects being retained.</p>
+<p>On the evening of May 24th, Private Balentine, Co. &ldquo;D&rdquo; 8th Infantry,<lb/>
+was admitted to the receiving ward at Post Hospital with very suspicious<lb/>
+symptoms, and on the morning of the 26th of May, the diagnosis of yellow<lb/>
+fever being definitely settled<add>,</add> he was removed to the infectious wards.<lb/>
+<pb n="2" id="f02033002"/>
+Page.2.<lb/>
+In the interim the quarters of Co. &ldquo;D&rdquo; 8th Infantry were carefully dis-<lb/>
+infected.</p>
+<p>On May 27th, the little daughter of Sergeant Sherwood had an attack<lb/>
+of indigestion from the ingestion of a large quantity of guava paste,<lb/>
+but the trouble not yeilding promptly to treatment and other symptoms<lb/>
+of extremely suspicious nature arising, on the morning of may 31st, she<lb/>
+was removed to the infectious wards accompanied by her mother who on<lb/>
+that day showed a slight elevation of temperature. Sergeant Sherwood<lb/>
+died on the same day, May 31st. The autopsy was performed by A.A. Surgeon<lb/>
+Lazear, U.S.A., and the diagnosis of yellow fever was confirmed. Mrs.<lb/>
+Sherwood developed the characteristic symptoms of the disease on June<lb/>
+3rd, 1900. A careful examination into the probable origin of the infec-<lb/>
+tion established the fact that the house number 20 General Lee St. was<lb/>
+the focus beyond doubt.</p>
+<p>Mrs. King, the wife of the packer, acknowledged on close questioning<lb/>
+that she had been sick for several days prior to her husband's seizure,<lb/>
+had bled profusely from the gums, and though she felt exhausted attribu-<lb/>
+ted her <del><unclear>s</unclear></del><add>w</add>eakness and loss of blood to carious teeth, and therefore did<lb/>
+not deem the services of a physician necessary. She is beyond doubt the<lb/>
+first case of yellow fever in the present outbreak. The Kings lead a<lb/>
+blameless existence, did not visit the city of Havana, nor had these pa-<lb/>
+tients <add>purchased</add> any clothing or bedding <del>purchased</del> in any Cuban town. They arrived<lb/>
+on April 1st, having just left the town of Santa Clara where an outbreak<lb/>
+of yellow fever among those soldiers who had married native women began<lb/>
+on May 10th. In addition to their clothes, the Kings brought with them<lb/>
+from Santa Clara two bed quilts.</p>
+<pb n="3" id="f02033003"/>
+<p>Page.3.</p>
+<p>While it is thought by some that the effects of the Kings were<lb/>
+responsible for the introduction of yellow fever I cannot entertain that<lb/>
+view, beleiving as I do that the infection was latent in the house, re-<lb/>
+quiring only suitable conditions for its development, which conditions<lb/>
+were provided by the incessant rain of nineteendays duration previous<lb/>
+to the first case of sickness. While the house and its cess-pools were<lb/>
+in excellent condition (sanitary), and while the same may be said of<lb/>
+some of the other <add>r</add>esidences in which infection occurred, it is well to<lb/>
+remember that the sub-soil of Cuban towns has through several genera-<lb/>
+tions become honey-combed with cess-pools that having served their time<lb/>
+of usefulness have been closed and their location forgotten. In addi-<lb/>
+tion to this, I hold it impossible to thoroughly disinfect any house here<lb/>
+in which infection has probably occurred frequently in the past, the<lb/>
+disease being denominated<unclear>,</unclear> infection fever or el borras, if the infection<lb/>
+were in the first instance a child or in the second an adult Cuban, when<lb/>
+in fact both these diseases are yellow fever pure and simple, and when<lb/>
+the house is constructed of heavy mason<unclear><del>a</del></unclear>ry with tiled floors.</p>
+<p>Sergeant Sherwood was employed at the Cable Office in Havana be-<lb/>
+tween the hours of 8 A.M. and 4 P.M., and his habits were ex<del>a</del><add>e</add>mplary. The<lb/>
+other occupants of the house had not been exposed to any infection, nor<lb/>
+have they been sick up to the present time.</p>
+<p>The house is situated near the corner of Real and General Lee Sts.<add>,</add><lb/>
+and is at the summit of a slight hill, General Lee St. terminating with a<lb/>
+gentle fall at the Marianao railroad track which forms the boundary be-<lb/>
+tween town and reservation.</p>
+<p>Careful interrogation and investigation has failed to discover the<lb/>
+source of Private Balentine's infection, and this case must remain one<lb/>
+of those whose origin is merged in obscurity.</p>
+<pb n="4" id="f02033004"/>
+<p>Page 4.</p>
+<p>On May 31st, a teamster employed by the Chief Quartermaster and<lb/>
+living at a corral in the rear of Department Headquarters was admitted<lb/>
+to the receiving ward suffering with general pain and fever, presumably<lb/>
+due to a slight orchitis following a recent attack of mumps, but the dis-<lb/>
+covery of albumen and bile stained casts in his urine, together with de-<lb/>
+pressed pulse and congested conjunctivae, warranted his removal to the<lb/>
+infectious wards with the diagnosis of yellow fever, which diagnosis was<lb/>
+subsequently confirmed. This teamster had been in Quemados but a month<lb/>
+and lived in a well cared for camp, though his duties compelled his pre-<lb/>
+sence at all manner of localities. Interrogation has failed to assign<lb/>
+any cause for this teamster's infection beyond the fact that he worked<lb/>
+for several days at the dumping ground of the town. The veracity of in-<lb/>
+dividuals of this man's class cannot always be depended upon, and it is<lb/>
+presumed that with his fellows he was in the habit of visiting ques-<lb/>
+tionable resorts in pursuit of recreation.</p>
+<p>On June 3rd, Private Teeter, orderly for the Chief Surgeon and liv-<lb/>
+ing at 102 Real St., in close proximity to number 20 General Lee St.<add>,</add> was<lb/>
+admitted to the receiving ward with suspicious symptoms, and on June 4th<lb/>
+was removed to the infectious wards with the diagnosis of yellow fever,<lb/>
+which diagnosis was subsequently confirmed. The focus of infection in<lb/>
+this case is presumably the house. This house was occupied by Sergeant<lb/>
+Reilly and wife, several young men employed in the Post Quartermaster's<lb/>
+office, and Private Teeter. The remaining occupants, save Sergeant<lb/>
+Reilly and wife, were removed on June 5th into tents with only the cloth-<lb/>
+es they wore, the rest being retained for disinfection. On the same day<lb/>
+Sergeant Reilly complained of severe head-ache and pains in his back,<lb/>
+and on June 6th he and his wife were removed to the infectious wards,<lb/>
+he with yellow fever, and she for observation.</p>
+<pb n="5" id="f02033005"/>
+<p>Page 5</p>
+<p>On Friday, June 8th, two young Hebrews owning a talior shop on Gene-<lb/>
+ral Lee St. directly opposite number 20, the first focus, were taken to<lb/>
+the Municipal Hospital with yellow fever, one dying the following day<lb/>
+and the other on Monday June the 11th, both having been ill three days<lb/>
+prior to their appeal for medical assistance at the Post Hospital where<lb/>
+the disease was recognized.</p>
+<p>On June 8th, Mr. Schenck, Quartermaster employe<unclear><del>d</del></unclear>, one of the occupants<lb/>
+of number 102 Real St., was taken ill, displaying suspicious symptoms<lb/>
+which speedily developed into yellow fever.</p>
+<p>On June 9th, teamster Hoagland, an employe in the Post corral and<lb/>
+living in the corral, was admitted to the receiving ward with suspicious<lb/>
+symptoms, and on June 10th was removed to the infectious wards with<lb/>
+yellow fever. This man had been in <add>the</add> habit of frequenting houses of pros-<lb/>
+titution and undoubtedly contracted the disease in one of them.</p>
+<p>Corporal Walker, Troop &ldquo;H&rdquo; 7th Cavalry, living in barracks<unclear>,</unclear> was admit-<lb/>
+ted to the receiving ward on the evening of June 10th with temperature,<lb/>
+and on <unclear><del>as</del></unclear> June 12th <add>was</add> removed to the infectious wards with yellow fever.<lb/>
+Interrogation disclosed the fact that this man had a native mistress<lb/>
+living on Real St., directly across the street from number 20 General Lee<lb/>
+St., and was in the habit of visiting her after roll-call at night.</p>
+<p>On Sunday, June 10th, a Hebrew tailor owning a shop opposite No.<lb/>
+&ldquo;20 General Lee St was admitted to the Municipal Hospital with yellow<lb/>
+fever, the house being the focus of infection.</p>
+<p>On the evening of June 11th, Major Edmunds, 1st. Infantry, living at<lb/>
+at number 27 General Lee St., was taken sick, and on Wednesday morning the<lb/>
+diagnosis of yellow fever was made. On Wednesday night Mrs. Edmunds was<lb/>
+taken sick, and on Thursday her case was diagnosed as yellow fever, the<lb/>
+diagnosis in both cases being subsequently confirmed. Again the house<lb/>
+<pb n="6" id="f02033006"/>
+Page 6.<lb/>
+was a focus of infection.</p>
+<p>On Wednesday, June 13th, an aged lady of American birth living at<lb/>
+number 16 General Lee St., directly opposite the residence of Major Ed-<lb/>
+munds, was taken sick, and on Thursday the diease was pronounced yellow<lb/>
+fever. Three months prior to the illness of this lady a young Cuban girl<lb/>
+whose family occupied this house died suddenly after an illness of a few<lb/>
+days, the di<add>s</add>ease being promuonced by the local physicians &lsquo;perniciosa&rsquo;.<lb/>
+This aged lady had been in the house but 10 days before her illness,<lb/>
+having come from New York for the purpose of visiting her Cuban grand-<lb/>
+children.</p>
+<p>On Friday, June 15th, an Austrian, proprietor of a small restaurant<lb/>
+on General Lee St. four doors from the railroad, was removed to the Muni-<lb/>
+cipal Hospital with yellow fever, having been ill four days before the<lb/>
+fact was discovered. The house in this instance was constructed of wood<lb/>
+and the back-yard was filthy.</p>
+<p>On Friday evening, June 15th, a German carpenter working on the new<lb/>
+wards at the Post Hospital was admitted to the receiving ward, and exam-<lb/>
+ination disclosed the fact that though ill for several days previous he<lb/>
+had attempted to work in a desultory manner until compelled to desist<lb/>
+from exhaustion. His case was easily diagnosed as yellow fever, and he<lb/>
+was immediately removed to the infectious wards. This man lived on San<lb/>
+Ygnacio St. in Havana, a noted locality in the past for yellow fever, and<lb/>
+unquestionably contracted the disease there.</p>
+<p>A Board, composed of three Cuban physicians, A.A. Surgeons Ames and<lb/>
+Lazear, was immediately formed at the appearance of the first case to<lb/>
+pronounce upon all subsequent cases deemed suspicious, and by this Board<lb/>
+the diagnosis was made in every case.</p>
+<pb n="7" id="f02033007"/>
+<p>Page 7</p>
+<p>Every precaution was immediately taken in both town and Post to<lb/>
+prevent the spread of the disease, and it is believed that this end has<lb/>
+been attained. A supplemental report will be rendered later.</p>
+<p>In conclusion, I desire to commend to your consideration A.A. Surgeon<lb/>
+Roger Post Ames, U.S.A., to whose excellent judgement and professional<lb/>
+skill the low mortality is large<add>ly</add> due, A.A. Surgeon Jesse W. Lazear, by whose<lb/>
+skill in microscopy and chemistry the diagnosis of all cases was faci-<lb/>
+litated, Privates Lambert, McNeer, Fanning, and Colbey, Hospital Corps U.S.A.,<lb/>
+for their untiring attention to duty, Private Lambert alone being immune,<lb/>
+Contract nurses Anne E. Obrien, Phoebe Girault, Kate S.M. Ledlie, and Ella M<unclear>.</unclear><lb/>
+Gillen, for their devotion to duty.</p>
+<closer>
+<salute>Very respectfully,<lb/>
+Your obedient servant,</salute>
+<signed>A. N. Stark,</signed>
+Capt. &amp; Asst. Surgeon, U.S. Army.,<lb/>
+<unclear>R G E O N.</unclear><lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' [
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;]>
+<TEI.2 id="KAGB0010">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+<title type="245">Letter from Allan Jennings to Joseph A. LePrince, July 20, 1908 [Enclosed in KAGB0130]</title>
+<title type="gmd">[electronic resource]</title>
+<author>Jennings, Allan H.</author>
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management:</resp>
+<name>Historical Collections &amp; Services<lb/>
+Claude Moore Health Sciences Library<lb/>
+University of Virginia Health System<lb/>
+P.O. Box 800722<lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center<lb/>
+University of Virginia Library<lb/>
+</name>
+</respStmt>
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>KAGB0010</idno>
+<availability>
+<p>Publicly accessible for non-commercial use. All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2003, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2003</date>
+</publicationStmt>
+<sourceDesc> 
+<bibl> 
+<idno type="callNo">Papers of Jefferson Randolph Kean [manuscript] / Jefferson Randolph Kean, 1860-1950. MSS 628. The Albert and Shirley Small Special Collections Library, University of Virginia, Charlottesville, Va.</idno>
+</bibl> 
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation><date>1908-07-20</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass><keywords><term type="recipient">LePrince, Joseph A.</term></keywords></textClass>
+</profileDesc>
+<revisionDesc>
+<change><date></date>
+<respStmt><resp></resp> <name></name></respStmt>
+<item></item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces"></term>
+<term type="Artifact"></term>
+<term type="Biography"></term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease"></term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government"></term>
+<term type="Human_Experimentation"></term>
+<term type="Interpersonal_Relations"></term>
+<term type="Military_Medicine"></term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians"></term>
+<term type="Popular_Culture"></term>
+<term type="Portuguese"></term>
+<term type="Public_Health">YES</term>
+<term type="Religion"></term>
+<term type="Social_History"></term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever"></term>
+<name type="person">Gorgas, William Crawford</name>
+<name type="place">Ancon (Canal Zone)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr></abbr>
+<extent>11 pp.</extent>
+<date value="1908-07-20">July 20, 1908</date>
+<idno rend="suppress">KAGB0010</idno>
+<title>Letter from Allan Jennings to Joseph A. LePrince, July 20, 1908 [Enclosed in KAGB0130]</title>
+</bibl>
+</head>
+<p>Jennings gives a report of how Phinotas Oil affects the pupa stage in the immature mosquito. [Courtesy of The Albert and Shirley Small Special Collections Library, University of Virginia Library]</p>
+</div1>
+</front>
+<body>
+<div1 type="letter" n="1908-07-20">
+<head>Letter from Allan Jennings to Joseph A. LePrince, July 20, 1908 [Enclosed in <xref id="fKAGB0130">KAGB0130</xref>]</head>
+<pb n="1" id="fKAGB0010"/>
+<opener>
+When replying refer to<lb/>
+ISTHMIAN CANAL COMMISSION<lb/>
+DEPARTMENT OF SANITATION<lb/>
+------<lb/>
+OFFICE OF CHIEF SANITARY INSPECTOR<lb/>
+ANCON, C. Z.<lb/>
+<dateline>
+<date value="1908-07-20">July 20th, 1908.</date>
+</dateline><lb/>
+Mr. J. A. LePrince,<lb/>
+Chief Sanitary Inspector,<lb/>
+Ancon.<lb/>
+<salute>Dear Sir:</salute>
+</opener>
+<p>I have completed a series of tests of Phinotas Oil to<lb/>
+determine as far as possible the character and quality of the stock<lb/>
+now hand and to compare it with the samples of the oil recently sub-<lb/>
+mitted to you by the Manufacturers.</p>
+<p>The samples tested were as follows, (all from different<lb/>
+barrels and opened):<lb/>
+<table rows="9" cols="2">
+<row><cell>Sample &ldquo;A&rdquo; (</cell><cell></cell></row>
+<row><cell>&sol;</cell><cell>from Manufacturers.</cell></row>
+<row><cell>Sample &ldquo;B&rdquo; (</cell><cell></cell></row>
+<row><cell>Sample Ancon I.</cell><cell>Barrel opened by breaking head. Barrel<lb/>
+nearly empty when sample was taken.</cell></row>
+<row><cell>Sample Ancon II.</cell><cell>Barrel opened by head and fresh when taken.</cell></row>
+<row><cell>Sample Empire I.</cell><cell>Barrel opened by head and half empty.<lb/>
+(Several days exposed).</cell></row>
+<row><cell>Sample Empire II.</cell><cell>Barrel freshly opened by head. Same as used<lb/>
+in experiments on lagoon by R. L. Turner.</cell></row>
+<row><cell>Sample Bas Obispo</cell><cell>Drawn from stop cock.</cell></row>
+<row><cell>Sample Corosal.</cell><cell>Barrel recently opened by head.</cell></row>
+</table>
+</p>
+<pb n="2" id="fKAGB0020"/>
+<p>- 2 -</p>
+<p>The variation as to character and action was found to be<lb/>
+considerable but the samples fall into three classes, as follows:<lb/>
+<table rows="3" cols="2">
+<row><cell>FIRST.</cell><cell>That in which a complete emulsion is immediately produced,<lb/>
+the body of the water completely filled with milky clouds and<lb/>
+little or no precipitate thrown down with no film formed on sur-<lb/>
+face.</cell></row>
+<row><cell>SECOND.</cell><cell>That in which there is partial emulsification, a more or<lb/>
+less heavy white precipitate which remains on the bottom if not<lb/>
+disturged, with unbroken globules of oil. There is usually on oily film<lb/>
+with milky streaks or clouds and small globules of oil. Sometimes<lb/>
+also a slight cloudiness often barely perceivable.</cell></row>
+<row><cell>THIRD.</cell><cell>That in which there is no emulsification or cloudiness and<lb/>
+no precipitate but a heavy oily film interspersed with more or<lb/>
+less heavy, well-defined globules.</cell></row>
+</table>
+</p>
+<p>In the action of the various samples there was more or less<lb/>
+variation from these types but in the main the classes were well-defined.</p>
+<p>The tests were made with tap water, in glass containers hold-<lb/>
+ing 1000 C. C. measured with great accuracy and the oil measured by means of<lb/>
+a pipette giving exact fractions of a C. C. These measurements were also<lb/>
+frequently checked and verified.</p>
+<p>The tests show occasional irregularities in the comparison of<lb/>
+different samples at the various strengths and conditions but frequent check<lb/>
+tests bore out the following conclusions: That Class I, that in which emul-<lb/>
+sification is complete and a milky could, more or less dense according to<lb/>
+<pb n="3" id="fKAGB0030"/>
+- 3 -<lb/>
+strength of the solution, permeates the entire body of the water, shows<lb/>
+a decided superiority over the other two classes. This is marked ex-<lb/>
+cept in the tests where dilution was high 1&sol;20,000 and 1&sol;40,000, where<lb/>
+the action of all becomes uncertain and the varying resistance of indi-<lb/>
+vidual larvae comes into play.</p>
+<p>Where a solution of 1 part Phinotas to 20 parts of water<lb/>
+was made and then introduced into container with larvae and enough water<lb/>
+to bring strength to the desired point, the action was more rapid than<lb/>
+when the same quantity was introduced directly into the whole body of the<lb/>
+water. This is doubtless due to the more rapid diffusion through the<lb/>
+bodn of the water. In these tests also Class I showed its superiority<lb/>
+at the different strengths used.</p>
+<p>To test duration of efficiency a solution was made of<lb/>
+one (1) part Phinotas to eight thousand (8,000) of water and exposed<lb/>
+indoors for sixty-four (64) hours before larvae were introduced. A mark-<lb/>
+ed deterioration was noted, the larvae living many hours longer than<lb/>
+where even a weaker solution is made and tested at once.</p>
+<p>At one (1) to five thousand (5,000) and exposed forty-<lb/>
+eight (48) hours the deterioration was at least as marked.</p>
+<p>In these tests Class I showed as a whole superiority to<lb/>
+the other classes.</p>
+<p>A small quantity of each of several samples was exposed in<lb/>
+shallow dishes for forty-eight (48) hours indoors and then tested with<lb/>
+the result that all classes suffered by the exposure but in varying de-<lb/>
+gree, as might have been expected those which had been most exposed be-<lb/>
+<pb n="4" id="fKAGB0040"/>
+- 4 -<lb/>
+fore sample was taken showed least deterioration.</p>
+<p>Sample &ldquo;A&rdquo;, Class I, in particular showed the greatest<lb/>
+change and three others by this test belonged in another class.</p>
+<p>To summarize: Those samples falling in Class I showed<lb/>
+the greatest efficiency as well as equally long duration. Classes II<lb/>
+and III show an irregularity of action which is borne out by field tests<lb/>
+of Phinotas known to show same characteristics.</p>
+<p>Sample &ldquo;B&rdquo;, Class III, which is recommended by the manu-<lb/>
+facturer, is shown to be of doubtful efficiency and their statement (made<lb/>
+in letter of June 16th, 1908, that &ldquo;The Phinotas Oil we sent you being<lb/>
+only partially soluble&rdquo;) if it applies to their first shipment is clearly<lb/>
+incorrect and this fact can be substantiated. I have tested in laboratory<lb/>
+and witnessed field tests of their earlier shipment or shipments that were<lb/>
+taken at random and was perfectly soluble and very efficient. With later<lb/>
+shipments this has not been the case and the action so irregular as to<lb/>
+cause great undertainty in its use in the field.</p>
+<p>I have ascertained that the sample of Phinotas, labelled<lb/>
+Ancon II, was taken from a barrel constituting a portion of the above ship-<lb/>
+ment and this bears out the statement.</p>
+<p>A drawback to the indiscriminate use of Phinotas Oil is<lb/>
+the absence of any effect upon pupae at ordinary and economical strengths.<lb/>
+I believe this to be due to the fact that in the pupa stage the immature<lb/>
+mosquito does not eat and no passage of a poisonous substance into the<lb/>
+body through the moutn is possible. Unless a heavy oily film rests upon<lb/>
+<pb n="5" id="fKAGB0050"/>
+- 5 -<lb/>
+the surface to clog the breathing orifices, the pupa is unaffected or<lb/>
+unless the caustic action of the substance used is great enough to pene-<lb/>
+trate the integument. This is not the case with Phinotas unless used<lb/>
+at a prohibitive strength.</p>
+<p>I consider the preparation especially useful used in<lb/>
+full strength in running water, even along the edges of good sized streams<lb/>
+where quick action is desired and can be obtained from Class I. In such<lb/>
+situations crude oil is not available as it is floated off and dissipated<lb/>
+before it has lived to act. In places also where constant overflowing of<lb/>
+the body of water due to rains renders constant care necessary, Phinotas<lb/>
+is at least as useful and may have frequently some advantages over the<lb/>
+crude oil.</p>
+<p>As its permanence seems to be very difficult, field tests<lb/>
+having shown breeding to begin within two days after application, it is in<lb/>
+this inferior to crude oil, besides which its poisonous effect upon fish<lb/>
+is a drawback to its use in many instances.</p>
+<p>A point in its favor is the small bulk and consequent economy<lb/>
+in handling when used in full strength. I would especially recommend that<lb/>
+<hi>all</hi> Phinotas Oil used at all stations be drawn from the barrel by means of<lb/>
+a stopcock as all deterioration from exposure will thus be avoided.</p>
+<p>Very respectfully,</p>
+<p>(Sgd) ALLAN H. JENNINGS.</p>
+<p>O</p>
+<pb n="6" id="fKAGB0060"/>
+<p>
+<table rows="10" cols="3">
+<row><cell>CLASS I.</cell><cell>CLASS II.</cell><cell>CLASS III.</cell></row>
+<row><cell>Emulsification complete</cell><cell>Partial emulsification.</cell><cell>No emulsification.</cell></row>
+<row><cell>No precipitate.</cell><cell>Precipitate with globules</cell><cell>No precipitate.</cell></row>
+<row><cell>More or less cloudiness<lb/>
+according to strength.</cell><cell>Oil film after more or<lb/>
+less milky.</cell><cell>No cloudiness.</cell></row>
+<row><cell></cell><cell>Slight or no cloudiness</cell><cell>Heavy oil film.</cell></row>
+<row><cell>Sample &ldquo;A&rdquo;.</cell><cell>Bas Obispo.</cell><cell>Sample &ldquo;B&rdquo;.</cell></row>
+<row><cell></cell><cell>Corozal.</cell><cell>Empire I.<lb/>
+Empire II.</cell></row>
+<row><cell>Ancon II.</cell><cell>Ancon I.</cell></row>
+<row><cell>1&sol;5,000.</cell><cell>1&sol;5,000.</cell><cell>1&sol;5,000.</cell></row>
+</table>
+</p>
+<p>PHINOTAS EXPOSED IN SHALLOW DISHES FORTY-EIGHT<lb/>
+HOURS INDOORS.</p>
+<p>Test at strength 1&sol;5,000 places samples in classes as below:</p>
+<p>
+<table rows="5" cols="3">
+<row><cell></cell><cell>Sample &ldquo;A&rdquo; (2).</cell><cell></cell></row>
+<row><cell></cell><cell>Sample &ldquo;B&rdquo;.</cell><cell></cell></row>
+<row><cell></cell><cell>Ancon I.</cell><cell></cell></row>
+<row><cell></cell><cell>Ancon II.</cell><cell></cell></row>
+<row><cell></cell><cell>Empire I.</cell><cell>Empire II.</cell></row>
+</table>
+</p>
+<pb n="7" id="fKAGB0070"/>
+<p>
+<table rows="7" cols="2">
+<row><cell>1&sol;5,000. Exposed forty-eight<lb/>
+before introducing larvae.</cell><cell>1&sol;8,000. Exposed sixty-four<lb/>
+before introducing larvae.</cell></row>
+<row><cell>Sample &ldquo;A&rdquo; : 1&frac12; hrs. 100% dead.<lb/>
+Class I :</cell><cell>Sample &ldquo;A&rdquo; : 24 hrs. 100% dead.<lb/>
+Class I. :</cell></row>
+<row><cell>Sample &ldquo;B&rdquo; : 2 hrs. 100% dead.<lb/>
+Class III. :</cell><cell>Sample &ldquo;B&rdquo; : 24 hrs. 75% dead.<lb/>
+Class III. :</cell></row>
+<row><cell>Bas Obispo : 2 hrs. 100% dead.<lb/>
+Class II. : </cell><cell>Ancon I. : 36 hrs. 75% dead.<lb/>
+Class II. :</cell></row>
+<row><cell>Ancon II. :1 &frac12; hrs. 100% dead.<lb/>
+Class I. :</cell><cell>Ancon II. : 24 hrs. 100% dead.<lb/>
+Class I. :</cell></row>
+<row><cell>Empire I. : 1 &frac12; hrs. 100% dead.<lb/>
+Class III. :</cell><cell>Empire I. : 24 hrs. 75% dead.<lb/>
+Class III. :</cell></row>
+<row><cell>Empire II. : 2 hrs. 100% dead.<lb/>
+Class III. :</cell><cell>Empire II. : 48 hrs. 75% dead.<lb/>
+Class III. :</cell></row>
+</table>
+</p>
+<pb n="8" id="fKAGB0080"/>
+<p>
+<table rows="10" cols="2">
+<row><cell>STRENGTH 1&sol;20,000.</cell><cell>STRENGTH 1&sol;40,000.</cell></row>
+<row><cell>Sample &ldquo;A&rdquo; : 16 hrs. 40% dead.<lb/>
+Class I. :</cell><cell>Sample &ldquo;A&rdquo; : 16 hrs. 60%dead.<lb/>
+Class I. :</cell></row>
+<row><cell>Sample &ldquo;B&rdquo; : 16 hrs. 60% dead.<lb/>
+Class III. :</cell><cell>Sample &ldquo;B&rdquo; : 16 hrs. 40% dead.<lb/>
+Class III. :</cell></row>
+<row><cell>Ancon I. 16 hrs. 50% dead.<lb/>
+Class II. :</cell><cell>Ancon I. : 24 hrs. none dead.<lb/>
+Class II. :</cell></row>
+<row><cell>Ancon II. 1 hr. 100% dead.<lb/>
+Class I. :</cell><cell>Ancon II. : 1 &frac12; hrs. 100% dead.<lb/>
+Class I. :</cell></row>
+<row><cell>Empire I. 16 hrs. 75% dead.<lb/>
+Class III. :</cell><cell>Empire I. : 16 hrs. 40% dead.<lb/>
+Class III. :</cell></row>
+<row><cell>Empire II. : 16 hrs. 75% dead.<lb/>
+Class III. :</cell><cell>Empire II. : 24 hrs. 50% dead.<lb/>
+Class III. :</cell></row>
+<row><cell>Class I. : 1 hr. to 16 hrs.<lb/>
+: 40% dead.</cell><cell>Class I. : 1 &frac12; hrs to 16 hrs.<lb/>
+60% dead.</cell></row>
+<row><cell>Class II. : 16 hrs. 50% dead.</cell><cell>Class II. : 24 hrs. Failure.</cell></row>
+<row><cell>Class III. : 16 hrs. 60% to 75%<lb/>
+dead.</cell><cell>Class III. : 16 hrs. 40% dead.<lb/>
+to : 24 hrs. 50% dead.</cell></row>
+</table>
+</p>
+<pb n="9" id="fKAGB0090"/>
+<p>
+<table rows="8" cols="2">
+<row><cell>STRENGTH 1&sol;10,000.<lb/>
+Class I. 45 Mins. to 1 hr.<lb/>
+Class II. 25 Mins. to 4 hrs.<lb/>
+Class III. 4 Hrs. to 16 hrs.</cell><cell>STRENGTH 1&sol;5,000.</cell></row>
+<row><cell>Sample &ldquo;A&rdquo; : 45 Mins. 100% dead.<lb/>
+Class I. :</cell><cell>Sample &ldquo;A&rdquo; : 10 Mins. 100% dead.<lb/>
+Class I. :</cell></row>
+<row><cell>Sample &ldquo;B&rdquo; : 16 hrs. 75% dead.<lb/>
+Class III. :</cell><cell>Sample &ldquo;B&rdquo; : 10 Mins. 100% dead.<lb/>
+Class III. :</cell></row>
+<row><cell>Ancon I. : 4 hrs. 100% dead.<lb/>
+Class II :</cell><cell>Ancon I. : 30 Mins. 100% dead.<lb/>
+Class II. :</cell></row>
+<row><cell></cell><cell>Ancon II. : 15 Mins. 100% dead.<lb/>
+Class I. :</cell></row>
+<row><cell>Ancon II. : 1 hr. 100% dead.<lb/>
+Class I. :</cell><cell>Empire I : 25 Mins. 100% dead.<lb/>
+Class III. :</cell></row>
+<row><cell></cell><cell>Empire II. : 24 Mins. 100% dead.<lb/>
+Class III. :</cell></row>
+<row><cell>Empire I. : 4 hrs. 100% dead.<lb/>
+Class III. :</cell><cell>Empire III. : 20 Mins. 100% dead.</cell></row>
+<row><cell></cell><cell>Corozal I. : 15 Mins. 100% dead.<lb/>
+Class II. :</cell></row>
+<row><cell>Empire II.: 7 hrs. 25% dead.<lb/>
+Class III.:</cell></row>
+<row><cell>Corozal : 25 Mins. 100% dead.<lb/>
+Class II. :</cell><cell>Class I. : 10 to 15 minutes.<lb/>
+Class II : 15 to 30 minutes. <lb/>
+Class III : 10 to 25 minutes.</cell></row>
+</table>
+</p>
+<pb n="10" id="fKAGB0100"/>
+<p>
+<table rows="10" cols="2">
+<row><cell>SOLUTION 1&sol;20 = STRENGTH 1&sol;5,000.</cell><cell>SOLUTION 1&sol;20 = TO 1&sol;20,000.</cell></row>
+<row><cell>Sample &ldquo;A&rdquo; : 5 Mins. 100% dead.<lb/>
+Class I. :</cell><cell>Sample &ldquo;A&rdquo; : 2 &frac12; hrs. 25% dead.</cell></row>
+<row><cell>Sample &ldquo;B&rdquo;10 Mins. 100% dead.<lb/>
+Class III. :</cell><cell>Sample &ldquo;B&rdquo; : 2 &frac12; hrs. 75% dead.</cell></row>
+<row><cell>Ancon I. : 15 Mins. 100% dead.<lb/>
+Class II. :</cell><cell>Ancon I. : 12 Mins. 100% dead.<lb/>
+Class II. :</cell></row>
+<row><cell>Ancon II. : 5 Mins. 100% dead.<lb/>
+Class I. :</cell><cell>Ancon II. : 25 Mins. 100% dead.<lb/>
+Class I. : 15 Mins. 100% dead.<lb/>
+: 1 &frac12; hrs. 100% dead.</cell></row>
+<row><cell>Empire I. : 8 Mins. 100% dead.<lb/>
+Class III. :</cell><cell>Empire I. : 25 Mins. 100% dead.<lb/>
+Class III. :</cell></row>
+<row><cell>Empire II. : 15 Mins. 100% dead.<lb/>
+Class III. :</cell><cell>Empire II. : 4 hrs. 100% living/:<lb/>
+Class III. : Test not very satisfact-<lb/>
+: ory.</cell></row>
+<row><cell>Class I. : 5 minutes.</cell><cell>Class I. : 15 Mins. to 2 &frac12; hrs.</cell></row>
+<row><cell>Class II. : 15 minutes.</cell><cell>Class II. : 12 minutes.</cell></row>
+<row><cell>Class III. : 8 to 15 minutes.</cell><cell>Class III. : 25 Mins. to 2 &frac12; hrs.</cell></row>
+</table>
+</p>
+<pb n="11" id="fKAGB0110"/>
+<p>July 31, 1908<lb/>
+Col. W. C. Gorgas<lb/>
+In re Phinstas oil to<lb/>
+kill mosquito larvae</p>
+</div1>
+</body>
+</text>
+</TEI.2>

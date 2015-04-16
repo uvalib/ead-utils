@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="fever.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM 'teixlite.dtd' []>
+
+<TEI.2 id="t03625001">
+<teiHeader type="aacr2">
+<fileDesc>
+<titleStmt>
+ 
+<title type="245">Notes on the Yellow Fever Commission, by John J. Moran, [1940]</title>
+<title type="gmd">[electronic resource] </title>
+ 
+<author></author>
+ 
+<respStmt>
+<resp>Transcriptions and TEI markup</resp>
+<name>Innodata Inc</name>
+<resp>Images, project design, and management: </resp>
+<name>Historical Collections &amp; Services <lb/>
+Claude Moore Health Sciences Library <lb/>
+University of Virginia Health System <lb/>
+P.O. Box 800722 <lb/>
+Charlottesville, VA 22908-0722
+</name>
+<resp>TEI consultation:</resp>
+<name>Electronic Text Center <lb/>
+University of Virginia Library<lb/>
+</name>
+ 
+</respStmt>
+ 
+</titleStmt>
+<extent>ca. 15 kilobytes</extent>
+<publicationStmt>
+<publisher>Claude Moore Health Sciences Library of the
+University of Virginia Health System</publisher>
+<pubPlace>Charlottesville, Virginia 22908, USA</pubPlace>
+<idno>03625001</idno>
+<availability>
+<p>Publicly accessible for non-commercial use.  All rights reserved.</p>
+<p n="public">URL: http://www.med.virginia.edu/hs-library/historical/</p>
+<p>Copyright 2001, by the Rector and Visitors of the University of Virginia</p>
+</availability>
+<date>2001</date>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<idno type="callNo">The Philip S. Hench Walter Reed/Yellow Fever Collection
+[manuscript] / [collected by] Philip S. Hench ; HEALTHSCI MS-1.</idno>
+</bibl>
+</sourceDesc>
+ 
+</fileDesc>
+ 
+<profileDesc>
+<creation><date>1940-00-00</date></creation>
+<langUsage><language id="eng">English</language></langUsage>
+<textClass> <keywords> <term></term></keywords> </textClass>
+ 
+</profileDesc>
+ 
+<revisionDesc>
+<change> <date></date>
+<respStmt> <resp></resp> <name></name> </respStmt>
+<item></item> </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="keywords">
+<head>Keywords</head>
+<p>
+<term type="Armed_Forces">YES</term>
+<term type="Artifact"></term>
+<term type="Biography">YES</term>
+<term type="Boards_of_Health"></term>
+<term type="Courtship"></term>
+<term type="Disease">YES</term>
+<term type="Education"></term>
+<term type="Ethics"></term>
+<term type="French"></term>
+<term type="German"></term>
+<term type="Government">YES</term>
+<term type="Human_Experimentation">YES</term>
+<term type="Interpersonal_Relations">YES</term>
+<term type="Military_Medicine">YES</term>
+<term type="Mosquito">YES</term>
+<term type="Newspaper"></term>
+<term type="Philosophy"></term>
+<term type="Photograph"></term>
+<term type="Physicians">YES</term>
+<term type="Popular_Culture">YES</term>
+<term type="Portuguese"></term>
+<term type="Public_Health"></term>
+<term type="Religion"></term>
+<term type="Social_History">YES</term>
+<term type="Spanish"></term>
+<term type="Tropical_Medicine">YES</term>
+<term type="Yellow_Fever">YES</term>
+
+<name type="person">Reed, Walter</name>
+<name type="person">Carroll, James</name>
+<name type="person">Agramonte, Aristides</name>
+<name type="person">Lazear, Jesse W.</name>
+<name type="person">Stark, Alexander N.</name>
+<name type="person">Lazear, Mabel H.</name>
+<name type="person">Kean, Jefferson Randolph</name>
+<name type="person">Cooke, Robert P.</name>
+<name type="person">Folk, Levi E.</name>
+<name type="person">Jernegan, Warren G.</name>
+<name type="person">Kissinger, John R.</name>
+<name type="person">Gillen, Mrs.</name>
+<name type="person">Lambert, Gustaf E.</name>
+<name type="person">Rojas, Maria Teresa Loma viuda de</name>
+<name type="person">Pogolotti, Luis</name>
+<name type="person">Finlay, Carlos J.</name>
+<name type="person">Rojas, Ignacio</name>
+<name type="person">Zunzunegui, Julian</name>
+<name type="person">Maass, Clara</name>
+<name type="person">Ramos, Domingo</name>
+<name type="person">Godfrey, Guy Charles Moore</name>
+<name type="person">Warner, Lena A.</name>
+<name type="person">Echeverria, R. F.</name>
+<name type="person">Baldwin, T. A.</name>
+<name type="place">Cuba</name>
+<name type="place">Columbia Barracks (Cuba)</name>
+<name type="place">Quemados (Cuba)</name>
+<name type="place">Mariano (Cuba)</name>
+<name type="place">Pinar del Rio (Cuba)</name>
+<name type="place">Camp Lazear (Cuba)</name>
+<name type="place">Rojas farm, San Jose (Cuba)</name>
+<name type="hospital">Military Hospital No. 1, Havana (Cuba)</name>
+<name type="hospital">Las Animas Hospital, Havana (Cuba)</name>
+<name type="hospital">Hospital General Aristides Agramonte, Havana (Cuba)</name>
+</p>
+</div1>
+<div1 type="summary" n="1">
+<head>
+<bibl>
+<abbr>ALS</abbr>
+<extent>7 pp.</extent>
+<date value="1940-00-00">[1940]</date>
+<idno rend="suppress">03625001</idno>
+<title>Notes on the Yellow Fever Commission, by John J. Moran, [1940]</title>
+</bibl>
+</head>
+<p>Moran sends Hench extensive notes describing locations, personalities, and other details of the yellow fever experiments and commenting on the actions and attitudes of the Cuban government regarding a Lazear memorial location.</p>
+</div1>
+</front>
+<body>
+<div1 type="document" n="1940-00-00">
+<head>Notes on the Yellow Fever Commission, by John J. Moran, [1940]</head>
+<pb n="1" id="f03625001"/>
+<opener>
+Obviously Mr. Moran started writing this before Senora Rojas &amp; he<lb/>
+discovered the journal &amp; Bldg # 1. The first part therefore<lb/>
+places Camp L where we <hi>thought</hi> it was; the latter part tells where it <hi>really</hi> was. P S H<lb/>
+Received<lb/>
+<dateline>
+about <date value="1940-10-08">Oct 8, 1940</date>
+</dateline>
+</opener>
+<p><hi>THE CONQUEST OF YELLOW FEVER</hi></p>
+<p>Observation and Notes of John J. Moran on Memorandum of<lb/>
+Dr. Philip S. Hench of the Mayo Clinic on this Episode.</p>
+<p>oooOooo</p>
+<p>Par. 5: Our military intervention in Cuba, between 1898 and 1905 are<lb/>
+classified as follows: &ldquo;The Army of Invasion&rdquo; (1898); &ldquo;The Army of<lb/>
+Occupation&rdquo; (1899-1902) and &ldquo;The Army of Cuban Pacification&rdquo; (1905-1906).</p>
+<p>Par. 6: Camp Columbia came into existence in July-August, 1898 and<lb/>
+became Columbia Barracks about July 1, 1899. In 1902, the first year<lb/>
+of the Republic, it became it became &ldquo;Campamento de Columbia&rdquo; (Camp Col-<lb/>
+umbia) when it was taken over by what became the nucleous of the Cuban<lb/>
+Army. In 1935 it became &ldquo;Ciudad Militar&rdquo; (de Columbia). Even today,<lb/>
+except in official circles, it is known as &ldquo;Campamento de Columbia&rdquo; or<lb/>
+&ldquo;Columbia&rdquo;. &ldquo;Ciudad Militar&rdquo; (Military City) as a title given to<lb/>
+important military garrisons in Spain, is not at all incongruos when<lb/>
+applied today to the Cuban garrison. The site of &ldquo;Camp Columbia&rdquo; was<lb/>
+first used by the American Army for military purposes. Prior to that, it<lb/>
+was used as a &ldquo;Hippodrome&rdquo;, for horse racing and other sporting activities.</p>
+<p>Par. 7: Quemados, or &ldquo;Quemados de Marianao&rdquo; has always been a district<lb/>
+or section of the Municipality of Marianao and is now considered as part<lb/>
+of the rambling town of Marianao. It comes under the administration of<lb/>
+the Alcalde (Mayor) of Marianao.</p>
+<p>&ldquo;Hospital Alfonso XII&rdquo; was always a military hospital. Its name<lb/>
+was changed by the Americans to &ldquo;Military Hospital No. 1&rdquo;. After the<lb/>
+Army of Occupation left Cuba, in 1902, its name was changed to Hospital<lb/>
+Calixto Garcia. A few years ago it became autonamous, with the University<lb/>
+of Havana, it being actually the University Hospital but being still known<lb/>
+as &ldquo;Hospital Calixto Garcia&rdquo;.</p>
+<p>Par. 9: In your paragraphs 9 and 123, the Pinar del Rio incident is<lb/>
+fairly well covered. Captain Guy C. M. Godfrey, Assistant Surgeon, U. S.<lb/>
+Army (the son of a distinguished Cavalry officer who won the M. H. (Medal<lb/>
+of Honor) in the West), was Post Surgeon at Pinar del Rio Barracks. Dr.<lb/>
+Robert P. Cooke, Acting Assistant Surgeon, U. S. Army (Contract Surgeon),<lb/>
+was his assistant. Major Robert E. Lee Michie, U. S. Volunteers, was<lb/>
+Adjutant General on the staff of General Fitzhugh Lee<del><unclear>i</unclear></del>, Commander of<lb/>
+the Department of Havana &amp; Pinar del Rio, later changed to &ldquo;Department of<lb/>
+Western Cuba&rdquo;, with headquarters in the town of Marianao (see photo of the<lb/>
+building occupied by him, known as &ldquo;Quinta Dura&ntilde;ona&rdquo;, where I was employed<lb/>
+as Field Clerk at the time of the experiments).</p>
+<p>Par. 14: What was understood between Major Reed and the other three<lb/>
+members of the Board to the effect that neither of them should become<lb/>
+subject to experimentation is a matter in which I would be guessing,<lb/>
+were I to express an opinion. I do not think that Major Reed ever<lb/>
+seriously considered it incumbent upon himself to undergo experiments.<lb/>
+He would not do so without authority of the Surgeon General of the Army<lb/>
+and I feel morally certain that such consent would not have been obtained.<lb/>
+For one thing, he was too advanced in years to have a fair chance of<lb/>
+recovery from yellow fever and for another, he was in Cuba on a mission<lb/>
+which would preclude any such venture on his part. I feel reasonably<lb/>
+sure that Dr. Carroll, far from robust at that time, would not deliberately<lb/>
+<pb n="2" id="f03625002"/>
+-- 2 --<lb/>
+walk into yellow fever. While younger than Major Reed by three years,<lb/>
+the latter enjoyed good health, while Carroll did not. It was generally<lb/>
+accepted that Agramonte, in common with all Cubans, was immune, it being<lb/>
+presumed that all natives either had the disease in mild form, in infancy,<lb/>
+if not born immune. Agramonte, in later years, claimed that he was no more<lb/>
+immune than the rest of us, having been taken to the U. S. when he was<lb/>
+about five years old, returning to his native country in 1898 or 25 years<lb/>
+later, entering the U. S. Army as a Contract Surgeon. Of the four members<lb/>
+of the Yellow Fever Board, therefore, Dr. Lazear was the ideal one for<lb/>
+experimentation. He was 34 at the time, in sound health and devoted to<lb/>
+research work of the exact nature which the Board was expected to invest-<lb/>
+igate. It may be taken for granted that the Surgeon General of the Army<lb/>
+would not authorize any member of the Board to experiment upon himself nor<lb/>
+on any of his associates and it is equally certain that Major Reed would<lb/>
+not officially consent to any such proposal, although, in the case of Dr.<lb/>
+Lazear, he might have given passive consent, knowing that he was physic-<lb/>
+ally sound and would stand a good chance of surviving a possible attack of<lb/>
+yellow fever. Had Dr. Lazear pulled through, I am morally certain that<lb/>
+his case would have been properly made of record as experimental rather<lb/>
+than accidental. Any hint dropped by Dr. Agramonte to that effect should<lb/>
+carry due weight. He and Dr. Lazear were classmates and friends, both<lb/>
+graduating in medicine at Columbia University in 1892.</p>
+<p>Pars. 15 and 16: Major Alexander N. Stark, commanding the Post Hospital<lb/>
+at Columbia Barracks, informed me, after the death of Dr. Lazear, that he<lb/>
+sat next to him at dinner, at the Officers' Mess, the night before Dr.<lb/>
+Lazear came down with yellow fever and that the latter complained of an<lb/>
+aching body and slight fever; that he (Stark) advised him to go lightly<lb/>
+on food but ate a hearty dinner just the same, stating that he had a good<lb/>
+appetite, having spent the day at Las Animas Hospital where he had a light<lb/>
+lunch. The following morning he had a high temperature and in seven days<lb/>
+he breathed his last. Major Stark opined that his hearty meal on the eve<lb/>
+of his attack was instrumental in lessening his chances of recovery. Dr.<lb/>
+Stark ventured no opinion as to whether his case was accidental or experi-<lb/>
+mental. With all due respect to any opinion expressed by Dr. Agramonte,<lb/>
+as recollected by his daughter, I very much doubt if Dr. Lazear was bitten<lb/>
+prior to September 13th. He was treated at the Post Hospital and was<lb/>
+buried, I believe, near Camp Columbia. As to when his remains were dis-<lb/>
+interred and shipped to the U. S., I do not know. Full details can be<lb/>
+given by his widow, I imagine, as to dates and definite resting place.<lb/>
+General Kean may know Mrs. Lazear's address. Dr. Carroll was treated at<lb/>
+the Post Hospital, Columbia Barracks and convalesced there.</p>
+<p>Par. 22: I do not recall the names of others than the five original vol-<lb/>
+unteers, viz: Dr. Cooke, Folk, Jernegan, Kissinger and myself, who took<lb/>
+up residence at Camp Lazear on date of its inauguration. We had a cook,<lb/>
+kitchen police and guards, but I do not recall the names of any of them.</p>
+<p>Par. 23: The &ldquo;Infected Clothing Building&rdquo; was ready when we occupied Camp<lb/>
+Lazear but sufficient soiled clothing was not available until about ten days<lb/>
+(continued on sheet 3)<lb/>
+ooo0ooo<lb/>
+NOTE: You will recall that Major Stark was my protector and preceptor. I<lb/>
+worked with him in the operating room and he was the first to suggest to me<lb/>
+that I should study medicine at his Alma Mater, the University of Virginia.<lb/>
+<pb n="3" id="f03625003"/>
+-- 3 --<lb/>
+after we took up residence at the camp. As near as I can recollect, the<lb/>
+nurse who took care of Kissinger and myself was a Mrs. Gillan. I think she<lb/>
+succeeded a Miss Warner, or it may have been Mrs. Warner. I do not know if<lb/>
+she is still alive. In addition to Mrs. Gillan, two or three Hospital<lb/>
+Corps men were on duty with her, but she had charge of the ward. We had<lb/>
+as roustabout and ward orderly, one Gustaf Eric Lambert (No. 22 on General<lb/>
+Truby's photo of the Hospital Corps Detachment. I think he is still alive<lb/>
+and it may well be that General Kean, Kissinger or Andrus could give you<lb/>
+his address. Last I knew of him, he was living in Chicago.</p>
+<p>Par. 27: Building No. 2 was completed before December 21 but was not<lb/>
+provided with the requisite number of mosquitos until that date. I do not<lb/>
+know the date work was started on it nor do I remember the two men, by<lb/>
+name, who slept on the mosquito-free side for 18 nights.</p>
+<p>Par. 28: The blood injection was given to me at the laboratory (the old<lb/>
+operating room) and it was taken from an experimental case. Major Reed<lb/>
+personally requested me to take the test and accompanied me until it was<lb/>
+all over. Who actually gave me the injection, I do not remember, but<lb/>
+it was not Major Reed. Principally engraved in my memory and still <hi>stick-<lb/>
+ing out like a sore thumb</hi> was my concern as to the purity of the blood<lb/>
+but Major Reed assured me that I need have no fear on that score; that a<lb/>
+second attack of yellow fever was all I had to fear. I had no fear of<lb/>
+that.</p>
+<p>Par. 29: After Se&ntilde;ora Rojas and myself agree as to the site of Camp Lazear,<lb/>
+I shall mark on the map and have photographed what WE THINK might have been<lb/>
+the site or part of the site. I think, however, that the high ground of<lb/>
+which you took snapshots and from there down to the shack, with the culti-<lb/>
+vated ground where you took a picture of me, with another in which appear<lb/>
+Mrs. Hench, yourself and your humble servant, might have been a part of<lb/>
+Camp Lazear. The latter pictures were taken by the photographer, the snap-<lb/>
+shots with your own Kodak. The trees do not fit any pictures we have of<lb/>
+Camp Lazear and the two trees shown in same near the entrance to the Camp.<lb/>
+From Hospital Militar to &ldquo;Quinta San Jos&eacute;&rdquo; (gate), by the shortest route,<lb/>
+the distance is 2 kilometers and to the high ground referred to above, the<lb/>
+distance is 2.5 kilometers, respectively, a mile and a quarter and a little<lb/>
+over a mile and a half. The measurements were taken by speedometer.</p>
+<p>Par. 32: Your directions for reaching Camp Lazear are OK, as near as I<lb/>
+can see. I could not say if the original tract taken over by the U. S.<lb/>
+Army has been added to or not, but I think it has, especially in the<lb/>
+direction of the Military Aviation Camp, marked AERODROMO on the Military<lb/>
+map. &ldquo;Boquette&rdquo; Road is more than likely a local name and I do not find<lb/>
+it on any map in my possession. The present Military Hospital is now<lb/>
+officially known as HOSPITAL GENERAL &ldquo;ARISTIDES AGRAMONTE&rdquo; (The Aristides<lb/>
+Agramonte General Hospital), the group consisting of eight buildings, the<lb/>
+principal of which is the &ldquo;Clinica 4 de Septiembre&rdquo;, the latter being a<lb/>
+new building and the rest new or remodeled and modernized under the new<lb/>
+Cuban Army. Each building has a separate name but the entire group is<lb/>
+known as indicated above. &ldquo;Linea Paradero&rdquo; would mean a way-station or<lb/>
+&ldquo;Paradero&rdquo;, where tickets are not sold. The term &ldquo;Linea Paradero&rdquo; is not<lb/>
+generally used, that I know of. The first word means &ldquo;Line&rdquo; and the<lb/>
+second &ldquo;Stopping Point&rdquo; or waystation. With reference to the &ldquo;Framboyan&rdquo;<lb/>
+trees on the &ldquo;Finca San Jos&eacute;&rdquo; site, I am morally certain that the one we<lb/>
+were looking at could not be the one shown on the 1900-1901 pictures of<lb/>
+Camp Lazear. The limb you had cut off the tree on the false site, after<lb/>
+drying and testing a section of same, was declared unworkable for any form<lb/>
+<pb n="4" id="f03625004"/>
+-- 4 --<lb/>
+of souvenir, such as you mentioned while we were at the Souvenir Shop<lb/>
+in &ldquo;Plaza de la Catedral&rdquo; (Cathedral Plaza). I am sorry about this for<lb/>
+I know you had calculated on converting the wood from one of these trees<lb/>
+into souvenirs. I know you will be disappointed, but I am sure you<lb/>
+would also be disappointed in anything that could be made from Framboyan<lb/>
+wood. It happens to be one of the woods of Cuba good for nothing but<lb/>
+firewood and not very good for even that.</p>
+<p>&ldquo;Boquette&rdquo; Road is not generally known as such and not shown on<lb/>
+any map available to me. I now note what you mean by &ldquo;Linea Paradero&rdquo;.<lb/>
+I see where you got it from. It is shown on Pogolotti's plan of the<lb/>
+&ldquo;Reparto Padre Zamora&rdquo;. Properly read, it should be &ldquo;Linea Santa Isabel&rdquo;<lb/>
+and the &ldquo;Paradero&rdquo; in between "Linea and &ldquo;Sta. Isabel&rdquo; means that the<lb/>
+&ldquo;Carnino&rdquo; station, named after Pogolotti's mother, is the way station<lb/>
+just as you turn into the so called road to the false Camp Lazear. As you<lb/>
+know, this line is not being used any more. The track is practically covered with<lb/>
+with weeds just now.</p>
+<p>Unless the Cuban authorities really meant what they stated when<lb/>
+Colonel Hume was <del><unclear></unclear></del> here in September,<lb/>
+1936, and the false Camp Lazear was &ldquo;discovered&rdquo;, there is but little<lb/>
+reason for dwelling too much now on the error that was made then. It<lb/>
+should be made clear, however, in your paper that the error might never<lb/>
+have been discovered had you not visited Cuba. It is due to your<lb/>
+initiative and your persistency in following up the matter which have<lb/>
+led to the discovery of the real location of Camp Lazear. On the other<lb/>
+hand, it would be most appropriate to have some form of memorial on the<lb/>
+false site, property of the Cuban government, I believe, since that site<lb/>
+is not lacking in historical interest. I quote from a very recent letter<lb/>
+from General Kean, in this connection: &ldquo;I have had a lot of correspondence<lb/>
+with Dr. P. S. Hench. It is a most interesting story how he with your<lb/>
+assistance showed the Cubans that they had located Camp Lazear in the wrong<lb/>
+place. Where they have located it and bought the land for a monument is<lb/>
+where the yellow fever cases were treated in a temporary ward. I remember it<lb/>
+well for it is where I was treated when I had yellow fever in June, 1900<lb/>
+and Major Reed came to see me there. It is an appropriate place for a<lb/>
+monument to Lazear, BECAUSE HE DIED THERE, but it certainly is not the<lb/>
+location of the experimental camp where the Finlay theory was demonstrated<lb/>
+to be true by the Reed Commission, and which was named after Lazear but had no<lb/>
+other association with him. That camp was on the Rojas farm, a mile to the<lb/>
+east of there (actually, 1 1/4 miles to the main entrance to the &ldquo;Finca San Jos&eacute;&rdquo;).<lb/>
+I think it is proper always to speak of the transmission of yellow fever by<lb/>
+mosquitoes as THE FINLAY THEORY which gives that dear old man the credit which<lb/>
+shoud be his.&rdquo;" End of quote.</p>
+<p><unclear>apparently</unclear><lb/>
+written before the<lb/>
+discovery of the<lb/>
+Rojas book.</p>
+<p>Par. 40: According to the written record left by Dr. Ignacio Rojas which I<lb/>
+saw a few days ago, it would appear that the contract for rental of the camp<lb/>
+site was made by <del><unclear></unclear></del> Dr. Echeverria, whom General Kean will recall<lb/>
+and whom I remember as local Sanitary Officer for Quemados and Marianao. My<lb/>
+friend, Charles Parker, was his Chief Clerk. It will also appear from the<lb/>
+records and books of Dr. Rojas that a regiment of Volunteers from one of the<lb/>
+Carolinas had been stationed there or rather had had their camp there, at one<lb/>
+time. When I was transferred to Columbia Barracks, all the volunteer troops<lb/>
+had left that post, the 7th U. S. Cavalry, under command of Colonel Baldwin,<lb/>
+being the principal unit. Col. Baldwin was in command of the entire post.<lb/>
+It is, of course, possible that Dr. Agramonte first spoke to Dr. Rojas about<lb/>
+the Camp Lazear site, Dr. Echeverria signing the contract with Dr. Rojas. You<lb/>
+will read all about this in the copied material that Miss Rojas will turn over<lb/>
+to Mrs. Phillips for translation and typing.</p>
+<pb n="5" id="f03625005"/>
+<p>-- 5 --</p>
+<p>Par. 51: With reference to the last three lines of this paragraph (bracketed).<lb/>
+I do not think the invitation would be advisable. I am afraid it would not<lb/>
+suit him.</p>
+<p>Par. 53: A &ldquo;Finca&rdquo; means a farm of 50 to 100 acres of land. From 150 acres up<lb/>
+it might be known as an &ldquo;Hacienda&rdquo;. When reduced to the present acreage of<lb/>
+&ldquo;Quita San Jos&eacute;&rdquo;, or even half of it, it would no longer merit the title of<lb/>
+&ldquo;Finca&rdquo;. When most of the &ldquo;Finca San Jos&eacute;&rdquo; was sold, the family changed the<lb/>
+name of the mansion and the ground still owned by them and walled off to<lb/>
+&ldquo;Quinta San Jos&eacute;&rdquo;. A &ldquo;Tejar&rdquo; is a brick or tile factory.</p>
+<p>Par. 59: Principally through my fault, we allowed Zunzunegui (pronounced Zoon-<lb/>
+zoon-eggy to slip through our hands. This was due to the fact that he remarked<lb/>
+that the Americanos used to pay $2.00 a head for people who would permit them-<lb/>
+selves to be bitten by mosquitoes. Within the past week, howver, this man<lb/>
+looms big in our investigations and his <hi>rediscovery</hi> is intimately connected<lb/>
+with the &ldquo;discovery&rdquo; of Dr. Rojas' old account books and the lease for exploit-<lb/>
+ation of the limestone quarries made between Dr. Rojas and Zunzunegui's father,<lb/>
+which included the use and occupancy of Buildings No. 1 and No. 2. After the<lb/>
+lease became effective, Zunzunegui Senior and his family moved into Building<lb/>
+No. 1 and his son (Julian) lived in that little shack from that time until<lb/>
+1936. After he married, 21 years ago, he and his wife lived in the shack and<lb/>
+all three of his children were born there. I have made notes on the photo-<lb/>
+graphs taken yesterday (Saturday), including on of Z. and his family, which<lb/>
+give additional details about him. Without a shadow of a doubt, he is more<lb/>
+familiar with the physical changes and transition of the &ldquo;Finca San Jos&eacute;&rdquo; than<lb/>
+any other person that I know of today. As I have prevously stated, the good<lb/>
+Se&ntilde;ora Rojas did not visit the part of the farm in which the Camp was located<lb/>
+in many years. Stone and earth was excavated from the land with<del><unclear></unclear></del> but little<lb/>
+realization on her part that it was in its present honeycombed state, with a<lb/>
+limestone quarry on one side and a combination rock and brick <del><unclear></unclear></del> clay quarry<lb/>
+on the other side.</p>
+<p>Par. 69: Would suggest you deal carefully with this old Spanish medico. He<lb/>
+was willing to talk frankly to you but I doubt very much if he would be will-<lb/>
+ing to to be equally frank on paper and over his signature. In a conversation<lb/>
+with Miss Cabrera, she doubted very much if it would be wise or expedient for<lb/>
+him to make his statements about Finlay a matter of record. Personally, I do<lb/>
+not believe that the book he talked about will be published during his life-<lb/>
+time, nor after his death for the matter of that. I suggest that you soft<lb/>
+pedal the statements he made about Finlay. The old chap might get himself<lb/>
+into very hot water and I am sure you would not like that.</p>
+<p>Par. 72: The title should read &ldquo;Secretary of Sanitation&rdquo; rather than &ldquo;Health&rdquo;.<lb/>
+In Spanish it would be properly &ldquo;Secretario de Sanidad y Beneficencia&rdquo; and<lb/>
+translated it would be Secretary of Sanitation and Beneficence, but the<lb/>
+last word in the title may be left out in your paper.</p>
+<p>Par. 79: The name of the nurse should read Miss Clara L. Maas, the surname<lb/>
+having but one &ldquo;s&rdquo;.</p>
+<p><unclear>Mistake-</unclear><lb/>
+See letter<lb/>
+of Oct 12, <unclear>1940</unclear><lb/>
+p 2.</p>
+<p>Par. 81: I am sure that Dr. Ramos and the other doctors who claimed their<lb/>
+site as the genuine one no longer think so. In a conversation with Mrs.<lb/>
+Phillips she informed me that Mr. Pogolotti had told her that the author-<lb/>
+ities sent a man to wipe out the sign and when I took a picture of it some<lb/>
+days ago. I noticed that the lettering had been erased. Evidently the job<lb/>
+was not very well done. The sign, as you can see by my Photo No. 10, has<lb/>
+<pb n="6" id="f03625006"/>
+-- 6 --<lb/>
+not been taken down. Pogolotti added that the Cuban authorities had tacitly<lb/>
+admitted their error. With the new evidence now within your reach, which I<lb/>
+propose to make known to Dr. Ramos as soon as I can &ldquo;catch up&rdquo; with him, it<lb/>
+would be folly for them to stick to their claims. So far, they know nothing<lb/>
+about the new evidence. After all, it is not a capital sin to err in good<lb/>
+faith, in such a matter, and after the lapse of so many years, but it would be<lb/>
+if they should pretend to stick to it, especially after the <hi>real site</hi> of Camp<lb/>
+Lazear is discovered. I am personally in accord with General Kean that we<lb/>
+should all bend our efforts to the end of having the Cubans build their park<lb/>
+or other form of memorial to Dr. Lazear and his associates on the site of<lb/>
+the tent ward in which he died. I have no doubt you could exert a healthy<lb/>
+influence on Dr. Ramos &amp; Company in such a matter. From now on, I imagine<lb/>
+they will have a wholesome respect for you and you are sufficiently broad-<lb/>
+minded and big-hearted to overlook the hostility displayed towards us when we<lb/>
+broke the news to them that they had placed Camp Lazear where it never was.<lb/>
+I take it that YOUR MAIN OBJECT was and is to reconcile the American and<lb/>
+Cuban points of view with reference to Reed and Finlay, giving to each his<lb/>
+proper share of the credit and glory. It would serve no good purpose to<lb/>
+antagonize them by placing too great an emphasis on their error in falsely<lb/>
+locating Camp Lazear. After all, they may have erred in good failth, but<lb/>
+they were lax in consulting those who could inform them better, or rather<lb/>
+failing to consult them. The Cubans, as you may or may not know, are very<lb/>
+sensitive. I think this fault is universal when the people of a small<lb/>
+nation begin to compare themselves with those of a nation as powerful and as<lb/>
+progressive as ours, for instance. At heart, however, the percentage of<lb/>
+Cubans who do not like us and admire us is very small. The ingrates, mostly<lb/>
+COMMUNISTS, are the exception. I want you to know that, personally, I do<lb/>
+not fear any reprisals which might fall to my lot through my share in the<lb/>
+discovery of their error. Furthermore, the fact that the Cubans have honored<lb/>
+me with the Finlay Order or Medal does not change my opinion of the glory to<lb/>
+which I have always considered as pertaining to Major Reed. Very largely<del><unclear></unclear></del><lb/>
+due to General Keen's opinion in the premises, I have revised my opinion of<lb/>
+Finlay and very much in his favor, but I have never revised my opinion of<lb/>
+Major Reed. To me, Major Reed was THE SOUL of the episode which led to THE<lb/>
+CONQUEST OF YELLOW FEVER.</p>
+<p>Par. 86: We met in the building of the &ldquo;Consejo Corporativo de Educacion,<lb/>
+Sanidad y Beneficencia&rdquo; (Corporate Council of Education, Sanitation &amp; Benfi-<lb/>
+cence).</p>
+<p>Par. 101 to 104: I am afraid I cannot add more on this matter than is<lb/>
+covered by my observations on Paragraphs 14, 15 and 16 (Page 2).</p>
+<p>Par. 115: The space (or at least much of it) occupied by the volunteer<lb/>
+regiments was converted into a corral for horses and mules, as near as I<lb/>
+can recollect.</p>
+<p>Par. 116: I must admit here that I am &ldquo;stumped&rdquo; with reference to the<lb/>
+bridge across the railroad track. As suggested in another paragraph,<lb/>
+Gustaf Eric Lambert, who had charge of the &ldquo;Disinfection <unclear>Plant</unclear>&rdquo; could give<lb/>
+particulars on both. He remained in Cuba until the Americans cleared out<lb/>
+entirely (1902), I believe. I bow to General Keen's recollections in<lb/>
+this connection. If I crossed any bridges to get to the hospital, after<lb/>
+my recovery from yellow fever, I have forgotten all about it. This covers<lb/>
+any remarks I could make about Paragraph 118.</p>
+<p>p7 taken to <unclear>fla</unclear></p>
+<pb n="7" id="f03625007"/>
+<p><unclear>about oct 8, 1940</unclear></p>
+<p>-- 7 --</p>
+<p>Pars. 122 to 127, inclusive: I think a veil should be drawn on the<lb/>
+personalities mentioned here, one of whom is still alive. The Agramonte-<lb/>
+Hemmetr correspondence, if published, would add nothing to the glory of<lb/>
+the Yellow Fever Board as a whole, I am sure. C's effort at usurpation<lb/>
+would not entitle him to have his name used in any sentence or paragraph<lb/>
+wherein the name of REED appeared. Dr. Cooke was young and inexperienced,<lb/>
+much more especially in differentiating between Pernicious Malaria and<lb/>
+Yellow Fever. As a matter of fact, few American medicos present in Cuba<lb/>
+at that time had had experience with yellow fever and other trpoical<lb/>
+diseases. It was an unfortunate incident, nothing more.</p>
+<p>LAS ANIMAS HOSPITAL: The site and the buildings, I believe, was a Spanish<lb/>
+Camp originally and was converted into a hospital only a short time before<lb/>
+the American Army landed in Cuba. A hospital known as &ldquo;Los Angeles&rdquo; was<lb/>
+abandoned and all its equipment was sent to the original &ldquo;Hospital Las<lb/>
+Animas&rdquo;. Twice, it was used as a municipal hospital and twice as a military<lb/>
+hospital. In 1899, General Wood, Military Governor, had it converted into<lb/>
+a Military Hospital. In November of the same year, it was used as a<lb/>
+Municipal Hospital and &ldquo;Los Angeles Hospital's&rdquo; equipment and utensils<lb/>
+transferred to it. While the record is not very clear, it was at this time<lb/>
+that it was baptized &ldquo;Hospital Las Animas&rdquo;. In January, 1900, it became a<lb/>
+a Military Hospital once more. A Military Order of the Governor turned it<lb/>
+over to the Department of Sanitation on September 7, 1900. The latter<lb/>
+Department then undertook to convert it into a real hospital where infectious<lb/>
+and contagious cases, of a nature dangerous to public health, could be treated<lb/>
+and/or placed under observation. Even to this day, it is the only hospital<lb/>
+used for the general purposes indicated above. The hospital grounds is<lb/>
+about fifty acres. Used by the Engineer Corps of the Spanish Army, originally,<lb/>
+it gradually changed into an isolation camp and eventually into a hospital.</p>
+<p>From <unclear>Barnett.</unclear></p>
+<p><unclear>any Engineering</unclear></p>
+<p><unclear>not near<lb/>
+Las Animas</unclear></p>
+<p>IN CONCLUSION: In order to get this to you so that it may serve your<lb/>
+purpose in time, should there be any notes of value in it, I am sending it<lb/>
+to you today by AIR MAIL, with 27 additional photographs. I will again<lb/>
+go thoroughly over your letters and YOUR MAIN PAPER, as I must have missed<lb/>
+a numb<del>s</del>er of items. If I find that I can make appropriate reply to any-<lb/>
+thing I have overlooked, I will send you an additional memorandum between<lb/>
+now and the 20th, the date I expect to leave for God's Country.</p>
+<closer>
+<salute>Very sincerely yours,</salute>
+<signed>John J. Moran</signed>.
+JJM:elm<lb/>
+The &ldquo;elm&rdquo; stands for &ldquo;el mismo&rdquo; (himself)<lb/>
+</closer>
+</div1>
+</body>
+</text>
+</TEI.2>
