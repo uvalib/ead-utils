@@ -1,5 +1,6 @@
 package edu.virginia.lib.ead;
 
+import javax.xml.parsers.ParserConfigurationException;
 import java.util.List;
 
 /**
@@ -41,4 +42,7 @@ public interface EADNode {
 
     public List<String> getChildReferenceIds();
 
+    public String getTitle();
+
+    public String getUnitId();
 }

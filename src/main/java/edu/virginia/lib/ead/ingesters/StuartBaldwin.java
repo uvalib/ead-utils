@@ -3,12 +3,15 @@ package edu.virginia.lib.ead.ingesters;
 import edu.virginia.lib.ead.DataStore;
 import edu.virginia.lib.ead.EADIngester;
 import edu.virginia.lib.ead.EADNode;
+import edu.virginia.lib.ead.EncodedTextMapper;
 import edu.virginia.lib.ead.Fedora3DataStore;
 import edu.virginia.lib.ead.HoldingsInfo;
 import edu.virginia.lib.ead.ImageMapper;
+import edu.virginia.lib.ead.VisibilityAssignment;
 import edu.virginia.lib.ead.imagemappers.RubyHashIdBasedImageMapper;
 import edu.virginia.lib.indexing.SolrIndexer;
 
+import java.io.File;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -29,12 +32,17 @@ public class StuartBaldwin extends EADIngester {
 
         replaceBrokenPids(c, Arrays.asList(new String[]{ }), false);
 
-        c.ingest(true);
+        //c.ingest(true);
         c.index(new SolrIndexer(datastore.getFedoraClient(), getDefaultSolrUpdateUrl()), false);
     }
 
     public StuartBaldwin(DataStore ds) throws Exception {
         super(ds);
+    }
+
+    @Override
+    protected VisibilityAssignment getVisibilityAssignment() {
+        return VisibilityAssignment.COLLECTION_ONLY;
     }
 
     @Override
@@ -50,6 +58,11 @@ public class StuartBaldwin extends EADIngester {
     @Override
     protected ImageMapper getImageMapper() throws Exception {
         // no image mapping... yet.
+        return null;
+    }
+
+    @Override
+    protected EncodedTextMapper getTextMapper() throws Exception {
         return null;
     }
 

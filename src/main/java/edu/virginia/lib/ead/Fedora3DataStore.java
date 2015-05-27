@@ -4,10 +4,16 @@ import com.yourmediashelf.fedora.client.FedoraClient;
 import com.yourmediashelf.fedora.client.FedoraClientException;
 import com.yourmediashelf.fedora.client.FedoraCredentials;
 import com.yourmediashelf.fedora.generated.access.DatastreamType;
+import edu.virginia.lib.indexing.FedoraRiSearcher;
 import org.apache.commons.codec.digest.DigestUtils;
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.IOUtils;
 
+import java.io.ByteArrayOutputStream;
+import java.io.File;
 import java.io.IOException;
 import java.net.URI;
+import java.util.List;
 import java.util.Properties;
 
 public class Fedora3DataStore implements DataStore {
@@ -19,23 +25,13 @@ public class Fedora3DataStore implements DataStore {
     private static final String EAD_FRAGMENT_CONTENT_MODEL_PID = "uva-lib:eadMetadataFragmentCModel";
 
     private static final String HOLDING_CONTENT_MODEL_PID = "uva-lib:containerCModel";
+    private static final String TEI_CONTENT_MODEL_PID = "uva-lib:teiCModel";
 
     private static final String HAS_MODEL_PREDICATE = "info:fedora/fedora-system:def/model#hasModel";
 
-    private static final String FOLLOWS_PREDICATE = "http://fedora.lib.virginia.edu/relationships#follows";
-
-    private static final String HAS_EXEMPLAR_PREDICATE = "http://fedora.lib.virginia.edu/relationships#hasExemplar";
-
-    private static final String HAS_DIGITAL_REPRESENTATION_PREDICATE = "http://fedora.lib.virginia.edu/relationships#hasDigitalRepresentation";
-
-    private static final String IS_DIGITAL_REPRESENTATION_OF_PREDICATE = "http://fedora.lib.virginia.edu/relationships#isDigitalRepresentationOf";
-
-    private static final String IS_CONTAINED_WITHIN_PREDICATE = "http://fedora.lib.virginia.edu/relationships#isContainedWithin";
-
-    private static final String IS_PART_OF_PREDICATE = "info:fedora/fedora-system:def/relations-external#isPartOf";
-
     private static final String EAD_FRAGMENT_DS_ID = "descMetadata";
     private static final String HOLDING_DS_ID = "descMetadata";
+    private static final String TEI_DS_ID = "encodedText";
 
     private FedoraClient fc;
 
@@ -64,9 +60,15 @@ public class Fedora3DataStore implements DataStore {
     }
 
     @Override
-    public String mintId() {
+    public String mintId(String hint) {
         try {
-            return FedoraClient.getNextPID().execute(fc).getPid();
+            ByteArrayOutputStream baos = new ByteArrayOutputStream();
+            IOUtils.copy(FedoraClient.getNextPID().execute(fc).getEntityInputStream(), baos);
+            final String response = new String(baos.toByteArray());
+            final String pid = response.substring(response.indexOf("<pid>") + 5, response.indexOf("</pid>"));
+            //System.out.println(response);
+            //System.out.println("New pid: \"" + pid + "\"");
+            return pid;
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
@@ -143,29 +145,79 @@ public class Fedora3DataStore implements DataStore {
     }
 
     @Override
+    public void addOrReplaceTEI(String pid, File teiFile, String parentPid) throws Exception {
+        // check if the item exists
+        createIfMissing(pid);
+
+        // check if the datastream doesn't exist, or is different
+        updateIfDifferent(pid, TEI_DS_ID, FileUtils.readFileToString(teiFile));
+
+        // set the content models
+        FedoraClient.addRelationship(pid).object("info:fedora/" + TEI_CONTENT_MODEL_PID).predicate(HAS_MODEL_PREDICATE).execute(fc);
+
+        FedoraClient.addRelationship(pid).object("info:fedora/" + parentPid).predicate(RDFConstants.IS_ENCODED_TEXT_FOR).execute(fc);
+
+    }
+
+    @Override
+    public void clearRelationships(String pid) throws Exception {
+        if (hasDatastream(pid, "RELS-EXT")) {
+            final String emptyRelsExt = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+                    "<rdf:RDF xmlns:fedora-model=\"info:fedora/fedora-system:def/model#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rel=\"info:fedora/fedora-system:def/relations-external#\" xmlns:uva=\"http://fedora.lib.virginia.edu/relationships#\">\n" +
+                    "  <rdf:Description rdf:about=\"info:fedora/" + pid + "\">\n" +
+                    "  </rdf:Description>\n" +
+                    "</rdf:RDF>";
+            FedoraClient.modifyDatastream(pid, "RELS-EXT").content(emptyRelsExt).mimeType("text/xml").execute(fc);
+        }
+    }
+
+    @Override
     public void setChildRelationship(String pid, String childPid) throws FedoraClientException {
-        FedoraClient.addRelationship(childPid).object("info:fedora/" + pid.toString()).predicate(IS_PART_OF_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(childPid).object("info:fedora/" + pid.toString()).predicate(RDFConstants.IS_PART_OF_PREDICATE).execute(fc);
+        System.out.println(childPid + " -> isPartOf -> " + pid);
     }
 
     @Override
     public void setHasImageRelationship(String pid, String imagePid) throws Exception {
-        FedoraClient.addRelationship(imagePid).object("info:fedora/" + pid.toString()).predicate(IS_DIGITAL_REPRESENTATION_OF_PREDICATE).execute(fc);
-        FedoraClient.addRelationship(pid).object("info:fedora/" + imagePid.toString()).predicate(HAS_DIGITAL_REPRESENTATION_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(imagePid).object("info:fedora/" + pid.toString()).predicate(RDFConstants.IS_DIGITAL_REPRESENTATION_OF_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(pid).object("info:fedora/" + imagePid.toString()).predicate(RDFConstants.HAS_DIGITAL_REPRESENTATION_PREDICATE).execute(fc);
     }
 
     @Override
     public void setHasExemplarImageRelationship(String pid, String exemplarPid) throws Exception {
-        FedoraClient.addRelationship(pid).object("info:fedora/" + exemplarPid.toString()).predicate(HAS_EXEMPLAR_PREDICATE).execute(fc);
+        if (pid == null || exemplarPid == null) {
+            throw new NullPointerException();
+        }
+        FedoraClient.addRelationship(pid).object("info:fedora/" + exemplarPid.toString()).predicate(RDFConstants.HAS_EXEMPLAR_PREDICATE).execute(fc);
     }
 
     @Override
     public void setSequenceRelationship(String previousPid, String pid) throws FedoraClientException {
-        FedoraClient.addRelationship(pid).object("info:fedora/" + previousPid.toString()).predicate(FOLLOWS_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(pid).object("info:fedora/" + previousPid.toString()).predicate(RDFConstants.FOLLOWS_PREDICATE).execute(fc);
+    }
+
+    @Override
+    public void setVisibility(String pid, String value) throws Exception {
+        if (value.equals("HIDDEN") || value.equals("VISIBLE") || value.equals("UNDISCOVERABLE")) {
+            FedoraClient.addRelationship(pid).object(value, true).predicate(RDFConstants.VISIBILITY_PREDICATE).execute(fc);
+        } else {
+            throw new IllegalArgumentException("Unknown visibility \"" + value + "\"!");
+        }
     }
 
     @Override
     public void setHoldingsRelationship(String componentPid, String holdingsPid) throws Exception {
-        FedoraClient.addRelationship(componentPid).object("info:fedora/" + holdingsPid.toString()).predicate(IS_CONTAINED_WITHIN_PREDICATE).execute(fc);
+        FedoraClient.addRelationship(componentPid).object("info:fedora/" + holdingsPid.toString()).predicate(RDFConstants.IS_CONTAINED_WITHIN_PREDICATE).execute(fc);
+    }
+
+    @Override
+    public List<String> getOrderedImagePids(String pid) throws Exception {
+        return FedoraRiSearcher.getOrderedPartsUsingParentsListing(fc, pid, RDFConstants.HAS_DIGITAL_REPRESENTATION_PREDICATE, RDFConstants.FOLLOWS_PAGE_PREDICATE);
+    }
+
+    @Override
+    public List<String> getImagePids(String pid) throws Exception {
+        return FedoraRiSearcher.getObjects(fc, pid, RDFConstants.HAS_DIGITAL_REPRESENTATION_PREDICATE);
     }
 
     @Override
@@ -173,6 +225,7 @@ public class Fedora3DataStore implements DataStore {
         FedoraClient.purgeObject(id).execute(fc);
     }
 
+    @Override
     public boolean exists(String id) {
         try {
             FedoraClient.getObjectProfile(id).execute(fc);
@@ -184,6 +237,42 @@ public class Fedora3DataStore implements DataStore {
                 throw new RuntimeException(e);
             }
         }
+    }
+
+    private boolean hasDatastream(String pid, String dsId) {
+        try {
+            for (DatastreamType ds : FedoraClient.listDatastreams(pid).execute(fc).getDatastreams()) {
+                if (ds.getDsid().equals(dsId)) {
+                    return true;
+                }
+            }
+            return false;
+        } catch (FedoraClientException e) {
+            if (e.getMessage().indexOf("404") != -1) {
+                return false;
+            }
+            throw new RuntimeException(e);
+        }
+    }
+
+    @Override
+    public void startTransaction() throws Exception {
+
+    }
+
+    @Override
+    public void commitTransaction() throws Exception {
+
+    }
+
+    @Override
+    public void rollBackTransaction() throws Exception {
+        throw new UnsupportedOperationException();
+    }
+
+    @Override
+    public String sanitizePid(String pid) {
+        return pid;
     }
 
 }

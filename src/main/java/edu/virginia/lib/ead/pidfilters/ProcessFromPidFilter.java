@@ -1,5 +1,6 @@
 package edu.virginia.lib.ead.pidfilters;
 
+import edu.virginia.lib.ead.EADNode;
 import edu.virginia.lib.ead.PidFilter;
 
 public class ProcessFromPidFilter implements PidFilter {
@@ -14,7 +15,7 @@ public class ProcessFromPidFilter implements PidFilter {
     }
 
     @Override
-    public boolean includePid(String pid) {
+    public boolean includePid(String pid, EADNode node) {
         if (pid.equals(firstToInclude)) {
             found = true;
         }

@@ -3,12 +3,15 @@ package edu.virginia.lib.ead.ingesters;
 import edu.virginia.lib.ead.DataStore;
 import edu.virginia.lib.ead.EADIngester;
 import edu.virginia.lib.ead.EADNode;
+import edu.virginia.lib.ead.EncodedTextMapper;
 import edu.virginia.lib.ead.Fedora3DataStore;
 import edu.virginia.lib.ead.HoldingsInfo;
 import edu.virginia.lib.ead.ImageMapper;
+import edu.virginia.lib.ead.VisibilityAssignment;
 import edu.virginia.lib.ead.imagemappers.RubyHashIdBasedImageMapper;
 import edu.virginia.lib.indexing.SolrIndexer;
 
+import java.io.File;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -28,14 +31,18 @@ public class ChurchIngester extends EADIngester {
         final Fedora3DataStore datastore = new Fedora3DataStore();
         ChurchIngester c = new ChurchIngester(datastore);
 
-        replaceBrokenPids(c, Arrays.asList(new String[]{ }), false);
-
-        c.ingest(true);
+        //replaceBrokenPids(c, Arrays.asList(new String[]{  }), false);
+        //c.ingest(false);
         c.index(new SolrIndexer(datastore.getFedoraClient(), getDefaultSolrUpdateUrl()), false);
     }
 
     public ChurchIngester(DataStore ds) throws Exception {
         super(ds);
+    }
+
+    @Override
+    protected VisibilityAssignment getVisibilityAssignment() {
+        return VisibilityAssignment.COLLECTION_ONLY;
     }
 
     @Override
@@ -51,6 +58,11 @@ public class ChurchIngester extends EADIngester {
     @Override
     protected ImageMapper getImageMapper() throws Exception {
         return new RubyHashIdBasedImageMapper(getClass().getClassLoader().getResourceAsStream("viu00003-digitized-item-mapping.txt"));
+    }
+
+    @Override
+    protected EncodedTextMapper getTextMapper() throws Exception {
+        return null;
     }
 
     @Override

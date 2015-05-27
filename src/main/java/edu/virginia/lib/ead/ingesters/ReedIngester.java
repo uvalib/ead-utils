@@ -1,14 +1,22 @@
 package edu.virginia.lib.ead.ingesters;
 
+import edu.virginia.lib.TracksysHacker;
+import edu.virginia.lib.ead.DataStore;
 import edu.virginia.lib.ead.EADIngester;
 import edu.virginia.lib.ead.EADNode;
+import edu.virginia.lib.ead.EncodedTextMapper;
 import edu.virginia.lib.ead.Fedora3DataStore;
+import edu.virginia.lib.ead.Fedora4DataStore;
 import edu.virginia.lib.ead.HoldingsInfo;
 import edu.virginia.lib.ead.ImageMapper;
 import edu.virginia.lib.ead.PidFilter;
-import edu.virginia.lib.indexing.SolrIndexer;
+import edu.virginia.lib.ead.VisibilityAssignment;
+import edu.virginia.lib.ead.imagemappers.TracksysHackerImageMapper;
+import edu.virginia.lib.ead.pidfilters.HasTeiPidFilter;
 
+import java.io.File;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -22,14 +30,83 @@ import java.util.List;
 public class ReedIngester extends EADIngester {
 
     public static void main(String [] args) throws Exception {
-        ReedIngester r = new ReedIngester(new Fedora3DataStore());
-
-        // TODO: update this method to suit your ingest needs...
-        r.ingest(true);
+        ingestToF3();
     }
 
-    public ReedIngester(Fedora3DataStore fedora3DataStore) throws Exception {
-        super(fedora3DataStore);
+    public static void ingestToF3() throws Exception {
+        final Fedora3DataStore datastore = new Fedora3DataStore();
+        ReedIngester r = new ReedIngester(datastore);
+        r.ingest(true);
+        //PrintWriter p = new PrintWriter(new FileOutputStream("reed-pids.txt"));
+        //r.outputComponentPids(p);
+        //HasTeiPidFilter teiReport = new HasTeiPidFilter(r.getTextMapper());
+        //r.ingest(false, teiReport);
+        //teiReport.writeReport(System.out);
+        //r.ingest(false, new ProcessFromPidFilter("uva-lib:2229577"));
+        //r.index(new SolrIndexer(datastore.getFedoraClient(), getDefaultSolrUpdateUrl()), true);
+        //r.ingest(false);
+
+    }
+
+    public static void ingestToF4() throws Exception {
+        DataStore datastore = new Fedora4DataStore("http://localhost:8080/rest", "reed");
+        datastore.startTransaction();
+        try {
+            ReedIngester c = new ReedIngester(datastore);
+            c.ingest(false);
+            datastore.commitTransaction();
+        } catch (Throwable t) {
+            t.printStackTrace();
+            datastore.rollBackTransaction();
+        }
+    }
+
+    private ImageMapper imageMapper;
+
+    private EncodedTextMapper textMapper;
+
+    public ReedIngester(DataStore datastore) throws Exception {
+        super(datastore);
+        imageMapper = new TracksysHackerImageMapper(TracksysHacker.REED_COLLECTION_COMPONENT_ID);
+        final File teiDir = new File("reed-tei");
+        textMapper = new EncodedTextMapper() {
+
+            private List<String> missing = new ArrayList<String>();
+            @Override
+            public File getTEIForNode(EADNode node) throws Exception {
+                final String unitId = node.getUnitId();
+                if (unitId != null && !unitId.trim().equals("")) {
+                    File f = new File(teiDir, unitId + ".xml");
+                    if (f.exists()) {
+                        return f;
+                    } else {
+                        f = new File(teiDir, unitId + ".XML");
+                        if (f.exists()) {
+                            return f;
+                        } else {
+                            missing.add(unitId);
+                            return null;
+                        }
+                    }
+                }
+                return null;
+            }
+
+            @Override
+            public File[] getAllTeiFiles() {
+                return teiDir.listFiles();
+            }
+
+            @Override
+            public List<String> getAllUnfoundIds() {
+                return missing;
+            }
+        };
+    }
+
+    @Override
+    protected VisibilityAssignment getVisibilityAssignment() {
+        return VisibilityAssignment.COLLECTION_ONLY;
     }
 
     @Override
@@ -69,7 +146,11 @@ public class ReedIngester extends EADIngester {
 
     @Override
     protected ImageMapper getImageMapper() throws Exception {
-        // no image mapping... yet.
-        return null;
+        return imageMapper;
+    }
+
+    @Override
+    protected EncodedTextMapper getTextMapper() throws Exception {
+        return textMapper;
     }
 }

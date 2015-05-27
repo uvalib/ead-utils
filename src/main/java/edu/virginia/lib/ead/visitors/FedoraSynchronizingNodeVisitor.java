@@ -3,11 +3,14 @@ package edu.virginia.lib.ead.visitors;
 import edu.virginia.lib.ead.DataStore;
 import edu.virginia.lib.ead.EADNode;
 import edu.virginia.lib.ead.EADNodeVisitor;
+import edu.virginia.lib.ead.EncodedTextMapper;
 import edu.virginia.lib.ead.HoldingsInfo;
 import edu.virginia.lib.ead.ImageMapper;
 import edu.virginia.lib.ead.PidFilter;
 import edu.virginia.lib.ead.ExternalPidResolver;
+import edu.virginia.lib.ead.VisibilityAssignment;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +18,7 @@ import java.util.List;
 public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
 
     private DataStore data;
-    
+
     private boolean dryRun;
 
     private ExternalPidResolver pids;
@@ -26,11 +29,22 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
 
     private ImageMapper imageMapper;
 
-    public FedoraSynchronizingNodeVisitor(DataStore ds, ExternalPidResolver pids, boolean dryRun) throws IOException {
+    private EncodedTextMapper textMapper;
+
+    private VisibilityAssignment visibilityAssignment;
+
+    private TimingNodeVisitor t;
+
+    public FedoraSynchronizingNodeVisitor(DataStore ds, ExternalPidResolver pids, VisibilityAssignment visibility, boolean dryRun) throws IOException {
         this.data = ds;
         this.pids = pids;
         this.dryRun = dryRun;
+        this.visibilityAssignment = visibility;
         this.holdings = new ArrayList<HoldingsInfo>();
+    }
+
+    public void setTimer(TimingNodeVisitor t) {
+        this.t = t;
     }
 
     public void setHoldings(List<HoldingsInfo> h) {
@@ -41,9 +55,12 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
         this.imageMapper = m;
     }
 
-
     public void setFilter(PidFilter f) {
         this.filter = f;
+    }
+
+    public void setTextMapper(EncodedTextMapper m) {
+        this.textMapper = m;
     }
 
     @Override
@@ -59,9 +76,20 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
         try {
             // find or create a PID
             String pid = getPid(component);
+            if (filter != null && t != null && !filter.includePid(pid, component)) {
+                t.omitLast();
+            }
             if (!dryRun) {
+                System.out.println("Considering " + pid + "...");
+                // Clear existing relationships
+                // for items made using the tracking system some inapplicable RDF
+                // would otherwise persist....
+                if (updatePid(pid, component) && data.exists(pid)) {
+                    data.clearRelationships(pid);
+                }
+
                 // update metadata
-                if (updatePid(pid)) {
+                if (updatePid(pid, component)) {
                     data.addOrReplaceEADFragment(pid, component);
                 }
 
@@ -69,22 +97,28 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
                 String previousPid = null;
                 for (String childId : component.getChildReferenceIds()) {
                     final String childPid = pids.getPidForNodeReferenceId(childId);
-                    if (updatePid(pid, childPid)) {
+                    if (updatePid(pid, component) && updatePid(childPid, component)) {
                         data.setChildRelationship(pid, childPid);
                     }
                     if (previousPid != null) {
-                        if (updatePid(previousPid, childPid)) {
+                        if (updatePid(previousPid, component) && updatePid(childPid, component)) {
                             data.setSequenceRelationship(previousPid, childPid);
                         }
                     }
                     previousPid = childPid;
                 }
 
+                // assign visiblity
+                data.setVisibility(pid, visibilityAssignment.getVisibilityForNode(component));
+
                 // add holdings if available
                 addHoldings(pid, component);
 
                 // add images if available
                 linkImages(pid, component);
+
+                // add text if available
+                addText(pid, component);
             }
         } catch (Exception e) {
             throw new RuntimeException(e);
@@ -98,13 +132,15 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
         final List<String> imagePids = imageMapper.getImagePids(component);
         if (imagePids != null && !imagePids.isEmpty()) {
             for (String imagePid : imagePids) {
-                if (updatePid(pid, imagePid)) {
+                if (updatePid(pid, component)) {
                     data.setHasImageRelationship(pid, imagePid);
                 }
             }
             final String exemplarPid = imageMapper.getExemplarPid(component);
-            if (updatePid(pid, exemplarPid)) {
-                data.setHasExemplarImageRelationship(pid, exemplarPid);
+            if (exemplarPid != null) {
+                if (updatePid(pid, component)) {
+                    data.setHasExemplarImageRelationship(pid, exemplarPid);
+                }
             }
         }
     }
@@ -112,21 +148,30 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
     private void addHoldings(String pid, EADNode component) throws Exception {
         for (HoldingsInfo h : this.holdings) {
             if (h.shouldBeLinkedToNode(component)) {
-                if (updatePid(pid)) {
+                if (updatePid(pid, component)) {
                     data.setHoldingsRelationship(pid, getPid(h));
                 }
             }
         }
     }
 
-    private boolean updatePid(String ... pids) {
+    private void addText(String parentPid, EADNode component) throws Exception {
+        if (textMapper != null) {
+            File tei = textMapper.getTEIForNode(component);
+            if (tei != null && tei.exists()) {
+                final String teiPid = getTeiPid(component);
+                if (updatePid(teiPid, component)) {
+                    data.addOrReplaceTEI(teiPid, tei, parentPid);
+                }
+            }
+        }
+    }
+
+    private boolean updatePid(String pid, EADNode component) {
         if (filter == null) {
             return true;
         }
-        for (String pid : pids) {
-            if (filter.includePid(pid)) return true;
-        }
-        return false;
+        return filter.includePid(pid, component);
     }
 
     @Override
@@ -144,15 +189,16 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
         if (dryRun) {
             return componentPid != null ? componentPid : "TBD";
         } else if (componentPid != null) {
+            final String pid = data.sanitizePid(componentPid);
             // check the component
-            pids.storePidForNode(component, componentPid);
-            return componentPid;
+            pids.storePidForNode(component, pid);
+            return pid;
         } else if (pids.getPidForNode(component) != null) {
             // check the pid cache
             return pids.getPidForNode(component);
         } else {
             // create a new pid and cache it unless we're doing a dry-run
-            final String pid = data.mintId();
+            final String pid = data.mintId(component.getReferenceId());
             pids.storePidForNode(component, pid);
             return pid;
         }
@@ -171,8 +217,28 @@ public class FedoraSynchronizingNodeVisitor implements EADNodeVisitor {
             return pids.getPidForNodeReferenceId(holdings.getId());
         } else {
             // create a new pid and cache it unless we're doing a dry-run
-            final String pid = data.mintId();
+            final String pid = data.mintId(holdings.getId());
             pids.storePidForNodeReferenceId(holdings.getId(), pid);
+            return pid;
+        }
+    }
+
+    /**
+     * Gets a PID for a given encoded text associated with the provided EADNode.
+     * The order of precedence is as follows:
+     * 1.  pid from the ExternalPidResolver
+     * 2.  newly created pid (or TBD if a dry-run)
+     */
+    private String getTeiPid(EADNode component) throws Exception {
+        if (dryRun) {
+            return "TBD";
+        } else if (pids.getPidForNodeReferenceId(component.getUnitId()) != null) {
+            // check the pid cache
+            return pids.getPidForNodeReferenceId(component.getUnitId());
+        } else {
+            // create a new pid and cache it unless we're doing a dry-run
+            final String pid = data.mintId(component.getUnitId());
+            pids.storePidForNodeReferenceId(component.getUnitId(), pid);
             return pid;
         }
     }

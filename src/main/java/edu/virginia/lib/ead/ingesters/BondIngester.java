@@ -3,12 +3,16 @@ package edu.virginia.lib.ead.ingesters;
 import edu.virginia.lib.ead.DataStore;
 import edu.virginia.lib.ead.EADIngester;
 import edu.virginia.lib.ead.EADNode;
+import edu.virginia.lib.ead.EncodedTextMapper;
 import edu.virginia.lib.ead.Fedora3DataStore;
 import edu.virginia.lib.ead.HoldingsInfo;
 import edu.virginia.lib.ead.ImageMapper;
+import edu.virginia.lib.ead.PidFilter;
+import edu.virginia.lib.ead.VisibilityAssignment;
 import edu.virginia.lib.ead.pidfilters.ProcessFromPidFilter;
 import edu.virginia.lib.indexing.SolrIndexer;
 
+import java.io.File;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -27,14 +31,25 @@ public class BondIngester extends EADIngester {
         final Fedora3DataStore datastore = new Fedora3DataStore();
         BondIngester c = new BondIngester(datastore);
 
-        replaceBrokenPids(c, Arrays.asList(new String[]{ }), false);
+        //replaceBrokenPids(c, Arrays.asList(new String[]{ "changeme:588" }), false);
 
-        c.ingest(true);
+        //c.ingest(true);
+        //c.index(new SolrIndexer(datastore.getFedoraClient(), getDefaultSolrUpdateUrl()), true, new PidFilter() {
+        //    @Override
+        //    public boolean includePid(String pid) {
+        //        return pid.equals("changeme:588");
+        //    }
+        //});
         c.index(new SolrIndexer(datastore.getFedoraClient(), getDefaultSolrUpdateUrl()), false);
     }
 
     public BondIngester(DataStore ds) throws Exception {
         super(ds);
+    }
+
+    @Override
+    protected VisibilityAssignment getVisibilityAssignment() {
+        return VisibilityAssignment.COLLECTION_ONLY;
     }
 
     @Override
@@ -50,6 +65,11 @@ public class BondIngester extends EADIngester {
     @Override
     protected ImageMapper getImageMapper() throws Exception {
         // no image mapping... yet.
+        return null;
+    }
+
+    @Override
+    protected EncodedTextMapper getTextMapper() throws Exception {
         return null;
     }
 

@@ -4,6 +4,7 @@ import edu.virginia.lib.ead.EADNode;
 import org.junit.Assert;
 import org.junit.Test;
 
+import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
@@ -55,6 +56,16 @@ public class RubyHashIdBasedImageMapperTest {
 
         @Override
         public List<String> getChildReferenceIds() {
+            return null;
+        }
+
+        @Override
+        public String getTitle() {
+            return null;
+        }
+
+        @Override
+        public String getUnitId() {
             return null;
         }
     }

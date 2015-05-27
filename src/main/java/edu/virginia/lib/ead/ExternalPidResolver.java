@@ -28,10 +28,14 @@ public class ExternalPidResolver {
     private Map<String, String> map;
 
     public ExternalPidResolver(File cacheFile) throws IOException {
+        this();
         this.cache = cacheFile;
         cacheFile.getParentFile().mkdirs();
-        this.map = new HashMap<String, String>();
         loadCacheFromDisk();
+    }
+
+    protected ExternalPidResolver() {
+        this.map = new HashMap<String, String>();
     }
 
     public String getPidForNodeReferenceId(String referenceId) {
@@ -60,7 +64,7 @@ public class ExternalPidResolver {
         return map.values();
     }
 
-    private void writeCacheToDisk() throws IOException {
+    protected void writeCacheToDisk() throws IOException {
         PrintWriter writer = new PrintWriter(new OutputStreamWriter(new FileOutputStream(cache)));
         try {
             for (Map.Entry<String, String> entry : map.entrySet()) {
@@ -71,7 +75,7 @@ public class ExternalPidResolver {
         }
     }
 
-    private void loadCacheFromDisk() throws IOException {
+    protected void loadCacheFromDisk() throws IOException {
         map.clear();
         try {
             System.out.println(String.valueOf(cache.exists()) + cache.isFile() + cache.length() + cache.getAbsolutePath());

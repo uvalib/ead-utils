@@ -2,6 +2,7 @@ package edu.virginia.lib.ead;
 
 import edu.virginia.lib.ead.visitors.FedoraSynchronizingNodeVisitor;
 import edu.virginia.lib.ead.visitors.NodeCountingNodeVisitor;
+import edu.virginia.lib.ead.visitors.PidReportingNodeVisitor;
 import edu.virginia.lib.ead.visitors.SolrIndexingNodeVisitor;
 import edu.virginia.lib.ead.visitors.TimingNodeVisitor;
 import edu.virginia.lib.indexing.SolrIndexer;
@@ -9,6 +10,7 @@ import edu.virginia.lib.indexing.SolrIndexer;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.PrintWriter;
 import java.net.URI;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -43,15 +45,22 @@ public abstract class EADIngester {
 
     private ExternalPidResolver pids;
 
+    private TimingNodeVisitor timer;
+
     public EADIngester(DataStore ds) throws Exception {
         p = new XMLEADProcessor();
-        p.addVisitor(new TimingNodeVisitor(countNodes()));
+        timer = new TimingNodeVisitor(countNodes());
+        p.addVisitor(timer);
         this.dataStore = ds;
 
         final URI uri = ds.getURI();
-        final File pidCacheFile
-                = new File( new File("pid-caches"), getFindingAidBriefName() + "-" + uri.getHost() + "-" + uri.getPort() + "-pid-cache.txt");
-        pids = new ExternalPidResolver(pidCacheFile);
+        if (ds instanceof Fedora4DataStore) {
+            pids = new InMemoryPidResolver();
+        } else {
+            final File pidCacheFile
+                    = new File(new File("pid-caches"), getFindingAidBriefName() + "-" + uri.getHost() + "-" + uri.getPort() + "-pid-cache.txt");
+            pids = new ExternalPidResolver(pidCacheFile);
+        }
     }
 
     public List<String> getAllPids() {
@@ -60,6 +69,12 @@ public abstract class EADIngester {
 
     public DataStore getDataStore() {
         return dataStore;
+    }
+
+    public void outputComponentPids(PrintWriter p) throws Exception {
+        final XMLEADProcessor processor = new XMLEADProcessor();
+        processor.addVisitor(new PidReportingNodeVisitor(p, pids));
+        processor.processEADXML(getFindingAid());
     }
 
     private int countNodes() throws Exception {
@@ -77,14 +92,19 @@ public abstract class EADIngester {
     }
 
     public void ingest(boolean dryRun, PidFilter filter) throws Exception {
-        final FedoraSynchronizingNodeVisitor v = new FedoraSynchronizingNodeVisitor(dataStore, pids, dryRun);
+        final FedoraSynchronizingNodeVisitor v = new FedoraSynchronizingNodeVisitor(dataStore, pids, getVisibilityAssignment(), dryRun);
+        timer.setPidResolver(pids);
+        v.setTimer(this.timer);
         v.setFilter(filter);
         v.setHoldings(getHoldings());
         v.setImageMapper(getImageMapper());
+        v.setTextMapper(getTextMapper());
         p.addVisitor(v);
         p.processEADXML(getFindingAid());
         p.removeVisitor(v);
     }
+
+    protected abstract VisibilityAssignment getVisibilityAssignment();
 
     public void index(SolrIndexer indexer, boolean clearCache) throws Exception {
         index(indexer, clearCache, null);
@@ -108,6 +128,8 @@ public abstract class EADIngester {
 
     protected abstract ImageMapper getImageMapper() throws Exception;
 
+    protected abstract EncodedTextMapper getTextMapper() throws Exception;
+
     /**
      * Gets the solr update url from the solr.properties file on the
      * class loader classpath.
@@ -124,7 +146,7 @@ public abstract class EADIngester {
         }
         PidFilter filter = new PidFilter() {
             @Override
-            public boolean includePid(String pid) {
+            public boolean includePid(String pid, EADNode node) {
                 return brokenPids.contains(pid);
             }
         };

@@ -38,7 +38,7 @@ public class SolrIndexingNodeVisitor implements EADNodeVisitor {
         final String pid = pids.getPidForNode(component);
         if (pid == null) {
             System.err.println("No PID for node " + component.getReferenceId() + "!");
-        } else if (filter != null && !filter.includePid(pid)) {
+        } else if (filter != null && !filter.includePid(pid, component)) {
             // skip this one
             System.out.println("Skipping " + pid + ".");
         } else {
@@ -68,6 +68,6 @@ public class SolrIndexingNodeVisitor implements EADNodeVisitor {
         indexer.commit();
 
         // optimize
-        indexer.optimize();
+        //indexer.optimize();
     }
 }

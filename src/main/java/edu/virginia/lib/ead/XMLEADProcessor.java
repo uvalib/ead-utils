@@ -1,6 +1,12 @@
 package edu.virginia.lib.ead;
 
+import org.w3c.dom.Document;
+import org.xml.sax.SAXException;
+
 import javax.xml.namespace.QName;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.stream.XMLEventReader;
 import javax.xml.stream.XMLEventWriter;
 import javax.xml.stream.XMLInputFactory;
@@ -10,6 +16,12 @@ import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.events.Attribute;
 import javax.xml.stream.events.StartElement;
 import javax.xml.stream.events.XMLEvent;
+import javax.xml.xpath.XPath;
+import javax.xml.xpath.XPathConstants;
+import javax.xml.xpath.XPathExpression;
+import javax.xml.xpath.XPathExpressionException;
+import javax.xml.xpath.XPathFactory;
+import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -158,9 +170,13 @@ public class XMLEADProcessor {
 
         private ByteArrayOutputStream fragment;
 
+        private StringBuffer title;
+
         private String referenceId;
 
         private List<String> childrenIds;
+
+        private Document doc;
 
         public StartEADNode(StartElement start, String id) throws XMLStreamException {
             this.start = start;
@@ -215,6 +231,41 @@ public class XMLEADProcessor {
         @Override
         public List<String> getChildReferenceIds() {
             return this.childrenIds;
+        }
+
+        @Override
+        public String getTitle() {
+            try {
+                return evaluateXPath("//unittitle");
+            } catch (Throwable t) {
+                throw new RuntimeException(t);
+            }
+        }
+
+        @Override
+        public String getUnitId() {
+            try {
+                return evaluateXPath("//unitid[@audience='internal']");
+            } catch (Throwable t) {
+                throw new RuntimeException(t);
+            }
+        }
+
+        private Document getDocument() throws IOException, SAXException, ParserConfigurationException {
+            if (doc == null) {
+                DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+                DocumentBuilder builder = factory.newDocumentBuilder();
+                doc = builder.parse(new ByteArrayInputStream(this.getXMLFragment().getBytes()));
+            }
+            return doc;
+        }
+
+        private String evaluateXPath(String xpathStr) throws XPathExpressionException, ParserConfigurationException, SAXException, IOException {
+            XPathFactory xPathfactory = XPathFactory.newInstance();
+            XPath xpath = xPathfactory.newXPath();
+            XPathExpression expr = xpath.compile(xpathStr);
+            return (String) expr.evaluate(getDocument(), XPathConstants.STRING);
+
         }
 
     }

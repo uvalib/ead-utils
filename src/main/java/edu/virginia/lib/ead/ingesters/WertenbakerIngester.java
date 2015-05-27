@@ -3,11 +3,16 @@ package edu.virginia.lib.ead.ingesters;
 import edu.virginia.lib.ead.DataStore;
 import edu.virginia.lib.ead.DefaultCollectionLevelHoldingsInfo;
 import edu.virginia.lib.ead.EADIngester;
+import edu.virginia.lib.ead.EADNode;
+import edu.virginia.lib.ead.EncodedTextMapper;
 import edu.virginia.lib.ead.Fedora3DataStore;
+import edu.virginia.lib.ead.Fedora4DataStore;
 import edu.virginia.lib.ead.HoldingsInfo;
 import edu.virginia.lib.ead.ImageMapper;
+import edu.virginia.lib.ead.VisibilityAssignment;
 import edu.virginia.lib.indexing.SolrIndexer;
 
+import java.io.File;
 import java.io.InputStream;
 import java.util.Arrays;
 import java.util.List;
@@ -27,12 +32,36 @@ public class WertenbakerIngester extends EADIngester {
 
         replaceBrokenPids(c, Arrays.asList(new String[]{ }), false);
 
-        c.ingest(true);
+        //c.ingest(true);
         c.index(new SolrIndexer(datastore.getFedoraClient(), getDefaultSolrUpdateUrl()), false);
+    }
+
+    public static void ingestToF4() throws Exception {
+        DataStore datastore = new Fedora4DataStore("http://localhost:8080/rest", "wertenbaker2");
+        datastore.startTransaction();
+        try {
+            //final Fedora3DataStore datastore = new Fedora3DataStore();
+            WertenbakerIngester c = new WertenbakerIngester(datastore);
+
+            //replaceBrokenPids(c, Arrays.asList(new String[]{ }), false);
+
+            c.ingest(false);
+            //c.index(new SolrIndexer(datastore.getFedoraClient(), getDefaultSolrUpdateUrl()), false);
+            datastore.commitTransaction();
+        } catch (Throwable t) {
+            t.printStackTrace();
+            datastore.rollBackTransaction();
+        }
+
     }
 
     public WertenbakerIngester(DataStore ds) throws Exception {
         super(ds);
+    }
+
+    @Override
+    protected VisibilityAssignment getVisibilityAssignment() {
+        return VisibilityAssignment.COLLECTION_ONLY;
     }
 
     @Override
@@ -48,6 +77,11 @@ public class WertenbakerIngester extends EADIngester {
     @Override
     protected ImageMapper getImageMapper() throws Exception {
         // no image mapping... yet.
+        return null;
+    }
+
+    @Override
+    protected EncodedTextMapper getTextMapper() throws Exception {
         return null;
     }
 
